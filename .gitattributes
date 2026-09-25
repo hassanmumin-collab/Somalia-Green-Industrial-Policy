@@ -1,0 +1,3 @@
+# Stored sources must stay byte-for-byte identical (the verifier checks their SHA-256 hashes), so never convert line endings.
+sources/raw/** -text
+sources/text/** -text

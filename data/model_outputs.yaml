@@ -66,13 +66,6 @@
   period: '2032'
   measure: abatement cost of park solar (negative means a saving)
   statement: "Abatement cost of park solar against diesel generation ({scenario} scenario, modelled estimate); negative means a saving."
-- output_key: climate.irrigation.pumps
-  scenario: base
-  unit: pumps
-  rounding: 0
-  period: '2032'
-  measure: diesel irrigation pumps replaced by solar by 2032
-  statement: "Diesel irrigation pumps replaced by solar pumps by 2032 ({scenario} scenario, modelled estimate)."
 - output_key: climate.irrigation.fuel_saving.2032
   scenario: base
   unit: USD million a year
@@ -91,3 +84,45 @@
   rounding: 0
   measure: emissions avoided by solar irrigation
   statement: "Emissions avoided by solar irrigation in 2032 ({scenario} scenario, modelled estimate)."
+- output_key: climate.irrigation.hectares
+  scenario: base
+  unit: hectares
+  rounding: 0
+  period: '2032'
+  measure: irrigated land converted from diesel to solar pumping by 2032
+  statement: "Irrigated land converted from diesel to solar pumping by 2032 ({scenario} scenario, modelled estimate)."
+- output_key: climate.irrigation.litres_per_ha
+  scenario: base
+  unit: litres per hectare a year
+  rounding: 0
+  period: '2032'
+  measure: diesel used to pump irrigation water per hectare a year
+  statement: "Diesel used to pump irrigation water per hectare a year ({scenario} scenario, modelled estimate)."
+- output_key: climate.irrigation.fuel_cost_per_ha.before_shock
+  scenario: base
+  unit: USD per hectare a year
+  rounding: 0
+  period: '2026'
+  measure: diesel fuel cost of irrigation per hectare at the Mogadishu price before the February 2026 shock
+  statement: "Diesel fuel cost of irrigation per hectare a year at USD 0.60 a litre ({scenario} scenario, modelled estimate)."
+- output_key: climate.irrigation.fuel_cost_per_ha.after_shock
+  scenario: base
+  unit: USD per hectare a year
+  rounding: 0
+  period: '2026'
+  measure: diesel fuel cost of irrigation per hectare at the Mogadishu price after the February 2026 shock
+  statement: "Diesel fuel cost of irrigation per hectare a year at USD 1.50 a litre ({scenario} scenario, modelled estimate)."
+- output_key: climate.irrigation.solar_cost_per_ha_year
+  scenario: base
+  unit: USD per hectare a year
+  rounding: 0
+  period: '2032'
+  measure: annualised capital cost of solar pumping per hectare
+  statement: "Annualised capital cost of solar pumping per hectare a year ({scenario} scenario, modelled estimate)."
+- output_key: climate.irrigation.cost_per_t
+  scenario: base
+  unit: USD per t CO2
+  rounding: 0
+  period: '2032'
+  measure: abatement cost of solar irrigation against diesel pumping (fuel only)
+  statement: "Abatement cost of solar irrigation against diesel pumping, counting fuel only ({scenario} scenario, modelled estimate)."

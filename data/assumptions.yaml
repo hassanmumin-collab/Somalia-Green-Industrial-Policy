@@ -1891,6 +1891,8 @@
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: irrigation.pumps
+  status: retired
+  retired_note: 'Retired 2026-09-24: clean cooking is now modelled from the Cluster 3 stove and pellet lines (Hassan Mumin''s instruction of 2026-09-24). Kept for the record; not a model input.'
 - id: A-146
   parameter: Diesel use per irrigation pump a year
   value: 2500
@@ -1904,6 +1906,8 @@
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: irrigation.diesel_litres_per_pump
+  status: retired
+  retired_note: 'Retired 2026-09-24: clean cooking is now modelled from the Cluster 3 stove and pellet lines (Hassan Mumin''s instruction of 2026-09-24). Kept for the record; not a model input.'
 - id: A-147
   parameter: Solar pumping system cost per pump replaced
   value: 5000
@@ -1917,6 +1921,8 @@
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: irrigation.capex_per_pump
+  status: retired
+  retired_note: 'Retired 2026-09-24: clean cooking is now modelled from the Cluster 3 stove and pellet lines (Hassan Mumin''s instruction of 2026-09-24). Kept for the record; not a model input.'
 - id: A-148
   parameter: Solar pump system life
   value: 15
@@ -2848,11 +2854,11 @@
   value: 150
   unit: kWh per t carcass meat
   range:
-  - 100
-  - 250
-  basis_claim: null
-  comparator: None (judgment; no credible benchmark found)
-  rationale: Slaughter, chilling to 0 to 4 C and chilled storage. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  - 50
+  - 300
+  basis_claim: C-0545
+  comparator: IFC EHS Guidelines for Meat Processing (European Commission 2005 benchmark)
+  rationale: Cattle slaughtering uses 90 to 1,094 kWh of fuel and electricity per tonne of carcass (C-0545, C-0546). Chilling to 0 to 4 C and chilled storage dominate the electrical part; with heat from a boiler, about 150 kWh of electricity per tonne sits in the lower half of the total-energy range. To be replaced by the load study.
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: meat.kwh_per_unit
@@ -2871,14 +2877,14 @@
   model_input: tanning.kwh_per_unit
 - id: A-221
   parameter: 'Electricity use per unit of output: fish'
-  value: 300
+  value: 110
   unit: kWh per t
   range:
+  - 97
   - 200
-  - 500
-  basis_claim: null
-  comparator: None (judgment; no credible benchmark found)
-  rationale: Ice making, blast freezing and cold storage. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  basis_claim: D-0092
+  comparator: IFC EHS Guidelines for Fish Processing (2007)
+  rationale: Blast freezing uses about 350 MJ of energy per tonne of raw fish, an estimated 97.2 kWh (C-0564, D-0092), which the model treats as electricity because freezing plants run on electric compressors (engineering judgment); ice making and cold storage add to it. The range runs from freezing alone to a plant with long cold storage.
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: fish.kwh_per_unit
@@ -2897,14 +2903,14 @@
   model_input: sesame.kwh_per_unit
 - id: A-223
   parameter: 'Electricity use per unit of output: sesame oil'
-  value: 80
+  value: 60
   unit: kWh per t seed
   range:
-  - 50
-  - 120
-  basis_claim: null
-  comparator: None (judgment; no credible benchmark found)
-  rationale: Expellers, filtration and refining. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  - 40
+  - 100
+  basis_claim: C-0553
+  comparator: IFC EHS Guidelines for Vegetable Oil Processing (European Commission 2006)
+  rationale: Refining steps use up to 150 MJ (about 42 kWh) of electricity per tonne of oil for deodorisation (C-0553), plus neutralisation; expeller pressing adds the larger share. The range covers pressing only to pressing with full refining.
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: sesame_oil.kwh_per_unit
@@ -2923,40 +2929,40 @@
   model_input: fruit.kwh_per_unit
 - id: A-225
   parameter: 'Electricity use per unit of output: flour'
-  value: 70
+  value: 90
   unit: kWh per t flour
   range:
   - 50
-  - 100
-  basis_claim: null
-  comparator: None (judgment; no credible benchmark found)
-  rationale: Milling, conveying and silo aeration. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  - 130
+  basis_claim: D-0084
+  comparator: EU BAT conclusions for grain milling (JRC 2019)
+  rationale: The EU indicative level for grain milling is 0.05 to 0.13 MWh per tonne of products (C-0551, C-0552), nearly all of it electricity for mills, conveyors and aspiration. The base is the middle of the range, allowing for silo aeration.
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: flour.kwh_per_unit
 - id: A-226
   parameter: 'Electricity use per unit of output: dairy'
-  value: 0.1
+  value: 0.03
   unit: kWh per litre
   range:
-  - 0.05
-  - 0.2
-  basis_claim: null
-  comparator: None (judgment; no credible benchmark found)
-  rationale: Chilling, pasteurisation and packing. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  - 0.02
+  - 0.06
+  basis_claim: D-0082
+  comparator: IFC EHS Guidelines for Dairy Processing; EU dairy energy structure (JRC 2019)
+  rationale: The IFC industry benchmark for market milk is 0.1 to 0.2 kWh of energy per litre (C-0548, C-0549), and about 20 percent of dairy energy is electricity (C-0550), so 0.02 to 0.04 kWh of electricity per litre (D-0082, D-0083), likely a lower bound because the share includes powder plants. The base of 0.03 and the high end allow for that, for UHT and more refrigeration in a hot climate.
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: dairy.kwh_per_unit
 - id: A-227
   parameter: 'Electricity use per unit of output: soap'
-  value: 150
+  value: 40
   unit: kWh per t
   range:
-  - 100
-  - 250
-  basis_claim: null
-  comparator: None (judgment; no credible benchmark found)
-  rationale: Mixing, milling, plodding and stamping. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  - 20
+  - 80
+  basis_claim: C-0554
+  comparator: ZAK soap site, Ethiopia (MIGA)
+  rationale: The ZAK soap site uses about 1,000 kWh of electricity a day with heat from an oil-fired boiler (C-0554). Against its capacity of 16,000 to 64,000 tonnes a year (C-0242), that is roughly 20 to 60 kWh per tonne depending on output; the base takes 40.
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: soap.kwh_per_unit
@@ -3038,3 +3044,94 @@
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: bpo.kwh_per_unit
+- id: A-234
+  parameter: Irrigated land converted from diesel to solar pumping by 2032
+  value: 20000
+  unit: hectares
+  range:
+  - 10000
+  - 40000
+  basis_claim: C-0562
+  comparator: Afgoi district irrigated area (land-cover estimate cited in a 2026 preprint)
+  rationale: A 2026 preprint reports about 113,652 hectares of irrigated agriculture in the Afgoi district, from a 2012 remote-sensing estimate that may include irrigable land (C-0562); the Shabelle and Juba valleys irrigated 222,950 hectares before the war (C-0206). Converting 20,000 hectares, under a fifth of Afgoi's irrigated area, is a first-phase target (judgment); the programme is sized in hectares because no count of pumps exists.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: irrigation.hectares
+- id: A-235
+  parameter: Irrigation water pumped per hectare per season
+  value: 4151
+  unit: m3 per hectare
+  range:
+  - 1871
+  - 6168
+  basis_claim: D-0091
+  comparator: Afgoi district, flow-meter measurements (2026 preprint)
+  rationale: Ten sampled sesame plots received on average 415.1 mm in the 2021 season (C-0563), 4,151 m3 per hectare (D-0091). The range runs from sorghum (187.1 mm) to tomato (616.8 mm) in the same study. Solar pumping should come with scheduling advice, since farmers over-irrigate most crops.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: irrigation.water_m3_per_ha_season
+- id: A-236
+  parameter: Irrigated seasons a year (Gu and Deyr)
+  value: 2
+  unit: seasons
+  range:
+  - 1
+  - 2
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Two cropping seasons a year along the rivers; some land is irrigated only once.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: irrigation.seasons_per_year
+- id: A-237
+  parameter: 'Total pumping head: lift from the river to the field plus pipe losses'
+  value: 8
+  unit: metres
+  range:
+  - 5
+  - 12
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: River-bank pumps lift water over the embankment into field channels; 8 m includes friction in pipes (judgment; to be measured in the pump survey).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: irrigation.head_m
+- id: A-238
+  parameter: Fuel-to-water efficiency of a small diesel pump set
+  value: 0.15
+  unit: fraction
+  range:
+  - 0.1
+  - 0.2
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Small diesel engines convert about a third of fuel energy to shaft work and centrifugal pumps about half of that to water, so 10 to 20 percent overall is typical of smallholder pump sets (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: irrigation.pumpset_efficiency
+- id: A-239
+  parameter: Energy content of diesel
+  value: 9.93
+  unit: kWh per litre (net CV)
+  range:
+  - 9.93
+  - 9.93
+  basis_claim: D-0086
+  comparator: UK government conversion factors 2026
+  rationale: 2.66155 kg CO2e per litre divided by 0.26806 kg CO2e per kWh (D-0086).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fuel.diesel_kwh_per_litre
+- id: A-240
+  parameter: Solar pumping system cost per hectare served
+  value: 1450
+  unit: USD per hectare
+  range:
+  - 1100
+  - 1800
+  basis_claim: D-0087
+  comparator: Philippines, NIA solar pump projects (2021)
+  rationale: Two Philippine solar pump projects cost USD 1,100 and USD 1,788 per hectare served (D-0087, D-0088), including canal works; the base is their midpoint. Somali farm-level systems may cost less per hectare, but no Somali per-hectare figure exists.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: irrigation.solar_capex_per_ha

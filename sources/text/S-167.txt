@@ -1,0 +1,1390 @@
+=== PAGE 1 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+1                   
+WORLD BANK GROUP
+Environmental, Health and Safety Guidelines for 
+Meat Processing 
+Introduction 
+The Environmental, Health, and Safety (EHS) Guidelines are 
+technical reference documents with general and industry-
+specific examples of Good International Industry Practice 
+(GIIP)1. When one or more members of the World Bank Group 
+are involved in a project, these EHS Guidelines are applied as 
+required by their respective policies and standards. These 
+industry sector EHS guidelines are designed to be used 
+together with the General EHS Guidelines document, which 
+provides guidance to users on common EHS issues potentially 
+applicable to all industry sectors. For complex projects, use of 
+multiple industry-sector guidelines may be necessary. A 
+complete list of industry-sector guidelines can be found at: 
+www.ifc.org/ifcext/enviro.nsf/Content/EnvironmentalGuidelines 
+The EHS Guidelines contain the performance levels and 
+measures that are generally considered to be achievable in new 
+facilities by existing technology at reasonable costs. Application 
+of the EHS Guidelines to existing facilities may involve the 
+establishment of site-specific targets, with an appropriate 
+timetable for achieving them. The applicability of the EHS 
+Guidelines should be tailored to the hazards and risks 
+established for each project on the basis of the results of an 
+environmental assessment in which site-specific variables, such 
+as host country context, assimilative capacity of the 
+environment, and other project factors, are taken into account. 
+                                                   
+1 Defined as the exercise of professional skill, diligence, prudence and foresight 
+that would be reasonably expected from skilled and experienced professionals 
+engaged in the same type of undertaking under the same or similar 
+circumstances globally.  The circumstances that skilled and experienced 
+professionals may find when evaluating the range of pollution prevention and 
+control techniques available to a project may include, but are not limited to, 
+varying levels of environmental degradation and environmental assimilative 
+capacity as well as varying levels of financial and technical feasibility. 
+The applicability of specific technical recommendations should 
+be based on the professional opinion of qualified and 
+experienced persons. When host country regulations differ from 
+the levels and measures presented in the EHS Guidelines, 
+projects are expected to achieve whichever is more stringent. If 
+less stringent levels or measures than those provided in these 
+EHS Guidelines are appropriate, in view of specific project 
+circumstances, a full and detailed justification for any proposed 
+alternatives is needed as part of the site-specific environmental 
+assessment. This justification should demonstrate that the 
+choice for any alternate performance levels is protective of 
+human health and the environment.  
+ Applicability 
+The EHS Guidelines for Meat Processing include information 
+relevant to meat processing, focusing on bovine and porcine 
+slaughtering and processing from reception of the animals until 
+the carcasses are ready for sale or further processing. This 
+document pertains to facilities that provide simple processing of 
+the by-products of meat slaughtering.2 For guidance on animal 
+welfare, see the IFC Good Practice Note “Animal Welfare in 
+Livestock Operations.”3 This document is organized according to 
+the following sections: 
+Section 1.0 — Industry-Specific Impacts and Management 
+Section 2.0 — Performance Indicators and Monitoring  
+Section 3.0 — References 
+Annex     A — General Description of Industry Activities  
+                                                   
+2 Livestock rearing is covered in the EHS Guidelines for Mammalian Livestock 
+Production. Poultry is addressed in the EHS Guidelines for Poultry Production 
+and Poultry Processing. 
+3 Available at: http://www.ifc.org/ifcext/enviro.nsf/Content/Publications_GoodPractice. 
+An additional source for animal welfare guidance is the Farm Animal Welfare Council 
+available at www.fawc.org.uk
+=== PAGE 2 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+2                   
+WORLD BANK GROUP
+1.0 
+Industry-Specific Impacts 
+and Management 
+The following section provides a summary of EHS issues 
+associated with meat processing operations, along with 
+recommendations for their prevention and abatement. 
+Recommendations for the management of EHS issues common 
+to most large industrial facilities during the construction and 
+decommissioning phases are provided in the General EHS 
+Guidelines.  
+1.1 Environment  
+Environmental issues specific to meat processing may include 
+the following: 
+• 
+Solid waste and by-products 
+• 
+Wastewater 
+• 
+Emissions to air  
+• 
+Resource consumption 
+ 
+Solid Waste and by-products 
+The meat-processing industry slaughters animals to produce 
+primary carcass products, processed cuts, and a variety of by-
+products. The rendering industry processes the parts not used 
+for human consumption for technical use and for use as animal 
+feed. This activity may generate large quantities of solid waste 
+including the manure and bedding material generated during 
+animal transport and lairage activities, as well as waste from 
+processing steps. Waste products and by-products of 
+slaughtering processes can generally be divided into the 
+following categories: (1) manure, contents of the rumen and 
+intestines; (2) edible products such as blood and liver; (3) 
+inedible products such as hair, bones, feathers; (4) fat 
+(recovered from the wastewater by means of fat-separators); 
+and (5) non-recoverable waste materials that require final 
+disposal. The quantity of by-products from cattle often exceeds 
+50 percent of the animal’s live weight, and 10 to 20 percent for 
+pigs.4   
+Special Risk Materials (SRM) 
+Special risk materials (SRM)5 are tissues in cattle that contain 
+the agent that may transmit bovine spongiform encephalopathy 
+(BSE), transmissible spongiform encephalopathy (TSE), or 
+scrapie disease if reprocessed into animal feed. The human 
+disease, Creutzfeldt-Jakob Disease (vCJD), may result from 
+human consumption of products from animals infected with 
+BSE. Although not typically used for food, processing activities 
+may accidentally result in the mixing of SRM tissue with meat 
+products produced for human consumption. Therefore, SRM 
+should be carefully separated from carcasses before their 
+processing into commercially valuable by-products, whether for 
+human or animal consumption. 
+Separated SRM should be destroyed through incineration with a 
+minimum gas temperature of 850 °C. Prior to incineration, the 
+material should be reduced to an appropriate particle size and 
+heat-treated according to defined combinations of time, 
+temperature and pressure.6 Incineration should be conducted in 
+specialized facilities whether on or off site, in accordance with 
+government regulations and relevant permits. Additional 
+information on waste incineration is presented in the EHS 
+Guidelines for Waste Management Facilities.   
+                                                   
+4 Livestock, Environment and Development Initiative (1996) 
+5 SRM is defined as the skull, brain, nerves attached to the brain, eyes, tonsils, 
+spinal cord and nerves attached to the spinal cord of cattle aged 30 months or 
+older, and the distal ileum (portion of the small intestine) of cattle of all ages.  
+(Health Canada, 2004). SRM according to Regulation No.1774/2002 of the 
+European Parliament:  i) Cattle more than 12 months of age: the skull including 
+the brain and eyes; the tonsils; the spinal cord; and the vertebral column except 
+the vertebrae of the tail and the transverse processes of the lumbar vertebrae, 
+but including dorsal root ganglia. Ii)  Cattle of all ages: the intestines from the 
+duodenum to the rectum. 
+6 Additional details on pretreatment specifications are provided in Regulation 
+No. 1774/2002 of the European Parliament.  European Community (2002).
+=== PAGE 3 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+3                   
+WORLD BANK GROUP
+Sick and Diseased Animals 
+Animals that die during transport, and sick or dead animals from 
+quarantine pens, should be separated and transported to 
+external facilities in separate containers for treatment and final 
+disposal.7 Depending on the risk classification of the animal, 
+including whether disease such as BSE is suspected, typical 
+disposal procedures for sick or dead animals include the 
+following: 
+• 
+Collecting animals not approved by veterinary inspection 
+and segregating them from animal materials sent by the 
+slaughterhouse for off-site rendering.8 This segregation is 
+necessary because the treatment processes in off-site 
+rendering plants can entail higher pressure, temperature, 
+and duration, in accordance with the risk classifications of 
+the waste materials9; 
+• 
+Storing carcasses until collection to prevent putrefaction, 
+odors, and attraction of vectors, using cooling if necessary. 
+Storage times should be minimized to avoid energy 
+intensive cooling requirements; 
+• 
+Transformation in a bio-gas or composting plant after 
+pressure sterilization; 
+• 
+Using a reliable collection company approved by local 
+authorities that disposes of carcasses by rendering, with 
+adequate time, temperature and pressure criteria for 
+sanitization, or incineration / co-incineration depending on 
+the cause of fatality;  
+• 
+Where no authorized collection of carcasses is available, 
+and after approval of the local veterinary authorities, 
+incinerating or burying carcasses on site if allowed. 
+Whether on site or off site, the burial area should be 
+accessible to earth-moving machinery and have stable, 
+low-permeability soils with sufficient physical separation 
+                                                   
+7 European Community (2002). 
+8 European Commission (2005). 
+9 See footnote 3. 
+from houses and water resources to avoid contamination 
+by vapors or leachate from buried, decaying materials.   
+Reprocessable Solid Animal Waste 
+Reprocessing of solid animal waste into commercial by-products 
+should consider the following: 
+• 
+Specific control measures should be taken to segregate 
+and manage high-risk tissues according to the 
+recommended SRM management practices discussed 
+above; 
+• 
+Avoid processing of waste materials for same species 
+feeding;  
+• 
+Use bones, trim, scraps, hooves, horns and other detritus 
+(not otherwise used beneficially for the production of stable 
+meals, for example, bone meal) in-house or sell to third 
+parties; 
+• 
+Clean stomach for use as food, feed, or pet food; 
+• 
+Clean intestines for use as food or sausage casings;  
+• 
+Recover fat from cut-offs, intestines, and hides for use as 
+animal feed, if collected in relatively pure form. Tallow can 
+alternatively be used as a bio-fuel or for soap among other 
+uses; 
+• 
+Remove mucosa from small pig casings (the mucous 
+membrane of the small intestine) rather than disposing in 
+the wastewater stream. Environmental breakdown of 
+mucosa has a high biochemical oxygen demand (BOD5) 
+and has applications in the pharmaceutical industry for 
+manufacturing heparin.  Alternatively, mucosa may be 
+digested anaerobically to produce bio-gas;10 
+• 
+Enhance the quality and value of bovine hides for sale to 
+tanneries. Methods include prevention of livestock bruising 
+during transport and handling, maintenance of lairage 
+areas to keep animals clean, use of rounded knives when 
+                                                   
+10 European Commission (2005).
+=== PAGE 4 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+4                   
+WORLD BANK GROUP
+hides are manually removed, and washing / preservation of 
+hides and / or use of refrigeration or proper drying or 
+salting to reduce bacterial degradation during transport to 
+the tannery; 
+• 
+Curtail animal feeding 12 hours before slaughtering to 
+reduce manure production and reduce the risk of 
+contamination of the carcasses with manure and digestive 
+tract content during slaughter;  
+• 
+Provide sufficient manure storage capacity until the manure 
+is transported for agricultural and other uses11; 
+• 
+Collect and compost stomach and intestinal contents and 
+manure (preferably removed in “dry” form without mixing 
+into the effluent, and provided it does not come from 
+diseased animals) for use as compost or other agricultural 
+application. In the case of bovine slaughter, the cattle’s first 
+stomach has a considerable organic material content 
+(approximately 10, 40, and 50 kg for veal calves less than 
+one-year-old, bulls, and cows, respectively).12  
+Sludge from Wastewater Treatment 
+The following measures should be considered to further reduce 
+the volume of waste generated from wastewater treatment 
+processes:  
+• 
+Segregate wastewater containing manure and digestive 
+tract content (e.g. from reception of live animals, lairage, 
+cleaning of trucks and specific areas in the casing 
+department). Screened materials from these areas can be 
+used as fertilizers on agricultural land; 
+• 
+Reuse materials that may be separated from pretreatment 
+processes (e.g. screened materials, suspended solids, and 
+emulsified fats from flotation) in the manufacture of high-
+                                                   
+11 Further information regarding manure storage is available from the Livestock 
+and Poultry Environmental Stewardship Curriculum, at 
+http://www.lpes.org/Lessons/Lesson21/21_2_sizing_storage.pdf 
+12 Sorlini in European Commission (2005). 
+quality by-products (e.g. pet food or technical fat for 
+oleochemicals manufacturing);  
+• 
+Increase the quality of the sludge for possible use as 
+agricultural fertilizer by reducing or eliminating pathogens 
+such as E. coli 0157, campylobacter, and salmonella 
+through controlled aerobic treatment (compost) or 
+anaerobic digestion (bio-gas);  
+• 
+Treat materials with high organic content (e.g. blood, fat, 
+and manure) anaerobically for the purpose of generating 
+and using bio-gas as an energy source; 
+• 
+If no other alternatives are feasible, dispose of fat at 
+landfills.  
+Wastewater 
+Industrial Process Wastewater 
+Meat processing wastewater typically has a high content of 
+organic material and consequently a high biochemical oxygen 
+demand (BOD) and chemical oxygen demand (COD) due to the 
+presence of blood, tallow, and mucosa. Wastewater may have a 
+high content of nitrogen (from blood) and phosphorus, in 
+addition to pathogenic and non-pathogenic viruses and bacteria, 
+and parasite eggs. Detergents and disinfectants, including acid, 
+alkaline, and neutral compounds, disinfectants, and liquid 
+paraffin, may enter the wastewater stream after application 
+during facility-cleaning activities.  
+Recommended management techniques for pollution prevention 
+of wastewater include: 
+• 
+Prioritize the removal of solid waste before it enters the 
+wastewater stream:  
+o 
+Use floor drains and collection channels with grids, 
+screens, and / or traps to reduce the amount of solids 
+entering the wastewater stream
+=== PAGE 5 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+5                   
+WORLD BANK GROUP
+o 
+Collect blood for use in food, feed or in the 
+pharmaceutical industry.13  
+o 
+Manure from the stockyard and from vehicle cleaning 
+should be removed while in solid form; 
+o 
+Stomach and intestine contents should be removed 
+and transported in a dry state by pumps, screw 
+conveyers or trolleys to outdoor storage and collection 
+points for further recycling. Offal should be transported 
+by vacuum or compressed air systems; 
+o 
+Prevent direct runoff to water courses, especially from 
+lairage and manure storage areas; 
+• 
+Apply appropriate tank and equipment cleaning 
+procedures. Clean in Place (CIP) cleaning procedures are 
+useful to reduce chemical, water and energy consumption 
+in cleaning operations; 
+• 
+Choose cleaning agents that do not have adverse impacts 
+on the environment in general, on wastewater treatment 
+unit processes, or on sludge quality for agricultural 
+application. Prevent the use of agents that contain active 
+chlorine or prohibited, banned or restricted chemicals. 
+Optimize agent use through correct dosage and application 
+(e.g. CIP); 
+• 
+Implement integrated pest and vector management 
+programs and maximize vector control through mechanical 
+means (e.g. traps, and use of mesh on doors and windows) 
+to avoid or minimize the introduction of chemicals 
+potentially harmful to the wastewater treatment process or 
+the sludge quality.  
+                                                   
+13 Blood collection is the single most efficient clean technology measure for 
+wastewater, because liquid blood has a high nitrogen content (30 g/l), COD (400 
+g/l), and BOD (200 g/l). Blood from slaughtered animals may be collected over a 
+trough. The trough should prevent water from entering the blood tank during 
+cleaning. Sufficient time should be allowed for dripping and drip collection. If the 
+blood is to be used in products for human consumption, a hollow knife with 
+suction can be applied to obtain high-quality blood. This method, however, gives 
+a lower recovery yield and increases the blood volume entering the wastewater 
+stream. 
+Process Wastewater Treatment 
+Techniques for treating industrial process wastewater in this 
+sector include grease traps, skimmers or oil water separators for 
+separation of floatable solids; sedimentation for suspended 
+solids reduction using clarifiers; biological treatment, typically 
+anaerobic followed by aerobic treatment, for reduction of soluble 
+organic matter (BOD); biological nutrient removal for reduction 
+in nitrogen and phosphorus; chlorination of effluent when 
+disinfection is required; dewatering and disposal of residuals; in 
+some instances composting or land application of wastewater 
+treatment residuals of acceptable quality may be possible. 
+Additional engineering controls may be required to (i) remove 
+parasitic eggs or spores from influent that may pass through 
+treatment system untreated, and (ii) contain and neutralize 
+nuisance odors. Management of industrial wastewater and 
+examples of treatment approaches are discussed in the 
+General EHS Guidelines. Through use of these technologies 
+and good practice techniques for wastewater management, 
+facilities should meet the Guideline Values for wastewater 
+discharge as indicated in the relevant table of Section 2 of this 
+industry sector document.  
+Other Wastewater Streams & Water Consumption 
+Guidance on the management of non-contaminated wastewater 
+from utility operations, non-contaminated stormwater, and 
+sanitary sewage is provided in the General EHS Guidelines. 
+Contaminated streams should be routed to the treatment system 
+for industrial process wastewater. Elevated consumption of 
+high-quality water, which is an important element of food safety, 
+is often characteristic of the meat processing industry. Water is 
+used for watering and washing livestock, cleaning vehicles, de-
+hairing and rind treatment of pigs, rinsing carcasses and by-
+products, and cleaning and disinfecting equipment and process 
+areas. Recommendations to reduce water consumption,
+=== PAGE 6 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+6                   
+WORLD BANK GROUP
+especially where it may be a limited natural resource, are 
+provided in the General EHS Guidelines.  
+Emissions to Air 
+Odor may often be the most significant form of air pollution in 
+meat processing. Major process odor sources include singeing, 
+scalding, lairage, wastewater treatment and rendering. The 
+latter is an evaporative process that produces condensate with a 
+foul odor. Particulate emissions are typically not significant, 
+although they may be emitted during singeing and meat-
+smoking processes. Livestock handling areas also may be a 
+source of organic dust depending on the management of fugitive 
+dust.  
+Odor Prevention 
+• 
+Consider the location of new facilities, taking into account 
+proper distances to neighbors and the propagation of 
+odors; 
+• 
+Pasteurize organic material before processing it to halt 
+biological processes that generate odor; 
+• 
+Install rendering equipment in closed spaces and operate 
+under negative pressure compared to ambient air 
+conditions; 
+• 
+Minimize the inventory of raw carcasses, waste and by-
+products and store it for short periods of time in a cold, 
+closed, well-ventilated place;  
+• 
+Seal off animal by-products (e.g. in covered leak-proof 
+containers or vehicles) during transport, loading  unloading, 
+and storage activities. Transport blood in insulated 
+containers to reduce temperature increase; 
+• 
+Clean pens and livestock yards on a timely basis; 
+• 
+Empty and clean fat traps frequently;  
+• 
+Add oxidants such as nitrates to stored waste and effluent, 
+(e.g. in  settling ponds). The nitrates are added in powder 
+or granulate form and the resulting chemical reaction 
+reduces odor levels; 
+• 
+Unload containers containing animal by-products within an 
+enclosed building that is equipped with extraction 
+ventilation connected to odor abatement devices. 
+Odor Control  
+Odor abatement may include one or more of the following 
+techniques depending on the location of the facility and 
+proximity of other industrial, commercial or residential areas: 
+• 
+Post-combustion of flue gases from the singeing and meat-
+smoking processes; 
+• 
+Use of exhaust stack heights from rendering and smoking 
+processes that are consistent with practices as described 
+in the General EHS Guidelines; 
+• 
+Use of wet scrubbers to remove odors with a high affinity to 
+water, such as ammonia emitted during the rendering 
+process; 
+• 
+Condensation of vapors from rendering process combined 
+with scrubbers 
+• 
+Convey non-condensable gases to the boiler, and pass the 
+low intensity / high volume odors through a biofilter; 
+• 
+Burn whole vapor gases in a thermal oxidizer and pass the 
+low  intensity / high volume odours trough a biofilter 
+ 
+Dust / Particulates 
+Dust and particulates are mainly associated with livestock 
+handling and singeing activities. The recommended prevention 
+and control techniques include the following: 
+• 
+Clean and maintain a sufficient level of humidity in pens 
+and livestock yards;  
+• 
+Reduce fugitive dust by minimizing surface areas with 
+exposed soil surfaces, and by planting hedges or erecting 
+fences to minimize wind turbulence;
+=== PAGE 7 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+7                   
+WORLD BANK GROUP
+• 
+Use liquefied petroleum gas or natural gas instead of fuel 
+oil in the singeing process. 
+Energy Consumption 
+Meat processing facilities use energy to heat water and produce 
+steam for process applications and for cleaning purposes, as 
+well as for operation of miscellaneous electrical equipment, 
+refrigeration, and air compressors. In addition to the energy 
+efficiency recommendations presented in the General EHS 
+Guidelines, recommended improvements in the meat 
+processing sector may include: 
+• 
+Generating bio-gas in anaerobic wastewater digestion and 
+utilizing this fuel for boilers or for electric power generation; 
+• 
+Covering and insulating scalding tanks, controlling water 
+levels, re-circulating water, using steam instead of scalding 
+for pig processing, and using insulated sterilizers to 
+sterilize knives; 
+• 
+Improving cooling efficiency by insulating refrigeration room 
+/ areas and doors, installing an automatic door-closing 
+mechanism (e.g. micro switches), applying airlocks, and 
+setting alarms to go off when chill room doors and external 
+loading doors are left open; 
+• 
+Recovering evaporative energy in the rendering process 
+through the use of multi-effect evaporators14; 
+• 
+Using automated systems that ensure that the singeing 
+flame is on only when an animal carcass is present. 
+ 
+1.2 
+Occupational Health and Safety  
+Occupational health and safety hazards for meat processing are 
+similar to those of other industrial facilities. Recommendations 
+for the management of these issues can be found in the 
+General EHS Guidelines. In addition, occupational health and 
+                                                   
+14 UNEP (2000). 
+safety issues that may be specifically associated with meat 
+processing operations include the following: 
+• 
+Physical hazards 
+• 
+Biological hazards 
+• 
+Chemical hazards 
+• 
+Exposure to heat, cold and radiation 
+• 
+Exposure to sources of noise 
+Physical Hazards15 
+Physical hazards include exposure to same-level fall hazards 
+due to slippery conditions, the use of machines and tools, 
+principally for cutting purposes, and the potential for strains from 
+the handling of live animals and carcasses.16  Guidance on 
+general workplace conditions, including design and 
+maintenance of working and walking surfaces to prevent slips 
+and falls, are presented in the General EHS Guidelines.  
+Additional industry-specific recommendations are presented 
+below.  
+Machine / Tool Safety 
+Equipment safety issues are mainly associated with the use of 
+knives, mechanical saws, packaging equipment, and mincers.  
+Cuts may be caused by sharp bones and edges on process 
+equipment (e.g. stainless steel basins). Recommendations for 
+accident prevention from equipment use include: 
+• 
+Providing workers with training in the proper use of cutting 
+equipment (including the proper use of machine safety 
+devices) and personal protective equipment (PPE) such as 
+metallic gloves and leather aprons for cutting activities; 
+                                                   
+15 Further detailed information regarding physical hazards of meat processing, 
+and recommended prevention and control guidance, is available from SafeWork 
+SA, Government of South Australia, at: 
+http://www.safework.sa.gov.au/contentPages/Industry/MeatProcessing/default.ht
+m 
+16 These injuries account for 80 percent of reported occupational illnesses in 
+Danish pig and cattle slaughterhouses measured over a five-year period from 
+1999–2004. Arbejdstilsynet (2005).
+=== PAGE 8 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+8                   
+WORLD BANK GROUP
+• 
+Ensuring that ritual slaughter is carried out by individuals 
+who have received the correct training and have 
+subsequently been approved to slaughter animals; 
+• 
+Designing a proper slaughterhouse floor that is slip-proof 
+when wet. 
+Lifting, Carrying, Repetitive Work, and Work Postures 
+Meat processing activities may include a variety of situations in 
+which workers can be exposed to lifting, carrying, and repetitive 
+work and work posture injuries. Such situations include manual 
+handling of live animals in the stables, removal and handling of 
+manure and other solid wastes, handling of carcasses including 
+pushing, pulling, hanging up, and taking down from the sliding 
+rails, and manually lifting boxes with meat or bones. Additional 
+situations of repetitive work may include the boning process, 
+operation of machinery like slicing machines or vacuum packing 
+machines, packing work, and cleaning of intestines. 
+Recommendations for the management of these hazards 
+include: 
+• 
+Training workers in proper live animal handling methods 
+including the use of structures and equipment for handling 
+and restraining animals;  
+• 
+Designing appropriate pen / lairage / livestock yards such 
+that the animals can be calmly moved into the facility, and 
+which allows for escape routes for the workers;  
+• 
+Conducting stunning of cattle in a controlled setting (e.g.  
+stun-box).  
+Biological Hazards 
+Exposure to biological and microbiological agents (e.g. 
+Brucellosis17) may be associated with inhalation and ingestion of 
+                                                   
+17 Brucellosis is an infectious disease caused by bacteria. Brucella bacteria may 
+be passed by animals. Humans may become infected by eating or drinking 
+something that is contaminated with Brucella, breathing in the organism 
+(inhalation), or having the bacteria enter the body through skin wounds. 
+Contamination of skin wounds and inhalation may pathways for contamination 
+for persons working in slaughterhouses and / or meat packing plants. 
+dust and aerosols during manure handling in the lairage, pens 
+and livestock yards, as well as through incidental ingestion and 
+dermal contact during carcass handling, intestine cleaning, 
+handling of stomach contents, and waste and wastewater 
+management operations. Exposure to dust from the spices used 
+in meat processing may also act as an irritant or as an allergen.  
+Recommended techniques to manage exposure to dust in 
+general, as well as biological and microbiological agents, are 
+addressed in the General EHS Guidelines. Recommendations 
+specific to meat processing and rendering include: 
+• 
+Avoiding dust and aerosol generating activities (e.g. use of 
+compressed air or high pressure water for cleaning) and 
+where they cannot be avoided providing proper ventilation 
+of enclosed or semi-enclosed areas to reduce or eliminate 
+exposure to dust and aerosols;  
+• 
+Providing workers with PPE that is appropriate for the 
+activity (e.g. protective clothing, gloves and masks) for 
+workers in intestine and stomach cleaning operations; 
+• 
+Ensuring physical segregation of work and welfare facilities 
+to maintain worker personal hygiene; 
+• 
+Designing holding areas for detained animals and high-risk 
+materials to avoid direct contact with workers and ensuring 
+that all waste materials, including those from rejected 
+animals, are removed daily. 
+Chemicals 
+Exposure to chemicals (including gases and vapors) may occur 
+during handling of chemicals related to cleaning and disinfecting 
+process areas and lairage / livestock yards. In addition to the 
+recommendations for the management of chemical hazards 
+presented in the General EHS Guidelines, the following 
+recommendations should be considered in the context of meat 
+processing:
+=== PAGE 9 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+9                   
+WORLD BANK GROUP
+• 
+Take precautions (as described in the General EHS 
+Guidelines) when handling and storing detergents and 
+disinfectants. Chemicals should not be stored or 
+transported with food or beverages, and should be secured 
+in a locked and clearly identified area;  
+• 
+Prevent seasonal and other temporary workers from 
+working with chemicals until they have been fully trained; 
+• 
+Provide respiratory protection and impermeable clothing for 
+use during disinfection of pens and lairage areas.  
+Heat, Cold, and Radiation 
+Workers may be exposed to fluctuating internal climatic 
+conditions, including heat and radiation from scalding, singers, 
+brushing, black scrapers, and flame off, and cold from 
+refrigerated rooms. Recommendations for the management of 
+these hazards can be found in the General EHS Guidelines. 
+Noise and Vibrations  
+Occupational noise and vibration exposure sources include 
+electrical stunning of pigs, electric saws, steam, condensers, 
+ventilation, banging of equipment, and pressurized air 
+equipment. Recommendations for the management of noise and 
+vibration hazards can be found in the General EHS Guidelines.  
+1.3 
+Community Health and Safety  
+Community health and safety impacts during the construction 
+and decommissioning of slaughterhouses are common to those 
+during the construction of other industrial facilities, and are 
+discussed in the General EHS Guidelines.  
+Community health and safety impacts during the operation 
+phase common to most industry sectors, including those related 
+to traffic safety from transport of raw materials and finished 
+product, are discussed in the General EHS Guidelines. 
+Industry-specific issues with the potential to impact the 
+community or the public at large may include those associated 
+with the potential presence of pathogens or microbes (e.g. 
+Brucellosis) in processed meat.   
+Food Safety Impacts and Management 
+A food product recall brought about because of contaminated or 
+adulterated food products found in commerce that are 
+attributable to a specific company can damage a viable 
+business. If a company can trace its products to specific lot 
+numbers then recall is a matter of removing all foods associated 
+with specific lot numbers. Without this ability the business may 
+be destroyed. With a robust food safety program in place a 
+company can protect itself from product adulteration, 
+contamination and the impacts of food recalls.   
+Meat processing should therefore be performed according to 
+internationally recognized food safety standards consistent with 
+the principles and practice of Hazard Analysis Critical Control 
+Points (HACCP)18 and Codex Alimentarius.19 Recommended 
+food safety principles include: 
+• 
+Respect “clean” and “dirty” zoning, designed in accordance 
+with HACCP prerequisites (e.g. sanitary standard operating 
+procedures) as discussed below; 
+• 
+Ensure the cooling chain is unbroken for sensitive products 
+requiring refrigeration; 
+• 
+Facilitate tracing of like animal parts, so that all materials 
+from carcasses detained by veterinary inspection can be 
+removed; 
+• 
+Ensure animal traceability systems continue to track 
+products once released into commerce; 
+• 
+Ensure efficient veterinary inspection, including 
+examination of medical certificates (e.g. verification 
+markings, tagging) for the animals;  
+                                                   
+18 International Standards Organization (2005). 
+19 Food and Agriculture Organization and World Health Organization (1962–
+2005).
+=== PAGE 10 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+10                    
+WORLD BANK GROUP
+• 
+Comply with veterinary and local environmental regulation 
+and precautions for waste, sludge, manure, and by-
+products; 
+• 
+Full institutionalization of HACCP prerequisites including: 
+o 
+Sanitation 
+o 
+Good management practices  
+o 
+Pest control 
+o 
+Chemical control 
+o 
+Allergen control 
+o 
+Customer complaints mechanism 
+o 
+Traceability and recall. 
+ 
+2.0 
+Performance Indicators and 
+Monitoring 
+2.1  
+Environment  
+Table 1 presents effluent guidelines for this sector. Guideline 
+values for process emissions and effluents in this sector are 
+indicative of good international industry practice as reflected in 
+relevant standards of countries with recognized regulatory 
+frameworks. These guidelines are achievable under normal 
+operating conditions in appropriately designed and operated 
+facilities through the application of pollution prevention and 
+control techniques discussed in the preceding sections of this 
+document. These levels should be achieved, without dilution, at 
+least 95 percent of the time that the plant or unit is operating, to 
+be calculated as a proportion of annual operating hours. 
+Deviation from these levels in consideration of specific, local 
+project conditions should be justified in the environmental 
+assessment.  
+Effluent guidelines are applicable for direct discharges of treated 
+effluents to surface waters for general use. Site-specific 
+discharge levels may be established based on the availability 
+and conditions in use of publicly operated sewage collection and 
+treatment systems or, if discharged directly to surface waters, 
+on the receiving water use classification as described in the 
+General EHS Guidelines. 
+Emissions guidelines are applicable to process emissions. 
+Combustion source emissions guidelines associated with 
+steam- and power-generation activities from sources with a 
+capacity equal to or lower than 50 MWth are addressed in the 
+General EHS Guidelines with larger power source emissions 
+addressed in the EHS Guidelines for Thermal Power. 
+Guidance on ambient considerations based on the total load of 
+emissions is provided in the General EHS Guidelines.  
+Table 1. Effluent levels for meat processing 
+Pollutants 
+Units 
+Guideline Value 
+pH 
+pH 
+6 – 9 
+BOD5 
+mg/l 
+50 
+COD 
+mg/l 
+250  
+Total nitrogen  
+mg/l 
+10  
+Total phosphorus 
+mg/l 
+2 
+Oil and grease 
+mg/l 
+10 
+Total suspended solids 
+mg/l 
+50 
+Temperature increase 
+°C 
+<3b 
+Total coliform bacteria 
+MPNa / 100 ml 
+400 
+Active Ingredients / 
+Antibiotics 
+To be determined on a case specific 
+basis 
+Notes:  
+a MPN = Most Probable Number 
+b At the edge of a scientifically established mixing zone which takes into 
+account ambient water quality, receiving water use, potential receptors and 
+assimilative capacity 
+ 
+Resource Use and Waste 
+The following Tables 2 and 3 provide examples of resource 
+consumption indicators for energy and water, in addition to 
+waste generation in this sector. Industry benchmark values are 
+provided for comparative purposes only and individual projects 
+should target continual improvement in these areas.
+=== PAGE 11 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+11                    
+WORLD BANK GROUP
+Table 2. Waste generation. 
+Outputs per unit of 
+product 
+Mass load unit 
+Industry 
+benchmark 
+Solid organic waste 
+kg/ head cattle 
+58a 
+By-products for 
+rendering 
+kg/ head cattle 
+110a 
+Solid organic waste 
+kg/ head pig 
+2.2a 
+By-products for 
+rendering 
+kg/ head pig 
+20.8a 
+Blood collection 
+L/head cattle 
+10–20b 
+Blood collection 
+L/head pig 
+2–4b 
+NOTES:  
+a From Nordic Council of Ministers (2001). 
+ b  European Commission (2005).  
+ 
+Table 3. Resource and energy consumption. 
+Inputs per unit of 
+product 
+Mass load unit 
+Industry 
+benchmarka 
+kWh/t cattle 
+carcass 
+kWh/t pig carcass 
+90–1094 
+(cattle) 
+110 – 760 (pig) 
+Energy  
+(fuel and electricity) 
+consumption 
+kWh/t raw 
+materials 
+400–650 
+(dry rendering) 
+570 
+(wet rendering) 
+m3/t carcass 
+1.62–9 
+(cattle) 
+1.6–8.3 
+(pig) 
+Water consumption 
+per unit of 
+productiona 
+m3/t raw 
+materials 
+0.5–1 
+(rendering) 
+Materials 
+Detergent 
+consumption 
+kg/t cattle 
+carcass 
+0.2 
+Source: European Commission. 2005.   
+a Water consumption m3/t of slaughtered animal: 1.74 registered in case 
+study in Bolivia (CPTS, 2005) 
+ 
+Environmental Monitoring 
+Environmental monitoring programs for this sector should be 
+implemented to address all activities that have been identified to 
+have potentially significant impacts on the environment, during 
+normal operations and upset conditions. Environmental 
+monitoring activities should be based on direct or indirect 
+indicators of emissions, effluents, and resource use applicable 
+to the particular project.   
+Monitoring frequency should be sufficient to provide 
+representative data for the parameter being monitored. 
+Monitoring should be conducted by trained individuals following 
+monitoring and record-keeping procedures, and using properly 
+calibrated and maintained equipment. Monitoring data should be 
+analyzed and reviewed at regular intervals and compared with 
+the operating standards so that any necessary corrective 
+actions can be taken. Additional guidance on applicable 
+sampling and analytical methods for emissions and effluents is 
+provided in the General EHS Guidelines.   
+2.2   Occupational Health and Safety  
+Occupational Health and Safety Guidelines 
+Occupational health and safety performance should be 
+evaluated against internationally published exposure guidelines, 
+of which examples include the Threshold Limit Value (TLV®) 
+occupational exposure guidelines and Biological Exposure 
+Indices (BEIs®) published by American Conference of 
+Governmental Industrial Hygienists (ACGIH),20  the Pocket 
+Guide to Chemical Hazards published by the United States 
+National Institute for Occupational Health and Safety (NIOSH),21 
+Permissible Exposure Limits (PELs) published by the 
+Occupational Safety and Health Administration of  the United 
+                                                   
+20 Available at: http://www.acgih.org/TLV/ and http://www.acgih.org/store/ 
+21 Available at: http://www.cdc.gov/niosh/npg/
+=== PAGE 12 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+12                    
+WORLD BANK GROUP
+States (OSHA),22 Indicative Occupational Exposure Limit Values 
+published by European Union member states,23 or other similar 
+sources. 
+Accident and Fatality Rates 
+Projects should try to reduce the number of accidents among 
+project workers (whether directly employed or subcontracted) to 
+a rate of zero, especially accidents that could result in lost work 
+time, different levels of disability, or even fatalities. Facility rates 
+may be benchmarked against the performance of facilities in this 
+sector in developed countries through consultation with 
+published sources (e.g. US Bureau of Labor Statistics and UK 
+Health and Safety Executive)24.     
+Occupational Health and Safety Monitoring 
+The working environment should be monitored for occupational 
+hazards relevant to the specific project. Monitoring should be 
+designed and implemented by accredited professionals25 as part 
+of an occupational health and safety monitoring program. 
+Facilities should also maintain a record of occupational 
+accidents and diseases and dangerous occurrences and 
+accidents. Additional guidance on occupational health and 
+safety monitoring programs is provided in the General EHS 
+Guidelines.   
+                                                   
+22 Available at: 
+http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDAR
+DS&p_id=9992 
+23 Available at: http://europe.osha.eu.int/good_practice/risks/ds/oel/ 
+24 Available at: http://www.bls.gov/iif/ and 
+http://www.hse.gov.uk/statistics/index.htm 
+25 Accredited professionals may include certified industrial hygienists, registered 
+occupational hygienists, or certified safety professionals or their equivalent.
+=== PAGE 13 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+13                    
+WORLD BANK GROUP
+3.0  References and Additional Sources
+Arbejdstilsynet. 2005. Anmeldte arbejdsbetingede lidelser 1999-2000. 
+Årsopgørelse 2004. Copenhagen: Arbejdstilsynet. (Reported accumulated 
+occupational disease 1999-2004. Annual report 2004). Available at 
+http://www.at.dk/graphics/at/07-Arbejdsmiljoe-i-tal/02-
+Arbejdsskader/Aarsopgoerelser/Anmeldte-arbejdsbetingede-lidelser-2004.pdf  
+Centro de Promoción de Tecnologías Sostenibles (CPTS). 2005. Guía Técnica 
+de Producción Más Limpia para Mataderos de Bovinos. (Cleaner technology 
+guidelines for slaughterhouses). Bolivia: CPTS. Available at www.cpts.org  
+Danish Environmental Protection Agency (EPA) 2001. Renere Teknologi på 
+svine- og kreaturslagterier - Resumé-rapport -Arbejdsrapport fra Miljøstyrelsen 
+nr. 9, 2001. (Cleaner Technology In Porcine And Bovine Slaughterhouses). 
+Copenhagen: Miljøstyrelsen. Danish EPA. Available at 
+http://www.mst.dk/udgiv/Publikationer/2001/87-7944-528-4/html/default.htm  
+European Commission (EC). 2005. Integrated Pollution Prevention And Control, 
+Reference Document On Best Available Techniques In The Slaughterhouses 
+And Animal By-Product Industries. BREF, European Commission, May 2005. 
+Adopted final BREF. Seville: EC. Available at 
+http://eippcb.jrc.es/pages/FActivities.htm  
+European Commission (EC). 2003. Integrated Pollution Prevention And Control, 
+Reference Document On Best Available Techniques In The Slaughterhouses 
+And Animal By-Product Industries. BREF, European Commission, November 
+2003. Draft document. Seville: EC. Available at 
+http://www.bvt.umweltbundesamt.de/archiv-e/esslaughterhouses and 
+http://www.bvt.umweltbundesamt.de/kurzue.htm 
+European Commission (EC). 2005. Integrated Pollution Prevention And Control, 
+Reference Document On Best Available Techniques In The Slaughterhouses 
+And Animal By-Product Industries. BREF, European Commission, May 2005. 
+Adopted final BREF. Seville: EC. Available at 
+http://eippcb.jrc.es/pages/FActivities.htm 
+European Community (EC). 1996. Council Directive 96/61/EC of 24 September 
+1996 Concerning Integrated P And Control (IPPC). Brussels: EC. Available at 
+http://europa.eu.int/comm/environment/ippc/index.htm Consolidated: 
+http://europa.eu.int/eur-lex/en/consleg/pdf/1996/en_1996L0061_do_001.pdf  
+European Community (EC). 2002. Regulation (EC) no 1774/2002 Of The 
+European Parliament And Of The Council Of 3 October 2002 Laying Down 
+Health Rules Concerning Animal By-products Not Intended For Human 
+Consumption. Brussels: . Available at www.europa.eu.int/eur-
+lex/en/consleg/pdf/2002/en_2002R1774_do_001.pdf  
+European Community. 1991. European Council Directive 91/497/EEC of 29 July 
+1991 Aamending And Consolidating Directive 64/433/EEC On Health Problems 
+Affecting Intra-community Trade In Fresh T Extend It To The Production And 
+Marketing Of Fresh Meat. Brussels: EEC. Available at www.europa.eu.int/eur-
+lex/en/consleg/pdf/1991/en_1991L0497_do_001.pdf  
+Food and Agriculture Organization (FAO)and World Health Organization 
+(WHO).1962–2005. “Codex Alimentarius”. Geneva: FAO and WHO. Available at 
+http://www.codexalimentarius.net/web/index_en.jsp  
+Health Canada 2004. Fact Sheet: Specified Risk Materials. Ottawa: Health 
+Canada. Available at: www.hc-sc.gc.ca/ahc-asc/media/nr-cp/2003/bse-
+esb_bk1_e.html  
+Health and Safety Commission (HSC) 2005a. United Kingdom. Rates of 
+Reported Fatal Injury To Workers, Nonfatal Injuries To Employees, And LFS 
+Rates Of Reportable Injury To Workers In Manufacturing. London: National 
+Statistics. Available at http://www.hse.gov.uk/statistics/industry/manufacturing-
+ld1.htm#notes  
+Health and Safety Commission (HSC). 2005b. Health and Safety Statistics 
+2004/05. London: HSC. Available on page 21 
+http://www.hse.gov.uk/statistics/overall/hssh0405.pdf  
+Health and Safety Commission (HSC) 2005c. United Kingdom. StatisticsOf Fatal 
+Injuries 2004/05. Fatal Injuries To Workers In Manufacturing. London: HSC. 
+Available on page 7 www.hse.gov.uk/statistics/overall/fatl0405.pdf  
+Irish Environmental Protection Agency. 2004. IPC Guidance Note On Storage 
+And Transfer Of Materials For Scheduled Activities. Wexford: Irish EPA. 
+Available at www.epa.ie  
+Irish Environmental Protection Agency. 1996a. BATNEEC Guidance Note For 
+The Slaughter Of Animals. Wexford: Irish EPA. Available at 
+http://www.epa.ie/Licensing/IPPCLicensing/BATNEECGuidanceNotes/FileUploa
+d,585,en.DOC 
+Irish Environmental Protection Agency. 1996b. BATNEEC Guidance Note For 
+The Rendering Of Animal By-Products. Wexford: Irish EPA. Available at 
+http://www.epa.ie/Licensing/IPPCLicensing/BATNEECGuidanceNotes/  
+Irish Environmental Protection Agency. 1996c. BATNEEC Guidance Note For 
+The Rendering Of Animal By-Products. Wexford: Irish EPA. Available at 
+http://www.epa.ie/Licensing/IPPCLicensing/BATNEECGuidanceNotes/  
+India Environmental Protection Agency. 1998. LIQUID EFFLUENT 
+STANDARDS - Category: 52.0 Slaughterhouse, Meat & Seafood Industry. EPA 
+Notification S.O. 64(E), 18 January 1998. Delhi: India EPA. Available at 
+http://www.cpcb.nic.in/standard52.htm  
+[International Standards Organization. 2005. ISO 20000: 2005: Food Safety 
+Management Systems: Requirements For Any Organization In The Food Chain. 
+Geneva: ISO. Available at 
+http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=3
+5466&ICS1=67&ICS2=20&ICS3= 
+Livestock, Environment and Development Initiative (LEAD). 1996. Management 
+Of Waste From Animal Product Processing. L.A.H.M. Verheijen, D. Wiersema, 
+L.W. Hulshoff Pol, and J. De Wit. International Agriculture Centre, Wageningen, 
+The Netherlands. Study Coordination by FAO, U.S. Agency for International 
+Development, World Bank, and LEAD. Available at 
+http://www.virtualcentre.org/en/library/CDlibrary/PUBS/X6114E/x6114e00.htm#
+Contents or www.fao.org/WAIRDOCS/LEAD/X6114E/X6114E00.HTM  
+México. 1997. Norma oficial mexicana nom-001-ECOL-1996, que establece los 
+limites maximos permisibles de contaminantes en las descargas residuales en 
+aguas y bienes nacionales. Publicada en Diario Oficial de la Federación de 
+fecha 6 de enero de 1997. (Mexican official norm-001-ECOL-1996, which 
+established the maximum permissible limits for contaminants in effluents). 
+Available at 
+http://www.rolac.unep.mx/deramb/compendio_legislacion/LegislacionNacionalM
+exicana/Normas/Areas/NormasSEMARNAT/LIM ITES%20MAXIMOS%20PERMI
+SIBLES%20DE%20CONTAMINANTES%20EN%20LAS%20DESCARGA.pdf
+=== PAGE 14 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+14                    
+WORLD BANK GROUP
+Nordic Council of Ministers. 2001. TemaNord 2001:553, Best Available 
+Techniques (BAT) In Nordic Slaughterhouses. Copenhagen: Nordic Council of 
+Ministers.  
+Thailand Ministry of Science, Technology and Environment (MOSTE).1996. 
+Industrial Effluent Standard. Notification the Ministry of Science, Technology and 
+Environment, No. 3, B.E.2539 (1996) issued under the Enhancement and 
+Conservation of the National Environmental Quality Act B.E.2535 (1992). 
+Bangkok: MOSTE. Available at 
+http://www.pcd.go.th/info_serv/en_reg_std_water04.html#s1  
+UK Environment Agency. 2001. Guidance For The Red Meat Processing (Cattle, 
+Sheep, and Pig) Sector. Sector Guidance Note IPPC S0.01.Bristol: Environment 
+Agency for England and Wales. In cooperation with the Scottish Environmental 
+Protection Agency. Bristol: UK Environmental Agency. Available at 
+http://www.environment-
+agency.gov.uk/business/444304/444364/577703/?version=1&lang=_e and 
+http://publications.environment-agency.gov.uk/pdf/GEHO1205BJZI-e-e.pdf  
+United Nations Environment Programme (UNEP). 2000. Cleaner Production 
+Assessment In Meat Processing. COWI for UNEP and Danish Environmental 
+Protection Agency. Paris: UNEP. Available at http://www.agrifood-
+forum.net/publications/guide/index.htm and http://www.agrifood-
+forum.net/publications/guide/meatguide.zip 
+U.S. Department of Labor Bureau of Labor Statistics (BLS). 2004a. Industry 
+Injury And Illness Data – 2004. Supplemental News Release Tables. Table 
+SNR05: Incident rate and number of nonfatal occupational injuries by industry, 
+2004. Washington, D.C.: BLS. Available at  http://www.bls.gov/iif/home.htm and 
+http://www.bls.gov/iif/oshwc/osh/os/ostb1479.pdf  
+U.S. Department of Labor Bureau of Labor Statistics (BLS). 2004b. Census Of 
+Fatal Occupational Injuries Charts, 1992-2004. Number and rate of fatal 
+occupational injuries by private industry sector, 2004. (Table page 10). 
+Washington, D.C.: BLS. Available at 
+http://www.bls.gov/iif/oshwc/cfoi/cfch0003.pdf  
+US Environmental Protection Agency (EPA). 2004a. Technical Development 
+Document For The Final Effluent Limitations Guidelines And Standards For The 
+Meat And Poultry Products Point Source Category (40 CFR 432) Volume 2 of 4. 
+EPA – 821-R-04-011. Washington, D.C.: U.S. EPA. Available at 
+http://www.epa.gov/waterscience/guide/mpp/tdd/vol2.pdf 
+http://www.epa.gov/waterscience/guide/mpp/  
+US EPA. 2004b. Effluent Limitations Guidelines And New Source Performance 
+Standards For The Meat And Poultry Products Point Source Category. (40 CFR  
+432) Federal Register: September 8, 2004. Washington, D.C.: U.S. EPA. 
+Available at http://www.epa.gov/fedrgstr/EPA-WATER/2004/September/Day-
+08/w12017.htm (Introduction to Clean Water Act: 
+http://www.epa.gov/region5/water/cwa.htm)  
+US EPA. 2004c. Technical Development Document For The Final Effluent 
+Limitations Guidelines And Standards For The Meat And Poultry Products Point 
+Source Category (40 CFR 432) Volume 2 of 4. EPA – 821-R-04-011. 
+Washington, DC: US EPA. Available at 
+http://www.epa.gov/waterscience/guide/mpp/tdd/vol2.pdf 
+http://www.epa.gov/waterscience/guide/mpp/ (Volume 1: 
+http://www.epa.gov/waterscience/guide/mpp/tdd/vol1.pdf)  
+Water Environment Federation. 2005. Standard Methods For The Examination 
+Of Water And Wastewater, 21st Edition. American Public Health Association 
+(APHA), American Water Works Association (AWWA), and Water Environment 
+Federation (WEF). Available at www.standardmethods.org  
+Waste Reduction Resource Center. 2005. The Meat Processing Topic Hub.™ 
+Raleigh Water Reduction Resource Center. Available at 
+http://wrrc.p2pays.org/p2rx/subsection.cfm?hub=449&subsec=15&nav=15&CFI
+D=128311&CFTOKEN=14135054 and 
+http://wrrc.p2pays.org/p2rx/toc.cfm?hub=449&subsec=7&nav=7
+=== PAGE 15 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+15                    
+WORLD BANK GROUP
+Annex A: General Description of Industry Activities 
+Meat processing facilities slaughter cattle and pigs and sell the 
+carcasses directly or for further processing into meat products. 
+In some slaughterhouses, inedible and discarded remains are 
+rendered into by-products. Meat processing facilities are 
+typically located outside of, or on the outskirts of, urban centers, 
+allowing proximity to markets while reducing potential 
+disturbance to neighbors. The trends in the sector and market 
+are toward larger units, increased focus on product safety and 
+animal welfare, improved food quality, increased levels of 
+processing, and improved working conditions. Bovine and 
+porcine slaughter differs mainly in the treatment of the animal 
+hides or skin. While the hides are typically removed from the 
+cattle carcasses and sold to tanneries, pig carcasses are 
+normally processed with their skin. Slaughterhouses usually 
+have separate bovine and porcine production lines. As the 
+simplified process diagram illustrates, various operations are 
+performed in bovine and porcine slaughter. 
+Stunning, Sticking, and Bleeding 
+Cattle are individually led into the stunning box where they are 
+stunned (e.g. with a bolt pistol or other method. The immobilized 
+cattle are unloaded from the box and hung from an overhead rail 
+by the hind legs. They are then stuck to bleed over a collection 
+trough. The blood may be stored in a refrigerated storage tank 
+and / or processed on location. Pigs are stunned with either CO2 
+anesthetization or with electric stunning (a captive bolt pistol 
+might alternatively be applied). The immobilized pigs are hung 
+from an overhead rail by the hind leg / rear toe and then stuck to 
+bleed over a collection trough. 
+Hide Removal / Decapitation (Bovine) and 
+Scalding / Dehairing (Pigs) 
+Following  bleeding of the bovine animal, the hooves, tail, udder 
+/ testicles, head, and (sometimes) forelegs are removed. Cattle 
+hide is removed from the animal either manually or 
+mechanically. The hides are washed and preserved by cooling 
+or adding salt or other bacteriostatic compounds before 
+transport to the tannery.  
+Following bleeding of pig carcasses, they are immersed in the 
+scalding tank (60°C) for about 3 to 6 minutes to facilitate the 
+removal of the bristles and to loosen the toenails. In the 
+dehairing machine, the bristles, outer skin layer, and toenails 
+are removed by a number of rotating rollers that brush or scrape 
+the surface of the carcasses. The pig carcass is then transferred 
+to the singeing oven where it is exposed to temperatures of 
+900°C to 1,000°C for 5 to 15 seconds to eliminate residual hair 
+and micro-organisms and to induce a firmer skin texture. After 
+singeing, the carcass is cooled by showering with cold water. If 
+pig meat is used to produce bacon, a heavier singe is applied 
+and the rind is passed through a black-scraping machine to 
+clean / polish the skin. Slaughterhouses may employ a flaying 
+process to skin the pig carcasses after they are washed (with 
+the minimum amount of water without compromising food 
+hygiene safety) and dried, instead of using the scalding and 
+dehairing procedure described above. Cleaning methods which 
+utilize water should consider the potential for carcass 
+contamination if the water quality is not carefully monitored as 
+well as potential for significant water consumption if water 
+conservation precautions are not incorporated.  Food safety 
+should be the overriding concern when considering issues of 
+water consumption and conservation.   
+Evisceration and preparation 
+The pig carcasses enter the ‘clean slaughter line’ for 
+evisceration, during which the stomach, intestines, and pluck set 
+(e.g. heart, lungs and trachea) are removed and transported to 
+separate rooms for further treatment. The carcass is split, 
+cleaned, weighed, inspected, and classified. The evisceration of 
+the cattle carcass includes opening of the carcass at the belly
+=== PAGE 16 ===
+Environmental, Health, and Safety Guidelines 
+  
+MEAT PROCESSING           
+ 
+ 
+ 
+APRIL 30, 2007                                                                                                          
+ 
+16                    
+WORLD BANK GROUP
+and removing the bladder, uterus, liver, stomachs, and 
+intestines and then, after cutting through the diaphragm, 
+removing the pluck set. Green offal (e.g. the digestive tract and 
+associated organs) and red offal (e.g. the liver, kidney and 
+heart) undergo further cleaning in separate departments. 
+Following evisceration, the spinal cords are cut free and 
+removed, and the cattle carcass is split with an electric saw.  
+After inspection, the carcass is rinsed before chilling / freezing 
+and maturation. Some slaughterhouses also perform on-site 
+processing (e.g. cutting, deboning, and further meat processing 
+activities including grinding, mixing with additives, pickling, 
+smoking, cooking, and canning) to produce retail cuts. 
+Rendering 
+Although rendering is usually conducted at off-site facilities, 
+some meat processing facilities have special, isolated areas of 
+the slaughterhouse designated for on-site rendering of the by-
+products from slaughter (e.g. blood and fat). Rendering typically 
+includes evaporative processes that generate a foul odor. 
+Specialized off-site rendering plants receive animal by-products 
+and waste from a variety of sectors including meat processing 
+plants, poultry rearing and processing, butchers shops, 
+supermarkets, and livestock-rearing facilities. Methods used for 
+fat melting include batch wet fat melting; batch dry fat melting; 
+and continuous wet fat melting. Batch wet fat melting is the most 
+common method and includes the use of an autoclave to heat 
+materials under pressure with steam. Afterward the free fat is 
+drained to an intermediary tank and the moist grease is pressed 
+and then dried. If the raw materials are clean and fresh, the fat 
+can be used for food production. Blood can be processed to use 
+the plasma in meat products, (e.g. cooked sausages), and for 
+pet food and livestock feed. 26 
+                                                   
+26 The collected blood is filtered and centrifuged to remove gross particles. The plasma 
+contains approximately 8 percent solids and is concentrated by reverse osmosis or 
+nanofiltration, machine homogenized, and pressurized before spray drying. Alternatively, 
+the plasma may be concentrated by vacuum evaporation. The red cell fraction can be spray 
+ 
+                                                                                  
+dried after the centrifugation and used for natural pigment in the meat industry, as fertilizer, 
+or in pet food / animal feed. 
+Reception of animals, lairage 
+Stunning, sticking, and bleeding 
+Hide removal /scalding, dehairing 
+Decapitation / removal of legs, udder  
+Evisceration (gut set / pluck set) 
+Splitting 
+Inspection 
+Carcass cleaning 
+Chilling 
+Unloading 
+Cutting / deboning 
+Packaging / on-site rendering 
+Figure A.1: Bovine / Porcine Slaughter Process

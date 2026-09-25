@@ -1,0 +1,1225 @@
+=== PAGE 1 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         1  
+WORLD BANK GROUP
+Environmental, Health, and Safety Guidelines for 
+Fish Processing 
+Introduction 
+The Environmental, Health, and Safety (EHS) Guidelines are 
+technical reference documents with general and industry-
+specific examples of Good International Industry Practice 
+(GIIP)1. When one or more members of the World Bank Group 
+are involved in a project, these EHS Guidelines are applied as 
+required by their respective policies and standards. These 
+industry sector EHS guidelines are designed to be used 
+together with the General EHS Guidelines document, which 
+provides guidance to users on common EHS issues potentially 
+applicable to all industry sectors. For complex projects, use of 
+multiple industry-sector guidelines may be necessary. A 
+complete list of industry-sector guidelines can be found at: 
+www.ifc.org/ifcext/enviro.nsf/Content/EnvironmentalGuidelines 
+The EHS Guidelines contain the performance levels and 
+measures that are generally considered to be achievable in new 
+facilities by existing technology at reasonable costs. Application 
+of the EHS Guidelines to existing facilities may involve the 
+establishment of site-specific targets, with an appropriate 
+timetable for achieving them. The applicability of the EHS 
+Guidelines should be tailored to the hazards and risks 
+established for each project on the basis of the results of an 
+environmental assessment in which site-specific variables, such 
+as host country context, assimilative capacity of the 
+environment, and other project factors, are taken into account. 
+                                                   
+1 Defined as the exercise of professional skill, diligence, prudence and foresight 
+that would be reasonably expected from skilled and experienced professionals 
+engaged in the same type of undertaking under the same or similar 
+circumstances globally.  The circumstances that skilled and experienced 
+professionals may find when evaluating the range of pollution prevention and 
+control techniques available to a project may include, but are not limited to, 
+varying levels of environmental degradation and environmental assimilative 
+capacity as well as varying levels of financial and technical feasibility. 
+The applicability of specific technical recommendations should 
+be based on the professional opinion of qualified and 
+experienced persons. When host country regulations differ from 
+the levels and measures presented in the EHS Guidelines, 
+projects are expected to achieve whichever is more stringent. If 
+less stringent levels or measures than those provided in these 
+EHS Guidelines are appropriate, in view of specific project 
+circumstances, a full and detailed justification for any proposed 
+alternatives is needed as part of the site-specific environmental 
+assessment. This justification should demonstrate that the 
+choice for any alternate performance levels is protective of 
+human health and the environment.  
+Applicability 
+The EHS Guidelines for Fish Processing include information 
+relevant to fish processing facilities, including the post-harvest 
+processing of fish, crustaceans, gastropods, cephalopods, and 
+bivalves (hereafter referred to as “fish products”), originating 
+from sea or freshwater catch or from farming operations in fresh 
+or salt water. This document does not cover primary fishery 
+activities2, or the production of fish in aquaculture. The latter is 
+covered in the EHS Guidelines for Aquaculture. This document 
+is organized according to the following sections: 
+Section 1.0 — Industry-Specific Impacts and Management 
+Section 2.0 — Performance Indicators and Monitoring  
+Section 3.0 — References and Additional Sources 
+Annex     A — General Description of Industry Activities
+                                                   
+2 Overexploitation of fish stocks is a significant global issue. It is not addressed 
+in this document, however, before a fish processing plant is established, the raw 
+material supply situation should be considered, particularly with respect to the 
+sustainability of the resources that will be the main input. Annex B provides a 
+brief discussion of sustainable fishing principles and good practices.
+=== PAGE 2 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         2  
+WORLD BANK GROUP
+1.0  Industry-Specific Impacts and  
+Management 
+ 
+The following section provides a summary of EHS issues 
+associated with fish processing which occur during the 
+operational phase, along with recommendations for their 
+management. Recommendations for the management of EHS 
+issues common to most large industrial facilities during the 
+construction and decommissioning phases are provided in the 
+General EHS Guidelines.  
+1.1 
+Environment 
+Environmental issues in fish processing projects primarily 
+include the following:  
+• 
+Solid waste and by-products 
+• 
+Wastewater  
+• 
+Water consumption and management 
+• 
+Emissions to air and energy consumption 
+Solid Waste and By-products 
+Fish processing activities generate potentially large quantities of 
+organic waste and by-products from inedible fish parts and 
+endoskeleton shell parts from the crustacean peeling process. 
+The actual proportion depends on the edible fraction of each 
+species being processed. Fish waste is a rich source of 
+essential amino acids, and all inedible fish waste should be 
+converted into by-products (e.g. fishmeal or silage).  
+Recommended prevention and control techniques to reduce the 
+amount of solid waste include the following:  
+• 
+Encourage fishing vessels to reduce the capture of “non-
+target species” to reduce the amount of waste in the by-
+product line;  
+• 
+Design fish processing operations to enable the recovery of 
+waste streams in accordance with Good Manufacturing 
+Practice (GMP) and Hazard Analysis and Critical Control 
+Points (HACCP) food safety programs;  
+• 
+Where feasible, reprocess waste into commercial by-
+products.3 Off-cuts and wastes should be recovered and 
+taken to the by-product facility in time to prevent product 
+deterioration. Internal organs, blood, endoskeleton parts, 
+and any by-catch can be reprocessed into fish meal and 
+fish oil. In cases in which reprocessing for fish meal or oil 
+production is not an option, consider the lower-cost option 
+of production of fish silage;4 
+• 
+Wastewater from fish meal plants often contains high levels 
+of proteins and oils, which makes the recovery financially 
+feasible. Consequently, most fish meal factories now have 
+stick-water evaporation plants, where the liquid fraction 
+after the press is evaporated and the proteins recovered. 
+Sludge Treatment and Disposal 
+The following measures reduce the volume of disposable waste 
+generated from waste and wastewater treatment processes:  
+• 
+Sludge dewatering on sludge drying beds for small-scale 
+factories and dewatering using belt presses and decanter 
+centrifuges for medium and large-scale factories; 
+• 
+Land application (as fertilizer) of wastes from on-site 
+wastewater treatment in agricultural production;  
+• 
+Pathogens can be destroyed during controlled anaerobic 
+digestion (biogas) or aerobic treatment (composting); 
+• 
+Disposal of wastes in landfill if not used for biogas 
+production or combustion.  
+ 
+                                                   
+3 Processing plants often outsource by-product processing to specialized 
+companies that further process the waste into a dedicated fish meal product or 
+produce other feed products for animals (e.g., mink fodder or fish silage). 
+4 Fish silage is a product derived from the liquefaction of whole fish or parts of 
+fish through the action of enzymes in the fish and additional acids. Silage can be 
+used for applications similar to those of fishmeal.
+=== PAGE 3 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         3  
+WORLD BANK GROUP
+Wastewater 
+Industrial Process Wastewater 
+Fish processing requires large amounts of water, primarily for 
+washing and cleaning purposes, but also as media for storage 
+and refrigeration of fish products before and during processing. 
+In addition, water is an important lubricant and transport medium 
+in the various handling and processing steps of bulk fish 
+processing. Fish processing wastewater has a high organic 
+content, and subsequently a high biochemical oxygen demand 
+(BOD), because of the presence of blood, tissue, and dissolved 
+protein. It also typically has a high content of nitrogen 
+(especially if blood is present) and phosphorus.  
+Detergents and disinfectants may also be present in the 
+wastewater stream after application during facility cleaning 
+activities. A range of chemicals is typically used for cleaning, 
+including acid, alkaline, and neutral detergents, as well as 
+disinfectants. The disinfectants commonly used include chlorine 
+compounds, hydrogen peroxide, and formaldehyde. Other 
+compounds also may be used for select activities (e.g.  
+disinfection of fishmeal processing equipment).  
+The following recommended methods may be used to enhance 
+the removal of solid waste prior to entry into the wastewater 
+stream: 
+• 
+Collect internal organs and other organic materials 
+separately, for processing into by-products according to the 
+recommendations for solid waste management above; 
+• 
+Design the production line so that cooling water, storm 
+water, and process effluents can be kept separate to permit 
+appropriate treatment options; 
+• 
+Conduct a dry precleaning of equipment and production 
+areas before wet cleaning (e.g. rubber scraping of work 
+tables and plant floor before hosing); 
+• 
+Establish procedures for the dry removal of offal, using dry 
+vacuum systems where feasible;  
+• 
+Fit and use floor drains and collection channels with grids 
+and screens, and / or traps, to reduce the amount of solids 
+entering the wastewater; 
+• 
+Equip the outlets of wastewater channels with screens and 
+fat traps to recover and reduce the concentration of coarse 
+material and fat in the combined wastewater stream;  
+• 
+Avoid submersion of open products (e.g. fillets) in water, as 
+soluble protein may leak out and enter the wastewater 
+effluent stream; 
+• 
+Ensure that tanks are effectively bunded and provide 
+overfilling protection on bulk storage tanks;5 
+• 
+Choose cleaning agents that do not have adverse impacts 
+on the environment in general, or on wastewater treatment 
+processes and sludge quality for agricultural application. 
+Optimize their use through correct dosage and application. 
+Avoid cleaners that contain active chlorine or prohibited, 
+banned, or restricted chemicals.  
+Process Wastewater Treatment 
+Techniques for treating industrial process wastewater in this 
+sector include grease traps, skimmers or oil water separators for 
+separation of floatable solids; flow and load equalization; 
+sedimentation for suspended solids reduction using clarifiers or 
+settling ponds; biological treatment, typically anaerobic (if high in 
+organic content) followed by aerobic treatment, for reduction of 
+soluble organic matter (BOD); biological nutrient removal for 
+reduction in nitrogen and phosphorus; chlorination of effluent 
+when disinfection is required; dewatering and disposal of 
+residuals; in some instances composting or land application of 
+wastewater treatment residuals of acceptable quality may be 
+possible. Additional engineering controls may be required to 
+contain and neutralize nuisance odors. 
+                                                   
+5 Irish EPA (1996).
+=== PAGE 4 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         4  
+WORLD BANK GROUP
+Management of industrial wastewater and examples of 
+treatment approaches are discussed in the General EHS 
+Guidelines. Through use of these technologies and good 
+practice techniques for wastewater management, facilities 
+should meet the Guideline Values for wastewater discharge as 
+indicated in the relevant table of Section 2 of this industry sector 
+document.  
+Other Wastewater Streams & Water Consumption 
+Guidance on the management of non-contaminated wastewater 
+from utility operations, non-contaminated stormwater, and 
+sanitary sewage is provided in the General EHS Guidelines. 
+Contaminated streams should be routed to the treatment system 
+for industrial process wastewater. Recommendations to reduce 
+water consumption, especially where it may be a limited natural 
+resource, are provided in the General EHS Guidelines. Specific 
+water consumption recommendations for fish processing 
+operations include the following: 
+• 
+Use enough ice to secure product quality and match ice 
+production to requirements; 
+• 
+Improve efficiency by concentrating activities or certain 
+processes on fewer days per week, if the facility or process 
+is not operated at full capacity; 
+• 
+Improve the process lay out to facilitate cleaning and 
+eliminate wet transport of wastes, thereby minimizing water 
+consumption; 
+• 
+Dry clean with a scraper or broom before cleaning with 
+water. Use efficient cleaning procedures as mentioned in 
+the section “Industrial Process Wastewater” section above; 
+• 
+Avoid recycling contact process water. Recycling of cooling 
+water, rinse water, and wastewater for some specific 
+noncritical applications may be feasible as long as hygiene 
+considerations are observed. 
+Emissions to Air 
+Odor is often the most significant form of air pollution in fish 
+processing. Major sources include storage sites for processing 
+waste, cooking by-products during fish meal production, fish 
+drying processes, and odor emitted during filling and emptying 
+of bulk tanks and silos. Fish quality may deteriorate under the 
+anaerobic conditions found in onboard storage on fishing 
+vessels and in the raw material silos of fish processing facilities. 
+This deterioration causes the formation of odorous compounds 
+such as ammonia, mercaptans, and hydrogen sulfide gas. 
+ Odor Prevention 
+The following recommended measures should be undertaken to 
+prevent the generation of odor emissions: 
+• 
+Avoid processing batches of raw material that are of 
+considerably lower than average quality; this will reduce 
+the odor components; 
+• 
+Reduce the stock of raw materials, waste, and by-products 
+and store this stock for short periods of time only in a cold, 
+closed, well-ventilated place; 
+• 
+Seal by-products in covered, leak-proof containers; 
+• 
+Keep all working and storage areas clean and remove 
+waste products immediately from the production line; 
+• 
+Empty and clean fat traps on a regular basis; 
+• 
+Cover all transfer systems, wastewater canals, and waste-
+water treatment facilities to reduce the escape of foul 
+odors. 
+Odor Control 
+The recommended odor control techniques in fish processing 
+include the following: 
+• 
+Install condensers on all appropriate process equipment 
+(e.g., cookers and evaporators) to treat air emissions for 
+odor, including sulfides and mercaptans;
+=== PAGE 5 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         5  
+WORLD BANK GROUP
+• 
+Install biofilters as the final method of air treatment and 
+acid scrubbers for ammonia removal ahead of the biofilter; 
+• 
+Install cyclones and filtration (fabric filters normally are 
+adequate) to remove particulates; 
+• 
+Reduce fugitive odor sources from open doors, open 
+windows, and general room ventilation through the use of 
+negative pressure-controlled ventilation systems.  
+Exhaust Gases 
+Exhaust gas emissions (carbon dioxide [CO2], nitrogen oxides 
+[NOX] and carbon monoxide [CO]) in the fish processing sector 
+result from the combustion of gas and fuel oil or diesel in 
+turbines, boilers, compressors and other engines for power and 
+heat generation. Guidance for the management of small 
+combustion source emissions with a capacity of up to 50 
+megawatt thermal (MWth), including air emission standards for 
+exhaust emissions, is provided in the General EHS Guidelines. 
+For combustion source emissions with a capacity of greater than 
+50 MWth refer to the EHS Guidelines for Thermal Power. 
+Particulates 
+Particulate emissions are generally not a serious problem in the 
+fish processing sector. The primary process source is the fish 
+smoking process, which is relevant if the gas from this process 
+is not treated effectively in the cleaning process. The 
+recommended control techniques for particulate emissions 
+during fish smoking include the following: 
+• 
+Consider use of integrated smoking units with incineration 
+and heat recovery; 
+• 
+Clean the kiln exhaust using filters, incinerators, and / or 
+wet scrubbers; 
+• 
+Ensure that smoke from the fish processing process is 
+emitted from a stack of sufficient height; 
+• 
+Transfer air emissions to the boiler house for use as the 
+supply air for the combustion process. This method 
+requires that the boiler house be located parallel to the 
+emission sources and that the capacity (supply air volume) 
+matches the need for combustion process air. 
+Energy Consumption and Management 
+Fish processing facilities use energy to produce hot water, 
+steam, and electricity for process and cleaning applications. 
+Electricity is used for electrical equipment, air conditioning, 
+cooling, freezing, and ice production. General recommendations 
+to obtain energy efficiency through reduced heat loss, improved 
+cooling efficiency, heat recovery, and increased utilization of 
+energy efficient equipment are discussed in the General EHS 
+Guidelines. 
+1.2 
+Occupational Health and Safety 
+Occupational health and safety issues that occur during the 
+operational phase of fish processing projects primarily include 
+the following:  
+• 
+Physical hazards 
+• 
+Biological hazards 
+• 
+Lifting, carrying, and repetitive work injuries 
+• 
+Exposure to chemicals 
+• 
+Exposure to heat and cold 
+• 
+Confined space 
+• 
+Exposure to noise and vibrations 
+Physical hazards 
+Causes of accidents in fish processing operations include falls 
+caused by slippery floors and stairs; equipment safety issues 
+associated with filleting knives and other sharp tools; and cuts 
+from sharp edges on process equipment (e.g. stainless steel 
+basins). In addition to general recommendations included in the 
+General EHS Guidelines, the following are sector-specific 
+recommendations for accident prevention:
+=== PAGE 6 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         6  
+WORLD BANK GROUP
+• 
+Provide workers with training in the proper use and 
+maintenance of cutting equipment (including the use of 
+machine safety devices, handling / storage and upkeep of 
+knives, and emergency shutoff procedures) and personal 
+protective equipment  (e.g. metallic gloves and leather 
+aprons for cutting activities, and protective footwear with 
+rubber soles); 
+• 
+Design the plant so that different activities and the flow of 
+processes do not cross. In addition, clearly demarcate 
+transport corridors and working areas; ensure that 
+handrails are provided on platforms, ladders, and stairs; 
+and use non-slip floor surfacing; 
+• 
+Use completely enclosed conveyer belts to protect hands 
+and fingers.  
+Biological hazards 
+Workers involved in manual gutting, skinning, and general 
+handling of fish and shellfish may develop infections and or 
+allergic reactions resulting from exposure to the fish itself, or 
+bacteria on the fish. Water spraying processes may result in the 
+formation of aerosols with bacteria that can be inhaled. In 
+addition to general recommendations included in the General 
+EHS Guidelines, the following are sector-specific 
+recommendations to prevent exposure to bacteria: 
+• 
+Consider work rotation strategies to reduce occupational 
+exposure to allergens; 
+• 
+Wear gloves to protect hands from exposure to products, 
+especially when working with seafood that is known to 
+create allergic reactions (e.g. scallops and shrimp).   
+Provide food-approved shielding hand creams; 
+• 
+Avoid aerosol-generating activities (e.g. use of compressed 
+air or high-pressure water for cleaning). Where these 
+activities cannot be avoided, provide proper ventilation of 
+enclosed or semi-enclosed areas to reduce or eliminate 
+exposure to aerosols, in addition to adequate distances 
+between workers and aerosol-generating activities;  
+• 
+Ensure physical segregation of work and personal facilities 
+to maintain worker personal hygiene.  
+Lifting, Carrying, and Repetitive Work  
+Fish processing activities may include a variety of situations in 
+which workers can be exposed to lifting, carrying, repetitive 
+work, and work posture injuries. Many of the manual operations 
+in less mechanized fish processing plants include lifting heavy 
+boxes of raw materials. Repetitive strain injuries may result from 
+manual filleting and trimming operations. Poor working postures 
+may result from the design of the workspace, furniture, 
+machinery, and tools. Recommended prevention and control 
+measures for these activities are discussed in the General EHS 
+Guidelines. 
+Chemicals  
+Exposure to chemicals (including gases and vapors) includes 
+handling chemicals such as chlorine, lye, and acids that are 
+related to cleaning operations and disinfection in process areas. 
+In fish smoking facilities, workers could be exposed to smoke 
+particles that contains potential or confirmed carcinogens such 
+as polycyclic aromatic hydrocarbons (PAHs).  
+Recommendations to prevent and control exposure to chemicals 
+are presented in the General EHS Guidelines. Additional, 
+industry-specific recommendations include:  
+• 
+Avoid locating smoking kilns in the same rooms as 
+processing workers. Chimney exhaust systems should 
+ensure that smoke is not entering the processing factory. 
+Respiratory protection should be used when cleaning 
+smoke ovens; 
+• 
+Ensure that employees handling concentrated lye, acid, 
+and chlorine wear protective clothing and eyewear.
+=== PAGE 7 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         7  
+WORLD BANK GROUP
+Heat and Cold 
+Exposure to extreme heat and cold is common because fish 
+processing is often conducted in air-conditioned plants under 
+low temperature, even in tropical locations. Improper work 
+clothes in combination with stationary work locations can result, 
+or be an additional factor, in respiratory and musculoskeletal 
+ailments.  
+Recommendations for the management of exposure to heat and 
+cold include the following: 
+• 
+Set the temperature in air-conditioned processing facilities, 
+where stationary manual work is conducted, at a level that 
+is appropriate according to temperature stress 
+management procedures as noted in the General EHS 
+Guidelines. Products awaiting the next processing step 
+can be kept chilled without lowering the ambient 
+temperature through proper use of ice, slush-ice, or water-
+ice mixtures;  
+• 
+Equip cold stores and chill stores with strip curtains to 
+avoid extensive drafts when doors are open. Ensure 
+freezers can be opened from the inside;  
+• 
+Design air-conditioning systems for processing facilities in 
+conjunction with strip curtain placement to minimize drafts;  
+• 
+Provide protective clothing in cold environments (e.g. 
+refrigerated storage rooms). Process workers should 
+always be equipped with proper working garments, 
+including dry boots; 
+• 
+Reduce movement of processing workers between 
+different temperature zones (e.g. when packing frozen 
+products). 
+Confined Space 
+Occupational health and safety impacts associated with 
+confined spaces in fish processing operations (e.g. storage 
+areas, boat holds) are common to most industries, and their 
+prevention and control are discussed in the General EHS 
+Guidelines. 
+Noise and Vibrations  
+Noise and vibration exposure may result from proximity to noisy 
+machinery (e.g. compressors, automatic packing machinery, 
+condensers, ventilation units, and pressurized air). 
+Recommendations for noise management are discussed in the 
+General EHS Guidelines.  
+1.3 
+Community Health and Safety  
+Community health and safety impacts during the planning and 
+operation phases of fish processing projects are similar to those 
+of most industrial facilities, and are discussed in the General 
+EHS Guidelines.  
+During the planning phase, the facility should be located at an 
+appropriate distance from neighbors and access roads should 
+be assessed for suitable transport use. Proximity to neighbors is 
+an important issue, especially for the management of odor and 
+waste issues in fish processing operations.  
+Community health and safety impacts during the operation 
+phase are common to most industry sectors, including those 
+related to noise and traffic safety from the transport of raw 
+materials and finished product. These impacts are discussed in 
+the General EHS Guidelines. Industry-specific issues that can 
+impact the community or the public at large may include those 
+associated with the potential presence of pathogens or microbial 
+contaminants as well as other chemical or physical effects from 
+processed fish.  
+Food Safety Impacts and Management 
+A food product recall brought about because of contaminated or 
+adulterated food products found in commerce that are 
+attributable to a specific company can damage a viable
+=== PAGE 8 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         8  
+WORLD BANK GROUP
+business. If a company can trace its products, then recall is a 
+matter of removing all foods associated with specific lot 
+numbers. With a robust food safety program in place, a 
+company can protect itself from product adulteration, 
+contamination, and the impacts of food recalls.  
+Fish processing should therefore be performed according to 
+internationally recognized food safety standards consistent with 
+the principles and practice of HACCP6 and Codex Alimentaria.7 
+Recommended food safety principles include the following: 
+• 
+Respect “clean” and “dirty” zoning. Design in accordance 
+with veterinary rules (e.g. surfaces are easy to clean and 
+desterilize knives); 
+• 
+Improve the cooling chain; 
+• 
+Facilitate tracing parts of processed product; 
+• 
+Comply with veterinary regulation and precautions for 
+waste and by-products; 
+• 
+Full institutionalization of HACCP prerequisites including: 
+o 
+Sanitation 
+o 
+Good Management Practices (GMPs) 
+o 
+Implement integrated pest and vector management 
+programs and maximize pest and vector control 
+through mechanical means(e.g. traps), and use mesh 
+on doors and windows to reduce the need for 
+chemical pest and vector control 
+o 
+Chemical control 
+o 
+Allergen control 
+o 
+Customer complaints mechanism 
+o 
+Traceability and recall 
+ 
+                                                   
+6 ISO (2005). 
+7 FAO and WHO (1962–2005). 
+2.0 Performance Indicators and 
+Monitoring 
+2.1 
+Environment  
+Emissions and Effluent Guidelines  
+Tables 1 and 2 present emission and effluent guidelines for this 
+sector. Guideline values for process emissions and effluents in 
+this sector are indicative of good international industry practice 
+as reflected in relevant standards of countries with recognized 
+regulatory frameworks. These levels should be achieved, 
+without dilution, at least 95 percent of the time that the plant or 
+unit is operating, to be calculated as a proportion of annual 
+operating hours. Deviation from these levels in consideration of 
+specific, local project conditions should be justified in the 
+environmental assessment.  
+Effluent guidelines are applicable for direct discharges of treated 
+effluents to surface waters for general use. Site-specific 
+discharge levels may be established based on the availability 
+and requirements of publicly operated sewage collection and 
+treatment systems or, if discharged directly to surface waters, 
+on the receiving water use classification as described in the 
+General EHS Guidelines. 
+Emissions guidelines are applicable to process emissions. 
+Combustion source emissions guidelines associated with 
+steam- and power-generation activities from sources with a 
+capacity equal to or lower than 50 MWth are addressed in the 
+General EHS Guidelines with larger power source emissions 
+addressed in the EHS Guidelines for Thermal Power. 
+Guidance on ambient considerations based on the total load of 
+emissions is provided in the General EHS Guidelines.
+=== PAGE 9 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         9  
+WORLD BANK GROUP
+Table 1. Effluent levels for fish processing 
+Pollutants 
+Units 
+Guideline Value 
+pH 
+pH 
+6 – 9 
+BOD5 
+mg/l 
+50 
+COD 
+mg/l 
+250  
+Total nitrogen  
+mg/l 
+10  
+Total phosphorus 
+mg/l 
+2 
+Oil and grease 
+mg/l 
+10 
+Total suspended solids 
+mg/l 
+50 
+Temperature increase 
+°C 
+<3b 
+Total coliform bacteria 
+MPNa / 100 ml 
+400 
+Active Ingredients / 
+Antibiotics 
+To be determined on a case specific 
+basis 
+Notes:  
+a MPN = Most Probable Number 
+b At the edge of a scientifically established mixing zone which takes into 
+account ambient water quality, receiving water use, potential receptors and 
+assimilative capacity 
+ 
+Table 2. Air emission levels for fish processing. 
+Pollutants 
+Unit 
+ Guideline Value 
+Ammonia 
+mg/m3 
+1 
+Amines and amides 
+mg/m3 
+5 
+Hydrogen sulfide, sulfides, 
+and mercaptans 
+mg/m3 
+2 
+ 
+Resource Use 
+Table 3 provides examples of energy and water consumption in-
+dicators for various aspects of fish processing. Industry 
+benchmark values are provided for comparative purposes only 
+and individual projects should target continual improvement in 
+these areas. 
+ 
+ 
+Table 3. Energy and water consumption for 
+common fish production processes 
+Output per unit of product 
+Unit 
+Energy consumption 
+per ton of raw material 
+Processing of shrimps 
+Freezing (contact freezer) 
+Freezer (blast freezer) 
+Fillet production 
+Fish-meal production 
+MJ 
+MJ 
+MJ 
+MJ 
+MJ 
+350 
+328 
+350 
+18 
+2300 
+Outputs per unit of 
+product 
+Units 
+Water consumption per 
+ton raw materialsa 
+Whitefish 
+Herring filleting 
+Mackerel filleting 
+m3/t 
+m3/t 
+m3/t 
+5–11 
+5–8 
+5–8 
+a UNEP: Cleaner Production: Fish Processing  
+http://www.agrifood-forum.net/publications/guide/f_chp0.pdf 
+ 
+Environmental Monitoring 
+Environmental monitoring programs for this sector should be 
+implemented to address all activities that have been identified to 
+have potentially significant impacts on the environment during 
+normal operations and upset conditions. Environmental 
+monitoring activities should be based on direct or indirect 
+indicators of emissions, effluents, and resource use applicable 
+to the particular project.  
+Monitoring frequency should be sufficient to provide 
+representative data for the parameter being monitored. 
+Monitoring should be conducted by trained individuals following 
+monitoring and record-keeping procedures and using properly 
+calibrated and maintained equipment. Monitoring data should be 
+analyzed and reviewed at regular intervals and compared with 
+the operating standards so that any necessary corrective 
+actions can be taken. Additional guidance on applicable 
+sampling and analytical methods for emissions and effluents is 
+provided in the General EHS Guidelines.
+=== PAGE 10 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         10  
+WORLD BANK GROUP
+ 2.2 
+Occupational Health and Safety  
+Occupational Health and Safety Guidelines 
+Occupational health and safety performance should be 
+evaluated against internationally published exposure guidelines, 
+of which examples include the Threshold Limit Value (TLV®) 
+occupational exposure guidelines and Biological Exposure 
+Indices (BEIs®) published by American Conference of 
+Governmental Industrial Hygienists (ACGIH),8  the Pocket Guide 
+to Chemical Hazards published by the United States National 
+Institute for Occupational Health and Safety (NIOSH),9 
+Permissible Exposure Limits (PELs) published by the 
+Occupational Safety and Health Administration of  the United 
+States (OSHA),10 Indicative Occupational Exposure Limit Values 
+published by European Union member states,11 or other similar 
+sources. 
+Accident and Fatality Rates 
+Projects should try to reduce the number of accidents among 
+project workers (whether directly employed or subcontracted) to 
+a rate of zero, especially accidents that could result in lost work 
+time, different levels of disability, or even fatalities. Facility rates 
+may be benchmarked against the performance of facilities in this 
+sector in developed countries through consultation with 
+published sources (e.g. US Bureau of Labor Statistics and UK 
+Health and Safety Executive)12.     
+Occupational Health and Safety Monitoring 
+The working environment should be monitored for occupational 
+hazards relevant to the specific project. Monitoring should be 
+                                                   
+8 Available at: http://www.acgih.org/TLV/ and http://www.acgih.org/store/ 
+9 Available at: http://www.cdc.gov/niosh/npg/ 
+10 Available at: 
+http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDAR
+DS&p_id=9992 
+11 Available at: http://europe.osha.eu.int/good_practice/risks/ds/oel/ 
+12 Available at: http://www.bls.gov/iif/ and 
+http://www.hse.gov.uk/statistics/index.htm 
+designed and implemented by accredited professionals13 as part 
+of an occupational health and safety monitoring program. 
+Facilities should also maintain a record of occupational 
+accidents and diseases and dangerous occurrences and 
+accidents. Additional guidance on occupational health and 
+safety monitoring programs is provided in the General EHS 
+Guidelines.
+                                                   
+13 Accredited professionals may include certified industrial hygienists, registered 
+occupational hygienists, or certified safety professionals or their equivalent.
+=== PAGE 11 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         11  
+WORLD BANK GROUP
+3.0 References  
+BLS (US Bureau of Labor Statistics). 2004a. Industry Injury and Illness Data – 
+2004. Supplemental News Release Tables. Table SNR05: Incident rate and 
+number of nonfatal occupational injuries by industry, 2004. Washington, DC: 
+BLS. Available at http://www.bls.gov/iif/oshwc/osh/os/ostb1479.pdf  
+BLS (US Bureau of Labor Statistics). 2004b. Census of Fatal Occupational 
+Injuries Charts, 1992–2004. Number and rate of fatal occupational injuries by 
+private industry sector, 2004. (Table page 10). Washington, DC: BLS. Available 
+at http://www.bls.gov/iif/oshwc/cfoi/cfch0003.pdf  
+DEFRA (Department for Environment, Food and Rural Affairs). Process 
+Guidance Note 6/19 (05) Secretary of State’s Guidance for Fish-Meal and Fish-
+Oil Processes. Scotland: DEFRA. 
+EC (European Commission). 1996. Council Directive 96/61/EC of 24 September 
+1996 concerning integrated pollution prevention and control (IPPC). EC. 
+Available at http://europa.eu.int/comm/environment/ippc/index.htm 
+Consolidated: http://europa.eu.int/eur-
+lex/en/consleg/pdf/1996/en_1996L0061_do_001.pdf  
+EC (European Commission). 2005. Integrated Pollution Prevention and Control, 
+Draft Reference Document on Best Available Techniques in the Food, Drink and 
+Milk Industries. BREF finalized. Dated January 2006. p vii Typical FDM waste 
+water quality after treatment – the emission levels given are indicators of the 
+emission levels that would be achieved with those techniques normally 
+considered to represent BAT. 
+EC (European Commission). 2006. Integrated Pollution Prevention and Control, 
+Draft Reference Document on Best Available Techniques in the Food, Drink and 
+Milk Industries. BREF finalized. Dated January 2006. EC. Available at 
+http://eippcb.jrc.es/pages/FActivities.htm  
+FAO and WHO (Food and Agriculture Organization and World Health 
+Organization).1962–2005. Codex Alimentaris is an important link of information 
+on product origin tracking for food safety, input/output indicators for monitoring, 
+including food/feed conversion efficiencies, etc. Maximum Residues Limits for 
+Pesticides in Food. Geneva: FAO and WHO. Available at 
+http://www.codexalimentarius.net/web/index_en.jsp   
+ 
+HSC (Health and Safety Commission). 2005a. United Kingdom. Statistics of 
+Fatal Injuries 2004/05. Fatal injuries to workers in manufacturing (p.7). London: 
+National Statistics. Available at 
+http://www.hse.gov.uk/statistics/overall/fatl0405.pdf  
+HSC (Health and Safety Commission). 2005b. United Kingdom. Rates of 
+Reported Fatal Injury to Workers, Non Fatal Injuries to Employees and LFS 
+Rates of Reportable Injury to Workers in Manufacturing. London: National 
+Statistics. Available at http://www.hse.gov.uk/statistics/industry/manufacturing-
+ld1.htm#notes  
+India EPA (Environmental Protection Agency). 1998. Liquid Effluent Standards – 
+Category: 52.0 Slaughter House, Meat & Sea Food industry. EPA Notification 
+S.O. 64(E), dt. January 18, 1998. Indian EPA. Available at 
+http://www.cpcb.nic.in/standard52.htm  
+Irish EPA (Environmental Protection Agency). 1996. BATNEEC Guidance Note, 
+Class 7.5, Fish-meal and Fish-oil (Draft 3). Ireland: Irish EPA. Available at 
+http://www.epa.ie/Licensing/IPPCLicensing/BATNEECGuidanceNotes/FileUploa
+d,561,en.DOC  
+ISO (International Standards Organization). 2005. ISO 20000: 2005: Food safety 
+management systems: Requirements for any organization in the food chain. 
+ISO. Available at 
+http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=3
+5466&ICS1=67&ICS2=20&ICS3=  
+Nordic Council of Ministers. 1997. BAT Best Available Technology in the Fishing 
+Industry, TemaNord 1997:579, Copenhagen: Nordic Council of Ministers. 
+Thailand MOSTE (Ministry of Science, Technology and Environment).1996. 
+Industrial Effluent Standard. Notification by the Ministry of Science, Technology 
+and Environment, No. 3, B.E.2539 (1996) issued under the Enhancement and 
+Conservation of the National Environmental Quality Act B.E.2535 (1992). 
+MOSTE. Available at 
+http://www.pcd.go.th/info_serv/en_reg_std_water04.html#s1  
+World Bank Group. International Finance Corporation Environmental, Health 
+and Safety Guidelines for Fish Processing. Washington, DC: World Bank Group. 
+Available at http://www.ifc.org/ifcext/enviro.nsf/Content/EnvironmentalGuidelines
+=== PAGE 12 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         12  
+WORLD BANK GROUP
+Annex A: General Description of Industry Activities 
+The activities that charaterize the fish processing sector depend 
+on the type of fish being processed and the desired final 
+products. Fish processing broadly consists of removing the 
+inedible part of the fish and preserving the edible parts.  The 
+main fish processing stocks include cod, tuna, herring, 
+mackerel, anchovy, pilchard, salmon, pollack, hake, and 
+haddock. Products for human consumption range from whole 
+fish to fillets and specialty products, which may be sold frozen, 
+fresh (chilled) or preserved. Wild-caught marine fish processing 
+facilities are typically located at commercial fishing harbors, 
+while factories processing aquaculture products are often 
+located close to the fish farming operation. Fish processing 
+comprises the processing of the main product and associated 
+by-products. Processing activities for fish filleting and 
+preserving, the most common type of production type, are 
+presented in Figure A-1 and described below. Mollusk and 
+crustacean processing activities contain fewer stages and 
+concentrate on the washing, cooking, cooling, processing, and 
+packaging of the product.  
+Industry Activities 
+ Material Reception and Preparation 
+Raw materials are typically received at the fish processing 
+facility from a commercial fishing vessel or fish farm. For some 
+fish species, gutting, cleaning, and head removal can take place 
+at sea on board fishing vessels to maintain optimal quality. This 
+is often the case for white fish with a low oil content, which are 
+then kept on ice or frozen until they arrive at the processing 
+facility. Fatty fish fillets may have an oil content of up to 30  
+ 
+ 
+ 
+percent and are usually not gutted until they arrive at the 
+processing facility. When fish are processed at sea, the offal is 
+typically discarded into the sea. Although this reduces the 
+amount of offal produced at land-based fish processing facilities, 
+if taken ashore, the offal could be turned into a potentially 
+valuable by-product. 
+During unpacking, fish are subject to quality control (including 
+traceability documentation) and, at this stage, any by-catch and 
+offal can be diverted to the by-product line. Fresh raw fish is 
+washed and graded to separate any material that does not meet 
+standards for quality and uniformity. Frozen raw material has to 
+be thawed (e.g. under running water or with air at controlled 
+temperatures) before washing and grading. The prepared raw 
+material is then chilled for storage, re-iced, or, in the case of live 
+catch, held in holding tan 
+Product Processing  
+The product processing phase begins with skinning and cutting 
+to remove the edible parts of the fish and reduce the size to the 
+desired portions. Skinning can be done manually or 
+automatically. In automatic operations, white fish are skinned by 
+pulling the fillet over an automatic knife. Fatty fish, such as 
+herring, are skinned by pulling them over a freezing drum. The 
+fish are then transported to cutting tables where evisceration 
+takes place (e.g. the heads, tails, and inedible parts are 
+removed). The offal is collected and diverted to the by-product 
+line. At this stage, any valuable by-products(e.g. liver and roe), 
+are collected and then sent for separate handling. After 
+evisceration, the cleaned fish products are filleted at the cutting 
+tables and then washed. 
+Evisceration generates significant amounts of solid waste, most 
+of which ends up in the aqueous waste stream. Facilities 
+processing fatty, ungutted fish such as herring typically generate
+=== PAGE 13 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         13  
+WORLD BANK GROUP
+the highest levels of aqueous pollutants. However, dry collection 
+and transport of waste can be used to reduce water 
+consumption, increase the amount of saleable offal, and reduce 
+organic discharge in wastewater (e.g. a 60 to 70 percent 
+reduction can be achieved in the herring filleting industry).14 
+Product Finalization 
+In product finalization, the cut fish and shellfish product is 
+preserved through a variety of processes and may be consumed 
+in their primary form, either raw or cooked. They may also be 
+further processed to produce fish- or shellfish-based foods, such 
+as molded products (fish fingers) or prepared dishes. 
+Preservation methods typically used in fish processing include 
+chilling and freezing, canning, brining and salting, fermenting, 
+drying, and smoking, which may be used in various 
+combinations, such as fermentation with salting and drying. 
+Chilling and freezing decrease the fish temperature to levels 
+(approximately 0 °C or less than - 18°C, respectively) where 
+metabolic activities, catalyzed by autolytic or microbial enzymes, 
+are reduced or completely stopped. Canning preserves the 
+product by first heating it (usually under pressure) to a 
+temperature that destroys contaminating micro-organisms, and 
+then sealing it in air-tight jars or cans. The remaining 
+preservation techniques, described below, control microbial 
+growth by reducing the water content, adding anti-microbial 
+agents, and / or decreasing the pH of the product.  
+During brining and salting, a product is treated with common 
+and curing salts (nitrate and / or nitrite) to reduce the water 
+activity  beyond the microbial tolerance limits, ensuring that the 
+life of the product is increased and also giving it flavor. Both salt 
+and nitrite are essential for curing to take place. Brining methods 
+include dry, immersion, and tumble / massage brining. 
+Fermentation processes allow the partial decomposition of the 
+                                                   
+14 Nordic Council of Ministers (1997). 
+fish, which lowers the pH and prevents putrefaction, while giving 
+the final product a strong, distinctive flavor.  
+Drying decreases the water activity level of the fish to minimize 
+microbial growth. Salted and fermented fish are often further 
+dried to increase shelf life, or fish might be dried without other 
+primary preservation steps. Drying processes can range from 
+solar drying to temperature- and humidity-controlled drying 
+rooms. Dried fish typically has a moisture content of between 38 
+and 48 percent, depending on the product. Smoking preserves 
+the product through exposure to smoke, which has a 
+bacteriostatic effect. There are two types of smoking, hot and 
+cold  both of which add flavor.  
+By-products 
+There are two main by-products from the main fish processing 
+process: fish meal and fish oil.  
+Fish Meal 
+Fish meal is produced through a cooking and dehydrating 
+process whereby fish oil is separated and water is removed from 
+the product. Fish meal production is a high energy consuming 
+process. Raw material enters the fish meal production line on a 
+feeder system and is then cooked. Cooking temperature and 
+duration depends on the cooker type, but typically the material is 
+cooked for approximately 20 minutes at 90oC. This activity 
+results in significant odor levels. The cooked material is pressed 
+in a screw-press or decanter centrifuge, and the press liquid is 
+diverted into a centrifuge where the fish oil is separated from the 
+stick water. The stick-water flow is then evaporated in a 
+multiple-stage evaporator and the remaining sludge is mixed 
+with the press cake. This combined material is then dried until it 
+has a water content of below 10 percent. After drying, the 
+material is ground to break up any lumps. The fish meal is then 
+sent to packaging and intermediate storage.
+=== PAGE 14 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         14  
+WORLD BANK GROUP
+Fish Oil  
+Fish oil production is typically an integrated part of fish meal 
+production, however, the production of cod liver oil and other 
+specialty products can be established as stand-alone production 
+units. The quality of the fish oil obtained depends largely on the 
+quality of the fish raw material and the equipment used. Today, 
+the extraction of fish oil is conducted exclusively by centrifugal 
+machinery, typically three-phase decanters and separators. 
+ 
+Annex B: Sustainable Fishing Principles and References to Existing Good 
+Practice Materials
+Code of Conduct for Responsible Fisheries 
+Initiated by the United Nations Food and Agricultural 
+Organization (FAO), the Rome Declaration establishes a “Code 
+of Conduct for Responsible Fisheries.” The Code is available 
+online at 
+www.fao.org/figis/servlet/static?dom=org&xmlCCRF_prog.xml 
+and outlines the following recommendations: 
+• 
+Base conservation and management decisions on the best 
+scientific evidence available, taking into account traditional 
+knowledge of the resources and their habitat;  
+• 
+Develop further selective and environmentally safe fishing 
+gear to maintain biodiversity, minimize waste, catch of 
+nontarget species, and so on;  
+• 
+Ensure fisheries interests are accommodated in the 
+multiple uses of the coastal zone and are integrated into 
+coastal area management;  
+• 
+Protect and rehabilitate critical fisheries habitats;  
+• 
+Ensure compliance with and enforcement of conservation 
+and management measures and establish effective 
+mechanisms to monitor and control activities of fishing 
+vessels and fishing support vessels;  
+• 
+Exercise effective flag state control to ensure the proper 
+application of the Code;  
+• 
+Cooperate through subregional, regional, and global 
+fisheries management organizations;  
+• 
+Conduct fish trade in accordance with the principles, rights, 
+and obligations established in the World Trade 
+Organization Agreement; and 
+• 
+Promote awareness of responsible fisheries through 
+education and training, as well as involve fishers and fish 
+farmers in the policy formulation and implementation 
+process.  
+Marine Stewardship Council (MSC) 
+The MSC provides a set of Principles and Criteria for 
+Sustainable Fishing that are used as the standard in a third 
+party, independent, and voluntary certification program. These 
+principles are based on the Rome Declaration’s Code of 
+Conduct for Responsible Fisheries.
+=== PAGE 15 ===
+Environmental, Health, and Safety Guidelines 
+FISH PROCESSING 
+ 
+ 
+APRIL 30, 2007 
+                                    
+ 
+ 
+         15  
+WORLD BANK GROUP
+ 
+Figure A.1:  Fish Processing Activities 
+Unpacking 
+Thawing (in water) 
+Washing and grading 
+Skinning 
+Evisceration and 
+removal of valuable by 
+products  
+(liver, milt, etc) 
+Raw material 
+reception from fishing 
+vessel or farm  
+Rejected 
+fish 
+Rejected 
+fish 
+Skin 
+Guts, head 
+Filleting 
+Washing 
+Process
+By-product 
+Conservation: chilling, 
+freezing, salting, 
+drying 
+Quality control 
+External packing 
+Bones, 
+off-cuts, 
+rejects 
+By-product raw material
+ 
+ 
+ 
+ 
+ 
+Fish meal and fish oil 
+processes 
+Dehydrating 
+Packing

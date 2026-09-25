@@ -1,0 +1,1235 @@
+=== PAGE 1 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+1 
+WORLD BANK GROUP
+Environmental, Health, and Safety Guidelines for 
+Dairy Processing
+Introduction 
+The Environmental, Health, and Safety (EHS) Guidelines are 
+technical reference documents with general and industry-
+specific examples of Good International Industry Practice 
+(GIIP)1. When one or more members of the World Bank Group 
+are involved in a project, these EHS Guidelines are applied as 
+required by their respective policies and standards. These 
+industry sector EHS guidelines are designed to be used 
+together with the General EHS Guidelines document, which 
+provides guidance to users on common EHS issues potentially 
+applicable to all industry sectors. For complex projects, use of 
+multiple industry-sector guidelines may be necessary. A 
+complete list of industry-sector guidelines can be found at: 
+www.ifc.org/ifcext/enviro.nsf/Content/EnvironmentalGuidelines 
+The EHS Guidelines contain the performance levels and 
+measures that are generally considered to be achievable in new 
+facilities by existing technology at reasonable costs. Application 
+of the EHS Guidelines to existing facilities may involve the 
+establishment of site-specific targets, with an appropriate 
+timetable for achieving them. The applicability of the EHS 
+Guidelines should be tailored to the hazards and risks 
+established for each project on the basis of the results of an 
+environmental assessment in which site-specific variables, such 
+as host country context, assimilative capacity of the 
+environment, and other project factors, are taken into account. 
+                                                   
+1 Defined as the exercise of professional skill, diligence, prudence and foresight 
+that would be reasonably expected from skilled and experienced professionals 
+engaged in the same type of undertaking under the same or similar 
+circumstances globally.  The circumstances that skilled and experienced 
+professionals may find when evaluating the range of pollution prevention and 
+control techniques available to a project may include, but are not limited to, 
+The applicability of specific technical recommendations should 
+be based on the professional opinion of qualified and 
+experienced persons. When host country regulations differ from 
+the levels and measures presented in the EHS Guidelines, 
+projects are expected to achieve whichever is more stringent. If 
+less stringent levels or measures than those provided in these 
+EHS Guidelines are appropriate, in view of specific project 
+circumstances, a full and detailed justification for any proposed 
+alternatives is needed as part of the site-specific environmental 
+assessment. This justification should demonstrate that the 
+choice for any alternate performance levels is protective of 
+human health and the environment.     
+Applicability 
+The EHS Guidelines for Dairy Processing facilities applies to the 
+reception, storage, and industrial processing of raw milk and the 
+handling and storage of processed milk and dairy products. 
+Annex A contains a full description of industry activities for this 
+sector. This document does not cover farming activities or 
+collection of raw milk from farmers, which are covered in the 
+EHS Guidelines for Mammalian Livestock Production. 
+This document is organized according to the following sections: 
+Section 1.0 — Industry-Specific Impacts and Management 
+Section 2.0 — Performance Indicators and Monitoring  
+Section 3.0 — References 
+Annex     A — General Description of Industry Activities
+                                                                                  
+varying levels of environmental degradation and environmental assimilative 
+capacity as well as varying levels of financial and technical feasibility.
+=== PAGE 2 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+2 
+WORLD BANK GROUP
+1.0 
+Industry-Specific Impacts 
+and Management 
+The following section provides a summary of EHS issues 
+associated with dairy processing facilities that occur during the 
+operational phase, along with recommendations for their 
+management. Recommendations for the management of EHS 
+issues common to most large industrial facilities during the 
+construction and decommissioning phases are provided in the 
+General EHS Guidelines.  
+1.1 
+Environment 
+Environmental issues specifically associated with dairy 
+processing facilities include the following: 
+• 
+Wastewater 
+• 
+Solid waste 
+• 
+Emissions to air 
+• 
+Energy consumption 
+ 
+Wastewater  
+Industrial Process Wastewater 
+Due to the presence of milk solids (e.g. protein, fat, 
+carbohydrates, and lactose), untreated wastewater from dairy 
+processing facilities may have a significant organic content, 
+biochemical oxygen demand (BOD), and chemical oxygen 
+demand (COD). Whey may also contribute to high organic loads 
+in wastewater. Salting activities during cheese production may 
+result in high salinity levels in wastewater. Wastewater may also 
+contain acids, alkali, and detergents with a number of active 
+ingredients, and disinfectants, including chlorine compounds, 
+hydrogen peroxide, and quaternary ammonia compounds. 
+Wastewater may have a significant microbiological load and 
+may also contain pathogenic viruses and bacteria. 
+The following recommended techniques can be used to prevent 
+the contamination of the wastewater stream: 
+• 
+Avoid milk, product, and by-product losses ( e.g. from 
+spills, leaks, excessive changeovers, and shut downs) 
+through the adoption of good manufacturing procedures 
+and facility maintenance; 
+• 
+Separate and collect product waste, including rinse waters 
+and by-products, to facilitate recycling or further processing 
+for subsequent use, sale, or disposal (e.g. whey and 
+casein); 
+• 
+Install grids to reduce or avoid the introduction of solid 
+materials into the wastewater drainage system; 
+• 
+Process and foul drains should be separate in process 
+areas and should discharge directly to a treatment plant 
+and / or municipal sewerage system; 
+• 
+Pipes and tanks should be self–draining, with appropriate 
+procedures for product discharge prior to, or integral with, 
+cleaning procedures; 
+• 
+Subject to sanitary requirements, recycle process water, 
+including condensate from evaporation processes, for 
+preheating and heat-recovery systems for heating and 
+cooling processes, to minimize water and energy 
+consumption; 
+• 
+Adopt best-practice methods for facility cleaning, which 
+may involve manual or automated Clean In Place (CIP)2 
+systems, using approved chemicals and / or detergents 
+with minimal environmental impact and compatibility with 
+subsequent wastewater treatment processes. 
+                                                   
+2 Automated CIP systems reduce chemical, water, and energy consumption and 
+facilitate rinse recovery but may not be appropriate for all applications.
+=== PAGE 3 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+3 
+WORLD BANK GROUP
+Process Wastewater treatment 
+Techniques for treating industrial process wastewater in this 
+sector include grease traps, skimmers or oil water separators for 
+separation of floatable solids; flow and load equalization; 
+sedimentation for suspended solids reduction using clarifiers; 
+biological treatment, typically anaerobic followed by aerobic 
+treatment, for reduction of soluble organic matter (BOD); 
+biological nutrient removal for reduction in nitrogen and 
+phosphorus; chlorination of effluent when disinfection is 
+required; dewatering and disposal of residuals; in some 
+instances composting or land application of wastewater 
+treatment residuals of acceptable quality may be possible. 
+Additional engineering controls may be required to contain and 
+neutralize nuisance odors. Source segregation and alternate 
+treatment methods are typically used for high salinity streams 
+that contribute to elevated TDS levels in the wastewater. 
+Management of industrial wastewater and examples of 
+treatment approaches are discussed in the General EHS 
+Guidelines. Through use of these technologies and good 
+practice techniques for wastewater management, facilities 
+should meet the Guideline Values for wastewater discharge as 
+indicated in the relevant table of Section 2 of this industry sector 
+document.  
+Other Wastewater Streams & Water Consumption 
+Guidance on the management of non-contaminated wastewater 
+from utility operations, non-contaminated stormwater, and 
+sanitary sewage is provided in the General EHS Guidelines. 
+Contaminated streams should be routed to the treatment system 
+for industrial process wastewater. Dairy processing facilities use 
+considerable quantities of potable water for processing and for 
+cleaning of equipment, process areas, and vehicles. 
+Recommendations to reduce water consumption, especially 
+where it may be a limited natural resource, are provided in the 
+General EHS Guidelines.  
+Solid Waste 
+Solid organic waste in dairy processing facilities mainly 
+originates from production processes and includes non-
+conforming products and product losses (e.g. milk spillages 
+liquid whey and buttermilk), grid and filter residues, sludge from 
+centrifugal separators and wastewater treatment, and packaging 
+waste (e.g. discarded cuts, spent ripening bags, wax residues 
+from cheese production) arising from incoming raw materials 
+and production line damage. 
+Recommended measures to reduce and manage solid waste 
+include the following: 
+• 
+Where possible and subject to sanitary requirements, 
+segregate solid process waste and non-conforming 
+products for reprocessing into commercial products and by-
+products (e.g. butter oil, processed cheese, animal feed, 
+soap stock, or other technical-grade materials); 
+• 
+Optimize product filling and packaging equipment to avoid 
+product- and packaging-material waste;  
+• 
+Optimize the design of packaging material to reduce the 
+volume of waste (e.g. by using recycled materials and by 
+reducing the thickness without compromising food safety 
+criteria). If PET bottles are blown on site, plastic waste 
+cuttings can be reused, or should be sorted as plastic 
+waste for off-site recycling or disposal; 
+• 
+ Use uncontaminated sludge from on-site wastewater 
+treatment for agricultural fertilizer or production of biogas. 
+• 
+Remaining waste should be managed and disposed of 
+according to the recommendations for industrial waste in 
+the General EHS Guidelines.
+=== PAGE 4 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+4 
+WORLD BANK GROUP
+Air Emissions 
+Exhaust Gases 
+Exhaust gas emissions (carbon dioxide [CO2], nitrogen oxides 
+[NOX] and carbon monoxide [CO]) in the dairy processing sector 
+result from the combustion of gas and fuel oil or diesel in 
+turbines, boilers, compressors and other engines for power and 
+heat generation. Guidance for the management of small 
+combustion source emissions with a capacity of up to 50 
+megawatt thermal (MWth), including air emission standards for 
+exhaust emissions, is provided in the General EHS Guidelines. 
+For combustion source emissions with a capacity of greater than 
+50 MWth refer to the EHS Guidelines for Thermal Power.   
+Dust 
+Emissions of dust during dairy processing activities include fine 
+milk powder residues in the exhaust air from the spray drying 
+systems and bagging of product. Recommended measures to 
+prevent and control dust emissions mainly consist of the 
+installation of  exhaust ventilation equipped with dry powder 
+retention systems (e.g. cyclones or bag filters). Bag filters are 
+generally favored over wet scrubbing methods, as they use 
+significantly less energy, generate less or no wastewater, and 
+produce less noise. The presence of hot air and fine dust 
+creates fire and explosion impacts. All modern spray dryers 
+should be equipped with explosion release mechanisms and fire 
+prevention systems. 
+Odor  
+The major sources of odor emissions in dairy processing 
+facilities are related to on-site wastewater treatment facilities, in 
+addition to fugitive odor emissions from filling / emptying milk 
+tankers and storage silos. Recommended management 
+techniques to prevent and control odor emissions include the 
+following: 
+• 
+Ensure wastewater treatment facilities are properly 
+designed and maintained for the anticipated wastewater 
+load;  
+• 
+Keep all working and storage areas clean; 
+• 
+Empty and clean the fat trap frequently (e.g. daily emptying 
+and weekly cleaning); 
+• 
+Minimize stock of waste and by-products and store for 
+short periods in cold, closed, and well-ventilated rooms; 
+• 
+Enclose production activities that cause odor and operate 
+under vacuum. 
+Energy Consumption 
+Dairy processing facilities consume considerable amounts of 
+energy. Typically, approximately eighty percent of the energy 
+requirements are for thermal uses to generate hot water and 
+produce steam for process applications (e.g. pasteurization, 
+evaporation, and milk drying) and cleaning purposes. The 
+remaining 20 percent is used as electricity to drive processing 
+machinery, refrigeration, ventilation, and lighting. In addition to 
+recommendations to increase energy efficiency discussed in the 
+General EHS Guidelines, the following industry-specific 
+measures are recommended: 
+• 
+Reduce heat loss by : 
+o 
+Using continuous, instead of batch, pasteurizers 
+o 
+Partially homogenizing milk to reduce the size of heat 
+exchangers 
+o 
+Using multistaged evaporators 
+o 
+Insulating steam, water, and air pipes / tubes 
+o 
+Eliminating steam leakage and using thermostatically 
+controlled steam and water blending valves 
+• 
+Improve cooling efficiency by: 
+o 
+Insulating refrigerated room / areas 
+o 
+Installing automatic door closing (e.g. with 
+microswitches) and applying airlocks and alarms;
+=== PAGE 5 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+5 
+WORLD BANK GROUP
+• 
+Employ heat recovery for both heating and cooling 
+operations in milk pasteurizers and heat exchangers (e.g. 
+regenerative countercurrent flow); 
+• 
+Investigate the means to recover waste heat, including: 
+o 
+Recovering waste heat from refrigeration plant, 
+exhaust, and compressors (e.g. to preheat hot water) 
+o 
+Recovering evaporative energy 
+o 
+Employing heat recovery from air compressors and 
+boilers (e.g. waste gas exchanger) 
+1.2  
+Occupational Health and Safety  
+Occupational health and safety hazards for dairy processing 
+facilities are similar to those of other industrial facilities and 
+recommendations for the management of these issues can be 
+found in the General EHS Guidelines. In addition, occupational 
+health and safety issues that may be specifically associated with 
+dairy processing operations include the following: 
+• 
+Physical hazards 
+• 
+Biological hazards 
+• 
+Chemical hazards 
+• 
+Exposure to heat, cold, and radiation 
+Physical Hazards 
+Physical hazards include exposure to same-level fall hazards 
+due to slippery conditions, the use of machines and tools, and 
+collisions with internal transport equipment (e.g. forklift trucks 
+and containers). Guidance on general workplace conditions, 
+including design and maintenance of working and walking 
+surfaces to prevent slips and falls, is presented in the General 
+EHS Guidelines. Additional, industry-specific recommendations 
+are presented below.  
+• 
+Maintain walking and working surfaces clean and dry and 
+provide workers with antislip footwear; 
+• 
+Provide workers with training in the proper use of 
+equipment (including the proper use of machine safety 
+devices) and personal protective equipment (PPE), such as 
+hearing protection; 
+• 
+Ensure that the process layout reduces opportunities for 
+process activities to cross paths, thus avoiding collisions 
+and falls; 
+• 
+Demarcate transport corridors and working areas and 
+ensure the proper placement of handrails on platforms, 
+ladders, and stairs; 
+• 
+Ground all electrical equipment and installations in wet 
+rooms. 
+Lifting, Repetitive Work, and Work Posture Injuries 
+Dairy processing activities may include a variety of situations in 
+which workers can be exposed to lifting, carrying, repetitive 
+work, and work-posture injuries. Such injuries may result from 
+heavy manual lifting and repetitive work, including the operation 
+of slicing and vacuum-packing machines and poor working 
+postures caused by inadequate workstation and process activity 
+design. Recommended management approaches, including the 
+use of mechanical equipment where necessary (e.g. to move 
+pallets of milk carton) to reduce these injuries are discussed in 
+the General EHS Guidelines. 
+Biological Hazards 
+Exposure to biological and microbiological agents may be 
+associated with inhalation and ingestion of dust and aerosols, 
+particularly in milk powder operations. Dust from the ingredients 
+used in dairy processing and high levels of humidity may cause 
+skin irritation or other allergic reactions. 
+In addition to the guidance included in the General EHS 
+Guidelines, recommendations for the prevention and control of 
+exposures to biological hazards specific to dairy processing 
+include the following:
+=== PAGE 6 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+6 
+WORLD BANK GROUP
+• 
+Avoid dust- and aerosol-generating activities (e.g. use of 
+compressed air or high-pressure water for cleaning) and, 
+where they cannot be avoided, provide proper ventilation of 
+enclosed or semi-enclosed areas to reduce or eliminate 
+exposure to dust and aerosols;  
+• 
+Install exhaust ventilation equipped with filters and / or 
+cyclones,  at sources of dust;  
+• 
+Provide workers with PPE that is appropriate for the 
+process activity; 
+• 
+Ensure physical segregation of work and welfare facilities 
+to maintain worker personal hygiene; 
+• 
+Avoid direct contact with non-conforming dairy products. 
+  
+Chemical Hazards 
+Exposure to chemicals (including gases and vapors) typically 
+involves chemical-handling activities related to cleaning 
+operations and disinfection of process areas, in addition to the 
+maintenance of heating (thermal oils) and cooling systems 
+(ammonia). Recommended measures to prevent and control 
+exposure to chemicals are discussed in the General EHS 
+Guidelines. 
+Heat and Cold 
+Workers at dairy processing facilities may be exposed to heat 
+from process activities and to cold in refrigeration areas and 
+rooms. Recommendations for the management of exposure to 
+heat and cold are presented in the General EHS Guidelines. 
+Noise and Vibrations  
+The main sources of noise in a dairy processing facility are 
+centrifuges, homogenizers, spray towers, and filling and packing 
+machinery which are all typically located in enclosed buildings. 
+Recommendations for the management of exposure to noise 
+and vibration are presented in the General EHS Guidelines. 
+1.3 
+Community Health and Safety  
+Community health and safety impacts during the construction of 
+dairy processing plants are common to those from the 
+construction of other industrial facilities and are discussed in the 
+General EHS Guidelines. During the facility’s planning phase, 
+the location of the processing facility should be designated at an 
+appropriate distance from neighbors, and access roads should 
+be assessed for suitable use in food transport. Community 
+health and safety impacts during the operation phase that are 
+common to most industry sectors, including those related to 
+traffic safety during transport of raw materials and finished 
+product, are discussed in the General EHS Guidelines. 
+Industry-specific issues with the potential to impact the 
+community or the public at large are those associated with 
+pathogens or microbial contaminants, as well as other chemical 
+or physical impacts, associated with processed dairy products.  
+Food Safety Impacts and Management 
+A food product recall caused by contaminated or adulterated 
+food products can damage a viable business. If a company can 
+trace its products to specific lot numbers, then recall is a matter 
+of removing all foods associated with those numbers. With a 
+robust food safety program in place, a company can protect 
+itself from product adulteration, contamination, and the impacts 
+of food recalls.  
+Dairy processing should be undertaken according to 
+internationally recognized food safety standards consistent with 
+the principles and practice of HACCP3 and Codex Alimentarius.4 
+Recommended food safety principles include the following: 
+• 
+Respect “clean” and “dirty” zoning, designed in accordance 
+with HACCP prerequisites (e.g. sanitary standard operating 
+procedures), as discussed below; 
+                                                   
+3 ISO (2005). 
+4 FAO and WHO (1962–2005).
+=== PAGE 7 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+7 
+WORLD BANK GROUP
+• 
+Ensure the cooling chain is unbroken for sensitive products 
+requiring refrigeration; 
+• 
+As far as possible, ensure full traceability of all materials 
+and products throughout the supply chain; 
+• 
+Ensure adequate veterinary inspection, including 
+examination of vaccination certificates for the animals in 
+the supply chain;  
+• 
+Comply with veterinary regulations and precautions for 
+management of waste, sludge, and by-products; 
+• 
+Institutionalize all HACCP prerequisites, including 
+o 
+Sanitation 
+o 
+Good-management practices 
+o 
+Implementation of integrated pest and vector 
+management programs and maximization of pest and 
+vector control through mechanical means (e.g. traps 
+and use mesh on doors and windows to reduce the 
+need for chemical pest and vector control) 
+o 
+Chemical control 
+o 
+Allergen control 
+o 
+Customer complaints mechanism 
+o 
+Traceability and recall 
+2.0 
+Performance Indicators and 
+Monitoring 
+2.1  
+Environment 
+Effluent Guidelines 
+Table 1 presents effluent guidelines for this sector. Guideline 
+values for process emissions and effluents in this sector are 
+indicative of good international industry practice as reflected in 
+relevant standards of countries with recognized regulatory 
+frameworks. Guideline values for process emissions and 
+effluents in this sector are indicative of good international 
+industry practice as reflected in relevant standards of countries 
+with recognized regulatory frameworks. These guidelines are 
+achievable under normal operating conditions in appropriately 
+designed and operated facilities through the application of 
+pollution prevention and control techniques discussed in the 
+preceding sections of this document.   These levels should be 
+achieved, without dilution, at least 95 percent of the time that the 
+plant or unit is operating, to be calculated as a proportion of 
+annual operating hours. Deviation from these levels in 
+consideration of specific, local project conditions should be 
+justified in the environmental assessment.  
+Effluent guidelines are applicable for direct discharges of treated 
+effluents to surface waters for general use. Site-specific 
+discharge levels may be established based on the availability 
+and conditions in use of publicly operated sewage collection and 
+treatment systems or, if discharged directly to surface waters, 
+on the receiving water use classification as described in the 
+General EHS Guidelines.  
+Emissions guidelines are applicable to process emissions. 
+Combustion source emissions guidelines associated with 
+steam- and power-generation activities from sources with a 
+capacity equal to or lower than 50 MWth are addressed in the 
+General EHS Guidelines with larger power source emissions 
+addressed in the EHS Guidelines for Thermal Power. 
+Guidance on ambient considerations based on the total load of 
+emissions is provided in the General EHS Guidelines.
+=== PAGE 8 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+8 
+WORLD BANK GROUP
+Table 1. Effluent levels dairy processing 
+Pollutants 
+Units 
+Guideline Value 
+pH 
+pH 
+6 – 9 
+BOD5 
+mg/l 
+50 
+COD 
+mg/l 
+250  
+Total nitrogen  
+mg/l 
+10  
+Total phosphorus 
+mg/l 
+2 
+Oil and grease 
+mg/l 
+10 
+Total suspended solids 
+mg/l 
+50 
+Temperature increase 
+°C 
+<3b 
+Total coliform bacteria 
+MPNa / 100 ml 
+400 
+Active Ingredients / 
+Antibiotics 
+To be determined on a case specific 
+basis 
+Notes:  
+a MPN = Most Probable Number 
+b At the edge of a scientifically established mixing zone which takes into 
+account ambient water quality, receiving water use, potential receptors and 
+assimilative capacity 
+ 
+Resource Use and Waste Generation 
+Tables 2 and 3 present information on resource use and waste 
+generation in the dairy processing sector, which can be 
+considered as indicators of this sector’s efficiency and may be 
+used to track performance changes over time. Table 3 presents 
+energy and resource consumption data for dairy processing 
+facilities. The table shows that the variation is large, mainly 
+because of differences in product variety and batch sizes. The 
+quantity of wastewater is generally smaller compared with the 
+consumption of freshwater. This is in part because some of the 
+water used for cooling condensers evaporates and in part 
+because some of the unpolluted, spent cooling water is not 
+monitored during discharge into the surroundings.  
+The variation in the energy consumption figures is the result of 
+the differing proportions of energy-consuming products (e.g., 
+powder) within the product range. Plants with powder production 
+generally have higher energy consumption than in other plants. 
+Within the group of market milk producers, the production of 
+butter slightly increases energy consumption. 
+Table 2. Waste generation in the dairy sector. 
+Product range 
+Total solid waste (kg/1000 l)  
+Market milk and cultured 
+products  
+1.7–14a  
+Cheese, whey, and 
+powder  
+0.5–10b 
+Ice cream  
+35–58c 
+a Based on results from 13 dairies. 
+b Based on results from 17 dairies. 
+c Based on results from 4 dairies. 
+Source: Nordic Council of Ministers (2001).
+=== PAGE 9 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+9 
+WORLD BANK GROUP
+ 
+ 
+Table 3. Resource and energy consumption. 
+Inputs per unit of 
+product 
+Mass load 
+unit 
+European 
+dairiesa 
+Swedish 
+dairiesb 
+Danish 
+dairiesb 
+Finnish 
+dairiesb 
+Norwegian 
+dairiesb 
+Industry 
+benchmarkc 
+Water 
+Market milk and cultured 
+products 
+L/L processed 
+milk 
+ 
+0.96–2.8 
+0.60–0.97 
+1.2–2.9 
+4.1 
+1.0–1.5 
+Cheese and whey 
+L/L processed 
+milk 
+ 
+2.0–2.5 
+1.2–1.7 
+2.0–3.1 
+2.5–3.8 
+1.4–2.0 
+Milk powder, cheese, 
+and (or) liquid products 
+L/L processed 
+milk 
+ 
+1.7–4.0 
+0.69–1.9 
+1.4–4.6 
+4.6–6.3 
+0.8–1.7 
+Ice cream 
+L/kg icecream 
+ 
+ 
+ 
+ 
+ 
+4.0–5.0 
+Energy 
+Market milk and cultured 
+products 
+kWh/L 
+processed milk 
+0.09–1.11 
+0.11–0.34 
+0.07–0.09 
+0.16–0.28 
+0.45 
+0.1–0.2 
+Cheese and whey 
+kWh/L 
+processed milk 
+0.06–2.08 
+0.15–0.34 
+0.12–0.18 
+0.27–0.82 
+0.21 
+0.2–0.3 
+Milk powder, cheese, 
+and (or) liquid products 
+kWh/L 
+processed milk 
+0.85–6.47 
+0.18–0.65 
+0.30–0.71 
+0.28–0.92 
+0.29–0.34 
+0.3–0.4 
+Ice cream 
+KWh/kg ice 
+cream 
+ 
+0.75–1.6 
+0.8–1.2 
+Wastewater discharge 
+Market milk and cultured 
+products 
+Liters/L 
+processed milk 
+ 
+0.8–2.5 
+0.83–0.94 
+1.2–2.4 
+2.6 
+0.9–1.4 
+Cheese and whey 
+Liters/L 
+processed milk 
+ 
+1.4–2.0 
+0.77–1.4 
+1.5–3.2 
+3.2 
+1.2–1.8 
+Milk powder, cheese, 
+and (or) liquid products 
+liters/L 
+processed milk 
+ 
+1.2–4.3 
+0.75–1.5 
+1.9–3.9 
+2.0–3.3 
+0.8–1.5 
+Ice cream 
+L/kg ice cream 
+ 
+2.7–4.4 
+- 
+5.6 
+3.0–7.8 
+2.7– 4.0 
+a European Dairy Association (2002), cited in EC (2006). 
+b Nordic Council of Ministers (2001). The numbers in brackets refer to the number of dairies in the sample. 
+c Nordic Council of Ministers (2001).
+=== PAGE 10 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+10 
+WORLD BANK GROUP
+Environmental Monitoring 
+Environmental monitoring programs for this sector should be 
+implemented to address all activities that have been identified to 
+have potentially significant impacts on the environment during 
+normal operations and upset conditions. Environmental-
+monitoring activities should be based on direct or indirect 
+indicators of emissions, effluents, and resource use applicable 
+to the particular project. 
+Monitoring frequency should be sufficient to provide 
+representative data for the parameter being monitored. 
+Monitoring should be conducted by trained individuals following 
+monitoring and record-keeping procedures and using properly 
+calibrated and maintained equipment. Monitoring data should be 
+analyzed and reviewed at regular intervals and compared with 
+the operating standards so that any necessary corrective 
+actions can be taken. Additional guidance on applicable 
+sampling and analytical methods for emissions and effluents is 
+provided in the General EHS Guidelines. 
+2.2  
+Occupational Health and Safety 
+Occupational Health and Safety Guidelines 
+Occupational health and safety performance should be 
+evaluated against internationally published exposure guidelines, 
+of which examples include the Threshold Limit Value (TLV®) 
+occupational exposure guidelines and Biological Exposure 
+Indices (BEIs®) published by American Conference of 
+Governmental Industrial Hygienists (ACGIH),5  the Pocket Guide 
+to Chemical Hazards published by the United States National 
+Institute for Occupational Health and Safety (NIOSH),6 
+Permissible Exposure Limits (PELs) published by the 
+Occupational Safety and Health Administration of  the United 
+                                                   
+5 Available at: http://www.acgih.org/TLV/ and http://www.acgih.org/store/ 
+6 Available at: http://www.cdc.gov/niosh/npg/ 
+States (OSHA),7 Indicative Occupational Exposure Limit Values 
+published by European Union member states,8 or other similar 
+sources. 
+Accident and Fatality Rates 
+Projects should try to reduce the number of accidents among 
+project workers (whether directly employed or subcontracted) to 
+a rate of zero, especially accidents that could result in lost work 
+time, different levels of disability, or even fatalities. Facility rates 
+may be benchmarked against the performance of facilities in this 
+sector in developed countries through consultation with 
+published sources (e.g. US Bureau of Labor Statistics and UK 
+Health and Safety Executive)9. 
+Occupational Health and Safety Monitoring 
+The working environment should be monitored for occupational 
+hazards relevant to the specific project. Monitoring should be 
+designed and implemented by accredited professionals10 as part 
+of an occupational health and safety monitoring program. 
+Facilities should also maintain a record of occupational 
+accidents and diseases and dangerous occurrences and 
+accidents. Additional guidance on occupational health and 
+safety monitoring programs is provided in the General EHS 
+Guidelines. 
+                                                   
+7 Available at: 
+http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDAR
+DS&p_id=9992 
+8 Available at: http://europe.osha.eu.int/good_practice/risks/ds/oel/ 
+9 Available at: http://www.bls.gov/iif/ and 
+http://www.hse.gov.uk/statistics/index.htm 
+10 Accredited professionals may include Certified Industrial Hygienists, 
+Registered Occupational Hygienists, or Certified Safety Professionals or their 
+equivalent.
+=== PAGE 11 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+11 
+WORLD BANK GROUP
+3.0 
+References and Additional Sources
+Arbejdstilsynet. 2005. Anmeldte arbejdsbetingede lidelser 1999–2000.  
+Årsopgørelse 2004. Reported Accumulated Occupational Disease 1999–2004. 
+Annual Report 2004. Copenhagen: Arbejdstilsynet. Available at 
+http://www.at.dk/graphics/at/07-Arbejdsmiljoe-i-tal/02-
+Arbejdsskader/Aarsopgoerelser/Anmeldte-arbejdsbetingede-lidelser-2004.pdf 
+BLS (US Bureau of Labor Statistics). 2004a. Industry Injury and Illness Data — 
+2004. Supplemental News Release Tables. Table SNR05: Incident Rate and 
+Number of Nonfatal Occupational Injuries by Industry, 2004. Washington, DC: 
+BLS. Available at http://www.bls.gov/iif/oshwc/osh/os/ostb1479.pdf 
+BLS (US Bureau of Labor Statistics). 2004b. Census of Fatal Occupational 
+Injuries Charts, 1992–2004. Number and Rate of Fatal Occupational Injuries by 
+Private Industry Sector, 2004. Washington, DC: BLS. Available at 
+http://www.bls.gov/iif/oshwc/cfoi/cfch0003.pdf  
+EC (European Commission). 2006. Integrated Pollution Prevention and Control. 
+Reference Document on Best Available Techniques in the Food, Drink and Milk 
+Industries. Seville, Spain: EC. Available at 
+http://eippcb.jrc.es/pages/FActivities.htm  
+ EC (European Commission). 1996. Council Directive 96/61/EC of 24 
+September 1996 Concerning Integrated Pollution Prevention and Control 
+(IPPC). Brussels: EC. Available at: 
+http://europa.eu.int/comm/environment/ippc/index.htm Consolidated: 
+http://europa.eu.int/eur-lex/en/consleg/pdf/1996/en_1996L0061_do_001.pdf  
+ FAO and WHO (Food and Agriculture Organization and World Health 
+Organization).1962–2005. Codex Alimentarius. Geneva: FAO and WHO. 
+Available at http://www.codexalimentarius.net/web/index_en.jsp 
+HSC (Health and Safety Commission). 2005a. United Kingdom. Rates of 
+Reported Fatal Injury to Workers, Non-Fatal Injuries to Employees and LFS 
+Rates of Reportable Injury to Workers in Manufacturing. London: National 
+Statistics. Available at http://www.hse.gov.uk/statistics/industry/manufacturing-
+ld1.htm#notes  
+HSC (Health and Safety Commission) 2005b. Health and Safety Statistics 
+2004/05. London: National Statistics. Available on page 21 at 
+http://www.hse.gov.uk/statistics/overall/hssh0405.pdf  
+HSC (Health and Safety Commission) 2005c. United Kingdom. Statistics of Fatal 
+injuries 2004/05. Fatal Injuries to Workers in Manufacturing. London: National 
+Statistics. Available at www.hse.gov.uk/statistics/overall/fatl0405.pdf  
+India EPA (Environmental Protection Agency). 1992. India EPA (Environmental 
+Protection Agency). Notification 5 May 1992. 20.0 Dairy Industry: Effluent 
+Standards. Delhi: India EPA. Available at http://www.cpcb.nic.in/standard20.htm 
+International Dairy Federation. 2001. Bulletin of the International Dairy 
+Federation. Nos. 327/1997, 382/2003, 365/2001. Available at http://www.fil-
+idf.org 
+Irish EPA (Environmental Protection Agency). 1996. BATNEEC Guidance Note. 
+Class 7.2. Manufacture of Dairy Products. Draft 3. Dated 15 May 1996. Wexford: 
+Irish EPA. Available at 
+http://www.epa.ie/Licensing/IPPCLicensing/BATNEECGuidanceNotes/  
+ISO (International Organization for Standardization). 2005. ISO 22000: 2005: 
+Food Safety Management Systems — Requirements for Any Organization in the 
+Food Chain. Geneva: ISO. Available at 
+http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=3
+5466&ICS1=67&ICS2=20&ICS3=  
+ISO (International Organization for Standardization). 2004. ISO 14001: 2004: 
+Environmental Management Systems — Requirements with guidance for use. 
+Geneva: ISO. Available at 
+http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=3
+5466&ICS1=67&ICS2=20&ICS3=  
+Nordic Council of Ministers. 2001. Best Available Techniques (BAT) for the 
+Nordic Dairy Industry. TemaNord 2001:586. ISBN 92-893-0706-4. Copenhagen: 
+Nordic Council of Ministers. 
+Thailand MOSTE (Ministry of Science, Technology and Environment). 1996. 
+Industrial Effluent Standard. Notification No. 3, B.E.2539 (1996).  Bangkok: 
+MOSTE. Available at 
+http://www.pcd.go.th/info_serv/en_reg_std_water04.html#s1  
+US EPA (Environment Protection Agency). 2006. Ag101. Available at 
+http://www.epa.gov/oecaagct/ag101/printdairy.html  
+Water Environment Federation. 2005. Standard Methods for the Examination of 
+Water and Wastewater, 21st ed. American Public Health Association, American 
+Water Works Association, and Water Environment Federation. Available at 
+www.standardmethods.org  
+World Bank Group. 1998. Pollution Prevention and Abatement Handbook. Dairy 
+Industry. Effective July 1998. Washington, DC: World Bank Group. Available at 
+http://www.ifc.org/ifcext/enviro.nsf/Content/EnvironmentalGuidelines
+=== PAGE 12 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+12 
+WORLD BANK GROUP
+Annex A: General Description of Industry Activities 
+The dairy sector converts raw milk into safe products for human 
+consumption. Products range from pasteurized and ultra high 
+temperature processing (UHT) milk to value-added dairy 
+products such as yoghurt, butter and cheese. In the past, liquid 
+milk and fresh dairy product plants tended to be located in or 
+near urban centers. The modern trend is for plants to be 
+situated close to the raw milk supply, especially those producing 
+long life products (e.g. UHT, cheese, and milk powders). The 
+current trend toward large processing plants has provided 
+companies with more automated and efficient equipment. This 
+development tends to increase the environmental impact in 
+some areas, mainly due to high concentration of waste and 
+increased traffic. Dairy processing plants can be divided into two 
+categories: 
+• 
+Fluid milk processing involving the pasteurization and 
+processing of raw milk into liquid milk for direct consumption, 
+as well as cream, flavored milk, and fermented products such 
+as buttermilk and yogurt. 
+• 
+Industrial milk processing involving the pasteurization and 
+processing of raw milk into value-added dairy products such 
+as cheese and casein, butter and other milk fats, milk powder 
+and condensed milk, whey powder and other dairy 
+ingredients, and ice cream and other frozen dairy products.  
+Dairy processing is continuously improving. New filtration and 
+drying processes have increased recovery of milk solids that were 
+previously discharged. Processes have become significantly more 
+energy efficient and the use of electronic monitoring, control, and 
+regulation systems has improved processing effectiveness and 
+reduced product loss considerably.  
+Figure A-1 presents a simplified schematic diagram of the 
+processes in a notional dairy, each of which is further described 
+below.  
+Raw Milk Collection, Reception and Storage 
+The first steps in preserving the quality of milk should be taken at 
+the farm. To achieve the best quality raw milk at intake, milking 
+conditions must be as hygienic as possible. The milk must be 
+chilled to below + 4oC immediately after milking and be kept at this 
+temperature during transport to the dairy. 
+Best practice indicates that farms or intermediate collection centers 
+be equipped with stainless steel refrigerated bulk storage tanks. 
+Raw milk is collected and transported to the processing plant in 
+stainless steel insulated or refrigerated bulk tank cars of up to 
+30,000 liters. Markets with a predominance of small farmers may 
+still use aluminum or stainless steel cans of 30-50 liters which are 
+collected by, or delivered to, the processing plant.  
+Where water and electricity is not available the milk should be 
+delivered to a central collecting point with cooling facilities or 
+delivered to the dairy for processing immediately after milking. Bulk 
+tanks or cans should be cleaned and sanitized immediately after 
+discharge at the dairy. Water is used to rinse and clean the 
+reception lines, road tankers, and cans. Modern plants may employ 
+Clean in Place systems (CIP) and automated can washers.  
+At the reception point, the raw milk is sampled for quality analysis 
+and, after acceptance, measured by volume or by weight and 
+cooled to a temperature below +4ºC. After cooling, the milk is 
+stored in a silo to await processing. Ice water is normally used for 
+cooling.  
+Separation and Standardization  
+Centrifugal separation and clarification is common in dairy 
+processing to ensure further processing of standard products 
+avoiding quality variations. In most dairies, the cream separation 
+and clarification is carried out using self-cleaning separators. The 
+separator also discharges sediment consisting of dirt particles,
+=== PAGE 13 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+13 
+WORLD BANK GROUP
+udder cells, and bacteria, and leucocytes, which normally is 
+collected or led to the wastewater drain. 
+Standardization of the dry matter for fat, protein, and lactose 
+content of the milk usually takes place in the production phase 
+of most dairy products. The most common techniques include 
+mixing of skimmed milk and cream, evaporation, and membrane 
+filtration.  
+Homogenization  
+The aim of homogenization is to prevent gravity separation of the 
+fat in the product and to improve the syneresis stability of mainly 
+cultured products. The homogenizer consists of a high-pressure 
+pump and homogenizing valve driven by a powerful electric motor. 
+Heat Treatment and Cooling of Milk Products 
+Regardless of what the end product will be, the milk is usually heat 
+treated to ensure that all pathogenic11 microorganisms are 
+removed. This is achieved by pasteurization or sterilization, a 
+heating procedure that is required by law in most countries with the 
+exception of some types of cheese made from unpasteurized 
+milk12. To save energy, the pasteurization process should involve 
+regenerative heat exchange, which means that the already 
+pasteurized milk is used as a heating medium for the incoming cold 
+milk. After heating, the milk is cooled down to a temperature 
+suitable for subsequent processing or storage. 
+Milk and Dairy Product Production 
+Cheese Production 
+Cheese is obtained by coagulation of milk and consists mainly of 
+the protein and fat fractions of the milk. Cheese production involves 
+several steps common to most types of cheese and includes 
+coagulation and separation of curd, pressing, salting, ripening, and 
+packaging. Depending on the type of cheese produced, 85–90 
+                                                   
+11 A pathogenic organism is one which causes disease, sickness or toxicity. 
+12 Not permitted in all jurisdictions 
+percent of the original milk volume is separated as a residual liquid 
+by-product called whey which contains the lactose fraction of the 
+milk and some proteins. Whey can be further processed by 
+concentration and drying to produce powders, whey protein 
+concentrates, lactose and animal feeds. It may also be sold directly 
+as animal feed. Membrane filtration can be used in cheese 
+production as an effective means of limiting the loss of milk solids, 
+but membrane cleaning requires large quantities of water, heat, 
+and cleaning agents. 
+Butter Production 
+Butter can be produced as batches in churns or continuously in a 
+continuous butter-making machine. Although churns are still used 
+today,  most of them have been replaced by continuous machines. 
+The churning step produces buttermilk, which represents a 
+potential waste stream unless collected for sale. Emptying and 
+cleaning of butter-making equipment and packaging machines 
+generate waste and wastewater containing fat.   
+Condensed Milk, Milk Powder, and Dairy Ingredients 
+For these products, evaporation or membrane filtration issued to 
+pre-concentrate skimmed milk, whole milk, buttermilk, and whey 
+before final processing. The final drying is usually achieved by 
+spray drying, in which an atomizer disperses the pre-concentrated 
+milk as a fog-like mist into a large chamber through which hot air is 
+drawn in a spiral pattern. The water in the milk spray evaporates 
+instantly to form powder particles. Alternatively, the older drum 
+drying process may be used, in which the water evaporates on 
+rotating, steam-heated drums. 
+Ice Cream 
+Ice cream manufacture involves the handling of both dry and liquid 
+raw materials including reception of milk, cream, sugar and other
+=== PAGE 14 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+14 
+WORLD BANK GROUP
+ingredients; mixing operations; pasteurizing, freezing and 
+hardening; packaging; and storage at temperatures below -180C.  
+Packaging of Milk and Dairy Products  
+Packaging protects the product from bacteriological, light, and 
+oxygen contamination. Liquid milk products may be packed in a 
+beverage carton, which is mainly paperboard covered by a thin 
+layer of food-grade polyethylene on either side. Milk cartons for 
+long-life milk have an additional layer of aluminum foil. Many 
+other packaging materials are also used, ranging from simple 
+plastic pouches to glass bottles, PET laminates and PVC 
+bottles. PET laminates are becoming increasingly popular and 
+are blown at the plant from granulates, generating small 
+amounts of plastic waste when the neck of the container is cut 
+off. Cultured products are packed in beverage cartons or plastic 
+cups and bottles with lids of aluminum foil or paper. In some 
+cases the containers are wrapped together in a carton as 
+multipacks.
+=== PAGE 15 ===
+Environmental, Health, and Safety Guidelines 
+  
+DAIRY PROCESSING 
+ 
+                             
+ 
+APRIL 30, 2007 
+15 
+WORLD BANK GROUP
+ 
+Figure A-1. Dairy Processing Activities 
+Pasteurization  
+Separation and 
+standardization 
+Milk receipt and 
+storage 
+Whole and 
+skimmed milk 
+products 
+Cold storage 
+Packaging and distribution 
+Butter production 
+Milk powder 
+Cheese 
+production 
+Source: Adapted from English Dairy Board (2004)
+Raw milk and 
+minor ingredients 
+ 
+ 
+ 
+Water 
+ 
+ 
+ 
+ 
+Energy (electricity, 
+steam) 
+ 
+ 
+ 
+ 
+Detergents and 
+sanitizers 
+ 
+ 
+ 
+Refrigerants 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Packaging 
+materials 
+Dairy products
+ 
+ 
+ 
+Effluent from - 
+Tanker washing 
+Cleaning 
+Milk spills 
+Cheese whey 
+ 
+ 
+ 
+ 
+Air emissions –  
+Combustion gases 
+Milk powder dust 
+Refrigerant gases 
+Odor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solid waste – 
+Damaged 
+products 
+Out-of-date 
+products 
+OUTPUTS
+INPUTS

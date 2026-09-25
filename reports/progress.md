@@ -200,3 +200,18 @@ Part 3 drafted (report/chapters/03_part3_foundations.md)
 Open
 - Pump census and a park load study (both preparatory-period tasks).
 - Land law is only a 2017 draft bill.
+
+## 2026-09-25: Part 3 revised after Hassan's review (irrigation per hectare; benchmarked factory electricity)
+
+- Irrigation is now modelled per hectare. Diesel per hectare comes from the water pumped (measured on 10 Afgoi sesame plots, S-164), the pumping head, the pump-set efficiency and diesel's energy content (UK factors, D-0086). Fuel is priced at the NBS Mogadishu diesel prices before and after the February 2026 shock (C-0039, C-0040), and solar cost per hectare comes from the Philippine NIA projects (S-165, D-0087/D-0088).
+- Base results: 122 litres per hectare a year; fuel USD 73 to 182 per hectare a year; solar USD 191 per hectare a year (annualised). On fuel alone, solar is roughly break-even at the post-shock price.
+- The programme is sized in hectares (20,000 by 2032) instead of an unknown pump count. Figure 3.4 panel B was replaced by a per-hectare comparison.
+- The Philippine study (S-165) is used for engineering data only. Its headline saving assumes 24-hour diesel running without discounting, and its fuel-use figure is internally inconsistent.
+- Factory electricity use is now benchmarked on IFC EHS Guidelines (meat, fish, dairy, vegetable oil), EU BAT levels for grain milling and the ZAK soap plant. Park demand is 62 GWh a year: 24.5 MW of PV and USD 35.0 million.
+- No benchmark was found for garments, BPO, diapers, tanning and a few smaller lines. A load study remains necessary.
+- New sources S-165 to S-169 and S-172; claims C-0545 to C-0564 and D-0081 to D-0092, all fact-checked (C-0547 and D-0081 superseded after the checker found a row misreading).
+
+Open
+- Pumping head and pump-set efficiency are engineering estimates, to be replaced by the pump survey.
+- The 113,652-hectare Afgoi figure may be cultivable rather than irrigated land (FAO SWALIM 2012 not yet obtained).
+- UNEP cleaner-production guides and Ramírez (2006) could not be downloaded (sites block automated access). Hassan could supply them to firm up the meat electricity share.

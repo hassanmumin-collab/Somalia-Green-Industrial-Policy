@@ -555,12 +555,14 @@ def fig_3_3(x: Ctx):
     return fig
 
 
-@figure("3.4", "Riverine irrigation: what was lost and what pumping costs farmers",
-        "National Irrigation Policy (Ministry of Agriculture and Irrigation); Hiiraan Online news report (18 September 2026).",
-        "Panel A: areas are pre-war estimates and a potential, not current figures. Panel B reports two individual farmers "
-        "in Afgoye district quoted in a news report; it is illustrative, not a survey.")
+@figure("3.4", "Riverine irrigation: what was lost, and what pumping a hectare costs",
+        "National Irrigation Policy (Ministry of Agriculture and Irrigation); NBS inflation outlook (March 2026) for diesel "
+        "prices; model base scenario (modelled estimate).",
+        "Panel A: areas are pre-war estimates and a potential, not current figures. Panel B, per hectare a year: diesel is "
+        "fuel only, for water pumped at rates measured in Afgoi (two seasons), and excludes the diesel pump's own capital and "
+        "maintenance; solar is the annualised capital cost of Philippine canal-scale projects. Illustrative, not a forecast.")
 def fig_3_4(x: Ctx):
-    fig, (a, b) = plt.subplots(2, 1, figsize=(WIDTH, 5.0), gridspec_kw=dict(height_ratios=[1.3, 1], hspace=0.65))
+    fig, (a, b) = plt.subplots(2, 1, figsize=(WIDTH, 5.4), gridspec_kw=dict(height_ratios=[1.2, 1.2], hspace=0.65))
     rows = [("Equipped for irrigation, 1984", x.C("C-0210"), GREY), ("Irrigated before the war", x.C("C-0206"), BLUE),
             ("Potential under pump or recession irrigation", x.C("C-0207"), GREEN)]
     vals = [v for _, v, _ in rows]
@@ -573,13 +575,17 @@ def fig_3_4(x: Ctx):
     a.xaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v, _: f"{v:,.0f}"))
     a.set_title("A. Irrigable area (hectares)")
     a.grid(axis="y", visible=False)
-    f1, f2 = x.C("C-0530"), x.C("C-0531")
-    b.barh([0, 1], [f1, f2], color=ORANGE, height=0.55)
-    b.set_yticks([0, 1], ["Farmer 1, lower end of range", "Farmer 2, upper end of range"])
+    p0, p1 = x.C("C-0039"), x.C("C-0040")
+    per_ha = [(f"Diesel at USD {p0:.2f} a litre\n(before February 2026)", x.M("climate.irrigation.fuel_cost_per_ha.before_shock"), ORANGE),
+              (f"Diesel at USD {p1:.2f} a litre\n(after February 2026)", x.M("climate.irrigation.fuel_cost_per_ha.after_shock"), RED),
+              ("Solar pumping, annualised\ncapital cost (model, base)", x.M("climate.irrigation.solar_cost_per_ha_year"), GREEN)]
+    v2 = [v for _, v, _ in per_ha]
+    b.barh(range(3), v2, color=[c for *_, c in per_ha], height=0.6)
     b.invert_yaxis()
-    hbar_labels(b, [f1, f2], lambda v: f"{v:g}", 8)
-    b.set_xlim(0, f2 * 1.25)
-    b.set_title("B. Cost per irrigation round with a fuel-powered pump (USD)")
+    b.set_yticks(range(3), [n for n, *_ in per_ha])
+    hbar_labels(b, v2, lambda v: f"{v:,.0f}", 4)
+    b.set_xlim(0, max(v2) * 1.3)
+    b.set_title("B. Cost of pumping one hectare for a year (USD)")
     b.grid(axis="y", visible=False)
     return fig
 

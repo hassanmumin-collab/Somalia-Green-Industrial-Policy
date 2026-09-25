@@ -7904,7 +7904,7 @@
   statement: Energy cost saving for park firms against diesel self-generation in 2032 (base scenario, modelled estimate).
   output_key: climate.minigrid.cost_saving.2032
   scenario: base
-  value: 12.6
+  value: 11.2
   unit: USD million
   rounding: 1
   period: '2032'
@@ -8083,7 +8083,7 @@
   statement: Solar PV capacity for the industrial parks, sized to the solar share of mature park demand (base scenario, modelled estimate).
   output_key: climate.minigrid.pv_mw
   scenario: base
-  value: 27.6
+  value: 24.5
   unit: MW
   rounding: 1
   period: '2032'
@@ -8095,7 +8095,7 @@
   statement: Electricity demand of the industrial parks at full build-out (base scenario, modelled estimate).
   output_key: climate.minigrid.mature_demand_gwh
   scenario: base
-  value: 70
+  value: 62
   unit: GWh a year
   rounding: 0
   period: full build-out
@@ -8143,7 +8143,7 @@
   statement: Capital cost of the park solar-plus-storage system over 2028 to 2032 (base scenario, modelled estimate).
   output_key: climate.minigrid.investment.cumulative
   scenario: base
-  value: 39.4
+  value: 35.0
   unit: USD million
   rounding: 1
   period: model horizon 2028 to 2032
@@ -8155,7 +8155,7 @@
   statement: Emissions avoided by the park solar supply against diesel generation in 2032 (base scenario, modelled estimate).
   output_key: climate.minigrid.avoided_t.2032
   scenario: base
-  value: 30674
+  value: 27239
   unit: t CO2 a year
   rounding: 0
   period: '2032'
@@ -8185,13 +8185,14 @@
   period: '2032'
   measure: diesel irrigation pumps replaced by solar by 2032
   basis: projection
-  status: illustrative
+  status: superseded
+  superseded_by: M-0015
   verified_at: '2026-09-25'
 - id: M-0012
   statement: Farmers' diesel saving from solar irrigation in 2032 (base scenario, modelled estimate).
   output_key: climate.irrigation.fuel_saving.2032
   scenario: base
-  value: 4.5
+  value: 2.2
   unit: USD million a year
   rounding: 1
   period: '2032'
@@ -8203,7 +8204,7 @@
   statement: Investment in solar irrigation over 2028 to 2032 (base scenario, modelled estimate).
   output_key: climate.irrigation.investment.cumulative
   scenario: base
-  value: 10.0
+  value: 29.0
   unit: USD million
   rounding: 1
   period: model horizon 2028 to 2032
@@ -8215,7 +8216,7 @@
   statement: Emissions avoided by solar irrigation in 2032 (base scenario, modelled estimate).
   output_key: climate.irrigation.avoided_t.2032
   scenario: base
-  value: 11977
+  value: 5821
   unit: t CO2 a year
   rounding: 0
   period: '2032'
@@ -8273,5 +8274,473 @@
   source_id: S-163
   page: 1
   quote: before each round of irrigation cost him between $300 and $500 in fuel
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0545
+  statement: 'Comparator (European Commission 2005, cited by the IFC): energy (fuel and electricity) used in cattle slaughtering ranges from 90 kWh per tonne of carcass.'
+  value: 90
+  unit: kWh per t cattle carcass (lower end, fuel and electricity)
+  period: '2005'
+  measure: specific energy consumption of cattle slaughtering, industry benchmark (low end)
+  basis: estimate
+  status: estimate
+  source_id: S-167
+  page: 11
+  quote: kWh/t cattle carcass kWh/t pig carcass 90–1094 (cattle)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0546
+  statement: 'Comparator (European Commission 2005, cited by the IFC): energy (fuel and electricity) used in cattle slaughtering ranges up to 1,094 kWh per tonne of carcass.'
+  value: 1094
+  unit: kWh per t cattle carcass (upper end, fuel and electricity)
+  period: '2005'
+  measure: specific energy consumption of cattle slaughtering, industry benchmark (high end)
+  basis: estimate
+  status: estimate
+  source_id: S-167
+  page: 11
+  quote: kWh/t cattle carcass kWh/t pig carcass 90–1094 (cattle)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0547
+  statement: 'Comparator (UNEP, cited by the IFC): blast freezing of fish uses about 328 MJ of energy per tonne of raw material.'
+  value: 328
+  unit: MJ per t raw fish
+  period: '2007'
+  measure: energy use of blast freezing, fish processing benchmark
+  basis: estimate
+  status: superseded
+  source_id: S-168
+  page: 9
+  quote: Freezing (contact freezer) Freezer (blast freezer) Fillet production Fish-meal production MJ MJ MJ MJ MJ 350 328 350 18 2300
+  verified_at: '2026-09-25'
+  fact_checked: false
+  superseded_by: C-0564
+  fact_check_note: 'FAIL (2026-09-25): Reason: 328 MJ is contact freezing; blast freezing is 350 MJ; energy rows not attributed to UNEP. Superseded by C-0564.'
+- id: C-0548
+  statement: 'Comparator (Nordic Council of Ministers, cited by the IFC): the industry benchmark for energy use in market milk and cultured products is 0.1 to 0.2 kWh per litre of processed milk; this is the lower end.'
+  value: 0.1
+  unit: kWh per litre processed milk (total energy, lower end)
+  period: '2001'
+  measure: specific energy consumption, market milk, industry benchmark (low end)
+  basis: estimate
+  status: estimate
+  source_id: S-169
+  page: 9
+  quote: Market milk and cultured products kWh/L processed milk 0.09–1.11 0.11–0.34 0.07–0.09 0.16–0.28 0.45 0.1–0.2
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0549
+  statement: 'Comparator (Nordic Council of Ministers, cited by the IFC): the industry benchmark for energy use in market milk and cultured products is 0.1 to 0.2 kWh per litre of processed milk; this is the upper end.'
+  value: 0.2
+  unit: kWh per litre processed milk (total energy, upper end)
+  period: '2001'
+  measure: specific energy consumption, market milk, industry benchmark (high end)
+  basis: estimate
+  status: estimate
+  source_id: S-169
+  page: 9
+  quote: Market milk and cultured products kWh/L processed milk 0.09–1.11 0.11–0.34 0.07–0.09 0.16–0.28 0.45 0.1–0.2
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0550
+  statement: The EU reference document finds that in dairies around 80 percent of energy is used as heat and the remaining 20 percent as electricity to drive machinery, refrigeration, ventilation and lighting.
+  value: 20
+  unit: percent of dairy energy use
+  period: '2019'
+  measure: electricity share of energy use in dairies (EU)
+  basis: estimate
+  status: estimate
+  source_id: S-166
+  page: 391
+  quote: The remaining 20 % is consumed as electricity to drive machinery, refrigeration, ventilation and lighting.
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0551
+  statement: The EU best-available-techniques conclusions give an indicative specific energy consumption of 0.05 to 0.13 MWh per tonne of products for grain milling; this is the lower end.
+  value: 0.05
+  unit: MWh per t of products (lower end)
+  period: '2019'
+  measure: specific energy consumption, grain milling (EU BAT conclusions, low end)
+  basis: estimate
+  status: estimate
+  source_id: S-166
+  page: 725
+  quote: MWh/tonne of products 0.05–0.13
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0552
+  statement: The EU best-available-techniques conclusions give an indicative specific energy consumption of 0.05 to 0.13 MWh per tonne of products for grain milling; this is the upper end.
+  value: 0.13
+  unit: MWh per t of products (upper end)
+  period: '2019'
+  measure: specific energy consumption, grain milling (EU BAT conclusions, high end)
+  basis: estimate
+  status: estimate
+  source_id: S-166
+  page: 725
+  quote: MWh/tonne of products 0.05–0.13
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0553
+  statement: 'Comparator (European Commission 2006, cited by the IFC): deodorisation in vegetable oil refining (batch, semi-continuous or continuous) uses 60 to 150 MJ of electricity per tonne of final product; this is the upper end.'
+  value: 150
+  unit: MJ electricity per t final product (upper end)
+  period: '2006'
+  measure: electricity use of deodorisation, vegetable oil refining benchmark (high end)
+  basis: estimate
+  status: estimate
+  source_id: S-172
+  page: 15
+  quote: ELECTRICITY (MJ/T FINAL PRODUCT TOTAL ENERGY (MJ/T FINAL PRODUCT) Neutralization Soap splittingc Deodorizationd Batch Semi-continuous Continuous 112–280 560–2800c 420–1120e 22–44 11–36c 60–150
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0554
+  statement: 'Comparator (Ethiopia, MIGA): operations at the ZAK soap site use about 1,000 kWh of electricity a day, with heat from a heavy fuel oil boiler.'
+  value: 1000
+  unit: kWh per day
+  period: '2021'
+  measure: electricity use of the ZAK soap site (Ethiopia)
+  basis: estimate
+  status: estimate
+  source_id: S-128
+  page: 1
+  quote: At ZAK a 1250 kVA diesel generator is used as back-up power supply, and the site also operates a 4 t/hr Heavy Fuel Oil (HFO) Boiler. Operations use about 1000 kWh per day.
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0555
+  statement: The UK government's 2026 conversion factors put direct (Scope 1) emissions from 100 percent mineral diesel at 0.26806 kg CO2e per kWh of net calorific value.
+  value: 0.26806
+  unit: kg CO2e per kWh (net CV)
+  period: '2026'
+  measure: emission factor of mineral diesel per kWh of net calorific value
+  basis: actual
+  source_id: S-143
+  page: 2
+  quote: 1_101_1012_7_1 | Scope 1 | Fuels | Liquid fuels | Diesel (100% mineral diesel) |  |  | kWh (Net CV) | kg CO2e | 0.26806
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0556
+  statement: 'Comparator (Philippines, 2021): the San Isidro solar-powered irrigation pump project serves 323.2762 hectares.'
+  value: 323.2762
+  unit: hectares
+  period: '2021'
+  measure: service area of the San Isidro solar pump project
+  basis: actual
+  source_id: S-165
+  page: 2
+  quote: Service Area 323.2762 ha
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0557
+  statement: 'Comparator (Philippines, 2021): the San Isidro solar-powered irrigation pump project cost PHP 17,780,519.47.'
+  value: 17780519.47
+  unit: Philippine pesos
+  period: '2021'
+  measure: total project cost, San Isidro solar pump project
+  basis: actual
+  source_id: S-165
+  page: 2
+  quote: Total Project Cost ₱17,780,519.47
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0558
+  statement: 'Comparator (Philippines, 2021): the Peñaranda solar-powered irrigation pump project serves 228.878 hectares.'
+  value: 228.878
+  unit: hectares
+  period: '2021'
+  measure: service area of the Peñaranda solar pump project
+  basis: actual
+  source_id: S-165
+  page: 3
+  quote: Service Area 228.878 ha
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0559
+  statement: 'Comparator (Philippines, 2021): the Peñaranda solar-powered irrigation pump project cost PHP 20,461,285.99.'
+  value: 20461285.99
+  unit: Philippine pesos
+  period: '2021'
+  measure: total project cost, Peñaranda solar pump project
+  basis: actual
+  source_id: S-165
+  page: 3
+  quote: Total Project Cost ₱20,461,285.99
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0560
+  statement: 'Comparator (Philippines, 2021): each of the two solar-powered pump installations has 90,390 watts of PV capacity.'
+  value: 90390
+  unit: watts per installation
+  period: '2021'
+  measure: PV capacity per solar pump installation
+  basis: actual
+  source_id: S-165
+  page: 4
+  quote: Each of the solar power pump installations can provide 90,390 watts
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0561
+  statement: The Philippine study converts pesos to US dollars at PHP 50 to the dollar.
+  value: 50
+  unit: Philippine pesos per USD
+  period: '2021'
+  measure: exchange rate used in the study
+  basis: actual
+  source_id: S-165
+  page: 4
+  quote: Using a conversion ratio of Php 50 to a dollar
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0562
+  statement: A 2026 preprint (not peer reviewed), citing a 2012 FAO SWALIM remote-sensing estimate, reports 113,652 hectares of irrigated agriculture in the Afgoi district; the cited study estimated cultivable areas, so the figure may include land that could be irrigated rather than land irrigated today.
+  value: 113652
+  unit: hectares
+  period: '2012'
+  measure: irrigated agricultural area, Afgoi district (land-cover estimate cited in a preprint)
+  basis: estimate
+  status: estimate
+  source_id: S-164
+  page: 1
+  quote: 121,590 ha of rainfed agriculture and 113,652 ha of irrigated agriculture (Oduori et al., 2012)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0563
+  statement: According to a 2026 preprint (not peer reviewed), the 10 sesame plots it sampled in the Afgoi district in the 2021 season received on average 415.1 mm of irrigation water, measured by flow meters on pump outlets, against a CROPWAT net crop water requirement of 225.4 mm (before allowing for field application losses).
+  value: 415.1
+  unit: mm per season
+  period: '2021'
+  measure: irrigation water applied to sesame, Afgoi district (flow-meter measurement, preprint)
+  basis: estimate
+  status: estimate
+  source_id: S-164
+  page: 1
+  quote: sesame (415.1 vs. 225.4 mm, 84% excess)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0081
+  statement: Converted to electricity units, blast freezing of fish uses an estimated 91.1 kWh per tonne of raw material (328 MJ divided by 3.6 MJ per kWh).
+  formula: C-0547 / 3.6
+  value: 91.1
+  unit: kWh per t raw fish
+  rounding: 1
+  status: superseded
+  period: '2007'
+  measure: electricity use of blast freezing, fish processing benchmark (kWh)
+  verified_at: '2026-09-25'
+  superseded_by: D-0092
+  fact_checked: false
+  fact_check_note: 'FAIL (2026-09-25): Reason: Input wrong (contact freezer). Superseded by D-0092.'
+- id: D-0082
+  statement: Applying the EU finding that about 20 percent of dairy energy is electricity to the IFC market-milk benchmark gives an estimated 0.02 kWh of electricity per litre at the lower end; because the 20 percent covers all dairies, including heat-intensive powder plants, this is likely a lower bound for a market-milk plant.
+  formula: C-0548 * C-0550 / 100
+  value: 0.02
+  unit: kWh electricity per litre processed milk (lower end)
+  rounding: 2
+  status: estimate
+  period: '2001'
+  measure: electricity use of market-milk processing (derived, low end)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0083
+  statement: Applying the same 20 percent electricity share to the upper end of the benchmark gives an estimated 0.04 kWh of electricity per litre; for the same reason this is likely a lower bound for a market-milk plant.
+  formula: C-0549 * C-0550 / 100
+  value: 0.04
+  unit: kWh electricity per litre processed milk (upper end)
+  rounding: 2
+  status: estimate
+  period: '2001'
+  measure: electricity use of market-milk processing (derived, high end)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0084
+  statement: The EU grain-milling benchmark equals an estimated 50 to 130 kWh per tonne of products; this is the lower end.
+  formula: C-0551 * 1000
+  value: 50
+  unit: kWh per t of products (lower end)
+  rounding: 0
+  status: estimate
+  period: '2019'
+  measure: specific energy consumption, grain milling, in kWh (low end)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0085
+  statement: The EU grain-milling benchmark equals an estimated 50 to 130 kWh per tonne of products; this is the upper end.
+  formula: C-0552 * 1000
+  value: 130
+  unit: kWh per t of products (upper end)
+  rounding: 0
+  status: estimate
+  period: '2019'
+  measure: specific energy consumption, grain milling, in kWh (high end)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0086
+  statement: The UK conversion factors imply that a litre of mineral diesel carries an estimated 9.93 kWh of energy (net calorific value).
+  formula: C-0306 / C-0555
+  value: 9.93
+  unit: kWh per litre (net CV)
+  rounding: 2
+  status: estimate
+  period: '2026'
+  measure: energy content of mineral diesel per litre (net CV)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0087
+  statement: 'Comparator (Philippines, 2021): the San Isidro solar pump project cost an estimated USD 1,100 per hectare served, at the study''s PHP 50 to the dollar.'
+  formula: C-0557 / C-0561 / C-0556
+  value: 1100
+  unit: USD per hectare
+  rounding: 0
+  status: estimate
+  period: '2021'
+  measure: solar pump project cost per hectare, San Isidro
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0088
+  statement: 'Comparator (Philippines, 2021): the Peñaranda solar pump project cost an estimated USD 1,788 per hectare served, at the study''s PHP 50 to the dollar.'
+  formula: C-0559 / C-0561 / C-0558
+  value: 1788
+  unit: USD per hectare
+  rounding: 0
+  status: estimate
+  period: '2021'
+  measure: solar pump project cost per hectare, Peñaranda
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0089
+  statement: 'Comparator (Philippines, 2021): the San Isidro installation has an estimated 0.28 kW of PV per hectare served.'
+  formula: C-0560 / 1000 / C-0556
+  value: 0.28
+  unit: kW per hectare
+  rounding: 2
+  status: estimate
+  period: '2021'
+  measure: PV capacity per hectare, San Isidro
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0090
+  statement: 'Comparator (Philippines, 2021): the Peñaranda installation has an estimated 0.39 kW of PV per hectare served.'
+  formula: C-0560 / 1000 / C-0558
+  value: 0.39
+  unit: kW per hectare
+  rounding: 2
+  status: estimate
+  period: '2021'
+  measure: PV capacity per hectare, Peñaranda
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0091
+  statement: In the 2021 season, the 10 sesame plots sampled by a 2026 preprint (not peer reviewed) received on average 415.1 mm of irrigation water, equal to an estimated 4,151 m3 per hectare (1 mm equals 10 m3 per hectare).
+  formula: C-0563 * 10
+  value: 4151
+  unit: m3 per hectare per season
+  rounding: 0
+  status: estimate
+  period: '2021'
+  measure: irrigation water applied to sesame per hectare, Afgoi (derived)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: M-0015
+  statement: Irrigated land converted from diesel to solar pumping by 2032 (base scenario, modelled estimate).
+  output_key: climate.irrigation.hectares
+  scenario: base
+  value: 20000
+  unit: hectares
+  rounding: 0
+  period: '2032'
+  measure: irrigated land converted from diesel to solar pumping by 2032
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0016
+  statement: Diesel used to pump irrigation water per hectare a year (base scenario, modelled estimate).
+  output_key: climate.irrigation.litres_per_ha
+  scenario: base
+  value: 122
+  unit: litres per hectare a year
+  rounding: 0
+  period: '2032'
+  measure: diesel used to pump irrigation water per hectare a year
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0017
+  statement: Diesel fuel cost of irrigation per hectare a year at USD 0.60 a litre (base scenario, modelled estimate).
+  output_key: climate.irrigation.fuel_cost_per_ha.before_shock
+  scenario: base
+  value: 73
+  unit: USD per hectare a year
+  rounding: 0
+  period: '2026'
+  measure: diesel fuel cost of irrigation per hectare at the Mogadishu price before the February 2026 shock
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0018
+  statement: Diesel fuel cost of irrigation per hectare a year at USD 1.50 a litre (base scenario, modelled estimate).
+  output_key: climate.irrigation.fuel_cost_per_ha.after_shock
+  scenario: base
+  value: 182
+  unit: USD per hectare a year
+  rounding: 0
+  period: '2026'
+  measure: diesel fuel cost of irrigation per hectare at the Mogadishu price after the February 2026 shock
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0019
+  statement: Annualised capital cost of solar pumping per hectare a year (base scenario, modelled estimate).
+  output_key: climate.irrigation.solar_cost_per_ha_year
+  scenario: base
+  value: 191
+  unit: USD per hectare a year
+  rounding: 0
+  period: '2032'
+  measure: annualised capital cost of solar pumping per hectare
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0020
+  statement: Abatement cost of solar irrigation against diesel pumping, counting fuel only (base scenario, modelled estimate).
+  output_key: climate.irrigation.cost_per_t
+  scenario: base
+  value: 214
+  unit: USD per t CO2
+  rounding: 0
+  period: '2032'
+  measure: abatement cost of solar irrigation against diesel pumping (fuel only)
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: C-0564
+  statement: 'Comparator (IFC 2007): blast freezing of fish uses about 350 MJ of energy per tonne of raw material; contact freezing uses about 328 MJ.'
+  value: 350
+  unit: MJ per t raw fish
+  period: '2007'
+  measure: energy use of blast freezing, fish processing benchmark (IFC Table 3)
+  basis: estimate
+  status: estimate
+  source_id: S-168
+  page: 9
+  quote: Processing of shrimps Freezing (contact freezer) Freezer (blast freezer) Fillet production Fish-meal production MJ MJ MJ MJ MJ 350 328 350 18 2300
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0092
+  statement: Converted to kilowatt-hours, blast freezing of fish uses an estimated 97.2 kWh of energy per tonne of raw material (350 MJ divided by 3.6 MJ per kWh).
+  formula: C-0564 / 3.6
+  value: 97.2
+  unit: kWh per t raw fish
+  rounding: 1
+  status: estimate
+  period: '2007'
+  measure: energy use of blast freezing, fish processing benchmark (kWh)
   verified_at: '2026-09-25'
   fact_checked: true

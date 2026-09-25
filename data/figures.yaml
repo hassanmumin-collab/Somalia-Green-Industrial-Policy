@@ -167,21 +167,25 @@
   source_line: This policy.
   note: Schematic. The park power company is licensed by the National Electricity Authority under the Electricity Act; carbon revenue under Article 6 depends on the Carbon Markets Act.
 - id: '3.4'
-  title: 'Riverine irrigation: what was lost and what pumping costs farmers'
+  title: 'Riverine irrigation: what was lost, and what pumping a hectare costs'
   file: report/figures/fig_3_4.png
   claims:
   - C-0210
   - C-0206
   - C-0207
-  - C-0530
-  - C-0531
-  model_outputs: []
-  scenario: null
+  - C-0039
+  - C-0040
+  model_outputs:
+  - climate.irrigation.fuel_cost_per_ha.before_shock
+  - climate.irrigation.fuel_cost_per_ha.after_shock
+  - climate.irrigation.solar_cost_per_ha_year
+  scenario: base
   sources:
   - S-032
-  - S-163
-  source_line: National Irrigation Policy (Ministry of Agriculture and Irrigation); Hiiraan Online news report (18 September 2026).
-  note: 'Panel A: areas are pre-war estimates and a potential, not current figures. Panel B reports two individual farmers in Afgoye district quoted in a news report; it is illustrative, not a survey.'
+  - S-042
+  source_line: National Irrigation Policy (Ministry of Agriculture and Irrigation); NBS inflation outlook (March 2026) for diesel prices; model base scenario (modelled estimate).
+  note: 'Panel A: areas are pre-war estimates and a potential, not current figures. Panel B, per hectare a year: diesel is fuel only, for water pumped at rates measured in Afgoi (two seasons), and excludes
+    the diesel pump''s own capital and maintenance; solar is the annualised capital cost of Philippine canal-scale projects. Illustrative, not a forecast.'
 - id: '3.5'
   title: How much the budget depends on customs, 2024
   file: report/figures/fig_3_5.png

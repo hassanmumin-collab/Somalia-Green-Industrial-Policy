@@ -1,0 +1,30 @@
+Independent re-checks, 2026-09-25, of corrected benchmark claims (fact-checker agent, read-only).
+
+C-0553: PASS
+  Reason: 60 to 150 MJ electricity covers all deodorisation types; quote names the row.
+
+C-0555: PASS
+  Reason: Direct (Scope 1) factor confirmed.
+
+C-0562: PASS
+  Reason: Attribution and cultivable-area caveat supported; not to be used as land irrigated today.
+
+C-0564: PASS
+  Reason: Blast freezer 350 MJ, contact freezer 328 MJ per tonne of raw material.
+
+D-0082: PASS
+  Reason: 0.1 x 20 / 100; lower-bound label supported.
+
+D-0083: PASS
+  Reason: 0.2 x 20 / 100; lower-bound label supported.
+
+D-0091: PASS
+  Reason: 415.1 x 10; sample and season qualifiers present.
+
+C-0563: PASS
+  Reason: Second recheck: comparison is the net crop water requirement before field losses.
+
+D-0092: PASS
+  Reason: Second recheck: 350 / 3.6 = 97.2; no unsourced carrier claim.
+
+Summary: 9 pass, 0 fail, 0 query.

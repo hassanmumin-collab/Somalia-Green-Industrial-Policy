@@ -50,6 +50,9 @@ HOURS_PER_YEAR = 8760  # allow-literal: hours in a 365-day year
 KW_PER_MW = 1e3  # allow-literal: unit conversion
 KWH_PER_MWH = 1e3  # allow-literal: unit conversion
 AAL_BASE_YEAR = 2026  # allow-literal: year of the World Bank Mogadishu flood risk assessment (C-0493)
+GRAVITY = 9.81  # allow-literal: gravitational acceleration, m/s2 (physical constant)
+WATER_KG_PER_M3 = 1e3  # allow-literal: density of water, kg per m3 (physical constant)
+J_PER_KWH = 3.6e6  # allow-literal: joules per kWh (unit conversion)
 
 CLUSTERS = {
     "c1": ("Coastal export processing", ["meat", "tanning", "fish"]),
@@ -272,20 +275,28 @@ def climate_modules(t: Tracker, lines: dict):
     out["minigrid"] = dict(rows=mg, cost_per_t=(lcoe_solar * kwh_per_mwh - cost_diesel) / ef, lcoe=lcoe_solar,
                            lcoe_parts=lcoe_parts, pv_mw=mw, demand=demand, mature_demand_mwh=mature)
 
-    # Solar irrigation replacing diesel pumps.
-    pumps = t("irrigation.pumps")
-    litres = t("irrigation.diesel_litres_per_pump")
+    # Solar irrigation replacing diesel pumping, per hectare (Hassan Mumin's review, 2026-09-25). Diesel per hectare comes
+    # from the water pumped, the pumping head, the pump set's fuel-to-water efficiency and the energy in a litre of diesel:
+    # litres = water (m3) x 1,000 kg/m3 x g x head (m) / (3.6 MJ per kWh) / efficiency / kWh per litre.
+    ha = t("irrigation.hectares")
+    water = t("irrigation.water_m3_per_ha_season") * t("irrigation.seasons_per_year")
+    hydraulic_kwh = water * WATER_KG_PER_M3 * GRAVITY * t("irrigation.head_m") / J_PER_KWH
+    litres = hydraulic_kwh / t("irrigation.pumpset_efficiency") / t("fuel.diesel_kwh_per_litre")
     ef_l = t("fuel.diesel_kgco2e_per_litre") / THOUSAND
     fuel_price = t("fuel.diesel_price_usd_per_litre")
-    pump_capex = t("irrigation.capex_per_pump")
+    capex_ha = t("irrigation.solar_capex_per_ha")
     r, n = t("finance.discount_rate"), t("irrigation.lifetime_years")
     ir = {}
     for i, y in enumerate(YEARS):
-        active = pumps * factor[i]
-        ir[y] = dict(avoided_t=active * litres * ef_l, investment=pumps * (shares[i] - prev[i]) * pump_capex,
+        active = ha * factor[i]
+        ir[y] = dict(avoided_t=active * litres * ef_l, investment=ha * (shares[i] - prev[i]) * capex_ha,
                      fuel_saving=active * litres * fuel_price)
-    per_pump_t = litres * ef_l
-    out["irrigation"] = dict(rows=ir, cost_per_t=(pump_capex * crf(r, n) - litres * fuel_price) / per_pump_t, pumps=pumps)
+    per_ha_t = litres * ef_l
+    out["irrigation"] = dict(rows=ir, cost_per_t=(capex_ha * crf(r, n) - litres * fuel_price) / per_ha_t, hectares=ha,
+                             litres_per_ha=litres, solar_cost_per_ha_year=capex_ha * crf(r, n),
+                             fuel_cost_per_ha=dict(base=litres * fuel_price,
+                                                   before_shock=litres * t("fuel.diesel_price_before_shock"),
+                                                   after_shock=litres * t("fuel.diesel_price_after_shock")))
 
     # Waste: managed landfill with gas capture replacing open dumping. Long-run methane potential per tonne
     # deposited (IPCC FOD Lo); the reduction is committed over decades, not emitted in the year of deposit.
@@ -490,7 +501,12 @@ def compute(scenario: str, root=".", overrides: dict | None = None):
     for part, v in mgd["lcoe_parts"].items():
         put(f"climate.minigrid.lcoe_{part}_usd_per_kwh", v, cdeps)
     put("climate.minigrid.pv_mw", mgd["pv_mw"], cdeps)
-    put("climate.irrigation.pumps", d["climate"]["irrigation"]["pumps"], cdeps)
+    irr = d["climate"]["irrigation"]
+    put("climate.irrigation.hectares", irr["hectares"], cdeps)
+    put("climate.irrigation.litres_per_ha", irr["litres_per_ha"], cdeps)
+    put("climate.irrigation.solar_cost_per_ha_year", irr["solar_cost_per_ha_year"], cdeps)
+    for k, v in irr["fuel_cost_per_ha"].items():
+        put(f"climate.irrigation.fuel_cost_per_ha.{k}", v, cdeps)
     put("climate.minigrid.mature_demand_gwh", mgd["mature_demand_mwh"] / KWH_PER_MWH, cdeps)
     for y in YEARS:
         for cid in CLUSTERS:

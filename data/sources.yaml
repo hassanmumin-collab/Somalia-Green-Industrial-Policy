@@ -2582,3 +2582,93 @@
   extraction: text
   pages: 1
   notes: Preprint, not peer reviewed; its statements on barrages and diesel pumps cite FAO SWALIM (2020). Used only with attribution.
+- id: S-165
+  title: Cost Benefit Analysis Between Solar-Powered and Diesel Fuel-Fed Pumps of the National Irrigation Administration Upper Pampanga River Integrated Irrigation Systems
+  publisher: International Journal of Advanced Engineering, Management and Science (IJAEMS), Vol 8 Issue 2; authors Bencalo C.E., Dela Cruz R.D., Violago D.R., Magtalas M.B., Aquino C.S., Santos M.D.
+  date_published: '2022-02-28'
+  url: https://dx.doi.org/10.22161/ijaems.82.2
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-165_IJAEMS-2022-Solar-vs-Diesel-pumps-NIA-UPRIIS.pdf
+  text_path: sources/text/S-165.txt
+  sha256: 9c72a9264275de1d7190cbd8948dfb3897a24656ef0f9932b81a6ebcc30090d1
+  tier: 3
+  language: en
+  coverage: Philippines (Nueva Ecija); comparator only
+  extraction: text
+  pages: 5
+  notes: Supplied by Hassan Mumin via sources/inbox (browser partial-download name, complete file). Used only for project engineering data (PV capacity, service area, project cost) and generator fuel use. Its headline saving is not used, because it assumes the diesel generator runs 24 hours a day for 25 years and does not discount costs.
+- id: S-166
+  title: Best Available Techniques (BAT) Reference Document for the Food, Drink and Milk Industries (JRC Science for Policy Report, EUR 29978 EN)
+  publisher: European Commission, Joint Research Centre
+  date_published: '2019'
+  url: https://eippcb.jrc.ec.europa.eu/sites/default/files/2020-01/JRC118627_FDM_Bref_2019_published.pdf
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-166_JRC-2019-BREF-Food-Drink-Milk.pdf
+  text_path: sources/text/S-166.txt
+  sha256: 7c07eec257a94143efef664e5c6e2a901a5f7cb05c3134ac36acb3dfeb9d0212
+  tier: 2
+  language: en
+  coverage: European Union installations; comparator benchmarks
+  extraction: text
+  pages: 820
+  notes: Specific energy consumption levels by sector (BAT conclusions) and sector energy structure.
+- id: S-167
+  title: Environmental, Health, and Safety Guidelines for Meat Processing
+  publisher: International Finance Corporation (World Bank Group)
+  date_published: '2007-04-30'
+  url: https://www.ifc.org/content/dam/ifc/doc/2000/2007-meat-processing-ehs-guidelines-en.pdf
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-167_IFC-2007-EHS-meat-processing.pdf
+  text_path: sources/text/S-167.txt
+  sha256: 50eab69259f535bfe6561087a07b6e0be840caa99076acff08e17aec6e749c81
+  tier: 2
+  language: en
+  coverage: Global industry benchmarks
+  extraction: text
+  pages: 16
+  notes: Table 3 gives energy (fuel and electricity) per tonne of carcass from European Commission (2005).
+- id: S-168
+  title: Environmental, Health, and Safety Guidelines for Fish Processing
+  publisher: International Finance Corporation (World Bank Group)
+  date_published: '2007-04-30'
+  url: https://www.ifc.org/content/dam/ifc/doc/2000/2007-fish-processing-ehs-guidelines-en.pdf
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-168_IFC-2007-EHS-fish-processing.pdf
+  text_path: sources/text/S-168.txt
+  sha256: 1cf12fad9c15314e8e8aee9f95e785db1c832517a87a5d1da53f17f58afba7bc
+  tier: 2
+  language: en
+  coverage: Global industry benchmarks
+  extraction: text
+  pages: 15
+  notes: Table 3 gives energy per tonne of raw material for freezing and filleting (from UNEP Cleaner Production, Fish Processing).
+- id: S-169
+  title: Environmental, Health, and Safety Guidelines for Dairy Processing
+  publisher: International Finance Corporation (World Bank Group)
+  date_published: '2007-04-30'
+  url: https://www.ifc.org/content/dam/ifc/doc/2000/2007-dairy-processing-ehs-guidelines-en.pdf
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-169_IFC-2007-EHS-dairy-processing.pdf
+  text_path: sources/text/S-169.txt
+  sha256: 377ae59b983a182f3f238ab340f4b054e87810f234cf1a6715698f30da6add3b
+  tier: 2
+  language: en
+  coverage: European and Nordic dairies; industry benchmark
+  extraction: text
+  pages: 15
+  notes: Table 3 gives total energy (not electricity alone) per litre of processed milk.
+- id: S-172
+  title: Environmental, Health, and Safety Guidelines for Vegetable Oil Production and Processing
+  publisher: International Finance Corporation (World Bank Group)
+  date_published: '2015-02-12'
+  url: https://www.ifc.org/content/dam/ifc/doc/2010/2015-vegetable-oil-processing-ehs-guidelines-en.pdf
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-172_IFC-2015-EHS-vegetable-oil-processing.pdf
+  text_path: sources/text/S-172.txt
+  sha256: 4cde84621543b1a9425bc9910f8dbc395cabe7acda32bf4f9988aab4f6ef92be
+  tier: 2
+  language: en
+  coverage: Global industry benchmarks (from European Commission 2006)
+  extraction: text
+  pages: 24
+  notes: Table 3 gives steam and electricity per tonne of final product for refining steps.

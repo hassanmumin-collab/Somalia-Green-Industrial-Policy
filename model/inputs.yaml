@@ -597,14 +597,26 @@
 - name: finance.discount_rate
   ref: A-144
   direction: down
-- name: irrigation.pumps
-  ref: A-145
+- name: irrigation.hectares
+  ref: A-234
   direction: up
-- name: irrigation.diesel_litres_per_pump
-  ref: A-146
+- name: irrigation.water_m3_per_ha_season
+  ref: A-235
   direction: up
-- name: irrigation.capex_per_pump
-  ref: A-147
+- name: irrigation.seasons_per_year
+  ref: A-236
+  direction: up
+- name: irrigation.head_m
+  ref: A-237
+  direction: up
+- name: irrigation.pumpset_efficiency
+  ref: A-238
+  direction: down
+- name: fuel.diesel_kwh_per_litre
+  ref: A-239
+  direction: none
+- name: irrigation.solar_capex_per_ha
+  ref: A-240
   direction: down
 - name: irrigation.lifetime_years
   ref: A-148
@@ -698,6 +710,12 @@
   direction: none
 - name: fuel.diesel_kgco2e_per_litre
   ref: C-0306
+  direction: none
+- name: fuel.diesel_price_before_shock
+  ref: C-0039
+  direction: none
+- name: fuel.diesel_price_after_shock
+  ref: C-0040
   direction: none
 - name: waste.mcf_baseline
   ref: C-0319

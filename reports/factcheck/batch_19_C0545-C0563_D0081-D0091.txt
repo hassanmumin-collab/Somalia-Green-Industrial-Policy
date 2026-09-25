@@ -1,0 +1,94 @@
+Independent fact-check, 2026-09-25, claims C-0545 to C-0563 and D-0081 to D-0091.
+Checker: fact-checker agent (read-only; page images checked for S-168 and S-172).
+
+C-0545: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0546: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0547: FAIL
+  Reason: 328 MJ is contact freezing; blast freezing is 350 MJ; energy rows not attributed to UNEP. Superseded by C-0564.
+
+C-0548: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0549: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0550: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0551: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0552: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0553: FAIL
+  Reason: 60 to 150 MJ covers all deodorisation types; quote did not identify the row. Corrected.
+
+C-0554: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0555: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0556: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0557: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0558: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0559: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0560: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0561: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+C-0562: QUERY
+  Reason: Cited SWALIM study estimates cultivable areas; figure may include irrigable land. Statement reworded.
+
+C-0563: FAIL
+  Reason: Mean of 10 sampled plots in one season; source warns against extrapolation. Statement corrected.
+
+D-0081: FAIL
+  Reason: Input wrong (contact freezer). Superseded by D-0092.
+
+D-0082: QUERY
+  Reason: Sector-wide 20 percent share likely understates market-milk electricity. Labelled a lower bound.
+
+D-0083: QUERY
+  Reason: As D-0082. Labelled a lower bound.
+
+D-0084: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+D-0085: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+D-0086: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+D-0087: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+D-0088: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+D-0089: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+D-0090: PASS
+  Reason: Confirmed at the cited source and page; measure (total energy versus electricity), units, scope and attribution correct.
+
+D-0091: FAIL
+  Reason: Needed attribution and sample qualifier. Statement corrected.
+
+Summary: 22 pass, 5 fail, 3 query.

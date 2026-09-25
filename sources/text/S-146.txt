@@ -1,0 +1,184 @@
+=== PAGE 1 ===
+# UN Comtrade (comtradeapi.un.org public preview API, annual HS data) rows retrieved 2026-09-24 with tools/comtrade_pull_2.py, one line per record.
+# Partner-reported imports from Somalia (706) and world exports of tanned sheep and goat leather (HS 4105, 4106) by four African and Asian exporters.
+# Filter: partner2Code 0, customsCode C00, motCode 0. Values in current USD; net weight in kg; quantity in the unit given by the quantity unit code.
+# Format: Reporter (code) | Flow | Partner | HS code | Year | Trade value USD | Net weight kg | Quantity | Quantity unit code | HS version
+United Arab Emirates (784) | Import | Somalia | HS 0302 | 2022 | 43322.267 | 23751.0 | 23751.0 | 8 | H6
+Djibouti (262) | Import | Somalia | HS 0302 | 2023 | 2475.88 | 120.0 | 120.0 | 8 | H3
+Jordan (400) | Import | Somalia | HS 0302 | 2023 | 66846.986 | 7120.706 | 7120.706 | 8 | H6
+Kenya (404) | Import | Somalia | HS 0302 | 2023 | 27598.778 | 10000.0 | 10000.0 | 8 | H6
+Oman (512) | Import | Somalia | HS 0302 | 2023 | 45674.902 | 24060.0 | 24060.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0302 | 2023 | 206950.772 | 66066.0 | 66066.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 0302 | 2024 | 109586.802 | 15658.0 | 15658.0 | 8 | H6
+China (156) | Import | Somalia | HS 0303 | 2022 | 297841.0 | 87854.0 | 87854.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 0303 | 2022 | 1020390.701 | 348184.66 | 348184.66 | 8 | H6
+Oman (512) | Import | Somalia | HS 0303 | 2022 | 1169916.773 | 913560.0 | 913560.0 | 8 | H6
+Rep. of Korea (410) | Import | Somalia | HS 0303 | 2022 | 104325.0 | 63948.0 | 63948.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0303 | 2022 | 146885.932 | 36454.0 | 36454.0 | 8 | H6
+China (156) | Import | Somalia | HS 0303 | 2023 | 1115916.0 | 362192.0 | 362192.0 | 8 | H6
+China, Hong Kong SAR (344) | Import | Somalia | HS 0303 | 2023 | 13410.675 | 300.0 | 300.0 | 8 | H6
+Japan (392) | Import | Somalia | HS 0303 | 2023 | 135382.353 | 24331.0 | 24331.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 0303 | 2023 | 823193.082 | 227647.578 | 227647.578 | 8 | H6
+Oman (512) | Import | Somalia | HS 0303 | 2023 | 3417014.299 | 3256900.0 | 3256900.0 | 8 | H6
+Rep. of Korea (410) | Import | Somalia | HS 0303 | 2023 | 505552.0 | 292545.0 | 292545.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0303 | 2023 | 388067.891 | 113751.4 | 113751.4 | 8 | H6
+China (156) | Import | Somalia | HS 0303 | 2024 | 145080.0 | 48360.0 | 48360.0 | 8 | H6
+Japan (392) | Import | Somalia | HS 0303 | 2024 | 203730.939 | 34900.0 | 34900.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 0303 | 2024 | 576955.322 | 263214.0 | 263214.0 | 8 | H6
+Kenya (404) | Import | Somalia | HS 0303 | 2024 | 1463.336 | 447.6 | 447.6 | 8 | H6
+Oman (512) | Import | Somalia | HS 0303 | 2024 | 2960561.764 | 2723430.0 | 2723430.0 | 8 | H6
+Ethiopia (231) | Import | Somalia | HS 0304 | 2022 | 995.418 | 50.0 | 50.0 | 8 | H6
+Japan (392) | Import | Somalia | HS 0304 | 2022 | 10882.283 | 1680.0 | 1680.0 | 8 | H6
+Japan (392) | Import | Somalia | HS 0304 | 2023 | 294533.926 | 33779.0 | 33779.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0304 | 2023 | 5.446 | 50.0 | 50.0 | 8 | H6
+Japan (392) | Import | Somalia | HS 0304 | 2024 | 621208.255 | 77584.0 | 77584.0 | 8 | H6
+China, Hong Kong SAR (344) | Import | Somalia | HS 0305 | 2022 | 565259.762 | 7544.0 | 7544.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0305 | 2022 | 826.728 | 430.0 | 430.0 | 8 | H6
+China, Hong Kong SAR (344) | Import | Somalia | HS 0305 | 2023 | 993504.024 | 14772.0 | 14772.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0305 | 2023 | 62.971 | 12.0 | 12.0 | 8 | H6
+Yemen (887) | Import | Somalia | HS 0305 | 2023 | 723.535 | 1730.0 | 1730.0 | 8 | H4
+China, Hong Kong SAR (344) | Import | Somalia | HS 0305 | 2024 | 22553.018 | 126.0 | 126.0 | 8 | H6
+Malaysia (458) | Import | Somalia | HS 0305 | 2024 | 2263.774 | 2622.3 | 2622.3 | 8 | H6
+Yemen (887) | Import | Somalia | HS 0305 | 2024 | 4160.005 | 4625.0 | 4625.0 | 8 | H5
+China, Hong Kong SAR (344) | Import | Somalia | HS 0306 | 2022 | 272612.218 | 6487.0 | 6487.0 | 8 | H6
+Djibouti (262) | Import | Somalia | HS 0306 | 2022 | 5745.302 | 946.0 | 946.0 | 8 | H3
+Ethiopia (231) | Import | Somalia | HS 0306 | 2022 | 250.603 | 50.0 | 50.0 | 8 | H6
+Kenya (404) | Import | Somalia | HS 0306 | 2022 | 10073.98 | 5572.0 | 5572.0 | 8 | H6
+Thailand (764) | Import | Somalia | HS 0306 | 2022 | 250175.415 | 38028.0 | 38028.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0306 | 2022 | 20775321.122 | 714325.0 | 714325.0 | 8 | H6
+China, Hong Kong SAR (344) | Import | Somalia | HS 0306 | 2023 | 736084.466 | 19501.0 | 19501.0 | 8 | H6
+Djibouti (262) | Import | Somalia | HS 0306 | 2023 | 10539.371 | 1873.0 | 1873.0 | 8 | H3
+Kenya (404) | Import | Somalia | HS 0306 | 2023 | 10516.732 | 3980.0 | 3980.0 | 8 | H6
+Oman (512) | Import | Somalia | HS 0306 | 2023 | 103302.991 | 14898.0 | 14898.0 | 8 | H6
+Singapore (702) | Import | Somalia | HS 0306 | 2023 | 26756.824 | 1790.0 | 1790.0 | 8 | H6
+Thailand (764) | Import | Somalia | HS 0306 | 2023 | 221655.661 | 26640.0 | 26640.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0306 | 2023 | 17141157.338 | 571731.0 | 571731.0 | 8 | H6
+China, Hong Kong SAR (344) | Import | Somalia | HS 0306 | 2024 | 304131.041 | 8883.0 | 8883.0 | 8 | H6
+Kenya (404) | Import | Somalia | HS 0306 | 2024 | 2643.326 | 764.0 | 764.0 | 8 | H6
+Malaysia (458) | Import | Somalia | HS 0306 | 2024 | 166846.064 | 19210.0 | 19210.0 | 8 | H6
+Thailand (764) | Import | Somalia | HS 0306 | 2024 | 60804.319 | 6770.0 | 6770.0 | 8 | H6
+China (156) | Import | Somalia | HS 0307 | 2022 | 3702338.0 | 693420.0 | 693420.0 | 8 | H6
+Germany (276) | Import | Somalia | HS 0307 | 2022 | 23962.476 | 7160.0 | 7160.0 | 8 | H6
+Japan (392) | Import | Somalia | HS 0307 | 2022 | 2951288.776 | 272506.0 | 272506.0 | 8 | H6
+Oman (512) | Import | Somalia | HS 0307 | 2022 | 154062.418 | 39100.0 | 39100.0 | 8 | H6
+Rep. of Korea (410) | Import | Somalia | HS 0307 | 2022 | 1117098.0 | 317250.0 | 317250.0 | 8 | H6
+Thailand (764) | Import | Somalia | HS 0307 | 2022 | 280521.984 | 48130.0 | 48130.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0307 | 2022 | 69989.651 | 14862.0 | 14862.0 | 8 | H6
+China (156) | Import | Somalia | HS 0307 | 2023 | 2044506.0 | 358072.0 | 358072.0 | 8 | H6
+China, Hong Kong SAR (344) | Import | Somalia | HS 0307 | 2023 | 33207.385 | 100.0 | 100.0 | 8 | H6
+Djibouti (262) | Import | Somalia | HS 0307 | 2023 | 1125.4 | 90.0 | 90.0 | 8 | H3
+Germany (276) | Import | Somalia | HS 0307 | 2023 | 43584.533 | 13980.0 | 13980.0 | 8 | H6
+Japan (392) | Import | Somalia | HS 0307 | 2023 | 5335103.13 | 440693.0 | 440693.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 0307 | 2023 | 1312.113 | 120.97 | 120.97 | 8 | H6
+Oman (512) | Import | Somalia | HS 0307 | 2023 | 77869.961 | 32200.0 | 32200.0 | 8 | H6
+Rep. of Korea (410) | Import | Somalia | HS 0307 | 2023 | 701501.0 | 192173.0 | 192173.0 | 8 | H6
+Singapore (702) | Import | Somalia | HS 0307 | 2023 | 79.671 | 21.875 | 21.875 | 8 | H6
+Thailand (764) | Import | Somalia | HS 0307 | 2023 | 428233.373 | 65312.0 | 65312.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0307 | 2023 | 121422.374 | 42066.5 | 42066.5 | 8 | H6
+Germany (276) | Import | Somalia | HS 0307 | 2024 | 50835.56 | 14220.0 | 14220.0 | 8 | H6
+Japan (392) | Import | Somalia | HS 0307 | 2024 | 464997.799 | 34339.0 | 34339.0 | 8 | H6
+Kenya (404) | Import | Somalia | HS 0307 | 2024 | 97.86 | 50.0 | 50.0 | 8 | H6
+Djibouti (262) | Import | Somalia | HS 0804 | 2023 | 1643.084 | 2100.0 | 2100.0 | 8 | H3
+Bahrain (48) | Import | Somalia | HS 0805 | 2022 | 747705.636 | 213447.0 | 213447.0 | 8 | H6
+Germany (276) | Import | Somalia | HS 0805 | 2022 | 2473.546 | 1000.0 | 1000.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 0805 | 2022 | 4915.789 | 2649.977 | 2649.977 | 8 | H6
+Kuwait (414) | Import | Somalia | HS 0805 | 2022 | 804408.463 | 613395.024 | 613395.024 | 8 | H6
+Qatar (634) | Import | Somalia | HS 0805 | 2022 | 385496.206 | 155999.0 | 155999.0 | 8 | H6
+Saudi Arabia (682) | Import | Somalia | HS 0805 | 2022 | 4069748.165 | 2130419.0 | 2130419.0 | 8 | H6
+Spain (724) | Import | Somalia | HS 0805 | 2022 | 73.303 | 28.04 | 28.04 | 8 | H6
+USA (842) | Import | Somalia | HS 0805 | 2022 | 15740.0 | 12195.0 | 12195.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0805 | 2022 | 1941156.188 | 4452791.0 | 4452791.0 | 8 | H6
+Bahrain (48) | Import | Somalia | HS 0805 | 2023 | 590260.565 | 444249.292 | 444249.292 | 8 | H6
+Germany (276) | Import | Somalia | HS 0805 | 2023 | 3344.818 | 474.0 | 474.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 0805 | 2023 | 845.07 | 324.538 | 324.538 | 8 | H6
+Kuwait (414) | Import | Somalia | HS 0805 | 2023 | 580413.034 | 255396.0 | 255396.0 | 8 | H6
+Qatar (634) | Import | Somalia | HS 0805 | 2023 | 407281.048 | 306532.958 | 306532.958 | 8 | H6
+Saudi Arabia (682) | Import | Somalia | HS 0805 | 2023 | 4943314.543 | 3688765.587 | 3688765.587 | 8 | H6
+Spain (724) | Import | Somalia | HS 0805 | 2023 | 249.946 | 21.65 | 21.65 | 8 | H6
+Sri Lanka (144) | Import | Somalia | HS 0805 | 2023 | 51.115 | 50.0 | 50.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 0805 | 2023 | 5264918.007 | 9252030.0 | 9252030.0 | 8 | H6
+Yemen (887) | Import | Somalia | HS 0805 | 2023 | 212.828 | 720.0 | 720.0 | 8 | H4
+Bahrain (48) | Import | Somalia | HS 0805 | 2024 | 520229.919 | 231326.0 | 231326.0 | 8 | H6
+Germany (276) | Import | Somalia | HS 0805 | 2024 | 6801.757 | 1376.0 | 1376.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 0805 | 2024 | 2738.141 | 1000.0 | 1000.0 | 8 | H6
+Kuwait (414) | Import | Somalia | HS 0805 | 2024 | 688651.0 | 501271.549 | 501271.549 | 8 | H6
+Qatar (634) | Import | Somalia | HS 0805 | 2024 | 246743.6 | 110040.0 | 110040.0 | 8 | H6
+Saudi Arabia (682) | Import | Somalia | HS 0805 | 2024 | 6162647.846 | 2807382.0 | 2807382.0 | 8 | H6
+USA (842) | Import | Somalia | HS 0805 | 2024 | 22105.0 | 8000.0 | 8000.0 | 8 | H6
+Germany (276) | Import | Somalia | HS 1207 | 2022 | 1558522.397 | 691961.0 | 691961.0 | 8 | H6
+India (699) | Import | Somalia | HS 1207 | 2022 | 282013.242 | 198000.0 | 198000.0 | 8 | H6
+Italy (380) | Import | Somalia | HS 1207 | 2022 | 284350.509 | 131625.0 | 131625.0 | 8 | H6
+Japan (392) | Import | Somalia | HS 1207 | 2022 | 298247.553 | 285000.0 | 285000.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 1207 | 2022 | 2084.507 | 567.338 | 567.338 | 8 | H6
+Netherlands (528) | Import | Somalia | HS 1207 | 2022 | 1486062.227 | 728353.0 | 728353.0 | 8 | H6
+Saudi Arabia (682) | Import | Somalia | HS 1207 | 2022 | 353499.724 | 154800.0 | 154800.0 | 8 | H6
+Spain (724) | Import | Somalia | HS 1207 | 2022 | 222746.017 | 99375.0 | 99375.0 | 8 | H6
+Turkiye (792) | Import | Somalia | HS 1207 | 2022 | 1583361.0 | 1044850.0 | 1044850.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 1207 | 2022 | 473097.877 | 278194.0 | 278194.0 | 8 | H6
+Bahrain (48) | Import | Somalia | HS 1207 | 2023 | 1020.181 | 422.168 | 422.168 | 8 | H6
+Djibouti (262) | Import | Somalia | HS 1207 | 2023 | 743.214 | 200.0 | 200.0 | 8 | H3
+India (699) | Import | Somalia | HS 1207 | 2023 | 10234856.887 | 5642200.0 | 5642200.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 1207 | 2023 | 183351.422 | 75873.983 | 75873.983 | 8 | H6
+Oman (512) | Import | Somalia | HS 1207 | 2023 | 29716.515 | 35648.0 | 35648.0 | 8 | H6
+Turkiye (792) | Import | Somalia | HS 1207 | 2023 | 278099.0 | 144000.0 | 144000.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 1207 | 2023 | 637816.146 | 378850.0 | 378850.0 | 8 | H6
+Yemen (887) | Import | Somalia | HS 1207 | 2023 | 1389.783 | 3750.0 | 3750.0 | 8 | H4
+Germany (276) | Import | Somalia | HS 1207 | 2024 | 1309974.734 | 564152.0 | 564152.0 | 8 | H6
+India (699) | Import | Somalia | HS 1207 | 2024 | 12391559.991 | 9151168.0 | 9151168.0 | 8 | H6
+Italy (380) | Import | Somalia | HS 1207 | 2024 | 89926.333 | 36425.0 | 36425.0 | 8 | H6
+Japan (392) | Import | Somalia | HS 1207 | 2024 | 3443705.584 | 2062000.0 | 2062000.0 | 8 | H6
+Jordan (400) | Import | Somalia | HS 1207 | 2024 | 324255.154 | 185550.0 | 185550.0 | 8 | H6
+Kuwait (414) | Import | Somalia | HS 1207 | 2024 | 7775.0 | 3215.773 | 3215.773 | 8 | H6
+Netherlands (528) | Import | Somalia | HS 1207 | 2024 | 655513.419 | 315975.0 | 315975.0 | 8 | H6
+Oman (512) | Import | Somalia | HS 1207 | 2024 | 1553778.931 | 1053950.0 | 1053950.0 | 8 | H6
+Saudi Arabia (682) | Import | Somalia | HS 1207 | 2024 | 2286342.876 | 1373585.0 | 1373585.0 | 8 | H6
+Spain (724) | Import | Somalia | HS 1207 | 2024 | 49124.956 | 19950.0 | 19950.0 | 8 | H6
+Turkiye (792) | Import | Somalia | HS 1207 | 2024 | 4587490.0 | 2712301.0 | 2712301.0 | 8 | H6
+Yemen (887) | Import | Somalia | HS 1207 | 2024 | 605.499 | 865.0 | 865.0 | 8 | H5
+Oman (512) | Import | Somalia | HS 1515 | 2022 | 3862.159 | 2432.0 | 2432.0 | 8 | H6
+Turkiye (792) | Import | Somalia | HS 1515 | 2022 | 64874.0 | 42135.0 | 42135.0 | 8 | H6
+USA (842) | Import | Somalia | HS 1515 | 2022 | 180476.0 | 56633.0 | 56633.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 1515 | 2022 | 71440.652 | 106530.0 | 106530.0 | 8 | H6
+Turkiye (792) | Import | Somalia | HS 1515 | 2023 | 18128.0 | 2200.0 | 2200.0 | 8 | H6
+USA (842) | Import | Somalia | HS 1515 | 2023 | 245355.0 | 67607.0 | 67607.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia | HS 1515 | 2023 | 80735.785 | 129358.0 | 129358.0 | 8 | H6
+Yemen (887) | Import | Somalia | HS 1515 | 2023 | 5.561 | 15.0 | 15.0 | 8 | H4
+Germany (276) | Import | Somalia | HS 1515 | 2024 | 14330.738 | 10731.0 | 10731.0 | 8 | H6
+Turkiye (792) | Import | Somalia | HS 1515 | 2024 | 75148.0 | 60800.0 | 60800.0 | 8 | H6
+USA (842) | Import | Somalia | HS 1515 | 2024 | 207983.0 | 26962.0 | 26962.0 | 8 | H6
+Yemen (887) | Import | Somalia | HS 1515 | 2024 | 112.507 | 150.0 | 150.0 | 8 | H5
+India (699) | Import | Somalia | HS 4102 | 2022 | 40804.616 | 13700.0 | 13700.0 | 8 | H6
+Indonesia (360) | Import | Somalia | HS 4102 | 2022 | 37408.0 | 7373.0 | 7373.0 | 8 | H6
+Oman (512) | Import | Somalia | HS 4102 | 2022 | 31547.464 | 18500.0 | 18500.0 | 8 | H6
+Pakistan (586) | Import | Somalia | HS 4102 | 2022 | 83900.288 | 10564.0 | 10564.0 | 8 | H6
+India (699) | Import | Somalia | HS 4102 | 2023 | 21300.261 | 14590.0 | 14590.0 | 8 | H6
+Indonesia (360) | Import | Somalia | HS 4102 | 2023 | 68065.0 | 15260.0 | 15260.0 | 8 | H6
+Pakistan (586) | Import | Somalia | HS 4102 | 2023 | 24463.522 | 17107.0 | 17107.0 | 8 | H6
+Pakistan (586) | Import | Somalia | HS 4102 | 2024 | 115533.019 | 175560.0 | 175560.0 | 8 | H6
+China, Hong Kong SAR (344) | Import | Somalia | HS 4103 | 2022 | 34620.554 | 43450.0 | 43450.0 | 8 | H6
+Pakistan (586) | Import | Somalia | HS 4103 | 2022 | 1244492.405 | 208106.0 | 208106.0 | 8 | H6
+India (699) | Import | Somalia | HS 4103 | 2023 | 5039.285 | 10700.0 | 10700.0 | 8 | H6
+Pakistan (586) | Import | Somalia | HS 4103 | 2023 | 1242069.209 | 888611.0 | 888611.0 | 8 | H6
+Pakistan (586) | Import | Somalia | HS 4103 | 2024 | 1128880.055 | 1245481.0 | 1245481.0 | 8 | H6
+Thailand (764) | Import | Somalia | HS 4103 | 2024 | 112577.043 | 233990.0 | 233990.0 | 8 | H6
+Ethiopia (231) | Export | World | HS 4105 | 2022 | 25410.039 | 26326.0 | 26326.0 | 8 | H6
+Kenya (404) | Export | World | HS 4105 | 2022 | 4912025.331 | 1365113.0 | 1365113.0 | 8 | H6
+Nigeria (566) | Export | World | HS 4105 | 2022 | 182362.83 | 36490.0 | 36490.0 | 8 | H6
+Pakistan (586) | Export | World | HS 4105 | 2022 | 601375.859 | 44945.0 | 44945.0 | 8 | H6
+Ethiopia (231) | Export | World | HS 4105 | 2023 | 76785.403 | 35908.0 | 35908.0 | 8 | H6
+Kenya (404) | Export | World | HS 4105 | 2023 | 5142178.679 | 1349176.0 | 1349176.0 | 8 | H6
+Nigeria (566) | Export | World | HS 4105 | 2023 | 3635.312 | 300.0 | 300.0 | 8 | H6
+Pakistan (586) | Export | World | HS 4105 | 2023 | 732526.474 | 165158.0 | 165158.0 | 8 | H6
+Kenya (404) | Export | World | HS 4105 | 2024 | 5786896.519 | 1505027.0 | 1505027.0 | 8 | H6
+Nigeria (566) | Export | World | HS 4105 | 2024 | 370276.601 | 165708.7 | 165708.7 | 8 | H6
+Pakistan (586) | Export | World | HS 4105 | 2024 | 1512170.15 | 425374.0 | 425374.0 | 8 | H6
+Ethiopia (231) | Export | World | HS 4106 | 2022 | 96884.702 | 76503.0 | 76503.0 | 8 | H6
+Kenya (404) | Export | World | HS 4106 | 2022 | 6862865.039 | 3886650.3 | 3886650.3 | 8 | H6
+Nigeria (566) | Export | World | HS 4106 | 2022 | 8172899.175 | 349605.0 | 349605.0 | 8 | H6
+Pakistan (586) | Export | World | HS 4106 | 2022 | 175887.393 | 20642.0 | 20642.0 | 8 | H6
+Kenya (404) | Export | World | HS 4106 | 2023 | 6998253.897 | 4062362.0 | 4062362.0 | 8 | H6
+Nigeria (566) | Export | World | HS 4106 | 2023 | 11942617.679 | 16494041.0 | 16494041.0 | 8 | H6
+Pakistan (586) | Export | World | HS 4106 | 2023 | 105669.815 | 8136.0 | 8136.0 | 8 | H6
+Kenya (404) | Export | World | HS 4106 | 2024 | 7012325.68 | 3862753.5 | 3862753.5 | 8 | H6
+Nigeria (566) | Export | World | HS 4106 | 2024 | 2326806.736 | n/a | 0.0 | -1 | H6
+Pakistan (586) | Export | World | HS 4106 | 2024 | 85.43 | 101.0 | 101.0 | 8 | H6

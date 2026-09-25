@@ -1,0 +1,981 @@
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+Economic viability of abattoirs in Arid and 
+Semi-Arid Land (ASAL) counties of Kenya 
+ 
+ 
+Prepared for the Voice for Change Partnership (V4CP) by: 
+Leonard Kirui and Joseph Karugia 
+ 
+ 
+November 2019 
+ 
+ILRI, Nairobi 
+ 
+VOICE FOR CHANGE PARTNERSHIP (V4CP)
+=== PAGE 2 ===
+Contents 
+ 
+Abbreviations and acronyms ......................................................................................................................... 3 
+Acknowledgments ......................................................................................................................................... 4 
+Executive summary ....................................................................................................................................... 5 
+1.0 
+Introduction ...................................................................................................................................... 6 
+1.1 
+Background ................................................................................................................................... 6 
+1.2 
+The need for abattoirs .................................................................................................................. 6 
+1.3 
+Objectives of the study ................................................................................................................. 7 
+1.4 
+Scope ............................................................................................................................................. 7 
+1.5 
+Methodology ................................................................................................................................. 7 
+1.6 
+Organisation of the report ........................................................................................................... 7 
+2.0 
+Synopsis of the livestock meat value chain ....................................................................................... 7 
+2.1 
+Current production systems ........................................................................................................ 7 
+2.2 
+Livestock supply chain and trade routes ...................................................................................... 8 
+2.3 
+The off-take rates and the meat sub-sector in Kenya .................................................................. 9 
+2.4 
+Demand for meat, meat products and by-products in different market segments .................... 10 
+2.5 
+Description of the policy and regulatory issues faced by abattoirs ............................................ 10 
+2.6 
+Coordination platforms to facilitate the value chain activities ................................................... 11 
+2.7 
+An overview of existing abattoirs ............................................................................................... 11 
+3.0 
+Review of abattoir initiatives in the ASAL areas ............................................................................ 14 
+3.1 
+Projects undertaken by donors, the private and public sectors ................................................. 14 
+3.2 
+Benefits and opportunities offered by the abattoirs in ASAL areas ........................................... 14 
+3.3 
+Review of existing and proposed county abattoirs .................................................................... 14 
+4.0 
+Economic and market considerations for setting up abattoirs in ASAL areas ............................... 16 
+4.1 
+Main requirements and considerations in order to access key export markets ....................... 16 
+4.2 
+Options for sustainability of abattoirs in ASALs ......................................................................... 17 
+5.0 
+Conclusions and recommendations ................................................................................................ 18 
+6.0 
+References ....................................................................................................................................... 19 
+7.0 
+Annexes .......................................................................................................................................... 20 
+7.1 
+Case study of a Lomidat Abattoir in Turkana County ............................................................... 20
+=== PAGE 3 ===
+Abbreviations and acronyms 
+AfDB  
+African Development Bank 
+ 
+ASALs   
+Arid and Semi-Arid Lands 
+CECs  
+County Executive Committee Members 
+DFZ 
+ 
+Disease Free Zones 
+EPZ 
+ 
+Export Processing Zones 
+FCDC   
+Frontier Counties Development Council 
+HACCP 
+Hazard Analysis and Critical Control Points 
+ 
+KBHC   
+Kenya Bureau of Halal Certification 
+MoU   
+Memorandum of Understanding 
+NGO  
+Non-Governmental Organization 
+RDA 
+ 
+Regional Development Authorities 
+SFAL 
+ 
+Sector Forum for Agriculture & Livestock 
+WSTF  
+Water Sector Trust Fund
+=== PAGE 4 ===
+Acknowledgments 
+ 
+We gratefully acknowledge funding from the Dutch Government through SNV and the Voice for Change 
+Partnership (V4CP) Programme. We also acknowledge technical support and other valuable inputs 
+provided by the CGIAR Research Program (CRP) on Livestock and all donors and organizations which 
+globally support CGIAR research work through their contributions to the CGIAR Trust Fund.
+=== PAGE 5 ===
+Executive summary 
+Recently, several large-scale meat processing abattoirs are under construction in the Arid and Semi-Arid 
+Lands (ASALs) of Kenya. This is in response to the emerging meat export opportunities to the Middle 
+East and North African countries. These developments are in the right direction toward expanding Kenya’s 
+foreign exchange earnings and improving the livelihoods of livestock producers and other actors engaged 
+in livestock related activities in the country. However, one of the major challenges facing the existing meat 
+market is the inadequate supply of quality live animals for meat processing. It has been observed that the 
+live animal throughput is inadequate and, as a result, the existing meat processing facilities operate at less 
+than their full capacity. Overcoming the constraint of supply shortage of quality live animals is key to the 
+feasibility of the proposed abattoirs. This study is conducted with the main objective of assessing the 
+performance and economic viability of abattoirs in the ASAL areas. Detailed literature review of available 
+studies was undertaken to provide documented information to achieve the study’s objective. 
+It was observed that pastoralists in the ASAL areas do not provide adequate livestock numbers for the 
+meat market due to their limited market participation in the meat market. The implication of limited 
+livestock numbers and limited market participation is that under the current production and marketing 
+conditions pastoral livestock production systems do not provide regular and adequate supply of quality 
+live animals to the market, which adversely affect the efficient utilization of meat processing capacity of 
+the existing abattoirs. This analysis recommends that the establishment of new export abattoirs in different 
+ASAL counties has to proceed with great caution and take into account the availability of live animals for 
+processing.
+=== PAGE 6 ===
+1.0 Introduction  
+1.1 Background 
+Livestock production is the dominant economic activity in the ASAL counties. These counties are home 
+to nearly 70% of the national livestock herd. However, the potential of the livestock sector to increase 
+the incomes of producers, create employment, reduce poverty and food insecurity in ASALs remains 
+largely unexploited. A comprehensive analysis of the investment opportunities that are most likely to 
+contribute to the achievement of these development goals need to be identified in a systematic manner 
+to avoid mistakes that could be made from an incomplete assessment of the strengths and weaknesses of 
+proposed interventions. Several studies document the constraints facing the development of a robust 
+livestock system in Kenyan ASALs. These constraints relate to low population density, limited success of 
+interventions to increase primary productivity; degradation of natural resources, conflict in managing 
+common resources, weak links to national economy and low priority for public investment.  
+Kenya’s domestic market is rapidly growing, and the country is a net importer of beef. Returns to the 
+livestock sector in ASALs, and indeed Kenya as a whole, are dependent on both domestic and international 
+demand for livestock products. Yet the livestock marketing system in ASALs is poorly developed to serve 
+the domestic and international markets. One option that has been considered for improving the livestock 
+marketing system in ASALs is the establishment of abattoirs. Moving abattoirs and marketing infrastructure 
+closer to producing areas would increase value addition and local employment. An essential condition for 
+successful abattoir operations is a guaranteed supply of animals. It is therefore important to understand 
+the livestock keeping trends and establish the maximum sustainable offtake in terms of cattle, meat, and 
+other livestock products.  
+1.2 The need for abattoirs 
+Recently, several large-scale meat processing abattoirs have been established in the ASAL areas of Kenya 
+in response to the emerging meat export opportunities to the Middle East and north African countries. 
+There are also several meat export abattoirs under construction, and more are planned to be established 
+in the near future in different regions of the country. These developments are in the right direction toward 
+diversifying and increasing Kenya’s foreign exchange earnings and improving the livelihoods of livestock 
+producers and other actors engaged in the livestock related activities. One of the major challenges facing 
+the meat export abattoirs has been the competitiveness of these firms in the domestic and export markets 
+due to underutilization of their meat processing capacities, (Asfaw and Jabbar, 2008). It has been observed 
+that the live animal throughput is inadequate and, as a result, the existing meat processing facilities operate 
+at less than 50% of their operational capacities, for example the Lomidat Abattoir in Turkana County. This 
+is apparently due to inadequate supply of the required quality of live animals for meat processing by the 
+export abattoirs. Export abattoirs are competing with the demand for live animals for domestic 
+consumption, and for formal and informal (cross-border) trade. The key problem is that when the meat 
+processing abattoirs are not operating at their optimum capacity, they are not minimizing their costs of 
+operations and they are facing cost disadvantage, which makes them less competitive in the domestic and 
+international meat markets, (Asfaw and Jabbar, 2008). Meat export abattoirs are also required to ensure 
+a consistent and continuous supply of meat in order to meet the demand of the customers in the importing 
+countries. Thus, there is an urgent need to devise alternative strategies to ensure adequate market supply
+=== PAGE 7 ===
+of quality live animals to meet export abattoirs processing needs in order to improve their efficiency and 
+competitiveness. 
+ 
+1.3 Objectives of the study 
+The main objective of this study is to get a better understanding of performance and economic viability of 
+abattoirs in the ASAL areas and draw key implications for meat value chain development in the country. 
+ 
+1.4 Scope 
+This was an analysis conducted in selected counties around the old North Eastern province. The counties 
+represented were: - 
+Isiolo, Turkana, West Pokot, Wajir and Mandera. 
+ 
+1.5 Methodology 
+Data to address the research objectives was collected from secondary sources. Detailed literature review 
+was undertaken to provide documented information on different study topics. 
+ 
+1.6 Organisation of the report 
+The remaining sections of this paper are organized as follows. Chapter 2 gives a synopsis of the livestock 
+meat value chain; Chapter 3 reviews the current meat and meat products development initiatives in the 
+ASAL areas while Chapter 4 looks at the current status of abattoirs in ASAL counties. The last sections 
+of the study reviews the economic and market considerations for setting up abattoirs in ASAL areas and 
+proposes some alternative options for sustainability of the abattoirs.   
+ 
+2.0 Synopsis of the livestock meat value chain 
+2.1 Current production systems  
+The red meat, comprising beef, mutton, goat and camel meat, accounts for over 80% of all the meat 
+consumed in the country in general. The white meat from poultry and pork accounts for about 19% of 
+the meat consumed (EPZA, 2005). Approximately 80 to 90 % of the red meat consumed in Kenya comes 
+from livestock raised by pastoralists under extensive production system within Kenya and neighboring 
+countries mainly Tanzania, South Sudan, Ethiopia and Somalia (Farmer and Mbwika, 2012). Kenyan 
+pastoralists account for 65-70 % of the Kenya red meat supply the remaining 20-25% comes from informal 
+cross border trade with neighbouring countries. Private ranches contribute 2–3% of total meat production 
+in Kenya, principally for the high value market.  
+In Kenya, the average per capita consumption of red meat is about 15.5 kg with an annual production of 
+about 600,000 metric tons (International Development, 2014). Despite the seemingly abundant meat and 
+consumer markets, Kenya is a meat deficit country to the tune of 300,000 metric tons (I Dev report – 
+Meat Sector in Kenya 2014). At the same time, the industry is very inefficient with huge losses occasioned 
+by hot meat retail chain, low value addition, poor processing skills and worst of all, the food sanitary risks 
+due to lack of bio security, cold chain and access to water and poor hygiene and inspection practices 
+(Carron et al., 2017). The potential of the Kenyan market seemingly is increasing along with the population
+=== PAGE 8 ===
+of about 44.6 million with a culture of meat consumption (International Development, 2014). However, 
+the growth in population and middle class has not effectively triggered the meat market system 
+transformation to incentivize actors to take advantage of the demand. 
+ 
+Figure 1: Kenya meat and livestock value chain map 
+Source: Adapted from International Development (2014) 
+ 
+2.2 Livestock supply chain and trade routes 
+An essential condition for successful abattoir operations is a guaranteed supply of animals. In this section 
+we review the livestock supply chain in the ASAL areas and the important trade routes. Kenya is a meat 
+deficit country, especially when it comes to beef and lamb where the shortage in domestic supply is 
+estimated at 18% for cattle and 19% for sheep. The domestic sheep shortfall is partially driven by a 
+relatively strong export demand of sheep products. The goat supply exceeds domestic demand by 26%, 
+although its consumption is particularly hard to trace due to its slaughter in informal settings and 
+widespread use for ceremonial purposes (International Development, 2014). Cross-border livestock trade 
+is the main source of meat supply (in form of live animals) to Kenya. Cattle is traded from Ethiopia through 
+Wajir and Marsabit-Moyale markets and then directed to Garissa or Isiolo livestock markets which are 
+considered as hubs for livestock trade from the northern territories to the terminal markets in Nairobi 
+and Mombasa (Figure 5). In western Kenya, Kitale livestock market receives animals sourced in South 
+Sudan (through Lokichogio market), Ethiopia (through Lodwar market), and Uganda, and serves regional 
+livestock markets like Kisumu and Nakuru (Naitos Golden Inspiration, 2015). It is important to highlight
+=== PAGE 9 ===
+that livestock is also exported from Kenya to neighbouring countries: mainly camels and goats to Somalia, 
+and shoats to Ethiopia. However, the volumes/number of animals exported are relatively low compared 
+to the volumes sourced from these countries. 
+Figure 2: Livestock trade corridors in Kenya 
+ 
+Source: Adapted from International Development (2014) 
+ 
+2.3 The off-take rates and the meat sub-sector in Kenya 
+In smallholder mixed farming systems and also in pastoral systems, animals are kept for multiple functions, 
+and sale or other forms of disposal are not regular phenomenon; rather sales are sporadic based on 
+immediate cash needs. In this regard, one of the key questions to ask is: what proportion of the live animals 
+from such herds will leave the livestock herders for off-farm slaughter or export or other kind of uses.  
+According to data from the Kenya National Bureau of Statistics, the number of animals slaughtered has 
+been increasing over time. The number of cattle and calves slaughtered rose by 7.4 per cent from 2,590.0 
+thousand heads in 2017 to 2,781.7 thousand in 2018. Similarly, the total number of goats and sheep 
+delivered to slaughterhouses increased by 11.3 per cent to stand at 10,247.6 thousand heads in 2018.  
+The cities of Nairobi and Mombasa are the key terminal markets accounting for 75% of country’s meat 
+consumption with an average of 25.8 kg and 21.2 kg per person respectively. Nairobi city alone requires 
+monthly supply of approximately 27,839 head of cattle, 71,555 sheep and goats, and 685 camels. Mombasa 
+requires a monthly supply of about 8,178 head of cattle, 21,021 sheep and goats and 201 camels (I-Dev, 
+2014)).
+=== PAGE 10 ===
+ 
+2.4 Demand for meat, meat products and by-products in different market 
+segments 
+Meat consumption is a measure of the demand for meat products and a means to assess growth in the 
+sector. There is huge and rapidly growing demand for meat in Kenya fueled by population growth, 
+urbanization and rise in people’s income (Bosire et al. 2017; Gamba et al. 2005). Nairobi and Mombasa 
+are the leading demand centres for slaughter animals and therefore serve as the main terminal markets. 
+As the demand for meat continues to rise, it is projected that Kenya will find it increasingly difficult to 
+satisfy its local demand for beef and sheep meat through domestic offtake rendering the country 
+increasingly reliant on importation. The bulk of meat consumed in Kenya is low quality and mostly comes 
+from animals raised by pastoral communities. Quality preferences however vary among consumers. 
+Willingness to pay premiums for quality, reliability and cleanliness is higher among higher income 
+consumers (International Development, 2014). In line with higher willingness to pay for quality among high 
+income groups, some abattoirs seek to produce superior quality meat and meat products which they sell 
+to high end hotels, restaurants, supermarkets and in export markets at a premium. The abattoirs that 
+target high end consumer segments include the Kenya Meat Commission (KMC), and other privately-
+owned enterprises such as Quality Meat Packers, Farmer’s Choice, Alpha Fine Foods, and Ngare Narok 
+Meat Industries. Ranches form the main source of animals slaughtered for this high-quality meat trade.  
+2.5 Description of the policy and regulatory issues faced by abattoirs 
+The following are the laws and policies that are used to regulate the establishment of abattoirs in Kenya: 
+1) Public Health Act – An act of Parliament to make provisions for securing and maintaining health. 
+2) Animal Diseases Act – An act of parliament to provide for matters relating to the diseases of 
+animals. 
+3) Meat Control Act – An act of Parliament to enable control to be exercised over meat and meat 
+products intended for human consumption and over slaughterhouses and places where such meat 
+is processed and to provide for import and export control over such meat and meat products. 
+4) Food, Drugs and Chemical Substances Act – An act of parliament to make provision for the 
+prevention of adulteration of food, drugs and chemical substances. 
+5) Prevention of Cruelty to animals’ Act – An act to make better provision for the prevention of 
+cruelty to animals; to control experiments on animals. 
+6) National Bio Safety Authority Act – aims at facilitating responsible research and minimizing risks 
+that may be posed by genetically modified organisms. 
+7) Veterinary Surgeons and Veterinary Para-Professionals act – An act of Parliament to make 
+provision for training, registration and Licensing of Veterinary Surgeons and Veterinary para 
+professionals to provide for matters relating to animal health services and Welfare. 
+8) Fertilizers and Animal Foodstuffs Act – An act of parliament to regulate the importation, 
+manufacture and sale of agricultural fertilizer and animal foodstuffs and substances of animal origin 
+intended for the manufacture of such fertilizer and foodstuffs. 
+9) Kenya Meat Commission Act – An act of parliament to establish a commission to purchase cattle 
+and small stock, and to acquire, establish and operate abattoirs, meat works, cold storage 
+concerns and refrigerating works for the purpose of slaughtering cattle and small stock, processing
+=== PAGE 11 ===
+by products, preparing hides and chilling, freezing, canning and storing beef, mutton, poultry and 
+other meat foods for export or for consumption within Kenya. 
+10)  Uplands Bacon Factory Act – An act of parliament to provide for the constitution of the Uplands 
+Bacon Factory (Kenya) limited. 
+11)  Cattle Cleansing Act – An act of parliament to provide for the cleansing of cattle. 
+12)  Rabies Act – An act of parliament to provide for the suppression of rabies.  
+13)  Animal Breeding Policy (in Draft form) – Aims to promote sustainable use, development and 
+conservation of its domestic and emerging animal genetic resources. 
+14)  Livestock feeds Policy (in Draft form) – Will detail standards that manufacturers have to maintain 
+while making feeds. 
+2.6 Coordination platforms to facilitate the value chain activities  
+Frontier Counties Development Council (FCDC), has set up a Sector Forum for Agriculture & Livestock 
+(SFAL) as an instrument to enhance cooperation, coordination and information flow between counties on 
+issues related to Agriculture and Livestock. County Executive Committee Members (CECs) for the 
+respective agriculture and livestock departments meet every three months, and the SFAL secretariat 
+within FCDC implements requests and decisions taken by the Forum. This is the most relevant 
+coordination platform to also coordinate activities along the meat value chain in the ASAL areas. 
+2.7 An overview of existing abattoirs 
+Various counties in the ASAL areas have the desire to export livestock and meat which has seen 
+construction of export grade abattoirs in these areas. However, most of these abattoirs have not been 
+finalized yet. There are a number of licensed abattoirs in Nairobi, its environs and in Mombasa as presented 
+in Table 1. Almost all the abattoirs are operating below their full capacity while others are not in operation. 
+Most of these abattoirs provide market for animals coming from the pastoral areas. Much of the meat 
+from these abattoirs is sold locally to wholesalers and retailers. 
+Table 1: Major licensed abattoirs in Nairobi and Mombasa end markets 
+Abattoirs 
+Catchment livestock markets 
+Capacity 
+Status 
+Njiru 
+Northeastern-Isiolo, Moyale and 
+Garisa, 
+Migori, 
+Laikipia, 
+Kitui, 
+Mwingi  
+100 cattle/day 
+Operating  
+Kiamaiko 
+Garissa, Mandera, Marsabit, Isiolo 
+Migori, Kuria, Suba Kajiado, Narok, 
+Turkana, Samburu, 
+200 shoats/per day 
+Operating 
+Neema  
+Kajiado, Samburu, Isiolo, Narok and 
+Baringo counties 
+4,500 
+heads 
+of 
+cattle/day. 
+ 
+Operating  
+ 
+Currently 
+slaughtering 1,000 
+goats and sheep 
+and 900 cows per 
+day
+=== PAGE 12 ===
+Abattoirs 
+Catchment livestock markets 
+Capacity 
+Status 
+Dagoreti 
+Garissa, Mandera, Marsabit, Isiolo 
+Migori, Kuria, Suba Kajiado, Narok, 
+Turkana, 
+Samburu, 
+Kapenguria, 
+Nandi, Kericho, Bomet, Laikipia 
+Kitui, Mwingi, Machakos, Makueni 
+400 cattle/day 
+80% 
+cattle 
+and 
+goats 50% sheep 
+Mlolongo 
+Garissa, Mandera, Marsabit, 
+15 camels/day 
+Closed 
+Mariakani-Mombasa 
+Not specified 
+50 cattle/day 
+Unknown 
+Bisil 
+Not specified 
+50 cattle/day 
+Unknown 
+Kiserian 
+Kajiado, Narok, Isiolo 
+50–100 cattle/day and 
+200 shoats/day 
+50% 
+cattle 
+and 
+65% shoats 
+Ongata Rongai 
+Not specified 
+30 cattle/day and 
+6–8 shoats/day 
+Unknown 
+Licensed Export Abattoirs 
+Hurlingham 
+Quality 
+Meat Packers 
+Not specified 
+50 head of cattle 
+Operating 
+KMC Mombasa 
+Marsabit, Wajir, Isiolo, Garissa, and 
+the porous borders; Tanzania, 
+Ethiopia, South Sudan, Uganda and 
+Ethiopia 
+300 head of cattle 
+150 head cattle/ 
+day 
+KMC Athi River 
+Marsabit, Wajir, Isiolo, Garissa, and 
+the porous borders; Tanzania, 
+Ethiopia, South Sudan, Uganda and 
+Ethiopia 
+1,000 head of cattle; 
+1,200 sheep and goats 
+on a three-shift basis 
+1,000 cattle/ week; 
+1,000 Shoats/day 
+Halal-Ngong 
+Not specified 
+250 head cattle 
+Closed 
+New 
+Mombasa 
+Mnangoni 
+Not specified 
+120 head cattle 
+Closed 
+Farmers 
+choice 
+(pork) 
+Country wide 
+300 pigs 
+Operating 
+Choice 
+Meat 
+(subsidiary 
+of 
+Farmers Choice) 
+Country wide 
+150 head cattle 250 
+sheep and goats/day 
+70 head cattle/ 
+Day 55 sheep and 
+goats/day 
+Kenmeat EPZ Limited Not specified 
+Not specified 
+Operating 
+Deals with chilled, 
+frozen 
+and 
+vacuumed 
+meat 
+products 
+Source: Mbwika and Nthuli (2004); updated January 2012 as quoted in Farmer and Bwika (2012)
+=== PAGE 13 ===
+Table 2 gives an overview of the total stock of livestock in the country in comparison to the total number 
+of animals slaughtered by licensed abattoirs. In general, very low off-take rates in form of slaughter is 
+observed over different time periods for both cattle and shoats. For example, the total number of cattle 
+slaughtered by licensed abattoirs as a percentage of total stock in the country ranges between 12 -14% 
+for the entire period. For the shoats, the highest off take rate for period 2013 -2017 is 21% recorded in 
+2017. This shows that there is limited purchase of live animals by licensed abattoirs in comparison to their 
+capacities as indicated in Table 1. The proposed abattoirs in the ASAL counties are likely to suffer from 
+the same problem of inadequate supply of live animals.  This will adversely affect the efficient utilization of 
+meat processing capacity of the proposed export abattoirs in the ASAL areas. 
+Table 2: Comparison of total stock and total number of slaughtered animals by Licensed Abattoirs 
+Livestock Type 
+ Year 
+Total stock 
+Total 
+Slaughtered 
+by 
+Licensed 
+Abattoirs 
+Total slaughtered as 
+a 
+percentage 
+of 
+total stock (%) 
+Cattle 
+  
+  
+  
+  
+2013 
+            
+18,138,500  
+               
+2,147,300  
+12 
+2014 
+            
+18,247,632  
+               
+2,076,700  
+11 
+2015 
+            
+18,728,076  
+               
+2,274,500  
+12 
+2016 
+            
+20,529,190  
+               
+2,460,200  
+12 
+2017 
+            
+18,338,809  
+               
+2,590,000  
+14 
+Sheep and goats 
+  
+  
+  
+  
+2013 
+            
+41,238,304  
+               
+6,084,800  
+15 
+2014 
+            
+44,595,265  
+               
+6,138,500  
+14 
+2015 
+            
+41,889,581  
+               
+6,560,800  
+16 
+2016 
+            
+45,729,676  
+               
+8,220,200  
+18 
+2017 
+            
+43,443,561  
+               
+9,206,700  
+21 
+Pigs 
+  
+  
+  
+  
+2013 
+                  
+432,979  
+                   
+264,300  
+61 
+2014 
+                  
+430,844  
+                   
+257,200  
+60 
+2015 
+                  
+462,033  
+                   
+282,900  
+61 
+2016 
+                  
+504,395  
+                   
+313,600  
+62
+=== PAGE 14 ===
+2017 
+                  
+554,301  
+                   
+360,100  
+65 
+Source: KNBS Statistical Abstract, 2018 and FAOSTAT, 2019 
+3.0 Review of abattoir initiatives in the ASAL areas 
+3.1 Projects undertaken by donors, the private and public sectors 
+The World Bank has committed Ksh 800 million on equipping slaughterhouses in four counties to promote 
+local and export market for livestock products. The abattoirs, which are part of the economic stimulus 
+programme, are being constructed in Garissa, Wajir, Isiolo and Mandera counties.  
+3.2 Benefits and opportunities offered by the abattoirs in ASAL areas 
+The following benefits and opportunities are envisaged in the setting up of an export abattoir: 
+Slaughter facilities: As a meat producing facility, the abattoir in the ASAL areas aims to change the business 
+processes within the meat value chain from selling off the hoof (live animals), to selling slaughtered animals 
+for increased profitability and market share.  
+Drought response facilities: The purpose of an Abattoir is to help the pastoralists slaughter their animals and 
+not suffer losses during the drought periods. It acts as a facility for early and immediate drought response 
+by slaughter destocking through mobilizing livestock through the peripheral buying centers.  
+ 
+3.3 Review of existing and proposed county abattoirs 
+Another task in this assignment was to review existing and proposed County abattoirs in the ASAL 
+counties so as to evaluate how the counties have proposed to respond to the infrastructure gaps in the 
+meat market. We found a few reports and feasibility studies detailing the facts about the abattoirs in the 
+ASAL counties. We have summarized some key points from the studies in Table 3. 
+Table 3: Review of existing and proposed County abattoirs 
+Study 
+Key facts 
+Marsabit County abattoir 
+Proposed capacity: Kill and fabricate 700 animal units per week. 
+Ownership: A partnership between the County Government Marsabit 
+and potential investor is recommended to ensure coordination and 
+representation of all stakeholders. 
+Business model: Multi Species abattoir largely focusing on slaughter and 
+basic animal and primal fabrication then move into value added 
+fabrication in year 2. 
+Estimated facility cost: Ksh 233 million. 
+Opportunities: Ability to serve secondary processors (both county and 
+national); Niche markets (i.e. ethnic, Halal); Regional value-added 
+brand and emerging export markets in Africa, Asia and Africa. 
+Threats: Competition for supply of livestock could be high due to 
+initiatives by the neighbouring counties to also establish abattoir; 
+livestock costs could be higher due to competition; national and 
+international competition could increase thus rendering the new
+=== PAGE 15 ===
+Study 
+Key facts 
+facility less profitable and population expansion close to the facility 
+location is probable. 
+Isiolo County abattoir  
+ 
+Proposed capacity: 1000 goats and sheep, 50 camels and 200 cattle per 
+day. 
+Ownership: The Slaughterhouse is owned by the ministry of 
+Agriculture but upon completion it will be devolved to the county 
+Government. 
+Business model: Operate a dual processing strategy including toll 
+processing and own brand. They propose to do slaughter and 
+fabrication to customers that want to add value by further Processing 
+(i.e. sausages, minced meat, burgers etc.). 
+Estimated facility cost: Funded through the ministry of Agriculture 
+under the economic Stimulus Programme and the African 
+Development Bank (AfDB) at a cost of Kshs. 850 million 
+Opportunities: No other facility in the area offering similar 
+Services. 
+Threats: Unexpected prolonged dry spells, cattle diseases, initial cash 
+flows deficit, high strict international standards and other existing 
+slaughterhouses. 
+Nasukuta export abattoir, 
+West Pokot 
+Proposed capacity: Unknown. 
+Ownership: West Pokot County. 
+Business model: Multi Species abattoir. 
+Estimated facility cost: Kshs 161 million, funded by the European 
+Union, through the Ministry of Devolution and ASAL, under the EU-
+IDEAS program. 
+Lomidat abattoir, Turkana 
+County 
+Proposed capacity: Slaughter 300 bulls and 600 small livestock every 
+month. 
+Ownership: Managed by Lomidat Pastoral Multipurpose Co-operation 
+Society (LPMCS), a community managed and owned abattoir. 
+Business model: Multi Species abattoir. 
+Estimated facility cost: Kshs 60 Million. 
+Opportunities: The only abattoir capable of slaughtering for export, 
+this can be utilized, and many animals could be collected and sent to 
+Lomidat for slaughter and freezing. There is great potential and 
+possibilities of airfreighting frozen meat to Nairobi, Kampala and Juba. 
+Threats: Low off take rates by households. 
+Source: Author’s compilation
+=== PAGE 16 ===
+4.0 Economic and market considerations for setting up 
+abattoirs in ASAL areas 
+If a county is to support establishment of an abattoir, the following considerations are of paramount 
+consideration: 
+i) 
+Will there be a consistent supply of required quality of animals? 
+ii) 
+Does a steady demand for meat products exist in the target markets? 
+Establishment of abattoirs in production areas will likely be economically viable if: 
+i) 
+Local demand is high so that the abattoir serves the local market; and 
+ii) 
+Processing, transportation, and storage costs are low to allow for competitively priced meat 
+products to reach distant domestic, regional or international markets. These costs depend 
+mostly on availability of energy and transportation infrastructure. Transport is critical for 
+livestock markets and broader development, but costly. 
+If an abattoir is viable in a given ASAL county, the county government support must be in the form of 
+provision of public goods and services. In other words, public funds should not be invested in abattoirs. 
+Instead, private risk capital should be encouraged to explore opportunities while the county government 
+concentrates on creating an enabling environment for the private sector to thrive. For example, as 
+highlighted, transport is critical for the development of livestock markets and broader development but 
+costly. Therefore, county governments would do well to invest resources to reduce the costs and riskiness 
+of transportation of refrigerated products. Poor transport infrastructure makes the marketing of some 
+products such as offals very inefficient.  
+In some cases, the quality of local animals may not meet the requirements of high end domestic and/or 
+export markets and finishing of animals may have to take place in areas outside the ASALs. Focusing on 
+export markets may require the establishment of disease-free zones, which are difficult to enforce at 
+present and the low intensity of production makes them uneconomic. 
+ In addition to transport and energy infrastructure, County government in collaboration with the National 
+government should provide a conducive environment for commercial and NGO financing institutions to 
+operate. This is because credit is critical for both producers and traders.  
+It important to remember that modern slaughtering is only a minor step in the value chain, which may not 
+have a major impact on the sector as a whole. A more comprehensive intervention by county governments 
+would focus on increasing the availability of feed resources, animal health services and infrastructure. 
+Therefore, having finishing and fattening of livestock as integral parts of the value chain may allow access 
+to high value domestic and export markets in addition to provision of other services like security to the 
+livestock traders. 
+4.1 Main requirements and considerations in order to access key export 
+markets 
+Various importing countries have specific requirements which the counties who have established export 
+abattoirs must meet in order to export. Some of the requirements are listed briefly in the next section. 
+Disease free zones: Meat must come from a disease-free country, or a certified disease-free zone (DFZs), 
+especially where BSE (Mad Cow Disease) is a threat. The establishment of DFZs is a flagship project within 
+Kenya’s 2030 vision. The government expects to establish four DFZs by 2030. The first being at the Coast, 
+covering the counties of Kwale, Mombasa, Kilifi, Tana River, Lamu and parts of Taita-Taveta. The other
+=== PAGE 17 ===
+three zones will be established in the Laikipia-Isiolo complex, Uasin Gishu and Garissa Counties. However, 
+none of these has been established yet in the ASAL counties. 
+Halal: All the animals must have been slaughtered in accordance with the Islamic law. In order 
+To prove this, the processing plant must be certified by the Kenya Bureau of Halal Certification 
+(KBHC). 
+Meat Inspection Certificate: A “Meat Inspection Certificate”, issued by the government of the exporting 
+country must be presented every time the product arrives to the importing country. Furthermore, the 
+importing country`s authorities can carry out numerous inspections and controls to validate this 
+certificate. 
+Registered Exporter: The exporting company has to be registered as a licensed meat exporter. 
+HACCP: The product, the processing facilities and the livestock management practices must meet the 
+international quality standards for hygienic food handling aiming at preventing biological, chemical and 
+physical hazards, ideally implementing the HACCP systematic approach (Hazard Analysis and Critical 
+Control Points) in all their processes. 
+ 
+4.2 Options for sustainability of abattoirs in ASALs 
+Several county governments have recently embarked on the formation and establishment of county 
+regional economic blocs to foster development in their regions. Article189 of the 2010 Constitution of 
+Kenya gives opportunities to governments at each level to cooperate and to set up joint authorities in 
+performance of their functions, therefore enabling counties to forge collaborations to spur economic 
+growth and development within their regions. The Frontier Counties Development Council (FCDC) is a 
+regional economic bloc composed of the County Governments of Lamu, Tana River, Garissa, Wajir, 
+Mandera, Marsabit, Isiolo, Turkana, Samburu and West Pokot.  The Council was formed in March 2016, 
+when Governors from seven member counties signed a memorandum of understanding. The composition 
+has since grown from 7-member counties to 10 as of September 2019.  
+The Region-based development blocs are not new in Kenya. This has been practiced since early 1970s 
+through establishment of Regional Development Authorities (RDAs). Their mandate is to plan, implement 
+and coordinate development programmes in regions under their jurisdiction to ensure development 
+through integrated planning and management.  
+FCDC region has already embarked on joint projects demonstrating the potential benefits of intercounty 
+collaboration. FCDC has signed a Memorandum of Understanding (MoU) with the Water Sector Trust 
+Fund (WSTF) for implementation of water related projects. The MoU offers investment opportunities in 
+areas of rural water and sanitation, urban water and sanitation, water resource management, climate 
+change and disaster management, result-based and commercial financing and research and special 
+programmes. Through the FCDC, the counties in the ASAL areas can extend the collaborations to 
+establishment and sustainability of the abattoirs. The ASAL counties need to pool together and tap into 
+underexploited local and international markets. In order to enhance the collaboration, the ASAL counties 
+need to enact enabling legislation to operationalize the FCDC and guide the management, distribution and 
+sharing of resources. 
+In addition to the collaborations among the counties through the economic blocs, the sustainability of the 
+abattoirs can be enhanced by formalizing and improving the supply chain. A formalized market with clearly 
+communicated prices and a shortened supply chain will allow pastoralists to realize higher sales prices and 
+thus create incentives to supply more livestock. Through a higher level of industry formalization, we expect
+=== PAGE 18 ===
+to see greater supply efficiency and margins. Suppliers will realize that supplying cattle is an opportunity 
+to generate a stable income and be incentivized to grow the domestic herd for meat production. ASAL 
+counties could also collaborate with other counties in higher potential agro-ecological zones for 
+establishment of feedlots and increase the supply of quality animals. 
+5.0 Conclusions and recommendations 
+The main objective of this study was to assess the economic viability of setting up additional abattoirs in 
+the ASAL areas. The analysis is based on the review of literature obtained from different sources. Several 
+significant conclusions are drawn from the reviews, which may provide useful insights towards the 
+designing and implementation of strategies to ensure adequate market supply of quality live animals to 
+meet export abattoirs processing needs. This also enhance efficiency and competitiveness of the meat 
+industry. 
+It is observed pastoralists in the ASAL areas have limited livestock holdings and limited market 
+participation. The implication of limited livestock holdings and limited market participation is that under 
+the current production and marketing conditions pastoral livestock production systems do not provide 
+regular and adequate supply of quality live animals to the market, which adversely affect the efficient 
+utilization of meat processing capacity of the existing export abattoirs. Furthermore, this analysis also 
+indicates that the plan for the establishment of new export abattoirs in different ASAL counties has to 
+proceed with great caution and careful assessment of the availability of live animals suitable for export 
+abattoirs. 
+Analysis of the detailed cost structure of export abattoirs was not within the scope of this study. However, 
+it is very important that the proposed export abattoirs examine their operational efficiency and cost 
+structures in order to improve their overall efficiency rather than just concentrating on the supply side 
+constraints. In the future, a detailed study of cost structure for export abattoirs and a detailed analysis of 
+the current livestock value chains will be required to identify entry points to increase livestock off take 
+rates and reduce costs of operation.
+=== PAGE 19 ===
+6.0 References 
+Asfaw Negassa and Jabbar M. 2008. Livestock ownership, commercial off-take rates and their determinants 
+in Ethiopia. Research Report 9. ILRI (International Livestock Research Institute), Nairobi, Kenya. 
+52 pp. 
+Behnke, R. and Muthami, D. 2011. The contribution of livestock to the Kenyan economy. IGAD LPI Working 
+Paper. Intergovernmental authority for development in Eastern Africa. IGAD LPI Communications 
+Office. 
+Bosire, C.K., Lannerstad, M., de Leeuw, J., Kror, M.S., Ogutu, O.O., Ochungo, P.A. and Hoekstra, A.J. 
+2017. Urban consumption of meat and milk and its green and blue water footprints-patterns in the 1980s 
+and 2000s for Nairobi, Kenya. Science of The Total Environment 579:786–796. 
+Carron, Maud, Pablo Alarcon, Maurice Karani, Patrick Muinde, James Akoko, Joshua Onono, Eric M. Fèvre, 
+Barbara Häsler, and Jonathan Rushton. 2017. “The Broiler Meat System in Nairobi, Kenya: Using 
+a Value Chain Framework to Understand Animal and Product Flows, Governance and Sanitary 
+Risks.” 
+Preventive 
+Veterinary 
+Medicine 
+147 
+(November): 
+90–99. 
+https://doi.org/10.1016/j.prevetmed.2017.08.013. 
+EPZA. 2005. Meat Production in Kenya, Export Processing Zones Authority. 
+FAO. 2019. Food and agriculture organization of the United Nations statistical databases. See 
+http://faostat.fao.org/. 
+Farmer, E. and Mbwika, J. 2012. End market analysis of Kenyan livestock and meat: A desk study. A micro 
+report No. 184. USAID. 
+International Development(I-Dev). 2014. Kenya livestock and meat market analysis for cattle, goat and sheep. 
+Kenya Market Trust, p56. 
+Kenya National Bureau of Statistics. 2009. Kenya population and housing census. Nairobi, Kenya: Kenya 
+National Bureau of Statistics. 
+Naitos Golden Inspiration. 2015. Livestock value chain study for Garissa county. REGAL-IR, p78.
+=== PAGE 20 ===
+7.0 Annexes 
+7.1 Case study of a Lomidat abattoir in Turkana county 
+The central role of the Lomidat Abattoir in the Turkana Livestock Industry  
+In this section, the potential for adoption and replication of The Lomidat Abattoir Market/Business Model 
+in other sub counties of Turkana was examined, by assessing the implications, costs and possible benefits 
+both in the short and long run.  
+Lomidat was built in 2006 at a cost of Kshs 60 Million by AMREF Italy and Terra Nuova with funding from 
+the Italian Government. It is managed by Lomidat Pastoral Multipurpose Co-operation Society (LPMCS) a 
+community managed and owned abattoir about 9 km from the town of Lokichoggio that serves the needs 
+of pastoralists in the County. Lomidat is the only abattoir in the whole Turkana County designed to 
+slaughter meat for export. The other numerous slaughter slabs in Turkana cannot slaughter meat for 
+export. Its current capacity are 50 cattle and 200 shoats per day, but with a potential target to slaughter 
+300 bulls and 600 small livestock every month. However, it is only managing 50 bulls and 300 shoats every 
+two months. Thus, currently the abattoir is underutilized.  
+The Lomidat Abattoir seeks to meet the socio-economic needs of the pastoralist livestock farmers by 
+linking the livestock markets to the abattoir. It produces high integrity export quality meat and meat 
+products sustainably.  
+The benefits and opportunities offered by the Lomidat abattoir operational model  
+Slaughter facilities: As a meat producing facility, Lomidat abattoir aims to change the business processes 
+within the meat value chain from selling off the hoof (live animals), to selling slaughtered animals for 
+increased profitability and market share. The Lomidat abattoir in Turkana, northern Kenya has modern 
+slaughter facilities and well-trained personnel. It is a state-of-the-art facility that provides pastoralists with 
+ready markets for their produce. Prime cuts of meat, sausages and striped meat are among the Lomidat 
+abattoir ‘s products.  
+Cottage industries: Lomidat abattoir utilizes bones, horns, hides and skins to make valuable products and 
+art crafts; and makes soap from waste fat.  
+Biltong is traditional dried meat known as ngatosa among the Turkana community is also produced at 
+Lomidat Abattoir.  
+Satellite market centres: Lomidat has built five satellite market centres equipped with weighing scales to buy 
+and collect animals for the abattoir in these areas: iKanakurudio, Letea, Lokangae, Lokori and 
+Namouroputh. A sales yard at Kakuma has been rehabilitated. Each of these have minor infrastructure 
+such loading ramps and scales. There are set auction days in order to create a permanent market linkage. 
+These are being transformed into live animal markets established and operated by the cooperative. 
+Through this, Lomidat abattoir aims to ensure a regular supply of animals for slaughter, become a centre 
+for grading and testing animals, while the market is an alternative source of income. 
+Drought response facilities: The original purpose of Lomidat Abattoir construction was to help the 
+pastoralists slaughter their animals and not suffer losses during the drought periods. The facility was 
+established as a not-for- profit venture. It acts as a facility for early and immediate drought response by
+=== PAGE 21 ===
+slaughter destocking through mobilizing livestock through the peripheral buying centres at Letea, 
+Lokangae, Kakuma, Kanakurudio, Lokori and Namouruputh. The original purpose has now been expanded 
+into a profit-making organization.  
+Extending reach by mobilizing suppliers: The Lomidat Pastoral Multipurpose Co-operative Society Ltd raises 
+awareness on market opportunities for livestock in livestock holding-grounds and pastoralists ‘kraals to 
+identify potential sellers and sensitize them on prices and purchase runs by the abattoir truck.  
+Promoting fodder banks: Terra Nuova and Vétérinaires Sans Frontières-Belgium worked with the Lomidat 
+abattoir to promote through farmer field school fodder production of various native grasses: Cenchrus 
+ciliaris, Chrysopogon plumulosus, Cymbopogon sp., Enteropogon macrostachyus, Sehima nervosum and Eragrostis 
+superba in Naweregai, Kapelbok, Lorus, Riokomor, Pokot Central, Amolem and Termach. Fodder seeds 
+are harvested and propagated to new areas whilst the harvest grasses are transformed into hay bales.  
+Refrigerated trucks for meat transport: Meat is a highly perishable product with a short shelf life. Lomidat has 
+cooling facilities and a refrigerated truck to transport meat to distant and secure extra county markets in 
+Nairobi and Juba. Maintaining this cold chain has opened up new markets for the pastoralists of Turkana, 
+allowing them to compete on product quality and safety in the cities. This has the advantage to having the 
+full value of the animal in terms of by-products within the county.  
+Reducing the distance to be covered: The distance from the Turkana pastoralist to the market has been 
+reduced by establishing markets or processing facilities closer to the producers. The Lomidat abattoir 
+provides a market close to the producers in the district through the five-satellite market centres.  
+Foci of youth training: Lomidat has been a centre of transition of training the youth in skills at meat training 
+institutes as well as in handicraft manufacture amongst others. Butchers and flayers (who do the 
+slaughtering and cut the carcass into halves) recruited from the local community have attended training at 
+the Meat Training Institute and the Kenya Meat Commission. Other training has covered hygiene, 
+occupational safety, first aid, animal health, HIV/AIDS, and craftwork using bone.  
+Conferring ownership on local people and encouraging investment and commitment by local people: The Lomidat 
+Pastoral Multipurpose Co-operative Society, which runs the Lomidat abattoir, is a hybrid of a cooperative 
+and a company. While it was established with donor funds, it is owned by the 1,600 cooperative members 
+who have bought shares and who earn dividends when it earns a profit. The cooperatives have the 
+possibility of raising capital from their members by charging membership fees and through sales of shares. 
+This has helped the pastoralists get organized and to retain them occupy a key position in the marketing 
+chain.  
+Improving gender equity: Pastoralist women are often ignored in development. Lomidat is unique in the 
+sense that women are three-fifths of the members of the Lomidat Pastoral Multipurpose Co-operative, 
+which supplies animals to the Lomidat abattoir in Kenya.  
+Local government participation: The Turkana county government and The Turkana County Council have 
+played a very constructive role in providing about 1,000 hectares of land to the cooperative. The county 
+government is keen on providing KSh10 million to the abattoir to support the project.
+=== PAGE 22 ===
+Constraints to the Lomidat model  
+Supply of live animals is a major challenge for Lomidat and currently animals are sourced from Lokangai, 
+and Kibish. A low offtake level per household among the livestock producers is a problem because 
+livestock are not kept as commercial produce but as investment and wealth. In order to get the required 
+volumes Lomidat has to go to many places and build the bulk by collecting a few animals at a time. Lomidat 
+requires 300 steers and 600goats per day to be viable. Currently Lomidat is working with a trader in 
+Lokanga who collects 50-60 goats and sells to Lomidat. Lomidat sends a vehicle to collect the animals for 
+slaughter from the production areas. Lomidat is looking for such agents in Oropoi and other areas. 
+Lomidat is working with LMA and VSF Germany in Lorugum. Referral centres have been constructed in 
+these areas where livestock are weighed, and traders paid according to live weight. This system is not 
+functional because the producers and traders are not happy with the live weight payment system.  
+In November 2013 the abattoir was closed due to a conflict between the abattoir management and the 
+community. The conflict centered on: -  
+(i) the price that Lomidat offered for livestock that was considered by the community to be lower than 
+that in the live animal market, and (ii) Lomidat was not paying cash to producers. In February 2014, 
+PALFINGER from Austria invested KSh 11 million to support procurement of livestock on a cash basis. 
+This was the situation as at May 2014.  
+In a stakeholder workshop the Lomidat manager explained how the abattoir seeks to ensure that 
+producers get the best price for their livestock and not sell their animals in barter trade. In Lokanagai 
+pastoralists use barter trade for their animals and get very little value from such trade. Lomidat believes 
+that the livestock prices that producers get from traders are not competitive, and that the traders are the 
+people benefiting from the livestock trading business at the expense of producers.  
+Producers and traders need to be trained in the weight system slowly but surely and carefully for them 
+to accept it and adopt it. The problem is that as long as the live weight price is lower than the visual price, 
+traders and producers will not use the system; because they will incur losses.  
+Analysis of the Lomidat business model  
+Lomidat‘s major clients are Tullow Oil; BGB Kenya: big and smaller hotels in Lokichogio; Nairobi market; 
+Muthaiga and Alpha Fine Foods; Sudan Juba market; the Nairobi Market and the Lodwar market. Lomidat 
+is currently transporting 500 kg/week slaughtered animals to Sudan. The Sudan market is attractive to 
+Lomidat because the price mark-up is higher although the volume is small. There is there is too much 
+competition in the Nairobi market which is discouraging for Lomidat. Lomidat has plans to build a depot 
+the Lodwar market as their expansion program and strategy.  
+Lomidat could pay a very significant and central role in the Turkana livestock industry with proper 
+coordination structures and linkages with the LMA and CMLC. Being the only abattoir capable of 
+slaughtering for export, this can be utilized, and many animals could be collected and sent to Lomidat for 
+slaughter and freezing. There is great potential and possibilities of airfreighting frozen meat to Nairobi, 
+Kampala and Juba. This could resolve the livestock raids problems that have almost crippled the Turkana 
+livestock industry.
+=== PAGE 23 ===
+Based on the above, the study examined whether the adoption and replication of the Lomidat Abattoir 
+Market/Business Model in other sub counties in Turkana is possible; the Implications, costs and possible 
+benefits both in the short and long run.  
+Kakuma has a population just over 125,000. Kakuma Refugee Camp serves refugees who have been 
+forcibly displaced from their home countries due to war or persecution. It was established in 1992 to 
+serve Sudanese refugees, and has since expanded to serve refugees from Somalia, Ethiopia, Burundi, the 
+Democratic Republic of Congo, Eritrea, Uganda, and Rwanda. Kakuma camp, in Turkana County, is 
+receiving record numbers of refugees for the second consecutive year. Over 14,000 new arrivals had 
+registered as asylum-seekers by the end of August 2013, joining another 21,000 who arrived in 2012. 
+These refugees are coming mainly from South Sudan. With its total population approaching 125,000, 
+Kakuma meat consumption and demand has increased drastically. There exist two livestock markets in 
+Kakuma, the formal market conducted at the Kakuma livestock sale yard under the Livestock Marketing 
+Association (LMA) and the informal Livestock Market conducted at the Kakuma Refugee Camp. Large 
+numbers of livestock are sold and slaughtered at the Kakuma refugee Camp compared to the Kakuma 
+Livestock sale yard.  
+Lodwar has a population of approximately 48,316. These two towns have the most important ingredient 
+for establishing an abattoir that is - a fairly large population therefore meat market.  
+Lokichar with a population of 44,233 is the third likely town due it its likely growth with the high-income 
+earning staff at Tullow oil.  
+However, the very high cost of building high end abattoirs (KSh 60 million) is not sustainable. In addition, 
+the model combines cattle and goat slaughter whereas Turkana is a goat country and should focus on 
+goat. The study recommends evaluation of the government slaughter-slabs and houses by improving 
+hygiene and inspection, construction meat cutting facilities for butchers, skin bulking, and ornament 
+making. Lomidat should open an on the job training component for retaining of local slaughter men, flayers 
+and meat handlers.  
+There are proposals to construct additional abattoirs in Turkana, but these are likely to be white elephants 
+without a sizable market. Three abattoirs are to be constructed through the economic stimulus program 
+Lokichar, Lokitauang and Lorgum. We should avoid ―we want a big one like Lomidat syndrome‖ approach. 
+The Lomidat abattoir is currently underutilized and the process should allow this abattoir to operate to 
+full capacity before establishing another abattoir.

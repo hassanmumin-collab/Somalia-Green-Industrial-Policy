@@ -1,0 +1,139 @@
+Independent fact-check, 2026-09-24, claims C-0377 to C-0412, D-0052 to D-0058, and rechecks of C-0417 and D-0059.
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0377: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0378: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. S-152 note corrected: Ritter 2019 is a master's thesis.
+
+C-0379: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0382: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0383: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Net weights may be partly estimated (isNetWgtEstimated flag not stored).
+
+C-0384: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0385: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0386: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0387: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0388: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0389: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0390: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0391: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0392: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0393: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0394: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0395: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0396: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0397: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0398: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0399: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0400: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0401: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0402: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0403: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0404: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0405: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0406: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0407: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Weight inconsistent with head count; use with caveat.
+
+C-0408: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0409: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0410: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0411: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0412: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Flag I (imputed).
+
+D-0052: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+D-0053: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Sum of each GCC state's imports from the world; includes intra-GCC trade.
+
+D-0054: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+D-0055: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+D-0058: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0417: PASS
+  Reason: Quote, record line or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Recheck of corrected statement; confirmed against rendered page image.
+
+C-0380: FAIL
+  Reason: 25 percent is a share of the urban population whose waste is collected, not of urban waste; baseline scenario uses 208 kg (Kenya). Correction applied 2026-09-24.
+
+C-0381: FAIL
+  Reason: Same population-share error; conservative modelling assumption. Correction applied 2026-09-24 (statement, unit, measure).
+
+D-0059: FAIL
+  Reason: Arithmetic correct; bias direction misstated (f.o.b. base and export duties overstate; Somaliland exclusion understates). Correction applied 2026-09-24.
+
+D-0056: QUERY
+  Reason: Weight and head count inconsistent (implied 567 kg per head); per-kg value may be understated. Caveat added to statement 2026-09-24.
+
+D-0057: QUERY
+  Reason: Unsourced 'heavy for Somali cattle' judgment and underived 567 kg figure. Statement reworded 2026-09-24.
+
+Summary: 40 pass, 3 fail, 2 query.

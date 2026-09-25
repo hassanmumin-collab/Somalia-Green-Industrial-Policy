@@ -1,0 +1,329 @@
+=== PAGE 1 ===
+Somalia’s Inflation Outlook: Intersections of
+Global Oil Shocks, Import Dependence, and
+Climate Crises
+Policy Brief No. 003 — March 2026
+Dr. Abdisalam Abdirahman Mohamed
+Director General, Somalia National Bureau of Statistics (SNBS)
+=== PAGE 2 ===
+Executive Summary
+Somalia is currently navigating a severe and multifaceted macroeconomic shock, char-
+acterized by a sharp, sudden rise in inflation. This inflationary environment is not the
+result of a single variable, but rather a complex confluence of global geopolitical shocks,
+domestic supply-side constraints, and the country’s structural dependence on imports.
+The unexpected escalation of the Iran conflict in late February 2026 served as the pri-
+mary catalyst, triggering an immediate and aggressive spike in global oil prices. Given
+the interconnected nature of global energy markets and maritime logistics, this shock
+rapidly transmitted into the Somali economy. Within a matter of days, domestic fuel
+prices in Mogadishu surged by over 100%, climbing from $0.60 to $1.50 per litre. This
+energy shock has created widespread, aggressive cost-push inflation across all critical
+sectors, most notably in transport, food distribution, and imported consumer goods.
+Compounding Somalia’s external vulnerabilities is a severe domestic crisis, driven by a
+worsening drought marked by consecutive below-average rainfall seasons, widespread
+crop failures, and rapidly rising acute food insecurity. Even before the February 2026 en-
+ergy shock, baseline inflation was already on the rise. According to the December 2025
+Consumer Price Index (CPI) data from the Somalia National Bureau of Statistics (SNBS)
+[1], annual inflation for 2025 had reached 5.1%. The most pronounced upward pressures
+were observed in essential, heavily weighted categories, including food, housing, wa-
+ter, electricity, gas, health, and services related to restaurants and accommodation. This
+highlights the acute vulnerability of Somali households to climatic and market shocks.
+With the Holy Month of Ramadan and the approaching Eid festivities, domestic demand
+for clothing, specialized foods, and essential goods is peaking precisely as energy and im-
+port costs surge. Retailers are passing these compounded costs onto households, result-
+ing in a severe contraction of purchasing power. The combined effect of these external
+and internal shocks is a rapid deterioration in household welfare, heightened inflation-
+ary pressure, and a marked increase in economic vulnerability across both urban centers
+and rural agropastoral regions. Immediate, coordinated policy intervention is required
+to stabilize markets and protect the most vulnerable populations. Given that Somalia en-
+tered 2026 with resilient but aid-exposed fundamentals, these compounded shocks now
+require temporary policy flexibility and additional external financing to prevent a signif-
+icant household poverty shock.
+From Global Energy Shock to Domestic Inflation
+Somalia’s inflation dynamics cannot be understood in isolation from global economic con-
+ditions and domestic structural vulnerabilities. The current inflationary episode reflects the
+1
+=== PAGE 3 ===
+interaction of external factors, such as the global energy shock and its rapid transmission
+through energy and transport costs, as well as domestic dependence on imports and the im-
+pact of climatic pressures that constrain local supply. Together, these factors create a reinforc-
+ing cycle that is exerting significant pressure on household purchasing power nationwide. In
+the following sections, these interconnected factors are briefly examined.
+Global energy shock. The outbreak of conflict in Iran on 28 February 2026 fundamen-
+tally disrupted global energy markets. The conflict’s proximity to the Strait of Hormuz—a
+strategic maritime chokepoint through which approximately 20% of global oil consumption
+passes—immediately triggered uncertainty in international supply chains. Global crude oil
+benchmarks such as Brent Crude surged rapidly as markets incorporated geopolitical risk pre-
+miums and anticipated supply disruptions.
+Beyond the direct effect on oil markets, the conflict also created significant disruptions in mar-
+itime logistics. Shipping insurance premiums for vessels operating in the Gulf of Aden, the
+Red Sea, and the Arabian Sea increased sharply with many freight operators diverted away
+from high-risk routes. For Somalia, this manifests as a shipping/insurance externality; war-
+risk cancellations and surcharges are set abroad, meaning Somali importers face significantly
+higher CIF (Cost, Insurance, and Freight) prices and tighter trade finance options. This effec-
+tively creates a balance-of-payments shock even before the goods reach domestic markets.
+Rapid transmission through fuel and transport costs. As a price-taker in global energy
+markets, Somalia experienced immediate price transmission following the geopolitical shock.
+Throughout December 2025, January 2026, and most of February 2026, domestic fuel import
+costs remained relatively stable at approximately $0.60 per litre. Following the escalation
+of the Iran conflict, however, fuel prices surged to roughly $1.50 per litre, representing an
+increase of approximately 108%. This constitutes one of the most significant energy price
+shocks experienced by the Somali economy in recent years.
+The implications for the transport sector were immediate. In December 2025, the Transport
+component of the Consumer Price Index had been providing modest relief for consumers,
+recording a price decline of 3.9% annually and 4.9% monthly. The surge in fuel prices has com-
+pletely reversed this deflationary trend. Passenger fares and freight costs have risen sharply,
+increasing the cost of moving both people and goods across the country.
+Key Transmission Mechanism
+Fuel price increases quickly translate into higher retail prices because transportation
+costs are embedded throughout the supply chain. When diesel and petrol prices rise,
+the cost of importing, distributing, and selling goods increases simultaneously across
+multiple sectors of the economy.
+2
+=== PAGE 4 ===
+These rising transport costs have particularly strong implications for food markets. Somalia
+imports a large share of its staple foods—including rice, wheat, sugar, and cooking oil—and
+these commodities require extensive maritime and inland transportation. As shipping insur-
+ance premiums and domestic freight costs increase, the price of these goods rises correspond-
+ingly in local retail markets.
+Domestic Dependence on Imports. Somalia’s economy is structurally predisposed to im-
+ported inflation due to its heavy reliance on foreign goods to meet domestic consumption
+needs. More than 90% of essential commodities consumed within the country are imported.
+The import structure is heavily concentrated in refined petroleum products, staple foods such
+as rice and wheat, textiles and clothing, construction materials including cement and steel,
+and a wide range of manufactured household goods (see Figure 1 for recent trends in selected
+food prices).
+Figure 1: Selected food prices in Mogadishu, December 2025–March 2026. Prices remained stable until
+February, with March increases particularly evident for cooking oils. (Source: Somalia National Bureau
+of Statistics (SNBS) Consumer Price Index (CPI) market data).
+Because domestic production alternatives remain limited, fluctuations in global commodity
+prices, freight rates, or exchange rate movements are transmitted almost immediately into
+local markets. This structural feature significantly magnifies the domestic impact of external
+shocks. When global prices rise, Somali consumers face higher costs within a very short
+period of time.
+Domestic Amplifiers: Climate, Energy, and Seasonal Pressures. External price shocks
+are further intensified by domestic economic and climatic conditions. The Consumer Price
+Index division classified as Housing, Water, Electricity, Gas and Other Fuels recorded an an-
+3
+=== PAGE 5 ===
+nual increase of 4.2% in December 2025. Somalia’s electricity sector relies heavily on diesel-
+powered generators, making electricity tariffs highly sensitive to changes in fuel prices. As
+imported fuel prices approach $1.50 per litre, electricity and cooking fuel costs are rising
+sharply, placing additional strain on household budgets, as highlighted in Figure 2.
+(a) Fuel and Diesel Prices (USD per litre)
+(b) Cooking Gas and Charcoal Prices (USD per kg)
+Figure 2: Price trends in Mogadishu from December 2025 to March 2026. Left: Fuel and diesel show
+sharp increases in February–March 2026 due to global oil shocks. Right: Cooking gas and charcoal
+prices gradually increased, reflecting domestic demand and import cost pressures.
+At the same time, the country continues to face pressing climate stress. According to the CPI
+December 2025 Report, below-average rainfall between October and December 2025 led to
+failed crop harvests in agropastoral and riverine regions, while pasture and water resources
+in pastoral areas have been rapidly depleted.
+Climate–Inflation Nexus
+Reduced rainfall and crop failures have tightened domestic food supplies while increas-
+ing reliance on imported food commodities. As global food and fuel prices rise simul-
+taneously, drought conditions amplify inflationary pressures across the economy.
+The economic consequences of this drought are substantial. Reduced domestic yields of maize
+and sorghum have tightened local food supplies, while elevated livestock mortality is eroding
+the wealth and income base of pastoralist communities. As domestic production declines,
+reliance on imported food increases, further exposing the country to global price volatility.
+Seasonal demand pressures are also contributing to rising prices. With the Holy Month of
+Ramadan and the approaching Eid festivities, domestic demand for clothing, specialized foods,
+and household goods typically increases. Retailers are currently facing higher freight and
+inland transport costs, which are being passed directly to consumers. The combination of
+rising demand and elevated import costs is accelerating the decline in real purchasing power,
+as reflected in clothing prices (Figure 3).
+Taken together, these dynamics illustrate how global geopolitical instability, structural import
+4
+=== PAGE 6 ===
+Figure 3: Price trends for clothing and shoes in Mogadishu from December 2025 to March 2026. Numbers
+in parentheses indicate typical sizes: Girls Clothes (39), Boys Clothes (28), Girls Shoes (6), Boys Shoes (7).
+Prices increased moderately over the period, with March 2026 showing the largest increases for most
+items.
+dependence, and domestic climatic adversity are interacting to generate a powerful inflation-
+ary cycle within the Somali economy.
+What Is the State of Inflation Trends in Somalia?
+Understanding the March 2026 inflation shock requires examining the macroeconomic base-
+line at the end of 2025. Somalia’s Consumer Price Index (CPI) reflects the weighted aggregate
+of price changes across all consumption categories:
+CPIt =
+n
+X
+i=1
+wi ×
+Pi,t
+Pi,0
+
+× 100
+where Wi is the expenditure weight of category i, Pi,t is the price of category i at time t, and
+Pi,0 is the price of the same category in the base period.
+Over the twelve months leading to December 2025, the national CPI rose by 5.1% year-on-
+year. While this headline figure appears moderate, sector-specific inflation reveals significant
+pressures in essential services and non-discretionary items:
+Transport prices fell by approximately 3.9% over the same period due to temporary stabiliza-
+tion in global oil markets, providing a small buffer for households. However, this deflationary
+trend has now been reversed following the early 2026 energy price shock.
+5
+=== PAGE 7 ===
+Table 1: Annual Inflation by Category, December 2025
+Category
+Increase (%)
+Key Drivers
+Restaurants & Accommodation
++14.1
+Rising food and generator costs
+Personal Care Goods
++11.0
+Import dependence
+Health
++10.6
+Imported pharmaceuticals
+Education
++8.6
+Rising service costs
+Food & Beverages
++6.6
+Early drought effects
+Month-on-month CPI data for December 2025 showed a 0.7% increase. Health costs rose by
+6.2% and Education by 3.7%, while Transport declined by 4.9%, providing temporary relief that
+is now eliminated under current conditions.
+Inflation pressures were also uneven across Somalia’s Federal Member States. In December
+2025, the highest increases were observed in South-West State (+8.0%), heavily affected by
+drought in agropastoral areas, followed by Banaadir (+5.7%) with high urban demand and
+import dependence, Hirshabelle (+5.6%), Jubaland (+4.8%), Galmudug (+4.3%), and Puntland
+(–1.3%), which benefited from specific cross-border trade dynamics and localized port pric-
+ing. This regional variation highlights structural vulnerabilities that make certain areas more
+susceptible to price shocks.
+These baseline trends provide essential context for understanding the compounded effects
+of global oil price spikes, domestic drought conditions, and import dependence that have
+accelerated inflation in early 2026.
+How Do Global Fuel Shocks Transmit to Somalia?
+The Immediate Fuel Price Shock: The jump from $0.60 to $1.50 per litre within days trig-
+gered a chain reaction across the Somali economy. Transport operators immediately adjusted
+fares upward to maintain margins, significantly increasing the cost of moving goods from
+major ports such as Mogadishu, Kismayo, and Bosaso to inland markets. At the same time,
+Somalia’s electricity grid, which relies heavily on diesel generators, experienced a sharp rise
+in commercial electricity costs. Businesses responded by raising prices on goods and services,
+initiating a widespread cascading cost-push across multiple sectors (see Figure 4).
+6
+=== PAGE 8 ===
+Figure 4: Inflation transmission in Somalia: global oil shocks and drought drive higher food, fuel, and
+utility costs. Trade bottlenecks and import dependence amplify price pressures, reducing household
+purchasing power.
+Impact on Imported Clothing and the Eid Effect: The timing of this shock is particularly
+disruptive. With Eid approaching, seasonal demand for clothing and textiles is highly inelas-
+tic. Retailers, facing massive increases in shipping freight rates and domestic transport costs,
+passed these expenses directly onto consumers. Households, already dedicating a larger share
+of their income to basic food survival, experienced a marked reduction in purchasing power
+for essential holiday items.
+Amplification of Food Prices: Somalia’s reliance on imported sustenance further intensi-
+fied the crisis. Essential commodities such as rice, sugar, wheat flour, cooking oil, and pro-
+cessed foods are fuel-intensive to transport, and rising freight and fuel costs quickly translated
+into higher retail prices. Market surveillance indicates that many imported items doubled in
+price in retail markets within just two weeks of the geopolitical shock, amplifying inflationary
+pressures and compounding economic strain on households.
+The Climate-Inflation Nexus
+Somalia’s current economic crisis is driven by both acute and chronic factors. While the recent
+oil shock is the immediate driver of inflation, the ongoing drought has weakened the econ-
+7
+=== PAGE 9 ===
+omy’s resilience and intensified household vulnerability, pushing multiple regions toward IPC
+Phase 3–4 outcomes through mid-2026. The failure of the October– December 2025 rains has
+severely affected agricultural production, forcing rural populations to rely on market pur-
+chases rather than subsistence farming. Livestock, a critical source of income for pastoralists,
+has deteriorated in condition due to depleted pastures, reducing market value and creating
+severe terms-of-trade shocks. Households are compelled to sell more animals at lower prices
+to purchase essential imported food at higher costs, a trend that is particularly dangerous as
+freight and fertilizer constraints continue to drive up the landed price of imported staples.
+The housing, water, electricity, and gas (HWEG) sector, which accounts for one of the largest
+expenditure shares in the Somali CPI, has been particularly impacted. In drought-affected ar-
+eas, populations depend on water transported from distant boreholes, and the recent doubling
+of diesel prices has directly increased drinking water costs. Urban households face higher util-
+ity bills and increased cooking fuel expenses, squeezing discretionary income and reducing
+the ability to purchase other essentials.
+Vulnerabilities in Trade and Import Channels
+Somalia’s trade and import systems have come under stress. The ongoing geopolitical cri-
+sis in the Middle East has disrupted shipping routes, increased war-risk insurance premiums,
+delayed cargo, and reduced vessel availability. These disruptions have pushed freight costs
+to multi-year highs and placed severe liquidity pressure on importers, who now require sub-
+stantially more upfront capital to maintain existing volumes. As a result, profit margins for
+wholesalers have narrowed, retail prices have surged, and consumer demand has weakened
+as high costs erode purchasing power.
+The potential for supply shortages remains a significant risk. Prolonged or escalated geopo-
+litical tensions could convert a price crisis into a crisis of availability. Delays in bulk food
+shipments, shortages of cooking gas, and rationing of imported household goods could pro-
+voke market volatility, hoarding, and speculative pricing, particularly in urban centers. This
+risk is compounded by the fact that the country does not currently have real-time dashboards
+for data monitoring or enforcement, making the market highly susceptible to artificial price
+pressures if significant hoarding occurs.
+Impacts of Rising Inflation on Households
+Rising inflation impacts the economic and social welfare of households. Real income, defined
+as nominal income adjusted for changes in the Consumer Price Index (CPI), has declined. This
+means that even unchanged nominal wages now buy significantly less. Families are forced to
+8
+=== PAGE 10 ===
+adopt negative coping strategies, including reducing daily meals, withdrawing children from
+school, and taking on unsustainable debt. The timing during Ramadan and Eid exacerbates
+the social and psychological stress of these pressures.
+Market stability and consumer confidence have also deteriorated. Rapid and unpredictable
+price increases encourage speculative behavior, with traders hoarding goods in anticipation
+of higher future prices, which further amplifies inflationary pressures. Humanitarian access
+is similarly constrained; fuel shocks have doubled the cost of transporting relief goods, re-
+ducing the reach and volume of aid precisely when acute food insecurity is rising. Despite
+the gains made following the HIPC Completion Point in December 2023, the country’s fiscal
+space remains narrow and its fundamentals are heavily aid-exposed, leaving little room to
+absorb these external costs without immediate support.
+9
+=== PAGE 11 ===
+Policy Recommendations
+Addressing a dual-shock crisis of this magnitude requires a sequenced, whole govern-
+ment approach that balances immediate relief with long-term structural reform.
+Short-Term Stabilization Measures
+• Market Surveillance: Implement daily monitoring of essential commodity
+prices (fuel, wheat, rice, cooking oil) across all Federal Member States to detect
+and penalize artificial price gouging and hoarding. Establish an emergency task
+force with major importers to identify bottlenecks and stabilize supply chains
+ahead of peak demand periods.
+• Supply Chain Engagement: Establish an emergency task force with major im-
+porters and shipping agents to identify bottlenecks, guarantee letters of credit,
+and stabilize supply chains ahead of peak demand periods.
+• Fiscal Adjustments: Temporarily reduce or suspend port handling fees and im-
+port tariffs on essential food staples and agricultural inputs to offset the spike in
+global freight costs.
+• Social Protection: Rapidly scale up targeted cash-based assistance programs
+(e.g., through Baxnaano and the new World Bank BOOST-You window) to shield
+the most vulnerable urban and agropastoral households from the worst impacts
+of the food and energy price surge.
+• Import Diversification: Support traders in diversifying supply sources away
+from conflict-affected zones toward more stable routes in Asia or Southern Africa.
+• Trade Finance: Collaborate with the Central Bank of Somalia to provide lo-
+calized credit facilities or foreign exchange support to small and medium-sized
+traders struggling with higher upfront capital requirements.
+• Logistics Infrastructure: Invest in expanded port storage, cold chain facili-
+ties, and inland warehousing to allow for larger bulk imports and achieve better
+economies of scale.
+Conclusion
+Somalia is facing a complex, cascading inflationary environment. The economy is simulta-
+neously impacted by a global geopolitical crisis, which has doubled domestic energy costs,
+and a severe domestic climate crisis that has devastated local food production. Data from
+late 2025 already indicated mounting pressures, but the February 2026 fuel shock accelerated
+inflation across all major consumer categories, effectively acting as a regressive tax on the
+poorest households.
+The March shock implies acute, broad-based cost-push pressure that will widen the current-
+10
+=== PAGE 12 ===
+account gap due to the surge in fuel and food import bills. For a country that imports a large
+share of staple foods and nearly all its fuel, this represents a classic imported inflation and
+balance-of-payments shock. With cultural and religious demand peaks during Eid approach-
+ing, and drought conditions persisting, households are under unprecedented economic strain.
+Addressing this crisis requires moving beyond passive observation through a coordinated
+short-term policy response to protect household welfare and maintain market stability. Over
+the longer term, resilience-building measures are essential to safeguard Somalia’s economic
+recovery.
+This external vulnerability is compounded by a severe domestic crisis: a worsening drought
+characterized by successive below-average rainfall seasons, failed crop harvests, and escalat-
+ing acute food insecurity. Immediate and coordinated policy interventions are critical to sta-
+bilize markets and protect the most vulnerable populations from these compounding shocks.
+References
+[1] Somalia National Bureau of Statistics (SNBS), Consumer Price Index: December 2025. Somalia
+CPI Report. Mogadishu, Somalia: SNBS, 2025.
+11

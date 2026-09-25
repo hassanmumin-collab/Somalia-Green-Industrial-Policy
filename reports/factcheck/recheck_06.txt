@@ -1,0 +1,8 @@
+Independent re-check, 2026-09-24, of D-0040 after the recheck_05 FAIL.
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+D-0040: PASS
+  Source: D-0039 / C-0331 / C-0332 (S-082 p. 1, S-124 p. 2); comparator D-0025
+  Reason: The correction resolves every recheck_05 point. (1) "Fetched" removed; the statement now describes the 2023 CIF import value reported by Saudi Arabia and Oman, matching S-124 page 2 lines for HS 0104. (2) 13 kg is described as FAOSTAT's fixed carcass estimate (flag E); result called estimated and indicative, with differing export weights noted. (3) Formula uses both C-0331 and C-0332; statement notes live value includes non-carcass parts. Arithmetic: unrounded D-0039 = 344,657,241.78 / 3,391,849.35 = 101.613; 101.613 / 13 x 1000 = 7,816.4 -> 7,816 (7,815 if the rounded 101.6 were used, so the verifier must use the unrounded input). D-0025 = 6,780 per tonne on the same importer-reported basis, so "above" holds. Basis, period, currency and scale correct.
+
+Summary: 1 pass, 0 fail, 0 query.

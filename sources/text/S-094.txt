@@ -1,0 +1,2421 @@
+=== PAGE 1 ===
+agribusiness
+handbook
+Wheat 
+Flour
+=== PAGE 2 ===
+Wheat 
+Flour
+agribusiness
+handbook
+=== PAGE 3 ===
+This handbook is part of a series of agribusiness manuals prepared by the FAO 
+Investment Centre Division, in collaboration with FAO’s Rural Infrastructure 
+and Agro-Industries Division. It was prepared for the EBRD Agribusiness 
+team, under the FAO/EBRD programme of cooperation. The production of the 
+manuals was financed by FAO and by the EBRD multidonor Early Transition 
+Countries Fund and the Western Balkans Fund. The purpose of this handbook 
+is to help agribusiness bankers and potential investors in the Early Transition 
+countries (ETCs) and the Western Balkan countries (WBCs) to acquire basic 
+knowledge about the technical features of wheat processing and to become 
+acquainted with recent economic trends in the sector around the world, with 
+a special focus on the ETCs and the WBCs. This volume was prepared by 
+Dmitry Prikhodko, Economist, FAO Investment Centre Division, and Rodion 
+Rybchynsky, Chief Editor of the magazine Khrananie i pererabotka zerna 
+(Rus. Grain Storage and Processing Magazine), as well as from members 
+of the EBRD Agribusiness team. Electronic copies can be downloaded from 
+www.eastagri.org, where a database of agribusiness companies, including 
+wheat processing companies that operate in the ETCs and the WBCs, is also 
+available. Please send comments and suggestions for a future edition of the 
+manual to TCI-Eastagri@fao.org. 
+The designations employed and the presentation of material in this information product 
+do not imply the expression of any opinion whatsoever on the part of the Food and Agriculture 
+Organization of the United Nations (FAO) concerning the legal or development status of any 
+country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers 
+or boundaries. The mention of specific companies or products of manufacturers, whether or not 
+these have been patented, does not imply that these have been endorsed or recommended by 
+FAO in preference to others of a similar nature that are not mentioned. The views expressed in 
+this information product are those of the author(s) and do not necessarily reflect the views of FAO.
+All rights reserved. Reproduction and dissemination of material in this information product for 
+educational or other non-commercial purposes are authorized without any prior written permission 
+from the copyright holders provided the source is fully acknowledged. Reproduction of material 
+in this information product for resale or other commercial purposes is prohibited without written 
+permission of the copyright holders. Applications for such permission should be addressed to:
+Director
+Investment Centre Division
+FAO
+Viale delle Terme di Caracalla, 00153 Rome, Italy
+or by e-mail to: TCI-Eastagri@fao.org
+© FAO 2009
+Design and page layout Alberto Pedro Di Santo
+=== PAGE 4 ===
+3
+TABLE OF CONTENTS
+INTRODUCTION	
+5
+1. WHEAT PRODUCTION	
+7
+	
+1.1 	Key parameters for wheat production	
+7
+	
+1.2 	Climate change and its effects on wheat production	
+7
+	
+1.3 	World production of wheat	
+8
+	
+1.4 	Costs and margins of wheat production	
+10
+2. USES OF WHEAT OTHER THAN FOR HUMAN CONSUMPTION	
+15
+	
+2.1 	Animal feed	
+15
+	
+2.2 	Biofuels	
+15
+3. WORLD WHEAT TRADE	
+17
+	
+3.1 	Wheat prices	
+17
+	
+3.2 	Wheat importers and exporters	
+17
+	
+3.3 	Grain trading contracts	
+19
+	
+3.4	Tenders	
+19
+	
+3.5 	Freight costs	
+20
+	
+3.6 	Wheat traders’ margins	
+22
+	
+3.7 	Industry leaders in the grain trade	
+22
+4. WHEAT FLOUR	
+23
+	
+4.1 	Milling wheat into flour	
+23
+	
+4.2 	Costs and margins of wheat flour production	
+26
+5. WORLD TRADE IN WHEAT FLOUR	
+29
+	
+5.1 	Wheat flour exporters and importers	
+30
+	
+5.2 	Wheat flour prices	
+32
+6. WHEAT AND WHEAT FLOUR INDUSTIRES IN THE EARLY 	
+TRANSITION COUNTRIES (ETCs)	
+35
+	
+6.1	Wheat production	
+35
+	
+6.2 	Demand outlook for wheat and wheat flour	
+36
+	
+6.3 	Wheat flour production	
+38
+	
+6.4 	Wheat flour trade	
+39
+	
+6.5 	Bread production	
+40
+	
+6.6 	The flour milling industry in selected ETCs	
+41
+7. WHEAT AND WHEAT FLOUR INDUSTRIES IN THE WESTERN 	
+BALKAN COUNTRIES (WBCs)	
+43
+	
+7.1 	Production of and demand for wheat	
+43	
+	
+7.2 	Wheat flour production and consumption	
+45
+	
+7.3 	Wheat and wheat flour industries in selected WBCs	
+48
+8. FURTHER READING AND INFORMATION	
+51
+=== PAGE 5 ===
+
+=== PAGE 6 ===
+5
+INTRODUCTION
+Wheat is grown in most parts of the world, from near-arctic to near-equatorial 
+latitudes. It is the most important crop among the cereals by area planted 
+and is followed in importance by corn, barley and sorghum. The amount of 
+wheat traded internationally exceeds that of all other grains. Furthermore, the 
+protein and caloric content of wheat is greater than that of any other food crop. 
+Most wheat is consumed in the form of baked goods, mainly bread; therefore, 
+wheat grains must be milled to produce flour prior to consumption. Wheat is 
+also used as an ingredient in compound feedstuffs, starch production and as 
+a feed stock in ethanol production.
+=== PAGE 7 ===
+
+=== PAGE 8 ===
+7
+1. WHEAT PRODUCTION
+1.1 Key parameters for wheat production
+■	 The main wheat types represent all possible combinations of hard and 
+soft, red and white, and spring and winter categories. All types belong to 
+the genus Triticum aestivum, subspecies vulgare. In addition, three other 
+species are cultivated and traded: the Triticum durum, compactum and 
+spelta. Because of its quality, durum wheat is used by the pasta industry, 
+and non-durum is used by either the milling, livestock feed or ethanol 
+industries.
+■	 Although grown in various areas, wheat is best acclimated in latitudes 
+between 30 to 60° North and 27 to 40° South, while high-yield varieties 
+respond best in moderate climates.
+■	 Wheat can be cultivated at elevations ranging from sea level to 3,000 m. 
+Although well-drained silt and clay loam soils are optimal, wheat will grow 
+on a wide range of soils. Neutral to slightly acid soils (5.5 to 6.5 pH) are most 
+suitable for wheat production. An average growing season temperature of 
+25 °C is optimal, although a range of 3.3 to 32 °C is acceptable for spring 
+wheat varieties.
+■	 All wheats are annual plants. Spring wheats are planted in the spring, have 
+a short growing season, less than 100 days, and are harvested in the fall. 
+In contrast, winter wheats are planted in the fall, in areas with no excessive 
+freezing. Following germination and development of an extensive root 
+system, growth is halted in winter and revived in the spring. Harvest takes 
+place in early summer.
+Although wheat output has been steadily increasing, a further production 
+increase faces a number of constraints: limited arable land and competition 
+between grains and oilseeds for that land; yields in developed countries are 
+believed to be close to their biological potential and; farmers in developing 
+countries experience problems with access to capital and support infrastructure, 
+etc. The countries of the former Soviet Union have significant production 
+potential as their yields are much below biological production potential.
+1.2 Climate change and its effect on wheat production 
+Climate change also brings uncertainties to the prospects of growth of wheat 
+production. According to the International Maize and Wheat Improvement 
+Center (CIMMYT), climate change may affect wheat production through 
+the direct effects on yield via physiological processes, through changes in
+=== PAGE 9 ===
+8
+sowing dates or increased rainfall, and through changes in the areas under 
+production, as regions become more or less suitable for wheat. Increased CO2 
+concentrations have the potential to increase plant growth and yield, primarily 
+through increased photosynthesis. Warmer winters can lead to higher yields 
+through reduced winter kill. However, increased temperatures may make 
+some regions unsuitable for wheat production.
+The effects of climate change will differ depending on the region and production 
+environment. The overall picture presented by the Intergovernmental Panel 
+on Climate Change (IPCC FAR, 2007) shows that decreasing wheat yields at 
+lower latitudes will likely be offset by increasing yields at mid to high latitudes 
+under moderate warming.
+1.3 World production of wheat
+Wheat production in the world has been increasing largely due to plant 
+breeding research and improved production technologies since the 1960s. 
+World average wheat yields more than doubled from just 1.1 ton/ha in 1961 
+to 2.83 ton/ha in 2007 (Figure 1). The European countries achieve highest 
+yields, while the countries in Asia tend to obtain yields slightly below the world 
+average. 
+Figure 1: Average wheat yields, 1961–2006 (ton/ha)
+Source: FAOSTAT
+1961
+1964
+1967
+1970
+1973
+1976
+1979
+1982
+1985
+1988
+1991
+1994
+1997
+2000
+2003
+2006
+4.00
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+World
+Africa
+Asia
+Europe
+Linear (World)
+=== PAGE 10 ===
+9
+The apparent differences in wheat yields in Table 1 are explained by various 
+weather conditions (precipitation levels and timing, and temperatures), the 
+different types of wheat planted (higher yielding winter wheat versus lower 
+yielding spring wheat), wheat production on irritated versus non-irrigated 
+land and other production factors. Significant yield variations at regional level 
+can explain relatively low average yields per major producing countries. For 
+example, in Canada, Saskatchewan, wheat yields can be as low as 2 ton/ha, 
+while yields in Quebec are generally higher than 3 ton/ha1.
+Table 1: Average wheat yield in major producing countries and selected 
+Early Transition countries (ETCs) and Western Balkan countries (WBCs) 
+(ton/ha)
+Country
+1990–1992 
+3 year avg.
+2007–2009 
+3 year avg.
+Change
+%
+Argentina
+2.14
+2.60
+22
+Armenia
+2.05
+2.21
+8
+Australia
+1.63
+1.43
+–12
+Azerbaijan
+2.22
+2.83
+28
+Bosnia & Herzegovina
+0.84
+2.73
+226
+Brazil
+1.27
+2.17
+70
+Canada
+2.23
+2.65
+19
+EU*
+5.18
+5.32
+3
+Kazakhstan
+0.99
+1.12
+13
+Kyrgyzstan
+2.46
+2.20
+–10
+Macedonia
+0.89
+2.33
+161
+Republic of Moldova
+3.57
+2.67
+–25
+Mongolia
+1.12
+0.93
+–17
+Russian Federation
+1.88
+2.19
+17
+Tajikistan
+0.92
+1.70
+84
+Turkmenistan
+1.96
+1.42
+–27
+Ukraine
+3.37
+3.00
+–11
+United States
+2.53
+2.90
+15
+* EU-15 data from 1990 to 1992. 
+Source: United States Department of Agriculture 
+A further increase in wheat production in the world depends on many factors, 
+including improved access to capital and adoption of technology, and grain 
+storage and transportation infrastructure development (construction of grain 
+elevators and storage facilities).
+1 http://www.fas.usda.gov/remote/Canada/can_wha.htm
+=== PAGE 11 ===
+10
+1.4 Costs and margins of wheat production 
+Wheat production costs vary greatly and depend on the production system 
+(mechanized or manual farm labour) and whether agricultural inputs and irrigation 
+are needed. For instance, direct costs, such as seeds, fertilizers and plant protection 
+chemicals required for wheat production may vary from as low as USD 100/ha in 
+Argentina to as high as USD 500/ha in France. Including other variable and fixed 
+costs such as machinery, labour, energy and irrigation, production costs per 1 ha 
+are USD 600/ha in Western Europe and about USD 250/ha in Central Europe. 
+Please refer to the Agribenchmark2 web site for information on wheat production 
+cost benchmarking and revenues in the Russian Federation, Kazakhstan, the 
+United States, Australia, the European Union (EU) and other major producing 
+countries. The budget in Table 2 illustrates the major inputs needed for wheat 
+production using Kyrgyzstan as an example.
+Table 2: Average wheat input costs in Kyrgyzstan (40 ha farm)
+(A) Production inputs
+Seeds
+Standard – 25 kg/ha  
+Cost (1 kg) – USD 0.30  
+Total – USD 300 or USD 7.90/ha
+Main assumptions
+Sown area (ha)
+40
+Potential yield production (ton/ha)
+12
+Average yield production (ton/ha)
+6
+Nitrogen fertilizers
+Standard – 150 kg/ha 
+Cost (1 kg) – USD 0.12 
+Total – USD 720 or USD 18/ha
+Average seasonal rainfall (mm)
+160–350 mm
+Average irrigation (mm)
+800 m3/ha
+Method
+ Furrow irrigation
+Representative locations
+Chui region
+PK phosphorusic and 
+potassium fertilizers
+Phosphorus – 200 kg/ha 
+Cost (1 unit) – USD 0.075 
+Total USD 400 or USD 15/ha
+Farmer’s access to credit and 
+inputs (fertilizers, seeds)
+Limited
+Herbicides
+Standard – 2 l/ha
+Cost (1 kg) – USD 5
+Total – USD 400 or USD 10/ha
+Water
+USD 4
+Labour
+40 hours/ha 
+Cost (1 unit) – USD 1 
+Total – USD 1,600 or USD 40/ha
+Rent
+USD 22.70/ha
+Total – USD 1,135
+Costs (A)
+USD 117.60/ha
+Total: USD 4,704
+(B) Field prices
+Purchasing prices of 
+producers
+117.6
+(C) Gross margin= 
+(B) – (A)
+USD 156/ha
+Total: USD 6,096
+Source: FAO Wheat Database
+2 Agribenchmark Cash Crop Report 2006 http://www.agribenchmark.org/cc_results_cash_crop_reports.html
+=== PAGE 12 ===
+11
+Margins/Revenues from wheat production are not solely dependent on the 
+cost of wheat production. Farmers’ revenues are influenced by state price 
+support programmes and timing of sale (immediately after the harvest wheat 
+prices are usually the lowest in any given marketing year) among other factors. 
+Wheat quality, prices and farmer’s location also have significant impact on 
+farmers’ revenues.
+Wheat producers may target and obtain specific wheat quality by using 
+appropriate wheat varieties at the time of planting and applying recommended 
+doses of mineral fertilizers and pesticides during wheat growth. However, 
+protein content and gluten quality would be largely determined by weather 
+conditions and pest infestation during crop ripening and harvesting.
+A farmer’s location in relation to the main domestic and international markets, 
+and the proximity of the crop to the grain handling infrastructure and ports also 
+significantly influence the level of the farm-gate wheat prices and revenue. 
+Farmers in remote areas typically receive lower prices than farmers located 
+close to ports. This is especially true in situations where farmers compete in 
+the same export markets. For instance, farmers in Ukraine received USD 145/
+ton of wheat in December 2009 due to their proximity to the Black Sea ports. 
+Farmers in Kazakhstan with no access to ports received about USD 110/ton 
+for similar or better quality wheat in the same month. 
+According to the Agribenchmark network, wheat farmers were estimated 
+to have earned USD 12–20/ton of wheat (about 10–20% margin) in 2006; 
+however, less fortunate wheat farmers experienced losses of up to USD 
+30/ton the same year. Following the increase in cereal prices in 2007, the 
+revenues of wheat farmers also increased to an estimated USD 50–150/ton. 
+During the 2000s, production and consumption of wheat increased 
+substantially. In 2000/2001, the world’s total wheat output was estimated at 
+586 million tons. Since then wheat production has increased considerably. 
+Following low wheat production in 2006 and 2007 as a result of the drought in 
+major producing countries, wheat prices increased considerably (see Section 
+3). Wheat production rebounded to 685 million tons in 2008 in response to 
+high prices. The increase in wheat production has been directly related to the 
+increase in use for food, feed and other purposes as outlined in Table 3.
+=== PAGE 13 ===
+12
+Table 3: Wheat: world balance (million tons)
+ 
+2004/2005
+2005/2006
+2006/2007
+2007/2008
+2008/2009
+(estimate) 
+2009/2010 
+(forecast)
+Production 
+632
+625
+597
+610
+685
+656
+Trade 
+110
+110
+113
+113
+124
+114
+Consumption: 
+620
+620
+621
+618
+645
+655
+food
+438
+439
+442
+447
+452
+456
+feed 
+111
+116
+113
+102
+120
+127
+other uses 
+71
+65
+65
+69
+73
+72
+Year-end stocks 
+174
+180
+160
+152
+191
+192
+Supply
+793
+806
+776
+768
+832
+n/a
+Note: The international marketing year begins 1 July and ends 30 June of the following year.
+Source: FAO estimates 
+Wheat remains one of the most affordable sources of protein in many countries. 
+The growing population is the key factor contributing to the increase in use of 
+wheat and wheat-based products such as flour, groats, starch and ethanol. 
+The EU-27, China, India, the United States, the Russian Federation and other 
+major wheat producers increased wheat production in recent years.
+Table 4: Major wheat producing countries (thousand tons)
+Country/region
+2005
+2006
+2007
+2008
+2009
+Change
+%
+Leading wheat producers
+EU-27
+132,356
+124,870
+120,133
+151,072
+138,339
+5
+China
+97,445
+108,466
+109,298
+112,464
+114,500
+18
+India
+68,640
+69,350
+75,810
+78,570
+80,580
+17
+Russian Federation
+47,700
+44,900
+49,400
+63,700
+61,700
+29
+United States
+57,243
+49,217
+55,821
+68,016
+60,314
+5
+Canada
+25,748
+25,265
+20,054
+28,611
+26,500
+3
+Pakistan
+21,612
+21,277
+23,300
+21,500
+24,000
+11
+Australia
+25,173
+10,822
+13,569
+20,939
+22,500
+-11
+Ukraine
+18,700
+14,000
+13,900
+25,900
+20,500
+10
+Turkey
+18,500
+17,500
+15,500
+16,800
+17,800
+-4
+Kazakhstan
+11,200
+13,450
+16,450
+12,550
+17,000
+52
+Wheat production in selected ETCs and WBCs
+Uzbekistan
+5,800
+5,850
+6,200
+6,000
+6,200
+7
+Azerbaijan
+1,575
+1,540
+1,425
+1,700
+2,200
+40
+Serbia
+ 
+1,876
+1,994
+2,100
+2,000
+7
+=== PAGE 14 ===
+13
+Turkmenistan
+1,600
+1,600
+1,600
+900
+1,200
+-25
+Kyrgyzstan
+950
+890
+710
+720
+1,100
+16
+Republic of Moldova
+1,100
+700
+450
+1,400
+750
+-32
+Tajikistan
+550
+530
+530
+350
+530
+-4
+Albania
+300
+330
+330
+330
+330
+10
+FYR Macedonia
+280
+250
+280
+280
+280
+0
+Bosnia & Herzegovina
+175
+150
+150
+180
+175
+0
+Armenia
+258
+147
+300
+230
+140
+-46
+Mongolia
+74
+130
+110
+110
+110
+49
+Georgia
+190
+70
+76
+135
+100
+-47
+Source: USDA estimates as of 10 February 2010 
+According to the baseline scenario of the FAO-OECD Agricultural Outlook for 
+2009–20183, wheat production is forecast to increase from approximately 630 
+million tons (2006–2008 average) to 722 million tons in 2018. 
+3 http://www.agri-outlook.org/dataoecd/2/31/43040036.pdf
+=== PAGE 15 ===
+
+=== PAGE 16 ===
+15
+2. USES OF WHEAT OTHER THAN FOR HUMAN CONSUMPTION
+2.1 Animal feed
+Approximately 17–20% of global wheat production is used for feeding animals 
+and poultry. Although wheat is not the main feed ingredient worldwide, 
+increasing demand for meat, especially in the Asia-Pacific region, has led to 
+an increasing need for proteins to feed poultry, pigs and cattle. Accordingly, 
+an increase in the livestock population requires an increase in the production 
+of feed grain.
+Figure 2: World livestock and poultry inventories (thousand head)
+Source: FAOSTAT
+2.2 Biofuels 
+During the last decade, the growing consumption and prices of oil and petroleum 
+and related biofuels policies4 led to a substantial increase in grain usage for 
+bioethanol production. According to FAO-OECD estimates, approximately 93 
+million tons of wheat and coarse grains were used for ethanol production in 
+2007, double the amount used in 2005 (OECD-FAO, 2008). This represents 
+more than half of the total growth in wheat and coarse grain usage. 
+Wheat, among other cereal crops, yields less ethanol per 1 ton of feedstock 
+used or 1 ha of land cultivated (Table 5). While in the United States maize is 
+the primary feedstock for bioethanol plants, in the EU the main feedstock is 
+wheat. 
+4 For more information, please refer to Biofuels: prospects, risks and opportunities. The State of 
+Food and Agriculture (SOFA) Report 2008 http://www.fao.org/publications/sofa/en/ 
+20,000,000
+18,000,000
+16,000,000
+14,000,000
+12,000,000
+10,000,000
+8,000,000
+6,000,000
+4,000,000
+2,000,000
+0
+1,000,000
+900,000
+800,000
+700,000
+600,000
+500,000
+400,000
+300,000
+200,000
+100,000
+0
+=== PAGE 17 ===
+16
+Table 5: Bioethanol yields from different grain crops
+Feedstock cereal
+Cereal yield
+ton/ha
+Conversion 
+kg of ethanol/1 ton
+Biofuel yield
+ ton/ha
+Maize
+4.9
+400
+1,960
+Rice
+4.2
+430
+1,806
+Wheat
+2.8
+340
+952
+Sorghum
+1.3
+380
+494
+Source: FAO State of Food and Agriculture (SOFA) Report 2008
+=== PAGE 18 ===
+17
+3. WORLD WHEAT TRADE
+3.1 Wheat prices
+World prices for many commodities, including wheat, nearly doubled over the 
+period 2007–2008 but subsequently fell sharply from their record highs due 
+to increased production, prompted by earlier price increases, and to slightly 
+weaker demand, intensified by the global economic crisis. Due to sporadic 
+shortages in wheat supply, wheat prices have been highly volatile. Between 
+January 2001 and January 2009 MATIF (International French Futures and 
+Options Exchange) milling wheat prices went up from USD 109.70/ton to USD 
+196.50/ton, with the peak in wheat prices at USD 429.50/ton in March 2008. 
+As a result of increased use of wheat for food, feed and biofuel, demand for 
+grains and wheat in particular will likely remain high and in turn wheat prices 
+will also remain high in the foreseeable future.
+Figure 3: Dynamics of world wheat and maize prices, 2001–2008 (USD/ton)
+Source: International French Futures and Options Exchange (MATIF)
+3.2 Wheat importers and exporters
+Increasing global wheat consumption has led to increased trade. Wheat trade 
+increased by an estimated 23% in the last nine years and reached 123.8 million 
+tons in 2008/2009 compared with 100.9 million tons in 2000/2001. Wheat trade 
+will increase to 134 million tons by 2018 according to FAO-OECD Agricultural 
+Outlook 2009–2018. Developing countries such as those in South and East 
+Asia, as well as countries in Africa such as Nigeria and Egypt, will continue to 
+fuel global wheat demand in an effort to feed fast growing local populations. 
+Jan. 2001
+May 2001
+Sept. 2001
+Jan. 2002
+May 2002
+Sept. 2002
+Jan. 2003
+May 2003
+Sept. 2003
+Jan. 2004
+May 2004
+Sept. 2004
+Jan. 2005
+May 2005
+Sept. 2005
+Jan. 2006
+May 2006
+Sept. 2006
+Jan. 2007
+May 2007
+Sept. 2007
+Jan. 2008
+May 2008
+Sept. 2008
+Jan. 2009
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+0
+=== PAGE 19 ===
+18
+Table 6: Wheat grain importers (left) and exporters (right) (thousand tons)
+Importer
+2007/2008
+2008/2009
+2009/2010*
+2009/2010 vs 
+2007/2008 %
+Exporter
+2007/
+2008
+2008/
+2009
+2009/
+2010*
+2009/2010 vs 
+2007/2008%
+Egypt
+7,700
+9,900
+8,300
+8%
+United 
+States
+34,363
+27,637
+23,814
+-31
+EU-27
+6,942
+7,740
+7,000
+1%
+EU-27
+12,271
+25,390
+19,000
+55
+Brazil
+6,711
+6,000
+6,500
+-3%
+Canada
+16,116
+18,812
+18,500
+15
+Indonesia
+5,224
+5,423
+5,500
+5%
+Russian 
+Federation
+12,552
+18,393
+18,000
+43
+Algeria
+5,904
+6,359
+5,300
+-10%
+Australia
+7,487
+14,800
+15,000
+100
+Japan
+5,701
+5,156
+5,300
+-7%
+Ukraine
+1,236
+13,037
+9,000
+628
+Iran
+200
+6,700
+4,500 2 times
+Kazakhstan
+8,181
+5,701
+7,500
+-8
+Iraq
+3,424
+3,868
+3,800
+11%
+Argentina
+11,193
+6,000
+2,500
+-78
+Republic of 
+Korea
+3,092
+3,371
+3,700
+20%
+Turkey
+1,722
+2,238
+2,300
+34
+Nigeria
+2,677
+3,550
+3,500
+31%
+Mexico
+1,261
+1,406
+1,200
+-5
+Others 
+65,816
+78,292
+66,959
+2%
+Others 
+10,820
+8,874
+7,859
+-27
+World
+113,391 136,359 120,359
+6%
+World
+117,202 142,288 124,673
+6
+Source: USDA estimates as of December 2009
+The United States, the EU-27, Canada, Australia and Argentina have been 
+traditionally the most important wheat exporters in the world. Recently 
+Kazakhstan, the Russian Federation and Ukraine (often referred to as the 
+Black Sea grain exporters) have become the leading wheat exporters and will 
+likely hold their dominant positions in wheat trade in the foreseeable future5. 
+The Black Sea grain exporters possess significant production potential in 
+terms of both wheat yield and area increases6 and are located close to the 
+traditional grain importers in the Middle East, North Africa and Central Asia, 
+including the ETCs.
+Although the EU is one of the main producers and exporter of wheat, it also 
+imports significant quantities of wheat. Feed producers in Spain and Italy are 
+5  For the most recent updates of the global grain trade outlook from FAO-OECD, please visit 
+http://www.agri-outlook.org
+6 For more on grain production and export potential in the Commonwealth of Independent 
+States (CIS), please see http://www.fao.org/newsroom/common/ecg/1000808/en/FAOEBRD.pdf
+=== PAGE 20 ===
+19
+the main buyers of medium- and low-quality wheat. Until the end of 2002, 
+the EU import tariff regime for cereal and rice was based on the Margin of 
+Preference (MOP). Under the MOP, the import tariff on wheat and feed grains 
+was the difference between the maximum duty-paid price (155% of the EU 
+intervention price) and the landed price of wheat in Rotterdam based on United 
+States market prices. This tariff system provided a high level of protection until 
+2002, after which time increasing supplies from the Russian Federation and 
+Ukraine made this system ineffective. In 2002, the MOP was replaced with a 
+quota system for low- and medium-quality wheat.
+Overall rising per capita incomes and expanding populations fuelling demand 
+in the food markets of developing countries are behind the increasing import 
+and global demand that has outpaced domestic production capacity. However, 
+growth in per capita food consumption of wheat is expected to remain modest 
+or even to decline in some countries, notably in China. Diets in these countries 
+are slowly shifting towards more value-added food products in the face of 
+rising incomes, a phenomenon that has already taken place in much of the 
+OECD area. 
+It is expected that Egypt, the EU, Indonesia, Japan, Brazil and Algeria will likely 
+remain the main wheat importers until 2018, with each country importing more 
+than 4.5 million tons per year (OECD-FAO Agricultural Outlook 2009–2018).
+3.3 Grain trading contracts
+Grain traders conclude contracts between themselves or prospective 
+buyers well in advance of physical delivery of the commodity. Many of these 
+physical delivery contracts (as opposed to futures trade contracts) are often 
+concluded 6–9 months ahead of harvest, shipment or delivery time. Reputable 
+international associations such as the Grain and Feed Trade Association 
+(GAFTA) have developed standard terms for grain trading contracts that cover 
+product quality, condition, shipping documentation requirements, payment 
+terms, insurance requirements, default and damage clauses and arbitration 
+procedures. In support of these contracts, GAFTA has developed rules for 
+methods of grain weighting, sampling and analysis. 
+3.4 Tenders
+Wheat importing countries use various mechanisms to regulate grain trade, 
+including import tariffs, quotas or tender systems. Egypt, the Republic of 
+Korea, Japan and many other importing nations announce wheat tenders in
+=== PAGE 21 ===
+20
+which they specify desired quantities, qualities and origins of the wheat they 
+would like to import. In some cases, wheat origin may be “optional” for tender 
+purposes in order to allow for certain flexibility. For instance, the Egyptian 
+General Authority for Commodity Supplies (GASC) may seek to buy 55,000–
+60,000 tons of United States North Pacific soft white wheat, United States 
+hard red wheat, United States soft red winter wheat, French milling wheat, 
+Australian standard white wheat, Australian hard wheat, German milling 
+wheat, Canadian soft wheat, Argentine bread wheat and/or Kazakhstan 
+milling wheat. At the same time, GASC may seek cargoes of 30,000 and/
+or 60,000 tons of Russian wheat, United Kingdom milling wheat (ukp or uks 
+variety), Syrian wheat or Ukraine milling wheat7. In the case of a tender that 
+indicates origin as “optional”, the winner of the tender may decide at his/her 
+own discretion on the origin of the wheat, considering the supply situation, 
+qualities and prices in major producing countries.
+3.5 Freight costs
+With the exception of a few land-locked countries that have to import wheat 
+by railway and road, most importing countries receive wheat shipped by sea 
+in dry bulk cargo vessels that are classified by their dead weight: Panamax 
+(74,000 tons), Supramax (52,454 tons) and Handysize (28,000 tons). Less 
+frequently, wheat is shipped by Cape-sized vessels (above 100,000 tons) due 
+to port size limitations. The ports must meet minimum berth length and depth 
+requirements for each classification of vessel and have the loading/unloading 
+machines and elevator capacity to handle wheat shipments. In addition, ports 
+should not be too congested and allow moderate vessel waiting time. When 
+port facilities cannot handle bulk wheat shipments and when freight costs 
+permit, traders may choose to ship wheat in cargo containers. This is often 
+done for food aid and commercial wheat shipments to the African ports that 
+cannot handle bulk wheat shipments.
+The cost of shipping wheat depends on the distance to destination (Table 7) 
+and overall demand for dry cargo transportation. Freight costs can contribute a 
+significant share to wheat landed price in the importing country. From January 
+to March 2006, the freight cost from the United States gulf ports to Egypt, 
+the world’s major wheat importer, was USD 28–30/ton (Figure 4, left axis) 
+as compared with the f.o.b. wheat price of USD 143–149/ton, which kept the 
+freight cost/wheat price ratio at 19% (Figure 4, right axis). Due to the increasing 
+demand for cargo transportation, freight cost on this route more than doubled 
+7 http://af.reuters.com/article/investingNews/idAFJOE57500V20090806 (last accessed on 9 
+February 2010)
+=== PAGE 22 ===
+21
+and reached USD 68/ton by May 2007. The price of wheat showed only a 
+moderate increase to USD 181/ton during the same time. Thus, the share of 
+maritime transportation costs in the landed price of wheat in Egypt (f.o.b. price 
++ cost freight) increased to a sizable 38% (on the right axis below). 
+Table 7: Freight costs from United States  gulf ports, January of each year 
+(USD/ton)
+Destination/vessel size
+2005
+2006
+2007
+2008
+Change 2008 vs. 2005
+%
+Bangladesh/ over 40,000 tons 
+81
+42
+58
+111
+37
+Egypt over 30,000 tons 
+50
+28
+49
+92
+84
+Rotterdam over 40,000 tons 
+36
+21
+30
+76
+111
+Source: CIMMYT Prices Database
+Figure 4: Freight costs from United States gulf ports to Egypt as a ratio 
+of the f.o.b. wheat price
+Note: 	
+*Ratio of freight cost to the f.o.b. price of United States soft red winter 		
+	
+wheat (SRW#2).
+Source: 	Author’s calculations based on CIMMYT Prices Database
+The Baltic Dry Index (BDI)8 is an international index to measure the cost 
+of shipping raw materials, such as iron ore, coal and bulk agricultural 
+8 The London-based Baltic Exchange compiles the Baltic Dry Index (BDI) data from all major 
+shipping routes to calculate the BDI. 
+Jan. 2005
+Mar. 2005
+May 2005
+Jul. 2005
+Sep. 2005
+Nov. 2005
+Jan. 2006
+Mar. 2006
+May 2006
+Jul. 2006
+Sep. 2006
+Nov. 2006
+Jan. 2007
+Mar. 2007
+May 2007
+Jul. 2007
+Sep. 2007
+Nov. 2007
+Jan. 2008
+Mar. 2008
+May 2008
+Jul. 2008
+Sep. 2008
+Nov. 2008
+Freight cost, USD/MT
+Freight/wheat price ratio
+Freight/wheat price ratio* (right axis)
+Destination: Egypt (30,000 tons + vessel) - left axis
+=== PAGE 23 ===
+22
+commodities, via a sea route. As the freight cost is usually high compared 
+with the price of wheat, delays in vessel loading due to poor logistics and 
+delays with grain fumigation, phytosanitary, procurement of quality certificates, 
+customs clearance, etc., may cost the grain trader USD 15,000–30,000 per 
+day depending on the type of vessel and the contractual arrangements. Thus, 
+a trader who expects to earn a USD 3/ton margin on shipping 30,000 tons of 
+wheat overseas can loose USD 0.50–1.00 in demurrage payments each day 
+the shipment is delayed. 
+3.6 Wheat traders’ margins
+ 
+Grain trading is a low margin and high-volume business. Depending on wheat 
+prices, freight rates, currency exchange rates, existence of own elevator 
+and procurement (sourcing) network, government policies related to export 
+refunds (subsidies) and the terms of value-added tax (VAT) reimbursement, 
+wheat traders’ margins may be highly variable. It is believed that grain traders 
+who sell wheat from the Black Sea region earn on average USD 2–5/ton.
+3.7 industry leaders in the grain trade
+There has been some consolidation of the grain trading business due to 
+the mergers and acquisitions of the last ten years (Cargill’s purchase of the 
+Continental Grain merchandising business, completion of the Archer Daniels 
+and Midland (ADM) acquisition of A.C. Toepfer International, etc.). It is difficult 
+to rank the grain trading companies in terms of trade volume as most of them 
+do not declare grain trade volumes or separate wheat trade from their other 
+trading activities in coarse grain, oilseeds, vegetable oils or other commodities.
+The leading grain trading companies in the world are believed to be Cargill, 
+Bunge, ADM (all United States companies) and Louis Dreyfus (French 
+company).
+=== PAGE 24 ===
+23
+4. WHEAT FLOUR 
+After harvesting, wheat is transported to on-farm storage facilities or directly to 
+elevators. Most modern elevators are equipped for receiving grain from farm 
+trucks and cleaning, drying and preparing it for shipment by sea, rail or truck 
+to export ports or domestic flour mills. The flour milling industry is the main 
+consumer of wheat and rye because these grains are the key cereals used 
+for bread production. Maize, oat, barley and rice are used in flour production 
+in significantly lesser quantities. Wheat flour – the most important product 
+of wheat milling – is used in the baking and confectionary industries and for 
+home cooking.
+4.1 Milling wheat into flour 
+Before receiving wheat, samples are tested to ensure wheat quality and safety 
+and to determine end-use qualities. These tests determine how the wheat will 
+be stored and processed. Millers often blend different qualities of wheat to 
+achieve the desired wheat flour quality. 
+Flour production is based on the mechanical extraction of the core part of the 
+kernel, the endosperm which contains the bulk portion of the kernel’s protein 
+and carbohydrates. Figure 5 shows the main steps involved in wheat milling.
+=== PAGE 25 ===
+24
+Figure 5:  The process of milling wheat into flour
+Source: Author
+=== PAGE 26 ===
+25
+At the flour mill, the wheat is always cleaned. Cleaning involves using magnetic 
+separators (to remove iron particles), vibrating separators (to remove straw 
+and dirt), aspirators (to remove dust) and de-stoners (to remove stones). Disc 
+separators are used later in the process for separating the various sizes of 
+wheat kernels.
+Wheat conditioning and tempering (moisturizing) finalize wheat preparation for 
+milling. Moisture is added to toughen the bran and to facilitate easy separation 
+of kernel parts. Tempered wheat is stored for about 8–20 hours, depending on 
+the type of wheat, whether soft, medium or hard. Blending of different wheat 
+types and qualities can be done at this stage to achieve a specific flour quality.
+The wheat is then milled in roller mills. The modern mills use the process 
+of gradual reduction of the wheat kernels with the goal to obtain middlings 
+(coarse particles of endosperm). The middlings are then separated from the 
+bran by sieves and returned to the appropriate rollers until the desired flour 
+is obtained. Proper adjustment and settings of the rolls ensure maximum 
+output of high-quality flour. Grinding that is too hard will result in bran particles 
+getting into the flour, while grinding that is too light will result in the waste of 
+endosperm.
+From the rolls, the milled products are sent by pneumatic systems to rotating 
+box-type sifters. The sifters separate the larger particles from the smaller 
+particles. Larger particles are shaken off at the top, leaving the finer flour 
+particles to sift to the bottom. This process may be repeated several times. 
+The following table summarizes the output coefficients of the main products 
+received from wheat milling (measured as percentage of wheat that arrives at 
+the mill). These coefficients largely depend on wheat quality, type of equipment, 
+technological processes used and the experience of the flour mill staff.
+Table 8:  Approximate output of wheat flour and by-products (%)
+Admixt.
+Semolina
+Flour 9
+Bran
+Prime grade*
+ash, % DM – 0,55
+gluten, % – 24
+1st grade*
+ash, % DM – 0,75
+gluten, % – 25
+2nd grade*
+ash, % DM – 1,25
+gluten, % – 21
+Min. %
+1
+0
+25
+15
+5
+19
+Max. %
+3
+3
+65
+45
+25
+20
+* According to Ukraine’s State Standard ГСТУ 46.004-99 “Wheat Flour. Technical Conditions”.
+DM = dry matter.
+9 Flour grade in the countries of the former Soviet Union is based on ash, fineness, gluten con-
+tent and quality, particle size and whiteness. For more information, please refer to http://www.
+apk-inform.com/showart.php?id=12680
+=== PAGE 27 ===
+26
+In the case of industrial milling at factories with a daily grain processing capacity of 
+100 tons or more, wheat flour output reaches 75–78% of wheat weight. In small-
+sized mills, both roller and burr, flour output approximates 70–72% of wheat weight. 
+In additions to flour, mills also produce semolina, wheat groats (white groats, 
+couscous, bulgur, etc.) and pasta flour. The most important milling by-product is 
+bran, which is used by the compound feed industry.
+4.2 Costs and margins of wheat flour production
+The approximate cost-price breakdown of flour production is as follows: the 
+cost of grain accounts for approximately 81% of the total cost of flour, followed 
+by electricity cost (6.5%), labour cost (4%), and expendable materials and 
+other costs (8.5%), according to the International Association of Operative 
+Millers.
+Table 9: Annual production cost of a flour mill by type of product
+Cost
+Total
+thousand USD
+USD/ton
+%
+Wheat grain milled per year, 
+34,629 tons
+1. Material costs, including cost of:
+4,558.3
+131.6
+93.9
+grain
+4,350.1
+125.6
+89.6
+electricity
+126.1
+3.6
+2.6
+fuel
+39.5
+1.1
+0.8
+water
+16.5
+0.5
+0.3
+additional materials
+26.1
+0.8
+0.5
+2. Labour costs
+143.6
+4.1
+3.0
+3. Social deductions
+55.5
+1.6
+1.1
+4. Depreciation
+85.2
+2.5
+1.8
+5. Other costs
+10.6
+0.3
+0.2
+Total production cost
+4,853.1
+140.1
+100.0
+Source: Author’s calculations, mill location: Ukraine
+Like the grain trade, wheat milling is also a thin margin business. On the 
+one hand, wheat millers depend to a great extent on wheat markets that 
+determine the cost of the raw material. On the other hand, they depend on 
+the preferences and willingness to pay of their consumers – bakeries, the 
+confectionary industry, restaurants and other users of flour – for the flour they 
+produce.
+=== PAGE 28 ===
+27
+The ability of wheat millers to hedge the price risks is often limited due to the 
+lack of grain futures markets or poor contract enforcement in the spot grain and 
+flour markets in the transition countries. Millers in the private sector in many 
+countries may be subject to government regulation as flour and bread are 
+considered to be socially important food products. In this case, governments 
+may regulate the wheat milling business through administrative price fixing, 
+establishment of maximum margins or provision of input subsidies.
+Depending on the output ratios, wheat flour may contribute 93% to the gross 
+margin generated in wheat milling, while wheat bran may contribute 7% (Figure 
+6). These contribution ratios change depending on flour and feed demand and 
+prices.
+Figure 6: Wheat flour and bran contribution to wheat milling margin (%)
+Source: 	Author’s calculations based on APK-Inform price data for wheat, three types 	
+ 
+of flour and bran in Ukraine
+The gross margin in wheat milling can change significantly throughout the 
+marketing year and go from a negative value (i.e. wheat milling may generates 
+01 Jul. 2005
+30 Dec. 2005
+30 Jun. 2006
+29 Dec. 2006
+29 Jun. 2007
+28 Dec. 2007
+27 Jun. 2008
+26 Dec. 2008
+26 Jun. 2008
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Prime grade flour
+Other flour
+Bran
+7%
+6%
+10%
+10%
+13%
+12%
+8%
+4%
+4%
+41%
+41%
+41%
+37%
+35%
+36%
+38%
+55%
+57%
+54%
+52%
+52%
+51%
+51%
+55%
+55%
+38%
+37%
+=== PAGE 29 ===
+28
+a net loss) to a hefty positive USD 75/ton or 42% as compared with the cost 
+of the wheat grain milled (Figure 7). Therefore, in addition to good technical 
+knowledge and equipment, price-risk management instruments and well-
+established relations with wheat suppliers and wheat flour buyers, clear and 
+predictable policy mechanisms are critically important for the success of wheat 
+flour businesses.
+Figure 7: Wheat milling margins in marketing years 2005/2006–2008/2009
+Source: Author’s calculations based on APK-Inform prices data for wheat, three types 
+of flour and bran in Ukraine
+Jul. 2005
+Aug. 2005
+Sep. 2005
+Nov. 2005
+Dec. 2005
+Jan. 2006
+Mar. 2006
+Apr. 2006
+Jun. 2006
+Jul. 2006
+Aug. 2006
+Oct. 2006
+Nov. 2006
+Dec. 2006
+Feb. 2007
+Mar. 2007
+May 2007
+Jun. 2007
+Jul. 2007
+Sep. 2007
+Oct. 2007
+Nov. 2007
+Jan. 2008
+Feb. 2008
+Apr. 2008
+May 2008
+Jun. 2008
+Aug. 2008
+Sep. 2008
+Oct. 2008
+Dec. 2008
+Jan. 2009
+Mar. 2009
+Apr. 2009
+May 2009
+Jul. 2009
+Gross margin USD per 1 MT of wealt (left axis)
+Gross margin, % (right axis)
+7%
+42%
+50%
+95
+75
+55
+35
+15
+-5
+-25
+-45
+40%
+30%
+20%
+10%
+0%
+-10%
+USD/T
+=== PAGE 30 ===
+29
+5. WORLD WHEAT FLOUR TRADE 
+Wheat grain is a more widely traded product than wheat flour due to the 
+following main reasons: (i) lower import tariffs on wheat grain as compared 
+with wheat flour and (ii) logistical and quality issues such as greater difficulty 
+with transportation and shorter shelf life of flour as compared with wheat grain. 
+Figure 8: Average or applied value-added duties (%) on wheat flour
+Source: World Trade Organization (WTO)
+Flour trade is subject to a number of tariff restrictions. In 2007/2008 when many 
+wheat and wheat flour importing countries removed trade barriers, global flour 
+trade reached a record high of 11.5 million tons on a wave of high cereal 
+prices (previous record of 11.2 million tons in grain equivalent was registered 
+in 1996/2007). This was partially due to the fact that the cost of wheat milling 
+increased only moderately as compared with the increase in wheat prices so 
+some importers increased their import of flour rather than wheat grain.
+World trade in wheat flour has accounted for 6–8% of total world wheat trade 
+and has not experienced any significant change. Usually a larger volume of 
+wheat trade results in lower wheat flour exports and vice versa.
+Average or applied ad valorem duties, %
+HS 100110
+Wheat
+Albania
+HS 110100
+Wheat ﬂour
+Albania
+HS 100110
+Wheat 
+Croatia
+HS 110100
+Wheat ﬂour
+Croatia
+HS 100110
+Wheat
+Mongolia
+HS 110100
+Wheat ﬂour
+Mongolia
+HS 100110
+Wheat
+Egipt
+HS 110100
+Wheat ﬂour
+Egipt
+12
+10
+8
+6
+4
+2
+0
+10,0
+5,0
+5,0
+5,0
+3,5
+0,0
+2,0
+10,0
+=== PAGE 31 ===
+30
+Figure 9: Ratio of world wheat and wheat flour exports (million tons)
+Source: 	Institute of the Agrarian Market Conjuncture based on the data of 	
+	
+	
+the International Association of Operative Millers (IAOM)
+5.1 Wheat flour exporters and importers
+Kazakhstan, the EU-27 and Turkey have been the three main flour exporters in the 
+last three years. Kazakhstani wheat flour exports showed remarkable growth from 
+171,000 tons in 2001 to 1.8 million tons in 2008, a ten-fold increase!
+Figures 10: Main wheat flour exporters, in 2008/2009
+Source: International Grains Council (IGC)	
+Whealt
+Whealt flour
+93%
+93%
+93%
+94%
+92%
+7%
+6%
+7%
+7%
+8%
+8%
+8%
+8%
+8%
+92%
+92%
+92%
+92%
+38% Other
+17% Kazakhstan
+5% Russian Federation
+11% Argentina
+12% Turkey
+13% EU
+5% Pakistan
+=== PAGE 32 ===
+31
+Figure 11: Kazakhstani wheat flour exports (thousand tons)
+Source: IAOM
+The EU-27, the second largest exporter, recently exported about 1.25 million 
+tons of flour in wheat grain equivalent. It is worth noting that European flour 
+exports peaked in 1996/1997, reaching 6.3 million tons in grain equivalent. 
+Today, European flour holds a 13% share of the world market compared with 
+a 65% share in 1996/1997.
+Turkey, the third largest flour exporter, traditionally exports between 1.0 and 
+1.3 million tons of flour in grain equivalent annually. It is worth noting that 
+while being one of the world’s leading flour exporters, Turkey imports wheat 
+on a regular basis. This is largely due to government policies promoting wheat 
+imports and processing, and wheat flour exports.
+The undisputed leaders among flour importers are Brazil and Libya (Figure 12). 
+Each country buys about 1 million tons of flour annually. Uzbekistan, Tajikistan 
+and Afghanistan are also major flour importers. Iraq has been trying to reduce 
+its flour imports. According to data by the International Grains Council (IGC), 
+in 2008/2009 Iraq imported 500,000 tons of flour in grain equivalent compared 
+with 600,000 tons the previous year and with 1.5 million tons in 2005/2006. 
+2001
+2,000
+1,800
+1,600
+1,400
+1,200
+1,000
+800
+600
+400
+200
+0
+170.9
+298.0
+483.5
+532.3
+931.9
+1,122.4
+1,454.3
+1,767.1
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+=== PAGE 33 ===
+32
+Figure 12: Flour imports (thousand tons) 
+Source: Institute of the Agrarian Market Conjuncture based on IAOM data
+The list of flour-importing countries has not changed much in recent years 
+and includes countries with either limited wheat production (Brazil, Libya, 
+Bolivia and Indonesia, and the region of Hong Kong) or continuing substantial 
+population increase and absence of domestic grain processing infrastructure 
+(Afghanistan, Tajikistan, Uzbekistan, etc.).
+5.2 Wheat flour prices
+Wheat millers in countries with well-developed futures trade can hedge their 
+price risks through the simultaneous buy and sell of wheat futures contracts. 
+However, access to futures markets is often limited in the transition countries 
+and millers tend to limit wheat and flour trade to the spot market. Spot prices 
+of wheat flour and wheat milling products tend to closely correlate with wheat 
+grain prices. The example in Figure 13 illustrates the correlation of Ex-Works 
+(EXW) wheat flour prices in Ukraine in 2005–2009.
+2000/2001
+2001/2002
+2002/2003
+2003/2004
+2004/2005
+2005/2006
+2006/2007
+2007/2008
+2008/2009
+8,000
+7,000
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+0
+=== PAGE 34 ===
+33
+Figure 13: Correlation of EXW wheat, flour and bran prices in Ukraine
+Source: Based on APK-Inform prices data
+Wheat-wheat flour
+corellation coeficient
+R= 0.92
+Wheat-wheat barn
+corellation coeficient
+R= 0.85
+450
+350
+250
+150
+50
+-50
+Flour,prime grade, USD/MT
+Bran, USD/MT 
+Wheat, 4th class, USD/MT
+Jul. 2005
+Aug. 2005
+Oct. 2005
+Dic. 2005
+Feb. 2006
+Apr. 2006
+Jun. 2006
+Jul. 2006
+Sep. 2006
+Nov. 2006
+Jan. 2007
+Mar. 2007
+May 2007
+Jun. 2007
+Aug. 2007
+Oct. 2007
+Dic. 2007
+Feb. 2008
+Apr. 2008
+May 2008
+Jul. 2008
+Jul. 2008
+Nov. 2008
+Jan. 2009
+Mar. 2009
+May 2009
+Jun. 2009
+=== PAGE 35 ===
+34
+=== PAGE 36 ===
+35
+6. WHEAT AND WHEAT FLOUR INDUSTRIES IN THE EARLY 
+TRANSITION COUNTRIES (ETCs)
+The ETCs include Armenia, Azerbaijan, Georgia, Kyrgyzstan, the Republic of 
+Moldova, Mongolia, Tajikistan and Uzbekistan. 
+6.1 Wheat production
+With the exception of the Republic of Moldova, the ETC are geographically 
+located in the Caucasus region and in Central Asia. Their location in close 
+proximity to main exporters and their traditional trade linkages with the 
+Commonwealth of Independent States (CIS) determine grain and flour 
+market trade patterns. First, the ETCs (except the Republic of Moldova) 
+possess limited arable land suitable for cereal production due to mountainous 
+landscapes, harsh climate, low rainfall and in some places salty soils. Second, 
+limited access to water resources for irrigation is another important constraint 
+in most Central Asian countries. 
+6.1.1 Weather and climate considerations 
+Wheat and most other agricultural crops need to be irrigated in most countries 
+of Central Asia. In Kyrgyzstan, about 60% of the area under grain crops 
+(mostly wheat) requires irrigation (Table 10).
+Table 10: Precipitation levels and irrigated grain production in Kyrgyz-
+stan, Kazakhstan and Tajikistan 
+ 
+ 
+Kyrgyzstan
+Tajikistan
+Kazakhstan
+Year
+Data
+Year
+Data
+Year
+Data
+Average precipitation in depth (mm/yr)
+2007
+533
+2007
+691
+2007
+250
+Area equipped for irrigation: actually irrigated 
+(thousand ha)
+1994
+1,077
+1994
+719
+1993
+2,314
+Irrigated grain production as % of total grain 
+production (%)
+1994
+60
+1994
+84.5
+1994
+6.3
+Area equipped for irrigation as % of 
+cultivated area (%)
+75.5
+68
+13
+Area salinized by irrigation (thousand ha)
+1995
+60
+1994
+115
+1994
+242
+Source: FAOSTAT
+=== PAGE 37 ===
+36
+Winter wheat accounts for most of the wheat produced in the ETCs as this type 
+of wheat benefits from soil moisture available in the fall and allows for higher 
+yields as compared with the spring wheat. Occasional low temperatures in 
+January and February (-20 °C) can damage winter wheat in the absence of 
+protective snow cover; however, low temperatures should not be considered 
+a major constrain for winter wheat production in the ETCs.
+6.1.2 Constraints on wheat production
+Despite the favorable wheat consumption outlook described below, a number 
+of important constraints restrict local wheat production in the ETCs: small 
+farm size, absence of quality wheat seeds adapted to conditions of a specific 
+location, limited access to capital for farm machinery and fertilizer purchases, 
+limited on-farm storage capacity, etc. 
+Limited availability of quality seeds is another important constraint. The 
+demand for wheat seeds in Kyrgyzstan is about 100,000 tons per year, while 
+local seed farms can supply only 35% of the seeds needed. The situation with 
+seed supply in the Republic of Moldova is somewhat better because weather 
+and climatic conditions in this country allow using wheat seeds from Ukraine 
+or Romania without significant production potential losses. 
+6.2 Demand outlook for wheat and wheat flour 
+The growing population of the ЕТСs and strong local traditions of bread 
+consumption suggest that the demand for wheat and wheat flour will continue 
+to increase in the foreseeable future. The population of all ETCs increased 
+from 48.6 million people in 1990 to 57.9 million people in 2007 (+19%). 
+According to population forecasts, the population of the ETCs will continue 
+to grow and by 2020 will reach 69.2 million people. This increase will have a 
+positive effect on the dynamics of domestic consumption of wheat and wheat-
+based products. In turn, increasing domestic consumption will create business 
+opportunities for local farmers and wheat and wheat flour importers.
+=== PAGE 38 ===
+37
+Figure 14: Population growth in the ETCs, 1990–2020 (forecast) 
+(thousand people)
+Source: FAOSTAT
+Wheat production in the ETCs almost doubled in the period 1993–2007 and 
+reached 9.7 million tons in 2007 (with a record output of 10.7 million tons 
+in 2005) in response to growing demand and at the expense of other crops 
+(mostly cotton).
+Figure 15: Wheat output in the ETCs (thousand tons)
+Source: FAOSTAT
+The growth of consumer disposable income in this region also resulted in 
+increased consumption of meat and meat products (Figure 16). This will likely 
+create additional competition between wheat and coarse grains for land. 
+80,000
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+1990
+1995
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+0
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Total in ETCs
+(Linear) Total in ETCs
+=== PAGE 39 ===
+38
+Figure 16: Livestock (left axis) and poultry (right axis) inventories in the 
+ETCs (thousand head) 
+Source: FAOSTAT
+6.3 Wheat flour production
+Uzbekistan is the major producer of wheat flour among the ETCs. Wheat 
+production in the ЕТСs is not sufficient and increasing imports of both wheat 
+and wheat flour are necessary. Imports of wheat flour increased from 670,000 
+tons in 1997 to 1.6 million tons in 2007.
+Figure 17: Wheat flour output in the ETCs (thousand tons)
+Source: FAOSTAT
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+180,000
+160,000
+140,000
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+0
+90,000
+80,000
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+Cattle
+Pigs
+Goats
+Sheep
+Chicken
+Turkey
+Total livestock and poultry
+Azerbaijan
+Georgia
+Kyrgyzstan
+Republic of 
+Moldova
+Mongolia
+Uzbekistan
+1995
+1995
+1995
+1995
+1995
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2,000
+1,800
+1,600
+1,400
+1,200
+1,000
+800
+600
+400
+200
+0
+=== PAGE 40 ===
+39
+The people of Kyrgyzstan, Mongolia, Tajikistan and Uzbekistan are experiencing 
+an acute deficit of iron and folic acid in their diets. To address this problem, 
+the governments of Tajikistan and Uzbekistan, with support from the United 
+Nations Children’s Fund (UNICEF) and the World Bank, are implementing 
+a voluntary programme for milling enterprises to enrich wheat flour with iron 
+folate. Uzbekistan succeeded to the greatest extent in this endeavour: flour is 
+enriched with iron folate at 50% of the nation’s flour milling enterprises, with 
+support provided by the GAIN grant administered by the World Bank. In 2009, 
+Kyrgyzstan introduced the law On the Enrichment of Bread Flour that envisages 
+a phased transition of all mills to mandatory production of enriched flour.
+Only half of flour output in the ETCs is produced by industrial enterprises 
+(with grain processing capacity of 100 or more tons daily). The remaining 
+half of flour output is produced by low-capacity mini-mills located in villages 
+and small towns. These mini-mills are often significantly behind the industrial-
+type competitors in terms of wheat quality, although they are usually price 
+competitive and enjoy a number of tax and V.A.T privileges granted to small 
+businesses in the ETCs. This is one factor limiting the development of the flour 
+milling industry. 
+Owners of small farms – the main wheat producers in the ETCs – usually use 
+village mills to process their flour on a commission (tolling) basis. Farmers 
+sell flour surpluses left after home consumption to local wholesale traders. 
+The commission for processing is typically 10% of the flour produced and is 
+paid to the mill in kind. In contrast to the larger mills, small village mills do not 
+generally buy wheat for milling. 
+Another important factor limiting development of the flour milling industry in all 
+countries of the region is the absence of specialized educational institutions for 
+preparing flour milling technologists/specialists. Training for this engineering 
+profession is available in the neighbouring countries: Kazakhstan, the Russian 
+Federation, Ukraine and China.
+6.4 Wheat flour trade
+As both quantity and quality of flour produced in the ETCs in relatively low, 
+imports of wheat flour into the ЕТСs will likely continue to increase. Imports will 
+most likely be significant in Kyrgyzstan, Mongolia, Tajikistan and Uzbekistan, 
+as wheat production and flour milling in these countries is stable while their 
+populations increase.
+Of all the ETCs, only Azerbaijan, Tajikistan and Uzbekistan do not have 
+membership in the World Trade Organization, although most of the former
+=== PAGE 41 ===
+40
+Soviet Union (FSU) countries have signed bilateral free-trade agreements 
+with each other to support trade.
+Figure 18: Wheat flour imports to the ETCs (tons)
+Source: FAOSTAT
+Being one of the world’s leading flour importers, Uzbekistan exports part 
+of the imported flour and some domestically-produced flour to Afghanistan. 
+Almost all flour imported by Georgia and the Republic of Moldova comes from 
+Ukraine. The Russian Federation is the main supplier of flour to Armenia and 
+Mongolia. Kyrgyzstan, Tajikistan and Uzbekistan buy wheat and flour from 
+Kazakhstan.
+6.5 Bread production
+ 
+Wheat flour is mostly used for bread production. In Armenia, Azerbaijan, 
+Georgia and the Republic of Moldova, the bulk of bread products are baked 
+at specialized factories and bakeries that use standard bread recipes/
+technologies. In Kyrgyzstan, Mongolia, Tajikistan and Uzbekistan, most bread 
+products are baked in private households or small bakeries.
+In most ETCs, consumers prefer traditional types of bread. Uzbekistan is 
+famous for the exceptional taste and fanciful shapes of its gid-ja, pulat, obi-
+non, katyr, sutli-non and kulcha. Similar shapes and cooking methods are 
+used for Tajik chabots, noniragvani, lavash and djuibori, Kyrgyz chui-nan, 
+koliuchnan and others. Armenian bakers make very thin sheets of dough. 
+Georgian baked breads include tandoor, madauli, shoti, trakhtinuli, saodjakho, 
+mrgvali and kutkhiani. Churek is a very popular bread in Azerbaijan. 
+1998
+1997
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+1,800,000
+1,600,000
+1,400,000
+1,200,000
+1,000,000
+800,000
+600,000
+400,000
+200,000
+0
+=== PAGE 42 ===
+41
+6.6 The flour milling industry in selected ETCs 
+Wheat can be grown throughout Azerbaijan but most of the wheat is produced 
+in seven provinces in Central Azerbaijan: Agcebedi, Terter, Berde, Isamilli, 
+Saki, Aksu, Celilabad Beylogan and Goranboy. Some wheat crops are 
+irrigated. Turkish millers have reportedly invested in the flour milling sector 
+through purchases for shares, and renovation and/or construction of new 
+mills. Most of the mills are believed to have a capacity of 150–350 ton/day. 
+There are also two macaroni/pasta factories operating in the country. 
+Azerbaijan and Kazakhstan jointly built a new flour milling factory to process 
+Kazakh wheat. It has an output capacity of 150 tons of flour daily. The National 
+Fund for the Support of Entrepreneurship of Azerbaijan is currently financing 
+construction of 21 grain elevators, each with a storage capacity of 10,000 
+tons. 
+Azerbaijan is the only ЕТС that has the capacity to manufacture modern 
+milling machinery. Asena is a Baku-based company that manufactures a wide 
+range of equipment for grain milling and for the compound feed industry. Other 
+ЕТСs for the most part purchase flour production equipment in the Russian 
+Federation, Turkey and China. 
+In Kyrgyzstan, farms with less than 50 ha of land under wheat accounted for 
+72% of the total area sown in wheat, according to the most recently available 
+National Agricultural Census in Kyrgyzstan (2002). Farms with only 1–5 ha of 
+land accounted for 26% of the total area under wheat. These farmers devoted 
+1.5 ha on average to wheat crops. Clearly, at such a level of fragmentation 
+in wheat production, farmers in Kyrgyzstan as compared with farmers in the 
+main wheat producing countries in the CIS are at a disadvantage for accessing 
+modern machinery and technologies.
+Kyrgyzstan is a net importer of wheat. Wheat is imported by large local 
+companies or government agencies. There are eight grain elevators in 
+Kyrgyzstan: two in the Bishkek area (capacity of 18,000 tons); two in Balykchy 
+(capacities of 10,000 and 95,000 tons); one in each location of Kara-Balta 
+(capacity of 56,000 tons); Chui-Tokmok (capacity of 75,000 tons); Kara-Suu 
+(capacity of 26,580 tons); and Djalal-Abad (capacity of 26,580 tons). Most of 
+the existing elevators in Kyrgyzstan were built in the 1970s and 1980s using 
+a combination of flat storage warehouses and more modern vertical concrete 
+silos (25 metres high, each with a capacity of 500 tons). There have been no 
+new elevators built since Kyrgyzstan gained independence.
+In Kyrgyzstan, the production of flour is the second most important food 
+processing industry by value after the dairy industry. There are 22 medium-
+=== PAGE 43 ===
+42
+to large-scale flour mills and approximately 2,400 mini-flour mills in the 
+country, with a registered capacity of 1,600 tons of flour per day. This equals 
+approximately 2,300 tons of wheat flour per day or 660,000 tons of wheat flour 
+per year (based on 11 months of operation at full capacity). The existing flour 
+production capacity in Kyrgyzstan, also including the capacities of the small-
+scale flour mills, is more than sufficient to process all grown and imported 
+wheat. However, the number of mini-flour mills continues to increase. Many 
+medium- and large-scale flour mills operate at only 40–50% capacity.
+In Tajikistan, wheat is grown on both irrigated and rain-fed lands, with a little 
+over 50% planted on irrigated land. About 40% of the flour made from Tajik 
+wheat is milled mainly at small village mills on a commission (toll) basis. The 
+tolling fee is typically 8–10% of the flour produced and is paid to the mill in kind. 
+In contrast to the larger mills, small village mills in Tajikistan do not generally 
+buy wheat for milling. Village mills are usually equipped with either Chinese or 
+Pakistani machinery that costs USD 2,000–2,500. The key technical constraint 
+to the operation of the mills is the variability of the electricity supply. The small 
+mills typically have a technical capacity of approximately 2.5–3.5 metric tons/
+day but generally mill around 0.5–1.0 metric tons/day during the peak season, 
+operating hours being determined by the availability of electricity.
+Uzbekistan, produces about 6 million tons of wheat per year. About 200,000 
+tons are exported to the Islamic Republic of Iran, Afghanistan and the FSU 
+countries. State procurement agencies reportedly purchase about 2 million 
+tons of wheat per year. The remaining wheat can be marketed by farmers. 
+Only an estimated 50% of the locally grown wheat is suitable for food use. 
+As in other Central Asian countries, many private bakers prefer using Kazakh 
+wheat flour, which is imported both officially and unofficially. 
+In the Republic of Moldova, the total flour milling capacity of grain processing 
+enterprises is about 2,000 tons/day. The large factories (kombinats) in the 
+four towns of Ceadir Lunga, Comrat, Chisinau and Beltsi have the greatest 
+milling capacity (together 1,500 tons/day). The largest mill is in Chisinau and 
+has a capacity of 600 tons/day. In addition to the kombinats, there are about 
+400 mini-mills located throughout the country. The main bread producers are 
+Franzeluta in Chisinau, two bakeries in Balti and one bakery in Cahul. There 
+are also more than 110 small- and medium-sized bakeries. The two pasta-
+producing facilities produce annually about 11,000 tons of pasta, using blends 
+of the durum wheat flour produced in Kazakhstan and local flour (USDA/
+FAS10).
+10 http://www.fas.usda.gov/gainfiles/199906/25454793.pdf
+=== PAGE 44 ===
+43
+7. WHEAT AND WHEAT FLOUR INDUSTRIES IN THE WESTERN 
+BALKAN COUNTRIES (WBCs)
+The WBCs include Albania, Bosnia and Herzegovina, the former Yugoslav 
+Republic of Macedonia, Kosovo, and Serbia and Montenegro. 
+7.1 Production of and demand for wheat
+Unlike in most ETCs, precipitation is not the major constrain for wheat production 
+in the WBCs. According to available FAO data (Auqstat), precipitation ranges 
+from 615 mm in the former Yugoslav Republic of Macedonia to 1,485 mm in 
+Albania, which is sufficient rain for wheat production on most rain-fed land. 
+Decreasing population is the main cause of the downward trend in wheat 
+consumption in the region. The population of the WBCs decreased from 19.6 
+million people in 2000 to 19.4 million people in 2008. According to available 
+population dynamics forecasts, the population in the WBCs is forecast to 
+decrease slightly by 2020. Therefore, the negative wheat consumption trend 
+will likely continue into the future.
+Figure 19: Population dynamics and forecast in the WBCs until 2020 
+(thousand people)
+Source: FAOSTAT
+Wheat production in the WBCs has shown a clear downward trend from 1993 
+to 2007.
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+19,600
+19,550
+19,500
+19,550
+19,450
+19,400
+19,350
+19,300
+=== PAGE 45 ===
+44
+Figure 20: Wheat output in the WBCs (tons)
+Source: FAOSTAT
+At the same time, the growth of consumer incomes and the trend in increasing 
+livestock protein in human diets have allowed these countries to maintain 
+livestock and poultry inventories at nearly constant levels. 
+Figure 21: Per capita gross domestic product in the WBCs (million USD)
+Source: FAOSTAT
+1998
+1997
+1999 2000
+1994
+1993
+1995 1996
+2001 2002 2003 2004 2005 2006 2007
+5,000,000
+4,500,000
+4,000,000
+3,500,000
+3,000,000
+2,500,000
+2,000,000
+1,500,000
+1,000,000
+500,000
+0
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+45,000
+40,000
+35,000
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+0
+=== PAGE 46 ===
+45
+Figure 22: Livestock (left axis) and poultry (right axis) inventories in the 
+WBCs (thousand people) 
+Source: FAOSTAT
+Most WBCs experienced urbanization and emigration of the workforce to 
+neighbouring EU countries during the last nine years. This is especially true of 
+the former Yugoslav countries, although the opposite situation is observed in 
+Albania, where urbanization is quite moderate. Urbanization does not help to 
+increase individual income and, consequently, lead to an increase in the per 
+capita consumption of flour. 
+7.2 Wheat flour production and consumption
+7.2.1 Milling industry 
+Bosnia and Herzegovina, the former Yugoslav Republic of Macedonia, and 
+Serbia and Montenegro, and have a sophisticated flour milling industry that 
+was built using European technologies back in the times of the former Yugoslav 
+countries. Today, the largest suppliers of milling machinery and equipment to 
+these countries are the Swiss, Italian and Czech manufacturers (Buhler, GBS, 
+Prokop, Ocrim and others). In the last few years, Turkish manufacturers also 
+assumed a substantial role in the supplying of milling machinery. Prospects 
+of entry into EU markets prompted flour producers in the WBCs to introduce 
+new production techniques to produce hydro-thermally processed flour, fast-
+cooking groats and stabilized wheat embryos, and to improve the quality of 
+local flour. 
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+45,000
+40,000
+35,000
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+0
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+=== PAGE 47 ===
+46
+Despite technological innovations, flour production and consumption in the 
+region has been declining due to decreasing demand. Albania is the only 
+WBC experiencing an increase in flour production and consumption.
+Figure 23: Wheat flour output in the WBCs (thousand tons)
+Source: FAOSTAT
+7.2.2 Consumption
+A number of WBCs (Serbia and Montenegro, Bosnia and Herzegovina, 
+the former Yugoslav Republic of Macedonia), with the prospect of further 
+integration into the EU, may be regarded as having the lowest growth potential 
+for the consumption of wheat and wheat flour.
+Figure 24: Wheat flour consumption in the WBCs (kg/capita)
+Source: FAOSTAT
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+Albania
+Bosnia &
+Herzegovina
+Serbia & 
+Montenegro
+FYR Macedonia
+1,200
+1,000
+800
+600
+400
+200
+0
+Albania
+Bosnia &
+Herzegovina
+Serbia & 
+Montenegro
+FYR Macedonia
+=== PAGE 48 ===
+47
+Wheat flour imports in the WBCs have also declined considerably over the 
+last ten years, reflecting a decrease in demand.
+Figure 25: Imports of wheat flour into the WBCs (tons)
+Source: FAOSTAT
+7.2.3 Consumption of flours made from grains other than wheat – maize
+In addition to wheat flour consumption, Bosnia and Herzegovina and the former 
+Yugoslav Republic of Macedonia have traditionally had high consumption of 
+maize and maize flour for food purposes.
+Figure 26: Maize consumption in the WBCs (kg/capita/year)
+Source: FAOSTAT
+Bosnia and Herzegovina and the former Yugoslav Republic of Macedonia 
+import substantial quantities of maize flour: about 5,000 tons per year. 
+Because of the poor maize harvest in 2007, imports of maize flour in that year 
+increased to 35,000 tons.
+600,000
+500,000
+400,000
+300,000
+200,000
+100,000
+0
+1998
+1997
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Albania
+Bosnia & Herzegovina
+Serbia & Montenegro
+FYR Macedonia
+=== PAGE 49 ===
+48
+Figure 27: Imports of maize flour to the WBCs (tons)
+Source: FAOSTAT
+7.3 Wheat and wheat flour industries in selected WBCs 
+Serbia is a net wheat exporter, supplying about 100,000–150,000 tons mostly 
+to the former Yugoslav countries. The government provides some support to 
+wheat producers: CSD 5,000 (Serbian dinars) (USD 70/ton) per ton per ha and 
+CSD 750 (USD 11/ton) for wheat storage as well as low interest commercial 
+loans to qualified farmers. 
+Domestic wheat consumption in Serbia is estimated at about 1.8–2 million 
+tons per year, including 1.3 million tons for human consumption. There are 
+340 wheat elevators of various sizes in Serbia. They are owned by milling 
+companies, grain traders and farmer cooperatives. The total capacity of these 
+elevators is estimated at 3.8 million tons. Wheat milling capacity is estimated at 
+about 2.5 million tons per year, but only about 60% of this capacity is currently 
+utilized. There are 120 industrial bread production facilities in addition to a 
+large number of registered bakeries (about 1,700) with an annual capacity 
+of about 1.5 million tons of bread and bread products. There are six large 
+companies involved in pasta production and over 600 small private pasta 
+producers in Serbia (USDA/FAS11).
+11 http://www.fas.usda.gov/gainfiles/200703/146280666.doc 
+40,000
+35,000
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+0
+Albania
+Bosnia & Herzegovina Serbia & Montenegro
+FYR Macedonia
+=== PAGE 50 ===
+49
+Bosnia and Herzegovina imports on average 350,000 tons of wheat per year. 
+Serbia and Croatia – the traditional suppliers – banned wheat exports in 
+2008, causing some concerns over food supply to Bosnia and Herzegovina. 
+In response, local governments12 in Bosnia and Herzegovina decided to 
+increase agricultural support to farmers to encourage them to produce more 
+grains in the future. Bosnia and Herzegovina imported wheat, flour and pasta 
+valued at the equivalent of USD 76 million from Hungary, Serbia and the 
+Russian Federation.
+12 Bosnia and Herzegovina consists of two entities, the Federation of Bosnia and Herzegovina 
+(BiH) and the Republika Srpska. There are two levels of government – the entity-level and the 
+state level of government. The entities are responsible for agricultural and food issues, and 
+there is no national-level agriculture ministry. Due to this dual governmental structure, there is 
+no coordinated agricultural policy at the national level.
+=== PAGE 51 ===
+50
+=== PAGE 52 ===
+51
+8. FURTHER READING AND INFORMATION
+Wheat Facts and Futures 2009. J. Dixon, H-J. Braun, P. Kosina and J. 
+Crouch (eds.). 2009. Mexico, D.F.: CIMMYT 
+http://www.cimmyt.org/english/docs/facts/whtfacts09.pdf 
+Agribenchmark Cash Crop Reports (wheat economics) 
+http://www.agribenchmark.org/cc_results_cash_crop_reports.html
+Organisation for Economic Co-operation and Development (OECD) 
+and the United Nations Food and Agriculture Organization (FAO). 
+Agricultural market outlook 
+http://www.agri-outlook.org
+FAO Commodity Prices Database (weekly, monthly, annual wheat prices) 
+http://www.fao.org/es/esc/prices
+FAO World Food Situation and Food Outlook Reports 
+http://www.fao.org/worldfoodsituation/wfs-home/en/ 
+International Association of Operative Millers (IAOM) (publications, 
+regional sections) 
+http://www.aomillers.org/ 
+North American Millers’ Association (NAMA). Milling process 
+http://www.namamillers.org/
+U.S. Wheat Associates (glossary, weekly prices) 
+http://www.uswheat.org/buyersGuide/glossary 
+USDA PSD Online (production, supply and demand forecasts and estimates) 
+http://www.fas.usda.gov/psdonline/psdHome.aspx
+=== PAGE 53 ===
+

@@ -1,0 +1,1305 @@
+=== PAGE 1 ===
+I
+ 
+ 
+ 
+ 
+MINISTRY OF AGRICULTURE AND IRRIGATION 
+ 
+ 
+ 
+NATIONAL IRRIGATION POLICY 
+ 
+ 
+ 
+ 
+2019
+=== PAGE 2 ===
+II 
+ 
+TABLE OF CONTENTS 
+ACKNOWLEDGEMENTS   
+ III 
+FOREWORD   
+ IV 
+1 INTRODUCTION   
+ 1 
+1.1  Country Context   
+ 1 
+1.2 Background   
+ 
+2 
+1.3  History of Irrigation Context of Somalia   
+ 3 
+1.4  Challenges of Irrigation Sector   
+ 5 
+1.5  Opportunities of Irrigation sector in Somalia   
+ 8 
+1.6  Rationale for Irrigation Policy   
+ 9 
+2  THE NATIONAL IRRIGATION POLICY AND STRATEGY   
+ 10 
+2.1  Policy Vision   
+ 10 
+2.2  Policy Mission   
+ 10 
+2.3  Goal and Objective of the Policy   
+ 
+10 
+2.3.1  Goal of the Policy   
+ 
+10 
+2.3.2  Objective of the Policy   
+ 10 
+2.3  Policy Outcomes   
+ 
+11 
+2.4  Policy Priority and Target Areas   
+ 12 
+2.4.1  Institutional Capacity Development   
+ 12 
+2.4.2 Rehabilitation of Existing Irrigation Infrastructure/Schemes   
+ 15 
+2.4.3  Sustainable Irrigation Development   
+ 17 
+2.4.4  Sustainable Irrigation Management   
+ 19 
+2.4.5  Irrigation Research and Information Management   
+ 20 
+3 INSTITUTIONAL ARRANGEMENT FOR POLICY IMPLEMENTATION   
+ 23 
+3.1  Roles and Responsibilities at Different Levels   
+ 23 
+3.1.1  National Level   
+ 23 
+3.1.2  State Level   
+ 25 
+3.1.3  Private Sector    
+ 25 
+4 COORDINATION, MONITORING AND EVALUATION   
+ 30 
+4.1  Coordination Process   
+ 30 
+4.2  Monitoring and Evaluation   
+ 30 
+4.3  Cross-Cutting Issues    
+ 31 
+List of Figures: 
+Figure 1.1 Map of geographical location of barrages and irrigation schemes   
+ 4
+=== PAGE 3 ===
+III 
+ 
+ACKNOWLEDGEMENTS 
+ 
+ 
+The National Irrigation Policy was prepared under the overall leadership of the Ministry of 
+Agriculture and Irrigation in partnership with the Federal Member States and the Banadir 
+Regional Administration. The Ministry of Agriculture and Irrigation of Federal Government 
+of Somalia expresses its heartfelt gratitude and sincere respect to Department for 
+International Development (DFID) for the financial support through Development 
+Alternatives, Inc. (DAI) under the project of Promoting Inclusive Markets in Somalia 
+(PIMS) 
+to 
+draft 
+the 
+National 
+Irrigation 
+Policy 
+and 
+also 
+to 
+conduct 
+the 
+consultation/validation meetings in the Federal Member States and Banadir Regional 
+Administration, and finally to submit the policy into the cabinet for further approval 
+process. 
+ 
+Special mention goes to the Ministry staff who played the crucial role in the preparation 
+and validation of the policy. Last but not least, many thanks go to all the members of the 
+stakeholders of the Federal State Members and Banadir Regional Administration who 
+participated in the consultative and validation workshops and gave their time and the 
+invaluable contribution providing the critical feedback on draft version of the National 
+Irrigation Policy.
+=== PAGE 4 ===
+IV 
+ 
+FOREWORD 
+ 
+The Federal Ministry of Agriculture and Irrigation has the mandate and responsibility for 
+management, development, coordination and reconstruction of Agriculture and Irrigation 
+sector in Somalia whose institutions, and infrastructure and farms were destroyed during 
+the years of civil strife. It is also mandated to establish an enabling environment that will 
+encourage, facilitate and promote agriculture, value-addition, and agriculture business 
+opportunities. Agriculture is the dominant sector of the Somalia economy and its 
+performance is the major determinant of overall GDP growth rate. The sector has crucial 
+role in ensuring food security, job creation, income generation and foreign exchange 
+earnings. In fact, an estimated 70% of the country’s population, more than 8.5 million, live 
+in rural areas and derive their livelihoods from agriculture, livestock and related activities. 
+ 
+Currently, government gives emphasis to develop the irrigation sub-sector to fully tap its 
+potentials by assisting and supporting farmers to improve irrigation management 
+practices and the promotion of modern irrigation systems. As a result of the prolonged 
+civil war, most of the prewar infrastructure for flood control and irrigation (embankments, 
+gates, canals, and water reservoirs) has not been maintained and is not currently 
+functioning adequately. On this basis, The Federal Republic of Somalia found it is 
+necessary to enact the National Irrigation Policy due to the unregulated and mismanaged 
+irrigation sector, traditional irrigation practices, and alarming water shortages in the 
+Shabelle and Juba river basins. 
+ 
+Whilst recognizing the numerous challenges facing irrigation development, the overall 
+goal of this policy is to contribute to sustainable economic growth and development by 
+enhancing irrigated agricultural production. The policy focuses on four priority areas, 
+namely; Institutional capacity development within the irrigation sector at both the National 
+and State level, Rehabilitation of existing irrigation infrastructure and development of new 
+schemes, Sustainable Irrigation Development and Management, and Irrigation Research 
+and Information Management. 
+ 
+It is my firm conviction that the policy will be critical in attaining economic and social 
+development of Somalia. It is pertinent, therefore, that all sectors of the economy play 
+their respective roles to transform Somalia by being committed to the implementation of 
+this Policy. 
+ 
+ 
+ 
+ 
+Hon. Said Hussein Iid 
+Minister of Agriculture and Irrigation 
+Federal Government of Somalia
+=== PAGE 5 ===
+1 
+ 
+1.0 INTRODUCTION 
+ 
+ 
+ 
+1.1 Country Context 
+ 
+ 
+Somalia is a country situated in the Horn of Africa that covers an area of 637,660 km2. It 
+has the longest coastline on the African continent (3333.333 km) and its terrain consists 
+mainly of plateaus, plains, and highlands. The country is bordered by the Gulf of Aden to 
+the north, the Indian Ocean to the east, Kenya to the south, Ethiopia to the west and 
+Djibouti to the north-west. The climate in Somalia is mainly arid to semi-arid, with an 
+average annual daytime temperature of 27ºC. It is hot and dry in the interior and on the 
+Gulf of Aden, but cooler on the Indian Ocean coast and inland on the river floodplains. 
+The mean annual precipitation is 282 mm, with 50 mm along the northern coast, 150 mm 
+in the interior plateau and 350-500 mm in the southwest. 
+ 
+The bimodal rainfall pattern has two rainy seasons, the Gu (April to June) and the Deyr 
+(October to December), and two dry seasons, the Hagaa (July to September) and the 
+Jilaal (January to March). The population relies on the long Gu rains and the shorter, but 
+important, Deyr rains for agricultural production, pasture regeneration, and the 
+replenishment of rivers, dams, and ground water supply. Traditionally, the Gu was the 
+main rainy season. However, there has been a general decline in long rains, explaining 
+the frequency of drought and floods in the Horn of Africa. Historical trends show that 
+droughts occur regularly at intervals of 2-3 years in the Deyr and 8-10 years in 
+consecutive Deyr and Gu seasons, extending seasonal hardships. Currently, there are 
+recurrent droughts due to climate change and variability. 
+ 
+The agriculture sector is the backbone of the Somali economy. Agriculture is the dominant 
+sector of the Somalia economy and its performance is the major determinant of overall 
+GDP growth rate. The agricultural sector has a crucial role in ensuring food security, job 
+creation, income generation, and foreign exchange earnings. Indeed, about 70% of the 
+country’s population lives in rural areas and derives its livelihood from agriculture and 
+related activities. The agriculture sector is the key to addressing poverty and food 
+insecurity. To meet these challenges, Somali agriculture must be transformed from 
+traditional production to modern commercial and competitive production.
+=== PAGE 6 ===
+2 
+ 
+Some 3 million hectares are cultivable, almost 2.3 million hectares produces or could 
+produce crops under rainfed conditions, and 700,000 hectares could produce crops under 
+pump or recession-controlled irrigation, mainly along the two main rivers, the Shabelle 
+and the Juba. It is important to highlight that almost two-thirds of cultivable lands, both 
+rainfed and irrigated, is in the fertile areas along and between the two major rivers in the 
+southern regions. A smaller cultivated area in the northwestern regions and some oasis 
+and coastal cultivated areas in the northeastern regions constitute the remaining third. 
+ 
+1.2 Background 
+ 
+ 
+The Federal Republic of Somalia gives emphasis to develop the irrigation sub-sector to 
+fully tap its potentials by assisting and supporting farmers to improve irrigation 
+management practices and the promotion of modern irrigation systems. On this regard, 
+the National Irrigation Policy (NIP) is the first edition of its kind developed in Somalia. The 
+Federal Republic of Somalia found it is necessary to enact this policy due to the 
+unregulated and mismanaged irrigation sector, traditional irrigation practices, and 
+alarming water shortages in the Shabelle and Juba river basins. There is also a lack of 
+coordination among various stakeholders, as well as a lack of advocacy and funding. 
+ 
+The NIP is in line with the aspirations of Somalis as reflected in the National Development 
+Plan (2017-2019), the National Agricultural Strategic Plan (2016-2020), as well as the 
+regional and international strategies and initiatives, such as the Comprehensive African 
+Agriculture Development Programme (CAADP) and the Sustainable Development Goals 
+(SDGs). 
+ 
+The policy recognizes the provisions of the draft constitution and other by-laws of the 
+country. Above all, the policy seeks to provide guidance to all stakeholders in the provision 
+of irrigation goods, works, and services, as well as interventions that will facilitate 
+improved food security, increased nutrition, and sustainable economic growth and 
+development. 
+ 
+The formulation and development of the National Irrigation Policy was based on the 
+potential for the irrigation sector in contributing towards socio-economic growth through 
+institutional capacity development. This will be done through strengthening the capacity
+=== PAGE 7 ===
+3 
+ 
+of the National and State Irrigation departments, rehabilitation of existing irrigation 
+infrastructures (canals, sluice gates, culverts, barrages and reservoirs), sustainable 
+irrigation development and management as drawn in the National Agricultural Strategic 
+Plan and the National Development Plan. 
+ 
+1.3 History of Irrigation Context of Somalia 
+ 
+ 
+Historically, the Juba and Shabelle rivers have been used for irrigation by small scale 
+farmers in Southern Somalia. Large-scale commercial irrigation was introduced during 
+the colonial era (1880-1960) and irrigated bananas and fruit trees (limes) were the major 
+crops. Irrigation development and management started in 1920 with the implementation 
+of the Jowhar Sugar Estate and construction of the irrigation barrages along the Shabelle 
+and Juba river basins, which ushered in a new crop production system based on 
+commercial farming for export. During the 1960s through the 1980s, this area was the 
+breadbasket of the country, and given an enabling environment, could well reduce the 
+food dependency for the country. Irrigation water is extracted either by barrages with weirs 
+controlling water flow into primary canals, or by pumped intakes drawing water from the 
+rivers into primary canals that commandeer water into secondary canals. 
+ 
+The ten barrages on the Shabelle and Juba Rivers are probably the most significant forms 
+of irrigation infrastructure in Somalia. They were constructed to increase the water depth 
+in the river and divert the flow for irrigation purposes. The barrages were built of concrete 
+with mechanical, metal gate structures that can be opened during flood conditions. Good 
+topography permitted gravity irrigation through a network of canals. A total of nine 
+barrages were built on the Shabelle River, and one on the Juba River. Irrigation 
+development expanded gradually from the mid-1970s to 1990. Between 1980 and 1990, 
+irrigated areas benefited from a well-established network of canals and drains, allowing a 
+consistent supply of water that was supplemental due to scarce and unreliable rains. For 
+many years, the fertile soils and climate had sustained good performance of both cash 
+and food crops under irrigated conditions, while extra water was used for leaching 
+practices that kept salinity build-up under control.
+=== PAGE 8 ===
+4 
+ 
+ 
+Figure 1.1 Map of geographical location of barrages and irrigation schemes 
+ 
+ 
+The Middle Shabelle region had some of the best irrigation and flood control infrastructure 
+in the country. Gravity irrigation was frequently used; where it was not possible, pump 
+irrigation was used. The Lower Shabelle region was one of the main producing areas for 
+major export crops, such as bananas, grapefruits, and watermelons. Major infrastructure 
+included seven barrages and various primary and secondary canals to facilitate gravity 
+irrigation to large areas along the Shabelle River. On the other hand, the middle and lower 
+reaches of the Juba River cut through rich alluvial soils, which made this region one of 
+the most productive agricultural areas of the country. Pump irrigation was a common. The 
+Fanoole dam and its associated infrastructure were the main gravity irrigation facilities in 
+the Juba Valley. 
+ 
+In contrast to the infrastructure in southern Somalia, irrigation infrastructure of Northern 
+Somalia was very limited. The development of date palm plantations was a major 
+intervention in North-East. It included improvements in associated irrigation infrastructure 
+through small canals that provide water from shallow wells or water springs to small-scale
+=== PAGE 9 ===
+5 
+ 
+farmers. Moreover, the development of soil banding, which was used mostly by sorghum 
+farmers to conserve moisture and stop soil erosion, was among the few agriculture 
+interventions in North-West. 
+ 
+Before the war, the Somali Ministry of Agriculture estimated that 222,950 hectares were 
+the total irrigated area for both land under controlled pump irrigation and land under flood- 
+recession irrigation. At the time of the civil war in 1991 there were a total of nine 
+functioning barrages along the Shabelle and one along the Juba. Somalia had large-scale 
+flood control and irrigation schemes, consisting of barrages, canals, and other 
+infrastructure in the middle and lower reaches of the Juba and Shabelle rivers. The area 
+equipped for irrigation was 200,000ha in 1984, of which 50,000ha full/partial control 
+surface irrigation and 150,000ha spate irrigation. However, much of the infrastructure has 
+deteriorated causing agricultural productivity to be well below potential. Of the remaining 
+infrastructures, many are not in use due to lack of maintenance and most of the formerly 
+irrigated areas are now used for rainfed farming and grazing. 
+ 
+1.4 Challenges of Irrigation Sector 
+ 
+ 
+The following are the key identified irrigation challenges in Somalia: 
+ 
+ 
+ Weak institutional capacity development at both the National and State level, 
+including weakness and/or absence of irrigation systems, regulations, policy, and 
+law enforcement. 
+ 
+ Excessive and unregulated irrigation water usage following the traditional flood 
+irrigation system that is a common practice in Somalia. This leads to a 
+considerable loss of water and can result in dryness of the river. 
+ 
+ There is continuous conflict between the farmers in the upper stream and lower 
+stream areas of the rivers. This conflict is mainly due to a lack of water use 
+management and regulations.
+=== PAGE 10 ===
+6 
+ 
+ Most of the irrigation canals are so badly silted up and choked with vegetation that 
+they can only operate when the river is at its highest, thus greatly reducing the 
+irrigated area of crops. 
+ 
+ Shortages of water also lead to conflicts when farmers block the canals and breach 
+the banks for irrigation, thus depriving farmers further downstream of water. 
+ 
+ Presently, only a small part of the high potential areas along the floodplains of Juba 
+and Shabelle is utilized for agricultural production. Hence, there is a great potential 
+for expansion and development. The policy intends to support the migration of 
+farmers from subsistence farming to commercialization. 
+ 
+ Traditional irrigation practices rather than modern irrigation technology in Somalia 
+leads to using more water without consideration of crop water requirements. 
+ 
+ Lack of river embankment programmes and river maintenance since 1991, which 
+results in frequency of flood and recurrent droughts. 
+ 
+ Silted up of primary and secondary canals in other irrigation networks. 
+ 
+ Lack of fully functional barrages along the Shabelle and Juba River Basins. 
+ 
+ Lack of irrigation committees at the National, State, and Community level. 
+ 
+ Lack of river basin authorities in the Juba and Shabelle River Basins. 
+ 
+ Lack of effective agriculture water resource management. 
+ 
+ Poor coordination of irrigation programmes and sustainable irrigation management 
+and development. 
+ 
+ Poor water management in irrigation sector.
+=== PAGE 11 ===
+7 
+ 
+ Water shortages and insecurity. 
+ 
+ Poor shallow wells and dug/bored wells. 
+ 
+ There are plenty of water that is lost during the rainy season. 
+ 
+ It is crucial to carry out survey before digging the wells. This will help to recognize 
+the availability of groundwater by using the meteorological data. 
+ 
+ Poor water catchments particularly stream water. 
+ 
+ Poor water management and poor storage systems in the irrigation sector. 
+ 
+ Limited technology utilization such as the use of the solar energy to reduce the 
+cost of the fuel. 
+ 
+ Luck of maintenance of the irrigation infrastructures such as wells, dams and 
+reservoirs. 
+ 
+ Lack of effective investment in the irrigation sector. 
+ 
+ Many shallow wells established along wadis were damaged by floods and 
+abandoned. In order for local people with prior farming experience to restart 
+farming, the rehabilitation of the existing shallow wells is one of the priorities, and 
+its prompt implementation is required. 
+ 
+ The irrigation system using shallow wells are the high fuel cost for pump operation 
+and damage by floods. 
+ 
+ The biggest constraint of irrigation systems using surface water is the instability of 
+the water amount impounded in the pond or berkeds.
+=== PAGE 12 ===
+8 
+ 
+ In order to reduce agricultural water use and manage water resources effectively 
+and efficiently, it is crucial to adopt the improvement of the irrigation techniques 
+and also to select the appropriate crops. 
+ 
+ Lack of large-scale infrastructure, including dams, diversions for irrigation, and 
+boreholes. 
+ 
+ 
+ Poor of community-level infrastructure, including berkeds, shallow wells, ponds, 
+and other technologies, ensuring that a mechanism for maintenance is in place. 
+ 
+ Lack of embankments/gabions and check-dams to protect flood-prone areas. 
+ 
+1.5 Opportunities of Irrigation sector in Somalia 
+ 
+ 
+Agriculture is an important economic activity in Somalia not only in terms of meeting the 
+food needs of the population but also in terms of generating income through crop sales 
+and agricultural labour opportunities. With roughly 50% of population’s cereal 
+requirements are met through domestic production. 
+ 
+With an estimated 8.1 million hectares of fertile lands around the Shabelle and Juba rivers 
+and surrounding regions, farming has the potential not only to cover domestic food 
+demand, but also to play an important role in the export market. Moreover, millions of 
+people depend on agricultural production for their livelihoods. Most of these are small 
+subsistence farmers working in rain-fed areas. Commercial small and medium-scale 
+irrigated farms situated alongside the two main rivers (Shabelle and Juba) also play an 
+essential role in fulfilling the food gaps as well as contributing to the national economy. 
+These commercial farmers produce commercial crops such as banana, sesame, lemon, 
+grapefruit, mango, papaya, and other vegetables and fruits intended for local as well as 
+international markets. 
+ 
+In dry lands, most of the irrigated agricultural farms are along the seasonal streams. Water 
+is channeled directly from the springs and/or shallow wells constructed close to the 
+streams in the valley bottoms. They also rely mostly on groundwater extraction, rainfall
+=== PAGE 13 ===
+9 
+ 
+harvesting, and moisture retaining techniques. The recent drought affected very large 
+parts of these areas. Local farmers in these states, had already practiced small-scale 
+surface irrigation as well as oasis farming in dry riverbeds or adjacent areas, using water 
+pumped from shallow wells and in some cases by tapping the sub-surface river flow 
+directing it through channels into the fields. These farms produce mainly fruits and 
+vegetables for neighbouring villages and urban centres. Since the farmlands are 
+established in areas where irrigation water is available, most of the farmlands exist along 
+wadis. The farms established by individual residents are usually small and have shallow 
+wells as irrigation water sources. 
+ 
+Shallow Groundwater is frequently pumped from shallow wells that are excavated in the 
+beds or terraces of wadis at 5-7m depth. Seasonal changes of the water level and water 
+volume are not large except in very severe series of drought. Constant use of the water 
+for irrigation may be possible. Many shallow wells established along wadis were damaged 
+by floods and abandoned. In order for local people with prior farming experience to restart 
+farming, the rehabilitation of the existing shallow wells is one of the priorities, and its 
+prompt implementation is required. 
+ 
+1.6 Rationale for Irrigation Policy 
+ 
+ 
+In Somalia, some 3 million hectares are cultivable, almost 2.3 million hectares produces 
+or could produce crops under rainfed conditions, and 700,000 hectares could produce 
+crops under pump or recession-controlled irrigation, mainly along the two main rivers, the 
+Shabelle and the Juba. The water sources from both rivers offer employment, economic 
+growth, and livelihoods for thousands of small scale and commercial farmers. Due to 
+water shortages in the dry season, the rivers become a source of conflict between the 
+farmers and the pastoralists who travel for miles in search of water for their livestock. 
+ 
+Food insecurity is the most challenging of the problems facing the country. There are 
+many causes, including the collapse of irrigation infrastructures such as main canals, 
+barrages and reservoirs along the river basins. To further compound the problem of water 
+availability, over 99% of Somalia’s total water withdrawal is used for irrigation purposes 
+with river basins and groundwater resources currently over-burdened.
+=== PAGE 14 ===
+10 
+ 
+2.0 THE NATIONAL IRRIGATION POLICY AND STRATEGY 
+ 
+ 
+2.1 Policy Vision 
+ 
+ 
+An irrigation sector that is sustainable, dynamic, efficient, demand driven, and acting as 
+the transforming force in the development and diversification of agriculture, to create 
+national wealth and food security. 
+ 
+2.1 Policy Mission 
+ 
+ 
+The National Irrigation Policy provides a comprehensive framework that will usher in 
+economic growth in the agricultural sector through a functional and high performing 
+national irrigation system. 
+ 
+2.2 Goal and Objective of the Policy 
+ 
+ 
+2.2.1 Goal of the Policy 
+ 
+ 
+The overall goal of the National Irrigation Policy is to contribute to sustainable national 
+economic growth and development through enhanced irrigated agricultural production 
+and productivity. 
+ 
+2.2.2 Objectives of the Policy 
+ 
+ 
+The objective of this policy is sustainable best practice methods paired with attainable 
+reforms that will lead Somalia to be economically successful. The objectives of the 
+National Irrigation Policy will focus on: 
+ 
+Strengthening and improving institutional and organizational capacity 
+ 
+ 
+Developing and reforming irrigation practices throughout the country 
+ 
+ 
+Gradual reforms that will establish national regulations and standards
+=== PAGE 15 ===
+11 
+ 
+Promoting water use efficiency in communities through education and training, 
+particularly women and those vulnerable to poverty 
+ 
+Upgrades in the use of technologies that are cost-efficient and effective in reducing 
+water use 
+ 
+Access to information and participation in irrigation reforms for water-users 
+ 
+ 
+Growth in opportunities for the private sector and communities within the irrigation 
+sectors 
+ 
+Promoting water use efficiency through strengthening the traditional water 
+management systems 
+ 
+Rehabilitation of irrigation hardware 
+ 
+ 
+Water management plans during extreme weather events 
+ 
+ 
+Development of seasonal rivers (waadi) that are used for irrigation purposes 
+ 
+ 
+Development of groundwater resources for purposes of sustainable irrigation 
+water 
+ 
+2.3 Policy Outcomes 
+ 
+ 
+The policy outcomes are: 
+ 
+ 
+Strengthened institutional capacity of the irrigation sector in Somalia. 
+ 
+ 
+Increased irrigated agricultural production and productivity. 
+ 
+ 
+Improved agricultural water management through modern irrigation technology 
+and efficiency of water use and management with regulations.
+=== PAGE 16 ===
+12 
+ 
+Improved irrigation service delivery and increased employment opportunities. 
+ 
+ 
+Improved water security of the Juba and Shabelle basins through irrigation 
+development and management. 
+ 
+Reduced conflicts and disputes that are related to irrigation sector 
+ 
+ 
+Improved seasonal rivers (waadi) used for irrigation proposes 
+ 
+Improved groundwater for purposes of sustainable irrigation water 
+ 
+ 
+2.4 Policy Priorities and Target Areas 
+ 
+ 
+In order to achieve the overall goal, the policy focuses on the following key four priority 
+areas: 1. Institutional capacity development within the irrigation sector at both the National 
+and State level, 2. Rehabilitation of existing irrigation infrastructure and development of 
+new schemes, 3. Sustainable Irrigation Development and Management, and 4. Irrigation 
+Research and Information Management. 
+ 
+2.4.1 Institutional Capacity Development 
+ 
+ 
+The development and management of irrigation schemes require adequate technical, 
+administrative, and financial capacity, among others. The technical competence within 
+the public and private sectors including training institutions and beneficiary communities 
+is critical for sustainable irrigation development and management. 
+ 
+The main institutional capacity challenges include 
+a lack of an irrigation master plan, irrigation law, irrigation strategic plan 
+ 
+ 
+undocumented irrigation materials and training needs for irrigation stakeholders 
+ 
+ 
+unavailability of national irrigation standards, code of practice and guidelines for 
+irrigation development,
+=== PAGE 17 ===
+13 
+ 
+inadequate availability of irrigation expertise 
+ 
+ 
+lack of irrigation research center/institute and extension services, 
+ 
+ 
+lack of heavy machineries for irrigation and river embankment, 
+ 
+ 
+  Inadequate irrigation service providers. 
+ 
+ 
+Organized governance is needed for the development and growth of the irrigation sector. 
+The Federal government must strengthen capacity building and fill in the missing gaps in 
+the services provided by the private sector, community workers, donors, and others. The 
+capacity of all relevant parties must be further developed by initiatives between the 
+federal, regional, and local governments in partnership with water users. 
+ 
+2.4.1.1 Policy Strategic Objective 
+ 
+ 
+To develop systematic trainings, improve the technical competence within the public and 
+private sectors, including training institutions and beneficiary communities, and get heavy 
+machinery supply for irrigation and river embankments. 
+ 
+2.4.1.2 Policy Statements 
+ 
+ 
+The policy will therefore: 
+ 
+ 
+Develop and implement an irrigation master plan through community engagement 
+and needs. 
+ 
+Develop and improve training programmes (including on job training) to address 
+capacity gaps in the public and private institutions, including training institutions. 
+ 
+Develop irrigation standards, code of practice and irrigation development 
+guidelines, and ensure that these are adhered to by all irrigation stakeholders.
+=== PAGE 18 ===
+14 
+ 
+Ensure that there is a greater presence of irrigation experts at the National, State, 
+district, and village level. 
+ 
+Develop and adapt irrigation technologies and best practices, taking into account 
+the financial and technical beneficiary limitations, and disseminate through a 
+robust extension system. 
+ 
+Encourage irrigation stakeholders to acquire the necessary equipment and 
+irrigation technologies. 
+ 
+Encourage registration of irrigation service providers (i.e. consultants and 
+contractors) with relevant professional bodies. 
+ 
+Facilitate farmer training programmes so as to transform the mind-set of farmers 
+from using traditional irrigation practices to using modern irrigation technology, and 
+from subsistence to commercial irrigation. 
+ 
+Establish a National Irrigation Board that will usher in a PPP with the inclusion of 
+all water users. 
+ 
+Develop and improve upon existing training programmes with an emphasis on 
+targeting the public and private sectors. 
+ 
+Expand technical abilities of government staff in the planning, design, monitoring, 
+and evaluation of all areas of the irrigation sector. 
+ 
+Provide easy access to the planned national database on water use in the irrigation 
+sector. 
+ 
+Create a standardized national code of practice and guidelines in order to sustain 
+irrigation reforms. 
+ 
+Encourage a working relationship between irrigation experts and farmers with an 
+emphasis on the dissemination of crucial information such as sustainable methods.
+=== PAGE 19 ===
+15 
+ 
+Expand and reinforce the role of government institutions in the development and 
+growth of the irrigation sector. 
+ 
+Establish water user associations in all communities with particular attention to 
+small-scale farmers. 
+ 
+Coordinate a dialogue between associations, particularly the groups that are 
+upstream and downstream of one other, as well as agriculturalists and pastoralists. 
+ 
+Involve all stakeholders, including user group representatives, in policy reform 
+discussions and decisions with government representatives. 
+ 
+2.4.2 Rehabilitation of Existing Irrigation Infrastructure and development of new 
+schemes 
+ 
+Since the collapse of the central government of Somalia, almost over half of the irrigation 
+infrastructures are not functional due to the collapse of irrigation systems, including 
+canals, barrages, culverts, and sluice gates. Most of the irrigation canals are so badly 
+silted up and choked with vegetation that they only operate when the river is at its highest, 
+greatly reducing the irrigated area of crops. Another result of the non-functioning canal 
+system is the breaching of riverbanks by farmers to obtain irrigation water, which is 
+resulting in uncontrolled flooding and wastage of water. Crops irrigated in this way are 
+unlikely to get a second irrigation water application. Shortage of water also leads to 
+conflict when farmers block the canals and breach the banks for irrigation, thus depriving 
+farmers further downstream of water. Rehabilitation and maintenance of canals, diversion 
+structures and off-takes are very necessary and critical. 
+ 
+Somalia’s irrigation infrastructure is in need of comprehensive rehabilitation. Prior to the 
+Civil war, it was estimated that the irrigation potential was approximately 240,000 ha. 
+However, only 65,000 ha of agricultural land is currently under cultivation.
+=== PAGE 20 ===
+16 
+ 
+2.4.2.1 Policy Strategic Objectives 
+ 
+ 
+To rehabilitate existing irrigation infrastructures/schemes, including canals, barrages, 
+sluice gates, and reservoirs, to increase agricultural production and productivity and 
+reduce the recurrent drought and flood in Somalia. 
+ 
+The Policy Statement: 
+ 
+ 
+i. 
+Identify and update rehabilitation requirements for all major irrigation schemes 
+using a standardized system of data collection. 
+ 
+i. 
+Restore structures in stages with focus first on the most problematic areas. 
+ 
+ 
+ii. 
+Engage water users and the respective organizations in the rehabilitation 
+efforts and provide training for infrastructure operation and maintenance. 
+ 
+iv. Educate water user organizations on the consequences of negative 
+environmental conditions on irrigation structures. 
+ 
+v. Rehabilitate priorities of irrigation infrastructure such as canals, sluice gates, 
+barrages, and reservoirs to restore the physical status and functioning of canals 
+to develop and expand overall irrigation infrastructure and to increase the yield 
+of the crops for both subsistence and commercial purpose. 
+ 
+vi. Support and encourage the mobilization of financial resources for the 
+rehabilitation of irrigation infrastructures and facilitate the establishment and 
+operationalization of the Irrigation fund to finance irrigation projects. 
+ 
+vii.  Promote the effective management and system utilization of water resources 
+for agriculture. 
+ 
+vii. Support and encourage the application of environmental and social impact 
+assessments for the rehabilitation of the irrigation infrastructure.
+=== PAGE 21 ===
+17 
+ 
+xi. Support and encourage the private sector, Civil Society Organizations (CSOs) 
+and beneficiary community participation in the irrigation sector. 
+ 
+2.4.3 Sustainable Irrigation Development 
+ 
+ 
+Sustainable irrigation development entails construction of new infrastructure to put more 
+land under irrigation. The irrigated area has been reducing steadily since the collapse of 
+Somali central government in 1991. 
+ 
+The development of irrigation has been less than the desired level due to a number of 
+factors, including a lack of financial resource mobilization, un-harmonized irrigation 
+development activities, environmental and land degradation, and limited participation of 
+stakeholders. 
+ 
+Currently, the irrigation water use efficiency is low compared to prewar in Somalia. Flood 
+irrigation, the traditional method used to cultivate crops, has resulted in minimum 
+productivity and loss of crops. 
+ 
+2.4.3.1 Policy Strategic Objective 
+ 
+ 
+To develop more irrigation infrastructures and put more land under irrigation in order to 
+achieve sustainable development of irrigation infrastructure and create a financial 
+resource mobilization unit. 
+ 
+2.4.3.2 The Policy Statement: 
+ 
+ 
+i. 
+Introduce and test low-impact, simple systems, such as drip irrigation, in 
+randomized sectors. 
+ 
+i. 
+Promote conjunctive use of groundwater, rainwater, and treated wastewater 
+through educational workshops. 
+ii. 
+Research the applicability and effectiveness of water storage systems, such as 
+artificial swales and wet season run-off.
+=== PAGE 22 ===
+18 
+ 
+iv. Use demonstration plots when necessary to introduce water users to efficient 
+technologies and methods. 
+v. Support and encourage the mobilization of financial resources for irriga-tion 
+development and management. 
+ 
+vi. Facilitate the establishment of the Somali National Irrigation Committee and that 
+will advise government and stakeholders on policy matters relating to irrigation and 
+drainage. 
+ 
+vii. Facilitate the establishment and operationalization of the Irrigation Fund to finance 
+irrigation development projects. 
+ 
+vii. Support the implementation of the Irrigation action plans mentioned in the National 
+Development Plan and the National Agricultural Strategic Plan. 
+ 
+ix. Support and encourage the application of environmental and social impact 
+assessments and implementation of environmental management plans. 
+x. Support and encourage the private sector, Civil Society Organizations (CSOs), and 
+beneficiary community participation in irrigation development through provision of 
+irrigation development support and extension services in aspects such as 
+feasibility studies, design, and construction. 
+ 
+xi. Facilitate development of water resources for sustaining water availability 
+throughout the irrigation season.
+=== PAGE 23 ===
+19 
+ 
+2.4.4 Sustainable Irrigation Management 
+ 
+ 
+The management of irrigation projects is affected by a number of challenges that include 
+the lack of Shabelle and Juba River Basin irrigation system maintenance, which impacting 
+the availability of water resources, beneficiary community unwillingness or capacity 
+limitations to operate and maintain the systems, irrigation challenges, land tenure issues, 
+and lack of irrigation extension services, which cause loss of systems capacity. 
+ 
+The developed areas of irrigated schemes should be well managed to sustain 
+productivity. The beneficiary community should operate and maintain the infrastructure 
+so that the designed capacities are maintained to support desired crop production levels. 
+ 
+2.4.4.1 Policy Strategic Objective 
+ 
+ 
+To develop sustainable irrigation management that can prevent degradation of the land 
+and environment through river basin management, which will increase the availability of 
+water resources. To maintain the infrastructure by the beneficiary community so that the 
+designed capacities are maintained to support desired crop production levels and 
+strengthen irrigation extension services. 
+ 
+2.4.4.2 Policy Statements 
+ 
+ 
+The policy will therefore: 
+ 
+ 
+i) 
+Encourage the establishment of River Basin Authority and promotion of 
+watershed management practices for the benefit of irrigating and non-irrigating 
+communities. 
+ 
+ii) 
+Empower farmer organizations through technical and administrative knowledge 
+to ensure effective community participation. 
+ 
+iii) 
+Establish irrigation committees at the village level and a water user association 
+for effective water use and management.
+=== PAGE 24 ===
+20 
+ 
+iv) 
+Explore alternatives to the handling and marketing of farmers’ produce for 
+maximum profitability of irrigated crops. 
+ 
+v) 
+Strengthen extension services for irrigated agriculture through awareness and 
+outreach of irrigation technologies. 
+ 
+vi) 
+Support beneficiary communities where major rehabilitation is needed through 
+upgrades or the modernization of irrigation infrastructure. 
+ 
+2.4.5 Irrigation Research and Information Management 
+ 
+ 
+Despite the well-elaborated importance of irrigated agriculture for crop production, 
+productivity, and profitability, appropriate interventions including research are not yet 
+being pursued in those areas. There is no comprehensive research in the irrigation sector 
+to ensure proper planning, design, development, management, operation, and 
+maintenance of irrigation schemes. Consequently, there are few appropriate 
+recommendations that integrate water and other resources relevant to irrigated 
+agriculture. 
+ 
+Due to a shortage of irrigation research scientists, inadequate funding, and a lack of 
+appropriate irrigation research facilities and equipment, research activities undertaken by 
+institutions in the country do not adequately address irrigation issues. Research activities 
+undertaken before the collapse of the central government in 1991 cannot provide required 
+technological support for improvement of productivity and profitability. 
+ 
+With the help of international agencies and institutions, pertinent data and information 
+related to irrigation statistics for Somalia is variable. 
+ 
+Creating an irrigation information management system is crucial in Somalia. The aim of 
+the work is to set up a comprehensive countrywide Information System for Irrigation. The 
+system combines the existing and available information on Somalia, focusing its attention 
+on the two river plains that are the most significant agricultural areas. In spite of the lack 
+of some detailed data, the present Information Irrigation System can be considered a first 
+effort to build up a useful tool to control, plan, manage, and monitor the land. In this
+=== PAGE 25 ===
+21 
+ 
+prospect, the main tasks of the work will be collecting all the existing and available 
+information of Somalia and critically evaluate the usefulness of this information in the 
+context of the future system. 
+ 
+2.4.5.1 Policy Strategic Objective 
+ 
+ 
+To introduce and strengthen research and information on irrigation development and 
+management, whose findings will contribute towards the attainment of optimal irrigation 
+efficiency, provision of information on new and appropriate technologies for irrigation 
+practices that lead to more crop production, and sustainable productivity in irrigated 
+agriculture. 
+ 
+2.4.5.2 Policy Statements 
+ 
+ 
+In order to achieve the above objective, the following will be undertaken: 
+ 
+ 
+i) 
+The establishment of an irrigation information management system. 
+ 
+ 
+ii) 
+Launch a program with the support of the federal government where state 
+members compile collected data on water use, extreme weather event 
+patterns, and irrigation efficiency into a national database. 
+ 
+iii) 
+Provide continued training for relevant staff at data centers to improve irrigation 
+water management analysis. 
+ 
+iv) 
+Work in conjunction with relevant agencies and institutions to promote data 
+collection of newly introduced practices and cost-efficient technologies. 
+ 
+v) 
+Educate farmers on observed patterns of water use in regional irrigation 
+schemes. 
+ 
+vi) 
+Ensure that research in irrigation is initiated and sustained with a focus on 
+enhanced performance of irrigation interventions.
+=== PAGE 26 ===
+22 
+ 
+vii) 
+Support and coordinate irrigation research for irrigation development, with the 
+aim of improving land and water productivity in a sustainable manner. 
+ 
+viii) 
+Ensure that irrigation research findings are properly documented for the 
+purpose of utilizing the already compiled technical information. 
+ 
+ix) 
+Promote and institutionalize a mechanism for the coordination and 
+dissemination of irrigation research findings. 
+ 
+x) 
+Initiate and strengthen irrigation research in collaboration with relevant 
+stakeholders, which includes local and international research institutions.
+=== PAGE 27 ===
+23 
+ 
+3. INSTITUTIONAL ARRANGEMENT FOR POLICY IMPLEMENTATION 
+ 
+ 
+3.1 Roles and Responsibilities at Different Levels 
+ 
+ 
+3.1.1 National Level 
+ 
+ 
+The Ministry of Agriculture and Irrigation is responsible for the implementation and 
+coordination of the National Irrigation Policy. The National Ministry works in close 
+collaboration with the State Ministries of Agriculture and Irrigation and in partnership with 
+pertinent stakeholders. Stakeholders include donors, implementing agencies, the private 
+sector, academic and research institutions, and civil society organizations. 
+ 
+The Ministry of Agriculture and Irrigation has the lead mandate for the implementation of 
+the National Irrigation Policy. The Ministry will determine policy orientation and 
+development, and from time to time, review the policy and legislation, and prepare a 
+conducive environment for sectoral coordination and integration. It will take into account 
+the availability of different legal and regulatory frameworks and standards, which depend 
+on legislation, regulations, and procedures for irrigation development. This policy 
+recognizes different sectoral policies, as they are important in achieving its objectives. 
+ 
+The implementation of this policy will be harmonized with other sectoral policies and 
+coordinated with the work of different stakeholders interested in the development of the 
+irrigation sector. The Ministry will provide technical services to the state level Ministries. 
+ 
+The Ministry will undertake awareness raising and advisory services to Federal Member 
+State (FMS), irrigation committees, water user associations (WUA), and the private sector 
+on all aspects of irrigation development, research, and capacity building. It will also 
+provide technical backstopping on studies and detailed designs of irrigation infrastructure, 
+preparation and processing of tender documents for irrigation schemes, construction and 
+supervision of irrigation infrastructure, service provision to the users of irrigation 
+investments, and advisory services to private sector in irrigated agriculture. The Federal 
+Ministry will, in collaboration with the relevant Federal Member States’ Ministries, promote 
+Integrated Water Resources Management in the Basins.
+=== PAGE 28 ===
+24 
+ 
+The Ministry will be at the center of irrigated agriculture development. As such, the 
+Ministry will be responsible for ensuring close coordination amongst various 
+Ministries/agencies such as: the Ministry of Energy and Water Resources, the Ministry of 
+Livestock, Range, and Forestay, the Ministry of Fishery and Marine Resources, the 
+Ministry of Humanitarian Affairs and Disaster Management, the Ministry of Interior, the 
+Ministry of Planning, Investment Promotion, and Economic Development, and the Ministry 
+of Public Works and Reconstruction, among others. 
+ 
+To ensure the success of reforms, particularly those that encourage technologies and 
+methods not traditionally used by farmers, it is imperative that policies be implemented 
+systematically. Strategies should be supported by evidence and research as this will 
+induce water users. Furthermore, deploying a phase system that targets changes by the 
+ranking of the most critical problems will allow for the gradual introduction and 
+implementation of policy reforms. 
+ 
+Any and all development of irrigation reforms will be undertaken in conjunction with water 
+user organizations and representatives from the private sector. The development, 
+rehabilitation, and execution of schemes and technologies will include the full participation 
+of farmers dependent on irrigation. 
+ 
+The procedural and evaluation strategies for the policy focus areas will be undertaken 
+with support from water user organizations, donors, and all relevant institutions, agencies, 
+and private sector partners. The main areas for coordination will include: 
+ 
+Survey and assessment of irrigation sector 
+ 
+ 
+Promotion and planning of irrigation development and management in 
+potential areas 
+ 
+Promotion of irrigation technologies 
+ 
+ 
+Promotion of integrated water resources management
+=== PAGE 29 ===
+25 
+ 
+Capacity development for the irrigation professionals and experts 
+Irrigation research, extension, and studies 
+ 
+Sensitization and beneficiary mobilization 
+ 
+ 
+Irrigation water management practices 
+ 
+ 
+3.1.2 State Level 
+ 
+ 
+State governments will play an increasingly important role in the implementation of the 
+National Irrigation Policy. The State governments have been given the responsibilities of 
+developing and implementing irrigation development interventions by outsourcing 
+expertise from the public and private sector. The FMS have the major role of assisting 
+farmers in the overall process of the identification, implementation, and management of 
+irrigation schemes. 
+ 
+The FMS will be responsible for the preparation and enforcement of irrigation by-laws and 
+the establishment and maintenance of database for irrigation development. Furthermore, 
+the FMS will be responsible for training staff and irrigators on issues related to irrigation 
+development at the district and village level. 
+ 
+3.1.3 Private Sector 
+ 
+ 
+Private sectors could play a crucial role in irrigation development and management in 
+Somalia. Since the collapse of the central government of Somalia in 1991, the country 
+changed from public to full private sector involvement in different sectors including 
+irrigation agriculture therefore this policy gives consideration for the involvement and 
+participation of irrigation management and development.
+=== PAGE 30 ===
+26 
+ 
+3.1.3.1 Consultants and Contractors 
+ 
+ 
+a. The capacity in planning, designing, and implementing irrigation projects in the 
+private sector will be improved through contractual services. 
+ 
+b. The private sector will become more involved in irrigation activities that include 
+carrying out studies, surveys, design, and construction work. 
+ 
+c. Consultants (both national and international) will be engaged with clear Terms of 
+Reference (ToRs). No foreign consultant shall work in the irrigation sector without 
+partnering with national consultants who are registered with the National and State 
+Ministries. In addition, at least 30% of key personnel shall be Somali nationals. 
+ 
+d. After detailed designs and engineering works are completed, contractors 
+registered with National and State Ministries will work together to complete 
+projects. This will combine their funds and implementation timeframes. Foreign 
+contractors will be encouraged to form joint ventures with local contractors. 
+ 
+3.1.3.2 Equipment and Spare Parts Suppliers 
+ 
+ 
+a. The private sector and CSOs will be encouraged to increase stocks of new 
+irrigation equipment, spare parts of acceptable standards, and provide training to 
+farmers and communities who purchase equipment if necessary. 
+ 
+b. Pricing mechanism of equipment, spare parts, and services will ensure affordability 
+by the smallholder farmers. 
+ 
+3.1.3.3 Credit and Banking Institutions 
+ 
+ 
+a) Credit institutions will be encouraged to respond to the needs of small-scale 
+irrigation beneficiaries by providing affordable credit facilities for agricultural inputs 
+acquisition through their legal community organizations.
+=== PAGE 31 ===
+27 
+ 
+b) Banking institutions will be encouraged to recognize the local community 
+organizations for purposes of providing credit for capital development using terms 
+that are affordable to the small-scale irrigation farmers. 
+ 
+3.1.3.4 Commercial and Large-Scale Farmers 
+ 
+ 
+a. The commercial and large-scale farmers will be encouraged to share their 
+experience in irrigated agriculture for the benefit of the smallholder farming 
+communities. 
+ 
+b. Contract farming will be one of the alternatives to absorb the extra labour and also 
+provide estates with alternative land management. 
+ 
+c. Large-scale farmers will take on the added responsibility of acting as centers 
+where the surrounding community can access farm inputs, provide storage and/or 
+processing facilities of farm produce, and as marketing outlets of farm produce. 
+ 
+d. Large-scale farmers will be encouraged to invest more in irrigated agriculture. 
+ 
+ 
+3.1.3.4 Civil Society 
+ 
+ 
+Efforts will be made to promote CSOs-development partner collaboration. The private 
+sector and CSOs will also be encouraged to provide services, equipment, and materials 
+for development of irrigated agriculture. Their involvement will encompass community 
+level support including: 
+ 
+Capacity building 
+ 
+ 
+Demonstration of irrigated agriculture 
+ 
+ 
+Implementation of small-scale irrigation projects 
+ 
+ 
+Networking for the transfer of irrigation technology
+=== PAGE 32 ===
+28 
+ 
+Promotion and management of labour saving technologies 
+ 
+ 
+Assistance to the Ministry responsible for agriculture and irrigation 
+development in the distribution of agricultural inputs 
+ 
+A platform for dialogue with CSOs will be established and an enabling environment will 
+be created for these dialogues to operate effectively through involvement in irrigated 
+agriculture programmes. In addition, cooperation shall be established with CSOs to avoid 
+duplication of efforts and to encourage them to participate in the implementation of the 
+national program for irrigation development. 
+ 
+3.1.3.5 Agriculture Cooperative Union 
+ 
+ 
+The National Agriculture Cooperative involved in irrigation will be required to participate 
+in the sector of planning and review of the irrigation sub sector for effective information 
+sharing. 
+ 
+3.1.3.6 Development and Implementing Partners 
+ 
+ 
+Non-Governmental Organizations are encouraged to support the pilot programmes and 
+will encourage greater support to Agriculture Cooperatives through government and 
+donor funding. All cooperatives embarking on the development of irrigation projects shall 
+have to pass their plans through the Department of Irrigation to ensure adherence to 
+standards and specifications. In addition, their work will be subject to monitoring and 
+evaluation by DoI. Implementing partner expectations are as follows: 
+ 
+a. The support from development partners for development of irrigation will be 
+directed by the policies and strategies outlined in this policy. 
+ 
+b. The Federal Government of Somalia will indicate areas of priority for funding to 
+development partners. At the same time, they will outline their areas of interest in 
+order to harmonize national needs with preferred areas of support.
+=== PAGE 33 ===
+29 
+ 
+c. Development partners will have to coordinate, among themselves, support 
+rendered to the irrigation sector, and to this effect, there is a need for a coordinator 
+from FGS for irrigation funding. 
+ 
+d. An Irrigation Fund (IF) will be set up for effective investment in irrigation 
+development with contributions from FGS and development partners. 
+ 
+e. FGS will be responsible for managing the fund by directing irrigation investment 
+programmes.
+=== PAGE 34 ===
+30 
+ 
+4. COORDINATION, MONITORING AND EVALUATION 
+ 
+ 
+4.1 Coordination Process 
+ 
+ 
+It is important that all actors of this policy are coordinated throughout implementation. The 
+Ministry responsible for the development of irrigation is responsible for coordinating all 
+stakeholders of this policy. The agricultural and irrigation sector Lead Ministries at the 
+Federal and State level have an important role to play in ensuring a holistic approach in 
+the implementation of the policy. Proper coordination on the implementation will lead to 
+awareness of stakeholders to accrue a number of benefits, which include integral and 
+optimal utilization of the efforts and resources from all players. This will avoid duplication 
+of efforts amongst the stakeholders, conflicts on the use of resources and interventions, 
+and ensure a holistic approach to land and water resource development and integrated 
+water resource management. 
+ 
+4.2 Monitoring and Evaluation 
+ 
+ 
+The Ministry of Agriculture and Irrigation will be responsible for monitoring and evaluation 
+by overseeing a quarterly report of policy reform implementations shared with all relevant 
+stakeholders. Institutions, agencies, and water user organizations will be responsible for 
+sharing results with regional representatives appointed by the Ministry. 
+ 
+Following each report, a review will be conducted by relevant appointees within the 
+irrigation sector in order to advise on necessary solutions and to implement the next 
+phase of a policy focus area. 
+ 
+The policy shall be reviewed and revised as necessary on an annual basis for the first 
+five years. If significant improvements, stagnations, or failures occur in a focus area, 
+modifications may be made following the recommendation of the Ministry of Agriculture 
+and Irrigation. 
+ 
+The implementation of the policy will be monitored through a monitoring and evaluation 
+system with a necessary feedback mechanism so as to effectively track sector
+=== PAGE 35 ===
+31 
+ 
+performance indicators. Joint Sector Review meetings will be used for information sharing 
+and effective engagement of stakeholders in irrigation development. 
+ 
+The Ministry responsible for irrigation will coordinate and lead the monitoring and 
+evaluation process of the policy and ensure timely reporting and dissemination of results. 
+An Irrigation Monitoring and Evaluation Systems Report will be prepared annually. All 
+agencies implementing programmes relating to this policy will report periodically to their 
+respective coordinating bodies. The Monitoring and Evaluation Systems results will be 
+used to inform all irrigation stakeholders to influence programme planning and design 
+processes, as well as resource management. 
+ 
+This Policy will be reviewed based on a five-year cycle as established in the policy 
+formulation process. However, this policy, or parts of it, may be amended if there are 
+significant changes in the operating environment during the course of its implementation. 
+The Ministry responsible for irrigation will review the policy. 
+ 
+4.3 Cross-Cutting Issues 
+ 
+ 
+Proper management of water resources used in the irrigation sector is critical in light of 
+embedded factors that exacerbate problems related to access. For rural communities that 
+have limited resources to begin with, cross-cutting issues must be taken into account 
+when implementing and evaluating policy reforms. The issues identified are: 
+ 
+i. 
+Extreme Weather Events 
+ 
+ 
+ii. 
+Health 
+ 
+ 
+iii. 
+Conflict and Security 
+ 
+ 
+iv. 
+Illiteracy

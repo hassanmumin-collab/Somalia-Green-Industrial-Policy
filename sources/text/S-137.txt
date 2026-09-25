@@ -1,0 +1,503 @@
+=== PAGE 1 ===
+## IFC SII record, project 49874
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[SponsorCostLocation.Sponsor] Sunda is a leading Africa-focused, manufacturing and trading company, and operating in the FMCG, building materials, and metal hardware product segments. Incorporated in July 2024 in the Cayman Islands, Sunda became the new holding company for the business formerly known as Sunda Group Co., Limited. (Sunda Hong Kong) after a restructuring of Sunda Hong Kong. Softcare is a fully-owned subsidiary of Sunda and serves as the holding company for the business of baby and feminine hygiene products focusing on the development, manufacturing and sales of baby and feminine hygiene products such as baby diapers, baby pants, sanitary pads and wet wipes. Softcare published its application proof of the prospectus on the website of the Stock Exchange of Hong Kong Limited on January 27, 2025. Sunmart is principally engaged in the procurement and trading of raw materials. Senbai is an intermediate holding company of Softcare’s operating subsidiaries for baby and feminine hygienic operating assets overseas, including Africa, Latin America, and Central Asia.
+Sunda’s ultimate beneficial owners are Mr. Yanchang Shen, the founder, CEO and Chairman of Sunda, and Ms. Yanjuan Yang, the spouse of Mr. Shen. They collectively own 100 percent of Sunda and 66.35 percent of Softcare according to the application proof of the prospectus of Softcare. The rest 33.65 percent of Softcare is currently beneficially owned by the shareholders who are then senior management members and employees of Sunda and its subsidiaries. These shareholdings will be diluted proportionally after the IFC investment for all Softcare’s shareholders.
+[SponsorCostLocation.Cost_Nature] The Project cost is estimated at US$155 million and will be financed by: (i) the proposed EUR50 million (equivalent to US$53 million) A loan from IFC; (ii) the proposed US$30 million equity from IFC; and (iii) US$72 million of internal cash generation from Softcare.
+[SponsorCostLocation.Location] Nairobi, Kenya; Accra, Ghana; Lusaka, Zambia; Pwani, Tanzania.
+[DevelopmentImpact.Impact] The most significant expected project-level outcomes include increased access to diapers and sanitary pads in target countries and enhanced career prospects and skill development opportunities for employees. Beyond project outcomes, IFC anticipates that the Project will improve the competitiveness of Fast-Moving Consumer Goods (FMCG) sectors, particularly in baby diapers and sanitary pads, in Ghana, Kenya, Tanzania, and Zambia by demonstrating the substantial business opportunities available within these markets.
+[DevelopmentImpact.Result] Indicator Metrics Comments Calendar Year 2022 Calendar Year 2023 Calendar Year 2024
+New market players unit Pre-dates IFC investment Pre-dates IFC investment Pre-dates IFC investment
+Number of Employees Trained individuals Pre-dates IFC investment Pre-dates IFC investment Pre-dates IFC investment
+Sales : (target group) USDMill Pre-dates IFC investment Pre-dates IFC investment Pre-dates IFC investment
+Sales : (target group) USDMill calculated by summing up the sales in rural areas in four target markets Pre-dates IFC investment Pre-dates IFC investment Pre-dates IFC investment
+[DevelopmentImpact.Risk_Assessment] 0 0 0 0 0 0 0 0 0.0000
+N/A
+[DevelopmentImpact.Role] IFC is providing financial and non-financial additionality: 1) Financing structure: IFC will provide a substantial amount of long-term hard currency financing, to be deployed across multiple countries in different regions of Africa, which is not readily available through local banks due to shallow financial markets and limited appetite for cross-border financing. 2) IFC own account equity: IFC equity investment provides Softcare with necessary patient capital to fuel its forthcoming growth phase and market expansion in Africa and beyond. The instrument is well suited for the capital intensive and long-term nature of Softcare’s strategic objectives in countries with limited industrial infrastructure. Furthermore, the instrument strengthens Softcare’s ability to take risk, leverage resources, and improve corporate governance. 3) Non-commercial risk mitigation, including trusted partnership: IFC’s local presence and business network in Africa would provide comfort and help mitigate sovereign and regulatory risks, especially those related to repatriation and regulation issues. World Bank Group’s brand and good relationship with the local governments will enhance the credibility of the Company and the Project. 4) Standard setting: The Company expects that partnership with IFC will enable them to further strengthen best practices in environmental and social (E&S). IFC will conduct a diagnostic on the Company’s environmental, social, and governance practices, and provide guidance to improve any actions on par with international standards.
+[RisksMitigation.SocialCategoryRationale] This is a Category B project based on IFC's Policy on Environment and Social Sustainability (2012). Based on information reviewed by IFC, the proposed project is expected to have limited adverse direct environmental and social (E&S) risks and impacts that are few, site specific, largely reversible, and readily addressed through existing mitigation measures and Good International Industry Practice (GIIP) as practiced by the company. Such risks and impacts include those related to manufacturing operations, including use of natural resources and waste generation, assurance of fair and safe working conditions of employees, contractors and others engaged by the company in the manufacturing of wet wipes, sanitary products and diapers including risks related to GBVH in the workforce.
+[RisksMitigation.EnvSocialRisksImpact] Please refer to the related Environmental and Social Review Summary ( ESRS ) document for this project.
+[RisksMitigation.MitigationMeasures] Please refer to the Environmental and Social Action Plan (ESAP) tab in the related Environmental and Social Review Summary ( ESRS ) document for this project.
+[Psw.Facility[0].Key] IDA21-PSW BFF
+[Psw.Facility[1].Key] IDA21-PSW RMF
+[Psw.Facility[2].Key] IDA21-PSW LCF
+[Psw.Facility[3].Key] CCW-IDA21
+[Psw.Facility[4].Key] None
+[Psw.Total_Project_Cost] Not Available
+[Psw.Ifc_OA_Commitment] Not Available
+[Psw.Commercial_CoFinancing] Not Available
+[Psw.Dfi_CoFinancing] Not Available
+[ProjectName] Sunda FMCG Investment
+[CompanyName] Softcare Limited
+[Department] Regional Industry - MAS Africa
+[Country] Africa Region
+[Region] Africa
+[Industry] Manufacturing
+[Sector] Other Textile Products (Including Industrial and Medical Products)
+[EnvironmentalCategory] B - Limited
+[Status] Active
+[ProjectOverView.Project_Description] The proposed investment is a financing package consisting of: (i) an IFC A-loan of up to EUR50 million to Sunmart Trading FZCO Dubai (Sunmart) and Senbai Holdings FZCO, Dubai (Senbai, together the Borrowers); and (ii) an equity investment of US$30 million in Softcare Limited (Softcare or the Company), which is also the guarantor of IFC’s proposed loan to Sunmart and Senbai. Sunmart and Senbai are fully-owned subsidiaries of Softcare, which itself is a subsidiary of Sunda Enterprise Limited (“Sunda”).
+The proceeds from IFC’s debt and equity investments will be used to finance the capacity expansion of baby diapers and sanitary pads factories with a total project cost of US$155 million. The proceeds will be used to finance new production lines for baby diaper and sanitary pad within existing factories in Ghana, Kenya, Tanzania, and Zambia (the Project).
+[ProjectOverView.ESAP] N/A
+[ProjectOverView.Env_Soc_Inf] Please refer to the Environmental and Social Review Summary (ESRS) linked to this project SII in the IFC's project disclosure website.
+[DocumentType] Summary of Investment Information (AIP Policy 2012)
+[ProjectType] Investment
+## IFC ESRS record, project 49874
+[ClientDocumentation[0].Documentum_Id] 090224b0e207f1c7
+[ClientDocumentation[0].Type] pdf
+[ClientDocumentation[0].File_Name] 49874- ESRS- DRAFT_02042025_ Softcare_250404_CAWES-Sunda Signed
+[ClientDocumentation[0].Path] \49874_ESRS
+[ClientDocumentation[0].Documentum_Url] https://w0lxpifccsprd05.worldbank.org:9182/ACS/servlet/ACS?command=read&version=2.3&docbaseid=0224b0&basepath=%2Fifcidocs11%2Fifcecmidocs%2Fifcdocs_storage_11%2F000224b0&filepath=80%2F11%2F30%2Faa.pdf&objectid=090224b0e207f1c7&cacheid=dzAEAgA%3D%3DqjARgA%3D%3D&format=pdf&pagenum=0&signature=j%2FzGD7V0sYDmEhtk7ee0AxkjKCda6B5JihiIWN4EjVJtk0WwBCX5QH%2Btls7dYD6pvqZ1tpsfVOuFyqa9SmsVRz%2FHRvDEPoca4ZN9bZIZwbV7dD6h5NTn1yRZHaZKKiHS8ChuaPEGi%2BsmR4zCRZIbtwEkF7V4SZ4EZlvlj6Q3V0U%3D&servername=w0lxpifccsprd05.worldbank.orgACS1&mode=1×tamp=1744050918&length=398784&mime_type=application%2Fpdf¶llel_streaming=true&expire_delta=360
+[ClientDocumentation[0].Insert_By] iPortal
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[RelevantProjects[5].Region] Africa
+[RelevantProjects[6].Region] Africa
+[RelevantProjects[7].Region] Africa
+[RelevantProjects[8].Region] Africa
+[RelevantProjects[9].Region] Africa
+[RelevantProjects[10].Region] Africa
+[RelevantProjects[11].Region] Africa
+[RelevantProjects[12].Region] Africa
+[RelevantProjects[13].Region] Africa
+[RelevantProjects[14].Region] Africa
+[RelevantProjects[15].Region] Africa
+[RelevantProjects[16].Region] Africa
+[RelevantProjects[17].Region] Africa
+[RelevantProjects[18].Region] Africa
+[RelevantProjects[19].Region] Africa
+[RelevantProjects[20].Region] Africa
+[RelevantProjects[21].Region] Africa
+[RelevantProjects[22].Region] Africa
+[RelevantProjects[23].Region] Africa
+[RelevantProjects[24].Region] Africa
+[RelevantProjects[25].Region] Africa
+[RelevantProjects[26].Region] Africa
+[RelevantProjects[27].Region] Africa
+[RelevantProjects[28].Region] Africa
+[RelevantProjects[29].Region] Africa
+[RelevantProjects[30].Region] Africa
+[RelevantProjects[31].Region] Africa
+[RelevantProjects[32].Region] Africa
+[RelevantProjects[33].Region] Africa
+[RelevantProjects[34].Region] Africa
+[RelevantProjects[35].Region] Africa
+[RelevantProjects[36].Region] Africa
+[RelevantProjects[37].Region] Africa
+[RelevantProjects[38].Region] Africa
+[RelevantProjects[39].Region] Africa
+[RelevantProjects[40].Region] Africa
+[RelevantProjects[41].Region] Africa
+[RelevantProjects[42].Region] Africa
+[RelevantProjects[43].Region] Africa
+[RelevantProjects[44].Region] Africa
+[RelevantProjects[45].Region] Africa
+[RelevantProjects[46].Region] Africa
+[RelevantProjects[47].Region] Africa
+[RelevantProjects[48].Region] Africa
+[RelevantProjects[49].Region] Africa
+[RelevantProjects[50].Region] Africa
+[RelevantProjects[51].Region] Africa
+[RelevantProjects[52].Region] Africa
+[RelevantProjects[53].Region] Africa
+[RelevantProjects[54].Region] Africa
+[RelevantProjects[55].Region] Africa
+[RelevantProjects[56].Region] Africa
+[RelevantProjects[57].Region] Africa
+[RelevantProjects[58].Region] Africa
+[RelevantProjects[59].Region] Africa
+[RelevantProjects[60].Region] Africa
+[RelevantProjects[61].Region] Africa
+[RelevantProjects[62].Region] Africa
+[RelevantProjects[63].Region] Africa
+[RelevantProjects[64].Region] Africa
+[RelevantProjects[65].Region] Africa
+[RelevantProjects[66].Region] Africa
+[RelevantProjects[67].Region] Africa
+[RelevantProjects[68].Region] Africa
+[RelevantProjects[69].Region] Africa
+[RelevantProjects[70].Region] Africa
+[RelevantProjects[71].Region] Africa
+[RelevantProjects[72].Region] Africa
+[RelevantProjects[73].Region] Africa
+[RelevantProjects[74].Region] Africa
+[RelevantProjects[75].Region] Africa
+[RelevantProjects[76].Region] Africa
+[RelevantProjects[77].Region] Africa
+[RelevantProjects[78].Region] Africa
+[RelevantProjects[79].Region] Africa
+[RelevantProjects[80].Region] Africa
+[RelevantProjects[81].Region] Africa
+[RelevantProjects[82].Region] Africa
+[RelevantProjects[83].Region] Africa
+[RelevantProjects[84].Region] Africa
+[RelevantProjects[85].Region] Africa
+[RelevantProjects[86].Region] Africa
+[RelevantProjects[87].Region] Africa
+[RelevantProjects[88].Region] Africa
+[RelevantProjects[89].Region] Africa
+[RelevantProjects[90].Region] Africa
+[RelevantProjects[91].Region] Africa
+[RelevantProjects[92].Region] Africa
+[RelevantProjects[93].Region] Africa
+[RelevantProjects[94].Region] Africa
+[RelevantProjects[95].Region] Africa
+[RelevantProjects[96].Region] Africa
+[RelevantProjects[97].Region] Africa
+[RelevantProjects[98].Region] Africa
+[RelevantProjects[99].Region] Africa
+[RelevantProjects[100].Region] Africa
+[RelevantProjects[101].Region] Africa
+[RelevantProjects[102].Region] Africa
+[RelevantProjects[103].Region] Africa
+[RelevantProjects[104].Region] Africa
+[RelevantProjects[105].Region] Africa
+[RelevantProjects[106].Region] Africa
+[RelevantProjects[107].Region] Africa
+[RelevantProjects[108].Region] Africa
+[RelevantProjects[109].Region] Africa
+[RelevantProjects[110].Region] Africa
+[RelevantProjects[111].Region] Africa
+[RelevantProjects[112].Region] Africa
+[RelevantProjects[113].Region] Africa
+[RelevantProjects[114].Region] Africa
+[RelevantProjects[115].Region] Africa
+[RelevantProjects[116].Region] Africa
+[RelevantProjects[117].Region] Africa
+[RelevantProjects[118].Region] Africa
+[RelevantProjects[119].Region] Africa
+[RelevantProjects[120].Region] Africa
+[RelevantProjects[121].Region] Africa
+[RelevantProjects[122].Region] Africa
+[RelevantProjects[123].Region] Africa
+[RelevantProjects[124].Region] Africa
+[RelevantProjects[125].Region] Africa
+[RelevantProjects[126].Region] Africa
+[RelevantProjects[127].Region] Africa
+[RelevantProjects[128].Region] Africa
+[RelevantProjects[129].Region] Africa
+[RelevantProjects[130].Region] Africa
+[RelevantProjects[131].Region] Africa
+[RelevantProjects[132].Region] Africa
+[RelevantProjects[133].Region] Africa
+[RelevantProjects[134].Region] Africa
+[RelevantProjects[135].Region] Africa
+[RelevantProjects[136].Region] Africa
+[RelevantProjects[137].Region] Africa
+[RelevantProjects[138].Region] Africa
+[RelevantProjects[139].Region] Africa
+[RelevantProjects[140].Region] Africa
+[RelevantProjects[141].Region] Africa
+[RelevantProjects[142].Region] Africa
+[RelevantProjects[143].Region] Africa
+[RelevantProjects[144].Region] Africa
+[RelevantProjects[145].Region] Africa
+[RelevantProjects[146].Region] Africa
+[RelevantProjects[147].Region] Africa
+[RelevantProjects[148].Region] Africa
+[RelevantProjects[149].Region] Africa
+[RelevantProjects[150].Region] Africa
+[RelevantProjects[151].Region] Africa
+[RelevantProjects[152].Region] Africa
+[RelevantProjects[153].Region] Africa
+[RelevantProjects[154].Region] Africa
+[RelevantProjects[155].Region] Africa
+[RelevantProjects[156].Region] Africa
+[RelevantProjects[157].Region] Africa
+[RelevantProjects[158].Region] Africa
+[RelevantProjects[159].Region] Africa
+[RelevantProjects[160].Region] Africa
+[RelevantProjects[161].Region] Africa
+[RelevantProjects[162].Region] Africa
+[RelevantProjects[163].Region] Africa
+[RelevantProjects[164].Region] Africa
+[RelevantProjects[165].Region] Africa
+[RelevantProjects[166].Region] Africa
+[RelevantProjects[167].Region] Africa
+[RelevantProjects[168].Region] Africa
+[RelevantProjects[169].Region] Africa
+[RelevantProjects[170].Region] Africa
+[RelevantProjects[171].Region] Africa
+[RelevantProjects[172].Region] Africa
+[RelevantProjects[173].Region] Africa
+[RelevantProjects[174].Region] Africa
+[RelevantProjects[175].Region] Africa
+[RelevantProjects[176].Region] Africa
+[RelevantProjects[177].Region] Africa
+[RelevantProjects[178].Region] Africa
+[RelevantProjects[179].Region] Africa
+[RelevantProjects[180].Region] Africa
+[RelevantProjects[181].Region] Africa
+[RelevantProjects[182].Region] Africa
+[RelevantProjects[183].Region] Africa
+[RelevantProjects[184].Region] Africa
+[RelevantProjects[185].Region] Africa
+[RelevantProjects[186].Region] Africa
+[RelevantProjects[187].Region] Africa
+[RelevantProjects[188].Region] Africa
+[RelevantProjects[189].Region] Africa
+[RelevantProjects[190].Region] Africa
+[RelevantProjects[191].Region] Africa
+[RelevantProjects[192].Region] Africa
+[RelevantProjects[193].Region] Africa
+[RelevantProjects[194].Region] Africa
+[RelevantProjects[195].Region] Africa
+[RelevantProjects[196].Region] Africa
+[RelevantProjects[197].Region] Africa
+[RelevantProjects[198].Region] Africa
+[RelevantProjects[199].Region] Africa
+[RelevantProjects[200].Region] Africa
+[RelevantProjects[201].Region] Africa
+[RelevantProjects[202].Region] Africa
+[RelevantProjects[203].Region] Africa
+[RelevantProjects[204].Region] Africa
+[RelevantProjects[205].Region] Africa
+[RelevantProjects[206].Region] Africa
+[RelevantProjects[207].Region] Africa
+[RelevantProjects[208].Region] Africa
+[RelevantProjects[209].Region] Africa
+[RelevantProjects[210].Region] Africa
+[RelevantProjects[211].Region] Africa
+[RelevantProjects[212].Region] Africa
+[RelevantProjects[213].Region] Africa
+[RelevantProjects[214].Region] Africa
+[RelevantProjects[215].Region] Africa
+[RelevantProjects[216].Region] Africa
+[RelevantProjects[217].Region] Africa
+[RelevantProjects[218].Region] Africa
+[RelevantProjects[219].Region] Africa
+[RelevantProjects[220].Region] Africa
+[RelevantProjects[221].Region] Africa
+[RelevantProjects[222].Region] Africa
+[RelevantProjects[223].Region] Africa
+[RelevantProjects[224].Region] Africa
+[RelevantProjects[225].Region] Africa
+[RelevantProjects[226].Region] Africa
+[RelevantProjects[227].Region] Africa
+[RelevantProjects[228].Region] Africa
+[RelevantProjects[229].Region] Africa
+[RelevantProjects[230].Region] Africa
+[RelevantProjects[231].Region] Africa
+[RelevantProjects[232].Region] Africa
+[RelevantProjects[233].Region] Africa
+[RelevantProjects[234].Region] Africa
+[RelevantProjects[235].Region] Africa
+[RelevantProjects[236].Region] Africa
+[RelevantProjects[237].Region] Africa
+[RelevantProjects[238].Region] Africa
+[RelevantProjects[239].Region] Africa
+[RelevantProjects[240].Region] Africa
+[RelevantProjects[241].Region] Africa
+[RelevantProjects[242].Region] Africa
+[RelevantProjects[243].Region] Africa
+[RelevantProjects[244].Region] Africa
+[RelevantProjects[245].Region] Africa
+[RelevantProjects[246].Region] Africa
+[RelevantProjects[247].Region] Africa
+[RelevantProjects[248].Region] Africa
+[RelevantProjects[249].Region] Africa
+[RelevantProjects[250].Region] Africa
+[RelevantProjects[251].Region] Africa
+[RelevantProjects[252].Region] Africa
+[RelevantProjects[253].Region] Africa
+[RelevantProjects[254].Region] Africa
+[RelevantProjects[255].Region] Africa
+[RelevantProjects[256].Region] Africa
+[RelevantProjects[257].Region] Africa
+[RelevantProjects[258].Region] Africa
+[RelevantProjects[259].Region] Africa
+[RelevantProjects[260].Region] Africa
+[RelevantProjects[261].Region] Africa
+[RelevantProjects[262].Region] Africa
+[RelevantProjects[263].Region] Africa
+[RelevantProjects[264].Region] Africa
+[RelevantProjects[265].Region] Africa
+[RelevantProjects[266].Region] Africa
+[RelevantProjects[267].Region] Africa
+[RelevantProjects[268].Region] Africa
+[RelevantProjects[269].Region] Africa
+[RelevantProjects[270].Region] Africa
+[RelevantProjects[271].Region] Africa
+[RelevantProjects[272].Region] Africa
+[RelevantProjects[273].Region] Africa
+[RelevantProjects[274].Region] Africa
+[RelevantProjects[275].Region] Africa
+[RelevantProjects[276].Region] Africa
+[RelevantProjects[277].Region] Africa
+[RelevantProjects[278].Region] Africa
+[RelevantProjects[279].Region] Africa
+[RelevantProjects[280].Region] Africa
+[RelevantProjects[281].Region] Africa
+[RelevantProjects[282].Region] Africa
+[RelevantProjects[283].Region] Africa
+[RelevantProjects[284].Region] Africa
+[RelevantProjects[285].Region] Africa
+[RelevantProjects[286].Region] Africa
+[RelevantProjects[287].Region] Africa
+[RelevantProjects[288].Region] Africa
+[RelevantProjects[289].Region] Africa
+[RelevantProjects[290].Region] Africa
+[RelevantProjects[291].Region] Africa
+[RelevantProjects[292].Region] Africa
+[RelevantProjects[293].Region] Africa
+[RelevantProjects[294].Region] Africa
+[RelevantProjects[295].Region] Africa
+[RelevantProjects[296].Region] Africa
+[RelevantProjects[297].Region] Africa
+[RelevantProjects[298].Region] Africa
+[RelevantProjects[299].Region] Africa
+[RelevantProjects[300].Region] Africa
+[RelevantProjects[301].Region] Africa
+[RelevantProjects[302].Region] Africa
+[RelevantProjects[303].Region] Africa
+[RelevantProjects[304].Region] Africa
+[RelevantProjects[305].Region] Africa
+[RelevantProjects[306].Region] Africa
+[RelevantProjects[307].Region] Africa
+[RelevantProjects[308].Region] Africa
+[RelevantProjects[309].Region] Africa
+[RelevantProjects[310].Region] Africa
+[RelevantProjects[311].Region] Africa
+[RelevantProjects[312].Region] Africa
+[RelevantProjects[313].Region] Africa
+[RelevantProjects[314].Region] Africa
+[RelevantProjects[315].Region] Africa
+[RelevantProjects[316].Region] Africa
+[RelevantProjects[317].Region] Africa
+[RelevantProjects[318].Region] Africa
+[RelevantProjects[319].Region] Africa
+[RelevantProjects[320].Region] Africa
+[RelevantProjects[321].Region] Africa
+[RelevantProjects[322].Region] Africa
+[RelevantProjects[323].Region] Africa
+[RelevantProjects[324].Region] Africa
+[RelevantProjects[325].Region] Africa
+[RelevantProjects[326].Region] Africa
+[RelevantProjects[327].Region] Africa
+[RelevantProjects[328].Region] Africa
+[RelevantProjects[329].Region] Africa
+[RelevantProjects[330].Region] Africa
+[RelevantProjects[331].Region] Africa
+[RelevantProjects[332].Region] Africa
+[RelevantProjects[333].Region] Africa
+[RelevantProjects[334].Region] Africa
+[RelevantProjects[335].Region] Africa
+[RelevantProjects[336].Region] Africa
+[RelevantProjects[337].Region] Africa
+[RelevantProjects[338].Region] Africa
+[RelevantProjects[339].Region] Africa
+[RelevantProjects[340].Region] Africa
+[RelevantProjects[341].Region] Africa
+[RelevantProjects[342].Region] Africa
+[RelevantProjects[343].Region] Africa
+[RelevantProjects[344].Region] Africa
+[RelevantProjects[345].Region] Africa
+[RelevantProjects[346].Region] Africa
+[RelevantProjects[347].Region] Africa
+[RelevantProjects[348].Region] Africa
+[RelevantProjects[349].Region] Africa
+[RelevantProjects[350].Region] Africa
+[RelevantProjects[351].Region] Africa
+[RelevantProjects[352].Region] Africa
+[RelevantProjects[353].Region] Africa
+[RelevantProjects[354].Region] Africa
+[RelevantProjects[355].Region] Africa
+[RelevantProjects[356].Region] Africa
+[RelevantProjects[357].Region] Africa
+[RelevantProjects[358].Region] Africa
+[RelevantProjects[359].Region] Africa
+[RelevantProjects[360].Region] Africa
+[RelevantProjects[361].Region] Africa
+[RelevantProjects[362].Region] Africa
+[RelevantProjects[363].Region] Africa
+[ESProjCategoryAndApplicableStandard.IAPS] While all Performance Standards are applicable to this investment, IFC’s environmental and social due diligence indicates that the investment will have impacts which must be managed in a manner consistent with the following Performance Standards
+PS 1 - Assessment and Management of Environmental and Social Risks and Impacts
+PS 2 - Labor and Working Conditions
+PS 3 - Resource Efficiency and Pollution Prevention
+PS 4 - Community Health, Safety and Security
+PS 5 does not apply as no land is required for the project (all operations are already in existence and the project seeks only to increase production capacity within existing footprints (i.e., by adding production lines to the factory floor); PS 6, 7 & 8 do not apply for the same reason.
+[ESProjCategoryAndApplicableStandard.ESCR] This is a Category B project based on IFC's Policy on Environment and Social Sustainability (2012). Based on information reviewed by IFC, the proposed project is expected to have limited adverse direct environmental and social (E&S) risks and impacts that are few, site specific, largely reversible, and readily addressed through existing mitigation measures and Good International Industry Practice (GIIP) as practiced by the company. Such risks and impacts include those related to manufacturing operations, including use of natural resources and waste generation, assurance of fair and safe working conditions of employees, contractors and others engaged by the company in the manufacturing of wet wipes, sanitary products and diapers including risks related to GBVH in the workforce.
+[ESRisksOrImpactAndMitigation.ESMM] IFC’s appraisal considered the environmental and social management planning process and documentation for the Project and gaps, if any, between these and IFC’s requirements. Where necessary, corrective measures, intended to close these gaps within a reasonable period of time, are summarized in the paragraphs that follow and (if applicable) in an agreed Environmental and Social Action Plan (ESAP). Through implementation of these measures, the Project is expected to be designed and operated in accordance with Performance Standards objectives.
+E&S Policy and Management System: Softcare has developed an overarching Environmental, Social, Health and Safety (ESHS) Policy, applicable to all Softcare employees and operations and which is communicated to all business partners, suppliers and contractors. The general guidelines of the policy are adapted at country operations to meet local requirements. The ESHS Policy covers the area related to risk assessment, grievance management, occupational health and safety, waste management. All Softcare facilities subject to this proposed investment are ISO 14001,ISO 45001 and 9001certified. The policy is signed by the company CEO and is deemed to be consistent with the principles and objectives of this performance standard.
+The policy is inscribed within a corporate environmental, social and governance (ESG) Strategy aiming at operationalizing ESG requirements in the business as a competitive advantage vis-á-vis the other competitors. The ESG strategy sets up a clear independent governance structure with clear responsibilities and accountabilities at corporate and plant level.
+Each plant included in the IFC investment has a documented ESHS Management System (ESHS-MS) broadly aligned with PS1 covering a broad range of E&S aspects, such as i) environmental aspects and impact analysis; ii) waste management; iii) emergency preparedness; iv) wastewater management; v) human resources and labor conditions; vi) supply chain assessment; vii) stakeholder engagement and a community grievance mechanism. An EHS officer in each plant oversees the implementation of the ESHS-MS.
+Identification of Risks and Impacts: All sites have completed an Environmental Impact Assessment (EIA) and have received Environmental licenses by the required national environmental authorities. The ESHS-MS includes an Environmental Aspect and Impact Analysis Procedure and a High-Risk Assessment procedure to rule out future high risk/ Cat A projects applicable to all facilities at all stages (construction and operation). Both procedures include an environmental and high-risk analysis conducted at the beginning of each operation for screening of early E&S risks, potential mitigation actions, regulatory requirements and required resources. The analysis also includes potential supply chain and contractor- related risks. Example risks identified using such practices include i) noise; ii) management of hazardous waste (i.e. oil and lubricants); iii) material control and management; iii) fire and life safety and iv) general health and safety during construction and operations for both direct and indirect employees (including heat stress management).
+Going forward, Softcare will include a series of EHS KPIs related to such risks and include the same in the procedures to be operationalized at the plant level. These KPIs will serve as a basis for a company-wide EHS monitoring and improvement framework in line with PS requirements (ESAP 1a). Internal EHS audits are required as part of the ESHS-MS and have been undertaken at the plant level. Softcare will enhance its inspection oversight based on corporate-level requirements and ensure monitoring and reporting occurs in all the plants(ESAP 1a).
+Organizational Capacity: The ESG strategy sets up the governance structure for ESHS-MS operationalization within the Company. At the plant level, ESG accountabilities are shared between an EHS officer, the HR officer, the factory manager and the Managing Director.
+Emergency Preparedness and Response (EPR): The ESHS Policy includes a procedure for EPR requiring all plants to undertake a risk assessment and implement emergency procedures based on those findings and national requirements. In Ghana and in Kenya, EPR is currently under the responsibility of the EHS lead while in Zambia the responsibility lies with a committee, led by the EHS supervisor. Up-to-date emergency response equipment and clear emergency indications were observed on site, instructions and notifications provided both in Chinese and the local widely-spoken languages. All plants have fire detection systems; fire alarms are in place, fire extinguishers available and regularly checked; fire hydrants to provide water and designated fire marshals in place. In Ghana and in Kenya, the plants are certified by the local National Fire Safety services; in Zambia, fire prevention services are provided by officials who work in the industrial area. As fire is a key risk associated with its activities, Softcare shall ensure that all plant-specific emergency and fire prevention procedures are in line with WBS EHS guidelines and good international industry practice (ESAP 1b).
+PS 2 Labor and Working Conditions
+Softcare currently employs over 2500 people ; 1,842 of which are direct employees across its factories in Ghana, Kenya, Zambia, and Tanzania (750 (41%) of whom are female). All factories covered under the project also rely on contracted workers hired through labor agencies and contractor companies, being employed in security, administration, truck loading activities, HR, and cleaning services.
+Human Resources Policies and Procedures: All factories have developed and implemented a comprehensive set of HR policies and procedures based on corporate HR requirements. An HR manager, based at the corporate level but solely responsible for non-Chinese operations, ensures that the Corporate HR requirements are implemented across the various plants. As part of ESAP 2a, Softcare will include the Corporate HR requirements into a consolidated HR Corporate Policy. The Policy will include a) a detailed description of the responsibilities for assessing and monitoring the implementation of corporate HR requirements at plant level; b) a plan for reviewing and/or enhancing plant-level policies on a regular basis; c) a tracking tool to monitor the implementation of the internal grievance redress mechanism.
+The HR manuals at each operation cover aspects such as salary, leave policies, code of conduct, overtime, contractor management, grievance management, provisions against child and forced labor, freedom of association, non-discrimination and gender enhancement and redundancy. Specific gender-related policies, including a sexual harassment policy and a protection of women workers policy, have also been recently developed and implemented across all borrowing assets; the implementation of these was discussed with workers during interviews held while on site. Moving forward, the company will extend its grievance management policy to third-party contractors. Ad-hoc informational sessions will be delivered and documented by the HR department for all workers.( ESAP 2b)
+Working Conditions and Terms of Employment: The working conditions and terms of employment for direct employees are defined and compliant with the labor laws of the host countries. Each employee is provided with a contract outlining the terms and conditions of employment, including but not limited to salary, wage mandatory payments, working hours, measures against child and forced labor, bonuses and benefits, rest periods and leave, overtime, and disciplinary procedures. Pregnant workers are not allowed to work night shifts. They are assigned to a different facility during pregnancy and are prohibited from performing overtime and are entitled to additional rest periods during the working day. No unions have been identified on site, but each factory has workers representatives that meet each quarter with the HR department. All employees have access to gender-separated toilet and restroom areas and fully equipped canteens. Portable air coolers are available for working teams in cases of high temperature conditions. Additionally, in Ghana, additional ‘cooling rooms equipped with ACs’ are available for workers for small break during periods with high temperatures. Fully equipped and staffed infirmaries, including fridge and lactation pumps, have been observed on site. In some instances, non-monetary benefits vary across the plants: in Kenya, direct employees are entitled to an annual medical check-up performed by a licensed medical laboratory, while in Tanzania, the company provides meals and transportation for all employees. To ensure a consistent approach and enhance working conditions in line with labor law and PS2 requirements, Softcare will ensure that medical, transportation and meal services (or equivalent) will be included in the HR Corporate Policy and provided to workers in all borrowing assets (ESAP 2a).
+Grievance Management: In all factories, Softcare has a worker grievance management procedure in place that details how internal complaints can be logged, how they will be addressed, and provisions to maintain confidentiality and protect workers from retaliation. In Zambia and Kenya, it was noted that the grievance procedure, including the timing for resolution, was not widely known by either direct or indirect employees. As stated above, Softcare will revise its grievance procedures and set up recurrent training to be extended to all direct and outsourcing workers (ESAP 2b).
+Occupational Health and Safety: The main OHS risks in the factories are related to improper handling of equipment and machinery parts, potential exposure to heat (mostly in Ghana), noise, and working at heights. Consistent use of PPEs among permanent staff has been observed at all sites; water is provided at all facilities, and cooling rooms are available for employees working in hot conditions (such as in Ghana). Current OHS procedures cover a comprehensive list of OHS risks and provide measures for their mitigation . A risk assessment based on the job profile and a training plan are also in place and delivered to both direct and indirect employees.
+OHS officers in each plant monitor Lost Time Injury (LTI) and minor incidents, assessing the frequency and recurrence of such and conducting root cause analysis and, as needed, setting up appropriate corrective actions to mitigate such hazards and their associated risks. No fatalities have been reported in the last five years. 3 LTI were recorded in the 4 factories in 2024; 6 incidents requiring first aid were also recorded. One of the accidents in 2024 involved a contracted forklift operator hitting a worker due to the malfunction of the vehicle’s alarm. Softcare Ghana responded to this accident by conducting an appropriate safety investigation to determine the cause of the event; requesting the contracting company to prepare a competence assessment of the forklift drivers (and its maintenance practices) and reinforcing the OHS monitoring measures in place and OHS training conducted on site.
+Workers Accommodation: In Zambia and Kenya, the company provides accommodation for some workers on-site, both expatriates and local employees. During the appraisal, several areas for improvement in on-site worker accommodations were identified. These included opportunities to enhance facility layout, living conditions, and fire safety measures. In response to that, Softcare will develop a time-bound improvement plan applicable to all factory sites where workers are housed. The plan will outline actions such as establishing a worker accommodation policy aligned with the IFC/EBRD Guidance Note on Workers’ Accommodation, and the adoption of a Code of Conduct to be shared with all employees. Implementation will be accompanied by regular internal audits to ensure compliance and continuous improvement. (ESAP 2c)
+Workers engaged by third parties: Softcare engages labor providers to support non-core functions across multiple operational locations. These workers are primarily involved in administrative, security, and logistical support roles. Contracts with labor agencies include provisions to ensure alignment with applicable labor standards, including the use of personal protective equipment (PPE), formal employment documentation, compliance with wage regulations, and adherence to national requirements on working hours and overtime. No hiring fees are collected by labor brokers. In Kenya, observations indicated opportunities to enhance consistency in compensation practices and occupational safety measures for contracted workers. To address this, Softcare will carry out a comprehensive review of its direct and indirect labor management across all facilities supported by the IFC financing. The review will include an evaluation of working hours, overtime practices, and compliance with relevant host country law and PS2. Where necessary, the company will implement time-bound corrective measures (ESAP 2d)
+PS 3 Resource Efficiency and Pollution Prevention
+Resource Efficiency: Softcare’s plants use electricity from the national grid and diesel for power back up. The ESG strategy sets up a goal of 18% of purchased and used electricity coming from renewable resources. A pilot rooftop PV system project has been currently installed as an energy efficiency for the Kenyan plant. Similar projects will be developed in other countries in Africa. Softcare aims to cut carbon emissions by 10% by 2030. By 2025, Softcare aims to recycle 92% of all domestic waste generated.
+Softcare invests in research and development of its product line to drive efficiency in the use of natural resources. For example, by reducing the thickness of films used, the formula of nonwoven materials, and re-formulization of other key inputs, the company has decreased the amounts of material required to produce diapers and sanitary items. This translates into a reduction in the amount of material sourced, transported and transformed into products.
+Greenhouse Gases: Greenhouse gas assessment was undertaken for the new manufacturing expansion lines to be installed in Ghana, Kenya, Zambia and Tanzania Absolute and Net Emissions Analysis determined that the average annual total emissions are estimated at 1,972 tCO2/year. In total, the estimated annual net
+emissions are -2,193 tCO2/year due to energy and resource efficiency. The project is deemed to be aligned with the Paris Agreement provisions for mitigation and adaptation with a 100% climate attribution.
+Water Consumption: The production of diapers and sanitary products is a dry manufacturing process that does not consume raw water; minimal water is required in the production of wet wipes. Water is consumed for domestic purposes (in toilets, for cooking, etc.).The small-scale consumption at manufacturing operations is obtained from either municipal sources or licensed boreholes and metered, and pipes are periodically checked for leaks to ensure only the minimum amounts are required.
+Pollution Prevention: Softcare works to reduce waste and/or pollution from its manufacturing facilities. Wastes generated include metals, paper, plastics, leftover packaging material, etc. In 2023, the company recycled 90% of its generated wastes. Practices are employed to create raw material inputs for use in other industries; for example, processing spun bond nonwoven fabric scraps into plastic particles that are then used by other companies as inputs to injection molding to make wash basins, toilet seats, etc. The company has set a recycling rate of 92% for 2025.
+Air emissions from manufacturing facilities are limited to those from back-up generators that are used in the event of power cuts.
+Hazardous Materials Management: Softcare had developed and implements a hazardous materials management procedure as part of its corporate ESHS-MS. This procedure aims to reduce environmental impact by setting out minimum requirements for waste reduction, segregation, collection and disposal, ensuring compliance with local legislation, IFC requirements and effective management of waste streams. Examples of good practice (such as locked and segregated storage) were seen by IFC while visiting manufacturing operations.
+Hazardous Wastes Management: Reduction of the generation of hazardous waste (HW) (such as waste oils, lubricants and e-wastes) are described within a corporate ESHS-MS procedure for HW management. This procedure aims to reduce environmental impact by setting out minimum requirements for waste reduction, segregation, collection and disposal, ensuring compliance with local legislation, IFC requirements resulting in effective management of waste streams. Wastes generated are stored appropriately, locked and separated according to hazard classification and removed by licensed hazardous waste collectors in respective jurisdictions.
+No pesticides are used within the manufacturing facilities.
+PS4 Community Health, Safety, and Security
+While all factories are in industrial areas or special economic zones, communities in both Kenya and Ghana are situated in close proximity to the sites. The key risks associated with Softcare's activities are: (i) increased truck traffic resulting from the expansion of new production lines; and (ii) potential community risks due to the influx of people interested in employment opportunities. To address and mitigate these risks, Softcare will prepare and implement a community health and safety plan to focus on key areas such as traffic and road safety management around operational sites and will apply to all vehicles associated with the company’s operations, including those of employees and logistics partners, addressing key risks related to traffic and road safety management in the vicinity of the operations, applicable to both customer and employee trucks and buses (ESAP 4a).
+In Kenya, Zambia and Tanzania, the plants are located in industrial areas distant from the main residential towns. One of the main GBVH risks is related to the physical safety of female workers before or at the completion of night shifts. In these countries, Softcare put in place a service of designated internal night drivers on demand and free of charge or buses for female workers wishing to be transported to a designated safe point within the main residential towns.
+Softcare also established a comprehensive Sexual Harassment Policy Manual addressing all forms of sexual harassment (including visual harassment, sexual bribery and coercion in the workplace) to address GBVH risks at the workplace. A specific grievance redress mechanism to address GBVH issues has been developed within the policy in each visited plant. The mechanism also outlines the identification of focal points and an independent committee for addressing complaints related to GBVH issues. Ad hoc complaint forms can be accessed through an online anonymous form downloadable from a QR code accessible on site. ‘
+In addition to this, the Policy Manual calls for the creation of an ad-hoc committees to address harassment cases and counselling services for the victims and her/his family, when appropriate.
+Security management: Security is provided by a range of personnel, including direct employees, contracted private providers, and public security forces, to ensure asset and property protection. Private security is primarily responsible for access control, asset protection, and monitoring strategic points around the plant. Security risks are mostly related to theft, trespassing, and safety issues at the plant. Private security forces are generally unarmed; only in Zambia was it observed that weapons were present on-site. Public security forces are used for asset protection and work in coordination with Softcare’s security manager. The company will develop security standards to be included in its own Code of Conduct . The standards will require Softcare to conduct site risk assessments to inform the development of appropriate management plans. These plans will include regular training and security drills for all security employees (ESAP 4b).
+[StakeHolderOrEngagements.StakeHolderEngagement] A stakeholder engagement and mapping procedure is included in the Softcare ESHMS . The document emphasizes the importance of considering environmental, social, and governance issues for long-term sustainability and defines a process to ensure positive impacts on stakeholders and communities. Summary points include purpose (focus on sustainability through addressing environmental, social, and governance issues), scope (ensuring meaningful impacts on stakeholders and communities), definition of stakeholders, responsibilities (roles assigned to the Managing Director and plant administrative manager), procedure (components of stakeholder engagement, including identification, consultation, and grievance management), mapping of stakeholders (a four-step process for stakeholder mapping), disclosure of relevant project information (importance of informing community members), consultation (principles for effective consultation), informed consultation and participation (governing exchanges with stakeholders on significant impacts), external communications (procedure for handling public communications), on-going reporting to affected stakeholders (periodic reports on action plans and risks), community grievance mechanism (for raising concerns about the company's performance), stakeholder level of engagement (levels of engagement based on influence and impact), and stakeholder engagement plan - Implementation Strategy (regarding continuous engagement and communication with stakeholders).
+Overall, the document provides a suitable framework for stakeholder engagement, addressing potential concerns, and maintaining channels of communication throughout the project lifecycle.
+All factories maintain records of CSR-related projects and donations delivered in each country of operation. A budget for community investments and CSR activities is approved annually at the corporate level for all factories and is managed by the Managing Director. Key sectors of intervention include education, health (particularly maternity support), gender, and sport. Softcare will formalize its social investment efforts through a corporate CSR and external stakeholders’ procedure that meets PS1 requirements. This corporate procedure will guide the development of factory-specific plans that address the specific contextual needs of stakeholders. Each plan will be accompanied by ad-hoc communication and engagement plans in line with PS1 requirements. (ESAP 1c)
+[StakeHolderOrEngagements.LAPD] 0 0 0 0 0 0 0 0 0.0000
+Softcare Limited
+Bob Xian
+Regional Financing Director
+Add: Room 3903 , Citic Plaza No.233 Tianhe North Road, Tianhe District, Guangzhou, China
+Tel: +86 173 7310 9031
+Email: xianwenbo@softcarehome.com
+[EAndSActionPlan] S.no Description Anticipated Completion Date
+1 Softcare will enhance its ESHS-MS by developing and implementing a corporate Monitoring and Improvement Framework to be cascaded at factory level. The framework will be composed of a series of Key Performance Indicators (KPIs) specific and suitably scaled to the key E&S risks in the factories; an internal audit procedure, schedule and resources; and reporting measures, as needed. (1a) 07/31/2025
+2 Softcare will develop and implement plant-specific emergency and fire prevention procedures in line with WBG EHS guidelines and good international industry practices. The procedures will be validated by the Senior management and widely communicated to the required personnel and workers. Scheduled audits will be performed to LFS equipment and mitigation actions will be implemented, if necessary. (1b) 03/31/2025
+3 Softcare will formalize its social engagement and communication efforts through a corporate CSR and external stakeholders’ procedure that meets PS1 requirements. This corporate procedure will guide the development of factory-specific plans that address the specific contextual needs of stakeholders. Each plan will be accompanied by ad-hoc communication and engagement plans in line with PS1 requirements. (1c) 07/31/2025
+4 Softcare will enhance its HR policies and procedures with the development of a Corporate HR Policy in alignment with PS2 requirements. The Policy will will be consistently applied across all the factories. (2a) 03/31/2025
+5 Softcare will enhance its internal grievance mechanism across all factories (2b) 03/31/2025
+6 Softcare will develop a time-bound improvement plan for all housing and accommodation hosting workers onsite. The Plan will include, but not limited to, i) A Policy in line with IFC/EBRD guidance note.ii) A Code of Conduct.iii) An audit procedure to assess the implementation of mitigation actions. (2c) 07/31/2025
+7 Softcare will undertake an assessment on third party contractors in all the plants, by:i)assessing the compliance of the working hours of contracted workers, including the use of overtime, with national labor requirements; ii) performing a review of the use of PPEs and adequate training on site; ; and, iii) developing of a procedure to monitor and audit working conditions for contractors engaged by SoftcareWhere areas of non-compliance are identified, revising contracts with labor agencies to ensure the successful implementation of timebound corrective plans. (2d) 06/30/2025
+8 Softcare will prepare and implement a community health and safety plan, addressing risks related to traffic and road safety management, in the vicinity of the operations, applicable to both customer and employee trucks. Specific provisions will be included in the contracts with transportation providers. Ad hoc EHS training will be delivered to drivers (4a) 07/31/2025
+9 Softcare will develop security standards to be included in its own corporate Code of Conduct. The Standards will require Softcare to conduct site-risk assessments for the development of appropriate management plans at factory plans. Regular training and security drills will be delivered to all security employees. (4b) 03/31/2025
+[ProjectName] Sunda FMCG Investment
+[CompanyName] Softcare Limited
+[Department] Regional Industry - MAS Africa
+[Country] Africa Region
+[Region] Africa
+[Industry] Manufacturing
+[Sector] Other Textile Products (Including Industrial and Medical Products)
+[EnvironmentalCategory] B - Limited
+[Status] Active
+[ProjectOverView.Project_Description] The proposed investment is a financing package consisting of: (i) an IFC A-loan of up to EUR50 million to Sunmart Trading FZCO Dubai (Sunmart) and Senbai Holdings FZCO, Dubai (Senbai, together the Borrowers); and (ii) an equity investment of US$30 million in Softcare Limited (Softcare or the Company), which is also the guarantor of IFC’s proposed loan to Sunmart and Senbai. Sunmart and Senbai are indirect fully-owned subsidiaries of Softcare, which itself is a subsidiary of Sunda Enterprise Limited (“Sunda”).
+The proceeds from IFC’s debt and equity investments will be used to finance the capacity expansion of baby diapers and sanitary pads factories with a total project cost of US$155 million. The proceeds will be used to finance new production lines for baby diaper and sanitary pad within existing factories in Ghana, Kenya, Tanzania, and Zambia (the Project).
+Location and basic description of the targeted operations is provided below:
+Kenya: Machakos Industrial Park, Athi River area, near Nairobi. Operations began in 2019 on a 19-acre site. They operate 12 production lines for diapers, pull-up pants, sanitary pads, and wet wipes.
+Ghana: located on SSNIT Road, Dunkunah, Weijia. They started operations in 2018 on a 12-acre site. Fifteen production lines for diapers, sanitary pads, and wet wipes.
+Zambia: located in Lusaka, off Leopards Hill Road. Operations began April 2021 on an 11-acre site. Four production lines produce diapers and sanitary pads.
+Tanzania:located in Kibaha, Pwani region . Four production lines manufacture diapers, sanitary napkins, and wet wipes.
+Other, smaller manufacturing facilities are located in Senegal, Benin, Uganda and Cameroon.
+[ProjectOverView.Review_Scope] IFC appraisal included a visit to Softcare assets located in Ghana, Kenya and Zambia in September 2024. Contextual environmental and social risks found in these three countries (such as impacts due to climate change, discrimination in the workforce including matters of gender, matters of safety and security, etc.) were reviewed during appraisal which included interviews with asset managements and EHS personnel of Softcare. IFC also conducted 5 focus group interviews with a sample of direct and third-party workers (totalling 45 individuals) in the three factories. IFC reviewed existing E&S policies; management systems and plans at both corporate and asset level; human resources (HR) management policies and practices (and reviewed those during the aforementioned interviews with workers and workers representatives); also, factory organisation/layout and facilities related to the management of environmental and social matters.
+IFC also reviewed a sample of 49 employment contracts (18 in Ghana, 16 in Kenya and 15 in Zambia) of direct workers; contracts between the Company and labor outsourcing agencies in the three above mentioned countries and 15 terms and conditions (T&C) of employment and payslips of contracted workers. A review of the internal grievance log was also discussed with the HR department who also confirmed that there are no pending court cases against the company. How the company works to prevent Gender Based Violence and Sexual Harassment (GBVH) was also reviewed and was discussed in the worker interviews.
+IFC has a previous investment with Sunda (# 47772) and the E&S action plan for this investment is under implementation including development and implementation of group level E&S management systems
+[DocumentType] Environmental Documents
+[ProjectType] Investment
+[BCS] Broad Community Support is not applicable for this project.

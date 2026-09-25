@@ -1,0 +1,71 @@
+Fact-check re-check of corrected claims, 2026-09-23. Register follow-ups: reword X-003 (re-estimate, not revision) and X-009 (Hand-in-Hand 50,000 t may be programme-area); C-0163 unit.
+
+C-0002: PASS
+
+C-0017: PASS
+
+C-0024: PASS
+
+C-0043: PASS
+
+C-0044: PASS
+
+C-0045: PASS
+
+C-0052: PASS
+
+C-0054: PASS
+
+C-0055: PASS
+
+C-0056: PASS
+
+C-0058: PASS
+
+C-0060: PASS
+
+C-0085: PASS
+
+C-0086: PASS
+
+C-0087: PASS
+
+C-0088: PASS
+
+C-0095: PASS
+
+C-0103: PASS
+
+C-0104: PASS
+
+C-0127: FAIL
+  Reason: Flag X means 'figure from international organizations', not an FAO estimate; wording 'FAOSTAT estimates' misattributes. Correction: 'FAOSTAT reports ... (FAO flag X: figure from an international organization, not official national data)'. Keep basis estimate.
+
+C-0157: PASS
+
+C-0158: PASS
+
+C-0162: FAIL
+  Reason: Second clause (NTP wording) comes from S-002 p. 11, not the cited S-073 quote. Split the NTP wording into its own claim and restrict C-0162 to the FAO deck.
+
+C-0164: FAIL
+  Reason: Statement correct, but unit 'percent of population' asserts the unstated denominator. Unit should be 'percent (denominator not stated)'; same fix for C-0163.
+
+C-0181: PASS
+
+C-0196: PASS
+
+C-0202: PASS
+
+C-0208: PASS
+
+C-0214: PASS
+
+C-0222: PASS
+
+C-0224: PASS
+
+C-0225: FAIL
+  Reason: Source dates the figure to 2025 on p. 12 ('~36K Kenya's estimated GBS workforce (2025)'); period 2024 and the 2024 report attribution are wrong. Correction: period 2025, page 12, statement 'According to the Kenya Investment Authority (2026), Kenya's GBS/BPO workforce was an estimated 36,000 in 2025 (comparator).'
+
+C-0227: PASS

@@ -1,0 +1,3237 @@
+=== PAGE 1 ===
+ 
+ 
+Mapping & Value Chain Analysis of the Fruits and 
+Vegetable Sub-Sectors in Somalia 
+ 
+TECHNICAL REPORT 
+Mogadishu, January 2020 
+ 
+This technical report was conducted by UNIDO Somalia Programme team of experts, within the 
+framework of the “Agro-technology development for Economic Growth in South and Central 
+Somalia” project, implemented by UNIDO and funded by AICS/Italy.
+=== PAGE 2 ===
+ 
+ 
+2 | P a g e 
+ 
+ 
+ 
+ 
+ 
+Acronyms   
+ 
+ 
+1. 
+ODA 
+Overseas Development Assistance 
+2. 
+MSME 
+Micro Small & Medium Enterprises 
+3. 
+GDP 
+Gross Domestic Product 
+4. 
+FAO 
+Food & Agriculture Organization 
+5. 
+IMF 
+International Monetary Fund 
+6. 
+FSAU 
+Food Security Assessment Unit 
+7. 
+IDP 
+Internally Displaced Person 
+8. 
+IUCN 
+International Union for Conservation of Nature 
+9. 
+UNEP 
+United Nations Environment Programme 
+10. 
+MT 
+Metric Tonne 
+11. 
+USAID 
+United States Agency for International Development 
+12. 
+COOPI 
+Cooperazione Internazionale 
+13. 
+CEFA 
+European Committee for Training and Agriculture 
+14. 
+NGO 
+Non Governmental Organization 
+15. 
+OEC 
+Observatory of Economic Complexity 
+16. 
+EU 
+European Union 
+17. 
+FSNAU 
+Food Security & Nutrition Analysis Unit 
+18. 
+SATG 
+Somali Agricultural Technical Group
+=== PAGE 3 ===
+ 
+ 
+3 | P a g e 
+ 
+Contents 
+1. 
+Background .................................................................................................................................... 5 
+1.1 
+Project Background .............................................................................................................. 5 
+1.2 
+Socio-economic profile of Somalia ....................................................................................... 5 
+1.3 
+Scope of the Study ................................................................................................................ 6 
+1.4 
+Methodology/ Approach of the study .................................................................................. 7 
+a. 
+Scoping visit to the field ....................................................................................................... 7 
+b. 
+Secondary Literature Review ................................................................................................ 7 
+c. 
+Study Tools Development ..................................................................................................... 7 
+d. 
+Field research ....................................................................................................................... 7 
+e. 
+Analysis and report writing ................................................................................................... 8 
+1.5 
+Scope & Limitation of the study ........................................................................................... 8 
+2. 
+OVERVIEW OF AGRICULTURE SECTOR IN SOMALIA ....................................................................... 9 
+2.1 
+Introduction .......................................................................................................................... 9 
+2.2 
+Land use pattern ................................................................................................................. 11 
+2.3 
+Production and Cropped area of key crops ........................................................................ 13 
+2.4 
+Market and its channels ..................................................................................................... 13 
+2.5 
+Infrastructure scenario ....................................................................................................... 14 
+2.5.1 
+Irrigation infrastructure ................................................................................................. 14 
+2.5.2 
+Storage infrastructure .................................................................................................... 16 
+3. 
+FRUITS & VEGETABLE SUB-SECTOR IN SOMALIA ......................................................................... 17 
+3.1 
+Production map .................................................................................................................. 17 
+3.2 
+Agricultural Practices .......................................................................................................... 20 
+4.2.1 Pre-harvest .......................................................................................................................... 20 
+4.2.2 Harvesting ........................................................................................................................... 24 
+4.2.3 Post Harvesting ................................................................................................................... 26 
+4.2.4 Issues raised on the existing agriculture scene or need perception ................................... 29 
+3.3 
+Support Services ................................................................................................................. 30 
+3.4 
+Processing or productive activities ..................................................................................... 31 
+3.5 
+Trading Channel & Sales ..................................................................................................... 33 
+3.6 
+Sub-sector map ................................................................................................................... 37 
+ ......................................................................................................................................................... 37 
+4. 
+VALUE CHAIN FRAMEWORK FOR FRUITS & VEGETABLES SUB-SECTOR ....................................... 38 
+5.1 Governance ................................................................................................................................ 43
+=== PAGE 4 ===
+ 
+ 
+4 | P a g e 
+ 
+5.2 Inter-firm cooperation ............................................................................................................... 44 
+5.2.1 
+Horizontal linkages ......................................................................................................... 44 
+5.2.2 
+Vertical linkages ............................................................................................................. 44 
+5.3 
+Structure of labour market ................................................................................................. 44 
+6 
+FINDINGS & KEY ISSUES ............................................................................................................... 45 
+7 
+RECOMMENDATION ON AREAS for SKILL SET UPGRADATION .................................................... 46 
+Bibliography ......................................................................................................................................... 47
+=== PAGE 5 ===
+ 
+ 
+5 | P a g e 
+ 
+1. Background 
+1.1 Project Background 
+The Agro-Tech project which is being implemented by UNIDO is providing assistance in the revival of 
+productive sectors in Central and South Somalia regions by establishing a network of three agro-
+technology and enterprise development units to support Somali businesses in starting, rehabilitating 
+and upgrading agro-industrial operations, particularly by accessing to new technologies, markets, 
+market-based skilled labour and financing facilities.  
+Emphasis in the project implementation will also be provided in supporting the labour force 
+responding to the needs of the market with market based vocational and technical skills trainings to 
+feed the growing needs of the MSMES sector with skilled labour capable of making modern and better 
+tools, and in installing, operating, maintaining and repairing old and modern agriculture and agro-
+industrial equipment.  
+Furthermore, a credit facility to facilitate access to finance to project supported entrepreneurs is to 
+be established and deployed within the framework of the project.  
+Overall, the project will aim at increasing the potential for economic opportunities and job creation in 
+the agro-industrial sector of the Southern and Central regions of Somalia by focusing on four key 
+actions:  
+i. Promoting agro-technology upgrading and entrepreneurship development;  
+ii. Delivering vocational and technical skill trainings to improve productivity of agro-industrial 
+tradesmen and micro-industries  
+iii. Facilitating access to technology, markets and finance; and  
+iv. Providing institutional support in the area of agro-technology transfer, investment 
+promotion, and entrepreneurship development.  
+ 
+In order to design the vocational training curriculum, the modules will be made based on skill gap 
+analysis in three of the intervention sub-sectors- Fruits & Vegetables, Livestock and Fishery. Hence, to 
+have an understanding of these three sub-sectors, a sub-sector mapping and value chain analysis is 
+planned for each of these three sub-sectors and provide recommendation in the areas of the value 
+chains where the skill gap analysis could look at. This project has been funded by the Italian 
+Cooperazione with FGS- Ministry of Commerce & Industry (MoCI) as the line Ministry. 
+1.2  Socio-economic profile of Somalia 
+Facing decades’ civil war, Somalia has gradually stabilized its economy with institutions and systems 
+being built. The country is still fragile with highly dependent on aid and remittances, which is reflected 
+when drought or major economic upheavals occur.  As per the World Bank report the GDP of the country 
+is growing at a steady rate (2 to 3 %) since 2013 with an exception of 2017 when due to a slump, the 
+GDP shrunk. The 2018, nominal GDP for Somalia is 4.72 billion USD with per capita GDP is 332 USD, 
+which is not even 1 USD a day. The GDP estimate in Somalia is calculated using the expenditure method.  
+Item 
+Amount 
+Household final consumption expenditure 
+7,358 
+Government final consumption expenditure 
+531 
+Gross fixed capital formation 
+• 
+Private investment spending 
+• 
+Public investment spending 
+309 
+Net exports of goods and services 
+ 
+-3,478 
+Export: 1,224 
+Import: 4,702 
+All figures in million USD
+=== PAGE 6 ===
+ 
+ 
+6 | P a g e 
+ 
+It can be seen that the substantial contribution to GDP is house-hold consumption and not 
+government expenditure or industrial production. The negative net exports shown above shows that 
+the Imports is almost the same of GDP, which indicates that the economy is highly import driven and 
+is the main source for fuelling the house-hold consumption. 
+An analysis of the import/export figures received from Mogadishu Port Authority (Fig. for year 2019). 
+The tables below provide a snapshot on import items. 
+Food Items 
+Building Mat 
+Other Items 
+• 
+Sugar 
+• 
+Rice 
+• 
+Flour 
+• 
+Pasta 
+• 
+Cooking Oil 
+• 
+Oatmeal 
+• 
+Milk powder 
+• 
+Tomato paste 
+• 
+Cement 
+• 
+Wood/Iron 
+• 
+Iron sheet 
+• 
+Tiles /plates 
+• 
+Painting 
+• 
+Garments 
+• 
+Electronics 
+• 
+Spare-parts 
+• 
+Drugs 
+• 
+Sanitary items 
+ 
+It can be seen from the above table that food import constitutes a significant amount which is further 
+substantiated by FAO-World Bank report that states Somalia faces chronic food crop deficit with own 
+production can only 22% of the per capita needs.  
+ 
+The limited exports that goes from Somalia is highly agriculture oriented with 93% share is from 
+Agriculture of which Livestock (Whole animal) presents 50% of the total. The other agriculture items 
+are Sesame and dry lemon which is exported. Most of the live animal is exported to Saudi Arabia- 
+specially catering to Hajj visitors and during Eid Al-Adha.  
+ 
+While, official remittances from the diaspora are estimated at about $1.4 billion a year, equivalent to 
+about 23 percent of Somalia’s GDP (IMF 2017) and could be the major contributor to house-hold 
+private consumption that is the back-bone of Somalia’s GDP. About 3.4 million people—roughly 40 
+percent of the population—depend on remittances for their daily needs, and about 80 percent of all 
+new business ventures are funded by remittances. The IMF figures for 2017 quotes that Somalia 
+received foreign assistance as ODA is 1.65 billion USD.  
+ 
+Somalia, being import depended country with minimal exports, the balance of payment is highly 
+skewed with trade deficit as mentioned in 2018 as 3478 million USD. This negative balance of payment 
+is normally covered through foreign remittances (almost 25% of GDP) and external grants classified as 
+ODA (Overseas Development Assistance). 
+1.3 Scope of the Study 
+o Mapping of the existing Fruits and Vegetable sub-sector in Somalia. 
+o Analyse various value chains operating within the sub-sector. 
+§ 
+Production system 
+§ 
+Demand and Supply Analysis 
+§ 
+Value addition within the Chains 
+§ 
+Marketing Channels 
+§ 
+Actors/Sub-actors/Stake-holders 
+§ 
+Horizontal and Vertical Linkages/Relationship among the Actors 
+§ 
+Governance 
+§ 
+Inter-firm cooperation 
+47%
+39%
+14%
+Food Items
+Building materials
+Other Items
+=== PAGE 7 ===
+ 
+ 
+7 | P a g e 
+ 
+o Recommendations in selected areas of the operating value chains on the probable 
+areas of skill set building.  
+1.4 Methodology/ Approach of the study 
+The methodology adopted was with twin pronged approach for conducting the studying which 
+includes primary information collection & analysis and secondary data analysis for achieving the 
+overall objectives.   
+The assessment of the fruits and vegetable subsector and its value chains was conducted by UNIDO, 
+using the following steps:   
+• 
+Scoping visit to the field 
+• 
+Secondary literature review  
+• 
+Study tools development 
+• 
+Field research  
+• 
+Analysis and report preparation 
+ 
+Each of these activities is detailed below: 
+a. Scoping visit to the field 
+The first step taken by the research team was to acquaint themselves with the ground realities and 
+understand the broad parameters of the sub-sector operating in the country. The team interacted 
+with various experts, key informants of the sub-sector and prepared a preliminary report, which was 
+shared with the PMU.  
+This scoping visit helped the research team to have a preliminary idea about the various players in the 
+value chain. This was useful in designing the various questionnaires that were used to collect data 
+from field. 
+b. Secondary Literature Review 
+Different secondary literature was collected and reviewed to develop a general idea on the sub-sector 
+and its associated value chains and the study area. Extensive web search was done to locate secondary 
+information that would be useful for analysis. The secondary literature was continuously referred 
+throughout the primary data collection as well as during analysis and report writing period. In addition, 
+inputs from expert opinions from various institutions have been collected and used in the study. 
+A list of prominent articles and documents that were referred to has been provided as part of the 
+annex 
+c. Study Tools Development 
+As a part of the primary data collection, it was decided to have individual survey of the value chain 
+actors.  The individual survey was conducted with fruits & vegetable farmers, traders, processors. 
+Separate sets of questionnaire/ checklist were developed for each actor and used in the field research. 
+d. Field research 
+The field research component was conducted for a period of 30 days. During this period, individual 
+interview with fruits and vegetable producers, individual interviews with traders, individual interviews 
+with key informants including processors of fruits and vegetables were conducted by team consisting 
+of local expert and UNIDO local staff.
+=== PAGE 8 ===
+ 
+ 
+8 | P a g e 
+ 
+The interaction with stakeholders focused upon tapping the knowledge base of the local stakeholders, 
+the status of fruits and vegetable production in the country and also assesses their capacities for 
+involvement in the activity.  
+The interactions and visits were supported by analysis of the secondary data related to fruits and 
+vegetable production and trade, and also helped in forecast and estimation.  
+e. Analysis and report writing 
+All the data collected from individual interviews were then fed into MS Excel sheets from the hard 
+copies of the questionnaire. These data were then used to generate tables, which were analyzed to 
+find the situation and the status of the value chain. These tables are then incorporated into the report, 
+and the combination of the data analyses of primary data and inferences from the secondary literature 
+reviewed coupled with opinion from key informants were the basis for the report. 
+1.5 Scope & Limitation of the study 
+Some of the limitations faced by the study team during its course of work is reported below: 
+• 
+The sample size for primary data has been selected mostly from Banadir and Juba-land, where 
+accessibility of the research team was high.  The input received from these samples along-
+with secondary data has been extrapolated to generalise for the country, which might have 
+overlooked many local conditions prevalent in other regions. 
+• 
+The primary data collection has been through re-call methodology, which has the limitation 
+due to non-documentation of records as well as the fear of mixing of records pertaining to 
+other crops. 
+• 
+Fruits and Vegetable cultivation and trading is a highly un-organized economic activity, hence 
+the authenticity of secondary data used is at times doubtful. 
+• 
+Somalia has come out of civil war only few years back. Many of the research Institutions as 
+well as Government entities for data collection are still in their infancy. Due to this situation, 
+the availability of secondary data was very difficult and limited. Even, whatever secondary 
+data reported, the authenticity is not beyond doubt.
+=== PAGE 9 ===
+ 
+ 
+9 | P a g e 
+ 
+2.  OVERVIEW OF AGRICULTURE SECTOR IN SOMALIA 
+2.1  Introduction 
+The sub-sector mapping and value chain report before analysing and reporting on the fruits and 
+vegetable sub-sector provides an understanding of the whole Agriculture sector to which Fruits and 
+Vegetables are part of and its associate support structures.  
+Primarily when one delves into the Agriculture sector, it needs to be understood that there are various 
+components included in it. As far the classification in terms of Somalia are the following:  
+• 
+Livestock and Livestock production 
+o 
+Meat 
+o 
+Whole animal 
+o 
+Raw milk 
+o 
+Raw hides  
+• 
+Crop production 
+o 
+Staple food crop 
+o 
+Fruits 
+o 
+Vegetables 
+o 
+Forestry 
+o 
+Others 
+• 
+Fishery (But negligible in Somalia) 
+ 
+Roughly speaking, the share of the components in the GDP of the country is reflected below: 
+Figure 1: Composition of Agriculture sub-components 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I , FAO and World Bank  
+ 
+ 
+ 
+ 
+83%
+17%
+Internal Composition of the share to the GDP  
+Livestock and Livestock
+products
+Crop production
+=== PAGE 10 ===
+ 
+ 
+10 | P a g e 
+ 
+Figure 2: Gross production value of livestock & crops in Somalia-2013-16 ( Million US$) 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I , FAO and World Bank  
+Agricultural exports are prominent component in the overall country’s total export and is valued to 
+be $634 million, which is more than five times the value before the civil war, thanks to livestock 
+exports, which rose by a factor of almost 10 since the late 1980s. 
+Figure 3: Top export items in the Agriculture sector for the year 2015 ( In million US$) 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I, FAO and World Bank  
+Similarly, Agricultural imports have also risen and have reached almost $1.5 billion in 2015. A break-
+up on the different categories of agro- imports for the year 2015 is presented below:  
+ 
+ 
+ 
+Livestock
+Staple food crops
+Fruits
+Vegetables
+Forestry
+3756
+136
+175
+46
+86
+L I V E A N I M A L S
+O I L S E E D S
+H I D E S & S K I N S
+C R U D E A N I M A L S A N D …
+V E G E T A B L E S A N D F R U I T S
+M E A T A N D M E A T …
+F I S H
+494
+34.3
+3.8
+20.7
+4.9
+9.6
+27.8
+=== PAGE 11 ===
+ 
+ 
+11 | P a g e 
+ 
+ 
+Figure 4: Top import items in the Agriculture sector for the year 2015 ( In million US$) 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I, FAO and World Bank  
+Only 5% of the total land area Somalia (3 million hectare) is cultivable, out of which only 0.7 million ha 
+is irrigated. With growing population, increased internal displacement has led to chronic food crop 
+deficit. According to FAO and World Bank group report, local crop production meets only 22 % of the 
+total requirement, which may go up to 40-50 percent of per capita cereal needs in best of the 
+Agricultural seasons.  
+2.2 Land use pattern 
+The map below provides a snapshot of the land use pattern of Somalia: 
+Figure 5: Land use pattern of Somalia 
+ 
+Vegetables and fruit
+Cereals and cereal…
+Sugar, sugar…
+Live animals chiefly…
+Miscel. edible…
+Dairy products (all)
+Fixed vegetable oils…
+552.1
+313.9
+187.7
+147.7
+51.6
+82
+76.8
+=== PAGE 12 ===
+ 
+ 
+12 | P a g e 
+ 
+Source: Journal of Agricultural Informatics (ISSN 2061-862X) 2018 Vol. 9, No. 3:18-35 
+According to research article on Journal of Agricultural Informatics written by Mark K. Boitt , Flomena 
+C. Langat , John K. Kapoi - Somalia's total land area is 637,540 km2 , of which 30% is classified as 
+desert land unsuitable for agricultural production, 45% is covered by rangelands suitable for livestock 
+grazing, 14% is covered by forest or woodland, and the remaining 11% is classified as arable land.  
+Most crop production is undertaken in the Southern regions by small-scale subsistence farmers with 
+an average of 0.2–3.0 hectares of land. According to the FAO, the smallholder farming subsector 
+accounts for 80 percent of total crop output and 70 percent of marketed agricultural produce. The 
+cropping zones in the country is presented below: 
+ 
+Figure 6: Crop zones of Somalia 
+ 
+Source: Food Security Assessment Unit (FSAU)-Somalia 
+The map clearly reflects that most of the cropping zones are in the south of the country, which forms 
+the region through which the rivers of Juba and Shabelle passes through.  
+There are four primary agricultural zones in Somalia: 
+• 
+Northwest in parts of Awdal and  W. Galbeed – rain-fed maize and sorghum. 
+• 
+Coastal Cowpea Belt Zone in Central and Southern Somalia.
+=== PAGE 13 ===
+ 
+ 
+13 | P a g e 
+ 
+• 
+Shabelle and Juba Riverine Valleys – rain-fed and irrigated maize, with sesame cash 
+crops. 
+• 
+Sorghum Belt in Bay and Bakool Region – rain-fed sorghum with livestock production. 
+2.3 Production and Cropped area of key crops 
+The study using secondary data source has compiled the production data of the major cereal 
+crops, oilseeds, vegetables and fruits.  
+Table 1: Agricultural crops production figure 2018 
+Name of the crop 
+Production Volume 
+(MT) 
+Cropped Area ( ha) 
+Yield                
+( hectogram/ha) 
+Maize 
+138716 
+92920 
+14929 
+Sesame seed 
+25788 
+46489 
+5547 
+Sorghum 
+129523 
+234403 
+5526 
+Sugar cane 
+209291 
+5537 
+378005 
+Bananas 
+1226 
+20905 
+170478 
+Beans, dry 
+26855 
+87892 
+3055 
+Cassava 
+92875 
+9695 
+95794 
+Coconuts 
+11074 
+3962 
+27951 
+Dates 
+13785 
+2666 
+51715 
+Fruit, fresh  
+143063 
+12975 
+110258 
+Grapefruit (incl. 
+pomelos) 
+5442 
+1105 
+49255 
+Lemons and limes 
+7960 
+1312 
+60682 
+Tomatoes 
+23962 
+16276 
+14722 
+Vegetables, fresh  
+75382 
+6994 
+107775 
+Watermelons 
+6105 
+633 
+96367 
+Source: FAOSTAT 
+2.4 Market and its channels 
+The main market actors in the agriculture trading in Somalia consists of importers, 
+wholesalers, local trader’s shopkeepers and open-air retailers. As mentioned earlier in the 
+report, the majority of the cereal crops is imported, where the major players are the importers 
+who brings it in mostly through Mogadishu, Berbera and Bosaso ports. The imported items 
+are then stored in mostly agro-warehouses owned by private players. The wholesalers procure 
+from these importers and takes it forward for sales. Some of these importers are also engaged 
+in wholesale and retail activities to increase the turnover. These importers are also contacted 
+by humanitarian agencies like WFP for direct transfer of food grains to beneficiaries.  
+There are three types of transactional arrangements: Importers imports and sells their own 
+network of wholesalers and retailers or sell to selected wholesalers in Somalia based on prior 
+arrangements or sell directly to traders/retailers. As for the wholesalers, some of them handle 
+imported food items procured from importers and sell to retailers and others are those 
+dealing locally-produced food items procured from local traders/farmers.  
+Retailers/Shopkeepers engaged in the retail sales. They operate from fixed locations (either 
+permanent or temporary) in specific main or satellite markets. They procure their supplies 
+from wholesalers operating in the same markets or pool resources to buy supplies (sugar and 
+rice) from importers at the port.
+=== PAGE 14 ===
+ 
+ 
+14 | P a g e 
+ 
+ 
+There is another category of market player -  Open air retailers, predominantly women, who 
+trade in open spaces or under temporary structures. They move from one area to the other 
+within the same district. Many of them are IDPs. During harvest period, they procure from 
+farmers while in lean season, they procure from wholesalers/ local traders.  
+ 
+Transfer of commodities between market players primarily takes place in two places, the 
+ware-houses in the ports from wholesalers buys from importers and secondly in designated 
+regional markets, where wholesalers display their items to be purchase by local traders/ 
+retailers.  
+Table 2: List of regional markets in Somalia 
+Regions 
+Markets 
+Regions 
+Markets 
+Bay  
+Baidoa  
+ 
+Lower Shabelle  
+ 
+Merca  
+Diinsor  
+Qorioley  
+Qansax-dheere  
+Afgooye  
+Bakool  
+Xudur  
+Wanle-Wayne  
+ElBarde  
+Middle Shabelle  
+ 
+Adan-Yabal 
+Hiraan  
+Belet-Weyne  
+Jowhar  
+Gedo  
+ 
+Bardera  
+Middle Juba  
+ 
+Buaale  
+Doolow  
+Jilib  
+Belet-Xaawa  
+ 
+Afmadow  
+El Wak 
+Lower Juba  
+Jamame  
+Luuq  
+Kismayo  
+Banadir  
+Mogadishu  
+Bari 
+Bossaso 
+Awdal 
+Zeltac 
+Wog. Galbeed 
+Hargeisa 
+Borama 
+Nugal 
+Garowe 
+ 
+2.5 Infrastructure scenario 
+2.5.1 
+Irrigation infrastructure 
+Roughly, 25% of the crop production is through irrigation while rest 75% is through rain-fed 
+farming. It is prevalent across the country with exception in the coastal sandy plains and high 
+limestone areas. The rain-fed farming is done in two rainy seasons, gu, or main rainy season, 
+lasts from April to June; the second rainy season, called the dayr, extends from October to 
+December. The coastal region in the south around Mogadishu and Kismaayo has an additional 
+rainy season, the Xagaaye (July to August), in which isolated rain showers occur. The areas of 
+the Juba and Shabelle basins are 218 114 km2 (to Jamaame, excluding Shabelle basin) and 296 
+972 km2 (to the Juba confluence).  The major rain fed crops grown in Somalia are Sorghum, 
+Cow pea and some limited maize.  
+Irrigated agriculture is practiced in the floodplains along the permanent rivers in south 
+Somalia (the Juba and the Shabelle) and along the seasonal streams and springs. In northern 
+Somalia, water is available within pockets of deep soil for irrigated orchards, or from shallow 
+wells and springs, which are the major sources of water for crop irrigation, with water pumped 
+to the fields. Irrigated farming systems are based mainly on small and medium-scale gravity and 
+pump irrigation. Irrigated crops grown on a small scale include maize, sesame, fruit trees and 
+vegetables, while crops such as bananas, guava, lemon, mango and papaya are grown on a 
+large-scale for domestic consumption.
+=== PAGE 15 ===
+ 
+ 
+15 | P a g e 
+ 
+ 
+ 
+Figure 7: Irrigation schemes & infrastructure along Juba river 
+ 
+Figure 8: Irrigation schemes & infrastructure along Shebelle river 
+ 
+Oasis Farming is practiced in Somaliland and Puntland and traditionally occurs in toggas and 
+springs which provide water for the production of date palms, papaya, citrus and vegetables.
+=== PAGE 16 ===
+ 
+ 
+16 | P a g e 
+ 
+ 
+2.5.2 
+Storage infrastructure 
+ 
+Agricultural production in Somalia suffers greatly from post-harvest and storage grain losses. 
+Almost 20-30% of the total harvest is lost due to storage losses which translates to the order 
+of 50,000 to 80,000 tonnes per year. This loss is mainly due to the post harvesting practices 
+followed by farmers in Somalia.  A survey conducted by SATG in the Bay region reveals that 
+grain losses associated with the traditional storage systems (underground pits) are 
+significantly higher than those associated with post-harvest techniques (harvesting, 
+transportation, and drying), at an estimated 40% and 20% respectively. In order to reduce 
+storage losses, SATG is promoting the design of a locally popular metal water-storage tank to 
+create a metal grain silo which can easily be manufactured within the target communities.  
+As for the ware-housing facilities for the traders and importers, most of the facilities are 
+owned by private operators or humanitarian agencies. A snapshot of all the ware-housing 
+facilities available in Somalia is presented below:  
+Table 3: Mapping of the ware-housing facilities in Somalia 
+Type 
+Nos. 
+Capacity 
+Location 
+Govt. owned/ Agency owned 
+3 
+15000 MT each 
+Mogadishu Port 
+Commercial- Private owned 
+4 
+NA 
+Mogadishu 
+Humanitarian- Agency owned 
+NA 
+8640 sq. m.  
+Galkayo 
+Humanitarian- Agency owned 
+NA 
+4800 sq. m. 
+Dolow 
+Humanitarian- Agency owned 
+NA 
+400 sq. m. 
+El Wak 
+Humanitarian- Agency owned 
+NA 
+400 sq. m. 
+Dobley 
+Humanitarian- Agency owned 
+NA 
+800 sq. m. 
+Kisimayo 
+Humanitarian- Agency owned 
+2 
+300 sq. m. & 75 sq. 
+m. 
+Baidoa 
+Humanitarian- Agency owned 
+2 
+150 sq. m. each 
+Jowhar 
+Humanitarian- Agency owned 
+NA 
+31000 MT 
+Hargeisa 
+and 
+Berbera 
+Humanitarian- Agency owned 
+NA 
+5000 MT 
+Hargeisa 
+Humanitarian- Agency owned 
+NA 
+680 MT 
+Hargeisa 
+Commercial- Private owned 
+2 
+12000 MT 
+Hargeisa 
+Commercial- Private owned 
+NA 
+99988 MT 
+Hargeisa 
+Commercial- Private owned 
+4 
+51000 MT 
+Hargeisa 
+Commercial- Private owned 
+NA 
+149000 MT 
+Hargeisa 
+Source: Somalia NGO Consortium
+=== PAGE 17 ===
+ 
+ 
+17 | P a g e 
+ 
+3. FRUITS & VEGETABLE SUB-SECTOR IN SOMALIA 
+ 
+As discussed earlier, the fruits and vegetables sub-sectors contribution to farming activities is 
+significant and needs an analysis and understanding to intervene so that its contribution can 
+further grow and become economically a significant component in the GDP of the country.  
+ 
+3.1 Production map 
+A mapping of the various fruits and vegetables grown in the country and the respective regions 
+were made based on review of secondary data and inputs received after series discussions made 
+with various agricultural experts in the country.  
+ 
+Table 4: Map of the geographical areas of various fruits and vegetables 
+Name of the Fruits 
+& Vegetables, and 
+Oil-seeds 
+Approx. 
+nos. of 
+growers in 
+the 
+country1 
+Prominent geographical areas where these 
+are grown 
+Dates  
+2000 
+Lower and Middle Shabelle as well as Juba regions 
+Water melon 
+200,000 
+Juba region, Shabelle, Bay and Bakol, Galgadud, 
+Puntland and Somaliland  
+Beans (nut) 
+10,000 
+Middle Shabelle, Lower, Galgadud, Puntland, 
+Somaliland, and Juba and Bay and Bakol 
+Coconut (Can be fruit, 
+nut and seed) 
+20,000 
+Middle Shabelle, Lower, Galgadud, Puntland, 
+Somaliland, and Juba and Bay and Bakol 
+Pepper 
+2000 
+The shabelles and Juba regions  
+Peanut (nuts) 
+100,000 
+Lower shabelle, middle and some part of Juba 
+region and the oasis of part of Puntland 
+Lemon 
+325000 
+The lower and middle Shabelles, Juba region, Part 
+of Somaliland, Puntland, Bay and Bakol, Galgadud 
+Tomatoes 
+200,000 
+The lower and middle Shabelles, Juba region, Part 
+of Somaliland, Puntland, Bay and Bakol, Galgadud 
+Mango 
+200,000 
+Lower shabelle and Middle shabelle and Part of 
+Ged region in Jubaland state 
+Pineapple 
+200,000 
+Middle shabelle, Lower  shabelle and Part of Juba 
+region   
+Orange 
+6000 
+Lower shabelle, middle and some part of Juba 
+region  
+Papaya 
+10,000 
+Middle shabelle, Lower  shabelle and Part of Juba 
+region  
+Banana  
+200,000 
+Majorly from the lower and middle Shabelles and 
+Juba Regions  
+Peas (legume 
+vegetables) 
+5000 
+Lower shabelle , Middle and part of Juba and the 
+oasis area of Puntland 
+Carrots 
+10,000 
+The lower and middle shabelles and part of 
+Jubaland's regions  
+ 
+1 Numbers have been estimated after reviewing various secondary reports and also on discussion 
+with Somalian agricultural experts.
+=== PAGE 18 ===
+ 
+ 
+18 | P a g e 
+ 
+Name of the Fruits 
+& Vegetables, and 
+Oil-seeds 
+Approx. 
+nos. of 
+growers in 
+the 
+country1 
+Prominent geographical areas where these 
+are grown 
+Pumpkin 
+100,000 
+The lower and middle shabelles and part of 
+Jubaland's regions  
+Spinach  
+80,000 
+Middle shabelle, lower shabelle, lower juba, Gedo 
+part of Bay and Bakol and Somaliland  
+Sesame  
+200,000 
+The lower and middle Shabelles, Juba region, Part 
+of Somaliland, Puntland, Bay and Bakol, Galgadud 
+Onion 
+5000 
+Middle shabelle, Lower shabelle, somaliland, Part 
+of Puntland, Gagaduud, Bay and Bakol and Juba 
+regions of Jubaland 
+ 
+Characteristics of the prominent fruits and vegetables grown in Somalia are reported here to 
+have an understanding of the type and varieties grown.  
+Table 5: Characteristics of some fruits and vegetables in Somalia 
+Name of the fruit & vegetable 
+Characteristics 
+Grape-fruit 
+The grape fruit tree, grows best on well drained soils.  
+Rainfall should amount to at least 1200mm / year, and dry 
+periods should not exceed 2 months, otherwise additional 
+irrigation becomes necessary, as is the case in Somalia. 
+At the age of 6 years a grapefruit tree starts to bear fruits .The 
+most productive period is reached at the age of 10 years and lasts 
+for another 15 years. 
+There are two harvest seasons, the first around April to June and 
+the second around December to January. 
+There exist 7 varieties in Somalia, six of them with white or pink 
+coloured flesh and 1. The most prominent ones are: Shamba, 
+Thompson and Red-plush 
+ 
+Lime 
+The commercial cultivation of lime trees started in Somalia in the 
+mid- 1960s in the Afgoy area. 
+Even though there are two peak seasons (June and December), 
+lime trees yield more or less all the year round. 
+The content of one sack of lime is around 1,800 pieces of lime and 
+the average yield is around 2 sacks of 50 kg / plant / year. 
+ 
+Papaya 
+There exist two main varieties: the traditional tall trees, which 
+had been introduced by the Italians and a dwarf variety which 
+was introduced more recently, and which has gained ground to 
+its convenient way of harvesting. 
+The tree starts bearing fruits after 6 to 7 months (and 8 to 9 
+months for the tall variety) and will continue fruiting for about 
+three years. 
+In one year a Papaya tree produces around 2 boxes and the 
+number of trees per hectare, is around 800. 
+ 
+Bananas 
+Originally the Jubba variety had prevailed by far, but it has been 
+gradually replaced by the Poyo variety.
+=== PAGE 19 ===
+ 
+ 
+19 | P a g e 
+ 
+Name of the fruit & vegetable 
+Characteristics 
+The average yield amounts to 300 qtls / ha / year. 
+ 
+Mango 
+The mango tree is a typical representative of the tropics. At 
+temperatures below 19 degrees Celsius, growth and productivity 
+decreases significantly. 
+The minimum amount of rainfall has to be at least 1,000 mm per 
+year; otherwise artificial irrigation becomes necessary. 
+In Somalia where two rainy seasons occur: Gu (April – May) and 
+Deyr (October – December) the tree bears fruits even twice a 
+year. 
+In Somalia alone, more than 10 varieties are cultivated. The most 
+common ones are: Borbo, Dodo, Shushunle. At present the most 
+popular variety is “Borbo”, followed by “Dodo”.  
+On average a fully productive tree “Borbo” type yields about 
+1,000 fruits per year, while the “Dodo” variety produces 1,200 
+fruits per year. 
+ 
+Watermelon 
+The watermelon is a dry season crop in Shabelle regions. They are 
+largely grown either in rain-fed or under residual soil moisture of 
+the flooded land and to a lesser extent under regular irrigation. 
+Charleton Grey, Crimson Sweet, Sugar Baby are the most 
+common varieties grown in Somalia. 
+About 1 kg of seed is sufficient for one hectare of land area. 
+December to January is the most suitable period of watermelon 
+sowing 
+Harvesting starts 90 to 95 days after emergence. Around 10 to 12 
+tons/ Ha are harvested depending on crop management, 
+cultivator and environmental factors. 
+ 
+Carrot 
+The crop is grown under irrigation at Afgoy and Marka districts. 
+Different varieties in Somalia are Chentenay, Nantes coreless, 
+Nantes 
+The first week of May and all of July are regarded favourable 
+periods for planting. Sowing can be extended beyond July up to 
+October. 
+Harvesting starts 80 days after emergence. It continues for up to 
+one month depending on market demand. Carrots yield 
+approximately  25 tons/ Ha 
+ 
+Tomatoes 
+Tomatoes are grown under irrigation; rain fed and water 
+recession of the flooded land at the Shabelle and Juba regions. 
+Local Cherry, Shalamboot, Roma VF, San Marzano are the main 
+varieties grown.  
+The first week of March, marks the beginning of tomato seeding. 
+Seedlings are transplanted 30 days after emergence. April and 
+May are favourable periods for transplanting irrigated tomatoes.  
+Harvesting starts 60 to 70 days after transplanting and continues 
+up to two months with successive yield reductions. Yield of 
+tomatoes varies from 0.5 to 9.0 tons / Ha depending on the crop 
+management, varieties and environmental factors. 
+ 
+Peppers 
+Peppers are normally grown under irrigation and are readily 
+available at any time of the year at local markets. They are 
+classified as “sweet” and “hot”.
+=== PAGE 20 ===
+ 
+ 
+20 | P a g e 
+ 
+Name of the fruit & vegetable 
+Characteristics 
+California Yellow Wander, Cayenne Long Slim are two common 
+varieties grown.  
+At early stages of crop establishment, weeding needs to be 
+carried at intervals of 4 to 5 days till the crop attains its firm 
+establishment. Harvesting starts 60 days after transplanting and 
+continues up to one year. 
+Source and Text: FEWSNET Horticultural study in Lower and Middle Shabelle.  
+3.2 Agricultural Practices  
+The report tries to understand the existing agricultural practices of the farmers involved in fruits and 
+vegetable cultivation in Somalia. It is classified into three categories – Pre-harvest, harvest and post- 
+harvest.  
+4.2.1 Pre-harvest 
+• 
+Cropping pattern 
+Figure 9: Cropping pattern followed by farmers 
+ 
+It can be seen that amongst the farmers interviewed that preference for growing fruits is high with 
+Bananas, Papayas, Water-melon and Mangoes being the most preferred. Though not reported in the 
+study, most of the respondents (50%) grows cereal crops like Maize and Sorghum. As seen in the figure 
+above, though there is no preferred vegetable amongst the respondents but almost of them grows 
+one or the other vegetables. Though it cannot be confirmed, maybe the preference for selected fruits 
+could be due to assured market or higher margin. Maybe, the vegetables are locally sold with lower 
+margins, the resource constraints of water may push for higher margin crops.  
+The average area of land utilized by the farmers for cultivation is represented below: 
+ 
+ 
+ 
+Mangoes
+Sesame
+Tomatoes
+Banana
+Lime fruit
+Spinach beet
+Watermelon
+Lettuce
+Carrot
+Pumpkin
+Papaya
+Cabbage
+Grape-fruit
+Garlic
+Pepper
+Onion
+33%
+22%
+11%
+44%
+11%
+11%
+33%
+11%
+11%
+11%
+33%
+11%
+11%
+11%
+11%
+11%
+=== PAGE 21 ===
+ 
+ 
+21 | P a g e 
+ 
+ 
+Figure 10: Area under cultivation 
+ 
+The figure below presents the seasonal pattern of vegetables grown as per the respondents.  
+ 
+Figure 11: Seasonal cropping pattern of vegetables 
+ 
+ 
+ 
+ 
+Minimum
+Median
+Maximum
+1.5
+4.25
+6
+1.5
+0.75
+5
+4
+5.25
+7.5
+Area under cultivation per farmer for fruits and vegetable (Ha)
+Area under cereal crops per farmer (Ha)
+Total land area under cultivation per farmer (Ha)
+•Xagaa ( Jul 
+to Sep)
+•Dayr ( Oct 
+to Dec)
+• Gu
+( April to 
+June)
+•Jilal ( Dec 
+to March)
+--
+Potatoes
+Sesame
+Pepper
+Onion
+Tomatoes
+Lettuce
+Carrot
+Pumpkin
+Garlic
+Potatoes
+Spinach
+Cabbage
+=== PAGE 22 ===
+ 
+ 
+22 | P a g e 
+ 
+• 
+Source of Irrigation 
+All the respondents have mentioned that primarily the “Canals” are the source of irrigation. It could 
+be that the respondents are all from the South Somalia in the river basins of Juba and Shabelle.  
+Figure 12: Tools and Equipment usage for irrigation 
+ 
+It can be seen that most of the farmers are using pump-sets to spread the water availability for the 
+crops. Use of modern technologies like drip irrigation and in one or two cases of sprinklers indicates 
+the progressive farming practices.  
+• 
+Volume of Production 
+ 
+Fruits/Vegetables 
+Average land 
+area under 
+cultivation      
+( ha) 
+Average 
+production 
+(kg) 
+Maximum 
+production 
+(kg) 
+Minimum 
+production 
+(kg) 
+Price per 
+kg 
+(US$/kg) 
+Average 
+income ( 
+US$) 
+Mangoes 
+1.67  
+1500 
+1800 
+1200 
+1.5 
+2250 
+Sesame 
+2.5 
+2350 
+2700 
+2000 
+2 
+4700 
+Banana 
+1.125 
+1300 
+1500 
+1200 
+0.5 
+650 
+Lime 
+1 
+900 
+1000 
+800 
+0.6 
+540 
+Water-melon 
+1 
+1000 
+1500 
+800 
+1 
+1000 
+Papaya 
+1.67 
+1550 
+1200 
+1900 
+1 
+1500 
+Grape-fruit 
+1.5 
+1100 
+1200 
+1000 
+0.5 
+550 
+Tomatoes 
+1 
+1000 
+1000 
+1000 
+1 
+1000 
+Carrot 
+1 
+800 
+800 
+800 
+1.5 
+1200 
+Pumpkin 
+0.5 
+1000 
+1000 
+1000 
+1 
+1000 
+ 
+ 
+\ 
+• 
+Management practices  
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+PUMP-SETS
+SPRINKLERS
+DRIP IRRIGATION
+=== PAGE 23 ===
+ 
+ 
+23 | P a g e 
+ 
+An overview of the existing agricultural management practices followed by the respondent farmers 
+was analysed. The findings are reported below: 
+Figure 13: Management Practices - Part 1 
+ 
+ 
+ 
+ 
+ 
+ 
+Rented Tractor
+Ploughing with
+animals
+90%
+10%
+METHODOLOGY FOR TILLING
+0%
+20%
+40%
+60%
+80%
+100%
+Yes
+No
+Usage of soil testing
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Yes
+No
+Use of quality certified seed
+Yes
+No
+0%
+100%
+USE OF HYBRID SEED 
+0%
+20%
+40%
+60%
+80%
+100%
+YES
+NO
+Use of Fertilizers/Pesticides
+0%
+20%
+40%
+60%
+80%
+100%
+Yes
+No
+Use of Spraying machine
+=== PAGE 24 ===
+ 
+ 
+24 | P a g e 
+ 
+Figure 14: Management Practices -Part II 
+ 
+Analysing the above two figures provides a fair perspective of the type of agriculture that is being 
+pursued by the farmers interviewed. It is clear that farming practices are not obsolete and traditional. 
+Farmers are using modern technology like tractors, spraying machines, best practices of using 
+fertilisers/ pesticides, certified seeds etc. This indicates that productivity of the crops are important 
+factors for a farmer and cultivation of fruits & vegetables are taken as commercial ventures.  
+Nevertheless, there is still scope of modernization for sustainable agriculture and increased 
+production in view of very poor response towards soil testing for providing adequate and right mixture 
+of fertilizers as well as knowledge on increased production using hybrid seeds.  
+4.2.2 Harvesting 
+A rough estimation is made on the probable months of harvesting of fruits and vegetables so that an 
+assessment can be made on the period in which the farmers have cash flow for the sale proceeds:  
+ 
+ 
+Figure 15: Plucking and harvesting methods 
+Local shop
+Min. of Agriculture
+NGOs
+67%
+33%
+44%
+SOURCE OF SEEDS/ PLANTING MATERIALS
+• ( Jul to 
+Sep)
+• ( Oct to 
+Dec)
+• ( April to 
+June)
+• ( Jan to 
+March)
+Tomatoes
+Carrot
+Garlic
+Sesame
+Lime
+Banana
+Water-
+melon
+Mangoes
+Papaya
+Grape-
+fruit
+=== PAGE 25 ===
+ 
+ 
+25 | P a g e 
+ 
+ 
+ 
+ 
+Manually
+Hand-tools
+Mechanized Reaper
+Mechanized
+Harvestor
+67%
+67%
+0%
+0%
+PLUCKING/HARVESTING METHODS
+=== PAGE 26 ===
+ 
+ 
+26 | P a g e 
+ 
+Figure 16: Weeding method 
+ 
+From the above two figures, it is apparent that most of the harvesting activities are still very manual 
+or at the most use of hand tools. The reason that can be attributed is the scale of farming, as seen 
+from the areas of cultivation, the farmers are mostly small land-holding. Investment to mechanization 
+or increased investments will not provide the marginal utility through the increased production and 
+sales.  
+4.2.3 Post Harvesting 
+• 
+ Post-harvest management (Cleaning, sorting, grading, packaging etc.) 
+Figure 17: Prevalence of grading amongst the farmers 
+ 
+ 
+ 
+From the data represented in the above figures, it can be inferred that the concept of grading of the 
+produce is not new for the farmers as well as traders. Maybe, those fruits and vegetables going to the 
+local market where size, shape, colour etc. is not very price sensitive, grading concept is not enforced. 
+Manually
+Hand-tools
+Chemicals
+67%
+56%
+11%
+WEEDING METHOD
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Yes
+No
+Whether grading of harvested 
+produce done 
+0
+1
+2
+3
+4
+5
+6
+Yes
+No
+Not Always
+Does your buyer insists on graded 
+produce
+=== PAGE 27 ===
+ 
+ 
+27 | P a g e 
+ 
+While, produce for export market or sold through retailers in price sensitive markets may see the 
+adherence to quality norms.  
+Figure 18: : Prevalence of sorting amongst the farmers 
+ 
+ 
+ 
+Analysing the above figures, it is apparent that though grading of the produce may not be wide-spread 
+but the sorting activity of fruits and vegetables is a common norm for the farmers. It can be inferred 
+here that knowledge of graded produce may be limited but basic differentiator for the produce is 
+present amongst the market forces, which leads to sorting the produce into defined categories. 
+Though sorting is done by almost all producers but it is still highly labour intensive with minimal 
+mechanization.  
+Figure 19: Prevalence of Cleaning practices of produce 
+ 
+ 
+As seen from the above figures, the cleaning practices after harvesting and before selling is prevalent 
+with the method of Dry (wiping, dusting etc.) being the most popular practice.  
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Yes
+No
+Whether the produces are 
+sorted
+Manual
+Tools
+Machine
+89%
+44%
+11%
+HOW IS SORTING OF PRODUCE DONE
+Yes
+No
+78%
+22%
+WHETHER THE PRODUCE IS CLEANED 
+BEFORE SALE
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Dry method (
+Dusting/
+Wiping etc.)
+Wet method (
+Wash in water
+or chemicals)
+How is the produce cleaned
+=== PAGE 28 ===
+ 
+ 
+28 | P a g e 
+ 
+In order to understand the packaging materials used to transport the fruits and vegetables, the 
+respondents were interviewed on their preferences. The figure below provides an insight on the 
+packaging methods employed by the farmers.  
+Figure 20: Packaging methods for fruits and vegetables used 
+ 
+ 
+ 
+From the above data, it can be inferred that the packaging of fruits and vegetables are a mix of 
+rudimentary and progressive. The type of packaging and material used are probably depends on the 
+ultimate customer. Fruits and, vegetables which are soft such as tomatoes needs to be transported in 
+wooden crates which seems to be practiced while use of plastic bags which are detrimental for 
+vegetables since it is airtight and with temperature it is very harmful for the shelf life of the vegetables 
+is also common. Hence, it is clear that farmers practice packing methodology based on end use as well 
+as the increased marginal utility from use of better packaging materials.  
+• 
+Storage 
+Fruits & Vegetable are crops which require special attention in harvesting and the time of sale since 
+the shelf life is generally very short. The fruits & vegetables when they are at the right stage for 
+plucking/harvesting, the farmer cannot delay it since it may ripen or similarly cannot be harvested 
+earlier since it will be still under-developed for consumption or in other words the produce is unfit or 
+unsuitable for market if harvested early or late unless the appropriate variety of this kind has been 
+sown. Another issue that comes up while harvesting is that all the produces are not ready at the same 
+time for harvesting and it is a period within which it needs to be harvested even though they have 
+been planted at the same time. This causes small and marginal farmer to have small volume to trade, 
+0%
+50%
+100%
+Yes
+No
+Do you pack the produce before 
+transporting
+Manual
+Machine
+100%
+0%
+HOW DO YOU PACK THE PRODUCE
+0%
+50%
+100%
+Nets & Rachel
+bags
+Paper & Mesh
+bags
+Wooden crates
+Polythene bags
+Material used in packing
+=== PAGE 29 ===
+ 
+ 
+29 | P a g e 
+ 
+and hence it becomes costlier to carry it to a distant market for a better price.  In this situation, the 
+farmers practice some form of storage to have a larger tradeable volume or till transportation is 
+available.  
+Figure 21: Prevalence of Storage practices 
+ 
+ 
+ 
+The above figures indicate that storage after harvesting is widely practiced and the most common 
+method is the traditional under-ground pits. This is an area to intervene since major reason for harvest 
+loss is due to use of traditional pits.  
+ 
+4.2.4 Issues raised on the existing agriculture scene or need perception  
+ 
+The need and issue perception of the farmers were evaluated which infers interesting results. It is very 
+clear that cultivation of fruits and vegetables has a ready market with only 30% of the respondents 
+saying the contrary. But interestingly, the prices/income from the production is not satisfactory with 
+all the respondents quoting that there are numerous instances when they are not getting the best 
+90%
+10%
+Do you store the produce after 
+harvesting
+Yes
+No
+Metal Silo
+Under-ground
+pit
+Ware-house
+11%
+67%
+33%
+WHERE DO YOU STORE THE PRODUCE
+Strong demand for their…
+Lack of buyers in the market
+Do not always get the best…
+Distress sale due to…
+Lack & Poor Storage facility
+Need for collective action (…
+Training needs for farmers
+Weak governance structure
+Strong pest infestation and…
+Poor transportation facility
+60%
+30%
+100%
+70%
+100%
+80%
+40%
+20%
+10%
+20%
+=== PAGE 30 ===
+ 
+ 
+30 | P a g e 
+ 
+price. 70% of the respondents has quoted that they had to resort to distress sale due to perishability 
+nature of the produce, which in-fact validates that lack of and poor storage facility is the cause for this 
+distress sale.  
+3.3 Support Services 
+Somalia has seen many humanitarian organization playing significant role after the end of the civil war 
+to support the evolving government structures, initially in matters of food security but gradually 
+rebuilding the economy. Many such NGOs and Donor agencies have worked in Somalia to strengthen 
+the Agriculture sector and some of the agencies are listed below identified through secondary 
+research.  
+Table 6: List of support agencies in Somalia in the sector of Agriculture 
+Name of the 
+Institution 
+Type of Institutions ( 
+Govt./Pvt) 
+Type of Services provided 
+Sustainable 
+Development and 
+Peace Building 
+Initiatives (SYPD) 
+National NGO 
+Provision of Agricultural Inputs e.g seeds, vegetable 
+and fruits  
+Somali Stability Fund 
+(SSF) 
+International NGO 
+Provision of agricultural inputs in partnership with 
+SYPD 
+Food and Agriculture 
+Organization (FAO) 
+UN 
+• 
+Support 
+agricultural 
+activities 
+through 
+Sustainable and Peace Building Initiatives 
+(SYPD).  
+• 
+Support seed distribution in partnership with 
+SYPD. 
+Danish 
+Refugee 
+Council (DRC) 
+International NGO 
+Provision of Agricultural inputs in order to build the 
+capacity of local farmers both rural and semi-rural 
+village 
+Norwegian 
+Refugee 
+Council (NRC) 
+International NGO 
+Support cultivators on Agriculture  in rural and semi-
+rural villages in Hirshabelle, Southwest, Jubaland 
+state   
+Save the Children (SCI) 
+International NGO 
+Support Agriculture activities  
+Mercy Corps 
+International NGO 
+Support capacity building for Somalia local farmers 
+on Good and Agricultural Practice  
+Somali 
+Agricultural 
+Technical 
+Group 
+(SATG) 
+ 
+• 
+Agriculture research 
+• 
+Technology up-gradation 
+• 
+Capacity building of farmers 
+Social-life 
+and 
+Agricultural 
+Development 
+Organization (SADO) 
+National NGO 
+Capacity Building of farmers 
+USAID 
+Donor Agency 
+Training of farmers and demonstration plots. 
+COOPI 
+International NGO 
+Distribute seeds, agricultural tools and irrigation 
+fuel vouchers, and train farmers
+=== PAGE 31 ===
+ 
+ 
+31 | P a g e 
+ 
+The farmers were interviewed on the support that they have received from various agencies in 
+Agriculture, the following figure captures the snapshot.  
+Figure 22: Support services received by farmer respondents 
+ 
+It can be seen from the above figure that the most common support services received is distribution 
+of seeds and fertilizers while capacity building inputs and business related support is still absent.  
+3.4 Processing or productive activities 
+The processing activities of fruits and vegetables in Somalia is very limited with few exceptions of 
+sesame seed oil and dry lemon. These two products have markets outside Somalia with export 
+destinations in Middle East and Asia.   
+Processing of fruits for Juice is more of a micro business activity, where road-side vendors across the 
+major towns have juice blenders and mixers to extract juice to sell in glasses. A significant amount of 
+Juice concentrate or ready to drink fruit juice is imported to the country. Though the secondary data 
+review has shown that few large Juice producing plants have been set-up, one in Mogadishu and two 
+more in Somali-land.   
+Regarding Sesame seed processing; primarily most of the producers sell the sesame seed itself which 
+is mostly exported. The process includes cleaning of seeds, winnowed and sieved, and dried to a 
+moisture content of about 6-8%. Threshing is carried out to remove the seeds from their pods. 
+Winnowing is later done to remove unwanted material from the seeds by wind. The seeds are 
+then packed in 25 kg or 50 kg bags.  
+ 
+ 
+Soil testing
+Receipt of
+quality
+certified
+seeds
+Receipt of
+subsidized
+fertilisers
+Training in
+Agriculture
+Advisory
+service for
+agriculture
+production
+Credit from
+input seller
+Credit from
+Banks
+0
+7
+8
+4
+3
+0
+0
+=== PAGE 32 ===
+ 
+ 
+32 | P a g e 
+ 
+Figure 23: Harvested Sesame crops and Threshing of Sesame stalks 
+Source: CEFA 
+About 20% of the sesame harvest is used for extraction of sesame oil using simple oil expellers. The 
+market for sesame oil is partly domestic and the rest is for exports.  
+It is estimated that more than 300 small and micro companies are involved in Sesame seed packing or 
+oil expelling in Somalia.  
+The other product that is result of processing is dry lemon. It is primarily exported and its demand is 
+increasing rapidly. The processing is very rudimentary without much mechanization. Dry lemon is 
+categorised as black and yellow depending on the process used for drying. The process of harvesting 
+and that of drying under the sun are the same for both black and that of yellow dry lemon. But the 
+difference comes when after fully dried in the sun, in-case of black dry lemon, a very hot water steam 
+is poured on the lemon which turns it into black. 
+Figure 24: Images of yellow and black dry lemon
+=== PAGE 33 ===
+ 
+ 
+33 | P a g e 
+ 
+3.5 Trading Channel & Sales  
+Primarily the trading channel operative in Somalia in the Fruits and Vegetable sub-sector can be 
+classified according to the following channels of trading.  
+A)  
+ 
+ 
+B)  
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 25: Use of trading channel by producers 
+ 
+ 
+ 
+0
+0.5
+1
+1.5
+2
+2.5
+3
+CARROT
+PUMPKIN
+MANGOES
+SESAME
+TOMATOES
+BANANA
+PAPAYA
+WATER-MELON
+LEMON
+GRAPE-FRUIT
+2
+1
+1
+1
+3
+1
+3
+3
+1
+1
+2
+1
+Use of trading channel by producers
+Wholesaler
+Retailers
+Consumer
+Agent (Farm-gate)
+PRODUCER 
+LOCAL MARKET 
+CONSUMER 
+PRODUCER 
+TRADERS 
+RETAILER 
+CONSUMER 
+AGENT 
+PROCESSOR 
+EXPORTER
+=== PAGE 34 ===
+ 
+ 
+34 | P a g e 
+ 
+Figure 26: Volume of produce sold 
+ 
+ 
+ 
+While analysing the above figures, it is apparent that most of the selling channel for the farmers are 
+the retailers (or local traders) since most of the produce is for the local consumption or at the most 
+goes to the regional markets. While the produces which are sold through wholesalers (Sesame and 
+Lime) is primarily for the export markets. The statistical reference to exports is being provided in the 
+next figure. The wholesalers seem to be aggregator for the exporters for these produce.  
+ 
+ 
+Carrot
+Pumpkin
+Mangoes
+Sesame
+Tomatoes
+Banana
+Papaya
+Water-melon
+Lemon
+Grape-fruit
+600
+800 800
+1800
+800
+11001090
+600 700 800
+MINIMUM VOLUME SOLD BY 
+PRODUCERS ( KG)
+0
+500
+1000
+1500
+2000
+2500
+CARROT
+PUMPKIN
+MANGOES
+SESAME
+TOMATOES
+BANANA
+PAPAYA
+WATER-MELON
+LEMON
+GRAPE-FRUIT
+600 800
+1400
+2500
+800
+18001900
+700 700 800
+Maximum volume sold by producers 
+(KG)
+0
+500
+1000
+1500
+2000
+2500
+Carrot
+Pumpkin
+Mangoes
+Sesame
+Tomatoes
+Banana
+Papaya
+Water-melon
+Lemon
+Grape-fruit
+600
+800
+1200
+2150
+800
+1200
+1200
+650
+700
+800
+Median Volume of produce sold by farmers (KG)
+=== PAGE 35 ===
+ 
+ 
+35 | P a g e 
+ 
+Figure 27: Exported Agro-produce from Somalia 
+ 
+ 
+ 
+It can be seed from the figures that lemon, sesame seed and sesame oil are the major export items, 
+while banana which was a prized item of exports in pre-civil war era completely went out of the 
+picture. Many of the reasons for this decline, are destruction of banana farms during the civil war, 
+disruption of the trade channels, strict phyto-sanitary restriction in Europe etc.  
+Based on the available price data of the sesame seed oil, which is being presented below, a special 
+analysis has been done to understand the market movement.  
+ 
+ 
+ 
+ 
+ 
+ 
+0
+5000
+10000
+15000
+20000
+25000
+30000
+Sesame Oil
+Banana
+Lemon
+Peaches
+Sesame seeds
+Cow pea
+Tomatoes
+Exported agro-produce (MTs)
+2015
+2016
+2017
+2018
+2015
+2016
+2017
+2018
+29524
+29222
+6925
+13797
+SESAME SEEDS (MT)
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+18000
+20000
+2015
+2016
+2017
+2018
+11261
+10874
+19944
+8268
+Lemon (MT)
+2015
+2016
+2017
+2018
+57
+186
+91
+178
+SESAME OIL (MT)
+=== PAGE 36 ===
+ 
+ 
+36 | P a g e 
+ 
+Figure 28: Price of local sesame oil 
+ 
+Source- FSNAU 
+It can be seen from the above figures that the unit price of local sesame oil is gradually increasing in 
+the studies regions with time. The unit rate in 2017 is lower compared to 2018 and later to 2019 across 
+the sampled regions. It can be inferred two things from the findings, either exports of sesame oil or 
+seed is increasing or the domestic consumption of sesame oil is increasing in the country, irrespective 
+of seasonal fluctuation of price.  
+0.00
+0.50
+1.00
+1.50
+2.00
+2.50
+3.00
+3.50
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Price of Local Sesame oil - Banadir 
+region USD/lt
+2017
+2018
+2019
+0.00
+1.00
+2.00
+3.00
+4.00
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Price of local sesame oil- Lower Juba 
+USD/lt
+2017
+2018
+2019
+0.00
+1.00
+2.00
+3.00
+4.00
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Price of local sesame oil - Lower 
+Shabelle - USD/Lt
+2017
+2018
+2019
+0.00
+1.00
+2.00
+3.00
+4.00
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Price of local sesame oil- Gedo USD/Lt.
+2017
+2018
+2019
+=== PAGE 37 ===
+ 
+ 
+37 | P a g e 
+ 
+3.6 Sub-sector map 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retailer 
+Consumer 
+Trader/ Wholesaler 
+Input seller: 
+• 
+Seed 
+• 
+Pesticide 
+• 
+Fertilizer 
+Export Markets UAE, 
+Saudi Arabia, Kuwait 
+etc.  
+Fruits & Vegetable 
+producers 
+Exporter 
+Processor 
+Local Consumer 
+Service provision: 
+• Tractor 
+• Water pump 
+• Spray m/c 
+Hotels / 
+Restaurants 
+Local market 
+Support Agencies 
+• 
+Free certified 
+seeds. 
+• 
+Free fertilizers 
+• 
+Training to 
+farmers. 
+• 
+Advisory services 
+Agent 
+Domestic market
+=== PAGE 38 ===
+ 
+ 
+38 | P a g e 
+ 
+4. VALUE CHAIN FRAMEWORK FOR FRUITS & VEGETABLES SUB-SECTOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FARM INPUT
+FARMER
+AGENT
+TRADER
+RETAILER
+CONSUMER
+FARM INPUT
+FARMER
+TRADER
+EXPORTER
+CONSUMER
+FARM INPUT
+FARMER
+TRADER
+PROCESSOR
+EXPORTER
+CONSUMER
+SUPPLY 
+DEMAND 
+Advisory and 
+training support 
+on best 
+agricultural 
+INPUTS/SERVICE PROVISION 
+Formal/ Informal Credit 
+availability 
+Government/Donor/NGO 
+subsidized agro-inputs supply 
+Input supplies- 
+Seeds, fertilisers, 
+ Service provision- Tractor 
+for tilling, hiring of water 
+pump, spray m/c 
+ENABLING ENVIRONMENT 
+Schemes for subsidized/free fertilizers, pesticides 
+seeds, etc. 
+Exposure to best 
+agricultural practices 
+incl. training, pilot 
+demonstration 
+Infrastructure- Roads, transport, market 
+infrastructure mobile telephony etc.   
+Rules and regulations of 
+Markets
+=== PAGE 39 ===
+ 
+ 
+39 | P a g e 
+ 
+Value addition in Banana value chain (Production and sale from 1 hectare) 
+ 
+ 
+ 
+ 
+0 days           
+ 
+360 day 
+390 day 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 day 
+   1 – 7 day 
+             Soil ready for planting  
+ 
+ 
+Cropping cycle  
+ 
+ 
+ 
+ 
+               
+ 
+ 
+ 
+ 
+Harvest period  
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Farmer selling to Retailer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retailer selling to consumer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Procurement cost of Agri-
+inputs 
+Planting material – 40 $/ ha 
+Income from Sales to the 
+farmer 
+0.5 $ X 1300 kg = 650 $ 
+Where 0.5 $ is per kg price 
+1300 kg production in 1 ha 
+Operational expense of farmer 
+Pesticide: 28$/ ha 
+Fertilizer: 60$/ ha 
+Hired Labour: 76 $/ ha 
+Water: 28 $/ ha 
+Total: 192 $/ ha 
+Income from Sales to the 
+retailer 
+1.04 $ X 1300 kg = 1352 $ 
+Purchase price= 1. 04 
+$/Kg for consumer. 
+Cost of Sales to Retailer 
+• 
+Transportation cost including loading & un-loading within city limits = 200/Ton. – 
+• 
+Transportation cost including loading & un-loading per acre within city limits = 1.3 X 200 = 290$ 
+• 
+Transportation cost including loading & un-loading outside (50 km) city limits = 500/Ton. – 
+• 
+Transportation cost including loading & un-loading per acre outside (50 km) city limits = 1.3 X 500 = 650$
+=== PAGE 40 ===
+ 
+ 
+40 | P a g e 
+ 
+ 
+Producer 
+Retail seller 
+ 
+• 
+The 
+farmer 
+prepares soil for 
+sowing the seed or 
+planting 
+the 
+seedling.  
+• 
+The agri-inputs for 
+farming is mostly 
+from local retailers. 
+• 
+Most of the soil 
+preparation is done 
+through 
+hired 
+tractors. 
+ 
+• 
+Depending on the 
+crop cycle, which is 
+approximately 390 
+days for bananas, 
+the farmer works 
+on 
+fertilization, 
+disease prevention, 
+weeding, irrigation 
+using either hired 
+labour 
+or 
+own 
+labour. 
+• 
+The 
+harvesting 
+period will be 30-45 
+days after first crop 
+is harvested.  
+• 
+The 
+farmer 
+transports 
+the 
+harvested produce 
+to the market to 
+sell 
+directly 
+or 
+through 
+retailers 
+collecting at the 
+farm gate. 
+• 
+The 
+harvested 
+produce has to be 
+sold 
+within 
+the 
+shelf life period or 
+the price will fall. 
+• 
+Retailer purchases 
+the produce either 
+from rural primary 
+market or at the 
+farm gate of the 
+farmer.  
+• 
+Retailer 
+has 
+to 
+dispose 
+the 
+purchased bananas 
+as soon as possible 
+for the fear of 
+getting spoiled.  
+• 
+Retailer transports 
+the produce to the 
+place where it will 
+undertake 
+retail 
+sale. 
+• 
+The retailer sells 
+directly or does 
+sub-retailing of the 
+produce. 
+ 
+• 
+The retailer will be 
+selling bananas at 
+price 
+significantly 
+high then at what 
+he buys. 
+• 
+The volume per 
+customer is small. 
+ 
+Gross value received on sales 
+650 $ 
+Gross value received on sales 
+1352 $ 
+Cost of the production 
+40 $ + 192 $ = 232 $ 
+Cost of Procurement 
+650 $ 
+Cost of Sales 
+- 
+Cost of Sales 
+290 $ 
+Value added 
+418 $ 
+Value added 
+412 $ 
+Time period 
+365 to 390 days 
+Time period 
+1 to 7 day
+=== PAGE 41 ===
+ 
+ 
+41 | P a g e 
+ 
+Value addition in Sesame seed value chain (Production and sale from 1 Hectare) 
+ 
+ 
+ 
+ 
+0 days           
+ 
+120 days 150 days 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 day 
+   7 day 
+             Soil ready for sowing 
+ 
+ 
+ 
+Cropping cycle  
+ 
+ 
+ 
+ 
+               
+ 
+ 
+ 
+ 
+Harvest period  
+ 
+ 
+ 
+ 
+         30 days 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Farmer selling to Wholesaler 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Wholesaler selling to Processor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Processor selling to Consumer 
+ 
+ 
+ 
+ 
+ 
+ 
+Procurement cost of Agri-
+inputs 
+Sowing material – 40 $/ ha 
+Operational expense of farmer 
+Pesticide: 50$/ ha 
+Fertilizer: 70$/ ha 
+Hired Labour: 75 $/ha 
+Water: 35 $/ ha 
+Total: 230 $/ha 
+Cost of Sales to Wholesaler 
+• 
+Transportation cost including loading & un-loading within city limits = 200/Ton. – 
+• 
+Transportation cost including loading & un-loading per acre within city limits = 0.9 X 200 = 180$ 
+Cost of Sales to Processor 
+• 
+Transportation cost including loading & un-loading within city limits = 200/Ton. – 
+• 
+Transportation cost including loading & un-loading per acre within city limits = 0.9 X 200 = 180$ 
+• 
+Cost of production = 100 $ / Ton of Sesame seed, 0.9 X 100 = 90$ 
+Income from Sales for the 
+farmer 
+0.9 $ X 1000 kg = 900 $ 
+Where 0.9 $ is per kg price 
+1000 kg production in 1 ha 
+Income from Sales for the 
+wholesaler 
+1.2 $ X 1000 kg = 1200 $ 
+Where 1.2 $ is per kg price 
+Income from Sales for the 
+processor 
+2.8 $ X 0.56 X 1000 kg = 1568 $ 
+56% extraction of oil from seed 
+2.8 $ cost of 1 kg of sesame oil
+=== PAGE 42 ===
+ 
+ 
+42 | P a g e 
+ 
+Sesame Producer 
+Wholesaler 
+Oil Processor 
+ 
+• 
+The 
+farmer 
+prepares soil 
+for 
+sowing 
+the seed.   
+• 
+The 
+agri-
+inputs 
+for 
+farming 
+is 
+mostly from 
+local 
+retailers. 
+• 
+Most of the 
+soil 
+preparation 
+is 
+done 
+through 
+hired 
+tractors. 
+ 
+• 
+Depending on 
+the crop cycle, 
+which 
+is 
+approximately 
+120 days for 
+tomato, 
+the 
+farmer works 
+on 
+fertilization, 
+disease 
+prevention, 
+weeding, 
+irrigation 
+using 
+either 
+hired 
+labour 
+or 
+own 
+labour. 
+• 
+The 
+harvesting 
+period will 
+be 30 days 
+after 
+first 
+crop 
+is 
+harvested.  
+• 
+The farmer 
+sells 
+the 
+harvested 
+produce to 
+the 
+wholesalers. 
+ 
+• 
+Wholesaler 
+purchases 
+the 
+produce 
+either from 
+rural 
+primary 
+market or 
+the 
+farmers 
+directly. 
+.  
+• 
+Wholesaler 
+transports 
+the 
+produce to 
+the 
+processors. 
+ 
+• 
+ Wholesaler 
+will 
+be 
+selling 
+sesame 
+at 
+price 
+significantly 
+high then at 
+what 
+he 
+buys. 
+ 
+• 
+Processor 
+either 
+buys 
+the 
+sesame 
+seeds 
+from 
+the 
+primary 
+market or 
+supplied at 
+the 
+doorstep 
+by 
+the 
+wholesaler 
+• 
+Sesame 
+seeds 
+are 
+grinded to 
+expel the oil 
+content 
+using 
+grinding 
+machines. 
+Extraction 
+percentage 
+is 56%. 
+• 
+Sesame 
+seed oil is 
+then 
+supplied to 
+retail 
+outlets and 
+sold 
+to 
+consumer. 
+Gross value received on sales 
+900 $ 
+Gross value received on sales 
+1200 $ 
+Gross value received on sales 
+1568 $ 
+Cost of the production 
+40 +230 = 270 $ 
+Cost of Procurement 
+900 $ 
+Cost of Procurement 
+1200 $ 
+Cost of Sales 
+- 
+Cost of Sales 
+180 $ 
+Cost of Sales 
+180 +90 = 270$ 
+Value added 
+630 $ 
+Value added 
+220 $ 
+Value added 
+98 $ 
+Time period ( days) 
+120 -150 
+Time period ( Days) 
+7  
+Time period ( Days) 
+15-30 
+PROCURE
+GROW
+SALE
+PURCHASE
+DISTRIBUTE
+SALE
+PURCHASE
+PROCESS
+SALE
+=== PAGE 43 ===
+ 
+ 
+43 | P a g e 
+ 
+5.1 Governance 
+ 
+Value chains involve regular interactions between the various actors implying repetitiveness in their 
+relationships. Governance ensures that interactions between firms along a value chain exhibit some 
+reflection of order rather than being simply random. Value chains are governed when parameters 
+requiring product, process, and logistic qualification are set which have consequences up or down the 
+value chain encircling package of activities, actors, roles, and functions. 
+Governance can be categorised into the following types; legislature (making the rules), the executive 
+(implementing the rules) and the judiciary (monitoring the conformance to rules). This governance 
+can be exercised by parties internal to chain or external to chain.  
+As a part of the value chain analysis for the fruits & vegetable sub-sector in Somalia, the chain 
+governance was looked into; 
+ 
+ 
+Exercised by parties internal to 
+chain 
+Exercised by parties external to 
+chain 
+Implications 
+Legislative 
+governance 
+• 
+Quality standards of the 
+vegetables 
+(size, 
+colour, 
+state of ripeness etc) from 
+the farmers are governed by 
+the traders who purchase 
+from them. Strong 
+• 
+The price fixations of the 
+produce in the markets are 
+determined 
+based 
+on 
+demand – supply situation 
+in the market on the day of 
+transaction. Strong 
+• 
+Market committee/ Check 
+points fixes the taxes & 
+commissions to be collected 
+for the transactions taking 
+place and goods movement. 
+Strong 
+• 
+Local 
+authorities’/ 
+Agriculture 
+department 
+have formulated rules for 
+retail suppliers of seed, 
+fertilizers, pesticides etc to 
+ensure quality products. 
+Weak 
+• 
+Farmers 
+have 
+to 
+be 
+particular about the quality 
+of the produce taken to the 
+market. 
+• 
+The price of the produce to 
+be received by the farmer 
+depends not only on the 
+quality but also on the 
+demand 
+and 
+supply 
+situation which is beyond 
+the farmer’s control. 
+Executive 
+governance 
+• 
+Commission and taxes fixed 
+by the market authority / 
+Check points are collected 
+by the commission agents 
+from the traders and the 
+farmers. Medium 
+• 
+The agreed price of the 
+vegetables is paid by the 
+buyers 
+to 
+the 
+farmer 
+directly. Strong 
+• 
+The 
+local 
+agriculture/ 
+horticulture 
+department/ 
+NGOs/ 
+humanitarian 
+agencies are making seeds/ 
+fertilizers available to the 
+farmers at subsidized rates 
+or free. Strong 
+ 
+• 
+The trade transactions are 
+clearly 
+defined 
+by 
+the 
+market 
+forces 
+and 
+the 
+possibility of the farmer 
+getting cheated is minimal. 
+• 
+The benefits designed to 
+support poor farmers are 
+received but the outreach of 
+the support needs to be 
+analysed.  
+Judicial 
+governance 
+• 
+The 
+quality/ 
+produce 
+conformation is checked by 
+the traders while procuring 
+them from farmers/ local 
+traders. Strong 
+ 
+• 
+Agriculture 
+department 
+monitors 
+quality 
+conformation by the input 
+suppliers. Weak 
+• 
+Lax governance on agri-
+input 
+quality 
+adherence 
+exposes the farmers to 
+ineffective 
+agri-inputs 
+harming them in production.
+=== PAGE 44 ===
+ 
+ 
+44 | P a g e 
+ 
+5.2 Inter-firm cooperation 
+ 
+Inter firm cooperation is defined as joint activities undertaken by the various stake-holders in the value 
+chain. Cooperation can be subdivided in horizontal linkages, i.e. cooperation among similar types of 
+enterprises, for example vegetable producers, and vertical linkages, cooperation between enterprises 
+at different positions in the value chains, for example the local trader and vegetable. 
+Horizontal linkages refer thus in particular to the regular contacts and relationships between peer 
+enterprises within a specified area, more specifically, it refers to joint activities of such firms, i.e. joint 
+purchases, joint usage of equipment, joint contracts and joint learning 
+On the one hand, vertical linkages refer thus to contracting and subcontracting relationships between 
+enterprises of different types in terms of scale. 
+5.2.1 
+Horizontal linkages 
+Horizontal linkages, or the cooperation among similar types of stake-holders, are weak. In case of 
+fruits and vegetable producers, recognized horizontal linkages are very minimal almost to the point of 
+nil. Some cases of inter-firm cooperation amongst fruits and vegetable producer are observed in terms 
+of sharing transport mode to carry the produce to the market.  Some other linkages though not at 
+cooperation level but more for service provision is noticed, the owners of tractors frequently rent it 
+out to other farmers or rent out spraying machine.  
+At the traders’ level too, horizontal linkages are not apparent. The retailers or wholesalers buying from 
+the farmers in the market do not have any established inter-firm cooperation. 
+It has been reported that some associations at the regional level for producers and traders have been 
+formed. Concrete steps of cooperation was not reported during the study.  
+5.2.2 
+Vertical linkages 
+In general terms, stake-holders in the value chain have rather weak vertical linkages. The major reason 
+behind it is the state of the sub-sector as such. It is much localised and mostly un-organized. The need 
+and advantage of building vertical linkages are still evolving and is in the dormant stage. 
+The most common form of vertical linkages observed is receiving advance amount by the farmers from 
+the traders in procuring the produce.  
+5.3 Structure of labour market 
+The labour requirement in the fruits & vegetable cultivation is very high, starting from land 
+preparation to harvesting, with intermittent inter-culture. The present usage pattern of labour is mix 
+of self or family and hired labourers.  This is possible due to small land utilization for fruits and 
+vegetable cultivation. Primary data from respondents have indicated that external labour is used at 
+times mostly for land preparation, inter-culture and harvesting with the requirement varies from 
+specific to few types of fruits and vegetables. This is more apparent in case of vegetables than fruits. 
+The labour force used here is mostly local from the village or surroundings. 
+The markets have un-regulated established labour force, whose work includes loading and unloading 
+of fruits & vegetable bags, weighing of the vegetables etc. There are standard rates for these functions, 
+which needs to be paid by the user of the service. The availability of this labour force is from areas 
+near to the markets. This labour force is mostly independent.
+=== PAGE 45 ===
+ 
+ 
+45 | P a g e 
+ 
+6 
+FINDINGS & KEY ISSUES  
+ 
+Most of the farmers involved in Fruits and Vegetables sub-sector except few commercial farms are 
+marginal farmers. The marginal utility of increasing production through use of mechanised farming 
+and quality agri-inputs is not very remunerative. The production has to have aggregation for 
+economy of scale where these inputs and mechanization can be fruitful.   
+ 
+The existing value chain of the fruits and vegetable sub-sector is highly under-developed and lots 
+of gaps within. One of the major drawback for the farmers/ traders is the lack of developed storage 
+facilities to increase the shelf life of the produce. This leads to distress sale and the farmers do not 
+get good prices. In addition, lack of processing facilities barring few produce like lemon & sesame 
+seed makes the farmers go for limited production.  
+ 
+Since most of the produce are for the local market, much attention is not given towards skill-sets 
+on grading/ sorting, handling during harvesting, packing, transporting, stacking in the trucks etc. 
+due to which these skill-sets of the workers have not been developed. If more processing facilities 
+and farms exporting are established, the existing skilled work-force will not have the capacity to 
+provide efficient service which will result losses due to produce damage.   
+.   
+It has been reported that more than 300 micro enterprises are in Banadir region itself, which uses 
+grinding stone to extract oil from sesame seed. Somalia is one of the few countries in Africa, which 
+grows sesame seed and exports mostly seeds and small amount of sesame oil. There is scope of 
+using better techniques such as mini oil expellers to extract oil from sesame seed which will increase 
+the extraction percentage.  
+Capacity building will be required in the existing skill force or create vocational trained youths on 
+the skill sets of operating mini expellers, on how to grade and clean sesame seeds and also 
+packaging.  
+ 
+The knowledge of packaging material and best practices of packaging, as well as the skill sets of 
+under-taking modern techniques of packaging is missing in the sub-sector. This is owing to the fact 
+that most of the agro-produce are primarily focussed towards local domestic market and 
+investment in packaging for the farmer or the trader is an inconsequential requirement. Hence, 
+these skill-sets if not developed now, will create a vacuum later when enterprises and investment 
+flows in the area of exports and processing.  There will be lack of trained skilled work-force who 
+could contribute in the packaging part , thereby , reducing damages, and improving the aesthetics 
+of packaging, increasing the shelf life. 
+ 
+Since, many of the fruits and vegetables do not have much potential for exports or high margin if 
+sold as whole fruit/vegetable, there are possibilities of extraction of Juice from some of these fruits 
+and vegetables. Though, except for one or two modern units of Juice extraction have been 
+established, it could be area of possible investments coming in next couple of years in view of large 
+quantity of Juice is imported to the country, thereby promising scope for local content. But, as of 
+now, Somalia do not have skilled work-force who can handle operations of mechanized Juice 
+extraction units.
+=== PAGE 46 ===
+ 
+ 
+46 | P a g e 
+ 
+7 
+RECOMMENDATION ON AREAS for SKILL SET UPGRADATION 
+ 
+A) POST – HARVEST 
+Grading, Sorting and Packaging 
+Areas of Skilling 
+Remarks 
+Norms of grading of fruits and vegetables 
+These training modules will be 
+targeted at the workers working on 
+farms 
+producing 
+fruits 
+and 
+vegetables for export markets.  
+How to do sorting based on grades 
+Knowledge on operation of sorting machines – particularly 
+for tomatoes, potatoes  
+Techniques for dry and wet cleaning of fruits and vegetables 
+Packaging, Storage and Transportation 
+Areas of Skilling 
+Remarks 
+Knowledge on various packaging materials and their 
+strengths and weaknesses. 
+These training modules will be 
+designed for creating skilled workers 
+in the field of packaging. 
+Technique and knowledge on packaging for domestic market 
+requirements. 
+Technique and knowledge on packaging for export market 
+requirements. 
+• 
+Corrugated Fibreboard boxes 
+• 
+Plastic corrugated boxes 
+• 
+Wooden Box 
+• 
+Plastic crates 
+• 
+Sacks 
+• 
+Palletization 
+Technique on how to store harvested fruits and vegetables 
+to slow down deterioration of shelf life. 
+These training modules will be 
+targeted at the workers working on 
+farms 
+producing 
+fruits 
+and 
+vegetables for commercial purpose. 
+Handling, stacking of fruits and vegetables in trucks, loading, 
+unloading to minimise damage to the fruits and vegetables.  
+  
+B) PROCESSING 
+ 
+Areas of Skilling 
+Remarks 
+Technique of using mini oil expeller for cold 
+press of sesame seed to extract oil. 
+ Most of the units use grinding machine which 
+results inefficient extraction. The training modules 
+will be geared towards vocational training inputs 
+for preparing skilled workers who will have the 
+knowledge to operate Mini oil expeller.  
+Technique for Juice extraction process in a 
+semi mechanised unit.  
+Gradually, units will be coming up in Somalia, which 
+will start mechanized Juice extraction units and 
+bottling of Juice. This training module will be 
+geared towards creating a skilled work-force that 
+can be of high demand in coming years.
+=== PAGE 47 ===
+ 
+ 
+47 | P a g e 
+ 
+Bibliography 
+1. Agricultural land characterization for Somalia- Research Paper by M Boitt, J. Kipterar 
+and P. Langat 
+2. Building the Banana chain in Somalia: Support to Agricultural Marketing Services & 
+Access to Markets (SAMSAM) Experience – CEFA Somalia 
+3. Somali- Country Economic Memorandum Vol I – Rebuilding Resilient and Sustainable 
+Agriculture in Somalia - FAO  
+4. Review and Identification of the Agriculture program for Somalia April 2020- European 
+Union 
+5. Horticultural study in lower and middle Shabelle regions of Somalia – Chemonics 
+International 
+6. Market Update – March 2018 – FSNAU 
+7. Banana sector study for Somalia- Marketing study in the lower Shabelle region – Paper 
+by J. Ouko 
+8. Factors influencing production of Sesame seeds in Somalia – Research paper by H. 
+Osman & F. Theuri 
+9. Sesame production manual for small scale farmers in Somalia – CEFA 
+10. Somalia Storage Assessment- Somalia NGO Consortium 
+11. Somalia Transport Sector Needs Assessment and Investment Programme- African 
+Development Bank 
+12. Logistics Capacity Assessment Somalia- Author K. Koopman 
+13. Food market and supply situation in Southern Somalia – World Food Programme.  
+14. Website: https://www.fsnau.org/products/bulletins/market-data-update/archives 
+15. Website : https://shuraako.org/project-sector/agriculture 
+16. Website- http://www.fao.org/faostat/en/#data 
+17. Website-   https://www.selinawamucii.com/insights/market/somalia/ 
+18. Website- 
+https://oec.world/en/visualize/tree_map/hs92/export/som/show/2106/2017/

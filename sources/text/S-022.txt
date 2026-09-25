@@ -1,0 +1,2066 @@
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Federal Republic of Somalia 
+Ministry of Environment and Climate Change 
+ 
+ 
+ 
+Somalia National Climate Change Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+November 2020 
+Updated: February 2023
+=== PAGE 2 ===
+Table of Contents 
+ACKNOWLEDGEMENT ......................................................................................................... 1 
+LIST OF ABBREVIATIONS AND ACRONYMS ................................................................... 2 
+GLOSSARY ............................................................................................................................... 4 
+EXECUTIVE SUMMARY ........................................................................................................ 6 
+CHAPTER 1 OVERVIEW, VISION, GUIDING PRINCIPLES & OBJECTIVES TO 
+ADDRESS CLIMATE CHANGE ............................................................................................. 9 
+1.1. 
+Overview ..................................................................................................................... 9 
+1.2. 
+Rationale for the National Climate Change Policy .................................................... 10 
+1.3. 
+The Process ................................................................................................................ 11 
+1.4. 
+Goal ........................................................................................................................... 12 
+1.5. 
+Vision ......................................................................................................................... 12 
+1.6. 
+Guiding Principles ..................................................................................................... 12 
+1.7. 
+Policy Objectives ....................................................................................................... 13 
+1.7.1. 
+Adaptation and Disaster Risk Reduction Measures ........................................... 13 
+1.7.2. 
+Mitigation ........................................................................................................... 14 
+1.8. 
+Application ................................................................................................................ 14 
+CHAPTER 2 POLICY CONTEXT .......................................................................................... 15 
+2.1. 
+International and Regional Context ........................................................................... 15 
+2.2. 
+National Context ........................................................................................................ 16 
+CHAPTER 3 SITUATION ANALYSIS AND IMPACTS OF CLIMATE CHANGE IN 
+SOMALIA ................................................................................................................................ 18 
+3.1. 
+Evidence of Climate Change and Projections in Somalia ......................................... 18 
+3.1.1. 
+Surface Temperature .......................................................................................... 18 
+3.1.2. 
+Precipitation ....................................................................................................... 18 
+3.1.3. 
+Extreme Weather Events .................................................................................... 19 
+3.1.4. 
+Sea temperature and rising sea level .................................................................. 20 
+3.2. 
+Impact of Climate Change in Somalia ....................................................................... 20 
+3.2.1. 
+Impact on Food Security and Nutrition .............................................................. 20 
+3.2.2. 
+Impact on Livestock, Fisheries, and Agriculture ................................................ 21 
+3.2.3. 
+Impact on Environment, Water and Forestry ..................................................... 21 
+3.2.4. 
+Land Degradation and Desertification................................................................ 22 
+3.2.5. 
+Impact on Health ................................................................................................ 22 
+3.2.6. 
+Impact on Coastal Areas ..................................................................................... 23 
+3.2.7. 
+Impact on Infrastructure ..................................................................................... 23
+=== PAGE 3 ===
+3.2.8. 
+Impact on Economic Development .................................................................... 24 
+3.2.9. 
+Impact on Migration ........................................................................................... 24 
+CHAPTER 4 CROSS-CUTTING THEMES ........................................................................... 25 
+4.1. 
+Capacity-building ...................................................................................................... 25 
+4.2. 
+Research and Technology .......................................................................................... 25 
+4.3. 
+Regional and International Cooperation .................................................................... 26 
+4.4. 
+Information and Communication ............................................................................... 27 
+4.5. 
+Education and Public Awareness .............................................................................. 28 
+4.6. 
+Mainstreaming Climate Change ................................................................................ 28 
+CHAPTER 5 SECTORS & POLICY INTERVENTIONS ...................................................... 30 
+5.1. 
+Adaptation ................................................................................................................. 30 
+5.1.1. 
+Climate-resilient Agriculture .............................................................................. 30 
+5.1.2. 
+Livestock Sector ................................................................................................. 31 
+5.1.3. 
+Water Sector ....................................................................................................... 32 
+5.1.4. 
+Marine Resources ............................................................................................... 33 
+5.1.5. 
+Forestry and Biodiversity Sector ........................................................................ 33 
+5.1.6. 
+Infrastructure ...................................................................................................... 34 
+5.1.7. 
+Urbanization: Settlements .................................................................................. 35 
+5.2. 
+Disaster Preparedness and Response ......................................................................... 36 
+5.3. 
+Mitigation .................................................................................................................. 36 
+5.3.1. 
+Energy ................................................................................................................ 37 
+5.3.2. 
+Agriculture ......................................................................................................... 38 
+5.3.3. 
+Land Use and Forestry Sector ............................................................................ 38 
+5.3.4. 
+Industry ............................................................................................................... 39 
+5.3.5. 
+Waste .................................................................................................................. 40 
+5.4. 
+Social Dimension of Climate Change........................................................................ 40 
+5.4.1. 
+Health ................................................................................................................. 41 
+5.4.2. 
+Human Rights ..................................................................................................... 42 
+5.4.3. 
+Gender Issues in Climate Change ...................................................................... 42 
+5.4.4. 
+Employment and Climate Change ...................................................................... 43 
+5.4.5. 
+Climate Change and Migration .......................................................................... 44 
+CHAPTER 6 CLIMATE CHANGE GOVERNANCE ............................................................ 46 
+6.1. 
+Institutional Arrangement .......................................................................................... 46 
+6.1.1. 
+State Institutions & Committees ........................................................................ 46 
+6.1.2. 
+Non-governmental /Civil Society Organizations ............................................... 50
+=== PAGE 4 ===
+6.1.3. 
+Private Sector ..................................................................................................... 50 
+6.2. 
+Legal and Regulatory Framework ............................................................................. 51 
+6.2.1. 
+Linkage with the National Development Plan 2020 to 2024 ............................. 51 
+6.2.2. 
+Existing Policies and Strategies Related to Environment & Climate Change ... 52 
+6.2.3. 
+International Obligations .................................................................................... 52 
+CHAPTER 7 FINANCE & RESOURCE MOBILIZATION .................................................. 54 
+CHAPTER 8 MONITORING AND EVALUATION ............................................................. 56
+=== PAGE 5 ===
+1 
+ 
+ACKNOWLEDGEMENT 
+ 
+National Climate Change Policy (NCCP) for Somalia has been prepared with the active involvement 
+and assistance of a wide range of stakeholders who have contributed immensely in ensuring its 
+finalization. The Ministry of Environment and Climate Change led the formulation of the NCCP with 
+the support of the United Nations Development Programme (UNDP) and Global Environment Facility 
+(GEF). 
+ 
+NCCP has been prepared by holding consultations with officials of the relevant federal line ministries, 
+federal member states, civil society organizations (CSOs), international and inter-governmental 
+organizations. To all these contributors, we extend our gratitude and profound thanks for their vital 
+contributions toward the development of this Policy. 
+ 
+Thank you.
+=== PAGE 6 ===
+2 
+ 
+LIST OF ABBREVIATIONS AND ACRONYMS 
+ 
+ 
+AF 
+Adaptation Fund 
+AFOLU 
+Forestry and Land Use 
+AR4 
+IPCC Fourth assessment report 
+ASAL 
+Arid and Semi-Arid Lands 
+CC 
+Climate Change 
+CH4 
+Methane 
+CO 
+Carbon Monoxide 
+CO2 
+Carbon Dioxide 
+CSCCC 
+Cross-Sectoral Climate Change Committee 
+CSOs 
+Civil Society Organizations 
+DNA 
+Designated National Authority 
+EEZ 
+Exclusive Economic Zone 
+FAO 
+Food and Agriculture Organization 
+FGS 
+Federal Government of Somalia 
+GDP 
+Gross Domestic Product 
+GEF 
+Global Environment Facility 
+GHG 
+Green House Gasses 
+GIS 
+Geographic Information System 
+GCF 
+Green Climate Fund 
+IDP 
+Internally Displaced Person 
+IDMC 
+Internal Displacement Monitoring Centre 
+INC 
+Initial National Communication for Somalia 
+INDCs 
+Intended Nationally Determined Contributions 
+IPCC 
+Intergovernmental Panel on Climate Change 
+IPPU 
+Industrial Processes and Product Use 
+LDCF 
+Least Developed Countries Climate Fund 
+LUCF 
+Land-Use Change and Forestry 
+MoLFR 
+Ministry Of Livestock Forestry And Range 
+MRV 
+Monitoring, Reporting and Verification 
+N2O 
+Nitrous Oxide 
+NCCC 
+National Climate Change Committee 
+NCCP 
+National Climate Change Policy 
+NAPA 
+National Adaptation Programme of Action
+=== PAGE 7 ===
+3 
+ 
+NDP 
+National Development Plan 
+NEVA 
+National Employment Vulnerability Assessment 
+NCCP 
+National Climate Change Policy 
+NGOs 
+Non-Governmental Organizations 
+NO2 
+Nitrogen Dioxide 
+NOX 
+Nitrogen Oxides 
+R&D 
+Research and Development 
+SCCF 
+Special Climate Change Fund 
+SDGs 
+Sustainable Development Goals 
+SO2 
+Sulphur Dioxide 
+UNDP 
+United Nations Development Programme 
+UNEP 
+United Nations Environment Programme 
+UNIDO 
+The United Nations Industrial Development Organization 
+UNOCHA 
+United Nations Office for Coordination of Humanitarian Affairs 
+UNFCCC 
+United Nations Framework Convention on Climate Change 
+REDD+ 
+Reduce Emissions from Deforestation and Forest Degradation 
+TMEC 
+Technical Monitoring Committee 
+WHO 
+World Health Organization
+=== PAGE 8 ===
+4 
+ 
+GLOSSARY 
+Adaptation is defined by the UNFCCC as “an adjustment in natural or human systems in response to 
+actual or expected climatic stimuli or their effects, which moderates harm or exploits beneficial 
+opportunities”. 
+ 
+Anthropogenic is an effect resulting from or produced by human activities. These activities include the 
+burning of fossil fuels, deforestation, waste management and industrial processes. 
+ 
+Carbon sink is any process, activity or mechanism whether natural or artificial, that removes carbon 
+containing chemical compounds such as greenhouse gases, aerosols or precursors of greenhouse gases 
+from the atmosphere and stores them for an indefinite period. 
+ 
+Climate change according to the UNFCCC means “a change of climate which is attributed directly or 
+indirectly to human activity that alters the composition of the global atmosphere and which is in addition 
+to natural climate variability observed over comparable time periods”. 
+ 
+Climate is a composite measure of the average pattern of variation in temperature, humidity, 
+precipitation, wind, atmospheric particle count and other meteorological variables in a region over a 
+long period of time (usually 30 years). 
+ 
+Climatic hazard is an extreme climatic/weather event causing harm and damage to people, property, 
+infrastructure and land-uses. 
+ 
+Climate-smart agriculture (CSA) is defined by the IPCC as “an approach that helps to guide actions 
+needed to transform and re-orient agricultural systems to effectively support development and ensure 
+food security in a changing climate. CSA aims to tackle three main objectives: sustainably increasing 
+agricultural productivity and incomes, adapting and building resilience to climate change, and reducing 
+and/or removing greenhouse gas emissions, where possible. 
+ 
+Disaster preparedness is according to the International Federation of Red Cross and Red Crescent 
+Societies (IFRC) “measures taken to prepare for and reduce the effects of disasters. That is, to predict 
+and, where possible, prevent disasters, mitigate their impact on vulnerable populations, and respond to 
+and effectively cope with their consequences”.
+=== PAGE 9 ===
+5 
+ 
+Early warning systems are according to the IPCC “the set of capacities needed to generate and 
+disseminate timely and meaningful warning information to enable individuals, communities and 
+organizations threatened by a hazard to prepare and to act appropriately and in sufficient time to reduce 
+the possibility of harm or loss. 
+ 
+Greenhouse gases are according to the UNFCCC “The atmospheric gases responsible for causing global 
+warming and climate change. The major GHGs are carbon dioxide (CO2), methane (CH4) and nitrous 
+oxide (N20). Less prevalent --but very powerful -- greenhouse gases are hydrofluorocarbons (HFCs), 
+perfluorocarbons (PFCs) and sulphur hexafluoride (SF6). 
+ 
+Mitigation according to UNFCCC is “a human intervention to reduce the sources or enhance the sinks 
+of greenhouse gases. Examples include using fossil fuels more efficiently for industrial processes or 
+electricity generation, switching to solar energy or wind power, improving the insulation of buildings, 
+and expanding forests and other "sinks" to remove greater amounts of carbon dioxide from the 
+atmosphere. 
+ 
+Resilience according to IPCC is “the ability of a social or ecological system to absorb disturbances while 
+retaining the same basic structure and ways of functioning, the capacity for self-organization and the 
+capacity to adapt to stress and change”. It is the ability to survive, recover from and even thrive in 
+changing climatic conditions. It includes the ability to understand the potential impacts and to take 
+appropriate action before, during and after a particular event, such as major flooding or prolonged 
+drought, to minimize negative effects and maintain the ability to respond to changing conditions 
+including unpredictable conditions. 
+ 
+Vulnerability according to IPCC is “the degree to which a system is susceptible to and unable to cope 
+with, adverse effects of climate change including climate variability and extremes”.
+=== PAGE 10 ===
+6 
+ 
+EXECUTIVE SUMMARY 
+Climate change has become one of the major global challenges of this century with its adverse impact 
+mostly affecting developing nations including Somalia. The danger of climate change is not only multi- 
+dimensional, but its effects also transcend national borders affecting the ecology that sustains 
+livelihoods. For Somalia to experience sustainable and robust socio-economic development, there is a 
+need for adequate and sustainable resources. However, the availability of such resources is being 
+threatened by a dramatic shift in weather patterns, which has adversely affected food production, water 
+resources, human health, and coastal zones. Somalia’s susceptibility to climate change and the threat to 
+achieving development goals have thus been documented. There is already evidence of the direct 
+manifestations of climate change in Somalia, i.e., increasing temperatures; rainfall variability, including 
+unpredictable extreme events (droughts and floods). 
+With an economy closely linked to natural resources and climate sensitive sectors such as agriculture, 
+livestock, water and forestry, Somalia may face a major threat because of the projected changes in 
+climate. A policy response to climate change in Somalia is vital for adapting and mitigating the country’s 
+susceptibility. The Government of Somalia recognizes that climate change must be mainstreamed into 
+policies and sectoral activities to achieve sustainable growth. 
+As such, the vision outlined in the National Climate Change Policy (NCCP) is: 
+ 
+To attain a prosperous and climate resilient economy through the adoption and successful 
+implementation of appropriate and effective climate change adaptation and mitigation measures. 
+ 
+Somalia’s policy response to climate change will: 
+ 
+(i) Promote a harmonized, articulate and effective response to challenges and opportunities that 
+accompany climate change. 
+(ii) Deliver a framework that will guide the establishment and operationalization of interventions 
+and action plans. 
+(iii) Safeguard the safety and health of citizens, their prosperity and states development in the advent 
+of climate change through enhancement of resilience and implementation of adaptive ability to 
+climate variability.
+=== PAGE 11 ===
+7 
+ 
+The policy is founded on the following objectives: 
+(i) Adaptation (including Disaster Preparedness and Response) 
+(ii) Mitigation 
+ 
+The guiding principles of the policy are: the right to sustainable development, integrated approach and 
+prioritization of the most common good, prioritization of vulnerable groups, regions, and sectors and 
+promotion of community ownership and participation, international partnership, and country-driven and 
+cooperative government. Other vital principles are scientific information, decentralized implementation, 
+mainstreaming approach, equity, fairness and social inclusion, prioritization of adaptation over 
+mitigation and cost-effectiveness. 
+The objectives of the policy can only be reached when cross-cutting issues that have strong impact across 
+all sectors and receive special attention. The cross-sectorial themes identified as critical in this policy 
+document are: capacity building, research, technology and innovation, international cooperation, 
+information and communication, education and public awareness and mainstreaming climate change. 
+ 
+The strategic priorities areas of the NCCP are structured in a manner consistent with the outlined 
+objectives. In terms of adaptation, sectors that need particular attention are agriculture, livestock, water, 
+marine resources, forestry and biodiversity, infrastructure and urban settlements. Resilience to climate 
+change-related extreme weather events will be the basis for Somalia’s approach to disaster management. 
+As such the policy is to establish an effective disaster management in order to prepare, respond and 
+protect vulnerable communities and improve their resilience to losses associated with the direct impacts 
+of climate change. 
+ 
+Green House Gas emissions of Somalia are insignificant. The country’s focus is mainly on adaptation 
+to climate change. However, this does not make mitigation irrelevant. The country’s approach to 
+mitigation, balances the country’s contribution as a responsible global citizen to the international efforts 
+to curb global emissions with the economic and social opportunities presented by the transition to a 
+lower-carbon economy (green economy). 
+ 
+The policy also address social aspects of climate change such as health, human rights, gender issues, 
+employment and migration. 
+ 
+There are national institutions, member state institutions and private organizations whose activities touch 
+on climate change issues. The policy describes the climate governance structure of Somalia and
+=== PAGE 12 ===
+8 
+ 
+identifies the relevant institutions and establishes appropriate committees at national and sub-national 
+levels. 
+To address Climate Change, Somalia will require financial support from domestic resources and the 
+international Community. Domestic resources will be obtained from government budget, private sector 
+and contributions from companies, organizations and individuals. The international support comprises 
+of bilateral, multilateral sources and international climate funds. 
+Finally, to ensure their effective implementation, monitoring and evaluation of climate change responses 
+and impact are critical. The policy proposes the monitoring and evaluation system that are needed to 
+track climate change (policy interventions and impacts of climate change).
+=== PAGE 13 ===
+9 
+ 
+CHAPTER 1 
+OVERVIEW, VISION, GUIDING PRINCIPLES & OBJECTIVES TO ADDRESS 
+CLIMATE CHANGE 
+1.1. Overview 
+Climate change is one of the biggest challenges of this century, and as a global challenge, it requires 
+imminent and effective global solutions. The threat of climate change is multi-dimensional, and its 
+impacts surpass national borders. According to the Intergovernmental Panel on Climate Change (IPCC) 
+projections, the world will be faced with a disastrous future in the form of biodiversity loss, sea-level 
+rise, erratic weather patterns and extreme weather events such as storms, floods and droughts if the 
+Green House Gases (GHGs) continue to rise at their current rates. Human activities are estimated to 
+have caused approximately 1.0°C of global warming above pre-industrial levels, with a likely range of 
+0.8°C to 1.2°C. Global warming is likely to reach 1.5°C between 2030 and 2052 if it continues to 
+increase at the current rate. 
+ 
+ 
+Thus, climate change presents the biggest threat facing mankind today. Major adverse impacts of climate 
+change include declining water resources; reduced agricultural productivity; spread of vector-borne 
+diseases to new areas; changes in populations and distribution of biodiversity; and turbulent weather and 
+climatic disasters. 
+ 
+Even though the largest share of historical and current global emissions of GHGs originated in 
+developed countries, developing countries will be the most affected. Somalia is highly vulnerable to the
+=== PAGE 14 ===
+10 
+ 
+impacts of climate change as the economy depends on subsistence agriculture, livestock rearing and 
+other natural resources. The country developed National Adaptation Programme of Action (NAPA) with 
+the goal of making Somalia more resilient to the negative impacts of climate. 
+Somalia needs adequate resources for it to experience sustainable and robust socio-economic 
+development. Nevertheless, such economic progress is threatened by the effects of climate change. Over 
+the years, Somalia has experienced increasing evidence of climate change such as variation in climatic 
+patterns, the rise in sea levels, land degradation, varying precipitation patterns, and occurrence of 
+extreme weather. Such a trajectory constitutes a severe threat to Somali’s socio-economic development. 
+The NCCP aims to address the threats posed by climate change and attain climate resilient economy. 
+The next section explains the rationale for the NCCP. 
+1.2. Rationale for the National Climate Change Policy 
+Somalia faces the impact of climate change coupled with instability and many socio-economic problems 
+like poverty, poor infrastructure, lack of technology and finance, and weak institutions, among others 
+challenges. Several anthropogenic impacts have also worsened the climate change impact in the country 
+such as deforestation. 
+ 
+The impact of climate change in Somali is evident. Several climate disasters have already taken place in 
+the country; the latest being the flash floods in Hiiraan, Middle/Lower Shabelle and Bari (Qardho) 
+regions, which have resulted the loss of lives and displacement of people. Because of erratic rainfall, 
+many local people, particularly the farming communities, have witnessed the shift in rainy seasons, 
+affecting agricultural practice and livelihood. The country has also experienced frequent and protracted 
+droughts which have devastated livestock and crop production. The consequences of these effects are 
+food insecurity, hunger, malnutrition, displaced, loss of lives etc.
+=== PAGE 15 ===
+11 
+ 
+ 
+ 
+ 
+In order to tackle the impact of climate change, it has become vital that a climate change policy, which 
+address key sectorial and cross-sectorial issues, be put in place. Climate change needs to be integrated 
+in key sectorial and cross-sectorial policies and interventions. The commitment made by the government 
+of Somalia through the INDC (2015) and INC (2018) are landmark documents which express the 
+importance of developing a Climate Change Policy that aims to adapt and mitigate the diverse and 
+complex impacts of climate change. The National Climate Change Policy is a vehicle to move the 
+country’s efforts in a climate resilient and sustainable path. Similarly, this Policy is instrumental to the 
+implementation and achievement of the Sustainable Development Goals (SDGs, 2015) and the National 
+Development Plan 2020 -2024. Climate change and natural disasters are major threats to Somalia. The 
+NCCP aims to combat climate change, foster sustainability and contribute to achieving the development 
+goals of the country, thereby creating a prosperous and climate change resilient economy/nation. 
+1.3. The Process 
+The National Climate Change Policy (NCCP) for Somalia has been prepared with the active involvement 
+and assistance of a wide range of stakeholders who have contributed immensely in ensuring its 
+finalization. Consultations were held with officials of federal ministries, federal member states, civil 
+society organizations (CSOs), non-governmental organizations, international and inter-governmental 
+organizations, and the Somalia Parliamentary Select Committee on Environment. 
+The Ministry of Environment and Climate Change led the formulation of the NCCP with the assistance 
+of the United Nations Development Programme (UNDP) and Global Environment Facility (GEF).
+=== PAGE 16 ===
+12 
+ 
+1.4. Goal 
+The goal of this framework policy is to enhance resilience and improve the adaptive capacity of 
+vulnerable Somali communities, the ecosystems on which they depend, to the adverse impacts of climate 
+change in Somalia. 
+1.5. Vision 
+To attain a prosperous and climate resilient economy/nation through the adoption and successful 
+implementation of appropriate and effective climate change adaptation and mitigation measures. 
+• 
+Somalia is significantly vulnerable to negative impacts of climate change as over 80% of the 
+population relies on natural resources and the environment for food and income; 
+• 
+The predicted impacts for Somalia are likely to be severe on the natural and human 
+environments. The events will include extreme droughts, increased variability in rainfall, flash 
+floods, increased temperature, tropical cyclones etc; 
+• 
+To adequately address climate change as a challenge and respond in a timely, effective and 
+appropriate manner, Somalia needs to explore adaptation and mitigation approaches relevant to 
+the different key sectors and the situation on the ground. Therefore, the policy vision is to attain 
+a prosperous and climate resilient economy/nation. 
+ 
+1.6. Guiding Principles 
+The guiding principles offer a foundation for policy direction for the national responses to issues of 
+climate change in Somalia and ensure that they are in conformity to the prevailing national policies, 
+development agenda and are in line with the laws and statutes of the Federal Republic of Somalia. The 
+following principles will guide the implementation of this policy: 
+i. 
+Right to Sustainable Development: programmes and initiatives should deliver long-term, 
+positive, economic, social and ecological, impacts. The right to development will hence be 
+appreciated taking into consideration the social, environmental, and economic needs. A Somalia 
+aim at attaining a people-centred approach to development that enhances human abilities, 
+promote well-being and improves wellbeing. 
+ii. 
+Integrated Approach and Prioritisation of The Most Common Good: Ensure multi- 
+sectorial, multi-level and inter-disciplinary approaches to achieve national development goals. 
+Similarly, ensure actions that have the most positive impact on the population are prioritized. 
+iii. 
+Prioritization of Vulnerable Groups, Regions, and Sectors and Promotion of Community 
+Ownership and Participation: Ensure that actions target the most vulnerable locations, 
+population groups, and sectors and enabling local community involvement and participatory 
+decision-making and put in place effective feedback mechanisms.
+=== PAGE 17 ===
+13 
+ 
+iv. 
+International Partnership: to foster collaborations in addressing climate change on a regional 
+and worldwide arena while appreciating the national duties 
+v. 
+Country-Driven and Cooperative Government: National aspirations drove NCCP and 
+predicated on national development priorities while being aligned with federal laws, 
+international obligations, and commitments. The process will embrace a system of negotiation, 
+consensus, and consultations between national and other levels of government. 
+vi. 
+Scientific Information: Use of scientifically sound data while appreciating the importance of 
+traditional knowledge. Adaptation options and technologies are locally suitable and affordable 
+and ensure systematic reporting and feedback on policy implementation. 
+vii. 
+Decentralised Implementation and Mainstreaming Approach: Ensure that actions are taken 
+at the regional and local government levels. In recognising different genders face different 
+challenges, gender issues should be integrated into planning and implementation practices. 
+viii. 
+Equity, Fairness and Social Inclusion: Initiatives and projects should promote equitable 
+accessibility and distribution of benefits, information and support to marginal and 
+disadvantaged persons, identifying their vulnerabilities to climate change. 
+ix. 
+Prioritization of Adaptation over Mitigation: 
+ 
+1.7. Policy Objectives 
+The NCCP will guide national response measures in addressing the impacts of climate change. The 
+objectives of the policy is to promote and strengthen the implementation of adaptation and disaster risk 
+reduction measures to reduce vulnerability to climate change. The policy also aims to promote 
+investments in climate resilient and low-carbon development pathways in all economic activities. 
+1.7.1. Adaptation and Disaster Risk Reduction Measures 
+i. 
+Guide the implementing agency in the selection of prioritized climate change adaptation options 
+and fund mobilization to upscale adaptation interventions and find parallel financing for 
+mitigation in the future. 
+ii. 
+Recommend actions for capacity development, technology transfer and mobilize global funding 
+to meet various policy recommendations 
+iii. 
+Minimize susceptibility to the impacts of climate change by establishing adaptive capacity, 
+strengthen capacities for disaster risk reduction and promote resilience of populations to climate 
+change. 
+iv. 
+Increase public participation, awareness, oversight, ownership of Somalia climate change 
+response plans 
+v. 
+Augment research and the utilization of science and technology in policy decision and 
+sustainability of resource management.
+=== PAGE 18 ===
+14 
+ 
+vi. 
+Establish a framework to harness resources for Somalia’s climate change response and 
+guarantee transparent deployment of the resources. 
+vii. 
+Establish a policy framework to enhance the effective and efficient implementation of evidence- 
+based climate change action plans. 
+viii. 
+Implement gender mainstreaming, intergenerational and unique needs methods across all facets 
+of Somalia’s climate change response 
+ 
+1.7.2. Mitigation 
+i. 
+Initiate Somalia transition to cleaner, lower emission, and less carbon-intensive economic 
+development. 
+1.8. Application 
+This policy shall help in guiding the work of governmental, non-governmental, and civic entities that 
+participate or seek to engage in managing climate change issues.
+=== PAGE 19 ===
+15 
+ 
+CHAPTER 2 
+POLICY CONTEXT 
+2.1. International and Regional Context 
+The earth’s climate system has changed at both global and regional scales since the pre-industrial era. 
+Some of the changes are attributable to human activities which have increased the atmospheric 
+concentrations of greenhouse gases. Ever since the industrial revolution, the atmospheric concentrations 
+of key anthropogenic greenhouse gases [i.e., carbon dioxide (CO2), methane (CH4), nitrous oxide 
+(N2O)] have been increasing over the years, primarily due to the use of fossil fuels, agriculture, and land 
+use changes. The increase in GHGs is a process that continues today. 
+ 
+The Inter-governmental Panel on Climate Change (IPCC) has published five assessment reports that 
+progressively identify human activities as the driving force behind present and future global climate 
+change. The IPCC indicates that the rise in GHGs will result in extreme weather events such as droughts 
+and floods, biodiversity loss, shifts in seasons, and rise in natural disasters. The World Bank estimates 
+that extreme weather events will force approximately 140 million people will be displaced within their 
+countries by 2050. 
+ 
+The IPCC notes that Africa remains as one of the most sensitive regions to climate change impacts. The 
+most significant implications relate to food production, water resources, human health, coastal zones, 
+desertification. In East Africa, glaciers are retreating, droughts, floods, landslide, and heatwaves are 
+increasing. According to IPCC, Mount Kilimanjaro has lost approximately 83% of its ice cap, which is 
+an indispensable source of water for the communities living around the mountains. Somalia is already 
+experiencing the adverse effects of climate change as evidenced by the dramatic shift in weather patterns 
+and the increase in disasters, which have had a negative effect on vulnerable populations. 
+Climate change and related environmental degradation is one of the growing push factors for both 
+internal and cross-border migration. IDMC reports that there were more internal displacements created 
+by disasters than conflict in 2018 (IDMC, 2019). 
+The countries of Eastern Africa are prone to extreme climatic events such as droughts and floods. There 
+is evidence that future climate change may lead to a change in the frequency or severity of such extreme 
+weather events, potentially worsening these impacts. These will have potentially important effects across 
+all economic and social sectors in the region, possibly affecting agricultural production, health status, 
+water availability, energy use, biodiversity and ecosystem services. Drought diminished water supplies 
+reduce crop productivity and have resulted in widespread famine in East Africa. El Niño is the most 
+important factor in interannual variability of precipitation in East Africa. El Niño is commonly linked 
+to extreme rainfall in eastern Africa (Grantham Research Institute, 2016).
+=== PAGE 20 ===
+16 
+ 
+2.2. National Context 
+ 
+In 2012, Somalia marked a milestone with the establishment of a federal government that received strong 
+support and recognition from the international community. Somalia was without a formal parliament for 
+more than two decades after the overthrow of President Siad Barre in 1991. A provisional national 
+constitution was passed in June 2012, bestowing the country with a federal parliamentary system. 
+ 
+With the endorsement of the provisional constitution by Somalia’s National Constituent Assembly, the 
+country formally embarked on the implementation of a federal formula. Articles 25 & 45 of the 
+Provisional Constitution of Somalia specifically deals with matters related to the environment and the 
+management of natural resources. Moreover, under the NDP 2020-2024, the economic development 
+goal is “to transform the economy by improving the resilience of traditional livestock and crop 
+production industries to better meet the growing challenges from climate change, while at the same time 
+inducing growth elsewhere in the private sector to broaden and sustain the growth base and provide 
+greater employment opportunities.” Similarly, the NDP strongly promotes the protection of the 
+environment in general. 
+ 
+Somalia’s continued vulnerability to climate change and the threat this poses to achieving long-term 
+development goals has thus been recognized. The country is most vulnerable to climate variability and 
+changes due to, among others, its high dependence on rainfed agro-pastoral practices and natural 
+resources. Due to its low adaptive capacity, Somalia is among the most vulnerable nations to climate 
+change. The country has frequently experienced extreme events like droughts and floods, and other 
+climate-related hazards. The country experiences high levels of temperature and rainfall variability, 
+which result in frequent droughts and famine. Since the early 1980s, the country has suffered seven 
+major droughts, five of which led to famines. Major floods have also occurred in different parts of the 
+country.
+=== PAGE 21 ===
+17 
+ 
+ 
+ 
+Somalia has prepared its Intended Nationally Determined Contributions (INDCs) in line with UN 
+Framework Convention on Climate Change (UNFCCC) and the decision of the "Lima Call for Action" 
+to formulate its policy, plans and mitigation and adaptation projects intended to achieve the objectives 
+of the INDCs (INDC, 2015). The INDC (2015), INC (2018) and NAPA (2013) identify critical areas of 
+focus in implementing adaptation and mitigation mechanisms to address the impacts of climate change. 
+Many approaches and strategies have been implemented by government institutions and other entities 
+such as UNDP, FAO and WHO to address the effects of climate change in Somalia. Nevertheless, the 
+initiatives have occurred without the guidance of a policy framework. The NCCP shows the commitment 
+of the Federal Government of Somalia (FGS) to the formulate a coherent, proactive and integrated 
+climate change responses that will reduce vulnerabilities and build the resilience of the Somalia nation. 
+This policy will also enable Somalia to capture the economic, environmental and social benefits of 
+transitioning to low carbon climate resilient economy. 
+ 
+Additionally, the policy will: 
+ 
+i. 
+Promote a harmonized, articulate and effective response to the challenges of climate change. 
+ii. 
+Provide a framework that will guide the establishment and implementation of interventions and 
+action plans. By adopting this policy, Somalia aims at safeguarding the safety and health of its 
+citizens, their prosperity and development through enhancement of resilience and 
+implementation of adaptive and mitigation measures to climate change.
+=== PAGE 22 ===
+18 
+ 
+CHAPTER 3 
+SITUATION ANALYSIS AND IMPACTS OF CLIMATE CHANGE IN SOMALIA 
+3.1. Evidence of Climate Change and Projections in Somalia 
+ 
+Climate change has manifested itself in various ways in Somalia based on the following statistical 
+analysis of trends in historical records of temperature, rainfall, humidity, sea level rise, and climate 
+extremes. 
+3.1.1. Surface Temperature 
+ 
+Changes in extreme temperatures across Somalia have been observed over the last 50 years; 
+temperatures have increased by 1.0°C in a century. The mean air temperatures remain high throughout 
+the year with the mean daily temperatures for the period 1953-1976 were 25.2°C to 28.8°C with an 
+annual mean of 27°C. Diurnal temperature fluctuations are high and can range from 20°C to 35°C. 
+ 
+Temperature is the highest inland while temperatures along the southern coast are lower than that inland, 
+due to the influence of cold ocean currents. The relative thermal uniformity prevailing in the south is 
+distorted by the effects of altitude in the north, where temperature decreases with altitude giving a larger 
+mean daily lapse rate of about 6°C per 1000m. However, the lapse rate varies with seasonal changes 
+throughout the year, being more substantial in the dry season than in the wet season. 
+ 
+The recent CMIP5 regional models also project a steady increase between northern, central and southern 
+regions of Somalia, and between seasons with temperatures expected to increase at a steady rate of 0.3- 
+0.5oC per decade until 2050. In summary, mean temperature is expected to increase in Somalia between 
+3°C and 4°C by 2080. 
+3.1.2. Precipitation 
+Rainfall precipitation in whole of the country is low and unpredictable because of the climate change. 
+Overall, the climate conditions in Somalia is hot, arid to semi-arid, which is affected by the Inter Tropical 
+Convergence Zone (IUCN, 2006). Two rainy seasons prevail over much of the country, the "Gu" rains 
+(April to June) and the "Deyr" rains (October to November). “Jilaal” (winter) and “Xagaa” (summer) 
+are dry, although in the latter period the country experiences rain in the coastal areas. 
+Climate change could result in a slight increase in the amount of rain received each year. However, the 
+variability of rainfall patterns is also set to increase from an existing very high variable range. Because 
+of this high variability in rainfall patterns, it is not clear how seasonal rainfall (both wet and dry seasons 
+alike) will change (INDC, 2015). Mean annual rainfall in Somalia is expected to increase by 1%, 3% 
+and 4% by 2030, 2050 and 2080, respectively (using the 1981-2000 reference period). However, 
+seasonal changes is expected with less precipitation for central and southern Somalia during March,
+=== PAGE 23 ===
+19 
+ 
+April, and May (MAM) season by 2080. In summary, a gradual increase in total rainfall is expected in 
+Somalia though with increasing seasonal variability. Extreme rainfall events can be expected to increase 
+across the different periods. 
+3.1.3. Extreme Weather Events 
+Somalia has experienced a number of extreme weather events including droughts, floods, storms 
+(includes dust storms & winds), cyclones and tsunami. Of these, droughts and floods are the most 
+frequent disasters. Drought is the most important, devastating and recurrent natural disaster affecting the 
+country with more frequency and greater intensity in the recent decades. Records show that droughts alone 
+have affected over 70% of the Somali populations in the last few decades (INDC, 2015). Some 14 major 
+drought events have been recorded in the last 50 years adversely affecting over 6 million people (INDC, 
+2015). Flooding of Jubba and Shabelle rivers frequently occur during the Gu rainy season in the Hiran and 
+Middle Shabeelle regions. Coastal areas of Somalia are prone to tsunami. In the 2004 Indian Ocean 
+tsunami, the country suffered damage and the loss of lives. Powerful and destructive tropical cyclones 
+pose a risk to Somalia. With the current global warming, the country is at risk of suffering from tropical 
+cyclones and storms. 
+ 
+ 
+Somalia lacks the capacity to deal with major disasters such as the tsunami, storms, protracted droughts 
+and El Nino floods. Climate change is an acknowledged fact. Unless early action is taken to adapt to 
+climate change, the country may not be in a position to achieve the UN SDGs and National Development 
+Plan 2020 -2024.
+=== PAGE 24 ===
+20 
+ 
+3.1.4. Sea temperature and rising sea level 
+ 
+The sea surface temperature over the coast of Somalia bounded by 20S to 130N and 520E to 550E 
+depicts a gradual rising trend in temperature of 0.4oC over 26 years (1981-2007). There is currently no 
+available tide gauge data along the Somalia coast that can be used to support the expected sea level rise. 
+A 15-year (1995-2010) record on observations of monthly mean sea level from a tide gauge in Lamu, 
+Kenya within the East African coast and a rising trend of about 1.3 mm per year, which is aligned to the 
+global pattern. 
+ 
+The Mombasa tide gauge, about 500km away from Lamu, with a 25-year (1986-2010) indicates the 
+same rising trend even though there are data gaps in this record. Somalia coast, which is a few kilometres 
+away from Lamu and along the same East African coast, is very likely to exhibit the same trend. This is 
+supported by the fact that the ocean dynamics of the two Kenya stations are closely intertwined. Somalia 
+can expect a mean sea-level rise of about 50cm by the end of 2099 along the Indian Ocean coastline. 
+3.2. Impact of Climate Change in Somalia 
+ 
+Climate change has had a significant adverse impact on Somalia Natural ecosystem, and most evidently 
+in the Arid and Semi-arid land (ASAL). ASAL, which comprise more than 80% of the Somalia 
+landmass, are typically delicate ecosystems and the deficiency in investment in public services and 
+goods in such areas significantly increases the country’s susceptibility to climate change. The impact of 
+climate change traverses a wide range of societal aspects, economy, and environment. The adverse 
+effects of climate change can affect the economic, social, political advancement of Somalia’s key 
+precedence areas. The effects are evident as follows: 
+3.2.1. Impact on Food Security and Nutrition 
+ 
+Food security and nutrition in Somalia has been negatively affected by climate change, mainly due to 
+land degradation and droughts. Climate calamities such as storms, floods, and droughts have the 
+potential to destroy crops, key community assets and critical infrastructures such as dams, road and 
+communication networks that are critical in food production and distribution. Somalia has one of the 
+longest coastlines in Africa. Climate change has led to a rise in sea level with the potential to affect 
+negatively livelihoods in the coastal areas and river deltas. Changes in climatic conditions have already 
+affected food production. The rise in temperature will affect the quality and quantity of crop yields. 
+ 
+Across Somalia, food access is increasingly becoming a significant issue of concern. Climate change 
+has already led to a rise in prices of major crops and staple foods. For the most susceptible population, 
+lower agricultural production means lower income. Under such circumstances, the poor who have used
+=== PAGE 25 ===
+21 
+ 
+their income on basic needs, expense their income to address their nutritional requirement. Shifting 
+climatic situations may lead to a vicious cycle of hunger and disease. Climatic changes influence 
+nutrition because of its impact on dietary diversity, food security, and health and care practices. 
+Additionally, climatic variability is increasingly producing frequent and intense weather events that 
+upset food security strategies and result in a fluctuation in food availability, accessibility, and utilization. 
+Hence, an all-inclusive developmental methodology with a medium to longer-term focus needs to be 
+made to establish food security. 
+3.2.2. Impact on Livestock, Fisheries, and Agriculture 
+ 
+Crop production and livestock are the primary sources of livelihood for agro-pastoral communities in 
+Somalia, with more than 70% of Somali depending on climate-sensitive pastoralism and agriculture. 
+There is the need to find methodologies that can lessen the sensitivity of farmers to snowballing rainfall 
+variability and unexpected increases in the global temperatures. Climate variations will negatively affect 
+the fragile natural resources that support livestock, which is the backbone of the people and the economy 
+of Somalia. 
+ 
+Rangeland degradation and progressive reduction of vegetation and other land degradation, compounded 
+by frequent and recurrent droughts, adversely affect livestock production in the regions. Small-Scale 
+farming practices depict the low economic base and the high vulnerability of Somalia populations to 
+socio-economic and climatic shocks. Rising ocean acidification and temperatures are altering the aquatic 
+ecosystems. Climate Change (CC) is transforming Somali’s fish supply and yield of marine and 
+freshwater species, hence adversely affecting the sustainability of aquaculture and fisheries. Therefore, 
+the long-term adaptation planning of Somalia will integrate an approach to both drought and floods. The 
+investment will be made to ensure that the country has early warning systems for daily monthly and 
+seasonal prediction. 
+3.2.3. Impact on Environment, Water and Forestry 
+ 
+Climate change has had a significant adverse impact on Somalia’s natural ecosystem. The decline in 
+environmental quality has led to adverse economic and social impact leading to compromising of quality 
+of life to the people who depend on the ecosystem. One of the most hard-hit areas is the Arid and Semi- 
+arid areas due to their higher vulnerability index exacerbated by inadequate investment to build 
+resilience and increase adaptation capacity. 
+ 
+Water is a scarce and critical resource that is under-developed in Somalia. The country is dominated by 
+surface water resources (INC, 2018). The south of Somalia hosts the country’s only two permanent 
+rivers, the Juba and Shabelle. Groundwater resources (aquifers) are believed to exist though deep water
+=== PAGE 26 ===
+22 
+ 
+aquifers are not currently accessed. Shallow water aquifers and wells are accessed ad-hoc with little 
+understanding of downstream hydrological impacts (INDC, 2015). There is currently no coordinated 
+oversight and understanding of Somalia’s water resources, access and supply. Hence, there is a need for 
+a comprehensive assessment and understanding of the water resources (surface and underground) of the 
+country and the impact of climate change on water. This policy intends to address those issues. 
+ 
+The vegetation in Somalia is predominantly dry deciduous bush land and thicket dominated by species 
+of Acacia and Camiphora, with semi-desert grasslands and deciduous shrub land in the north and along 
+much of the coast. In general, the vegetation becomes denser towards the south – much of the north- 
+eastern part of the country is devoid of trees. The total forest coverage is around 14 per cent (90,000 
+km2) of the land (INC, 2018). Forest growth in general is limited due to poor soils and low rainfall, 
+which are the effects of climate change. 
+3.2.4. Land Degradation and Desertification 
+ 
+Somalia is expected to experience a steady rise in temperature in the future. Generally, most of the 
+challenges that the country faces arise from land degradation. Unfortunately, the adverse impact of 
+climate change has exacerbated the rate of environmental degradation; hence, the need for the 
+establishment of effective enforcement measures to implement laws and regulation that control the use 
+of natural resources. 
+ 
+Land degradation in Somalia is caused by human activity such as overgrazing, tree cutting, and poor 
+agronomic practices. Rangelands and other valuable resources are subjected to unsustainable use such 
+as charcoal burning and illegal logging. Unsustainable deforestation contributes significantly to the 
+increase in the greenhouse effect by reducing the carbon stock and destroying habitats that are essential 
+in supporting biodiversity. 
+ 
+In addition, the hydrological cycle is negatively affected. Increase in floods and winds result in soil 
+erosion, runoff and landslide, hence destroying livelihoods. Since a majority of socio-economic 
+activities in Somalia depend on rainfall water availability, the country will face increased threats of 
+climate extremes unless effective adaptation systems are initiated. 
+3.2.5. Impact on Health 
+ 
+Population health has been adversely impacted by climate change in Somalia. Somalia has a heightened 
+risk of climate-sensitive infectious illnesses such as foodborne, waterborne, vector-borne disease. 
+Vector-borne diseases such as RVF and dengue fever are common.
+=== PAGE 27 ===
+23 
+ 
+Generally, there is an increase in mortality of animals and humans, shortages of food lead to malnutrition 
+particularly among children, mothers and youths, the rise in psychological disorders because of stress. 
+Also, there are high cases of asthma, pneumonia and other respiratory diseases. High incidences of 
+sunburn, dehydration, heat stroke, sunstroke, and heat exhaustion have also been reported. Floods and 
+fires that may accompany climate change may lead to the destruction of health services, disease 
+epidemics and overburdening of existing health facilities. 
+ 
+Therefore, the country will endeavour to improve health status through establishing and upgrading 
+health facilities, expanding community level nutritional program, institute early warning systems for 
+drought and food insecurity, and improve water quality. In addition, doctors and nurses may need more 
+training on how to deal with climate-related health problems, establish waste management systems, and 
+promote public health awareness campaigns. 
+3.2.6. Impact on Coastal Areas 
+ 
+Somali local communities depend on marine and coastal ecosystems, with a significant number of them 
+practicing fishing or fishery-related activities. The increase in GHG and associated climate change will 
+affect the chemistry and physical composition of Somalia coastal waters through a change in salinity, 
+ocean temperatures, upwelling, chemical reactions, general cycles of various gases, the concentration of 
+gases and solid suspension, and effects of UV and other solar rays due to ozone depletion. The rise in 
+temperatures and sea levels, ocean acidification, and irregular precipitation pose significant challenges 
+to the structure, health and functioning of the marine and coastal marine ecosystems such as mangroves, 
+wetlands, coral reefs, and estuaries, which are highly susceptible to climate change. 
+ 
+Degradation of coastal environment leads to a decline in vegetative cover, the death of wildlife and the 
+reduction in soil fertility. The many competing demands on coastal resources have led to depletion of 
+forest cover, and the destruction of mangroves. The implementation of Somalia National Vision 2030 
+requires harnessing of increasing quantities of the already scarce natural resources due to urbanization, 
+competition for resources, an increase in demand for healthcare, infrastructure, and energy. Therefore, 
+Somalia will incorporate climate proofing planning, accounting, and execution systems to guarantee that 
+the implementation of the 2030 strategy and any other development strategy does not exacerbate 
+vulnerability to climate change. 
+3.2.7. Impact on Infrastructure 
+ 
+A well-developed and expanded infrastructure is an indispensable enabler of socio-economic 
+development. Somalia’s vision 2020 and 2030 aspires to achieve significant poverty reduction in the 
+country by addressing economic and social marginalization, poor health and lack of access to education.
+=== PAGE 28 ===
+24 
+ 
+The principal natural resources for Somalia are water, land and minerals, coastal and marine resources, 
+forests and woodland and biodiversity and wildlife. The main aim of vision 2030 is to increase 
+investment in environmental protection, transport and communication, and energy supply. There is a 
+need to identify the influence of climate change on the attainment of Somali’s vision. One approach is 
+to integrate climate change opportunities and threats in the design and management of the Somalis 
+infrastructure. A different approach is to promote investment in infrastructure that enhances the 
+makeover of a low carbon economy while at the same time creating employment opportunities. 
+Reinforcing the sustainability of services and infrastructure means that in times of catastrophe, societies 
+can continue to access sanitation and water services and that there are mechanisms in place to direct 
+local governments. 
+3.2.8. Impact on Economic Development 
+Somalia is a low-income developing country (World Bank). Climate change represents a serious threat 
+to the country’s economic growth. There is clear evidence to show the adverse effects of climate change 
+on Somalia’s national economy, most specifically in the agricultural sector. According to the Somalia 
+Drought Impact and Needs Assessment (DINA) report the drought in 2016/17 alone caused economic 
+losses estimated at US$3.25 billion (NDP, 2020-2024). A majority of Somali’s rely on agriculture to 
+sustain their livelihoods. However, agricultural productivity is significantly affected by climatic 
+extremes such as droughts, floods, and famine. Large stocks of animals put enormous pressure on 
+foraging land, triggering land dilapidation and spawning clashes over land ownership rights. In 
+situations where there is a lack of regulatory measures, land, and water is a significant source of conflicts. 
+The outbreak of diseases primarily in livestock makes Somalia lose significant income from agricultural 
+exports due to ban impositions. Droughts have adversely affected water resources, hydroelectricity 
+production, and farming sectors. 
+3.2.9. Impact on Migration 
+The adverse effects of climate change are affecting the living conditions of the Somali population, 
+resulting in increased forced and voluntary environmental migration. Frequent recurring drought and 
+floods and limited adaptative capacity, have already impacted on population movements in Somalia, 
+contributing to both internal- and cross-border displacement. Predicted sea level rise as a result of 
+climate change, is likely to further impact on population movements in coastal areas. 
+If not mitigated, natural resource competition caused by depletion of the Somali natural resource base, 
+may further exacerbate tensions between communities and result in conflict-induced displacement.
+=== PAGE 29 ===
+25 
+ 
+CHAPTER 4 
+CROSS-CUTTING THEMES 
+Somalia recognises that the economic stability and resilience of the natural environment is key to coping 
+with climate change. Developing national human and institutional capacity in all aspects of climate 
+change (research, response, and planning) are essential. The cross-cutting issues are those topics which, 
+by their nature, have a strong impact across all specific sectors and need to receive special attention. The 
+cross-sectorial themes identified as critical in this policy document are: capacity building, research, 
+technology and innovation, international cooperation, information and communication, education and 
+public awareness and mainstreaming climate change. 
+4.1. Capacity-building 
+Climate change poses entirely new challenges to Somalia’s existing capacities, and it is clear that people 
+and institutions need to respond in new ways. Somalia has taken steps to address national capacity gaps, 
+but still faces challenges around institutional capacity and knowledge. Given the wider impact of climate 
+change, capacity-building needs to be rolled out to include the wider society, that is, the private sector, 
+the media, non-governmental organizations and, above all, communities. There is a need to ensure that 
+women have equal access to training and capacity-building programmes to ensure their full participation 
+in climate change initiatives. 
+In order to strengthen the institution and human resource capacity and effectively address all aspects of 
+climate change at national, state, provincial, district and local levels the policy is: 
+ 
+Policy Statements 
+1) Promote stakeholder participation and integration of climate change in natural resources 
+management. 
+2) Promote capacity building in climate change response actions. 
+3) Facilitate implementation of capacity development programs in modeling and systematic 
+observation. 
+4) Enhance monitoring and review of effectiveness of capacity-building programs. 
+5) Build capacity in developing technologies and utilization of external technologies. 
+6) Strengthen the capacity of local technological innovation centers. 
+4.2. Research and Technology 
+Research will play a significant role in Somalia’s mitigation strategies, climate change adaptation, and 
+intervention. Somalia requires investing in continuous research and technological advancement to be 
+able to address current issues. Having sound and progressive research and technology systems will help 
+the country to understand, identify and predict climate-related changes and institute cost-effective and 
+efficient strategies. Somalia will need to put more resources and efforts in research development to help
+=== PAGE 30 ===
+26 
+ 
+determine the holistic influence of climate change to support policy formulation, legislation and 
+technological interventions. 
+Application of sustainable technology is necessary for attaining low carbon climate resilient 
+development whilst utilization of locally appropriate tools can help in the promotion of adaptive capacity 
+and help sustain competent function when faced with adverse climatic conditions. There is a need for 
+promotion and funding of research and capacity enhancement. It is proposed that initiatives by 
+universities, research and development institutes should be supported. 
+To develop and promote appropriate technologies and build national capacity to benefit from climate 
+change technological transfer, the policy is: 
+ 
+Policy Statements 
+1) Promote research and development (R&D) to address climate change. 
+2) Identify technology development and knowledge transfer needs to address and deal with 
+climate change. 
+3) Promote and support the development of technologies for mitigation and adaptation 
+interventions. 
+4) Promote removal of barriers of technology transfer. 
+5) Promote identification and utilization of climate-friendly technologies for mitigation and 
+adaptation that meet low-carbon and climate-resilient development needs 
+6) Support higher learning/research institutions on climate related applied research. 
+7) Promote use of indigenous knowledge/local innovation on climate change. 
+8) Heighten the ability of the various stakeholders in developing and utilizing technological 
+advancements. 
+9) Encourage and incentivize different stakeholders to promote Research and Development to 
+enhance adaptation and mitigation measures to climate change. 
+4.3. Regional and International Cooperation 
+Somalia is emerging from a prolonged conflict and needs critical support from the region and beyond. 
+The nations’ needs include developing a critical mass of trained experts to help ensure the successful 
+implementation of environmental policies and international obligations. While there has been progress 
+on raising public awareness of the challenges posed by climate change, there is still a long way ahead to 
+expand awareness, build the capacity of the nation to adapt and respond to the negative effects of climate 
+change.
+=== PAGE 31 ===
+27 
+ 
+There is a need to develop close collaboration with counterparts in Ethiopia, Kenya and Djibouti 
+(particularly Ethiopia since it is the source of Juba and Shabelle rivers). Equally, Somalia welcomes the 
+support from the international community to address the impacts of climate change. 
+The aim is to ensure that international support for climate finance, programmes and projects work in the 
+same way, to preserve Somalia’s strong relationship with donors and synergies with international 
+institutions and programmes. 
+4.4. Information and Communication 
+Somalia faces major challenges with information and data flow on climate change, including the quality 
+of data, access to data, gathering, sharing and translation of that data. The research needs on climate 
+change are significant, starting with the pressing need for better projections on possible impacts, backed 
+by effective knowledge systems to inform strategy, planning and practice. The fundamental factor in 
+managing climate change relies upon the ability to collect, analyze, access and utilize of information on 
+impacts and vulnerabilities to establish adaptation and mitigation strategies. The government is 
+cognisant of the need to gather, manage and use existing information in decision making. 
+ 
+Effective communication strategies influence accessibility to information. Somalia requires climate 
+change information and knowledge management to enhance public participation and awareness. 
+Effective strategies should be set up to guide climate-related data collection, storage, analysis, 
+utilization, and dissemination. 
+Information on how to prepare for extreme climate change and weather impacts, which include floods 
+and droughts, is scarce. Knowledge and awareness are critical factors in the effectiveness of preparation, 
+response and recovering from environmental shocks and stresses. 
+Policy Statements 
+ 
+1) Facilitate climate change advocacy, communication and awareness. 
+2) Develop and implement an information generation and sharing mechanism for climate change. 
+3) Establish a coherent and effective communication strategy to boost the dissemination of credible 
+and reliable information and research findings, regarding climate change to the public and all 
+relevant stakeholders in a timely manner. 
+4) Establish strategies to promote access to climate change information such as mode of 
+communication. Use of internet, mainstream media and traditional means of communication 
+should be effectively integrated. 
+5) Institute approaches to gathering, documenting and application of indigenous and contemporary 
+knowledge on climate change management;
+=== PAGE 32 ===
+28 
+ 
+6) Establish national and regional climate change hub to help in the management of climate change 
+information. The centres should draw members from all stakeholders and relevant expertise. 
+ 
+4.5. Education and Public Awareness 
+Public education and awareness of climate change issues is an important strategy for ensuring 
+participation and collaboration. Through awareness creation, particularly on climate change 
+interventions, Somalia can promote the effectiveness of its approaches to climate change. Civic 
+education and public awareness will encourage awareness and establish avenues for exchange and 
+distribution of information. 
+Education and public awareness will promote climate change education, raise awareness and help build 
+capacities for a range of stakeholders hence contributing to the national development process at all the 
+levels of the governance structure in Somalia. 
+Policy Statements 
+ 
+1) Ensure that all stakeholders understand the effects of climate change in Somalia, its underlying 
+causes, responses, and available approaches. 
+2) Promote involvement of local authorities and traditional leaders in climate change 
+education/public awareness including indigenous knowledge. 
+3) Mainstream climate change concerns in education curriculums and put in place mechanisms of 
+ensuring the development of suitably skilled professionals to handle specific technical 
+challenges associated with climate change. 
+4) Promote public awareness through formal, non-formal and informal education about 
+environmental issues. 
+5) Raise understanding and awareness of climate change-related issues across all sectors and at all 
+levels in Somalia. 
+6) Incorporate climate change and gender in training programs and education curriculum and 
+improve environmental knowledge and empowerment of women groups. 
+ 
+4.6. Mainstreaming Climate Change 
+In Somalia, where the environment is the foundation for nation building and livelihood development, 
+environmental aspects like climate change need to be mainstreamed across all sectors. Only then can 
+the objectives of the policy be achieved. 
+ 
+Policy Statements
+=== PAGE 33 ===
+29 
+ 
+1) Outline mechanisms and tools for mainstreaming climate change responses into all Federal 
+and State planning; 
+2) Mainstream climate change into the federal government, state, regions, and districts, and 
+local level planning processes, including national development policies and plans and state 
+development plans; 
+3) Establish the institutional framework and build capacity to coordinate and enhance 
+mainstreaming at all the sectors of the economy. 
+4) Integrate climate change-related issues into economic policies and action plans that address 
+the needs of vulnerable groups.
+=== PAGE 34 ===
+30 
+ 
+CHAPTER 5 
+SECTORS & POLICY INTERVENTIONS 
+Climate change will have profound effects on key sectors of Somalia’s economy. It is expected that the 
+projected changes in climate will impact on the performance of the following key sectors, among others: 
+Agriculture, livestock, Water, Marine Resources, Forestry and Biodiversity, Infrastructure and 
+Cities/towns (INC, 2018). In this regard, specific policies to develop and strengthen adaptive capacity 
+in all these key sectors within the context of climate change are needed. 
+5.1. Adaptation 
+Climate change adaptation is of great importance to Somalia and other countries that are experiencing 
+the effects of this phenomenon. Somalia’s contribution to GHG emissions is very insignificant, yet the 
+country has suffered the brunt of climate change in recent years especially through the increased 
+frequency of droughts and floods. These make climate change adaptation a necessity for Somalis. 
+Although Somalia has a low adaptive capacity to climate change, the following policy actions will be 
+taken in the selected key sectors. 
+5.1.1. Climate-resilient Agriculture 
+Agriculture is one of Somalia’s most climate sensitive sectors given the close relationship between levels 
+of agricultural production and rainfall. There are no official statistics on the sector, but crop production 
+is second after livestock (NDP, 2020-2024). Somali farmers are dependent on rainfed agriculture making 
+them highly vulnerable to climate change induced weather extremes, variability and climate change 
+impacts. For adaptation to be effective, it is important to understand the vulnerability of the agricultural 
+sector to climate change and variability. In this regard, the Government shall: 
+ 
+Policy Statements 
+1) Launch and improve research activities in climate-smart agriculture 
+2) Promote capacity-building for farmers and build awareness on climate change issues 
+3) Develop climate-resilient cropping and strengthen the capacity to identify and promote adoption 
+of improved seed and crop varieties that are tolerant to climate related stresses. 
+4) Promote diversified land use practices, including agro-forestry, dry-land farming, 
+urban/backyard vegetable production, beekeeping, poultry production, to reduce risk and 
+increase the capacity of farmers to cope with droughts and floods; 
+5) Promote appropriate technologies for small-scale irrigation, water re-use and water harvesting 
+(e.g., waste/water recycling), rainwater harvesting, etc. 
+6) Develop drip irrigation that will reduce the amount of water needed for irrigation as well as 
+other water conservation techniques;
+=== PAGE 35 ===
+31 
+ 
+7) Promote irrigation and water use efficiency in agriculture including adequate assessment of 
+irrigation potential and irrigation demand under climate change. 
+8) Promote the use of organic fertilizers instead of chemical fertilizers. 
+9) Institute risk transfer schemes (e.g., insurance) against local supply changes, harvest failure or 
+weather risk 
+10) Improve post-harvest capacity, e.g., storage and processing facilities and infrastructure 
+11) Build capacity for recycling and conversion of agricultural waste 
+12) Undertake comprehensive analyses to understand barriers to adaptation to climate change, 
+including human, institutional and financial barriers. 
+13) Establish and strengthen early warning systems on cropping season quality, rangeland 
+condition, droughts, floods, and disease/pest outbreaks in order to enhance farmer preparedness. 
+ 
+5.1.2. Livestock Sector 
+Livestock has been and remains the backbone of the Somali economy, in terms of GDP contribution, 
+domestic consumption and foreign currency earnings. Indeed this has been the case for centuries and 
+remains the traditional repository of household wealth and social prestige in Somalia. Livestock alone 
+provides 75 percent of total exports by value and is an important source of livelihood for a large part of 
+the country’s population. The vast majority of Somalia’s population also depend on livestock and its 
+products (NDP, 2020-2024). 
+ 
+Policy Statements 
+1) Modernize traditional livestock rearing systems to build resilience to climate change. 
+2) Provide capacity building for livestock keepers. There is a need to improve the capacity of 
+livestock producers and herders to understand and deal with climate change increasing their 
+awareness of global changes. 
+3) Enhance livestock management systems. Efficient and affordable adaptation practices need to 
+be developed for the rural poor who are unable to afford expensive adaptation technologies. 
+These could include provision of shade and water to reduce heat stress from increased 
+temperature 
+4) Identify and strengthen local breeds that have adapted to local climatic stress 
+5) Improve local genetics through cross-breeding with heat and disease-tolerant breeds 
+6) Work towards a better understanding of the impacts of climate change on livestock, developing 
+new breeds and genetic types, improving animal health and enhancing water and soil 
+management would support adaptation measures in the long term 
+7) Establish early warning systems and other forecasting and crisis-preparedness systems
+=== PAGE 36 ===
+32 
+ 
+8) Enhance disease control & animal health 
+9) Breed feed crops & forage resistance to drought and heat 
+10) Develop and strengthen the implementation of drought management framework for livestock 
+sector. 
+ 
+5.1.3. Water Sector 
+Climate change is mainly evident by its effects on water resources availability patterns. Water is scarce 
+in many parts of Somalia and climate change has exacerbated the situation. To adapt effectively, climate- 
+resilient water sector policies and investments are needed. In this regard, the policy is: 
+ 
+Policy Statements 
+1) Support the protection of river catchments and other sources of freshwater to secure a steady 
+supply of freshwater across all sectors and communities. 
+2) Facilitate and promote water recycling, reuse and efficiency to secure steady supply of 
+freshwater. 
+3) Prioritize community level infrastructure including berkeds, shallow wells, and ponds. 
+4) Gather and monitor data related to the ground and surface water resources to ensure quality 
+and access to clean water. 
+5) Undertake comprehensive hydrological analyses to understand vulnerability levels and 
+identify potential adaptation actions for Somalia. 
+6) Periodically review existing national and water-related sectoral policies (such as agriculture, 
+energy, environment) to ensure that they adequately address climate-related challenges. 
+7) Develop a National Water Resources Management Master Plan, which explicitly integrates 
+climate change. 
+8) Ensure climate change is incorporated in water resources infrastructure design. 
+9) Ensure improved water supply for livestock, wildlife and environment in line with the 
+changing climate. 
+10) Promote water harvesting for domestic, animal, agriculture and industrial use. 
+11) Establish and strengthen water diplomacy and support transboundary water management 
+and collaborate with neighbouring countries. 
+12) Strengthen the use of Geoinformation Science (GIS) and Earth Observation Technologies 
+in water resources assessment. 
+13) Develop and introduce flood and drought monitoring and control systems
+=== PAGE 37 ===
+33 
+ 
+5.1.4. Marine Resources 
+Somalia has the longest coastline of continental Africa, approximately 3,333 km extending from the 
+western passage of the Gulf of Aden to the Indian ocean up to the border with Kenya. The country, 
+therefore, has a very substantive Exclusive Economic Zone (EEZ), estimated at 825,052 square 
+kilometres covering one of the richest fishing grounds in the region (NDP, 2020 – 2024). 
+ 
+Policy Statements 
+1) Improve early warning and forecasting systems for severe weather events. 
+2) Invest in safer harbours and landing measures to improve safety at sea due to increased storm 
+severity 
+3) Provide capacity building to civil society, non-governmental organizations (NGOs), and 
+government organizations in climate change planning. Partnerships between private, public, 
+civil society and NGO sectors are vital for holistic climate change adaptation planning. 
+4) Design and implement programmes on fisheries management and disease control 
+5) Enhance community awareness on coastal disasters and necessary action; plantation and 
+regeneration of mangroves for the purpose of buffering coastal communities from storm surge 
+and coastal erosion. 
+6) Enhance plantation and regeneration of mangroves and coastal forests. 
+7) Develop of salinity-tolerant crop cultivars 
+ 
+5.1.5. Forestry and Biodiversity Sector 
+Prior to the civil war, Somalia’s forestry sector contributes 2.5% of the national GDP and many people 
+depended on forestry resources for their livelihoods. In 1985 Somalia was the world’s largest source of 
+incense, and produced over 2,000 tones. Likewise, Somalia has been the evolutionary center of fauna 
+and flora adapted to the climate conditions of the country. There was an abundance and diversity of 
+wildlife and the country had a reputation of being one of the best wildlife havens in Africa. Climate 
+change, among other things, have had severe impact on forestry and biodiversity. The policy is: 
+ 
+Policy Statements 
+1) Conserve and enhance forestry resources which act as both sinks and reservoirs of greenhouse 
+gases. 
+2) Strengthen afforestation programmes (re-plant forest lost) that promote drought and heat 
+tolerant tree species. 
+3) Strengthen research capacity in forest ecosystem resilience to facilitate adaptation efforts to 
+climate change.
+=== PAGE 38 ===
+34 
+ 
+4) Promote research to reduce the existing gaps in knowledge on forest ecosystems and climate 
+change. 
+5) Conserve and rehabilitate species that are near extinction and sustain their adaptive capacity. 
+6) Strengthen framework for Reducing Emission from Deforestation and Forest Degradation 
+(REDD+) and other financing mechanisms. 
+7) Strengthen enforcement and other measures to reduce deforestation and forest degradation. 
+8) Support research to enhance understanding of climate change impacts on wildlife and adaptive 
+management planning for key wildlife species. 
+9) Monitor and reduce the prevalence of invasive plant species. 
+10) Strengthen the use of Geoinformation Science (GIS) and Earth Observation Technologies in 
+forest and biodiversity assessment. 
+ 
+5.1.6. Infrastructure 
+Infrastructure plays a critical role in building resilience to climate change. Somalia’s infrastructure has 
+been destroyed in the conflict. The country is taking steps to rebuild infrastructure. Climate change has 
+impacts on infrastructure such as roads, dams, power distribution lines, homes and settlements. Coastal 
+infrastructure also requires interventions such as coastal and sea defence walls to decrease their 
+vulnerability to sea level rise. 
+ 
+The direct impacts of floods, droughts, landslides, and other climate hazards may also affect 
+infrastructure directly. Although investments required for infrastructure projects are initially high, those 
+that are robust enough to withstand adverse climatic pressures can result in major financial benefits in 
+the long term. It is imperative for infrastructural designs to take into consideration climate change. The 
+policy is: 
+ 
+Policy Statements 
+ 
+ 
+1) Develop climate proofed and environmentally sustainable transport infrastructure. 
+2) Develop capacity among technical staff to adapt infrastructure plans to climate change. 
+3) Conduct research on appropriate infrastructure design standards that meet higher 
+requirements against extreme weather-related natural hazard events. 
+4) Ensure climate resilience in the infrastructure sector, including improved use of weather 
+and climate information in infrastructure planning and development, and research to identify 
+and designs materials that enhance the resilience of infrastructure.
+=== PAGE 39 ===
+35 
+ 
+5) Major infrastructure projects such as roads, airports and sea ports should be subjected to 
+climate risk screening as part of the planning process. 
+5.1.7. Urbanization: Settlements 
+Somalia has one of the highest urbanization rates in the world. For nearly three decades, the Somali 
+urban landscape has been largely unregulated. Cities & towns are a bundle of casually and haphazardly 
+laid-out buildings. Authorities have limited power to guide and control the settlement process (UN 
+HABITAT, n.d). 
+On the other hand, the rural population continues to migrate to the cities, putting pressure on services 
+and infrastructure. During the drought of 2017, over 680,000 people were displaced and most of them 
+moved to urban areas (World Bank, 2017). The vulnerability of the urban population, particularly the 
+urban poor escalated due to pressure from urbanization. There is increased competition for scarce 
+resources. Urban areas need to be able to deal with stresses and shocks related to drought, floods and 
+insecurity. a well-structured urban context is needed to help adapt to stresses caused by climate change. 
+Policy Statements 
+ 
+1) Ensure that local authorities adopt climate proofed settlement designs. 
+2) Provide enabling policy environment to ensure climate resilience in urban planning, 
+construction and management. 
+3) Conduct assessment for hazard mapping, risk reduction and vulnerability of urban settlements 
+in flood-prone areas. 
+4) Integrate adaptation into human development programmes for resilient building, with particular 
+focus on the poor and vulnerable groups through upgrading informal settlements and improved 
+living conditions for all. 
+5) Promote incentives for commercial and public buildings to use energy efficient lighting and 
+appliances; 
+6) Develop and support for improved water supply and waste management systems for cities that 
+include recycling facilities and landfills with methane recovery for electricity generation. 
+7) Make installations of wastewater treatment plants an integral part of all sewerage schemes. 
+Ensure separate collection, disposal and re-use of recyclable, composite and biodegradable 
+waste preferably at source. 
+8) Monitor rural-to-urban migration and develop infrastructure and support facilities in smaller 
+agro-based towns and periphery urban areas in order to reverse rural-urban migration. 
+9) Develop and implement proper “spatial Land Use Planning” which considers existing and 
+predictions of climate change. 
+10) Regulate industrial development in urban designated areas through land use planning.
+=== PAGE 40 ===
+36 
+ 
+ 
+5.2. Disaster Preparedness and Response 
+Somalia is experiencing an increasing number of extreme weather-related hazards such as floods, 
+droughts, cyclones. Climate change intensifies the risk of climate-related disasters and leads to increased 
+loss of lives, livelihoods and assets of the country. Disaster preparedness and response strategies increase 
+the resilience of social systems by minimizing the risk of exposure to future hazards, and reducing the 
+vulnerability of communities and their property. Effective disaster management measures protect 
+vulnerable communities and improve their resilience to losses associated with the direct impacts of 
+floods, droughts, storm surges; as well as to indirectly caused disasters such as loss of harvest, disease 
+outbreaks, health epidemics and conflicts over natural resources. 
+ 
+Policy Statements 
+1) Establish National Metrological Authority to provide early warning on adverse weather 
+conditions in order to lessen climate-related hazards such as floods. 
+2) Improve hydro-meteorological observation networks to provide better climate data and 
+information, and communicate early warning of natural hazards. 
+3) Improve the disaster preparedness and response mechanism by enhancing the institutional 
+capacity of agencies engaged in disaster risk response and management. Improve awareness 
+and provide skills training to ensure preparedness in managing and responding to disasters; 
+4) Improve technical capacity and facilities for rapid response to disasters and disaster 
+management. 
+5) Encourage partnership among government and non-governmental agencies and strengthen 
+their capacity to respond in emergencies. 
+6) Construct proper drainage systems, floodways, dikes, dams, riverbank protection, buffer 
+zones, and undertake afforestation along embankments and other measures to reduce 
+flooding. 
+7) Construct channels, water collecting reservoirs and dams to contain floods and store water 
+for the dry season. 
+8) Encourage relocation of settlements and economic activities from climate-related disaster- 
+prone areas. 
+5.3. Mitigation 
+The country’s focus is mainly on adaptation to climate change. However, this does not make mitigation 
+irrelevant. Somalia‘s contribution (62.92 Mt CO2 as at 2015) to the total global GHG emissions is 
+marginal, representing less than 0.12 percent of total global emissions in 2015. Of the 62.92 Mt CO2 in 
+2015, about 96 percent of GHG emissions came from the Agriculture, Forestry and Land Use (AFOLU)
+=== PAGE 41 ===
+37 
+ 
+while the Energy and Waste contribute 3 percent and 1 percent respectively and the Industrial Processes 
+and Product Use (IPPU) sector is not considered significant (INC, 2018). 
+ 
+As Non-Annex I Party to the United Nations Framework Convention on Climate Change (UNFCCC), 
+Somalia is not obliged under the Convention to reduce its greenhouse gas (GHG) emissions (Ibid). The 
+three main gases (GHG emissions) are carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O). 
+This section outlines the policy directions for reducing emissions and enhancing removals by sinks of 
+GHG. 
+ 
+5.3.1. Energy 
+GHG emissions from energy sector activities in Somalia are primarily driven by the combustion of fossil 
+fuels used for generating electricity and energy for transportation, manufacturing, construction, 
+residential, and institutional energy users. Somalia’s Energy sector emissions profile is similar to that of 
+the least developed countries. Carbon dioxide (CO2) and methane are the most significant contributors 
+to Somalia’s GHG emissions, accounting for 49% and 44% respectively in 2015. The majority of the 
+CO2 emissions result from the combustion of fuels for transport and manufacturing/construction while 
+most of the methane is resulting from the utilization of biomass energy resources. Nitrous oxide (N2O) 
+emissions arise from activities such as transport and other combustion of fuel accounted for 7% of 
+Somalia’s emissions in 2015 (INC, 2018). 
+Somalia has very low energy efficiency. Therefore, the needs to enhance or promote energy efficiency 
+and alternative energy sources that contribute less to GHG emissions. The policy is: 
+Policy Statements 
+1) Promote renewable energy and adoption of energy efficient technologies and practices across 
+all socio economic sectors of the economy and the built environment. 
+2) Foster other sources of transportation that do not contribute or have less GHG emissions by 
+introducing an improved public transportation system. 
+3) Improve road and rail infrastructure for efficient transportation of goods and people. 
+4) Promote research, development, adoption and deployment of robust, gender-sensitive, 
+sustainable green technologies. 
+5) Promote cleaner fossil fuel technologies and access to clean and affordable energy. 
+6) Enhance monitoring reporting and verification systems based on appropriate methodologies to 
+account for GHG emissions in the energy sector. 
+7) Establish and regularly update a national inventory of anthropogenic emissions by sources and 
+removal by sinks of Greenhouse Gases (GHGs).
+=== PAGE 42 ===
+38 
+ 
+8) Establish a monitoring, reporting and verification (MRV) framework for monitoring GHG 
+inventories towards compliance with NDCs requirements a year before global reporting. 
+5.3.2. Agriculture 
+Agriculture is wide and includes sub-sectors like crops, livestock and fishing. Agricultural activities 
+include: cropland management, grazing land management/pasture improvement, management of 
+agricultural organic soils, restoration of degraded lands, livestock management and manure/biosolid 
+management. All these activities are potential emitter or sequester of greenhouse gasses. The major 
+GHGs emitted is Methane (CH4), mostly from manure. Most of the emissions in Somalia in agriculture 
+comes from the livestock sub-sector. The main sources of the emissions are from: enteric fermentation; 
+animal wastes (INC, 2018). 
+ 
+The agricultural sector supports households and national food self-sufficiency. The Somali economy 
+heavily relies on this sector. To reduce negative pressure on the environment and mitigate GHG 
+emissions, the policy is: 
+ 
+Policy Statements 
+1) Enhance and properly coordinate the management of agricultural wastes. 
+2) Improve animal feeding management 
+3) Adopt proper manure management (collection, storage, spreading). 
+4) Regulate grazing intensity to enhance carbon sequestration. 
+5) Support and encourage farmers by providing tools, training on soil fertility management, pest 
+management and production of organic fertilizer. 
+6) Use solar and wind water pumps for irrigation and watering of livestock to replace the use of 
+diesel and petrol generators 
+7) Develop measures and policies for use of degraded land for agriculture in order to reduce 
+impacts and pressure on forest lands, which in turns will increase the country’s carbon sink 
+potential and reduce emission level. 
+8) Reduce the contribution of agriculture to GHG emission while improving its role as a carbon 
+sink. 
+9) Maintain fishing boats and use efficient engines and clean fuels in engines. 
+5.3.3. Land Use and Forestry Sector 
+The main land-use categories in Somalia are agricultural land (cropland), rangelands, forests and 
+settlements (rural and urban areas). The forestry sector is very important in GHG emission reduction 
+through emission removals (carbon sink) as well through land management. The land under forest 
+provides a wide range of ecosystem services including mitigation of climate change. Deforestation and
+=== PAGE 43 ===
+39 
+ 
+conversion of forest land to other uses increase emission. Demand for land for agriculture and expansion 
+of cities/towns are on the rise. The government should halt or reduce conversion of forests to other land 
+uses. The Policy is: 
+Policy Statements. 
+ 
+1) Reduce greenhouse gases emission from forestry burning and land use changes. 
+2) Develop and facilitate the adequate management of forests by strengthening forest governance 
+and institutions, including wildlife, to ensure better stewardship 
+3) Strengthen national capacity to control charcoal and implement the National Charcoal Policy in 
+order to reduce GHG emission, deforestation and land degradation as well as wildlife 
+degradation. 
+4) Promote the establishment of rangelands and plantations in order to mitigate and improve carbon 
+sinks. 
+5) Provide incentives for activities relating to emission reduction from deforestation, land use 
+changes and forest degradation 
+6) Promote the development of REDD+ activities across Somalia’s forest landscapes. 
+7) Build a national carbon registry and accounting system as well as clarify the issues of carbon 
+rights, ownerships, and tenure. 
+8) Promote activities which enhance carbon density, such as reforestation, afforestation and 
+agroforestry initiatives across the country, which also brings benefits to reduce the stress and 
+pressure on natural forest and ecosystems. 
+9) Ensure the sustainable use of forest and wildlife resources to contribute to the livelihoods of the 
+rural communities as they adapt to climate change, and to contribute also to mitigation. 
+5.3.4. Industry 
+After the collapse of the central government (post-1991), Somalia’s factories were looted and destroyed. 
+The current manufacturing sector comprises of light industries. Hence, emissions from the Industrial 
+Processes and Product Use (IPPU) sector is considered insignificant (INC, 2018). However, as the 
+country stabilizes and develops, emissions will rise. Thus, the best approach now is to adopt a forward- 
+thinking policy and choose low carbon development path. The Policy is: 
+Policy Statements 
+1) Promote reduction of GHG emissions from industries (e.g. major construction, mining, 
+manufacturing). 
+2) Ensure that the future industrial base of Somalia will not be locked into carbon emitting 
+technologies but rather develop on environment-friendly, economically viable and socially 
+acceptable basis, so that it will be competitive in domestic and world markets.
+=== PAGE 44 ===
+40 
+ 
+3) Explore, adopt and enhance cleaner and efficient production practices and technologies. 
+4) Promoting diversification of energy sources and fuel switching technologies. 
+5) Promote low carbon mix of power generation for local and national grid. 
+6) Establish a system for promoting green industry in private sector investment. 
+5.3.5. Waste 
+The GHG emissions from the waste sector result from the anthropogenic activate which include 
+treatment and disposal of wastes. Waste sector emissions are: methane, carbon dioxide and nitrous oxide 
+emissions resulting from the decay and treatment processes. The majority of the Methane emissions 
+result from solid waste management and wastewater treatment and discharge. The Nitrous oxide (N2O) 
+emissions arise from activities related to wastewater treatment and discharge in 2015. Carbon dioxide 
+forms only less than 1% of the emissions from the waste sector resulting from open burning of waste. 
+Policy Statements 
+ 
+1) Improve waste management and control harmful emissions following the Polluter Pays 
+Principle. 
+2) Promote waste reduction, reuse and recycling as a top priority across all sectors, to reduce 
+overall resource use and increase resource efficiency. 
+3) Promote fuel or energy generation from waste. 
+4) Improve the management of existing waste disposal facilities to control GHG emissions. 
+5) Improve monitoring systems based on appropriate methodologies to account for GHG emissions 
+in the waste sector. 
+6) Reduce methane from landfills through waste reduction and recycling 
+7) Improve the status of environmental sanitation through strengthening of institutions and 
+enforcement of laws. 
+8) Promote private public partnership and other ventures that attract financing for infrastructure 
+investments in the waste sector. 
+9) Expand equitable access to environmentally-friendly and sustainable waste management and 
+sewerage systems – including for the poorest and most vulnerable communities. 
+5.4. Social Dimension of Climate Change 
+The capability of social groups to adapt to and mitigate climate change depends on physical, socio- 
+economic, gender, health and other social factors. Climate change increases the vulnerability of the poor 
+in the areas of water supply, exposure to disease and increasing sensitivity of livelihood activities. 
+Marginalised groups such as poor women, the aged, the physically challenged and children are at risk 
+of being most affected by climate change and variability due to insufficient access to basic resources.
+=== PAGE 45 ===
+41 
+ 
+The social dimension, which influences physical and economic dimensions, propels vulnerability to 
+climate change. 
+5.4.1. Health 
+Good health is a pillar of Somalia’s development. Climate change will have direct and indirect impacts 
+on human health. Diarrhoeal diseases such as cholera are driven by poor sanitation in areas burdened by 
+inadequate sanitation; these drivers could be exacerbated by climate change. Increases in frequency of 
+cholera outbreaks have been observed during rainy seasons as a result of runoff into surface water 
+sources, and during dry periods as a result of limited water supplies leading to use of unsafe sources. 
+Floods also affect access to safe water by contaminating and/or limiting access to safe sources. 
+ 
+Indirect impacts on health include potential increases in injuries, hunger and malnutrition as a result of 
+droughts and other extreme weather events. Systems need to be put in place to minimize the direct as 
+well as the indirect impacts of climate change on human health and livelihoods, as well as improve 
+resilience in the face of unavoidable change. 
+ 
+For adaptation to be effective, it is important to understand the vulnerability of the health sector to 
+climate change and variability. The policy: 
+Policy Statements 
+1) Strengthen surveillance programmes for monitoring human health under a changing climate, 
+particularly operational knowledge on climate-disease relationships. 
+2) Understand the impacts of climate change on women, children, youth and people living with 
+disabilities in Somalia and create an enabling environment that prevents harm to these 
+vulnerable groups emanating from pressures of these impacts. 
+3) Enhance provision of Geographic Information Science and Earth Observation based early 
+warning systems on droughts, floods and disease outbreaks to vulnerable groups and ensure 
+coordinated approaches in providing emergency services. 
+4) Establish community health groups and development of capacity to identify health risks and 
+facilitate access to services and decision makers 
+5) Strengthen technical capacity to manage climate-change-related health risks 
+6) Improve data sharing and develop health information management systems for diseases 
+including climate-sensitive diseases at all levels of the health delivery system 
+7) Map disease incidence and identification of vulnerable groups for climate-sensitive diseases 
+8) Strengthen existing units within the health delivery system to manage climate-related epidemics 
+9) Mainstream climate change health risks into decision-making at local and national health policy 
+levels
+=== PAGE 46 ===
+42 
+ 
+10) Identify, document and incorporate climate-relevant traditional knowledge into health delivery 
+systems and practices 
+11) Develop structures to effectively manage and disseminate information on climate change health 
+risks. 
+5.4.2. Human Rights 
+The NCCP recognises the fundamental rights of mankind. It also recognises the prediction that the most 
+severe effects of climate change will be felt by the poor in general (rural and urban poor), women, people 
+living with disability, the elderly, children and marginalised groups/ individuals. Therefore, the policy 
+is: 
+ 
+Policy Statements 
+1) Advocate and practice human rights-based development in accordance with national and 
+international law at all times during implementation of climate change response activities. 
+2) Ensure the vulnerable groups (stated earlier) are empowered to effectively and adequately adapt 
+to the impacts of climate change. 
+5.4.3. Gender Issues in Climate Change 
+Gender equality is an important precondition for successful climate change adaptation and mitigation 
+responses and equitable social development. Policies that support gender equality in access, use and 
+control over science and technology, formal and informal education and training will enhance the 
+nation’s capability in disaster reduction, mitigation and adaptation to climate change. 
+ 
+There is a need to take into account social and economic conditions and other relevant factors. Gender 
+equality, including equal participation of women and men as well as allowing for the differentiated 
+impacts on women and men from climate change and its response measures, should be taken into account 
+in line with various national policies on women's rights and gender equality. Gender equality is essential 
+to the successful initiation, implementation, monitoring and evaluation of climate change policies. There 
+is a need, therefore, to ensure that climate change and disaster risk reduction measures are gender 
+responsive, sensitive to local knowledge systems and respect human rights. Women’s right to participate 
+at all levels of decision-making must also be guaranteed in climate change policies and programmes. 
+ 
+Policy Statements 
+1) Ensure the integration of gender equality principles in all social policies such as education, 
+health, water and sanitation
+=== PAGE 47 ===
+43 
+ 
+2) Generate gender-specific information including sex-disaggregated data for determining the 
+gender impacts of climate change 
+3) Develop effective gender and climate change goals and gender-sensitive indicators 
+4) Collaborate with CSOs, especially women's rights organisations and coalitions, in climate 
+change discussions and processes 
+5) Build the capacity of the relevant institutions to mainstream gender issues into climate change 
+policy formulation, planning, monitoring and evaluation 
+6) Identify and analyse gender-specific needs, impacts, protection and support measures related to 
+climate change and variability such as floods, droughts and diseases 
+7) Promote gender equitable financing as a means of responding to the differential impacts of 
+climate change by gender. This will require establishing clear mechanisms for integrating a 
+gender dimension into the design, implementation and monitoring of all climate funds 
+8) Increase the resilience of vulnerable groups, including women and children, through the 
+development of community-led adaptation, livelihood diversification, better access to basic 
+services and social protection (safety nets, insurance) 
+9) Promote effective and equal participation of men and women in climate change policy and 
+decision-making processes 
+10) Strengthen the implementation of gender responsiveness in disaster risk management. 
+ 
+ 
+5.4.4. Employment and Climate Change 
+Somalia has a predominantly young population, with over 80 percent estimated to be under the age of 
+35. The country has one of the highest rates of youth unemployment in the world; approximately 70 
+percent (NDP, 2020-2024). The unemployment situation could severely be worsened by climate change. 
+Climate change can also feed conflict in Somalia by creating disputes over already-scarce resources. 
+Similarly, there is a relationship between the proliferation of armed groups (mainly al-Shabaab) and the 
+severe droughts in Somalia. The group has been successful in attracting young people who are affected 
+by famine and food insecurity and who face no job prospects. 
+On the other hand, the rise in global temperatures caused by climate change will also make the 
+phenomenon of “heat stress” more common. Heat stress endangers the safety of workers and reduces 
+their productivity, especially for workers in agriculture and construction sectors and laborers. The 
+negative effect of rising temperature on labour productivity is very pronounced in Somalia. Somalia is 
+projected to lose more than 5 per cent of total working hours due to heat stress by 2030, a productivity 
+loss equivalent to more than 172.000 full-time jobs (Borino & Saget, 2019).
+=== PAGE 48 ===
+44 
+ 
+Therefore, urgent steps are needed to be taken to reduce Somalia’s vulnerability to climate and economic 
+shocks. Climate change responses that improve resilience could positively impact employment in 
+Somalia. For example, adaptation could create new jobs to which workers can migrate from sectors 
+affected by mitigation interventions. The policy is: 
+Policy Statements 
+ 
+1) Conduct National Employment Vulnerability Assessment (NEVA). The NEVA will assess the 
+impact on jobs of climate change and climate change responses by sector and location to 
+understand which jobs will be lost, jobs created/will be created in new sectors and what job- 
+related interventions may be required to ensure net job creation or at least reduce negative 
+impact. 
+2) Adopt a pro-jobs approach in the climate change response measures (adaptation & mitigation). 
+This is to limit employment contraction to those areas of the economy where excessive carbon 
+intensity is considered unsustainable, whilst promoting and expanding the green economy 
+sectors. 
+3) Build a skilled and capable workforce by developing and funding mentorship (including 
+internships) and skills development programmes. 
+4) Promote job creation incentives in new, green industries, especially targeting the youth. 
+5) To cope with shocks and vulnerabilities, develop a social protection system and build 
+institutional capacity to implement such a program. 
+6) In alignment with the National Employment Policy and relevant labor regulations, cover 
+employees by employement insurance scheme. 
+7) Launch and expand poverty alleviation job creation programmes (e.g. National Youth Service). 
+ 
+5.4.5. Climate Change and Migration 
+The drivers of migration, among other things, are: economic, social, insecurity and environmental 
+challenges. Climate change is expected to exacerbate these drivers of migration with the potential to 
+increase the volume of out-migration in particular from rural to urban areas. 
+According to the UN (2020), an estimated 2.6 million people have been displaced in Somalia. While 
+conflict and insecurity have been the main drivers of internal displacement, climate change is 
+contributing to the displacement of people as the country have faced recurrent droughts and floods that 
+have destroyed livelihoods. The majority of people have self-settled in IDP sites in urban and peri-urban 
+areas across the country. People displaced to these sites are living in harsh conditions. These IDPs put 
+pressure on the scarce resources, basic services and limited opportunities in urban areas which in turn 
+fuels international migration.
+=== PAGE 49 ===
+45 
+ 
+Policy Statements 
+1) Promote vocational training, especially for youth, in places with high likelihood of receiving in- 
+migration 
+2) Invest in agriculture in vulnerable areas, such as developing crops and livestock that are pest 
+and drought resistant, early yielding and promote irrigation, to help curb rural-urban migration 
+3) Facilitate movement between source and destination areas through improved transport systems 
+4) Promote alternative livelihood programmes to develop skills among rural dwellers 
+5) Mainstream migration into national development frameworks.
+=== PAGE 50 ===
+46 
+ 
+CHAPTER 6 
+CLIMATE CHANGE GOVERNANCE 
+6.1. Institutional Arrangement 
+Climate change is an issue that has impacts at global, regional, national and local levels. Therefore, its 
+governance should be considered and mainstreamed at national, state, provincial, district and community 
+levels in both urban and rural settings. There are several institutions that have different mandates that 
+may directly or indirectly impact on climate governance. This section deals with those institutions and 
+their roles. 
+6.1.1. State Institutions & Committees 
+To address the impact of climate change, it is important to have a functioning institutional structure to 
+coordinate and implement climate change initiatives across all sectors at the national and sub-national 
+levels. An effective institutional arrangement seeks to establish the political basis and technical 
+knowledge through which climate related risks are addressed. This is done by considering the 
+appropriate institutional arrangements that might be effectively developed to meet the challenge 
+associated with climate change. Therefore, this policy identifies relevant institutions and establishes 
+appropriate committees at national and sub-national levels. 
+ 
+At the Federal level, the following national ministries, their departments and agencies are identified to 
+have a critical role in implementation of the policy; 
+National Designated Authority (NDA) 
+1. Ministry of Environment and Climate Change 
+Sectoral Ministries 
+2. Ministry of Energy and Water Resources; 
+3. Ministry of Agriculture; 
+4. Ministry of Fisheries and Marine Resources; 
+5. Ministry of Livestock, Forestry and Range; 
+6. Ministry of Natural Resources and Petroleum; 
+7. Ministry of Public Works, Housing and Reconstruction (incl. roads authority) 
+8. Ministry of Ports & Marine Transport 
+9. Ministry of Transport & Civil Aviation 
+10. Ministry of Post &Telecommunication 
+11. Ministry of Health 
+12. Ministry of Education 
+13. Humanitarian Affairs & Disaster Management Authority
+=== PAGE 51 ===
+47 
+ 
+ 
+ 
+The Ministry of Environment and Climate Change1 
+ 
+The Ministry is the Designated National Authority for environmental management including climate 
+change. The Ministry is charged with the responsibility to ensure the sustainable use, management and 
+protection of the environment and its natural resources. 
+Based on its mandate, the Ministry will foster participatory partnerships and will coordinate, along with 
+other ministries and agencies, the full implementation of the policy. It will chair the both the National 
+Climate Change Committee and Cross-Sectorial Committee on Climate Change. The Ministryreports to 
+the Cabinet, which in turn reports (annually) to the Parliament (House of the People). 
+The primary roles of the Ministry are as follows: 
+• 
+Provide leadership and strengthen climate change governance in Somalia;
+=== PAGE 52 ===
+48 
+ 
+ 
+ 
+1 Note: In figure 5, the Directorate has been replaced by the Ministry of Environment and Climate Change
+=== PAGE 53 ===
+49 
+ 
+• 
+Partner and coordinate with other stakeholders to ensure that the policy objectives are achieved; 
+• 
+As the Designated National Authority (DNA), take part in the negotiations of International 
+Climate/Environmental conventions/agreements; 
+• 
+Establish a Technical Monitoring & Evaluation Committee (TMEC) to follow up the 
+implementation of the Policy; 
+• 
+Establish a monitoring system for gathering information and reporting progress on the 
+implementation of the policy interventions; 
+• 
+Prepare periodic reports regarding the state of climate change in the country; 
+• 
+Preparation and submittion of reports to UNFCCC Secretariat. 
+• 
+Promote formal & non-formal climate change education programs in cooperation with the 
+Ministry of Education; 
+• 
+Provide advice and support to federal member states regarding climate change; 
+• 
+Provide advice to government organs (e.g. sectoral ministries) regarding the discharge of their 
+obligations under the Policy. 
+ 
+ 
+National Climate Change Committee (NCCC) 
+The NCCC has the mandate for coordinating and supervising the implementation of the climate change 
+policy. The NCCC is a multi-stakeholder, high level policy coordination committee and is responsible 
+for the overall climate change activities in Somalia. It comprises the Prime Minister (or his designate), 
+DG of the Ministryof Environment & Climate Change, Sectoral Ministries, Directors of Governmental 
+Agencies, Member States’ Ministers for Environment, the private sector and civil society organizations. 
+ 
+The primary roles of the NCCC are as follows: 
+• 
+Supervise and provide overall coordination, at policy level, to accelerate the implementation 
+of the policy. 
+• 
+Validate and secure government support for the implementation of the climate change policy. 
+• 
+Adopt measures and take appropriate actions necessary for achieving the objectives and goals 
+of the policy. 
+• 
+Report annually on progress made towards implementation of the climate change policy. 
+ 
+Cross-Sectoral Committee on Climate Change (CSCC) 
+Sectoral Ministries are responsible for sector-specific implementation of activities at national level. The 
+CSCCC encompasses all sectors (Sectoral Ministries listed above) which are said to have stake in the 
+policy implementation. It will bring together the officials from across government working on climate
+=== PAGE 54 ===
+50 
+ 
+change; for information exchange, consultation, agreement and support among the spheres of 
+government regarding climate change and government’s response to climate change. It will be chaired 
+by the DG of the Ministryof Environment & Climate Change. Representatives could be at DG levels. 
+ 
+The primary roles of the CSCCC are as follows: 
+• 
+Serve as a cross-sector forum for the exchange of ideas, including the provision of updates on 
+ongoing and planned climate change initiatives. 
+• 
+Coordinate and advise sector-specific and cross-sector implementation of activities, and advise 
+on monitoring and evaluation outcomes as well as future directions of the NCCP. 
+• 
+Address the cross-cutting and social aspects of climate change. 
+ 
+State and Municipal Committees on Climate Change 
+The Federal Member States are the implementors of the policy in their respective regions. States have 
+their own ministries of environment responsible for managing the environment, including Climate 
+Change, in their respective states. At State level, two committees shall be established in each state: State 
+Committee on Climate Change and Municipal Committees on Climate. 
+ 
+The role of the State Committee is to coordinate climate change response actions at state level, while 
+the Municipal Committees will coordinate climate change response actions at the municipal levels. 
+ 
+Centre for Climate Change Research 
+ 
+Many stakeholders in Somalia do not understand climate change and its impacts. Climate change 
+research needs to be properly coordinated and the benefits optimised to meet the needs of policy makers 
+and implementors in Somalia. Research and information sharing are a key issue that must be addressed 
+in the National Climate Change Policy. Research results shall form the basis for the development and 
+implementation of programmes and action plans for adaptation and mitigation of climate change. The 
+programmes and action plans for climate change adaptation and mitigation should be evidence-based 
+and informed by research findings. The Centre for Climate Change Research will contribute to achieving 
+the Cross-cutting themes (Chapter 4), particularly the Research Section. 
+The primary role of the Centre will be to: 
+ 
+ 
+1) Facilitate research on climate change 
+2) Coordinate interdisciplinary research around climate change, mitigation and adaptation and 
+vulnerabilities and projections.
+=== PAGE 55 ===
+51 
+ 
+3) Disseminate research findings to all the stakeholders; 
+4) Provide technical and policy relevant guidance to the Ministry& Sector Ministries. 
+6.1.2. Non-governmental /Civil Society Organizations 
+It is important to include communities in decision making as they are most vulnerable to climate shocks 
+and extreme weather events. They should be involved in monitoring and evaluation of both climate 
+change and any interventions to mitigate or adapt to climate change. Climate change issues provide an 
+opportunity for the Government, local authorities, UN agencies and development partners, civil society 
+organizations and communities to work together. 
+ 
+Currently a wide range of Non-governmental Organizations/Civil Society Organizations (NGOs/CSOs) 
+are involved directly and indirectly in environmental protection and climate change related issues in 
+Somalia. Some of these NGOs/CSOs implement specific climate change initiatives at the community 
+level, as well as engage in climate change policy advocacy at national and international levels. Other 
+roles of CSOs in relation to climate change include: community education and delivery of environmental 
+services, research and climate change vulnerability analysis, emergency/disaster response and relief 
+programming, facilitating models for community-based adaptation to climate change, promoting 
+community consultations and participation, facilitating CSO mobilisation, and coordinated engagement 
+with the Government on climate change, policy monitoring, and social accountability for equitable and 
+pro-poor response to climate change. 
+ 
+In recognition of the important role that civil society plays in natural resource and environmental 
+governance in Somalia, the Government of Somalia supports mechanisms for enhancing their role and 
+participation for effective natural resources and environmental governance in Somalia. Civil society 
+activities on climate change should be considered as a key aspect of the national response to climate 
+change. Measures to support the capacity-building of civil society, strengthening coordination, 
+information sharing, and participation in the design, implementation and monitoring of policies and 
+projects on climate change, should be part of the policy response for enhancing the role of civil society 
+on climate change. 
+6.1.3. Private Sector 
+Despite decades of conflict, the private sector in Somalia flourished. The private sector should be 
+engaged in climate change discussions and policy implementation. Somalia’s private sector needs to 
+know how climate change affects profits, for example, how energy efficiency reduces the cost of doing 
+business and how best to engage with complex concepts for carbon markets. Also ways to leverage 
+private sector investment to climate-change-proof social and physical infrastructure, such as low-
+=== PAGE 56 ===
+52 
+ 
+emission electricity generation, use of renewable energy as a means to promote energy access and 
+enhancing energy efficiency, need to be enhanced. 
+6.2. Legal and Regulatory Framework 
+Somalia’s constitution, National Development Plan 2020 - 2024 and Vision 2030 set out an obligation 
+to environmental sustainability and improvement as a basis of promoting wellbeing and quality of life 
+to its citizens and also recognizes the need to promote low carbon development pathways and climate 
+change resilience. The constitution provides a basis for developing the National Climate Change Policy 
+(NCCP) and offers a general regulatory framework for policy implementation while the NCCP provides 
+strategic direction and coordinates climate change issues in Somalia primarily effective adaptation and 
+mitigation to climate change as well as social development. 
+An enabling legislative and institutional framework and implementation Strategy is fundamental in 
+actualizing identified policy priorities into actions that would be of great value to climate change 
+mitigation and adaptation as outlined in Articles 25 & 45 of the constitution of Somalia. Somalia’s 
+membership and its signatory to international and regional climate change treaties denotes its 
+commitment to the adoption and implementation of the COP-agreed policies and measures designed to 
+mitigate climate change and adapt to its impacts. Somalia is also keen to include climate resilience in its 
+development agenda. 
+An overall effective review of the legislative and institutional arrangements that govern actions related 
+to climate change is desired to ensure seamless implementation of climate change responses to provide 
+high level coordination and political authority to guide the integration of climate change functions in 
+sectoral mandates at all government levels. 
+6.2.1. Linkage with the National Development Plan 2020 to 2024 
+In Somalia, attention to climate change is gaining momentum both at the highest political level and 
+across sectors. Practically every arm of government is affected by climate change either directly or 
+indirectly. Therefore, climate change is being mainstreamed into national development frameworks, 
+such as Somalia’s National Development Plan 2020 - 2024. Pillar 3 of the National Development Plan 
+2020-2024 relates to Economic Development. 
+ 
+At the heart of Pillar 3 is the intent to transform the economy by 
+improving the resilience of traditional livestock and crop production 
+industries to better meet the growing challenges from climate change. 
+There is a recognition among Somali leadership that dependency on 
+livestock and agriculture poses considerable economic and social risks 
+due to their vulnerability to climate change. According to the Somalia 
+Drought Impact and Needs Assessment (DINA) report the drought in 
+2016/17 alone caused economic losses estimated at US$3.25 billion 
+(NDP, 2020-2024).
+=== PAGE 57 ===
+53 
+ 
+ 
+In addition, climate change is among various thematic areas receiving support from key development 
+partners. 
+6.2.2. Existing Policies and Strategies Related to Environment & Climate Change 
+The preparation of the NCCP has been principally influenced by, among other factors, (1) Somalia’s 
+commitments to ensure that climate change issues are adequately considered in national development 
+planning, (2) the extent of added vulnerability to the Somali economy attributed to the current and 
+expected impacts of climate change on the entire society makes the preparation of the NCCP important. 
+(3) Policies, strategies and plans that touch on climate change and the wider environment. 
+6.2.3. International Obligations 
+The nature of climate change calls for extensive cooperation, coordination and international response. 
+Somalia has been a Party to the UNFCCC since December 2009, as a non-Annex I country. Somalia 
+also ratified the Kyoto Protocol in July 2010. The National Adaptation Programme of Action (NAPA) 
+was developed with the support of the United Nations Development Programme (UNDP) and Global 
+Environment Facility (GEF). The overarching goal of the NAPA was to make the Somali people more 
+resilient to climate change. NAPA was submitted to the UNFCCC in June 2013. 
+By ratifying the Paris Climate Agreement, United Nations Framework Convention on Climate Change 
+(UNFCCC) and Kyoto Protocol, Somalia shows dedication and obligation to the implementation of 
+strategies to mitigate the effects of climate change and adapt to its impact. Development of a national 
+climate change policy will enable Somalia to meet its obligation under the UNFCCC, hence become an 
+essential player in the fight against climate change. Somalia vision and strategies recognize the 
+importance that climate change plays in enhancing social and economic development. 
+Somalia is a party to the following international environment-related agreements. To enforce 
+domestically, the country develops and adopts policies and and domestic legislations. 
+1. Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES); 
+2. Convention on the Conservation of Migratory Species of Wild Animals; 
+3. Regional Convention for the Conservation of the Red Sea and the Gulf of Aden Environment; 
+4. Protocol concerning Regional Co-operation in Combating Pollution by Oil and other Harmful 
+Substance in Cases of Emergency; 
+5. UN Convention on the Law of the Sea; 
+6. UN Convention to combat desertification (UNCCD); 
+7. UN Framework Convention on Climate Change (UNFCCC); 
+8. Kyota Protocol; 
+9. Convention on Biological Diversity;
+=== PAGE 58 ===
+54 
+ 
+10. Protocol on Bio-Safety (Cartagena Protocol); 
+11. Basel, Stockholm and Rotterdam Conventions; 
+12. Protocol concerning Protected Areas and Wild Fauna and Flora in the Eastern Africa region; 
+13. Protocol concerning Co-operation on Combating Marine Pollution in cases of Emergency in the 
+Eastern African region; and 
+14. Convention for the protection, Management and Development of the Marine and Coastal 
+Environment of the Eastern Africa Region (Nairobi Convention). 
+15. Protocol on Substances that Deplete the Ozone layer (Montreal Protocol) 
+16. Convention on the protection of the Ozone Layer (Viana Convention);
+=== PAGE 59 ===
+55 
+ 
+CHAPTER 7 
+FINANCE & RESOURCE MOBILIZATION 
+To address Climate Change, Somalia will require financial support from domestic resources and the 
+international Community. Domestic resources will be obtained from government budget, private sector 
+and contributions from companies, organizations and individuals. The international support comprises 
+of bilateral, multilateral sources and international climate funds. The international climate funds include: 
+Special Climate Change Fund (SCCF), Green Climate Fund (GCF), Adaptation Fund (AF), The Global 
+Environment Facility (GEF), General Budget Support and Least Developed Country Fund (LDCF). 
+Bilateral supports can be obtained from donor countries. Usually, donor countries send their funds 
+through specialized agencies such as UNDP, UNEP, UNIDO, etc. 
+ 
+ 
+Therefore, the funding for the policy priorities will come from domestic public and private sources as 
+well as international support. 
+Policy Statements 
+ 
+1) Explore the available funding sources and ensure access and effective use of international 
+funding available for adaptation and mitigation efforts; 
+2) Improve resource mobilization capacity to attract sufficient funds internally and externally for 
+climate change interventions; 
+3) Establish public private partnership as a platform for resource mobilization and enhancing 
+stakeholder engagement in low carbon climate resilient initiatives, offering of incentives and 
+establishing a conducive investment climate.
+=== PAGE 60 ===
+56 
+ 
+4) Enable institutions to utilize external and domestic climate financial resources. 
+5) Seek Multilateral and bilateral development partners’ support as well as support from 
+international climate change funds, particularly concerning issues of capacity development, 
+technical assistance, and awareness raising 
+6) Establish an effective fund mechanism and adopt a climate finance strategy that supports the 
+implementation climate resilience, adaptive capacity and low carbon growth priority actions. 
+7) Market-based mechanisms for climate-related actions, such as Clean Development 
+Mechanisms, benefit-sharing schemes under REDD+, emissions-trading revenues, tax 
+incentive, and tariff schemes. 
+8) Private Sector investments, particularly concerning energy, waste management, rangeland and 
+livestock, and agriculture, industrial developments and technology transfer. 
+9) Implement sector-specific transparency, anti-corruption, integrity and accountability 
+mechanisms to protect judicious management of climate finance. 
+10) Establish a framework for the coordination, tracking and monitoring sources, impacts and 
+application of climate finance.
+=== PAGE 61 ===
+57 
+ 
+CHAPTER 8 
+MONITORING AND EVALUATION 
+The NCCP will continue to evolve, based on new scientific and technical knowledge as they emerge and 
+in response to the evolution of the multilateral climate change regime including arrangements for 
+international cooperation. Monitoring and evaluation of climate change responses is critical to ensure 
+the effective implementation of the Policy. 
+ 
+Monitoring and evaluation will need to be done through periodic reports (quarterly and annual) by the 
+Ministry of Environment and Climate Change. The reporting mechanism shall follow the governance 
+structure outlined in Chapter 6 (Section 6.1.1.). Similarly, each line Ministry (sectoral ministry) could 
+also put in place a monitoring and evaluation system that tracks climate change programmes. The 
+Ministry could establish a Technical Monitoring & Evaluation Committee (TMC) to follow up the 
+implementation of the Policy. The TMEC shall develop a comprehensive M&E framework that will 
+emphasize regular monitoring and periodic evaluation to ensure expected outputs, outcomes and impacts 
+will be established. Somalia’s Climate Change Policy progress should be reviewed after every 5 years. 
+ 
+Policy Statements 
+ 
+1) Ensure that nation-wide climate change and atmospheric monitoring systems are 
+established and enhanced to monitor, among other things, rainfall, temperature, 
+extreme weather events and their impacts, sea levels and sea surface temperature. 
+2) Establish a monitoring system for gathering information and reporting progress on the 
+implementation of adaptation actions. 
+3) Each Sectoral Ministry shall conduct on-going evaluation (mainly quarterly and 
+annual) internally to track the implementation of the policy as undertaken by relevant 
+sectors; 
+4) Evaluate/assess the impacts of implementing the Policy in the short, medium and long 
+term and determine whether the interventions are contributing to the objectives of the 
+Policy. 
+5) Ensure that all National Communications submitted as part of Somalia’s UNFCCC 
+commitments contain the most up to date data and impact assessments. National 
+Communications will be in line with internationally agreed reporting requirements. 
+6) Timely share climate evaluation reports with; the public, stakeholders for their input 
+and for parliamentary and state government debate and oversight.

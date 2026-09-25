@@ -1,0 +1,13 @@
+Independent fact-check, 2026-09-24, of C-0483, C-0484 and D-0071 (charcoal price, Banadir, February 2022).
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0483: PASS
+  Reason: Feb-22 nominal column of the Banadir table; SoSh per 50 kg sack. Measure wording "retail" changed to "market".
+
+C-0484: PASS
+  Reason: Feb-22 nominal Banadir exchange rate, SoSh per USD; right pairing with the Banadir price.
+
+D-0071: PASS
+  Reason: 361,250 / 25,325 / 50 = 0.285; one month in 2022, not a current or typical price; text must say so.
+
+Summary: 3 pass, 0 fail, 0 query.

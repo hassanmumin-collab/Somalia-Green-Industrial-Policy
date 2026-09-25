@@ -1,0 +1,3915 @@
+=== PAGE 1 ===
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+=== PAGE 2 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+b
+© 2026. World Bank Group
+This work is a product of the staff of The World Bank Group with external contributions. The findings, interpretations, and conclusions 
+expressed in this work do not necessarily reflect the views of The World Bank, its Board of Executive Directors, or the governments 
+they represent.
+The World Bank Group does not guarantee the accuracy of the data included in this work. The boundaries, colors, denominations, and 
+other information shown on any map in this work do not imply any judgment on the part of The World Bank Group concerning the 
+legal status of any territory or the endorsement or acceptance of such boundaries.
+Rights and Permissions
+The material in this work is subject to copyright. Because The World Bank Group encourages dissemination of its knowledge, this work 
+may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is given.
+Attribution:  Please cite the work as follows: “World Bank Group. 2026. Somalia Economic Update, May 2026: Navigating Shocks, 
+Powering Growth.”
+All queries on rights and licenses should be addressed to World Bank Group Publications, The World Bank Group, 1818 H Street NW, 
+Washington, DC 20433, USA; e-mail: pubrights@worldbank.org
+Photos: © Abdi Roble and Tariq Tarey (title photo) and World Bank Group
+=== PAGE 3 ===
+
+=== PAGE 4 ===
+TABLE OF CONTENTS
+Acronyms ........................................................................................................................................................................................................................................      i
+Foreword .........................................................................................................................................................................................................................................     ii
+Hordhac ...........................................................................................................................................................................................................................................    iii
+Acknowledgements..................................................................................................................................................................................................................    iv
+Executive Summary...................................................................................................................................................................................................................     v
+Soo Koobid Fulinta.....................................................................................................................................................................................................................  viii
+CHAPTER 1: RECENT ECONOMIC DEVELOPMENTS AND OUTLOOK .......................................................................................................    1
+Global and Regional Environment................................................................................................................................................................................    2
+Recent Economic Developments in Somalia ........................................................................................................................................................    2
+Despite positive momentum in recent years, economic growth has decelerated ............................................................................     2
+Inflationary pressures have increased ..................................................................................................................................................................     4
+Poverty reduction efforts were interrupted by declining humanitarian support and climate shocks .....................................     4
+External pressures heightened amid aid cuts ...................................................................................................................................................     6
+Financial intermediation is gradually expanding supported by continued strengthening of financial sector institutions 	�������     7
+Fiscal position weakened amid declining external grants and lackluster revenue performance...............................................     8
+Medium-Term Outlook, Risks and Reform Priorities ........................................................................................................................................  11
+CHAPTER 2: BOOSTING ACCESS TO ELECTRICITY .............................................................................................................................................  17
+Status of Electricity Sector...................................................................................................................................................................................................  18
+Access of Population to Electricity ...............................................................................................................................................................................  21
+Opportunities to Revamp the Electricity Sector..................................................................................................................................................  25
+Strengthening electricity sector’s governance and policy framework ..................................................................................................   26
+Priority investments......................................................................................................................................................................................................   27
+Annex 1: Sampling Strategy for the Household Energy Survey.....................................................................................................................  28
+References .......................................................................................................................................................................................................................................  31
+=== PAGE 5 ===
+FIGURES
+Figure 1:	
+GDP and GDP per capita growth ............................................................................................................................................................    3
+Figure 2:	
+GDP growth and its drivers..........................................................................................................................................................................    3
+Figure 3a:	 Contribution to inflation, percent and percentage points......................................................................................................    4
+Figure 3b:	 National and FMS inflation ..........................................................................................................................................................................    4
+Figure 4a:	 Nowcasting of national poverty...............................................................................................................................................................    5
+Figure 4b:	 Share of households facing food insecurity......................................................................................................................................    5
+Figure 5:	
+Current account balance...............................................................................................................................................................................    6
+Figure 6a:	 Trend in exports (FOB)....................................................................................................................................................................................    6
+Figure 6b:	 Trend in imports (CIF)......................................................................................................................................................................................    6
+Figure 7:	
+Somalia’s credit to private sector..............................................................................................................................................................    7
+Figure 8:	
+Private sector credit..........................................................................................................................................................................................    8
+Figure 9:	
+FGS Revenue, expenditure, and overall fiscal balance................................................................................................................    8
+Figure 10:	 FGS domestic revenue....................................................................................................................................................................................    9
+Figure 11a:	FGS spending by economic element....................................................................................................................................................  10
+Figure 11b:	FGS spending by function............................................................................................................................................................................  10
+Figure 12a:	FMS revenue in 2024 and 2025 ................................................................................................................................................................  11
+Figure 12b:	FMS spending in 2024 and 2025..............................................................................................................................................................  11
+Figure 13a:	Real GDP growth................................................................................................................................................................................................  13
+Figure 13b:	National inflation................................................................................................................................................................................................  13
+Figure 14:	 Poverty headcount simulations ...............................................................................................................................................................  13
+Figure 15a:	Solar photovoltaic potential........................................................................................................................................................................  20
+Figure 15b:	Wind power density.........................................................................................................................................................................................  20
+Figure 16:	 Issues reported by enterprises about ESPs electricity supply................................................................................................  21
+Figure 17:	 Distribution of households according to type of access to electricity (tier).................................................................  23
+Figure 18:	 MTF aggregate tier distribution, by region........................................................................................................................................  23
+Figure 19:	 Electricity access by income quintiles .................................................................................................................................................  24
+Figure 20:	 Distribution of households according to the type of solar systems used, percent of households 	��������������  24
+Figure 21:	 Issues reported by households about solar products.................................................................................................................  24
+Figure 22:	 Household distribution by affordability tier, percent of households.................................................................................  24
+Figure 23:	 Household tier distribution by daytime availability, percent of households................................................................  25
+Figure 24:	 Household tier distribution by evening availability, percent of households................................................................  25
+=== PAGE 6 ===
+BOXES
+Box 1: Foreign aid, poverty, and welfare dynamics in 2025 .............................................................................................................................    5
+Box 2: Impact of the conflict in the middle east on Somalia’s economy..................................................................................................  12
+Box 3: FGS 2026 budget .........................................................................................................................................................................................................  14
+Box 4: Definition of MTF tiers ..............................................................................................................................................................................................  22
+TABLES
+Table 1: FGS fiscal accounts, million US$ (unless otherwise specified)......................................................................................................    9
+Table 2: Priorities to support growth and job creation .......................................................................................................................................  16
+Table 3: Somalia / Macro poverty outlook indicators (annual percent change unless indicated otherwise)...................  16
+Table 4: Electricity statistics in the region.....................................................................................................................................................................  19
+=== PAGE 7 ===
+Somalia Economic Update • Edition 11
+i
+ACRONYMS
+AML/CFT
+Anti–Money Laundering and Countering the Financing of Terrorism 
+CBS
+Central Bank of Somalia 
+CIF
+Cost, Insurance, and Freight 
+EA
+Enumeration Area 
+EAC
+East African Community 
+EMDEs
+Emerging Market and Developing Economies 
+ESI
+Electricity Supply Industry 
+ESP
+Electricity Service Provider 
+FGS
+Federal Government of Somalia 
+FMS
+Federal Member State 
+FOB
+Free on Board 
+GDP
+Gross Domestic Product 
+GHG
+Greenhouse Gas 
+HIPC
+Heavily Indebted Poor Countries 
+IDP
+Internally Displaced Person 
+IEA
+International Energy Agency 
+IMF
+International Monetary Fund 
+IPC
+Integrated Food Security Phase Classification 
+IRENA
+International Renewable Energy Agency 
+LSMS
+Living Standards Measurement Study 
+MoEWR
+Ministry of Energy and Water Resources 
+MTF
+Multi-Tier Framework 
+MW
+Megawatt 
+NGO
+Non-governmental Organization 
+NEA
+National Electricity Authority 
+PIM
+Public Investment Management 
+PV
+Photovoltaic 
+SHDS
+Somalia Health and Demographic Survey 
+SHS
+Solar Home System 
+SLS
+Solar Light System 
+SME
+Small and Medium Enterprise 
+SNBS
+Somali National Bureau of Statistics 
+SOMCAS
+Somali Customs Information System 
+SSA
+Sub-Saharan Africa 
+WDI 
+World Development Indicators
+=== PAGE 8 ===
+Somalia Economic Update • Edition 11
+ii
+FOREWORD
+S
+omalia has made meaningful progress in strengthening economic management and advancing key 
+structural reforms, including in the electricity sector, despite operating in an environment marked by 
+declining external support, repeated climate shocks, and persistent security challenges. This edition of the 
+Somalia Economic Update - Navigating Shocks, Powering Growth, assesses recent developments and highlights 
+priority actions to sustain macroeconomic stability, reduce vulnerability to external and climate shocks, and 
+unlock growth through more reliable, affordable, and sustainable energy.
+On the macroeconomic front, Somalia’s attainment of the HIPC Completion Point in December 2023 has marked 
+a turning point, restoring fiscal space, improving debt sustainability, and strengthening macroeconomic 
+credibility. These gains have been underpinned by continued reforms in public financial management, 
+domestic revenue mobilization, and financial sector oversight. Notably, macroeconomic stability has been 
+maintained despite overlapping shocks, reflecting prudent economic management amid heightened climate 
+and external risks.
+Recent global oil price shocks and supply disruptions have further underscored Somalia’s vulnerability to 
+external shocks. As a highly import-dependent economy with near universal reliance on diesel-based electricity 
+generation, global fuel price increases transmit rapidly to domestic inflation, production costs, and household 
+welfare. Higher fuel prices raise the cost of electricity, transport, and food, weakening firms’ competitiveness and 
+disproportionately affecting poor and vulnerable households.
+Against this backdrop, electricity sector reform has taken on heightened strategic importance. The report 
+documents progress in strengthening the sector’s institutional and regulatory foundations, including the 
+enactment of the Electricity Act, the establishment of the National Electricity Authority, and the rollout of 
+licensing and tariff regulations. These steps are beginning to reduce fragmentation, improve oversight, and 
+create a more predictable environment for investment. At the same time, growing deployment of solar and 
+hybrid systems signals early movement toward reducing reliance on imported diesel for power generation.
+Electricity sector reforms are therefore central not only to improving access, affordability, and reliability, but also 
+to strengthening macroeconomic and climate resilience. By enabling a gradual shift toward least-cost renewable 
+generation and more efficient systems, these reforms can reduce exposure to global fuel price shocks, lower 
+economy wide production costs, and limit the transmission of external volatility to inflation and poverty. Over 
+time, reduced dependence on fuel based generation will support energy security, ease balance of payments 
+pressures, and reinforce fiscal and macroeconomic resilience.
+The World Bank Group will continue to support Somalia in consolidating recent gains, advancing priority 
+reforms, and translating improved macroeconomic and sectoral foundations into durable improvements 
+in livelihoods.
+Hideki Matsunaga 
+World Bank Group,
+Country Manager for Somalia
+=== PAGE 9 ===
+Somalia Economic Update • Edition 11
+iii
+HORDHAC
+S
+oomaaliya waxay horumar muhiim ah ka samaysay xoojinta maareynta dhaqaalaha iyo horumarinta qaab-
+dhismeedka aasaasiga ah, oo ay ku jiraan qaybta korontada, in kastoo ay ka shaqeyso jawi lagu sheegay 
+in hoos u dhaw ku yimid taageerada dibadda, isbeddelada cimilada ee soo noqnoqda, iyo caqabado amni 
+oo joogto ah. Daabacaaddan lagaga hadlayo Dhaqaalaha Soomaaliya, Shoogga Socodka, Kobaca Awoodda leh, 
+waxay qiimeyneysaa horumaradii ugu dambeeyay waxayna muujinaysaa tallaabooyinka mudnaanta leh ee lagu 
+ilaalinayo xasilloonida dhaqaalaha guud, yareynta nuglaanshaha shoogaga dibadda iyo cimilada, iyo furitaanka 
+kobaca iyadoo la adeegsanayo tamar la isku halayn karo, la awoodi karo, oo waarta.
+Dhinaca dhaqaalaha guud, gaaritaanka Soomaaliya Dhibcaha Deyn Cafintii Diseembar 2023 waxay calaamad u 
+ahayd isbeddel, taasoo soo celisay booska maaliyadda, hagaajisay joogtaynta deymaha, iyo xoojinta kalsoonida 
+dhaqaalaha guud. Guulahan waxaa saldhig u ahaa dib-u-habeyn joogto ah oo lagu sameeyay maamulka 
+maaliyadda dadweynaha, dhaqdhaqaaqa dakhliga gudaha, iyo kormeerka qaybaha maaliyadda. Si gaar ah, 
+xasiloonida dhaqaalaha guud ayaa la ilaaliyay in kastoo ay jiraan shoogyo is daba joog ah, taasoo muujinaysa 
+maareyn dhaqaale oo taxaddar leh iyadoo ay jirto khatarta cimilada iyo tan dibadda oo sii xoogaysatay.
+Dhacdooyinkii ugu dambeeyay ee qiimaha saliidda adduunka iyo carqaladaha saadka ayaa sii xoojiyay u 
+nuglaanta Soomaaliya isbeddelka shoogaga dibada. Maadaama ay tahay dhaqaale aad ugu tiirsan alaabaha la 
+soo dhoofiya oo ku tiirsan koronto ku salaysan diesel, kororka qiimaha shidaalka caalamka si degdeg ah ayuu 
+ugu gudbaa sicir-bararka gudaha, kharashka wax-soo-saarka, iyo daryeelka guryaha. Qiimaha shidaalka oo sare 
+u kacay ayaa kor u qaada qiimaha korontada, gaadiidka, iyo cuntada, taasoo daciifisay tartanka shirkadaha isla 
+markaana si aan sinnayn u saameeyay qoysaska saboolka ah iyo kuwa nugul.
+Iyadoo laga duulayo xaaladdan, dib-u-habaynta qaybta korontada ayaa heshay muhiimad istiraatiiji oo sareysa. 
+Warbixintu waxay diiwaangelisaa horumarka xoojinta aasaaska hay'adaha iyo xeerarka ee qaybta, oo ay ku jiraan 
+ansixinta Xeerka Korontada, aasaaska Hay'adda Korontada Qaranka, iyo hirgelinta xeerarka ruqsad-siinta iyo 
+qiimaha. Tallaabooyinkan waxay bilaabayaan inay yareeyaan kala qaybsanaanta, horumarinta kormeerka, iyo 
+abuurista deegaan la saadaalin karo oo maalgashi ah. Isla waqtigaas, korodhka isticmaalka nidaamyada soolarka 
+iyo mida shidaalka iyo korontada isku dhafan ayaa muujinaya dhaqdhaqaaq hore oo lagu wajahayo dhimista ku 
+tiirsanaanta diesel-ka la soo dhoofiyo si loo isticmaalo soo saarista tamarta.
+Dib-u-habaynta qaybta korontada waa muhiim ma aha oo kaliya hagaajinta helitaanka, qiimaynta, iyo kalsoonida, 
+balse sidoo kale xoojinta dhaqaalaha iyo adkeysiga cimilada. Iyada oo la suurtagelinayo in si tartiib tartiib ah 
+loogu beddelo jihada la cusboonaysiin karo ee qiimaha jaban iyo nidaamyo waxtar leh, isbeddeladan waxay 
+yareyn karaan saameynta qiimaha shidaalka caalamka, hoos u dhigi karaan kharashka wax-soo-saarka guud ee 
+dhaqaalaha, isla markaana waxay xaddidi karaan gudbinta isbeddelka dibadda ee sicir-bararka iyo saboolnimada. 
+Waqti ka dib, dhimista ku tiirsanaanta wax soo saarista shidaalka waxay taageeri doontaa amniga tamarta, yareyn 
+doontaa cadaadiska dheelitirka lacagaha, waxayna xoojin doontaa adkeysiga maaliyadeed iyo dhaqaalaha guud 
+ee sanadlaha ah.
+Bangiga Adduunka wuxuu sii wadi doonaa taageerada Soomaaliya si loo xoojiyo guulihii ugu dambeeyay, 
+horumarinta dib-u-habaynta mudnaanta leh, iyo beddelidda aasaaska dhaqaalaha guud iyo kuwa qaybaha la 
+hagaajiyay si loogu sameeyo horumar waara  nolosha.
+Hideki Matsunaga
+Maareeyaha Dalka, Bangiga Adduunka Soomaaliya
+=== PAGE 10 ===
+Somalia Economic Update • Edition 11
+iv
+ACKNOWLEDGEMENTS
+T
+he Eleventh Edition of the Somalia Economic Update (SEU) was prepared under the overall guidance of 
+Abha Prasad (Practice Manager, EAEM1) and Chadi Haboub (Lead Economist, EAEM 1). The team benefited 
+from valuable guidance from Hideki Matsunaga (Country Manager, AEMSO). Peer reviewers were Patrick Balla 
+(Senior Energy Specialist, IAEE3) and Samer Matta (Senior Economist, EAEM2).
+The SEU was prepared by a World Bank team led by Stella Ilieva (Senior Economist, EAEM1). The core team 
+consisted of Ahya Ihsan (Senior Economist, EEAM1), Alastair Peter Francis Haynes (Economist, EAEPV), Mits 
+Motohashi (Lead Energy Specialist, IAEE1), Gouthami Padam (Consultant, IEGID), Bryan Bonsuk Koo (Energy 
+Specialist, KIESA), Saadia Refaqat (Senior Economist, EAEM1), Sameer Goyal (Senior Financial Sector Specialist), 
+Stanley Mutinda (Consultant, EAEM1), and Tigran Parvanyan (Senior Energy Specialist, IAEE1). The team wishes 
+to thank Alejandro De la Fuente (Senior Economist, EAEPV), James Albert Knuckles (Senior Energy Specialist, 
+IAEE1), Keiko Nagai (Senior Operations Officer, AEMSO), Tewodros Asmamaw Dessie (Economist, CAEAE), and 
+Vera Rosauer (Senior Communications and External Affairs Officer, CERAE) for their valuable comments and 
+support. Nancy Muthoni Wainaina (Team Assistant, AEMSO) and Lydie Ahodehou (Senior Program Assistant, 
+EAEM1) provided administrative and logistical support during the preparation of the report. 
+The report benefited from fruitful comments and information provided by representatives of Federal 
+Republic of Somalia.
+=== PAGE 11 ===
+Somalia Economic Update • Edition 11
+v
+EXECUTIVE SUMMARY
+S
+omalia’s 
+economy 
+demonstrated 
+notable 
+resilience entering 2025, supported by continuous 
+reform efforts to strengthen fiscal sustainability, 
+institutions, and private sector resilience. Low debt 
+levels following HIPC Completion, tax policy changes, 
+and reforms to improve payments system, expand 
+financial sector supervision and anti-money laundering, 
+contributed to better macroeconomic management. 
+Structural reforms in fisheries, telecommunications, 
+and electricity, as well as ongoing harmonization of 
+legal and institutional framework with East African 
+Community (EAC) will improve private sector resilience 
+despite a challenging external environment. These 
+positive foundations underscore Somalia’s progress 
+in strengthening macroeconomic credibility, even as 
+vulnerabilities remain.
+However, Somalia’s economic resilience was tested 
+as a combination of shocks materialized over the 
+course of 2025. The withdrawal of humanitarian 
+and security-related assistance reduced aggregate 
+demand, while adverse weather conditions disrupted 
+agricultural 
+and 
+livestock 
+production. 
+Growth 
+remained largely consumption-driven but slowed to 
+3 percent in 2025 from 4 percent in 2023 and 2024, 
+resulting in broadly stagnant real GDP per capita. 
+Investment activity proved relatively more resilient—
+supported by remittances and urban expansion—but 
+export performance softened, reflecting Somalia’s 
+narrow and climate-sensitive export base. Structural 
+constraints, including high electricity and transport 
+costs, limited access to finance, and internal 
+fragmentation, continued to impede industrial 
+development 
+and 
+private 
+sector 
+expansion. 
+Inflationary pressures accelerated reaching 3.7 
+percent in 2025 compared to 3.3 percent in 2024, 
+driven mainly by food, utilities, and transport costs, 
+although widespread dollarization helped contain 
+broader price instability. The reduction in aid also had 
+significant social consequences, with food insecurity 
+increasing and poverty reduction stalling.
+Lower official grants and weaker exports widened 
+external imbalances, and reinforced Somalia’s 
+structural current account deficit. The current account 
+deficit widened to 9.6 percent of GDP in 2025 from 9.3 
+percent of GDP in 2024. Remittances continued to 
+play a critical stabilizing role, providing an important 
+buffer for household incomes and foreign exchange 
+inflows, and partially offsetting the decline in aid. 
+Despite this resilience, the external position remains 
+highly vulnerable to shocks, reflecting Somalia’s narrow 
+export base and heavy reliance on imports of food, fuel, 
+and consumer goods.
+On the fiscal front, reduced grants, and softer 
+domestic demand constrained revenue performance, 
+while spending pressures, particularly for security and 
+intergovernmental transfers intensified. As a result, the 
+fiscal balance shifted to a deficit of 0.4 percent of GDP in 
+2025, from a surplus of 0.1 percent in 2024. Nonetheless, 
+fiscal 
+management 
+remained 
+broadly 
+prudent, 
+supported by continued public financial management 
+reforms and the fiscal space created by debt relief. 
+Maintaining fiscal discipline amid declining external 
+support will be critical to safeguarding macroeconomic 
+stability and protecting priority spending. 
+Outlook and risks. The near- to medium-term outlook 
+has weakened relative to earlier expectations with 
+recent global oil price surge adding another shock 
+to Somalia’s economy. Economic growth is projected 
+to remain modest at 2.8 percent in 2026 and pick up 
+to 3.1 percent in 2027, constrained by continued aid 
+reductions, climate variability, global price shocks due 
+to the conflict in the Middle East, and limited productive 
+capacity. Inflation is projected to rise to 6.0 percent 
+in 2026 from 3.7 percent in 2025, reflecting global 
+commodity price volatility, especially Somalia’s reliance 
+on imported food and fuel, and domestic supply 
+disruptions linked to climate and security conditions. 
+Poverty reduction is expected to be gradual, with food 
+insecurity remaining extremely sensitive to rainfall 
+outcomes, aid flows, and price shocks.
+=== PAGE 12 ===
+Somalia Economic Update • Edition 11
+vi
+Global price shocks associated with the conflict in 
+the Middle East are heightening Somalia’s external 
+vulnerability 
+through 
+multiple 
+transmission 
+channels. As a highly import-dependent economy, 
+Somalia is exposed first through the trade and price 
+pass through channel. Higher global energy and food 
+prices are rapidly translating into higher domestic fuel, 
+transport, electricity, and food costs, fueling inflation 
+while weighing on port activity and customs revenues. 
+The remittance channel reflects Somalia’s reliance on 
+employment opportunities in GCC countries, where 
+weaker economic conditions could slow remittance 
+inflows and reduce household consumption. At the 
+same time, heightened uncertainty is likely to dampen 
+foreign and diaspora investment weakening capital 
+formation and medium term growth prospects, while 
+the combined effects increase fiscal pressures by 
+compressing revenues and raising spending needs.
+Risks to the outlook are predominantly on the 
+downside. A deeper or more prolonged decline in 
+foreign aid could further compress consumption, 
+strain fiscal execution, and heighten humanitarian 
+needs. Climate shocks, including droughts and floods, 
+continue to threaten rural livelihoods and food prices, 
+while security setbacks could disrupt trade corridors 
+and deter investment. Prolonged global oil disruptions, 
+geopolitical tensions, or changes affecting remittance 
+channels—could further weaken external balances. 
+Political and intergovernmental coordination challenges 
+also pose risks to timely reform implementation.
+Navigating 
+shocks 
+will 
+require 
+accelerating 
+reforms that support growth and job creation and 
+stepping up efforts to mobilize domestic revenues. 
+Addressing Somalia’s deep-seated development 
+challenges requires continued improvements in 
+economic 
+regulation 
+and 
+institutions, 
+reducing 
+regional 
+fragmentation, 
+and 
+more 
+affordable 
+electricity. 
+Consistent 
+reform 
+implementation, 
+stronger coordination across levels of government, 
+and increasingly constrained external support will 
+be essential to sustain growth and create jobs. These 
+reforms will also ensure the ability of the economy 
+to better withstand mounting climate and external 
+shocks. At the same time, enhancing domestic 
+revenue mobilization is critical to expand fiscal 
+space, safeguard fiscal sustainability, and enable the 
+government to deliver more and better basic services. 
+In this context, it is particularly important to reduce 
+reliance on volatile external grants while foreign aid 
+is declining. Improved domestic revenue mobilization 
+requires broadening the tax base, modernizing tax and 
+customs administration, and improving harmonization 
+across federal and state levels (World Bank, 2025a).
+Sustaining public financial management and debt 
+management reforms remains essential to preserving 
+macroeconomic stability and ensuring efficient use of 
+limited resources.
+Recent global oil price shocks and the deterioration 
+in the outlook reinforce the urgency of reducing 
+costs for households and firms and transitioning to 
+more sustainable electricity generation. Lowering 
+electricity costs would also deliver macroeconomic 
+benefits, including reducing exposure to global 
+commodity 
+price 
+volatility, 
+easing 
+inflationary 
+pressures, and strengthening household purchasing 
+power and firm competitiveness. Somalia’s electricity 
+sector remains a binding constraint to growth 
+and private sector development, characterized 
+by fragmentation, high costs, vulnerability to 
+commodity price volatility, and limited regulation. 
+Electricity supply is dominated by small, privately 
+operated systems that rely heavily on imported diesel 
+generation, resulting in some of the highest tariffs 
+globally and significant variability in service quality 
+across locations. Weak sector governance, limited 
+economies of scale, and insufficient transmission and 
+distribution infrastructure constrain efficiency gains 
+and hinder the integration of lower-cost generation 
+sources. These structural weaknesses raise production 
+costs economy-wide, disproportionately affect small 
+firms and households, and limit the scope for industrial 
+activity and job creation.
+ 
+Executive Summary
+=== PAGE 13 ===
+Somalia Economic Update • Edition 11
+vii
+Executive Summary
+Despite progress in expanding coverage in major 
+urban centers, access to electricity remains uneven 
+and reliability challenges persist. The 2025 Multi-
+Tier Framework (MTF) survey indicates 71 percent of 
+households report some form of electricity access, yet 
+only 21 percent of electrified households receive more 
+than eight hours of supply per day. Urban areas have 
+seen gradual improvements in connections driven 
+by private investment and population growth, while 
+access in rural and peri-urban areas remains limited. 
+Firms consistently identify electricity cost and reliability 
+as major operational constraints, with frequent 
+outages and voltage fluctuations requiring costly self-
+generation and backup solutions. For households, 
+high tariffs constrain consumption and welfare, while 
+limited access exacerbates spatial inequalities and 
+undermines service delivery, particularly in health, 
+education, and water services.
+Addressing these challenges requires a coordinated 
+reform agenda focused on lowering costs, improving 
+reliability, reducing vulnerability, and expanding 
+access. Priority actions include (1) strengthening the 
+regulatory and institutional framework to reduce 
+fragmentation and improve oversight; (2) promoting 
+least-cost generation, particularly through scalable 
+renewable energy investments; and (3) investing in 
+transmission and distribution networks to enhance 
+system 
+efficiency 
+and 
+enable 
+interconnection. 
+Improving coordination across federal and state levels, 
+alongside targeted public and private investment, will 
+be essential to unlock economies of scale, crowd in 
+financing, and ensure that electricity reforms support 
+broader objectives of competitiveness, job creation, 
+and inclusive growth.
+=== PAGE 14 ===
+Somalia Economic Update • Edition 11
+viii
+SOO KOOBID FULINTA
+D
+haqaalaha 
+Soomaaliya 
+wuxuu 
+muujiyay 
+adkaysi muuqda marka la galay 2025, taasoo ay 
+taageerayaan  dadaallo dib-u-habeyn joogto ah oo 
+lagu xoojinayo joogtaynta miisaaniyadda, hay'adaha, 
+iyo adkeysiga qaybta gaarka ah. Heerarka deymaha 
+oo hooseeya kadib dhameystirka HIPC, isbeddelada 
+siyaasadda canshuuraha, iyo dib-u-habaynta lagu 
+horumarinayo nidaamka lacag-bixinta, ballaarinta 
+kormeerka qaybta maaliyadda iyo ka hortagga lacag 
+dhaqida, ayaa ka qayb qaatay maareynta dhaqaalaha 
+guud ee wanaagsan. Isbeddelada qaab-dhismeedka 
+ee kalluumaysiga, isgaarsiinta, iyo korontada, iyo sidoo 
+kale iswaafajinta joogtada ah ee qaab-dhismeedka 
+sharciga iyo hay'adaha ee Bulshada Bariga Afrika (EAC) 
+ayaa kor u qaadi doona adkeysiga qaybta gaarka loo 
+leeyahay in kastoo ay jirto xaalad adag oo dibadda ah. 
+Aasaaskan wanaagsan waxay muujinayaan horumarka 
+Soomaaliya ee xoojinta kalsoonida dhaqaalaha guud, 
+in kastoo ay weli jiraan nuglaansho.
+Si kastaba ha ahaatee, adkeysiga dhaqaale ee 
+Soomaaliya ayaa la tijaabiyay iyadoo isku darka 
+cilado ay dhaceen intii lagu jiray 2025. Joojinta 
+gargaarka bini'aadamnimada iyo amniga ayaa hoos u 
+dhigay baahida guud, halka xaaladaha cimilada xun ay 
+carqaladeeyeen wax-soo-saarka beeraha iyo xoolaha. 
+Kobaca ayaa inta badan ku saleysan isticmaalka laakiin 
+hoos ayuu u dhacay ilaa 3 boqolkiiba 2025 isagoo ka 
+soo dhacay 4 boqolkiiba oo uu ahaa 2023 iyo 2024, 
+taasoo sababtay in GDP-ga dhabta ah ee qofkiiba 
+aanu si weyn u korin. Hawlaha maalgashiga ayaa 
+noqday kuwo adkaysi badan—oo ay taageerayaan 
+lacagaha la soo diro iyo ballaarinta magaalooyinka—
+laakiin waxqabadka dhoofinta ayaa yaraaday, taasoo 
+muujinaysa saldhigga dhoofinta ee Soomaaliya oo 
+cidhiidhi ah oo u nugul cimilada. Xaddidaadaha 
+dhismaha, oo ay ku jiraan kharashka koronto iyo 
+gaadiidka oo sareeya, helitaanka maaliyadeed oo 
+xaddidan, iyo kala qaybsanaanta gudaha, ayaa sii 
+carqaladeeyay horumarinta warshadaha iyo ballaarinta 
+qaybta gaarka ah. Cadaadisyada sicir-bararka ayaa sare 
+u kacay iyadoo gaartay 3.7 boqolkiiba sanadka 2025 
+marka la barbar dhigo 3.3 boqolkiiba sanadka 2024, 
+taasoo inta badan sabab u ahayd cunto, adeegyada 
+adeegyada, iyo kharashyada gaadiidka, in kastoo 
+dollarization-ka ballaaran uu ka caawiyay xakameynta 
+xasilooni 
+la'aanta 
+qiimaha 
+ballaaran. 
+Dhimista 
+gargaarka sidoo kale waxay yeelatay cawaaqib bulsho 
+oo weyn, iyadoo cunto la'aanta ay sii kordhayeen hoos 
+u dhaca saboolnimada.
+Deeqaha rasmiga ah oo hooseeya iyo dhoofinta oo 
+daciif ah ayaa ballaariyay dheelitirka dibadda iyo 
+xoojiyay miisaaniyadda hadda taagan ee Soomaaliya 
+ee qaab-dhismeedka hadda. Hoos u dhaca xisaabta 
+hadda jirta ayaa gaadhay 9.6 boqolkiiba GDP sanadkii 
+2025 iyadoo ka soo bilaabatay 9.3 boqolkiiba GDP 
+sanadkii 2024. Lacagaha la soo diro ayaa sii waday 
+inay door muhiim ah ka ciyaaraan xasilloonida, iyagoo 
+bixiya meel muhiim ah oo loogu talagalay dakhliga 
+guryaha iyo soo gelitaanka lacagaha qalaad, isla 
+markaana qayb ahaan ka magdhawday hoos u dhaca 
+gargaarka. Inkasta oo ay adkaysi badan tahay, xaaladda 
+dibadda weli aad bay u nugul tahay shoogyada, taasoo 
+muujinaysa saldhigga dhoofinta ee Soomaaliya oo 
+cidhiidhi ah iyo ku tiirsanaanta badan ee soo dejinta 
+cuntada, shidaalka, iyo alaabta macaamiisha.
+Dhinaca maaliyadda, hoos u dhaca deeqaha, 
+iyo baahida gudaha oo jilicsan ayaa xaddiday 
+waxqabadka 
+dakhliga, 
+halka 
+cadaadiska 
+kharashka—gaar ahaan amniga iyo wareejinta 
+dowladaha dhexdooda—ay sii xoogeysteen. Natiijo 
+ahaan, dheelitirka maaliyadeed wuxuu isu beddelay 
+hoos u dhac 0.4 boqolkiiba GDP sanadkii 2025, marka 
+loo eego kororka 0.1 boqolkiiba sanadkii 2024. Si 
+kastaba ha ahaatee, maamulka maaliyadeed wuxuu 
+ahaa mid taxaddar leh, iyadoo ay taageerayaan dib-
+u-habeynta maamulka maaliyadda dadweynaha iyo 
+booska maaliyadeed ee ay abuurtay cafinta deymaha. 
+Ilaalinta anshax maaliyadeed iyadoo taageerada 
+dibadda ay hoos u dhacayso ayaa muhiim u noqon 
+doonta ilaalinta xasilloonida dhaqaalaha guud iyo 
+ilaalinta kharashaadka mudnaanta leh.
+=== PAGE 15 ===
+Somalia Economic Update • Edition 11
+ix
+Aragti iyo khatar. Aragtida muddada dhow tan 
+muddada dhexe ayaa daciiftay marka loo eego filashada 
+hore iyadoo kororka qiimaha saliidda adduunka ee 
+dhawaanahan uu ku sii kordhinayo argagax kale 
+dhaqaalaha Soomaaliya. Kobaca dhaqaalaha ayaa la 
+saadaalinayaa inuu sii ahaan doono mid dhexdhexaad 
+ah oo ah 2.8 boqolkiiba sanadka 2026 isla markaana 
+kor u qaadi doono wax dhan 3.1 boqolkiiba sanadka 
+2027, taasoo xaddidaysa hoos u dhaca gargaarka, 
+isbeddelka cimilada, isbeddelka qiimaha caalamka 
+ee ka dhashay dagaalka Bariga Dhexe, iyo awoodda 
+wax-soo-saarka oo xaddidan. Sicir-bararka ayaa la 
+saadaalinayaa inuu kor ugu kici doono 6.0 boqolkiiba 
+sanadka 2026 isagoo ka kacaya 3.7 boqolkiiba 
+sanadka 2025, taasoo muujinaysa isbeddelka qiimaha 
+badeecadaha caalamiga ah, gaar ahaan ku tiirsanaanta 
+Soomaaliya  cuntada iyo shidaalka la soo dhoofiyo, iyo 
+carqaladeynta saadka gudaha ee la xiriira xaaladaha 
+cimilada iyo amniga. Yaraynta saboolnimada waxaa la 
+filayaa inay noqoto mid tartiib tartiib ah, iyadoo cunto 
+la'aanta ay aad ugu nugul tahay natiijooyinka roobka, 
+qulqulka gargaarka, iyo isbeddelka qiimaha.
+Sicir-bararka caalamiga ah ee la xiriira colaadda 
+Bariga Dhexe ayaa sii kordhinaya nuglaanta 
+dhaqaale ee dibadda ee Soomaaliya, iyada oo 
+ay taasi ku imanayso marino badan oo saameyn 
+gudbiya. Maadaama Soomaaliya tahay dal si weyn ugu 
+tiirsan wax soo dhoofinta, waxay ugu horrayn saameyn 
+uga qaadaysaa dhinaca ganacsiga iyo gudbinta sicir-
+bararka. Kororka qiimaha caalamiga ah ee shidaalka 
+iyo cuntada ayaa si degdeg ah ugu tarjumaya koror 
+ku yimaadda qiimaha gudaha ee shidaalka, gaadiidka, 
+korontada, iyo cunnada, taas oo hurinaysa sicir-
+bararka isla markaana hoos u dhigaysa dhaqdhaqaaqa 
+dekedaha iyo dakhliga canshuuraha kastamka. 
+Dhinaca xawaaladaha, Soomaaliya waxay si weyn ugu 
+tiirsan tahay shaqooyinka ay muwaadiniinteedu ka 
+helaan dalalka GCC, halkaas oo xaaladaha dhaqaale ee 
+sii daciifaya ay keeni karaan hoos u dhac ku yimaadda 
+lacagaha xawaaladaha iyo isticmaalka qoysaska. Isla 
+mar ahaantaana, hubanti la’aanta sii kordhaysa waxay 
+u badan tahay inay yareyso maalgashiga shisheeye 
+iyo kan qurba-joogta, taas oo daciifinaysa sameysanka 
+raasumaalka iyo rajada koboca dhaqaale ee muddada 
+dhexe. Saameyntaas isku biirtay waxay sidoo kale 
+kordhinayaan cadaadiska maaliyadeed ee dowladda, 
+iyaga oo hoos u dhigaya dakhliga isla markaana 
+kordhinaya baahida kharashaadka.
+Khataraha haysta aragtida ayaa badanaa hoos u 
+dhacaya. Hoos u dhac qoto dheer ama ka sii dheer oo 
+kaalmo dibadda ah ayaa sii adkeynaya isticmaalka, culays 
+gelin kara fulinta miisaaniyadda, isla markaana kordhin 
+kara baahiyaha bani'aadamnimada. Dhibaatooyinka 
+cimilada, oo ay ku jiraan abaaraha iyo fatahaadaha, 
+ayaa weli halis gelinaya nolosha miyiga iyo qiimaha 
+cuntada, halka caqabadaha amniga ay carqaladeyn 
+karto waddooyinka ganacsiga oo ay carqaladeyn 
+karto maalgelinta. Carqaladaha shidaalka caalamka 
+ee muddada dheer ah, xiisadaha juqraafiyeed, ama 
+isbeddelada saameeya kanaalada lacagaha—waxay 
+sii daciifin karaan dheelitirka dibadda. Caqabadaha 
+isku-duwidda siyaasadeed iyo kuwa dowladaha ayaa 
+sidoo kale khatar ku ah hirgelinta dib-u-habaynta 
+waqtigeeda ku haboon.
+Dhax marida shoogaga waxay u baahan doontaa in la 
+dedejiyo dib-u-habeyn taageera koboca iyo abuurista 
+shaqooyinka, iyo in la kordhiyo dadaallada lagu 
+dhaqaajinayo dakhliga gudaha. Wax ka qabashada 
+caqabadaha horumarineed ee qotada dheer ee 
+Soomaaliya waxay u baahan tahay horumarin joogto 
+ah oo lagu sameeyo xeerarka dhaqaalaha iyo hay'ada, 
+yareynta kala qaybsanaanta gobollada, iyo koronto la 
+awoodi karo. Hirgelinta dib-u-habaynta joogtada ah, 
+isku-duwid xooggan oo heerarka dowladda ah, iyo 
+taageerada dibadda in kastoo ay sii xaddiday—ayaa 
+noqon doonta mid muhiim u ah si loo sii wado kobaca 
+loona abuuro shaqooyin. Dib-u-habayntan waxay 
+sidoo kale xaqiijin doonaan awoodda dhaqaale ee uu si 
+fiican ugu adkeysan karo dhibaatooyinka cimilada iyo 
+dibadda ee sii kordhaya. Isla waqtigaas, kor u qaadista 
+dhaqdhaqaaqa dakhliga gudaha waa muhiim si loo 
+ballaariyo booska maaliyadda, loo ilaaliyo joogtaynta 
+miisaaniyadda, loona suurtageliyo dowladda inay 
+bixiso adeegyo aasaasi ah oo ka wanaagsan oo badan. 
+Xaaladdan, waxaa si gaar ah muhiim u ah in la yareeyo 
+ku tiirsanaanta deeqaha dibadda ee isbeddelka leh 
+iyadoo kaalmooyinka dibadda ay hoos u dhacayaan. 
+Soo Koobid Fulinta
+=== PAGE 16 ===
+Somalia Economic Update • Edition 11
+x
+Horumarinta dhaqdhaqaaqa dakhliga gudaha waxay 
+u baahan tahay ballaarinta saldhigga canshuuraha, 
+casriyeynta maamulka canshuuraha iyo kastamka, 
+iyo hagaajinta iswaafajinta heerarka federaalka iyo 
+gobollada. Sii wadida dib-u-habaynta maamulka 
+maaliyadda dadweynaha iyo maaraynta deymaha ayaa 
+weli muhiim u ah ilaalinta xasiloonida dhaqaalaha guud 
+iyo hubinta isticmaalka hufan ee kheyraadka xaddidan.
+Kororka dhowaanahan ku yimid qiimaha shidaalka 
+caalamka 
+iyo 
+sii 
+xumaanshaha 
+saadaasha 
+mustaqbalka waxay sii adkaynayaan baahida 
+degdegga ah ee loo qabo dhimista kharashaadka 
+qoysaska iyo shirkadaha, iyo u gudbidda soo 
+saarista koronto waarta oo sii jirta. Hoos u dhigista 
+kharashaadka korontadu waxay sidoo kale keeni 
+lahayd faa’iidooyin dhaqaale oo guud, sida yaraynta 
+ku tiirsanaanta isbeddelka qiimaha badeecooyinka 
+caalamiga ah, dejinta cadaadiska sicir-bararka, iyo 
+xoojinta awoodda wax iibsiga ee qoysaska iyo tartanka 
+ganacsiyada. Qaybta korontada Soomaaliya weli waxaa 
+haysto dhibaato inay gaarto kobac iyo horumarinta 
+qaybta gaarka loo leeyahay, taasoo lagu garto kala 
+qaybsanaan, kharashyada sare, nuglaanta qiimaha 
+badeecada ee isbeddelaya, iyo xeerar xaddidan. Bixinta 
+korontada waxaa xukuma nidaamyo yaryar oo gaar 
+loo leeyahay oo si weyn ugu tiirsan waxyaabaha la soo 
+dhoofiyo, taasoo keenta qaar ka mid ah canshuuraha 
+ugu sarreeya caalamka iyo kala duwanaansho weyn 
+oo tayada adeegga ah meelaha kala duwan. Maamul 
+qaybeed ioo daciif ah, dhaqaalaha cabbirka oo 
+xaddidan, iyo kaabayaasha gudbinta iyo qaybinta 
+oo aan ku filnayn ayaa xaddidaya waxtarka waxayna 
+caqabad ku tahay isku-darka ilaha wax soo saarista 
+qiimaha jaban. Daciifnimadan qaab-dhismeedka waxay 
+kor u qaadaan kharashka wax-soo-saarka guud ahaan 
+dhaqaalaha, si aan sinnayn u saameeyaan shirkadaha 
+yaryar iyo guryaha, waxayna xaddidaa fursadaha 
+hawlaha warshadaha iyo abuurista shaqooyinka.
+In kasta oo horumar lagu sameeyay ballaarinta in 
+la gaarsiiyo magaalooyinka waaweyn, helitaanka 
+korontada weli waa mid aan siman ahayn iyo 
+caqabado kalsooni ah oo weli jira. Ra'yi uruurinta 
+Qaab-dhismeedka Heerarka Badan (MTF) ee 2025) 
+wuxuu muujinayaa in 71 boqolkiiba qoysaska ay soo 
+sheegaan nooc ka mid ah helitaanka koronto, hase 
+yeeshee kaliya 21 boqolkiiba guryaha korontada leh 
+ayaa helaya in ka badan siddeed saacadood maalintii. 
+Aagagga magaalooyinka ayaa arkay horumar tartiib 
+tartiib ah oo xiriir ah oo ay sabab u tahay maalgelinta 
+gaarka loo leeyahay iyo kororka dadka, halka korontada 
+siinta miyiga iyo deegaanada hareeraha magaalooyinka 
+ay weli xaddidantahay. Shirkaduhu si joogto ah ayay u 
+aqoonsadaan qiimaha korontada iyo kalsoonida inay 
+yihiin xaddidaadaha waaweyn ee hawlgalka, iyadoo 
+marar badan iska baxayso iyo isbeddelada danabka ay 
+u baahan yihiin xalal in qofka asaga koronto samaysto 
+iyo kayd qaali ah. Guryaha, canshuuraha sare ayaa 
+xaddiday isticmaalka iyo daryeelka bulshada, halka 
+helitaanka xaddidan uu sii xoojiyo sinnaan la'aanta ka 
+jirta deegaanada iyo wiiqda bixinta adeegyada, gaar 
+ahaan adeegyada caafimaadka, waxbarashada, iyo 
+adeegyada biyaha.
+Wax ka qabashada caqabadahan waxay u baahan 
+tahay ajande dib-u-habeyn ah oo diiradda saaraya 
+dhimista kharashka, hagaajinta kalsoonida, hoos 
+u dhigida nuglaanta, iyo ballaarinta helitaanka. 
+Tallaabooyinka mudnaanta leh waxaa ka mid ah (1) 
+xoojinta qaab-dhismeedka xeerarka iyo hay'adaha 
+si loo yareeyo kala qaybsanaanta loona hagaajiyo 
+kormeerka; (2) dhiirrigelinta soo saarista qiimaha 
+ugu yar, gaar ahaan iyada oo loo marayo maalgelinta 
+tamarta la cusboonaysiin karo ee la ballaarin karo; iyo 
+(3) maalgelinta shabakadaha gudbinta iyo qaybinta si 
+loo kordhiyo waxtarka nidaamka loona suurtageliyo 
+isku xirka. Hagaajinta isku-duwidda heerarka federaalka 
+iyo gobollada, iyo maalgelinta dadweynaha iyo kuwa 
+gaarka loo leeyahay, ayaa muhiim u noqon doonta in 
+la furo dhaqaalaha miisaanka, la ururiyo maalgelinta, 
+loona hubiyo in dib-u-habaynta korontada ay 
+taageerto yoolalka ballaaran ee tartanka, abuurista 
+shaqo, iyo kobaca guud ee loo wad adhan yahay.
+Soo Koobid Fulinta
+=== PAGE 17 ===
+RECENT ECONOMIC DEVELOPMENTS 
+AND OUTLOOK
+CHAPTER ONE
+=== PAGE 18 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+2
+Global and Regional Environment
+T
+he global economy remains resilient in 2025 
+despite trade tensions and policy uncertainty, 
+but downside risks and uncertainty have intensified 
+in 2026. Global growth is estimated at 2.7 percent 
+in 2025, 0.4 percentage points above the June 2025 
+projections but slightly below the 2.8 percent in 2024, 
+driven by stronger than-expected growth in major 
+economies (World Bank, 2026b). This resilience partly 
+reflects front-loaded trade ahead of anticipated tariff 
+increases; as this temporary support fades, global 
+trade is expected to soften. Growth and inflation 
+prospects remain subdued subject to elevated risks 
+amid ongoing trade policy shifts, fuel price hikes and 
+global tensions.
+Sub-Saharan Africa’s recovery from successive 
+global shocks is losing momentum in 2026. Rising 
+geopolitical risks related to the conflict in the 
+Middle East, together with mounting debt service 
+burdens and long-standing structural weaknesses, 
+are weighing on economic activity. Regional gross 
+domestic product (GDP) growth is projected at 4.1 
+percent in 2026, unchanged from 2025, but downside 
+risks have intensified. Economic growth in 2025 
+benefited from improved inflation management, 
+ongoing fiscal consolidation, and reforms aimed 
+at enhancing domestic revenue mobilization and 
+strengthening debt management frameworks. 
+Amid ongoing macroeconomic stabilization efforts, 
+domestic demand continues to underpin economic 
+growth across the region. Private consumption 
+and domestic investment have been buoyed by 
+accommodative monetary policy and improving 
+external conditions, including the depreciation of 
+the U.S. dollar, which has helped ease inflationary 
+pressures. At the same time, elevated commodity 
+prices—especially for precious metals and beverage 
+commodities—strengthened revenues in several 
+African economies in 2025 and are expected to 
+continue to support the fiscal and external balances 
+of resource abundant countries over the current year.
+Downside risks to the growth outlook have risen 
+markedly since the end of February 2026. The 
+Middle East conflict has escalated sharply, with 
+direct attacks on energy infrastructure and severe 
+disruptions to shipping through the Strait of 
+Hormuz. The magnitude of the spillovers to Sub-
+Saharan Africa will depend on the duration of 
+the conflict, the scope of regional transmission 
+channels, and the extent of damage to critical 
+infrastructure. These risks are further amplified by 
+heightened debt vulnerabilities and a contraction 
+in external financing—most notably a reduction in 
+development assistance—placing additional strain 
+on the fiscal positions of low income countries.
+Recent Economic Developments in Somalia
+Despite positive momentum in recent years, economic 
+growth has decelerated 
+Somalia’s economic growth moderated in 2025 
+on the back of a sharp decline in foreign aid and 
+drought conditions. Real GDP growth is expected to 
+have reached 3 percent in 2025, a notable deceleration 
+from the 4.1 percent growth recorded in 2024 
+(Figure 1), resulting in broadly stagnant real GDP per 
+capita. Somalia, one of the key recipients of foreign 
+aid in the region, relied on external financing for 
+security and humanitarian support. Both security and 
+humanitarian aid were significantly curtailed in 2025, 
+weighing heavily on consumption of households 
+and non-profit institutions serving households. In 
+addition, below-average rainfall during the October–
+December 2025 Deyr season—at less than 30 percent 
+of the seasonal norm—reduced crop production and 
+agricultural output, adversely affecting rural incomes, 
+food security, and export performance. This also 
+impacted livestock, as below-average Gu rains and a 
+largely failed Deyr season led to severe pasture and 
+water shortages, worsening animal health conditions 
+and reducing milk production.
+=== PAGE 19 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+3
+Private consumption remains the primary driver 
+of Somalia’s aggregate demand (Figure 2). Private 
+consumption growth markedly slowed down to 3.1 
+percent in 2025, from 8.8 percent in 2024, with the 
+slowdown linked to reduced foreign aid and the 
+resulting cutback in humanitarian support; both cash 
+benefits and in-kind assistance. The activities of non-
+profit institutions providing basic service delivery 
+to households were also affected by reduced donor 
+financing. Government consumption moderated in 
+2025, in part due to lower bilateral grants and slower 
+project implementation, which reduced project 
+disbursements. Investment growth decelerated but 
+remained strong, supported by remittances, expanding 
+credit, and public investment. With significant 
+slowdown in imports, the negative contribution of net 
+exports to growth was scaled down. 
+Weak competition, barriers to trade and investment, 
+regional fragmentation, and infrastructure gaps are 
+among the key barriers to firms’ growth (Bareisaite 
+et al., 2025). High market concentration and weak 
+competition allow dominant firms to distort prices, 
+restrict entry, and crowd out smaller and new firms, 
+reducing incentives to invest, innovate, and improve 
+productivity. Barriers to trade and investment further 
+confine most businesses to local markets, fragmenting 
+economic activity and weakening incentives to 
+upgrade skills, adopt modern technologies, or scale 
+operations, which in turn constrains job creation and 
+wage growth. Regional fragmentation exacerbates 
+these challenges, with economic activity heavily 
+concentrated in Mogadishu while firms in other 
+regions struggle to formalize, attract investment, and 
+grow, widening spatial disparities and limiting inclusive 
+employment opportunities. Finally, infrastructure 
+gaps and weak connectivity, particularly poor road 
+conditions, seasonal flooding, and limited transport 
+networks, raise costs, disrupt supply chains, and 
+restrict firms’ ability to access broader markets, 
+especially outside the capital. Together, these 
+constraints reinforce low competition, narrow 
+market reach, and uneven growth, holding back 
+the development of a more dynamic, productive, 
+and geographically inclusive private sector in 
+Somalia.
+Access to electricity remains a significant constraint 
+on firm performance and economic growth, 
+driven less by connection delays and more by 
+excessive costs and unreliable supply. Electricity 
+is relatively available in major cities (Chapter 2). 
+However, firms consistently report that high 
+tariffs and frequent service interruptions raise 
+operating costs, disrupt production and service 
+delivery, 
+and 
+reduce 
+profitability—particularly 
+for energy intensive activities and firms seeking to 
+scale. Electricity constraints are more binding outside 
+Mogadishu, where limited network coverage and 
+poor service quality confine firms to local markets 
+Figure 1: GDP and GDP per capita growth
+Source: Somali National Bureau of Statistics (SNBS) and World Bank staff estimates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+(Percent)
+Figure 2: GDP growth and its drivers
+Source: SNBS and World Bank staff estimates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+(Percentage points of GDP)
+=== PAGE 20 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+4
+and discourage geographic expansion. Even where 
+access exists, unreliability forces firms to resort 
+to costly coping mechanisms, such as backup 
+generators, further eroding competitiveness. As a 
+result, weak and expensive electricity supply acts 
+as a structural bottleneck that limits investment, 
+constrains productivity growth, and reinforces spatial 
+fragmentation in Somalia’s private sector. 
+The sector’s heavy dependence on imported diesel 
+also heightens Somalia’s exposure to external and 
+commodity price shocks. Recent global oil price 
+increases linked to the conflict in the Middle East have 
+underscored these vulnerabilities. Higher fuel prices 
+are rapidly transmitted to domestic electricity tariffs, 
+transport costs, and food prices, adding to inflationary 
+pressures and weakening household welfare. Elevated 
+energy costs also erode firms’ competitiveness, 
+particularly in trade, manufacturing, and services. 
+Transitioning 
+to 
+more 
+sustainable 
+electricity 
+generation would help reduce exposure to fuel price 
+volatility while lowering long-term supply costs.
+Inflationary pressures have increased 
+Inflation accelerated in 2025 due to supply 
+disruptions and worsening weather conditions. 
+National headline inflation1 reached 3.7 percent in 
+1	 The SNBS started publishing national inflation in 2025, backcasting to 2024.
+2	 Poverty is measured as the number of people living below the national poverty line. The nowcasting of poverty level was based on 
+private consumption trends in 2023-25 and the 2022 Household Budget Survey.
+2025 compared to 3.3 percent in 2024. This increase 
+in headline inflation reflected higher prices of food, 
+utilities, and transport (Figure 3a). Food inflation 
+accelerated sharply in the second half of 2025, rising 
+from 1.7 percent in 2024 to 3.4 percent in 2025. 
+Inflation patterns varied by state (Figure 3b). Jubaland 
+and Banadir (which includes Mogadishu) recorded 
+inflation rates above 5.5 percent in 2025 while Puntland 
+saw a deflation. Nevertheless, de facto dollarization 
+kept overall inflation moderate and well-anchored. 
+Poverty reduction efforts were interrupted by 
+declining humanitarian support and climate shocks 
+Poverty reduction stalled in 2025, halting the 
+progress made since 2022. After falling for 2 years in 
+a row, poverty2 is estimated to have declined by 0.3 
+percentage points in 2025, compared to the larger gains 
+since 2022 (Figure 4a). The stalling was largely due to 
+cuts in foreign aid, with nearly two-thirds of recipient 
+households reporting that their assistance stopped, 
+according to a phone survey conducted in July and 
+August 2025 (Box 1). The number of beneficiaries of 
+cash and in-kind transfers was drastically reduced as 
+drought conditions worsened, and food prices rose. 
+As a result, the share of households classified according 
+to Integrated Food Security Phase Classification (IPC) 
+in Crisis (Phase 3) and Emergency (Phase 4) increased in 
+the second half of 2025 (Figure 4b). 
+Figure 3a: Contribution to inflation, percent and percentage points
+Source: SNBS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+		
+
+ 
+
+­
+
+(Percent)
+Figure 3b: National and FMS inflation
+Source: SNBS and Somali land CSD
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+(Percent)
+=== PAGE 21 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+5
+Figure 4a: Nowcasting of national poverty
+Source: World Bank staff calculations based on 2022 Household Budget Survey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+(Percent)
+Figure 4b: Share of households facing food insecurity
+Source: IPC or Integrated Food Security Phase Classification*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Percent)
+Survey evidence3 confirms the adverse impact of declining aid flows. Overall, 10 percent of respondent households 
+reported receiving any form of assistance in the six months preceding the survey, primarily from international 
+organizations and non-governmental organizations (NGOs), largely in the form of cash transfers or food assistance. 
+The incidence of assistance was higher among rural and nomadic households and internally displaced persons (IDPs) 
+(Figure B1.1). Among recipient households, 45 percent reported receiving food assistance and 39 percent cash transfers. 
+NGOs (50 percent) and international organizations (34 percent) were identified as the main providers. 
+More than two-thirds of households that had received assistance in the six months preceding the survey reported 
+that it had stopped within the preceding three months. The cessation rates are highest among assistance provided 
+by international organizations. Particularly concerning, self-reported poor households were significantly more likely 
+to report the discontinuation of support (Figure B1.2), highlighting the regressive distributional effects of aid cuts. In 
+response to the withdrawal of assistance, households primarily adjusted by reducing food consumption: 70 percent 
+reported cutting the number of meals, while 53 percent cited reduced access to food aid.
+Box 1: Foreign aid, poverty, and welfare dynamics in 2025
+3	 The Listening 2 Somalia Survey consisted of two rounds of phone surveys. The first wave took place in April and May of 2025, and 
+the second wave took place in July and August 2025. Around 3,000 households were sampled each wave, with 1,900 in the second 
+wave being panel observations. The survey asked whether the household had received assistance. This covered cash, food, or non-food 
+assistance. However, it would not capture the impact of reduced assistance on service provision, such as health clinics, etc.
+(Percent)
+Figure B1.1: Share of households receiving assistance in the 
+last 6 months, wave 2
+Source: SNBS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+(Percent)
+FigureB1.2: Share of beneficiary households whose assistance 
+stopped in the last 3 months
+Source: SNBS
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+ 
+­
+
+
+
+
+
+	
+
+
+­
+
+
+=== PAGE 22 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+6
+External pressures heightened amid aid cuts 
+The current account deficit is estimated to have 
+widened to 9.6 percent of GDP in 2025 from 9.3 
+percent in 2024, as external official grants declined 
+(Figure 5). With major donors cutting humanitarian 
+and security aid, external official grants fell by 4.2 
+percentage points of GDP. Higher remittances and 
+slight improvement in net services exports have 
+somewhat mitigated the impact of falling aid and 
+worsening merchandise trade deficit. Despite global 
+uncertainties and softer aid conditions, remittances 
+remained resilient, supporting private consumption 
+and demand for imported goods. Remittances reached 
+24 percent of GDP in 2025, up by 1.3 percentage 
+points compared to 2024. At the same time, limited 
+diversification of exports, both in terms of products 
+and markets, and significant dependence on imported 
+goods, have kept a high structural trade deficit. 
+This highlights the predominance of structural 
+constraints in the production and trade base, as well 
+as the economy’s ongoing dependence on external 
+financing to sustain its external position.
+Total exports declined by 1.7 percentage points 
+of GDP year-on-year in January-September 2025, 
+albeit from a high base. Poor rainfall and limited 
+water storage and irrigation facilities worsened 
+pastures’ quality and downsized crops. As a result, 
+livestock exports, accounting for roughly three-
+quarters of total export receipts, contracted by 
+0.8 percentage points and exports of crops and 
+vegetable oil by 0.3 percentage points, year-on-
+year, hence contributing most to overall export 
+decline. Exports of fisheries have been volatile over 
+the past two years (Figure 6a). Overall, the export 
+composition continued to exhibit high concentration 
+in few primary commodities and few markets, limiting 
+resilience to sector-specific shocks.
+Imports fell by 1.1 percentage points of GDP year-
+on-year in January-September 2025 amid falling 
+foreign aid (Figure 6b). Dwindling aid affected 
+imports with direct imports from aid organizations 
+falling and demand for food and medical products 
+slowing, as private consumption growth moderated. 
+Food imports fell by 2.5 percentage points year-on-
+year, and imports of medical products contracted by 
+0.8 percentage points. Imports of all other products 
+expanded as Somalia’s economy continues to depend 
+Figure 5: Current account balance
+Sources: CBS, IMF, and World Bank staff estimates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+(Percent of GDP)
+Figure 6a: Trend in exports (FOB)
+Source: CBS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+(Percent of GDP)
+Figure 6b: Trend in imports (CIF)
+Source: CBS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+	
+(Percent of GDP)
+=== PAGE 23 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+7
+on imports for consumption and of intermediate 
+inputs. Construction materials registered a strong 
+increase (2.1 percentage points), consistent with 
+ongoing urbanization, and now constitute one of the 
+largest non-food import components. Imports of oil 
+moderated, broadly aligned with international energy 
+price trends. Overall, the import basket continues 
+to be dominated by essential goods, with food and 
+medical products making up nearly 40 percent of total 
+imports’ value, while the share of capital goods remains 
+negligible, limiting domestic production capacity. 
+Unfinished 
+fiscal 
+federalism 
+creates 
+significant 
+distortions for external trade and production as FMS 
+charge different tariffs and use different rules and 
+procedures in dealing with businesses. 
+Financial intermediation is gradually expanding 
+supported by continued strengthening of financial 
+sector institutions 
+Private sector credit continued to grow in 2025, 
+albeit at a slower pace and remained shallow and 
+highly concentrated. Private sector credit growth 
+moderated to 14 percent in 2025, from almost 30 
+percent annual growth recorded in 2022-23. Loans 
+to trade financing, construction and real estate 
+sectors—together explain almost two thirds of total 
+outstanding credit stock (Figure 7). Banking sector 
+indicators also point to a generally sound system: 
+4	 The information in this section is based on data received from the CBS. The data may include errors, inaccuracies, and be revised at any 
+time by the CBS.
+5	 Previous CBS data initially reported positive earnings for 2024, which were later updated by the CBS to show negative profitability.
+6	 Calculated as financing assets over customer deposits.
+capital and liquidity levels are comfortable, and non-
+performing loans have remained low at about 2–3 
+percent of total loans. Between 2024 and 2025, total 
+commercial bank assets reached roughly US$2.3 
+billion.4 Moreover, capital adequacy remained strong, 
+with the regulatory capital to risk-weighted assets 
+reaching 16.6 percent as of September 2025, well 
+above the Central Bank of Somalia (CBS) minimum 
+requirement of 12 percent. Profitability has also 
+recovered from 2024, with reported earnings before 
+taxes and zakat totaling US$9.6 million.5 Commercial 
+banks’ loan-to-deposit ratio6 continued to rise 
+gradually, surpassing 30 percent in 2025, compared 
+to levels in the mid-20s in prior years, indicating a 
+modest increase in intermediation. Nonetheless, 
+banks continue to favor liquidity over lending, with 
+cash holdings remaining the largest asset class on 
+banks’ balance sheets, despite their share declining 
+from 40 percent to 35 percent during the year. While 
+on one hand, this structure indicates a deposit-
+funded and relatively liquid banking system, on 
+the other hand, it also highlights the limited scale 
+of financial intermediation in supporting broader 
+investment and growth.
+The rollout of the Somali Instant Payment System 
+and related digital infrastructure has supported 
+faster and more interoperable transactions across 
+banks and mobile money providers. In the second 
+quarter of 2025 alone, the national payment system 
+processed 
+transactions 
+worth 
+about 
+US$541 
+million, representing roughly a 19 percent increase 
+compared to a year earlier. At the same time, CBS 
+introduced an annual cash export limit of US$15 
+million per bank to preserve US-dollar liquidity in 
+the domestic system after detecting sizeable cash 
+outflows. Together, these developments indicate 
+a financial sector that is gradually deepening and 
+digitizing, while policy priorities remain focused on 
+stability, liquidity management, and strengthening 
+financial infrastructure.
+Figure 7: Somalia’s credit to private sector
+Source: CBS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+(% y-o-y change, contribution in ppts.)
+=== PAGE 24 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+8
+Overall, 
+monetary 
+and 
+financial 
+sector 
+developments in Somalia in recent years have 
+been driven by institutional strengthening and the 
+gradual modernization of the financial system. This 
+is critical for the economy’s sustained growth as total 
+credit to the private sector remains around 5 percent 
+of GDP; one of the lowest in the world (Figure 8). The 
+Central Bank of Somalia has continued to enhance 
+its regulatory and supervisory capacity and improve 
+financial sector oversight.7 Recent reforms have 
+focused on strengthening governance, compliance, 
+and operational frameworks in the banking system. 
+The new Financial Institutions Law revised Anti-
+Money Laundering/Countering the Financing of 
+Terrorism (AML/CFT) Law, Takaful/Insurance Law, 
+and National Payment System Law were all enacted 
+in 2025 and early 2026. Regulatory authorities also 
+made strong progress in compiling and disseminating 
+financial sector data, enabling Somalia’s inclusion 
+in key International Monetary Fund (IMF) statistical 
+databases for the first time.
+Fiscal position weakened amid declining external 
+grants and lackluster revenue performance
+Somalia’s fiscal position remained broadly balanced 
+but regressed compared to 2024. The Federal 
+Government of Somalia (FGS) ran a deficit of 0.4 
+percent of GDP in 2025 while in 2024 the budget was in 
+surplus of 0.1 percent of GDP (Figure 9). Lower bilateral 
+7	 Following the enactment of the updated Financial Institutions Law, the Central Bank of Somalia (CBS) issued the first ten licenses to 
+non-deposit-taking microfinance institutions and the first four licenses to insurance/takaful companies.
+grants and customs revenue were the key factors 
+affecting the fiscal position. Overall external grants 
+declined by 0.6 percentage points of GDP in 2025 to 
+US$515 million. Bilateral grants, which financed mostly 
+security spending, declined by almost 40 percent 
+year-on-year requiring a shift to domestic financing 
+of security and consolidation of spending. Multilateral 
+grants provided budget support and financed project 
+costs. While budget support was in line with inflows 
+received in 2025, project disbursement declined to 2.6 
+percent of GDP in 2025 compared to 2.9 percent in 
+2024. Overall revenues improved marginally compared 
+to 2024 as customs revenue fell short of expectations 
+while inland tax revenue increased. However, overall 
+revenue represented only 71 percent of the planned 
+budget amount, necessitating significant compression 
+of overall spending with project spending affected 
+the most (Table 1).
+Domestic revenue growth was constrained by 
+declining aid and slowing domestic demand. 
+Domestic revenue reached 3.1 percent of GDP 
+(Figure 9), marginally improving compared to 2024 
+(by 0.02 percentage points of GDP), below the 
+Medium-Term Revenue Roadmap target for 2025 (3.4 
+percent). The adoption of the new Income Tax Law, 
+efforts to increase the use of digital tools for sales 
+tax, and the rollout of the non-tax revenue portal 
+contributed to revenue gains. These gains offset to 
+Figure 9: FGS Revenue, expenditure, and overall fiscal balance
+Source: Ministry of Finance
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		
+		
+		
+(Percent of GDP)
+Figure 8: Private sector credit
+Sources: WDI and CBS. Data for Somalia refers to 2025.
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+(% of GDP, 2024)
+=== PAGE 25 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+9
+some extent the decline in customs revenue. Customs 
+revenue, the key revenue source for FGS (Figure 10), 
+fell by 0.2 percentage points of GDP in 2025 compared 
+to 2024 as declining foreign aid constrained demand 
+for key imported goods. 
+Public spending growth remained modest and 
+was concentrated on transfers to FMS, goods and 
+services, and capital projects. Transfers to FMS 
+peaked in 2025, reaching 1.3 percent of GDP, and 
+reflect continued support to advancing federalism 
+agenda and improved project implementation by FMS, 
+Table 1: FGS fiscal accounts, million US$ (unless otherwise specified)
+2022
+2023
+2024
+2025
+2025
+2024
+2025
+Actual
+Budget
+Actual
+Million US$
+Percent of GDP
+Revenue and grants
+721.9
+738.1
+912.7
+919.8
+1227.5
+7.6
+7.1
+Domestic revenue
+262.7
+329.5
+369.4
+404.3
+430.3
+3.1
+3.1
+   Tax revenue
+181.7
+224.6
+266.8
+282.7
+295.2
+2.2
+2.2
+      Taxes on income, profits, property
+18.7
+24.4
+36.2
+44.8
+38.0
+0.3
+0.3
+      Taxes on goods and services
+32.8
+38.6
+51.4
+68.2
+56.1
+0.4
+0.5
+      Taxes on international trade
+116.2
+154.1
+168.9
+158.4
+186.2
+1.4
+1.2
+      Other taxes
+14.1
+7.6
+10.3
+11.3
+14.9
+0.1
+0.1
+  Non-tax revenue
+81.0
+104.9
+102.6
+121.6
+135.1
+0.9
+0.9
+Grants
+459.2
+408.6
+543.4
+515.5
+797.2
+4.5
+4.0
+   Bilateral
+37.1
+0.8
+29.7
+18.6
+42.0 
+0.2
+0.1
+   Multilateral
+422.1
+407.8
+513.7
+497.0
+755.2 
+4.3
+3.8
+Expenditure
+719.4
+709.4
+903.5
+971.3
+1359.8
+7.6
+7.5
+Compensation of employees
+259.6
+292.2
+341.6
+371.1
+370.0
+2.9
+2.9
+Use of goods and services
+140.7
+138.2
+204.5
+253.9
+391.5
+1.7
+2.0
+Interest and other charges
+0.7
+2.4
+5.8
+8.1
+13.8
+0.0
+0.1
+Transfers to FMS
+94.7
+90.9
+116.1
+163.2
+227.5
+1.0
+1.3
+Social benefits
+188.9
+130.6
+153.8
+19.1
+77.0
+1.3
+0.1
+Other expenses
+21.6
+40.7
+53.2
+81.3
+97.9
+0.4
+0.6
+Capital
+13.2
+14.4
+28.5
+74.6
+182.1
+0.2
+0.6
+Fiscal balance
+2.5
+28.6
+9.2
+-51.5
+-132.3
+0.1
+-0.4
+Memo: 
+Nominal GDP (US$ Millions)
+10,203
+10,957
+11,966
+12,995
+14,166
+Source: Ministry of Finance
+Figure 10: FGS domestic revenue
+Source: Ministry of Finance
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Percent of GDP)
+=== PAGE 26 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+10
+especially of capital projects (Figure 11a). FGS also 
+spent more on capital projects with capital spending 
+recording a significant increase to reach 0.6 percent of 
+GDP in 2025 from 0.1 percent in 2020. Nevertheless, 
+limited fiscal space and weak capacity to implement 
+infrastructure projects have kept public investment at 
+one of the lowest levels in the region. Higher spending 
+on goods and services reflects increased reliance on 
+consulting services. Despite worsening food security 
+and declining humanitarian support, spending on 
+social benefits fell drastically in 2025 to 0.1 percent of 
+GDP, the lowest level so far. The wage bill remained the 
+largest component, absorbing over one-third of total 
+expenditure and 90 percent of domestic revenue. 
+Basic service delivery continued to rely on external 
+grants and was impacted by sharp reduction in 
+foreign aid. As a result, actual spending on social 
+services (health, education, and social assistance) fell 
+to 1.3 percent of GDP in 2025 (Figure 11b), which was 
+mostly affected by social assistance spending which 
+saw a significant decline. Spending on education 
+continued to improve and reached 0.4 percent of 
+GDP in 2025, almost triple its level in 2020, and is 
+now broadly on par with the level of health spending. 
+Administration and security continue to receive 
+almost half of all budget allocations. Administration 
+spending picked up in 2025 to cover election costs. 
+Security spending continued to dominate budget 
+allocations. As off-budget donor support declined, the 
+government allocated additional resources toward 
+security sectors previously financed by bilateral 
+partners, further limiting fiscal space for development 
+and social spending.
+Improved 
+subnational 
+domestic 
+revenue 
+mobilization and higher transfers from FGS have 
+improved the fiscal stance of FMS. All FMS but 
+Puntland ran fiscal surpluses in 2025 with overall 
+revenue increasing between 11 percent (Puntland 
+and South West) and 60 percent (Jubaland) in 2025 
+(Figure 12a). Intergovernmental transfers contributed 
+most to the positive fiscal stance with transfers to 
+Jubaland more than doubling compared to 2024, 
+and transfers to other FMS growing between 20 and 
+30 percent, except for Puntland, which recorded a 
+decline. Subnational domestic revenue collection 
+also strengthened, especially in Puntland, Jubaland, 
+and Hirshabelle, but at more modest rates. Higher 
+subnational domestic revenue in Puntland and 
+Jubaland was driven mostly by customs revenue in 
+contrast to FGS where customs revenue declined. 
+Improvements in revenue collection and grant 
+allocations were used to overall spending (Figure 12b) 
+with wage bill, goods and services, and capital 
+spending growing faster than previous years.
+Figure 11a: FGS spending by economic element
+Source: Ministry of Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+ 
+(Percent of GDP)
+Figure 11b: FGS spending by function
+Source: Ministry of Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+(Percent of GDP)
+=== PAGE 27 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+11
+Somalia’s attainment of the HIPC Completion Point 
+has fundamentally improved its debt position.  Since 
+December 2023, Somalia is assessed to be in moderate 
+risks of debt distress for its external and overall public 
+debt. Nearly all legacy external debt was eliminated, 
+the largest of which was debt to Paris Club countries and 
+negotiations with remaining creditors, mostly bilateral, 
+continue to ensure comparable terms of debt relief 
+with Paris Club agreement. At the end of 2025, public 
+debt stood at US$1,155 million, marginally increasing 
+from US$1,117 million in 2024, with the public debt-
+to-GDP ratio stabilizing at 8.9 percent in 2025. Somalia 
+is pursuing prudent debt management policy, with 
+most of the budget financing provided by grants or 
+highly concessional loans. FGS continues to strengthen 
+its debt management capacity and adopted its first 
+Medium-Term Debt Management Strategy and Annual 
+Borrowing Plan in 2025. Nevertheless, Somalia has weak 
+debt carrying capacity due to low domestic revenue 
+mobilization, nascent institutions, and high exposure 
+to external shocks. Somalia remains highly dependent 
+on foreign aid and is vulnerable to security, climate, 
+commodity price, and global growth shocks. These 
+risks highlight the critical importance of strengthening 
+domestic revenue mobilization, adopting a credible 
+medium-term fiscal anchor, and enhancing debt 
+management and institutional capacity to preserve 
+fiscal and debt sustainability. 
+Medium-Term Outlook, Risks and 
+Reform Priorities
+Somalia’s medium-term outlook has worsened with 
+foreign aid cuts, erratic rains, and global shocks. 
+Real GDP growth is projected to slow to 2.8 percent 
+in 2026 and pick up to 3.1 percent in 2027 (Figure 
+13a). The projection for 2026 was downgraded by 
+0.7 percentage points compared to previous World 
+Bank projections (World Bank, 2026a). The slowdown 
+in economic growth reflects constrained private 
+consumption due to further decline in foreign aid, 
+worsening food insecurity, rising food and oil prices 
+due to the conflict in the Middle East, and slowdown 
+in remittances. Remittance inflows are projected to 
+moderate due to regulatory changes in some host 
+countries as well as headwinds from the conflict 
+in the Middle East. Ongoing structural reforms to 
+strengthen public institutions, improve the business 
+environment, and deepen integration in the EAC are 
+anticipated to sustain private and public investment 
+and support accelerating GDP growth to 3.5 percent 
+in 2028. Baseline medium-term growth is expected 
+to be below the average for the past five years, 
+as the growth potential of the economy remains 
+constrained by fragility, limited productive capacity, 
+and a narrow export base. Hence, even under the 
+baseline, per-capita gains and job creation are likely 
+to remain modest. 
+Figure 12a: FMS revenue in 2024 and 2025
+Source: Ministry of Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+	
+	
+(Million US$)
+Figure 12b: FMS spending in 2024 and 2025
+Source: Ministry of Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+	
+
+(Million US$)
+=== PAGE 28 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+12
+Somalia is highly exposed to spillovers from the Middle East conflict because of its structural dependence on 
+imports, remittances, and external assistance. The conflict is expected to affect Somalia’s economy through three 
+main channels: trade, labor, investment, and financial markets.
+The trade channel is likely to be the most immediate and significant transmission mechanism, operating primarily 
+through heightened volatility in global energy and commodity markets. Brent crude prices have risen sharply, 
+contributing to an increase in domestic fuel prices—from about US$0.60 to US$1.50 per liter in early March 2026. 
+Given Somalia’s heavy reliance on imported fuel and food, higher global prices are likely to raise domestic food costs, 
+while rising transport and energy costs including diesel-based electricity generation could generate higher input 
+costs and broad-based inflationary pressures, further burdening businesses and households. Disruptions to shipping 
+routes have also reduced activity at Somalia’s ports, weighing on customs revenues given the continued reliance on 
+package-based valuation.
+The second major channel is labor and remittances, which are a critical source of income for Somali households. 
+Somalia depends heavily on remittance inflows, including from Gulf Cooperation Council (GCC) countries. A prolonged 
+conflict could weaken these flows through softer labor demand, slower hiring, and increased repatriations in host-
+country sectors such as construction, retail, and hospitality. Weaker economic conditions in host countries would reduce 
+household incomes in Somalia, with adverse effects on consumption and welfare.
+A third channel is investment. Recent investment momentum from Gulf countries to Somalia may slow amid heightened 
+uncertainty. Gulf investors, particularly from the United Arab Emirates, have played an important role in logistics and 
+port infrastructure. Delays or cancellations of planned investments would weaken capital formation and medium-term 
+growth prospects. Diaspora investment could also soften, as conflict-related disruptions weigh on economic activity, 
+incomes, and investor confidence in affected host countries.
+The macroeconomic and social impacts could be significant. Real GDP growth is projected to slow to 2.8 percent in 
+2026, down from the 3.5 percent projected in October 2025. Inflation is expected to rise to 5.3 percent, compared with 
+earlier projection of below 4 percent. Poverty could increase by 2.0 to 4.4 percentage points, pushing an additional 
+290,000 to 680,000 people into poverty. The shock would also heighten fiscal risks, as weaker imports reduce customs 
+revenues (60 percent of domestic revenues) while higher prices increase spending pressures for goods and services and 
+social assistance.
+Box 2: Impact of the conflict in the middle east on Somalia’s economy
+Inflationary pressures are expected to increase in 
+the medium term as global commodity prices surge 
+and supply challenges persist in some regions of 
+the country. Global oil supply disruptions due to 
+the conflict in the Middle East have raised global oil 
+prices which are transmitted to food and fuel prices. 
+Fuel prices in Somalia doubled in a matter of days 
+soon after the conflict started (SNBS, 2026). While the 
+duration of fuel price increase is difficult to predict, 
+it is clear that it will translate into higher prices of 
+imports as well as higher energy prices. Somalia 
+depends significantly on imports of goods and 
+services and on imported diesel for power generation 
+(Chapter 2), which increases country’s vulnerability to 
+commodity price swings. Domestic challenges, such 
+as weaker crops and pastures due to drought as well 
+as supply disruptions induced by security challenges 
+are expected to exacerbate inflationary pressures. 
+Depending on the duration and magnitude of the 
+commodity shocks, national inflation could be much 
+higher than the baseline which assumes inflation 
+picks up to 6.0 percent in 2026 and gradually slows to 
+4.0 percent in 2028 (Figure 13b and Table 3).
+=== PAGE 29 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+13
+Poverty reduction is projected to remain constrained 
+by numerous shocks to private consumption. 
+Worsening drought conditions, exponential decline in 
+foreign aid, and high food prices have contributed to 
+a significant increase in food insecurity. The number 
+of Somalis facing acute food insecurity (IPC level 3 
+and above) is estimated to have reached 6.5 million 
+in February-March 2026 compared to 4.6 million in the 
+same period in 2025. In addition, 1.84 million children 
+(aged 6-59 months) are expected to suffer from acute 
+malnutrition between January and December 2026 
+(IPC, 2026). With subsequent increase in food and oil 
+prices due to the conflict in the Middle East, further 
+worsening of food insecurity and poverty is expected. 
+While the impact of multiple shocks on poverty will vary 
+8	 Simulations are based on assumptions about decline in consumption of households that have historically received social assistance and 
+been affected by drought.
+based on the severity of food price shocks, simulations 
+show that poverty might increase in 20268 and return 
+to the level in 2022 if consumption contracts sharply 
+(Figure 14).
+The external outlook remains structurally tight with 
+recent shocks including the conflict in the Middle 
+East, contributing to further widening of the current 
+account deficit. Somalia’s import dependence, 
+especially for food, fuel, and manufactured goods, 
+implies persistent trade deficits, while exports remain 
+concentrated in a few primary commodities and a 
+few markets. Recent global oil price shocks and the 
+deterioration in the outlook have reinforced the 
+urgency of transitioning to more sustainable electricity 
+generation and reducing costs for households 
+and firms. Sizable trade imbalances are expected 
+to be financed largely by remittances and grants. 
+However, both sources are under increasing pressure. 
+Remittances inflows are likely to be negatively affected 
+by regulatory changes in some host countries, as well 
+as weaker economic activity in countries affected by 
+the conflict. External grants will continue to decline 
+as donor countries reprioritize their development 
+budgets. As a result, current account deficit is 
+expected to widen. Regional integration through EAC 
+membership offers opportunities to improve market 
+access and trade facilitation, but it also introduces 
+adjustment challenges, including competitiveness 
+Figure 13a: Real GDP growth
+Source: Ministry of Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Percent)
+Figure 13b: National inflation
+Source: Ministry of Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Percent)
+Figure 14: Poverty headcount simulations
+Sources: SNBS and World Bank staff etsimates
+
+
+
+
+
+
+
+
+
+
+
+(Percent  of population)
+=== PAGE 30 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+14
+Somalia’s 2026 budget reflects an optimistic view about revenue collection amid a weakening external environment and 
+heightened uncertainty. Total revenue is projected to increase sharply compared to 2025 actuals, driven largely by higher 
+projected grants; however, there is a high risk that these grants may not fully materialize, requiring consolidating spending 
+or widening fiscal deficit beyond the 0.5 percent of GDP planned in the budget. Domestic revenue is expected to grow at a 
+faster pace in 2026 than in 2025, but there is limited clarity on the specific policy or administrative measures underpinning this 
+increase ahead of the elections, raising risks to revenue outturns. On the expenditure side, spending pressures remain elevated 
+due to security needs and election related costs, while goods and services are projected to become the largest spending 
+category. The wage bill is expected to increase only marginally, reflecting continued efforts to contain recurrent spending. 
+Capital spending is projected to rise sharply—nearly tripling relative to 2025 actuals, supported by externally financed projects. 
+Despite elevated food insecurity and cut in humanitarian aid, social benefits remain well below 2023—24 levels, limiting fiscal 
+space to respond to potential humanitarian shocks.
+The 2026 budget introduce targeted reforms to strengthen fiscal management, including:
+·	
+Stronger alignment with national priorities: Budget allocations linked to the six pillars of the National Transformation Plan, 
+with initial steps toward program costing.
+·	
+Program-based budgeting: Piloting across 41 ministries and departments, with full rollout planned by 2027.
+·	
+Improved cash management: Introduction of digital signatures to strengthen expenditure controls.
+·	
+Enhanced debt management: Approval of the first Annual Borrowing Plan establishing limits on debt accumulation.
+·	
+Public Investment Management reforms: Revision of PIM regulations, preparation of a prioritized capital project list for 
+Parliament, and development of tools to monitor capital project implementation.
+Box 3: FGS 2026 budget 
+Table B2.1: Budget operations, US$ Millions
+2025
+actual
+2025
+budget
+2026
+budget
+2026 vs 2025
+actual
+2026 budget vs
+2025 budget
+Million US$
+Percentage growth
+Revenue and grants
+921
+1332
+1299
+41.0
+-2.5
+Domestic revenue
+405
+430
+471
+16.1
+9.4
+Tax revenue
+283
+295
+337
+18.8
+14.0
+Taxes on income, profits, property
+45
+38
+54
+20.8
+42.1
+Taxes on goods and services
+69
+56
+79
+14.1
+40.1
+Taxes on international trade
+158
+186
+189
+19.5
+1.7
+Other taxes
+11
+15
+15
+31.0
+-0.7
+Non-tax revenue
+122
+135
+134
+9.8
+-0.8
+Grants
+516
+902
+828
+60.6
+-8.2
+Bilateral
+19
+42
+27
+45.2
+-35.7
+Multilateral
+497
+860
+801
+61.2
+-6.8
+Expenditure
+971
+1360
+1374
+41.4
+1.0
+Compensation of employees
+371
+370
+379
+2.0
+2.3
+Use of goods and services
+254
+392
+427
+68.3
+9.1
+Interest and other charges
+8
+14
+7
+-13.6
+-49.3
+Transfers
+180
+239
+225
+25.4
+-5.6
+Social benefits
+19
+77
+35
+83.2
+-54.5
+Other expenses
+65
+87
+91
+39.8
+4.5
+Capital
+75
+182
+210
+181.5
+15.3
+Budget balance
+-50
+-28
+-75
+=== PAGE 31 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+15
+pressures and the need to align customs and tariff 
+regimes (World Bank, 2025b). Over the medium term, 
+gains will depend on harmonization of trade regimes 
+across FGS and FMS, practical progress in logistics, 
+standards, border processes, and export diversification 
+rather than membership alone.
+Enhancing domestic revenue mobilization is 
+a critical factor in expanding fiscal space and 
+strengthening fiscal resilience, especially in the 
+context of decreasing external grants. Expanding 
+the domestic revenue base along with better tax 
+administration, can enhance domestic revenue 
+mobilization, and reduce dependency on external 
+grant over the medium and long-term. Indeed, the 
+decline in foreign grants would bring overall revenue 
+down to 5.8 percent in 2028 from 7.5 percent in 2025 
+(Table 3). Such contraction will necessitate significant 
+consolidation of spending with worsening service 
+delivery in education, health, and social assistance that 
+rely predominantly on external grants. Key reforms 
+include shifting to ad valorem customs valuation, 
+reforming consumption and excise tax regimes, and 
+modernizing customs and revenue administration 
+systems. The success of any tax policy and administration 
+effort, however, will depend on harmonizing tax and 
+tariff rates across the country, as well as supporting 
+rules and procedures for revenue collection, including 
+implementing the Somali customs information system 
+(SOMCAS) in all ports and airports. 
+Somalia’s heightened vulnerability to external 
+and climate shocks reinforces the importance 
+of sustained revenue reforms. Multiple shocks—
+including recent spillovers from the conflict in the 
+Middle East—could slow reform momentum in the 
+short term as policymakers redirect attention and 
+resources toward urgent needs. Yet stronger domestic 
+revenue mobilization is crucial to help building the 
+fiscal buffers needed to respond to emergencies, 
+finance development priorities, and reduce long-term 
+reliance on uncertain external support.
+Risks to this outlook are particularly downside 
+skewed. The outlook depends on consistent reforms 
+in support of growth and job creation, reliable 
+external support, and greater resilience to climate 
+and security challenges. The most immediate risk 
+is a deeper or more prolonged decline in aid, which 
+can weaken consumption, compress imports, strain 
+budget execution, and intensify food insecurity, 
+given the heavy reliance on off-budget support. 
+Another key risk is the climate–security interaction. 
+Adverse rainfall, droughts, or floods can quickly 
+reduce rural incomes and raise food prices. Security 
+deterioration—particularly if stabilization efforts face 
+funding shortfalls—can disrupt trade routes, deter 
+investment, and raise operating costs. Recent volatility 
+of global oil prices also presents a significant risk for 
+growth, poverty reduction, and food security. Political 
+tensions around elections and center–periphery 
+coordination can further slow reform implementation 
+and weaken revenue measures, while external shocks, 
+regional tensions, or global trade uncertainty, can 
+reduce remittance and raise import bills.
+In this context, it is essential for the Government 
+to continue prioritizing its extensive unfinished 
+structural reform agenda to support growth and 
+job creation over the medium term. Key areas of 
+focus (Table 2 for details) include: (i) strengthening 
+competition to curb price distortions and market 
+concentration; (ii) streamlining and harmonizing 
+regulatory requirements across federal and state levels 
+to lower entry barriers and incentivize formalization; 
+(iii) strengthen domestic revenue mobilization 
+reforms to fund core state functions, security, and 
+service delivery; (iv) furthering financial deepening 
+and inclusion; and (v) addressing infrastructure gaps, 
+including improving access to affordable and reliable 
+electricity for businesses and households. Chapter 2 
+proposes detailed policy options to reform the 
+electricity sector.
+=== PAGE 32 ===
+Recent Economic Developments and Outlook
+Somalia Economic Update • Edition 11
+16
+Table 2: Priorities to support growth and job creation
+Priority
+Reforms
+Strengthen competition
+Address widespread price distortions driven by market concentration, monopolistic practices, 
+and weak regulation; reduce entry barriers created by dominant firms; limit state favoritism 
+and discretionary practices; gradually level the playing field between formal and informal firms; 
+develop competition policy framework.
+Streamline and harmonize 
+regulatory requirements across 
+federal, state, and municipal levels
+Clarify institutional roles and responsibilities across levels of government, particularly where 
+firms must interact with multiple authorities to register, license, or operate; standardize and 
+digitize core regulatory processes; align regulatory regimes in network and infrastructure 
+sectors, particularly electricity.
+Strengthen domestic revenue 
+mobilization reforms
+Implement SOMCAS in all FMSs and align tariff valuation and rates across the country; shift 
+to ad-valorem customs duties; enhance nontax revenue collection—fisheries, overflight fees, 
+telecoms, signature bonuses. 
+Furthering financial deepening 
+and inclusion
+Deepen financial intermediation, strengthen regulation/supervision, expand financial inclusion 
+for SMEs, women, youth, rural communities, strengthen credit infrastructure, support digital 
+financial services.
+Enable access to affordable and 
+reliable electricity for businesses 
+and households
+Reduce regulatory uncertainty, regularize existing providers, and create a predictable environment 
+for private investment, prioritizing least‑cost renewable generation, hybridization of diesel 
+systems, and public service electrification. 
+Table 3: Somalia / Macro poverty outlook indicators (annual percent change unless indicated otherwise)
+Priority
+2023
+2024
+2025e
+2026 f
+2027 f
+2028 f
+Real GDP growth, at constant market prices
+4.2
+4.1
+3.0
+2.8
+3.1
+3.5
+Private consumption
+5.6
+8.8
+3.1
+2.7
+3.3
+3.8
+Government consumption
+2.1
+16.1
+11.0
+1.9
+3.9
+6.0
+Gross fixed capital investment
+14.5
+21.1
+8.7
+7.8
+8.3
+9.3
+Exports, goods and services
+41.8
+42.3
+-1.2
+2.3
+3.4
+4.7
+Imports, goods and services
+18.8
+28.5
+4.1
+4.0
+5.2
+6.3
+Inflation (consumer price index)1
+6.2
+3.3
+3.7
+6.0
+4.3
+4.0
+Current account balance (% of GDP)
+-9.8
+-9.3
+-9.6
+-9.9
+-9.9
+-10.0
+Fiscal balance (% of GDP)
+0.3
+0.1
+-0.4
+-0.6
+-0.8
+-1.2
+Revenues (% of GDP)
+6.7
+7.6
+7.1
+6.8
+6.2
+5.8
+Debt (% of GDP)
+10.2
+9.3
+8.9
+8.6
+8.2
+9.1
+Primary balance (% of GDP)
+0.3
+0.1
+-0.3
+-0.5
+-0.7
+-1.1
+National poverty line2
+52.8
+49.8
+49.5
+49.6
+49.2
+48.8
+GHG emissions growth (mtCO2e)
+-0.1
+0.0
+0.1
+0.1
+0.1
+0.1
+Source: World Bank, Fiscal Policy & Growth Department. Emissions data sourced from CAT and OECD
+Notes: e = estimate, f = forecast. 
+1/ Inflation figure for 2023 refers to Mogadishu only while for 2024-2028 refers to national inflation.
+2/ Projections are based on applying private consumption growth to household consumption, with a neutral distribution.
+=== PAGE 33 ===
+Somalia Economic Update • Edition 11
+17
+BOOSTING ACCESS TO ELECTRICITY
+CHAPTER TWO
+=== PAGE 34 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+18
+L
+imited energy access, low supply reliability, and 
+high electricity costs are major barriers to private 
+sector growth, job creation, and inclusive service 
+delivery in Somalia. The price of energy is especially 
+burdensome for small businesses and low-income 
+households, restricting economic activity. Elevated 
+energy costs contribute to inflationary pressures, 
+reduce household purchasing power, and increase 
+vulnerability to external shocks. In Somalia’s cities, 
+electricity is mainly provided by small, privately run 
+companies that rely on diesel, leading to some of 
+the highest power costs in Sub-Saharan Africa. These 
+elevated prices, along with frequent outages and 
+unstable quality, make it difficult for energy-intensive 
+sectors like agro-processing and cold-chain logistics to 
+operate efficiently. Reliable and affordable electricity 
+provision is also critical for the delivery of essential 
+public services, including customs operations—an 
+important source of domestic revenue—as well 
+as healthcare facilities. High electricity expenses 
+undermine competitiveness and profits for small 
+and medium enterprises (SMEs) and are a de-
+facto barrier to entry, deterring investments. Weak 
+regulations and fragmentation of the sector add to 
+these inefficiencies, further limiting job creation and 
+broad-based economic transformation. The sector’s 
+heavy reliance on imported diesel generation also 
+exposes it to external price volatility, triggering nearly 
+one-for-one pass-through from oil shocks to power 
+costs. Recent global oil price shocks, alongside a 
+weaker economic outlook, have further underscored 
+the urgency of transitioning toward more sustainable 
+and least-cost electricity generation options, while 
+reducing energy costs for households and firms. This 
+chapter reviews the state of the national electricity 
+sector and the challenges and opportunities it faces; 
+summarizes key findings from a recent Multi-Tier 
+Framework (MTF) survey of more than 3,000 Somali 
+households (excluding Middle Jubba), and outlines 
+policy priorities and investments needed to unlock 
+the sector’s potential to support business, create jobs, 
+and drive economic growth. 
+Status of Electricity Sector
+Somalia’s electricity sector has made gradual 
+progress despite persistent structural constraints. 
+Institutional reforms have advanced, with an enabling 
+legislative framework in place, and a national 
+regulator established. Electrification—driven entirely 
+by the private sector—has expanded, particularly in 
+urban areas alongside rising urbanization. Somalia’s 
+renewable energy potential is substantial, and 
+its development could reduce electricity costs, 
+improve environmental outcomes, and enhance firm 
+performance while easing pressure on household 
+budgets. However, the sector continues to face 
+significant 
+challenges, 
+including 
+fragmentation, 
+high electricity costs, and heavy reliance on diesel 
+generation.
+The enabling environment for the power sector 
+has 
+improved 
+but 
+remains 
+constrained 
+by 
+implementation gaps. The Electricity Act, enacted 
+in 2023, established the National Electricity Authority 
+(NEA), which has adopted tariff setting regulations 
+and issued licenses to 20 electricity service providers 
+(ESPs). The National Transformation Plan (NTP) 2025-29, 
+moreover, envisages putting in place a robust policy 
+and regulatory framework to transform Somalia’s energy 
+sector. Nonetheless, the NEA remains understaffed and 
+under-resourced, limiting its regulatory effectiveness, 
+while its reach across Federal Member States (FMSs) 
+is constrained by the incomplete fiscal federalism 
+framework. The adoption of the Electricity Supply 
+Industry (ESI) Institutional Structure in 2024 provides 
+a formal roadmap to reorganize sector governance 
+and transition from a system dominated by isolated 
+ESPs toward a coordinated public utility holding 
+company. Implementation of this framework, 
+however, remains at an early stage and the energy 
+sector continues to face coordination challenges, 
+such as in the areas of licensing arrangements for 
+ESPs; management of revenue requirements and 
+tariff setting methodology; and harmonization of 
+commercial practices across jurisdictions.
+=== PAGE 35 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+19
+Table 4: Electricity statistics in the region
+Country
+Access Rate 
+(percent)
+Renewable Energy 
+Share (percent)
+Average Tariff 
+(cents/kWh)
+Installed Generation (MW) / Peak 
+Demand (MW) 
+Djibouti 
+65.2
+40
+25
+160 / 120
+Eritrea
+54.4
+1
+15
+90 / 100
+Ethiopia
+55.4
+98
+0.5 – 3
+5,200 / 4,300
+Kenya
+76.2
+91
+20
+3,300 / 2,440
+Somalia
+50.3
+20
+48 – 90
+300 / 160
+S. Sudan
+5.4
+7
+30 – 32
+120 / 300 
+Sudan
+66.0
+50
+5
+3,000 / 3,000 
+(pre-conflict) 60 percent cut in 
+effective peak demand since conflict
+Source: WDI data on access to electricity for latest available year. Estimate for Somalia refers to 2023; Country Master Plans, Annual Reports, IEA/IRENA datasets.
+The sector is highly fragmented due to the 
+absence of a national grid and conflict-damaged 
+infrastructure. More than 55 private ESPs supply over 
+90 percent of urban electricity through isolated, diesel-
+based mini-grids, resulting in overlapping networks, 
+duplicated investments, limited economies of scale, 
+and high technical and commercial losses (estimated 
+at 25–45 percent). These challenges are compounded 
+by weak institutions, financing constraints, and skills 
+shortages, contributing to high costs and unreliable 
+supply. Greater consolidation among ESPs offers a 
+pathway to improve efficiency and financial viability 
+by pooling assets and customers, strengthening 
+planning and dispatch, enabling regulatory oversight, 
+and facilitating investment in renewable energy and 
+regional power trade. In Hargeisa, Sompower, formed 
+by dozens of ESPs, delivers more reliable, affordable, 
+and scalable electricity access while facilitating 
+regional power trade.
+Significant investment will be required to meet 
+Somalia’s current and future electricity demand. 
+Installed generation capacity is estimated at only 
+300–400 MW, while government projections suggest 
+demand could rise to 1,000–4,600 MW by around 
+2037. Meeting this growth will require a severalfold 
+increase in generation capacity, alongside substantial 
+investment in transmission and distribution to 
+connect currently isolated systems. The Ministry of 
+Energy and Water Resources (MoEWR) estimates that 
+approximately US$3 billion will be needed over the 
+next two decades across generation, transmission, 
+and distribution. Earlier planning supported by the 
+African Development Bank for 2016–2025 indicated 
+that about US$580 million could add roughly 200 
+MW of new capacity. This includes 30–40 MW of 
+solar PV, together with urban grid upgrades, mini-
+grid development, and distribution improvements. 
+Overall, least-cost analyses indicate that Somalia’s 
+energy transition will depend on scaling renewable 
+generation and strengthening networks, with grid 
+extension, hybrid mini-grids, and off-grid solar offering 
+the most affordable pathways to expanded access.
+Given severe fiscal constraints, large-scale public 
+investment remains limited, underscoring the 
+importance 
+of 
+private 
+sector-led 
+solutions, 
+particularly in distributing renewable energy. 
+Beyond mini-grids operated by ESPs, private delivery 
+models for standalone solar systems can expand 
+access in remote and sparsely populated areas. 
+Somalia currently sells an estimated 100,000–
+150,000 off-grid solar products annually. Geospatial 
+electrification analysis shows that solar home 
+systems and mini-grids represent the least-cost 
+options for electrifying dispersed and pastoralist 
+communities. Scaling these solutions can help address 
+affordability constraints while strengthening financing 
+mechanisms, quality assurance, and distribution 
+networks.
+=== PAGE 36 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+20
+Figure 15a: Solar photovoltaic potential
+Source: ESMAP Global Solar Atlas
+Figure 15b: Wind power density
+Source: ESMAP Global Wind Atlas
+Nearly all power is produced using high-speed diesel 
+generators, with renewable energy penetration well 
+below regional peers. Electricity generation remains 
+inefficient and costly. Many generators operate below 
+technical standards due to limited investment in 
+synchronization and efficiency improvements. This 
+heavy reliance on diesel raises generation costs, 
+contributes to environmental degradation, and 
+increases carbon intensity, challenges that are further 
+compounded by widespread reliance on biomass.
+At the same time, Somalia has substantial renewable 
+energy potential that could support a more 
+affordable and sustainable power sector (Figures 
+15a and 15b). Solar radiation averages around 6 
+kWh/m²/day, among the highest globally, while 
+coastal areas record average wind speeds exceeding 
+8 m/s, indicating strong onshore wind potential. 
+Hydropower potential along the Shabelle and Juba 
+rivers is estimated at 100–150 MW. Integrating solar 
+photovoltaic generation with battery energy storage 
+offers the fastest and most cost-effective pathway 
+to displace diesel, particularly in urban systems, as 
+reflected in the 2025 Generation and Transmission 
+Least-Cost Development Plan. The plan emphasizes 
+diversification toward solar, wind, and hydropower, 
+supported by clear implementation strategies and a 
+mix of public, private, and public-private financing.
+Fragmented electricity distribution, high reliance 
+on expensive diesel for production, and limited 
+investment have left Somalia with some of the 
+highest electricity tariffs in the world. Somalis pay 
+on average US$0.60/kWh, far above the Horn of Africa 
+average of US$0.22/kWh (Table 4). Key reasons include 
+costly diesel generation, poor equipment utilization, 
+fragmented infrastructure, inefficient investments, 
+significant 
+losses, 
+and 
+inadequate 
+regulation 
+and planning. These disparities also highlight an 
+opportunity for Somalia to connect regionally and 
+access more affordable, sustainable power.
+=== PAGE 37 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+21
+High electricity tariffs are a significant burden for 
+enterprises and households. 61 percent of enterprises 
+identify cost of electricity supply as their primary 
+concern—48 percent consider it too expensive, 
+eight percent mention unpredictable billing, and five 
+percent cite unexpectedly high bills (Figure 16).9 High 
+electricity tariffs severely disrupts the opportunities 
+for small businesses to expand, hinders employment 
+creation opportunities, channels inflationary pressures 
+on the cost of basic goods and services, and thereby 
+constrains affordability for the population, especially 
+the poor. Electricity prices are not affordable for 
+most of Somali households and constrain access 
+to higher quality electricity services. Almost two-
+thirds of households that have access to electricity 
+face serious affordability issues as the electricity cost 
+is a burden for household budget. The poorest are 
+affected the most with half of the poorest households 
+not having access to any electricity (see next section). 
+The Integrated Household Budget Survey shows that 
+only 46 percent of the poor households had access to 
+electricity in 2022 compared to 81 percent for non-
+poor households. There are quite large differences 
+across rural/urban/nomadic as well (see below).
+9	 Based on MTF survey conducted in 2025.
+10	 The methodology for estimating access to electricity based on the MTF is not comparable to the methodology used in the World 
+Development Indicators database.
+11	 Figures based on preliminary results from the Nationwide Energy Access Survey in Somalia (2025).
+12	 With available electricity of below 4 hours per day to more than 23 hours per day (Tier 0 to Tier 5).
+13	 Most off-grid solar products are basic items like solar lanterns and lighting systems, which are small, portable, and powered by a solar 
+panel and rechargeable battery.
+14	 According to the SNBS Integrated Household Budget Survey although data is not fully comparable.
+Access of Population to Electricity10 
+The MTF survey for Somalia,11 conducted by the 
+World Bank in 2025 shows that three-quarters of 
+surveyed households had access to electricity in 
+some form.12 Of these, 67 percent were connected 
+to a grid or mini-grid, often provided by ESPs while 
+eight percent relied on off-grid solar products.13 This 
+represents a notable improvement in electrification 
+compared to 2021, when 59 percent of households 
+reported having access.14 Despite the progress, very 
+few households use higher-tier solar devices, such as 
+larger solar systems that can power multiple lights and 
+appliances; just one percent relies on these as their 
+primary electricity source.
+The MTF survey measures access to electricity and 
+clean cooking based on a set of attributes that 
+capture key characteristics of the energy supply that 
+affect the user experience. Based on those attributes, 
+it then defines six tiers of access, ranging from Tier 0 
+(no meaningful access) to Tier 5 (full access). Box 3 
+provides details on the tiers. The survey for Somalia 
+utilized a nationally representative sample of 3,098 
+households, and the overall sampling weight was 
+calibrated accordingly. More details on the sampling 
+strategy are provided in Annex 1.
+Nationwide, 71 percent of households have access 
+to grid electricity between four to more than 23 
+hours per day (classified as Tier 1 or above) (Figure 17). 
+Such access is more prevalent in urban areas (87 
+percent of households) while access in rural areas is 
+limited to only 43 percent of households. Nearly half 
+of households have access to electricity between 
+four and eight hours per day, enabling only small 
+appliances (Tier 2). Such access is more common in 
+urban areas (54 percent of households) than in rural 
+Figure 16: Issues reported by enterprises about ESPs 
+electricity supply
+Source: MTF Survey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+		
+
+
+
+
+	
+
+ 
+­
+
+
+(Percent)
+=== PAGE 38 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+22
+Under the MTF for electricity, access is classified from Tier 0 (no or limited access) to Tier 5 (full service) based on the 
+lowest tier a household attains across seven attributes: capacity, availability (hours per day and evening), reliability, 
+quality, affordability, formality, and health and safety. The overall tier is the lowest achieved across all attributes.
+•	 Tier 0 indicates no meaningful access (for example, capacity below 3W or less than 4 hours per day/1 hour in the 
+evening). 
+•	 Tier 1 provides basic services like task lighting and phone charging (≥3W and ≥4 hours/day with ≥1 hour evening). 
+•	 Tier 2 enables more small appliances (≥50W and ≥4 hours/day with ≥2 hours evening). 
+•	 Tier 3 supports medium-load appliances (≥200W, ≥8 hours/day with ≥3 hours evening), with affordable consumption 
+(basic consumption package of 365 kWh/year < 5 percent of household expenditure). However, there are issues 
+with outages (>14 disruptions/week), voltage quality (appliance damages), informality and safety of the connection. 
+•	 Tier 4 offers high service levels (≥800W, ≥16 hours/day with ≥3 hours evening, and between 4-14 disruptions/week). 
+In addition, the connection is formal and safe, with no voltage issues, and electricity consumption is affordable. 
+•	 Tier 5 reflects near-full service (≥2kW, ≥23 hours/day with ≥4 hours evening, and <3 disruptions/week totaling <2 
+hours), with affordable consumption, formal connections, and safe, stable supply. 
+Box 4: Definition of MTF tiers 
+Improving attributes of energy supply leads to hgher tiers of access
+Measuring Energy Access: the Tiers
+4HRS
+4HRS
+16HRS
+23HRS
+8HRS
+TIER 5
+TIER 4
+TIER 3
+TIER 2
+TIER 1
+TIER 0
+areas (33 percent of households). Due to uneven 
+energy access provided by ESPs and affordability 
+issues,15 only 21 percent of electrified households in 
+Somalia have higher quality access to electricity of more 
+than eight hours per day (Tier 3 to Tier 5) with only 12 
+percent of households enjoying near full service with 
+15	 By MTF definition, Tier-3+ electrification requires the cost of a standard consumption package of 30 kWh per month to be affordable, i.e. 
+to be below five percent of household expenditure, irrespective of their actual consumption.
+limited disruptions and safe and stable supply (Tier 5). 
+In urban areas, 18 percent of households enjoy Tier 5 
+electricity access, and this figure drops to just three 
+percent in rural regions. At the same time, 29 percent 
+of households have no meaningful access to electricity 
+(Tier 0).
+=== PAGE 39 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+23
+In rural areas, where most of the Somali poor live, 
+access to electricity significantly lags urban areas. 
+Over 57 percent of rural households lack any or 
+meaningful source of electricity (Tier 0), compared 
+to just 13 percent of urban households. The off-grid 
+solar market remains nascent, and its supply chains 
+mostly reach urban distribution centers, with little 
+presence in rural regions. As a result, even though 
+almost half of the country’s population lives within 
+10 kilometers of electricity infrastructure, many of 
+these areas remain underserved by electricity services. 
+Notable disparities in access to electricity exist 
+among administrative regions (Figure 18). Banadir 
+(which includes the capital Mogadishu) and Middle 
+Shabelle are the two regions with the highest Tier 
+1+ electrification rates, 99 percent and 89 percent, 
+respectively. Banadir also has the highest tier of 
+electricity access with 26 percent households 
+having near-full service, reliable and affordable 
+electricity access (Tier 5), followed by Woqooyi 
+Galbeed, Awdal, and Sool. Conversely, close to ¾ of 
+households in Bay and Bakool have no meaningful 
+access to electricity (Tier 0). These findings suggest 
+that energy access is strongly influenced by factors 
+such as population density, regional fragility and 
+conflict, and logistical challenges associated with 
+electrification.
+Poor households have limited access to better 
+energy services. In the bottom quintile of 
+households, 44 percent have the highest level of 
+electricity access (ESP/Grid), while the top quintile 
+boasts twice that proportion (Figure 19). Among 
+those connected to ESP grids, 99 percent have 
+electricity between 3 and 23 hours per day (Tier 1 or 
+higher), but over two-thirds remain limited to basic 
+electricity that lasts between 3 and 4 hours a day 
+and can enable only small basic appliances (Tier 2) 
+because of affordability challenges. This points to 
+inefficient use of grid or mini-grid infrastructure.
+Figure 17: Distribution of households according to type of 
+access to electricity (tier)
+Source: MTF Survey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Percent)
+Figure 18: MTF aggregate tier distribution, by region
+Source: MTF Survey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+ 	
+
+
+
+
+
+
+(Percent)
+=== PAGE 40 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+24
+Nationwide, standalone solar system adoption for 
+lighting or appliances remains low. Only about eight 
+percent of households use solar devices—12 percent in 
+rural areas and five percent in urban areas. Four percent 
+rely on solar light systems, three percent on solar 
+lanterns, and one percent on larger solar home systems 
+(Figure 20). Most solar device users (55 percent) have 
+very limited power availability (less than four hours a 
+day, Tier 0).
+Households using standalone systems often face 
+major challenges, mainly due to the limited capacity 
+of off-grid solar devices and the short supply 
+durations (Figure 21). Among those who rely primarily 
+on off-grid electricity, 47 percent cannot even charge 
+mobile phones, while one-third get less than four 
+hours of electricity per day from their systems. Most 
+households without any connection are low-income, 
+with 65 percent belonging to the bottom 40 percent 
+of the expenditure quintile.
+Affordability of electricity services is a serious concern 
+for most households. Across the country, 68 percent 
+of households spend at least five percent of their 
+budget on basic electricity services, Tier 2, (Figure 22). 
+Grid electricity in Somalia is expensive with electricity 
+tariffs for residential consumers ranging from US$0.48 
+to US$0.90 per kWh depending on the regions and the 
+provider. The affordability challenge is even greater 
+in rural areas, where nearly 84 percent of households 
+pay five percent or more of their budget for electricity, 
+compared to 64 percent in urban areas. Affordability 
+remains the top concern for households: 59 percent of 
+them report electricity cost as the most important issue. 
+This high expense on electricity access is putting pressure 
+on household budgets, squeezing household spending on 
+other essentials like food, health, and education, especially 
+for rural households. In addition, energy reliability, mostly 
+voltage fluctuations and unpredictable interruptions 
+remain another significant concern, with 21 percent of 
+households flagging it as an issue.
+Figure 19: Electricity access by income quintiles 
+Source: MTF Survey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+		
+	
+ ­
+	 ­
+
+ 
+		 
+(Percent)
+Figure 20: Distribution of households according to the type of 
+solar systems used
+Source: MTF Survey
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+
+
+
+		
+	
+
+
+
+	
+(Percent of households)
+Figure 21: Issues reported by households about solar products
+Source: MTF Survey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+
+ 
+­	
+
+(Percent)
+Figure 22: Household distribution by affordability tier
+Source: MTF Survey
+
+
+
+
+
+
+
+
+
+
+						
+
+							
+(Percent of households)
+=== PAGE 41 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+25
+Supply availability is generally sufficient in urban 
+areas, for households with higher quality access, 
+and in the evenings. Approximately 72 percent of 
+households nationwide with Tier 5 access to electricity 
+receive more than 22 hours of supply per day, while 84 
+percent benefit from evening supply for at least four 
+hours. In contrast, supply constraints are notable in 
+rural communities, where one quarter of households 
+experience less than eight hours of electricity per day 
+(Figures 23 & 24). Across the country, households face 
+between four and 14 unscheduled outages, or fewer 
+than four hours per week, each lasting over two hours. 
+Opportunities to Revamp the Electricity Sector
+Mission 300 initiative16 offers Somalia a structured 
+pathway to address its electricity sector challenges 
+through a country-led Energy Compact that 
+integrates infrastructure investment, financing, 
+and policy reform. Central to this effort is harnessing 
+the dynamism of Somalia’s private ESPs by creating 
+the conditions for them to scale up investments in 
+renewable energy and interconnect their fragmented 
+mini-grids. At the same time, Mission 300 recognizes 
+that private-sector-led growth can only be sustained 
+within a well-functioning regulatory environment: 
+It places strong emphasis on strengthening the 
+public sector’s capacity to govern the electricity 
+sector effectively — including operationalizing the 
+National Electricity Authority under the newly enacted 
+16	 Mission 300 initiative is a joint commitment by the World Bank Group and the African Development Bank to provide electricity 
+access to 300 million people in Africa by 2030. It represents a massive shift from traditional incremental electrification to a large-
+scale, private sector led approach focused on distributed renewable energy, such as mini-grids and solar home systems.
+Electricity Act. By combining private sector energy and 
+capital with a strengthened public regulation, Mission 
+300 can help Somalia move toward a more affordable, 
+reliable, and sustainable electricity sector that serves 
+all of its population, including the rural and nomadic 
+communities currently left furthest behind.
+In this context, this report recommends several 
+key reforms to strengthen electricity sector’s 
+governance and policy framework and to undertake 
+priority investments. The recommended reform path 
+prioritizes rules, planning, and credibility before scaling 
+up. In the short term (0—12 months), the focus is on 
+strengthening electricity sector governance to reduce 
+regulatory uncertainty, regularize existing providers, 
+and create a predictable environment for private 
+investment. In parallel, early investments should 
+target least-cost renewable generation, hybridization 
+of diesel systems, and public service electrification to 
+deliver quick, visible gains. In the medium to longer 
+term, reforms should deepen by institutionalizing 
+least-cost planning as national policy, enabling 
+lower cost power production and imports. These 
+policies will enable scaled investments in networks, 
+off-grid access, and cross-border interconnections, 
+ensuring that capital deployment follows clear rules 
+and credible plans. The outcome is to provide more 
+affordable, reliable, and sustainable energy to Somali 
+citizens over the long-term. 
+Figure 23: Household tier distribution by daytime availability
+Source: MTF Survey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+(Percent of households)
+Figure 24: Household tier distribution by evening availability
+Source: MTF Survey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+(Percent of households)
+=== PAGE 42 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+26
+Strengthening electricity sector’s governance and 
+policy framework
+Short Term
+•	 Operationalize 
+the 
+Electricity 
+Act 
+through 
+secondary regulation by NEA. Priority should be 
+given to issuing and enforcing licensing, tariff, 
+service quality, and grid access regulations aligned 
+with the Electricity Act and ESI, encouraging the 
+consolidation of operators, the interconnection 
+of mini-grids, and the emergence of an integrated 
+national electricity system. Simplified, fast-track 
+licensing should be adopted to regularize existing 
+ESPs, with minimum obligations on service quality 
+and customer service. Standardized operational 
+and financial reporting requirements should be 
+introduced to support evidence-based regulation, 
+alongside publication of technical codes, compliance 
+procedures, and enforcement protocols. 
+•	 Establish a clear policy framework for distributed 
+renewable energy and mini-grids. Dedicated 
+regulations for mini-grids and standalone solar 
+systems should be finalized, including standardized 
+licensing tiers, simplified permitting, tariff rules, 
+quality standards, and consumer protection 
+provisions. Clear “grid-arrival” rules should be 
+adopted to manage compensation or integration 
+as the main grid expands. National technical 
+standards for interconnection, safety, metering, and 
+equipment quality should be published to ensure 
+system compatibility and protect consumers. 
+•	 Strengthen 
+consumer 
+protection 
+and 
+affordability 
+safeguards. 
+Early 
+and 
+visible 
+consumer protection measures are essential 
+to building trust in nascent sector institutions. 
+These include balancing cost-reflective tariffs with 
+affordability through targeted subsidies (such as 
+connection support and lifeline tariffs). These also 
+include efficiency-driven cost reductions, as well 
+as enforcing transparent disclosure, warranties, 
+and after-sales service standards for standalone 
+solar products to protect households and micro 
+and small enterprises. 
+•	 Strengthen 
+MoEWR’s 
+planning, 
+legal, 
+and 
+regulatory stewardship. A capable ministry 
+is essential for coherent policy direction and 
+coordination. Priority actions include resourcing and 
+capacitating planning, legal, and regulatory units to 
+drive least-cost implementation, tariff modelling, 
+market analysis, renewable integration studies, and 
+utility benchmarking. Institutionalizing the Energy 
+Sector Working Group can support structured 
+dialogue, data sharing, and joint planning across 
+federal and state institutions, regulators, ESPs, 
+development partners, and civil society.
+Medium Term
+•	 Embed least-cost planning and public-private 
+partnership framework in national policy and 
+targets. Least-cost planning is crucial for prioritizing 
+key investments and reducing system costs 
+over time by preventing inefficient and high-
+cost investments. The Optimized Cost Electricity 
+Generation and Transmission Development Plan 
+should serve as the central roadmap to 2045, 
+prioritizing renewable energy sources with fossil 
+generation used only as transitional reliability 
+support. Power master plans and electrification 
+studies should be formally adopted as national 
+policy, with electrification and capacity targets linked 
+to budget cycles and subject to periodic review to 
+maintain policy credibility. A framework for public-
+private partnership will help establish an enabling 
+environment for sharing investment risks and 
+mobilizing long-term private capital while ensuring 
+prudent fiscal oversight of future commitments. 
+•	 Codify regional electricity market participation. 
+Clear legal and regulatory provisions for cross-
+border power trade should be operationalized 
+to enable access to lower cost electricity imports. 
+This includes approvals for cross-border power 
+purchase agreements, wheeling arrangements, 
+tariffs, and currency and payment risk management 
+mechanisms, as well as alignment of national grid 
+codes and market rules with regional standards 
+and protocols.
+=== PAGE 43 ===
+Boosting Access to Electricity
+Somalia Economic Update • Edition 11
+27
+Priority investments
+Medium Term
+•	 Least-cost generation with storage and flexible 
+backup. Investments should prioritize utility scale 
+solar photovoltaic and wind generation close to 
+major load centers, complemented by battery 
+energy storage systems and flexible backup 
+generation to ensure reliability. Hybridization of 
+existing diesel mini-grids with solar and storage 
+should be supported to displace fuel consumption 
+and reduce operating costs during the transition. 
+Investments should be supported by blended 
+finance and results-based financing to scale verified 
+connections and service quality.
+•	 Public service electrification and visible quick 
+wins. Scaling electrification of schools, health 
+clinics, water systems, and other public facilities 
+can deliver immediate socio economic benefits 
+and build public confidence in sector reforms. 
+Standardized system designs, pooled procurement, 
+and coordination with sector ministries can 
+accelerate deployment, while systematic tracking 
+and communication of outcomes can reinforce 
+public and investor support. 
+•	 Distribution and sub-transmission backbones. 
+Modernization and expansion of distribution and 
+sub-transmission networks are critical to reducing 
+losses, improving reliability, and enabling integration 
+of renewable energy. Priority investments include 
+conductor upgrades, transformers, protection 
+systems, 
+voltage 
+standardization, 
+advanced 
+metering, and loss reduction programs, alongside 
+modular development of sub-transmission corridors 
+to interconnect isolated urban systems and mini-
+grids and prepare for future regional trade. 
+•	 Cross-border 
+interconnections 
+and 
+import 
+readiness. Planning and phased development of 
+regional interconnections should prioritize high 
+impact corridors, supported by domestic sub-
+transmission and substations to absorb imports. 
+Modular buildout approaches and bankable risk 
+mitigation frameworks can allow imports to scale 
+gradually as demand, grid strength, and institutional 
+capacity grow.
+=== PAGE 44 ===
+Somalia Economic Update • Edition 11
+28
+ANNEX 1: SAMPLING STRATEGY FOR THE HOUSEHOLD ENERGY SURVEY
+The Household Energy survey in Somalia used a two-stage stratified sampling approach, with samples 
+randomly selected based on locality (rural and urban) and grid/mini-grid connection status to ensure 
+accurate representation of the population. The sampling approach included calculating the sample size, 
+selecting enumeration areas (EAs), conducting a listing activity to collect households’ grid connection status, 
+and sampling according to the status. First, the sample size was calculated to achieve statistical significance 
+at the national, rural, and urban level, using the following formula and the values.
+The formula yielded a sample size of 1,712 households per geographical stratum (rural/urban), resulting in 
+a national sample size of 3,424 households. The household sample was then distributed across the regions of 
+Somalia by urban and rural strata, with allocations proportional to the 2022 projected population. The number 
+of households per stratum for each region was calculated using the standard proportional allocation formula:
+Where 
+ is the national population for the stratum, 
+ is the stratum population for region , and 
+ is the 
+national sample size per stratum (1,712 households for urban and rural).
+Table A1: Sample size of calculation
+Symbol
+Value 
+Description 
+0.5 
+Conservative prevalence of the indicator of interest 
+1.96 
+ The critical value of the normal distribution at a 95 percent level of confidence 
+7.5% 
+The margin of error
+9.55 
+Sample design effect. It represents how much larger the squared standard error of a two-stage 
+sample is when compared with the squared standard error of a simple random sample of the same 
+size. The sample design effect is defined as f = 1 + ρ (m – 1). 
+1.05 
+Factor accounting for non-response (assume 5 percent) 
+20 
+The average number of households selected per Enumeration Area (EA) 
+0.45 
+Intra-cluster correlation coefficient. It is a number that measures the tendency of households within 
+the same cluster to behave alike concerning the variable of interest. Usually ranges from 0.01 to 0.10 
+for the LSMS Surveys, but it can be 0.5 or larger for infrastructure-related variables. 
+1,712 
+The sample size for each geographical stratum (urban/rural).
+=== PAGE 45 ===
+Somalia Economic Update • Edition 11
+29
+The first-stage sample involved selecting EAs from which households were drawn, with an average of 20 
+households per EA. The selection of EAs for the survey was conducted by Somali National Bureau of Statistics 
+(SNBS) using the Somalia Health and Demographic Survey (SHDS) 2020 sampling frame, updated in 2022 for 
+the Integrated Household Budget Survey. The national frame comprised 9,136 EAs, including 7,308 urban and 
+1,828 rural EAs. Due to security and access constraints, particularly in southern regions, the region of Middle 
+Jubba was entirely excluded and a few urban and many rural EAs were deactivated and excluded from the 
+sampling pool. 
+A household listing activity followed, during which all households within the selected EAs were visited to 
+determine their electrification status based on a connection to the grid/mini-grid. The final selection of 
+households was implemented as follows:
+-	 If all households in EA were either electrified or non-electrified, 20 households were randomly selected.
+-	 For EAs containing both grid-connected and non-grid-connected households, where each category had 
+more than 10 households, 10 households were randomly selected from each category.
+-	 If an EA had fewer than 10 grid-connected households, all available grid-connected households were 
+selected, and the remaining households were randomly chosen from non-grid-connected households to 
+reach the target of 20 households. The same procedure would be applied if there were fewer than 10 non-
+electrified households.
+Following this methodology, the survey interviewed a nationally representative sample of 3,098 households.
+ 
+Sampling Weight Calculation
+As noted earlier, the survey used a two-stage stratified random sampling design to ensure sufficient sample 
+size for analysis. Although the sample was allocated according to regional population sizes, the same 
+proportional allocation was not applied to rural versus urban areas or to electrified versus unelectrified 
+populations. As a result, certain groups may be over or underrepresented relative to their actual share of 
+the population. To address this, sample weights were calculated to ensure that the results are representative 
+of the population. 
+The first stage weights were calculated at the enumeration area (EA) level, defined as the inverse of the 
+probability of selecting an EA from a sampling stratum, that is the rural or urban area per region. 
+Where 
+ is the probability of selecting a rural or urban EA in region , and is defined as the ratio of the 
+population of selected EAs 
+ to the total population 
+ for each rural and urban area in region 
+Annex
+=== PAGE 46 ===
+Somalia Economic Update • Edition 11
+30
+The second stage weights were assigned at the household level and are the inverse of the probability of 
+selecting a household  from the EA . The electrification status of the EA was also considered. If the EA is fully 
+electrified or non-electrified, the weights. 
+ were calculated as
+If an EA had both electrified and non-electrified households, weights were calculated for each type.
+ 
+For the electrified households, 
+For the non-electrified households,
+The household weights for a household in EA e, 
+  are calculated by multiplying the first stage and second-
+stage weights:
+Non-Response Adjustment: As observed in most surveys, the calculated sample size tends to differ from 
+the total number of interviews completed since not all selected respondents were available or agreed 
+to participate. The weights were therefore adjusted to account for this non-response rate at the EA and 
+household levels. 
+At the EA level, the response rate 
+ was taken as the ratio of the number of EAs where interviews were 
+successfully completed, 
+, to the total number of selected EAs, :
+At the household level, the response rate for households within the 
+ , was calculated as:
+Where 
+ is the number of households successfully interviewed, and 
+ is the total number of households 
+selected in EA .
+The final household sampling weights were adjusted to account for non-response at both the EA and 
+household levels:
+Annex
+=== PAGE 47 ===
+Somalia Economic Update • Edition 11
+31
+REFERENCES
+Bareisaite, Asta; Goyal, Sameer; Muzi, Silvia; Aterido, Reyes; Cartwright Ramon, Juan Andres; Ehrhard, Yann. 
+2025. Private Sector in the Federal Republic of Somalia: Composition, Performance, and Constraints to 
+Growth – Results from Two Rounds of Integrated Business Surveys and Qualitative Assessments. Washington, 
+DC: World Bank Group. http://documents.worldbank.org/curated/en/099121225002513242.
+IPC (Integrated Food Security Phase Classification). 2026. Somalia Acute Food Insecurity and Malnutrition 
+Snapshot: January–June 2026. February 24. Rome: IPC. https://www.ipcinfo.org/fileadmin/user_upload/
+ipcinfo/docs/IPC_Somalia_Acute_Food_Insecurity_Malnutrition_Jan_Jun2026_Snapshot.pdf.
+SNBS Somali National Bureau of Statistics (). 2026. Somalia’s Inflation Outlook: Intersections of Global Oil Shocks, 
+Drought, and Structural Vulnerabilities. Mogadishu: Federal Government of Somalia, Somali National 
+Bureau of Statistics. https://nbs.gov.so/wp-content/uploads/2026/03/Somalias-Inflation-Outlook.pdf.
+World Bank. 2025a. Somalia Economic Update: Boosting Domestic Revenue Mobilization – To Enhance Service 
+Delivery and Strengthen the Social Contract. Washington, DC: World Bank. License: CC BY-NC 3.0 IGO. https://
+documents.worldbank.org/en/publication/documents-reports/documentdetail/099062625054023725
+——— . 2025b. Economic Assessment of Somalia’s Accession to the East African Community. Washington, DC: 
+World Bank. https://openknowledge.worldbank.org/entities/publication/ca270665-fad3-4593-8cfd-
+32e6bf1af0fa
+——— . 2026a. Global Economic Prospects, January 2026. Washington, DC: World Bank. https://thedocs.
+worldbank.org/en/doc/7ce50b5aa95bef66048680bba9926ec8-0050012026/global-economic-
+prospects-january-2026.
+——— . 2026b. Making Industrial Policy Work in Africa. Africa Economic Update (April 2026). Washington, DC: 
+World Bank. doi:10.1596/978-1-4648-2333-6. License: Creative Commons Attribution CC BY 3.0 IGO. 
+https://openknowledge.worldbank.org/entities/publication/05fbca68-8800-4de7-8f37-679ce7ecc5b2.
+=== PAGE 48 ===
+WORLD BANKGROUP

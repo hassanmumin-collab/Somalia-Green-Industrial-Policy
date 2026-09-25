@@ -1,0 +1,2019 @@
+=== PAGE 1 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+a
+SOMALIA 2023
+RAPID POST-DISASTER NEEDS ASSESSMENT
+DEYR 
+FLOODS
+Federal Government
+of Somalia 
+VOLUME A
+EXECUTIVE SUMMARY
+11 June 2024
+=== PAGE 2 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+b
+Disclaimer 
+This report summarizes the findings of the Rapid Post-Disaster Needs Assessment that took place in Somalia following the Deyr 
+floods of 2023. The report is based on data collected from October to December 2023.  However, the assessment was conducted 
+from February to April 2024.  All efforts have been made to improve the accuracy of the information that was collected and 
+analysed to ensure the relevance of the estimations.
+The preparation of this report has been constrained by the lack of baseline data, scanty damage and loss data across sectors, and 
+inaccessibility issues. It provides an overall picture of the effects of the floods on the population, physical assets, infrastructure 
+and service delivery, but is not a replacement of in-depth sector-specific assessments. More detailed sectoral analyses can be 
+found in the Main Report, which also includes a full list of contributors. The report uses the exchange rate of US$1 = SOS 26,000. 
+All monetary estimates are rounded off to nearest one decimal place and may not add up to the totals.
+The Health Sector has not been included in the executive summary and preliminary findings. This is due to the unavailability 
+of the sector findings at the current stage. Once the data is available, it will be integrated into the final report to provide a 
+comprehensive overview. The sections concerning Damage, Loss and Needs will also be revised to reflect the most current and 
+accurate information.
+This publication was co-funded by the European Union. Its contents are the sole responsibility of the authors and do not 
+necessarily reflect the views of the European Union
+Cover photo: © IPSOS
+=== PAGE 3 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+i
+Disasters, whether natural or man-made, have the 
+potential to disrupt lives, devastate communities 
+and challenge the resilience of nations. In Somalia, 
+a country already grappling with multiple complex 
+challenges, the impacts of floods are getting 
+more and more severe and frequent, exacerbating 
+existing vulnerabilities and threatening the progress 
+made towards sustainable development.
+As the Commissioner of the Somali Disaster 
+Management Agency (SoDMA), I am honoured 
+to present the Rapid Post-Disaster Needs 
+Assessment (R-PDNA) report, a comprehensive 
+analysis that sheds light on the socioeconomic 
+and environmental impacts of the devastating 
+and unprecedented 2023 Deyr season floods. This 
+report is the culmination of extensive collaboration 
+and partnership between government agencies, 
+Federal Member States, international organizations 
+and other stakeholders, reflecting our collective 
+commitment to understanding, addressing and 
+mitigating, and building stronger, more adaptable 
+communities for the future.
+The R-PDNA report provides invaluable insights into 
+the immediate and long-term needs in response 
+to the devastating floods, offering a roadmap 
+for recovery and resilience-building. It serves 
+as a critical tool for decision-makers, guiding 
+strategic investments, policy formulation, and 
+resource allocation to ensure effective disaster risk 
+management and recovery efforts.
+I extend my sincere gratitude to all those who 
+contributed to the development of this report, 
+including the invaluable support by our development 
+partners, government officials, technical experts, 
+humanitarian partners and affected communities. 
+Your dedication, expertise and collaboration have 
+been instrumental in shaping the findings and 
+recommendations presented herein.
+As we move forward, let us remain committed to the 
+principles of solidarity, inclusivity and resilience. By 
+working together, we can overcome the challenges 
+posed by disasters, build a more secure and 
+prosperous future for all Somalis, and ensure that no 
+one is left behind in our journey towards resilience 
+and sustainable development.
+Mohamoud Moalim Abdulle 
+Commissioner
+Somali Disaster Management Agency (SoDMA)
+FOREWORD
+=== PAGE 4 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+ii
+The Somalia 2023 Deyr Floods Rapid Post-Disaster Needs Assessment Report has been prepared 
+under the leadership of the Somali Disaster Management Agency (SoDMA), supported by the 
+United Nations (UN), the World Bank (WB) and the European Union (EU), with technical facilitation 
+by the United Nations Development Programme (UNDP) and WB. The report benefited from the 
+financial and technical support of the Global Facility for Disaster Reduction and Recovery (GFDRR) 
+of the WB. Technical and financial support has also been provided by the EU under the ACP-EU 
+Strengthening Disaster Risk Governance and Recovery Capacities project implemented by UNDP, 
+and the European Union Foreign Policy Instrument (FPI) which supports the tri-partite cooperation 
+on crisis assessments. This report has benefited from the guidance and inputs of many government 
+ministries and departments both from the Federal Government of Somalia (FGS) and the Federal 
+Member States (FMS). The sector chapters were drafted by thematic and sector specialists from 
+the different ministries, agencies, organizations and partners.
+The team gratefully acknowledges the hard work of everyone who contributed to produce this 
+document, which will guide the efforts of all those involved in the recovery from the Somalia 2023 
+Deyr Floods. A full list of contributors can be found in the Main Report, which will be published 
+separately and includes detailed write-ups on each chapter. Photographs used in this publication 
+were given due credit across the document. Our utmost appreciation and deepest thanks to all the 
+contributors.
+Acknowledgments
+=== PAGE 5 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+iii
+CONTENTS
+Foreword	 	
+i
+Acknowledgments	
+ii
+1.	Introduction	
+1
+2.	Key Findings	
+2
+3.	R-PDNA Objectives, Scope and Methodology	
+5
+4.	The Disaster Context	
+8	
+5.	Humanitarian Response	
+12
+6.	Sustainable and Resilient Recovery: Vision, Principles and	
+14
+	
+Key Pillars
+7.	The 2023 Dyer Floods Impact: A Synopsis	
+18
+	
+Macro-Economic Impact	
+18
+	
+Human Impact	
+19
+8. Sector Summary	
+20
+	
+Social Sectors	
+20
+	
+	
+Housing	
+20
+	
+	
+Education	
+21
+	
+Productive Sectors	
+22
+	
+	
+Farming and Livestock	
+22
+	
+Infrastructure Sectors	
+22
+	
+	
+Water and Sanitation	
+22
+	
+	
+Energy	
+23	
+	
+	
+Transport	
+23
+	
+Cross-Cutting Sectors	
+24
+	
+	
+	
+Social Protection, Employment and Livelihoods	
+24
+	
+	
+	
+Disaster Risk Reduction	
+25
+	
+	
+	
+Environment	
+27
+=== PAGE 6 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+iv
+© IPSOS
+=== PAGE 7 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+1
+INTRODUCTION
+1
+Severe riverine flooding and flash floods occurred 
+in Somalia as a consequence of the October to 
+December Deyr season rainfall that exceeded 
+average levels across most regions due to the 
+confluence of strong El Niño and positive Indian 
+Ocean Dipole weather patterns. The floods led to 
+unprecedented disaster and devastation in about 
+half of the country’s 36 districts.  The floods affected 
+an estimated 2.48 million people, displaced over 1.2 
+million from their homes and took the lives of 188 
+people. Following this worst flood ever in Somalia’s 
+recent history, the Government of Somalia with 
+technical and financial support from the United 
+Nations (UN), United Nations Development 
+Programme (UNDP), the World Bank (WB), and the 
+European Union (EU) launched the Somalia 2023 
+Deyr Floods Rapid Post-Disaster Needs Assessment 
+(R-PDNA). 
+The objective of the Somalia 2023 Deyr Floods 
+R-PDNA is to inform, guide and catalyse the 
+sustainable and resilient recovery of Somalia’s 
+flood-affected communities. It provides estimates 
+of the social, economic, infrastructure and 
+environmental impact of the floods, approximates 
+recovery needs, proposes solutions for recovery, 
+and promotes enhanced climate and flood 
+resilience in affected areas in Somalia. The R-PDNA 
+covers 16 districts with about 1.7 million inhabitants, 
+of whom 521,519 – around 31 percent – were 
+directly impacted by the floods. The assessment 
+also looks at the macroeconomic and human 
+impacts of the floods on the economic outlook 
+and the population’s well-being.
+© UNDP Climate
+=== PAGE 8 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+2
+KEY FINDINGS
+2
+The 2023 Deyr floods resulted to total damages of 
+US$126.6 million and total losses of $49.5 million 
+making the total effects of the floods in the sixteen 
+districts reached $176.1 million.  The most affected 
+sectors in terms of aggregate damage and loss are 
+Farming and Livestock at $57 million representing 
+32 percent of the total disaster effects, followed by 
+Water and Sanitation at $32.7 million or 19 percent, 
+and Transport at $29.7 million or 17 percent.    Out 
+of the sixteen districts assessed, the most affected 
+districts include Beletweyne in Hirshabelle, Dolow 
+and Baardheere in Jubaland State. 
+The reconstruction and recovery needs for the 
+sixteen assessed districts are estimated at $230.61 
+million, with needs for the short-term estimated at 
+$93.1 million, for medium-term at $69.2 million, 
+and for the long-term at $68.3 million. The largest 
+needs that require the most recovery financing 
+pertain to Farming and Livestock at $60 million, 
+accounting for 26 percent of the total recovery 
+needs, followed by Transport representing 
+16 percent at $37.4 million, and Housing at 
+$27.1 million comprising 12 percent of the total 
+recovery needs.
+DAMAGES
+LOSSES
+NEEDS
+US$ 126.6 million
+US$ 49.5 million
+US$ 230.6 million
+=== PAGE 9 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+3
+Table 1
+Summary of Damages, Losses and Needs, by Sector (US$)
+US$ 126.6 million
+US$ 49.5 million
+US$ 230.6 million
+Sector
+Damages (US$)
+Losses (US$)
+Needs (US$)
+Social Sectors
+Housing
+7,917,169.00
+1,443,695.00 
+  27,048,181.17 
+Education
+18,913,700.00
+2,100,000.00
+23,057,783.00
+Social Sectors Total
+26,830,869.00
+3,543,695.00
+50,105,964.17
+Productive Sectors
+Farming and Livestock
+38,966,108.61
+17,995,472.07
+60,018,390.30
+Productive Sectors Total
+38,966,108.61
+17,995,472.07
+60,018,390.30
+Infrastructure Sectors
+Water and Sanitation
+16,366,262.00
+16,307,278.00
+24,662,057.52
+Energy 
+9,327,571.00
+1,953,842.00
+14,056,707.00
+Transport
+29,709,363.45 
+-
+37,399,016.00
+Infrastructure Sectors Total
+55,403,196.45
+18,261,120.00
+76,117,780.52
+Cross-Cutting Sectors
+Disaster Risk Reduction and Resilience
+234,865.00
+2,300,180.83
+8,572,503.75
+Social Protection and Employment/
+Livelihoods
+-
+-
+17,102,255.00
+Environment and Climate Change
+5,151,800.37
+7,372,349.57
+18,693,675.64
+Cross-Cutting Sectors Total
+5,386,665.37
+9,672,530.40
+44,368,434.39
+GRAND TOTAL
+126,586,839.43
+49,472,817.47
+230,610,569.38
+23%
+4%
+13%
+6%
+31%
+7%
+0%
+0%
+15%
+5%
+0%
+15%
+33%
+3%
+36%
+4%
+0%
+4%
+4%
+16%
+8%
+11%
+12%
+7%
+26%
+7%
+10%
+Disaster Risk Reduction 
+and Resilience
+Transport
+Environment and 
+Climate Change
+Water and Sanitation
+Social Protection and 
+Employment/Livelihoods
+Farming and Livestock
+Housing
+Energy
+Education
+NEEDS
+DAMAGES
+LOSSES
+2. KEY FINDINGS
+=== PAGE 10 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+4
+Table 2
+Summary of Damages, Losses and Needs, by District and National/Federal Level (US$)
+Districts
+Damages (US$)
+Losses (US$)
+Total effects (US$)
+Total needs (US$)
+Afmadow
+        5,197,967.95 
+      3,914,836.25 
+        9,112,804.19 
+    14,259,484.20 
+Baardheere
+     16,833,548.32 
+     2,612,444.28 
+    19,445,992.60 
+     23,074,115.79 
+Bardaale
+       3,613,033.50 
+        786,251.80 
+        4,399,285.30 
+       5,668,248.56 
+Beletweyn
+     27,178,995.47 
+  10,530,156.24 
+    37,709,151.71 
+    47,128,076.19 
+Bidoa/Baydhaba
+  11,723,425.14 
+    10,487,288.35 
+     22,210,713.50 
+     21,289,582.87 
+Boondheere
+                              - 
+            69,563.95 
+             69,563.95 
+           125,000.00 
+Bu'ale
+        5,983,401.93 
+      4,639,735.10 
+     10,623,137.02 
+     10,237,205.76 
+Buuloburde
+        6,855,278.55 
+      2,324,587.29 
+        9,179,865.84 
+    15,322,505.50 
+Dhoobley
+        1,775,305.00 
+          245,013.95 
+        2,020,318.95 
+       2,108,608.92 
+Dolow
+     22,778,048.31 
+      2,564,218.44 
+     25,342,266.76 
+     28,524,774.37 
+Hodan
+        1,210,140.00 
+          243,563.95 
+        1,453,703.95 
+       1,642,850.00 
+Jowhar
+        8,446,178.56 
+      5,229,866.44 
+     13,676,045.00 
+     20,842,858.57 
+Kah Shiikhaal
+              25,125.00 
+          260,171.83 
+           285,296.83 
+           172,911.88 
+Kismayo 
+     13,564,851.36 
+      4,053,880.37 
+     17,618,731.73 
+     19,083,577.15 
+South Galkacyo
+       1,401,540.33 
+      1,441,675.27 
+       2,843,215.60 
+      7,279,777.27 
+Wadajir
+                              - 
+           69,563.95 
+              69,563.95 
+           125,000.00 
+National/Federal level
+ 
+ 
+ 
+     13,725,992.35 
+GRAND TOTAL
+126,586,839.43
+49,472,817.47
+176,059,656.89
+230,610,569.38
+Afmadow
+Dolow
+Bidoa/Baydhaba
+Kismayo
+Baardheere
+Hodan
+Boondheere
+South Galkacyo
+Bardaale
+Jowhar
+Bu’ale
+Wadajir
+Dhoobley
+Beletweyn
+Kah Shiikhaal
+Buuloburde
+National/Federal level
+0%
+0%
+0%
+0%
+6%
+0%
+4%
+8%
+6%
+13%
+5%
+10%
+3%
+2%
+2%
+21%
+21%
+20%
+9%
+21%
+9%
+0%
+0%
+0%
+5%
+5%
+7%
+5%
+9%
+4%
+1%
+0%
+1%
+18%
+5%
+12%
+1%
+0%
+1%
+7%
+11%
+9%
+0%
+1%
+0%
+11%
+8%
+8%
+1%
+3%
+3%
+US$ 126.6 million
+US$ 49.5 million
+US$ 230.6 million
+NEEDS
+DAMAGES
+LOSSES
+2. KEY FINDINGS
+=== PAGE 11 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+5
+R-PDNA OBJECTIVES, SCOPE 
+AND METHODOLOGY
+3
+R-PDNA Objectives
+The overall objectives of the Rapid PDNA are to 
+inform, guide and catalyse the sustainable and 
+resilient recovery of Somalia’s flood affected 
+communities. 
+This can be accomplished through: 
+•	 estimating the social, economic, infrastructure 
+and environmental impact of the floods in 
+impacted areas across the country including 
+the damage and losses as well as the financial 
+costs for the restoration of basic services, and 
+rehabilitation or reconstruction of infrastructure 
+and assets in the most affected and priority 
+socio-economic sectors; 
+•	 proposing solutions for the recovery of living 
+conditions and livelihoods of the most affected 
+populations at national and local levels; 
+•	 development of a common understanding of 
+recovery needs among Somali stakeholders, 
+the UN and the international community for 
+recovery planning, resource mobilization and 
+allocation, and recovery implementation and 
+management; and 
+•	 promoting and informing enhanced climate and 
+flood resilience in affected areas in Somalia.
+The specific objectives of the R-PDNA are to: 
+(i)	
+Determine the baseline scenario before the 
+2023 floods.
+(ii)	 Assess the sector-wise impacts of the floods 
+across the identified geographical coverage 
+(Shabelle River Bain, Jubba River Basin, South 
+Galka’o, Baidoa and BRA), with a focus on the 
+differential impacts on men and women. 
+(iii)	 Assess the overall socio-economic impact 
+of the floods in the identified areas including 
+estimating damages and losses. 
+(iv)	 Identify priority recovery needs for affected 
+communities and critical sectors and develop 
+corresponding cross-cutting recovery 
+strategies including gender-responsive 
+recovery strategies. 
+(v)	 Review current policies/institutional 
+frameworks and capacities that address 
+climate and disaster vulnerabilities and 
+recommend measures to improve adaptation, 
+preparedness and response.
+=== PAGE 12 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+6
+Scope
+Temporal Scope: Damages and losses were 
+calculated against the actual or estimated 
+pre-floods baseline of physical assets. Damage data 
+used in the assessment were collected between 
+the period from October to December 2023. The 
+analysis was conducted from February to April 2024.
+Geographical Scope: The R-PDNA covers the 16 
+districts most affected by the 2023 Deyr Floods in 
+four Federal Member States: Jubaland, Southwest, 
+Galmudug, Hirshabelle and the Banadir Regional 
+Administration. 
+These districts are Afmadow, Baardheere, Bardaale, 
+Beletweyn, Bidoa/Baydhaba, Boondheere, Bu’ale, 
+Buuloburde, Dhoobley, Dolow, Hodan, Jowhar, Kah 
+Shiikhaal, Kismayo, South Galkacyo, and Wadajir.
+Sectoral Scope: The R-PDNA encompasses analyses 
+of both macroeconomic and human impacts across 
+nine sectors: 
+Social Sectors
+•	 Housing 
+•	 Education 
+Productive Sectors  
+•	 Farming and Livestock
+Infrastructure Sectors  
+•	 Water and Sanitation 
+•	 Energy
+•	 Transport
+Cross-Cutting Sectors  
+•	 Social Protection, Employment and 
+Livelihoods 
+•	 Disaster Risk Reduction 
+•	 Environment 
+Timeline and Milestones of the R-PDNA 
+Deyr rains &
+floods
+October–
+November
+2023
+Revision and 
+updating 
+chapters; 
+technical, 
+conflict lens, 
+and gender 
+review 
+20–30 May 
+2024
+Launch of 
+the R-PDNA
+22 February 
+2024
+FGS & 
+FMS focal 
+ministries’ 
+review
+31 May–6 June 
+2024
+R-PDNA data 
+collection
+23 February–
+20 March 
+2024
+Launch of 
+the  R-PDNA 
+Report 
+(presentation 
+of key 
+findings)
+11 June 2024
+Data analysis 
+and report 
+drafting
+21 March–
+21 May 2024
+Pre-
+publication 
+works and 
+layout design 
+12–26 June 
+2024
+Publication 
+of the 
+Somalia 
+2023 Deyr 
+floods               
+R-PDNA 
+report
+1 July 2024
+3. R-PDNA OBJECTIVES, SCOPE AND METHODOLOGY
+=== PAGE 13 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+7
+Methodology and Limitations
+The Somalia 2023 Deyr Floods Rapid Post Disaster 
+Needs Assessment (R-PDNA) employed the PDNA 
+methodology, jointly developed by the UN, EU and 
+WB. This R-PDNA is focused on the 16 disaster-
+affected districts, and examined the damage 
+and losses resulting from the Deyr floods and 
+identified resilient recovery needs. The assessment 
+complements the Somalia 2024 Humanitarian 
+Needs and Response Plan, consolidated by the 
+Office for the Coordination of Humanitarian Affairs 
+(OCHA) on behalf of the Humanitarian Country Team 
+(HCT) and partners. This response plan addresses 
+immediate humanitarian needs arising from the 
+worst floods in generations and the cumulative 
+needs in 2023 caused by the devastating drought.
+The PDNA approach involves sector-by-sector 
+analyses, which was conducted in coordination 
+with the Federal Government of Somalia (FGS) as 
+the lead, and technical co-leads from the UN, EU 
+and WB, with support from other partners. Data 
+collection and triangulation tools were used to 
+provide sectoral assessments of damage, losses 
+and recovery needs. The assessment was primarily 
+conducted remotely, relying on humanitarian 
+assessments (some verified with key informants in 
+the field), satellite imagery (including data derived 
+from IPSOS using grid density parameters from 
+FAOSTAT), publicly available information, surveys 
+and existing databases (such as the European 
+Space Agency’s Land Cover database and FAO-
+SWALIM). 
+These findings were corroborated and validated 
+through various means, including remote-sensing 
+analytics, data from partners, expert opinions, field 
+visits, discussions with affected groups, and desk 
+reviews of reports, existing national documents, 
+humanitarian cluster rapid assessment reports 
+and the Emergency Preparedness and Response 
+Capacity Assessment Report. Since it was a rapid 
+assessment, the field-based survey to ascertain 
+data (damages and losses) from the field were 
+extremely limited. To overcome this limitation 
+the World Bank Group engaged Institut Public de 
+Sondage d’Opinion Secteur (IPSOS) to help fill 
+in the data gaps of all sectors through satellite 
+imagery and media analytics. IPSOS also provided 
+services for data validation.
+While the R-PDNA provides valuable insights, 
+it is not a substitute for in-depth sector-specific 
+assessments of affected areas. Sector teams made 
+efforts to triangulate available data and provide 
+realistic and credible estimates. Across sectors, 
+common methodologies and tools included using 
+government reports and databases, conducting 
+surveys, validating information with key informants, 
+seeking expert opinions, conducting field visits, 
+engaging stakeholders, and utilizing sector-specific 
+interview guide questionnaires and tools like 
+Kobo Toolbox. For flood-affected areas that were 
+inaccessible or unvisited due to time constraints, 
+data extrapolation was employed.  
+The R-PDNA incorporates principles of building back 
+better, social inclusion and gender equality, conflict 
+sensitivity, and improving social, environmental 
+and physical resilience. The analyses and findings 
+were subjected to a careful validation by the FGS 
+and concerned FMSs including the technical-level 
+endorsement by the Steering Committee.
+However, as in every R-PDNA process, there exists 
+limitations and constraints. Estimations of damage 
+and loss may be subject to underestimation 
+or overestimation due to time constraints, the 
+nascent data regime in Somalia, lack of data 
+disaggregation and lack availability of data for 
+certain indicators, as well as the inaccessibility of 
+some areas. These challenges highlight the need 
+for innovative approaches to data collection and 
+analysis, especially where traditional methods 
+fall short. Additionally, the assessment faced data 
+unavailability from FMSs and the private sector. The 
+sector assessments encountered time constraints 
+and ground situations that hindered large-scale 
+field validation.
+© UNDP Climate
+3. R-PDNA OBJECTIVES, SCOPE AND METHODOLOGY
+=== PAGE 14 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+8
+THE DISASTER CONTEXT
+4
+Historic Deyr rains, exacerbated by a strong El Niño 
+and positive Indian Ocean Dipole weather patterns, 
+hit Somalia in October to December 2023. The 
+Deyr season rainfall surpassed average levels 
+in most areas of the country resulting in severe 
+riverine flooding in areas such as Hiraan, Gedo and 
+Middle Juba, and there were flash floods in Mudug 
+and Bay.1 Heavy cumulative rainfall was observed 
+during the period over the south and central parts 
+of the country with moderate increasing rains over 
+the central northeastern and northwestern areas. 
+As forecasted, the rains exceeded 300 mm over 
+the Juba River and Shabelle River basins. 
+The heaviest seasonal rainfall of 1,152.0 mm was 
+recorded at Baidoa station in Bay region. The highest 
+number of rainy days (at least 1 mm of rain) were 
+recorded at Kismaayo, Dollow, Luuq, Jowhar, and 
+Belet Weyne (20 days), Bardheere (21 days), Wanla 
+Weyne (22 days), Baidoa (26 days) and Qansadheere 
+(34 days). When averaged throughout the country, 
+much of the rainfall was received in the month of 
+November (103.2 mm), with a moderate amount 
+(73.1 mm) in October and the least (8.8 mm) in 
+December. Coming in the wake of above-normal Gu 
+and normal Hagaa rains, the substantial Deyr rainfall 
+led to a substantial recharge of water sources and 
+replenished water catchment levels. The longer-
+than-a-week wet spells favoured soil soaking, thus 
+permitting rapid run off over urbanized areas and 
+steep-sloped surfaces. By the 26 November 2023, 
+water levels at six out of the seven river gauging 
+stations along the two rivers were at full capacity.2
+1	
+https://reliefweb.int/attachments/54da1454-3109-4f12-b1ec-0687bddae041/Somalia-2023-Post-Deyr-IPC-AFI-and-IPC-AMN-
+Findings-and-Recommendations-15-Feb-2024.pdf
+2	
+FAO-SWALIM (19 January 2024), Review of Deyr 2023 Rainfall Performance, Jilala Status, Gu Outlook, and Implications on Livelihoods 
+over Somalia.
+© IPSOS
+=== PAGE 15 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+9
+Somalia has two major river systems that sustain 
+the country’s socio-economic life, but these also 
+contribute to the risk of flooding. Historically, the 
+substantial and consecutive rains over the riverine 
+areas in Somalia cause the Juba and Shabelle River 
+basins within the country and in the Ethiopian 
+Highlands to be subjected to massive riverine 
+and flash floods. The Juba River originates in the 
+Ethiopian highlands and flows southeast through 
+Somalia towards the Indian Ocean. Flooding along 
+the Juba River is a common occurrence, particularly 
+during the Gu (April to June) and Deyr (October to 
+December) rainy seasons.  The Shebelle River also 
+originates in Ethiopia and flows southeast across 
+Somalia. It then turns southwards, flowing parallel 
+to the coast, before joining the Juba River. The 
+Shebelle river, too, is prone to seasonal flooding. 
+Over time, there has been a discernible increase 
+in the severity and frequency of the floods in the 
+areas along the Juba and Shabelle Rivers.3 The 
+floods due to the rains in Gu and Deyr seasons are 
+recurrent phenomena and damage thousands of 
+houses each year. In the period from 1988 to 2006, 
+the Shabelle River (20 floodings) and Juba River (12 
+floodings) have regularly flooded.4
+The Mogadishu Spatial Strategic Plan, supported 
+by UN-Habitat, identifies flood risks due to riverine 
+flooding, increased sea levels due to climate 
+change and poor drainage infrastructure in the 
+city.5 Rapid urbanization and deforestation in the 
+basin have increased the risk of flash floods and 
+riverine flooding. Lack of proper flood control 
+measures and unplanned settlements along the 
+riverbanks further increase the vulnerability to 
+flooding.
+Map before/after flooding and during flooding
+3	
+Guleid A., Gadain H.M., Muthusi F.M. and Muchiri P.W. (2007), Improving Flood Forecasting and Early Warning in Somalia, Feasibility 
+Study, Technical Report No W-10, FAO-SWALIM, Nairobi, Kenya. 
+4	
+https://unhabitat.org/sites/default/files/download-manager-files/Mogadishu_Report_reprint.pdf
+5	
+ibid
+4. THE DISASTER CONTEXT
+=== PAGE 16 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+10
+While Somalia has a high probability for flooding, 
+the country also faces risk of droughts. Protracted 
+droughts that last many years have affected millions 
+of residents and have exacerbated the effects of 
+poverty and conflict. The 2023 Deyr floods, which 
+were Somalia’s worst floods in recent history, 
+occurred at a time when the country was reeling 
+from a record 2020–2023 drought. The 2023 
+Deyr floods struck already extremely vulnerable 
+communities, whose coping capacities were 
+exhausted after the longest recorded drought, 
+where many parts of the country had experienced 
+severe water shortages for domestic use, livestock 
+use and agricultural production.6
+The floods disrupted the education of children and 
+caused significant loss to agriculture, livestock and 
+critical infrastructure.7 The floods led to substantial 
+damage to earlier-grown croplands, livestock 
+fodder and pasturelands, along with substantial 
+damage of buildings and civil infrastructure 
+rendering roads impassable and cutting off access 
+into and out of towns and other settlements with 
+devastating implications.8 The floods damaged 
+or destroyed critical water, sanitation, health and 
+logistics infrastructure, threatening to reverse 
+modest gains from infrastructure investments 
+in previous years.  The floods prompted the 
+destruction of property, loss of access to basic 
+services and caused further displacements. The 
+floods also led to an increase in cholera and 
+other water-borne diseases, particularly affecting 
+children, women, the elderly and people with 
+disabilities. More than 80 per cent of displaced 
+people in Somalia are women and children who face 
+significant protection risks, which are heightened 
+by pre-existing inequities.9 The ensuing population 
+displacement triggered other social challenges 
+including unavailability of shelter, food and clean 
+water; an increase in water borne diseases; and 
+family disconnection.10
+The increasing vulnerabilities and exposures of 
+the population, their assets and livelihoods has 
+long been entrenched alongside the geo-political 
+context of Somalia as it continues to face a delicate 
+balance among political tensions, security threats 
+and humanitarian crises owing to conflicts, 
+environmental degradation, climate shocks and 
+recurring disasters. The intersection of these 
+challenges with the gender, age, disability, and 
+socioeconomic status of the country exacerbates 
+the disparities faced by the most marginalized 
+groups. This results in multiple humanitarian crises, 
+and calls for an inclusive and sensitive recovery 
+process.
+The impact of climate change, conflict and 
+insecurity, and other factors have continued to 
+push Somali civilians away from their homes and 
+into overcrowded towns and cities. Consequently, 
+the number of internally displaced persons has 
+reached close to 4 million people, one of the 
+largest number of displaced persons globally.11 The 
+combined impacts of floods and violent conflict 
+has led to significantly more forced displacement, 
+particularly in flooded areas of the Shabelle River 
+and Jubba River basins. The highest proportions of 
+internally displaced persons in Somalia are hosted in 
+Banadir (31 percent), Bay (17 percent) and Gedo (10 
+percent).12 This situation disproportionately affects 
+vulnerable groups, including women, children 
+and the elderly, who face heightened risks and 
+challenges in displacement settings. Addressing 
+their specific needs and protecting their rights must 
+be prioritized during the recovery phase.
+	
+FAO (25 March 2021). Somalia: Drought - 2015-2024. https://reliefweb.int/disaster/dr-2015-000134-som 
+	
+UNOCHA (January 2024). The 2024 Humanitarian Needs and Response Plan of Somalia.
+	
+FAO-SWALIM (19 January 2024), Review of Deyr 2023 Rainfall Performance, Jilala Status, Gu Outlook, and Implications on Livelihoods 
+over Somalia.
+	
+UNOCHA (January 2024). The 2024 Humanitarian Needs and Response Plan of Somalia.
+	
+FAO-SWALIM (19 January 2024), Review of Deyr 2023 Rainfall Performance, Jilala Status, Gu Outlook, and Implications on Livelihoods 
+over Somalia.
+	
+UNOCHA (January 2024). The 2024 Humanitarian Needs and Response Plan of Somalia.
+	
+https://dtm.iom.int/reports/somalia-baseline-assessment-summary-report-round-2-february-2023-january-2024 
+6
+7
+8
+9
+10
+11
+12
+4. THE DISASTER CONTEXT
+=== PAGE 17 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+11
+Moreover, there exists underlying socioeconomic 
+conditions that may exacerbate the impacts of the 
+floods. Over half (54.4 percent) of the population 
+of Somalia lives in poverty, and over one fifth 
+(20.9 percent) live in extreme poverty.13 Somalia’s 
+Human Development Index (HDI) value for 2022 is 
+0.380, which puts the country in the low human 
+development category, positioning it at the lowest 
+rank: 193 out of 193 countries and territories.14 In 
+2023, Somalia ranked fourth to last in the Global 
+Gender Gap Index,15 underlining its continuing 
+challenges for achieving gender equality and 
+women’s empowerment. Children under the 
+age of 14 years old comprise 47 percent of the 
+country’s population16 and its young population 
+poses challenges on youth exclusion, grievances 
+and perceptions of inequity that have resulted in 
+youth comprising most participants in militias and 
+criminal gangs.17 Somalia has one of the highest 
+urbanization rates in the region with at least 46.5 
+percent of the population living in urban areas. 
+This has led to informal settlements and densely 
+populated areas that place urban infrastructure 
+and capacities under considerable pressure, and 
+urban space is limited and contested.18
+The challenges of conflict and governance 
+exacerbate both the existing vulnerabilities 
+to the effects of floods and the capacity of the 
+government to effectively respond to the needs of 
+those affected. Interventions that fail to account 
+for tensions between rival groups for access to 
+resources like water and land can inadvertently 
+aggravate existing conflicts. Climate models 
+project that Somalia is expected to continue to 
+experience hotter than normal conditions, with 
+cyclical periods of extreme drought and flooding. 
+Somalia’s coastal location means it is exposed to 
+the impacts of strengthening tropical cyclones and 
+severe storms. The risks posed by these climate 
+stressors will only further challenge efforts to build 
+food security and resilience in Somalia and may 
+exacerbate displacement and violent conflict.19 
+It will also hamper the sustainable recovery efforts 
+from the 2023 Deyr floods. 
+Recovery will require an integrated approach 
+that brings together government actors, and 
+works across the humanitarian, recovery and 
+developmental approaches to address long-term 
+security, access, poverty and marginalization 
+challenges. Somalia faces protracted humanitarian 
+crises that linger on as the country must confront 
+one crisis after another. This trend curtails any 
+medium- to long-term recovery and curbs any 
+effort for strategic durable solutions to take off 
+and make progress.
+The 2023 Fragile Index Score indicates a high level 
+of fragility in Somalia, with a score of 111.9 out of 
+120, primarily due to conflicts exacerbated by 
+natural disasters including floods. The uncertainty 
+of the future poses a significant challenge to the 
+vulnerable populations. Despite the political 
+volatility and over 210 recorded events of political 
+violence from late February to late March 2024, 
+the FGS shows a commitment to federalism 
+and constitutional review. However, the lack of 
+clarity in constitutional mandates, especially 
+concerning disaster management, remains a 
+concern. Control over territories affected by floods 
+is divided, ranging from the FGS to al-Shabaab/
+ISIS, affecting data collection and recovery efforts. 
+Resource-based communal and clan conflicts, 
+particularly over land, water and pasture in river 
+basins, are managed through a blend of customary 
+law and local administrative procedures. Al-
+Shabaab’s activity, particularly between August 
+and December 2022, resulted in 3,850 fatalities, 
+with the highest civilian targeting in Banadir, 
+Lower Shabelle and Hiraan regions, indicating an 
+escalation in attacks on civilians and highlighting 
+the group’s ongoing threat to stability and security 
+in Somalia.
+13	 Somalia Integrated Household Survey Budget (SIHBS) – 2022 as cited in the Somalia Poverty Report 2023 published by the Somalia 
+National Bureau of Statistics.
+14	 UNDP (2024). Human Development Reports https://hdr.undp.org/data-center/specific-country-data#/countries/SOM 
+15	 WEP (2023). Global Gender Gap Report 2023.
+16	 UNFPA (2024). World Population Dashboard. https://www.unfpa.org/data/world-population/SO 
+17	 USAID (2015). Fact Sheet. https://2017-2020.usaid.gov/sites/default/files/documents/1860/Cross-Cutting_Fact_Sheet_-_Youth_10_
+Sep_2015.pdf
+18	 UN-HABITAT (2023). Urbanization in Somalia: Building inclusive and sustainable cities https://unhabitat.org/
+somalia#:~:text=Somalia%20has%20one%20of%20the,53%25%20for%20the%20year%202016.
+19	 USAID (2024). Climate risks tor resilience and food security in Bureau for Humanitarian Assistance Geographies: Somalia
+4. THE DISASTER CONTEXT
+=== PAGE 18 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+12
+HUMANITARIAN RESPONSE
+5
+According to the Somalia Disaster Management 
+Agency (SoDMA), the Federal Government of 
+Somalia (FGS) declared an emergency in October 
+2023 in areas where torrential Deyr rains triggered 
+floods. These floods extended from October 
+through December 2023. The FGS led the relief 
+operations with support from humanitarian 
+partners in all affected states. Humanitarian 
+partners have reached about 1.2 million people 
+with assistance since October, while SoDMA 
+delivered food, none food items and medicines to 
+affected states  reaching over 869,000 people. The 
+Somalia Humanitarian Fund (SHF) Advisory Board 
+endorsed a $1.96 million reserve allocation to the 
+World Food Programme (WFP) to provide critical 
+logistics support for the El Niño response, including 
+covering the operational costs of one helicopter for 
+one-month, other common logistics services, and 
+the cost of maintaining the Baidoa logistics hub.20
+Emergency relief assistance provided to the 
+affected population included urgent life-saving 
+assistance in the form of unconditional food and 
+cash aid, and comprehensive maintenance support 
+of sites supporting internally displaced people, 
+including distribution of sandbags to support 
+the diversion and prevention of water entering 
+the displacement sites, integrated health and 
+nutrition services, humanitarian support logistics, 
+protection services, psychosocial support, latrine 
+construction, hygiene kits and WASH services 
+including construction of emergency latrines, 
+hygiene kit distribution and provision of emergency 
+water supplies through water trucking. . Learning 
+materials were also provided to enable flood-
+affected students to resume their education with 
+interventions aimed of keeping children in schools. 
+Primary health care consultation, reproductive 
+health care, immunization, prepositioning medical 
+supplies and inpatient care services through static 
+facilities and mobile clinics were also provided in 
+flood-affected areas. 
+There was a scaling up of nutrition treatment 
+and prevention interventions to address the 
+potential increase in malnutrition cases following 
+the floods. At least 230,437 children under age 5 
+were screened for acute malnutrition, with 19,615 
+20	 UNOCHA (24 December 2023). SOMALIA: 2023 Deyr Season Floods Bi - Weekly Situation Report No. 5
+=== PAGE 19 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+13
+admitted to the Outpatient Therapeutic Programme 
+(OTP), 1,198 to the Stabilization Centre (SC) and 
+21,900 to the Targeted Supplementary Feeding 
+Programme (TSFP). In addition, 5,086 pregnant 
+and breastfeeding women who were moderately 
+to acutely malnourished were also admitted to TSFP. 
+Over 87,366 caregivers were reached with nutrition, 
+hygiene and health promotion awareness messages 
+to prevent possible increase of waterborne 
+diseases due to stagnant rainwater in displacement 
+sites, while 22,635 children received Vitamin A 
+supplementation. At least 4,247 people have been 
+reached with psychosocial support kits in areas 
+affected by the floods. Approximately 26 temporary 
+child-friendly spaces and child protection desks 
+have been established. Humanitarian logistics 
+hubs were also established in strategic positions 
+and were made available to partners free of charge 
+for storage before onward transportation to flood 
+affected areas. 
+21	   ibid [20]
+22	   ibid  [20]
+23	   ibid [20]
+© UNDP Climate
+5. HUMANITARIAN RESPONSE
+=== PAGE 20 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+14
+SUSTAINABLE AND RESILIENT 
+RECOVERY: VISION, PRINCIPLES 
+AND KEY PILLARS 
+6
+Achieve inclusive and resilient recovery in flood-
+affected areas by adopting an area-based, conflict-
+sensitive, gender-responsive, integrated and all-of-
+society approach, fostering recovery that addresses 
+underlying vulnerabilities and risks, building 
+community resilience to recurring disasters and 
+climate change impacts, and ensuring equitable 
+and sustainable development of communities and 
+their livelihoods.
+1.	
+Ensure equitable prioritization in the recovery 
+process by focusing on the urgent needs of the 
+most affected populations and marginalized 
+groups, including women, the elderly, children, 
+persons with disabilities, ethnic minorities, and 
+other vulnerable demographics. By addressing 
+their specific needs, create a more equitable 
+and resilient recovery.
+2.	
+Embrace agile and adaptive management 
+principles in recovery, recognizing the 
+dynamic nature of the operating environment. 
+This includes understanding existing conflict 
+dynamics, navigating political transitions, and 
+responding effectively to repeated shocks, 
+disasters and climate change impacts. 
+3.	
+Adapt an integrated, holistic, collaborative 
+and all-of-society approach to recovery. 
+This includes engaging multiple sectors, 
+considering various dimensions and fostering 
+multi-stakeholder partnerships. 
+4.	
+Align recovery efforts with the humanitarian 
+architecture and development pathways in 
+Somalia, leveraging existing mechanisms. 
+By aligning recovery efforts with established 
+structures, enhance resilience and promote 
+sustainable development. 
+5.	
+Tailor recovery efforts to the socio-political 
+and economic landscape and integrate 
+vulnerability reduction in recovery by 
+addressing underlying risk drivers. These 
+are ‘no regrets’ strategies, ensuring that the 
+recovery actions build resilience.
+Recovery Vision
+Guiding Principles
+=== PAGE 21 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+15
+1.	
+Building of community resilience to resist 
+repeated shocks and crises.
+	
+The strategic objective of this pillar is to 
+build community resilience by enhancing 
+the capacities of individuals, households 
+and communities to resist shocks and 
+manage impacts on their own. This means 
+building resilience to risks and addressing 
+increasing vulnerabilities and underlying risk 
+drivers, which are essential preconditions 
+toward achieving sustainable and inclusive 
+recovery. This includes the provision of 
+assets and support services such as housing 
+reconstruction and repair to ensure that the 
+affected households do not have further 
+deteriorating living conditions. This may 
+also encompass the restoration of vital 
+infrastructure such as roads, bridges, 
+irrigation, water and sanitation, and alternative 
+energy sources to ensure connectivity and 
+access to schools, health facilities and markets. 
+This pillar needs to adopt inclusive and 
+participatory community-based approaches, 
+with a particular emphasis on addressing 
+the needs of women, the impoverished, 
+and other vulnerable groups through 
+targeted interventions. Recovery focused on 
+strengthening community resilience will result 
+to an increased ability to anticipate, adapt and 
+cope with repeated disasters, crises, shocks, 
+and stresses, thereby enabling communities to 
+protect and build on development gains that 
+they have already achieved.
+2.	
+Revitalization of communities’ economies 
+and people’s livelihoods.
+	
+The strategic objective of this pillar is to 
+rebuild people’s livelihoods, revive economic 
+activities, and enhance economic resilience to 
+potential future shocks, disasters and climate 
+change impacts. Restoration of livelihoods, 
+resumption of economic activities and 
+revitalization of agriculture are critical for 
+sustainable recovery of the Somali population. 
+Specifically, this includes interventions 
+on sustainable resource management, 
+provision of livelihood opportunities, decent 
+employment creation and restoration of 
+agricultural activities including provision of 
+comprehensive vaccination and treatment 
+for flood-prone livestock diseases, support 
+for the continuation and rehabilitation of 
+animal production through a scaled-up 
+provision of fodder production systems, 
+and support for mass veterinary treatments 
+and vector control, as well as restocking 
+of small animals. The rebuilding of the 
+livestock sector would ensure sustainable 
+livelihoods for farmers and contribute to 
+overall economic recovery and development.
+A key component of this pillar is the 
+establishment of gender-sensitive employment 
+6.	
+Ensure an inclusive, equitable and ethical 
+recovery by making all interventions gender-
+responsive, conflict-sensitive and leaving no 
+one behind.
+7.	
+Adhere to the ‘do no harm’ principle in recovery 
+by ensuring that recovery interventions avoid 
+inadvertently contributing to conflict, human 
+rights violations, or any policies that may 
+inflict harm. Protection principles guide all 
+recovery actions ensuring that basic need 
+support does not exacerbate inequalities.
+8.	
+Support a gradual transition to a government-
+led recovery by ushering a shift from 
+dependence on international humanitarian 
+assistance to locally led recovery efforts, 
+thereby empowering national and local 
+authorities, building internal capacities and 
+fostering ownership of recovery processes 
+by the government and local institutions.
+9.	
+Improve the policy and regulatory 
+environment of service delivery sectors by 
+undertaking institutional and governance 
+reform measures to strengthen ministries, 
+departments and agencies (MDAs) by 
+enhancing human resource capacity to 
+better plan, better design and ensure climate 
+resilient infrastructure for sustained service 
+delivery. 
+Key Pillars
+6. SUSTAINABLE AND RESILIENT RECOVERY: VISION, PRINCIPLES AND KEY PILLARS
+=== PAGE 22 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+16
+opportunities, particularly in non-traditional 
+roles for women and support services such 
+as childcare to facilitate women’s active 
+participation in the workforce. Furthermore, 
+the rehabilitation of irrigation and flood-risk 
+management infrastructure, including river 
+embankment and canal breakages, desilting/
+clearing, and repairing waterways and other 
+water access facilities and on-farm structures, 
+are crucial for economic and livelihoods 
+recovery.  Hence, these shall also be pursued 
+with the engagement of community-based 
+organizations such as agriculture cooperatives 
+and water users’ associations, with emphasis 
+on ensuring women’s active participation and 
+leadership.
+3.	
+Resumption of access to essential services.
+	
+The strategic objective of this pillar is to 
+reinstate key services for flood-affected 
+communities such as in education, energy, 
+water and sanitation, and access to basic 
+social safety nets. This includes reconstruction 
+and repair of schools and establishment of 
+temporary educational facilities while this 
+is in progress. It also entails support for the 
+rehabilitation, cleaning, disinfection, and 
+repair of water and sanitation facilities; the 
+provision of renewable energy for small 
+health clinics and clinics providing assistance 
+for gender-based violence, including in rural 
+areas; maintenance of the cold chain supply for 
+medications; repair or replacement of street 
+lighting in damaged urban and rural areas 
+as well as in camps for internally displaced 
+persons. Additionally, this pillar aims to provide 
+cash transfers to households affected by 
+multidimensional poverty and loss of livelihood 
+and income to ensure that vulnerable 
+households, particularly those headed by 
+women, do not need to resort to negative 
+coping strategies. Recovery and restoration of 
+access to basic services should focus not only 
+on rebuilding physical infrastructure but also 
+on restoring the human capital potential of 
+the affected areas, with specific programmes 
+aimed at supporting women’s health 
+and education.
+6. SUSTAINABLE AND RESILIENT RECOVERY: VISION, PRINCIPLES AND KEY PILLARS 
+© IPSOS
+=== PAGE 23 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+17
+5. SUSTAINABLE AND RESILIENT RECOVERY: VISION, PRINCIPLES AND KEY PILLARS 
+Recovery efforts should address multi-dimensional 
+risks, recurring threats and the (geo)political context 
+of Somalia. In particular, the ensuing are cross-
+cutting conflict-sensitive considerations to guide 
+the implementation of the recovery interventions 
+across the different sectors.  
+Policy and governance. While there is still some 
+ambiguity between federal, state and local 
+government on mandates including disaster 
+management, the recovery and response efforts 
+come at the time when FGS and Federal Member 
+States have agreed the overall framework 
+that clarifies roles and responsibilities at their 
+respective levels. A ‘whole-of-government’ 
+approach will be critical to enable the multi-
+sectoral approach needed to deliver services. 
+This can build on existing coordination 
+mechanisms such as the Somali Humanitarian 
+Forum and National Development Forum which 
+link Federal and States governments with 
+international partners.
+Capacity building. Building the capacity of local 
+government staff and clarifying the roles of local 
+governments in post-disaster response and 
+recovery will be needed as they play a vital role in 
+disaster response at the local level.  Furthermore, 
+to support recovery and response needs at the 
+local level, the formation of efficient, functional 
+and inclusive District Authorities needs to be 
+supported through the ongoing district council 
+formation process within the Wadajir National 
+Framework (WNF), National Reconciliation Policy, 
+and FGS’s broader stabilization framework.
+Accessibility. Access is challenging in most 
+of the 16 R-PDNA targeted districts, primarily 
+due to the fight against al-Shabaab. The 
+recovery process is aligned with the Somalia’s 
+National Stabilization Strategy (2022–2026), 
+with the R-PDNA recovery strategy proposing 
+an integrated approach where government 
+takes the lead in liberated and stable areas, 
+and works though local organizations, the 
+private sector and local communities in areas 
+where access is challenging or not possible. 
+Within a complex environment, Somalia has 
+fostered sources of community resilience 
+characterized by decentralized social networks 
+and a vibrant private sector. Somalis have relied 
+on the country’s social capital and informal 
+institutions to respond to disasters, resolve 
+disputes, facilitate business and address basic 
+development problems. 
+Cross-cutting conflict-sensitive considerations
+© UNDP Climate
+=== PAGE 24 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+18
+THE 2023 DEYR FLOODS
+IMPACT: A SYNOPSIS
+7
+Somalia’s economy is estimated to have grown 
+closer to 3.0 percent in 2023, up from 2.4 percent 
+in 2022. The gross domestic product (GDP) 
+growth was mainly supported by favourable rains 
+and declining global prices, causing inflation 
+to ease in 2023. Despite some progress, the 
+2023 Deyr floods had a significant impact on 
+Somalia’s economy, particularly in the areas of 
+agriculture and infrastructure. The floods caused 
+widespread devastation to farmland, leading 
+to a decline in agricultural production, affecting 
+the country’s overall GDP, and increasing price 
+instability. Additionally, the floods led to significant 
+displacement of populations, in both agricultural 
+and urban areas, further impacting economic 
+activities and livelihoods. The floods also impacted 
+the balance of payments, as there was a surge in 
+demand for imports of food supplies, agricultural 
+resources and materials for reconstruction efforts. 
+This surge in demand is projected to further strain 
+the balance of payments, particularly with an 
+expected increase in labour costs for construction 
+projects.
+Overall, the economic outlook for Somalia following 
+the floods is challenging. The country faces risks 
+such as reduced aid, instability in the banking 
+sector, and the threat of repeated or recurrent 
+shocks from climate change events, further 
+threatening the country’s economic recovery and 
+making it difficult to achieve sustained progress 
+and stability. Efforts to recover from the floods are 
+expected to mitigate the potential adverse effects 
+on macroeconomic indicators. This includes 
+addressing increased spending needs, reallocating 
+funds within the government’s budget framework, 
+and focusing on recovery and resilience needs. 
+However, the full macroeconomic repercussions 
+of the floods will take time to manifest. Initial 
+assessments suggest that the total estimated costs 
+of the floods amount to around 17 percent of the 
+country’s 2024 capital budget across various 
+sectors, adversely affecting the fiscal balance in 
+2024 as well due to the ongoing reconstruction 
+efforts throughout next year.
+Macro-economic impact
+=== PAGE 25 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+19
+The Deyr rains and subsequent flooding in Somalia 
+have affected nearly 2.5 million people, with 1.7 
+million residing in the 16 most impacted districts. 
+These floods have displaced approximately 1.2 
+million individuals, including 521,519 in the most 
+affected areas. The total number of internally 
+displaced persons in Somalia has now risen to 
+2.9 million.
+The floods have compounded the difficulties 
+for populations already affected by drought and 
+conflict, exacerbating their vulnerabilities, and 
+eroding their coping capacities. Immediate and 
+sustained interventions are necessary to address 
+the multi-dimensional impacts on the affected 
+populations and to prevent further deterioration of 
+living conditions.
+Significant damage to housing left 114,694 people 
+homeless and another 34,826 with damaged 
+homes. The destruction of water points and latrines 
+impacted over 2 million people, forcing them to 
+rely on unsafe water sources and increasing the 
+risk of water-borne diseases. The education sector 
+has also been hit hard, with over 600 teachers 
+and approximately 738,000 children affected by 
+damage to schools.
+Agriculture suffered greatly, with losses in crop and 
+livestock production impacting 68,000 households 
+(421,600 people). These losses diminished 
+household incomes and heightened food insecurity. 
+Additionally, household businesses, which make 
+up a significant portion of the rural and urban 
+economy, likely experienced damage and losses, 
+though specific data is unavailable.
+Food insecurity has escalated, with an additional 
+304,980 people facing various levels of food 
+stress and crisis, at Integrated Food Security 
+Phase Classification (IPC) 2 and above. Among 
+them, 36,480 are experiencing emergency or 
+catastrophic levels (IPC 4), 121,810 acute levels 
+(IPC 3), and 146,690 stressed levels (IPC 2). The 
+floods have exacerbated the plight of 1.5 million 
+children under five years old who are projected to 
+experience acute wasting.
+Prior to the floods, over 2.1 million people in the 
+affected districts were living in poverty. The 
+floods are expected to deepen poverty levels, 
+particularly among the most vulnerable groups, 
+including nomadic populations, rural communities, 
+children, and female-headed households. Nomadic 
+populations have the highest incidence of poverty 
+at 78.4 percent, and they are now even more 
+vulnerable due to the floods.
+Women and girls have faced disproportionate 
+impacts due to their roles in agriculture and 
+commerce. They have experienced reduced 
+incomes, limited access to healthcare, and 
+increased insecurity, including risks of gender-
+based violence. Other marginalized groups, 
+such as internally displaced persons, children 
+and certain minority clans have also been 
+severely affected. Flood-displaced families have 
+exhausted their coping mechanisms and need 
+urgent support for food, shelter, livelihoods 
+and protection. Children represent a significant 
+portion of the affected population, with 1.53 
+million impacted by the floods, including 550,000 
+displaced. Acute malnutrition and disease 
+outbreaks, such as measles and cholera, have 
+further endangered children’s health. Vulnerable 
+children, including those unaccompanied or victims 
+of violence and exploitation, require immediate 
+protection and care.
+The floods are likely to have driven up the number 
+of people living in poverty and extreme poverty, 
+and without adequate support. The cycle of poverty 
+and vulnerability is likely to continue. The standard 
+of living is expected to erode further among flood-
+affected households and multi-dimensional poverty 
+will increase due to increased deprivations in access 
+to healthcare, water and sanitation facilities, as well 
+as due to the loss of income and critical assets such 
+as land, housing, businesses, crops and livestock.
+Recovery efforts should be directed toward 
+rebuilding housing, water and sanitation, and 
+educational infrastructure; providing aid to restore 
+agricultural productivity; and supporting local 
+businesses to resume operations. Additionally, 
+measures must be taken to ensure food security 
+and prevent the situation from escalating further. 
+It is essential to learn from this catastrophe and 
+strengthen the systems in place to mitigate the 
+impact of future floods and other natural disasters.
+Human impact 
+7. THE 2023 DEYR FLOODS IMPACT: A SYNOPSIS
+=== PAGE 26 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+20
+SECTOR SUMMARY
+8
+There has been significant damage to housing 
+in Somalia caused by the 2023 Deyr floods. It is 
+estimated that the floods resulted in the collapse 
+of 19,913 houses, major damage to 3,597 houses 
+and minor damage to 2,355 houses in 16 districts 
+of Somalia. Of these affected households, 36 
+percent are estimated to be female headed. 
+Total damage considering replacement costs 
+for collapsed houses, repair costs of partially 
+damaged houses, costs to reclaim damaged 
+homestead land and purchase costs for necessary 
+household goods is valued at $7.9 million. Total 
+losses, which include the cost for salvaging and site 
+clearance, transitional shelters and rental income 
+loss are valued at $1.4 million. Hence, the total 
+cost of the disaster impact in the housing sector is 
+approximately valued at $9.4 million. 
+Recovery and reconstruction needs based on 
+the damage and loss include cost of replacing 
+collapsed houses with the new ones, and repairing 
+and retrofitting the partially damaged houses. The 
+cost of socio-technical facilitation of owner-driven 
+reconstruction processes is also included in the 
+total needs. The total needs are estimated at $27.0 
+million. The reconstruction and recovery needs are 
+much higher compared to the total damage and 
+loss. This is so because houses most damaged were 
+largely aqal type made of vegetation and plastic 
+sheets only, which are much cheaper compared 
+to houses built with more durable materials and 
+hazard-resilient features that are considered 
+acceptable for reconstruction and recovery. 
+The owner-driven recovery and reconstruction 
+is proposed to include risk-sensitive settlement 
+planning and resettlement only if necessary, 
+security of tenure of homestead plots, use of 
+appropriate technology options that are hazard-
+resilient and environmentally friendly with a 
+low carbon and water footprint, and use locally 
+available materials and skills. Active collaboration 
+of the government, UN agencies and other 
+international and national organizations, along with 
+active participation from the homeowners will be 
+the key modality for recovery and reconstruction 
+Social Sectors
+Housing
+=== PAGE 27 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+21
+8. SECTOR SUMMARY
+The 2023 Deyr floods caused extensive damage to 
+the country’s education sector, severely disrupting 
+the schooling of approximately 905,000 children. 
+Over 127 schools were directly affected, with 
+significant infrastructure destruction including 
+classrooms, administrative blocks and sanitation 
+facilities. Districts such as Beletweyn and Bidoa 
+experienced some of the most severe impacts, 
+with numerous schools completely or partially 
+destroyed. The loss extended beyond physical 
+structures to include essential classroom 
+materials, furniture and textbooks, further 
+complicating the educational disruption.
+The economic repercussions of the floods are 
+profound, with the total cost of damages to the 
+education sector estimated at $18.9 million and 
+losses estimated at $2.1 million. This financial 
+burden exacerbates existing challenges in 
+the sector, which already struggles with low 
+enrolment rates and inadequate infrastructure. 
+The damage assessment revealed that 63 schools 
+were fully destroyed, 36 were partially damaged, 
+and 19 suffered minor damage, underscoring the 
+widespread and severe impact on educational 
+services. Additionally, many internally displaced 
+children faced the greatest educational challenges, 
+losing most of their possessions and access to 
+schooling, further hindering their educational 
+progress.
+In response to the extensive damage, the report 
+outlines immediate, medium-term and long-term 
+of the housing. There is a need to establish 
+implementation arrangements for effective 
+processes, capacity building of masons and 
+engineers, and socio-technical facilitation of an 
+owner-driven process to ensure that all households, 
+particularly the vulnerable, are able to rebuild, 
+repair and retrofit as per requirements for hazard 
+resilient building. It is proposed that short-term 
+activities such as material salvaging, land recovery, 
+transitional shelters and settlement planning for 
+durable housing, as well as the reconstruction of 
+20 percent of the damaged houses will be done 
+in the short-term duration of up to 12 months. 
+In the medium term of 36 months, another 60 
+percent of houses will be reconstructed, repaired 
+and retrofitted. All remaining reconstruction and 
+recovery for long-term durable housing along 
+with repairs and retrofitting through settlement 
+planning and secured tenure will take up to 60 
+months to be fully completed.
+recovery strategies. The total cost of the recovery 
+needs to the education sector from the floods 
+is profound and is estimated at $23.1 million. 
+Short-term recovery focuses on the establishment 
+of Temporary Learning Spaces (TLS) to ensure 
+the continuation of education and address the 
+psychosocial impacts on students and teachers. 
+Long-term strategies emphasize the construction of 
+disaster-resilient educational facilities to withstand 
+future natural disasters. Additionally, integrating 
+disaster preparedness into the educational 
+curriculum is considered crucial to mitigate future 
+risks. The report also recommends the development 
+of a centralized Education in Emergencies database 
+to improve data management and support to allow 
+for more effective decision-making during crises. 
+These comprehensive recovery strategies aim to 
+restore educational services and build resilience to 
+better handle future challenges.
+Education
+© UNDP Climate
+=== PAGE 28 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+22
+Due to the Deyr 2023 floods, Somalia’s farming and 
+livestock sectors suffered significant damage. The 
+total estimated damage and loss amount to $57 
+million, with damage accounting for $39 million 
+and total loss reaching $18 million. Impacted 
+areas included irrigation infrastructure, grasslands/
+pastures, livestock and crop areas. Approximately 
+68,000 households were affected. Crop production 
+loss reached 12,800 metric tons, primarily affecting 
+maize, sorghum, sesame and bananas. Milk 
+production loss exceeded one million litres.
+The total recovery needs amount to $60 million. 
+Of this, the farming sector recovery requires $48.2 
+million, while the livestock sector needs $11.8 
+million. The recovery strategy involves collaboration 
+with key national ministries, departments and 
+international organizations, including FAO, WFP, WB 
+and EU. Prioritized interventions address severity 
+of damages and losses. Immediate actions in the 
+crop sector focus on preparing for the next Deyr 
+season by scaling up distribution of agricultural 
+inputs and rehabilitating irrigation and flood 
+risk management infrastructure. In the livestock 
+The 2023 Deyr floods caused significant damage 
+and losses to Water and Sanitation infrastructure 
+in Somalia. The total amount of damage and loss 
+was $32.7 million. This included $16.4 million in 
+damage and $16.3 million in losses. The assessment 
+considered fully damaged, partially damaged, and 
+minimally damaged water supply and sanitation 
+facilities. The water supply infrastructure recorded 
+a total of 1,211 facilities slightly damaged. Specific 
+infrastructure affected includes boreholes, hand 
+pumps, berkets, water kiosks and 19,234 latrines.
+In terms of the recovery needs and strategy, 
+the estimated recovery costs for the water and 
+sanitation sector amount to $24.7 million. 
+Recovery efforts will focus on repairing and 
+rehabilitating the damaged water reservoirs, dams, 
+sanitation systems, water schemes and the water 
+supply networks. Additional expenses will cover 
+water disposal, waste management, awareness 
+campaigns and emergency water supply to affected 
+regions. Efforts to restore the water and sanitation 
+infrastructure are crucial for public health, hygiene 
+and overall community well-being especially for 
+the most vulnerable and repeatedly displaced 
+populations due to recurring shocks.
+sector, short-term needs include restocking lost 
+livestock and providing animal feed. Medium to 
+long-term goals involve climate resilience for crop 
+and livestock production systems, improving 
+traditional breeds, and enhancing market access. 
+Collaborative efforts with local and international 
+partners aim to rebuild Somalia’s agriculture 
+sector, ensuring sustainable livelihoods and 
+contributing to overall economic recovery 
+and development.
+Productive Sector
+Infrastructure Sectors
+Farming and Livestock
+Water and Sanitation
+© UNDP Climate
+8. SECTOR SUMMARY
+=== PAGE 29 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT 23
+Through years of instability and repeated shocks 
+experienced by Somalia, the energy sector has 
+been unable to meet latent demand and provide 
+stable and affordable access for the population. This 
+has negatively contributed to social indicators and 
+hindered economic growth. The 2023 Deyr floods, 
+similar to previous disasters, only further reinforced 
+this phenomenon. The total damages to the energy 
+sector amounted to $9.3 million. Notably, this 
+figure excludes data from the four districts within 
+Banadir due to lack of information provided by 
+the concerned Energy Service Providers (ESPs). 
+Most damages occurred in energy generation and 
+transmission infrastructure. The total losses for the 
+sector amount to $2.0 million. The total disaster 
+effects to the sector was $11.3 million. 
+Efforts toward sustainable energy are vital for 
+resilience, development and equitable access. To see 
+these achieved, the sector has identified recovery 
+needs and a strategy.  The total needs for the sector 
+amount to $14.1 million. This includes 15 percent 
+above the cost of damages for reconstruction based 
+on Building Back Better principles. The strategy 
+posits key priorities, which in the short-term includes 
+detailed damage assessment and restoration 
+The floods of 2023 affected critical transport 
+infrastructures, roads and bridges. These 
+were damaged, washed away and/or rendered 
+impassable by floodwaters, isolating communities 
+and hindering the delivery of humanitarian 
+aid. The assessment undertaken in 16 districts 
+indicated the value of the total damage to the 
+of basic services estimated at $5.67 million. The 
+Medium-term priorities are an evidence-based risk 
+assessment, completion of basic service restoration, 
+and capacity building and piloting of renewable 
+energy projects estimated at $7.36 million. The 
+long-term vision is for continued capacity building 
+and monitoring of piloted projects costing $1.03 
+million, with the aim of establishing a resilient and 
+sustainable energy sector accessible to all Somalis.
+transport sector was around $29.7 million. The 
+assessment took into account fully, severely and 
+moderately damaged transport infrastructures. 
+It is reported that a total of 15 bridges and more 
+than 48 kilometres of roads were damaged by 
+the floods. 
+The total recovery and reconstruction needs for 
+the transport sector, using the principle of building 
+back better, is estimated at $37.4 million, of which 
+the majority (55 percent) is needed for the recovery 
+and reconstruction of bridges. The recovery 
+strategies and specific short-, medium- and long-
+term goals are summarized in the report. These 
+include recovery efforts to reconstruct washed 
+away bridges, and to repair and rehabilitate roads 
+and drainage structures. The recovery effort will 
+have to include measures to ensure there is capacity 
+that can proactively engage at national and Federal 
+State level to minimize the effects of flooding.
+Energy
+Transport 
+© UNDP Climate
+© UNDP Climate
+8. SECTOR SUMMARY
+=== PAGE 30 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+24
+Somalia faces a deepening humanitarian crisis due 
+to severe floods of 2023 that affected over half of the 
+country’s districts, compounded by the preceding 
+longest and most severe drought in over 40 years. 
+The country’s economic fragility, exacerbated 
+by repeated shocks, has heightened the risk of 
+poverty for many households. Recent floods 
+displaced around 500,000 people, affecting 1.85 
+million individuals (309,000 households) across 
+the 16 assessed districts in Jubaland, Southwest, 
+Hirshabelle and Puntland. Disproportionate 
+damages occurred in the southern and central 
+regions, where poverty rates are highest. 
+Mean poverty rates in flood-affected districts 
+reached 60 percent, with extreme poverty at 
+21 percent, surpassing national averages. Food 
+insecurity affects 21 percent of the population, 
+with 28 percent of children under five experiencing 
+stunting.
+Efforts to address these challenges require 
+targeted social protection measures, sustainable 
+livelihoods, and gender-inclusive strategies. Short-
+term needs for extremely vulnerable households 
+amount to $17 million across 13 flood-affected 
+districts. The strategy for recovery should prioritize 
+protecting the most vulnerable not covered by 
+existing programmes. Baxnaano operates in three 
+districts through its regular safety net window, 
+historically covering approximately 23 percent of 
+the population. Medium-term measures include 
+protecting extremely vulnerable households in 
+all 16 flood-affected districts, which will require 
+an estimated $1.56 million per annum is needed. 
+Baxnaano’s regular window, providing $20 per 
+household per month, can extend coverage to 10 
+percent of the poorest households for 12 months. 
+Agriculture, with 13 percent of the national labour 
+force, plays a critical role, especially in flood-
+affected areas. Livestock ownership has declined 
+due to multiple shocks. Overall labour force 
+participation remains low, with significant gender 
+disparities and an overall unemployment rate of 
+21.4 percent.
+Cross-Cutting Sectors
+Social Protection, Employment and Livelihoods
+8. SECTOR SUMMARY
+© UNDP Climate
+=== PAGE 31 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT 25
+The 2023 Deyr floods in Somalia exposed critical 
+gaps in the country’s disaster preparedness 
+and response systems. These floods intensified 
+vulnerabilities in affected districts, impacting 
+already highly vulnerable communities. Disaster risk 
+reduction (DRR) authorities at federal and state levels 
+struggled to coordinate preparedness, response 
+and recovery efforts. Prolonged displacements 
+due to recurring flood, drought, conflict and 
+underdevelopment eroded community resilience. 
+Displaced communities living at subsistence 
+levels heavily relied on international humanitarian 
+assistance for basic needs. The recent floods caused 
+a combined total damage and loss in the DRR sector 
+estimated at $2.5 million. Damage costing at $0.23 
+million affected government buildings, warehouses, 
+early warning equipment and observation stations. 
+All damage was in the public sector; there is no 
+data on private sector DRR assets. Losses of about 
+$2.3 million included additional government 
+unprogrammed/unbudgeted expenditures 
+used for emergency response logistics, such as 
+warehousing, distribution, diversion of regular 
+Disaster Risk Reduction
+8. SECTOR SUMMARY
+The fact that the capacity of the federal 
+government of Somalia’s emergency 
+preparedness and response is not well 
+developed contributed to the impact of the 
+2023 Deyr floods disaster to the people, 
+microeconomy and infrastructure. There 
+is an EP&R assessment done by hired 
+consultant by the WB in coordination with 
+OPM. The assessment identifies the need 
+to invest 76 Million U$S in Somalia EP&S 
+system to perform better to the recurrent 
+crises in Somalia.
+budgets to flood response, and foregone staff time 
+due to flood emergency deployment. 
+Inadequate DRR infrastructure, assets and systems 
+contributed to massive displacements, housing 
+damage and loss of life.
+© IPSOS
+=== PAGE 32 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+26
+8. SECTOR SUMMARY
+These are attributable to the gaps and challenges 
+in Somalia’s Emergency Preparedness and 
+Response (EP&R) System, which lacks coherence 
+and harmonization, and the system is heavily 
+fragmented with several governmental (federal 
+and state level) and non-governmental actors 
+undertaking part of the responsibilities with various 
+systems in different parts of the country.
+The focus on response rather than on preparedness 
+and prevention further compounds the challenges. 
+With recurrent hazards and risks, the need for 
+preparatory actions and investments in terms of 
+DRR, mitigation and response preparedness is high. 
+Without considerable investments in the first part 
+of the EP&R, it cannot be expected that the system 
+will be effective and cost-efficient in the future.24 
+The 2023 Deyr floods came at a time when the 
+DRR systems and capacities of the country were 
+in a stage of inadequacy and weakness. Given this 
+backdrop, efforts towards recovery are very much 
+anchored in investments to strengthening the EP&R 
+capacities of the country. Hence, the Deyr floods 
+recovery needs are estimated at $8.6 million and 
+are focusing on DRR infrastructure reconstruction 
+and repair; enhancement of DRR service delivery 
+capacities;  strengthening of DRR institutions, legal 
+frameworks and policy governance; reduction of 
+risks and vulnerabilities; and building of community 
+resilience. Investing in DRR capacities, systems and 
+infrastructure is crucial for Somalia’s resilience and 
+ability to cope with future shocks. The strategies will 
+require $2.0 million for short-term needs (up to 1 
+year), $3.7 million for medium-term implementation 
+(up to 3 years), and $2.9 million for long-term 
+activities (up to 5 years).
+© UNDP Climate
+24	 SoDMA (2022). Emergency Preparedness and Response Capacity Assessment Report.
+=== PAGE 33 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+27
+Somalia confronts significant environmental 
+hurdles exacerbated by its susceptibility to 
+climate change. Despite minimal greenhouse gas 
+emissions, Somalia ranks as the world’s second 
+most climate-vulnerable nation. Recurrent 
+droughts, floods and human-induced conflicts 
+intensify the impact of climate change. Rising 
+temperatures, increased flood risks and severe 
+famines disrupt livelihoods and cause internal 
+displacement. Deforestation driven by charcoal 
+production worsens environmental degradation. 
+Challenges to sustainable development arise from 
+this unsustainable exploitation of natural resources. 
+The 2023 floods intensified environmental issues, 
+including tree cover destruction and income loss 
+from charcoal production. Total effects on the 
+environment sector amounted to $12.5 million 
+comprised of damage to forestry at $5.2 million 
+and total loss of $7.4 million.
+Recovery needs for damaged natural assets, 
+especially tree cover, reach $18.7 million. 
+Recovery prioritizes restoring damaged natural 
+assets, particularly tree cover, and encompass 
+short-, medium- and long-term actions such 
+as tree replantation, diversification of forest 
+ecosystem services, strengthening environmental 
+governance mechanisms and building climate 
+resilience. Collaboration among government 
+agencies, local communities and international 
+partners is essential for successful implementation 
+of these strategies.
+Environment
+8. SECTOR SUMMARY
+© UNDP Climate
+=== PAGE 34 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT
+28
+© UNDP Climate
+=== PAGE 35 ===
+DEYR FLOODS SOMALIA 2023 | RAPID POST-DISASTER NEEDS ASSESSMENT 29
+=== PAGE 36 ===
+Federal Government
+of Somalia

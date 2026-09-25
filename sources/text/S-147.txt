@@ -1,0 +1,1568 @@
+=== PAGE 1 ===
+# Kenya 2019 SAM: every non-empty cell of the matrix, one line per cell, reshaped from the stored CSV. Units: billions of Kenyan shillings.
+# Payments run from the column account to the row account (for an activity column: purchases of commodities, factor payments, taxes; the Total row is gross output).
+# Format: SAM | row account (code) | column account (code) | value
+Kenya 2019 SAM | Activities - Maize (amaiz) | Commodities - Maize (cmaiz) | 632
+Kenya 2019 SAM | Activities - Maize (amaiz) | Households - Rural (quintile 1) (hhd-r1) | 10
+Kenya 2019 SAM | Activities - Maize (amaiz) | Households - Rural (quintile 2) (hhd-r2) | 16
+Kenya 2019 SAM | Activities - Maize (amaiz) | Households - Rural (quintile 3) (hhd-r3) | 19
+Kenya 2019 SAM | Activities - Maize (amaiz) | Households - Rural (quintile 4) (hhd-r4) | 18
+Kenya 2019 SAM | Activities - Maize (amaiz) | Households - Rural (quintile 5) (hhd-r5) | 10
+Kenya 2019 SAM | Activities - Maize (amaiz) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Activities - Maize (amaiz) | Households - Urban (quintile 2) (hhd-u2) | 2
+Kenya 2019 SAM | Activities - Maize (amaiz) | Households - Urban (quintile 3) (hhd-u3) | 3
+Kenya 2019 SAM | Activities - Maize (amaiz) | Households - Urban (quintile 4) (hhd-u4) | 3
+Kenya 2019 SAM | Activities - Maize (amaiz) | Households - Urban (quintile 5) (hhd-u5) | 4
+Kenya 2019 SAM | Activities - Maize (amaiz) | Total (total) | 718
+Kenya 2019 SAM | Activities - Rice (arice) | Commodities - Rice (crice) | 37
+Kenya 2019 SAM | Activities - Rice (arice) | Total (total) | 37
+Kenya 2019 SAM | Activities - Other cereals (aocer) | Commodities - Other cereals (cocer) | 173
+Kenya 2019 SAM | Activities - Other cereals (aocer) | Households - Rural (quintile 1) (hhd-r1) | 2
+Kenya 2019 SAM | Activities - Other cereals (aocer) | Households - Rural (quintile 2) (hhd-r2) | 4
+Kenya 2019 SAM | Activities - Other cereals (aocer) | Households - Rural (quintile 3) (hhd-r3) | 2
+Kenya 2019 SAM | Activities - Other cereals (aocer) | Households - Rural (quintile 4) (hhd-r4) | 3
+Kenya 2019 SAM | Activities - Other cereals (aocer) | Households - Rural (quintile 5) (hhd-r5) | 2
+Kenya 2019 SAM | Activities - Other cereals (aocer) | Households - Urban (quintile 5) (hhd-u5) | 4
+Kenya 2019 SAM | Activities - Other cereals (aocer) | Total (total) | 190
+Kenya 2019 SAM | Activities - Pulses (apuls) | Commodities - Pulses (cpuls) | 430
+Kenya 2019 SAM | Activities - Pulses (apuls) | Households - Rural (quintile 1) (hhd-r1) | 17
+Kenya 2019 SAM | Activities - Pulses (apuls) | Households - Rural (quintile 2) (hhd-r2) | 29
+Kenya 2019 SAM | Activities - Pulses (apuls) | Households - Rural (quintile 3) (hhd-r3) | 37
+Kenya 2019 SAM | Activities - Pulses (apuls) | Households - Rural (quintile 4) (hhd-r4) | 36
+Kenya 2019 SAM | Activities - Pulses (apuls) | Households - Rural (quintile 5) (hhd-r5) | 20
+Kenya 2019 SAM | Activities - Pulses (apuls) | Households - Urban (quintile 1) (hhd-u1) | 2
+Kenya 2019 SAM | Activities - Pulses (apuls) | Households - Urban (quintile 2) (hhd-u2) | 3
+Kenya 2019 SAM | Activities - Pulses (apuls) | Households - Urban (quintile 3) (hhd-u3) | 5
+Kenya 2019 SAM | Activities - Pulses (apuls) | Households - Urban (quintile 4) (hhd-u4) | 5
+Kenya 2019 SAM | Activities - Pulses (apuls) | Households - Urban (quintile 5) (hhd-u5) | 6
+Kenya 2019 SAM | Activities - Pulses (apuls) | Total (total) | 589
+Kenya 2019 SAM | Activities - Oilseeds (aoils) | Commodities - Oilseeds (coils) | 52
+Kenya 2019 SAM | Activities - Oilseeds (aoils) | Households - Rural (quintile 2) (hhd-r2) | 1
+Kenya 2019 SAM | Activities - Oilseeds (aoils) | Households - Rural (quintile 3) (hhd-r3) | 1
+Kenya 2019 SAM | Activities - Oilseeds (aoils) | Households - Rural (quintile 4) (hhd-r4) | 2
+Kenya 2019 SAM | Activities - Oilseeds (aoils) | Households - Rural (quintile 5) (hhd-r5) | 1
+Kenya 2019 SAM | Activities - Oilseeds (aoils) | Total (total) | 57
+Kenya 2019 SAM | Activities - Roots (aroot) | Commodities - Roots (croot) | 215
+Kenya 2019 SAM | Activities - Roots (aroot) | Households - Rural (quintile 1) (hhd-r1) | 6
+Kenya 2019 SAM | Activities - Roots (aroot) | Households - Rural (quintile 2) (hhd-r2) | 8
+Kenya 2019 SAM | Activities - Roots (aroot) | Households - Rural (quintile 3) (hhd-r3) | 12
+Kenya 2019 SAM | Activities - Roots (aroot) | Households - Rural (quintile 4) (hhd-r4) | 11
+Kenya 2019 SAM | Activities - Roots (aroot) | Households - Rural (quintile 5) (hhd-r5) | 7
+Kenya 2019 SAM | Activities - Roots (aroot) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Activities - Roots (aroot) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Activities - Roots (aroot) | Households - Urban (quintile 4) (hhd-u4) | 2
+Kenya 2019 SAM | Activities - Roots (aroot) | Households - Urban (quintile 5) (hhd-u5) | 2
+Kenya 2019 SAM | Activities - Roots (aroot) | Total (total) | 264
+Kenya 2019 SAM | Activities - Vegetables (avege) | Commodities - Vegetables (cvege) | 470
+Kenya 2019 SAM | Activities - Vegetables (avege) | Households - Rural (quintile 1) (hhd-r1) | 12
+Kenya 2019 SAM | Activities - Vegetables (avege) | Households - Rural (quintile 2) (hhd-r2) | 18
+Kenya 2019 SAM | Activities - Vegetables (avege) | Households - Rural (quintile 3) (hhd-r3) | 21
+Kenya 2019 SAM | Activities - Vegetables (avege) | Households - Rural (quintile 4) (hhd-r4) | 19
+Kenya 2019 SAM | Activities - Vegetables (avege) | Households - Rural (quintile 5) (hhd-r5) | 12
+Kenya 2019 SAM | Activities - Vegetables (avege) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Activities - Vegetables (avege) | Households - Urban (quintile 2) (hhd-u2) | 2
+Kenya 2019 SAM | Activities - Vegetables (avege) | Households - Urban (quintile 3) (hhd-u3) | 3
+Kenya 2019 SAM | Activities - Vegetables (avege) | Households - Urban (quintile 4) (hhd-u4) | 3
+Kenya 2019 SAM | Activities - Vegetables (avege) | Households - Urban (quintile 5) (hhd-u5) | 6
+Kenya 2019 SAM | Activities - Vegetables (avege) | Total (total) | 568
+Kenya 2019 SAM | Activities - Sugarcane (asugr) | Commodities - Sugarcane (csugr) | 73
+Kenya 2019 SAM | Activities - Sugarcane (asugr) | Households - Rural (quintile 1) (hhd-r1) | 2
+Kenya 2019 SAM | Activities - Sugarcane (asugr) | Households - Rural (quintile 2) (hhd-r2) | 3
+Kenya 2019 SAM | Activities - Sugarcane (asugr) | Households - Rural (quintile 3) (hhd-r3) | 4
+Kenya 2019 SAM | Activities - Sugarcane (asugr) | Households - Rural (quintile 4) (hhd-r4) | 3
+Kenya 2019 SAM | Activities - Sugarcane (asugr) | Households - Rural (quintile 5) (hhd-r5) | 2
+Kenya 2019 SAM | Activities - Sugarcane (asugr) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Activities - Sugarcane (asugr) | Households - Urban (quintile 5) (hhd-u5) | 1
+Kenya 2019 SAM | Activities - Sugarcane (asugr) | Total (total) | 89
+Kenya 2019 SAM | Activities - Tobacco (atoba) | Commodities - Tobacco (ctoba) | 9
+Kenya 2019 SAM | Activities - Tobacco (atoba) | Total (total) | 10
+Kenya 2019 SAM | Activities - Cotton and fibres (acott) | Commodities - Cotton and fibres (ccott) | 23
+Kenya 2019 SAM | Activities - Cotton and fibres (acott) | Total (total) | 23
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Commodities - Fruits and nuts (cfrui) | 362
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Households - Rural (quintile 1) (hhd-r1) | 7
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Households - Rural (quintile 2) (hhd-r2) | 16
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Households - Rural (quintile 3) (hhd-r3) | 24
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Households - Rural (quintile 4) (hhd-r4) | 23
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Households - Rural (quintile 5) (hhd-r5) | 16
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Households - Urban (quintile 2) (hhd-u2) | 2
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Households - Urban (quintile 3) (hhd-u3) | 3
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Households - Urban (quintile 4) (hhd-u4) | 4
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Households - Urban (quintile 5) (hhd-u5) | 6
+Kenya 2019 SAM | Activities - Fruits and nuts (afrui) | Total (total) | 462
+Kenya 2019 SAM | Activities - Coffee, tea and cocoa (acoff) | Commodities - Coffee, tea and cocoa (ccoff) | 250
+Kenya 2019 SAM | Activities - Coffee, tea and cocoa (acoff) | Total (total) | 250
+Kenya 2019 SAM | Activities - Other crops (aocrp) | Commodities - Other crops (cocrp) | 99
+Kenya 2019 SAM | Activities - Other crops (aocrp) | Total (total) | 99
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Commodities - Cattle and raw milk (ccatt) | 726
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Households - Rural (quintile 1) (hhd-r1) | 10
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Households - Rural (quintile 2) (hhd-r2) | 12
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Households - Rural (quintile 3) (hhd-r3) | 14
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Households - Rural (quintile 4) (hhd-r4) | 15
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Households - Rural (quintile 5) (hhd-r5) | 11
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Households - Urban (quintile 3) (hhd-u3) | 2
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Households - Urban (quintile 4) (hhd-u4) | 2
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Households - Urban (quintile 5) (hhd-u5) | 3
+Kenya 2019 SAM | Activities - Cattle and raw milk (acatt) | Total (total) | 796
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Commodities - Poultry and eggs (cpoul) | 105
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Households - Rural (quintile 1) (hhd-r1) | 2
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Households - Rural (quintile 2) (hhd-r2) | 5
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Households - Rural (quintile 3) (hhd-r3) | 9
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Households - Rural (quintile 4) (hhd-r4) | 12
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Households - Rural (quintile 5) (hhd-r5) | 9
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Households - Urban (quintile 4) (hhd-u4) | 2
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Households - Urban (quintile 5) (hhd-u5) | 4
+Kenya 2019 SAM | Activities - Poultry and eggs (apoul) | Total (total) | 150
+Kenya 2019 SAM | Activities - Other livestock (aoliv) | Commodities - Other livestock (coliv) | 200
+Kenya 2019 SAM | Activities - Other livestock (aoliv) | Households - Rural (quintile 2) (hhd-r2) | 1
+Kenya 2019 SAM | Activities - Other livestock (aoliv) | Households - Rural (quintile 3) (hhd-r3) | 1
+Kenya 2019 SAM | Activities - Other livestock (aoliv) | Households - Rural (quintile 4) (hhd-r4) | 3
+Kenya 2019 SAM | Activities - Other livestock (aoliv) | Households - Rural (quintile 5) (hhd-r5) | 6
+Kenya 2019 SAM | Activities - Other livestock (aoliv) | Households - Urban (quintile 5) (hhd-u5) | 2
+Kenya 2019 SAM | Activities - Other livestock (aoliv) | Total (total) | 213
+Kenya 2019 SAM | Activities - Forestry (afore) | Commodities - Forestry (cfore) | 148
+Kenya 2019 SAM | Activities - Forestry (afore) | Total (total) | 148
+Kenya 2019 SAM | Activities - Fisheries (afish) | Commodities - Fisheries (cfish) | 105
+Kenya 2019 SAM | Activities - Fisheries (afish) | Total (total) | 107
+Kenya 2019 SAM | Activities - Mining (amine) | Commodities - Mining (cmine) | 118
+Kenya 2019 SAM | Activities - Mining (amine) | Total (total) | 118
+Kenya 2019 SAM | Activities - Processed foods (afood) | Commodities - Processed foods (cfood) | 1292
+Kenya 2019 SAM | Activities - Processed foods (afood) | Total (total) | 1292
+Kenya 2019 SAM | Activities - Beverage and tobacco (abeve) | Commodities - Beverage and tobacco (cbeve) | 286
+Kenya 2019 SAM | Activities - Beverage and tobacco (abeve) | Total (total) | 286
+Kenya 2019 SAM | Activities - Textiles, clothing and footwear (atext) | Commodities - Textiles, clothing and footwear (ctext) | 263
+Kenya 2019 SAM | Activities - Textiles, clothing and footwear (atext) | Total (total) | 263
+Kenya 2019 SAM | Activities - Wood and paper products (awood) | Commodities - Wood and paper products (cwood) | 127
+Kenya 2019 SAM | Activities - Wood and paper products (awood) | Total (total) | 127
+Kenya 2019 SAM | Activities - Chemicals and petroleum (achem) | Commodities - Chemicals and petroleum (cchem) | 227
+Kenya 2019 SAM | Activities - Chemicals and petroleum (achem) | Total (total) | 227
+Kenya 2019 SAM | Activities - Non-metal minerals (anmet) | Commodities - Non-metal minerals (cnmet) | 106
+Kenya 2019 SAM | Activities - Non-metal minerals (anmet) | Total (total) | 106
+Kenya 2019 SAM | Activities - Metals and metal products (ametl) | Commodities - Metals and metal products (cmetl) | 187
+Kenya 2019 SAM | Activities - Metals and metal products (ametl) | Total (total) | 187
+Kenya 2019 SAM | Activities - Machinery, equipment and vehicles (amach) | Commodities - Machinery, equipment and vehicles (cmach) | 97
+Kenya 2019 SAM | Activities - Machinery, equipment and vehicles (amach) | Total (total) | 97
+Kenya 2019 SAM | Activities - Other manufacturing (aoman) | Commodities - Other manufacturing (coman) | 331
+Kenya 2019 SAM | Activities - Other manufacturing (aoman) | Total (total) | 331
+Kenya 2019 SAM | Activities - Electricity, gas and steam (aelec) | Commodities - Electricity, gas and steam (celec) | 239
+Kenya 2019 SAM | Activities - Electricity, gas and steam (aelec) | Total (total) | 239
+Kenya 2019 SAM | Activities - Water supply and sewage (awatr) | Commodities - Water supply and sewage (cwatr) | 59
+Kenya 2019 SAM | Activities - Water supply and sewage (awatr) | Total (total) | 59
+Kenya 2019 SAM | Activities - Construction (acons) | Commodities - Construction (ccons) | 1295
+Kenya 2019 SAM | Activities - Construction (acons) | Total (total) | 1295
+Kenya 2019 SAM | Activities - Wholesale and retail trade (atrad) | Commodities - Wholesale and retail trade (ctrad) | 1283
+Kenya 2019 SAM | Activities - Wholesale and retail trade (atrad) | Total (total) | 1283
+Kenya 2019 SAM | Activities - Transportation and storage (atran) | Commodities - Transportation and storage (ctran) | 1368
+Kenya 2019 SAM | Activities - Transportation and storage (atran) | Total (total) | 1368
+Kenya 2019 SAM | Activities - Accommodation and food services (ahotl) | Commodities - Accommodation and food services (chotl) | 352
+Kenya 2019 SAM | Activities - Accommodation and food services (ahotl) | Total (total) | 352
+Kenya 2019 SAM | Activities - Information and communication (acomm) | Commodities - Information and communication (ccomm) | 181
+Kenya 2019 SAM | Activities - Information and communication (acomm) | Total (total) | 181
+Kenya 2019 SAM | Activities - Finance and insurance (afsrv) | Commodities - Finance and insurance (cfsrv) | 470
+Kenya 2019 SAM | Activities - Finance and insurance (afsrv) | Total (total) | 470
+Kenya 2019 SAM | Activities - Real estate activities (areal) | Commodities - Real estate activities (creal) | 768
+Kenya 2019 SAM | Activities - Real estate activities (areal) | Total (total) | 768
+Kenya 2019 SAM | Activities - Business services (absrv) | Commodities - Business services (cbsrv) | 453
+Kenya 2019 SAM | Activities - Business services (absrv) | Total (total) | 453
+Kenya 2019 SAM | Activities - Public administration (apadm) | Commodities - Public administration (cpadm) | 635
+Kenya 2019 SAM | Activities - Public administration (apadm) | Total (total) | 635
+Kenya 2019 SAM | Activities - Education (aeduc) | Commodities - Education (ceduc) | 743
+Kenya 2019 SAM | Activities - Education (aeduc) | Total (total) | 743
+Kenya 2019 SAM | Activities - Health and social work (aheal) | Commodities - Health and social work (cheal) | 270
+Kenya 2019 SAM | Activities - Health and social work (aheal) | Total (total) | 270
+Kenya 2019 SAM | Activities - Other services (aosrv) | Commodities - Other services (cosrv) | 177
+Kenya 2019 SAM | Activities - Other services (aosrv) | Total (total) | 177
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Activities - Maize (amaiz) | 15
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Activities - Cattle and raw milk (acatt) | 172
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Activities - Poultry and eggs (apoul) | 16
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Activities - Other livestock (aoliv) | 20
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Activities - Processed foods (afood) | 322
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Activities - Accommodation and food services (ahotl) | 1
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Households - Rural (quintile 1) (hhd-r1) | 35
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Households - Rural (quintile 2) (hhd-r2) | 31
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Households - Rural (quintile 3) (hhd-r3) | 23
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Households - Rural (quintile 4) (hhd-r4) | 23
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Households - Rural (quintile 5) (hhd-r5) | 16
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Households - Urban (quintile 1) (hhd-u1) | 3
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Households - Urban (quintile 2) (hhd-u2) | 6
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Households - Urban (quintile 3) (hhd-u3) | 6
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Households - Urban (quintile 4) (hhd-u4) | 10
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Households - Urban (quintile 5) (hhd-u5) | 26
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Rest of world (row) | 1
+Kenya 2019 SAM | Commodities - Maize (cmaiz) | Total (total) | 726
+Kenya 2019 SAM | Commodities - Rice (crice) | Activities - Rice (arice) | 2
+Kenya 2019 SAM | Commodities - Rice (crice) | Activities - Processed foods (afood) | 30
+Kenya 2019 SAM | Commodities - Rice (crice) | Activities - Accommodation and food services (ahotl) | 9
+Kenya 2019 SAM | Commodities - Rice (crice) | Activities - Public administration (apadm) | 1
+Kenya 2019 SAM | Commodities - Rice (crice) | Activities - Education (aeduc) | 1
+Kenya 2019 SAM | Commodities - Rice (crice) | Total (total) | 44
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Activities - Other cereals (aocer) | 6
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Activities - Poultry and eggs (apoul) | 10
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Activities - Processed foods (afood) | 129
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Activities - Beverage and tobacco (abeve) | 47
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Activities - Public administration (apadm) | 3
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Households - Rural (quintile 1) (hhd-r1) | 14
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Households - Rural (quintile 2) (hhd-r2) | 10
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Households - Rural (quintile 3) (hhd-r3) | 7
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Households - Rural (quintile 4) (hhd-r4) | 9
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Households - Rural (quintile 5) (hhd-r5) | 6
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Households - Urban (quintile 4) (hhd-u4) | 2
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Households - Urban (quintile 5) (hhd-u5) | 4
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Rest of world (row) | 3
+Kenya 2019 SAM | Commodities - Other cereals (cocer) | Total (total) | 254
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Activities - Pulses (apuls) | 64
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Activities - Processed foods (afood) | 1
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Activities - Accommodation and food services (ahotl) | 3
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Activities - Public administration (apadm) | 1
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Activities - Education (aeduc) | 5
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Activities - Health and social work (aheal) | 1
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Households - Rural (quintile 1) (hhd-r1) | 52
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Households - Rural (quintile 2) (hhd-r2) | 65
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Households - Rural (quintile 3) (hhd-r3) | 69
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Households - Rural (quintile 4) (hhd-r4) | 69
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Households - Rural (quintile 5) (hhd-r5) | 59
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Households - Urban (quintile 1) (hhd-u1) | 5
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Households - Urban (quintile 2) (hhd-u2) | 12
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Households - Urban (quintile 3) (hhd-u3) | 19
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Households - Urban (quintile 4) (hhd-u4) | 31
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Households - Urban (quintile 5) (hhd-u5) | 79
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Rest of world (row) | 4
+Kenya 2019 SAM | Commodities - Pulses (cpuls) | Total (total) | 539
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Activities - Oilseeds (aoils) | 4
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Activities - Processed foods (afood) | 19
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Activities - Chemicals and petroleum (achem) | 3
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Activities - Other manufacturing (aoman) | 1
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Activities - Accommodation and food services (ahotl) | 13
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Households - Rural (quintile 1) (hhd-r1) | 1
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Households - Rural (quintile 2) (hhd-r2) | 1
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Households - Rural (quintile 3) (hhd-r3) | 2
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Households - Rural (quintile 4) (hhd-r4) | 2
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Households - Rural (quintile 5) (hhd-r5) | 2
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Households - Urban (quintile 4) (hhd-u4) | 2
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Households - Urban (quintile 5) (hhd-u5) | 8
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Rest of world (row) | 1
+Kenya 2019 SAM | Commodities - Oilseeds (coils) | Total (total) | 62
+Kenya 2019 SAM | Commodities - Roots (croot) | Activities - Roots (aroot) | 40
+Kenya 2019 SAM | Commodities - Roots (croot) | Activities - Other livestock (aoliv) | 27
+Kenya 2019 SAM | Commodities - Roots (croot) | Activities - Accommodation and food services (ahotl) | 2
+Kenya 2019 SAM | Commodities - Roots (croot) | Households - Rural (quintile 1) (hhd-r1) | 10
+Kenya 2019 SAM | Commodities - Roots (croot) | Households - Rural (quintile 2) (hhd-r2) | 18
+Kenya 2019 SAM | Commodities - Roots (croot) | Households - Rural (quintile 3) (hhd-r3) | 23
+Kenya 2019 SAM | Commodities - Roots (croot) | Households - Rural (quintile 4) (hhd-r4) | 25
+Kenya 2019 SAM | Commodities - Roots (croot) | Households - Rural (quintile 5) (hhd-r5) | 22
+Kenya 2019 SAM | Commodities - Roots (croot) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Commodities - Roots (croot) | Households - Urban (quintile 2) (hhd-u2) | 4
+Kenya 2019 SAM | Commodities - Roots (croot) | Households - Urban (quintile 3) (hhd-u3) | 7
+Kenya 2019 SAM | Commodities - Roots (croot) | Households - Urban (quintile 4) (hhd-u4) | 16
+Kenya 2019 SAM | Commodities - Roots (croot) | Households - Urban (quintile 5) (hhd-u5) | 44
+Kenya 2019 SAM | Commodities - Roots (croot) | Total (total) | 239
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Activities - Vegetables (avege) | 107
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Activities - Other livestock (aoliv) | 4
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Activities - Processed foods (afood) | 3
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Activities - Accommodation and food services (ahotl) | 5
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Households - Rural (quintile 1) (hhd-r1) | 27
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Households - Rural (quintile 2) (hhd-r2) | 41
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Households - Rural (quintile 3) (hhd-r3) | 48
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Households - Rural (quintile 4) (hhd-r4) | 55
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Households - Rural (quintile 5) (hhd-r5) | 43
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Households - Urban (quintile 1) (hhd-u1) | 5
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Households - Urban (quintile 2) (hhd-u2) | 11
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Households - Urban (quintile 3) (hhd-u3) | 21
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Households - Urban (quintile 4) (hhd-u4) | 48
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Households - Urban (quintile 5) (hhd-u5) | 155
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Rest of world (row) | 17
+Kenya 2019 SAM | Commodities - Vegetables (cvege) | Total (total) | 590
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Activities - Sugarcane (asugr) | 4
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Activities - Processed foods (afood) | 48
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Households - Rural (quintile 1) (hhd-r1) | 4
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Households - Rural (quintile 2) (hhd-r2) | 8
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Households - Rural (quintile 3) (hhd-r3) | 8
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Households - Rural (quintile 4) (hhd-r4) | 6
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Households - Rural (quintile 5) (hhd-r5) | 4
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Households - Urban (quintile 4) (hhd-u4) | 2
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Households - Urban (quintile 5) (hhd-u5) | 7
+Kenya 2019 SAM | Commodities - Sugarcane (csugr) | Total (total) | 92
+Kenya 2019 SAM | Commodities - Tobacco (ctoba) | Activities - Tobacco (atoba) | 1
+Kenya 2019 SAM | Commodities - Tobacco (ctoba) | Activities - Beverage and tobacco (abeve) | 9
+Kenya 2019 SAM | Commodities - Tobacco (ctoba) | Households - Rural (quintile 3) (hhd-r3) | 1
+Kenya 2019 SAM | Commodities - Tobacco (ctoba) | Households - Rural (quintile 4) (hhd-r4) | 1
+Kenya 2019 SAM | Commodities - Tobacco (ctoba) | Households - Rural (quintile 5) (hhd-r5) | 1
+Kenya 2019 SAM | Commodities - Tobacco (ctoba) | Households - Urban (quintile 5) (hhd-u5) | 2
+Kenya 2019 SAM | Commodities - Tobacco (ctoba) | Rest of world (row) | 4
+Kenya 2019 SAM | Commodities - Tobacco (ctoba) | Total (total) | 19
+Kenya 2019 SAM | Commodities - Cotton and fibres (ccott) | Activities - Cotton and fibres (acott) | 3
+Kenya 2019 SAM | Commodities - Cotton and fibres (ccott) | Activities - Textiles, clothing and footwear (atext) | 27
+Kenya 2019 SAM | Commodities - Cotton and fibres (ccott) | Total (total) | 31
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Activities - Fruits and nuts (afrui) | 22
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Activities - Processed foods (afood) | 9
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Activities - Beverage and tobacco (abeve) | 2
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Activities - Accommodation and food services (ahotl) | 24
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Households - Rural (quintile 1) (hhd-r1) | 10
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Households - Rural (quintile 2) (hhd-r2) | 17
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Households - Rural (quintile 3) (hhd-r3) | 26
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Households - Rural (quintile 4) (hhd-r4) | 35
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Households - Rural (quintile 5) (hhd-r5) | 37
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Households - Urban (quintile 2) (hhd-u2) | 4
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Households - Urban (quintile 3) (hhd-u3) | 10
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Households - Urban (quintile 4) (hhd-u4) | 32
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Households - Urban (quintile 5) (hhd-u5) | 137
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Savings-investment (s-i) | 8
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Rest of world (row) | 33
+Kenya 2019 SAM | Commodities - Fruits and nuts (cfrui) | Total (total) | 407
+Kenya 2019 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Activities - Coffee, tea and cocoa (acoff) | 8
+Kenya 2019 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Activities - Processed foods (afood) | 37
+Kenya 2019 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Activities - Accommodation and food services (ahotl) | 3
+Kenya 2019 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Rural (quintile 5) (hhd-r5) | 1
+Kenya 2019 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Urban (quintile 5) (hhd-u5) | 5
+Kenya 2019 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Rest of world (row) | 259
+Kenya 2019 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Total (total) | 314
+Kenya 2019 SAM | Commodities - Other crops (cocrp) | Activities - Other crops (aocrp) | 7
+Kenya 2019 SAM | Commodities - Other crops (cocrp) | Activities - Processed foods (afood) | 6
+Kenya 2019 SAM | Commodities - Other crops (cocrp) | Activities - Chemicals and petroleum (achem) | 25
+Kenya 2019 SAM | Commodities - Other crops (cocrp) | Activities - Accommodation and food services (ahotl) | 2
+Kenya 2019 SAM | Commodities - Other crops (cocrp) | Rest of world (row) | 85
+Kenya 2019 SAM | Commodities - Other crops (cocrp) | Total (total) | 126
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Cattle and raw milk (acatt) | 138
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Processed foods (afood) | 110
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Textiles, clothing and footwear (atext) | 1
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Accommodation and food services (ahotl) | 18
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Public administration (apadm) | 5
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Education (aeduc) | 31
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Health and social work (aheal) | 2
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Rural (quintile 1) (hhd-r1) | 15
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Rural (quintile 2) (hhd-r2) | 28
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Rural (quintile 3) (hhd-r3) | 47
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Rural (quintile 4) (hhd-r4) | 57
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Rural (quintile 5) (hhd-r5) | 57
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Urban (quintile 1) (hhd-u1) | 2
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Urban (quintile 2) (hhd-u2) | 7
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Urban (quintile 3) (hhd-u3) | 19
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Urban (quintile 4) (hhd-u4) | 53
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Urban (quintile 5) (hhd-u5) | 200
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Savings-investment (s-i) | 15
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Change in stocks (dstk) | 29
+Kenya 2019 SAM | Commodities - Cattle and raw milk (ccatt) | Total (total) | 836
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Activities - Processed foods (afood) | 10
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Activities - Accommodation and food services (ahotl) | 8
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Activities - Public administration (apadm) | 3
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Activities - Education (aeduc) | 10
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Activities - Health and social work (aheal) | 1
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Households - Rural (quintile 1) (hhd-r1) | 2
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Households - Rural (quintile 2) (hhd-r2) | 3
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Households - Rural (quintile 3) (hhd-r3) | 6
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Households - Rural (quintile 4) (hhd-r4) | 11
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Households - Rural (quintile 5) (hhd-r5) | 12
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Households - Urban (quintile 3) (hhd-u3) | 2
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Households - Urban (quintile 4) (hhd-u4) | 9
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Households - Urban (quintile 5) (hhd-u5) | 51
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Change in stocks (dstk) | 1
+Kenya 2019 SAM | Commodities - Poultry and eggs (cpoul) | Total (total) | 129
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Activities - Vegetables (avege) | 4
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Activities - Fruits and nuts (afrui) | 1
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Activities - Coffee, tea and cocoa (acoff) | 2
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Activities - Other livestock (aoliv) | 93
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Activities - Processed foods (afood) | 37
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Activities - Textiles, clothing and footwear (atext) | 3
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Activities - Accommodation and food services (ahotl) | 2
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Households - Rural (quintile 1) (hhd-r1) | 4
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Households - Rural (quintile 2) (hhd-r2) | 6
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Households - Rural (quintile 3) (hhd-r3) | 9
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Households - Rural (quintile 4) (hhd-r4) | 13
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Households - Rural (quintile 5) (hhd-r5) | 18
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Households - Urban (quintile 3) (hhd-u3) | 4
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Households - Urban (quintile 4) (hhd-u4) | 6
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Households - Urban (quintile 5) (hhd-u5) | 26
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Change in stocks (dstk) | 4
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Rest of world (row) | 1
+Kenya 2019 SAM | Commodities - Other livestock (coliv) | Total (total) | 233
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Activities - Forestry (afore) | 2
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Activities - Fisheries (afish) | 5
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Activities - Textiles, clothing and footwear (atext) | 1
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Activities - Wood and paper products (awood) | 30
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Activities - Chemicals and petroleum (achem) | 21
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Activities - Non-metal minerals (anmet) | 1
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Activities - Machinery, equipment and vehicles (amach) | 1
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Activities - Other manufacturing (aoman) | 2
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Activities - Construction (acons) | 99
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Activities - Accommodation and food services (ahotl) | 9
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Households - Rural (quintile 1) (hhd-r1) | 1
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Households - Rural (quintile 2) (hhd-r2) | 2
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Households - Rural (quintile 3) (hhd-r3) | 3
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Households - Rural (quintile 4) (hhd-r4) | 3
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Households - Rural (quintile 5) (hhd-r5) | 2
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Households - Urban (quintile 4) (hhd-u4) | 2
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Households - Urban (quintile 5) (hhd-u5) | 3
+Kenya 2019 SAM | Commodities - Forestry (cfore) | Total (total) | 189
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Activities - Fisheries (afish) | 1
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Activities - Processed foods (afood) | 3
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Activities - Accommodation and food services (ahotl) | 7
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Activities - Public administration (apadm) | 1
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Activities - Education (aeduc) | 3
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Activities - Health and social work (aheal) | 1
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Households - Rural (quintile 1) (hhd-r1) | 5
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Households - Rural (quintile 2) (hhd-r2) | 8
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Households - Rural (quintile 3) (hhd-r3) | 12
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Households - Rural (quintile 4) (hhd-r4) | 13
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Households - Rural (quintile 5) (hhd-r5) | 10
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Households - Urban (quintile 2) (hhd-u2) | 2
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Households - Urban (quintile 3) (hhd-u3) | 6
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Households - Urban (quintile 4) (hhd-u4) | 14
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Households - Urban (quintile 5) (hhd-u5) | 36
+Kenya 2019 SAM | Commodities - Fisheries (cfish) | Total (total) | 126
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Fisheries (afish) | 1
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Mining (amine) | 1
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Processed foods (afood) | 12
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Beverage and tobacco (abeve) | 1
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Textiles, clothing and footwear (atext) | 2
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Wood and paper products (awood) | 1
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Chemicals and petroleum (achem) | 3
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Non-metal minerals (anmet) | 18
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Metals and metal products (ametl) | 14
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Machinery, equipment and vehicles (amach) | 10
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Other manufacturing (aoman) | 39
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Water supply and sewage (awatr) | 2
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Construction (acons) | 19
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Accommodation and food services (ahotl) | 2
+Kenya 2019 SAM | Commodities - Mining (cmine) | Activities - Education (aeduc) | 3
+Kenya 2019 SAM | Commodities - Mining (cmine) | Rest of world (row) | 29
+Kenya 2019 SAM | Commodities - Mining (cmine) | Total (total) | 155
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Activities - Cattle and raw milk (acatt) | 85
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Activities - Poultry and eggs (apoul) | 54
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Activities - Other livestock (aoliv) | 5
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Activities - Processed foods (afood) | 155
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Activities - Beverage and tobacco (abeve) | 14
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Activities - Chemicals and petroleum (achem) | 5
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Activities - Accommodation and food services (ahotl) | 28
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Activities - Public administration (apadm) | 19
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Activities - Education (aeduc) | 43
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Activities - Health and social work (aheal) | 23
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Households - Rural (quintile 1) (hhd-r1) | 124
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Households - Rural (quintile 2) (hhd-r2) | 155
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Households - Rural (quintile 3) (hhd-r3) | 175
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Households - Rural (quintile 4) (hhd-r4) | 180
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Households - Rural (quintile 5) (hhd-r5) | 135
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Households - Urban (quintile 1) (hhd-u1) | 15
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Households - Urban (quintile 2) (hhd-u2) | 31
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Households - Urban (quintile 3) (hhd-u3) | 55
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Households - Urban (quintile 4) (hhd-u4) | 103
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Households - Urban (quintile 5) (hhd-u5) | 458
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Rest of world (row) | 63
+Kenya 2019 SAM | Commodities - Processed foods (cfood) | Total (total) | 1925
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Processed foods (afood) | 2
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Beverage and tobacco (abeve) | 22
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Chemicals and petroleum (achem) | 2
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Transportation and storage (atran) | 1
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Accommodation and food services (ahotl) | 25
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Real estate activities (areal) | 1
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Business services (absrv) | 1
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Health and social work (aheal) | 1
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Rural (quintile 1) (hhd-r1) | 8
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Rural (quintile 2) (hhd-r2) | 14
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Rural (quintile 3) (hhd-r3) | 24
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Rural (quintile 4) (hhd-r4) | 32
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Rural (quintile 5) (hhd-r5) | 66
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Urban (quintile 2) (hhd-u2) | 2
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Urban (quintile 3) (hhd-u3) | 5
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Urban (quintile 4) (hhd-u4) | 17
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Urban (quintile 5) (hhd-u5) | 188
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Rest of world (row) | 15
+Kenya 2019 SAM | Commodities - Beverage and tobacco (cbeve) | Total (total) | 426
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Maize (amaiz) | 4
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Other cereals (aocer) | 4
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Pulses (apuls) | 3
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Vegetables (avege) | 3
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Fisheries (afish) | 13
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Processed foods (afood) | 19
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Textiles, clothing and footwear (atext) | 54
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Wood and paper products (awood) | 1
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Metals and metal products (ametl) | 1
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Other manufacturing (aoman) | 6
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Accommodation and food services (ahotl) | 3
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Information and communication (acomm) | 2
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Finance and insurance (afsrv) | 1
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Business services (absrv) | 4
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Public administration (apadm) | 2
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Health and social work (aheal) | 1
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Other services (aosrv) | 1
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Rural (quintile 1) (hhd-r1) | 9
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Rural (quintile 2) (hhd-r2) | 16
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Rural (quintile 3) (hhd-r3) | 27
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Rural (quintile 4) (hhd-r4) | 33
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Rural (quintile 5) (hhd-r5) | 35
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Urban (quintile 2) (hhd-u2) | 3
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Urban (quintile 3) (hhd-u3) | 8
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Urban (quintile 4) (hhd-u4) | 21
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Urban (quintile 5) (hhd-u5) | 119
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Rest of world (row) | 51
+Kenya 2019 SAM | Commodities - Textiles, clothing and footwear (ctext) | Total (total) | 447
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Pulses (apuls) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Beverage and tobacco (abeve) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Wood and paper products (awood) | 21
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Non-metal minerals (anmet) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Metals and metal products (ametl) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Machinery, equipment and vehicles (amach) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Other manufacturing (aoman) | 28
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Construction (acons) | 60
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Wholesale and retail trade (atrad) | 2
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Transportation and storage (atran) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Information and communication (acomm) | 2
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Finance and insurance (afsrv) | 3
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Business services (absrv) | 8
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Public administration (apadm) | 12
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Education (aeduc) | 22
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Health and social work (aheal) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Activities - Other services (aosrv) | 2
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Households - Rural (quintile 1) (hhd-r1) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Households - Rural (quintile 2) (hhd-r2) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Households - Rural (quintile 3) (hhd-r3) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Households - Rural (quintile 4) (hhd-r4) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Households - Rural (quintile 5) (hhd-r5) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Households - Urban (quintile 4) (hhd-u4) | 1
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Households - Urban (quintile 5) (hhd-u5) | 4
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Rest of world (row) | 20
+Kenya 2019 SAM | Commodities - Wood and paper products (cwood) | Total (total) | 199
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Maize (amaiz) | 23
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Other cereals (aocer) | 10
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Pulses (apuls) | 33
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Oilseeds (aoils) | 2
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Roots (aroot) | 18
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Vegetables (avege) | 77
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Sugarcane (asugr) | 4
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Tobacco (atoba) | 1
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Cotton and fibres (acott) | 1
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Fruits and nuts (afrui) | 15
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Coffee, tea and cocoa (acoff) | 50
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Other crops (aocrp) | 6
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Cattle and raw milk (acatt) | 54
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Poultry and eggs (apoul) | 3
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Other livestock (aoliv) | 6
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Forestry (afore) | 1
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Fisheries (afish) | 12
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Mining (amine) | 19
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Processed foods (afood) | 41
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Beverage and tobacco (abeve) | 43
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Textiles, clothing and footwear (atext) | 36
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Wood and paper products (awood) | 15
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Chemicals and petroleum (achem) | 16
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Non-metal minerals (anmet) | 10
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Metals and metal products (ametl) | 4
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Machinery, equipment and vehicles (amach) | 1
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Other manufacturing (aoman) | 70
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Electricity, gas and steam (aelec) | 2
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Water supply and sewage (awatr) | 7
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Construction (acons) | 48
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Wholesale and retail trade (atrad) | 22
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Transportation and storage (atran) | 54
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Accommodation and food services (ahotl) | 7
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Information and communication (acomm) | 5
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Finance and insurance (afsrv) | 5
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Real estate activities (areal) | 1
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Business services (absrv) | 12
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Public administration (apadm) | 33
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Education (aeduc) | 15
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Health and social work (aheal) | 19
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Other services (aosrv) | 13
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Rural (quintile 1) (hhd-r1) | 3
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Rural (quintile 2) (hhd-r2) | 6
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Rural (quintile 3) (hhd-r3) | 8
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Rural (quintile 4) (hhd-r4) | 12
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Rural (quintile 5) (hhd-r5) | 14
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Urban (quintile 3) (hhd-u3) | 3
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Urban (quintile 4) (hhd-u4) | 8
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Urban (quintile 5) (hhd-u5) | 40
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Change in stocks (dstk) | 28
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Rest of world (row) | 100
+Kenya 2019 SAM | Commodities - Chemicals and petroleum (cchem) | Total (total) | 1037
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Mining (amine) | 2
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Beverage and tobacco (abeve) | 2
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Textiles, clothing and footwear (atext) | 1
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Wood and paper products (awood) | 1
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Chemicals and petroleum (achem) | 29
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Non-metal minerals (anmet) | 29
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Metals and metal products (ametl) | 10
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Machinery, equipment and vehicles (amach) | 1
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Other manufacturing (aoman) | 6
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Electricity, gas and steam (aelec) | 2
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Water supply and sewage (awatr) | 1
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Construction (acons) | 56
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Transportation and storage (atran) | 3
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Accommodation and food services (ahotl) | 1
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Business services (absrv) | 1
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Public administration (apadm) | 2
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Households - Rural (quintile 3) (hhd-r3) | 1
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Households - Rural (quintile 4) (hhd-r4) | 1
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Households - Rural (quintile 5) (hhd-r5) | 1
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Households - Urban (quintile 5) (hhd-u5) | 2
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Rest of world (row) | 6
+Kenya 2019 SAM | Commodities - Non-metal minerals (cnmet) | Total (total) | 158
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Maize (amaiz) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Other cereals (aocer) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Pulses (apuls) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Vegetables (avege) | 3
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Fruits and nuts (afrui) | 2
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Coffee, tea and cocoa (acoff) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Other crops (aocrp) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Forestry (afore) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Processed foods (afood) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Beverage and tobacco (abeve) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Wood and paper products (awood) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Metals and metal products (ametl) | 48
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Machinery, equipment and vehicles (amach) | 29
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Other manufacturing (aoman) | 5
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Electricity, gas and steam (aelec) | 15
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Construction (acons) | 120
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Transportation and storage (atran) | 2
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Information and communication (acomm) | 2
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Finance and insurance (afsrv) | 2
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Business services (absrv) | 36
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Public administration (apadm) | 4
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Activities - Education (aeduc) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Households - Rural (quintile 5) (hhd-r5) | 1
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Savings-investment (s-i) | 85
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Rest of world (row) | 28
+Kenya 2019 SAM | Commodities - Metals and metal products (cmetl) | Total (total) | 391
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Other crops (aocrp) | 2
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Other livestock (aoliv) | 2
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Fisheries (afish) | 1
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Processed foods (afood) | 1
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Textiles, clothing and footwear (atext) | 3
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Wood and paper products (awood) | 1
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Metals and metal products (ametl) | 2
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Machinery, equipment and vehicles (amach) | 28
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Other manufacturing (aoman) | 1
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Electricity, gas and steam (aelec) | 8
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Water supply and sewage (awatr) | 2
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Construction (acons) | 12
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Wholesale and retail trade (atrad) | 27
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Transportation and storage (atran) | 73
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Accommodation and food services (ahotl) | 2
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Information and communication (acomm) | 16
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Finance and insurance (afsrv) | 2
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Real estate activities (areal) | 1
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Business services (absrv) | 3
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Public administration (apadm) | 5
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Education (aeduc) | 2
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Health and social work (aheal) | 10
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Other services (aosrv) | 1
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Rural (quintile 1) (hhd-r1) | 3
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Rural (quintile 2) (hhd-r2) | 5
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Rural (quintile 3) (hhd-r3) | 10
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Rural (quintile 4) (hhd-r4) | 15
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Rural (quintile 5) (hhd-r5) | 22
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Urban (quintile 3) (hhd-u3) | 2
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Urban (quintile 4) (hhd-u4) | 10
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Urban (quintile 5) (hhd-u5) | 107
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Savings-investment (s-i) | 430
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Change in stocks (dstk) | 1
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Rest of world (row) | 28
+Kenya 2019 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Total (total) | 842
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Cattle and raw milk (acatt) | 2
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Mining (amine) | 1
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Processed foods (afood) | 69
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Beverage and tobacco (abeve) | 16
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Textiles, clothing and footwear (atext) | 7
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Wood and paper products (awood) | 8
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Chemicals and petroleum (achem) | 9
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Non-metal minerals (anmet) | 4
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Metals and metal products (ametl) | 43
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Machinery, equipment and vehicles (amach) | 1
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Other manufacturing (aoman) | 27
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Water supply and sewage (awatr) | 2
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Construction (acons) | 3
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Transportation and storage (atran) | 1
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Information and communication (acomm) | 3
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Finance and insurance (afsrv) | 3
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Business services (absrv) | 12
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Public administration (apadm) | 16
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Education (aeduc) | 4
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Health and social work (aheal) | 3
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Activities - Other services (aosrv) | 2
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Households - Rural (quintile 1) (hhd-r1) | 6
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Households - Rural (quintile 2) (hhd-r2) | 10
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Households - Rural (quintile 3) (hhd-r3) | 14
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Households - Rural (quintile 4) (hhd-r4) | 20
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Households - Rural (quintile 5) (hhd-r5) | 19
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Households - Urban (quintile 2) (hhd-u2) | 2
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Households - Urban (quintile 3) (hhd-u3) | 3
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Households - Urban (quintile 4) (hhd-u4) | 10
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Households - Urban (quintile 5) (hhd-u5) | 70
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Rest of world (row) | 7
+Kenya 2019 SAM | Commodities - Other manufacturing (coman) | Total (total) | 399
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Pulses (apuls) | 1
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Roots (aroot) | 1
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Vegetables (avege) | 1
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Coffee, tea and cocoa (acoff) | 4
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Cattle and raw milk (acatt) | 6
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Poultry and eggs (apoul) | 2
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Fisheries (afish) | 5
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Mining (amine) | 13
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Beverage and tobacco (abeve) | 2
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Textiles, clothing and footwear (atext) | 6
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Wood and paper products (awood) | 3
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Chemicals and petroleum (achem) | 2
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Non-metal minerals (anmet) | 6
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Metals and metal products (ametl) | 4
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Machinery, equipment and vehicles (amach) | 3
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Other manufacturing (aoman) | 11
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Electricity, gas and steam (aelec) | 4
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Water supply and sewage (awatr) | 1
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Construction (acons) | 39
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Wholesale and retail trade (atrad) | 22
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Transportation and storage (atran) | 47
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Accommodation and food services (ahotl) | 13
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Information and communication (acomm) | 1
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Finance and insurance (afsrv) | 1
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Real estate activities (areal) | 4
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Business services (absrv) | 5
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Public administration (apadm) | 15
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Education (aeduc) | 12
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Other services (aosrv) | 2
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Households - Rural (quintile 4) (hhd-r4) | 1
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Households - Rural (quintile 5) (hhd-r5) | 1
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Households - Urban (quintile 4) (hhd-u4) | 1
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Households - Urban (quintile 5) (hhd-u5) | 9
+Kenya 2019 SAM | Commodities - Electricity, gas and steam (celec) | Total (total) | 253
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Coffee, tea and cocoa (acoff) | 3
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Cattle and raw milk (acatt) | 7
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Poultry and eggs (apoul) | 4
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Other livestock (aoliv) | 3
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Processed foods (afood) | 6
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Beverage and tobacco (abeve) | 6
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Textiles, clothing and footwear (atext) | 1
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Machinery, equipment and vehicles (amach) | 1
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Other manufacturing (aoman) | 1
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Water supply and sewage (awatr) | 3
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Construction (acons) | 1
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Accommodation and food services (ahotl) | 9
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Public administration (apadm) | 1
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Health and social work (aheal) | 2
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Households - Rural (quintile 1) (hhd-r1) | 1
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Households - Rural (quintile 2) (hhd-r2) | 1
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Households - Rural (quintile 3) (hhd-r3) | 1
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Households - Rural (quintile 4) (hhd-r4) | 2
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Households - Rural (quintile 5) (hhd-r5) | 1
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Households - Urban (quintile 4) (hhd-u4) | 2
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Households - Urban (quintile 5) (hhd-u5) | 7
+Kenya 2019 SAM | Commodities - Water supply and sewage (cwatr) | Total (total) | 66
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Cattle and raw milk (acatt) | 10
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Poultry and eggs (apoul) | 1
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Fisheries (afish) | 1
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Mining (amine) | 1
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Other manufacturing (aoman) | 1
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Electricity, gas and steam (aelec) | 3
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Construction (acons) | 105
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Wholesale and retail trade (atrad) | 23
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Transportation and storage (atran) | 27
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Accommodation and food services (ahotl) | 11
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Information and communication (acomm) | 3
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Finance and insurance (afsrv) | 2
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Real estate activities (areal) | 61
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Business services (absrv) | 10
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Public administration (apadm) | 21
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Education (aeduc) | 2
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Health and social work (aheal) | 4
+Kenya 2019 SAM | Commodities - Construction (ccons) | Activities - Other services (aosrv) | 2
+Kenya 2019 SAM | Commodities - Construction (ccons) | Savings-investment (s-i) | 1051
+Kenya 2019 SAM | Commodities - Construction (ccons) | Total (total) | 1342
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Maize (amaiz) | 7
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Other cereals (aocer) | 3
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Pulses (apuls) | 7
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Roots (aroot) | 1
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Vegetables (avege) | 25
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Cotton and fibres (acott) | 1
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Fruits and nuts (afrui) | 5
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Coffee, tea and cocoa (acoff) | 9
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Poultry and eggs (apoul) | 4
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Forestry (afore) | 1
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Fisheries (afish) | 3
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Transaction costs (trc) | 1244
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Rest of world (row) | 2
+Kenya 2019 SAM | Commodities - Wholesale and retail trade (ctrad) | Total (total) | 1315
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Maize (amaiz) | 3
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Other cereals (aocer) | 2
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Pulses (apuls) | 5
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Oilseeds (aoils) | 1
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Roots (aroot) | 2
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Vegetables (avege) | 13
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Sugarcane (asugr) | 1
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Fruits and nuts (afrui) | 2
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Coffee, tea and cocoa (acoff) | 3
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Other crops (aocrp) | 1
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Cattle and raw milk (acatt) | 15
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Poultry and eggs (apoul) | 1
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Forestry (afore) | 1
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Fisheries (afish) | 10
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Mining (amine) | 8
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Beverage and tobacco (abeve) | 10
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Textiles, clothing and footwear (atext) | 4
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Wood and paper products (awood) | 4
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Chemicals and petroleum (achem) | 3
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Non-metal minerals (anmet) | 4
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Metals and metal products (ametl) | 5
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Machinery, equipment and vehicles (amach) | 2
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Other manufacturing (aoman) | 17
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Electricity, gas and steam (aelec) | 10
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Water supply and sewage (awatr) | 2
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Construction (acons) | 101
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Wholesale and retail trade (atrad) | 360
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Transportation and storage (atran) | 232
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Accommodation and food services (ahotl) | 8
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Information and communication (acomm) | 9
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Finance and insurance (afsrv) | 16
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Real estate activities (areal) | 1
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Business services (absrv) | 45
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Public administration (apadm) | 49
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Education (aeduc) | 17
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Health and social work (aheal) | 11
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Activities - Other services (aosrv) | 2
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Transaction costs (trc) | 104
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Households - Rural (quintile 1) (hhd-r1) | 1
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Households - Rural (quintile 2) (hhd-r2) | 2
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Households - Rural (quintile 3) (hhd-r3) | 3
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Households - Rural (quintile 4) (hhd-r4) | 11
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Households - Rural (quintile 5) (hhd-r5) | 5
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Households - Urban (quintile 4) (hhd-u4) | 3
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Households - Urban (quintile 5) (hhd-u5) | 20
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Rest of world (row) | 291
+Kenya 2019 SAM | Commodities - Transportation and storage (ctran) | Total (total) | 1422
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Activities - Construction (acons) | 2
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Activities - Wholesale and retail trade (atrad) | 22
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Activities - Transportation and storage (atran) | 31
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Activities - Information and communication (acomm) | 1
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Activities - Finance and insurance (afsrv) | 5
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Activities - Business services (absrv) | 5
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Activities - Public administration (apadm) | 23
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Activities - Education (aeduc) | 36
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Activities - Health and social work (aheal) | 5
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Activities - Other services (aosrv) | 2
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Households - Rural (quintile 1) (hhd-r1) | 3
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Households - Rural (quintile 2) (hhd-r2) | 7
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Households - Rural (quintile 3) (hhd-r3) | 11
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Households - Rural (quintile 4) (hhd-r4) | 16
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Households - Rural (quintile 5) (hhd-r5) | 23
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Households - Urban (quintile 2) (hhd-u2) | 2
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Households - Urban (quintile 3) (hhd-u3) | 6
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Households - Urban (quintile 4) (hhd-u4) | 21
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Households - Urban (quintile 5) (hhd-u5) | 134
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Rest of world (row) | 75
+Kenya 2019 SAM | Commodities - Accommodation and food services (chotl) | Total (total) | 430
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Beverage and tobacco (abeve) | 1
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Wood and paper products (awood) | 1
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Other manufacturing (aoman) | 2
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Water supply and sewage (awatr) | 1
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Construction (acons) | 6
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Wholesale and retail trade (atrad) | 21
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Transportation and storage (atran) | 13
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Accommodation and food services (ahotl) | 13
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Information and communication (acomm) | 2
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Finance and insurance (afsrv) | 15
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Real estate activities (areal) | 1
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Business services (absrv) | 4
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Public administration (apadm) | 3
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Education (aeduc) | 4
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Health and social work (aheal) | 4
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Activities - Other services (aosrv) | 6
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Households - Rural (quintile 1) (hhd-r1) | 2
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Households - Rural (quintile 2) (hhd-r2) | 3
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Households - Rural (quintile 3) (hhd-r3) | 5
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Households - Rural (quintile 4) (hhd-r4) | 7
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Households - Rural (quintile 5) (hhd-r5) | 9
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Households - Urban (quintile 3) (hhd-u3) | 2
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Households - Urban (quintile 4) (hhd-u4) | 5
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Households - Urban (quintile 5) (hhd-u5) | 66
+Kenya 2019 SAM | Commodities - Information and communication (ccomm) | Total (total) | 200
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Vegetables (avege) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Sugarcane (asugr) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Cotton and fibres (acott) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Coffee, tea and cocoa (acoff) | 2
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Other crops (aocrp) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Cattle and raw milk (acatt) | 3
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Fisheries (afish) | 2
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Mining (amine) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Beverage and tobacco (abeve) | 10
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Textiles, clothing and footwear (atext) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Wood and paper products (awood) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Chemicals and petroleum (achem) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Metals and metal products (ametl) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Other manufacturing (aoman) | 2
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Water supply and sewage (awatr) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Construction (acons) | 57
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Wholesale and retail trade (atrad) | 27
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Transportation and storage (atran) | 33
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Accommodation and food services (ahotl) | 7
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Information and communication (acomm) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Finance and insurance (afsrv) | 2
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Real estate activities (areal) | 17
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Business services (absrv) | 6
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Public administration (apadm) | 3
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Education (aeduc) | 9
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Health and social work (aheal) | 3
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Other services (aosrv) | 5
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Households - Rural (quintile 1) (hhd-r1) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Households - Rural (quintile 2) (hhd-r2) | 2
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Households - Rural (quintile 3) (hhd-r3) | 7
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Households - Rural (quintile 4) (hhd-r4) | 11
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Households - Rural (quintile 5) (hhd-r5) | 28
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Households - Urban (quintile 3) (hhd-u3) | 3
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Households - Urban (quintile 4) (hhd-u4) | 11
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Households - Urban (quintile 5) (hhd-u5) | 186
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Rest of world (row) | 62
+Kenya 2019 SAM | Commodities - Finance and insurance (cfsrv) | Total (total) | 511
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Mining (amine) | 2
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Textiles, clothing and footwear (atext) | 2
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Wood and paper products (awood) | 3
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Non-metal minerals (anmet) | 2
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Metals and metal products (ametl) | 4
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Machinery, equipment and vehicles (amach) | 2
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Other manufacturing (aoman) | 13
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Electricity, gas and steam (aelec) | 1
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Construction (acons) | 3
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Wholesale and retail trade (atrad) | 10
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Transportation and storage (atran) | 7
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Accommodation and food services (ahotl) | 2
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Information and communication (acomm) | 1
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Finance and insurance (afsrv) | 2
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Business services (absrv) | 2
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Public administration (apadm) | 2
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Education (aeduc) | 15
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Health and social work (aheal) | 5
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Activities - Other services (aosrv) | 1
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Households - Rural (quintile 1) (hhd-r1) | 38
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Households - Rural (quintile 2) (hhd-r2) | 40
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Households - Rural (quintile 3) (hhd-r3) | 74
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Households - Rural (quintile 4) (hhd-r4) | 74
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Households - Rural (quintile 5) (hhd-r5) | 68
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Households - Urban (quintile 1) (hhd-u1) | 4
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Households - Urban (quintile 2) (hhd-u2) | 13
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Households - Urban (quintile 3) (hhd-u3) | 21
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Households - Urban (quintile 4) (hhd-u4) | 55
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Households - Urban (quintile 5) (hhd-u5) | 301
+Kenya 2019 SAM | Commodities - Real estate activities (creal) | Total (total) | 768
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Pulses (apuls) | 1
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Vegetables (avege) | 1
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Other crops (aocrp) | 1
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Cattle and raw milk (acatt) | 8
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Poultry and eggs (apoul) | 1
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Other livestock (aoliv) | 1
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Forestry (afore) | 1
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Fisheries (afish) | 4
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Mining (amine) | 1
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Beverage and tobacco (abeve) | 13
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Textiles, clothing and footwear (atext) | 3
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Wood and paper products (awood) | 3
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Chemicals and petroleum (achem) | 4
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Non-metal minerals (anmet) | 4
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Metals and metal products (ametl) | 5
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Machinery, equipment and vehicles (amach) | 2
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Other manufacturing (aoman) | 7
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Electricity, gas and steam (aelec) | 2
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Water supply and sewage (awatr) | 2
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Construction (acons) | 22
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Wholesale and retail trade (atrad) | 16
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Transportation and storage (atran) | 18
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Accommodation and food services (ahotl) | 41
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Information and communication (acomm) | 16
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Finance and insurance (afsrv) | 39
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Real estate activities (areal) | 9
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Business services (absrv) | 101
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Public administration (apadm) | 48
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Education (aeduc) | 51
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Health and social work (aheal) | 8
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Activities - Other services (aosrv) | 24
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Households - Rural (quintile 1) (hhd-r1) | 1
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Households - Rural (quintile 2) (hhd-r2) | 1
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Households - Rural (quintile 3) (hhd-r3) | 2
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Households - Rural (quintile 4) (hhd-r4) | 3
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Households - Rural (quintile 5) (hhd-r5) | 3
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Households - Urban (quintile 4) (hhd-u4) | 3
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Households - Urban (quintile 5) (hhd-u5) | 19
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Savings-investment (s-i) | 42
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Rest of world (row) | 47
+Kenya 2019 SAM | Commodities - Business services (cbsrv) | Total (total) | 579
+Kenya 2019 SAM | Commodities - Public administration (cpadm) | Government (gov) | 562
+Kenya 2019 SAM | Commodities - Public administration (cpadm) | Rest of world (row) | 98
+Kenya 2019 SAM | Commodities - Public administration (cpadm) | Total (total) | 662
+Kenya 2019 SAM | Commodities - Education (ceduc) | Activities - Business services (absrv) | 1
+Kenya 2019 SAM | Commodities - Education (ceduc) | Activities - Public administration (apadm) | 5
+Kenya 2019 SAM | Commodities - Education (ceduc) | Activities - Education (aeduc) | 33
+Kenya 2019 SAM | Commodities - Education (ceduc) | Households - Rural (quintile 1) (hhd-r1) | 4
+Kenya 2019 SAM | Commodities - Education (ceduc) | Households - Rural (quintile 2) (hhd-r2) | 7
+Kenya 2019 SAM | Commodities - Education (ceduc) | Households - Rural (quintile 3) (hhd-r3) | 11
+Kenya 2019 SAM | Commodities - Education (ceduc) | Households - Rural (quintile 4) (hhd-r4) | 15
+Kenya 2019 SAM | Commodities - Education (ceduc) | Households - Rural (quintile 5) (hhd-r5) | 14
+Kenya 2019 SAM | Commodities - Education (ceduc) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Education (ceduc) | Households - Urban (quintile 3) (hhd-u3) | 3
+Kenya 2019 SAM | Commodities - Education (ceduc) | Households - Urban (quintile 4) (hhd-u4) | 8
+Kenya 2019 SAM | Commodities - Education (ceduc) | Households - Urban (quintile 5) (hhd-u5) | 49
+Kenya 2019 SAM | Commodities - Education (ceduc) | Government (gov) | 591
+Kenya 2019 SAM | Commodities - Education (ceduc) | Total (total) | 743
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Activities - Business services (absrv) | 2
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Activities - Health and social work (aheal) | 16
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Households - Rural (quintile 1) (hhd-r1) | 1
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Households - Rural (quintile 2) (hhd-r2) | 1
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Households - Rural (quintile 3) (hhd-r3) | 3
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Households - Rural (quintile 4) (hhd-r4) | 2
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Households - Rural (quintile 5) (hhd-r5) | 2
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Households - Urban (quintile 4) (hhd-u4) | 1
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Households - Urban (quintile 5) (hhd-u5) | 7
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Government (gov) | 234
+Kenya 2019 SAM | Commodities - Health and social work (cheal) | Total (total) | 270
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Activities - Water supply and sewage (awatr) | 1
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Activities - Transportation and storage (atran) | 8
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Activities - Accommodation and food services (ahotl) | 4
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Activities - Finance and insurance (afsrv) | 5
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Activities - Business services (absrv) | 12
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Activities - Public administration (apadm) | 8
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Households - Rural (quintile 1) (hhd-r1) | 3
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Households - Rural (quintile 2) (hhd-r2) | 4
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Households - Rural (quintile 3) (hhd-r3) | 9
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Households - Rural (quintile 4) (hhd-r4) | 13
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Households - Rural (quintile 5) (hhd-r5) | 26
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Households - Urban (quintile 3) (hhd-u3) | 1
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Households - Urban (quintile 4) (hhd-u4) | 5
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Households - Urban (quintile 5) (hhd-u5) | 78
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Rest of world (row) | 1
+Kenya 2019 SAM | Commodities - Other services (cosrv) | Total (total) | 182
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Maize (cmaiz) | 82
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Rice (crice) | 6
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Other cereals (cocer) | 21
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Pulses (cpuls) | 97
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Oilseeds (coils) | 9
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Roots (croot) | 24
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Vegetables (cvege) | 118
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Sugarcane (csugr) | 2
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Tobacco (ctoba) | 3
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Cotton and fibres (ccott) | 4
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Fruits and nuts (cfrui) | 41
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Coffee, tea and cocoa (ccoff) | 50
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Other crops (cocrp) | 19
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Cattle and raw milk (ccatt) | 66
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Poultry and eggs (cpoul) | 14
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Other livestock (coliv) | 16
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Forestry (cfore) | 41
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Fisheries (cfish) | 12
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Mining (cmine) | 16
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Processed foods (cfood) | 329
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Beverage and tobacco (cbeve) | 22
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Textiles, clothing and footwear (ctext) | 74
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Wood and paper products (cwood) | 24
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Chemicals and petroleum (cchem) | 112
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Non-metal minerals (cnmet) | 20
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Metals and metal products (cmetl) | 39
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Machinery, equipment and vehicles (cmach) | 59
+Kenya 2019 SAM | Transaction costs (trc) | Commodities - Other manufacturing (coman) | 27
+Kenya 2019 SAM | Transaction costs (trc) | Total (total) | 1348
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Maize (amaiz) | 35
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Rice (arice) | 3
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Other cereals (aocer) | 10
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Pulses (apuls) | 36
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Oilseeds (aoils) | 4
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Roots (aroot) | 11
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Vegetables (avege) | 7
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Sugarcane (asugr) | 7
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Tobacco (atoba) | 1
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Cotton and fibres (acott) | 1
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Fruits and nuts (afrui) | 24
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Coffee, tea and cocoa (acoff) | 18
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Other crops (aocrp) | 8
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Cattle and raw milk (acatt) | 6
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Poultry and eggs (apoul) | 1
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Other livestock (aoliv) | 1
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Forestry (afore) | 2
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Processed foods (afood) | 4
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Construction (acons) | 3
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Wholesale and retail trade (atrad) | 8
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Transportation and storage (atran) | 2
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Accommodation and food services (ahotl) | 1
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Public administration (apadm) | 1
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Education (aeduc) | 1
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Other services (aosrv) | 1
+Kenya 2019 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Total (total) | 196
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Maize (amaiz) | 103
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Rice (arice) | 9
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Other cereals (aocer) | 30
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Pulses (apuls) | 88
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Oilseeds (aoils) | 10
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Roots (aroot) | 45
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Vegetables (avege) | 94
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Sugarcane (asugr) | 17
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Tobacco (atoba) | 1
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Cotton and fibres (acott) | 3
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Fruits and nuts (afrui) | 147
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Coffee, tea and cocoa (acoff) | 43
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Other crops (aocrp) | 19
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Cattle and raw milk (acatt) | 9
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Poultry and eggs (apoul) | 1
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Other livestock (aoliv) | 1
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Forestry (afore) | 4
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Fisheries (afish) | 2
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Mining (amine) | 7
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Processed foods (afood) | 4
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Beverage and tobacco (abeve) | 5
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Textiles, clothing and footwear (atext) | 22
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Wood and paper products (awood) | 1
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Chemicals and petroleum (achem) | 2
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Non-metal minerals (anmet) | 1
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Metals and metal products (ametl) | 1
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Other manufacturing (aoman) | 3
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Electricity, gas and steam (aelec) | 2
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Construction (acons) | 100
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Wholesale and retail trade (atrad) | 110
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Transportation and storage (atran) | 42
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Accommodation and food services (ahotl) | 10
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Information and communication (acomm) | 7
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Finance and insurance (afsrv) | 3
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Real estate activities (areal) | 3
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Business services (absrv) | 2
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Public administration (apadm) | 46
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Education (aeduc) | 7
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Health and social work (aheal) | 2
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Other services (aosrv) | 11
+Kenya 2019 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Total (total) | 1018
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Maize (amaiz) | 100
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Rice (arice) | 8
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Other cereals (aocer) | 24
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Pulses (apuls) | 75
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Oilseeds (aoils) | 8
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Roots (aroot) | 29
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Vegetables (avege) | 35
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Sugarcane (asugr) | 13
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Tobacco (atoba) | 1
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Cotton and fibres (acott) | 2
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Fruits and nuts (afrui) | 76
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Coffee, tea and cocoa (acoff) | 30
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Other crops (aocrp) | 15
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Cattle and raw milk (acatt) | 8
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Poultry and eggs (apoul) | 1
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Other livestock (aoliv) | 1
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Forestry (afore) | 2
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Mining (amine) | 14
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Processed foods (afood) | 24
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Beverage and tobacco (abeve) | 57
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Textiles, clothing and footwear (atext) | 20
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Wood and paper products (awood) | 11
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Chemicals and petroleum (achem) | 10
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Non-metal minerals (anmet) | 5
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Metals and metal products (ametl) | 7
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Machinery, equipment and vehicles (amach) | 3
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Other manufacturing (aoman) | 8
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Electricity, gas and steam (aelec) | 54
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Water supply and sewage (awatr) | 16
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Construction (acons) | 111
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Wholesale and retail trade (atrad) | 234
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Transportation and storage (atran) | 198
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Accommodation and food services (ahotl) | 20
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Information and communication (acomm) | 33
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Finance and insurance (afsrv) | 153
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Real estate activities (areal) | 56
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Business services (absrv) | 85
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Public administration (apadm) | 211
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Education (aeduc) | 323
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Health and social work (aheal) | 95
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Other services (aosrv) | 34
+Kenya 2019 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Total (total) | 2209
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Maize (amaiz) | 382
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Rice (arice) | 7
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Other cereals (aocer) | 75
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Pulses (apuls) | 199
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Oilseeds (aoils) | 19
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Roots (aroot) | 80
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Vegetables (avege) | 136
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Sugarcane (asugr) | 20
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Tobacco (atoba) | 3
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Cotton and fibres (acott) | 6
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Fruits and nuts (afrui) | 112
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Coffee, tea and cocoa (acoff) | 51
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Activities - Other crops (aocrp) | 28
+Kenya 2019 SAM | Factors - Agricultural land (flnd) | Total (total) | 1118
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Maize (amaiz) | 44
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Rice (arice) | 5
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Other cereals (aocer) | 23
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Pulses (apuls) | 76
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Oilseeds (aoils) | 9
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Roots (aroot) | 37
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Vegetables (avege) | 59
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Sugarcane (asugr) | 23
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Tobacco (atoba) | 1
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Cotton and fibres (acott) | 4
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Fruits and nuts (afrui) | 56
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Coffee, tea and cocoa (acoff) | 25
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Other crops (aocrp) | 10
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Cattle and raw milk (acatt) | 273
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Poultry and eggs (apoul) | 50
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Other livestock (aoliv) | 49
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Forestry (afore) | 132
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Fisheries (afish) | 47
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Mining (amine) | 46
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Processed foods (afood) | 189
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Beverage and tobacco (abeve) | 23
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Textiles, clothing and footwear (atext) | 67
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Wood and paper products (awood) | 22
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Chemicals and petroleum (achem) | 91
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Non-metal minerals (anmet) | 20
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Metals and metal products (ametl) | 36
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Machinery, equipment and vehicles (amach) | 12
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Other manufacturing (aoman) | 83
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Electricity, gas and steam (aelec) | 135
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Water supply and sewage (awatr) | 19
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Construction (acons) | 328
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Wholesale and retail trade (atrad) | 379
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Transportation and storage (atran) | 576
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Accommodation and food services (ahotl) | 41
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Information and communication (acomm) | 77
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Finance and insurance (afsrv) | 212
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Real estate activities (areal) | 613
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Business services (absrv) | 98
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Public administration (apadm) | 89
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Education (aeduc) | 91
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Health and social work (aheal) | 47
+Kenya 2019 SAM | Factors - Capital (fcap) | Activities - Other services (aosrv) | 67
+Kenya 2019 SAM | Factors - Capital (fcap) | Rest of world (row) | 39
+Kenya 2019 SAM | Factors - Capital (fcap) | Total (total) | 4322
+Kenya 2019 SAM | Enterprises (ent) | Factors - Capital (fcap) | 3406
+Kenya 2019 SAM | Enterprises (ent) | Government (gov) | 197
+Kenya 2019 SAM | Enterprises (ent) | Rest of world (row) | 180
+Kenya 2019 SAM | Enterprises (ent) | Total (total) | 3782
+Kenya 2019 SAM | Households - Rural (quintile 1) (hhd-r1) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 46
+Kenya 2019 SAM | Households - Rural (quintile 1) (hhd-r1) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 111
+Kenya 2019 SAM | Households - Rural (quintile 1) (hhd-r1) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 35
+Kenya 2019 SAM | Households - Rural (quintile 1) (hhd-r1) | Factors - Agricultural land (flnd) | 141
+Kenya 2019 SAM | Households - Rural (quintile 1) (hhd-r1) | Factors - Capital (fcap) | 82
+Kenya 2019 SAM | Households - Rural (quintile 1) (hhd-r1) | Enterprises (ent) | 36
+Kenya 2019 SAM | Households - Rural (quintile 1) (hhd-r1) | Government (gov) | 9
+Kenya 2019 SAM | Households - Rural (quintile 1) (hhd-r1) | Rest of world (row) | 1
+Kenya 2019 SAM | Households - Rural (quintile 1) (hhd-r1) | Total (total) | 462
+Kenya 2019 SAM | Households - Rural (quintile 2) (hhd-r2) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 39
+Kenya 2019 SAM | Households - Rural (quintile 2) (hhd-r2) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 148
+Kenya 2019 SAM | Households - Rural (quintile 2) (hhd-r2) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 72
+Kenya 2019 SAM | Households - Rural (quintile 2) (hhd-r2) | Factors - Agricultural land (flnd) | 201
+Kenya 2019 SAM | Households - Rural (quintile 2) (hhd-r2) | Factors - Capital (fcap) | 127
+Kenya 2019 SAM | Households - Rural (quintile 2) (hhd-r2) | Enterprises (ent) | 49
+Kenya 2019 SAM | Households - Rural (quintile 2) (hhd-r2) | Government (gov) | 9
+Kenya 2019 SAM | Households - Rural (quintile 2) (hhd-r2) | Rest of world (row) | 1
+Kenya 2019 SAM | Households - Rural (quintile 2) (hhd-r2) | Total (total) | 646
+Kenya 2019 SAM | Households - Rural (quintile 3) (hhd-r3) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 37
+Kenya 2019 SAM | Households - Rural (quintile 3) (hhd-r3) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 166
+Kenya 2019 SAM | Households - Rural (quintile 3) (hhd-r3) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 106
+Kenya 2019 SAM | Households - Rural (quintile 3) (hhd-r3) | Factors - Agricultural land (flnd) | 250
+Kenya 2019 SAM | Households - Rural (quintile 3) (hhd-r3) | Factors - Capital (fcap) | 188
+Kenya 2019 SAM | Households - Rural (quintile 3) (hhd-r3) | Enterprises (ent) | 98
+Kenya 2019 SAM | Households - Rural (quintile 3) (hhd-r3) | Government (gov) | 9
+Kenya 2019 SAM | Households - Rural (quintile 3) (hhd-r3) | Rest of world (row) | 3
+Kenya 2019 SAM | Households - Rural (quintile 3) (hhd-r3) | Total (total) | 857
+Kenya 2019 SAM | Households - Rural (quintile 4) (hhd-r4) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 37
+Kenya 2019 SAM | Households - Rural (quintile 4) (hhd-r4) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 129
+Kenya 2019 SAM | Households - Rural (quintile 4) (hhd-r4) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 204
+Kenya 2019 SAM | Households - Rural (quintile 4) (hhd-r4) | Factors - Agricultural land (flnd) | 249
+Kenya 2019 SAM | Households - Rural (quintile 4) (hhd-r4) | Factors - Capital (fcap) | 179
+Kenya 2019 SAM | Households - Rural (quintile 4) (hhd-r4) | Enterprises (ent) | 193
+Kenya 2019 SAM | Households - Rural (quintile 4) (hhd-r4) | Government (gov) | 9
+Kenya 2019 SAM | Households - Rural (quintile 4) (hhd-r4) | Rest of world (row) | 14
+Kenya 2019 SAM | Households - Rural (quintile 4) (hhd-r4) | Total (total) | 1014
+Kenya 2019 SAM | Households - Rural (quintile 5) (hhd-r5) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 21
+Kenya 2019 SAM | Households - Rural (quintile 5) (hhd-r5) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 99
+Kenya 2019 SAM | Households - Rural (quintile 5) (hhd-r5) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 262
+Kenya 2019 SAM | Households - Rural (quintile 5) (hhd-r5) | Factors - Agricultural land (flnd) | 198
+Kenya 2019 SAM | Households - Rural (quintile 5) (hhd-r5) | Factors - Capital (fcap) | 160
+Kenya 2019 SAM | Households - Rural (quintile 5) (hhd-r5) | Enterprises (ent) | 248
+Kenya 2019 SAM | Households - Rural (quintile 5) (hhd-r5) | Government (gov) | 7
+Kenya 2019 SAM | Households - Rural (quintile 5) (hhd-r5) | Rest of world (row) | 31
+Kenya 2019 SAM | Households - Rural (quintile 5) (hhd-r5) | Total (total) | 1025
+Kenya 2019 SAM | Households - Urban (quintile 1) (hhd-u1) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 2
+Kenya 2019 SAM | Households - Urban (quintile 1) (hhd-u1) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 23
+Kenya 2019 SAM | Households - Urban (quintile 1) (hhd-u1) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 12
+Kenya 2019 SAM | Households - Urban (quintile 1) (hhd-u1) | Factors - Agricultural land (flnd) | 2
+Kenya 2019 SAM | Households - Urban (quintile 1) (hhd-u1) | Factors - Capital (fcap) | 1
+Kenya 2019 SAM | Households - Urban (quintile 1) (hhd-u1) | Enterprises (ent) | 8
+Kenya 2019 SAM | Households - Urban (quintile 1) (hhd-u1) | Government (gov) | 5
+Kenya 2019 SAM | Households - Urban (quintile 1) (hhd-u1) | Total (total) | 52
+Kenya 2019 SAM | Households - Urban (quintile 2) (hhd-u2) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 3
+Kenya 2019 SAM | Households - Urban (quintile 2) (hhd-u2) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 43
+Kenya 2019 SAM | Households - Urban (quintile 2) (hhd-u2) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 31
+Kenya 2019 SAM | Households - Urban (quintile 2) (hhd-u2) | Factors - Agricultural land (flnd) | 7
+Kenya 2019 SAM | Households - Urban (quintile 2) (hhd-u2) | Factors - Capital (fcap) | 3
+Kenya 2019 SAM | Households - Urban (quintile 2) (hhd-u2) | Enterprises (ent) | 33
+Kenya 2019 SAM | Households - Urban (quintile 2) (hhd-u2) | Government (gov) | 6
+Kenya 2019 SAM | Households - Urban (quintile 2) (hhd-u2) | Total (total) | 127
+Kenya 2019 SAM | Households - Urban (quintile 3) (hhd-u3) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 5
+Kenya 2019 SAM | Households - Urban (quintile 3) (hhd-u3) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 81
+Kenya 2019 SAM | Households - Urban (quintile 3) (hhd-u3) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 78
+Kenya 2019 SAM | Households - Urban (quintile 3) (hhd-u3) | Factors - Agricultural land (flnd) | 8
+Kenya 2019 SAM | Households - Urban (quintile 3) (hhd-u3) | Factors - Capital (fcap) | 5
+Kenya 2019 SAM | Households - Urban (quintile 3) (hhd-u3) | Enterprises (ent) | 66
+Kenya 2019 SAM | Households - Urban (quintile 3) (hhd-u3) | Government (gov) | 3
+Kenya 2019 SAM | Households - Urban (quintile 3) (hhd-u3) | Rest of world (row) | 1
+Kenya 2019 SAM | Households - Urban (quintile 3) (hhd-u3) | Total (total) | 248
+Kenya 2019 SAM | Households - Urban (quintile 4) (hhd-u4) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 4
+Kenya 2019 SAM | Households - Urban (quintile 4) (hhd-u4) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 107
+Kenya 2019 SAM | Households - Urban (quintile 4) (hhd-u4) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 242
+Kenya 2019 SAM | Households - Urban (quintile 4) (hhd-u4) | Factors - Agricultural land (flnd) | 16
+Kenya 2019 SAM | Households - Urban (quintile 4) (hhd-u4) | Factors - Capital (fcap) | 9
+Kenya 2019 SAM | Households - Urban (quintile 4) (hhd-u4) | Enterprises (ent) | 221
+Kenya 2019 SAM | Households - Urban (quintile 4) (hhd-u4) | Government (gov) | 8
+Kenya 2019 SAM | Households - Urban (quintile 4) (hhd-u4) | Rest of world (row) | 2
+Kenya 2019 SAM | Households - Urban (quintile 4) (hhd-u4) | Total (total) | 609
+Kenya 2019 SAM | Households - Urban (quintile 5) (hhd-u5) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 3
+Kenya 2019 SAM | Households - Urban (quintile 5) (hhd-u5) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 111
+Kenya 2019 SAM | Households - Urban (quintile 5) (hhd-u5) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 1168
+Kenya 2019 SAM | Households - Urban (quintile 5) (hhd-u5) | Factors - Agricultural land (flnd) | 46
+Kenya 2019 SAM | Households - Urban (quintile 5) (hhd-u5) | Factors - Capital (fcap) | 36
+Kenya 2019 SAM | Households - Urban (quintile 5) (hhd-u5) | Enterprises (ent) | 1950
+Kenya 2019 SAM | Households - Urban (quintile 5) (hhd-u5) | Government (gov) | 20
+Kenya 2019 SAM | Households - Urban (quintile 5) (hhd-u5) | Rest of world (row) | 98
+Kenya 2019 SAM | Households - Urban (quintile 5) (hhd-u5) | Total (total) | 3432
+Kenya 2019 SAM | Government (gov) | Enterprises (ent) | 199
+Kenya 2019 SAM | Government (gov) | Households - Rural (quintile 3) (hhd-r3) | 1
+Kenya 2019 SAM | Government (gov) | Households - Rural (quintile 4) (hhd-r4) | 2
+Kenya 2019 SAM | Government (gov) | Households - Rural (quintile 5) (hhd-r5) | 2
+Kenya 2019 SAM | Government (gov) | Households - Urban (quintile 4) (hhd-u4) | 1
+Kenya 2019 SAM | Government (gov) | Households - Urban (quintile 5) (hhd-u5) | 17
+Kenya 2019 SAM | Government (gov) | Taxes - Direct (personal or corporate) (dtax) | 737
+Kenya 2019 SAM | Government (gov) | Taxes - Imports (products) (mtax) | 141
+Kenya 2019 SAM | Government (gov) | Taxes - Sales, excise and/or value-added (products) (stax) | 678
+Kenya 2019 SAM | Government (gov) | Rest of world (row) | 30
+Kenya 2019 SAM | Government (gov) | Total (total) | 1808
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Enterprises (ent) | 326
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Rural (quintile 1) (hhd-r1) | 1
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Rural (quintile 2) (hhd-r2) | 4
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Rural (quintile 3) (hhd-r3) | 10
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Rural (quintile 4) (hhd-r4) | 25
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Rural (quintile 5) (hhd-r5) | 39
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Urban (quintile 2) (hhd-u2) | 1
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Urban (quintile 3) (hhd-u3) | 4
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Urban (quintile 4) (hhd-u4) | 19
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Urban (quintile 5) (hhd-u5) | 309
+Kenya 2019 SAM | Taxes - Direct (personal or corporate) (dtax) | Total (total) | 737
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Other cereals (cocer) | 13
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Pulses (cpuls) | 2
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Tobacco (ctoba) | 1
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Fruits and nuts (cfrui) | 1
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Processed foods (cfood) | 25
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Beverage and tobacco (cbeve) | 2
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Textiles, clothing and footwear (ctext) | 16
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Wood and paper products (cwood) | 6
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Chemicals and petroleum (cchem) | 22
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Non-metal minerals (cnmet) | 5
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Metals and metal products (cmetl) | 17
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Machinery, equipment and vehicles (cmach) | 28
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Commodities - Other manufacturing (coman) | 5
+Kenya 2019 SAM | Taxes - Imports (products) (mtax) | Total (total) | 141
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Vegetables (cvege) | 1
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Sugarcane (csugr) | 16
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Tobacco (ctoba) | 1
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Cotton and fibres (ccott) | 4
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Coffee, tea and cocoa (ccoff) | 12
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Other crops (cocrp) | 4
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Cattle and raw milk (ccatt) | 44
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Poultry and eggs (cpoul) | 10
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Other livestock (coliv) | 16
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Fisheries (cfish) | 9
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Mining (cmine) | 3
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Processed foods (cfood) | 125
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Beverage and tobacco (cbeve) | 106
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Textiles, clothing and footwear (ctext) | 32
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Wood and paper products (cwood) | 11
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Chemicals and petroleum (cchem) | 87
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Non-metal minerals (cnmet) | 1
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Metals and metal products (cmetl) | 13
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Machinery, equipment and vehicles (cmach) | 26
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Other manufacturing (coman) | 11
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Electricity, gas and steam (celec) | 14
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Water supply and sewage (cwatr) | 6
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Wholesale and retail trade (ctrad) | 24
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Transportation and storage (ctran) | 8
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Accommodation and food services (chotl) | 49
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Information and communication (ccomm) | 19
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Finance and insurance (cfsrv) | 3
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Business services (cbsrv) | 19
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Other services (cosrv) | 4
+Kenya 2019 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Total (total) | 678
+Kenya 2019 SAM | Savings-investment (s-i) | Enterprises (ent) | 355
+Kenya 2019 SAM | Savings-investment (s-i) | Households - Rural (quintile 1) (hhd-r1) | 6
+Kenya 2019 SAM | Savings-investment (s-i) | Households - Rural (quintile 2) (hhd-r2) | 14
+Kenya 2019 SAM | Savings-investment (s-i) | Households - Rural (quintile 3) (hhd-r3) | 32
+Kenya 2019 SAM | Savings-investment (s-i) | Households - Rural (quintile 4) (hhd-r4) | 71
+Kenya 2019 SAM | Savings-investment (s-i) | Households - Rural (quintile 5) (hhd-r5) | 121
+Kenya 2019 SAM | Savings-investment (s-i) | Households - Urban (quintile 1) (hhd-u1) | 1
+Kenya 2019 SAM | Savings-investment (s-i) | Households - Urban (quintile 2) (hhd-u2) | 4
+Kenya 2019 SAM | Savings-investment (s-i) | Households - Urban (quintile 3) (hhd-u3) | 8
+Kenya 2019 SAM | Savings-investment (s-i) | Households - Urban (quintile 4) (hhd-u4) | 54
+Kenya 2019 SAM | Savings-investment (s-i) | Households - Urban (quintile 5) (hhd-u5) | 419
+Kenya 2019 SAM | Savings-investment (s-i) | Government (gov) | -7
+Kenya 2019 SAM | Savings-investment (s-i) | Rest of world (row) | 616
+Kenya 2019 SAM | Savings-investment (s-i) | Total (total) | 1694
+Kenya 2019 SAM | Change in stocks (dstk) | Savings-investment (s-i) | 63
+Kenya 2019 SAM | Change in stocks (dstk) | Total (total) | 63
+Kenya 2019 SAM | Rest of world (row) | Commodities - Maize (cmaiz) | 12
+Kenya 2019 SAM | Rest of world (row) | Commodities - Rice (crice) | 1
+Kenya 2019 SAM | Rest of world (row) | Commodities - Other cereals (cocer) | 47
+Kenya 2019 SAM | Rest of world (row) | Commodities - Pulses (cpuls) | 10
+Kenya 2019 SAM | Rest of world (row) | Commodities - Oilseeds (coils) | 1
+Kenya 2019 SAM | Rest of world (row) | Commodities - Vegetables (cvege) | 1
+Kenya 2019 SAM | Rest of world (row) | Commodities - Tobacco (ctoba) | 5
+Kenya 2019 SAM | Rest of world (row) | Commodities - Fruits and nuts (cfrui) | 3
+Kenya 2019 SAM | Rest of world (row) | Commodities - Coffee, tea and cocoa (ccoff) | 2
+Kenya 2019 SAM | Rest of world (row) | Commodities - Other crops (cocrp) | 4
+Kenya 2019 SAM | Rest of world (row) | Commodities - Poultry and eggs (cpoul) | 1
+Kenya 2019 SAM | Rest of world (row) | Commodities - Other livestock (coliv) | 1
+Kenya 2019 SAM | Rest of world (row) | Commodities - Mining (cmine) | 17
+Kenya 2019 SAM | Rest of world (row) | Commodities - Processed foods (cfood) | 154
+Kenya 2019 SAM | Rest of world (row) | Commodities - Beverage and tobacco (cbeve) | 10
+Kenya 2019 SAM | Rest of world (row) | Commodities - Textiles, clothing and footwear (ctext) | 63
+Kenya 2019 SAM | Rest of world (row) | Commodities - Wood and paper products (cwood) | 31
+Kenya 2019 SAM | Rest of world (row) | Commodities - Chemicals and petroleum (cchem) | 590
+Kenya 2019 SAM | Rest of world (row) | Commodities - Non-metal minerals (cnmet) | 26
+Kenya 2019 SAM | Rest of world (row) | Commodities - Metals and metal products (cmetl) | 136
+Kenya 2019 SAM | Rest of world (row) | Commodities - Machinery, equipment and vehicles (cmach) | 631
+Kenya 2019 SAM | Rest of world (row) | Commodities - Other manufacturing (coman) | 25
+Kenya 2019 SAM | Rest of world (row) | Commodities - Construction (ccons) | 47
+Kenya 2019 SAM | Rest of world (row) | Commodities - Wholesale and retail trade (ctrad) | 7
+Kenya 2019 SAM | Rest of world (row) | Commodities - Transportation and storage (ctran) | 46
+Kenya 2019 SAM | Rest of world (row) | Commodities - Accommodation and food services (chotl) | 30
+Kenya 2019 SAM | Rest of world (row) | Commodities - Finance and insurance (cfsrv) | 37
+Kenya 2019 SAM | Rest of world (row) | Commodities - Business services (cbsrv) | 107
+Kenya 2019 SAM | Rest of world (row) | Commodities - Public administration (cpadm) | 26
+Kenya 2019 SAM | Rest of world (row) | Factors - Capital (fcap) | 127
+Kenya 2019 SAM | Rest of world (row) | Households - Urban (quintile 5) (hhd-u5) | 1
+Kenya 2019 SAM | Rest of world (row) | Government (gov) | 145
+Kenya 2019 SAM | Rest of world (row) | Total (total) | 2346
+Kenya 2019 SAM | Total (total) | Activities - Maize (amaiz) | 718
+Kenya 2019 SAM | Total (total) | Activities - Rice (arice) | 37
+Kenya 2019 SAM | Total (total) | Activities - Other cereals (aocer) | 190
+Kenya 2019 SAM | Total (total) | Activities - Pulses (apuls) | 589
+Kenya 2019 SAM | Total (total) | Activities - Oilseeds (aoils) | 57
+Kenya 2019 SAM | Total (total) | Activities - Roots (aroot) | 264
+Kenya 2019 SAM | Total (total) | Activities - Vegetables (avege) | 568
+Kenya 2019 SAM | Total (total) | Activities - Sugarcane (asugr) | 89
+Kenya 2019 SAM | Total (total) | Activities - Tobacco (atoba) | 10
+Kenya 2019 SAM | Total (total) | Activities - Cotton and fibres (acott) | 23
+Kenya 2019 SAM | Total (total) | Activities - Fruits and nuts (afrui) | 462
+Kenya 2019 SAM | Total (total) | Activities - Coffee, tea and cocoa (acoff) | 250
+Kenya 2019 SAM | Total (total) | Activities - Other crops (aocrp) | 99
+Kenya 2019 SAM | Total (total) | Activities - Cattle and raw milk (acatt) | 796
+Kenya 2019 SAM | Total (total) | Activities - Poultry and eggs (apoul) | 150
+Kenya 2019 SAM | Total (total) | Activities - Other livestock (aoliv) | 213
+Kenya 2019 SAM | Total (total) | Activities - Forestry (afore) | 148
+Kenya 2019 SAM | Total (total) | Activities - Fisheries (afish) | 107
+Kenya 2019 SAM | Total (total) | Activities - Mining (amine) | 118
+Kenya 2019 SAM | Total (total) | Activities - Processed foods (afood) | 1292
+Kenya 2019 SAM | Total (total) | Activities - Beverage and tobacco (abeve) | 286
+Kenya 2019 SAM | Total (total) | Activities - Textiles, clothing and footwear (atext) | 263
+Kenya 2019 SAM | Total (total) | Activities - Wood and paper products (awood) | 127
+Kenya 2019 SAM | Total (total) | Activities - Chemicals and petroleum (achem) | 227
+Kenya 2019 SAM | Total (total) | Activities - Non-metal minerals (anmet) | 106
+Kenya 2019 SAM | Total (total) | Activities - Metals and metal products (ametl) | 187
+Kenya 2019 SAM | Total (total) | Activities - Machinery, equipment and vehicles (amach) | 97
+Kenya 2019 SAM | Total (total) | Activities - Other manufacturing (aoman) | 331
+Kenya 2019 SAM | Total (total) | Activities - Electricity, gas and steam (aelec) | 239
+Kenya 2019 SAM | Total (total) | Activities - Water supply and sewage (awatr) | 59
+Kenya 2019 SAM | Total (total) | Activities - Construction (acons) | 1295
+Kenya 2019 SAM | Total (total) | Activities - Wholesale and retail trade (atrad) | 1283
+Kenya 2019 SAM | Total (total) | Activities - Transportation and storage (atran) | 1368
+Kenya 2019 SAM | Total (total) | Activities - Accommodation and food services (ahotl) | 352
+Kenya 2019 SAM | Total (total) | Activities - Information and communication (acomm) | 181
+Kenya 2019 SAM | Total (total) | Activities - Finance and insurance (afsrv) | 470
+Kenya 2019 SAM | Total (total) | Activities - Real estate activities (areal) | 768
+Kenya 2019 SAM | Total (total) | Activities - Business services (absrv) | 453
+Kenya 2019 SAM | Total (total) | Activities - Public administration (apadm) | 635
+Kenya 2019 SAM | Total (total) | Activities - Education (aeduc) | 743
+Kenya 2019 SAM | Total (total) | Activities - Health and social work (aheal) | 270
+Kenya 2019 SAM | Total (total) | Activities - Other services (aosrv) | 177
+Kenya 2019 SAM | Total (total) | Commodities - Maize (cmaiz) | 726
+Kenya 2019 SAM | Total (total) | Commodities - Rice (crice) | 44
+Kenya 2019 SAM | Total (total) | Commodities - Other cereals (cocer) | 254
+Kenya 2019 SAM | Total (total) | Commodities - Pulses (cpuls) | 539
+Kenya 2019 SAM | Total (total) | Commodities - Oilseeds (coils) | 62
+Kenya 2019 SAM | Total (total) | Commodities - Roots (croot) | 239
+Kenya 2019 SAM | Total (total) | Commodities - Vegetables (cvege) | 590
+Kenya 2019 SAM | Total (total) | Commodities - Sugarcane (csugr) | 92
+Kenya 2019 SAM | Total (total) | Commodities - Tobacco (ctoba) | 19
+Kenya 2019 SAM | Total (total) | Commodities - Cotton and fibres (ccott) | 31
+Kenya 2019 SAM | Total (total) | Commodities - Fruits and nuts (cfrui) | 407
+Kenya 2019 SAM | Total (total) | Commodities - Coffee, tea and cocoa (ccoff) | 314
+Kenya 2019 SAM | Total (total) | Commodities - Other crops (cocrp) | 126
+Kenya 2019 SAM | Total (total) | Commodities - Cattle and raw milk (ccatt) | 836
+Kenya 2019 SAM | Total (total) | Commodities - Poultry and eggs (cpoul) | 129
+Kenya 2019 SAM | Total (total) | Commodities - Other livestock (coliv) | 233
+Kenya 2019 SAM | Total (total) | Commodities - Forestry (cfore) | 189
+Kenya 2019 SAM | Total (total) | Commodities - Fisheries (cfish) | 126
+Kenya 2019 SAM | Total (total) | Commodities - Mining (cmine) | 155
+Kenya 2019 SAM | Total (total) | Commodities - Processed foods (cfood) | 1925
+Kenya 2019 SAM | Total (total) | Commodities - Beverage and tobacco (cbeve) | 426
+Kenya 2019 SAM | Total (total) | Commodities - Textiles, clothing and footwear (ctext) | 447
+Kenya 2019 SAM | Total (total) | Commodities - Wood and paper products (cwood) | 199
+Kenya 2019 SAM | Total (total) | Commodities - Chemicals and petroleum (cchem) | 1037
+Kenya 2019 SAM | Total (total) | Commodities - Non-metal minerals (cnmet) | 158
+Kenya 2019 SAM | Total (total) | Commodities - Metals and metal products (cmetl) | 391
+Kenya 2019 SAM | Total (total) | Commodities - Machinery, equipment and vehicles (cmach) | 842
+Kenya 2019 SAM | Total (total) | Commodities - Other manufacturing (coman) | 399
+Kenya 2019 SAM | Total (total) | Commodities - Electricity, gas and steam (celec) | 253
+Kenya 2019 SAM | Total (total) | Commodities - Water supply and sewage (cwatr) | 66
+Kenya 2019 SAM | Total (total) | Commodities - Construction (ccons) | 1342
+Kenya 2019 SAM | Total (total) | Commodities - Wholesale and retail trade (ctrad) | 1315
+Kenya 2019 SAM | Total (total) | Commodities - Transportation and storage (ctran) | 1422
+Kenya 2019 SAM | Total (total) | Commodities - Accommodation and food services (chotl) | 430
+Kenya 2019 SAM | Total (total) | Commodities - Information and communication (ccomm) | 200
+Kenya 2019 SAM | Total (total) | Commodities - Finance and insurance (cfsrv) | 511
+Kenya 2019 SAM | Total (total) | Commodities - Real estate activities (creal) | 768
+Kenya 2019 SAM | Total (total) | Commodities - Business services (cbsrv) | 579
+Kenya 2019 SAM | Total (total) | Commodities - Public administration (cpadm) | 662
+Kenya 2019 SAM | Total (total) | Commodities - Education (ceduc) | 743
+Kenya 2019 SAM | Total (total) | Commodities - Health and social work (cheal) | 270
+Kenya 2019 SAM | Total (total) | Commodities - Other services (cosrv) | 182
+Kenya 2019 SAM | Total (total) | Transaction costs (trc) | 1348
+Kenya 2019 SAM | Total (total) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 196
+Kenya 2019 SAM | Total (total) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 1018
+Kenya 2019 SAM | Total (total) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 2209
+Kenya 2019 SAM | Total (total) | Factors - Agricultural land (flnd) | 1118
+Kenya 2019 SAM | Total (total) | Factors - Capital (fcap) | 4322
+Kenya 2019 SAM | Total (total) | Enterprises (ent) | 3782
+Kenya 2019 SAM | Total (total) | Households - Rural (quintile 1) (hhd-r1) | 462
+Kenya 2019 SAM | Total (total) | Households - Rural (quintile 2) (hhd-r2) | 646
+Kenya 2019 SAM | Total (total) | Households - Rural (quintile 3) (hhd-r3) | 857
+Kenya 2019 SAM | Total (total) | Households - Rural (quintile 4) (hhd-r4) | 1014
+Kenya 2019 SAM | Total (total) | Households - Rural (quintile 5) (hhd-r5) | 1025
+Kenya 2019 SAM | Total (total) | Households - Urban (quintile 1) (hhd-u1) | 52
+Kenya 2019 SAM | Total (total) | Households - Urban (quintile 2) (hhd-u2) | 127
+Kenya 2019 SAM | Total (total) | Households - Urban (quintile 3) (hhd-u3) | 248
+Kenya 2019 SAM | Total (total) | Households - Urban (quintile 4) (hhd-u4) | 609
+Kenya 2019 SAM | Total (total) | Households - Urban (quintile 5) (hhd-u5) | 3432
+Kenya 2019 SAM | Total (total) | Government (gov) | 1808
+Kenya 2019 SAM | Total (total) | Taxes - Direct (personal or corporate) (dtax) | 737
+Kenya 2019 SAM | Total (total) | Taxes - Imports (products) (mtax) | 141
+Kenya 2019 SAM | Total (total) | Taxes - Sales, excise and/or value-added (products) (stax) | 678
+Kenya 2019 SAM | Total (total) | Savings-investment (s-i) | 1694
+Kenya 2019 SAM | Total (total) | Change in stocks (dstk) | 63
+Kenya 2019 SAM | Total (total) | Rest of world (row) | 2346
+Kenya 2019 SAM | Total (total) | Total (total) | 65710

@@ -1,0 +1,70 @@
+Fact-check verdicts, batch 2 (C-0031 to C-0060), 2026-09-23. Notes: C-0032 WEO Somalia vintage 19/9/2025 predates the February 2026 oil shock; C-0048 is share of total exports, not comparable with C-0053 (goods exports).
+
+C-0031: PASS
+
+C-0032: PASS
+
+C-0033: PASS
+
+C-0034: PASS
+
+C-0035: PASS
+
+C-0036: PASS
+
+C-0037: PASS
+
+C-0038: PASS
+
+C-0039: PASS
+
+C-0040: PASS
+
+C-0041: PASS
+
+C-0042: PASS
+
+C-0043: FAIL
+  Reason: Table 3 is sourced 'FAO-FSNAU & CBS estimates and valuations, 2019' (head count x export price); an estimated valuation and a re-estimate, not a labelled revision; includes Berbera exports (Somaliland). Correction: basis 'estimate'; 'The Central Bank's 2019 Annual Report estimated 2018 livestock exports at USD 311.1 million (FAO-FSNAU and CBS valuation, higher than the USD 299.04 million in its 2018 report).'
+
+C-0044: FAIL
+  Reason: Same Table 3 (estimates and valuations). Correction: basis 'estimate'; 'Livestock exports were estimated at USD 406.2 million in 2019 (CBS valuation).'
+
+C-0045: FAIL
+  Reason: Sourced 'FSNAU, with CBS estimates and Projections, 2018'. Correction: basis 'estimate'; 'The Central Bank's 2018 Annual Report estimated 2018 livestock exports at USD 299.04 million (later re-estimated).'
+
+C-0046: PASS
+
+C-0047: PASS
+
+C-0048: PASS
+
+C-0049: PASS
+
+C-0050: PASS
+
+C-0051: PASS
+
+C-0052: FAIL
+  Reason: USD 823 million is livestock exports in REAL (constant-price) terms from SNBS real GDP by expenditure (CBS AR 2025 Table 2, p. 25: 917 in 2024, 823 in 2025, -10%); not nominal and not inconsistent with 922.9. Correction: measure 'livestock exports, real (constant prices), SNBS'; statement 'In real terms, livestock exports fell 10 percent to USD 823 million in 2025 (SNBS, reproduced in CBS AR 2025 Table 2); nominal exports fell 3 percent to USD 922.9 million.' Re-resolve X-005.
+
+C-0053: PASS
+
+C-0054: FAIL
+  Reason: Head counts sourced 'FAO-FSNAU & CBS estimates and valuations, 2025'. Correction: basis 'estimate'; 'Livestock exports were estimated at more than 5.9 million head in 2025.'
+
+C-0055: FAIL
+  Reason: Same estimate labelling. Correction: basis 'estimate'; 'Somalia exported an estimated 222,010 head of cattle in 2025.'
+
+C-0056: FAIL
+  Reason: Same estimate labelling. Correction: basis 'estimate'; 'Somalia exported an estimated 193,013 head of camels in 2025.'
+
+C-0057: PASS
+
+C-0058: FAIL
+  Reason: NDC annex p. 35 calls 54.3 MtCO2eq a 'total provisional estimate'; includes LULUCF. Correction: 'Somalia's greenhouse gas emissions in 2024 are provisionally estimated at 54.3 MtCO2e, including land use, land-use change and forestry (NDC 3.0, 2025 national inventory).'
+
+C-0059: PASS
+
+C-0060: FAIL
+  Reason: Per capita figure is dated 2024 (p. 15) and rests on the provisional total. Correction: 'Per capita emissions were an estimated 2.6 tonnes of CO2e per person in 2024 (provisional inventory, NDC 3.0).'

@@ -1,0 +1,283 @@
+=== PAGE 1 ===
+## IFC SII record, project 46656
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[SponsorCostLocation.Sponsor] DTRT is 48%-owned by its founding executives Skip Richmond and Marc Hansult. The remaining shareholders of the Company are Verod Capital Management (Fund III) and Red Bull GmbH, who hold 42% and 10% of the Company respectively.
+[SponsorCostLocation.Cost_Nature] The project cost is estimated at US$12.26 million. The proposed IFC investment is a US$4 million corporate A-loan and a US$4 million subordinated loan provided by International Development Association Private Sector Window (“IDA PSW”) to support the Company in implementing the Project.
+[SponsorCostLocation.Location] The funds will be used in DTRT’s two CMT facilities located in Accra and in Tema, in the Republic of Ghana.
+[SponsorCostLocation.BlendedFinanceRationale] IFC as implementing entity of the IDA PSW BFF is expected to provide up to $4 million in the form of a subordinated concessional loan (“blended finance co-investment”) to support the Project. Without the support of the blended finance co-investment, the Project will not go ahead as planned due to the limited availability of security. As a result, DTRT’s Cut-Make-Trim (CMT) expansion would not be carried out at scale and the objective to create jobs, increase domestic value addition and grow exports will not be fully achieved. The subsequent benefits for the employees whose jobs will be created by the Project would not be fully realized either.
+The level of concessionality (i.e., “subsidy”) provided by the blended concessional finance co-investment is estimated to be [6.2%] of the total project cost of $10 million. This estimate is based on the difference between (i) a “reference price” (either a market price if available; the price calculated using IFC’s pricing model, which comprises three main elements: risk, cost and profit; or a negotiated price) and (ii) the “concessional price” being charged by the blended concessional finance co-investment. Further details and historical information on estimated subsidy levels in IFC’s blended finance portfolio can be found at: www.ifc.org/blendedfinance. As is the case with all of IFC’s blended concessional finance co-investments, this project has been assessed against the Enhanced Blended Concessional Finance Principles for DFI Private Sector Operations adopted by IFC and more than 20 other DFIs in 2017. Further information on these Enhanced Principles and IFC’s blended finance approach and governance can also be found at: www.ifc.org/blendedfinance. IFC is open to engage with other eligible market players in the sector developing projects that seek to achieve similar impact.
+[DevelopmentImpact.Impact] Economy-wide effects- The Ready-Made Garments (“RMG” sector in West Africa was badly hit during the onset of the pandemic and it is gradually recovering. Against this backdrop, the Project is expected to have various positive economy-wide effects, including i) domestic value addition and grow exports from the region through the expansion of the CMT operations and increasing product complexity (including potential production of PPE); ii) the direct creation of 2,900 formal manufacturing jobs, mostly for women, and a larger number of indirect jobs.
+Contribution to market creation Market Competitiveness: The Project is expected to improve the sector competitiveness through the expansion of the CMT operations to achieve scale, and therefore improve the efficiency of apparel production in the West Africa region and through backward integration (the 2nd phase of the Project). The capacity for DTRT to produce fabric for other companies in phase 2 will create an additional opportunity to serve other apparel manufacturers on the African continent, particularly those that are increasingly focused on establishing West African CMT operations and would benefit from locally produced fabrics (e.g., Ghana, Nigeria, Senegal, Cote d'Ivoire). As such, as the first mover in the Ghanaian market to integrate its operations at scale, DTRT can serve a significant demonstration effect, and case study for building the textiles sector in West Africa. This could have significant ripple effects, attracting other investors and players in the region, and permitting the West African textiles sector to follow the trajectory of other successful cases (Bangladesh and Sri Lanka) and to develop in ways that will not be possible without this type of first-mover investment.
+[DevelopmentImpact.Risk_Assessment] 0 0 0 0 0 0 0 0 0.0000
+IFC has not found any governance risks to development impacts.
+[DevelopmentImpact.Role] Financial additionality- Financing Structure: (i) IFC will provide customized financing with multiple tranches to match the CMT ramp-up (in USD) with 6-year tenor (including 2-year grace period) which is not readily available to the Company in the local market; (ii) IFC will potentially provide concessional IDA PSW financing which will help de risk the project given the limited available security package.
+Non-Financial additionality- Knowledge Innovation and Capacity Building: (i) IFC will continue providing upstream support, to properly integrate the CMT with the upcoming fabric mill; (ii) IFC will help DTRT strengthen the workplace policies for the female workforce (i.e. gender).
+Standard setting- IFC can potentially enhance DTRT's E&S practices through IFC performance standards. IFC can do so during supervision by supporting the Company implement E&S action plan and recommendations.
+[RisksMitigation.SocialCategoryRationale] This is a Category B project according to IFC's Policy on Environment and Social Sustainability (2012). Based on information reviewed by IFC, the proposed Project will have limited adverse E&S impacts that are few, site specific, largely reversible, and readily addressed through existing mitigation measures and good international industry practices (GIIP).
+Key E&S issues include; i) adequacy of the EHS, and HR management systems and associated capacity to support effective implementation; ii) provision of fair labor and working conditions including that related to occupational health and safety (OHS) in alignment with national regulations and the PS’s during construction and operations, iii) life and fire safety (LFS) and emergency planning and response; iv) supply chain management, including incidence of child and/or forced labor and risk screening of third-party suppliers; v) resource efficiency; and vi) community health, safety and security.
+[RisksMitigation.EnvSocialRisksImpact] Please refer to the related Environmental and Social Review Summary (ESRS) document for this project.
+[RisksMitigation.MitigationMeasures] Please refer to the Environmental and Social Action Plan (ESAP) tab in the related Environmental and Social Review Summary (ESRS) document for this project.
+[AdditionalProjectAttribute.Blended_Finance] Yes
+[AdditionalProjectAttribute.Blended_Finance_Facility] IDA19-PSW BFF
+[Psw.Facility[0].Key] IDA21-PSW BFF
+[Psw.Facility[1].Key] IDA21-PSW RMF
+[Psw.Facility[2].Key] IDA21-PSW LCF
+[Psw.Facility[3].Key] CCW-IDA21
+[Psw.Facility[4].Key] None
+[Psw.Total_Project_Cost] Not Available
+[Psw.Ifc_OA_Commitment] Not Available
+[Psw.Commercial_CoFinancing] Not Available
+[Psw.Dfi_CoFinancing] Not Available
+[ProjectName] DTRT CMT Expan.
+[CompanyName] DTRT APPAREL MAURITIUS LTD
+[Department] Regional Industry - MAS Africa
+[Country] Ghana
+[Region] Africa
+[Industry] Manufacturing
+[Sector] Garment and Apparel (Without Fabric , Excluding Footwear)
+[EnvironmentalCategory] B - Limited
+[Status] Active
+[ProjectOverView.Project_Description] The investment entails the expansion of the existing cut-make-trim (“CMT”) operations of DTRT Apparel Ltd (“DTRT”, or “the Company”) through the establishment of a new 31,000 sqm upgraded garment factory area to increase capacity from 50 sewing lines to 107 sewing lines by 2026 (the “Project”).
+[ProjectOverView.ESAP] The Company will engage with IFC’s gender advisory services to evaluate aspects of the Project related to women in the workforce.
+[ProjectOverView.Env_Soc_Inf] Please refer to the Environmental and Social Review Summary (ESRS) linked to this project SII in the IFC's project disclosure website.
+[DocumentType] Summary of Investment Information (AIP Policy 2012)
+[ProjectType] Investment
+## IFC ESRS record, project 46656
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[RelevantProjects[5].Region] Africa
+[RelevantProjects[6].Region] Africa
+[RelevantProjects[7].Region] Africa
+[RelevantProjects[8].Region] Africa
+[RelevantProjects[9].Region] Africa
+[RelevantProjects[10].Region] Africa
+[RelevantProjects[11].Region] Africa
+[RelevantProjects[12].Region] Africa
+[RelevantProjects[13].Region] Africa
+[RelevantProjects[14].Region] Africa
+[RelevantProjects[15].Region] Africa
+[RelevantProjects[16].Region] Africa
+[RelevantProjects[17].Region] Africa
+[RelevantProjects[18].Region] Africa
+[RelevantProjects[19].Region] Africa
+[RelevantProjects[20].Region] Africa
+[RelevantProjects[21].Region] Africa
+[RelevantProjects[22].Region] Africa
+[RelevantProjects[23].Region] Africa
+[RelevantProjects[24].Region] Africa
+[RelevantProjects[25].Region] Africa
+[RelevantProjects[26].Region] Africa
+[RelevantProjects[27].Region] Africa
+[RelevantProjects[28].Region] Africa
+[RelevantProjects[29].Region] Africa
+[RelevantProjects[30].Region] Africa
+[RelevantProjects[31].Region] Africa
+[RelevantProjects[32].Region] Africa
+[RelevantProjects[33].Region] Africa
+[RelevantProjects[34].Region] Africa
+[RelevantProjects[35].Region] Africa
+[RelevantProjects[36].Region] Africa
+[RelevantProjects[37].Region] Africa
+[RelevantProjects[38].Region] Africa
+[RelevantProjects[39].Region] Africa
+[RelevantProjects[40].Region] Africa
+[RelevantProjects[41].Region] Africa
+[RelevantProjects[42].Region] Africa
+[RelevantProjects[43].Region] Africa
+[RelevantProjects[44].Region] Africa
+[RelevantProjects[45].Region] Africa
+[RelevantProjects[46].Region] Africa
+[RelevantProjects[47].Region] Africa
+[RelevantProjects[48].Region] Africa
+[RelevantProjects[49].Region] Africa
+[RelevantProjects[50].Region] Africa
+[RelevantProjects[51].Region] Africa
+[RelevantProjects[52].Region] Africa
+[RelevantProjects[53].Region] Africa
+[RelevantProjects[54].Region] Africa
+[RelevantProjects[55].Region] Africa
+[RelevantProjects[56].Region] Africa
+[RelevantProjects[57].Region] Africa
+[RelevantProjects[58].Region] Africa
+[RelevantProjects[59].Region] Africa
+[RelevantProjects[60].Region] Africa
+[RelevantProjects[61].Region] Africa
+[RelevantProjects[62].Region] Africa
+[RelevantProjects[63].Region] Africa
+[RelevantProjects[64].Region] Africa
+[RelevantProjects[65].Region] Africa
+[RelevantProjects[66].Region] Africa
+[RelevantProjects[67].Region] Africa
+[RelevantProjects[68].Region] Africa
+[RelevantProjects[69].Region] Africa
+[RelevantProjects[70].Region] Africa
+[RelevantProjects[71].Region] Africa
+[RelevantProjects[72].Region] Africa
+[RelevantProjects[73].Region] Africa
+[RelevantProjects[74].Region] Africa
+[RelevantProjects[75].Region] Africa
+[RelevantProjects[76].Region] Africa
+[RelevantProjects[77].Region] Africa
+[RelevantProjects[78].Region] Africa
+[RelevantProjects[79].Region] Africa
+[RelevantProjects[80].Region] Africa
+[RelevantProjects[81].Region] Africa
+[RelevantProjects[82].Region] Africa
+[RelevantProjects[83].Region] Africa
+[RelevantProjects[84].Region] Africa
+[RelevantProjects[85].Region] Africa
+[RelevantProjects[86].Region] Africa
+[RelevantProjects[87].Region] Africa
+[RelevantProjects[88].Region] Africa
+[RelevantProjects[89].Region] Africa
+[RelevantProjects[90].Region] Africa
+[RelevantProjects[91].Region] Africa
+[RelevantProjects[92].Region] Africa
+[RelevantProjects[93].Region] Africa
+[RelevantProjects[94].Region] Africa
+[RelevantProjects[95].Region] Africa
+[RelevantProjects[96].Region] Africa
+[RelevantProjects[97].Region] Africa
+[RelevantProjects[98].Region] Africa
+[RelevantProjects[99].Region] Africa
+[RelevantProjects[100].Region] Africa
+[RelevantProjects[101].Region] Africa
+[RelevantProjects[102].Region] Africa
+[RelevantProjects[103].Region] Africa
+[RelevantProjects[104].Region] Africa
+[RelevantProjects[105].Region] Africa
+[RelevantProjects[106].Region] Africa
+[RelevantProjects[107].Region] Africa
+[RelevantProjects[108].Region] Africa
+[RelevantProjects[109].Region] Africa
+[RelevantProjects[110].Region] Africa
+[RelevantProjects[111].Region] Africa
+[RelevantProjects[112].Region] Africa
+[RelevantProjects[113].Region] Africa
+[RelevantProjects[114].Region] Africa
+[RelevantProjects[115].Region] Africa
+[RelevantProjects[116].Region] Africa
+[RelevantProjects[117].Region] Africa
+[RelevantProjects[118].Region] Africa
+[RelevantProjects[119].Region] Africa
+[RelevantProjects[120].Region] Africa
+[RelevantProjects[121].Region] Africa
+[RelevantProjects[122].Region] Africa
+[RelevantProjects[123].Region] Africa
+[RelevantProjects[124].Region] Africa
+[RelevantProjects[125].Region] Africa
+[RelevantProjects[126].Region] Africa
+[RelevantProjects[127].Region] Africa
+[RelevantProjects[128].Region] Africa
+[RelevantProjects[129].Region] Africa
+[RelevantProjects[130].Region] Africa
+[RelevantProjects[131].Region] Africa
+[RelevantProjects[132].Region] Africa
+[RelevantProjects[133].Region] Africa
+[RelevantProjects[134].Region] Africa
+[RelevantProjects[135].Region] Africa
+[RelevantProjects[136].Region] Africa
+[RelevantProjects[137].Region] Africa
+[RelevantProjects[138].Region] Africa
+[RelevantProjects[139].Region] Africa
+[RelevantProjects[140].Region] Africa
+[RelevantProjects[141].Region] Africa
+[RelevantProjects[142].Region] Africa
+[ESProjCategoryAndApplicableStandard.IAPS] While all Performance Standards are applicable to this investment, IFC’s environmental and social due diligence indicates that the investment will have impacts which must be managed in a manner consistent with the following Performance Standards
+PS 1 - Assessment and Management of Environmental and Social Risks and Impacts
+PS 2 - Labor and Working Conditions
+PS 3 - Resource Efficiency and Pollution Prevention
+PS 4 - Community Health, Safety and Security
+Land Acquisition and Involuntary Resettlement does not apply as the proposed 31,000 sqm upgraded garment factory will be on a 10-year lease of space within the Tema Free Zone in which the Company’s site development partner acquired 200 ha in 2001. Therefore, no physical resettlement and/or relocation will result due to the Project. This site, along with the Company’s existing facilities, are in urban, well-developed industrial areas, therefore, impacts related to PS6: Biodiversity and Natural Resource Management, PS7: Indigenous Peoples and PS 8: Cultural Heritage are not expected.
+[ESProjCategoryAndApplicableStandard.ESCR] This is a Category B project according to IFC's Policy on Environment and Social Sustainability (2012). Based on information reviewed by IFC, the proposed Project will have limited adverse E&S impacts that are few, site specific, largely reversible, and readily addressed through existing mitigation measures and good international industry practices (GIIP).
+Key E&S issues include; i) adequacy of the EHS, and HR management systems and associated capacity to support effective implementation; ii) provision of fair labor and working conditions including that related to occupational health and safety (OHS) in alignment with national regulations and the PS’s during construction and operations, iii) life and fire safety (LFS) and emergency planning and response; iv) supply chain management, including incidence of child and/or forced labor and risk screening of third-party suppliers; v) resource efficiency; and vi) community health, safety and security.
+[ESRisksOrImpactAndMitigation.PS1_AssessMgmtEnvSocialRisks] Environmental and Social Assessment and Management System.
+DTRT has a corporate E&S management system (ESMS) that comprises clearly defined policies and procedures. The policy statements related to business ethics, environmental management and OHS and are well aligned with the objectives of IFC’s Performance Standards. The policies have been endorsed by the DTRT Co-CEOs and Board of Directors.
+The Company is in the process of undertaking the; i) the HIGG FEM self-assessment which is an apparel and footwear industry standard for assessing environmental and social sustainability throughout the supply chain. In addition, the Company is renewing their Worldwide Responsible Accredited Production (WRAP) certification, the world’s largest factory-based certification program for manufacturers of clothing, footwear, and other sewn products. DTRT has been ‘Gold Certified’ under WRAP since 2017.
+Identification of Risks and Impacts. DTRT conducts periodic EHS and compliance risk assessments related to employees, contractors, and visitors. Environment Health Safety and Security (EHSS) key performance indicators (KPIs) (unsafe working conditions, first aid, fire safety, product safety etc.) are monitored weekly through compliance audits by the ESG and Compliance team and reviewed quarterly by management. Non-compliances are summarized and discussed in management meetings, and the team analyses the root causes and implements corrective actions which may include developing standard operating procedures and training of workers.
+DTRT also undertakes audits on environment, water and LFS matters as statutory requirements to obtain annual licenses and permits. External operational audits are also carried out by DTRT’s main buyers. These audits focus on aspects such as the Customs-Trade Partnership Against Terrorism (CTPAT), social compliance, health and safety, vendor code of conduct and the associated supplier qualification program (SQP). As part of the appraisal, the SQP audit reports were reviewed. The findings indicate satisfactory performance and the related action plans have been implemented by DTRT. To ensure construction related impacts are adequately managed, the Company will require its site development partner to implement an environmental and social management plan (ESMP) for this phase. This will also address OHS related aspects and ensure oversight by DTRT to ensure the ESMP is being effectively implemented; refer to ESAP #1.
+Organizational Capacity and Competency. DTRT has recruited a competent ESG and Compliance team which includes an ESG Manager who oversee operational risks and impacts for all activities. The ESG Manager currently reports directly to the Company’s Co-CEOs. The Company provides regular EHS trainings to staff and contractors. A review of the training plan, training attendance list and training reports indicates satisfactory participation and is commensurate with the risks and impacts of the operations.
+Emergency Preparedness and Response Plan. DTRT has documented an emergency response procedure for both facilities in Accra and Tema. The roles and responsibilities for staff in evacuation, rescue, firefighting etc. are displayed at various prominent locations across the facilities. Fire alarm call points, evacuation route maps and portable fire extinguishers have been placed at various locations. The ESG and Compliance team conducts internal audits to ensure implementation of fire safety measures. Workers are trained in fire safety and operation of fire safety equipment annually. A 2020 audit by Ghana National Fire Services, for the Accra site confirmed the adequacy of the approach to life and fire safety for the facilities.
+As defined in ESAP# 2, the Company will commission an independent review by a suitably qualified specialist of the LFS design for the new facility and that related to existing operations to confirm compliance against national standards and good international industry practice (GIIP) in the sector. This review will also assess the associated emergency response plans. In addition, after the fitting of equipment at the new facility, DTRT will commission a suitable specialist to verify that the facility has been constructed in accordance with the associated design and that firefighting / emergency response systems are adequate. Where corrective actions are defined relative to either the existing or new facilities, DTRT will define a time-based corrective action plan to address these requirements.
+Monitoring and Reporting. As noted above, there are regular internal and external audits and the ESG and Compliance team report quarterly to the management team on all KPIs. Externally, the Company also reports to relevant Government departments on compliance and licensing and provides an annual E&S report to lenders and buyers.
+Stakeholder Engagement. DTRT has a stakeholder engagement procedure which defines the purpose and scope, roles and responsibilities and how to communicate with all stakeholders. The procedure is available to all staff and stakeholders and is being actively implemented. Minutes of stakeholder engagements were reviewed as part of this appraisal. The Company has an external grievance procedure which is available to communities / individuals as required to raise grievances and ensure effective management thereof. For the Project, the Stakeholder Engagement Procedure will be revised to incorporate this component of the Company’s activities; see ESAP #3
+[ESRisksOrImpactAndMitigation.PS2_LaborWorkConditions] Human Resources (HR) Policies and Procedures. The Company has an HR Director who currently reports directly to the Co-CEOs and is supported by a broader HR team. There are a suite of Human Resources (HR) policies including that related to non-discrimination and equal opportunity, engagement of child labor or forced labor, harassment and abuse, freedom of association, grievance, medical care, working hours and overtime; these apply to all workers. All the policies are included in a HR Manual. Taking into account the size of the existing workforce allied to the increase required for expansion and considering some of the actions items as required in regard to PS2 compliance, the Company will undertake an independent review of their approach to HR to ensure compliance with national legislation, the PS’s and GIIP for this sector (ESAP #4).
+Working Conditions and Terms of Employment. The proposed project expansion is expected to create more than 3,000 new jobs in addition to the current workforce of c.3,400 workers of which 68% are females and 53 are expatriates. The Company, in collaboration with Ghana National Association of the Deaf (GNAD), is targeting to employ up to 200 ‘differently-abled’ people as part of the Project. As part of a Gender Strategy 2023, the Company has developed a zero-tolerance policy to sexual harassment, a welfare committee on gender issues and a career progression plan for female employees, aimed to increase female workers in technical and supervisory positions in the workforce. As part of the Gender Strategy, DTRT will undertake a GBV risk assessment, develop strategies to manage GBV risks including relevant policies and procedures, and an effective means of communicating the strategy to workers; see ESAP #5. Female worker welfare is further enhanced by ensuring there are gender-sensitive change rooms with appropriate sanitary fittings and that appropriate personnel protective equipment (PPE) is provided where applicable.
+Workers are not subject to medical checkups prior to employment or during employment other than of a voluntary nature.
+Each worker receives an open term contract describing working conditions and terms of employment including working hours and annual leave. The Company operates on two 8-hour shifts including a one-hour lunch break, with flexible work arrangements allowed for special cases such as students. DTRT has a clear policy on overtime, though it was noted that some workers are engaged for up to 10 hours per shift. Thus, the Company’s approach to management of overtime will be one of the components assessed as per ESAP #4.
+No accommodation is provided for workers. The Company provides a lunch allowance to all workers who buy their meals from vendors located in close proximity to the facilities. As part of this Project, the Company will create dedicated canteen and rest spaces for the workers. The approach to the latter for existing facilities and that related to the expansion will also be assessed as part of ESAP#4.
+Workers Organizations. The Ghana labor law provides for freedom of workers to join workers’ associations and the Company has a policy in support of such and does not discourage workers to form such organizations. However, none of DTRT employees are currently unionised. DTRT has a Welfare Committee lead by the HR Director and employee representatives, but the committee does not have a clear mandate. As such, as part of the broader review of HR (ESAP #4), the mandate for the committee will be reviewed. including its objectives, roles and responsibilities and membership.
+Workers Grievance Mechanism. Employee grievances are managed through the direct supervisor who addresses the concern and may escalate the grievance to the HR Director as described in the Grievance Management Procedure (GMP). The GMP allows for anonymous grievances through a written form, or a hotline managed internally by the HR Director. DTRT received and closed 151 grievances in 2021. As part per ESAP #6, DTRT will review and update the GMP to include classification of grievances, specifying a timeline for investigations and communication plan including during induction and other sensitization activities. The GMP will be accessible to all third-party contractors including the security companies.
+Retrenchment. The Company has not retrenched since its establishment. However, as required by national laws and in line with PS2, DTRT will develop a retrenchment policy and procedure as part of its HR manual; refer ESAP #4.
+Workers Engaged by Third Parties. The only third-party workers engaged by DTRT are security guards. DTRT engages two private security firms with approximately 25 guards for all its operations. While DTRT has a Contractor Management Policy, this needs to be further enhanced to align with IFC’s requirement. As such, the Company will develop and maintain a Contractor Management Procedure aligned IFC’s Good Practice Note on Contractor Management) and ensure this includes training of contractors on EHS aspects as applicable and ensuring access to a grievance mechanism. The Contractor Management Procedure will ensure the plant managers have the responsibility to ensure compliance thereto ; refer ESAP #7.
+Occupational Health and Safety (OHS). DTRT, through its Health and Safety Policy, commits the Company to take all practical steps to ensure health and wellbeing of its employees, clients, business environment and society. The Company has a Health and Safety Committee as required by national law and applies a Permit-To-Work (PTW) system for all hazardous work including working at heights and protection from heat, noise, dust, and odor, which are monitored and reported upon. HSE Compliance Officers are responsible for the induction of staff and visitors, monitoring the implementation of the OHS procedure, periodic reporting, and investigation of incidents. DTRT has an incident management procedure where incidents are recorded and reported to the management quarterly. No significant OHS events occurred in 2021and there were no fatalities.
+While workers benefit from OHS training such as First Aid, Life and Fire Safety, the Company will develop and implement a systematic approach to OHS training whereby all staff to undergo OHS induction training followed up with a yearly refresher training and a mandatory induction for all visitors; see ESAP#8.
+As reported under PS1 above, external OHS audits and random inspections are conducted by factory inspectorates from the municipality as required by national laws. DTRT has an onsite clinic equipped with a full-time nurse and a doctor visiting twice a week. The Company has 52 trained first aiders and 40 fire wardens, with their contact information displayed at strategic sites within the factory.
+COVID-19 Measures. DTRT has implemented several COVID-19 response measures for its operations including: social distancing, provision of masks, cleaning and disinfecting in line with governmental public health requirements. In doing so the Company adheres to the Ministry of Health regulations for the prevention of COVID-19. There has been no significant health impact so far due to the pandemic and no recorded cases of COVID-19 among its workforce and all the workers are fully vaccinated.
+Supply Chain. DTRT currently purchases its fabric from China and other Asian suppliers. The Company has offices in China to manage the supply chain risks through audits for compliance with environmental and social policies and procedures. As part of this project, DTRT will develop a supply chain policy that addresses risks associated with forced and child labor and includes regular due diligence on its suppliers, ensures compliance with internationally recognized traceability protocols as applicable, and obtains similar representations and covenants from its suppliers; refer ESAP #9. DTRT will also agree to have its records, including supply chain maps, reviewed by auditors, and will report relevant supply chain incidents.
+[ESRisksOrImpactAndMitigation.PS3_ResEffPollutionPrev] DTRT has a resource efficiency plan, focused on water use and energy, that details how resources can be used efficiently.
+Energy Use and Greenhouse Gas Emissions. The Company’s production process does not result in significant quantities of waste or emissions. Electricity for all facilities is sourced from the national grid, supplemented by diesel powered generators used during power outages. DTRT estimates its annual energy consumption and estimates the GHG from these energy sources. Current GHG emissions from the existing operations (based on electricity and fuels from gensets and fleet) have been estimated to be 1,003 metric tons CO2-equivalent per year (Scope 1 and 2). Additional GHG emissions due to the proposed expansion, are not expected to be significant and total GHG emissions for DTRT will remain below 25,000 tons of CO2-equivalent per year.
+Water Use and Efficiency. The CMT operations are a dry process and do not use water. However, the Company uses approximately 15 million liters of water annually at the facility in Accra and Tema and this is sourced from boreholes. The water is mainly for sanitary processes. Sanitary wastewater is collected in the septic tanks and disposed by licensed sewage removal trucks. Water for the new expansion will also be obtained from a borehole within Tema and the sanitary waste will be disposed by licensed sewage removal trucks.
+Solid Waste Management. The main solid waste streams include fabric offcuts, paper, plastics, cartons and machines / machine parts no longer in use. DTRT has a waste management plan which is in line with Ghana Environment Protection Authority’s (EPA) approach to waste categorization and handling requirements. All solid waste is stored in designated areas, collected for disposal by authorized agencies and this includes recycling where feasible. A similar approach will be applied to the new development.
+Hazardous Materials. The generators have limited quantities of diesel and this similarly applies to other hazardous materials e.g., oil, paints, which are stored in designated areas.
+[ESRisksOrImpactAndMitigation.PS4_CommHealthSecurity] Fleet Management: All DTRT supplies and products are transported by third-party suppliers. In line with its export-oriented business, the Company has a Logistics Management Procedure for bonded warehousing and GPS trackers to locate its containers during shipping. Workers for the Tema facility use bus transport provided by a third-party provider. As indicated, the third-party contractors will be subject to the Company’s Contractor Management Procedure.
+Life and Fire Safety (LF&S). DTRT’s operations present certain fire risks. The Company follows the Ghana National Fire Service Regulations on Fire Precaution (Premises) regulations of 2003 LI 1724 regarding LFS design and installations. A contextual risk screening revealed a fire incident in 2021, however, based on the Ghana National Fire Safety department (GNFS) report as reviewed as part of the appraisal, the fire incident was not caused by the factory operations. As noted in PS1 above, the Company will commission a suitably qualified specialist to review the approach to LFS and emergency response at the existing facilities and the new facility and implement corrective actions as may be defined.
+Security Personnel: DTRT uses both direct and third-party contractors’ security guards. The security guards are unarmed and trained by their companies. DTRT has a security manual outlining the procedure, roles, and responsibilities of security staff across its operations and provides for the Internal Security Coordinator to conduct due diligence, ensures the third-party companies are vetted, registered, and licensed as required by national laws and monitor their performance against the DTRT’s security guidelines. Going forward, DTRT will conduct annual security risk assessment and review its security management plan based on the assessment findings and align with IFC PS4; see ESAP#10.
+[StakeHolderOrEngagements.StakeHolderEngagement] DTRT has a stakeholder engagement procedure which explains its purpose and scope, roles and responsibilities, and how
+to communicate with stakeholders regarding its E&S management. The procedure is available for all staff and other
+stakeholders and is being implemented. Minutes of stakeholder engagements were reviewed as part of this appraisal. The
+Company has an external grievance procedure, which is available to communities / individuals to raise grievances and
+management of the grievances.
+[StakeHolderOrEngagements.LAPD] Contact Person: Colin Sloand, Group CFO Company Name: DTRT Apparel Limited Adjabeng Free Zone Enclave, Kwame Nkrumah Avenue, Accra Ghana Email: colin@dtrtapparel.com Phone: +1 202 642 7467
+[EAndSActionPlan] DTRT CMT Expan.(46656) Appraisal Disclosure Snapshot – Version 1
+Description
+Anticipated Completion Date
+Ensure site development partner implements an environmental and social management plan (ESMP) for the construction phase. This is to ensure effective management of related aspects including occupational health and safety (OHS) in alignment with national legislation and good international industry practice (GIIP). In addition, DTRT to provide oversight to ensure active implementation of the ESMP.
+31-Oct-2022
+Commission an independent review by a suitably qualified specialist of; i) the life and fire safety (LFS) design for the new facility; and ii) that related to existing operations to confirm compliance against applicable national standards and GIIP in the sector. The review is also to assess the associated emergency response plans.
+31-Oct-2022
+Following fitment of the equipment at the new facility, commission a suitable specialist to verify that the facility has been constructed in accordance with the associated design and that firefighting / emergency response systems are adequate.
+Based on the reviews defined above and where corrective actions are required in regard to either the existing or new facilities, define a time-based corrective action plan to address these requirements.
+31-Jul-2023
+Extend the Stakeholder Engagement Procedure to include the expansion activity.
+31-Dec-2022
+Undertake an independent review of the approach to human resource management at the existing operations and taking into account the new workforce associated with the expansion. The review is to assess compliance with national legislation, the Performance Standards and GIIP for this sector relative the scale of the workforce and provide recommendations to address any gaps identified. Specific aspects to be assessed include; i) the approach to management and payment of overtime; ii) the mandate for the Welfare Committee including its objectives, roles and responsibilities and membership; and iii) the requirements for suitable eating areas and ablution facilities.
+31-Oct-2022
+As part of the Gender Strategy, undertake a gender-based violence (GBV) assessment to define strategies to manage GBV risks including relevant policies, procedures and an effective means of communicating the strategy to facilitate implementation.
+31-Oct-2022
+Review and update the grievance management procedure (GMP) include for classification of grievances, specifying a timeline for investigations and communication plan including during induction and other sensitization activities.
+31-Oct-2022
+Develop and implement a Contractor Management Procedure aligned with IFC’s requirements to be applied to all contractors.
+31-Oct-2022
+Develop and implement a systematic approach to maintain an OHS training plan which requires all staff to undergo OHS induction training followed up with a yearly refresher training and a mandatory induction for all visitors.
+31-Oct-2022
+Develop and implement a supply chain policy and supporting procedures that addresses risks associated forced and child labor and includes regular due diligence on its suppliers, complies with internationally recognized traceability protocol as applicable and obtain similar representations and covenants from.
+All records, including supply chain maps, are to be available for review by auditors, and report relevant supply chain incidents.
+31-Oct-2022
+Conduct an annual security risk assessment and review the security management plan based on the assessment findings to ensure alignment with PS4.
+31-Oct-2022
+[ProjectName] DTRT CMT Expan.
+[CompanyName] DTRT APPAREL MAURITIUS LTD
+[Department] Regional Industry - MAS Africa
+[Country] Ghana
+[Region] Africa
+[Industry] Manufacturing
+[Sector] Garment and Apparel (Without Fabric , Excluding Footwear)
+[EnvironmentalCategory] B - Limited
+[Status] Active
+[ProjectOverView.Project_Description] The proposed IFC loan of up to $8 million is to support DTRT Group’s (“DTRT” or the “Company”), expansion of their Cut-Make-Trim (CMT) operations. This includes the establishment of a new 31,000 sqm upgraded garment factory area to increase capacity from 50 sewing lines to 107 sewing lines by 2026 (the “Project”).
+Founded in Ghana in 2013, DTRT focuses on sportswear and workwear garment production for export to the United States and European markets. Currently, DTRT’s operations include a CMT factory with 35 sewing lines and associated quality control functions located in Accra with a second production site located in Tema, which has 15 sewing lines along with raw material stores and fabric cutting functions.
+The site identified for the Company’s CMT expansion is located within the Tema Free Zone and occupies 31,000 sqm. The new manufacturing facility will be built for and leased by the Company via a build-to-suit lease agreement with a leading local property developer for a period of at least 10 years. The main equipment to be fitted as part of the expansion includes sewing machines for more than 50 production lines, along with fabric spreaders, auto-cutters, racking systems, embroidery and screen-printing machines from reputable international suppliers who will deliver, fit and provide training on equipment use.
+Construction on the expanded CMT factory is expected to commence in early 2023 with the plant being commissioned by the end of 2023. For more information about DTRT facilities and production activities see http://www.dtrtapparel.com/
+[ProjectOverView.Review_Scope] IFC’s environmental and social (E&S) review of the proposed investment included; (i) meetings and a site visit on 11–13 May 2022 with DTRT’s Co-Founder and Co-Chief Executive Officer (CEO), Chief Operating Officer (COO), Chief Financial Officer (CFO), Environmental. Social and Governance (ESG) & Compliance Manager and Human Resource (HR) Director; (ii) review of available environmental and social documents including implementation progress on E&S related actions as required from other lenders, responses to the IFC’s E&S appraisal questionnaire, information on the DTRT’s sustainability plan including the E&S management system, the Company’s environmental, health and safety (EHS) policies, Standard Operating Procedures (SOPs), buyers audit reports, emergency preparedness and response procedures, internal HR management policies and procedures, stakeholder engagement procedure, communication and grievance management procedure; and (iii) factory tours of the existing facilities in Accra and Tema, including the area for the proposed expansion.
+IFC’s appraisal included various contextual risk screening, which did not identify any legacy E&S risks and/or impacts in relation to the proposed Project activities.
+[DocumentType] Environmental Documents
+[ProjectType] Investment
+[BCS] Broad Community Support is not applicable for this project.

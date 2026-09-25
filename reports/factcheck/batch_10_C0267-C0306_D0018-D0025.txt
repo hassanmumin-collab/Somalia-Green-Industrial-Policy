@@ -1,0 +1,196 @@
+Independent fact-check, 2026-09-24. Claims C-0267 to C-0306 and D-0018 to D-0025 (UN Comtrade mirror data and UK DESNZ diesel factor).
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0267: PASS
+  Source: S-124 p. 1
+  Reason: Text line 581 matches quote exactly; CSV row 560 matches (360, X, 706, 3401, 2023, primaryValue 7309934.741, netWgt 7357562.877). Indonesia's reported export value to Somalia, HS 3401, calendar 2023, USD; mirror data as the statement says. Basis actual.
+
+C-0268: PASS
+  Source: S-124 p. 1
+  Reason: Line 583 matches: Kenya, Export, Somalia, HS 3401, 2023, USD 5642065.404. Separate Kenya Re-export row (USD 639.544) correctly not added.
+
+C-0269: PASS
+  Source: S-124 p. 1
+  Reason: Line 597 matches: UAE Export HS 3401 2023 USD 3329914.605. Export flow includes re-exports (line 598, 2.20m), as the S-124 note states; statement correctly reports Export flow only.
+
+C-0270: PASS
+  Source: S-124 p. 1
+  Reason: Line 585 matches: Malaysia Export HS 3401 2023 USD 1909730.944.
+
+C-0271: PASS
+  Source: S-124 p. 1
+  Reason: Line 587 matches: Oman Export HS 3401 2023 USD 1418465.537. CSV rows 284 (X) and 341 (RX) confirm value; Oman's exports are entirely re-exports, statement uses the Export row only, which is correct.
+
+C-0272: PASS
+  Source: S-124 p. 1
+  Reason: Line 580 matches: India (Comtrade reporter code 699), Export, HS 3401, 2023, USD 1312410.605.
+
+C-0273: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 581 is 7357562.877 kg = 7,357.6 tonnes; statement's unit conversion correct.
+
+C-0274: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 583 is 7040716.9 kg = 7,040.7 tonnes.
+
+C-0275: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 597 is 1829945.8 kg = 1,829.9 tonnes (UAE Export flow, which includes re-exports).
+
+C-0276: PASS
+  Source: S-124 p. 1
+  Reason: Line 674 matches: China Export HS 3402 2023 USD 19192425.0 (USD 19.19 million).
+
+C-0277: PASS
+  Source: S-124 p. 1
+  Reason: Line 688 matches; CSV row 790 matches (634, X, 706, 3402, 2023, 5088943.849). Qatar reports net weight 0.0 for this row (weight not reported); does not affect the value claim and no unit-value calculation uses it.
+
+C-0278: PASS
+  Source: S-124 p. 1
+  Reason: Line 685 matches: Oman Export HS 3402 2023 USD 2347908.969; identical Re-export row correctly not added.
+
+C-0279: PASS
+  Source: S-124 p. 1
+  Reason: Line 695 matches: UAE Export HS 3402 2023 USD 824979.664 (USD 0.82 million).
+
+C-0280: PASS
+  Source: S-124 p. 1
+  Reason: Line 938 matches; CSV row 230 matches (792, X, 706, 9619, 2023, 14145912.0, netWgt 5552890.0). USD 14.15 million.
+
+C-0281: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 938 is 5552890.0 kg = 5,552.9 tonnes.
+
+C-0282: PASS
+  Source: S-124 p. 1
+  Reason: Line 928 matches: China Export HS 9619 2023 USD 10154697.0 (USD 10.15 million).
+
+C-0283: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 928 is 3717228.0 kg = 3,717.2 tonnes.
+
+C-0284: PASS
+  Source: S-124 p. 1
+  Reason: Line 934 matches: Oman Export HS 9619 2023 USD 4836751.618 (USD 4.84 million).
+
+C-0285: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 934 is 1095517.0 kg = 1,095.5 tonnes.
+
+C-0286: PASS
+  Source: S-124 p. 1
+  Reason: Line 760 matches: China Export HS chapter 61 2023 USD 39760720.0 (USD 39.76 million). Net weight 0 for chapter-level rows; the claim concerns value only.
+
+C-0287: PASS
+  Source: S-124 p. 1
+  Reason: Line 850 matches: China Export HS chapter 62 2023 USD 24484758.0 (USD 24.48 million).
+
+C-0288: PASS
+  Source: S-124 p. 1
+  Reason: Line 762 matches: India Export HS 61 2023 USD 8993891.791 (USD 8.99 million).
+
+C-0289: PASS
+  Source: S-124 p. 1
+  Reason: Line 855 matches: India Export HS 62 2023 USD 19452341.316 (USD 19.45 million).
+
+C-0290: PASS
+  Source: S-124 p. 1
+  Reason: Line 763 matches: Indonesia Export HS 61 2023 USD 293900.0 (USD 0.29 million).
+
+C-0291: PASS
+  Source: S-124 p. 1
+  Reason: Line 856 matches; CSV row 563 matches (360, X, 706, 62, 2023, 23922237.451). USD 23.92 million.
+
+C-0292: PASS
+  Source: S-124 p. 1
+  Reason: Line 778 matches: UAE Export HS 61 2023 USD 12949947.284 (USD 12.95 million); Export flow includes the Re-export row (USD 10.65 million), which is correctly not added.
+
+C-0293: PASS
+  Source: S-124 p. 1
+  Reason: Line 872 matches: UAE Export HS 62 2023 USD 4977128.416 (USD 4.98 million).
+
+C-0294: PASS
+  Source: S-124 p. 1
+  Reason: Line 1023 matches; CSV row 1001 matches (784, M, partner 0 = World, 0204, 2023, 435348411.2, netWgt 66110923.14). UAE's reported imports from the world, 2023, USD (CIF value). Statement matches.
+
+C-0295: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 1023 is 66110923.14 kg = 66,110.9 tonnes.
+
+C-0296: PASS
+  Source: S-124 p. 1
+  Reason: Line 1022 matches: Saudi Arabia Import World HS 0204 2023 USD 185992896.417 (USD 185.99 million).
+
+C-0297: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 1022 is 27505857.45 kg = 27,505.9 tonnes.
+
+C-0298: PASS
+  Source: S-124 p. 1
+  Reason: Line 1021 matches: Qatar Import World HS 0204 2023 USD 128436222.211 (USD 128.44 million).
+
+C-0299: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 1021 is 17581640.418 kg = 17,581.6 tonnes.
+
+C-0300: PASS
+  Source: S-124 p. 1
+  Reason: Line 1019 matches: Kuwait Import World HS 0204 2023 USD 157811743.896 (USD 157.81 million).
+
+C-0301: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 1019 is 17073809.05 kg = 17,073.8 tonnes.
+
+C-0302: PASS
+  Source: S-124 p. 1
+  Reason: Line 1020 matches: Oman Import World HS 0204 2023 USD 61857227.471 (USD 61.86 million).
+
+C-0303: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 1020 is 14526695.0 kg = 14,526.7 tonnes.
+
+C-0304: PASS
+  Source: S-124 p. 1
+  Reason: Line 1018 matches; CSV row 1121 matches (48, M, 0, 0204, 2023, 47910013.384, 7239455.008). USD 47.91 million.
+
+C-0305: PASS
+  Source: S-124 p. 1
+  Reason: Net weight on line 1018 is 7239455.008 kg = 7,239.5 tonnes.
+
+C-0306: PASS
+  Source: S-143 p. 2
+  Reason: Line 220 of "Factors by Category" sheet matches quote exactly. Page 2 header row (line 23) confirms columns: Scope 1, Fuels, Liquid fuels, Diesel (100% mineral diesel), UOM litres, GHG/Unit kg CO2e, "GHG Conversion Factor 2026" 2.66155. This is the total CO2e figure (CO2, CH4, N2O components on lines 221-223). Direct combustion (Scope 1), not WTT (0.62409 on line 3524). Front page shows version 1.2, final, 2026; the v1.2 correction affected only certain WTT and hotel factors, not this one.
+
+D-0018: PASS
+  Source: S-124 p. 1 (inputs C-0267 to C-0272)
+  Reason: All six inputs pass; all Export flow, partner Somalia, HS 3401, 2023, USD; no Re-export rows added. Sum 20,922,521.836 = USD 20.9 million (1 dp). These are the six largest HS 3401 reporters in S-124 (next: Turkiye 0.76m, Yemen 0.54m, China 0.28m). "Lower bound" justified: only six reporting suppliers summed, mirror exports are FOB, and non-reporting and informal trade are not captured.
+
+D-0019: PASS
+  Source: S-124 p. 1 (inputs C-0267 to C-0269, C-0273 to C-0275)
+  Reason: Values and weights from the same three Export rows (2023, HS 3401). Weighted average 16,281,914.75 USD / 16,228,225.577 kg = 1.0033, i.e. USD 1.00 per kg (2 dp). Statement correctly calls it an average unit value of exports to Somalia.
+
+D-0020: PASS
+  Source: S-124 p. 1 (inputs C-0276 to C-0279)
+  Reason: Same flow, partner, HS 3402, year, unit. Sum 27,454,257.482 = USD 27.5 million. These four are the largest HS 3402 reporters (next: India 0.61m). Oman's identical Re-export row not double-counted. Lower bound justified as for D-0018.
+
+D-0021: PASS
+  Source: S-124 p. 1 (inputs C-0280, C-0282, C-0284)
+  Reason: Same flow, partner, HS 9619, year, unit. Sum 29,137,360.618 = USD 29.1 million. These are the three largest reporters (next: UAE 0.53m, India 0.52m). Lower bound justified.
+
+D-0022: PASS
+  Source: S-124 p. 1 (inputs C-0280 to C-0285)
+  Reason: Values and weights from the same three Export rows. Weighted average 29,137,360.618 / 10,365,635 kg = 2.8110, i.e. USD 2.81 per kg (2 dp).
+
+D-0023: PASS
+  Source: S-124 p. 1 (inputs C-0286 to C-0293)
+  Reason: All eight inputs Export flow, partner Somalia, 2023, USD; HS chapters 61 and 62 are distinct and non-overlapping, so adding is valid. Sum 134,834,924.258 = USD 134.8 million. By combined total these are the four largest reporters (China 64.2m, India 28.4m, Indonesia 24.2m, UAE 17.9m; next Turkiye 3.0m). UAE Re-export rows not added. Lower bound justified.
+
+D-0024: PASS
+  Source: S-124 p. 1 (inputs C-0294, C-0296, C-0298, C-0300, C-0302, C-0304)
+  Reason: All six inputs Import flow, partner World, HS 0204, 2023, USD, for the six GCC states; Yemen (not GCC) correctly excluded. Sum 1,017,356,514.579 = USD 1,017.4 million. Statement does not describe it as imports from Somalia.
+
+D-0025: PASS
+  Source: S-124 p. 1 (inputs C-0294 to C-0305)
+  Reason: Values and weights from the same six Import-from-World rows. Weighted average 1,017,356,514.579 / 150,038,380.066 kg = 6.7806, i.e. USD 6.78 per kg (2 dp). It is an import (CIF) unit value across fresh, chilled and frozen HS 0204; statement does not claim more.
+
+Summary: 48 pass, 0 fail, 0 query.

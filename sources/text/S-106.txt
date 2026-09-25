@@ -1,0 +1,805 @@
+=== PAGE 1 ===
+CLEAN DEVELOPMENT MECHANISM 
+ 
+ 
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology 
+AMS-I.F.: Renewable electricity generation 
+for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01
+=== PAGE 2 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+ 
+COVER NOTE 
+1. 
+Procedural background 
+1. 
+The Executive Board of the clean development mechanism (CDM) (hereinafter referred to 
+as the Board), at its 111th meeting (EB 111), considered the concept note “Improving clarity 
+and consistency of methodological products” and requested the secretariat and the 
+Methodologies Panel (MP) to: 
+(a) 
+Recommend a new methodological tool containing a repository of data/parameters 
+that are common among different methodologies; and 
+(b) 
+Update the default values in methodologies that are found to be not conservative 
+in accordance with the latest science. 
+2. 
+The Board at its 113th meeting (EB113) approved the “TOOL33: Default values for 
+common parameters” (hereinafter referred to as TOOL33). TOOL33 contains default 
+values for of (a) carbon dioxide (CO2) emission factors for diesel generator systems used 
+for off-grid power generation purposes and (b) CO2 emission factor for kerosene usage by 
+households and communities for lighting purposes.  
+3. 
+Previously, values for above-mentioned parameters were included in a specific 
+methodology for example, values for CO2 emission factors for diesel generator system 
+were contained in “AMS-I.F.: Renewable electricity generation for captive use and mini-
+grid” (hereinafter referred to as AMS-I.F.) and values for CO2 emission factor for kerosene 
+usage was included in “AMS-I.L.: Electrification of rural communities using renewable 
+energy”. 
+2. 
+Purpose 
+4. 
+The proposed revision introduces reference to TOOL33 for using a default value of CO2 
+emission factor for diesel generator systems and minor editorial improvements. 
+3. 
+Key issues and proposed solutions 
+5. 
+The proposed revision refers to TOOL33 that contains recently updated default values for  
+CO2 emission factors for diesel generator systems used for off-grid power generation 
+purposes. 
+4. 
+Impacts 
+6. 
+The proposed default values as contained in TOOL33 will enhance the reliability of 
+emission reductions estimates as they are based on recent studies and literature and are 
+conservative when compared to the current values.
+=== PAGE 3 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+ 
+5. 
+Subsequent work and timelines 
+7. 
+The MP, at its 88th meeting, agreed to seek public inputs on the draft revised methodology, 
+and any input will be discussed with the MP and forwarded to the Board for its 
+consideration. 
+6. 
+Recommendations to the Board 
+8. 
+The MP recommends that the Board adopt this draft methodology, to be made effective at 
+the time of the Board’s approval.
+=== PAGE 4 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+4 of 14 
+TABLE OF CONTENTS 
+Page 
+1. 
+INTRODUCTION ........................................................................................................  
+5 
+2. 
+SCOPE, APPLICABILITY, AND ENTRY INTO FORCE ...........................................  
+5 
+2.1. 
+Scope .............................................................................................................  
+5 
+2.2. 
+Applicability ....................................................................................................  
+5 
+2.3. 
+Entry into force ...............................................................................................  
+7 
+2.4. 
+Applicability of sectoral scopes ......................................................................  
+7 
+3. 
+NORMATIVE REFERENCES ....................................................................................  
+7 
+4. 
+DEFINITIONS .............................................................................................................  
+8 
+5. 
+BASELINE METHODOLOGY ....................................................................................  
+8 
+5.1. 
+Project boundary ............................................................................................  
+8 
+5.2. 
+Baseline emissions ..............................................................................................  
+9 
+5.3. 
+Project emissions ................................................................................................  
+10 
+5.4. 
+Leakage ................................................................................................................  
+11 
+5.5. 
+Emission reductions ............................................................................................  
+11 
+6. 
+MONITORING METHODOLOGY ..............................................................................  
+11 
+6.1. 
+Parameters for monitoring during the crediting period ..................................  
+11
+=== PAGE 5 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+5 of 14 
+1. 
+Introduction 
+1. 
+The following table describes the key elements of the methodology: 
+Table 1. 
+Methodology key elements 
+Typical project(s) 
+Production of electricity using renewable energy technologies 
+such as photovoltaic, hydro, tidal/wave, wind, geothermal and 
+renewable biomass that supply electricity to user(s) 
+Type of GHG emissions 
+mitigation action 
+Renewable energy: 
+Displacement of electricity that would be provided to the 
+user(s) by more-GHG-intensive means 
+2. 
+Scope, applicability, and entry into force 
+2.1. 
+Scope 
+2. 
+This methodology comprises renewable energy generation units, such as photovoltaic, 
+hydro, tidal/wave, wind, geothermal and renewable biomass that supply electricity to 
+user(s). The project activity will displace electricity from an electricity distribution system 
+that is or would have been supplied by at least one fossil fuel fired generating unit, i.e. in 
+the absence of the project activity, the users would have been supplied electricity from 
+one or more sources listed below: 
+(a) 
+A national or a regional grid (grid hereafter); 
+(b) 
+A fossil fuel fired captive power plant;1 
+(c) 
+A carbon intensive mini-grid. 
+2.2. 
+Applicability 
+3. 
+This methodology is applicable for project activities that: (a) Install a new power plant at a 
+site where there was no renewable energy power plant operating prior to the 
+implementation of the project activity (Greenfield plant); (b) Involve a capacity addition,2 
+                                               
+1 Under such situations, the consumers of the captive electricity should be also connected to the grid. 
+2 A capacity addition is an increase in the installed power generation capacity of an existing power plant 
+through: (i) The installation of a new power plant beside the existing power plant/units; or (ii) The 
+installation of new power units, additional to the existing power plant/units. The existing power plant/units 
+continue to operate after the implementation of the project activity.
+=== PAGE 6 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+6 of 14 
+(c) Involve a retrofit3 of (an) existing plant(s); or (d) Involve a replacement4 of (an) existing 
+plant(s). 
+4. 
+Illustration of respective situations under which each of the methodology (AMS-I.D., 
+AMS-I.F. and AMS-I.A.5) applies is included in Table 2 below. 
+Table 2. 
+Applicability of AMS-I.D, AMS-I.F and AMS-I.A based on project types 
+ 
+Project type 
+AMS-I.A 
+AMS-I.D 
+AMS-I.F 
+1 
+Project supplies electricity to a national/regional grid 
+ 
+√ 
+ 
+2 
+Project displaces grid electricity consumption 
+(e.g. grid import) and/or captive fossil fuel electricity 
+generation at the user end (excess electricity may 
+be supplied to a grid) 
+ 
+ 
+√ 
+3 
+Project supplies electricity to an identified consumer 
+facility 
+via national/regional 
+grid (through 
+a 
+contractual arrangement such as wheeling) 
+ 
+√ 
+ 
+4 
+Project supplies electricity to a mini grid6 system 
+where in the baseline all generators use exclusively 
+fuel oil and/or diesel fuel 
+ 
+ 
+√ 
+5 
+Project supplies electricity to household users 
+(included in the project boundary) located in off grid 
+areas 
+√ 
+ 
+ 
+5. 
+In the case of project activities that involve the capacity addition of renewable energy 
+generation units at an existing renewable power generation facility, the added capacity of 
+the units added by the project should be lower than 15 MW and should be physically 
+distinct7 from the existing units. 
+6. 
+In the case of retrofit or replacement, to qualify as a small-scale project, the total output of 
+the retrofitted or replacement unit shall not exceed the limit of 15 MW. 
+                                               
+3 Retrofit (or rehabilitation or refurbishment). A retrofit is an investment to repair or modify an existing 
+power plant/unit, with the purpose to increase the efficiency, performance or power generation capacity 
+of the plant, without adding new power plants or units, or to resume the operation of closed (mothballed) 
+power plants. A retrofit restores the installed power generation capacity to or above its original level. 
+Retrofits shall only include measures that involve capital investments and not regular maintenance or 
+housekeeping measures. 
+4 Replacement. Investment in a new power plant or unit that replaces one or several existing unit(s) at the 
+existing power plant. The new power plant or unit has the same or a higher power generation capacity 
+than the plant or unit that was replaced. 
+5 “AMS-I.D.: Grid connected renewable electricity generation”, “AMS-I.F.: Renewable electricity generation 
+for captive use and mini-grid” and “AMS-I.A.: Electricity generation by the user”. 
+6 The sum of installed capacities of all generators connected to the mini-grid is equal to or less than 
+15 MW. 
+7 Physically distinct units are those that are capable of generating electricity without the operation of 
+existing units, and that do not directly affect the mechanical, thermal, or electrical characteristics of the 
+existing facility. For example, the addition of a steam turbine to an existing combustion turbine to create 
+a combined cycle unit would not be considered “physically distinct”.
+=== PAGE 7 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+7 of 14 
+7. 
+If the unit added has both renewable and non-renewable components (e.g. a wind/diesel 
+unit), the eligibility limit of 15 MW for a small-scale CDM project activity applies only to the 
+renewable component. If the unit added co-fires fossil fuel,8 the capacity of the entire unit 
+shall not exceed the limit of 15 MW. 
+8. 
+Combined heat and power (co-generation) systems are not eligible under this category. 
+9. 
+Hydro power plants with reservoirs that satisfy at least one of the following conditions are 
+eligible to apply this methodology: 
+(a) 
+The project activity is implemented in an existing reservoir with no change in the 
+volume of reservoir; 
+(b) 
+The project activity is implemented in an existing reservoir, where the volume of 
+reservoir is increased and the power density of the project activity, as per 
+definitions given in the project emissions section, is greater than 4 W/m2; 
+(c) 
+The project activity results in new reservoirs and the power density of the power 
+plant, as per definitions given in the project emissions section, is greater than 
+4 W/m2. 
+10. 
+If electricity and/or steam/heat produced by the project activity is delivered to a third party, 
+i.e. another facility or facilities within the project boundary, a contract between the supplier 
+and consumer(s) of the energy will have to be entered that ensures that there is no double 
+counting of emission reductions. 
+11. 
+In the case the project activities utilizes biomass, the “TOOL16: Project and leakage 
+emissions from biomass” shall be applied to determine the relevant project emissions from 
+the cultivation of biomass and the utilization of biomass or biomass residues. 
+2.3. 
+Entry into force 
+12. 
+The date of entry into force is the date of the publication of the EB ## meeting report on 
+## Month 2022. 
+2.4. 
+Applicability of sectoral scopes 
+13. 
+For validation and verification of CDM projects and programme of activities by a 
+designated operational entity (DOE) using this methodology, application of sectoral 
+scope 01 is mandatory and application of sectoral scope 13 and 15 is conditional. 
+3. 
+Normative references 
+14. 
+Project participants shall apply the “General guidelines for SSC CDM methodologies” 
+provided at <https://cdm.unfccc.int/Reference/Guidclarif/index.html> mutatis mutandis. 
+                                               
+8 A co-fired system uses both fossil and renewable fuels, for example the simultaneous combustion of 
+both biomass residues and fossil fuels in a single boiler. Fossil fuel may be used during a period of time 
+when the biomass is not available and due justification are provided.
+=== PAGE 8 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+8 of 14 
+15. 
+This methodology also refers to the latest approved versions of the following approved 
+methodologies and tools: 
+(a) 
+“ACM0002: Grid-connected electricity generation from renewable sources” 
+(hereinafter referred to as ACM0002); 
+(b) 
+“AMS-I.A.: Electricity generation by the user” (hereinafter referred to as AMS-I.A); 
+(c) 
+“AMS-I.C.: Thermal energy production with or without electricity” (hereinafter 
+referred to as AMS-I.C); 
+(d) 
+“AMS-I.D.: Grid connected renewable electricity generation” (hereinafter referred 
+to as AMS-I.D); 
+(e) 
+“TOOL05: Baseline, project and/or leakage emissions from electricity consumption 
+and monitoring of electricity generation” (hereinafter referred to as TOOL05); 
+(f) 
+“TOOL03: Tool to calculate project or leakage CO2 emissions from fossil fuel 
+combustion” (hereinafter referred to as TOOL03); 
+(g) 
+“TOOL07: Tool to calculate the emission factor for an electricity system” 
+(hereinafter referred to as TOOL07); 
+(h) 
+“TOOL16: Project emissions from cultivation of biomass” (hereinafter referred to 
+as TOOL16); 
+(i) 
+“TOOL33: Default values for common parameters (hereinafter referred to as 
+TOOL33). 
+4. 
+Definitions 
+16. 
+The definitions contained in the “Glossary: CDM terms” shall apply. 
+17. 
+For the purpose of this methodology following definition apply: 
+(a) 
+Mini-grid - is defined as small-scale power system with a total capacity not 
+exceeding 15 MW (i.e. the sum of installed capacities of all generators connected 
+to the mini-grid is equal to or less than 15 MW) which is not connected to a national 
+or a regional grid. 
+5. 
+Baseline methodology 
+5.1. 
+Project boundary 
+18. 
+The spatial extent of the project boundary includes industrial, commercial facilities 
+consuming energy generated by the system. In the case of electricity generated and 
+supplied to distributed users (e.g. residential users) via mini/isolated grid(s) the project 
+boundary may be confined to physical, geographical site of renewable generating units. 
+The boundary also extends to the project power plant and all power plants connected 
+physically to the electricity system as per the requirements provided in TOOL079 to which 
+the project power plant is connected. 
+                                               
+9 Refer to the latest approved version of the TOOL07.
+=== PAGE 9 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+9 of 14 
+5.2. 
+Baseline emissions 
+19. 
+For a mini-grid system where all generators use exclusively fuel oil and/or diesel fuel, the 
+baseline emissions is the annual electricity generated by the renewable energy unit times 
+an emission factor for a modern diesel generating unit of the relevant capacity operating 
+at optimal load as given in Table 1 of TOOL33 Table 2. 
+Table 2. 
+Emission factors for diesel generator systems (in kg CO2e/kWh(a)) for three 
+different levels of load factors(b) 
+Cases 
+Mini-grid with 
+24 hour service  
+(a) 
+Mini-grid with temporary 
+service (4-6 hr/day); 
+(b) 
+Productive applications; 
+(c) 
+Water pumps 
+Mini-grid with 
+storage 
+Load factors [%] 
+25% 
+50% 
+100% 
+<15 kW 
+2.4 
+1.4 
+1.2 
+>=15 <35 kW 
+1.9 
+1.3 
+1.1 
+>=35 <135 kW 
+1.3 
+1.0 
+1.0 
+>=135<200 kW 
+0.9 
+0.8 
+0.8 
+> 200 kW(c) 
+0.8 
+0.8 
+0.8 
+(a) A conversion factor of 3.2 kg CO2 per kg of diesel has been used (following revised 1996 IPCC 
+Guidelines for National Greenhouse Gas Inventories); 
+(b) Values derived from figures reported in RETScreen lnternational’s PV 2000 model retrieved 
+from: <http://retscreen.net/>; 
+(c) Default values. 
+20. 
+Baseline emissions for other systems are the product of amount electricity displaced with 
+the electricity produced by the renewable generating unit and an emission factor. 
+𝐵𝐸𝑦= 𝐸𝐺𝐵𝐿,𝑦× 𝐸𝐹𝐶𝑂2,𝑦 
+Equation (1) 
+Where: 
+𝐵𝐸𝑦 
+= 
+Baseline emissions in year y (t CO2) 
+𝐸𝐺𝐵𝐿,𝑦 
+= 
+Quantity of net electricity displaced as a result of the implementation of the 
+CDM project activity in year y (MWh) 
+𝐸𝐹𝐶𝑂2,𝑦 
+= 
+Emission factor (t CO2/MWh) 
+• The emission factor of an electric grid shall be calculated as per the 
+procedures provided in AMS-I.D.; 
+• For a mini-grid system other than described in paragraph 18 above, the 
+baseline emission factor shall be determined as per the weighted 
+average emissions for the current generation mix following the 
+procedure provided in AMS-I.D.; 
+• The emission factor for captive electricity generation shall be calculated 
+as per the procedures described in the latest version of the “Tool to 
+calculate baseline, project and/or leakage emissions from electricity 
+consumption”
+=== PAGE 10 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+10 of 14 
+21. 
+For project activities that displace electricity consumed from the electric grid and from a 
+fossil fuel fired on-site captive power plant, the baseline emission factor shall reflect the 
+emissions intensity of the grid and the captive power plant in the baseline scenario, i.e. 
+the weighted average emission factor for the displaced electricity is calculated using 
+values based on the historical (prior three year ratios) of electricity from captive plants and 
+the grid.10 For new facilities, the most conservative (lowest) of the emission factor for the 
+two power sources should be used. 
+22. 
+For landfill gas, waste gas, wastewater treatment and agro-industries projects, emission 
+reductions from recovered methane are eligible under a relevant Type III category. If the 
+recovered methane is used for electricity generation for captive use, the baseline emisions 
+shall be calculated in accordance with paragraphs 19 18 and 20 19 above. If the recovered 
+methane is used for heat generation or cogeneration, it is eligible under methodology 
+AMS-I.C., and if generated electricity is supplied to a grid then use AMS-I.D. 
+23. 
+For project activities that involve retrofit of an existing facility and/or capacity addition at 
+an existing facility, EGBL,y in equation (1) above shall be determined following the 
+applicable procedures prescribed in AMS-I.D. 
+24. 
+For project activities using biomas, the quantities and types of biomass and the biomass 
+to fossil fuel ratio (in case of co-fired system) to be used during the crediting period shall 
+be explained and documented transparently in the CDM project design document (PDD). 
+For the selection of the baseline scenario, an ex ante estimation of these quantities should 
+be provided. 
+5.3. 
+Project emissions 
+25. 
+Project emissions for the following categories of project activities, including relevant 
+definitions, shall be considered following the procedure described in the most recent 
+version of ACM0002:11 
+(a) 
+Emissions related to the operation of geothermal power plants (e.g. non-
+condensable gases, electricity/fossil fuel consumption); 
+(b) 
+Emissions from water reservoirs of hydro power plants. 
+26. 
+For the other types of renewable energy projects, PEy = 0. 
+27. 
+The CO2 emissions from on-site consumption of fossil fuels by the project activity shall be 
+calculated using the latest version of the TOOL03. 
+28. 
+For project activities that utilize biomass and/or biomass residues, the TOOL16 shall be 
+applied to determine the following project emissions sources, including the simplifications 
+for small-scale and microscale project activities: 
+(a) 
+Project emissions resulting from the cultivation of biomass in a dedicated plantation 
+of a CDM project activity that uses biomass (PEBC); 
+                                               
+10 For example, if in the baseline 80 per cent of annual electricity requirement was met by grid import and 
+the remaining by captive generation, the weighted average emission factor (EFelectricity) would be 
+0.8 EFgrid + 0.2 EFcaptive. 
+11 “ACM0002: Consolidated baseline methodology for grid-connected electricity generation from renewable 
+sources”.
+=== PAGE 11 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+11 of 14 
+(b) 
+Project emissions resulting from the transportation of biomass (PEBT); 
+(c) 
+Project emissions resulting from the processing of biomass (PEBP); 
+(d) 
+Project emissions resulting from the transportation of biomass residues (PEBRT) if 
+the project consumes biomass residues; 
+(e) 
+Project emissions resulting from the processing of biomass residues (PEBRP) if the 
+project consumes biomass residues. 
+5.4. 
+Leakage 
+29. 
+For project activities utilizing biomass and/or biomass residues, the TOOL16 shall be 
+applied to determine the leakage. The project participants shall indicate in the PDD which 
+leakage sources are included. If emission sources are not considered, the project 
+participants shall provide proper justification in the PDD. 
+5.5. 
+Emission reductions 
+30. 
+Emission reductions are calculated as follows: 
+𝐸𝑅𝑦= 𝐵𝐸𝑦−𝑃𝐸𝑦−𝐿𝐸𝑦 
+Equation (2) 
+Where: 
+𝐸𝑅𝑦 
+= 
+Emission reductions in year y (t CO2e/y) 
+𝐵𝐸𝑦 
+= 
+Baseline Emissions in year y (t CO2/y) 
+𝑃𝐸𝑦 
+= 
+Project emissions in year y (t CO2/y) 
+𝐿𝐸𝑦 
+= 
+Leakage emissions in year y (t CO2/y) 
+6. 
+Monitoring methodology 
+6.1. 
+Parameters for monitoring during the crediting period 
+31. 
+Relevant parameters shall be monitored as indicated in the tables below. 
+Data / Parameter table 1. 
+ 
+Data / Parameter: 
+EFCO2,y 
+Data unit: 
+t CO2/MWh 
+Description: 
+CO2 emission factor for the grid/minigrid/captive electricity in year y 
+Measurement 
+procedures (if any): 
+As prescribed in section 5.2 of this methodology 
+Monitoring frequency: 
+- 
+Any comment: 
+-
+=== PAGE 12 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+12 of 14 
+Data / Parameter table 2. 
+ 
+Data / Parameter: 
+- 
+Data unit: 
+t CO2/MJ 
+Description: 
+CO2 emission factor of fossil fuel type i 
+Measurement 
+procedures (if any): 
+As per the TOOL03 
+Monitoring frequency: 
+As per the TOOL03 
+Any comment: 
+- 
+Data / Parameter table 3. 
+ 
+Data / Parameter: 
+- 
+Data unit: 
+MJ per unit volume or mass unit 
+Description: 
+Net calorific value of fossil fuel type i 
+Measurement 
+procedures (if any): 
+As per the TOOL03 
+Monitoring frequency: 
+As per the TOOL03 
+Any comment: 
+- 
+Data / Parameter table 4. 
+ 
+Data / Parameter: 
+- 
+Data unit: 
+Mass or volume unit/y 
+Description: 
+Quantity of fossil fuel consumed in year y 
+Measurement 
+procedures (if any): 
+As per the TOOL03 
+Monitoring frequency: 
+As per the TOOL03 
+Any comment: 
+- 
+Data / Parameter table 5. 
+ 
+Data / Parameter: 
+EGBL,y 
+Data unit: 
+MWh/y 
+Description: 
+Quantity of net electricity displaced in year y 
+Measurement 
+procedures (if any): 
+As per the TOOL05 
+Monitoring frequency: 
+As per the TOOL05 
+Any comment: 
+As per the TOOL05 
+Data / Parameter table 6. 
+ 
+Data / Parameter: 
+- 
+Data unit: 
+Tonne/y 
+Description: 
+Quantity of biomass consumed in year y
+=== PAGE 13 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+13 of 14 
+Measurement 
+procedures (if any): 
+Use mass or volume based measurements. Adjust for the moisture 
+content in order to determine the quantity of dry biomass. 
+The quantity of biomass shall be measured continuously or in batches. 
+If more than one type of biomass fuel is consumed, each shall be 
+monitored separately. 
+Cross-check the measurements with an annual energy balance that is 
+based on purchased quantities (e.g. with sales receipts) and stock 
+changes. Check the consistency of measurements ex post with annual 
+data on energy generation, fossil fuels and biomass used and the 
+efficiency of energy generation as determined ex ante 
+Monitoring frequency: 
+Continuously or estimate using annual mass/energy balance 
+Any comment: 
+- 
+Data / Parameter table 7. 
+ 
+Data / Parameter: 
+- 
+Data unit: 
+% 
+Description: 
+Moisture content of the biomass (wet basis) 
+Measurement 
+procedures (if any): 
+On-site measurements. 
+Ex ante estimates should be provided in the PDD and used during the 
+crediting period. 
+In case of dry biomass, monitoring of this parameter is not necessary 
+Monitoring frequency: 
+The moisture content of biomass of homogeneous quality shall be 
+determined ex ante. 
+The weighted average should be calculated and used in the 
+calculations 
+Any comment: 
+- 
+Data / Parameter table 8. 
+ 
+Data / Parameter: 
+- 
+Data unit: 
+GJ/mass or volume unit 
+Description: 
+Net calorific value of biomass type k 
+Measurement 
+procedures (if any): 
+Measurement 
+in 
+laboratories 
+according 
+to 
+relevant 
+national/international standards. Measure quarterly, taking at least 
+three samples for each measurement. The average value can be used 
+for the rest of the crediting period. 
+Measure the NCV based on dry biomass. Check the consistency of the 
+measurements by comparing the measurement results with, relevant 
+data sources (e.g. values in the literature, values used in the national 
+GHG inventory) and default values by the IPCC. If the measurement 
+results differ significantly from previous measurements or other 
+relevant data sources, conduct additional measurements 
+Monitoring frequency: 
+Determine once in the first year of the crediting period 
+Any comment: 
+-
+=== PAGE 14 ===
+CDM-MP88-A08 
+  
+Draft Small-scale Methodology: AMS-I.F.: Renewable electricity generation for captive use and mini-grid 
+Version 05.0 
+Sectoral scope(s): 01 
+14 of 14 
+32. 
+Parameters relevant to hydro and geothermal plants which are not included in the tables 
+above shall be monitored following monitoring methodology as in the most recent version 
+of ACM0002. 
+- - - - - 
+Document information 
+Version 
+Date 
+Description 
+ 
+05.0 
+13 July 2022 
+MP 88, Annex 8 
+To be considered by the Board at EB 115. 
+A call for public input will be issued for this draft document. Any 
+input will be discussed with the MP and forwarded to the Board 
+for consideration. 
+Revision to:  
+• Introduce reference to “TOOL33: Default values for common 
+parameters”; and  
+• Make minor editorial improvements. 
+04.0 
+11 March 2022 
+EB 113, Annex 21 
+The revision: 
+• Indicates the emission sources that are relevant in the 
+calculation of project emissions associated with biomass and 
+biomass residues, in line with “TOOL16: Project and leakage 
+emissions from biomass” (version 05.0); 
+• Makes editorial improvements. 
+03.0 
+28 November 2014 
+EB 81, Annex 26 
+The revision: 
+• Introduces the methodological tool “Project emissions from 
+cultivation of biomass”, streamlines biomass cultivation 
+procedures across small and large scale methodologies; 
+• Removes restrictions for application in a PoA. 
+02.0 
+3 June 2011 
+EB 61, Annex 18 
+The revision: 
+• Simplifies the monitoring requirements for quantity, net calorific 
+value and moisture content of biomass; 
+• Clarifies the applicability conditions. 
+01.0 
+28 May 2010 
+EB 54, Annex 5 
+Initial adoption. 
+Decision Class: Regulatory 
+Document Type: Standard 
+Business Function: Methodology 
+Keywords: electricity generation, electric power transmission, simplified methodologies, type (i) projects

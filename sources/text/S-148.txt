@@ -1,0 +1,1671 @@
+=== PAGE 1 ===
+# Ethiopia 2022 SAM: every non-empty cell of the matrix, one line per cell, reshaped from the stored CSV. Units: billions of Ethiopian birr.
+# Payments run from the column account to the row account (for an activity column: purchases of commodities, factor payments, taxes; the Total row is gross output).
+# Format: SAM | row account (code) | column account (code) | value
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Commodities - Maize (cmaiz) | 190.3528137
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Households - Rural (quintile 1) (hhd-r1) | 45.09593148
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Households - Rural (quintile 2) (hhd-r2) | 32.33539076
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Households - Rural (quintile 3) (hhd-r3) | 53.06551264
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Households - Rural (quintile 4) (hhd-r4) | 32.56449434
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Households - Rural (quintile 5) (hhd-r5) | 24.70652125
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Households - Urban (quintile 1) (hhd-u1) | 0.279957212
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Households - Urban (quintile 2) (hhd-u2) | 0.358480516
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Households - Urban (quintile 3) (hhd-u3) | 0.261488238
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Households - Urban (quintile 4) (hhd-u4) | 0.763867212
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Households - Urban (quintile 5) (hhd-u5) | 1.620626968
+Ethiopia 2022 SAM | Activities - Maize (amaiz) | Total (total) | 381.4050844
+Ethiopia 2022 SAM | Activities - Rice (arice) | Commodities - Rice (crice) | 13.22263769
+Ethiopia 2022 SAM | Activities - Rice (arice) | Households - Rural (quintile 1) (hhd-r1) | 0.008687014
+Ethiopia 2022 SAM | Activities - Rice (arice) | Households - Rural (quintile 2) (hhd-r2) | 0.019577873
+Ethiopia 2022 SAM | Activities - Rice (arice) | Households - Rural (quintile 3) (hhd-r3) | 0.086619095
+Ethiopia 2022 SAM | Activities - Rice (arice) | Households - Rural (quintile 4) (hhd-r4) | 0.084559605
+Ethiopia 2022 SAM | Activities - Rice (arice) | Households - Rural (quintile 5) (hhd-r5) | 0.126260885
+Ethiopia 2022 SAM | Activities - Rice (arice) | Households - Urban (quintile 1) (hhd-u1) | 0.014687141
+Ethiopia 2022 SAM | Activities - Rice (arice) | Households - Urban (quintile 2) (hhd-u2) | 0.013402523
+Ethiopia 2022 SAM | Activities - Rice (arice) | Households - Urban (quintile 3) (hhd-u3) | 0.020279833
+Ethiopia 2022 SAM | Activities - Rice (arice) | Households - Urban (quintile 4) (hhd-u4) | 0.020511263
+Ethiopia 2022 SAM | Activities - Rice (arice) | Households - Urban (quintile 5) (hhd-u5) | 0.034513042
+Ethiopia 2022 SAM | Activities - Rice (arice) | Total (total) | 13.65173596
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Commodities - Other cereals (cocer) | 586.6343837
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Households - Rural (quintile 1) (hhd-r1) | 11.81925652
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Households - Rural (quintile 2) (hhd-r2) | 5.105505584
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Households - Rural (quintile 3) (hhd-r3) | 11.50692087
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Households - Rural (quintile 4) (hhd-r4) | 11.72394806
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Households - Rural (quintile 5) (hhd-r5) | 13.37246627
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Households - Urban (quintile 1) (hhd-u1) | 0.433182412
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Households - Urban (quintile 2) (hhd-u2) | 0.659508266
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Households - Urban (quintile 3) (hhd-u3) | 0.239211589
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Households - Urban (quintile 4) (hhd-u4) | 2.427398189
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Households - Urban (quintile 5) (hhd-u5) | 3.156287986
+Ethiopia 2022 SAM | Activities - Other cereals (aocer) | Total (total) | 647.0780694
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Commodities - Pulses (cpuls) | 224.1235224
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Households - Rural (quintile 1) (hhd-r1) | 13.86007814
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Households - Rural (quintile 2) (hhd-r2) | 18.85800085
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Households - Rural (quintile 3) (hhd-r3) | 20.92299633
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Households - Rural (quintile 4) (hhd-r4) | 27.23833278
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Households - Rural (quintile 5) (hhd-r5) | 22.00345736
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Households - Urban (quintile 1) (hhd-u1) | 0.189914157
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Households - Urban (quintile 2) (hhd-u2) | 0.485604532
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Households - Urban (quintile 3) (hhd-u3) | 0.434910609
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Households - Urban (quintile 4) (hhd-u4) | 0.798777735
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Households - Urban (quintile 5) (hhd-u5) | 1.760720064
+Ethiopia 2022 SAM | Activities - Pulses (apuls) | Total (total) | 330.676315
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Commodities - Oilseeds (coils) | 67.19007145
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Households - Rural (quintile 1) (hhd-r1) | 1.515546474
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Households - Rural (quintile 2) (hhd-r2) | 4.54297162
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Households - Rural (quintile 3) (hhd-r3) | 4.429734788
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Households - Rural (quintile 4) (hhd-r4) | 3.099461294
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Households - Rural (quintile 5) (hhd-r5) | 4.104531917
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Households - Urban (quintile 1) (hhd-u1) | 0.024600228
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Households - Urban (quintile 2) (hhd-u2) | 0.061253843
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Households - Urban (quintile 3) (hhd-u3) | 0.010453423
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Households - Urban (quintile 4) (hhd-u4) | 0.068044228
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Households - Urban (quintile 5) (hhd-u5) | 0.204072992
+Ethiopia 2022 SAM | Activities - Oilseeds (aoils) | Total (total) | 85.25074226
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Commodities - Roots (croot) | 49.04134789
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Households - Rural (quintile 1) (hhd-r1) | 23.68060207
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Households - Rural (quintile 2) (hhd-r2) | 17.38486361
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Households - Rural (quintile 3) (hhd-r3) | 36.99971226
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Households - Rural (quintile 4) (hhd-r4) | 30.34398986
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Households - Rural (quintile 5) (hhd-r5) | 24.53107756
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Households - Urban (quintile 1) (hhd-u1) | 0.127753983
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Households - Urban (quintile 2) (hhd-u2) | 0.137019247
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Households - Urban (quintile 3) (hhd-u3) | 0.21122836
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Households - Urban (quintile 4) (hhd-u4) | 0.581110242
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Households - Urban (quintile 5) (hhd-u5) | 0.915114276
+Ethiopia 2022 SAM | Activities - Roots (aroot) | Total (total) | 183.9538193
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Commodities - Vegetables (cvege) | 105.7312043
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Households - Rural (quintile 1) (hhd-r1) | 5.443843275
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Households - Rural (quintile 2) (hhd-r2) | 5.406378315
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Households - Rural (quintile 3) (hhd-r3) | 10.44943617
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Households - Rural (quintile 4) (hhd-r4) | 9.736517365
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Households - Rural (quintile 5) (hhd-r5) | 7.991477786
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Households - Urban (quintile 1) (hhd-u1) | 0.157270706
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Households - Urban (quintile 2) (hhd-u2) | 0.202734368
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Households - Urban (quintile 3) (hhd-u3) | 0.188981923
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Households - Urban (quintile 4) (hhd-u4) | 0.387211627
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Households - Urban (quintile 5) (hhd-u5) | 1.026615211
+Ethiopia 2022 SAM | Activities - Vegetables (avege) | Total (total) | 146.7216711
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Commodities - Sugarcane (csugr) | 6.55790814
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Households - Rural (quintile 1) (hhd-r1) | 0.001335524
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Households - Rural (quintile 2) (hhd-r2) | 0.027609767
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Households - Rural (quintile 3) (hhd-r3) | 0.040472719
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Households - Rural (quintile 4) (hhd-r4) | 0.042813394
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Households - Rural (quintile 5) (hhd-r5) | 0.037900472
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Households - Urban (quintile 1) (hhd-u1) | 0.000417484
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Households - Urban (quintile 2) (hhd-u2) | 0.00096693
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Households - Urban (quintile 3) (hhd-u3) | 0.000990319
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Households - Urban (quintile 4) (hhd-u4) | 0.000575556
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Households - Urban (quintile 5) (hhd-u5) | 0.000828163
+Ethiopia 2022 SAM | Activities - Sugarcane (asugr) | Total (total) | 6.71181847
+Ethiopia 2022 SAM | Activities - Tobacco (atoba) | Commodities - Tobacco (ctoba) | 0.15643291
+Ethiopia 2022 SAM | Activities - Tobacco (atoba) | Total (total) | 0.15643291
+Ethiopia 2022 SAM | Activities - Cotton and fibres (acott) | Commodities - Cotton and fibres (ccott) | 3.155184142
+Ethiopia 2022 SAM | Activities - Cotton and fibres (acott) | Households - Rural (quintile 2) (hhd-r2) | 0.001819094
+Ethiopia 2022 SAM | Activities - Cotton and fibres (acott) | Households - Rural (quintile 4) (hhd-r4) | 0.008174968
+Ethiopia 2022 SAM | Activities - Cotton and fibres (acott) | Households - Rural (quintile 5) (hhd-r5) | 0.001926099
+Ethiopia 2022 SAM | Activities - Cotton and fibres (acott) | Total (total) | 3.167104303
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Commodities - Fruits and nuts (cfrui) | 16.92224099
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Households - Rural (quintile 1) (hhd-r1) | 0.752302506
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Households - Rural (quintile 2) (hhd-r2) | 0.613072114
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Households - Rural (quintile 3) (hhd-r3) | 1.484332975
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Households - Rural (quintile 4) (hhd-r4) | 1.485459517
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Households - Rural (quintile 5) (hhd-r5) | 2.169501062
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Households - Urban (quintile 1) (hhd-u1) | 0.017009231
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Households - Urban (quintile 2) (hhd-u2) | 0.022274538
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Households - Urban (quintile 3) (hhd-u3) | 0.062079729
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Households - Urban (quintile 4) (hhd-u4) | 0.132794379
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Households - Urban (quintile 5) (hhd-u5) | 0.267650747
+Ethiopia 2022 SAM | Activities - Fruits and nuts (afrui) | Total (total) | 23.92871779
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Commodities - Coffee, tea and cocoa (ccoff) | 154.509982
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Households - Rural (quintile 1) (hhd-r1) | 7.345024725
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Households - Rural (quintile 2) (hhd-r2) | 5.697070767
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Households - Rural (quintile 3) (hhd-r3) | 12.66744881
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Households - Rural (quintile 4) (hhd-r4) | 9.924766301
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Households - Rural (quintile 5) (hhd-r5) | 5.576238298
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Households - Urban (quintile 1) (hhd-u1) | 0.119131634
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Households - Urban (quintile 2) (hhd-u2) | 0.170365038
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Households - Urban (quintile 3) (hhd-u3) | 0.166890808
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Households - Urban (quintile 4) (hhd-u4) | 0.347287819
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Households - Urban (quintile 5) (hhd-u5) | 0.794947164
+Ethiopia 2022 SAM | Activities - Coffee, tea and cocoa (acoff) | Total (total) | 197.3191534
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Commodities - Other crops (cocrp) | 48.7258603
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Households - Rural (quintile 1) (hhd-r1) | 3.533563333
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Households - Rural (quintile 2) (hhd-r2) | 9.896726447
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Households - Rural (quintile 3) (hhd-r3) | 11.32855239
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Households - Rural (quintile 4) (hhd-r4) | 9.225178897
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Households - Rural (quintile 5) (hhd-r5) | 11.83703673
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Households - Urban (quintile 1) (hhd-u1) | 0.009386431
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Households - Urban (quintile 2) (hhd-u2) | 0.02350376
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Households - Urban (quintile 3) (hhd-u3) | 0.013685582
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Households - Urban (quintile 4) (hhd-u4) | 0.017280563
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Households - Urban (quintile 5) (hhd-u5) | 0.898707848
+Ethiopia 2022 SAM | Activities - Other crops (aocrp) | Total (total) | 95.50948228
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Commodities - Cattle and raw milk (ccatt) | 393.5903104
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Households - Rural (quintile 1) (hhd-r1) | 40.33539643
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Households - Rural (quintile 2) (hhd-r2) | 57.48907075
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Households - Rural (quintile 3) (hhd-r3) | 61.62168122
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Households - Rural (quintile 4) (hhd-r4) | 37.49135254
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Households - Rural (quintile 5) (hhd-r5) | 29.98199956
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Households - Urban (quintile 1) (hhd-u1) | 0.837389045
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Households - Urban (quintile 2) (hhd-u2) | 0.811863491
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Households - Urban (quintile 3) (hhd-u3) | 0.629365804
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Households - Urban (quintile 4) (hhd-u4) | 1.610725315
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Households - Urban (quintile 5) (hhd-u5) | 4.441039338
+Ethiopia 2022 SAM | Activities - Cattle and raw milk (acatt) | Total (total) | 628.8401939
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Commodities - Poultry and eggs (cpoul) | 21.32840131
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Households - Rural (quintile 1) (hhd-r1) | 0.148141452
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Households - Rural (quintile 2) (hhd-r2) | 0.40259051
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Households - Rural (quintile 3) (hhd-r3) | 0.910245945
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Households - Rural (quintile 4) (hhd-r4) | 1.301645421
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Households - Rural (quintile 5) (hhd-r5) | 2.1982357
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Households - Urban (quintile 1) (hhd-u1) | 0.036364871
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Households - Urban (quintile 2) (hhd-u2) | 0.026280925
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Households - Urban (quintile 3) (hhd-u3) | 0.058737562
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Households - Urban (quintile 4) (hhd-u4) | 0.141130072
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Households - Urban (quintile 5) (hhd-u5) | 0.655389766
+Ethiopia 2022 SAM | Activities - Poultry and eggs (apoul) | Total (total) | 27.20716353
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Commodities - Other livestock (coliv) | 190.75221
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Households - Rural (quintile 1) (hhd-r1) | 0.959782279
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Households - Rural (quintile 2) (hhd-r2) | 7.605060008
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Households - Rural (quintile 3) (hhd-r3) | 4.230070689
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Households - Rural (quintile 4) (hhd-r4) | 9.661178083
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Households - Rural (quintile 5) (hhd-r5) | 25.59695063
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Households - Urban (quintile 1) (hhd-u1) | 0.03374289
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Households - Urban (quintile 2) (hhd-u2) | 0.234026262
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Households - Urban (quintile 3) (hhd-u3) | 0.223430746
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Households - Urban (quintile 4) (hhd-u4) | 0.998115968
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Households - Urban (quintile 5) (hhd-u5) | 3.479865519
+Ethiopia 2022 SAM | Activities - Other livestock (aoliv) | Total (total) | 243.7744331
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Commodities - Forestry (cfore) | 257.9347798
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Households - Rural (quintile 1) (hhd-r1) | 2.051741132
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Households - Rural (quintile 2) (hhd-r2) | 6.03223875
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Households - Rural (quintile 3) (hhd-r3) | 11.04339289
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Households - Rural (quintile 4) (hhd-r4) | 14.19665549
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Households - Rural (quintile 5) (hhd-r5) | 23.94341582
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Households - Urban (quintile 1) (hhd-u1) | 0.087818582
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Households - Urban (quintile 2) (hhd-u2) | 0.184840672
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Households - Urban (quintile 3) (hhd-u3) | 0.182350634
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Households - Urban (quintile 4) (hhd-u4) | 0.451441084
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Households - Urban (quintile 5) (hhd-u5) | 1.136105755
+Ethiopia 2022 SAM | Activities - Forestry (afore) | Total (total) | 317.2447806
+Ethiopia 2022 SAM | Activities - Fisheries (afish) | Commodities - Fisheries (cfish) | 32.47588606
+Ethiopia 2022 SAM | Activities - Fisheries (afish) | Total (total) | 32.47588606
+Ethiopia 2022 SAM | Activities - Mining (amine) | Commodities - Mining (cmine) | 36.69796556
+Ethiopia 2022 SAM | Activities - Mining (amine) | Total (total) | 36.69796556
+Ethiopia 2022 SAM | Activities - Processed foods (afood) | Commodities - Processed foods (cfood) | 444.4101318
+Ethiopia 2022 SAM | Activities - Processed foods (afood) | Total (total) | 444.4101318
+Ethiopia 2022 SAM | Activities - Beverage and tobacco (abeve) | Commodities - Beverage and tobacco (cbeve) | 81.71303195
+Ethiopia 2022 SAM | Activities - Beverage and tobacco (abeve) | Total (total) | 81.71303195
+Ethiopia 2022 SAM | Activities - Textiles, clothing and footwear (atext) | Commodities - Textiles, clothing and footwear (ctext) | 84.94415339
+Ethiopia 2022 SAM | Activities - Textiles, clothing and footwear (atext) | Total (total) | 84.94415339
+Ethiopia 2022 SAM | Activities - Wood and paper products (awood) | Commodities - Wood and paper products (cwood) | 39.7890887
+Ethiopia 2022 SAM | Activities - Wood and paper products (awood) | Total (total) | 39.7890887
+Ethiopia 2022 SAM | Activities - Chemicals and petroleum (achem) | Commodities - Chemicals and petroleum (cchem) | 45.588685
+Ethiopia 2022 SAM | Activities - Chemicals and petroleum (achem) | Total (total) | 45.588685
+Ethiopia 2022 SAM | Activities - Non-metal minerals (anmet) | Commodities - Non-metal minerals (cnmet) | 68.08239184
+Ethiopia 2022 SAM | Activities - Non-metal minerals (anmet) | Total (total) | 68.08239184
+Ethiopia 2022 SAM | Activities - Metals and metal products (ametl) | Commodities - Metals and metal products (cmetl) | 107.7731661
+Ethiopia 2022 SAM | Activities - Metals and metal products (ametl) | Total (total) | 107.7731661
+Ethiopia 2022 SAM | Activities - Machinery, equipment and vehicles (amach) | Commodities - Machinery, equipment and vehicles (cmach) | 20.56754625
+Ethiopia 2022 SAM | Activities - Machinery, equipment and vehicles (amach) | Total (total) | 20.56754625
+Ethiopia 2022 SAM | Activities - Other manufacturing (aoman) | Commodities - Other manufacturing (coman) | 38.43420204
+Ethiopia 2022 SAM | Activities - Other manufacturing (aoman) | Total (total) | 38.43420204
+Ethiopia 2022 SAM | Activities - Electricity, gas and steam (aelec) | Commodities - Electricity, gas and steam (celec) | 120.3981542
+Ethiopia 2022 SAM | Activities - Electricity, gas and steam (aelec) | Total (total) | 120.3981542
+Ethiopia 2022 SAM | Activities - Water supply and sewage (awatr) | Commodities - Water supply and sewage (cwatr) | 148.5780757
+Ethiopia 2022 SAM | Activities - Water supply and sewage (awatr) | Total (total) | 148.5780757
+Ethiopia 2022 SAM | Activities - Construction (acons) | Commodities - Construction (ccons) | 2108.739443
+Ethiopia 2022 SAM | Activities - Construction (acons) | Total (total) | 2108.739443
+Ethiopia 2022 SAM | Activities - Wholesale and retail trade (atrad) | Commodities - Wholesale and retail trade (ctrad) | 1404.260493
+Ethiopia 2022 SAM | Activities - Wholesale and retail trade (atrad) | Total (total) | 1404.260493
+Ethiopia 2022 SAM | Activities - Transportation and storage (atran) | Commodities - Transportation and storage (ctran) | 600.388095
+Ethiopia 2022 SAM | Activities - Transportation and storage (atran) | Total (total) | 600.388095
+Ethiopia 2022 SAM | Activities - Accommodation and food services (ahotl) | Commodities - Accommodation and food services (chotl) | 291.036916
+Ethiopia 2022 SAM | Activities - Accommodation and food services (ahotl) | Total (total) | 291.036916
+Ethiopia 2022 SAM | Activities - Information and communication (acomm) | Commodities - Information and communication (ccomm) | 269.6576585
+Ethiopia 2022 SAM | Activities - Information and communication (acomm) | Total (total) | 269.6576585
+Ethiopia 2022 SAM | Activities - Finance and insurance (afsrv) | Commodities - Finance and insurance (cfsrv) | 176.8897234
+Ethiopia 2022 SAM | Activities - Finance and insurance (afsrv) | Total (total) | 176.8897234
+Ethiopia 2022 SAM | Activities - Real estate activities (areal) | Commodities - Real estate activities (creal) | 849.5172041
+Ethiopia 2022 SAM | Activities - Real estate activities (areal) | Total (total) | 849.5172041
+Ethiopia 2022 SAM | Activities - Business services (absrv) | Commodities - Business services (cbsrv) | 100.2697985
+Ethiopia 2022 SAM | Activities - Business services (absrv) | Total (total) | 100.2697985
+Ethiopia 2022 SAM | Activities - Public administration (apadm) | Commodities - Public administration (cpadm) | 307.8018254
+Ethiopia 2022 SAM | Activities - Public administration (apadm) | Total (total) | 307.8018254
+Ethiopia 2022 SAM | Activities - Education (aeduc) | Commodities - Education (ceduc) | 198.5189026
+Ethiopia 2022 SAM | Activities - Education (aeduc) | Total (total) | 198.5189026
+Ethiopia 2022 SAM | Activities - Health and social work (aheal) | Commodities - Health and social work (cheal) | 72.10092691
+Ethiopia 2022 SAM | Activities - Health and social work (aheal) | Total (total) | 72.10092691
+Ethiopia 2022 SAM | Activities - Other services (aosrv) | Commodities - Other services (cosrv) | 176.3536297
+Ethiopia 2022 SAM | Activities - Other services (aosrv) | Total (total) | 176.3536297
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Activities - Maize (amaiz) | 40.22380229
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Activities - Cattle and raw milk (acatt) | 22.9730628
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Activities - Poultry and eggs (apoul) | 8.334799864
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Activities - Other livestock (aoliv) | 9.462935082
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Activities - Processed foods (afood) | 64.6114657
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Activities - Wood and paper products (awood) | 0.031746812
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Activities - Accommodation and food services (ahotl) | 4.229348653
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Households - Rural (quintile 1) (hhd-r1) | 13.62812518
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Households - Rural (quintile 2) (hhd-r2) | 12.68390651
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Households - Rural (quintile 3) (hhd-r3) | 26.09896377
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Households - Rural (quintile 4) (hhd-r4) | 12.51493893
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Households - Rural (quintile 5) (hhd-r5) | 11.35295035
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Households - Urban (quintile 1) (hhd-u1) | 1.739127256
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Households - Urban (quintile 2) (hhd-u2) | 2.050581651
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Households - Urban (quintile 3) (hhd-u3) | 1.550788986
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Households - Urban (quintile 4) (hhd-u4) | 2.407042349
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Households - Urban (quintile 5) (hhd-u5) | 4.75346242
+Ethiopia 2022 SAM | Commodities - Maize (cmaiz) | Total (total) | 238.6470486
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Activities - Rice (arice) | 2.515979727
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Activities - Cattle and raw milk (acatt) | 2.967592317
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Activities - Other livestock (aoliv) | 1.194065874
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Activities - Processed foods (afood) | 1.79440273
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Households - Rural (quintile 1) (hhd-r1) | 1.200092219
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Households - Rural (quintile 2) (hhd-r2) | 1.786689625
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Households - Rural (quintile 3) (hhd-r3) | 0.834786103
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Households - Rural (quintile 4) (hhd-r4) | 0.717634837
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Households - Rural (quintile 5) (hhd-r5) | 0.599868961
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Households - Urban (quintile 1) (hhd-u1) | 0.343573198
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Households - Urban (quintile 2) (hhd-u2) | 0.287098062
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Households - Urban (quintile 3) (hhd-u3) | 0.216190056
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Households - Urban (quintile 4) (hhd-u4) | 0.421803283
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Households - Urban (quintile 5) (hhd-u5) | 0.703980033
+Ethiopia 2022 SAM | Commodities - Rice (crice) | Total (total) | 15.58375703
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Activities - Other cereals (aocer) | 73.68052489
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Activities - Cattle and raw milk (acatt) | 123.8034484
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Activities - Other livestock (aoliv) | 44.24963462
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Activities - Processed foods (afood) | 122.1063017
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Activities - Beverage and tobacco (abeve) | 6.57409245
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Activities - Textiles, clothing and footwear (atext) | 0.008830147
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Activities - Accommodation and food services (ahotl) | 5.945326494
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Households - Rural (quintile 1) (hhd-r1) | 5.194243325
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Households - Rural (quintile 2) (hhd-r2) | 8.043857622
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Households - Rural (quintile 3) (hhd-r3) | 8.909085343
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Households - Rural (quintile 4) (hhd-r4) | 16.67960559
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Households - Rural (quintile 5) (hhd-r5) | 16.06667861
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Households - Urban (quintile 1) (hhd-u1) | 15.38937787
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Households - Urban (quintile 2) (hhd-u2) | 26.27769961
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Households - Urban (quintile 3) (hhd-u3) | 31.84673095
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Households - Urban (quintile 4) (hhd-u4) | 60.45537438
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Households - Urban (quintile 5) (hhd-u5) | 150.2777783
+Ethiopia 2022 SAM | Commodities - Other cereals (cocer) | Total (total) | 715.5085903
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Activities - Pulses (apuls) | 20.24569402
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Activities - Accommodation and food services (ahotl) | 2.580744834
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Households - Rural (quintile 1) (hhd-r1) | 17.5600207
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Households - Rural (quintile 2) (hhd-r2) | 29.22721306
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Households - Rural (quintile 3) (hhd-r3) | 39.41534189
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Households - Rural (quintile 4) (hhd-r4) | 43.06686668
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Households - Rural (quintile 5) (hhd-r5) | 43.00816276
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Households - Urban (quintile 1) (hhd-u1) | 6.532395146
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Households - Urban (quintile 2) (hhd-u2) | 8.983300538
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Households - Urban (quintile 3) (hhd-u3) | 8.387561521
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Households - Urban (quintile 4) (hhd-u4) | 19.63422777
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Households - Urban (quintile 5) (hhd-u5) | 42.58055412
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Rest of world (row) | 5.129861563
+Ethiopia 2022 SAM | Commodities - Pulses (cpuls) | Total (total) | 286.3519446
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Activities - Oilseeds (aoils) | 1.734052013
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Activities - Processed foods (afood) | 3.476209156
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Activities - Wood and paper products (awood) | 0.019999697
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Activities - Chemicals and petroleum (achem) | 0.006090111
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Households - Rural (quintile 1) (hhd-r1) | 0.844554154
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Households - Rural (quintile 2) (hhd-r2) | 1.684952143
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Households - Rural (quintile 3) (hhd-r3) | 2.814962764
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Households - Rural (quintile 4) (hhd-r4) | 2.81292585
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Households - Rural (quintile 5) (hhd-r5) | 4.879526201
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Households - Urban (quintile 1) (hhd-u1) | 0.319655687
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Households - Urban (quintile 2) (hhd-u2) | 0.25388851
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Households - Urban (quintile 3) (hhd-u3) | 0.233319121
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Households - Urban (quintile 4) (hhd-u4) | 1.002009107
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Households - Urban (quintile 5) (hhd-u5) | 5.902220029
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Rest of world (row) | 57.33158436
+Ethiopia 2022 SAM | Commodities - Oilseeds (coils) | Total (total) | 83.3159489
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Activities - Roots (aroot) | 12.72078623
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Households - Rural (quintile 1) (hhd-r1) | 8.813424259
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Households - Rural (quintile 2) (hhd-r2) | 9.220257531
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Households - Rural (quintile 3) (hhd-r3) | 18.20432391
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Households - Rural (quintile 4) (hhd-r4) | 14.96115104
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Households - Rural (quintile 5) (hhd-r5) | 14.15109191
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Households - Urban (quintile 1) (hhd-u1) | 1.961341553
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Households - Urban (quintile 2) (hhd-u2) | 2.617996308
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Households - Urban (quintile 3) (hhd-u3) | 2.351407031
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Households - Urban (quintile 4) (hhd-u4) | 4.581806099
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Households - Urban (quintile 5) (hhd-u5) | 9.490599081
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Rest of world (row) | 1.153349547
+Ethiopia 2022 SAM | Commodities - Roots (croot) | Total (total) | 100.2275345
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Activities - Vegetables (avege) | 2.117168528
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Activities - Processed foods (afood) | 0.528267538
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Activities - Accommodation and food services (ahotl) | 1.064366944
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Households - Rural (quintile 1) (hhd-r1) | 13.24322998
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Households - Rural (quintile 2) (hhd-r2) | 16.34018147
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Households - Rural (quintile 3) (hhd-r3) | 26.97849731
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Households - Rural (quintile 4) (hhd-r4) | 25.26956935
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Households - Rural (quintile 5) (hhd-r5) | 24.50462576
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Households - Urban (quintile 1) (hhd-u1) | 3.579747494
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Households - Urban (quintile 2) (hhd-u2) | 5.191489403
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Households - Urban (quintile 3) (hhd-u3) | 4.970837544
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Households - Urban (quintile 4) (hhd-u4) | 11.17551708
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Households - Urban (quintile 5) (hhd-u5) | 29.63340679
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Rest of world (row) | 6.700496202
+Ethiopia 2022 SAM | Commodities - Vegetables (cvege) | Total (total) | 171.2974014
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Activities - Sugarcane (asugr) | 2.617628939
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Activities - Processed foods (afood) | 6.930714884
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Households - Rural (quintile 1) (hhd-r1) | 0.037101934
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Households - Rural (quintile 2) (hhd-r2) | 0.040559542
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Households - Rural (quintile 3) (hhd-r3) | 0.059154058
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Households - Rural (quintile 4) (hhd-r4) | 0.049633454
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Households - Rural (quintile 5) (hhd-r5) | 0.049244181
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Households - Urban (quintile 1) (hhd-u1) | 0.001374817
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Households - Urban (quintile 2) (hhd-u2) | 0.002733735
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Households - Urban (quintile 3) (hhd-u3) | 0.006117309
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Households - Urban (quintile 4) (hhd-u4) | 0.009309781
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Households - Urban (quintile 5) (hhd-u5) | 0.028871189
+Ethiopia 2022 SAM | Commodities - Sugarcane (csugr) | Total (total) | 9.832443821
+Ethiopia 2022 SAM | Commodities - Tobacco (ctoba) | Activities - Tobacco (atoba) | 0.004980126
+Ethiopia 2022 SAM | Commodities - Tobacco (ctoba) | Activities - Beverage and tobacco (abeve) | 0.242512146
+Ethiopia 2022 SAM | Commodities - Tobacco (ctoba) | Total (total) | 0.247492272
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Activities - Cotton and fibres (acott) | 0.210380936
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Activities - Textiles, clothing and footwear (atext) | 3.132399799
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Activities - Chemicals and petroleum (achem) | 0.004090953
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Activities - Non-metal minerals (anmet) | 0.017507518
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Activities - Other manufacturing (aoman) | 3.35768E-05
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Households - Rural (quintile 1) (hhd-r1) | 0.007336689
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Households - Rural (quintile 2) (hhd-r2) | 0.008977635
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Households - Rural (quintile 3) (hhd-r3) | 0.008865115
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Households - Rural (quintile 4) (hhd-r4) | 0.011990549
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Households - Rural (quintile 5) (hhd-r5) | 0.030486742
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Households - Urban (quintile 1) (hhd-u1) | 0.00027739
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Households - Urban (quintile 2) (hhd-u2) | 0.002355935
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Households - Urban (quintile 3) (hhd-u3) | 0.001675609
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Households - Urban (quintile 4) (hhd-u4) | 0.005913858
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Households - Urban (quintile 5) (hhd-u5) | 0.013853029
+Ethiopia 2022 SAM | Commodities - Cotton and fibres (ccott) | Total (total) | 3.456145334
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Activities - Fruits and nuts (afrui) | 0.644294743
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Activities - Processed foods (afood) | 5.007345271
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Activities - Beverage and tobacco (abeve) | 0.048962254
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Activities - Accommodation and food services (ahotl) | 2.094880391
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Households - Rural (quintile 1) (hhd-r1) | 0.267846404
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Households - Rural (quintile 2) (hhd-r2) | 1.01301617
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Households - Rural (quintile 3) (hhd-r3) | 1.479647659
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Households - Rural (quintile 4) (hhd-r4) | 1.823209051
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Households - Rural (quintile 5) (hhd-r5) | 2.201316082
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Households - Urban (quintile 1) (hhd-u1) | 0.408132077
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Households - Urban (quintile 2) (hhd-u2) | 0.841342093
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Households - Urban (quintile 3) (hhd-u3) | 0.874455838
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Households - Urban (quintile 4) (hhd-u4) | 2.187108809
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Households - Urban (quintile 5) (hhd-u5) | 10.08982717
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Rest of world (row) | 1.058702768
+Ethiopia 2022 SAM | Commodities - Fruits and nuts (cfrui) | Total (total) | 30.04008678
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Activities - Coffee, tea and cocoa (acoff) | 25.86335828
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Activities - Processed foods (afood) | 22.28196041
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Activities - Accommodation and food services (ahotl) | 0.352369552
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Rural (quintile 1) (hhd-r1) | 13.97879712
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Rural (quintile 2) (hhd-r2) | 18.17318264
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Rural (quintile 3) (hhd-r3) | 28.60851236
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Rural (quintile 4) (hhd-r4) | 27.46694549
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Rural (quintile 5) (hhd-r5) | 24.37618042
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Urban (quintile 1) (hhd-u1) | 2.287204487
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Urban (quintile 2) (hhd-u2) | 2.736967759
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Urban (quintile 3) (hhd-u3) | 2.733783986
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Urban (quintile 4) (hhd-u4) | 5.949875957
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Households - Urban (quintile 5) (hhd-u5) | 12.1142434
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Rest of world (row) | 80.58483137
+Ethiopia 2022 SAM | Commodities - Coffee, tea and cocoa (ccoff) | Total (total) | 267.5082132
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Activities - Other crops (aocrp) | 1.929587741
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Activities - Processed foods (afood) | 0.158389184
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Activities - Beverage and tobacco (abeve) | 1.711830789
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Activities - Accommodation and food services (ahotl) | 2.379847604
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Households - Rural (quintile 1) (hhd-r1) | 3.537251414
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Households - Rural (quintile 2) (hhd-r2) | 10.39968916
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Households - Rural (quintile 3) (hhd-r3) | 11.97506384
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Households - Rural (quintile 4) (hhd-r4) | 12.32969631
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Households - Rural (quintile 5) (hhd-r5) | 13.05154137
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Households - Urban (quintile 1) (hhd-u1) | 0.201482577
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Households - Urban (quintile 2) (hhd-u2) | 0.276546712
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Households - Urban (quintile 3) (hhd-u3) | 0.376396427
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Households - Urban (quintile 4) (hhd-u4) | 0.824722357
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Households - Urban (quintile 5) (hhd-u5) | 4.408532013
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Rest of world (row) | 15.91969802
+Ethiopia 2022 SAM | Commodities - Other crops (cocrp) | Total (total) | 79.48027553
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Cattle and raw milk (acatt) | 0.338609057
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Processed foods (afood) | 28.02015054
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Other manufacturing (aoman) | 0.006446411
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Activities - Accommodation and food services (ahotl) | 9.893753624
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Rural (quintile 1) (hhd-r1) | 15.55229275
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Rural (quintile 2) (hhd-r2) | 22.53231433
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Rural (quintile 3) (hhd-r3) | 27.81960039
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Rural (quintile 4) (hhd-r4) | 57.72480633
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Rural (quintile 5) (hhd-r5) | 121.2118424
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Urban (quintile 1) (hhd-u1) | 5.998245832
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Urban (quintile 2) (hhd-u2) | 11.22862963
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Urban (quintile 3) (hhd-u3) | 11.84291114
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Urban (quintile 4) (hhd-u4) | 33.77163089
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Households - Urban (quintile 5) (hhd-u5) | 127.7874245
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Rest of world (row) | 0.681904278
+Ethiopia 2022 SAM | Commodities - Cattle and raw milk (ccatt) | Total (total) | 474.4105621
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Activities - Processed foods (afood) | 0.036611696
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Activities - Accommodation and food services (ahotl) | 3.119122807
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Households - Rural (quintile 1) (hhd-r1) | 0.022243417
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Households - Rural (quintile 2) (hhd-r2) | 0.181968619
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Households - Rural (quintile 3) (hhd-r3) | 0.338994553
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Households - Rural (quintile 4) (hhd-r4) | 1.565499544
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Households - Rural (quintile 5) (hhd-r5) | 3.081972873
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Households - Urban (quintile 1) (hhd-u1) | 0.210970293
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Households - Urban (quintile 2) (hhd-u2) | 0.56217527
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Households - Urban (quintile 3) (hhd-u3) | 0.730359649
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Households - Urban (quintile 4) (hhd-u4) | 2.171138657
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Households - Urban (quintile 5) (hhd-u5) | 10.99754154
+Ethiopia 2022 SAM | Commodities - Poultry and eggs (cpoul) | Total (total) | 23.01859892
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Activities - Processed foods (afood) | 0.274116972
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Activities - Metals and metal products (ametl) | 0.002105704
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Activities - Other manufacturing (aoman) | 0.013039618
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Households - Rural (quintile 1) (hhd-r1) | 1.844027879
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Households - Rural (quintile 2) (hhd-r2) | 6.184159787
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Households - Rural (quintile 3) (hhd-r3) | 6.504182425
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Households - Rural (quintile 4) (hhd-r4) | 14.15156063
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Households - Rural (quintile 5) (hhd-r5) | 37.51370791
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Households - Urban (quintile 1) (hhd-u1) | 1.251148099
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Households - Urban (quintile 2) (hhd-u2) | 3.541096427
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Households - Urban (quintile 3) (hhd-u3) | 3.842545988
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Households - Urban (quintile 4) (hhd-u4) | 12.64332599
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Households - Urban (quintile 5) (hhd-u5) | 110.5195638
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Rest of world (row) | 0.548032725
+Ethiopia 2022 SAM | Commodities - Other livestock (coliv) | Total (total) | 198.832614
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Activities - Processed foods (afood) | 0.549945895
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Activities - Beverage and tobacco (abeve) | 0.123592467
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Activities - Textiles, clothing and footwear (atext) | 0.02214889
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Activities - Wood and paper products (awood) | 0.890855074
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Activities - Chemicals and petroleum (achem) | 0.006649278
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Activities - Non-metal minerals (anmet) | 6.642202412
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Activities - Metals and metal products (ametl) | 0.015127197
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Activities - Other manufacturing (aoman) | 0.592195919
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Activities - Accommodation and food services (ahotl) | 5.886083036
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Households - Rural (quintile 1) (hhd-r1) | 28.48588643
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Households - Rural (quintile 2) (hhd-r2) | 43.41031603
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Households - Rural (quintile 3) (hhd-r3) | 64.50605978
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Households - Rural (quintile 4) (hhd-r4) | 53.0221443
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Households - Rural (quintile 5) (hhd-r5) | 42.8606255
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Households - Urban (quintile 1) (hhd-u1) | 3.346572311
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Households - Urban (quintile 2) (hhd-u2) | 4.994904173
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Households - Urban (quintile 3) (hhd-u3) | 4.804849466
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Households - Urban (quintile 4) (hhd-u4) | 10.33898143
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Households - Urban (quintile 5) (hhd-u5) | 26.30453714
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Rest of world (row) | 0.052254504
+Ethiopia 2022 SAM | Commodities - Forestry (cfore) | Total (total) | 296.8559312
+Ethiopia 2022 SAM | Commodities - Fisheries (cfish) | Households - Urban (quintile 1) (hhd-u1) | 0.622217158
+Ethiopia 2022 SAM | Commodities - Fisheries (cfish) | Households - Urban (quintile 2) (hhd-u2) | 0.708006033
+Ethiopia 2022 SAM | Commodities - Fisheries (cfish) | Households - Urban (quintile 4) (hhd-u4) | 3.701644435
+Ethiopia 2022 SAM | Commodities - Fisheries (cfish) | Households - Urban (quintile 5) (hhd-u5) | 34.69211041
+Ethiopia 2022 SAM | Commodities - Fisheries (cfish) | Total (total) | 39.72397803
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Activities - Cattle and raw milk (acatt) | 0.002025663
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Activities - Processed foods (afood) | 0.145960183
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Activities - Beverage and tobacco (abeve) | 0.026075236
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Activities - Textiles, clothing and footwear (atext) | 0.006139282
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Activities - Wood and paper products (awood) | 0.01530439
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Activities - Chemicals and petroleum (achem) | 0.068924302
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Activities - Non-metal minerals (anmet) | 4.186328163
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Activities - Metals and metal products (ametl) | 8.913994423
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Activities - Other manufacturing (aoman) | 0.000150199
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Activities - Construction (acons) | 44.65613859
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Rest of world (row) | 1.339126045
+Ethiopia 2022 SAM | Commodities - Mining (cmine) | Total (total) | 59.36016648
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Cattle and raw milk (acatt) | 1.953786679
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Poultry and eggs (apoul) | 0.24779618
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Other livestock (aoliv) | 2.372541102
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Processed foods (afood) | 32.87386613
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Beverage and tobacco (abeve) | 7.824194982
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Textiles, clothing and footwear (atext) | 2.550387178
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Wood and paper products (awood) | 0.01935311
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Chemicals and petroleum (achem) | 0.971067545
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Other manufacturing (aoman) | 0.098825395
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Accommodation and food services (ahotl) | 42.92249361
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Public administration (apadm) | 5.631637641
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Activities - Health and social work (aheal) | 1.2934903
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Households - Rural (quintile 1) (hhd-r1) | 53.91881857
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Households - Rural (quintile 2) (hhd-r2) | 77.07644264
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Households - Rural (quintile 3) (hhd-r3) | 93.49397624
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Households - Rural (quintile 4) (hhd-r4) | 88.96708162
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Households - Rural (quintile 5) (hhd-r5) | 71.30208807
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Households - Urban (quintile 1) (hhd-u1) | 7.32198968
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Households - Urban (quintile 2) (hhd-u2) | 8.4062922
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Households - Urban (quintile 3) (hhd-u3) | 7.939811368
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Households - Urban (quintile 4) (hhd-u4) | 17.36591048
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Households - Urban (quintile 5) (hhd-u5) | 45.36344429
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Rest of world (row) | 24.50408122
+Ethiopia 2022 SAM | Commodities - Processed foods (cfood) | Total (total) | 594.4193762
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Processed foods (afood) | 0.05225844
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Beverage and tobacco (abeve) | 0.178540206
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Activities - Accommodation and food services (ahotl) | 31.50850428
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Rural (quintile 1) (hhd-r1) | 5.748333779
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Rural (quintile 2) (hhd-r2) | 14.51935472
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Rural (quintile 3) (hhd-r3) | 11.97234711
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Rural (quintile 4) (hhd-r4) | 18.46446175
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Rural (quintile 5) (hhd-r5) | 27.38424433
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Urban (quintile 1) (hhd-u1) | 0.413551535
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Urban (quintile 2) (hhd-u2) | 0.803636198
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Urban (quintile 3) (hhd-u3) | 1.015644847
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Urban (quintile 4) (hhd-u4) | 3.147205906
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Households - Urban (quintile 5) (hhd-u5) | 23.13788573
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Rest of world (row) | 0.102490894
+Ethiopia 2022 SAM | Commodities - Beverage and tobacco (cbeve) | Total (total) | 138.4484597
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Processed foods (afood) | 0.660545908
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Textiles, clothing and footwear (atext) | 26.08866093
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Wood and paper products (awood) | 1.338501714
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Chemicals and petroleum (achem) | 0.234661644
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Non-metal minerals (anmet) | 0.011670636
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Metals and metal products (ametl) | 0.004500088
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Machinery, equipment and vehicles (amach) | 0.097550855
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Other manufacturing (aoman) | 0.346161987
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Transportation and storage (atran) | 5.125449682
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Finance and insurance (afsrv) | 0.190635137
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Business services (absrv) | 0.104447469
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Activities - Other services (aosrv) | 1.36370649
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Rural (quintile 1) (hhd-r1) | 7.414339707
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Rural (quintile 2) (hhd-r2) | 12.29919189
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Rural (quintile 3) (hhd-r3) | 17.65665934
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Rural (quintile 4) (hhd-r4) | 15.21420425
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Rural (quintile 5) (hhd-r5) | 15.31448687
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Urban (quintile 1) (hhd-u1) | 1.546310384
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Urban (quintile 2) (hhd-u2) | 2.279767039
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Urban (quintile 3) (hhd-u3) | 2.20119444
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Urban (quintile 4) (hhd-u4) | 5.567865943
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Households - Urban (quintile 5) (hhd-u5) | 20.08693157
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Rest of world (row) | 21.35627314
+Ethiopia 2022 SAM | Commodities - Textiles, clothing and footwear (ctext) | Total (total) | 156.5037171
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Processed foods (afood) | 0.496654459
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Textiles, clothing and footwear (atext) | 0.018453315
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Wood and paper products (awood) | 1.976112707
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Chemicals and petroleum (achem) | 0.274755714
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Metals and metal products (ametl) | 0.048573799
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Machinery, equipment and vehicles (amach) | 0.000936317
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Other manufacturing (aoman) | 1.567360688
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Electricity, gas and steam (aelec) | 1.981357823
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Water supply and sewage (awatr) | 2.128796719
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Wholesale and retail trade (atrad) | 29.555639
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Transportation and storage (atran) | 40.00953177
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Accommodation and food services (ahotl) | 0.697093974
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Information and communication (acomm) | 6.58291E-05
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Finance and insurance (afsrv) | 5.710872739
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Business services (absrv) | 0.323873319
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Public administration (apadm) | 9.577742276
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Education (aeduc) | 11.83331697
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Health and social work (aheal) | 0.986983281
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Activities - Other services (aosrv) | 4.291083335
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Households - Rural (quintile 1) (hhd-r1) | 1.724629674
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Households - Rural (quintile 2) (hhd-r2) | 2.321386332
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Households - Rural (quintile 3) (hhd-r3) | 3.366934433
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Households - Rural (quintile 4) (hhd-r4) | 2.513242761
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Households - Rural (quintile 5) (hhd-r5) | 3.007158706
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Households - Urban (quintile 1) (hhd-u1) | 0.636265051
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Households - Urban (quintile 2) (hhd-u2) | 0.777544959
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Households - Urban (quintile 3) (hhd-u3) | 0.690841974
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Households - Urban (quintile 4) (hhd-u4) | 1.613293046
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Households - Urban (quintile 5) (hhd-u5) | 6.761782443
+Ethiopia 2022 SAM | Commodities - Wood and paper products (cwood) | Total (total) | 134.8922834
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Maize (amaiz) | 26.905134
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Rice (arice) | 0.621321671
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Other cereals (aocer) | 31.55155866
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Pulses (apuls) | 1.834085779
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Oilseeds (aoils) | 0.819663054
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Roots (aroot) | 1.78311374
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Vegetables (avege) | 1.567658559
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Sugarcane (asugr) | 0.585376425
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Tobacco (atoba) | 0.002181751
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Cotton and fibres (acott) | 0.045843896
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Fruits and nuts (afrui) | 0.789586719
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Coffee, tea and cocoa (acoff) | 22.15695945
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Other crops (aocrp) | 1.926660525
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Other livestock (aoliv) | 6.080269994
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Mining (amine) | 5.062364861
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Processed foods (afood) | 17.18920953
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Beverage and tobacco (abeve) | 12.32618043
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Textiles, clothing and footwear (atext) | 6.331735989
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Wood and paper products (awood) | 3.178496292
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Chemicals and petroleum (achem) | 24.84403707
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Non-metal minerals (anmet) | 7.288367511
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Metals and metal products (ametl) | 7.847311517
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Machinery, equipment and vehicles (amach) | 2.442696282
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Other manufacturing (aoman) | 2.635988947
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Electricity, gas and steam (aelec) | 4.5797057
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Water supply and sewage (awatr) | 5.547415664
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Construction (acons) | 32.36797411
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Wholesale and retail trade (atrad) | 0.575737371
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Transportation and storage (atran) | 152.5795273
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Information and communication (acomm) | 7.607267195
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Finance and insurance (afsrv) | 0.339894288
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Business services (absrv) | 0.166593806
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Public administration (apadm) | 8.978407787
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Education (aeduc) | 0.472820504
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Health and social work (aheal) | 12.60654323
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Activities - Other services (aosrv) | 2.18313293
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Rural (quintile 1) (hhd-r1) | 10.10920496
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Rural (quintile 2) (hhd-r2) | 13.10909725
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Rural (quintile 3) (hhd-r3) | 25.72145536
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Rural (quintile 4) (hhd-r4) | 21.0516451
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Rural (quintile 5) (hhd-r5) | 16.11704063
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Urban (quintile 1) (hhd-u1) | 1.440784273
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Urban (quintile 2) (hhd-u2) | 2.241766144
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Urban (quintile 3) (hhd-u3) | 2.300243261
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Urban (quintile 4) (hhd-u4) | 5.696861841
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Households - Urban (quintile 5) (hhd-u5) | 18.0454916
+Ethiopia 2022 SAM | Commodities - Chemicals and petroleum (cchem) | Total (total) | 529.6544129
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Textiles, clothing and footwear (atext) | 0.000184485
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Wood and paper products (awood) | 0.000454067
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Chemicals and petroleum (achem) | 0.056075933
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Non-metal minerals (anmet) | 0.815412283
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Metals and metal products (ametl) | 0.171096311
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Machinery, equipment and vehicles (amach) | 0.065565857
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Other manufacturing (aoman) | 0.014732952
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Activities - Construction (acons) | 79.2480758
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Households - Rural (quintile 1) (hhd-r1) | 1.038693347
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Households - Rural (quintile 2) (hhd-r2) | 1.980844343
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Households - Rural (quintile 3) (hhd-r3) | 3.2891765
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Households - Rural (quintile 4) (hhd-r4) | 3.589047836
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Households - Rural (quintile 5) (hhd-r5) | 3.846219759
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Households - Urban (quintile 1) (hhd-u1) | 0.128654119
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Households - Urban (quintile 2) (hhd-u2) | 0.25818046
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Households - Urban (quintile 3) (hhd-u3) | 0.284043201
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Households - Urban (quintile 4) (hhd-u4) | 0.871827682
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Households - Urban (quintile 5) (hhd-u5) | 4.211401477
+Ethiopia 2022 SAM | Commodities - Non-metal minerals (cnmet) | Total (total) | 99.86968641
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Processed foods (afood) | 0.076580213
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Beverage and tobacco (abeve) | 0.755068288
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Textiles, clothing and footwear (atext) | 0.18121238
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Wood and paper products (awood) | 0.285668733
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Chemicals and petroleum (achem) | 0.089402955
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Non-metal minerals (anmet) | 0.691726988
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Metals and metal products (ametl) | 44.63216168
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Machinery, equipment and vehicles (amach) | 4.959251645
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Other manufacturing (aoman) | 1.967912697
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Construction (acons) | 155.2589636
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Activities - Transportation and storage (atran) | 7.429522408
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Households - Rural (quintile 1) (hhd-r1) | 1.831337146
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Households - Rural (quintile 2) (hhd-r2) | 5.166608237
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Households - Rural (quintile 3) (hhd-r3) | 5.955224025
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Households - Rural (quintile 4) (hhd-r4) | 6.567831437
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Households - Rural (quintile 5) (hhd-r5) | 10.26617335
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Households - Urban (quintile 1) (hhd-u1) | 0.178892348
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Households - Urban (quintile 2) (hhd-u2) | 0.34889334
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Households - Urban (quintile 3) (hhd-u3) | 0.367150321
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Households - Urban (quintile 4) (hhd-u4) | 0.99677524
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Households - Urban (quintile 5) (hhd-u5) | 7.661756495
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Savings-investment (s-i) | 8.651258067
+Ethiopia 2022 SAM | Commodities - Metals and metal products (cmetl) | Total (total) | 264.3193716
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Processed foods (afood) | 8.596754372
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Beverage and tobacco (abeve) | 1.489144666
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Textiles, clothing and footwear (atext) | 1.848022515
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Wood and paper products (awood) | 0.137910511
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Chemicals and petroleum (achem) | 1.004900972
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Non-metal minerals (anmet) | 1.950716203
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Metals and metal products (ametl) | 2.49305311
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Machinery, equipment and vehicles (amach) | 1.997477337
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Other manufacturing (aoman) | 0.299200481
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Electricity, gas and steam (aelec) | 35.20446618
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Water supply and sewage (awatr) | 35.58526514
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Construction (acons) | 101.3244798
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Finance and insurance (afsrv) | 1.80691745
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Activities - Health and social work (aheal) | 0.010375836
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Rural (quintile 1) (hhd-r1) | 1.295983379
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Rural (quintile 2) (hhd-r2) | 2.102824648
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Rural (quintile 3) (hhd-r3) | 2.740626794
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Rural (quintile 4) (hhd-r4) | 3.288739744
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Rural (quintile 5) (hhd-r5) | 11.8260551
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Urban (quintile 1) (hhd-u1) | 0.286408462
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Urban (quintile 2) (hhd-u2) | 0.752416201
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Urban (quintile 3) (hhd-u3) | 0.934372951
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Urban (quintile 4) (hhd-u4) | 3.233186738
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Households - Urban (quintile 5) (hhd-u5) | 62.31412878
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Savings-investment (s-i) | 43.2942169
+Ethiopia 2022 SAM | Commodities - Machinery, equipment and vehicles (cmach) | Total (total) | 325.8176443
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Mining (amine) | 0.379014426
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Beverage and tobacco (abeve) | 1.33455995
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Textiles, clothing and footwear (atext) | 5.486530649
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Wood and paper products (awood) | 0.012482479
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Non-metal minerals (anmet) | 0.000103099
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Metals and metal products (ametl) | 1.227301459
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Other manufacturing (aoman) | 0.794074731
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Electricity, gas and steam (aelec) | 4.378135749
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Water supply and sewage (awatr) | 6.824117045
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Construction (acons) | 11.67223675
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Information and communication (acomm) | 4.167132973
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Finance and insurance (afsrv) | 0.009304676
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Business services (absrv) | 0.49980176
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Public administration (apadm) | 3.150497193
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Education (aeduc) | 8.845724365
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Health and social work (aheal) | 0.894723292
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Activities - Other services (aosrv) | 6.605253485
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Households - Rural (quintile 1) (hhd-r1) | 0.639547539
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Households - Rural (quintile 2) (hhd-r2) | 1.322748186
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Households - Rural (quintile 3) (hhd-r3) | 1.919152003
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Households - Rural (quintile 4) (hhd-r4) | 1.819910306
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Households - Rural (quintile 5) (hhd-r5) | 2.675245814
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Households - Urban (quintile 1) (hhd-u1) | 0.126484908
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Households - Urban (quintile 2) (hhd-u2) | 0.248220844
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Households - Urban (quintile 3) (hhd-u3) | 0.216801465
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Households - Urban (quintile 4) (hhd-u4) | 0.643788338
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Households - Urban (quintile 5) (hhd-u5) | 3.235744272
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Savings-investment (s-i) | 9.98912953
+Ethiopia 2022 SAM | Commodities - Other manufacturing (coman) | Total (total) | 79.11776728
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Mining (amine) | 0.28303834
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Processed foods (afood) | 14.42182708
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Beverage and tobacco (abeve) | 0.623955953
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Textiles, clothing and footwear (atext) | 0.565095246
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Wood and paper products (awood) | 0.155708333
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Chemicals and petroleum (achem) | 0.352539878
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Non-metal minerals (anmet) | 2.760527503
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Metals and metal products (ametl) | 0.912425415
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Machinery, equipment and vehicles (amach) | 0.284074959
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Other manufacturing (aoman) | 0.257105764
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Electricity, gas and steam (aelec) | 0.761965376
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Water supply and sewage (awatr) | 18.1706928
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Construction (acons) | 3.767209945
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Wholesale and retail trade (atrad) | 9.817632368
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Transportation and storage (atran) | 3.237472261
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Accommodation and food services (ahotl) | 0.987300527
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Information and communication (acomm) | 17.15277249
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Finance and insurance (afsrv) | 0.684996527
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Business services (absrv) | 0.16155519
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Public administration (apadm) | 1.402029411
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Education (aeduc) | 1.519111807
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Health and social work (aheal) | 0.604290585
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Activities - Other services (aosrv) | 2.099687571
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Households - Rural (quintile 1) (hhd-r1) | 0.196081681
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Households - Rural (quintile 2) (hhd-r2) | 0.633717925
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Households - Rural (quintile 3) (hhd-r3) | 0.857225564
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Households - Rural (quintile 4) (hhd-r4) | 1.318470474
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Households - Rural (quintile 5) (hhd-r5) | 2.654666113
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Households - Urban (quintile 1) (hhd-u1) | 2.304377869
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Households - Urban (quintile 2) (hhd-u2) | 2.685135948
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Households - Urban (quintile 3) (hhd-u3) | 2.334130733
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Households - Urban (quintile 4) (hhd-u4) | 5.396448822
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Households - Urban (quintile 5) (hhd-u5) | 21.03488375
+Ethiopia 2022 SAM | Commodities - Electricity, gas and steam (celec) | Total (total) | 120.3981542
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Other crops (aocrp) | 0.049207065
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Cattle and raw milk (acatt) | 13.65178599
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Mining (amine) | 1.386486064
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Processed foods (afood) | 3.013198109
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Beverage and tobacco (abeve) | 0.805925568
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Textiles, clothing and footwear (atext) | 0.361641391
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Wood and paper products (awood) | 0.13513068
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Chemicals and petroleum (achem) | 0.364438849
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Non-metal minerals (anmet) | 1.241464209
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Metals and metal products (ametl) | 0.324794599
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Machinery, equipment and vehicles (amach) | 0.077919657
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Other manufacturing (aoman) | 0.072684433
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Electricity, gas and steam (aelec) | 0.171823258
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Water supply and sewage (awatr) | 13.05104889
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Construction (acons) | 4.85918123
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Wholesale and retail trade (atrad) | 5.694824722
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Transportation and storage (atran) | 3.420642207
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Accommodation and food services (ahotl) | 1.403582103
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Information and communication (acomm) | 39.27173184
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Finance and insurance (afsrv) | 0.345672414
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Business services (absrv) | 0.018883091
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Public administration (apadm) | 1.958708476
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Education (aeduc) | 1.514020991
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Health and social work (aheal) | 0.389137268
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Activities - Other services (aosrv) | 0.247327588
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Households - Rural (quintile 1) (hhd-r1) | 8.509602752
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Households - Rural (quintile 2) (hhd-r2) | 10.81308787
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Households - Rural (quintile 3) (hhd-r3) | 10.99337757
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Households - Rural (quintile 4) (hhd-r4) | 8.50202033
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Households - Rural (quintile 5) (hhd-r5) | 6.690706223
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Households - Urban (quintile 1) (hhd-u1) | 0.830613803
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Households - Urban (quintile 2) (hhd-u2) | 1.044755582
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Households - Urban (quintile 3) (hhd-u3) | 0.974883671
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Households - Urban (quintile 4) (hhd-u4) | 1.989696405
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Households - Urban (quintile 5) (hhd-u5) | 4.398070832
+Ethiopia 2022 SAM | Commodities - Water supply and sewage (cwatr) | Total (total) | 148.5780757
+Ethiopia 2022 SAM | Commodities - Construction (ccons) | Activities - Electricity, gas and steam (aelec) | 0.050281346
+Ethiopia 2022 SAM | Commodities - Construction (ccons) | Activities - Wholesale and retail trade (atrad) | 33.13580436
+Ethiopia 2022 SAM | Commodities - Construction (ccons) | Activities - Real estate activities (areal) | 365.6630402
+Ethiopia 2022 SAM | Commodities - Construction (ccons) | Activities - Business services (absrv) | 0.378337709
+Ethiopia 2022 SAM | Commodities - Construction (ccons) | Activities - Public administration (apadm) | 24.18931643
+Ethiopia 2022 SAM | Commodities - Construction (ccons) | Activities - Health and social work (aheal) | 0.08072635
+Ethiopia 2022 SAM | Commodities - Construction (ccons) | Activities - Other services (aosrv) | 4.959298961
+Ethiopia 2022 SAM | Commodities - Construction (ccons) | Savings-investment (s-i) | 1685.815114
+Ethiopia 2022 SAM | Commodities - Construction (ccons) | Total (total) | 2114.271919
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Other crops (aocrp) | 0.20685579
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Cattle and raw milk (acatt) | 2.486261675
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Forestry (afore) | 77.06505436
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Fisheries (afish) | 16.20067318
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Processed foods (afood) | 3.034737208
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Beverage and tobacco (abeve) | 0.001239647
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Textiles, clothing and footwear (atext) | 0.926216296
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Wood and paper products (awood) | 0.049422481
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Chemicals and petroleum (achem) | 0.009927158
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Non-metal minerals (anmet) | 0.338262996
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Metals and metal products (ametl) | 0.098846587
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Machinery, equipment and vehicles (amach) | 0.151907839
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Other manufacturing (aoman) | 0.087429443
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Water supply and sewage (awatr) | 20.03073731
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Construction (acons) | 69.02236719
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Transportation and storage (atran) | 130.2702421
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Accommodation and food services (ahotl) | 2.072145305
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Information and communication (acomm) | 24.40570497
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Finance and insurance (afsrv) | 2.098726041
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Public administration (apadm) | 16.8891313
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Education (aeduc) | 16.86150943
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Activities - Health and social work (aheal) | 0.964479399
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Transaction costs (trc) | 1028.323684
+Ethiopia 2022 SAM | Commodities - Wholesale and retail trade (ctrad) | Total (total) | 1411.595562
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Cattle and raw milk (acatt) | 8.533854099
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Forestry (afore) | 51.87094064
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Fisheries (afish) | 8.131731415
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Mining (amine) | 0.481989848
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Processed foods (afood) | 8.347425693
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Beverage and tobacco (abeve) | 2.69815403
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Textiles, clothing and footwear (atext) | 1.567079008
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Wood and paper products (awood) | 0.234992385
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Chemicals and petroleum (achem) | 0.590942145
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Non-metal minerals (anmet) | 6.596344158
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Metals and metal products (ametl) | 1.320760498
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Machinery, equipment and vehicles (amach) | 0.367186984
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Other manufacturing (aoman) | 0.403138799
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Electricity, gas and steam (aelec) | 0.487963385
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Construction (acons) | 96.69417712
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Wholesale and retail trade (atrad) | 129.5042124
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Transportation and storage (atran) | 27.13992152
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Accommodation and food services (ahotl) | 1.139445902
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Finance and insurance (afsrv) | 1.845957
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Business services (absrv) | 0.330832335
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Public administration (apadm) | 6.57965778
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Education (aeduc) | 1.775722221
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Health and social work (aheal) | 0.10765237
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Activities - Other services (aosrv) | 4.341851229
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Transaction costs (trc) | -43.02141307
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Households - Rural (quintile 1) (hhd-r1) | 9.423575781
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Households - Rural (quintile 2) (hhd-r2) | 23.44347626
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Households - Rural (quintile 3) (hhd-r3) | 35.05131074
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Households - Rural (quintile 4) (hhd-r4) | 38.87486889
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Households - Rural (quintile 5) (hhd-r5) | 62.63824947
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Households - Urban (quintile 1) (hhd-u1) | 4.781041792
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Households - Urban (quintile 2) (hhd-u2) | 8.047449443
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Households - Urban (quintile 3) (hhd-u3) | 8.478107853
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Households - Urban (quintile 4) (hhd-u4) | 20.61073681
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Households - Urban (quintile 5) (hhd-u5) | 83.46286781
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Rest of world (row) | 247.4360486
+Ethiopia 2022 SAM | Commodities - Transportation and storage (ctran) | Total (total) | 860.3182533
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Households - Rural (quintile 1) (hhd-r1) | 8.44276331
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Households - Rural (quintile 2) (hhd-r2) | 19.47788295
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Households - Rural (quintile 3) (hhd-r3) | 34.95567667
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Households - Rural (quintile 4) (hhd-r4) | 55.62618422
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Households - Rural (quintile 5) (hhd-r5) | 68.23014762
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Households - Urban (quintile 1) (hhd-u1) | 1.076244471
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Households - Urban (quintile 2) (hhd-u2) | 1.862523007
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Households - Urban (quintile 3) (hhd-u3) | 2.382158849
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Households - Urban (quintile 4) (hhd-u4) | 7.335467818
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Households - Urban (quintile 5) (hhd-u5) | 42.46228179
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Rest of world (row) | 61.6711213
+Ethiopia 2022 SAM | Commodities - Accommodation and food services (chotl) | Total (total) | 303.522452
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Processed foods (afood) | 1.661668112
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Beverage and tobacco (abeve) | 0.171278741
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Textiles, clothing and footwear (atext) | 0.426561589
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Wood and paper products (awood) | 0.054638452
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Chemicals and petroleum (achem) | 0.123904594
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Non-metal minerals (anmet) | 0.354650509
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Metals and metal products (ametl) | 0.50909246
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Machinery, equipment and vehicles (amach) | 0.119291175
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Other manufacturing (aoman) | 0.128415499
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Electricity, gas and steam (aelec) | 1.311895957
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Water supply and sewage (awatr) | 2.071349105
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Construction (acons) | 24.66898359
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Wholesale and retail trade (atrad) | 42.10243018
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Transportation and storage (atran) | 35.73872602
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Accommodation and food services (ahotl) | 1.44746746
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Information and communication (acomm) | 0.010476331
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Finance and insurance (afsrv) | 5.554747914
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Business services (absrv) | 0.544129652
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Public administration (apadm) | 4.169293615
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Education (aeduc) | 2.316993104
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Health and social work (aheal) | 0.217534097
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Activities - Other services (aosrv) | 7.111447944
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Households - Rural (quintile 1) (hhd-r1) | 4.562513326
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Households - Rural (quintile 2) (hhd-r2) | 8.332065894
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Households - Rural (quintile 3) (hhd-r3) | 10.2945169
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Households - Rural (quintile 4) (hhd-r4) | 13.50878061
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Households - Rural (quintile 5) (hhd-r5) | 19.31873269
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Households - Urban (quintile 1) (hhd-u1) | 4.071253999
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Households - Urban (quintile 2) (hhd-u2) | 6.286900425
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Households - Urban (quintile 3) (hhd-u3) | 5.92251909
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Households - Urban (quintile 4) (hhd-u4) | 13.94379
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Households - Urban (quintile 5) (hhd-u5) | 55.04869424
+Ethiopia 2022 SAM | Commodities - Information and communication (ccomm) | Total (total) | 272.1047433
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Cattle and raw milk (acatt) | 5.348358523
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Forestry (afore) | 10.47053163
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Fisheries (afish) | 1.700554071
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Mining (amine) | 0.057359446
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Processed foods (afood) | 0.497759624
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Beverage and tobacco (abeve) | 0.061898023
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Textiles, clothing and footwear (atext) | 0.076773066
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Wood and paper products (awood) | 0.011071424
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Chemicals and petroleum (achem) | 0.04843761
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Non-metal minerals (anmet) | 0.04225009
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Metals and metal products (ametl) | 1.217946307
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Machinery, equipment and vehicles (amach) | 0.034020682
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Other manufacturing (aoman) | 0.034944577
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Electricity, gas and steam (aelec) | 51.99003895
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Water supply and sewage (awatr) | 4.860631411
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Construction (acons) | 32.29707134
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Wholesale and retail trade (atrad) | 27.79685332
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Transportation and storage (atran) | 9.169693741
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Accommodation and food services (ahotl) | 2.444057877
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Information and communication (acomm) | 0.019809158
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Finance and insurance (afsrv) | 4.563076471
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Real estate activities (areal) | 14.19991215
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Business services (absrv) | 0.425292751
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Public administration (apadm) | 2.436118933
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Education (aeduc) | 3.416218984
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Health and social work (aheal) | 0.080013806
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Activities - Other services (aosrv) | 5.454488337
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Households - Rural (quintile 1) (hhd-r1) | 0.392669191
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Households - Rural (quintile 2) (hhd-r2) | 1.31935774
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Households - Rural (quintile 3) (hhd-r3) | 1.412710142
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Households - Rural (quintile 4) (hhd-r4) | 1.724063688
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Households - Rural (quintile 5) (hhd-r5) | 4.952743214
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Households - Urban (quintile 1) (hhd-u1) | 0.33237251
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Households - Urban (quintile 2) (hhd-u2) | 0.616026275
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Households - Urban (quintile 3) (hhd-u3) | 0.668656741
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Households - Urban (quintile 4) (hhd-u4) | 2.037228488
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Households - Urban (quintile 5) (hhd-u5) | 20.44384153
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Rest of world (row) | 0.59556898
+Ethiopia 2022 SAM | Commodities - Finance and insurance (cfsrv) | Total (total) | 213.2504208
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Cattle and raw milk (acatt) | 0.432875151
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Mining (amine) | 0.016672324
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Processed foods (afood) | 0.703840651
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Beverage and tobacco (abeve) | 0.092516953
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Textiles, clothing and footwear (atext) | 0.409329304
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Wood and paper products (awood) | 0.02146394
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Chemicals and petroleum (achem) | 0.056026533
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Non-metal minerals (anmet) | 0.084724856
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Metals and metal products (ametl) | 0.169225632
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Machinery, equipment and vehicles (amach) | 0.043810552
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Other manufacturing (aoman) | 0.116927899
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Electricity, gas and steam (aelec) | 2.767605377
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Water supply and sewage (awatr) | 2.373011918
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Construction (acons) | 21.02433033
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Wholesale and retail trade (atrad) | 55.63869724
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Transportation and storage (atran) | 0.298037078
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Accommodation and food services (ahotl) | 1.48913749
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Information and communication (acomm) | 1.67856394
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Finance and insurance (afsrv) | 3.003759958
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Business services (absrv) | 0.120224525
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Public administration (apadm) | 1.683830685
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Education (aeduc) | 5.6154635
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Health and social work (aheal) | 0.115485211
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Activities - Other services (aosrv) | 1.583673252
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Households - Rural (quintile 1) (hhd-r1) | 36.62185946
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Households - Rural (quintile 2) (hhd-r2) | 55.89184582
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Households - Rural (quintile 3) (hhd-r3) | 77.18274741
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Households - Rural (quintile 4) (hhd-r4) | 67.89227305
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Households - Rural (quintile 5) (hhd-r5) | 78.8877663
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Households - Urban (quintile 1) (hhd-u1) | 18.03101716
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Households - Urban (quintile 2) (hhd-u2) | 34.55185605
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Households - Urban (quintile 3) (hhd-u3) | 34.37000656
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Households - Urban (quintile 4) (hhd-u4) | 88.21250061
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Households - Urban (quintile 5) (hhd-u5) | 258.3360974
+Ethiopia 2022 SAM | Commodities - Real estate activities (creal) | Total (total) | 849.5172041
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Sugarcane (asugr) | 0.221326061
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Tobacco (atoba) | 0.000828968
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Cotton and fibres (acott) | 0.017440496
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Coffee, tea and cocoa (acoff) | 0.023243432
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Other crops (aocrp) | 0.239681257
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Cattle and raw milk (acatt) | 1.137211091
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Mining (amine) | 0.15437057
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Processed foods (afood) | 1.045366076
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Beverage and tobacco (abeve) | 2.24863354
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Textiles, clothing and footwear (atext) | 1.308151248
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Wood and paper products (awood) | 0.06064097
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Chemicals and petroleum (achem) | 0.360167067
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Non-metal minerals (anmet) | 0.246434424
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Metals and metal products (ametl) | 0.513903801
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Machinery, equipment and vehicles (amach) | 0.202653937
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Other manufacturing (aoman) | 0.086827364
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Electricity, gas and steam (aelec) | 2.446178305
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Water supply and sewage (awatr) | 3.244471015
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Construction (acons) | 2.282028446
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Wholesale and retail trade (atrad) | 43.0940534
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Transportation and storage (atran) | 52.34148069
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Accommodation and food services (ahotl) | 0.157661429
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Information and communication (acomm) | 0.03800692
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Finance and insurance (afsrv) | 3.841068652
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Public administration (apadm) | 1.213837467
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Education (aeduc) | 2.536885055
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Activities - Health and social work (aheal) | 0.063922985
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Households - Rural (quintile 1) (hhd-r1) | 0.048076194
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Households - Rural (quintile 2) (hhd-r2) | 0.386109107
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Households - Rural (quintile 3) (hhd-r3) | 0.397077679
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Households - Rural (quintile 4) (hhd-r4) | 0.515862359
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Households - Rural (quintile 5) (hhd-r5) | 0.297853187
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Households - Urban (quintile 1) (hhd-u1) | 0.013004358
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Households - Urban (quintile 2) (hhd-u2) | 0.129200486
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Households - Urban (quintile 3) (hhd-u3) | 0.052815416
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Households - Urban (quintile 4) (hhd-u4) | 0.09204356
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Households - Urban (quintile 5) (hhd-u5) | 1.324212587
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Rest of world (row) | 15.72222274
+Ethiopia 2022 SAM | Commodities - Business services (cbsrv) | Total (total) | 138.1049523
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Cattle and raw milk (acatt) | 2.792351771
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Processed foods (afood) | 2.580134033
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Beverage and tobacco (abeve) | 0.025739579
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Textiles, clothing and footwear (atext) | 0.113536982
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Wood and paper products (awood) | 0.006353936
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Chemicals and petroleum (achem) | 0.023315244
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Non-metal minerals (anmet) | 0.032641172
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Metals and metal products (ametl) | 0.190901102
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Machinery, equipment and vehicles (amach) | 0.007814341
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Other manufacturing (aoman) | 0.036070002
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Accommodation and food services (ahotl) | 0.324361935
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Activities - Finance and insurance (afsrv) | 0.554984995
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Households - Rural (quintile 1) (hhd-r1) | 0.006206013
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Households - Rural (quintile 2) (hhd-r2) | 0.00327339
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Households - Rural (quintile 3) (hhd-r3) | 0.345657947
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Households - Rural (quintile 4) (hhd-r4) | 0.116181102
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Households - Rural (quintile 5) (hhd-r5) | 2.389616365
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Households - Urban (quintile 1) (hhd-u1) | 0.005287876
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Households - Urban (quintile 2) (hhd-u2) | 0.058787735
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Households - Urban (quintile 3) (hhd-u3) | 0.031103704
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Households - Urban (quintile 4) (hhd-u4) | 0.082513375
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Households - Urban (quintile 5) (hhd-u5) | 2.410906465
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Government (gov) | 286.7594514
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Rest of world (row) | 8.904634993
+Ethiopia 2022 SAM | Commodities - Public administration (cpadm) | Total (total) | 307.8018254
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Activities - Water supply and sewage (awatr) | 0.364398649
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Activities - Information and communication (acomm) | 3.567317423
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Activities - Finance and insurance (afsrv) | 0.006544823
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Activities - Business services (absrv) | 0.112946193
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Activities - Other services (aosrv) | 1.482534312
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Households - Rural (quintile 1) (hhd-r1) | 0.172801891
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Households - Rural (quintile 2) (hhd-r2) | 0.406954727
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Households - Rural (quintile 3) (hhd-r3) | 0.849956591
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Households - Rural (quintile 4) (hhd-r4) | 0.605249938
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Households - Rural (quintile 5) (hhd-r5) | 0.924811845
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Households - Urban (quintile 1) (hhd-u1) | 1.197393112
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Households - Urban (quintile 2) (hhd-u2) | 1.632851803
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Households - Urban (quintile 3) (hhd-u3) | 1.144013126
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Households - Urban (quintile 4) (hhd-u4) | 3.746294096
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Households - Urban (quintile 5) (hhd-u5) | 10.15414093
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Government (gov) | 172.1506931
+Ethiopia 2022 SAM | Commodities - Education (ceduc) | Total (total) | 198.5189026
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Activities - Electricity, gas and steam (aelec) | 0.010428122
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Activities - Business services (absrv) | 0.14098971
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Activities - Other services (aosrv) | 1.849153946
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Households - Rural (quintile 1) (hhd-r1) | 1.496436703
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Households - Rural (quintile 2) (hhd-r2) | 2.995572597
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Households - Rural (quintile 3) (hhd-r3) | 4.352813524
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Households - Rural (quintile 4) (hhd-r4) | 3.697926017
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Households - Rural (quintile 5) (hhd-r5) | 4.832824927
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Households - Urban (quintile 1) (hhd-u1) | 0.41206084
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Households - Urban (quintile 2) (hhd-u2) | 0.567273338
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Households - Urban (quintile 3) (hhd-u3) | 0.523449744
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Households - Urban (quintile 4) (hhd-u4) | 1.45044315
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Households - Urban (quintile 5) (hhd-u5) | 5.010201174
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Government (gov) | 44.76135312
+Ethiopia 2022 SAM | Commodities - Health and social work (cheal) | Total (total) | 72.10092691
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Cattle and raw milk (acatt) | 6.015351316
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Other livestock (aoliv) | 3.036435344
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Mining (amine) | 0.096940398
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Processed foods (afood) | 0.000427553
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Electricity, gas and steam (aelec) | 1.903413317
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Water supply and sewage (awatr) | 0.148972423
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Construction (acons) | 11.89016811
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Wholesale and retail trade (atrad) | 67.10152305
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Transportation and storage (atran) | 12.97783227
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Finance and insurance (afsrv) | 9.900299632
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Business services (absrv) | 0.391777731
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Public administration (apadm) | 11.97810091
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Education (aeduc) | 1.25501142
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Health and social work (aheal) | 0.505516343
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Activities - Other services (aosrv) | 5.127503733
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Households - Rural (quintile 1) (hhd-r1) | 1.568740844
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Households - Rural (quintile 2) (hhd-r2) | 4.554263323
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Households - Rural (quintile 3) (hhd-r3) | 5.716274689
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Households - Rural (quintile 4) (hhd-r4) | 6.065556332
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Households - Rural (quintile 5) (hhd-r5) | 10.48232179
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Households - Urban (quintile 1) (hhd-u1) | 0.365987656
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Households - Urban (quintile 2) (hhd-u2) | 0.706423921
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Households - Urban (quintile 3) (hhd-u3) | 0.657567547
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Households - Urban (quintile 4) (hhd-u4) | 2.01589908
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Households - Urban (quintile 5) (hhd-u5) | 11.89132094
+Ethiopia 2022 SAM | Commodities - Other services (cosrv) | Total (total) | 176.3536297
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Maize (cmaiz) | 48.29141078
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Rice (crice) | 2.361007141
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Other cereals (cocer) | 96.71683393
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Pulses (cpuls) | 55.13205232
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Oilseeds (coils) | 16.11540051
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Roots (croot) | 51.17806012
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Vegetables (cvege) | 65.13393601
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Sugarcane (csugr) | 3.190796972
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Tobacco (ctoba) | 0.035156286
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Cotton and fibres (ccott) | 0.254758844
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Fruits and nuts (cfrui) | 12.63877814
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Coffee, tea and cocoa (ccoff) | 112.9831022
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Other crops (cocrp) | 30.4572176
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Cattle and raw milk (ccatt) | 80.81718054
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Poultry and eggs (cpoul) | 1.586739468
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Other livestock (coliv) | 7.927322257
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Forestry (cfore) | 38.74759921
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Fisheries (cfish) | 7.247231718
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Mining (cmine) | 12.25061749
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Processed foods (cfood) | 77.65542592
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Beverage and tobacco (cbeve) | 11.44281847
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Textiles, clothing and footwear (ctext) | 25.74424671
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Wood and paper products (cwood) | 5.43699555
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Chemicals and petroleum (cchem) | 105.2119462
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Non-metal minerals (cnmet) | 18.85811153
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Metals and metal products (cmetl) | 49.07605233
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Machinery, equipment and vehicles (cmach) | 38.56124507
+Ethiopia 2022 SAM | Transaction costs (trc) | Commodities - Other manufacturing (coman) | 10.25022778
+Ethiopia 2022 SAM | Transaction costs (trc) | Total (total) | 985.3022711
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Maize (amaiz) | 222.0271983
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Rice (arice) | 5.507715608
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Other cereals (aocer) | 360.3919856
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Pulses (apuls) | 155.1744482
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Oilseeds (aoils) | 30.5754915
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Roots (aroot) | 91.76687696
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Vegetables (avege) | 85.40484639
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Sugarcane (asugr) | 1.517266148
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Tobacco (atoba) | 0.067481775
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Cotton and fibres (acott) | 1.278631024
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Fruits and nuts (afrui) | 10.13646702
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Coffee, tea and cocoa (acoff) | 39.01377822
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Other crops (aocrp) | 40.51660221
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Cattle and raw milk (acatt) | 73.029599
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Poultry and eggs (apoul) | 4.730069302
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Other livestock (aoliv) | 59.63460856
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Forestry (afore) | 47.09849156
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Fisheries (afish) | 0.221501591
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Mining (amine) | 9.372500345
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Processed foods (afood) | 9.712695612
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Beverage and tobacco (abeve) | 3.895757456
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Textiles, clothing and footwear (atext) | 6.227372527
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Wood and paper products (awood) | 4.375894204
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Chemicals and petroleum (achem) | 1.527060201
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Non-metal minerals (anmet) | 2.779486067
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Metals and metal products (ametl) | 2.923412913
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Machinery, equipment and vehicles (amach) | 2.463352379
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Other manufacturing (aoman) | 2.596895409
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Electricity, gas and steam (aelec) | 0.709962741
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Water supply and sewage (awatr) | 0.756916284
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Construction (acons) | 142.2862142
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Wholesale and retail trade (atrad) | 125.0259544
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Transportation and storage (atran) | 20.00132542
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Accommodation and food services (ahotl) | 3.262143383
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Information and communication (acomm) | 32.44360329
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Finance and insurance (afsrv) | 1.161820429
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Real estate activities (areal) | 2.288090319
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Business services (absrv) | 4.222135342
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Public administration (apadm) | 17.27941129
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Education (aeduc) | 7.682281242
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Health and social work (aheal) | 9.552917734
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Activities - Other services (aosrv) | 36.10479478
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Rest of world (row) | 0.002887988
+Ethiopia 2022 SAM | Factors - Labor - Low (not finished primary schooling) (flab-n) | Total (total) | 1676.747945
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Maize (amaiz) | 17.55280911
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Rice (arice) | 0.466358921
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Other cereals (aocer) | 30.71137169
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Pulses (apuls) | 11.67363741
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Oilseeds (aoils) | 2.327026558
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Roots (aroot) | 7.442203236
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Vegetables (avege) | 6.837625106
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Sugarcane (asugr) | 0.115475449
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Tobacco (atoba) | 0.005135874
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Cotton and fibres (acott) | 0.097313508
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Fruits and nuts (afrui) | 0.939674894
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Coffee, tea and cocoa (acoff) | 2.96924411
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Other crops (aocrp) | 3.265896297
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Cattle and raw milk (acatt) | 1.496969619
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Poultry and eggs (apoul) | 0.12765546
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Other livestock (aoliv) | 0.434809195
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Forestry (afore) | 4.438505476
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Fisheries (afish) | 1.075358215
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Mining (amine) | 0.230394438
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Processed foods (afood) | 5.239616688
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Beverage and tobacco (abeve) | 1.741587078
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Textiles, clothing and footwear (atext) | 3.935256647
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Wood and paper products (awood) | 2.04221442
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Chemicals and petroleum (achem) | 0.672654823
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Non-metal minerals (anmet) | 1.399978557
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Metals and metal products (ametl) | 0.80034146
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Machinery, equipment and vehicles (amach) | 0.229494025
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Other manufacturing (aoman) | 4.378707772
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Electricity, gas and steam (aelec) | 0.487601445
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Water supply and sewage (awatr) | 0.518806739
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Construction (acons) | 99.30787296
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Wholesale and retail trade (atrad) | 19.59975387
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Transportation and storage (atran) | 14.63038226
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Accommodation and food services (ahotl) | 26.55402637
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Information and communication (acomm) | 12.03555536
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Finance and insurance (afsrv) | 5.365768145
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Real estate activities (areal) | 1.629096093
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Business services (absrv) | 3.006115682
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Public administration (apadm) | 11.88512556
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Education (aeduc) | 8.016555849
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Health and social work (aheal) | 2.033410042
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Activities - Other services (aosrv) | 8.962095461
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Rest of world (row) | 0.000562665
+Ethiopia 2022 SAM | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | Total (total) | 326.6800446
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Maize (amaiz) | 1.258982891
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Rice (arice) | 0.030808366
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Other cereals (aocer) | 2.01324294
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Pulses (apuls) | 0.87592483
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Oilseeds (aoils) | 0.174607131
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Roots (aroot) | 0.517795105
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Vegetables (avege) | 0.483107927
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Sugarcane (asugr) | 0.008664636
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Tobacco (atoba) | 0.000385367
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Cotton and fibres (acott) | 0.007301864
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Fruits and nuts (afrui) | 0.055588398
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Coffee, tea and cocoa (acoff) | 0.222795565
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Other crops (aocrp) | 0.228887809
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Cattle and raw milk (acatt) | 1.47734354
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Poultry and eggs (apoul) | 0.097213001
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Other livestock (aoliv) | 0.689505969
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Forestry (afore) | 2.769707633
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Fisheries (afish) | 0.657870214
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Mining (amine) | 0.633758748
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Processed foods (afood) | 1.643753755
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Beverage and tobacco (abeve) | 1.329479125
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Textiles, clothing and footwear (atext) | 2.318414415
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Wood and paper products (awood) | 2.391636571
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Chemicals and petroleum (achem) | 0.550501866
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Non-metal minerals (anmet) | 0.447921068
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Metals and metal products (ametl) | 1.191763169
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Machinery, equipment and vehicles (amach) | 0.215188595
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Other manufacturing (aoman) | 1.082518916
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Electricity, gas and steam (aelec) | 1.850203503
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Water supply and sewage (awatr) | 1.971895039
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Construction (acons) | 75.19636403
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Wholesale and retail trade (atrad) | 17.28594769
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Transportation and storage (atran) | 9.574250269
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Accommodation and food services (ahotl) | 28.30375405
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Information and communication (acomm) | 14.63428907
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Finance and insurance (afsrv) | 41.04702478
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Real estate activities (areal) | 18.69023728
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Business services (absrv) | 34.48845997
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Public administration (apadm) | 40.4033134
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Education (aeduc) | 64.24292534
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Health and social work (aheal) | 30.83345836
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Activities - Other services (aosrv) | 10.52041362
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Rest of world (row) | 0.000710338
+Ethiopia 2022 SAM | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | Total (total) | 412.4179161
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Maize (amaiz) | 60.47740066
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Rice (arice) | 4.136264526
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Other cereals (aocer) | 125.124239
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Pulses (apuls) | 132.6669456
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Oilseeds (aoils) | 47.9203716
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Roots (aroot) | 64.16820452
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Vegetables (avege) | 44.94553649
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Sugarcane (asugr) | 1.562990697
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Tobacco (atoba) | 0.070665849
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Cotton and fibres (acott) | 1.348533263
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Fruits and nuts (afrui) | 9.395447099
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Coffee, tea and cocoa (acoff) | 66.66980328
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Activities - Other crops (aocrp) | 41.72114382
+Ethiopia 2022 SAM | Factors - Agricultural land (flnd) | Total (total) | 600.2075464
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Maize (amaiz) | 12.95975711
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Rice (arice) | 0.373287145
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Other cereals (aocer) | 23.60514667
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Pulses (apuls) | 8.205579159
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Oilseeds (aoils) | 1.699530406
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Roots (aroot) | 5.554839546
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Vegetables (avege) | 5.365728088
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Sugarcane (asugr) | 0.083090115
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Tobacco (atoba) | 0.004773199
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Cotton and fibres (acott) | 0.161659315
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Fruits and nuts (afrui) | 1.967658915
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Coffee, tea and cocoa (acoff) | 40.39997106
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Other crops (aocrp) | 5.424959763
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Cattle and raw milk (acatt) | 360.3997072
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Poultry and eggs (apoul) | 13.66962972
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Other livestock (aoliv) | 116.6196273
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Forestry (afore) | 123.5315493
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Fisheries (afish) | 4.488197369
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Mining (amine) | 18.54307575
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Processed foods (afood) | 76.63997076
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Beverage and tobacco (abeve) | 35.38211239
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Textiles, clothing and footwear (atext) | 21.03402011
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Wood and paper products (awood) | 22.34303532
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Chemicals and petroleum (achem) | 13.34811255
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Non-metal minerals (anmet) | 30.15367142
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Metals and metal products (ametl) | 32.24452688
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Machinery, equipment and vehicles (amach) | 6.807352833
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Other manufacturing (aoman) | 20.81641257
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Electricity, gas and steam (aelec) | 9.305127678
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Water supply and sewage (awatr) | 30.92954957
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Construction (acons) | 1100.915606
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Wholesale and retail trade (atrad) | 798.3314301
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Transportation and storage (atran) | 76.44405806
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Accommodation and food services (ahotl) | 108.7778964
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Information and communication (acomm) | 112.6253617
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Finance and insurance (afsrv) | 88.85765134
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Real estate activities (areal) | 447.046828
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Business services (absrv) | 54.8334023
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Public administration (apadm) | 138.3956653
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Education (aeduc) | 60.61434181
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Health and social work (aheal) | 10.76026643
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Activities - Other services (aosrv) | 72.06618269
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Rest of world (row) | 1.416872946
+Ethiopia 2022 SAM | Factors - Capital (fcap) | Total (total) | 4113.147222
+Ethiopia 2022 SAM | Enterprises (ent) | Factors - Capital (fcap) | 3489.266816
+Ethiopia 2022 SAM | Enterprises (ent) | Total (total) | 3489.266816
+Ethiopia 2022 SAM | Households - Rural (quintile 1) (hhd-r1) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 234.0097244
+Ethiopia 2022 SAM | Households - Rural (quintile 1) (hhd-r1) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 22.97684304
+Ethiopia 2022 SAM | Households - Rural (quintile 1) (hhd-r1) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 5.348275848
+Ethiopia 2022 SAM | Households - Rural (quintile 1) (hhd-r1) | Factors - Agricultural land (flnd) | 96.75262587
+Ethiopia 2022 SAM | Households - Rural (quintile 1) (hhd-r1) | Factors - Capital (fcap) | 97.28824564
+Ethiopia 2022 SAM | Households - Rural (quintile 1) (hhd-r1) | Enterprises (ent) | 44.99873675
+Ethiopia 2022 SAM | Households - Rural (quintile 1) (hhd-r1) | Rest of world (row) | 17.08907326
+Ethiopia 2022 SAM | Households - Rural (quintile 1) (hhd-r1) | Total (total) | 518.4635248
+Ethiopia 2022 SAM | Households - Rural (quintile 2) (hhd-r2) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 298.9450675
+Ethiopia 2022 SAM | Households - Rural (quintile 2) (hhd-r2) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 31.21708813
+Ethiopia 2022 SAM | Households - Rural (quintile 2) (hhd-r2) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 11.67510185
+Ethiopia 2022 SAM | Households - Rural (quintile 2) (hhd-r2) | Factors - Agricultural land (flnd) | 123.3773787
+Ethiopia 2022 SAM | Households - Rural (quintile 2) (hhd-r2) | Factors - Capital (fcap) | 124.0619888
+Ethiopia 2022 SAM | Households - Rural (quintile 2) (hhd-r2) | Enterprises (ent) | 104.8935212
+Ethiopia 2022 SAM | Households - Rural (quintile 2) (hhd-r2) | Rest of world (row) | 30.92254709
+Ethiopia 2022 SAM | Households - Rural (quintile 2) (hhd-r2) | Total (total) | 725.0926933
+Ethiopia 2022 SAM | Households - Rural (quintile 3) (hhd-r3) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 382.4160183
+Ethiopia 2022 SAM | Households - Rural (quintile 3) (hhd-r3) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 45.67762711
+Ethiopia 2022 SAM | Households - Rural (quintile 3) (hhd-r3) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 18.8215804
+Ethiopia 2022 SAM | Households - Rural (quintile 3) (hhd-r3) | Factors - Agricultural land (flnd) | 153.2635876
+Ethiopia 2022 SAM | Households - Rural (quintile 3) (hhd-r3) | Factors - Capital (fcap) | 151.9841327
+Ethiopia 2022 SAM | Households - Rural (quintile 3) (hhd-r3) | Enterprises (ent) | 213.9114198
+Ethiopia 2022 SAM | Households - Rural (quintile 3) (hhd-r3) | Rest of world (row) | 52.89153542
+Ethiopia 2022 SAM | Households - Rural (quintile 3) (hhd-r3) | Total (total) | 1018.965901
+Ethiopia 2022 SAM | Households - Rural (quintile 4) (hhd-r4) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 345.3206754
+Ethiopia 2022 SAM | Households - Rural (quintile 4) (hhd-r4) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 47.04846379
+Ethiopia 2022 SAM | Households - Rural (quintile 4) (hhd-r4) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 26.14265254
+Ethiopia 2022 SAM | Households - Rural (quintile 4) (hhd-r4) | Factors - Agricultural land (flnd) | 134.8103061
+Ethiopia 2022 SAM | Households - Rural (quintile 4) (hhd-r4) | Factors - Capital (fcap) | 132.7969189
+Ethiopia 2022 SAM | Households - Rural (quintile 4) (hhd-r4) | Enterprises (ent) | 250.9283291
+Ethiopia 2022 SAM | Households - Rural (quintile 4) (hhd-r4) | Rest of world (row) | 58.59836944
+Ethiopia 2022 SAM | Households - Rural (quintile 4) (hhd-r4) | Total (total) | 995.6457153
+Ethiopia 2022 SAM | Households - Rural (quintile 5) (hhd-r5) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 222.9684997
+Ethiopia 2022 SAM | Households - Rural (quintile 5) (hhd-r5) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 35.1806521
+Ethiopia 2022 SAM | Households - Rural (quintile 5) (hhd-r5) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 43.71991616
+Ethiopia 2022 SAM | Households - Rural (quintile 5) (hhd-r5) | Factors - Agricultural land (flnd) | 78.46814067
+Ethiopia 2022 SAM | Households - Rural (quintile 5) (hhd-r5) | Factors - Capital (fcap) | 76.9194871
+Ethiopia 2022 SAM | Households - Rural (quintile 5) (hhd-r5) | Enterprises (ent) | 608.7927945
+Ethiopia 2022 SAM | Households - Rural (quintile 5) (hhd-r5) | Rest of world (row) | 82.66837389
+Ethiopia 2022 SAM | Households - Rural (quintile 5) (hhd-r5) | Total (total) | 1148.717864
+Ethiopia 2022 SAM | Households - Urban (quintile 1) (hhd-u1) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 19.51429971
+Ethiopia 2022 SAM | Households - Urban (quintile 1) (hhd-u1) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 10.61826664
+Ethiopia 2022 SAM | Households - Urban (quintile 1) (hhd-u1) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 3.726387801
+Ethiopia 2022 SAM | Households - Urban (quintile 1) (hhd-u1) | Factors - Agricultural land (flnd) | 0.960346347
+Ethiopia 2022 SAM | Households - Urban (quintile 1) (hhd-u1) | Factors - Capital (fcap) | 0.953993953
+Ethiopia 2022 SAM | Households - Urban (quintile 1) (hhd-u1) | Enterprises (ent) | 63.03175548
+Ethiopia 2022 SAM | Households - Urban (quintile 1) (hhd-u1) | Rest of world (row) | 9.04206378
+Ethiopia 2022 SAM | Households - Urban (quintile 1) (hhd-u1) | Total (total) | 107.8471137
+Ethiopia 2022 SAM | Households - Urban (quintile 2) (hhd-u2) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 24.05552295
+Ethiopia 2022 SAM | Households - Urban (quintile 2) (hhd-u2) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 12.34184984
+Ethiopia 2022 SAM | Households - Urban (quintile 2) (hhd-u2) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 8.901710013
+Ethiopia 2022 SAM | Households - Urban (quintile 2) (hhd-u2) | Factors - Agricultural land (flnd) | 2.29790771
+Ethiopia 2022 SAM | Households - Urban (quintile 2) (hhd-u2) | Factors - Capital (fcap) | 2.282232621
+Ethiopia 2022 SAM | Households - Urban (quintile 2) (hhd-u2) | Enterprises (ent) | 110.2741778
+Ethiopia 2022 SAM | Households - Urban (quintile 2) (hhd-u2) | Rest of world (row) | 13.32682729
+Ethiopia 2022 SAM | Households - Urban (quintile 2) (hhd-u2) | Total (total) | 173.4802283
+Ethiopia 2022 SAM | Households - Urban (quintile 3) (hhd-u3) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 24.28623176
+Ethiopia 2022 SAM | Households - Urban (quintile 3) (hhd-u3) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 19.31586408
+Ethiopia 2022 SAM | Households - Urban (quintile 3) (hhd-u3) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 18.17972275
+Ethiopia 2022 SAM | Households - Urban (quintile 3) (hhd-u3) | Factors - Agricultural land (flnd) | 2.004750205
+Ethiopia 2022 SAM | Households - Urban (quintile 3) (hhd-u3) | Factors - Capital (fcap) | 1.991802015
+Ethiopia 2022 SAM | Households - Urban (quintile 3) (hhd-u3) | Enterprises (ent) | 101.6027927
+Ethiopia 2022 SAM | Households - Urban (quintile 3) (hhd-u3) | Rest of world (row) | 9.220886174
+Ethiopia 2022 SAM | Households - Urban (quintile 3) (hhd-u3) | Total (total) | 176.6020497
+Ethiopia 2022 SAM | Households - Urban (quintile 4) (hhd-u4) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 47.93414637
+Ethiopia 2022 SAM | Households - Urban (quintile 4) (hhd-u4) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 29.9393524
+Ethiopia 2022 SAM | Households - Urban (quintile 4) (hhd-u4) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 54.63226412
+Ethiopia 2022 SAM | Households - Urban (quintile 4) (hhd-u4) | Factors - Agricultural land (flnd) | 3.908242515
+Ethiopia 2022 SAM | Households - Urban (quintile 4) (hhd-u4) | Factors - Capital (fcap) | 3.881796696
+Ethiopia 2022 SAM | Households - Urban (quintile 4) (hhd-u4) | Enterprises (ent) | 264.1056124
+Ethiopia 2022 SAM | Households - Urban (quintile 4) (hhd-u4) | Rest of world (row) | 22.3526652
+Ethiopia 2022 SAM | Households - Urban (quintile 4) (hhd-u4) | Total (total) | 426.7540797
+Ethiopia 2022 SAM | Households - Urban (quintile 5) (hhd-u5) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 77.29775879
+Ethiopia 2022 SAM | Households - Urban (quintile 5) (hhd-u5) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 72.36403743
+Ethiopia 2022 SAM | Households - Urban (quintile 5) (hhd-u5) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 221.2703047
+Ethiopia 2022 SAM | Households - Urban (quintile 5) (hhd-u5) | Factors - Agricultural land (flnd) | 4.364260745
+Ethiopia 2022 SAM | Households - Urban (quintile 5) (hhd-u5) | Factors - Capital (fcap) | 4.334346241
+Ethiopia 2022 SAM | Households - Urban (quintile 5) (hhd-u5) | Enterprises (ent) | 1039.115437
+Ethiopia 2022 SAM | Households - Urban (quintile 5) (hhd-u5) | Rest of world (row) | 80.91380512
+Ethiopia 2022 SAM | Households - Urban (quintile 5) (hhd-u5) | Total (total) | 1499.65995
+Ethiopia 2022 SAM | Government (gov) | Enterprises (ent) | 33.77418038
+Ethiopia 2022 SAM | Government (gov) | Households - Rural (quintile 1) (hhd-r1) | 0.000884453
+Ethiopia 2022 SAM | Government (gov) | Households - Rural (quintile 2) (hhd-r2) | 0.001711765
+Ethiopia 2022 SAM | Government (gov) | Households - Rural (quintile 3) (hhd-r3) | 0.002637821
+Ethiopia 2022 SAM | Government (gov) | Households - Rural (quintile 4) (hhd-r4) | 0.002778489
+Ethiopia 2022 SAM | Government (gov) | Households - Rural (quintile 5) (hhd-r5) | 0.007035859
+Ethiopia 2022 SAM | Government (gov) | Households - Urban (quintile 1) (hhd-u1) | 0.002237743
+Ethiopia 2022 SAM | Government (gov) | Households - Urban (quintile 2) (hhd-u2) | 0.004311945
+Ethiopia 2022 SAM | Government (gov) | Households - Urban (quintile 3) (hhd-u3) | 0.006084109
+Ethiopia 2022 SAM | Government (gov) | Households - Urban (quintile 4) (hhd-u4) | 0.0158653
+Ethiopia 2022 SAM | Government (gov) | Households - Urban (quintile 5) (hhd-u5) | 0.062554018
+Ethiopia 2022 SAM | Government (gov) | Taxes - Direct (personal or corporate) (dtax) | 98.6094299
+Ethiopia 2022 SAM | Government (gov) | Taxes - Imports (products) (mtax) | 108.4873317
+Ethiopia 2022 SAM | Government (gov) | Taxes - Sales, excise and/or value-added (products) (stax) | 180.0621156
+Ethiopia 2022 SAM | Government (gov) | Rest of world (row) | 52.06919256
+Ethiopia 2022 SAM | Government (gov) | Total (total) | 473.1083516
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Enterprises (ent) | 71.90312209
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Rural (quintile 1) (hhd-r1) | 2.043031943
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Rural (quintile 2) (hhd-r2) | 2.856934024
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Rural (quintile 3) (hhd-r3) | 4.017355827
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Rural (quintile 4) (hhd-r4) | 3.920888247
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Rural (quintile 5) (hhd-r5) | 4.51685742
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Urban (quintile 1) (hhd-u1) | 0.424012404
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Urban (quintile 2) (hhd-u2) | 0.681936706
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Urban (quintile 3) (hhd-u3) | 0.694169251
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Urban (quintile 4) (hhd-u4) | 1.676533119
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Households - Urban (quintile 5) (hhd-u5) | 5.874588869
+Ethiopia 2022 SAM | Taxes - Direct (personal or corporate) (dtax) | Total (total) | 98.6094299
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Other cereals (cocer) | 2.09641026
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Pulses (cpuls) | 1.989162263
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Vegetables (cvege) | 0.019276082
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Fruits and nuts (cfrui) | 0.126101876
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Other crops (cocrp) | 0.048990551
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Poultry and eggs (cpoul) | 0.00459444
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Other livestock (coliv) | 0.010587496
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Forestry (cfore) | 0.008997547
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Mining (cmine) | 0.444872089
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Processed foods (cfood) | 9.691491979
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Beverage and tobacco (cbeve) | 0.75906385
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Textiles, clothing and footwear (ctext) | 10.36658108
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Wood and paper products (cwood) | 7.685843714
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Chemicals and petroleum (cchem) | 27.06783029
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Non-metal minerals (cnmet) | 1.645262587
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Metals and metal products (cmetl) | 15.57418017
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Machinery, equipment and vehicles (cmach) | 27.58037586
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Commodities - Other manufacturing (coman) | 3.36770953
+Ethiopia 2022 SAM | Taxes - Imports (products) (mtax) | Total (total) | 108.4873317
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Maize (cmaiz) | 0.00282408
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Rice (crice) | 0.000112195
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Other cereals (cocer) | 0.005244743
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Pulses (cpuls) | 0.006974798
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Oilseeds (coils) | 0.010476934
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Roots (croot) | 0.008126495
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Vegetables (cvege) | 0.006007479
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Sugarcane (csugr) | 0.083738709
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Tobacco (ctoba) | 0.003165261
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Cotton and fibres (ccott) | 0.046202348
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Fruits and nuts (cfrui) | 0.017880028
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Coffee, tea and cocoa (ccoff) | 0.015129036
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Other crops (cocrp) | 0.010824764
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Cattle and raw milk (ccatt) | 0.003071134
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Poultry and eggs (cpoul) | 0.001670916
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Other livestock (coliv) | 0.000172993
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Forestry (cfore) | 0.008248883
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Fisheries (cfish) | 0.000860261
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Mining (cmine) | 3.224314703
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Processed foods (cfood) | 12.79120825
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Beverage and tobacco (cbeve) | 42.7422822
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Textiles, clothing and footwear (ctext) | 8.848782293
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Wood and paper products (cwood) | 35.94977479
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Chemicals and petroleum (cchem) | 2.998624708
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Non-metal minerals (cnmet) | 6.362873692
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Metals and metal products (cmetl) | 6.1661627
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Machinery, equipment and vehicles (cmach) | 31.35914824
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Other manufacturing (coman) | 14.2113154
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Wholesale and retail trade (ctrad) | 7.335068332
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Transportation and storage (ctran) | 4.692956245
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Accommodation and food services (chotl) | 0.255726758
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Information and communication (ccomm) | 2.447084823
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Finance and insurance (cfsrv) | 0.275135436
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Commodities - Business services (cbsrv) | 0.170925984
+Ethiopia 2022 SAM | Taxes - Sales, excise and/or value-added (products) (stax) | Total (total) | 180.0621156
+Ethiopia 2022 SAM | Savings-investment (s-i) | Enterprises (ent) | 581.8537896
+Ethiopia 2022 SAM | Savings-investment (s-i) | Households - Rural (quintile 1) (hhd-r1) | 80.40868346
+Ethiopia 2022 SAM | Savings-investment (s-i) | Households - Rural (quintile 2) (hhd-r2) | 111.6154669
+Ethiopia 2022 SAM | Savings-investment (s-i) | Households - Rural (quintile 3) (hhd-r3) | 160.9186355
+Ethiopia 2022 SAM | Savings-investment (s-i) | Households - Rural (quintile 4) (hhd-r4) | 149.3461877
+Ethiopia 2022 SAM | Savings-investment (s-i) | Households - Rural (quintile 5) (hhd-r5) | 162.8565422
+Ethiopia 2022 SAM | Savings-investment (s-i) | Households - Urban (quintile 1) (hhd-u1) | 15.34255017
+Ethiopia 2022 SAM | Savings-investment (s-i) | Households - Urban (quintile 2) (hhd-u2) | 24.51204055
+Ethiopia 2022 SAM | Savings-investment (s-i) | Households - Urban (quintile 3) (hhd-u3) | 24.91067541
+Ethiopia 2022 SAM | Savings-investment (s-i) | Households - Urban (quintile 4) (hhd-u4) | 58.91753564
+Ethiopia 2022 SAM | Savings-investment (s-i) | Households - Urban (quintile 5) (hhd-u5) | 186.0014924
+Ethiopia 2022 SAM | Savings-investment (s-i) | Government (gov) | -30.56314599
+Ethiopia 2022 SAM | Savings-investment (s-i) | Rest of world (row) | 221.6292646
+Ethiopia 2022 SAM | Savings-investment (s-i) | Total (total) | 1747.749718
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Other cereals (cocer) | 30.05571764
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Pulses (cpuls) | 5.100232779
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Vegetables (cvege) | 0.406977497
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Tobacco (ctoba) | 0.052737815
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Fruits and nuts (cfrui) | 0.335085749
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Other crops (cocrp) | 0.237382305
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Poultry and eggs (cpoul) | 0.097192787
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Other livestock (coliv) | 0.142321241
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Forestry (cfore) | 0.156305803
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Mining (cmine) | 6.742396635
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Processed foods (cfood) | 49.87111824
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Beverage and tobacco (cbeve) | 1.791263252
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Textiles, clothing and footwear (ctext) | 26.59995363
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Wood and paper products (cwood) | 46.03058065
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Chemicals and petroleum (cchem) | 348.7873268
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Non-metal minerals (cnmet) | 4.921046758
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Metals and metal products (cmetl) | 85.72981027
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Machinery, equipment and vehicles (cmach) | 207.7493288
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Other manufacturing (coman) | 12.85431253
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Construction (ccons) | 5.532476009
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Transportation and storage (ctran) | 255.2372021
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Accommodation and food services (chotl) | 12.2298092
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Finance and insurance (cfsrv) | 36.08556195
+Ethiopia 2022 SAM | Rest of world (row) | Commodities - Business services (cbsrv) | 37.66422782
+Ethiopia 2022 SAM | Rest of world (row) | Factors - Capital (fcap) | 27.38546172
+Ethiopia 2022 SAM | Rest of world (row) | Enterprises (ent) | 0.081146406
+Ethiopia 2022 SAM | Rest of world (row) | Households - Rural (quintile 1) (hhd-r1) | 0.081003479
+Ethiopia 2022 SAM | Rest of world (row) | Households - Rural (quintile 2) (hhd-r2) | 0.113286126
+Ethiopia 2022 SAM | Rest of world (row) | Households - Rural (quintile 3) (hhd-r3) | 0.159203857
+Ethiopia 2022 SAM | Rest of world (row) | Households - Rural (quintile 4) (hhd-r4) | 0.155553167
+Ethiopia 2022 SAM | Rest of world (row) | Households - Rural (quintile 5) (hhd-r5) | 0.179456823
+Ethiopia 2022 SAM | Rest of world (row) | Households - Urban (quintile 1) (hhd-u1) | 0.016847945
+Ethiopia 2022 SAM | Rest of world (row) | Households - Urban (quintile 2) (hhd-u2) | 0.027100899
+Ethiopia 2022 SAM | Rest of world (row) | Households - Urban (quintile 3) (hhd-u3) | 0.027588274
+Ethiopia 2022 SAM | Rest of world (row) | Households - Urban (quintile 4) (hhd-u4) | 0.066664735
+Ethiopia 2022 SAM | Rest of world (row) | Households - Urban (quintile 5) (hhd-u5) | 0.234239677
+Ethiopia 2022 SAM | Rest of world (row) | Total (total) | 1202.937921
+Ethiopia 2022 SAM | Total (total) | Activities - Maize (amaiz) | 381.4050844
+Ethiopia 2022 SAM | Total (total) | Activities - Rice (arice) | 13.65173596
+Ethiopia 2022 SAM | Total (total) | Activities - Other cereals (aocer) | 647.0780694
+Ethiopia 2022 SAM | Total (total) | Activities - Pulses (apuls) | 330.676315
+Ethiopia 2022 SAM | Total (total) | Activities - Oilseeds (aoils) | 85.25074226
+Ethiopia 2022 SAM | Total (total) | Activities - Roots (aroot) | 183.9538193
+Ethiopia 2022 SAM | Total (total) | Activities - Vegetables (avege) | 146.7216711
+Ethiopia 2022 SAM | Total (total) | Activities - Sugarcane (asugr) | 6.71181847
+Ethiopia 2022 SAM | Total (total) | Activities - Tobacco (atoba) | 0.15643291
+Ethiopia 2022 SAM | Total (total) | Activities - Cotton and fibres (acott) | 3.167104303
+Ethiopia 2022 SAM | Total (total) | Activities - Fruits and nuts (afrui) | 23.92871779
+Ethiopia 2022 SAM | Total (total) | Activities - Coffee, tea and cocoa (acoff) | 197.3191534
+Ethiopia 2022 SAM | Total (total) | Activities - Other crops (aocrp) | 95.50948228
+Ethiopia 2022 SAM | Total (total) | Activities - Cattle and raw milk (acatt) | 628.8401939
+Ethiopia 2022 SAM | Total (total) | Activities - Poultry and eggs (apoul) | 27.20716353
+Ethiopia 2022 SAM | Total (total) | Activities - Other livestock (aoliv) | 243.7744331
+Ethiopia 2022 SAM | Total (total) | Activities - Forestry (afore) | 317.2447806
+Ethiopia 2022 SAM | Total (total) | Activities - Fisheries (afish) | 32.47588606
+Ethiopia 2022 SAM | Total (total) | Activities - Mining (amine) | 36.69796556
+Ethiopia 2022 SAM | Total (total) | Activities - Processed foods (afood) | 444.4101318
+Ethiopia 2022 SAM | Total (total) | Activities - Beverage and tobacco (abeve) | 81.71303195
+Ethiopia 2022 SAM | Total (total) | Activities - Textiles, clothing and footwear (atext) | 84.94415339
+Ethiopia 2022 SAM | Total (total) | Activities - Wood and paper products (awood) | 39.7890887
+Ethiopia 2022 SAM | Total (total) | Activities - Chemicals and petroleum (achem) | 45.588685
+Ethiopia 2022 SAM | Total (total) | Activities - Non-metal minerals (anmet) | 68.08239184
+Ethiopia 2022 SAM | Total (total) | Activities - Metals and metal products (ametl) | 107.7731661
+Ethiopia 2022 SAM | Total (total) | Activities - Machinery, equipment and vehicles (amach) | 20.56754625
+Ethiopia 2022 SAM | Total (total) | Activities - Other manufacturing (aoman) | 38.43420204
+Ethiopia 2022 SAM | Total (total) | Activities - Electricity, gas and steam (aelec) | 120.3981542
+Ethiopia 2022 SAM | Total (total) | Activities - Water supply and sewage (awatr) | 148.5780757
+Ethiopia 2022 SAM | Total (total) | Activities - Construction (acons) | 2108.739443
+Ethiopia 2022 SAM | Total (total) | Activities - Wholesale and retail trade (atrad) | 1404.260493
+Ethiopia 2022 SAM | Total (total) | Activities - Transportation and storage (atran) | 600.388095
+Ethiopia 2022 SAM | Total (total) | Activities - Accommodation and food services (ahotl) | 291.036916
+Ethiopia 2022 SAM | Total (total) | Activities - Information and communication (acomm) | 269.6576585
+Ethiopia 2022 SAM | Total (total) | Activities - Finance and insurance (afsrv) | 176.8897234
+Ethiopia 2022 SAM | Total (total) | Activities - Real estate activities (areal) | 849.5172041
+Ethiopia 2022 SAM | Total (total) | Activities - Business services (absrv) | 100.2697985
+Ethiopia 2022 SAM | Total (total) | Activities - Public administration (apadm) | 307.8018254
+Ethiopia 2022 SAM | Total (total) | Activities - Education (aeduc) | 198.5189026
+Ethiopia 2022 SAM | Total (total) | Activities - Health and social work (aheal) | 72.10092691
+Ethiopia 2022 SAM | Total (total) | Activities - Other services (aosrv) | 176.3536297
+Ethiopia 2022 SAM | Total (total) | Commodities - Maize (cmaiz) | 238.6470486
+Ethiopia 2022 SAM | Total (total) | Commodities - Rice (crice) | 15.58375703
+Ethiopia 2022 SAM | Total (total) | Commodities - Other cereals (cocer) | 715.5085903
+Ethiopia 2022 SAM | Total (total) | Commodities - Pulses (cpuls) | 286.3519446
+Ethiopia 2022 SAM | Total (total) | Commodities - Oilseeds (coils) | 83.3159489
+Ethiopia 2022 SAM | Total (total) | Commodities - Roots (croot) | 100.2275345
+Ethiopia 2022 SAM | Total (total) | Commodities - Vegetables (cvege) | 171.2974014
+Ethiopia 2022 SAM | Total (total) | Commodities - Sugarcane (csugr) | 9.832443821
+Ethiopia 2022 SAM | Total (total) | Commodities - Tobacco (ctoba) | 0.247492272
+Ethiopia 2022 SAM | Total (total) | Commodities - Cotton and fibres (ccott) | 3.456145334
+Ethiopia 2022 SAM | Total (total) | Commodities - Fruits and nuts (cfrui) | 30.04008678
+Ethiopia 2022 SAM | Total (total) | Commodities - Coffee, tea and cocoa (ccoff) | 267.5082132
+Ethiopia 2022 SAM | Total (total) | Commodities - Other crops (cocrp) | 79.48027553
+Ethiopia 2022 SAM | Total (total) | Commodities - Cattle and raw milk (ccatt) | 474.4105621
+Ethiopia 2022 SAM | Total (total) | Commodities - Poultry and eggs (cpoul) | 23.01859892
+Ethiopia 2022 SAM | Total (total) | Commodities - Other livestock (coliv) | 198.832614
+Ethiopia 2022 SAM | Total (total) | Commodities - Forestry (cfore) | 296.8559312
+Ethiopia 2022 SAM | Total (total) | Commodities - Fisheries (cfish) | 39.72397803
+Ethiopia 2022 SAM | Total (total) | Commodities - Mining (cmine) | 59.36016648
+Ethiopia 2022 SAM | Total (total) | Commodities - Processed foods (cfood) | 594.4193762
+Ethiopia 2022 SAM | Total (total) | Commodities - Beverage and tobacco (cbeve) | 138.4484597
+Ethiopia 2022 SAM | Total (total) | Commodities - Textiles, clothing and footwear (ctext) | 156.5037171
+Ethiopia 2022 SAM | Total (total) | Commodities - Wood and paper products (cwood) | 134.8922834
+Ethiopia 2022 SAM | Total (total) | Commodities - Chemicals and petroleum (cchem) | 529.6544129
+Ethiopia 2022 SAM | Total (total) | Commodities - Non-metal minerals (cnmet) | 99.86968641
+Ethiopia 2022 SAM | Total (total) | Commodities - Metals and metal products (cmetl) | 264.3193716
+Ethiopia 2022 SAM | Total (total) | Commodities - Machinery, equipment and vehicles (cmach) | 325.8176443
+Ethiopia 2022 SAM | Total (total) | Commodities - Other manufacturing (coman) | 79.11776728
+Ethiopia 2022 SAM | Total (total) | Commodities - Electricity, gas and steam (celec) | 120.3981542
+Ethiopia 2022 SAM | Total (total) | Commodities - Water supply and sewage (cwatr) | 148.5780757
+Ethiopia 2022 SAM | Total (total) | Commodities - Construction (ccons) | 2114.271919
+Ethiopia 2022 SAM | Total (total) | Commodities - Wholesale and retail trade (ctrad) | 1411.595562
+Ethiopia 2022 SAM | Total (total) | Commodities - Transportation and storage (ctran) | 860.3182533
+Ethiopia 2022 SAM | Total (total) | Commodities - Accommodation and food services (chotl) | 303.522452
+Ethiopia 2022 SAM | Total (total) | Commodities - Information and communication (ccomm) | 272.1047433
+Ethiopia 2022 SAM | Total (total) | Commodities - Finance and insurance (cfsrv) | 213.2504208
+Ethiopia 2022 SAM | Total (total) | Commodities - Real estate activities (creal) | 849.5172041
+Ethiopia 2022 SAM | Total (total) | Commodities - Business services (cbsrv) | 138.1049523
+Ethiopia 2022 SAM | Total (total) | Commodities - Public administration (cpadm) | 307.8018254
+Ethiopia 2022 SAM | Total (total) | Commodities - Education (ceduc) | 198.5189026
+Ethiopia 2022 SAM | Total (total) | Commodities - Health and social work (cheal) | 72.10092691
+Ethiopia 2022 SAM | Total (total) | Commodities - Other services (cosrv) | 176.3536297
+Ethiopia 2022 SAM | Total (total) | Transaction costs (trc) | 985.3022711
+Ethiopia 2022 SAM | Total (total) | Factors - Labor - Low (not finished primary schooling) (flab-n) | 1676.747945
+Ethiopia 2022 SAM | Total (total) | Factors - Labor - Medium (finished primary, but not finished secondary schooling) (flab-p) | 326.6800446
+Ethiopia 2022 SAM | Total (total) | Factors - Labor - High (finished secondary and/or tertiary schooling) (flab-s) | 412.4179161
+Ethiopia 2022 SAM | Total (total) | Factors - Agricultural land (flnd) | 600.2075464
+Ethiopia 2022 SAM | Total (total) | Factors - Capital (fcap) | 4113.147222
+Ethiopia 2022 SAM | Total (total) | Enterprises (ent) | 3489.266816
+Ethiopia 2022 SAM | Total (total) | Households - Rural (quintile 1) (hhd-r1) | 518.4635248
+Ethiopia 2022 SAM | Total (total) | Households - Rural (quintile 2) (hhd-r2) | 725.0926933
+Ethiopia 2022 SAM | Total (total) | Households - Rural (quintile 3) (hhd-r3) | 1018.965901
+Ethiopia 2022 SAM | Total (total) | Households - Rural (quintile 4) (hhd-r4) | 995.6457153
+Ethiopia 2022 SAM | Total (total) | Households - Rural (quintile 5) (hhd-r5) | 1148.717864
+Ethiopia 2022 SAM | Total (total) | Households - Urban (quintile 1) (hhd-u1) | 107.8471137
+Ethiopia 2022 SAM | Total (total) | Households - Urban (quintile 2) (hhd-u2) | 173.4802283
+Ethiopia 2022 SAM | Total (total) | Households - Urban (quintile 3) (hhd-u3) | 176.6020497
+Ethiopia 2022 SAM | Total (total) | Households - Urban (quintile 4) (hhd-u4) | 426.7540797
+Ethiopia 2022 SAM | Total (total) | Households - Urban (quintile 5) (hhd-u5) | 1499.659951
+Ethiopia 2022 SAM | Total (total) | Government (gov) | 473.1083516
+Ethiopia 2022 SAM | Total (total) | Taxes - Direct (personal or corporate) (dtax) | 98.6094299
+Ethiopia 2022 SAM | Total (total) | Taxes - Imports (products) (mtax) | 108.4873317
+Ethiopia 2022 SAM | Total (total) | Taxes - Sales, excise and/or value-added (products) (stax) | 180.0621156
+Ethiopia 2022 SAM | Total (total) | Savings-investment (s-i) | 1747.749718
+Ethiopia 2022 SAM | Total (total) | Rest of world (row) | 1202.937921
+Ethiopia 2022 SAM | Total (total) | Total (total) | 45966.71604

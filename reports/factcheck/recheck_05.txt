@@ -1,0 +1,89 @@
+Independent check, 2026-09-24: reworded claims from recheck_04 and new model-basis claims.
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0246: PASS
+  Source: S-135 p. 1
+  Reason: SII "The project cost is estimated at US$12.26 million"; blended-finance paragraph "the total project cost of $10 million"; ESRS: facility "will be built for and leased by the Company via a build-to-suit lease agreement". "The cost appears to exclude it" is now presented as an inference. Basis, year, scope, currency and X-017 correct.
+
+D-0013: PASS
+  Source: C-0246 / C-0248
+  Reason: 4,086.7 -> 4,087; "at most" correct; pairings span under 3,333 to 4,228; leased-building point hedged; X-017 matches.
+
+D-0029: PASS
+  Source: C-0320 / C-0321
+  Reason: 3.304 -> 3.30; biogenic and excluded from national totals supported (S-139 p. 19); CO2-only factor. Note for drafting: p. 20 says net CO2 is estimated in AFOLU, so unsustainable charcoal harvest still counts as a forest carbon loss; text must not suggest charcoal has no inventory effect.
+
+D-0033: PASS
+  Source: C-0246 / C-0326
+  Reason: 4,227.6 -> 4,228; SII job basis attributed; building point hedged.
+
+D-0035: PASS
+  Source: C-0325 / C-0326
+  Reason: 3,448.3 -> 3,448; attributed; hedged; X-017 named.
+
+C-0329: PASS
+  Source: S-083 p. 1
+  Reason: Row present; 335,904.91 -> 335,905 t; flag I disclosed; basis estimate; Somalia 2024.
+
+C-0330: PASS
+  Source: S-083 p. 1
+  Reason: Row present; 203.22 -> 203 t; flag X handled as actual consistent with C-0137.
+
+C-0331: PASS
+  Source: S-082 p. 1
+  Reason: Row present. FAOSTAT shows 13 kg, flag E, every year 1961-2024: a fixed default, not a measured value.
+
+C-0332: PASS
+  Source: S-082 p. 1
+  Reason: Row present; same fixed-default caveat.
+
+C-0333: PASS
+  Source: S-124 p. 2 (CSV line 958)
+  Reason: CSV row matches; USD 205.19 million; CIF import value reported by Saudi Arabia, HS 0104, 2023; isReported False, isAggregate True (UNSD built the HS4 total from reported detail).
+
+C-0334: PASS
+  Source: S-124 p. 2 (CSV line 958)
+  Reason: qty 1,707,418.03, unit code 5 -> about 1.71 million head; estimate basis and caveat appropriate; about 30 kg live weight per head, plausible.
+
+C-0335: PASS
+  Source: S-124 p. 2 (CSV line 1017)
+  Reason: CSV row matches; USD 139.47 million (CIF, Oman, 2023).
+
+C-0336: PASS
+  Source: S-124 p. 2 (CSV line 1017)
+  Reason: qty 1,684,431.32 -> about 1.68 million head; estimate basis. The row's net weight implies only about 13.6 kg live weight per head, implausibly low beside Saudi Arabia's 30 kg; the Oman weight or count may be unreliable.
+
+D-0036: PASS
+  Source: C-0135 / C-0136
+  Reason: 1,389.8 -> 1,390 USD/t; same item, flow, year.
+
+D-0037: PASS
+  Source: C-0142 / C-0329
+  Reason: 397.6 -> 398 USD/t; imputed quantity stated; estimated.
+
+D-0038: PASS
+  Source: C-0137 / C-0330
+  Reason: 1,840.4 -> 1,840 USD/t; small volume stated.
+
+D-0039: PASS
+  Source: C-0333 / C-0335 / C-0334 / C-0336
+  Reason: Weighted average 101.61 -> 101.6 USD/head; importers' CIF value, statement says imported value. By reporter: Saudi Arabia about 120, Oman about 83 USD/head.
+
+D-0040: FAIL
+  Source: D-0039 / C-0331; comparator D-0025
+  Reason: Arithmetic correct (7,816). Problems: (1) "fetched" implies an exporter's price; the input is the Gulf importers' CIF value. (2) 13 kg is FAOSTAT's fixed estimate for animals slaughtered in Somalia, not a measured carcass weight of exported animals; Comtrade live weights are inconsistent (about 30 kg per head for Saudi Arabia, about 13.6 kg for Oman). (3) The formula cites only the goat carcass weight for mixed sheep and goats; cite C-0332 too. Comparison with D-0025 is on a consistent CIF basis. Say also that live value includes non-carcass parts.
+  Correction: "Applying FAOSTAT's fixed 13 kg carcass estimate for sheep and goats slaughtered in Somalia, the 2023 CIF import value of live sheep and goats from Somalia reported by Saudi Arabia and Oman equals an estimated USD 7,816 per tonne of carcass-weight equivalent, above the GCC average import price for sheep and goat meat (D-0025). The conversion is indicative only, since exported animals' weights differ and live value includes non-carcass parts." Cite C-0332 with C-0331.
+
+D-0041: PASS
+  Source: C-0262 / C-0260
+  Reason: 673.3 -> 673 USD per t/yr; same EPP 4 package; labelled estimated. Suggest "planned investment".
+
+D-0042: PASS
+  Source: C-0261 / C-0260
+  Reason: 38.37 -> 38.4 jobs per 1,000 t/yr; same sentence; expected impacts.
+
+D-0043: PASS
+  Source: C-0023 / C-0022 (S-081 p. 1)
+  Reason: 0.10779 -> 10.78%; consecutive WEO April 2026 NGDPD projections in current USD; nominal.
+
+Summary: 20 pass, 1 fail, 0 query.

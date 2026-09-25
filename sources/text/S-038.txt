@@ -1,0 +1,503 @@
+=== PAGE 1 ===
+ 
+1 
+ 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+ 
+ 
+TERMS OF REFERENCE 
+ 
+FOR 
+ 
+SELECTION OF CONSULTANCY SERVICE TO CARRYOUT A FEASIBILITY STUDY 
+ON THE DEVELOPMENT OF A UNIFIED NATIONAL DIGITAL EXPORT AND 
+ANIMAL HEALTH CERTIFICATE GENERATING SYSTEM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 2024
+=== PAGE 2 ===
+ 
+2 
+1. Background  
+The Ministry of Livestock, Forestry and Range (MoLFR) of the Federal Republic of Somalia 
+is responsible for improving livestock health conditions, access to high-quality fodder, suitable 
+markets, and sustainable production. The ministry safeguards rangeland resources and forestry 
+from land degradation and deforestation to ensure sustainable production of pasture for 
+livestock and benefiting other natural resources on rangeland and forestry sustainably. The 
+ministry further enhances human resource capacity building and institutional strengthening, 
+animal health and disease control, animal production, rangeland development, and livestock 
+marketing and trade facilitation. 
+ 
+Somalia has traditionally hinged on livestock production for a greater part of its GDP output. 
+Most of this economic contribution to the GDP from livestock production is earned from export 
+of livestock and livestock products to markets outside of Somalia including cross border trade 
+and intense domestic consumption. Yet, given this significance, the sector has been facing 
+significant challenges when it comes to an efficient certification process for both its export 
+trade, domestic and cross border business engagements, due to the sector’s currently heavily 
+reliance on an old practice of certificate provision for its veterinary services and animal export 
+certificates. The practice is majorly dependent on a paperwork-based certificate issuance, 
+whose security vulnerability is a significant livestock trade barrier, given the multi-stakeholder 
+involvement of the issuance process at various export points of the country. The Ministry of 
+Livestock, Forestry and Range leveraging the support its development partner, the World Bank 
+Group, through the DRIVE Project, seeks to address this multi-handed certification service 
+currently in practice by assessing the development of a unified national digital export and 
+animal health certification system and determining the best, suitable and state of the art 
+certification system through this consultancy service. The consultancy will conduct a feasibility 
+study on the development of the system and its operationalization by the ministry and define 
+specifications, administrative, technological, and operationalization technical requirement of 
+the certificate generating system.  
+ 
+With a regional coverage (Djibouti, Ethiopia, Kenya, and Somalia), the De-Risking, Inclusion 
+and Value Enhancement of Pastoral Economies (DRIVE) project’ s development objective is 
+to enhance de-risking, market inclusion, and value addition of pastoral economies in the Horn 
+of Africa. DRIVE aims to protect pastoralists against drought shocks, using a package of 
+financial services including drought insurance, savings facilitation, provision of credit funding, 
+and to connect the pastoralists better to markets by upgrading the livestock value chains and 
+facilitating the regional livestock trade. One of the initiatives of DRIVE is to support the 
+Ministry of Livestock, Forestry, and Range, Federal Government of Somalia, to procure a 
+modern and unified digital export and animal health certificate generation system. This 
+initiative will upgrade Somalia's veterinary certification system, ensuring greater reliability, 
+efficiency, and fostering significant technological advancement in livestock services. The goal 
+is to facilitate livestock trade and establish uniform livestock export health certificate 
+generation system within the country.   
+ 
+2. Significance and Rationale  
+The unified national digital export and animal health certificates system, that the Ministry of 
+Livestock, Forestry, and Range currently is considering, will be a standardized and centralized 
+online digital system where livestock transporters and exporters apply for with a system secure 
+bar code for authenticity and receive animal health and livestock export certificates 
+electronically.
+=== PAGE 3 ===
+ 
+3 
+ 
+In the context of the DRIVE project in Somalia together with its anticipated project results, 
+establishing unified national digital export and animal health certificates system for the 
+livestock sector will significantly help to improve the efficiency and accuracy of the export 
+certification and enhance the delivery of public veterinary service of the Ministry. Through 
+such a system, livestock exporters as well as the animal resource community will enjoy the 
+advantage of an efficient, agile and reliable single window veterinary and export certification 
+service, enabling them to lodge standardized information and documents with a central and 
+single-entry point at the Ministry- fulfilling all health, export, administrative and transit-related 
+requirements for the certification before organizing an action of export.  
+ 
+Somalia is not only rich with terrestrial animal resource, but it also has plenty of aquatic animal 
+resource potential for export, domestic and regional trade. The unified export certification 
+system will also support the aquatic animal food export and trade through enhanced and 
+centralized digital veterinary certification by the respective veterinary offices at the Ministry 
+of Livestock, Forestry and Range. 
+ 
+While there may be no off the shelf digital system solution that offer such services, many 
+countries have implemented bespoke solutions that are deeply integrated with internal practices 
+but also interoperable with external systems through a custom set of application programming 
+interfaces (API).The system that the Ministry of Livestock, Forestry and Range is seeking will 
+be expected to offer a lot of benefits including improved regulatory compliance, streamlining 
+issuance of competent export and animal health certificates, reducing turnaround times and 
+increasing trade efficiency, reducing bureaucracy and paperwork, errors and inconsistences 
+usually associated with a rather cumbersome manual processes, providing greater transparency 
+in the export and animal health certification process, building trust and confidence between 
+stakeholders, including the Ministry, exporters, country livestock and livestock product 
+importer partners, and consumers on the basis of health and safety of animals as well as 
+increasing the competitiveness of the livestock sector abroad. 
+ 
+ 
+3. The Objective of Assignment  
+The objective of the assignment is to carry out a feasibility study for the design, development 
+and operationalization of a unified national digital export and animal health certificates system 
+for the Ministry of Livestock, Forestry and Range. Specifically, the feasibility study will cover:  
+ 
+1. Assessing the current state of export and animal health certification service in practice 
+at different points (Federal and FMS) and conducting a feasibility study on the 
+establishment of unified national digital export and animal health certification service 
+in Somalia’s livestock sector. 
+2. Identifying the potential benefits and challenges associated with developing such a 
+system, particularly revenue generation aspects and, recommending the appropriate 
+system to serve the heath and quality requirements of Somalia’s livestock and livestock 
+products export in terms of certification. 
+3. Evaluating the technical feasibility of developing such a system, assessing the financial 
+feasibility of developing such a system; engaging with stakeholders such as government 
+agencies, animal health bodies of the Ministry and States, trade and agri-business 
+associations, exporters, importers, and other relevant stakeholders throughout the
+=== PAGE 4 ===
+ 
+4 
+assignment processes to ensure that the system will meet their needs now and in the 
+future. 
+4. Developing the technical specifications, software and hardware requirements, general 
+technical compliance requirements, and installation and operationalization of the 
+proposed/studied national digital export and animal health certificate generating 
+system. The firm will prepare the full set of technical specification and 
+operationalization documents to be utilized in the procurement process of the good. 
+ 
+4. Scope of the Assignment 
+To deliver the feasibility study that enables as well as providing essential information for the 
+Ministry of Livestock, Forestry and Range and other stakeholders to make informed decisions 
+about the development of a unified national digital export and animal health certificates system, 
+the consulting firm will perform the following activities: 
+ 
+i) 
+Review the policy, legal, regulatory and market systems’ requirements for export 
+and animal health certificates and, determine how the chosen digital system for 
+procurement could comply with the international requirements at the livestock 
+markets that not only includes the Arabian Peninsula markets but also other 
+potential markets for animal sourced food from Somalia including the EU, Asia, 
+and the USA. This also includes reviewing the laws of the Federal Republic of 
+Somalia, documenting any gaps for action by relevant parties.  
+  
+ii) 
+Review the global trends and the digital solutions available in other jurisdictions for 
+export and animal health certification, in line with the published standards and 
+procedures at OIE, WTO, Codex, etc. and ISO. Of importance would be 
+jurisdictions/benchmarks where unified national digital export and animal health 
+certificates systems have promoted international trade for livestock and livestock 
+products, simplified export processes, enhanced efficiency, traceability and 
+augmented transparency, ensured consistent animal health and regulatory 
+compliance, reduced administrative costs, and supported data-driven decision-
+making. 
+ 
+iii) 
+Assess how the proposed Animal Health (e-AH) Certificate to be exchanged 
+between the AMS must be aligned to the Electronic Certificate (e-Cert), an 
+international standard developed and maintained by the United Nations Centre for 
+Trade Facilitation and Electronic Business (UN/CEFACT). Further, animal health 
+requirements must also be aligned to standards published by the World Organisation 
+for Animal Health (OIE), notably the “Terrestrial Animal Health Code” and the 
+“Aquatic Animal Health Code. 
+ 
+iv) 
+Review and analyse the Somalia SPS and trade regulatory and legal frameworks 
+and associated legal documents, including trade and SPS related laws, rules, 
+regulations and other requirements for the imports, exports, and international trade 
+of animal and animal products, and food products for compliance with SPS and 
+other trade requirements and that of main trading partners.  
+v) 
+Provide justified recommendation to make changes in the relevant legal documents 
+that would enable Somalia to meet the import and export requirements for animal 
+and animal products, and food products.
+=== PAGE 5 ===
+ 
+5 
+vi) 
+Develop and simplify the guidelines and/or standard operational procedures (SOP) 
+for market access and obtaining SPS certificates ensuring the SPS compliance 
+requirement of Gulf countries and main trading livestock partners. The SOP should 
+cover detailed steps for both private sector, who are exporters and producers, and 
+authorities, who issue the certificates. The SOP should be developed in consultation 
+with both private sector and public agencies concerned, as well as in coordination 
+with neighbouring countries. This includes consultation workshops to finalize the 
+SOP.  
+ 
+vii) 
+Assess e-certification for export of animal and animal products: Review the existing 
+processes of animal tracking and issuance of sanitary certificates including animal 
+health certificate, vaccination certificate, biosecurity certificate of animal farm, 
+animal product safety certificate for imports, exports and transit and advise to 
+develop online systems for issues of these sanitary certificates.  
+a) Review strategy/ies drafted by other project(s) for targeting the informal 
+animal trade in Somalia based on an assessment of the sources of the trade, 
+the likely border and other transit points for such trade and the most effective 
+and efficient means of intercepting such traffic. 
+b) Review the e-veterinary certification systems for international trade on the 
+basis of a single window system under the WTO Standards Trade 
+Development Facility (STDF) being developed by the World Organization 
+of Animal Health (OIE)  https://www.woah.org/en/home/ (previously 
+oie.int).  
+c) Identify the basic features for operating systems, including technical details, 
+the drivers for introducing e-certification (e.g. economic development, trade 
+facilitation, enhancing regulatory controls), and challenges in overcoming 
+the hurdles preventing widespread use). 
+d) Provide recommendations on development of the system for the gathering 
+information on animal and animal product import and export and initiate a 
+framework to facilitate e-veterinary certification development and potential 
+link with the international trade on the basis of a single window system 
+based on the WTO Standards Trade Development Facility (STDF). 
+e) Review the prerequisites for the hub. The structure and transmission of eCVI 
+should be harmonized globally, allows equal participation to countries 
+without national system, animal health authorities do not need to set up 
+bilateral systems to connect with each other and should be link with other 
+international E-Systems (e.g., single window). 
+f) Conduct a business process evaluation and determine the steps required to 
+implement e-certificate system, including contacting -or/and contracting- 
+WOAH (and WTO) on the progress and conditions for an international e-
+CVI system to be operational.  
+g) Assist the DLF in relating with Vet Sentry e-CVIs (vet-sentry.com/eCVI) to 
+seek assistance or explanations on their system. 
+ 
+viii) 
+Asses the current system of manual (or other) export and animal health certification 
+apparatus in Somalia. Analytical work could focus but not be limited to: 
+a. The digital technology gaps, needs and concerns of key stakeholders 
+relevant to the MoLFR, encompassing trade and producer agencies, 
+government, industry associations, and international partners, to gauge their
+=== PAGE 6 ===
+ 
+6 
+appreciation, potential and preparedness (literacy levels, level of use of 
+digital skills, etc.) for eventual beneficiation of such a system.  
+b. The current infrastructure and the current processes and procedures for 
+issuing export and animal health certificates in the country. Where many 
+apparatuses exist, the consulting firm should investigate the possible 
+migratory, efficacy and interoperability of such systems with a view to the 
+new hardware and software and unification initiative, including associated 
+processes and costs.  
+c. The data security risks associated with the current unified system in use. 
+ix) 
+Evaluate the technical feasibility of owning independently the system, or a hosting 
+choice (if there is no option of independent system ownership) and maintaining the 
+unified digital export and animal health certificates system within Somalia, in terms 
+of requisite technical personnel, technical infrastructure and cyber security support 
+needed to operate and maintain such a system. 
+• Conduct technical and legal mapping and coordinate with relevant 
+stakeholders on the Single Window and the readiness to exchange e-
+SPS; • 
+• Present the proposed electronic SPS information flow and e-SPS data 
+structure  
+• Develop the Electronic Operational Certification Procedure for e-SPS; • 
+Develop the e-SPS message implementation guide, export declaration 
+business process flow, process specifications, including the XML 
+Schema Definition (XSD);  
+• Identify technical and legal gaps that must be resolved prior to the 
+exchange of the e-SPS and provide recommendations on how to address 
+any remaining gaps;  
+• Develop the user acceptance process criteria and success indicators of 
+the project, to ensure that these requirements are met. 
+ 
+x) 
+Assess the financial feasibility of developing a unified national digital export and 
+animal health certificates system in Somalia (broader system capability), by 
+analyzing costs associated with the development, procurement and establishment 
+(including piloting and testing), implementation (deployment and scaling up), and 
+maintenance, as well as an evaluation of future evolution and establishment of 
+extension centers of the system at various export points across Somali livestock 
+terminals. 
+ 
+xi) 
+Provide on a change management agenda and plan to facilitate a seamless transition 
+from paper-based livestock export certification to robust digital systems 
+(considering requirements enshrined on the trade protocols and MOUs between 
+MoLFR and its trade partners) including training, capacity-building for relevant 
+stakeholders and public awareness campaigns on process modernization. 
+ 
+xii) 
+Advise on robust key performance indicators (KPIs) that will be used to measure 
+the success of the digital system, including improvements in trade volume, value, 
+cost savings, and animal health outcomes, to feed into the DRIVE project’s 
+monitoring and evaluation framework.
+=== PAGE 7 ===
+ 
+7 
+xiii) 
+Identify potential benefits, in terms of economic growth by the export-oriented 
+livestock production, challenges and opportunities of expansion the Ministry to 
+ponder of  
+xiv) 
+Synthesize the findings in i) to viii) above to: 
+ 
+a) Develop the technical specifications, software and hardware requirements, general 
+technical compliance requirements, and installation and operationalization of the 
+proposed/studied national digital export and animal health certificate generating 
+system. The firm will prepare the full set of technical specification and 
+operationalization documents to be utilized in the procurement process of the good. 
+ 
+b) Recommend the key specifications of the system in terms of functionality 
+(certificate issuance, data management etc.), technical (accessibility, authentication, 
+security, audit etc.), and other considerations such as multilingual support and 
+contingency plans. 
+  
+5. Qualifications of the Firm and the Team of the Consultants  
+ 
+5.1.The Eligible Firm(s) 
+ 
+The firm must exhibit verifiable technical proficiency and capacity required to effectively carry 
+out the entire scope of work and objectives of the consultancy and fulfill the specified 
+qualifying and shortlisting criteria outlining below. 
+ 
+• A minimum of 10 years of relevant experience in carrying out feasibility studies on 
+digital exports certificate, phyto sanitary standards, development and operationalization 
+in any state within the Horn of Africa, developing countries, in any context similar to 
+Somalia or in advanced societies.  
+ 
+• Working knowledge with government agencies, private sector actors such as livestock 
+traders, livestock industry associations, exporters and importers and consultations is a 
+requisite requirement for eligibility to carry this work.  
+ 
+• Eligible firms should hold experience that should contain understanding in international 
+livestock trade including the current policy, legal, regulatory and market system’s 
+situation.  
+ 
+• Eligible firm(s) must have a verifiable experience of implementing at least one contract 
+in the past 5 years having experience of conducting feasibility study and development 
+of a system technical specification, software and hardware requirements, general 
+technical compliance requirements, and installation and operationalization of the 
+system; preferably a system of export and animal health certificate generating system. 
+ 
+• Experience on analysis of business processes, interconnectivity with Customs, 
+reengineering to support improved clearance, experience in ePhyto implementation 
+with respect to ASYCUDA Risk Management, ports and other systems such as Port 
+Community System, etc.
+=== PAGE 8 ===
+ 
+8 
+ 
+5.1.2. Expert Team Composition 
+The consulting firm should demonstrate the following capacities/skills within its key expert 
+staff, they should be of multi-disciplinary team, and with substantial expertise in carrying out 
+feasibility study in agriculture/livestock economies: 
+ 
+a) Regional Policy and Trade Expert (Key Export 1 - Team Leader): Proposed 
+expert should hold more than 10 years’ proven professional experience in 
+productive sector development, experience in leading, designing and managing 
+technical studies in productive sector with special concentration in livestock 
+economics. A minimum of master’s degree in development economics and 
+trade, livestock economics or a related field is required.  
+b) Livestock Value Chain and Market Systems Expert (Key Expert 2): He/she 
+must be possessing minimum of 10 years’ professional experience in livestock 
+market systems development, upgrading livestock value chains, processing and 
+value addition. At least master’s degree in livestock husbandry and production 
+or in a related field are desired. He or she should have an in-depth and strong 
+understanding of livestock value chains and market systems development. 
+c) IT and Business Systems Expert (Key Expert 3): Proposed expert should be 
+holding advanced systems engineering master’s degree or computer science 
+and relevant bachelor’s degree to the advanced education is required. Candidate 
+must be having at least 10 years demonstrated and proven professional 
+experience in designing, engineering and developing systems, particularly 
+systems in productive sectors such as livestock or public veterinary services. 
+He or she should demonstrate an in-depth knowledge of developing ISO and 
+OIE standard certificate generating systems in the livestock arena or other 
+related sector.  
+d) International E-Phyto Specialist (Key Export 4): The consultant will assist 
+the MOLF to develop the mechanism to adopt e-Phyto certificate. He/she must 
+be holding around 8 years of experience in modernization of agricultural ( 
+livestock agriculture sub sector) import and export processes, E-phyto 
+implementation, and business process engineering.The candidate must have 
+Master Degree in IT or related field and proven relevant experience working in 
+developing electronic systems. Experience in e-Phyto related work is highly 
+desirable with strong command of certification process of phytosanitary 
+products and international best practices as recommended by the IPPC and 
+FAO.Fluency in written and spoken English is mandatory. 
+e) Animal Health Expert (Key Expert 5): A veterinary doctor with a minimum 
+of 10 years strong professional experience in standardizing and developing 
+national veterinary services. He or she must be holding master’s degree in 
+veterinary medicine or animal health science.  
+ 
+6. 
+Reporting Arrangement and Structure  
+The firm will work under the general supervision of the Director General, Ministry of 
+Livestock, Forestry and Range and engaging relevant departments of the ministry under the 
+coordination of the DRIVE Project Focal Point at the MoLFR, it shall also provide weekly 
+basis progress reports summarizing progress; challenges and presenting any issues that require 
+action from the Ministry and Project team. The firm will further coordinate with the PIU of the 
+DRIVE project through the existing coordination team at the MoLFR to include inputs from
+=== PAGE 9 ===
+ 
+9 
+the relevant government agencies, where necessary. Sharing of work progress updates, 
+stakeholder meetings, and workshops shall be conducted within the agreed timelines by the 
+parties. A handover ceremony shall be conducted for the final close out of the consultancy 
+works. 
+ 
+7. 
+Deliverables and Timelines of the Delivery for the Service 
+The firm is expected to conclude the delivery of this consultancy service within 3 months. 
+The percentage payments will be released to the consultant on the submission and 
+acceptance/ approval of the deliverables (as mentioned below) by the competent authority of 
+MoLFR (Client). Expected deliverables and an indicative timeline for delivery and payments 
+is included below: 
+ 
+D# 
+Deliverable  
+Timeline 
+Payment schedule 
+1 
+Kick-off 
+and 
+foundational 
+meeting/consultation with the Ministry 
+relevant departments and stakeholders 
+(within 7 days after contract signature) 
+and submission of inception report and 
+work plan outlining overall execution 
+plan guaranteeing timely completion of 
+the assignment. 
+Within 15 days after 
+contract signature. 
+Payment of 10% of 
+the signed contract 
+amount 
+2 
+Draft feasibility study report together 
+with the draft technical specification of 
+the 
+recommended 
+certificate 
+generating system (i.e., full drafts of 
+items discussed under sections 3 and 4 
+of the terms of the reference). 
+Within 60 days after 
+contract signature. 
+Payment of 30% of 
+the signed contract 
+amount 
+after 
+acceptance of the 
+draft report 
+ 
+3 
+Validation workshop on the feasibility 
+study report containing all items under 
+the scope of the assignment and 
+objectives on sections 3 and 4 of the 
+ToR.  
+Within 72 days after 
+contract signature. 
+Payment of 20% of 
+the signed contract 
+amount 
+ 
+4 
+Final 
+report/ 
+versions 
+of 
+all 
+deliverables, incorporating feedback 
+and recommendations, including short 
+read-out of consultations with relevant 
+stakeholders and how they have been 
+reflected. 
+Within 90 days (3 
+months) 
+after 
+contract signature. 
+Final 
+Payment 
+of 
+40% of the signed 
+contract amount 
+after acceptance of 
+the deliverable by the 
+client (MoLFR). 
+ 
+ 
+8. 
+Location of the Services 
+The consultancy will be conducted in Somalia, particularly in Mogadishu and the 
+administrative capital cities of the Somali Government federal member states. The firm will be 
+required to assess the various paper-based certifications practiced at the states and the HQ 
+centers of the Ministry of Livestock, Forestry and Range while also engaging main bodies of 
+the relevant stakeholders such as livestock export trade groups, quarantine facilities, 
+professional associations and customs authority at both the two layers of Somali Federal
+=== PAGE 10 ===
+ 
+10 
+Republic. The assigned team of experts from the consulting firm are supposed to expect 
+adequate travels to these stakeholders and locations to ensure informed actions are addressed 
+towards the challenges and process transformation that this consultancy service is aiming to 
+achieve.

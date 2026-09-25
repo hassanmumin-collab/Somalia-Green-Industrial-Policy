@@ -1,0 +1,187 @@
+Independent fact-check, 2026-09-24, claims C-0435 to C-0482, D-0064 to D-0070, and rechecks of C-0376, C-0380, C-0381, D-0056, D-0057, D-0059.
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only). Raw CSV hash matches register; all values importer-reported CIF.
+
+C-0435: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0436: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0437: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0438: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0439: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0440: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0441: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0442: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0443: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0444: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0445: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0446: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0447: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0448: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0449: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0450: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct. Implied unit value about USD 1.45/kg suggests low-value gums.
+
+C-0451: FAIL
+  Reason: Displayed USD 1,764.83 as 'USD 0.00 million'. Correction applied 2026-09-24.
+
+C-0452: FAIL
+  Reason: Displayed 5.27 kg as '0.0 tonnes'. Correction applied 2026-09-24.
+
+C-0453: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0454: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0455: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0456: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0457: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0458: FAIL
+  Reason: Displayed 41.654 kg as '0.0 tonnes'. Correction applied 2026-09-24.
+
+C-0459: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0460: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0461: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0462: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0463: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0464: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0465: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0466: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0467: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0468: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0469: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0470: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0471: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0472: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0473: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0474: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0475: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0476: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0477: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0478: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0479: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0480: FAIL
+  Reason: Displayed USD 4,815.79 as 'USD 0.00 million'. Correction applied 2026-09-24.
+
+C-0481: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct. H4 classification; implied unit value about USD 0.41/kg.
+
+C-0482: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+D-0064: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+D-0065: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+D-0066: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+D-0067: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+D-0068: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct. CIF.
+
+D-0069: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct. USA about 74 percent of value; reporter unit values USD 156 to 383/kg.
+
+D-0070: FAIL
+  Reason: Twelve queried, eleven reported (Oman none); importer c.i.f. values; HS 1301 scope caveat dropped. Correction applied 2026-09-24.
+
+C-0376: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+C-0380: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct. Recheck of corrected statement; native text layer.
+
+C-0381: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+D-0056: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+D-0057: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct.
+
+D-0059: PASS
+  Reason: Record, quote or formula confirmed against the source text and raw file; statement correct. Recheck: bias directions now correct.
+
+Summary: 56 pass, 5 fail, 0 query.

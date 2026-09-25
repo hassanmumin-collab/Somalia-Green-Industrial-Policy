@@ -1,0 +1,2554 @@
+# Source register (CLAUDE.md section 5.1). Generated 2026-09-23 in Phase 1.
+# Titles, publishers and dates are as printed on the documents. Entries with local_path: null
+# were not obtained; their figures may not be used until a file is stored.
+- id: S-001
+  title: 'National Transformation Plan (NTP) 2025 - 2029: Shaping the Somalia we want through the road less taken'
+  publisher: Ministry of Planning, Investment and Economic Development, Federal Republic of Somalia
+  date_published: '2025'
+  url: https://mop.gov.so/wp-content/uploads/2025/pdf/NTP%20Report%202025-2029%20All.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-001_NTP-2025-2029.pdf
+  text_path: sources/text/S-001.txt
+  sha256: e00056e78544619e3e9d388c62d2d92f707f9c5b6869f4bf7d345473e2144834
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 500
+  notes: No date printed on the document. PDF created 2025-03-15. Ministry news page reports launch on 17 March 2025. Confirms the NTP covers 2025 to 2029. File is 163 MB; kept out of git (see .gitignore).
+- id: S-002
+  title: National Transformation Plan NTP-I; 2025 - 2029 (Executive Summary)
+  publisher: Ministry of Planning, Investment and Economic Development, Federal Republic of Somalia
+  date_published: '2025-02-23'
+  url: https://mop.gov.so/wp-content/uploads/2026/07/NTP-Executive-Summary.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-002_NTP-executive-summary.pdf
+  text_path: sources/text/S-002.txt
+  sha256: 2e6dd904d7241376b3f9484a0ce71e8292aa6c80d50aef4f88975cade51c8543
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 21
+  notes: 'Date printed on cover as ''Date: 23. 02.2025''. Uploaded to the ministry site in July 2026. Summary of S-001.'
+- id: S-003
+  title: 'Somalia National Development Plan 2020 to 2024: The Path to a Just, Stable and Prosperous Somalia (NDP-9)'
+  publisher: The Ministry of Planning, Investment and Economic Development
+  date_published: '2020'
+  url: https://mop.gov.so/wp-content/uploads/2022/07/Somali-National-Development-Plan-9-2020-2024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-003_NDP9-2020-2024.pdf
+  text_path: sources/text/S-003.txt
+  sha256: ef928d6ea76338af8def93d6e85aca6fd6c4f5e75f8785ed70ad497d5a98d6eb
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 400
+  notes: Predecessor plan to the NTP. No full date on the cover.
+- id: S-004
+  title: 'Centennial Vision: Building a Peaceful, Prosperous, and Proud Somalia by 2060'
+  publisher: Federal Republic of Somalia (published by the National Economic Council)
+  date_published: 2025-06
+  url: https://nec.gov.so/wp-content/uploads/2025/06/SOMALIA-Centennial-Vision-2060-FA.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-004_Centennial-Vision-2060.pdf
+  text_path: sources/text/S-004.txt
+  sha256: 96e2c01135bca95c52bd5ac4cbccb7b72e69f3c04d63cfa5445dc518b025f397
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 3
+  - 166
+  pages: 166
+  notes: Cover dated JUNE 2025. Confirms Centennial Vision 2060 exists. Launched 23 June 2025 per news reports (not yet sourced).
+- id: S-005
+  title: Xeerka Siyaasadda Horumarinta Warshadaha Soomaaliyeed (Prime Minister's Decree No. 128 enacting the Somali Industrial Development Policy, with the policy text 'Siyaasadda Horumarinta Warshadaha Soomaaliyeed 2021 - 2030')
+  publisher: Office of the Prime Minister (decree); Wasaaradda Ganacsiga & Warshadaha / Ministry of Commerce and Industry (policy)
+  date_published: '2021-02-25'
+  url: https://moci.gov.so/wp-content/uploads/2026/05/Siyaasada_Warshadaha.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-005_MoCI-industrial-policy-Somali.pdf
+  text_path: sources/text/S-005.txt
+  sha256: def0a4c48a6fdb89f386ee8691a19940295ce8d0fec3c754dc624f28644496df
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: ocr
+  pages: 27
+  notes: Scanned document; all pages OCR'd with the Windows OCR engine. Somali language. Cabinet decision SHGW.00.118.02.21 of 25/02/2021 approved the policy. No English version found. Quotes must be in Somali with a translation, and the fact-checker must confirm against page images.
+- id: S-006
+  title: 'Opportunity Mapping / Pre-Feasibility Assessment of Special Economic Zones (SEZs) in Somalia: Executive Report'
+  publisher: United Nations Industrial Development Organization (UNIDO), with the Ministry of Commerce and Industry; prepared by Triple Line
+  date_published: 2022-09
+  url: https://moci.gov.so/wp-content/uploads/2026/05/UNIDO_ExecutiveReportSEZOpportunitiespdf_251006_104100.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-006_UNIDO-SEZ-opportunities.pdf
+  text_path: sources/text/S-006.txt
+  sha256: 79751b676ea7298544bea1b4b8692e39feb755522ece648a0ea2c92cb2415120
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 26
+  pages: 26
+  notes: Only SEZ-specific document found. No SEZ or industrial park law or draft located.
+- id: S-007
+  title: 'National Export Development and Promotion Strategy for Somalia: Final Report'
+  publisher: Ministry of Commerce and Industry, Federal Government of Somalia
+  date_published: not printed (PDF created 2025-06-04)
+  url: https://moci.gov.so/wp-content/uploads/2026/05/NATIONAL-EXPORT-DEVELOPMENT-AND-PROMOTION-STRATEGY-FOR-SOMALIA_Final-Report.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-007_National-Export-Strategy.pdf
+  text_path: sources/text/S-007.txt
+  sha256: a0643162dbc6778591ad3465c9427cea5257ae0a7dfaf778486a211a1b17f08e
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 136
+  notes: Cover lists 'In partnership with' and 'Prepared by' as logos only; preparer not identifiable from the text layer. Latest data years cited are 2023 to 2025.
+- id: S-008
+  title: National AfCFTA Implementation Strategy for the Federal Government of Somalia
+  publisher: 'Ministry of Commerce and Industry, Federal Government of Somalia (authors: Vanguard Economics)'
+  date_published: 2023-09
+  url: https://moci.gov.so/wp-content/uploads/2026/05/English-Version-Somalia-AfCFTA-National-Implementation-Strategy-Final-report-5-12-23.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-008_AfCFTA-implementation-strategy.pdf
+  text_path: sources/text/S-008.txt
+  sha256: 1b5da4eda6814d47519cf8ca3d639f1acd27df6b2f0f942384732b2451337e82
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 181
+  pages: 181
+  notes: Trade policy instrument. Foreword by the Minister of Commerce and Industry.
+- id: S-009
+  title: Warbixinta Warshadaha Soomaaliya 2026 (Somalia Industry Report 2026)
+  publisher: Wasaaradda Ganacsiga iyo Warshadaha (Ministry of Commerce and Industry)
+  date_published: 2026-08
+  url: https://moci.gov.so/wp-content/uploads/2026/08/Warbixinta-Warshadaha-Somalia-2026_compressed.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-009_Industry-report-2026-Somali.pdf
+  text_path: sources/text/S-009.txt
+  sha256: 20a6c6c5414aac220f5378224446896b0f499dcba6233fdeff1f592c696c916a
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 21
+  pages: 30
+  notes: Somali language. Data collected to August 2026. Covers industrial registration 2009 to 2026.
+- id: S-010
+  title: 'Mapping Report: Formalisation of Cooperatives and Private Sector Organisations (Support to Policy Dialogue for Investment Climate in Somalia)'
+  publisher: 'Ministry of Commerce and Industry, Federal Government of Somalia (author: Kim Eric Bettcher, CIPE)'
+  date_published: 2022-04
+  url: https://moci.gov.so/wp-content/uploads/2026/05/Mapping-Report-SPDI-_Somalia_PRINT.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-010_SPDI-mapping-report.pdf
+  text_path: sources/text/S-010.txt
+  sha256: fd4832d06381b444fb322c8c4b5c7257b5150f918619543dff68e29ec27b7887
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 36
+  notes: Limited relevance (private sector organisations). Commissioned report.
+- id: S-011
+  title: 'Sharci Lr. 22: Sharciga Ilaalinta iyo Maareynta Deegaanka (Environmental Protection and Management Act)'
+  publisher: Office of the President, Federal Republic of Somalia
+  date_published: '2024-02-13'
+  url: https://parliament.gov.so/wp-content/uploads/simple-file-list/Shuruuc/SHURUUC/Shuruucda-2024/Sharciga-Ilaalinta-iyo-Maareynta-Deegaanka.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-011_Environmental-Protection-Management-Act-2024-SO.pdf
+  text_path: sources/text/S-011.txt
+  sha256: 7256b2b1a6a4a1102b07ebd95544142cf3f87e5d53e1f964ff341b78bf44598c
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: ocr
+  pages: 70
+  notes: 'Enacted Somali text as signed; presidential signature page dated 13 February 2024 (Law No. 22). Your brief refers to an April 2024 version: the English translation (S-021) is dated April 2024. Scanned; OCR''d.'
+- id: S-012
+  title: 'Sharci Lr. 002: Ansixinta Hindise Sharciyeedka Korontada (Electricity Act)'
+  publisher: Office of the President, Federal Republic of Somalia
+  date_published: '2023'
+  url: https://parliament.gov.so/wp-content/uploads/simple-file-list/Shuruuc/SHURUUC/Shuruucda-2023/Sharciga-Korontada.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-012_Electricity-Act-2023-SO.pdf
+  text_path: sources/text/S-012.txt
+  sha256: 70901007ca3d8937dfc6deaefda7f5ccdd6cd1dba8471d42790c5951ebf9ccc1
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: ocr
+  pages: 41
+  notes: 'Enacted Somali text. Signature date to be read from the page image (OCR). Secondary sources report signature on 8 March 2023 (not yet sourced). No English text of the enacted Act was found: the ministry''s ''Electricity Act'' file is the 2022 draft bill in Somali and was not registered.'
+- id: S-013
+  title: 'Sharci Lr. 008: Ogolaansho Ansixinta Hindise Sharciyeedka Horumarinta iyo Maareynta Kalluumeysiga Soomaaliyeed (Fisheries Development and Management Law)'
+  publisher: Office of the President, Federal Republic of Somalia
+  date_published: '2023-03-20'
+  url: https://parliament.gov.so/wp-content/uploads/simple-file-list/Shuruuc/SHURUUC/Shuruucda-2023/Sharciga-Horumarinta-iyo-Maareynta-Kalluumeysiga-Soomaaliyeed.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-013_Fisheries-Development-Management-Law-2023-SO.pdf
+  text_path: sources/text/S-013.txt
+  sha256: 870fd43d5aff23f230b9b0e2ffbb09488d9dc918409cedccf1e66d4c44281feb
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: ocr
+  pages: 109
+  notes: Enacted Somali text, signed 20 March 2023. English translation is S-052. This is the fisheries law in force; it replaces Law No. 29 of 2014 (S-014), to be confirmed from the repeal clause.
+- id: S-014
+  title: 'Sharci Lr. 29: Oggolaanshaha Ansixin Sharciga Cusub ee Kaluumeysiga Badaha Dalka Soomaaliya (Fisheries Law)'
+  publisher: Office of the President, Federal Republic of Somalia
+  date_published: '2014'
+  url: https://parliament.gov.so/wp-content/uploads/simple-file-list/Shuruuc/SHURUUC/Shuruucda-2014/7-Sharciga-Kalluumeysiga.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-014_Fisheries-Law-2014-SO.pdf
+  text_path: sources/text/S-014.txt
+  sha256: 9af21a6a6baa0078a96759dba22b3fe430678d23024c35b2f49037b199d890d3
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: ocr
+  pages: 35
+  notes: Superseded predecessor (parliamentary approval letter dated 04/11/2014). Kept for history only.
+- id: S-015
+  title: 'Sharci Lr. 27: Ansixinta Sharciga Jaan-goynta & Taya-dhawrka Soomaaliyeed (Somali Standards and Quality Control Law)'
+  publisher: Office of the President, Federal Republic of Somalia
+  date_published: '2020-03-30'
+  url: https://parliament.gov.so/wp-content/uploads/simple-file-list/Shuruuc/SHURUUC/Shuruucda-2020/Sharciga-Jaan-goynta-Taya-dhowrka-Soomaaliyeed.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-015_Standards-Quality-Control-Law-2020-SO.pdf
+  text_path: sources/text/S-015.txt
+  sha256: b3409777c3bbecb971890a7ebc6ba3c627167cd5ec18ce54c9455a11efbc2b1f
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  pages: 30
+  notes: Establishes the Somali Bureau of Standards. Partly scanned (12 of 30 pages OCR'd).
+- id: S-016
+  title: 'Sharci Lr. 21: Sharciga Xanaanada Xoolaha (Animal Health / Livestock Care Law)'
+  publisher: Office of the President, Federal Republic of Somalia
+  date_published: '2016-06-27'
+  url: https://parliament.gov.so/wp-content/uploads/simple-file-list/Shuruuc/SHURUUC/Shuruucda-2016/17-Sharciga-Xanaanada-Xoolaha.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-016_Animal-Health-Law-2016-SO.pdf
+  text_path: sources/text/S-016.txt
+  sha256: 1f8c6a1ec0a04a2d4aa2abb89f0b6a964e851403a498b6345f09a288544814e8
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  pages: 68
+  notes: Veterinary legal basis. Partly scanned.
+- id: S-017
+  title: Foreign Investment Law (with House of the People transmittal letter of 23 November 2015)
+  publisher: House of the People, Federal Parliament of Somalia
+  date_published: '2015-11-23'
+  url: https://parliament.gov.so/wp-content/uploads/simple-file-list/Shuruuc/SHURUUC/Shuruucda-2015/11-Sharciga-Maalgashiga-Shisheeye-ENG.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-017_Foreign-Investment-Law-2015-EN.pdf
+  text_path: sources/text/S-017.txt
+  sha256: 432edd90776380669fb88b898b90002bb6c160c58e48c9e01c768e4282e7a5e8
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  pages: 20
+  notes: English text; cover letter in Somali. Possibly superseded by S-018 (2023) and by the Somalia Investment Law passed by Parliament in November 2025 (not obtained, see S-025).
+- id: S-018
+  title: 'Sharci Lr. 011: Ogolaansho Ansixinta Hindise Sharciyeedka Dhowrista Maalgashiga iyo Maalgashatada (Investment and Investor Protection Law)'
+  publisher: Office of the President, Federal Republic of Somalia
+  date_published: '2023-03-20'
+  url: https://parliament.gov.so/wp-content/uploads/simple-file-list/Shuruuc/SHURUUC/Shuruucda-2023/Sharciga-Dhowrista-Maalgashadayaasha-iyo-Maalgashiga.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-018_Investor-Investment-Protection-Law-2023-SO.pdf
+  text_path: sources/text/S-018.txt
+  sha256: bc2ca8ed1d051c572cd6f4c4d730aee1d0e14ba22175173feebb377b09b2d8bb
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: ocr
+  pages: 27
+  notes: Enacted Somali text, signed 20 March 2023. Scanned; OCR'd. Relationship to the 2025 Investment Law is unresolved.
+- id: S-019
+  title: Somalia's Third Generation Nationally Determined Contribution (NDC 3.0)
+  publisher: Ministry of Environment and Climate Change, Federal Government of Somalia
+  date_published: 2025-06
+  url: https://unfccc.int/sites/default/files/2025-06/Somalia%20NDC%203.0_Submitted_to_UNFCCC_Final.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-019_NDC3-2025.pdf
+  text_path: sources/text/S-019.txt
+  sha256: 381418993b249104365c86fa6f9901791dffda68ceb3bdd57d504e37081c35bc
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 50
+  notes: Version submitted to the UNFCCC in June 2025. A typeset 'official' version dated September 2025 is S-107; the two must be compared figure by figure in Phase 2.
+- id: S-020
+  title: Updated Nationally Determined Contribution (NDC)
+  publisher: The Federal Republic of Somalia
+  date_published: 2021-07
+  url: https://unfccc.int/sites/default/files/NDC/2022-06/Final%20Updated%20NDC%20for%20Somalia%202021.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-020_Updated-NDC-2021.pdf
+  text_path: sources/text/S-020.txt
+  sha256: 38f29276ea24fba667201a4c253993710a29a43acb98c02615c657a183b47b84
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 2
+  pages: 16
+  notes: Superseded by NDC 3.0 (S-019, S-107). Kept for comparison.
+- id: S-021
+  title: Environmental Protection and Management Act
+  publisher: Ministry of Environment and Climate Change, Federal Republic of Somalia
+  date_published: 2024-04
+  url: https://moecc.gov.so/wp-content/uploads/2024/10/Environmental-Protection-and-Management-Act-Engl_240625_145520-2.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-021_Environmental-Protection-Management-Act-EN.pdf
+  text_path: sources/text/S-021.txt
+  sha256: 0606b0530ceb6e2bf511b89f23aacf74e833e1966974a0536ef700cd8a480142
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 71
+  notes: English text published by the ministry, dated April 2024. The enacted Somali text is S-011 (Law No. 22). The Act creates a National Environment Fund and allows a National Environmental Council; it does not appear to establish a separate environmental agency (to confirm in Phase 2).
+- id: S-022
+  title: Somalia National Climate Change Policy (November 2020, updated February 2023)
+  publisher: Ministry of Environment and Climate Change, Federal Republic of Somalia
+  date_published: 2023-02
+  url: https://moecc.gov.so/wp-content/uploads/2024/10/Somalia-National-Climate-Change-Policy-EN.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-022_National-Climate-Change-Policy-EN.pdf
+  text_path: sources/text/S-022.txt
+  sha256: e4453b8b3bceb8470217850593949f550e1a27a60ca5a50712d94813b94ab323
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 61
+  notes: 'Cover: November 2020, Updated: February 2023.'
+- id: S-023
+  title: Somalia's First Adaptation Communication to the United Nations Framework Convention on Climate Change
+  publisher: Federal Government of Somalia, Ministry of Environment and Climate Change
+  date_published: 2022-12
+  url: https://moecc.gov.so/wp-content/uploads/2024/10/Somalia-Adaptation-Communication.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-023_Adaptation-Communication.pdf
+  text_path: sources/text/S-023.txt
+  sha256: 68df5508cdebfdc0e075988d3626255f1d4ae962fa322e0e1b4d02bf0adfb40e
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 49
+  pages: 49
+  notes: No National Adaptation Plan found; a NAP Framework (2022) exists (not obtained).
+- id: S-024
+  title: Somalia's First Biennial Update Report under the United Nations Framework Convention on Climate Change (UNFCCC)
+  publisher: Ministry of Environment and Climate Change, Federal Republic of Somalia
+  date_published: 2022-09
+  url: https://moecc.gov.so/wp-content/uploads/2024/10/BUR.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-024_First-BUR.pdf
+  text_path: sources/text/S-024.txt
+  sha256: 2768b06ad8122d2d73a44f88d1b29920a5a4f9bbe2d9a9f19f75f6187a83b66f
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 3
+  pages: 175
+  notes: GHG inventory source.
+- id: S-025
+  title: Somalia Investment Law (2025)
+  publisher: Ministry of Planning, Investment and Economic Development, Federal Republic of Somalia / SOMINVEST
+  date_published: '2025-11-29'
+  url: https://sominvest.gov.so/somalias-future-secured-senate-passes-long-awaited-investment-law/
+  accessed: '2026-09-23'
+  local_path: null
+  text_path: null
+  sha256: null
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: null
+  status: not obtained
+  notes: 'Passed by both Houses per SOMINVEST (29 November 2025); presidential assent not confirmed; no text found online. Hassan Mumin (2026-09-23): not yet published; expected within a few months.'
+- id: S-026
+  title: Optimized Cost Electricity Generation and Transmission Development Plan for Somalia
+  publisher: Ministry of Energy and Water Resources, Federal Government of Somalia
+  date_published: 2025-06
+  url: https://moewr.gov.so/wp-content/uploads/2025/07/Somalia-Generation-and-Transmission-Plan-2025-MoEWR.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-026_Generation-Transmission-Plan-2025.pdf
+  text_path: sources/text/S-026.txt
+  sha256: f3ac9098a04583cbdd1d2223cfc503798b320ccf434d8bd151225d416756fcea
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 250
+  notes: 20-year power master plan, endorsed by the Minister (endorsement letter not stored).
+- id: S-027
+  title: 'Somali Electricity Access Project: Final Report (least-cost electrification study)'
+  publisher: Ministry of Energy and Water Resources, Federal Government of Somalia (with KTH Royal Institute of Technology)
+  date_published: not printed
+  url: https://moewr.gov.so/wp-content/uploads/2023/10/Final-report-for-somalias-least-cost-electrification-.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-027_Least-Cost-Electrification-Report.pdf
+  text_path: sources/text/S-027.txt
+  sha256: 10a3cdcc198d90cfd29ad584f3475ff5ed778e98bb607d98999bf1622f65f061
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  pages: 39
+  notes: Scanned; fully OCR'd. Date to be established from the text in Phase 2.
+- id: S-028
+  title: 'National Water Resource Strategy 2021-2025: Final Roadmap to Implementation'
+  publisher: Ministry of Energy and Water Resources, Federal Government of Somalia
+  date_published: 2021-08
+  url: https://moewr.gov.so/wp-content/uploads/2023/10/Somalia-Ministry-of-Energy-and-Water-Resources-National-Water-Resource-Strategy-2021-2025-Roadmap-to-Implementation.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-028_National-Water-Resource-Strategy-2021-2025.pdf
+  text_path: sources/text/S-028.txt
+  sha256: 663fa2490071e2b5105f174d7bcbe984e38c2ae46281c420d6a1a5c36267a3a2
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 64
+  notes: No federal water law found.
+- id: S-029
+  title: 'Somalia: Economics of Water Summary Report. Digging for Data: Towards Understanding Water as a Limiting or Enabling Factor for Socioeconomic Growth in Somalia'
+  publisher: World Bank
+  date_published: '2021'
+  url: https://moewr.gov.so/wp-content/uploads/2024/02/Somalia-Economics-of-Water-Summary-Report_FINAL_Nov2021.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-029_Economics-of-Water-Summary-2021.pdf
+  text_path: sources/text/S-029.txt
+  sha256: cbfa512d042dfe18145d0b9fdb6c55c35b98bb9f24a3140f66ccfe894be605e9
+  tier: 2
+  language: en
+  coverage: Somalia (all regions)
+  extraction: ocr
+  ocr_pages:
+  - 44
+  - 45
+  - 48
+  pages: 48
+  notes: File name indicates November 2021.
+- id: S-030
+  title: Resolution 2806 (2025), adopted by the Security Council at its 10064th meeting, on 12 December 2025 (S/RES/2806 (2025))
+  publisher: United Nations Security Council
+  date_published: '2025-12-12'
+  url: https://documents.un.org/api/symbol/access?s=S/RES/2806(2025)&l=en&t=pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-030_UNSC-Resolution-2806-2025.pdf
+  text_path: sources/text/S-030.txt
+  sha256: 6b5bb575d0eb6194cc28290080c815465c6827717ad1a3935bf360ad8b9c34a3
+  tier: 2
+  language: en
+  coverage: Somalia
+  extraction: text
+  pages: 14
+  notes: Most recent resolution found. Paragraph 14 reaffirms the ban on import and export of Somali charcoal (resolutions 2036 (2012) and 2182 (2014)); the ban carries no expiry date in this text. Paragraph 15 encourages sustainable management of domestic charcoal production.
+- id: S-031
+  title: National Agricultural Transformation Strategy 2025-2029
+  publisher: Ministry of Agriculture and Irrigation
+  date_published: '2025'
+  url: https://moa.gov.so/wp-content/uploads/2025/08/Final-Agriculture-Transformation-Strategy.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-031_Agriculture-Transformation-Strategy.pdf
+  text_path: sources/text/S-031.txt
+  sha256: 3f17fd82b6980f7e898b58f08b1bd0708cebb4a1ef13947038d4e837c0bf842c
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 1
+  - 3
+  - 54
+  pages: 54
+  notes: No month printed on cover.
+- id: S-032
+  title: National Irrigation Policy
+  publisher: Ministry of Agriculture and Irrigation
+  date_published: '2019'
+  url: https://moa.gov.so/wp-content/uploads/2025/08/Somali-National-Irrigation-policy.-Final.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-032_National-Irrigation-Policy.pdf
+  text_path: sources/text/S-032.txt
+  sha256: 066ab4be913915b48001fc3c33531362b1cddafc817bfd4a547cd80a425f1780
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 35
+  notes: Cover dated 2019, although uploaded in 2025 as 'Final'.
+- id: S-033
+  title: 'Newsletter: Country Report on Agricultural Sector in Somalia, January 2026'
+  publisher: Ministry of Agriculture and Irrigation, Federal Government of Somalia
+  date_published: 2026-01
+  url: https://moa.gov.so/wp-content/uploads/2026/02/Country-Report-on-Agricultural-Sector-in-Somalia-January-2026-1.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-033_Agriculture-Country-Report-Jan-2026.pdf
+  text_path: sources/text/S-033.txt
+  sha256: f9f70a7441db39458e2ae499e80bbd01b478515deeb1d82931cbf086aeb381c8
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 18
+  notes: Newsletter format.
+- id: S-034
+  title: Somalia National Food Security Policy
+  publisher: Ministry of Agriculture and Irrigation, Federal Government of Somalia
+  date_published: 2020-12
+  url: https://moa.gov.so/wp-content/uploads/2025/08/DRAFT-Somali-National-Food-Security-Policy.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-034_Draft-National-Food-Security-Policy.pdf
+  text_path: sources/text/S-034.txt
+  sha256: 7cf1d5b8a0dc3e86fe877b3a676316396dc2ccfc464b4e0905b43c519fdbc7e7
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 68
+  notes: Cover dated December 2020. The ministry file name labels it DRAFT; adoption status unknown.
+- id: S-035
+  title: 'RESTORE: restoring the riverine eco-systems for climate adaptation (proposal to FCDO, v6)'
+  publisher: Food and Agriculture Organization of the United Nations (FAO), with UNEP and IOM
+  date_published: '2023-11-27'
+  url: https://moa.gov.so/wp-content/uploads/2024/12/Annex_FCDO-HARBS-proposal-RESTORE-v6-27Nov2023.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-035_RESTORE-proposal-FCDO.pdf
+  text_path: sources/text/S-035.txt
+  sha256: 8f90f941db6e45ba9e9382c6c7e868d8a9a5644dd196e924bcfbdb42ca6315e2
+  tier: 2
+  language: en
+  coverage: Middle and Lower Shabelle
+  extraction: ocr
+  ocr_pages:
+  - 36
+  - 63
+  pages: 64
+  notes: Project proposal (GBP 35 million, December 2023 to March 2028); figures are proposals, not outcomes. Your lead.
+- id: S-036
+  title: Somali Livestock Sector Development Strategy 2020 - 2030
+  publisher: Ministry of Livestock, Forestry and Range, Federal Republic of Somalia (with World Bank / FAO)
+  date_published: 2019-07
+  url: https://molfr.gov.so/wp-content/uploads/2024/06/LSDS-Final-Book-livestock-sector-development-strategy-published-2020-1-1.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-036_Livestock-Sector-Development-Strategy.pdf
+  text_path: sources/text/S-036.txt
+  sha256: f6fe396ac32cc9e336150275d442698613830b79faa5d93299cf98bffd8a22e8
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 1
+  pages: 144
+  notes: Strategy paper dated July 2019, covering 2020 to 2030.
+- id: S-037
+  title: The National Food Safety Policy (Final Draft)
+  publisher: Ministry of Livestock, Forestry and Range, Federal Republic of Somalia
+  date_published: 2024-06
+  url: https://molfr.gov.so/wp-content/uploads/2024/07/FINAL-DRAFT-NATIONAL-FOOD-SAFETY-POLICY-Federal-Republic-of-Somalia-22-July-2024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-037_Draft-National-Food-Safety-Policy-2024.pdf
+  text_path: sources/text/S-037.txt
+  sha256: bde639b869860b7220ddab0a0ef3c0abfcb0ab94c627fa9e3ed1ced919dcf5bf
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 37
+  notes: Draft, not adopted as far as found.
+- id: S-038
+  title: Terms of Reference for Selection of Consultancy Service to Carry out a Feasibility Study on the Development of a Unified National Digital Export and Animal Health Certificate Generating System
+  publisher: Ministry of Livestock, Forestry and Range, Federal Republic of Somalia
+  date_published: 2024-07
+  url: https://molfr.gov.so/wp-content/uploads/2024/07/Terms_of_Reference_-_Feasibility_for_Animal_Health_Export_Cert_System_final_dated_July_22_2024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-038_ToR-Animal-Health-Export-Certification.pdf
+  text_path: sources/text/S-038.txt
+  sha256: 7802888b205ded0335c9392d3e0ea93a43e5561a20b2c233b6244b482cdc217a
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 10
+  notes: Evidence that a unified export health certification system is at feasibility stage. No halal or export certification framework document found.
+- id: S-039
+  title: 'The Ripple Effects of the Middle East Crisis on Somalia''s Food Security: Rising Food Prices, Inflation, and Agricultural Vulnerability'
+  publisher: Federal Government of Somalia, Ministry of Agriculture and Irrigation (MOAI)
+  date_published: 2026-05
+  url: https://moa.gov.so/wp-content/uploads/2026/06/THE-RIPPLE-EFFECTS-OF-THE-MIDDLE-EAST-CRISIS-ON-SOMALIAS-FOOD-SECURITY.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-039_Middle-East-crisis-food-security-2026.pdf
+  text_path: sources/text/S-039.txt
+  sha256: 70ef74a94e97eebcf4b2fa02f219c8792726fdfab8e040a16d5bcbf325b56516
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 5
+  - 9
+  pages: 16
+  notes: ''
+- id: S-040
+  title: 'Somalia Gross Domestic Product (GDP) 2025: Statistical Release'
+  publisher: Somalia National Bureau of Statistics
+  date_published: '2026'
+  url: https://nbs.gov.so/wp-content/uploads/2026/06/Somalia-GDP-2025.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-040_NBS-GDP-2025.pdf
+  text_path: sources/text/S-040.txt
+  sha256: d3ff43ae7fe878d2215fa612486ca5c518ac8754f3a995739231c3a2ce13a743
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 13
+  notes: Expenditure-approach GDP at current and constant 2022 prices (rebased). Uploaded 30 June 2026. Your lead pointed to the web page https://nbs.gov.so/somalia-gross-domestic-product-gdp-2025/; this is the underlying release.
+- id: S-041
+  title: 'National Accounts: Concepts, Sources, and Methods - Somalia 2025'
+  publisher: Somalia National Bureau of Statistics
+  date_published: '2025'
+  url: https://nbs.gov.so/wp-content/uploads/2026/06/National-Accounts-Concepts-Sources-and-Methods.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-041_NBS-National-Accounts-Methods-2026.pdf
+  text_path: sources/text/S-041.txt
+  sha256: fdf32ff70c1d36e6084a11813d37794fa6b2f76fcbd154a485e36ad2750c7804
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 24
+  notes: Methodology for the rebased series.
+- id: S-042
+  title: 'Somalia''s Inflation Outlook: Intersections of Global Oil Shocks, Import Dependence, and Climate Crises (Policy Brief No. 003)'
+  publisher: Somalia National Bureau of Statistics (Dr. Abdisalam Abdirahman Mohamed, Director General)
+  date_published: 2026-03
+  url: https://nbs.gov.so/wp-content/uploads/2026/03/Somalias-Inflation-Outlook.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-042_NBS-Inflation-Outlook-Mar-2026.pdf
+  text_path: sources/text/S-042.txt
+  sha256: ab6802df3980c511ff4179e9fb345622a98c9bc661982c10d57c0dd24d9281a4
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 12
+  notes: Your lead. A re-typeset version was uploaded in April 2026 (S-043); compare figures in Phase 2.
+- id: S-043
+  title: 'Somalia''s Inflation Outlook: Intersections of Global Oil Shocks, Import Dependence, and Climate Crises (Policy Brief No. 003, re-issued layout)'
+  publisher: Somalia National Bureau of Statistics
+  date_published: 2026-03
+  url: https://nbs.gov.so/wp-content/uploads/2026/04/Somalias-Inflation-Outlook.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-043_NBS-Inflation-Outlook-Apr-2026.pdf
+  text_path: sources/text/S-043.txt
+  sha256: 4b75b09366b6b2487c466e8c9854229312040b0fe518314255e0697d09e86727
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 11
+  notes: Same brief number and date as S-042, uploaded April 2026.
+- id: S-044
+  title: Quarterly Statistical Bulletin, March 2024
+  publisher: Somalia National Bureau of Statistics
+  date_published: 2024-03
+  url: https://nbs.gov.so/wp-content/uploads/2025/07/Quarterly-Statistical-Bulletin-Q1-2024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-044_NBS-QSB-Q1-2024.pdf
+  text_path: sources/text/S-044.txt
+  sha256: cc69ae83ebe375ade0ef4d1c57eda55428605260b05d5da6e4765fce735408c4
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 18
+  notes: Your lead (exports by category). Covers trade, inflation, exchange rates and remittances.
+- id: S-045
+  title: Quarterly Statistical Bulletin, June 2024
+  publisher: Somalia National Bureau of Statistics
+  date_published: 2024-06
+  url: https://nbs.gov.so/wp-content/uploads/2025/07/Quarterly-Statistical-Bulletin-Q2-2024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-045_NBS-QSB-Q2-2024.pdf
+  text_path: sources/text/S-045.txt
+  sha256: f9dcff2cf9cf826f9b7020331c1e655058841f537f7b8b4f9a688641b4e56f3d
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 18
+  notes: Inside page carries the heading 'March 2024' (template error in the source).
+- id: S-046
+  title: Quarterly Statistical Bulletin, September 2024
+  publisher: Somalia National Bureau of Statistics
+  date_published: 2024-09
+  url: https://nbs.gov.so/wp-content/uploads/2025/07/Quarterly-Statistical-Bulletin-Q3-2024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-046_NBS-QSB-Q3-2024.pdf
+  text_path: sources/text/S-046.txt
+  sha256: ddbcaae578a8d214e0cb0829b96d7f4578a9a68dacb489123de805df2dd7ab30
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 17
+  notes: Inside page carries the heading 'March 2024' (template error in the source).
+- id: S-047
+  title: Quarterly Statistical Bulletin, December 2024
+  publisher: Somalia National Bureau of Statistics
+  date_published: 2024-12
+  url: https://nbs.gov.so/wp-content/uploads/2025/07/Quarterly-Statistical-Bulletin-Q4-2024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-047_NBS-QSB-Q4-2024.pdf
+  text_path: sources/text/S-047.txt
+  sha256: d566eee57817b22bcd91721e6b77f21f4ed0d16c6f91678875519d16819dfd0f
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 17
+  notes: Latest quarterly bulletin published. Inside page carries the heading 'March 2024'.
+- id: S-048
+  title: Statistical Abstract 2024, First Edition
+  publisher: Somalia National Bureau of Statistics
+  date_published: 2024-11
+  url: https://nbs.gov.so/wp-content/uploads/2025/03/Statistical-Abstract-2024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-048_NBS-Statistical-Abstract-2024.pdf
+  text_path: sources/text/S-048.txt
+  sha256: 874035fcad83794d0567d7a94bedb41f91622323bf3d71b6f16d354bddb85cc6
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 80
+  notes: ''
+- id: S-049
+  title: Somalia Facts & Figures 2024, Eighth Edition
+  publisher: Somalia National Bureau of Statistics
+  date_published: 2025-10
+  url: https://nbs.gov.so/wp-content/uploads/2026/04/Facts-and-figures-2024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-049_NBS-Facts-Figures-2024.pdf
+  text_path: sources/text/S-049.txt
+  sha256: 5576142d52ac722061b858795bebe99ddc5e485fd3bd4569bdddb47189996eba
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 43
+  notes: ''
+- id: S-050
+  title: '2022 Somalia Integrated Household Budget Survey (SIHBS): Main Report'
+  publisher: Somalia National Bureau of Statistics
+  date_published: 2023-02
+  url: https://nbs.gov.so/wp-content/uploads/2024/01/SOMALIA-INTEGRATED-HOUSEHOLD-BUDGET-SURVEY-SIHBS-2022.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-050_NBS-SIHBS-2022.pdf
+  text_path: sources/text/S-050.txt
+  sha256: fe73bbf008d8d75e7c552537b0ee3171f54cb45ec3ed3fd564a87ee1cab6f345
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: ocr
+  ocr_pages:
+  - 2
+  pages: 84
+  notes: First household budget survey since 1985.
+- id: S-051
+  title: 'Gross Domestic Product (GDP) 2024: Statistical Release'
+  publisher: Somalia National Bureau of Statistics
+  date_published: '2025'
+  url: https://nbs.gov.so/wp-content/uploads/2025/06/Somalia-GDP-2024-release-text-v3-2025.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-051_NBS-GDP-2024-release.pdf
+  text_path: sources/text/S-051.txt
+  sha256: c8c8a160f1865bde4a0f809d7c3c9f80153a418a068f23b91a63e4ae5cf12ec4
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 12
+  notes: Prior-year release, for revision comparison.
+- id: S-052
+  title: Law of Fisheries Management and Development - No. 008 2023 (English version)
+  publisher: Ministry of Fisheries and Blue Economy, Federal Republic of Somalia
+  date_published: 2023-04
+  url: https://imcsnet.org/sites/default/files/media_files/Final%20English%20Version%20of%20the%20Fisheries%20Law%20No%20008.2023%20copy.pdf?_dl=1
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-052_Fisheries-Law-008-2023-EN.pdf
+  text_path: sources/text/S-052.txt
+  sha256: d6c6075aae41cd75b87d744a26fba4e07f894d37e5842ef13336d7f192580455
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 115
+  notes: English translation issued by the Ministry, hosted by the International MCS Network (not a government site). Enacted Somali text is S-013.
+- id: S-053
+  title: 'Harnessing Somalia''s Blue Economy: Pathways to Sustainable Prosperity'
+  publisher: 'National Economic Council (NEC) of Somalia (author: Abdul-Aziz Iddrisu)'
+  date_published: 2024-09
+  url: https://nec.gov.so/wp-content/uploads/2024/10/Blue-Economyy.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-053_NEC-Blue-Economy-2024.pdf
+  text_path: sources/text/S-053.txt
+  sha256: 7d2e7bddf8220cf0c43863b19a530762d85dac4624b3d5bde5e988b0537d5863
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 25
+  notes: Policy paper. The National Blue Economy Strategy 2023-2027 itself was not found online.
+- id: S-054
+  title: Annual Report 2025
+  publisher: Central Bank of Somalia
+  date_published: '2026'
+  url: https://centralbank.gov.so/wp-content/uploads/2026/08/Annual-Report_2025.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-054_CBS-Annual-Report-2025.pdf
+  text_path: sources/text/S-054.txt
+  sha256: 04e1e6efad8668151af9f4795e2d9a8620290cbc0dafe6b9195030d56a98ad70
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 128
+  notes: Uploaded August 2026. Trade and livestock export data.
+- id: S-055
+  title: Annual Report 2024
+  publisher: Central Bank of Somalia
+  date_published: '2025-07-28'
+  url: https://centralbank.gov.so/wp-content/uploads/2025/08/CBS-Annual-Report_2024_-28-July-2025-1.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-055_CBS-Annual-Report-2024.pdf
+  text_path: sources/text/S-055.txt
+  sha256: a02b674edcce96daa245a14d9a4415a5f4c004ba403cbfdbc25c88829b0f14be
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 121
+  notes: File name dated 28 July 2025. Needed to trace the USD 970 million (2024) livestock export lead.
+- id: S-056
+  title: Annual Report 2018
+  publisher: Central Bank of Somalia
+  date_published: '2018'
+  url: https://centralbank.gov.so/wp-content/uploads/2024/12/Annual-Report-2018-with-Audited-Financial-Statments.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-056_CBS-Annual-Report-2018.pdf
+  text_path: sources/text/S-056.txt
+  sha256: 8e3d1562394c86cf50f2117ea4cdb513ff44b8e2722a966fa955d4e0048f030b
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 94
+  notes: Needed to trace the USD 311.1 million (2018) livestock export lead.
+- id: S-057
+  title: Quarterly Economic Review (2026Q1), Volume No. 21, January-March 2026
+  publisher: Central Bank of Somalia
+  date_published: '2026'
+  url: https://centralbank.gov.so/wp-content/uploads/2026/09/Quarterly-Economic-Report_Q1_2026.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-057_CBS-QER-Q1-2026.pdf
+  text_path: sources/text/S-057.txt
+  sha256: 1de9a1c35c79f49b560308df6fe8457b30242f361ccc38dade7a3be68ef8ceeb
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 55
+  notes: Latest quarterly report (uploaded September 2026).
+- id: S-058
+  title: Annual Statistical Bulletin, June 2026 (Fifth Issue)
+  publisher: Central Bank of Somalia
+  date_published: 2026-06
+  url: https://centralbank.gov.so/wp-content/uploads/2026/08/Statistical-Bulletin_June-2026_13-July-1-1.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-058_CBS-Statistical-Bulletin-June-2026.pdf
+  text_path: sources/text/S-058.txt
+  sha256: 46e7d6ea80c249ba8817c7bc9d3e8d9bebd8b829a79cc82850067d4087034085
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 41
+  notes: ''
+- id: S-059
+  title: The Somali Health and Demographic Survey 2020
+  publisher: Somalia National Bureau of Statistics
+  date_published: '2020'
+  url: https://nbs.gov.so/wp-content/uploads/2023/05/SHDS-Report-2020.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-059_SHDS-2020.pdf
+  text_path: sources/text/S-059.txt
+  sha256: 8606b0f4b564e883b2f2bac06a54afa0e426bccddb06f5bdc78e0782165a91c7
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included (separate Somaliland and state reports exist)
+  extraction: ocr
+  ocr_pages:
+  - 49
+  - 62
+  - 86
+  - 168
+  - 205
+  - 228
+  - 240
+  - 256
+  - 264
+  - 286
+  - 462
+  pages: 462
+  notes: Survey year 2020.
+- id: S-060
+  title: 'Somalia: Fourth Review Under the Extended Credit Facility Arrangement and Request for Augmentation of Access - Press Release; Staff Report; and Statement by the Executive Director for Somalia (IMF Country Report No. 25/335)'
+  publisher: International Monetary Fund
+  date_published: 2025-12
+  url: https://www.elibrary.imf.org/downloadpdf/view/journals/002/2025/335/002.2025.issue-335-en.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-060_IMF-CR-25-335-ECF-4th-review.pdf
+  text_path: sources/text/S-060.txt
+  sha256: c0543d377aa058a02d7a68c879b887af570481b208adbadfa6f8832e80a59c86
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 1
+  pages: 108
+  notes: Latest IMF staff report found. No 2026 review or Article IV report located.
+- id: S-061
+  title: 'Somalia: 2024 Article IV Consultation and Second Review Under the Extended Credit Facility - Press Release; Staff Report; and Statement by the Executive Director for Somalia (IMF Country Report No. 24/346)'
+  publisher: International Monetary Fund
+  date_published: 2024-12
+  url: https://www.elibrary.imf.org/downloadpdf/view/journals/002/2024/346/002.2024.issue-346-en.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-061_IMF-CR-24-346-Article-IV-2024.pdf
+  text_path: sources/text/S-061.txt
+  sha256: b8be3bde90cccec12e041fbd16e310ebbc01f4f3b735cf44f25c1381d74ebac9
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 1
+  pages: 131
+  notes: Latest Article IV consultation found. Board consideration 9 December 2024.
+- id: S-062
+  title: 'Somalia Economic Update, Edition 11: Boosting Access to Electricity'
+  publisher: World Bank Group
+  date_published: '2026'
+  url: https://documents.worldbank.org/curated/en/099051126103025519/pdf/P507863-15da8643-fb97-49b7-b6eb-38f9cf964c8d.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-062_WB-SEU-2026.pdf
+  text_path: sources/text/S-062.txt
+  sha256: 4127b0ccd991e526d2dadee9116cfa7b55481dc928b80d90e60444e0c80fd8d8
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 48
+  pages: 48
+  notes: 'Title as printed. The World Bank catalogue lists it as ''Somalia Economic Update: Navigating Shocks, Powering Growth'' (document date 12 May 2026).'
+- id: S-063
+  title: 'Somalia Economic Update, Edition No. 9: Addressing Climate Change Challenges for Economic Growth'
+  publisher: World Bank
+  date_published: 2024-06
+  url: https://documents.worldbank.org/curated/en/099062024122018065/pdf/P179702-b6d33afa-4c46-464b-a51a-bd13e7847a36.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-063_WB-SEU-2024-climate.pdf
+  text_path: sources/text/S-063.txt
+  sha256: 638f8e13ca7dd3c59077c3349fcd758d029cce15cf97afa55c3a4b111d780012
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 2
+  - 67
+  - 68
+  pages: 68
+  notes: ''
+- id: S-064
+  title: 'Project Appraisal Document: Somalia Infrastructure Development for Access and Jobs, Phase 1 (Report No. PADHI01446)'
+  publisher: World Bank
+  date_published: '2026-04-13'
+  url: https://documents.worldbank.org/curated/en/099041526142037412/pdf/BOSIB-b053754e-62db-4dd1-9a1c-718e87701862.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-064_WB-PAD-Infrastructure-Access-Jobs-2026.pdf
+  text_path: sources/text/S-064.txt
+  sha256: 25be9bdf45b708051b7eca17cd43369db6bf6a3b3ec5b49caf6838ddeae3826b
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 52
+  notes: Programme envelope US$500 million; Phase 1 grants.
+- id: S-065
+  title: 'Project Appraisal Document: Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (Report No. PADHI01043)'
+  publisher: World Bank
+  date_published: '2025-04-16'
+  url: https://documents.worldbank.org/curated/en/099022626103093327/pdf/BOSIB-4fcb0b89-806e-480a-97c2-2b0561505330.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-065_WB-PAD-SPRING-2025.pdf
+  text_path: sources/text/S-065.txt
+  sha256: f0b3a0933189d37456d01b4fa6fec9f1eadbc9b14eb9b9a8bb9250e6ab3cf215
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 55
+  notes: ''
+- id: S-066
+  title: 'Project Appraisal Document: Somali Sustainable Fisheries Development ''Badmaal'' Project (Report No. PAD00140)'
+  publisher: World Bank
+  date_published: '2024-05-20'
+  url: https://documents1.worldbank.org/curated/en/099052324161040631/pdf/BOSIB-08b97878-d848-4270-8d6d-e665f996841d.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-066_WB-PAD-Fisheries-Badmaal-2024.pdf
+  text_path: sources/text/S-066.txt
+  sha256: 55a780e5d6812e2caa41ee50257ca8faa38ac4f84e23379403d36436ad047aa7
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 66
+  notes: First download attempt failed; obtained on retry from documents1.worldbank.org.
+- id: S-067
+  title: 'Project Appraisal Document: Somali Electricity Sector Recovery Project (Report No. PAD4224)'
+  publisher: World Bank
+  date_published: '2021-11-15'
+  url: http://documents.worldbank.org/curated/en/989971641921723162/pdf/Somalia-Somali-Electricity-Sector-Recovery-Project.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-067_WB-PAD-SESRP-2021.pdf
+  text_path: sources/text/S-067.txt
+  sha256: 944b8621173432fa67566ee04c5e9efa2c7edb3417e30a30e82afc8ce19dcc18
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 101
+  notes: ''
+- id: S-068
+  title: 'Project Appraisal Document: Somalia Urban Resilience Project II (Report No. PAD3408)'
+  publisher: World Bank
+  date_published: '2019-11-14'
+  url: http://documents.worldbank.org/curated/en/191081576206050578/pdf/Somalia-Second-Urban-Resilience-Project.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-068_WB-PAD-Second-Urban-Resilience-2019.pdf
+  text_path: sources/text/S-068.txt
+  sha256: fda03c0ae1eff0125a408204daba5d2116c83c02ff9486b766513434aa7af473
+  tier: 2
+  language: en
+  coverage: Mogadishu and other cities
+  extraction: text
+  pages: 76
+  notes: Covers Mogadishu (Banadir Regional Administration) drainage and urban works.
+- id: S-069
+  title: Somali National Infrastructure Strategy (SNIS) 2019-2063
+  publisher: Inter-ministerial Public Works Coordination Mechanism (Ministry of Public Works, Reconstruction and Housing)
+  date_published: 2018-10
+  url: https://mpwr.gov.so/wp-content/uploads/2025/06/SOMALI-NATIONAL-INFRASTRUCTURE-STRATEGY-SNIS.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-069_National-Infrastructure-Strategy-SNIS.pdf
+  text_path: sources/text/S-069.txt
+  sha256: 37f548b6411ce75abedf652971727da1f8da3b7b5329d564697f9c65be1014f4
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 41
+  notes: ''
+- id: S-070
+  title: Hindise Sharciyeedka Nidaaminaya Naqshadeynta Magaalooyinka, Horumarinta Dhismooyinka iyo Maamulka Dhulka (draft bill regulating urban planning, building development and land management), version 02
+  publisher: Wasaaradda Hawlaha Guud, Dib-u-dhiska & Guriyeynta (Ministry of Public Works, Reconstruction and Housing)
+  date_published: '2017-08-20'
+  url: https://mpwr.gov.so/wp-content/uploads/2025/06/Unified-urban-regulation-building-code-and-land-management-Act.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-070_Unified-Urban-Regulation-Land-Management-Act.pdf
+  text_path: sources/text/S-070.txt
+  sha256: 3db41e85e5b2ae5e6014ec01032f0da3027b6bf695c54dddf6718321a2d3f872
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: text
+  pages: 26
+  notes: DRAFT ('Qabyo-qoraal'), dated Mogadishu 20 August 2017. The ministry web title calls it an Act; the document itself is a draft bill. Relevant to government land for the parks.
+- id: S-071
+  title: Restructuring Paper on a Proposed Project Restructuring of Somalia Urban Resilience Project - Phase II (Report No. RES01680)
+  publisher: World Bank
+  date_published: 2026-03
+  url: https://documents1.worldbank.org/curated/en/099032526102522662/pdf/P170922-8fcade43-69da-4ec9-b843-4a6c951fc13a.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-071_WB-SURP-II-Restructuring-2025.pdf
+  text_path: sources/text/S-071.txt
+  sha256: fbef6078c59edbdfc4654e027bf8cb12db6a70f1ef9135372c0d5911952f4dae
+  tier: 2
+  language: en
+  coverage: Mogadishu and other cities
+  extraction: text
+  pages: 20
+  notes: Date printed as 'XX, March, 2026'.
+- id: S-072
+  title: 'Somalia Urban Resilience Project Phase II, NAGAAD (P170922): Mid-Term Review (MTR) Mission, October 29th - November 17th, 2024, Aide Memoire'
+  publisher: World Bank
+  date_published: 2024-11
+  url: https://documents1.worldbank.org/curated/en/099120624164034555/pdf/P17092218ebda40fa1b865172e4172bb0b8.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-072_WB-SURP-II-ISR-Dec-2024.pdf
+  text_path: sources/text/S-072.txt
+  sha256: 50c6fc7a9323efc0a1343ef30ca77b0f7e35e395b9d4e32b48ee9c063f04dd57
+  tier: 2
+  language: en
+  coverage: Mogadishu and other cities
+  extraction: text
+  pages: 45
+  notes: Status of Mogadishu citywide drainage design and solid waste mapping. No Banadir Regional Administration drainage, sanitation or solid waste plan was found online.
+- id: S-073
+  title: 'Somalia: Hand-in-Hand Investment Cases (Hand-in-Hand Investment Forum 2025)'
+  publisher: Food and Agriculture Organization of the United Nations (FAO) Hand-in-Hand Initiative
+  date_published: '2025'
+  url: https://storage.googleapis.com/hih-resources/Investment%20Forum%202025/Countries/Somalia.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-073_FAO-HiH-Investment-Forum-2025-Somalia.pdf
+  text_path: sources/text/S-073.txt
+  sha256: 19b8c9da26f586a9839e8d5f32864ef97caff78b0238cef34bfae6dadb30afee
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 27
+  notes: Your lead (sesame). Slide deck; cites NTP and World Bank for headline figures, so trace those to primary sources. File created 2025-09-25. Investment cases for sesame, maize, fodder and dairy.
+- id: S-074
+  title: Somalia's Livestock Sector Can Power Long-Term Development. Here's How
+  publisher: Somali Development and Reconstruction Bank (SDRB)
+  date_published: '2025-12-17'
+  url: https://sdrb.gov.so/elementor-3954/
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-074_SDRB-livestock-sectors.html
+  text_path: sources/text/S-074.txt
+  sha256: ab02c16968964744006d5be9691a8b2dac98cfb95b5568e98d56c5843cd1dad0
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 1
+  notes: 'Web article. Your lead (dairy imports: ''more than $200 million'' a year) - the article gives no source; must be cross-checked against trade data before use. Tier 1 by publisher type, but unsourced.'
+- id: S-075
+  title: Unlocking Investment in Somalia's Livestock Sector
+  publisher: Somali Development and Reconstruction Bank (SDRB)
+  date_published: '2025-03-12'
+  url: https://sdrb.gov.so/unlocking-investment-in-somalias-livestock-sector-opportunities-challenges-and-market-potential/
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-075_SDRB-unlocking-livestock-investment.html
+  text_path: sources/text/S-075.txt
+  sha256: 0e21dec5bd8b5cd9fb88424dc9b00af8ca34fca0b38b3bc1185becda28af0b1f
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 1
+  notes: Web article; figures unsourced.
+- id: S-076
+  title: 'Somalia''s Fisheries Sector: A Primer on the Sector'
+  publisher: Somali Development and Reconstruction Bank (SDRB)
+  date_published: '2025-03-12'
+  url: https://sdrb.gov.so/somalias-fisheries-sector/
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-076_SDRB-fisheries-sector.html
+  text_path: sources/text/S-076.txt
+  sha256: 883adfd6bc42f99b39f56561224ddb79642f9e21876b0426e05a6ebb21c871fb
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 1
+  notes: Your lead (fisheries). Web article; figures unsourced.
+- id: S-077
+  title: Understanding Somalia's Agricultural Sector
+  publisher: Somali Development and Reconstruction Bank (SDRB)
+  date_published: '2025-03-26'
+  url: https://sdrb.gov.so/understanding-somalias-agricultural-sector/
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-077_SDRB-agricultural-sector.html
+  text_path: sources/text/S-077.txt
+  sha256: c1327253f7c487d535c3825482a6ac3ce6b01bbd6176a1863c21f7c529eb53aa
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 1
+  notes: Web article; figures unsourced.
+- id: S-078
+  title: Monthly Market Update, February 2022
+  publisher: Food Security and Nutrition Analysis Unit - Somalia (FSNAU, managed by FAO)
+  date_published: 2022-02
+  url: https://fsnau.org/downloads/Monthly-Market-Update-February-2022.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-078_FSNAU-Market-Update-Feb-2022.pdf
+  text_path: sources/text/S-078.txt
+  sha256: 1384804522df612f92ae33d427d7bf8c66683255d2bb9eb967a9f9917ba01af7
+  tier: 2
+  language: en
+  coverage: Somalia including Somaliland (reported separately)
+  extraction: text
+  pages: 11
+  notes: Your lead (2022 staple price spikes). Other 2022 FSNAU monthly updates not obtainable by direct link.
+- id: S-079
+  title: 'Somalia Market Bulletin #4: June 2022'
+  publisher: World Food Programme (WFP)
+  date_published: 2022-06
+  url: https://docs.wfp.org/api/documents/WFP-0000140229/download/
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-079_WFP-Market-Bulletin-4-June-2022.pdf
+  text_path: sources/text/S-079.txt
+  sha256: 2bbd8d5c66b7761776cbedb39be5736f52645b37c206a9666eef68595f2384bb
+  tier: 2
+  language: en
+  coverage: Somalia
+  extraction: text
+  pages: 4
+  notes: Includes Mogadishu diesel price changes.
+- id: S-080
+  title: 'Africa Solar Outlook 2026: A country-by-country review of the status of solar energy in Africa'
+  publisher: Africa Solar Industry Association (AFSIA)
+  date_published: 2026-01
+  url: https://sapvia.co.za/wp-content/uploads/2026/01/Africa-Solar-Outlook-2026-final-260114-2.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-080_AFSIA-Africa-Solar-Outlook-2026.pdf
+  text_path: sources/text/S-080.txt
+  sha256: d236144e58061eec1249dbeb11da33c4a803849965b85349fbc0451a517d7544
+  tier: 4
+  language: en
+  coverage: Africa (Somalia country vignette)
+  extraction: ocr
+  ocr_pages:
+  - 2
+  - 51
+  - 78
+  - 96
+  - 108
+  - 131
+  - 143
+  pages: 151
+  notes: Your lead (solar plus storage costs). Industry body; copy hosted by SAPVIA (South Africa); file name dated 14 January 2026. Must be attributed in text.
+- id: S-081
+  title: 'World Economic Outlook database, April 2026: Somalia (NGDPD, NGDP, NGDP_RPCH, NGDPDPC, PCPIPCH), SDMX extract'
+  publisher: International Monetary Fund
+  date_published: '2026-04-14'
+  url: https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/+/SOM.NGDPD+NGDP_RPCH+NGDP+PCPIPCH+NGDPDPC.A?attributes=all
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-081_IMF-WEO-Apr2026-Somalia.csv
+  text_path: sources/text/S-081.txt
+  sha256: d7f157ea002639685d2b8541169af37618e5d0b9933e843d285aab79a7870244
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 1
+  notes: Publication date from the dataset attribute. Projections run to 2031; 2032 needs a stated extension assumption.
+- id: S-082
+  title: 'FAOSTAT: Production - Crops and livestock products (Africa bulk file), Somalia rows'
+  publisher: Food and Agriculture Organization of the United Nations (FAOSTAT)
+  date_published: '2025-12-31'
+  url: https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_Africa.zip
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-082_FAOSTAT-QCL-Production-Africa.zip
+  text_path: sources/text/S-082.txt
+  sha256: 4d8e2e50fbae5458db6bc150a192e4a88d528aedfa56ec4bb0b758478be9a0ec
+  tier: 3
+  language: en
+  coverage: Somalia
+  extraction: text
+  pages: 1
+  notes: 'Raw file is the Africa zip; the text file holds only Somalia rows (Area Code 201), reshaped to one line per item, element and year (Somalia | Item | Element | Unit | Year | Value | Flag) so values can be quoted. Dataset update date 2025-12-31.'
+- id: S-083
+  title: 'FAOSTAT: Trade - Crops and livestock products (Africa bulk file), Somalia rows'
+  publisher: Food and Agriculture Organization of the United Nations (FAOSTAT)
+  date_published: '2026-07-24'
+  url: https://bulks-faostat.fao.org/production/Trade_CropsLivestock_E_Africa.zip
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-083_FAOSTAT-TCL-Trade-Africa.zip
+  text_path: sources/text/S-083.txt
+  sha256: 7fab0557a162c7e6fbf8f3261f1a1cd028db5c6d38169c32e8af259ebdf8d1f6
+  tier: 3
+  language: en
+  coverage: Somalia
+  extraction: text
+  pages: 1
+  notes: 'Raw file is the Africa zip; the text file holds only Somalia rows, reshaped to one line per item, element and year. Somalia does not report to UN Comtrade, so FAO trade figures for Somalia are largely estimated or mirror-based: check flags.'
+- id: S-084
+  title: 'Technical Report. Somalia: Surface Water and Riverine Assessment'
+  publisher: World Bank
+  date_published: '2021'
+  url: https://documents1.worldbank.org/curated/en/099430012022130498/pdf/P17499403c63df07e086e90eab1140bf66d.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-084_WB-Surface-Water-Riverine-Assessment.pdf
+  text_path: sources/text/S-084.txt
+  sha256: 1e00daf4be6f8cc4f7cfa31ffc796e34d449aa336157db5f6be8cc1ccd2434c4
+  tier: 2
+  language: en
+  coverage: Juba and Shabelle basins
+  extraction: text
+  pages: 29
+  notes: Irrigation and river flow context.
+- id: S-085
+  title: '2019 Social Accounting Matrix for Kenya: A Nexus Project SAM'
+  publisher: 'International Food Policy Research Institute (IFPRI) (author: James Thurlow)'
+  date_published: '2021-11-09'
+  url: https://cgspace.cgiar.org/server/api/core/bitstreams/ad3e1f8c-b8c4-46c7-9f41-cb0676a8a8d2/content
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-085_IFPRI-Kenya-SAM-2019-paper.pdf
+  text_path: sources/text/S-085.txt
+  sha256: 4040310ef9b8161c67d9a11a4c03ddd070ad442edb002f87a403a21af21f6091
+  tier: 3
+  language: en
+  coverage: Kenya (comparator)
+  extraction: text
+  pages: 33
+  notes: No SAM or input-output table exists for Somalia. Data paper only; the SAM dataset itself is on Harvard Dataverse (doi:10.7910/DVN/ALUXSI), not yet downloaded.
+- id: S-086
+  title: '2022 Social Accounting Matrix for Ethiopia: A Nexus Project SAM'
+  publisher: International Food Policy Research Institute (IFPRI)
+  date_published: '2024-09-17'
+  url: https://cgspace.cgiar.org/server/api/core/bitstreams/c1ca2ff4-9f55-48bd-bbe2-3d5686dfc9cc/content
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-086_IFPRI-Ethiopia-SAM-2022-paper.pdf
+  text_path: sources/text/S-086.txt
+  sha256: bb71da6d7a7ff8833c755a39d2649e2fae6baf6af83f82463f3327b954d61680
+  tier: 3
+  language: en
+  coverage: Ethiopia (comparator)
+  extraction: text
+  pages: 34
+  notes: Data paper; SAM dataset (hdl 10568/163682) not yet downloaded.
+- id: S-087
+  title: 'Country Private Sector Diagnostic: Creating Markets in Somalia - Unlocking private sector-led growth at a critical juncture of Somalia''s development'
+  publisher: International Finance Corporation and World Bank
+  date_published: 2024-06
+  url: https://documents1.worldbank.org/curated/en/099720301202532976/pdf/IDU-a882335a-7fcf-4024-a3ee-c0bd1c806169.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-087_WB-IFC-CPSD-Somalia-2024.pdf
+  text_path: sources/text/S-087.txt
+  sha256: 888ba4c4ce3b859fa7f8e14a83806c3f4447953cf43c61c48b3a015185be2a6e
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 139
+  notes: ''
+- id: S-088
+  title: 'Private Sector in the Federal Republic of Somalia: Composition, Performance and Constraints to Growth - Results from Two Rounds of Integrated Business Surveys and Qualitative Assessments'
+  publisher: World Bank
+  date_published: '2025-12-01'
+  url: https://documents1.worldbank.org/curated/en/099121225002513242/pdf/P179247-65f23ed3-b6da-42f2-915b-31eb612cfbaf.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-088_WB-Private-Sector-Somalia-Composition.pdf
+  text_path: sources/text/S-088.txt
+  sha256: d99638abbfbaf3c7f6339eeb1cde44d15e350e3c4bf354829740a74982a672ec
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 57
+  notes: Firm-level data (sales, employment, productivity).
+- id: S-089
+  title: 'The Somali chilled meat value chain: Structure, operation, profitability and opportunities to improve the competitiveness of Somalia''s chilled meat export trade (ILRI Research Report 29)'
+  publisher: International Livestock Research Institute (ILRI) (Negassa, Baker, Mugunieri, Costagli, Wanyoike, Abdulle, Omore)
+  date_published: '2012'
+  url: https://cgspace.cgiar.org/bitstreams/e432149b-a7fc-4817-98d8-1963224c7526/download
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-089_ILRI-Somali-chilled-meat-value-chain.pdf
+  text_path: sources/text/S-089.txt
+  sha256: 94db7c54a56097a60e0f99aaf16411ee7602220a3d9c32295683aaf0a33605bf
+  tier: 3
+  language: en
+  coverage: Somalia and Somaliland export abattoirs
+  extraction: text
+  pages: 52
+  notes: Abattoir economics benchmark; data from 2007 to 2008, so more than five years old (warning).
+- id: S-090
+  title: 'Mapping & Value Chain Analysis of the Fishery Sub-Sector in Somalia: Technical Report'
+  publisher: UNIDO Somalia Programme (funded by AICS/Italy; Ministry of Commerce and Industry as line ministry)
+  date_published: 2020-01
+  url: https://downloads.unido.org/ot/21/17/21174737/2_UNIDO_MoCI%20Report%20Fishery%20subsector_final.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-090_UNIDO-MoCI-Fishery-subsector.pdf
+  text_path: sources/text/S-090.txt
+  sha256: 81791d51dcfb8e9684c47171ea1d6c779125a2342c363d8345e1d3440b805935
+  tier: 2
+  language: en
+  coverage: South and Central Somalia
+  extraction: text
+  pages: 43
+  notes: ''
+- id: S-091
+  title: 'Mapping & Value Chain Analysis of the Fruits and Vegetable Sub-Sectors in Somalia: Technical Report'
+  publisher: UNIDO Somalia Programme (funded by AICS/Italy; Ministry of Commerce and Industry as line ministry)
+  date_published: 2020-01
+  url: https://downloads.unido.org/ot/21/18/21186799/4_UNIDO_MoCI%20Report%20Fruitandveg%20subsector_final.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-091_UNIDO-MoCI-Fruit-Veg-subsector.pdf
+  text_path: sources/text/S-091.txt
+  sha256: 4cbb4056043005b79a81f87eef28e94c4d67aa1a85aa99090b0d2e2b2e95db9c
+  tier: 2
+  language: en
+  coverage: South and Central Somalia
+  extraction: text
+  pages: 47
+  notes: Fruit processing and export revival.
+- id: S-092
+  title: 'Sub-Sector Mapping & Value Chain Analysis of the Livestock Sub-Sector in Somalia: Technical Report'
+  publisher: UNIDO Somalia Programme (funded by AICS/Italy; Ministry of Commerce and Industry as line ministry)
+  date_published: 2021-01
+  url: https://downloads.unido.org/ot/21/18/21186798/6_UNIDO_MoCI%20Report%20livestock%20subsector_final.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-092_UNIDO-MoCI-Livestock-subsector.pdf
+  text_path: sources/text/S-092.txt
+  sha256: 3b63e69a4a032f5f09cfcc5209f6289b0e85937beab8e327a59df5b5cd9bd9b0
+  tier: 2
+  language: en
+  coverage: South and Central Somalia
+  extraction: text
+  pages: 54
+  notes: Meat, dairy, hides and skins.
+- id: S-093
+  title: Sorghum, Maize, and Sesame Value Chains in Somalia (SCALA Private Sector Engagement Facility Report)
+  publisher: SCALA programme (FAO and UNDP)
+  date_published: '2024'
+  url: https://www.adaptation-undp.org/sites/default/files/resources/SCALA%20Somalia%20Report-FINAL-15July.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-093_UNDP-SCALA-Sorghum-Maize-Sesame.pdf
+  text_path: sources/text/S-093.txt
+  sha256: 4771772753080eb720de09a8015013d6c2630ab5bad7cf486f07962a1109b8b3
+  tier: 2
+  language: en
+  coverage: Somalia
+  extraction: text
+  pages: 109
+  notes: Sesame and grain value chains.
+- id: S-094
+  title: 'Agribusiness Handbook: Wheat Flour'
+  publisher: Food and Agriculture Organization of the United Nations (FAO Investment Centre, for EBRD)
+  date_published: '2009'
+  url: https://www.fao.org/4/al376e/al376e.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-094_FAO-Agribusiness-Handbook-Wheat-Flour.pdf
+  text_path: sources/text/S-094.txt
+  sha256: 3f11a33a9d7b34b0e6c55733b1e0327a082393f520082dce961c2610dfc1f76e
+  tier: 2
+  language: en
+  coverage: Global (Eastern Europe and Central Asia focus)
+  extraction: text
+  pages: 53
+  notes: Flour milling benchmark; old (2009) and not East African.
+- id: S-095
+  title: Hawassa Industrial Park Community Impact Evaluation (Ethiopia)
+  publisher: World Bank
+  date_published: 2019-02
+  url: https://documents1.worldbank.org/curated/en/247531553537110612/Ethiopia-Hawassa-Industrial-Park-Community-Impact-Evaluation.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-095_WB-Hawassa-Industrial-Park-Impact.pdf
+  text_path: sources/text/S-095.txt
+  sha256: d35e54edd211f79ebfb02b74f8458eb4e4d75e1f0f85222172faf71ceaf8791f
+  tier: 2
+  language: en
+  coverage: Ethiopia (comparator)
+  extraction: text
+  pages: 2
+  notes: Two-page brief only; weak garment benchmark.
+- id: S-096
+  title: Business Process Outsourcing (BPO) investment opportunity in Kenya
+  publisher: Kenya Investment Authority (with ARISE IIP Kenya)
+  date_published: 2026-03
+  url: https://www.investkenya.go.ke/wp-content/uploads/2026/03/202603_Invest-Kenya_Sector-pack_BPO_vPublish.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-096_InvestKenya-BPO-Sector-Pack-2026.pdf
+  text_path: sources/text/S-096.txt
+  sha256: b551f5b12e3deadb14893e064fa8e67ead3449d9a4aa7409f2c1c5ba0767ef45
+  tier: 4
+  language: en
+  coverage: Kenya (comparator)
+  extraction: ocr
+  ocr_pages:
+  - 2
+  - 3
+  pages: 52
+  notes: Foreign government investment-promotion material. Tier set at 4 pending your decision on how to tier foreign government sources.
+- id: S-097
+  title: 'Mini Grids for Half a Billion People: Market Outlook and Handbook for Decision Makers'
+  publisher: International Bank for Reconstruction and Development / The World Bank (ESMAP)
+  date_published: '2022'
+  url: https://www.esmap.org/sites/default/files/esmap-files/Mini%20Grids%20for%20Half%20a%20Billion%20People%20-%20OKR%20Download%20Version_compressed_MKA.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-097_ESMAP-Mini-Grids-Half-Billion-People.pdf
+  text_path: sources/text/S-097.txt
+  sha256: 3b792f68589772b5085ceeebe501ee49378179cf0d62d4a9c264dca300b63dbf
+  tier: 2
+  language: en
+  coverage: Global (Africa data)
+  extraction: ocr
+  ocr_pages:
+  - 2
+  pages: 322
+  notes: Mini-grid capital and energy cost benchmarks.
+- id: S-098
+  title: 'Energy Storage for Mini Grids: Status and Projections of Battery Deployment (An Energy Storage Partnership Report)'
+  publisher: Energy Sector Management Assistance Program (ESMAP), World Bank
+  date_published: '2023'
+  url: https://www.esmap.org/sites/default/files/esmap-files/ESMAP%20RPT_Energy%20Storage%20for%20Mini%20Grids_WEB.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-098_ESMAP-Energy-Storage-Mini-Grids.pdf
+  text_path: sources/text/S-098.txt
+  sha256: 6f2b4f70b9efe754ade1a64a6b1195fbe68f5c63d0a0cea5098ed8dd83bf106e
+  tier: 2
+  language: en
+  coverage: Global
+  extraction: text
+  pages: 60
+  notes: First attempt returned HTTP 403; obtained on retry.
+- id: S-099
+  title: Renewable Power Generation Costs in 2024
+  publisher: International Renewable Energy Agency (IRENA)
+  date_published: '2025'
+  url: https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jul/IRENA_TEC_RPGC_in_2024_2025.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-099_IRENA-RPGC-2024.pdf
+  text_path: sources/text/S-099.txt
+  sha256: ffe8ce4bde29616f3edf9ef1a86dbb6ae2d5381a0ecb9bb1f71bb20204b6bada
+  tier: 2
+  language: en
+  coverage: Global
+  extraction: ocr
+  ocr_pages:
+  - 139
+  pages: 216
+  notes: Solar PV and battery storage cost benchmarks.
+- id: S-100
+  title: Updated fNRB Values for Woodfuel Interventions (revised version)
+  publisher: Adrian Ghilardi and Rob Bailis, report to the CDM Methodologies Panel (UNFCCC)
+  date_published: '2024-06-20'
+  url: https://cdm.unfccc.int/Sunset_CMS_ControlledSlots/public_inputs/sunsetcms/storage/contents/stored-file-20240624161613578/Report_on_Updated_fNRB_Values_20%20June%202024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-100_CDM-fNRB-Updated-Values-2024.pdf
+  text_path: sources/text/S-100.txt
+  sha256: f299a7fc10682c1242a90b15337fcf33a0f6f906d0f6260d2cfbbc230e3ccd79
+  tier: 2
+  language: en
+  coverage: Global, with Somalia values
+  extraction: text
+  pages: 68
+  notes: Fraction of non-renewable biomass for clean cooking crediting. Issued for public input.
+- id: S-101
+  title: 'Information note: Development of default values for fraction of non-renewable biomass, Version 02.0 (CDM-MP96-A03)'
+  publisher: UNFCCC Clean Development Mechanism, Methodologies Panel
+  date_published: 2025-03
+  url: https://cdm.unfccc.int/sunsetcms/storage/contents/stored-file-20250307101947081/MP96_EA03_Information%20Note_development%20of%20default%20fNRB%20values.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-101_CDM-MP96-fNRB-Information-Note.pdf
+  text_path: sources/text/S-101.txt
+  sha256: b3b281352fa2055d539a0caf9a0ef2a1078bd8a34e6e15d906fd8665d5fd00ca
+  tier: 2
+  language: en
+  coverage: Global, with Somalia values
+  extraction: text
+  pages: 70
+  notes: Whether these values were adopted by the CDM Board or the Article 6.4 Supervisory Body is not yet confirmed.
+- id: S-102
+  title: '2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 2: Energy, Chapter 2: Stationary Combustion'
+  publisher: Intergovernmental Panel on Climate Change (IPCC)
+  date_published: '2006'
+  url: https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_2_Ch2_Stationary_Combustion.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-102_IPCC-2006-V2-Ch2-Stationary-Combustion.pdf
+  text_path: sources/text/S-102.txt
+  sha256: a25d9f96d7672df391b328de79d4cfd812c07fe79d5cf4a30d23d82d8f02985b
+  tier: 2
+  language: en
+  coverage: Global defaults
+  extraction: text
+  pages: 47
+  notes: Diesel and fuel emission factors.
+- id: S-103
+  title: '2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 2: Energy, Chapter 3: Mobile Combustion'
+  publisher: Intergovernmental Panel on Climate Change (IPCC)
+  date_published: '2006'
+  url: https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-103_IPCC-2006-V2-Ch3-Mobile-Combustion.pdf
+  text_path: sources/text/S-103.txt
+  sha256: b0b7d96d5ac90ecf359cdb74e932448cfba041c6cec0e1dc24f2def444508c30
+  tier: 2
+  language: en
+  coverage: Global defaults
+  extraction: text
+  pages: 78
+  notes: Bus fuel emission factors.
+- id: S-104
+  title: '2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 5: Waste, Chapter 3: Solid Waste Disposal'
+  publisher: Intergovernmental Panel on Climate Change (IPCC)
+  date_published: '2006'
+  url: https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_3_Ch3_SWDS.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-104_IPCC-2006-V5-Ch3-SWDS.pdf
+  text_path: sources/text/S-104.txt
+  sha256: 1850dc17af0a2d51efdbc7d1e737b609e50d7ed12d07a913bfb4d68948efcc91
+  tier: 2
+  language: en
+  coverage: Global defaults
+  extraction: text
+  pages: 40
+  notes: Landfill methane (first order decay) defaults. The 2019 Refinement was not obtained.
+- id: S-105
+  title: 'Draft version of Small-scale Methodology AMS-I.L.: Electrification of rural communities using renewable energy, Version 05.0 (CDM-MP93-A04)'
+  publisher: UNFCCC Clean Development Mechanism, Methodologies Panel
+  date_published: 2024-03
+  url: https://cdm.unfccc.int/sunsetcms/storage/contents/stored-file-20240304115444277/MP93_EA04_AMS-I.L_ver05.0.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-105_CDM-AMS-I.L-v05-rural-electrification.pdf
+  text_path: sources/text/S-105.txt
+  sha256: 1e74a4fd212b38233886a08edad1ff446c9ea7e362352382858e4520c0298530
+  tier: 2
+  language: en
+  coverage: Global
+  extraction: text
+  pages: 22
+  notes: DRAFT recommended by the Panel; the adopted text could not be downloaded (CDM methodology database blocks automated access).
+- id: S-106
+  title: 'Draft Small-scale Methodology AMS-I.F.: Renewable electricity generation for captive use and mini-grid, Version 05.0 (CDM-MP88-A08)'
+  publisher: UNFCCC Clean Development Mechanism, Methodologies Panel
+  date_published: 2022-07
+  url: https://cdm.unfccc.int/sunsetcms/storage/contents/stored-file-20220713220211399/MP88_EA08_AMS-I.F_ver05.0.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-106_CDM-AMS-I.F-v05-captive-mini-grid.pdf
+  text_path: sources/text/S-106.txt
+  sha256: b3337be4981bf440883f5cf3a157abf1f5ac834e2cc45c7df1adfce2131adb67
+  tier: 2
+  language: en
+  coverage: Global
+  extraction: text
+  pages: 14
+  notes: DRAFT recommended by the Panel; adopted text not obtained (same reason).
+- id: S-107
+  title: Somalia's Third Generation Nationally Determined Contribution (NDC 3.0), official version
+  publisher: Ministry of Environment and Climate Change, Federal Government of Somalia
+  date_published: 2025-09
+  url: https://unfccc.int/sites/default/files/2025-09/Somalia%20NDC%203.0_Official_2025.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-107_NDC3-Official-Sep-2025.pdf
+  text_path: sources/text/S-107.txt
+  sha256: 38f99173365cedfaa0d11ce0fd6d6561e27f35941d46dbf0b79cc5f9253679e7
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: ocr
+  ocr_pages:
+  - 2
+  - 26
+  - 58
+  pages: 58
+  notes: Typeset version posted to the UNFCCC in September 2025; cover names Prof Donald Ogweno as presenter. Same chapter structure as S-019. Which version the NDC registry lists as current is not yet confirmed.
+- id: S-108
+  title: Technology Needs Assessment for Climate Change Mitigation
+  publisher: Ministry of Environment and Climate Change, Federal Republic of Somalia (supported by UNEP Copenhagen Climate Centre)
+  date_published: 2022-12
+  url: https://tech-action.unepccc.org/wp-content/uploads/sites/2/2023/09/tna-somalia-mitigation-report-dec-2022.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-108_TNA-Mitigation-Report-2022.pdf
+  text_path: sources/text/S-108.txt
+  sha256: 39d361e04115cf230c616e34f3c0a02d94eb351138d0aabb309e98d6e43900e7
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 81
+  notes: ''
+- id: S-109
+  title: 'Technology Needs Assessment for Climate Change Mitigation, Energy and Forestry Sectors: Barrier Analysis and Enabling Framework (Final Draft)'
+  publisher: The Federal Republic of Somalia (supported by UNEP Copenhagen Climate Centre)
+  date_published: 2024-02
+  url: https://unfccc.int/ttclear/TNA/SOM-BAEF-mitigation-2024.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-109_TNA-BAEF-Mitigation-2024.pdf
+  text_path: sources/text/S-109.txt
+  sha256: 98f4a3ff6f42211a9bee3cc3053769dcad656e090f0a815fbd1acf337ce887f9
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 86
+  notes: Final draft.
+- id: S-110
+  title: Promoting Clean and Efficient Cookstoves in Somalia (technology policy brief)
+  publisher: UNEP Copenhagen Climate Centre, Technology Needs Assessment project (for Somalia)
+  date_published: 2024-12
+  url: https://tech-action.unepccc.org/wp-content/uploads/sites/2/2024/12/clean-and-efficient-cookstoves-policy-brief-somalia.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-110_TNA-Cookstoves-Policy-Brief-2024.pdf
+  text_path: sources/text/S-110.txt
+  sha256: 86e615647482e8c7cfd8143235525f295a0469c43746a43cca0e674b05005080
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 4
+  notes: No national clean cooking or household energy strategy was found; this brief and the TNA are the closest documents.
+- id: S-111
+  title: Senior Legal and Policy Consultant to Support the Development of Somalia's Article 6 Policy Framework (terms of reference)
+  publisher: Ministry of Environment and Climate Change, Federal Republic of Somalia
+  date_published: '2026-08-03'
+  url: https://moecc.gov.so/senior-legal-and-policy-consultant-to-support-the-development-of-somalias-article-6-policy-framework/
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-111_MoECC-Article6-Framework-Consultancy-2026.html
+  text_path: sources/text/S-111.txt
+  sha256: edd99a4c51272539e7309c07b8a8162757bdf4ae05cd899c82a8dc9eb86d6d77
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 1
+  notes: Evidence that the Article 6 policy framework is still being developed as of August 2026. No Carbon Markets bill or Act found.
+- id: S-112
+  title: Somalia Launches Long-Term Low-Emission Development Strategy (LT-LEDS)
+  publisher: Ministry of Environment and Climate Change, Federal Republic of Somalia
+  date_published: '2025-11-14'
+  url: https://moecc.gov.so/somalia-launches-long-term-low-emission-development-strategy-lt-leds/
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-112_MoECC-LT-LEDS-launch-2025.html
+  text_path: sources/text/S-112.txt
+  sha256: 7e379d79d1792776e02d21f8ebde6309d4746c1116b7b7afd649e08c44d0bef6
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 1
+  notes: News item only; the LT-LEDS document itself was not found online.
+- id: S-113
+  title: Somalia Long-Term Low-Emission Development Strategy (LT-LEDS)
+  publisher: Ministry of Environment and Climate Change, Federal Republic of Somalia
+  date_published: 2025-11
+  url: none found
+  accessed: null
+  local_path: null
+  text_path: null
+  sha256: null
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: null
+  status: not obtained
+  notes: 'Launched 14 November 2025 (S-112); document not published online or on the UNFCCC long-term strategies portal as found. Hassan Mumin (2026-09-23): not yet published; expected within a few months. The Carbon Markets bill is likewise not yet published.'
+- id: S-114
+  title: National Blue Economy Strategy 2023-2027
+  publisher: Ministry of Fisheries and Blue Economy / IGAD
+  date_published: '2023'
+  url: none found
+  accessed: null
+  local_path: null
+  text_path: null
+  sha256: null
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: null
+  status: not obtained
+  notes: Endorsement reported by IGAD (January 2023); document not found online.
+- id: S-115
+  title: Somalia's National Adaptation Plan (NAP) Framework
+  publisher: Directorate of Environment and Climate Change (DoECC), Office of the Prime Minister, Federal Government of Somalia
+  date_published: 2022-02
+  url: https://napglobalnetwork.org/wp-content/uploads/2022/11/napgn-en-2022-somalia-nap-framework.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-115_NAP-Framework-2022.pdf
+  text_path: sources/text/S-115.txt
+  sha256: 26ea4c971e50e45494635a89b4cf9781164dce559d0a5caaaa27e79e439d129c
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 53
+  notes: Framework for the NAP process; no full National Adaptation Plan found. Hosted by the NAP Global Network.
+- id: S-116
+  title: 'FAO SWALIM: The Juba and Shabelle Rivers and Their Importance to Somalia'
+  publisher: FAO Somalia Water and Land Information Management (SWALIM)
+  date_published: unknown
+  url: https://faoswalim.org/article/juba-and-shabelle-rivers-and-their-importance-somalia
+  accessed: '2026-09-23'
+  local_path: null
+  text_path: null
+  sha256: null
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: null
+  status: not obtained
+  notes: Site returned HTTP 500 twice (23 September 2026).
+- id: S-117
+  title: 'Somali Bureau of Standards: About us and Product Certification pages'
+  publisher: Somali Bureau of Standards (SOBS)
+  date_published: unknown
+  url: https://sobs.gov.so/certification/product-certification/
+  accessed: '2026-09-23'
+  local_path: null
+  text_path: null
+  sha256: null
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: null
+  status: not obtained
+  notes: Pages load their content by script; the stored HTML was empty, so not registered as obtained.
+- id: S-118
+  title: 'CDM methodologies AMS-II.G (v14.0, cookstoves), AMS-III.C (electric vehicles), ACM0001 (v19.0, landfill gas): adopted texts'
+  publisher: UNFCCC Clean Development Mechanism
+  date_published: unknown
+  url: https://cdm.unfccc.int/methodologies/DB/DCO8WRRQVTGLH1GHQBCL035F5M13R8
+  accessed: '2026-09-23'
+  local_path: null
+  text_path: null
+  sha256: null
+  tier: 2
+  language: en
+  coverage: Federal
+  extraction: null
+  status: not obtained
+  notes: CDM methodology database blocks automated downloads (Incapsula). Needs a manual download.
+- id: S-119
+  title: 'The MCS Playbook (slide 5 heading: The MCS Technology Analysis Playbook)'
+  publisher: UC Berkeley, Master of Climate Solutions, Rausser College of Natural Resources
+  date_published: not printed
+  url: supplied by Hassan Mumin via sources/inbox/ (file "4.1 The MCS Playbook.pdf"); not published online
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-119_MCS-Playbook.pdf
+  text_path: sources/text/S-119.txt
+  sha256: 9cdcc2cc9f091044f79e5823c3afb725df294beb6180657e30e2bf9115bb7e7e
+  tier: 5
+  language: en
+  coverage: Method only (not country data)
+  extraction: ocr
+  notes: 16-slide course deck (unit 4.1). Methodology reference for the climate impact analysis (Steps 1a technical potential, 1b implied cost per ton, 1c caveats, 2a stakeholders, 2b who pays, 3 speed and scale). Not a source of figures. Tier 5 because it is unpublished teaching material; tier to be confirmed by Hassan.
+  ocr_pages:
+  - 1
+- id: S-120
+  title: Siyaasadda Qaran ee Maareynta Deegaanka (National Environmental Management Policy)
+  publisher: Wasaaradda Deegaanka iyo Isbeddelka Cimilada (Ministry of Environment and Climate Change)
+  date_published: 2023-02
+  url: https://moecc.gov.so/wp-content/uploads/2024/11/Siyaasadda-Qaran-ee-Maareynta-Deegaanka_Q.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-120_National-Environmental-Management-Policy-SO.pdf
+  text_path: sources/text/S-120.txt
+  sha256: 426ae15140c0c186d40691e83ffba786352494e1897b2fa4d794a07852fd65be
+  tier: 1
+  language: so
+  coverage: Federal
+  extraction: text
+  pages: 49
+  notes: Somali language. The Environmental Protection and Management Act says its principles follow this policy. Check for charcoal, forestry and Prosopis provisions in Phase 2.
+- id: S-121
+  title: Environmental and Social Impact Assessment and Audit Regulations (ESIA) 2024
+  publisher: Ministry of Environment and Climate Change, Federal Republic of Somalia
+  date_published: '2024'
+  url: https://moecc.gov.so/wp-content/uploads/2024/10/ESIA-REGULATIONS_Q-1-1.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-121_ESIA-Regulations.pdf
+  text_path: sources/text/S-121.txt
+  sha256: 435f9a76b33e4d28bc650c0cafda486fafa7b5c344403f969e7aac6dfdaabba6
+  tier: 1
+  language: en
+  coverage: Federal
+  extraction: text
+  pages: 54
+  notes: Applies to industrial parks and processing plants.
+- id: S-122
+  title: Central Bank of Somalia Annual Report 2019
+  publisher: Central Bank of Somalia
+  date_published: '2019'
+  url: https://centralbank.gov.so/wp-content/uploads/2024/12/Annual-Report-2019_Final11.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-122_CBS-Annual-Report-2019.pdf
+  text_path: sources/text/S-122.txt
+  sha256: 0d2cdaa8b2cc0d2e5a08f0892f5ea9f85c56a41ecafbcc65753018bf1aeb2c8f
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 106
+  notes: Table 3 gives the revised 2018 livestock export value (USD 311,130,084), the source of the USD 311.1 million lead. First download attempt failed; obtained on retry.
+- id: S-123
+  title: Central Bank of Somalia Annual Report 2020
+  publisher: Central Bank of Somalia
+  date_published: '2020'
+  url: https://centralbank.gov.so/wp-content/uploads/2024/12/CBS-Annual-Report_2020-for-Publication.pdf
+  accessed: '2026-09-23'
+  local_path: sources/raw/S-123_CBS-Annual-Report-2020.pdf
+  text_path: sources/text/S-123.txt
+  sha256: 592b76ea55e10be4b3af27a9f5836c9999388a6bcd00c81758be2cc70d9f28ea
+  tier: 1
+  language: en
+  coverage: Federal Somalia (national); check in Phase 2 whether Somaliland is included
+  extraction: text
+  pages: 110
+  notes: Livestock export series 2015 to 2020; external debt at the start of the HIPC process.
+- id: S-125
+  title: Economic viability of abattoirs in Arid and Semi-Arid Land (ASAL) counties of Kenya
+  publisher: International Livestock Research Institute (ILRI), for the Voice for Change Partnership (authors Leonard Kirui and Joseph Karugia)
+  date_published: '2019-11-01'
+  url: https://cgspace.cgiar.org/bitstreams/ce92f458-9d53-4863-9390-c3998a26d70c/download
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-125_ILRI-abattoir-viability-ASAL.pdf
+  text_path: sources/text/S-125.txt
+  sha256: bf497d02a769d59cea129867fd75681e6793912ffcd6e8ce4869080df93ad0d0
+  tier: 3
+  language: en
+  coverage: Kenya (comparator)
+  extraction: text
+  pages: 23
+  notes: CGIAR research report, not peer-reviewed. Table 3 (pp. 14-15) gives proposed capacity and estimated facility cost in Kenyan shillings for four county export abattoirs; cost years are not stated. Month of publication only (November 2019); day set to 01.
+- id: S-126
+  title: Ethiopian Leather Sector - Current status and future prospects (presentation)
+  publisher: United Nations Industrial Development Organization (UNIDO)
+  date_published: '2018-08-01'
+  url: https://www.unido.org/sites/default/files/files/2018-08/Ethiopian%20Leather%20Sector-Current%20status%20and%20future%20prospects.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-126_UNIDO-Ethiopian-Leather-Sector-2018.pdf
+  text_path: sources/text/S-126.txt
+  sha256: f8e6b8f4a67289cd21f04a32f9758bafd6b5d9a7facc2f73ffd3990a6fb3782a
+  tier: 2
+  language: en
+  coverage: Ethiopia (comparator)
+  extraction: ocr
+  ocr_pages:
+  - 19
+  pages: 19
+  notes: Slide deck, OCR'd. Sector-level tannery employment and hides and skins throughput only; no plant capital cost. Publication date inferred from the upload folder (August 2018).
+- id: S-127
+  title: 'Agro Logistics and Cool Chain Investment: Technical Support to Kenya and Rwanda (Report No. AUS0003487)'
+  publisher: World Bank
+  date_published: '2023-05-30'
+  url: https://documents1.worldbank.org/curated/en/099062623131527013/pdf/P18020602199fa0ff09ad802b625e6da740.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-127_WB-Agro-Logistics-Cool-Chain.pdf
+  text_path: sources/text/S-127.txt
+  sha256: 79fc91a9d74d3a206ff239762c53ce337f25eb70db1c15b028b8cc2978ba8c66
+  tier: 2
+  language: en
+  coverage: Kenya and Rwanda (comparator)
+  extraction: ocr
+  ocr_pages:
+  - 84
+  - 85
+  - 86
+  - 88
+  - 89
+  - 90
+  - 91
+  - 92
+  pages: 103
+  notes: Reviewed for cold-store and fruit pack-house cost benchmarks; contains business-case deep dives and wholesale market investment costs, but no plant cost per tonne usable for the model. Kept as a record of the search.
+- id: S-128
+  title: Ethiopia Turaco FMCG Project (MIGA project brief and environmental and social review summary)
+  publisher: Multilateral Investment Guarantee Agency (MIGA), World Bank Group
+  date_published: '2021-05-13'
+  url: https://www.miga.org/project/ethiopia-turaco-fmcg-project-0
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-128_MIGA-Turaco-FMCG-Ethiopia.html
+  text_path: sources/text/S-128.txt
+  sha256: 38342bf5228117868c7165c6ccffc88e18d1ab623195d7a2fcf854e94c12171e
+  tier: 2
+  language: en
+  coverage: Ethiopia (comparator)
+  extraction: text
+  pages: 1
+  notes: Edible oil refining (HCFM) and laundry soap (ZAK) plant capacities and workforce. No project cost stated. Disclosure date from the page.
+- id: S-129
+  title: Mozambique's new sesame facility to process 20,000 tonnes per year
+  publisher: African Agribusiness (trade media)
+  date_published: '2025-11-17'
+  url: https://africanagribusiness.com/mozambiques-new-sesame-facility-to-process-20000-tonnes-per-year/5073/
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-129_AfricanAgribusiness-Mozambique-sesame-plant.html
+  text_path: sources/text/S-129.txt
+  sha256: 0f09d8eb139a75dc95525a2b153d83132c3511c6f39707b0f3310b1e820e5453
+  tier: 4
+  language: en
+  coverage: Mozambique (comparator)
+  extraction: text
+  pages: 1
+  notes: Trade media report of the Robust International sesame hulling and processing plant inaugurated on 13 November 2025. Only source found for a sesame hulling plant cost; any use must be attributed ("according to trade media").
+- id: S-130
+  title: 'IFC project disclosure 33327: Bakhresa SA (Pty) Limited (Summary of Investment Information and Environmental and Social Review Summary)'
+  publisher: International Finance Corporation (IFC), World Bank Group
+  date_published: '2014-05-02'
+  url: https://disclosures.ifc.org/project-detail/SII/33327/bakhresa-sa-pty-limited
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-130_IFC-disclosure-33327.json
+  text_path: sources/text/S-130.txt
+  sha256: 7f58a24705cb7a9a7c6fc97d9bf82c7fc914f77a30c0f40e72613709dc5db3f8
+  tier: 2
+  language: en
+  coverage: South Africa (comparator)
+  extraction: text
+  pages: 1
+  notes: Stored file is the JSON returned by IFC's disclosure data service (disclosuresservice.ifc.org/api/ProjectAccess/SIIProject and ESRSProject, projectId 33327); the text file renders each field as "[field] text" on one page. Greenfield 750 tpd wheat mill, Durban. Date is the SII disclosure date.
+- id: S-131
+  title: 'IFC project disclosure 49068: SL Flour Mill (Summary of Investment Information and Environmental and Social Review Summary)'
+  publisher: International Finance Corporation (IFC), World Bank Group
+  date_published: '2024-05-20'
+  url: https://disclosures.ifc.org/project-detail/SII/49068/sl-flour-mill
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-131_IFC-disclosure-49068.json
+  text_path: sources/text/S-131.txt
+  sha256: 7874bd6e7f55650d6f3a3e71df6dc1d2192017650ec788650054cb7d7cf59996
+  tier: 2
+  language: en
+  coverage: Sierra Leone (comparator)
+  extraction: text
+  pages: 1
+  notes: Stored as JSON from IFC's disclosure data service (SII and ESRS records, projectId 49068), rendered to text. Expansion of a wheat flour mill from 150 to 450 tonnes per day.
+- id: S-132
+  title: 'IFC project disclosure 33405: Pearl Dairy (Summary of Investment Information and Environmental and Social Review Summary)'
+  publisher: International Finance Corporation (IFC), World Bank Group
+  date_published: '2013-05-26'
+  url: https://disclosures.ifc.org/project-detail/SII/33405/pearl-dairy
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-132_IFC-disclosure-33405.json
+  text_path: sources/text/S-132.txt
+  sha256: 1c6da85a621eda324a20c461015cd4a361c7ebcc7f7aa5aa4b8c393a69cb32b0
+  tier: 2
+  language: en
+  coverage: Uganda (comparator)
+  extraction: text
+  pages: 1
+  notes: Stored as JSON from IFC's disclosure data service (SII and ESRS records, projectId 33405), rendered to text. Greenfield powdered milk plant, 240,000 litres a day.
+- id: S-133
+  title: 'IFC project disclosure 33983: MM Ethiopia Soap (Summary of Investment Information and Environmental and Social Review Summary)'
+  publisher: International Finance Corporation (IFC), World Bank Group
+  date_published: '2014-07-02'
+  url: https://disclosures.ifc.org/project-detail/SII/33983/mm-ethiopia-soap
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-133_IFC-disclosure-33983.json
+  text_path: sources/text/S-133.txt
+  sha256: 2db0836c3730a502dbb99bb96c134303cde70b79c339a28bf6df6d8ada1bd75e
+  tier: 2
+  language: en
+  coverage: Ethiopia (comparator)
+  extraction: text
+  pages: 1
+  notes: Stored as JSON from IFC's disclosure data service (SII and ESRS records, projectId 33983), rendered to text. Soap finishing plant using imported soap noodles; capacity not stated.
+- id: S-134
+  title: 'IFC project disclosure 43760: Shemu Oils (Summary of Investment Information and Environmental and Social Review Summary)'
+  publisher: International Finance Corporation (IFC), World Bank Group
+  date_published: '2024-03-26'
+  url: https://disclosures.ifc.org/project-detail/SII/43760/shemu-oils
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-134_IFC-disclosure-43760.json
+  text_path: sources/text/S-134.txt
+  sha256: 9613fe16309fd5345c6dc08d13cd5d60ed7d7c717e25feb8b894c16194a506b4
+  tier: 2
+  language: en
+  coverage: Ethiopia (comparator)
+  extraction: text
+  pages: 1
+  notes: Stored as JSON from IFC's disclosure data service (SII and ESRS records, projectId 43760), rendered to text. Edible oil refinery expansion to 950 tonnes per day; project cost includes logistics assets.
+- id: S-135
+  title: 'IFC project disclosure 46656: DTRT CMT Expansion (Summary of Investment Information and Environmental and Social Review Summary)'
+  publisher: International Finance Corporation (IFC), World Bank Group
+  date_published: '2022-05-25'
+  url: https://disclosures.ifc.org/project-detail/SII/46656/dtrt-cmt-expan
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-135_IFC-disclosure-46656.json
+  text_path: sources/text/S-135.txt
+  sha256: 53524c07560804915a7a9c4fd8308462b4d537c7cdb5832a4bc6a290384e8269
+  tier: 2
+  language: en
+  coverage: Ghana (comparator)
+  extraction: text
+  pages: 1
+  notes: Stored as JSON from IFC's disclosure data service (SII and ESRS records, projectId 46656), rendered to text. Cut-make-trim garment expansion from 50 to 107 sewing lines.
+- id: S-136
+  title: 'IFC project disclosure 48528: Royal CMT (Summary of Investment Information and Environmental and Social Review Summary)'
+  publisher: International Finance Corporation (IFC), World Bank Group
+  date_published: '2024-08-06'
+  url: https://disclosures.ifc.org/project-detail/SII/48528/royal-cmt-project
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-136_IFC-disclosure-48528.json
+  text_path: sources/text/S-136.txt
+  sha256: 233dba563451a9bbe41d258ac7e070ed6049e391ed1fdac2ac8afab6f2659f7f
+  tier: 2
+  language: en
+  coverage: Kenya (comparator)
+  extraction: text
+  pages: 1
+  notes: Stored as JSON from IFC's disclosure data service (SII and ESRS records, projectId 48528), rendered to text. New cut-make-trim garment factory in the Athi River Export Processing Zone.
+- id: S-137
+  title: 'IFC project disclosure 49874: Sunda FMCG Investment (Summary of Investment Information and Environmental and Social Review Summary)'
+  publisher: International Finance Corporation (IFC), World Bank Group
+  date_published: '2025-04-07'
+  url: https://disclosures.ifc.org/project-detail/ESRS/49874/sunda-fmcg-investment
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-137_IFC-disclosure-49874.json
+  text_path: sources/text/S-137.txt
+  sha256: 52733e3918aa6c14cbf072de5d062544975e0a7bb8564985fb89fc87ac37ab18
+  tier: 2
+  language: en
+  coverage: Ghana, Kenya, Tanzania and Zambia (comparator)
+  extraction: text
+  pages: 1
+  notes: Stored as JSON from IFC's disclosure data service (SII and ESRS records, projectId 49874), rendered to text. Baby diaper and sanitary pad factory expansion across several countries; per-plant capacity not stated.
+- id: S-138
+  title: 'IFC project disclosure 37311: Luna Export Slaughterhouse PLC (Summary of Investment Information and Environmental and Social Review Summary)'
+  publisher: International Finance Corporation (IFC), World Bank Group
+  date_published: '2019-11-15'
+  url: https://disclosures.ifc.org/project-detail/SII/37311/luna-export-slaughterhouse-plc
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-138_IFC-disclosure-37311.json
+  text_path: sources/text/S-138.txt
+  sha256: 01a1774a31c4bbae5be1b5b85db27ef37cec32667dee70634193107d6e99d6ce
+  tier: 2
+  language: en
+  coverage: Ethiopia (comparator)
+  extraction: text
+  pages: 1
+  notes: Stored as JSON from IFC's disclosure data service (SII and ESRS records, projectId 37311), rendered to text. The project is a goat farm and feedlot, not the abattoir; the records give the existing slaughterhouse workforce only.
+- id: S-139
+  title: '2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 2: Energy, Chapter 1: Introduction'
+  publisher: Intergovernmental Panel on Climate Change (IPCC)
+  date_published: '2006'
+  url: https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_1_Ch1_Introduction.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-139_IPCC-2006-V2-Ch1-Introduction.pdf
+  text_path: sources/text/S-139.txt
+  sha256: e391cd4676d0891cd77f67d3bd76e0e6775386b468ce5ce7ebe2311a6ea1ac45
+  tier: 2
+  language: en
+  coverage: Global defaults
+  extraction: text
+  pages: 29
+  notes: Table 1.2 (p. 18 of the stored file) gives default net calorific values; Table 1.4 gives default CO2 emission factors for combustion.
+- id: S-140
+  title: '2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 1: General Guidance and Reporting, Chapter 8: Reporting Guidance and Tables'
+  publisher: Intergovernmental Panel on Climate Change (IPCC)
+  date_published: '2006'
+  url: https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/1_Volume1/V1_8_Ch8_Reporting_Guidance.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-140_IPCC-2006-V1-Ch8-Reporting-Guidance.pdf
+  text_path: sources/text/S-140.txt
+  sha256: 8626df5727d080b3c4f1a405d3c2eb2a0d09016608ca323d4b421d42274eb304
+  tier: 2
+  language: en
+  coverage: Global
+  extraction: text
+  pages: 34
+  notes: Fetched while looking for an energy unit conversion table; it contains none. Not cited.
+- id: S-141
+  title: International Recommendations for Energy Statistics (IRES)
+  publisher: United Nations Statistics Division (Department of Economic and Social Affairs)
+  date_published: '2018'
+  url: https://unstats.un.org/unsd/energystats/methodology/documents/IRES-web.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-141_UN-IRES-2018.pdf
+  text_path: sources/text/S-141.txt
+  sha256: 6d97af0bc4ff302f025576ff153d78f85afba436f9f5193c50fc121918c3af43
+  tier: 2
+  language: en
+  coverage: Global
+  extraction: ocr
+  ocr_pages:
+  - 1
+  pages: 168
+  notes: Paragraph 4.19 (p. 57 of the stored file) defines the International Steam Table calorie as exactly 4.1868 joules; the annex tables give energy unit conversions. OCR'd. Publication year of the web edition as printed (ST/ESA/STAT/SER.M/93).
+- id: S-124
+  title: 'UN Comtrade: partner-country (mirror) trade with Somalia, selected HS headings, 2021 to 2024'
+  publisher: United Nations Statistics Division (UN Comtrade)
+  date_published: '2026-09-24'
+  url: https://comtradeapi.un.org/public/v1/preview/C/A/HS
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-124_UN-Comtrade-partner-trade-Somalia-2021-2024.csv
+  text_path: sources/text/S-124.txt
+  sha256: 708c87e4d904fb01e2a78eaf1f91164ab7a444ad5ca2d6228be5d3b2fa5b2d50
+  tier: 3
+  language: en
+  coverage: Somalia (partner data)
+  extraction: text
+  pages: 2
+  notes: 'Pulled on 2026-09-24 through the public preview API, one reporter, flow and year per call (script: tools/comtrade_pull.py). Somalia reports no trade, so all rows are other countries'' reported data. Reporters queried: 35 countries for exports and re-exports to Somalia (HS 0402, 1006, 1101, 1507-1517, 1701, 1902, 3401, 3402, 9619, chapters 61 and 62); seven Gulf states and Yemen for imports from Somalia (HS 0102, 0104, 0106, 0201, 0202, 0204, 0208, 1207, 4101-4103) and from the World (HS 0201, 0202, 0204, 0208). For the UAE and others, the Export flow includes re-exports; the Re-export rows are a subset and must not be added to Export. The UAE had not reported 2024 at the time of the pull. Date published is the retrieval date, since the database is continuously revised. The stored CSV keeps the API fields; the text file reshapes each row as "Reporter (code) | Flow | Partner | HS code | Year | Trade value USD | Net weight kg | HS version" (page 1); page 2, added on 2026-09-24 from the same CSV, lists the Gulf live-animal import rows with the quantity field (number of animals); fractional counts are UN Comtrade estimates.'
+- id: S-142
+  title: 2026 Government Greenhouse Gas Conversion Factors for Company Reporting - Methodology Report
+  publisher: Department for Energy Security and Net Zero (DESNZ), United Kingdom
+  date_published: '2026-06-01'
+  url: https://assets.publishing.service.gov.uk/media/6a2940543b15d05a7ce3202e/2026-GHG-conversion-factors-methodology-report.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-142_UK-DESNZ-2026-GHG-conversion-factors-methodology.pdf
+  text_path: sources/text/S-142.txt
+  sha256: e15e575e3d54c75a723e32b7aebcbd4e294abe39267d585d6daa231fc5cbd7d7
+  tier: 3
+  language: en
+  coverage: United Kingdom (method)
+  extraction: text
+  pages: 152
+  notes: Methodology for the factor set in S-143. Fuel densities and calorific values are published only in the spreadsheet, not in this report. Tier 3 as an official national emission-factor database of another country. Month of publication June 2026; day set to 01.
+- id: S-143
+  title: 'UK Government GHG Conversion Factors for Company Reporting 2026: flat file (version 1.2)'
+  publisher: Department for Energy Security and Net Zero (DESNZ), United Kingdom
+  date_published: '2026-06-01'
+  url: https://assets.publishing.service.gov.uk/media/6a6c9748862aaf18d9c62ac9/ghg-conversion-factors-2026-flat-format-revised.xlsx
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-143_UK-DESNZ-GHG-conversion-factors-2026-flat.xlsx
+  text_path: sources/text/S-143.txt
+  sha256: a9a455ab396dae226d510c7be6233748416d490c41a5d20f3dc7a0c45feecd5e
+  tier: 3
+  language: en
+  coverage: Global use (UK factor set)
+  extraction: text
+  pages: 2
+  notes: Spreadsheet stored as downloaded; the text file holds one page per worksheet with each row as cell values joined by ' | ' (tools/extract.py). Page 2 is the factor table (ID | Scope | Level 1 | Level 2 | Level 3 | Level 4 | Column Text | UOM | GHG/Unit | GHG Conversion Factor 2026). Used for the combustion factor of mineral diesel per litre (CO2e, including CH4 and N2O). Tier 3 as an official national emission-factor database of another country. The revised flat file is version 1.2; June 2026 is the publication month of the 2026 set.
+- id: S-144
+  title: 'Climate Change 2013: The Physical Science Basis. Working Group I contribution to the IPCC Fifth Assessment Report, Chapter 8: Anthropogenic and Natural Radiative Forcing'
+  publisher: Intergovernmental Panel on Climate Change (IPCC)
+  date_published: '2013'
+  url: https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter08_FINAL.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-144_IPCC-AR5-WG1-Ch8-Radiative-Forcing.pdf
+  text_path: sources/text/S-144.txt
+  sha256: 9709d70802b4a78fe372f6a949d4d2af7bf31c38c1f666783d5b188702dc2836
+  tier: 2
+  language: en
+  coverage: Global
+  extraction: text
+  pages: 82
+  notes: Table 8.A.1 (Appendix 8.A, p. 73 of the stored file) gives 100-year global warming potentials. Somalia's NDC 3.0 uses AR5 100-year GWPs (S-107 p. 53).
+- id: S-145
+  title: '2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 5: Waste, Chapter 2: Waste Generation, Composition and Management Data'
+  publisher: Intergovernmental Panel on Climate Change (IPCC)
+  date_published: '2006'
+  url: https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_2_Ch2_Waste_Data.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-145_IPCC-2006-V5-Ch2-Waste-Data.pdf
+  text_path: sources/text/S-145.txt
+  sha256: 3f650ea532e1d4092e3fca72a7d84e9b1d597d56dffd10cff874125d4a97902d
+  tier: 2
+  language: en
+  coverage: Global and regional defaults (Eastern Africa)
+  extraction: text
+  pages: 23
+  notes: Table 2.3 (p. 12) gives regional default MSW composition, based on data around year 2000; Table 2.4 (p. 14) gives default DOC content by waste component.
+- id: S-146
+  title: 'UN Comtrade: partner-reported imports from Somalia (fish, fruit, sesame, sesame oil, raw skins) and world exports of tanned sheep and goat leather by four exporters, 2022 to 2024'
+  publisher: United Nations Statistics Division (UN Comtrade)
+  date_published: '2026-09-24'
+  url: https://comtradeapi.un.org/public/v1/preview/C/A/HS
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-146_UN-Comtrade-imports-from-Somalia-and-leather-2022-2024.csv
+  text_path: sources/text/S-146.txt
+  sha256: 17e04b7f1b0fa7d147a964cb5040b719b19fed80325eaaa266360e56a17fb465
+  tier: 3
+  language: en
+  coverage: Somalia (partner data); Ethiopia, Kenya, Pakistan and Nigeria (leather comparators)
+  extraction: text
+  pages: 1
+  notes: 'Pulled on 2026-09-24 through the public preview API with tools/comtrade_pull_2.py, one reporter, flow and year per call. Imports from Somalia (HS 0302-0307, 0803-0805, 1207, 1515, 4102, 4103) as reported by 30 partner countries; exports of HS 4105 and 4106 to the World by Ethiopia, Kenya, Pakistan and Nigeria. No partner reported imports of bananas (HS 0803) from Somalia in 2022 to 2024. Leather unit values vary widely between years and are not used for pricing. Fractional quantities are UN Comtrade estimates. Date published is the retrieval date. Text file format: "Reporter (code) | Flow | Partner | HS code | Year | Trade value USD | Net weight kg | Quantity | Quantity unit code | HS version".'
+- id: S-147
+  title: 2019 Social Accounting Matrix for Kenya (dataset, version 1)
+  publisher: International Food Policy Research Institute (IFPRI), Harvard Dataverse
+  date_published: '2021'
+  url: https://doi.org/10.7910/DVN/ALUXSI
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-147_IFPRI-SAM-Kenya-2019.csv
+  text_path: sources/text/S-147.txt
+  sha256: a949a1e6afd185cd253cb7589c5885e94361cfc9982edf5177cf206d32b08cc3
+  tier: 3
+  language: en
+  coverage: Kenya (comparator)
+  extraction: text
+  pages: 1
+  notes: 'Downloaded by Hassan Mumin through the Dataverse guestbook and placed in sources/inbox/ on 2026-09-24 (file 002_IFPRI_SAM_KEN_2019_SAM.csv). Units billions of Kenyan shillings, rounded to whole numbers in this file. The readme (sources/inbox/001_readme.txt) requires citing the dataset and the data paper (Thurlow 2021, S-085). Text file: one line per non-empty cell ("SAM | row account (code) | column account (code) | value"). Value added at factor cost for an activity = sum of its factor rows (flab-n, flab-p, flab-s, flnd, fcap); gross output = its Total row.'
+- id: S-148
+  title: 2022 Social Accounting Matrix for Ethiopia (dataset)
+  publisher: International Food Policy Research Institute (IFPRI), Harvard Dataverse
+  date_published: '2024'
+  url: https://doi.org/10.7910/DVN/UNGXIW
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-148_IFPRI-SAM-Ethiopia-2022.csv
+  text_path: sources/text/S-148.txt
+  sha256: 342f40d962e773fe3744faae29e821a90d3b711fc981c499d1b23fcfddd74efc
+  tier: 3
+  language: en
+  coverage: Ethiopia (comparator)
+  extraction: text
+  pages: 1
+  notes: Downloaded by Hassan Mumin through the Dataverse guestbook and placed in sources/inbox/ on 2026-09-24 (file IFPRI_SAM_ETH_2022_SAM.csv; no readme supplied). Units billions of Ethiopian birr (data paper S-086, Table 10). Data paper S-086. Text file format as for S-147. Value added at factor cost = sum of factor rows; gross output = Total row.
+- id: S-149
+  title: 'Light Manufacturing in Africa: Targeted Policies to Enhance Private Investment and Create Jobs (Africa Development Forum)'
+  publisher: World Bank and Agence Française de Développement (authors Hinh T. Dinh, Vincent Palmade, Vandana Chandra and Frances Cossar)
+  date_published: '2012'
+  url: https://openknowledge.worldbank.org/handle/10986/2245
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-149_World-Bank-Light-Manufacturing-in-Africa.pdf
+  text_path: sources/text/S-149.txt
+  sha256: c17612a4c7bdad8cba13c8ff262470167761287979629c6090b6edf9b47230ed
+  tier: 2
+  language: en
+  coverage: Sub-Saharan Africa (Ethiopia, Tanzania, Zambia) with China and Vietnam as comparators; Somalia not covered
+  extraction: text
+  pages: 184
+  notes: Supplied by Hassan Mumin in sources/inbox/ (LightManufacturingInAfricaFullReport.pdf) on 2026-09-24. Regional evidence on light manufacturing competitiveness, binding constraints and industrial parks; data are around 2010, so figures carry the five-year age warning and are used as comparator evidence only. URL is the World Bank Open Knowledge Repository record (to confirm).
+- id: S-150
+  title: 'Global Solar Atlas 2.0: long-term annual solar resource and PV output, Mogadishu (2.0469 N, 45.3182 E)'
+  publisher: World Bank Group / ESMAP (data by Solargis)
+  date_published: '2026-04-01'
+  url: https://api.globalsolaratlas.info/data/lta?loc=2.0469,45.3182
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-150_Global-Solar-Atlas-Mogadishu.json
+  text_path: sources/text/S-150.txt
+  sha256: d677e77aa49956e7277dda034a9c7845aea38d06c9763e69a95c4db60d414d66
+  tier: 2
+  language: en
+  coverage: Mogadishu (single point, city centre)
+  extraction: text
+  pages: 1
+  notes: JSON response of the Global Solar Atlas data service, stored as retrieved; the text file lists each layer with unit, method, period and data version. PVOUT_csi is the specific yield of a crystalline-silicon PV system at optimum tilt (kWh per kWp a year). Date published is the layer update date. Park sites may differ slightly from the city-centre point.
+- id: S-151
+  title: 'Technical Report. Somalia: Surface Water and Riverine Assessment'
+  publisher: World Bank
+  date_published: '2022'
+  url: https://documents1.worldbank.org/curated/en/099430012022130498/pdf/P17499403c63df07e086e90eab1140bf66d.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-151_WB-Somalia-Surface-Water-Riverine-Assessment.pdf
+  text_path: sources/text/S-151.txt
+  sha256: 1e00daf4be6f8cc4f7cfa31ffc796e34d449aa336157db5f6be8cc1ccd2434c4
+  tier: 2
+  language: en
+  coverage: Juba and Shabelle basins
+  extraction: text
+  pages: 29
+  notes: Searched for a count of irrigation pumps and their fuel use; the report contains no such figures. Kept as a record of the search; not cited.
+- id: S-152
+  title: An assessment of municipal solid waste management practices and challenges in Mogadishu, Somalia
+  publisher: Frontiers in Sustainability (peer-reviewed; authors Madar A, Geelle A and Osman S)
+  date_published: '2026-06-22'
+  url: https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2026.1812205/full
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-152_Frontiers-2026-MSW-Mogadishu.pdf
+  text_path: sources/text/S-152.txt
+  sha256: ee7971e97c2cba56c199179a80fca53042c65858ffe412a34339b07220e568f0
+  tier: 3
+  language: en
+  coverage: Mogadishu (Banadir)
+  extraction: text
+  pages: 10
+  notes: Survey of 273 respondents. Its waste-quantity figures are cited from other sources (Ritter 2019, a University of San Francisco master's thesis, for Mogadishu; UN-Habitat 2012 for urban Somalia), so they are secondary estimates and must be attributed.
+- id: S-153
+  title: Gums, resins and latexes of plant origin (Non-Wood Forest Products 6)
+  publisher: Food and Agriculture Organization of the United Nations (FAO); author J.J.W. Coppen
+  date_published: '1995'
+  url: https://www.fao.org/4/v9236e/v9236e.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-153_FAO-NWFP6-Gums-resins-latexes.pdf
+  text_path: sources/text/S-153.txt
+  sha256: 62309a8c7048928275e3cc12abc70fdeec66692aa69bbb3dc7794c303b193a3a
+  tier: 2
+  language: en
+  coverage: Global
+  extraction: text
+  pages: 152
+  notes: Fetched for frankincense and myrrh data; the volume refers these resins to Non-Wood Forest Products 1 (S-154) and has no chapter on them. Kept as a record of the search; not cited.
+- id: S-154
+  title: 'Flavours and fragrances of plant origin (Non-Wood Forest Products 1), Chapter 9: Olibanum (frankincense), myrrh and opopanax resins and oils'
+  publisher: Food and Agriculture Organization of the United Nations (FAO); author J.J.W. Coppen
+  date_published: '1995'
+  url: https://www.fao.org/4/v5350e/v5350e.pdf
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-154_FAO-NWFP1-Flavours-fragrances.pdf
+  text_path: sources/text/S-154.txt
+  sha256: 3f47c8f7b2b0e4e1d00515737d0c8a90f1ef2f50cf92d4ff4772b169f8670594
+  tier: 2
+  language: en
+  coverage: Global; Somalia and Ethiopia as main producers of olibanum, myrrh and opopanax
+  extraction: ocr
+  pages: 108
+  notes: Scanned document; text by OCR, so figures must be confirmed against the page image. Market data refer to 1987 and prices to early 1994, so they describe the structure of the trade, not current values.
+- id: S-155
+  title: Phytochemical Analysis of the Essential Oil from Botanically Certified Oleogum Resin of Boswellia sacra (Omani Luban)
+  publisher: Molecules (MDPI; peer-reviewed), authors Al-Harrasi A and Al-Saidi S; full text from PubMed Central PMC6245470
+  date_published: '2008'
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6245470/
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-155_PMC-2008-Boswellia-sacra-essential-oil.html
+  text_path: sources/text/S-155.txt
+  sha256: 96cfa5e6a1ad9bf71d36b7d4cb38524baed2fb284c59d8009901c02a5d50ed97
+  tier: 3
+  language: en
+  coverage: Oman (Boswellia sacra); used as a comparator for Somali Boswellia resins
+  extraction: text
+  pages: 1
+  notes: Laboratory hydrodistillation yield for one certified Omani resin sample. Somali Boswellia carteri is often treated as the same species as B. sacra; B. frereana (maydi) yields much less oil.
+- id: S-156
+  title: 'UN Comtrade: GCC imports of fresh or chilled bovine meat by supplying country, and partner-reported imports of natural gums and resins and essential oils from Somalia, 2023'
+  publisher: United Nations Statistics Division (UN Comtrade)
+  date_published: '2026-09-24'
+  url: https://comtradeapi.un.org/public/v1/preview/C/A/HS
+  accessed: '2026-09-24'
+  local_path: sources/raw/S-156_UN-Comtrade-GCC-beef-suppliers-and-Somali-resins-2023.csv
+  text_path: sources/text/S-156.txt
+  sha256: f3a9e516f4028c83a67d7478d30d34f3ee48d2c2d0f589981a7dba2a52225257
+  tier: 3
+  language: en
+  coverage: Six GCC states (beef imports by partner); Somalia (partner data, twelve reporters queried, eleven reporting)
+  extraction: text
+  pages: 1
+  notes: 'Pulled on 2026-09-24 through the public preview API with tools/comtrade_pull_3.py, one reporter, flow and year per call. HS 1301 covers lac and all natural gums, resins, gum-resins and oleoresins, so it includes gum arabic and other gums as well as frankincense and myrrh; HS 3301 covers essential oils of all kinds. Twelve likely buyers queried (eleven reported; Oman none), so totals are lower bounds. Egypt reports no weights. Date published is the retrieval date. Text file format: "Reporter (code) | Flow | Partner (code) | HS code | Year | Trade value USD | Net weight kg | Quantity | Quantity unit code | HS version".'
+- id: S-157
+  title: 'Deyr Floods Somalia 2023: Rapid Post-Disaster Needs Assessment (R-PDNA), Executive Summary'
+  publisher: Federal Government of Somalia (Somali Disaster Management Agency, SoDMA) with the United Nations, World Bank and European Union; published by UNDP
+  date_published: '2024-06-07'
+  url: https://www.undp.org/sites/g/files/zskgke326/files/2024-06/somalia_deyrfloods_r-pdna_executive_summary_07062024.pdf
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-157_RPDNA-2023-Deyr-Floods-Exec-Summary.pdf
+  text_path: sources/text/S-157.txt
+  sha256: 0cb3c0e572b72e46973bd91b78e718f9f66754ee6d49813c9bc36d1b35a2cfd2
+  tier: 1
+  language: en
+  coverage: Sixteen districts in Jubaland, South West, Galmudug, Hirshabelle and Banadir
+  extraction: text
+  pages: 36
+  notes: Government-led assessment with multilateral partners. Some secondary summaries quote a total of USD 193.4 million; this executive summary gives total effects of USD 176.1 million (damages 126.6, losses 49.5), which the report uses.
+- id: S-158
+  title: About Mogadishu Port Authority (web page)
+  publisher: Mogadishu Port Authority, Federal Government of Somalia
+  date_published: '2026'
+  url: https://mpa.gov.so/about-mogadishu-port/
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-158_Mogadishu-Port-Authority-About.html
+  text_path: sources/text/S-158.txt
+  sha256: 13d1b5bca33d6a7894d809f04e63e9851c75f840e49f92732491e6dab332e5a6
+  tier: 1
+  language: en
+  coverage: Port of Mogadishu
+  extraction: text
+  pages: 1
+  notes: Official web page stored as retrieved. Capacity statements are the port authority's own; the page does not give annual throughput statistics by year.
+- id: S-159
+  title: 'geoBoundaries: Somalia first-level administrative boundaries (ADM1), simplified geometry'
+  publisher: geoBoundaries, William & Mary geoLab (source data OpenStreetMap, Wambacher)
+  date_published: '2023-12-12'
+  url: https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SOM/ADM1/geoBoundaries-SOM-ADM1_simplified.geojson
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-159_geoBoundaries-SOM-ADM1-simplified.geojson
+  text_path: sources/text/S-159.txt
+  sha256: a3d87cc4bc6f6d32b40862c34efd325ae61fc22c092c81597e8c49c20c681910
+  tier: 3
+  language: en
+  coverage: Somalia (all regions, boundaries as represented in 2015)
+  extraction: text
+  pages: 1
+  notes: Geospatial reference layer for maps only; licence Open Data Commons Open Database License 1.0. Boundaries on maps do not imply any judgment on the legal status of any territory or its delimitation; maps show Somalia as a single country.
+- id: S-160
+  title: Natural Earth 1:10m rivers and lake centerlines (GeoJSON)
+  publisher: Natural Earth (public domain), via the natural-earth-vector repository
+  date_published: '2026'
+  url: https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_rivers_lake_centerlines.geojson
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-160_NaturalEarth-10m-rivers.geojson
+  text_path: sources/text/S-160.txt
+  sha256: bb854a900ecbd3b408df46d5e16e3e0f974ba55993f9d8b5c26e855273c0905a
+  tier: 3
+  language: en
+  coverage: Global; used for the Shabelle and Juba rivers
+  extraction: text
+  pages: 1
+  notes: Geospatial reference layer for maps only (public domain).
+- id: S-161
+  title: Natural Earth 1:10m populated places, simple (GeoJSON)
+  publisher: Natural Earth (public domain), via the natural-earth-vector repository
+  date_published: '2026'
+  url: https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_populated_places_simple.geojson
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-161_NaturalEarth-10m-populated-places-simple.geojson
+  text_path: sources/text/S-161.txt
+  sha256: fd3fa867a320cbd5c5b6bb5bc550afeec2939fb2cef688e508007282a55ac42f
+  tier: 3
+  language: en
+  coverage: Global; used for town locations
+  extraction: text
+  pages: 1
+  notes: Geospatial reference layer for maps only (public domain). The layer's country attribute for northern towns is not used; maps treat all towns as in Somalia.
+- id: S-162
+  title: Natural Earth 1:50m admin 0 countries (GeoJSON)
+  publisher: Natural Earth (public domain), via the natural-earth-vector repository
+  date_published: '2026'
+  url: https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_0_countries.geojson
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-162_NaturalEarth-50m-admin0-countries.geojson
+  text_path: sources/text/S-162.txt
+  sha256: 3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb
+  tier: 3
+  language: en
+  coverage: Global; used only for neighbouring countries and the Gulf in regional maps
+  extraction: text
+  pages: 1
+  notes: Geospatial reference layer (public domain). Somalia itself is drawn from S-159, not from this layer.

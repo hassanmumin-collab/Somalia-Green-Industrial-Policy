@@ -1,0 +1,64 @@
+Fact-check verdicts, batch 4 (C-0091 to C-0120), 2026-09-23. Notes: C-0105 excludes interconnections and sub-transmission and distribution; NBS import claims: Somaliland coverage still to be settled.
+
+C-0091: PASS
+
+C-0092: PASS
+
+C-0093: PASS
+
+C-0094: PASS
+
+C-0095: QUERY
+  Reason: World Bank Table 4 gives 'Renewable Energy Share (percent)' 20 without stating capacity or generation basis or year; p. 36 says nearly all power is from diesel generators. Reword to 'as reported in the World Bank regional table, basis not stated' or resolve X-007.
+
+C-0096: PASS
+
+C-0097: PASS
+
+C-0098: PASS
+
+C-0099: PASS
+
+C-0100: PASS
+
+C-0101: PASS
+
+C-0102: PASS
+
+C-0103: QUERY
+  Reason: Text (p. 16) gives USD 22.9 billion (11.6 investment + 11.3 operating) but Table 1-4 (p. 17) totals 11,157 CAPEX + 12,443 OPEX = 23,600 M$. Source contradicts itself; figures are undiscounted, constant 2025 USD.
+
+C-0104: QUERY
+  Reason: Same internal contradiction as C-0103: USD 11.6 billion in text versus 11,157 M$ in Table 1-4.
+
+C-0105: PASS
+
+C-0106: PASS
+
+C-0107: PASS
+
+C-0108: PASS
+
+C-0109: PASS
+
+C-0110: PASS
+
+C-0111: PASS
+
+C-0112: PASS
+
+C-0113: PASS
+
+C-0114: PASS
+
+C-0115: PASS
+
+C-0116: PASS
+
+C-0117: PASS
+
+C-0118: PASS
+
+C-0119: PASS
+
+C-0120: PASS

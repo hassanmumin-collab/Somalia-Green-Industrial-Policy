@@ -1,0 +1,2830 @@
+# Assumption register (CLAUDE.md section 5.4). Revised 2026-09-24 (v3). Approval of every active entry was delegated by
+# Hassan Mumin on 2026-09-24; see the approval field. value is the base case; range gives the low and high values used
+# in scenarios and sensitivity. Entries with status: retired are kept for the record and are not model inputs.
+- id: A-001
+  parameter: Nominal GDP growth in US dollars, 2032 (extension of the IMF WEO path, which ends in 2031)
+  value: 0.1078
+  unit: fraction
+  range:
+  - 0.08
+  - 0.12
+  basis_claim: D-0043
+  comparator: IMF WEO April 2026, Somalia, 2031 projection
+  rationale: The IMF projection stops in 2031 (CLAUDE.md 13.2 requires a stated extension). The base repeats the IMF's 2031 nominal growth rate; the range covers slower and faster nominal growth. Only the 2032 share-of-GDP figures depend on it.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: gdp.growth_extension
+- id: A-002
+  parameter: Cumulative share of the 2032 target capacity in operation by the end of 2028 (all lines and modules)
+  value: 0.15
+  unit: fraction
+  range:
+  - 0.05
+  - 0.25
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: 'Policy design (CLAUDE.md section 10): Phase I builds foundations and first plants in 2028 and 2029; Phase II scales up in 2030 to 2032. The low end reflects a one-year slip in commissioning; the high end reflects faster delivery after a well-used preparatory period.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: build.share_2028
+- id: A-003
+  parameter: Cumulative share of the 2032 target capacity in operation by the end of 2029 (all lines and modules)
+  value: 0.35
+  unit: fraction
+  range:
+  - 0.2
+  - 0.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: 'Policy design (CLAUDE.md section 10): Phase I builds foundations and first plants in 2028 and 2029; Phase II scales up in 2030 to 2032. The low end reflects a one-year slip in commissioning; the high end reflects faster delivery after a well-used preparatory period.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: build.share_2029
+- id: A-004
+  parameter: Cumulative share of the 2032 target capacity in operation by the end of 2030 (all lines and modules)
+  value: 0.6
+  unit: fraction
+  range:
+  - 0.4
+  - 0.75
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: 'Policy design (CLAUDE.md section 10): Phase I builds foundations and first plants in 2028 and 2029; Phase II scales up in 2030 to 2032. The low end reflects a one-year slip in commissioning; the high end reflects faster delivery after a well-used preparatory period.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: build.share_2030
+- id: A-005
+  parameter: Cumulative share of the 2032 target capacity in operation by the end of 2031 (all lines and modules)
+  value: 0.8
+  unit: fraction
+  range:
+  - 0.6
+  - 0.9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: 'Policy design (CLAUDE.md section 10): Phase I builds foundations and first plants in 2028 and 2029; Phase II scales up in 2030 to 2032. The low end reflects a one-year slip in commissioning; the high end reflects faster delivery after a well-used preparatory period.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: build.share_2031
+- id: A-006
+  parameter: Cumulative share of the 2032 target capacity in operation by the end of 2032 (all lines and modules)
+  value: 1.0
+  unit: fraction
+  range:
+  - 0.8
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: 'Policy design (CLAUDE.md section 10): Phase I builds foundations and first plants in 2028 and 2029; Phase II scales up in 2030 to 2032. The low end reflects a one-year slip in commissioning; the high end reflects faster delivery after a well-used preparatory period.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: build.share_2032
+- id: A-007
+  parameter: Output in the commissioning year as a share of mature utilisation (ramp-up)
+  value: 0.5
+  unit: fraction
+  range:
+  - 0.3
+  - 0.7
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: New plants rarely reach normal utilisation in their first year; half is a common planning convention for mid-year commissioning and early operating problems.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: build.first_year_factor
+- id: A-008
+  parameter: 'Additionality, coastal export processing: share of modelled activity that would not happen without the policy'
+  value: 0.8
+  unit: fraction
+  range:
+  - 0.6
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: CLAUDE.md 13.2 requires impacts against a no-policy baseline, not zero. Some private investment in these lines would occur anyway; with no pipeline data, a fifth is assumed to be non-additional in the base case.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: c1.additionality
+- id: A-009
+  parameter: 'Additionality, riverine agro-processing: share of modelled activity that would not happen without the policy'
+  value: 0.8
+  unit: fraction
+  range:
+  - 0.6
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: CLAUDE.md 13.2 requires impacts against a no-policy baseline, not zero. Some private investment in these lines would occur anyway; with no pipeline data, a fifth is assumed to be non-additional in the base case.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: c2.additionality
+- id: A-010
+  parameter: 'Additionality, light manufacturing and consumer staples: share of modelled activity that would not happen without the policy'
+  value: 0.8
+  unit: fraction
+  range:
+  - 0.6
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: CLAUDE.md 13.2 requires impacts against a no-policy baseline, not zero. Some private investment in these lines would occur anyway; with no pipeline data, a fifth is assumed to be non-additional in the base case.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: c3.additionality
+- id: A-011
+  parameter: 'Additionality, business services (BPO): share of modelled activity that would not happen without the policy'
+  value: 0.8
+  unit: fraction
+  range:
+  - 0.6
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: CLAUDE.md 13.2 requires impacts against a no-policy baseline, not zero. Some private investment in these lines would occur anyway; with no pipeline data, a fifth is assumed to be non-additional in the base case.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: c4.additionality
+- id: A-012
+  parameter: 'Chilled beef and camel meat for Gulf markets: capacity in operation at full build-out (2032)'
+  value: 30000
+  unit: t carcass meat per year
+  range:
+  - 15000
+  - 45000
+  basis_claim: D-0063
+  comparator: GCC imports of fresh or chilled bovine meat, 2023 (UN Comtrade)
+  rationale: 'Export abattoirs for cattle and camels sized to win a tenth or more of the Gulf''s chilled beef market. Proximity works: Pakistan, a nearby halal supplier, provided 37 percent of GCC chilled beef imports by value in 2023 (D-0064). The six GCC states imported 156,599 t of fresh or chilled beef in 2023 (D-0063), worth USD 1,094.9 million (D-0053). At 75 percent utilisation, 30,000 t of capacity ships 22,500 t, about 14 percent of that tonnage. Proximity is the advantage: chilled meat has a short shelf life, and Mogadishu is days by sea and hours by air from Gulf ports, against weeks for Australian and South American suppliers. Supply exists: Somalia already exports about 56,789 t of carcass-weight equivalent a year as live cattle and camels (D-0062, from C-0055 and C-0056), on top of domestic slaughter of 511,234 cattle and 295,520 camels (C-0411, C-0412). The plants turn part of that live trade into chilled meat, keeping the slaughter, chilling and byproduct value in Somalia.
+    The high end (45,000 t) is about a fifth of the market; the low end is a single plant.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.capacity
+- id: A-013
+  parameter: 'Chilled beef and camel meat for Gulf markets: mature capacity utilisation'
+  value: 0.75
+  unit: fraction
+  range:
+  - 0.6
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Animal supply, disease-free status and Gulf import approvals limit utilisation; 75 percent assumes supply contracts and a certified export zone.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.utilisation
+- id: A-014
+  parameter: 'Chilled beef and camel meat for Gulf markets: price or output value per unit'
+  value: 5500
+  unit: USD per t
+  range:
+  - 4800
+  - 7000
+  basis_claim: D-0066
+  comparator: GCC import unit value of chilled beef from Pakistan, 2023 (UN Comtrade)
+  rationale: The closest analogue is Pakistan, a nearby halal supplier of lean carcass beef, which sold the GCC 80,499 t at about USD 5.02 per kg in 2023 (D-0065, D-0066). The GCC average was USD 6.99 per kg (D-0054), lifted by premium Australian and American cuts; Ethiopia's small trade reached about USD 10 per kg in Saudi Arabia (D-0067). The base of USD 5.50 per kg sits just above Pakistan, allowing for camel meat and some higher-value cuts; the range runs from below Pakistan's price to the GCC average.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.price
+- id: A-015
+  parameter: 'Chilled beef and camel meat for Gulf markets: value-added ratio (share of gross output)'
+  value: 0.19
+  unit: share of gross output
+  range:
+  - 0.17
+  - 0.21
+  basis_claim: D-0046
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), processed foods
+  rationale: Value added at factor cost is 0.171 of gross output for processed foods in Kenya (D-0046) and 0.210 in Ethiopia (D-0050).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.va_ratio
+- id: A-016
+  parameter: 'Chilled beef and camel meat for Gulf markets: direct jobs per unit of annual capacity in operation'
+  value: 0.015
+  unit: jobs per t per year
+  range:
+  - 0.008
+  - 0.027
+  basis_claim: C-0252
+  comparator: Ethiopia, Luna export slaughterhouse (IFC, about 2023)
+  rationale: Luna's Modjo export slaughterhouse employed 200 people (C-0252); its tonnage is not stated. 15 jobs per 1,000 t gives about 450 jobs at 30,000 t (judgment); the range spans a highly mechanised plant and a labour-intensive one.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.jobs_per_unit
+- id: A-017
+  parameter: 'Chilled beef and camel meat for Gulf markets: capital cost per unit of annual capacity'
+  value: 1200
+  unit: USD per t per year
+  range:
+  - 700
+  - 2500
+  basis_claim: C-0254
+  comparator: Kenya, Isiolo export abattoir cost KSh 850 million (ILRI 2019)
+  rationale: Isiolo cost KSh 850 million (C-0254) for 1,000 small ruminants, 50 camels and 200 cattle a day; cost year and exchange rate not stated, so the benchmark converts only approximately. The range allows for chilling, cold storage and Gulf-standard halal certification.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.capex_per_unit
+- id: A-018
+  parameter: 'Chilled beef and camel meat for Gulf markets: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 0.05
+  unit: fraction
+  range:
+  - 0.02
+  - 0.15
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: The Gulf joint venture sells most output abroad (CLAUDE.md section 10); some supplies Mogadishu hotels.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.domestic_share
+- id: A-019
+  parameter: 'Chilled beef and camel meat for Gulf markets: imported inputs as a share of gross output'
+  value: 0.05
+  unit: fraction
+  range:
+  - 0.02
+  - 0.1
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Animals are bought locally; imported inputs are packaging, chemicals and spare parts.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.imported_input_share
+- id: A-020
+  parameter: 'Chilled beef and camel meat for Gulf markets: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.35
+  unit: fraction
+  range:
+  - 0.2
+  - 0.55
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Most animals bought would otherwise be exported live or slaughtered for the domestic market; only extra offtake from herds (better prices, fattening, lower mortality) is new supply. 35 percent is assumed additional.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.indirect_additional_share
+- id: A-021
+  parameter: 'Chilled meat: share of animals slaughtered that would otherwise have been exported live'
+  value: 0.4
+  unit: fraction
+  range:
+  - 0.25
+  - 0.6
+  basis_claim: D-0062
+  comparator: Somalia, live cattle and camel exports 2025 (Central Bank of Somalia)
+  rationale: Somalia exported 222,010 cattle and 193,013 camels live in 2025 (C-0055, C-0056), about 56,789 t of carcass-weight equivalent (D-0062). The plants' 22,500 t would absorb about 40 percent of that if all came from the live trade. The base assumes 40 percent of animals are diverted from live export and the rest come from domestic markets and extra offtake. The forgone live-export earnings are deducted from the net foreign-exchange gain.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.diversion_share
+- id: A-022
+  parameter: Live-export value forgone per tonne of carcass-weight equivalent (cattle and camels)
+  value: 3900
+  unit: USD per t
+  range:
+  - 2500
+  - 5500
+  basis_claim: D-0056
+  comparator: Oman imports of live cattle from Somalia, 2023 (UN Comtrade)
+  rationale: Oman's imports valued live Somali cattle at USD 1.97 per kg of live weight (D-0056). At a dressing share of about half (judgment), that is about USD 3,900 per tonne of carcass, well below the USD 6,300 a tonne the chilled meat earns. No camel price series exists; the range covers heavier-dressing animals and higher camel prices.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.live_value_per_t
+- id: A-023
+  parameter: 'Hides and skins tanning (with effluent treatment): capacity in operation at full build-out (2032)'
+  value: 3000000
+  unit: skins per year
+  range:
+  - 1500000
+  - 5000000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: About 3 million goats and 0.5 million cattle are slaughtered a year (FAOSTAT), plus hides from the new abattoirs. The tannery processes three million pieces.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.capacity
+- id: A-024
+  parameter: 'Hides and skins tanning (with effluent treatment): mature capacity utilisation'
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.55
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Collection of hides and skins in good condition is the main constraint.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.utilisation
+- id: A-025
+  parameter: 'Hides and skins tanning (with effluent treatment): price or output value per unit'
+  value: 5
+  unit: USD per skin (wet-blue or crust)
+  range:
+  - 3
+  - 8
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: UN Comtrade unit values for tanned leather exported by Ethiopia, Kenya, Pakistan and Nigeria vary too widely between years to price the output (S-146). USD 5 a piece is a judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.price
+- id: A-026
+  parameter: 'Hides and skins tanning (with effluent treatment): value-added ratio (share of gross output)'
+  value: 0.4
+  unit: share of gross output
+  range:
+  - 0.35
+  - 0.45
+  basis_claim: D-0047
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), textiles, clothing and footwear
+  rationale: Textiles, clothing and footwear (which includes leather) has a value-added ratio of 0.414 in Kenya (D-0047) and 0.395 in Ethiopia (D-0051).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.va_ratio
+- id: A-027
+  parameter: 'Hides and skins tanning (with effluent treatment): direct jobs per unit of annual capacity in operation'
+  value: 0.00033
+  unit: jobs per skin per year
+  range:
+  - 0.0003
+  - 0.00045
+  basis_claim: D-0016
+  comparator: Ethiopia tanning sector, UNIDO 2018
+  rationale: At least 300 tannery workers per million skins in Ethiopia (D-0016); 330 allows for hides.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.jobs_per_unit
+- id: A-028
+  parameter: 'Hides and skins tanning (with effluent treatment): capital cost per unit of annual capacity'
+  value: 5
+  unit: USD per skin per year
+  range:
+  - 3
+  - 9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Includes a separate wing with its own effluent treatment plant (CLAUDE.md section 10). No African tannery cost benchmark with capacity was found.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.capex_per_unit
+- id: A-029
+  parameter: 'Hides and skins tanning (with effluent treatment): share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 0.1
+  unit: fraction
+  range:
+  - 0.05
+  - 0.3
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Wet-blue and crust are mostly exported; some supplies local leather goods.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.domestic_share
+- id: A-030
+  parameter: 'Hides and skins tanning (with effluent treatment): imported inputs as a share of gross output'
+  value: 0.3
+  unit: fraction
+  range:
+  - 0.2
+  - 0.4
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Tanning chemicals are imported.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.imported_input_share
+- id: A-031
+  parameter: 'Hides and skins tanning (with effluent treatment): share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.6
+  unit: fraction
+  range:
+  - 0.4
+  - 0.8
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Many skins are wasted today for lack of collection and buyers (partner countries report only small raw-skin imports from Somalia, S-146), so most raw material bought is new supply.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.indirect_additional_share
+- id: A-032
+  parameter: 'Tanning: share of skins that would otherwise have been exported raw'
+  value: 0.2
+  unit: fraction
+  range:
+  - 0.1
+  - 0.4
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Partner countries report only small raw-skin imports from Somalia (S-146).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.diversion_share
+- id: A-033
+  parameter: 'Tanning: raw-skin export value forgone per skin'
+  value: 1.5
+  unit: USD per skin
+  range:
+  - 0.8
+  - 2.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Partner-reported raw-skin import values (HS 4103, S-146) and FAOSTAT skin weights of about 2 kg suggest USD 1 to 3 a piece.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.raw_value_per_unit
+- id: A-034
+  parameter: 'Fish and seafood processing and cold chain: capacity in operation at full build-out (2032)'
+  value: 60000
+  unit: t per year
+  range:
+  - 30000
+  - 120000
+  basis_claim: C-0260
+  comparator: Somalia, NTP EPP 4 (additional 146,732 t of annual production)
+  rationale: The NTP's downstream processing programme aims at 146,732 t of additional annual production (C-0260) and the NTP targets fish production of 240,000 t by 2029 (C-0180). Domestic catch is estimated at 50,000 t (C-0153) against a potential of at least 380,000 t (C-0156). The policy targets 60,000 t of processing capacity by 2032, about 40 percent of the NTP programme, which requires the domestic fleet to land more of the catch now taken by foreign vessels (C-0154).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fish.capacity
+- id: A-035
+  parameter: 'Fish and seafood processing and cold chain: mature capacity utilisation'
+  value: 0.6
+  unit: fraction
+  range:
+  - 0.45
+  - 0.75
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Catches are seasonal (monsoons).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fish.utilisation
+- id: A-036
+  parameter: 'Fish and seafood processing and cold chain: price or output value per unit'
+  value: 3000
+  unit: USD per t
+  range:
+  - 1500
+  - 5000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Partner-reported imports from Somalia in 2023 averaged about USD 1.5 per kg for frozen fish and USD 8 to 9 per kg for fillets (S-146, HS 0303 and 0304); crustaceans averaged about USD 28 per kg. A processed export mix at USD 3 per kg.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fish.price
+- id: A-037
+  parameter: 'Fish and seafood processing and cold chain: value-added ratio (share of gross output)'
+  value: 0.19
+  unit: share of gross output
+  range:
+  - 0.17
+  - 0.21
+  basis_claim: D-0046
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), processed foods
+  rationale: Value added at factor cost is 0.171 of gross output for processed foods in Kenya (D-0046) and 0.210 in Ethiopia (D-0050).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fish.va_ratio
+- id: A-038
+  parameter: 'Fish and seafood processing and cold chain: direct jobs per unit of annual capacity in operation'
+  value: 0.038
+  unit: jobs per t per year
+  range:
+  - 0.02
+  - 0.05
+  basis_claim: D-0042
+  comparator: Somalia, NTP EPP 4
+  rationale: The NTP implies 38.4 jobs per 1,000 t (D-0042).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fish.jobs_per_unit
+- id: A-039
+  parameter: 'Fish and seafood processing and cold chain: capital cost per unit of annual capacity'
+  value: 700
+  unit: USD per t per year
+  range:
+  - 500
+  - 1500
+  basis_claim: D-0041
+  comparator: Somalia, NTP EPP 4
+  rationale: The NTP implies USD 673 per tonne of added annual production (D-0041); the range allows for cold-chain costs.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fish.capex_per_unit
+- id: A-040
+  parameter: 'Fish and seafood processing and cold chain: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 0.3
+  unit: fraction
+  range:
+  - 0.2
+  - 0.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Most processed fish is exported; a cold chain also supplies Mogadishu.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fish.domestic_share
+- id: A-041
+  parameter: 'Fish and seafood processing and cold chain: imported inputs as a share of gross output'
+  value: 0.1
+  unit: fraction
+  range:
+  - 0.05
+  - 0.15
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packaging, ice-plant parts and fuel.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fish.imported_input_share
+- id: A-042
+  parameter: 'Fish and seafood processing and cold chain: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.8
+  unit: fraction
+  range:
+  - 0.6
+  - 0.9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Fish bought is mostly new catch landed by Somali fishers, since only 50,000 t is landed today (C-0153).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fish.indirect_additional_share
+- id: A-043
+  parameter: 'Sesame hulling, tahini and halva: capacity in operation at full build-out (2032)'
+  value: 25000
+  unit: t seed per year
+  range:
+  - 15000
+  - 40000
+  basis_claim: C-0157
+  comparator: Somalia sesame production (FAO Hand-in-Hand about 50,000 t; FAOSTAT 16,543 t)
+  rationale: Somalia exported 16,855 t of seed in 2024 (C-0135); production is estimated at 16,543 t (FAOSTAT, C-0127) to about 50,000 t (FAO, C-0157). A 25,000 t plant needs output to grow with the irrigation programme.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.capacity
+- id: A-044
+  parameter: 'Sesame hulling, tahini and halva: mature capacity utilisation'
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.5
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Seed supply varies with the Gu and Deyr rains.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.utilisation
+- id: A-045
+  parameter: 'Sesame hulling, tahini and halva: price or output value per unit'
+  value: 1800
+  unit: USD per t seed processed
+  range:
+  - 1550
+  - 2050
+  basis_claim: D-0036
+  comparator: Somalia sesame seed export unit value 2024 (FAOSTAT)
+  rationale: Raw seed exports averaged USD 1,390 per tonne in 2024 (D-0036); hulled seed, tahini and halva sell at an assumed 30 percent premium (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.price
+- id: A-046
+  parameter: 'Sesame hulling, tahini and halva: value-added ratio (share of gross output)'
+  value: 0.15
+  unit: share of gross output
+  range:
+  - 0.1
+  - 0.21
+  basis_claim: D-0046
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), processed foods
+  rationale: Below the processed-food average (0.171 Kenya, 0.210 Ethiopia; D-0046, D-0050) because hulling adds little to the seed price.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.va_ratio
+- id: A-047
+  parameter: 'Sesame hulling, tahini and halva: direct jobs per unit of annual capacity in operation'
+  value: 0.008
+  unit: jobs per t per year
+  range:
+  - 0.004
+  - 0.015
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: No benchmark with employment found; judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.jobs_per_unit
+- id: A-048
+  parameter: 'Sesame hulling, tahini and halva: capital cost per unit of annual capacity'
+  value: 1500
+  unit: USD per t per year
+  range:
+  - 800
+  - 2000
+  basis_claim: D-0015
+  comparator: Mozambique, Robust International plant (trade media, 2025)
+  rationale: USD 30 million for 20,000 t a year (D-0015), attributed to trade media.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.capex_per_unit
+- id: A-049
+  parameter: 'Sesame hulling, tahini and halva: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 0.05
+  unit: fraction
+  range:
+  - 0.0
+  - 0.1
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Hulled sesame is an export product; small tahini and halva sales at home.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.domestic_share
+- id: A-050
+  parameter: 'Sesame hulling, tahini and halva: imported inputs as a share of gross output'
+  value: 0.03
+  unit: fraction
+  range:
+  - 0.01
+  - 0.05
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packaging only.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.imported_input_share
+- id: A-051
+  parameter: 'Sesame hulling, tahini and halva: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.3
+  unit: fraction
+  range:
+  - 0.1
+  - 0.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Seed bought would otherwise be exported raw (counted as forgone exports); only production growth is new.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.indirect_additional_share
+- id: A-052
+  parameter: 'Sesame hulling: share of seed that would otherwise have been exported raw'
+  value: 0.9
+  unit: fraction
+  range:
+  - 0.7
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Almost all marketed sesame is exported raw (FAO Hand-in-Hand, C-0159).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.diversion_share
+- id: A-053
+  parameter: Raw sesame export value forgone per tonne of seed processed
+  value: 1390
+  unit: USD per t
+  range:
+  - 1200
+  - 1550
+  basis_claim: D-0036
+  comparator: Somalia sesame seed export unit value 2024 (FAOSTAT)
+  rationale: D-0036; the range reflects price swings.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.raw_value_per_t
+- id: A-054
+  parameter: 'Sesame oil pressing and refining: capacity in operation at full build-out (2032)'
+  value: 5000
+  unit: t seed crushed per year
+  range:
+  - 2000
+  - 10000
+  basis_claim: C-0161
+  comparator: Somalia, FAO Hand-in-Hand sesame oil investment (capacity not stated)
+  rationale: A mid-sized pressing and refining plant; FAO's investment case budgets USD 6.66 million for sesame oil processing (C-0161).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.capacity
+- id: A-055
+  parameter: 'Sesame oil pressing and refining: mature capacity utilisation'
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.5
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Seed supply constraint shared with hulling.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.utilisation
+- id: A-056
+  parameter: 'Sesame oil pressing and refining: price or output value per unit'
+  value: 1350
+  unit: USD of oil per t seed crushed
+  range:
+  - 740
+  - 2000
+  basis_claim: D-0038
+  comparator: Somalia sesame oil export unit value 2024 (FAOSTAT)
+  rationale: Oil yield 0.45 x oil price USD 3,000 per tonne (both judgment). Somalia's small 2024 exports averaged USD 1,840 per tonne (D-0038), which sets the low end. Cake counts in animal feed and is not valued (CLAUDE.md 13.3).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.price
+- id: A-057
+  parameter: 'Sesame oil pressing and refining: value-added ratio (share of gross output)'
+  value: 0.12
+  unit: share of gross output
+  range:
+  - 0.08
+  - 0.21
+  basis_claim: D-0046
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), processed foods
+  rationale: Below the processed-food average (D-0046, D-0050); oil pressing adds a thin margin.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.va_ratio
+- id: A-058
+  parameter: 'Sesame oil pressing and refining: direct jobs per unit of annual capacity in operation'
+  value: 0.008
+  unit: jobs per t seed per year
+  range:
+  - 0.005
+  - 0.012
+  basis_claim: C-0244
+  comparator: Ethiopia, HCFM2 edible oil refinery (MIGA 2021)
+  rationale: HCFM2's 75 t a day refinery employs 184 permanent staff (C-0244).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.jobs_per_unit
+- id: A-059
+  parameter: 'Sesame oil pressing and refining: capital cost per unit of annual capacity'
+  value: 800
+  unit: USD per t seed per year
+  range:
+  - 500
+  - 1400
+  basis_claim: C-0161
+  comparator: Somalia, FAO Hand-in-Hand (capacity not stated)
+  rationale: Judgment informed by C-0161.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.capex_per_unit
+- id: A-060
+  parameter: 'Sesame oil pressing and refining: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.5
+  - 0.9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Sesame oil replaces part of imported vegetable oils (palm oil imports USD 109.9 million in 2024, C-0148).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.domestic_share
+- id: A-061
+  parameter: 'Sesame oil pressing and refining: imported inputs as a share of gross output'
+  value: 0.05
+  unit: fraction
+  range:
+  - 0.02
+  - 0.1
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packaging and refining chemicals.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.imported_input_share
+- id: A-062
+  parameter: 'Sesame oil pressing and refining: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.3
+  unit: fraction
+  range:
+  - 0.1
+  - 0.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: As for hulling.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.indirect_additional_share
+- id: A-063
+  parameter: 'Sesame oil: share of seed that would otherwise have been exported raw'
+  value: 0.9
+  unit: fraction
+  range:
+  - 0.7
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: As for hulling.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.diversion_share
+- id: A-064
+  parameter: 'Fruit processing and fresh fruit export: capacity in operation at full build-out (2032)'
+  value: 30000
+  unit: t fruit per year
+  range:
+  - 15000
+  - 60000
+  basis_claim: C-0134
+  comparator: Somalia banana production 2024 (FAOSTAT estimate)
+  rationale: Banana production is estimated at 23,554 t (C-0134) and no partner reported banana imports from Somalia in 2022 to 2024 (S-146); revival needs new plantings under the irrigation programme. Packhouses and a juice and puree line handle 30,000 t.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.capacity
+- id: A-065
+  parameter: 'Fruit processing and fresh fruit export: mature capacity utilisation'
+  value: 0.6
+  unit: fraction
+  range:
+  - 0.45
+  - 0.75
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Seasonal supply.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.utilisation
+- id: A-066
+  parameter: 'Fruit processing and fresh fruit export: price or output value per unit'
+  value: 700
+  unit: USD per t
+  range:
+  - 500
+  - 1000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Partner-reported citrus imports from Somalia averaged about USD 0.85 per kg in 2023 (S-146); mixed fresh and processed output at USD 0.7 per kg (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.price
+- id: A-067
+  parameter: 'Fruit processing and fresh fruit export: value-added ratio (share of gross output)'
+  value: 0.19
+  unit: share of gross output
+  range:
+  - 0.17
+  - 0.21
+  basis_claim: D-0046
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), processed foods
+  rationale: Value added at factor cost is 0.171 of gross output for processed foods in Kenya (D-0046) and 0.210 in Ethiopia (D-0050).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.va_ratio
+- id: A-068
+  parameter: 'Fruit processing and fresh fruit export: direct jobs per unit of annual capacity in operation'
+  value: 0.015
+  unit: jobs per t per year
+  range:
+  - 0.008
+  - 0.025
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packhouses are labour-intensive; judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.jobs_per_unit
+- id: A-069
+  parameter: 'Fruit processing and fresh fruit export: capital cost per unit of annual capacity'
+  value: 300
+  unit: USD per t per year
+  range:
+  - 150
+  - 600
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packhouse with cold room and a small processing line; judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.capex_per_unit
+- id: A-070
+  parameter: 'Fruit processing and fresh fruit export: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 0.3
+  unit: fraction
+  range:
+  - 0.2
+  - 0.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Mostly export.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.domestic_share
+- id: A-071
+  parameter: 'Fruit processing and fresh fruit export: imported inputs as a share of gross output'
+  value: 0.1
+  unit: fraction
+  range:
+  - 0.05
+  - 0.15
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packaging.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.imported_input_share
+- id: A-072
+  parameter: 'Fruit processing and fresh fruit export: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.5
+  - 0.9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Fruit for export and processing comes mainly from new and rehabilitated plantings.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.indirect_additional_share
+- id: A-073
+  parameter: 'Flour milling with grain silos: capacity in operation at full build-out (2032)'
+  value: 200000
+  unit: t flour per year
+  range:
+  - 120000
+  - 280000
+  basis_claim: C-0329
+  comparator: Somalia wheat flour imports 2024 (FAOSTAT)
+  rationale: Somalia imported about 335,905 t of wheat flour in 2024 (C-0329, imputed). Mills in Mogadishu replace about 60 percent by 2032, grinding imported wheat grain plus local maize and sorghum.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: flour.capacity
+- id: A-074
+  parameter: 'Flour milling with grain silos: mature capacity utilisation'
+  value: 0.8
+  unit: fraction
+  range:
+  - 0.7
+  - 0.9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Mills run near capacity once grain supply is contracted.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: flour.utilisation
+- id: A-075
+  parameter: 'Flour milling with grain silos: price or output value per unit'
+  value: 400
+  unit: USD per t flour
+  range:
+  - 350
+  - 450
+  basis_claim: D-0037
+  comparator: Somalia wheat flour import unit value 2024 (FAOSTAT)
+  rationale: 'D-0037: USD 398 per tonne.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: flour.price
+- id: A-076
+  parameter: 'Flour milling with grain silos: value-added ratio (share of gross output)'
+  value: 0.12
+  unit: share of gross output
+  range:
+  - 0.08
+  - 0.21
+  basis_claim: D-0046
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), processed foods
+  rationale: 'Below the processed-food average (D-0046, D-0050): milling adds a thin margin to imported grain; bran counts in feed and is not valued.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: flour.va_ratio
+- id: A-077
+  parameter: 'Flour milling with grain silos: direct jobs per unit of annual capacity in operation'
+  value: 0.0015
+  unit: jobs per t flour per year
+  range:
+  - 0.001
+  - 0.0025
+  basis_claim: D-0007
+  comparator: South Africa, Bakhresa mill (IFC 2014); Sierra Leone Flour Mill (IFC 2024)
+  rationale: 26.7 to 58.7 staff per 100 t a day of wheat (D-0007, D-0009); at about 330 days and 0.75 t flour per t wheat, 1.1 to 2.4 jobs per 1,000 t of flour.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: flour.jobs_per_unit
+- id: A-078
+  parameter: 'Flour milling with grain silos: capital cost per unit of annual capacity'
+  value: 400
+  unit: USD per t flour per year
+  range:
+  - 250
+  - 550
+  basis_claim: D-0006
+  comparator: South Africa, Bakhresa mill (IFC 2014); Sierra Leone Flour Mill (IFC 2024)
+  rationale: USD 106,667 per t a day for a refitted mill (D-0006) and USD 64,000 per t a day added with storage (D-0008), converted at about 330 days and 0.75 extraction; the range allows for strategic-reserve silos.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: flour.capex_per_unit
+- id: A-079
+  parameter: 'Flour milling with grain silos: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 1.0
+  unit: fraction
+  range:
+  - 0.95
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Flour is sold at home.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: flour.domestic_share
+- id: A-080
+  parameter: 'Flour milling with grain silos: imported inputs as a share of gross output'
+  value: 0.75
+  unit: fraction
+  range:
+  - 0.65
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Wheat grain is imported; only maize and sorghum blends are local.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: flour.imported_input_share
+- id: A-081
+  parameter: 'Flour milling with grain silos: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.5
+  unit: fraction
+  range:
+  - 0.3
+  - 0.7
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Local maize and sorghum for blending are partly new production.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: flour.indirect_additional_share
+- id: A-082
+  parameter: 'Camel milk and dairy processing: capacity in operation at full build-out (2032)'
+  value: 60000000
+  unit: litres per year
+  range:
+  - 30000000
+  - 120000000
+  basis_claim: C-0139
+  comparator: Somalia whole milk powder imports 2024 (FAOSTAT estimate, USD 200 million)
+  rationale: About 200,000 litres a day at 300 days. Imported milk powder cost about USD 200 million in 2024 (C-0139). FAOSTAT estimates camel milk output at about 1 million t a year (C-0128), so supply is not binding. The NTP targets 7,900 litres a day of processed fresh milk by 2029 (C-0229).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.capacity
+- id: A-083
+  parameter: 'Camel milk and dairy processing: mature capacity utilisation'
+  value: 0.6
+  unit: fraction
+  range:
+  - 0.45
+  - 0.75
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Milk collection is seasonal.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.utilisation
+- id: A-084
+  parameter: 'Camel milk and dairy processing: price or output value per unit'
+  value: 0.9
+  unit: USD per litre
+  range:
+  - 0.6
+  - 1.2
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packaged pasteurised and long-life milk; no Somali price series found (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.price
+- id: A-085
+  parameter: 'Camel milk and dairy processing: value-added ratio (share of gross output)'
+  value: 0.19
+  unit: share of gross output
+  range:
+  - 0.17
+  - 0.21
+  basis_claim: D-0046
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), processed foods
+  rationale: Value added at factor cost is 0.171 of gross output for processed foods in Kenya (D-0046) and 0.210 in Ethiopia (D-0050).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.va_ratio
+- id: A-086
+  parameter: 'Camel milk and dairy processing: direct jobs per unit of annual capacity in operation'
+  value: 2.0e-06
+  unit: jobs per litre per year
+  range:
+  - 8.0e-07
+  - 3.0e-06
+  basis_claim: D-0031
+  comparator: Uganda, Pearl Dairy (IFC 2013)
+  rationale: Pearl Dairy had 0.25 contracted workers per 1,000 litres a day before commissioning (D-0031), and expected about 50 percent more plus daily workers at peak (about 2 per million litres a year).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.jobs_per_unit
+- id: A-087
+  parameter: 'Camel milk and dairy processing: capital cost per unit of annual capacity'
+  value: 0.22
+  unit: USD per litre per year
+  range:
+  - 0.18
+  - 0.35
+  basis_claim: D-0010
+  comparator: Uganda, Pearl Dairy (IFC 2013)
+  rationale: USD 55.6 to 62.5 per litre a day of capacity (D-0010, D-0032), about USD 0.19 to 0.21 per litre a year.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.capex_per_unit
+- id: A-088
+  parameter: 'Camel milk and dairy processing: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 0.9
+  unit: fraction
+  range:
+  - 0.8
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Replaces imported milk powder.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.domestic_share
+- id: A-089
+  parameter: 'Camel milk and dairy processing: imported inputs as a share of gross output'
+  value: 0.1
+  unit: fraction
+  range:
+  - 0.05
+  - 0.2
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packaging.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.imported_input_share
+- id: A-090
+  parameter: 'Camel milk and dairy processing: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.6
+  unit: fraction
+  range:
+  - 0.4
+  - 0.8
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Much camel milk is consumed by herders or spoils; a collection network turns it into marketed supply.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.indirect_additional_share
+- id: A-091
+  parameter: 'Soap and detergents: capacity in operation at full build-out (2032)'
+  value: 20000
+  unit: t per year
+  range:
+  - 10000
+  - 30000
+  basis_claim: D-0018
+  comparator: Somalia soap and detergent imports 2023, lower bounds (UN Comtrade mirror data)
+  rationale: Reported imports were at least USD 20.9 million of soap (D-0018) and USD 27.5 million of detergents (D-0020) in 2023, roughly 40,000 t at about USD 1 per kg (D-0019). Tallow from the abattoirs is a local input (counted here, not in meat).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: soap.capacity
+- id: A-092
+  parameter: 'Soap and detergents: mature capacity utilisation'
+  value: 0.75
+  unit: fraction
+  range:
+  - 0.6
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Competition from imports keeps utilisation below full.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: soap.utilisation
+- id: A-093
+  parameter: 'Soap and detergents: price or output value per unit'
+  value: 1000
+  unit: USD per t
+  range:
+  - 850
+  - 1150
+  basis_claim: D-0019
+  comparator: Soap unit value of exports to Somalia 2023 (UN Comtrade mirror data)
+  rationale: D-0019.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: soap.price
+- id: A-094
+  parameter: 'Soap and detergents: value-added ratio (share of gross output)'
+  value: 0.2
+  unit: share of gross output
+  range:
+  - 0.15
+  - 0.35
+  basis_claim: D-0049
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), chemicals and petroleum
+  rationale: The chemicals sector ratio is 0.454 in Kenya (D-0045) and 0.353 in Ethiopia (D-0049) but includes refining and pharmaceuticals; soap made from imported noodles adds less, so the base is 0.20 and the SAM values bound the range.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: soap.va_ratio
+- id: A-095
+  parameter: 'Soap and detergents: direct jobs per unit of annual capacity in operation'
+  value: 0.0058
+  unit: jobs per t per year
+  range:
+  - 0.0045
+  - 0.01
+  basis_claim: D-0012
+  comparator: Ethiopia, ZAK soap plant (MIGA 2021)
+  rationale: ZAK had 4.5 permanent employees per 1,000 t (D-0012) plus outsourced workers (C-0243).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: soap.jobs_per_unit
+- id: A-096
+  parameter: 'Soap and detergents: capital cost per unit of annual capacity'
+  value: 350
+  unit: USD per t per year
+  range:
+  - 200
+  - 750
+  basis_claim: C-0240
+  comparator: Ethiopia, MM soap finishing plant (IFC 2014; capacity not stated)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: soap.capex_per_unit
+- id: A-097
+  parameter: 'Soap and detergents: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 1.0
+  unit: fraction
+  range:
+  - 0.9
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Sold at home.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: soap.domestic_share
+- id: A-098
+  parameter: 'Soap and detergents: imported inputs as a share of gross output'
+  value: 0.6
+  unit: fraction
+  range:
+  - 0.45
+  - 0.75
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Soap noodles, palm oil and fragrances are imported unless tallow and local oils substitute.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: soap.imported_input_share
+- id: A-099
+  parameter: 'Soap and detergents: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.5
+  unit: fraction
+  range:
+  - 0.3
+  - 0.7
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Tallow and packaging bought locally; tallow is a new use of an abattoir byproduct.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: soap.indirect_additional_share
+- id: A-100
+  parameter: 'Diapers and hygiene products: capacity in operation at full build-out (2032)'
+  value: 6000
+  unit: t per year
+  range:
+  - 3000
+  - 10000
+  basis_claim: D-0021
+  comparator: Somalia HS 9619 imports 2023, lower bound (UN Comtrade mirror data)
+  rationale: Reported imports were at least USD 29.1 million in 2023 (D-0021), about 10,400 t at USD 2.81 per kg (D-0022).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: diapers.capacity
+- id: A-101
+  parameter: 'Diapers and hygiene products: mature capacity utilisation'
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.55
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Competition from imports.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: diapers.utilisation
+- id: A-102
+  parameter: 'Diapers and hygiene products: price or output value per unit'
+  value: 2810
+  unit: USD per t
+  range:
+  - 2400
+  - 3200
+  basis_claim: D-0022
+  comparator: HS 9619 unit value of exports to Somalia 2023 (UN Comtrade mirror data)
+  rationale: D-0022.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: diapers.price
+- id: A-103
+  parameter: 'Diapers and hygiene products: value-added ratio (share of gross output)'
+  value: 0.2
+  unit: share of gross output
+  range:
+  - 0.15
+  - 0.35
+  basis_claim: D-0049
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), chemicals and petroleum
+  rationale: 'As for soap: the chemicals sector ratio (0.353 to 0.454, D-0045, D-0049) bounds the range; conversion of imported materials adds less.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: diapers.va_ratio
+- id: A-104
+  parameter: 'Diapers and hygiene products: direct jobs per unit of annual capacity in operation'
+  value: 0.025
+  unit: jobs per t per year
+  range:
+  - 0.015
+  - 0.04
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: About 150 jobs for 6,000 t; no benchmark with employment found.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: diapers.jobs_per_unit
+- id: A-105
+  parameter: 'Diapers and hygiene products: capital cost per unit of annual capacity'
+  value: 1500
+  unit: USD per t per year
+  range:
+  - 1000
+  - 2500
+  basis_claim: C-0251
+  comparator: Sunda diaper lines in four African countries (IFC 2025; capacity not stated)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: diapers.capex_per_unit
+- id: A-106
+  parameter: 'Diapers and hygiene products: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 1.0
+  unit: fraction
+  range:
+  - 0.9
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Sold at home.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: diapers.domestic_share
+- id: A-107
+  parameter: 'Diapers and hygiene products: imported inputs as a share of gross output'
+  value: 0.6
+  unit: fraction
+  range:
+  - 0.5
+  - 0.75
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Most raw materials are imported.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: diapers.imported_input_share
+- id: A-108
+  parameter: 'Diapers and hygiene products: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.5
+  unit: fraction
+  range:
+  - 0.3
+  - 0.7
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packaging and services bought locally.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: diapers.indirect_additional_share
+- id: A-109
+  parameter: 'Baati and macawis garments: capacity in operation at full build-out (2032)'
+  value: 10000
+  unit: jobs at full capacity per year
+  range:
+  - 5000
+  - 20000
+  basis_claim: D-0023
+  comparator: Somalia apparel imports 2023, lower bound (UN Comtrade mirror data)
+  rationale: Apparel imports were at least USD 134.8 million in 2023 (D-0023); NBS records USD 907.9 million of clothes and footwear imports in 2024 (D-0003). 10,000 sewing jobs at USD 6,000 of output each supply about USD 48 million a year at 80 percent utilisation. Ethiopian wages a quarter of China's with comparable productivity in well-managed firms (C-0374) show that African garment making can compete.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: garments.capacity
+- id: A-110
+  parameter: 'Baati and macawis garments: mature capacity utilisation'
+  value: 0.8
+  unit: fraction
+  range:
+  - 0.65
+  - 0.9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Share of sewing capacity in use.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: garments.utilisation
+- id: A-111
+  parameter: 'Baati and macawis garments: price or output value per unit'
+  value: 6000
+  unit: USD of output per worker per year
+  range:
+  - 4000
+  - 9000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Domestic garments; no Somali productivity data (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: garments.price
+- id: A-112
+  parameter: 'Baati and macawis garments: value-added ratio (share of gross output)'
+  value: 0.4
+  unit: share of gross output
+  range:
+  - 0.35
+  - 0.45
+  basis_claim: D-0047
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), textiles, clothing and footwear
+  rationale: 0.414 in Kenya (D-0047) and 0.395 in Ethiopia (D-0051).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: garments.va_ratio
+- id: A-113
+  parameter: 'Baati and macawis garments: direct jobs per unit of annual capacity in operation'
+  value: 1
+  unit: jobs per job place
+  range:
+  - 1
+  - 1
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Capacity is measured in jobs.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: garments.jobs_per_unit
+- id: A-114
+  parameter: 'Baati and macawis garments: capital cost per unit of annual capacity'
+  value: 5000
+  unit: USD per job
+  range:
+  - 3448
+  - 7000
+  basis_claim: D-0014
+  comparator: Kenya, Royal CMT (IFC 2024); Ghana, DTRT (IFC 2022)
+  rationale: USD 5,405 per job at Royal (D-0014) and USD 3,333 to 4,228 at DTRT, whose building is leased (D-0013, D-0033, D-0035).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: garments.capex_per_unit
+- id: A-115
+  parameter: 'Baati and macawis garments: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 1.0
+  unit: fraction
+  range:
+  - 0.9
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Baati and macawis are sold at home.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: garments.domestic_share
+- id: A-116
+  parameter: 'Baati and macawis garments: imported inputs as a share of gross output'
+  value: 0.5
+  unit: fraction
+  range:
+  - 0.4
+  - 0.6
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Fabric is imported.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: garments.imported_input_share
+- id: A-117
+  parameter: 'Baati and macawis garments: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.5
+  unit: fraction
+  range:
+  - 0.3
+  - 0.7
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Trims, packaging, transport and services bought locally.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: garments.indirect_additional_share
+- id: A-118
+  parameter: 'Business process outsourcing: capacity in operation at full build-out (2032)'
+  value: 5000
+  unit: seats per year
+  range:
+  - 2000
+  - 10000
+  basis_claim: C-0225
+  comparator: Kenya GBS and BPO workforce, 36,000 (KenInvest 2026)
+  rationale: Kenya's sector employs about 36,000 (C-0225). 5,000 seats (about 6,500 jobs) serve Somali-, Arabic- and English-language clients in the Gulf and the diaspora.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bpo.capacity
+- id: A-119
+  parameter: 'Business process outsourcing: mature capacity utilisation'
+  value: 0.8
+  unit: fraction
+  range:
+  - 0.65
+  - 0.9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Seat occupancy.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bpo.utilisation
+- id: A-120
+  parameter: 'Business process outsourcing: price or output value per unit'
+  value: 10000
+  unit: USD revenue per seat per year
+  range:
+  - 7000
+  - 15000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: No Somali or Kenyan revenue-per-seat figure found (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bpo.price
+- id: A-121
+  parameter: 'Business process outsourcing: value-added ratio (share of gross output)'
+  value: 0.6
+  unit: share of gross output
+  range:
+  - 0.41
+  - 0.8
+  basis_claim: D-0044
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), business services
+  rationale: Business services value-added ratio is 0.408 in Kenya (D-0044) and 0.963 in Ethiopia (D-0048); BPO is wage-intensive, so the base is 0.6.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bpo.va_ratio
+- id: A-122
+  parameter: 'Business process outsourcing: direct jobs per unit of annual capacity in operation'
+  value: 1.3
+  unit: jobs per seat
+  range:
+  - 1.1
+  - 1.6
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Shift work puts more than one worker per seat.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bpo.jobs_per_unit
+- id: A-123
+  parameter: 'Business process outsourcing: capital cost per unit of annual capacity'
+  value: 4000
+  unit: USD per seat
+  range:
+  - 2500
+  - 7000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Fit-out, equipment and connectivity; judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bpo.capex_per_unit
+- id: A-124
+  parameter: 'Business process outsourcing: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 0.0
+  unit: fraction
+  range:
+  - 0.0
+  - 0.1
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Services are exported.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bpo.domestic_share
+- id: A-125
+  parameter: 'Business process outsourcing: imported inputs as a share of gross output'
+  value: 0.1
+  unit: fraction
+  range:
+  - 0.05
+  - 0.15
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Software licences and international bandwidth.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bpo.imported_input_share
+- id: A-126
+  parameter: 'Business process outsourcing: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.5
+  - 0.9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Office space, power, security and catering bought locally, mostly new demand.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bpo.indirect_additional_share
+- id: A-127
+  parameter: Value added generated per unit of additional domestic input purchases (supply-chain content)
+  value: 0.8
+  unit: share
+  range:
+  - 0.6
+  - 0.95
+  basis_claim: null
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI); tools/sam_multipliers.py
+  rationale: 'Type I SAM coefficients give total value added per unit of output of the supplying sectors of 0.86 (Kenya) and 0.96 (Ethiopia) for cattle, 0.81 and 0.80 for fisheries, 0.97 and 0.99 for oilseeds, and 0.90 for trade (reports/sam_multipliers.md: VA ratio x Type I multiplier). Somalia imports more of its inputs, so the base is 0.80.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: indirect.va_content
+- id: A-128
+  parameter: Share of value added received by Somali households (wages, mixed income, remitted profits)
+  value: 0.6
+  unit: share
+  range:
+  - 0.45
+  - 0.75
+  basis_claim: null
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI)
+  rationale: In the SAMs, labour takes 15 to 47 percent of manufacturing value added and households also receive most agricultural capital income; foreign joint-venture partners repatriate part of the profits. Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: induced.household_share_of_va
+- id: A-129
+  parameter: Marginal propensity to consume out of household income
+  value: 0.9
+  unit: share
+  range:
+  - 0.8
+  - 0.95
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Low-income households spend almost all additional income.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: induced.mpc
+- id: A-130
+  parameter: Share of household spending that buys domestically produced goods and services
+  value: 0.3
+  unit: share
+  range:
+  - 0.2
+  - 0.45
+  basis_claim: C-0038
+  comparator: Somalia, NBS 2026 (at least 90 percent of essential commodities imported)
+  rationale: At least 90 percent of essential commodities consumed are imported (C-0038); services, livestock products and local food raise the domestic share of spending to about 30 percent (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: induced.domestic_share
+- id: A-131
+  parameter: Government revenue collected per unit of additional value added
+  value: 0.028
+  unit: share of value added
+  range:
+  - 0.025
+  - 0.05
+  basis_claim: C-0222
+  comparator: Somalia, World Bank (federal domestic revenue 2.8 percent of GDP in 2023)
+  rationale: 'Federal domestic revenue was 2.8 percent of GDP in 2023 (C-0222). Formal plants in industrial parks pay more tax than the average activity; the high end reflects revenue reforms. Indicative: no statutory tax schedule is modelled.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fiscal.revenue_ratio
+- id: A-132
+  parameter: Customs duty forgone per unit of imports displaced
+  value: 0.032
+  unit: share of import value
+  range:
+  - 0.025
+  - 0.06
+  basis_claim: D-0059
+  comparator: Somalia, IMF 2025 (taxes on international trade and goods imports, 2024)
+  rationale: General government taxes on international trade were USD 241.6 million in 2024 (C-0424) against goods imports of USD 7,627 million (C-0434), an indicative effective rate of 3.2 percent (D-0059). The trade-tax figure excludes Somaliland (which understates the rate), while an f.o.b. import base and possible export duties overstate it; the net bias is uncertain. The high end allows for the move to ad valorem tariffs and the East African Community common external tariff, which the IMF programme supports.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fiscal.customs_rate_displaced
+- id: A-133
+  parameter: Imported share of plant capital costs (machinery and equipment)
+  value: 0.7
+  unit: share
+  range:
+  - 0.6
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Machinery, cold-chain and processing equipment are imported; construction is partly local.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bop.capex_import_share
+- id: A-134
+  parameter: CO2 emission factor of diesel generation displaced
+  value: 0.692
+  unit: t CO2 per MWh
+  range:
+  - 0.692
+  - 0.736
+  basis_claim: D-0017
+  comparator: IPCC 2006 default with the Ministry of Energy plan heat rate
+  rationale: Base D-0017 (IPCC-based); high end D-0034 (plan's own factor); conflict X-015.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: energy.diesel_ef_t_per_mwh
+- id: A-135
+  parameter: Solar PV capacity of the park mini-grids at full build-out
+  value: 40
+  unit: MW
+  range:
+  - 20
+  - 60
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Sized to the parks' daytime load (judgment; no load study exists). Procured as one vehicle (CLAUDE.md section 10).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.pv_mw
+- id: A-136
+  parameter: Solar PV capacity factor in Mogadishu
+  value: 0.204
+  unit: fraction
+  range:
+  - 0.18
+  - 0.22
+  basis_claim: D-0052
+  comparator: Global Solar Atlas (World Bank / ESMAP), Mogadishu
+  rationale: 1,785 kWh per kWp a year (C-0377) over 8,760 hours gives 0.204 (D-0052); the range allows for park-site differences, soiling and inverter losses beyond the model.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.capacity_factor
+- id: A-137
+  parameter: Share of solar output that displaces diesel generation
+  value: 1.0
+  unit: fraction
+  range:
+  - 0.8
+  - 1.0
+  basis_claim: C-0090
+  comparator: Somalia, World Bank 2026 (private diesel mini-grids supply at least 90 percent of urban electricity)
+  rationale: The incumbent for park loads is private diesel generation (C-0090); some output may serve load that would not otherwise exist.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.diesel_displaced_share
+- id: A-138
+  parameter: Solar PV capital cost
+  value: 700
+  unit: USD per kW
+  range:
+  - 600
+  - 900
+  basis_claim: C-0098
+  comparator: Somalia, Ministry of Energy generation plan (2030 assumption)
+  rationale: C-0098; IRENA's 2024 global average is USD 691 per kW (C-0212).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.pv_capex_per_kw
+- id: A-139
+  parameter: Battery power capacity per kW of PV
+  value: 0.5
+  unit: kW per kW
+  range:
+  - 0.3
+  - 0.8
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Four-hour batteries sized to shift part of the midday output to evening shifts (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.battery_kw_per_pv_kw
+- id: A-140
+  parameter: Battery storage capital cost (4 hours)
+  value: 800
+  unit: USD per kW
+  range:
+  - 600
+  - 1000
+  basis_claim: C-0099
+  comparator: Somalia, Ministry of Energy generation plan (2030 assumption)
+  rationale: C-0099; IRENA's USD 192 per kWh (C-0211) gives about USD 770 per kW for four hours.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.battery_capex_per_kw
+- id: A-141
+  parameter: Levelised cost of solar hybrid mini-grid electricity
+  value: 0.38
+  unit: USD per kWh
+  range:
+  - 0.3
+  - 0.5
+  basis_claim: C-0213
+  comparator: ESMAP 2021, best-in-class solar hybrid mini-grids
+  rationale: C-0213; costs have fallen since 2021, but Somali finance and security costs are higher.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.lcoe_solar_usd_per_kwh
+  status: retired
+  retired_note: 'Retired 2026-09-24: clean cooking is now modelled from the Cluster 3 stove and pellet lines (Hassan Mumin''s instruction of 2026-09-24). Kept for the record; not a model input.'
+- id: A-142
+  parameter: Full cost of diesel generation displaced
+  value: 400
+  unit: USD per MWh
+  range:
+  - 350
+  - 550
+  basis_claim: C-0230
+  comparator: Somalia, Ministry of Energy generation plan
+  rationale: C-0230; the March 2026 fuel price rise to USD 1.50 per litre (C-0040) raises the upper end.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.diesel_cost_usd_per_mwh
+- id: A-143
+  parameter: Diesel pump price
+  value: 1.0
+  unit: USD per litre
+  range:
+  - 0.6
+  - 1.5
+  basis_claim: C-0040
+  comparator: Mogadishu, NBS 2026
+  rationale: USD 0.60 before and USD 1.50 after the February 2026 shock (C-0039, C-0040); base USD 1.00.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fuel.diesel_price_usd_per_litre
+- id: A-144
+  parameter: Discount rate for annualising capital costs (MCS cost per tonne)
+  value: 0.1
+  unit: fraction
+  range:
+  - 0.08
+  - 0.14
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Real cost of capital for infrastructure in a fragile state (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: finance.discount_rate
+- id: A-145
+  parameter: Diesel irrigation pumps replaced by solar pumps by 2032
+  value: 2000
+  unit: pumps
+  range:
+  - 1000
+  - 4000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: No census of diesel pumps in the Shabelle and Juba valleys exists (figure gap); judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: irrigation.pumps
+- id: A-146
+  parameter: Diesel use per irrigation pump a year
+  value: 2500
+  unit: litres
+  range:
+  - 1500
+  - 4000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment; to be surveyed.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: irrigation.diesel_litres_per_pump
+- id: A-147
+  parameter: Solar pumping system cost per pump replaced
+  value: 7000
+  unit: USD
+  range:
+  - 4000
+  - 10000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: irrigation.capex_per_pump
+- id: A-148
+  parameter: Solar pump system life
+  value: 15
+  unit: years
+  range:
+  - 10
+  - 20
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: irrigation.lifetime_years
+- id: A-149
+  parameter: Mogadishu waste deposited at the managed landfill with gas capture (full operation)
+  value: 230000
+  unit: t per year
+  range:
+  - 150000
+  - 450000
+  basis_claim: C-0378
+  comparator: Mogadishu waste estimate (Ritter 2019, cited in Frontiers in Sustainability 2026)
+  rationale: Mogadishu generates about 2,500 tons a day (C-0378; secondary estimate, conflict X-018), about 912,500 t a year. Somalia's BUR1 assumes, conservatively, that waste is collected from 25 percent of the urban population (C-0381); about 230,000 t a year reaching the landfill is roughly that share of the city's waste.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: waste.tonnes_per_year
+- id: A-150
+  parameter: Landfill gas collection and destruction efficiency over the site's life
+  value: 0.5
+  unit: fraction
+  range:
+  - 0.3
+  - 0.7
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment. Below 0.4, a managed site with capture emits more methane than an open dump (MCF 1.0 against 0.6).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: waste.capture_efficiency
+- id: A-151
+  parameter: Long-run methane potential per tonne of waste at a managed anaerobic site
+  value: 1.36
+  unit: t CO2e per t
+  range:
+  - 1.0
+  - 1.7
+  basis_claim: D-0028
+  comparator: IPCC 2006 defaults with Eastern Africa composition
+  rationale: D-0028; range from the IPCC DOC ranges for food waste.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: waste.lo_tco2e_per_t_mcf1
+- id: A-152
+  parameter: Landfill and gas capture capital cost per tonne of annual capacity
+  value: 40
+  unit: USD per t per year
+  range:
+  - 25
+  - 70
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: waste.capex_per_t_per_year
+- id: A-153
+  parameter: Landfill cell and gas system life
+  value: 20
+  unit: years
+  range:
+  - 15
+  - 25
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: waste.lifetime_years
+- id: A-154
+  parameter: Electric buses in service by 2032
+  value: 100
+  unit: buses
+  range:
+  - 50
+  - 200
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: A small number of major corridors (CLAUDE.md section 10).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: ebus.buses
+- id: A-155
+  parameter: Distance per bus a year
+  value: 60000
+  unit: km
+  range:
+  - 45000
+  - 75000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: ebus.km_per_bus
+- id: A-156
+  parameter: Diesel use of the bus replaced
+  value: 0.4
+  unit: litres per km
+  range:
+  - 0.33
+  - 0.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: ebus.diesel_litres_per_km
+- id: A-157
+  parameter: Electric bus energy use
+  value: 1.2
+  unit: kWh per km
+  range:
+  - 1.0
+  - 1.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: ebus.kwh_per_km
+- id: A-158
+  parameter: Share of bus charging from solar
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.4
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Depot charging from solar; the rest from diesel-based supply.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: ebus.solar_charged_share
+- id: A-159
+  parameter: Electric bus and charger cost
+  value: 350000
+  unit: USD per bus
+  range:
+  - 250000
+  - 450000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: ebus.capex_per_bus
+- id: A-160
+  parameter: Diesel bus cost (counterfactual)
+  value: 150000
+  unit: USD per bus
+  range:
+  - 120000
+  - 200000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: ebus.diesel_bus_capex
+- id: A-161
+  parameter: Bus life
+  value: 12
+  unit: years
+  range:
+  - 10
+  - 15
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: ebus.lifetime_years
+- id: A-162
+  parameter: Efficient cookstoves in use by 2032
+  value: 300000
+  unit: stoves
+  range:
+  - 150000
+  - 500000
+  basis_claim: C-0172
+  comparator: Somalia NDC 3.0 (1,178,000 stoves by 2035)
+  rationale: About a quarter of the NDC 3.0 target of 1,178,000 by 2035 (conflict X-011).
+  approved_by_hassan: false
+  model_input: cooking.stoves
+  status: retired
+  retired_note: 'Retired 2026-09-24: clean cooking is now modelled from the Cluster 3 stove and pellet lines (Hassan Mumin''s instruction of 2026-09-24). Kept for the record; not a model input.'
+- id: A-163
+  parameter: Charcoal saved per efficient stove a year
+  value: 0.35
+  unit: t per stove
+  range:
+  - 0.2
+  - 0.5
+  basis_claim: C-0422
+  comparator: Somalia, Jikokoa stove (Gold Standard project, cited in the technology needs assessment)
+  rationale: The Jikokoa stove cuts charcoal use by 64 percent (C-0422). A household burning about 0.55 t of charcoal a year (judgment; no Somali survey figure) saves about 0.35 t.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: cooking.charcoal_saved_t_per_stove
+- id: A-164
+  parameter: Fraction of non-renewable biomass (physical estimate, national)
+  value: 0.64
+  unit: fraction
+  range:
+  - 0.4
+  - 0.8
+  basis_claim: C-0168
+  comparator: CDM recommended national default for Somalia (2025)
+  rationale: C-0168 (recommended value).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: cooking.fnrb_national
+- id: A-165
+  parameter: fNRB for crediting stoves in Banaadir
+  value: 0.0
+  unit: fraction
+  range:
+  - 0.0
+  - 0.0
+  basis_claim: C-0169
+  comparator: CDM recommended sub-national default for Banaadir (2025)
+  rationale: 'C-0169: 0 percent, so stoves in Mogadishu may earn no credits under that methodology.'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: cooking.fnrb_banaadir_creditable
+- id: A-166
+  parameter: Share of stoves sold in Banaadir
+  value: 0.6
+  unit: fraction
+  range:
+  - 0.4
+  - 0.8
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Most charcoal is burnt in Mogadishu; judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: cooking.banaadir_share
+- id: A-167
+  parameter: Certified Prosopis charcoal replacing woodland charcoal by 2032
+  value: 20000
+  unit: t per year
+  range:
+  - 10000
+  - 40000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment; the area under Prosopis is unknown (figure gap).
+  approved_by_hassan: false
+  model_input: cooking.prosopis_charcoal_t
+  status: retired
+  retired_note: 'Retired 2026-09-24: clean cooking is now modelled from the Cluster 3 stove and pellet lines (Hassan Mumin''s instruction of 2026-09-24). Kept for the record; not a model input.'
+- id: A-168
+  parameter: Efficient stove cost
+  value: 25
+  unit: USD per stove
+  range:
+  - 15
+  - 40
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: false
+  model_input: cooking.stove_cost
+  status: retired
+  retired_note: 'Retired 2026-09-24: clean cooking is now modelled from the Cluster 3 stove and pellet lines (Hassan Mumin''s instruction of 2026-09-24). Kept for the record; not a model input.'
+- id: A-169
+  parameter: Stove life
+  value: 3
+  unit: years
+  range:
+  - 2
+  - 5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: cooking.stove_lifetime_years
+- id: A-170
+  parameter: Charcoal price in Mogadishu
+  value: 0.32
+  unit: USD per kg
+  range:
+  - 0.28
+  - 0.45
+  basis_claim: D-0071
+  comparator: FSNAU market data, Banadir, February 2022
+  rationale: FSNAU recorded SoSh 361,250 for a 50 kg sack in Banadir in February 2022 (C-0483) at SoSh 25,325 per USD (C-0484), about USD 0.285 per kg (D-0071). The NBS reports that charcoal prices in Mogadishu rose gradually from December 2025 to March 2026 but gives them only as a chart (S-042), and no current newspaper price was found; the base allows about 12 percent for the rise since 2022 and the range runs from the 2022 level to a sharper rise.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: cooking.charcoal_price_usd_per_kg
+- id: A-171
+  parameter: 'Fruit: share of domestic sales that replaces imported juice and fruit'
+  value: 0.5
+  unit: fraction
+  range:
+  - 0.3
+  - 0.7
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Juice and puree sold at home replace imports; fresh fruit sold at home mostly replaces local fruit.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.import_displacement
+- id: A-172
+  parameter: 'Dairy: share of domestic sales that replaces imported milk powder (the rest replaces raw milk sold informally)'
+  value: 0.6
+  unit: fraction
+  range:
+  - 0.4
+  - 0.8
+  basis_claim: C-0139
+  comparator: Somalia whole milk powder imports 2024 (FAOSTAT estimate)
+  rationale: Packaged camel milk competes both with imported milk powder (C-0139) and with fresh milk sold in markets; only the first saves foreign exchange. Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.import_displacement
+- id: A-173
+  parameter: 'Frankincense and myrrh: grading, cleaning, distillation of essential oils and extracts: capacity in operation at full build-out (2032)'
+  value: 1500
+  unit: t resin per year
+  range:
+  - 800
+  - 3000
+  basis_claim: C-0413
+  comparator: Somalia, National Export Strategy (frankincense production USD 80 to 90 million before the drought)
+  rationale: Frankincense and myrrh were Somalia's second-largest export after 1991 (C-0433), and production was worth about USD 80 to 90 million a year before the drought (C-0413), yet the resin leaves as raw lumps with little refining (C-0414). The National Export Strategy proposes essential-oil distilleries in industrial parks (C-0415). Partner countries recorded only USD 11.0 million of gum and resin imports from Somalia in 2023 (D-0070), so much trade is unrecorded or passes through the UAE. A Mogadishu facility grading and processing 1,500 t of resin a year takes a minority of national output. Resin comes from Sanaag and Bari, so the facility depends on supply agreements with producers and traders in those regions.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.capacity
+- id: A-174
+  parameter: 'Frankincense and myrrh: grading, cleaning, distillation of essential oils and extracts: mature capacity utilisation'
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.5
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Resin supply depends on the tapping seasons and on rebuilding tree stocks after drought.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.utilisation
+- id: A-175
+  parameter: 'Frankincense and myrrh: grading, cleaning, distillation of essential oils and extracts: price or output value per unit'
+  value: 12000
+  unit: USD of output per t resin processed
+  range:
+  - 8000
+  - 20000
+  basis_claim: C-0416
+  comparator: Somali olibanum price (FAO, 1994), essential oil yield (Oman, 2008)
+  rationale: Output mixes graded and cleaned resin for perfumery and pharmaceutical buyers, essential oil (about 5.5 percent of resin weight by distillation, C-0418, for Boswellia sacra; Somali B. frereana yields less) and resinoid extracts. France and Germany paid about USD 11.44 per kg for gums and resins from Somalia in 2023 (D-0068), and Somalia's small essential-oil exports fetched about USD 200 per kg (D-0069); at a 5.5 percent yield, oil alone is worth about USD 11,000 per tonne of resin. The base of USD 12,000 per tonne assumes most output reaches buyers at European prices. FAO cautions that the gains are modest, since oil volumes are small (C-0417).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.price
+- id: A-176
+  parameter: 'Frankincense and myrrh: grading, cleaning, distillation of essential oils and extracts: value-added ratio (share of gross output)'
+  value: 0.35
+  unit: share of gross output
+  range:
+  - 0.25
+  - 0.45
+  basis_claim: D-0049
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), chemicals and petroleum
+  rationale: 'Essential oils are a chemical product: the chemicals ratio is 0.353 in Ethiopia (D-0049) and 0.454 in Kenya (D-0045).'
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.va_ratio
+- id: A-177
+  parameter: 'Frankincense and myrrh: grading, cleaning, distillation of essential oils and extracts: direct jobs per unit of annual capacity in operation'
+  value: 0.1
+  unit: jobs per t per year
+  range:
+  - 0.05
+  - 0.2
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Hand sorting and grading of resin is labour-intensive, mostly women's work; about 150 jobs at 1,500 t (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.jobs_per_unit
+- id: A-178
+  parameter: 'Frankincense and myrrh: grading, cleaning, distillation of essential oils and extracts: capital cost per unit of annual capacity'
+  value: 3000
+  unit: USD per t per year
+  range:
+  - 2000
+  - 6000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Stills, grading hall, quality laboratory and certification (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.capex_per_unit
+- id: A-179
+  parameter: 'Frankincense and myrrh: grading, cleaning, distillation of essential oils and extracts: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 0.05
+  unit: fraction
+  range:
+  - 0.0
+  - 0.15
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Almost all output is exported.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.domestic_share
+- id: A-180
+  parameter: 'Frankincense and myrrh: grading, cleaning, distillation of essential oils and extracts: imported inputs as a share of gross output'
+  value: 0.05
+  unit: fraction
+  range:
+  - 0.02
+  - 0.1
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packaging and laboratory consumables.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.imported_input_share
+- id: A-181
+  parameter: 'Frankincense and myrrh: grading, cleaning, distillation of essential oils and extracts: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.3
+  unit: fraction
+  range:
+  - 0.2
+  - 0.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Most resin bought would otherwise be exported raw (counted as forgone exports); only extra tapping is new.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.indirect_additional_share
+- id: A-182
+  parameter: 'Aromatic resins: share of resin processed that would otherwise have been exported raw'
+  value: 0.9
+  unit: fraction
+  range:
+  - 0.7
+  - 1.0
+  basis_claim: C-0414
+  comparator: Somalia, National Export Strategy
+  rationale: Resin is exported raw today (C-0414).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.diversion_share
+- id: A-183
+  parameter: 'Aromatic resins: raw-resin export value forgone per tonne'
+  value: 6000
+  unit: USD per t
+  range:
+  - 4000
+  - 8000
+  basis_claim: D-0068
+  comparator: Partner-reported imports of gums and resins from Somalia, 2023 (UN Comtrade)
+  rationale: Raw resin sold to France and Germany averaged about USD 11.44 per kg in 2023 (D-0068), but most recorded trade goes to the UAE and China at USD 1.5 to 3 per kg (S-156); USD 6 per kg is a blended value for the resin the facility would buy.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.raw_value_per_t
+- id: A-184
+  parameter: 'Efficient cookstoves (jikos) for charcoal and pellets: capacity in operation at full build-out (2032)'
+  value: 200000
+  unit: stoves per year
+  range:
+  - 100000
+  - 350000
+  basis_claim: C-0172
+  comparator: Somalia, technology needs assessment (5 million clean cookstoves by 2030)
+  rationale: The technology needs assessment sets a goal of 5 million clean cookstoves (C-0172) and NDC 3.0 plans 1,178,000 by 2035 (C-0077). Most stoves sold today are imported, often from Kenya, and local production is limited (C-0421). A plant making 200,000 stoves a year supplies 150,000 at 75 percent utilisation, enough for about 450,000 stoves in use at a three-year life.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.capacity
+- id: A-185
+  parameter: 'Efficient cookstoves (jikos) for charcoal and pellets: mature capacity utilisation'
+  value: 0.75
+  unit: fraction
+  range:
+  - 0.6
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Sales depend on the subsidy reaching buyers.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.utilisation
+- id: A-186
+  parameter: 'Efficient cookstoves (jikos) for charcoal and pellets: price or output value per unit'
+  value: 40
+  unit: USD per stove (ex-factory)
+  range:
+  - 30
+  - 50
+  basis_claim: C-0419
+  comparator: Somalia, technology needs assessment (retail price USD 50)
+  rationale: The retail price of a clean cookstove is about USD 50 (C-0419); the ex-factory price is lower after distribution margins.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.price
+- id: A-187
+  parameter: 'Efficient cookstoves (jikos) for charcoal and pellets: value-added ratio (share of gross output)'
+  value: 0.25
+  unit: share of gross output
+  range:
+  - 0.2
+  - 0.35
+  basis_claim: D-0061
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), metals and metal products
+  rationale: Metal products have a value-added ratio of 0.235 in Kenya (D-0061) and 0.345 in Ethiopia (reports/sam_multipliers.md).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.va_ratio
+- id: A-188
+  parameter: 'Efficient cookstoves (jikos) for charcoal and pellets: direct jobs per unit of annual capacity in operation'
+  value: 0.002
+  unit: jobs per stove per year
+  range:
+  - 0.001
+  - 0.004
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: About 400 jobs at 200,000 stoves a year in metal work, ceramic liners and assembly (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.jobs_per_unit
+- id: A-189
+  parameter: 'Efficient cookstoves (jikos) for charcoal and pellets: capital cost per unit of annual capacity'
+  value: 10
+  unit: USD per stove per year
+  range:
+  - 5
+  - 20
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Presses, kilns for ceramic liners and assembly lines (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.capex_per_unit
+- id: A-190
+  parameter: 'Efficient cookstoves (jikos) for charcoal and pellets: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 1.0
+  unit: fraction
+  range:
+  - 0.9
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Sold at home; regional exports are possible but not modelled.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.domestic_share
+- id: A-191
+  parameter: 'Efficient cookstoves (jikos) for charcoal and pellets: imported inputs as a share of gross output'
+  value: 0.35
+  unit: fraction
+  range:
+  - 0.25
+  - 0.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Sheet metal and some liners are imported.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.imported_input_share
+- id: A-192
+  parameter: 'Efficient cookstoves (jikos) for charcoal and pellets: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.5
+  unit: fraction
+  range:
+  - 0.3
+  - 0.7
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Clay, labour, transport and distribution bought locally.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.indirect_additional_share
+- id: A-193
+  parameter: 'Stoves: share of domestic sales that replaces imported stoves'
+  value: 0.5
+  unit: fraction
+  range:
+  - 0.3
+  - 0.8
+  basis_claim: C-0421
+  comparator: Somalia, technology needs assessment
+  rationale: Many stoves are imported from Kenya (C-0421); the rest of the market is traditional stoves made by local artisans. Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.import_displacement
+- id: A-194
+  parameter: 'Stoves: share of sales that would not happen without the policy'
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.5
+  - 0.9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Some efficient stoves would be imported and sold anyway; the plant, the subsidy and carbon finance add the rest. Applies to the economic and the climate results.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.additionality
+- id: A-195
+  parameter: Price Somali households can afford for an efficient stove
+  value: 10
+  unit: USD per stove
+  range:
+  - 10
+  - 10
+  basis_claim: C-0420
+  comparator: Somalia, technology needs assessment (stakeholder view)
+  rationale: Stakeholders put the affordable price at USD 10 (C-0420); carbon finance or a results-based subsidy covers the gap to the ex-factory price.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.affordable_price
+- id: A-196
+  parameter: 'Biomass pellets and briquettes from Prosopis and crop residues: capacity in operation at full build-out (2032)'
+  value: 40000
+  unit: t per year
+  range:
+  - 20000
+  - 80000
+  basis_claim: C-0423
+  comparator: Somalia, updated NDC 2021 (non-forest biomass briquettes)
+  rationale: The NDC calls for more production of non-forest biomass fuel briquettes from agricultural waste and sawdust (C-0423). Feedstock is the invasive Prosopis juliflora, which constrains livestock and wildlife productivity (S-115, S-036), and crop residues from the riverine valleys. 40,000 t of capacity supplies 28,000 t at 70 percent utilisation (judgment; the area under Prosopis is unknown).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.capacity
+- id: A-197
+  parameter: 'Biomass pellets and briquettes from Prosopis and crop residues: mature capacity utilisation'
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.5
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Feedstock collection and demand build-up limit utilisation.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.utilisation
+- id: A-198
+  parameter: 'Biomass pellets and briquettes from Prosopis and crop residues: price or output value per unit'
+  value: 150
+  unit: USD per t
+  range:
+  - 110
+  - 190
+  basis_claim: D-0071
+  comparator: Charcoal price in Banadir (FSNAU, February 2022)
+  rationale: Pellets must undercut charcoal per unit of useful heat. At a Mogadishu charcoal price of about USD 0.32 per kg (based on D-0071) and about 0.6 t of charcoal replaced per tonne of pellets, the charcoal replaced is worth about USD 190; pellets at USD 150 a tonne leave households a saving (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.price
+- id: A-199
+  parameter: 'Biomass pellets and briquettes from Prosopis and crop residues: value-added ratio (share of gross output)'
+  value: 0.3
+  unit: share of gross output
+  range:
+  - 0.25
+  - 0.45
+  basis_claim: D-0060
+  comparator: Kenya 2019 and Ethiopia 2022 SAMs (IFPRI), wood and paper products
+  rationale: Wood and paper products have a value-added ratio of 0.268 in Kenya (D-0060) and 0.783 in Ethiopia (reports/sam_multipliers.md); the base stays near the Kenyan figure for a formal plant.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.va_ratio
+- id: A-200
+  parameter: 'Biomass pellets and briquettes from Prosopis and crop residues: direct jobs per unit of annual capacity in operation'
+  value: 0.01
+  unit: jobs per t per year
+  range:
+  - 0.005
+  - 0.02
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: About 400 plant jobs at 40,000 t, plus feedstock collectors (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.jobs_per_unit
+- id: A-201
+  parameter: 'Biomass pellets and briquettes from Prosopis and crop residues: capital cost per unit of annual capacity'
+  value: 150
+  unit: USD per t per year
+  range:
+  - 80
+  - 250
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Chippers, dryers, pelletisers and briquette presses (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.capex_per_unit
+- id: A-202
+  parameter: 'Biomass pellets and briquettes from Prosopis and crop residues: share of output sold in Somalia (replacing imports); the rest is exported'
+  value: 1.0
+  unit: fraction
+  range:
+  - 0.9
+  - 1.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Sold at home.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.domestic_share
+- id: A-203
+  parameter: 'Biomass pellets and briquettes from Prosopis and crop residues: imported inputs as a share of gross output'
+  value: 0.05
+  unit: fraction
+  range:
+  - 0.02
+  - 0.1
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Spare parts and bags.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.imported_input_share
+- id: A-204
+  parameter: 'Biomass pellets and briquettes from Prosopis and crop residues: share of domestic input supply that is additional (new production, not diverted from other buyers)'
+  value: 0.8
+  unit: fraction
+  range:
+  - 0.6
+  - 0.9
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Clearing Prosopis and collecting residues is new activity.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.indirect_additional_share
+- id: A-205
+  parameter: 'Pellets: share of domestic sales that replaces imports'
+  value: 0.0
+  unit: fraction
+  range:
+  - 0.0
+  - 0.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Pellets replace domestic charcoal, not imports.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.import_displacement
+- id: A-206
+  parameter: 'Pellets: share of value added and jobs that is net new'
+  value: 0.4
+  unit: fraction
+  range:
+  - 0.2
+  - 0.6
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Pellets replace charcoal, so part of their value added and jobs replaces income in charcoal making. The pellet case rests on protecting woodland, cutting emissions and lowering household fuel costs more than on GDP. Applies to the economic and the climate results.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.additionality
+- id: A-207
+  parameter: Charcoal replaced per tonne of pellets or briquettes
+  value: 0.6
+  unit: t per t
+  range:
+  - 0.45
+  - 0.75
+  basis_claim: C-0320
+  comparator: IPCC default net calorific value of charcoal (29.5 TJ per Gg)
+  rationale: Charcoal carries 29.5 TJ per Gg (C-0320); dry pellets carry a little over half that, and gasifier stoves burn them more efficiently than a charcoal jiko burns charcoal. Judgment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.charcoal_displaced_t_per_t
+- id: A-208
+  parameter: 'Park solar and storage: premium on equipment cost for site works, interconnection, security and fragile-state delivery'
+  value: 0.3
+  unit: share of equipment cost
+  range:
+  - 0.15
+  - 0.6
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: The Ministry of Energy plan costs (C-0098, C-0099) are equipment benchmarks; site preparation, park interconnection, security and higher contractor risk in Mogadishu add to them (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.site_premium
+- id: A-209
+  parameter: 'Park solar and storage: annual operation and maintenance cost as a share of installed cost'
+  value: 0.02
+  unit: share per year
+  range:
+  - 0.015
+  - 0.03
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Typical utility-scale PV and battery O&M of 1.5 to 3 percent of capital cost a year (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.om_share
+- id: A-210
+  parameter: Solar PV plant life
+  value: 25
+  unit: years
+  range:
+  - 20
+  - 30
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Standard crystalline-silicon module warranties and plant lives.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.pv_lifetime_years
+- id: A-211
+  parameter: Battery life before replacement
+  value: 12
+  unit: years
+  range:
+  - 10
+  - 15
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Lithium-ion storage cycled daily; the annualised cost recovers the battery over its life.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.battery_lifetime_years
+- id: A-212
+  parameter: Average annual flood losses in Mogadishu (baseline, 2026)
+  value: 120
+  unit: USD million per year
+  range:
+  - 80
+  - 160
+  basis_claim: C-0493
+  comparator: Mogadishu, ongoing World Bank flood risk assessment (2026)
+  rationale: The World Bank's ongoing flood risk assessment estimates USD 120 million of average annual losses in Mogadishu (C-0493). The range allows for revision when the study is final.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: resilience.aal_musd
+- id: A-213
+  parameter: Annual growth of flood losses with population and urbanisation
+  value: 0.043
+  unit: fraction per year
+  range:
+  - 0.03
+  - 0.06
+  basis_claim: C-0506
+  comparator: Mogadishu, World Bank L2 drainage appraisal (2026)
+  rationale: The World Bank grows flood-protection benefits at 4.3 percent a year (C-0506).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: resilience.loss_growth
+- id: A-214
+  parameter: Share of Mogadishu's flood losses arising in catchments drained by 2032 (priority catchments, including the park-to-port corridor)
+  value: 0.3
+  unit: fraction
+  range:
+  - 0.15
+  - 0.5
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Trunk drainage is built catchment by catchment; the programme drains the priority catchments that carry the park-to-port corridor and the densest districts. Judgment pending the World Bank's city-wide assessment.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: resilience.drainage_coverage
+- id: A-215
+  parameter: Reduction in flood losses in a drained catchment
+  value: 0.45
+  unit: fraction
+  range:
+  - 0.3
+  - 0.6
+  basis_claim: C-0504
+  comparator: Mogadishu, World Bank L2 drainage appraisal (2026)
+  rationale: The World Bank appraisal assumes a 45 percent flood reduction (C-0504).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: resilience.flood_reduction
+- id: A-216
+  parameter: Drainage investment per dollar of annual avoided flood loss
+  value: 12.0
+  unit: USD per USD a year
+  range:
+  - 9
+  - 18
+  basis_claim: D-0072
+  comparator: Mogadishu, World Bank L2 drainage appraisal (2026)
+  rationale: USD 68 million of investment for about USD 5.67 million a year of quantified benefits (D-0072). The range allows for cheaper and costlier catchments.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: resilience.capex_per_usd_avoided
+- id: A-217
+  parameter: Economic life of trunk drainage
+  value: 30
+  unit: years
+  range:
+  - 20
+  - 40
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Concrete trunk drains with maintenance last several decades; 30 years is a common appraisal horizon (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: resilience.lifetime_years

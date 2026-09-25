@@ -1,0 +1,214 @@
+=== PAGE 1 ===
+Hawassa Industrial Park
+Community Impact Evaluation
+ETHIOPIA
+Context
+Ethiopia is a low-income country with ambitious plans to become 
+Sub-Saharan Africa’s leader in light manufacturing. The Government 
+of Ethiopia has embarked on an industrialization strategy based on 
+the creation of special economic zones as centers of export-oriented 
+light manufacturing. The flagship industrial park of this strategy 
+is located in Hawassa, a city with around 300,000 inhabitants in 
+southern Ethiopia. At full capacity, the Hawassa Industrial Park (HIP) 
+will provide employment to 60,000 workers, most of whom will be 
+women aged 18 to 35 coming from outside Hawassa, from the wider 
+Southern Nations, Nationalities, and Peoples’ Region (SNNPR).
+Relatively little is known about the impact of such industrial employment 
+on the economic, physical, and social well-being of workers and the 
+largely rural, agricultural communities from which they are recruited. This 
+evaluation seeks to shed light on these impacts. To do so, it aims to use 
+the expansion of hiring for the park through a centralized, government-
+led system that integrates recruitment, registration, grading, and soft 
+training of future workers — the Hawassa Industrial Park Sourcing and 
+Training Employees in the Region (HIPSTER) scheme. The HIPSTER is 
+an intervention facilitated by Enterprise Partners, a social enterprise 
+facilitating market development, and funded by UK aid.
+Hawassa Industrial Park
+The Hawassa Industrial Park, which 
+opened in July 2016, has been described 
+as 
+the 
+Ethiopian 
+government’s 
+“flagship” industrial park. It is anchored 
+by global textile firm PVH (formerly 
+Phillips Van Heusen), but 18 other 
+firms have invested as well. Production 
+started at relatively small scale late 
+2016, with the first exports mid-2017. 
+By early 2019, about 25,000 workers 
+were hired across the 52 factory sheds 
+of the park. At full capacity, the park is 
+expected to employ 60,000 workers, 
+working on a double shift. PVH alone 
+expects to export $100m worth of 
+clothing per year from Hawassa. In 
+total, the government projects that the 
+park could generate about $1 billion of 
+exports per year.
+What is the impact of factory employment on workers and the rural 
+communities from which they originate?
+GURAGE
+SILTI
+GAMO
+ GOFA
+O R O M I A
+S . N . N . P .
+O R O M I A
+Abaya
+Lake
+Awasa
+Lake
+Ch'amo
+Lake
+Ziway
+Lake
+Shala
+Lake
+Shashamane
+Sodo
+Arba
+Minch
+Dilla
+Tore
+Ziway
+Bule Hora
+Jimma
+Denboya
+Gerba
+Hawassa
+Industrial 
+Park
+Shashamane
+Sodo
+Arba
+Minch
+Dilla
+Hawassa
+Industrial 
+Park
+Tore
+Ziway
+Bule Hora
+Jimma
+Denboya
+Gerba
+Abaya
+Lake
+Awasa
+Lake
+Ch'amo
+Lake
+Ziway
+Lake
+Shala
+Lake
+O R O M I A
+O R O M I A
+GURAGE
+SILTI
+GAMO
+ GOFA
+PROJECT ZONES
+REGION BOUNDARIES
+ZONE BOUNDARIES
+MAIN ROADS
+CITIES AND TOWNS
+S . N . N . P .
+0
+30
+60 Kilometers
+IBRD 44202  |  FEBRUARY 2019
+Source:  OpenStreetMap contributors
+S O M A L I
+HARARI
+ADDIS
+ABABA
+ADDIS
+ABABA
+SOMALIA
+ERITREA
+REPUBLIC OF
+YEMEN
+SOUTH
+ SUDAN
+UGANDA
+DJIBOUTI
+SUDAN
+KENYA
+Area
+of Detail
+=== PAGE 2 ===
+The ieConnect for Impact program links project teams with researchers to develop rigorous and 
+innovative impact evaluations that both substantially improve the evidence-base for policy making 
+and induce global shifts in transport policy. The ieConnect program is a collaboration between the 
+World Bank’s Development Impact Evaluation (DIME) group in the Development Research Group 
+and the Transport Global Practice (TR GP). This program is part of the Impact Evaluation to Development 
+Impact (i2i) multi-donor trust fund and is funded with UK aid from the UK government (DFID) and by 
+the European Union (EU).
+Impact Evaluation Research
+This impact evaluation (IE) seeks to study the impact of employment 
+at the Hawassa Industrial Park on the economic, physical, and social 
+well-being of workers, and the broader impact on the largely rural, 
+agricultural communities from which these workers are recruited. 
+More generally, the evaluation will shed light on the implications of 
+large-scale, location-specific development projects on individuals 
+and local communities.
+Methodologically, this IE uses a cluster-randomized control trial. 
+Communities (clusters) are randomly assigned to an already-
+planned expansion of recruitment for the Hawassa Industrial 
+Park. In “treated” communities, randomly selected eligble job 
+seekers will be offered relocation allowance to Hawassa to begin 
+work in the industrial park. In each of our study communities, we 
+will collect detailed primary survey data to complement existing 
+administrative data. 
+Data collection will include baseline, midline (after 1 year), and 
+endline (after 2–3 years) household surveys, key informant 
+interviews, and community surveys to measure community-level 
+outcomes. In addition to surveying households that are eligible 
+for the recruitment program, we will collect representative data 
+from randomly-selected households in each study community. 
+The team will collect detailed data on welfare outcomes that 
+are harmonized with the World Bank-supported Ethiopia Living 
+Standards Measurement Survey (LSMS). In addition to these 
+standard measures, the team will gather rich data on intrahousehold 
+dynamics, gender norms, fertility, as well as cortisol levels, a range 
+of anthropometric measures, and mental health outcomes.
+Using a pre-registered research design, our design allows us to 
+estimate impacts at three levels of analysis. We will compare 
+individual-level outcomes of treated job seekers to job seekers in 
+control communities. We will additionally compare both household-
+level and individual-level household member outcomes of treated 
+households to households in control communities. For individual-
+level and household-level outcomes, we will also be able to 
+estimate spillover effects by comparing outcomes for non-treated 
+individuals and households in treated communities with those in 
+non-treated communities. Finally, we will compare community-
+level outcomes between those which receive this intensified 
+recruitment to those that did not.
+Policy Relevance
+The Hawassa Industrial Park is a cornerstone of the Government 
+of Ethiopia’s ambitious industrialization strategy. It is seen by 
+the government as a blueprint for further parks in the country, 
+and it represents the first large-scale investment by “high quality” 
+garmenting firms that perceive Ethiopia as a frontier destination 
+for their production facilities. Accordingly, the project has high 
+political visibility in Ethiopia. Beyond its role as a flagship investment 
+destination, the park represents a significant shock to the local 
+economy of Southern Nations, Nationalities and Peoples’ Region 
+(SNNPR), and to the national economy of Ethiopia.
+This project has a range of implications for productivity, structural 
+transformation, welfare, health, education and social norms. It is 
+representative of a broader class of spatial development programs 
+such as growth poles, growth corridors, and special economic zones 
+(SEZs) that have been used by World Bank client governments 
+and development partners as a tool to promote private-sector 
+development. Fully quantifying the impacts of such programs is 
+often challenging because generating counterfactual scenarios for 
+such place-specific investments is complex, and a full estimation 
+of impact also requires an understanding of general equilibrium 
+effects in various markets at the same time. The research team 
+hopes to make a step towards this understanding and thus inform 
+wider development policy.
+For more information email dimetransport@worldbank.org or visit 
+www.worldbank.org/en/research/dime/brief/transport

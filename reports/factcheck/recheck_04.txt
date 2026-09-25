@@ -1,0 +1,112 @@
+Independent re-check, 2026-09-24, of corrected claims, OCR page-image confirmations and new claims.
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0237: PASS
+  Source: S-132 p. 1
+  Reason: SII "Total project cost is estimated at $15 million"; ESRS "The total project cost is USD $13.35m, including working capital". Statement reports both and names X-016; basis, period, scope, currency correct. Register note: X-016 has "used: C-0237" while its resolution says neither is used on its own.
+
+C-0246: QUERY
+  Source: S-135 p. 1
+  Reason: Both figures present and match X-017. "the leased factory building is excluded" is stated as fact but the source only says the facility "will be built for and leased by the Company via a build-to-suit lease agreement with a leading local property developer". Reword, e.g. "the factory building is to be built by a developer and leased to DTRT, so the cost appears to exclude it". X-017 states the exclusion as fact in the same way.
+
+C-0248: PASS
+  Source: S-135 p. 1
+  Reason: ESRS "expected to create more than 3,000 new jobs in addition to the current workforce of c.3,400 workers"; SII "the direct creation of 2,900 formal manufacturing jobs". Attributed correctly, keeps "more than", projection, consistent with X-017. Measure field says "direct" where the ESRS says "new jobs": minor, not in the statement.
+
+C-0252: PASS
+  Source: S-138 p. 1
+  Reason: "At appraisal, Luna operations had approximately 700 employees ... Of these, 200 employees work at the slaughterhouse in Modjo". ESRS cites 2023 data, an April 2022 ESIA and 2025 ESAP dates, so "about 2023" with the caveat resolves the period query.
+
+C-0258: PASS
+  Source: S-126 p. 3 (page image sources/text/S-126_pages/p003.png)
+  Reason: Image confirms "More than 6000 workers are involved in these sector." on "Profile of Tanning Sector". Keeps "more than"; Ethiopia; 2018 is the inferred publication year.
+
+C-0259: PASS
+  Source: S-126 p. 3 (page image)
+  Reason: Image confirms "In average per year 20 million skins and 2 million hides are consumed" on the tanning slide.
+
+C-0264: PASS
+  Source: S-141 p. 57 (page image sources/text/S-141_pages/p057.png; printed page 44)
+  Reason: Image confirms para 4.19 "later defined exactly as 4.1868 joules. This is the definition of the calorie used in the conversion tables in the annex to this chapter."
+
+C-0307: PASS
+  Source: S-144 p. 73
+  Reason: Page 73 opens Appendix 8.A, Table 8.A.1; methane GWP100 = 28 (no climate feedbacks for non-CO2). Measure now cites Table 8.A.1; NDC clause moved to C-0328. Register note: S-144 entry in sources.yaml still says "Table 8.7 (p. 73)".
+
+C-0322: PASS
+  Source: S-132 p. 1
+  Reason: "Pearl Dairy actually hires 15 foreigners (mostly Indians and Kenyans), and 45 local workers. These workers all have written contracts." Pearl Dairy's own workers before commissioning; actual, 2013.
+
+C-0323: PASS
+  Source: S-132 p. 1
+  Reason: Same passage, "15 foreigners", later called "Expatriates".
+
+C-0324: PASS
+  Source: S-132 p. 1
+  Reason: "The total project cost is USD $13.35m, including working capital" (6.5m IFC A loan, 3.95m equity, 2.9m working-capital facility). Attributed to the ESRS; consistent with X-016.
+
+C-0325: PASS
+  Source: S-135 p. 1
+  Reason: "estimated to be [6.2%] of the total project cost of $10 million" in the blended-finance paragraph; estimate, 2022, consistent with X-017.
+
+C-0326: PASS
+  Source: S-135 p. 1
+  Reason: "the direct creation of 2,900 formal manufacturing jobs, mostly for women"; projection; consistent with X-017.
+
+C-0327: PASS
+  Source: S-026 p. 231 (Table 5-38 starts p. 230)
+  Reason: "Diesel CO2 emissions t/Gcal 0.33" in the first-model cost-benefit assumptions. Correctly the plan's own factor. Context: the plan pairs this factor with MSDGs at "MSDG efficienry Gcal/MWh 2.05" (BAU), not the HSDG heat rate (see D-0034).
+
+C-0328: PASS
+  Source: S-107 p. 53
+  Reason: Section 5(d) quote matches; page not in ocr_pages. NDC does not say whether AR5 values are with or without feedbacks; the statement does not claim either.
+
+D-0006: PASS
+  Source: C-0231 / C-0232
+  Reason: 106,666.7 -> 106,667. "Greenfield" dropped; caveat matches the source (disused mill bought, 30,000 MT silos, no major structural work). "Would probably cost more" framed as judgment.
+
+D-0010: PASS
+  Source: C-0237 / C-0238 / C-0324
+  Reason: 62.5 and 55.625 -> 55.6; both bases stated with X-016.
+
+D-0013: QUERY
+  Source: C-0246 / C-0248
+  Reason: 4,086.7 -> 4,087 and "at most" correct. Open: (1) the stated range "USD 3,448 to 4,228" omits the pairing USD 10 million with more than 3,000 jobs (at most about USD 3,333), so the span is roughly USD 3,333 or less to USD 4,228; X-017 has the same omission. (2) "Excluding the leased factory building" is an inference (see C-0246).
+
+D-0016: PASS
+  Source: C-0258 / C-0259
+  Reason: 300; "at least" reflects "More than 6000"; hides disclosed; inputs confirmed against the image.
+
+D-0017: PASS
+  Source: C-0102 / C-0264 / C-0215
+  Reason: 0.6918 -> 0.692; units consistent; statement declares net/gross uncertainty and the plan-based 0.736 (X-015); C-0264 now passes.
+
+D-0029: QUERY
+  Source: C-0320 / C-0321
+  Reason: 3.304 -> 3.30. Biogenic caveat supported by S-139 p. 19. The sentence "only the non-renewable share of the biomass (fNRB) counts as mitigation when charcoal use falls" is a methodological fact S-139 does not contain; it is carbon-crediting (CDM) practice. Source it as a separate claim or attribute it explicitly to carbon-crediting methodologies.
+
+D-0030: PASS
+  Source: C-0322 / C-0323
+  Reason: 45 + 15 = 60; Pearl Dairy's own contracted workers before commissioning.
+
+D-0031: PASS
+  Source: C-0322 / C-0323 / C-0238
+  Reason: 60 / 240,000 x 1,000 = 0.25; peak caveat matches the ESRS. "IFC's review expected" would be slightly more precise than "IFC expected"; current wording not wrong.
+
+D-0032: PASS
+  Source: C-0324 / C-0238
+  Reason: 55.625 -> 55.6; keeps "including working capital"; names X-016.
+
+D-0033: QUERY
+  Source: C-0246 / C-0326
+  Reason: 4,227.6 -> 4,228; attributed correctly. Open: "excluding the leased factory building" is an inference (see C-0246).
+
+D-0034: PASS
+  Source: C-0327 / C-0102
+  Reason: 0.33 x 2.23 = 0.7359 -> 0.736. Presented as the plan's factor applied to the HSDG heat rate, not a figure the plan computes. Note: the plan pairs 0.33 t/Gcal with MSDGs at 2.05 Gcal/MWh (about 0.677 t/MWh); the report should not describe 0.736 as the plan's own diesel emission rate.
+
+D-0035: QUERY
+  Source: C-0325 / C-0326
+  Reason: 3,448.3 -> 3,448; attributed; X-017 named. Same open point as C-0246 on the leased building.
+
+Summary: 21 pass, 0 fail, 6 query.

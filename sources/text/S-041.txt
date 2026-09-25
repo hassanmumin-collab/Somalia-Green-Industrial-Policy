@@ -1,0 +1,1117 @@
+=== PAGE 1 ===
+National Accounts 
+Concepts, Sources, and 
+Methods 
+- 
+Somalia
+2025
+The Federal Republic of Somalia
+Somalia National Bureau of Statistics
+=== PAGE 2 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+2
+Federal Republic of Somalia
+Somalia National Bureau of Statistics 
+National Accounts Concepts, Sources,
+and Methods - Somalia 
+2025
+Somalia National Bureau of Statistics
+Wadajir District, Via Afgoi
+Mogadishu, Somalia
++252-61-3700080
+snbs@nbs.gov.so or dg@nbs.gov.so
+=== PAGE 3 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+i
+Preface
+Gross Domestic Product (GDP) is a key indicator of a country’s economic state, providing 
+vital estimates of production levels and growth across the economy. While much effort has 
+been made to secure new sources of data and improve the quality of data from existing 
+sources, there remains an ongoing need to update the structural economic assumptions 
+underlying the current GDP compilation model of the Somalia National Bureau of Statistics 
+(SNBS). The outputs of the Economic Statistics Directorate are widely followed and utilized 
+by the government, international agencies, researchers, the media, the private sector, and 
+non-governmental organizations. 
+ The aim of this discussion document is to provide a comprehensive overview of the Concepts, 
+Sources, and Methods of Somalia’s National Accounts. It is designed for researchers, 
+economic and financial analysts, and other users looking to gain a better understanding of 
+Somalia’s national accounts compilation and the broader economy.  
+The concepts have been developed in line with the relevant international standard, the 
+System of National Accounts, 2025 (2025 SNA). The sources section documents the various 
+datasets used to compile Somalia’s GDP, including the Population Estimation Survey (2014), 
+government financial statements, the Consumer Price Index (CPI), and the Balance of 
+Payments. The methods describe the mathematical and statistical techniques used by the 
+SNBS to overcome limitations in source data and implement international best practices.  
+In 2018, the first GDP estimate since 1987 was compiled by Somali national experts using 
+the expenditure approach. The current compilation of GDP using the expenditure approach 
+at current and constant 2022 prices is based primarily on data from the Somalia Integrated 
+Household Budget Survey (SIHBS). The SIHBS provides a robust source of information on 
+household consumption expenditure and represents a key input for improving the coverage 
+and quality of national accounts estimates. 
+ I am excited to introduce this report on the Concepts, Sources, and Methods of Somalia’s 
+National Accounts. It spells out the SNBS’s current framework for GDP compilation, 
+consistent with the System of National Accounts (SNA), to guide our economic evaluation 
+process moving forward.  Finally, I would like to thank the technical teams in the National 
+Bureau of Statistics and the International Monetary Fund (IMF) for preparing this report. 
+The National Bureau will continue to improve macroeconomic data availability across the 
+country, and we warmly welcome your comments and suggestions on this document.
+Dr. Abdisalam Abdirahman Mohamed
+Director General
+Somalia National Bureau of Statistics
+=== PAGE 4 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+ii
+Table of Contents
+Preface	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+i
+Table of Contents	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ii
+Abbreviations	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+iii
+Glossary	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+iv
+Introduction	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+The expenditure measure of GDP’s components	
+	
+	
+	
+	
+	
+1
+Consumption: Household Final Consumption Expenditure (HFCE)	
+	
+	
+1
+Consumption: Government final consumption expenditure (GFCE)	
+	
+	
+4
+Consumption: Non-profit institutions serving households (NPISH) 
+final consumption expenditure	
+	
+	
+	
+	
+	
+	
+	
+7
+Gross capital formation (GCF)	
+	
+	
+	
+	
+	
+	
+	
+8
+Exports and imports of goods and services	
+	
+	
+	
+	
+	
+11
+Conclusion: Future developments	
+	
+	
+	
+	
+	
+	
+	
+13
+Annex 1: Concept, Source and Method for Somalia’s estimated resident population		
+14
+Annex 2: Ten frequently asked questions	
+	
+	
+	
+	
+	
+	
+16
+=== PAGE 5 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+iii
+Abbreviations
+2025 SNA	
+System of National Accounts, 2025
+BEC	
+	
+Classification by Broad Economic Categories
+CIF	
+	
+Cost, Insurance and Freight
+COICOP	
+Classification of individual consumption by purpose
+CPI	
+	
+Consumer Price Index
+FGS	
+	
+Federal Government of Somalia
+fob	
+	
+Free on board
+GCF	
+	
+Gross Capital Formation
+GDP	 	
+Gross Domestic Product
+GFCE	 	
+Government Final Consumption Expenditure
+HFCE	 	
+Household Final Consumption Expenditure
+ICT	
+	
+Information and Communications Technology
+LMIS	 	
+Livestock Management Information System
+NPISH	
+Non-Profit Institutions Serving Households
+PESS	 	
+Population Estimation Survey (for Somalia)
+SITC	 	
+Standard International Trade Classification
+SLS	
+	
+Somaliland Shilling
+SNBS	 	
+Somalia National Bureau of Statistics
+SOS	
+	
+Somali Shilling
+UN	
+	
+United Nations
+US	
+	
+United States of America
+USD	
+	
+United States Dollar
+=== PAGE 6 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+iv
+Glossary
+Benchmark
+Low-frequency or irregular data used to establish the level of a national accounts 
+aggregate in a given period. An example is the Somalia Integrated Household 
+Budget Survey (SIHBS), which is used as a benchmark source for estimating 
+household final consumption expenditure and supporting the 2022 base year 
+national accounts. Beyond the most recent benchmark period, estimates are 
+generally projected using appropriate indicators and extrapolation techniques.
+Costs of 
+Production
+Market Output
+Intermediate Consumption, Compensation of Employees, Gross Operating 
+Surplus plus Other Taxes less Subsidies on Production.
+Output intended for sale at economically significant prices (2025 SNA, para. 
+5.41). Output that does not meet this definition is classified as either output for 
+own final use or non-market output.
+Extrapolation
+The application of percentage movements in a related indicator or series (for 
+example, population growth or consumer price indices) to a benchmark estimate 
+in order to extend a time series beyond the most recent benchmark period. For 
+example, household final consumption expenditure benchmarked to the 2022 
+Somalia Integrated Household Budget Survey (SIHBS) may be extrapolated 
+using appropriate indicators to produce estimates for subsequent years.
+Implicit Deflator
+Output for own
+The ratio of a current price and constant price series.
+Products retained by the producer for his own use as final
+Non-market 
+Output
+Goods and individual or collective services produced by government or non-
+profit institutions serving households (NPISHs) that are supplied free of charge, 
+or at prices that are not economically significant, to other institutional units or 
+the community as a whole (2025 SNA, para. 5.72).
+Non-resident
+An institutional unit that is not a resident of the economic territory of interest. 
+An institutional unit is considered resident in the economic territory with 
+which it has the strongest economic connection, determined by its centre of 
+predominant economic interest (2025 SNA, para. 4.13).
+Final use
+the use of goods and services for consumption or capital formation, as distinct 
+from intermediate consumption in the production process (2025 SNA, para. 
+5.59).
+Price 
+Deflation
+The application of a price index (eg. a consumer price index) as a divisor to a 
+given current price series (eg. household final consumption in current prices) to 
+produce a constant price series.
+Purchasers’ 
+Prices
+The amount paid by the producer, excluding any value added tax or similar tax 
+deductible by the purchaser, in order to take delivery of a unit of a good or 
+service at the time or place required by the purchaser (2025 SNA, para. 4.185).
+=== PAGE 7 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+1
+Gross Domestic Product (GDP) is the monetary value of the goods and services 
+produced by an economy within a given period. It can be calculated using three 
+different measures: production, income, or expenditure. The SNBS uses the expenditure 
+measure to compile an annual time series commencing in 2012 as this makes best use 
+of the Somalia’s existing data.
+The expenditure measure of GDP is derived as the sum of expenditure on final 
+consumption plus gross capital formation plus exports less imports (2025 SNA, para. 
+3.140)). This can be expressed as:
+GDP = Final Consumption + Capital Formation + Exports - Imports
+This manual describes the concepts, sources, and methods used by the SNBS for each 
+component of GDP1 . The concepts have been developed with in line with the relevant 
+international standard, System of National Accounts, 2025 (2025 SNA). The sources 
+document the various data used to compile Somalia’s GDP, including the Population 
+Estimation Survey (2014), financial statements from government, the Consumer Price 
+Index, and the Balance of Payments. The methods describe the techniques used by 
+the SNBS to overcome limitations in source data and implement international best 
+practice.
+Ten frequently asked questions are also addressed (Annex 2) to assist users of Somalia’s 
+national accounts statistics.
+1  Estimated resident population is required to convert per capita consumption estimated by source data to (economy wide) household expenditure, as well as 
+to derive GDP per capita. The concept, source and method used for Somalia’s estimated resident population is provided in Annex 1.
+Introduction
+Consumption: Household Final Consumption Expenditure (HFCE)
+Concept
+Household final consumption expenditure (HFCE) consists of “expenditure incurred 
+by resident households on consumption goods or services …. [and] the estimated value 
+of barter transactions, goods and services received in kind, and goods and services 
+produced and consumed by the same household” [2025 SNA, para. 10.57]. The concept 
+is further elaborated in 2025 SNA paras. 10.57–10.81.
+Significant examples of Somalia’s HFCE include: household consumption of bread, 
+cereal, rice, and pasta. It also includes the value of fruit and vegetables produced 
+and consumed by the same household as well as in kind donations provided by non-
+residents.
+HFCE differs from household consumption expenditure as measured in the Somalia 
+Integrated Household Budget Survey (SIHBS). Under the System of National Accounts 
+(SNA), purchases of consumer durables such as refrigerators, ovens, and washing 
+machines are treated as household final consumption expenditure rather than capital 
+formation. Consequently, the full value of these purchases is recorded in the period 
+in which ownership is acquired, rather than being allocated over multiple periods 
+through depreciation.
+The expenditure measure of GDP’s components
+=== PAGE 8 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+2
+Sources
+◊	 Integrated Household Budget Survey
+◊	 	Consumer Price Index 
+◊	 	Estimated Resident Population
+◊	 	Balance of Payments
+Method
+Housing
+Benchmark
+The 2022 benchmark for HFCE is estimated at US$12,275 million and is derived 
+primarily from the Somalia Integrated Household Budget Survey (SIHBS) 2022. The 
+benchmark is disaggregated into three broad expenditure categories, as shown in the 
+table below.
+Food and beverages including cooked food
+The benchmark estimates for household final consumption expenditure are derived 
+from the Somalia Integrated Household Budget Survey (SIHBS) 2022, which provides 
+nationally representative data on household consumption expenditure across urban, 
+rural, and nomadic populations. The survey covers all Federal Member States and 
+Banaadir region, eliminating the need for the geographical assumptions previously 
+required for areas not covered by earlier household surveys. Per capita consumption 
+estimates are derived directly from the survey results and combined with population 
+estimates to compile household final consumption expenditure.
+Estimates of household consumption expenditure are derived directly from the 
+Somalia Integrated Household Budget Survey (SIHBS) 2022, which provides nationally 
+representative coverage across urban, rural, and nomadic populations.
+The benchmark estimate for Housing is derived from the Somalia Integrated Household 
+Budget Survey (SIHBS) 2022. The estimate includes actual and imputed expenditures 
+on housing, water, electricity, gas, and other fuels as reported by households and 
+classified under COICOP Division 04. The benchmark estimates for Housing in 2022 is 
+US$1,305 million.
+All other goods and services
+The benchmark estimate for Other Goods and Services is derived from expenditure 
+data collected through the Somalia Integrated Household Budget Survey (SIHBS) 2022 
+and classified under COICOP Divisions 02–03 and 05–13. The survey-based estimate 
+amounts to US$5,491 million.
+SOMALIA HFCE CATEGORY 
+CONCORDANCE TO COICOP 
+2022 BENCHMARK ($m) 
+Food and beverages including 
+cooked food 
+Food and non-alcoholic beverages (COICOP Division 01) 
+and Restaurants, cafés and the like (COICOP Class 
+11.1.1) 
+5,479 
+Housing 
+Housing, Water, Electricity, Gas, and Other Fuels 
+(COICOP Division 04) 
+1,305 
+All other goods and services 
+All other COICOP categories 
+5,491 
+ALL GOODS AND SERVICES 
+ 
+12,275
+=== PAGE 9 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+3
+Estimates of household consumption expenditure are derived directly from the 
+Somalia Integrated Household Budget Survey (SIHBS) 2022, which provides nationally 
+representative coverage across urban, rural, and nomadic populations.
+Housing
+The method for this component uses the CPI for Housing, Water, Electricity, Gas, and 
+Other Fuels (COICOP Division 04). It is otherwise identical to Food and beverages 
+including cooked food.
+All other goods and services
+The current price series is compiled by extrapolation from the benchmark level. The 
+relevant indicator is a subset of imports to Somalia recorded within the balance of 
+payments, namely:
+To improve consistency with the national accounts framework and address areas that 
+may not be fully captured in the survey, adjustments are made for donated non-food 
+items, implicit financial services, underreported khat consumption, and consumption 
+provided through donations by non-profit institutions serving households (NPISHs). 
+After incorporating these adjustments, the benchmark estimate for Other Goods and 
+Services is US$5,553 million.
+The CPI is expressed in US dollar terms, and therefore no exchange rate adjustment is 
+required.
+This reflects the integrated national CPI series based on COICOP 2018, replacing 
+earlier regional CPI frameworks and providing a single consistent measure of national 
+inflation.
+The resulting price index is used as the implicit deflator for household final consumption 
+expenditure (HFCE).
+The constant price HFCE series is derived through extrapolation from the benchmark 
+level, using Somalia’s estimated resident population as the volume indicator. This 
+approach assumes that real per capita consumption remains constant over time, with 
+changes in aggregate consumption driven solely by population growth.
+Annual Estimates outside the Benchmark
+Food and beverages including cooked food
+Current price estimates are compiled by reflating the constant price series using the 
+national Consumer Price Index based on COICOP 2018 classification: 
+Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018)
+where:
+◊	 Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018) refers to the national Consumer Price Index 
+based on COICOP 2018 classification, compiled by the Somalia National Statistics 
+System in year t. The index reflects price movements across all COICOP divisions, 
+including Food and Non-Alcoholic Beverages (Division 01), which remains the 
+most significant component of household consumption.
+=== PAGE 10 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+4
+0.5 × Passenger Motor Vehicles (t) + 0.9 × Durable Consumer Goods (t) + Semi-Durable 
+Consumer Goods (t)
+where:
+◊	 Passenger Motor Vehiclesₜ refers to imports to Somalia in year t classified under 
+Broad Economic Category (BEC) 51. It is assumed that 50 percent of imported 
+passenger motor vehicles are allocated to household final consumption 
+expenditure (HFCE). 
+◊	 Durable Consumer Goodsₜ refers to imports to Somalia in year t classified under 
+BEC 61. It is assumed that 90 percent of durable consumer goods are allocated 
+to HFCE. 
+◊	 Semi Durable Consumer Goodsₜ refers to imports to Somalia in year t classified 
+under BEC 62, assumed to be fully allocated to HFCE.
+The constant price series is derived by deflating the current price series using the 
+national Consumer Price Index based on COICOP 2018 classification:
+Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018)
+where:
+◊	 CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018) refers to the national Consumer Price Index compiled 
+by the Somalia National Statistics System for year t. The index covers all COICOP 
+divisions, including Food, Housing, Transport, and other household consumption 
+categories.
+◊	 The CPI is expressed in US dollar terms, and therefore, no exchange rate 
+adjustment is required.
+◊	 This updated national CPI replaces earlier regional CPI constructs and provides 
+a consistent measure of inflation for the compilation of national accounts.
+Examples of Somalia’s GFCE include:
+◊	 the value of collective services produced by general government units such as 
+the SNBS or Ministry of Finance. The value of these services is typically estimated 
+indirectly (by summing the costs of production)
+◊	 the value of individual services purchased by general government from sectors 
+other than general government, such as health care. These individual services are 
+typically provided to individuals at no charge. The value of GFCE is reduced by 
+the value of any payment made to government by the individual (as this amount 
+is considered a sale of a good or service by general government and forms part 
+of other aggregates such as HFCE)
+Consumption: Government final consumption expenditure (GFCE)
+Concept
+Government final consumption expenditure comprises expenditure incurred by general 
+government, including expenditure whose value may need to be estimated indirectly, 
+on both individual consumption goods and services and collective consumption 
+services. The concept is defined in the System of National Accounts 2025 (SNA 2025), 
+paragraphs 9.84–9.102 and 9.114.
+=== PAGE 11 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+5
+Sources
+◊	 Financial Statements issued by the Ministry of Finance for Federal Government 
+of Somalia (FGS) and five regions - Galmudug, Jubaland, Puntland, Somaliland, 
+and South West State.
+◊	 SNBS Consumer Price Index
+Method
+Benchmark
+The 2022 benchmark for General Government Final Consumption Expenditure (GFCE) 
+is US$666.956 million. The benchmark has been compiled using administrative data 
+from the Federal Government, Federal Member States, Somaliland, Puntland, and 
+available local government information. GFCE is estimated as the sum of Compensation 
+of Employees (COE) and Intermediate Consumption (IC), less Sales of Goods and 
+Services.
+Component 
+2022 Benchmark (US$ million) 
+Compensation of Employees 
+507.834 
+Intermediate Consumption 
+263.405 
+Less: Sales of Goods and Services 
+(104.284) 
+General Government Final Consumption 
+Expenditure (GFCE) 
+666.956 
+Central and State Government
+The benchmark is disaggregated between Central and State Governments and Local 
+Governments using the latest available administrative information. Where complete 
+local government data are unavailable, estimates are derived using the same 
+methodology applied in previous benchmark years. The 2022 benchmark serves as 
+the new base year for compiling GFCE estimates for subsequent years.
+For estimates from 2023 onwards, GFCE is extrapolated using updated administrative 
+data on compensation of employees, intermediate consumption, and sales of goods 
+and services. In this release, a small mark-up reflecting the return to capital has been 
+introduced in line with the updated recommendations of the 2025 System of National 
+Accounts (2025 SNA). This adjustment recognizes that non-market government 
+producers use fixed assets in the production of public services and therefore includes 
+a modest return to capital in the valuation of output. The increase in GFCE in 2025 
+was driven primarily by continued growth in both compensation of employees and 
+intermediate consumption, reflecting expanded government service delivery and 
+higher operating expenditures across government institutions.
+=== PAGE 12 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+6
+Local Government
+Local government GFCE is not directly observed and is therefore assumed to account 
+for 10 percent of total General Government GFCE. Total GFCE is adjusted using the 
+following formula:
+GFCE Total = GFCE Observed / (1 - 0.10)
+This ensures full coverage of general government activity, including local government 
+operations.
+Annual Estimates outside the Benchmark
+Benchmarks for all periods spanned by the time series are compiled using the 
+same method described above. This is possible as a time series of Compensation of 
+Employees and Intermediate Consumption for all Federal Government of Somalia 
+and the five regions is available in all periods, with the following exceptions:
+◊	 Jubaland (2013): The percentage change in Wages and Salaries and Use of 
+Goods and Services between 2013 and 2014 is assumed equal to the percentage 
+change in the corresponding items (Compensation of Employees and Use of 
+Goods and Services) reported by FGS.
+◊	 Galmudug and South West State (2013, 2014, and 2015): The percentage 
+change in Compensation of Employees and Use of Goods and Services between 
+each of these periods and 2016 is assumed equal to the percentage change in 
+the corresponding items (Compensation of Employees and Use of Goods and 
+Services) reported by FGS.
+◊	 FGS and all regions (2012): Preliminary estimates of Compensation of 
+Employees and Use of Goods and Services in 2012 and 2013 were provided 
+by FGS as the first charts of accounts following its establishment were issued. 
+These values are inconsistent with existing FGS time series and likely to be 
+significantly understated. The percentage change in these items has been used 
+to extrapolate the aggregates for 2013 (to 2012) for Compensation of Employees 
+and Intermediate Consumption for FGS and all five regions.
+◊	 The (assumed) proportion of compensation of employees and intermediate 
+consumption used to estimate sales of goods and services is not held constant 
+throughout time. This proportion increases over time to reflect an (assumed) 
+increase in the proportion of fees charged by general government. The 
+proportion varies from 7 percent (2012, 2013), 10 percent (2014), 12 percent 
+(2015), 11 percent (2016), and 13 percent (2017, 2018, 2019, and 2020). This 
+proportion is estimated based data provided by Somalia’s Ministry of Finance 
+for 2021 and all subsequent periods.
+=== PAGE 13 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+7
+Estimates will be used where audited (and thus final) financial statements are 
+unavailable when the national accounts are compiled. Estimates are typically provided 
+by the relevant Ministry of Finance department or determined by the SNBS using 
+movements from similar regions. Revisions will occur when the following year’s 
+national accounts are compiled and audited financial statements replace estimates.
+The constant price series are obtained by summing constant price estimates for 
+Compensation of Employees, Intermediate Consumption, Consumption of Fixed 
+Capital, and Sales of Goods and Services.
+Constant price series for Compensation of Employees and Intermediate Consumption 
+are constructed via price deflation using the national Consumer Price Index (CPI), 
+base year 2022.
+Where:
+CPIt refers to the national CPI All Groups (for Compensation of Employees) and CPI 
+All Groups excluding Food (for Intermediate Consumption) published by the Somalia 
+National Bureau of Statistics in year t.
+The CPI is used directly as the deflator, with 2022 as the base year (CPI2022 = 100). No 
+regional CPI split and no exchange rate adjustments are applied.
+The weighting of Somalia and Somaliland CPI components is no longer applied, as a 
+single national CPI series is used for all government units.
+Constant price series for Consumption of Fixed Capital are constructed as an assumed 
+proportion (2 percent) of the constant price series for Compensation of Employees 
+and Intermediate Consumption.
+Sales of Goods and Services are constructed as a proportion of the current price series 
+for Compensation of Employees and Intermediate Consumption. The constant price 
+series has been derived by deflating using the national CPI (excluding food where 
+appropriate).
+Concept
+NPISH final consumption expenditure comprises the expenditure, including 
+expenditure whose value must be estimated indirectly, incurred by resident NPISHs 
+on individual consumption goods and services and possibly on collective consumption 
+services (2025 SNA, Chapter 3, para. 3.101).
+Examples of Somalia’s NPISH final consumption expenditure include: the value of 
+services produced by mosques, selected resident non-government organisations, 
+and non-market clubs and societies. The value of these services is typically valued by 
+summing the costs of production.
+Consumption: Non-profit institutions serving households (NPISH) final consumption 
+expenditure
+=== PAGE 14 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+8
+Source
+An NPISH survey is conducted to provide improved and more comprehensive data 
+coverage for this institutional sector. The results of this survey are expected to 
+significantly strengthen the estimation of NPISH final consumption expenditure and 
+will be incorporated into the 2026 GDP expenditure benchmark and subsequent 
+national accounts updates.
+Method
+NPISH final consumption is set equal to zero. It is likely that a portion of NPISH final 
+consumption has been included with HFCE (eg. Goods purchased by a household and 
+donated to a mosque are likely to be captured within All other goods and services).
+Gross capital formation (GCF)
+Concept
+Gross capital formation is measured by the total value of gross fixed capital formation, 
+changes in inventories, and acquisitions less disposals of valuables (2025 SNA, para. 
+11.38). Examples of Somalia’s gross capital formation include the construction 
+of residential dwellings, acquisitions less disposals of heavy vehicles (gross fixed 
+capital formation), and changes in inventories of fuel used to generate electricity. At 
+present, Somalia does not separately identify gross fixed capital formation, changes 
+in inventories, and acquisitions less disposals of valuables due to limitations in the 
+available source data.
+Sources
+◊	 Balance of Payments
+◊	 US Export Price Indexes
+Method
+Benchmark
+The 2022 Benchmark for Gross Capital Formation (GCF) is estimated at $2,413 million. 
+The benchmark disaggregates GCF as follows:
+ASSET2 
+2022 BENCHMARK ($m) 
+Dwellings, Other buildings and structures 
+1903 
+Transport equipment 
+326 
+ICT equipment, Other machinery and equipment 
+184 
+TOTAL 
+2413 
+2.  The three assets that underlie Somalia’s GCF estimates are a subset of the international standard asset categories defined in the 2025 SNA (Table 10.2 or the corresponding asset 
+classification in the 2025 SNA). Some excluded assets (e.g., entertainment, literary or artistic originals) are likely to be relatively small. Others (e.g., cultivated biological resources) are 
+likely to be significant and therefore may result in an understatement of GDP. These assets will be considered as part of future methodological developments.
+=== PAGE 15 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+9
+Dwellings, Other buildings and structures 
+Estimates have been compiled using Balance of Payments (BOP) import data sourced 
+from the Central Bank. This ensures consistency with official external sector statistics 
+used in the national accounts framework.
+The estimation of construction-related capital formation is based on imports of key 
+building materials and related products, including:
+◊	 Stone, sand, and gravel (SITC Group 273). 
+◊	 Builders’ joinery and carpentry of wood, including cellular wood panels, 
+assembled flooring panels, shingles and shakes (SITC Sub-group 635.3).
+◊	 Floor coverings and related construction finishing materials (SITC Group 659). 
+◊	 Lime, cement, and fabricated construction materials (except glass and clay 
+materials) (SITC Group 661).
+◊	 Clay construction materials and refractory construction materials (SITC Group 
+662).
+◊	 Mineral manufactures n.e.s. (SITC Group 663).
+◊	 Glass (SITC Group 664).
+◊	 Iron and steel (SITC Division 67).
+◊	 Structures and parts of structures, n.e.s., of iron, steel or aluminium (SITC Group 
+691).
+◊	 Wire products (excluding insulated electrical wiring) and fencing grills (SITC 
+Group 693).
+◊	 Prefabricated buildings (SITC Group 811).
+◊	 Sanitary, plumbing and heating fixtures and fittings, n.e.s. (SITC Group 812).
+Transport equipment 
+Estimates have been compiled using Balance of Payments (BOP) import data sourced 
+from the Central Bank, ensuring consistency with official external sector statistics.
+Transport equipment is derived using the following classification approach:
+◊	 Passenger motor vehicles (BEC Category 51), adjusted to exclude the portion 
+allocated to Household Final Consumption Expenditure (HFCE). 
+◊	 Other transport equipment (BEC Category 52). 
+The HFCE adjustment ensures that only transport assets used for investment purposes 
+are included in Gross Fixed Capital Formation (GFCF).
+Import values are recorded at purchasers’ prices, with standard adjustments applied 
+to ensure full valuation coverage:
+◊	 CIF valuation adjustment (15 percent). 
+◊	 Customs duties (20 percent).
+◊	 Trade and transport margins (20 percent).
+Additional construction inputs captured in the BOP import data are incorporated to 
+ensure full coverage of residential and non-residential building activity.
+The 2022 benchmark for Dwellings, Other Buildings and Structures is estimated at 
+$1,903 million. The estimate reflects gross fixed capital formation in construction 
+activities undertaken in 2022.
+=== PAGE 16 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+10
+It is assumed that transport equipment production within the domestic economy is 
+negligible; therefore, the category is fully import-based.
+The resulting 2022 benchmark estimate for Transport Equipment is $326 million, 
+reflecting gross fixed capital formation in transport assets undertaken in 2022.
+This methodology is consistent with the SNA 2025 framework, particularly in its 
+treatment of boundary adjustments between household consumption and capital 
+formation, and the use of official balance of payments statistics as the primary data 
+source.
+It is assumed that production of ICT equipment and other machinery within the 
+domestic economy is negligible; therefore, this category is fully import-based.
+The resulting 2022 benchmark estimate for ICT Equipment and Other Machinery is 
+$184 million, reflecting gross fixed capital formation undertaken in 2022.
+This methodology is consistent with the SNA 2025 framework, particularly in its 
+treatment of imported capital goods, valuation at purchasers’ prices, and reliance on 
+Balance of Payments statistics as the primary data source.
+Future improvements are expected as business survey data and enterprise financial 
+accounts become available, allowing for enhanced separation of domestic production 
+and imported capital formation.
+ICT equipment, Other machinery and equipment 
+Estimates have been compiled using Balance of Payments (BOP) import data sourced 
+from the Central Bank, ensuring consistency with official external sector statistics and 
+national accounts compilation standards.
+The estimation is based on imports classified under:
+◊	 Capital goods excluding transport equipment (BEC Category 41). 
+Annual Estimates outside the Benchmark 
+Annual estimates for Gross Capital Formation (GCF) are compiled using the same 
+methodology as the benchmark year, ensuring full consistency across the time series. 
+Each year’s estimate is derived by updating the underlying import-based components 
+of GCF using Balance of Payments (BOP) data sourced from the Central Bank.
+This approach ensures that annual estimates remain consistent with the benchmark 
+structure for:
+◊	 Dwellings, Other Buildings and Structures. 
+◊	 Transport Equipment. 
+◊	 ICT Equipment and Other Machinery.
+Import values are converted to purchasers’ prices using standard national accounts 
+adjustments, including:
+◊	 CIF valuation adjustment (15 percent). 
+◊	 Customs duties (7 percent). 
+◊	 Trade and transport margins (10 percent).
+=== PAGE 17 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+11
+Constant price GCF series are derived by deflating current price estimates for each 
+component using appropriate price indices. The total constant price series is obtained 
+by summing the deflated values of all three GCF components.
+The deflators applied are as follows:
+ASSET 
+DEFLATOR 
+Dwellings, Other buildings and structures 
+U.S. Export Price Indexes, by End Use – Selected building 
+materials 
+Transport equipment 
+U.S. Export Price Indexes, by End Use – Capital goods 
+ICT equipment, Other machinery and equipment 
+U.S. Export Price Indexes, by End Use – Automotive 
+vehicles, parts and engines 
+Exports and imports of goods and services
+Concept
+Exports and imports of goods and services “are recorded when there is a change of 
+economic ownership from a unit in one economy to a unit in another economy” (SNA 
+2025 para 26.49). Examples include: sales of livestock to Somalia’s trading partners 
+(exports of goods), commission-based sales of a non-resident’s goods (exports of 
+services), imports of fuel (imports of goods), and fees paid to non-resident banks 
+(imports of services).
+Exports of Livestock
+A time series for exports of livestock has been compiled for the period 2012 to 2018 
+inclusive. It uses data from Livestock Management Information Systems (LMIS) 
+maintained by Somaliland over this period and customs data from Mogadishu and 
+Puntland (Annex 4). The series has not been maintained beyond 2018 as the LMIS is 
+no longer maintained. The series provides estimates in current and constant prices.
+The Central Bank of Somalia has published a time series for exports of livestock 
+commencing in 2015. This series is consistent with Somalia’s Balance of Payments.
+The national accounts time series for exports of livestock comprises estimates as per 
+Annex 4 for 2012, 2013, and 2014. The Central Bank of Somalia time series has been 
+appended to ensure consistency with Somalia’s Balance of Payments.
+Sources
+◊	 Balance of Payments compiled by the Central Bank of Somalia.
+◊	 US Export Price Indexes.
+◊	 Consumer Price Index.
+Method
+Current price estimates are obtained by summing goods and services as reported in 
+Balance of Payments compiled by Central Bank of Somalia. This ensures consistency of 
+Somalia’s system of macroeconomic statistics.
+=== PAGE 18 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+12
+Exports of Goods (excl. Livestock) and Exports of Services
+Constant price estimates are constructed via price deflation with the following 
+deflator:
+Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018)
+where: 
+Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018) refers to the national Consumer Price Index based 
+on COICOP 2018 classification, compiled by the Somalia National Statistics System in 
+year t. 
+Imports of Goods
+A current price time series has been constructed from Balance Of Payment for twelve 
+components as shown in the table below. Each component has been price deflated as 
+shown.
+A current price and constant price series are constructed by summation (of the 
+respective current and constant price series) of all twelve components. 
+A deflator has been obtained as the ratio of the current price and constant price series.
+A constant price series for imports of goods has been obtained by price deflation 
+(of the imports of goods series provided by Central Bank of Somalia) with the above 
+deflator.
+GOOD 
+DEFLATOR 
+Food and beverages - Mainly for industry (BEC Category 111 
+and 121) 
+Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018) 
+where: 
+Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018) refers to the national 
+Consumer Price Index based on COICOP 2018 
+classification, compiled by the Somalia National Statistics 
+System in year t. 
+Food and beverages - Mainly for final consumption (BEC 
+Category 112 and 122) 
+Industrial supplies not elsewhere specified (BEC Category 2) 
+Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018) 
+where: 
+Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018) refers to the national 
+Consumer Price Index based on COICOP 2018 
+classification, compiled by the Somalia National Statistics 
+System in year t. 
+ 
+Fuels and lubricants (BEC Category 3) 
+Capital goods (except transport equipment), and parts and 
+accessories thereof – Capital good (BEC Category 41) 
+Capital goods (except transport equipment), and parts and 
+accessories thereof - Parts and accessories (BEC Category 42) 
+Transport equipment and parts and accessories thereof - 
+Passenger motor vehicles (BEC Category 51) 
+Transport equipment and parts and accessories thereof - Other 
+(BEC Category 52) 
+Transport equipment and parts and accessories thereof - Parts 
+and accessories (BEC Category 53) 
+Consumer goods not elsewhere specified – Durable (BEC 
+Category 61) 
+Consumer goods not elsewhere specified Semi-durable and 
+non-durable (BEC Categories 62 and 63) 
+Goods not elsewhere specified (BEC Category 7)
+=== PAGE 19 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+13
+Imports of Services
+A series for imported transport and insurance services has been estimated. This 
+series has been estimated as fifteen percent of imported BEC goods.
+A constant price series for the remainder (imports of services reported by Central 
+Bank of Somalia less estimated transport and insurance services) is constructed via 
+price deflation with the following deflator:
+Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018)
+Where: 
+Pₜ = CPIₙₐₜᵢₒₙₐₗ,ₜ (COICOP 2018) refers to the national Consumer Price Index based 
+on COICOP 2018 classification, compiled by the Somalia National Statistics System in 
+year t. 
+Somalia’s national accounts statistics have made substantial progress since 2012. 
+Initial series were compiled in consultation with the International Monetary Fund 
+(the Fund), based on negligible source data. These series were published on the Fund’s 
+website as staff estimates.
+The establishment of the SNBS in 2020 marked a pivotal moment in the history of 
+Somalia’s national accounts statistics. An independent national statistics office, staffed 
+by a permanent team, has enabled substantial progress over the last eighteen months. 
+Significant achievements include the implementation of data from the FGS Ministry of 
+Finance in compiling government final consumption expenditure, and the alignment 
+of exchange rates, exports, and imports with Balance of Payments statistics published 
+by the Central Bank of Somalia.
+Somalia’s national accounts remain in need of development, with further improvements 
+expected as the capacity of SNBS and the quality of Somalia’s source data improve. 
+Some specified improvements expected over the coming years include:
+◊	 Implementation of a contemporary benchmark for GDP. As Somalia’s current 
+benchmark and base year is 2022, real GDP is estimated by combining quantities 
+using relative prices of 2022. The Integrated Household Budget Survey 2022 has 
+already been implemented into the national accounts, strengthening household 
+consumption estimates. International best practice recommends updating the 
+base year every five years, and thus SNBS intends to publish a rebased GDP time 
+series in 2025, incorporating updated benchmarks and improved source data.
+◊	 Expanding the suite of national accounts statistics to compile GDP using the 
+production approach. The SNBS is currently working with key partners, including 
+the FGS Ministry of Finance, to obtain business accounting data. Another key 
+source is data for Somalia’s financial corporations held by the Central Bank of 
+Somalia, and agriculture data held by the Ministry of Agriculture.
+Conclusion: Future developments
+=== PAGE 20 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+14
+◊	 The SNBS has a programme of statistical improvement that will provide new data 
+sources to further improve GDP estimates in future years. An agricultural census 
+is scheduled for 2027, which will form an essential input to estimates of GDP 
+by the production approach given the scale of agricultural activity in Somalia. 
+The AES will continue to be conducted and enhanced, forming a complementary 
+input to GDP compilation alongside additional administrative and commercial 
+data. To facilitate constant price estimates of GDP by production, work is under 
+way to begin compiling Producer Price Indices (PPI), with publication expected 
+in early 2027. On the demand side, a new household survey is scheduled to be 
+conducted over one year beginning in late 2026. Additionally, internal estimates 
+of quarterly GDP by expenditure are under development to support more 
+timely policymaking and economic analysis. Based on the current schedule for 
+benchmark source data collections, the next rebasing of GDP is expected to take 
+place in 2028, moving the base year from 2022 to 2027.
+◊	 Improvements to source data and methods. As Somalia’s source data evolves, the 
+SNBS will be able to implement improved methods. Future opportunities include 
+examination of Somalia’s customs data to replace existing assumptions with 
+observed customs duties and insurance and freight charges, and revising series 
+(such as general government consumption of fixed capital) to reflect international 
+best practice. Another key consideration is the estimation of cultivated biological 
+resources based on data from the Integrated Household Budget Survey 2022 and 
+future agricultural census data.
+◊	 Developing quarterly GDP. The production of a quarterly GDP time series is 
+heavily dependent upon the availability of suitable quarterly data. Potential data 
+sources include business income and expenses reported to the FGS Ministry 
+of Finance via any future business reporting, and estimation of household 
+consumption based on changes in Somalia’s customs data. The SNBS continues 
+to work with its partners to ensure statistical requirements can be satisfied as 
+Somalia’s regulatory environment evolves.
+The SNBS is grateful for assistance from its development partners and welcomes 
+feedback to improve the quality of its published national accounts statistics.
+Annex 1: Concept, Source and Method for Somalia’s estimated resident 
+population
+Concept
+A household is a “group of persons who share the same living accommodation, who 
+pool some, or all, of their income and wealth and who consume certain types of goods 
+and services collectively, mainly housing and food” (SNA 2025 para 4.4). Resident 
+households are those for which the “economic territory with which it has [they have] 
+the strongest connection, in other words, its [their] centre of predominant economic 
+interest” (SNA 2025 para 4.10). Somalia’s economic territory comprises all eighteen 
+administrative regions.
+Estimated resident population is a stock measured at a point in time, while GDP is a 
+flow measured between two points of time. Somalia’s GDP is the sum of all relevant 
+transactions that occur within a given calendar year (eg. 2014). Somalia’s population 
+during a calendar year is not constant, and can therefore be recorded at multiple
+=== PAGE 21 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+15
+Sources
+◊	 Population Estimation Survey (PESS), 2014.
+Method
+Somalia’s estimated resident population is estimated from the PESS, 2014. Estimates 
+for the urban and rural population were recorded in October 2013, Internally 
+Displaced Persons relate to June 2013, and estimates for the nomadic population 
+were recorded in March 2014. While the Population Estimation Survey of Somalia 
+results are frequently “Population Estimation Survey of Somalia, 2014” (the date of 
+publication) and used on this basis for many purposes, this use is inconsistent with 
+international best practice for national accounts statistics.
+Somalia’s estimated resident population records all subgroups at the mid-point of the 
+calendar year and the time of recording. This is achieved by applying an (assumed) 
+annual growth rate (2.8 percent) across all periods of the calendar year. In order to 
+achieve a 2.8 percent annual growth rate, each month must grow by 0.230 percent 
+.31This amount is used to convert from the date of recording to the mid-point of the 
+calendar year as shown in the below table. The estimate of population as recorded 
+in Somalia’s national accounts statistics for 2014 (12,519,038) will not match the 
+Population Estimation Survey of Somalia (12,316,895).
+Estimates for all other calendar years assume a 2.8 percent annual growth rate as 
+estimated in the PESS, 2014.
+3  The geometric mean (1.028^(1/12) = 0.230 percent increase) is used to derive the monthly population growth rate - this assumes the population grows at a constant 
+rate in each month. The common practice of using an arithmetic mean (2.8/12 = 0.233) assumes the population grows at a constant amount (and therefore reducing rate) 
+in each month.
+4  Internally Displaced Persons	
+points in time (eg. the start, mid-point, or end of the calendar year). International 
+best practice is for population to be recorded at the mid-point of the calendar year to 
+estimate related national accounts statistics such as GDP per capita.
+Somalia’s estimated resident population is the number of persons comprising 
+Somalia’s resident households. It includes Somali citizens who reside in their owner-
+occupied accommodation within Somalia, Somalia’s nomads, Somali diplomats 
+located outside Somalia, long term foreign students and workers, and all internally 
+displaced persons located within Somalia. It excludes international military forces, 
+peacekeeping officials, and foreign diplomats located within Somalia.
+Estimated population from the Population Estimation Survey (PESS) measures 
+physical residency within Somalia’s geographical territory. It is similar, but not 
+identical to estimated resident population. 
+ 
+PESS, 2014 
+(persons) 
+TIME OF 
+RECORDING 
+MONTHS TO MID-
+POINT 2014 
+2013 
+2014 
+2015 
+2016 
+2017 
+Urban 
+5,216,392 
+October 2013 
+8 
+5,168,595 
+5,313,316 
+5,462,089 
+5,615,027 
+5,772,248 
+Rural 
+2,806,787 
+October 2013 
+8 
+2,781,069 
+2,858,939 
+2,938,989 
+3,021,281 
+3,105,877 
+IDPs4 
+1,106,751 
+July 2013 
+12 
+1,106,751 
+1,137,740 
+1,169,597 
+1,202,345 
+1,236,011 
+Nomads 
+3,186,965 
+March 2014 
+3 
+3,121,637 
+3,209,043 
+3,298,896 
+3,391,266 
+3,486,221 
+TOTAL 
+12,316,895 
+ 
+ 
+12,178,052 
+12,519,038 
+12,869,571 
+13,229,919 
+13,600,357
+=== PAGE 22 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+16
+Annex 2: Ten frequently asked questions
+1. Why is GDP measured in USD rather than domestic currency?
+Somalia’s national accounts are measured in USD, as the majority of transactions 
+in Somalia’s economy are denominated in USD. Examples include: all transactions 
+between the Central Bank of Somalia and the Federal Government of Somalia, most 
+imports and exports of goods and services, and large capital purchases.
+Somalia’s CPIs are measured in USD, as a significant proportion of transactions 
+involving households are undertaken in USD rather than domestic currency. For low-
+value transactions, payments are frequently made in domestic currency. Higher-value 
+transactions are more commonly undertaken in USD, typically via mobile money 
+applications.
+A primary purpose of Somalia’s CPI is supporting the Central Bank of Somalia with 
+monetary policy and stability of Somalia’s exchange rate, which is undertaken in 
+domestic currency.
+2. Does Somalia’s national accounts apply exchange rates to Somalia’s CPIs?
+The CPI published by SNBS measures price changes denominated in USD for 
+transactions that on aggregate predominantly take place in USD. Changes in exchange 
+rates for domestic currency do not impact these indexes. A CPI denominated in USD 
+will not change as prices denominated in USD are identical.
+Changes in exchange rates for domestic currency do not impact Somalia’s national 
+accounts denominated in USD. By way of example, changes in domestic currency 
+exchange rates have no impact upon GDP. The value of production (measured in GDP 
+in current USD prices) has not changed. There is no change in the volume of goods and 
+services produced (measured by changes in GDP in constant USD prices).
+The national accounts are fully denominated in USD and therefore do not require 
+exchange rate adjustments to the CPI or other price indices. This ensures that changes 
+in real GDP are driven only by changes in quantities and prices expressed in USD terms.
+4. Why is Estimated Resident Population 2014 in the national accounts different 
+from PESS 2014?
+See Annex 1.
+6. Why has capital formation reported by FGS Ministry of Finance not been used 
+in the Somalia’s national accounts?
+Somalia’s GDP is based on a benchmark for 2022 when comprehensive estimates of 
+capital formation from FGS Ministry of Finance were not available. These data are now 
+available and will be considered when a new benchmark for GDP is compiled. They 
+cannot be implemented into Somalia’s current GDP time series (commencing in 2012) 
+without revisions or breaks to the existing time series. 
+7. When will GDP be published?
+Please refer to the latest schedule at https://www.nbs.gov.so/publishing-calendar/.
+=== PAGE 23 ===
+National Accounts Concepts, Sources, and Methods | Somalia
+2025
+17
+8. How does SNBS get data from other sources such as Central Bank of Somalia 
+and Ministry of Finance?
+The SNBS works co-operatively with the FGS Ministry of Finance and Central Bank 
+of Somalia. This co-operative relationship is supported by Law No: 24 – National 
+Statistics Law (February, 2020).
+9. Are there plans to publish quarterly GDP?
+Quarterly GDP will be compiled and published once suitable source data is available 
+to measure changes between quarters. The SNBS continues to work with its partners 
+including Ministry of Finance (government financial data), and Customs Service 
+(imports and exports). The SNBS may also undertake quarterly surveys where source 
+data is unavailable (eg. capital formation).
+10. What are the plans of SNBS to rebase GDP?
+As Somalia’s current benchmark and base year is 2022, real GDP is estimated by 
+weighting together volume series using the relative prices of 2022. This also means 
+the last estimates of household consumption were observed in 2022, with subsequent 
+estimates based on incomplete source data and assumptions. International best 
+practice recommends a benchmarking exercise and an update to the base year every 
+five years, and thus SNBS intends to implement the Integrated Household Budget 
+Survey beginning in September 2026, running over one year until September 2027. 
+Based on the current schedule, the rebasing of GDP will take place in 2028 and will 
+introduce a new base year.
+=== PAGE 24 ===
+The Federal Republic of Somalia | Somalia National Bureau of Statistics 
+2025
+18
+Somalia National Bureau of Statistics
+Wadajir District, Via Afgoi
+Mogadishu, Somalia
++252-61-3700080
+snbs@nbs.gov.so or dg@nbs.gov.so

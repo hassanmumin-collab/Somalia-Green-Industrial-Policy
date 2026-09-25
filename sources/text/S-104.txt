@@ -1,0 +1,2888 @@
+=== PAGE 1 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.1 
+CHAPTER 3 
+SOLID WASTE DISPOSAL
+=== PAGE 2 ===
+Volume 5: Waste 
+3.2 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Authors 
+Riitta Pipatti (Finland), Per Svardal (Norway) 
+Joao Wagner Silva Alves (Brazil), Qingxian Gao (China), Carlos López Cabrera (Cuba), Katarina Mareckova 
+(Slovakia), Hans Oonk (Netherlands), Elizabeth Scheehle (USA), Chhemendra Sharma (India), Alison Smith 
+(UK), and Masato Yamada (Japan)  
+Contributing Authors 
+Jeffrey B. Coburn (USA), Kim Pingoud (Finland), Gunnar Thorsen (Norway), and Fabian Wagner (Germany)
+=== PAGE 3 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.3 
+Contents 
+3  
+Solid Waste Disposal 
+3.1 
+Introduction ......................................................................................................................................... 3.6 
+3.2 
+Methodological issues ......................................................................................................................... 3.6 
+3.2.1 
+Choice of method ........................................................................................................................ 3.6 
+3.2.2 
+Choice of activity data ............................................................................................................... 3.12 
+3.2.3 
+Choice of emission factors and parameters ............................................................................... 3.13 
+3.3 
+Use of measurement in the estimation of CH4 emissions from SWDS ............................................. 3.20 
+3.4 
+Carbon stored in SWDS .................................................................................................................... 3.23 
+3.5 
+Completeness .................................................................................................................................... 3.23 
+3.6 
+Developing a consistent time series .................................................................................................. 3.24 
+3.7 
+Uncertainty assessment ..................................................................................................................... 3.24 
+3.7.1 
+Uncertainty attributable to the method ...................................................................................... 3.24 
+3.7.2 
+Uncertainty attributable to data ................................................................................................. 3.25 
+3.8 
+QA/QC, Reporting and Documentation ............................................................................................ 3.28 
+References ..................................................................................................................................................... 3.29 
+Annex 3A.1  First Order Decay Model ........................................................................................................... 3.32 
+References ..................................................................................................................................................... 3.40
+=== PAGE 4 ===
+Volume 5: Waste 
+3.4 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Equations 
+Equation 3.1 
+CH4 emission from SWDS .................................................................................................. 3.8 
+Equation 3.2   Decomposable DOC from waste disposal data .................................................................... 3.9 
+Equation 3.3   Transformation from DDOCm to Lo ................................................................................... 3.9 
+Equation 3.4  
+DDOCm accumulated in the SWDS at the end of year T .................................................... 3.9 
+Equation 3.5  
+DDOCm decomposed at the end of year T .......................................................................... 3.9 
+Equation 3.6  
+CH4 generated from decayed DDOCm .............................................................................. 3.10 
+Equation 3.7   Estimates DOC using default carbon content values ......................................................... 3.13 
+Equation 3A1.1  Differential equation for first order decay ...................................................................... 3.32 
+Equation 3A1.2  First order decay equation .............................................................................................. 3.32 
+Equation 3A1.3  DDOCm remaining after 1 year of decay ...................................................................... 3.32 
+Equation 3A1.4  DDOCm decomposed after 1 year of decay ................................................................... 3.33 
+Equation 3A1.5  DDOCm decomposed in year T ..................................................................................... 3.33 
+Equation 3A1.6  Relationship between half-life and reaction rate constant .............................................. 3.33 
+Equation 3A1.7  FOD equation for decay commencing after 3 months .................................................... 3.33 
+Equation 3A1.8  DDOCm decomposed in year of disposal (3 month delay) ............................................ 3.33 
+Equation 3A1.9  DDOCm dissimilated in year (t) (3 month delay) .......................................................... 3.33 
+Equation 3A1.10  Mass of degradable organic carbon accumulated at the end of year T ........................... 3.34 
+Equation 3A1.11  Mass of degradable organic carbon decomposed in year T ............................................ 3.34 
+Equation 3A1.12   DDOCm remaining at end of year of disposal ............................................................... 3.35 
+Equation 3A1.13  DDOCm decomposed during year of disposal ............................................................... 3.35 
+Equation 3A1.14  DDOCm accumulated at the end of year T .................................................................... 3.36 
+Equation 3A1.15  DDOCm decomposed in year T ..................................................................................... 3.36 
+Equation 3A1.16  Calculation of decomposable DOCm from waste disposal data .................................... 3.36 
+Equation 3A1.17  CH4 generated from decomposed DDOCm ................................................................... 3.36 
+Equation 3A1.18  CH4 emitted from SWDS ............................................................................................... 3.37 
+Equation 3A1.19   Calculation of long-term stored DOCm from waste disposal data ................................. 3.37 
+Equation 3A1.20   First order rate of reaction equation ............................................................................... 3.38 
+Equation 3A1.21  IPCC 1996 Guidelines equation for DOC reacting in year T ......................................... 3.38 
+Equation 3A1.22  IPCC 2000GPG FOD equation for DDOCm reacting in year T .................................... 3.39 
+Equation 3A1.23  FOD with disposal rate D(t) ........................................................................................... 3.39 
+Equation 3A1.24  Degradable organic carbon accumulated during a year .................................................. 3.40 
+Equation 3A1.25  CH4 generated during a year .......................................................................................... 3.40
+=== PAGE 5 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.5 
+Figures 
+Figure 3.1  
+Decision Tree for CH4 emissions from Solid Waste Disposal Sites .................................... 3.7 
+Figure 3A1.1   Error introduced by not fully integrating the rate of reaction curve .................................. 3.38 
+Figure 3A1.2  Effect of error in the GPG2000 equation ........................................................................... 3.39 
+ 
+Tables 
+Table 3.1  
+SWDS classification and Methane Correction Factors (MCF) .......................................... 3.14 
+Table 3.2  
+Oxidation factor (OX) for SWDS ...................................................................................... 3.15 
+Table 3.3  
+Recommended default methane generation rate (k) values under Tier 1 ........................... 3.17 
+Table 3.4  
+Recommended default Half-life (t1/2) values (yr) under Tier 1 .......................................... 3.18 
+Table 3.5   
+Estimates of uncertainties associated with the default activity data and parameters   
+in the FOD method for CH4 emissions from SWDS ......................................................... 3.27 
+Table 3A1.1   New FOD calculating method ........................................................................................... 3.35 
+ 
+Boxes 
+Box 3.1  
+Direct measurements from gas collection systems  to estimate FOD model parameters ... 3.20 
+Box 3.2   
+Direct measurements of methane emissions from the SWDS surface ............................... 3.22
+=== PAGE 6 ===
+Volume 5: Waste 
+3.6 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3 SOLID WASTE DISPOSAL 
+3.1 
+INTRODUCTION 
+Treatment and disposal of municipal, industrial and other solid waste produces significant amounts of methane 
+(CH4). In addition to CH4, solid waste disposal sites (SWDS) also produce biogenic carbon dioxide (CO2) and 
+non-methane volatile organic compounds (NMVOCs) as well as smaller amounts of nitrous oxide (N2O), 
+nitrogen oxides (NOx) and carbon monoxide (CO). CH4 produced at SWDS contributes approximately 3 to 4 
+percent to the annual global anthropogenic greenhouse gas emissions (IPCC, 2001). In many industrialised 
+countries, waste management has changed much over the last decade. Waste minimisation and recycling/reuse 
+policies have been introduced to reduce the amount of waste generated, and increasingly, alternative waste 
+management practices to solid waste disposal on land have been implemented to reduce the environmental 
+impacts of waste management. Also, landfill gas recovery has become more common as a measure to reduce 
+CH4 emissions from SWDS.  
+Decomposition of organic material derived from biomass sources (e.g., crops, wood) is the primary source of 
+CO2 released from waste. These CO2 emissions are not included in national totals, because the carbon is of 
+biogenic origin and net emissions are accounted for under the AFOLU Sector. Methodologies for NMVOCs, 
+NOx and CO are covered in guidelines under other conventions such as the UNECE Convention on Long Range 
+Transboundary Air Pollution (CLRTAP). Links to these methodologies are provided in Chapter 1 of this volume, 
+and additional information in Chapter 7 of Volume 1. No methodology is provided for N2O emissions from 
+SWDS because they are not significant. 
+The Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories (1996 Guidelines, IPCC, 1997) and 
+the Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories (GPG2000, 
+IPCC, 2000) described two methods for estimating CH4 emissions from SWDS: the mass balance method (Tier 1) 
+and the First Order Decay (FOD) method (Tier 2). In this Volume, the use of the mass balance method is strongly 
+discouraged as it produces results that are not comparable with the FOD method which produces more accurate 
+estimates of annual emissions. In place of the mass balance method, this chapter provides a Tier 1 version of the 
+FOD method including a simple spreadsheet model with step-by-step guidance and improved default data. With 
+this guidance, all countries should be able to implement the FOD method.  
+3.2 
+METHODOLOGICAL ISSUES  
+3.2.1 
+Choice of method 
+The IPCC methodology for estimating CH4 emissions from SWDS is based on the First Order Decay (FOD) 
+method. This method assumes that the degradable organic component (degradable organic carbon, DOC) in 
+waste decays slowly throughout a few decades, during which CH4 and CO2 are formed. If conditions are constant, 
+the rate of CH4 production depends solely on the amount of carbon remaining in the waste. As a result emissions 
+of CH4 from waste deposited in a disposal site are highest in the first few years after deposition, then gradually 
+decline as the degradable carbon in the waste is consumed by the bacteria responsible for the decay.  
+Transformation of degradable material in the SWDS to CH4 and CO2 is by a chain of reactions and parallel 
+reactions. A full model is likely to be very complex and vary with the conditions in the SWDS. However, 
+laboratory and field observations on CH4 generation data suggest that the overall decomposition process can be 
+approximated by first order kinetics (e.g., Hoeks, 1983), and this has been widely accepted. IPCC has therefore 
+adopted the relatively simple FOD model as basis for the estimation of CH4 emissions from SWDS. 
+Half-lives for different types of waste vary from a few years to several decades or longer. The FOD method 
+requires data to be collected or estimated for historical disposals of waste over a time period of 3 to 5 half-lives 
+in order to achieve an acceptably accurate result. It is therefore good practice to use disposal data for at least 50 
+years as this time frame provides an acceptably accurate result for most typical disposal practices and conditions. 
+If a shorter time frame is chosen, the inventory compiler should demonstrate that there will be no significant 
+underestimation of the emissions. These Guidelines provide guidance on how to estimate historical waste 
+disposal data (Section 3.2.2, Choice of Activity Data), default values for all the parameters of the FOD model
+=== PAGE 7 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.7 
+(Section 3.2.3, Choice of Emission Factors and Parameters), and a simple spreadsheet model to assist countries 
+in using the FOD method.  
+Three tiers to estimate the CH4 emissions from SWDS are described:  
+Tier 1: The estimations of the Tier 1 methods are based on the IPCC FOD method using mainly default activity 
+data and default parameters. 
+Tier 2: Tier 2 methods use the IPCC FOD method and some default parameters, but require good quality 
+country-specific activity data on current and historical waste disposal at SWDS. Historical waste disposal data 
+for 10 years or more should be based on country-specific statistics, surveys or other similar sources. Data are 
+needed on amounts disposed at the SWDS.   
+Tier 3: Tier 3 methods are based on the use of good quality country-specific activity data (see Tier 2) and the 
+use of either the FOD method with (1) nationally developed key parameters, or (2) measurement derived 
+country-specific parameters. The inventory compiler may use country-specific methods that are of equal or 
+higher quality to the above defined FOD-based Tier 3 method. Key parameters should include the half-life, and 
+either methane generation potential (Lo) or DOC content in waste and the fraction of DOC which decomposes 
+(DOCf ). These parameters can be based on measurements as described in Box 3.1. 
+A decision tree for choosing the most appropriate method appears in Figure 3.1. It is good practice for all 
+countries to use the FOD method or a validated country-specific method, in order to account for time 
+dependence of the emissions.  
+The FOD method is briefly described in Section 3.2.1.1 and in more detail in Annex 3A.1. A spreadsheet model 
+has been developed by the IPCC to assist countries in implementing the FOD: IPCC Spreadsheet for Estimating 
+Methane Emissions from Solid Waste Disposal Sites (IPCC Waste Model) 1.The IPCC Waste Model is described 
+in more detail below and can be modified and used for all tiers. 
+Figure 3.1  
+Decision Tree for CH4 emissions from Solid Waste Disposal Sites  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          
+1 See the attached spreadsheets in Excel format. <IPCC_Waste_Model.xls>.  
+Box 1: Tier 1
+Box 2: Tier 2
+Box 3: Tier 3
+Are
+good quality
+country-specific activity
+data on historical and current
+waste disposal1
+available?  
+Is
+solid waste
+disposal on land a key 
+category 3?
+Are
+country-specific
+models or key
+parameters2
+available?
+Collect current waste
+disposal data and estimate 
+historical data using 
+guidance in Section 3.2.2.
+Estimate Emissions using
+the IPCC FOD method with 
+default data to fill in missing 
+country-specific data.
+Estimate emissions using
+the IPCC FOD method with 
+default parameters and good 
+quality country-specific
+activity data.
+Estimate emissions using
+country-specific methods or
+IPCC FOD method with 
+country-specific key
+parameters and good quality 
+country-specific activity data.
+Start
+No
+No
+Yes
+Yes
+No
+Note:
+1. Good quality country-specific activity data mean country-specific data on waste disposed in SWDS for 10 years or more.
+2. Key parameters mean DOC/Lo, DOCf and half-life time.
+3. See Volume 1 Chapter 4, "Methodological Choice and Identification of Key Categories" (noting Section 4.1.2 on limited resources), for 
+discussion of key categories and use of decision trees.
+Yes
+=== PAGE 8 ===
+Volume 5: Waste 
+3.8 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.2.1.1 
+FIRST ORDER DECAY (FOD) 
+METHANE EMISSIONS 
+The CH4 emissions from solid waste disposal for a single year can be estimated using Equations 3.1. CH4 is 
+generated as a result of degradation of organic material under anaerobic conditions. Part of the CH4 generated is 
+oxidised in the cover of the SWDS, or can be recovered for energy or flaring. The CH4 actually emitted from the 
+SWDS will hence be smaller than the amount generated.  
+EQUATION 3.1 
+CH4 EMISSION FROM SWDS 
+)
+1
+(
+,
+T
+x
+T
+T
+x
+4
+4
+OX
+R
+generated
+CH
+Emissions
+CH
+−
+•
+⎥⎦
+⎤
+⎢⎣
+⎡
+−
+= ∑
+ 
+Where: 
+CH4 Emissions  
+= 
+CH4 emitted in year T, Gg 
+T 
+= 
+inventory year 
+x  
+= 
+waste category or type/material 
+RT  
+= 
+recovered CH4 in year T, Gg 
+OXT 
+= 
+oxidation factor in year T, (fraction) 
+The CH4 recovered must be subtracted from the amount CH4 generated. Only the fraction of CH4 that is not 
+recovered will be subject to oxidation in the SWDS cover layer.  
+ 
+METHANE GENERATION 
+The CH4 generation potential of the waste that is disposed in a certain year will decrease gradually throughout 
+the following decades. In this process, the release of CH4 from this specific amount of waste decreases gradually. 
+The FOD model is built on an exponential factor that describes the fraction of degradable material which each 
+year is degraded into CH4 and CO2.  
+One key input in the model is the amount of degradable organic matter (DOCm) in waste disposed into SWDS. 
+This is estimated based on information on disposal of different waste categories (municipal solid waste (MSW), 
+sludge, industrial and other waste) and the different waste types/material (food, paper, wood, textiles, etc.) 
+included in these categories, or alternatively as mean DOC in bulk waste disposed. Information is also needed on 
+the types of SWDS in the country and the parameters described in Section 3.2.3. For Tier 1, default regional 
+activity data and default IPCC parameters can be used and these are included in the spreadsheet model. Tiers 2 
+and 3 require country-specific activity data and/or country-specific parameters.  
+The equations for estimating the CH4 generation are given below. As the mathematics are the same for 
+estimating the CH4 emissions from all  waste categories/waste types/materials, no indexing referring to the 
+different categories/waste materials/types is used in  the equations below. 
+The CH4 potential that is generated throughout the years can be estimated on the basis of the amounts and 
+composition of the waste disposed into SWDS and the waste management practices at the disposal sites. The 
+basis for the calculation is the amount of Decomposable Degradable Organic Carbon (DDOCm) as defined in 
+Equation 3.2. DDOCm is the part of the organic carbon that will degrade under the anaerobic conditions in 
+SWDS. It is used in the equations and spreadsheet models as DDOCm. The index m is used for mass. DDOCm 
+equals the product of the waste amount (W), the fraction of degradable organic carbon in the waste (DOC), the 
+fraction of the degradable organic carbon that decomposes under anaerobic conditions (DOCf), and the part of 
+the waste that will decompose under aerobic conditions (prior to the conditions becoming anaerobic) in the 
+SWDS, which is interpreted with the methane correction factor (MCF).
+=== PAGE 9 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.9 
+EQUATION 3.2 
+ DECOMPOSABLE DOC FROM WASTE DISPOSAL DATA 
+MCF
+DOC
+DOC
+W
+DDOCm
+f •
+•
+•
+=
+ 
+Where: 
+DDOCm  =  
+mass of decomposable DOC deposited, Gg 
+W 
+  
+=  
+mass of waste deposited, Gg 
+DOC  
+=  
+degradable organic carbon in the year of deposition, fraction, Gg C/Gg waste 
+DOCf   
+=  
+fraction of DOC that can decompose (fraction) 
+MCF  
+=  
+CH4 correction factor for aerobic decomposition in the year of deposition (fraction) 
+ 
+Although CH4 generation potential (Lo)2 is not used explicitly in these Guidelines, it equals the product of 
+DDOCm, the CH4 concentration in the gas (F) and the molecular weight ratio of CH4 and C (16/12). 
+EQUATION 3.3 
+ TRANSFORMATION FROM DDOCm TO LO 
+12
+/
+16
+•
+•
+=
+F
+DDOCm
+Lo
+ 
+Where: 
+Lo  
+ 
+=  
+CH4 generation potential, Gg CH4  
+DDOCm =  
+mass of decomposable DOC, Gg 
+F  
+ 
+=  
+fraction of CH4 in generated landfill gas (volume fraction) 
+16/12  
+=  
+molecular weight ratio CH4/C (ratio) 
+ 
+Using DDOCma (DDOCm accumulated in the SWDS) from the spreadsheets, the above equation can be used to 
+calculate the total CH4 generation potential of the waste remaining in the SWDS.  
+FIRST ORDER DECAY BASICS 
+With a first order reaction, the amount of product is always proportional to the amount of reactive material. This 
+means that the year in which the waste material was deposited in the SWDS is irrelevant to the amount of CH4 
+generated each year. It is only the total mass of decomposing material currently in the site that matters. 
+This also means that when we know the amount of decomposing material in the SWDS at the start of the year, every 
+year can be regarded as year number 1 in the estimation method, and the basic first order calculations can be done by 
+these two simple equations, with the decay reaction beginning on the 1st of January the year after deposition.  
+ EQUATION 3.4 
+DDOCm ACCUMULATED IN THE SWDS AT THE END OF YEAR T 
+(
+)
+k
+T
+T
+T
+e
+DDOCma
+DDOCmd
+DDOCma
+−
+−•
++
+=
+1
+ 
+ 
+EQUATION 3.5 
+DDOCm DECOMPOSED AT THE END OF YEAR T 
+(
+)
+k
+T
+T
+e
+DDOCma
+decomp
+DDOCm
+−
+−
+−
+•
+=
+1
+1
+ 
+ 
+                                                          
+2  In the 2006 Guidelines Lo (Gg CH4 generated) is estimated from the amount of decomposable DOC in the SWDS. The 
+equation in GPG2000 is different as Lo is estimated as Gg CH4 per Gg waste disposed, and the emissions are obtained by 
+multiplying with the mass disposed.
+=== PAGE 10 ===
+Volume 5: Waste 
+3.10 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Where: 
+T 
+ 
+=   inventory year 
+DDOCmaT 
+ 
+= 
+DDOCm accumulated in the SWDS at the end of year T, Gg 
+DDOCmaT-1   
+= 
+DDOCm accumulated in the SWDS at the end of year (T-1), Gg 
+DDOCmdT 
+ 
+= 
+DDOCm deposited into the SWDS in year T, Gg 
+DDOCm decompT  = 
+DDOCm decomposed in the SWDS in year T, Gg 
+k  
+ 
+=   reaction constant,  k = ln(2)/t1/2   (y-1) 
+t1/2 
+ 
+=   half-life time (y) 
+The method can be adjusted for reaction start dates earlier than 1st of January in the year after deposition. 
+Equations and explanations can be found in Annex 3A.1. 
+CH4 generated from decomposable DDOCm 
+The amount of CH4 formed from decomposable material is found by multiplying the CH4 fraction in generated 
+landfill gas and the CH4 /C molecular weight ratio. 
+EQUATION 3.6 
+CH4 GENERATED FROM DECAYED DDOCm 
+12
+/
+16
+•
+•
+=
+F
+decomp
+DDOCm
+generated
+CH
+T
+T
+4
+ 
+Where: 
+CH4 generatedT  
+= 
+amount of CH4 generated from decomposable material  
+DDOCm decompT  =  
+DDOCm decomposed in year T, Gg 
+F  
+ 
+ 
+=  
+fraction of CH4, by volume, in generated landfill gas (fraction) 
+16/12  
+ 
+=  
+molecular weight ratio CH4/C (ratio)  
+ 
+Further background details on the FOD, and an explanation of differences with the approaches in previous 
+versions of the guidance (IPCC, 1997; IPCC, 2000), are given in Annex 3A.1.  
+ 
+SIMPLE FOD SPREADSHEET MODEL 
+The simple FOD spreadsheet model (IPCC Waste Model) has been developed on the basis of Equations 3.4 and 
+3.5 shown above. The spreadsheet keeps a running total of the amount of decomposable DOC in the disposal site, 
+taking account of the amount deposited each year and the amount remaining from previous years. This is used to 
+calculate the amount of DOC decomposing to CH4 and CO2 each year.  
+The spreadsheet also allows users to define a time delay between deposition of the waste and the start of CH4 
+generation. This represents the time taken for substantial CH4 to be generated from the disposed waste (see Section 
+3.2.3 and Annex 3A.1). 
+The model then calculates the amount of CH4 generated from the DDOCm, and subtracts the CH4 recovered and 
+CH4 oxidised in the cover material (see Annex 3A.1 for equations) to give the amount of CH4 emitted.  
+The IPCC Waste Model provides two options for the estimation of the emissions from MSW, that can be chosen 
+depending on the available activity data. The first option is a multi-phase model based on waste composition 
+data. The amounts of each type of degradable waste material (food, garden and park waste3, paper and 
+cardboard, wood, textiles, etc.) in MSW are entered separately. The second option is single-phase model based 
+on bulk waste (MSW). Emissions from industrial waste and sludge are estimated in a similar way as for bulk 
+MSW. Countries that choose to use the spreadsheet model may use either the waste composition or the bulk 
+waste option, depending on the level of data available. When waste composition is relatively stable, both options 
+give similar results. However when rapid changes in waste composition occur, options might give different 
+                                                          
+3  ‘garden waste’ may also be called ‘yard waste’ in US English.
+=== PAGE 11 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.11 
+outputs. For example, changes in waste management, such as bans to dispose food waste or degradable organic 
+materials, can result in rapid changes in the composition of waste disposed in SWDS. 
+Both options can be used for estimating the carbon in harvested wood products (HWP) that is long-term stored in 
+SWDS (see Volume 4, Chapter 12, Harvested Wood Products). If no national data are available on bulk waste, it 
+is good practice to use the waste composition option in the spreadsheets, using the provided IPCC default data 
+for waste composition.   
+In the spreadsheet model, separate values for DOC and the decay half-life may be entered for each waste 
+category and in the waste composition option also for each waste type/material. The decay half-life can also be 
+assumed to be the same for all waste categories and/or waste types. The first approach assumes that 
+decomposition of different waste types/materials in a SWDS is completely independent of each other; the second 
+approach assumes that decomposition of all types of waste is completely dependent on each other. At the time of 
+writing these Guidelines, no evidence exists that one approach is better than the other (see Section 3.2.3, Half-
+life). 
+The spreadsheet calculates the amount of CH4 generated from each waste component on a different worksheet. 
+The methane correction factor (MCF – see Section 3.2.3) is entered as a weighted average for all disposal sites in 
+the country. MCF may vary by time to take account of changes in waste management practices (such as a move 
+towards more managed SWDS or deeper sites). Finally, the amount of CH4 generated from each waste category 
+and type/material is summed, and the amounts of CH4 recovered and oxidised in the cover material are 
+subtracted (if applicable), to give an estimate of total CH4 emissions. For the bulk waste option, DOC can be a 
+weighted average for MSW. 
+The spreadsheet model is most useful to Tier 1 methods, but can be adapted for use with all tiers. For Tier 1 the 
+spreadsheets can estimate the activity data from population data and disposal data per capita (for MSW) and 
+GDP (industrial waste), see Section 3.2.2 for additional guidance. When Tier 2 and 3 approaches are used, 
+countries can extend the spreadsheet model to meet their own demands, or create their own models. The 
+spreadsheet model can be extended with more sheets to calculate the CH4 emissions if needed. MCF, OX and 
+DOC for bulk waste can be made to vary over time. The same can easily be done to other parameters like DOCf. 
+New half-lives will require new CH4 calculating sheets. Countries with good data on industrial waste can add 
+new CH4 calculating sheets and calculate the CH4 emissions separately for different types of industrial waste. 
+When the spreadsheet model is modified or countries-specific models are used, key assumptions and parameters 
+should be transparently documented. Details on how to use the spreadsheet model can be found in the 
+Instructions spreadsheet.  
+The model can be copied from the 2006 Guidelines CDROM or downloaded from the IPCC NGGIP website  
+< http://www.ipcc-nggip.iges.or.jp/ >. 
+Modelling different geographical or climate regions 
+It is possible to estimate CH4 generation in different geographical regions of the country. For example, if the 
+country contains a hot and wet region and a hot and dry region, the decay rates will be different in each region.  
+Dealing with different waste categories 
+Some users may find that their national waste statistics do not match the categories used in the model (food, 
+garden and park waste, paper and cardboard, textiles and others as well as industrial waste). Where this is the 
+case, the spreadsheet model will need to be modified to correspond to categorisation used by the country, or 
+country-specific waste types will need to be re-classified into the IPCC categories. For example, clothes, curtain, 
+and rugs are included in textiles, kitchen waste is similar to food waste, and straw and bamboo are similar to 
+wood. The national statistics may contain a category called street sweepings. The user should estimate the 
+composition of this waste. For example, it may be 50 percent inert material, 10 percent food, 30 percent paper 
+and 10 percent garden and park waste. The street sweepings category can then be divided into these IPCC 
+categories and added on to the waste already in these categories. In a similar manner, furniture can be divided 
+into wood, plastic or metal waste, and electronics to metal, plastic and glass waste. This can all be done in a 
+separate worksheet set up by the inventory compiler.  
+Adjusting waste composition at generation to waste composition at SWDS 
+The user should establish whether national waste composition statistics refer to the composition of waste 
+generated or waste received at SWDS. The default waste composition statistics presented here are the 
+composition of waste generated, not waste sent to SWDS. The composition should therefore be adjusted if 
+necessary to take account of the impact of recycling or composting activities on the composition of the waste 
+sent to SWDS. This could be best done in a separate spreadsheet set up by the inventory compiler, to estimate
+=== PAGE 12 ===
+Volume 5: Waste 
+3.12 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+the amounts of each waste material generated, then subtract estimates of the amount of each waste material 
+recycled, incinerated or composted, and work out the new composition of the residual waste sent to SWDS. 
+Open burning of waste at SWDS 
+Open burning at SWDS is common in many developing countries. The amount of waste (and DDOCm) available 
+for decay at SWDS should be adjusted to the amount burned. Chapter 5 provides methods how to estimate the 
+amount of waste burned. The estimation of emissions from SWDS should be consistent with estimates for open 
+burning of waste at the disposal sites. 
+3.2.2 
+Choice of activity data 
+Activity data consist of the waste generation for bulk waste or by waste component and the fraction of waste 
+disposed to SWDS. Waste generation is the product of the per capita waste generation rate (tonnes/capita/yr) for 
+each component and population (capita). Chapter 2 gives guidance on the collection of data on waste generation 
+and waste composition as well as waste management practices. Regional default values for MSW can be found in 
+Table 2.1 for the generation rate and the fraction disposed in SWDS, and Table 2.3 for the waste composition. For 
+industrial waste default data can be found in Table 2.2. To achieve accurate emission estimates in national 
+inventories it is usually necessary to include data on solid waste disposal (amount, composition) for 3 to 5 half-lives 
+(see Section 3.2.3) of the waste deposited at the SWDS, and specifications of different half-lives for different 
+components of the waste stream or for bulk waste by SWDS type (IPCC, 2000). Changes in waste management 
+practices (e.g., site covering/capping, leachate drainage improvement, compacting, and prohibition of hazardous 
+waste disposal together with MSW) should also be taken into account when compiling historical data.  
+The FOD methods require data on solid waste disposal (amounts and composition) that are collected by default for 
+50 years. Countries that do not have historical statistical data, or equivalent data on solid waste disposal that go 
+back for the whole period of 50 years or more will need to estimate these data using surrogates (extrapolation 
+with population, economic or other drivers). The choice of the method will depend on the availability of data in 
+the country. 
+For countries using default data on MSW disposal on land, or for countries whose own data do not cover the past 
+50 years, the missing historical data can be estimated to be proportional to urban population4 (or total population 
+when historical data on urban population are not available, or in cases where waste collection covers the whole 
+population). For countries having national data on MSW generation, management practices and composition 
+over a period of years (Tier 2 FOD), analyses on the drivers for solid waste disposal are encouraged. The 
+historical data could be proportional to economic indicators, or combinations of population and economic 
+indicators. Trend extrapolation could also produce good results. Waste management policies to reduce waste 
+generation and to promote alternatives to solid waste disposal should be taken into account in the analyses. Data 
+on industrial production (amount or value of production, preferably by industry type, depending on availability of 
+data) are recommended as surrogate for the estimation of disposal of industrial waste (Tier 2). When production 
+data are not available, historical disposal of industrial waste can be estimated proportional to GDP or other 
+economic indicators. GDP is used as the driver in the Tier 1 method.  
+Historical data on urban population (or total population), GDP (or other economic indicators) and statistics in 
+industrial production can be obtained from national statistics. International databases can help when national data 
+are not available, for example: 
+• 
+Population data (1950 onwards with five-year intervals) can be found in UN Statistics  
+(see http://esa.un.org/unpp/).  
+• 
+GDP data (1970 onwards, annual data at current prices in national currency) can be found in UN Statistics 
+(see http://unstats.un.org/unsd/snaama/selectionbasicFast.asp). 
+For those years data are not available interpolation or extrapolation can be used.  
+Alternative methods have been put forward in literature and can be used when they can be shown to give better 
+estimates than the above-mentioned default methods.  
+The choice of method and surrogate, and the reasoning behind the choice, should be documented transparently in 
+the inventory report. The use of surrogate methods, interpolation and extrapolation as means to derive missing 
+data is described in more detail in Chapter 6, Time Series Consistency, in Volume 1.  
+                                                          
+4 The choice between urban population and total population should be guided by the coverage of waste collection. When 
+data on coverage of waste collection is not available, the recommendation is to use urban population as the driver.
+=== PAGE 13 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.13 
+3.2.3 
+Choice of emission factors and parameters 
+DEGRADABLE ORGANIC CARBON (DOC) 
+Degradable organic carbon (DOC) is the organic carbon in waste that is accessible to biochemical decomposition, 
+and should be expressed as Gg C per Gg waste. The DOC in bulk waste is estimated based on the composition of 
+waste and can be calculated from a weighted average of the degradable carbon content of various components 
+(waste types/material) of the waste stream. The following equation estimates DOC using default carbon content 
+values: 
+ 
+EQUATION 3.7  
+ESTIMATES DOC USING DEFAULT CARBON CONTENT VALUES 
+(
+)
+∑
+•
+=
+i
+i
+i
+W
+DOC
+DOC
+ 
+Where: 
+DOC 
+=   fraction of degradable organic carbon in bulk waste, Gg C/Gg waste 
+DOCi  
+=  
+fraction of degradable organic carbon in waste type i 
+ 
+ 
+e.g., the default value for paper is 0.4 (wet weight basis) 
+Wi 
+=   fraction of waste type i by waste category  
+ 
+ 
+e.g., the default value for paper in MSW in Eastern Asia is 0.188 (wet weight basis)  
+ 
+The default DOC values for these fractions for MSW can be found in Table 2.4 and for industrial waste by industry in 
+Table 2.5 in Chapter 2 of this Volume. A similar approach can be used to estimate the DOC content in total waste 
+disposed in the country. In the spreadsheet model, the estimation of the DOC in MSW is needed only for the bulk 
+waste option, and is the average DOC for the MSW disposed in the SWDS, including inert materials.  
+The inert part of the waste (glass, plastics, metals and other non-degradable waste, see defaults in Table 2.3 in 
+Chapter 2.) is important when estimating the total amount of DOC in MSW. Therefore it is advised not to use 
+IPCC default waste composition data together with country-specific MSW disposal data, without checking that 
+the inert part is close to the inert part in the IPCC default data.  
+The use of country-specific values is encouraged if data are available. Country-specific values can be obtained by 
+performing waste generation studies, sampling at SWDS combined with analysis of the degradable carbon content 
+within the country. If national values are used, survey data and sampling results should be reported (see also Section 
+3.2.2 for activity data and Section 3.8 for reporting). 
+FRACTION OF DEGRADABLE ORGANIC CARBON WHICH DECOMPOSES 
+(DOCf) 
+Fraction of degradable organic carbon which decomposes (DOCf ) is an estimate of the fraction of carbon that is 
+ultimately degraded and released from SWDS, and reflects the fact that some degradable organic carbon does not 
+degrade, or degrades very slowly, under anaerobic conditions in the SWDS . The recommended default value for 
+DOCf is 0.5 (under the assumption that the SWDS environment is anaerobic and the DOC values include lignin, 
+see Table 2.4 in Chapter 2 for default DOC values) (Oonk and Boom, 1995; Bogner and Matthews, 2003). DOCf 
+value is dependent on many factors like temperature, moisture, pH, composition of waste, etc. National values 
+for DOCf or values from similar countries can be used for DOCf, but they should be based on well-documented 
+research.  
+The amount of DOC leached from the SWDS is not considered in the estimation of DOCf. Generally the 
+amounts of DOC lost with the leachate are less than 1 percent and can be neglected in the calculations5.  
+Higher tier methodologies (Tier 2 or 3) can also use separate DOCf values defined for specific waste types. 
+There is some literature giving information about anaerobic degradability (DOCf) for material types (Barlaz, 
+                                                          
+5  In countries with high precipitation rates the amount of DOC lost through leaching may be higher. In Japan, where the 
+precipitation is high, SWDS with high penetration rate, have been found to leach significant amounts of DOC (sometimes 
+more than 10 percent of the carbon in the SWDS) (Matsufuji et al., 1996).
+=== PAGE 14 ===
+Volume 5: Waste 
+3.14 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+2004; Micales & Skog, 1997; US EPA, 2002; Gardner et al., 2002). The reported degradabilities especially for 
+wood, vary over a wide range and is yet quite inconclusive. They may also vary with tree species. Separate 
+DOCf values for specific waste types imply the assumption that degradation of different types of waste is 
+independent of each other. As discussed further, below under Half-Life, scientific knowledge at the moment of 
+writing these Guidelines is not yet conclusive on this aspect.  
+Hence the use of waste type specific values for DOCf can introduce additional uncertainty to the estimates in 
+cases where the data on waste composition are based on default values, modelling or estimates based on expert 
+judgement. Therefore, it is good practice to use DOCf values specific to waste types only when waste 
+composition data are based on representative sampling and analyses.  
+METHANE CORRECTION FACTOR (MCF)6 
+Waste disposal practices vary in the control, placement of waste and management of the site. The CH4 correction 
+factor (MCF) accounts for the fact that unmanaged SWDS produce less CH4 from a given amount of waste than 
+anaerobic managed SWDS. In unmanaged SWDS, a larger fraction of waste decomposes aerobically in the top 
+layer. In unmanaged SWDS with deep disposal and/or with high water table, the fraction of waste that degrades 
+aerobically should be smaller than in shallow SWDS. Semi-aerobic managed SWDS are managed passively to 
+introduce air to the waste layer to create a semi-aerobic environment within the SWDS. The MCF in relation to 
+solid waste management is specific to that area and should be interpreted as the waste management correction 
+factor that reflects the management aspect it encompasses.  
+An MCF is assigned to each of four categories, as shown in Table 3.1. A default value is provided for countries 
+where the quantity of waste disposed to each SWDS is not known. A country’s classification of its waste sites 
+into managed or unmanaged may change over a number of years as national waste management policies are 
+implemented. 
+The Fraction of Solid Waste Disposed to Solid Waste Disposal Sites (SWF) and MCF reflect the way waste is 
+managed and the effect of site structure and management practices on CH4 generation. The methodology 
+requires countries to provide data or estimates of the quantity of waste that is disposed of to each of four 
+categories of solid waste disposal sites (Table 3.1). Only if countries cannot categorise their SWDS into four 
+categories of managed and unmanaged SWDS, the MCF for ‘uncategorised SWDS’ can be used. 
+ 
+TABLE 3.1 
+SWDS CLASSIFICATION AND METHANE CORRECTION FACTORS (MCF) 
+Type of Site 
+Methane Correction Factor (MCF) Default Values 
+Managed – anaerobic 1 
+1.0 
+Managed – semi-aerobic 2 
+0.5 
+Unmanaged 3 – deep ( >5 m waste) and /or high water table 
+0.8 
+Unmanaged 4 – shallow (<5 m waste) 
+0.4 
+Uncategorised SWDS 5 
+0.6 
+1 Anaerobic managed solid waste disposal sites: These must have controlled placement of waste (i.e., waste directed to specific 
+deposition areas, a degree of control of scavenging and a degree of control of fires) and will include at least one of the following: (i) 
+cover material; (ii) mechanical compacting; or (iii) levelling of the waste. 
+2 Semi-aerobic managed solid waste disposal sites: These must have controlled placement of waste and will include all of the 
+following structures for introducing air to waste layer: (i) permeable cover material; (ii) leachate drainage system; (iii) regulating 
+pondage; and (iv) gas ventilation system. 
+3 Unmanaged solid waste disposal sites – deep and/or with high water table: All SWDS not meeting the criteria of managed SWDS 
+and which have depths of greater than or equal to 5 metres and/or high water table at near ground level. Latter situation corresponds to 
+filling inland water, such as pond, river or wetland, by waste.  
+4 Unmanaged shallow solid waste disposal sites; All SWDS not meeting the criteria of managed SWDS and which have depths of less 
+than 5 metres. 
+5 Uncategorised solid waste disposal sites: Only if countries cannot categorise their SWDS into above four categories of managed and 
+unmanaged SWDS, the MCF for this category can be used.  
+Sources: IPCC (2000); Matsufuji et al. (1996) 
+                                                          
+6  The term methane correction factor (MCF) in this context should not be confused with the methane conversion factor 
+(MCF) referred to in the Agriculture, Forestry, and Other Land Use Sector for livestock manure management emissions.
+=== PAGE 15 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.15 
+FRACTION OF CH4 IN GENERATED LANDFILL GAS (F) 
+Most waste in SWDS generates a gas with approximately 50 percent CH4. Only material including substantial 
+amounts of fat or oil can generate gas with substantially more than 50 percent CH4. The use of the IPCC default 
+value for the fraction of CH4 in landfill gas (0.5) is therefore encouraged.  
+The fraction of CH4 in generated landfill gas should not be confused with measured CH4 in gas emitted from the 
+SWDS. In the SWDS, CO2 is absorbed in seepage water, and the neutral condition of the SWDS transforms 
+much of the absorbed CO2 to bicarbonate. Therefore, it is good practice to adjust for the CO2 absorption in 
+seepage water, if the fraction of CH4 in landfill gas is based on measurements of CH4 concentrations measured in 
+landfill gas emitted from the SWDS (Bergman, 1995; Kämpfer and Weissenfels, 2001; IPCC, 1997). 
+ 
+OXIDATION FACTOR (OX) 
+The oxidation factor (OX) reflects the amount of CH4 from SWDS that is oxidised in the soil or other material 
+covering the waste.  
+CH4 oxidation is by methanotrophic micro-organisms in cover soils and can range from negligible to 100 percent of 
+internally produced CH4. The thickness, physical properties and moisture content of cover soils directly affect CH4 
+oxidation (Bogner and Matthews, 2003). 
+Studies show that sanitary, well-managed SWDS tend to have higher oxidation rates than unmanaged dump sites. 
+The oxidation factor at sites covered with thick and well-aerated material may differ significantly from sites with 
+no cover or where large amounts of CH4 can escape through cracks/fissures in the cover.  
+Field and laboratory CH4 and CO2 emission concentrations and flux measurements that determine CH4 oxidation from 
+uniform and homogeneous soil layers should not be used directly to determine the oxidation factor, since in reality, 
+only a fraction of the CH4 generated will diffuse through such a homogeneous layer. Another fraction will escape 
+through cracks/fissures or via lateral diffusion without being oxidised. Therefore, unless the spatial extent of 
+measurements is wide enough and cracks/fissures are explicitly included, results from field and laboratory studies may 
+lead to over-estimation of oxidation in SWDS cover soils. 
+The default value for oxidation factor is zero. See Table 3.2. The use of the oxidation value of 0.1 is justified for 
+covered, well-managed SWDS to estimate both diffusion through the cap and escape by cracks/fissures. The use of 
+an oxidation value higher than 0.1, should be clearly documented, referenced, and supported by data relevant to 
+national circumstances. It is important to remember that any CH4 that is recovered must be subtracted from the 
+amount generated before applying an oxidation factor. 
+ 
+TABLE 3.2 
+OXIDATION FACTOR (OX) FOR SWDS 
+Type of Site 
+Oxidation Factor (OX) 
+ Default Values 
+Managed 1, unmanaged and uncategorised SWDS 
+0 
+Managed covered with CH4 oxidising material 2  
+0.1 
+1 Managed but not covered with aerated material 
+2 Examples: soil, compost  
+ 
+ 
+HALF-LIFE 
+The half-life value, t1/2 is the time taken for the DOCm in waste to decay to half its initial mass. In the FOD 
+model and in the equations in this Volume, the reaction constant k is used. The relationship between k and t1/2 is: 
+k = ln(2)/t1/2 . The half-life is affected by a wide variety of factors related with the composition of the waste, 
+climatic conditions at the site where the SWDS is located, characteristics of the SWDS, waste disposal practices 
+and others (Pelt et al., 1998; Environment Canada, 2003). 
+The half-life value applicable to any single SWDS is determined by a large number of factors associated with the 
+composition of the waste and the conditions at the site. Recent studies have provided more data on half-lives
+=== PAGE 16 ===
+Volume 5: Waste 
+3.16 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+(experimental or by means of models), but the results obtained are based on the characteristics of developed 
+countries under temperate conditions. Few available results reflect the characteristics of developing countries 
+and tropical conditions. Measurements from SWDS in Argentina, New Zealand, the United States, the United 
+Kingdom and the Netherlands support values for t1/2 in the range of approximately 3 to 35 years (Oonk and 
+Boom, 1995; USEPA, 2005; Scharff et al., 2003; Canada, 2004; and Argentina, 2004).  
+The most rapid rates (k = 0.2, or a half-life of about 3 years) are associated with high moisture conditions and 
+rapidly degradable material such as food waste. The slower decay rates (k = 0.02, or a half-life of about 35 years) 
+are associated with dry site conditions and slowly degradable waste such as wood or paper. A much longer half-
+life of 70 years or above could be justified for shallow dry SWDS in a temperate climate or for wood waste in a 
+dry, temperate climate. A half-life of less than 3 years may be appropriate for managed SWDS in a wet, 
+temperate climate or rapidly degrading waste in a wet, tropical climate. The inventory compiler is encouraged to 
+establish country specific half-life values. Current knowledge and data limitations constrain the development of a 
+default methodology for estimating half-lives from field-data at SWDS.  
+There are two alternative approaches to select the half-life (or k value) for the calculation: (a) calculate a 
+weighted average for t1/2 for mixed MSW (Jensen and Pipatti, 2002) or (b) divide the waste stream into 
+categories of waste according to their degradation speed (Brown et al., 1999). The first approach assumes 
+degradation of different types of waste to be completely dependent on each other. So the decay of wood is 
+enhanced due to the present of food waste, and the decay of food waste is slowed down due to the wood. The 
+second approach assumes degradation of different types of waste is independent of each other. Wood degrades as 
+wood, irrespective whether it is in an almost inert SWDS or in a SWDS that contains large amounts of more 
+rapidly degrading wastes. In reality the truth will probably be somewhere in the middle. However there has been 
+little research performed to identify the better one of both approaches (Oonk and Boom, 1995; Scharff et al., 
+2003) and this research was not conclusive. Two options of the IPCC spreadsheet model apply either of above 
+approaches to select the half-life as follows:  
+Bulk waste option: The bulk waste option requires alternative (a) above, and is suitable for countries without 
+data or with limited data on waste composition, but with good information on bulk waste disposed at SWDS. 
+Default values are estimated as a function of the climate zone.  
+Waste composition option: The waste composition option requires alternative (b) and is applicable for countries 
+having data on waste composition. Specification of the half-life (t1/2) of each component of the waste stream 
+(IPCC, 2000) is required to achieve acceptably accurate results. 
+For both options default half-life values are estimated as a function of the climate zone. The main assumptions 
+and considerations made are: 
+• 
+Waste composition (especially the organic component) is one of the main factors influencing both the 
+amount and the timing of CH4 production. 
+• 
+Moisture content of a SWDS is an essential element for anaerobic decomposition and CH4 generation. A 
+simplified method assumes that the moisture content of a SWDS is proportional to the mean annual 
+precipitation (MAP) in the location of the SWDS (Pelt et al., 1998; U.S. EPA, 1998; Environment Canada, 
+2003) or to the ratio of MAP and potential evapotranspiration (PET).  
+• 
+The extent to which ambient air temperatures influence the temperature of the SWDS and gas generation 
+rates depends mainly on the degree of waste management and the depth of SWDS.  
+• 
+Wastes in shallow open dumps generally decompose aerobically and produce little CH4, and the emissions 
+decline in shorter time than the anaerobic conditions. Managed (and also deep unmanaged) SWDS creates 
+anaerobic conditions. 
+Countries may develop specific half-life values (or k values) more appropriate for their circumstances and 
+characteristics. It is good practice that countries which develop their own half-life values document the 
+experimental procedures used to derive to them.
+=== PAGE 17 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.17 
+Default k values and the corresponding half-lives are provided below in Table 3.3 and in Table 3.4. 
+ 
+TABLE 3.3 
+RECOMMENDED DEFAULT METHANE GENERATION RATE (k ) VALUES UNDER TIER 1  
+(Derived from k values obtained in experimental measurements, calculated by models, or used in greenhouse gas 
+inventories and other studies) 
+Climate Zone* 
+Boreal and Temperate 
+(MAT ≤ 20°C) 
+Tropical1 
+(MAT > 20°C) 
+Dry 
+(MAP/PET < 1) 
+Wet 
+(MAP/PET > 1) 
+Dry 
+(MAP < 1000 mm) 
+Moist and Wet 
+(MAP ≥ 1000 mm)
+Type of Waste 
+Default 
+Range2 
+Default
+Range2 
+Default
+Range2 
+Default 
+Range2 
+Paper/textiles 
+waste 
+0.04 
+0.033,5 – 
+0.053,4 
+0.06 
+0.05 – 
+0.073,5 
+0.045 
+0.04 – 0.06 
+0.07 
+0.06 – 
+0.085 
+Slowly 
+degrading 
+waste 
+Wood/ straw 
+waste 
+0.02 
+0.013,4 – 
+0.036,7 
+0.03 
+0.02 – 0.04
+0.025 
+0.02 – 0.04 
+0.035 
+0.03 – 0.05
+Moderately 
+degrading 
+waste 
+Other (non – 
+food) organic 
+putrescible/ 
+Garden and 
+park waste 
+0.05 
+0.04 – 0.06 
+0.1 
+0.06 – 0.18
+0.065 
+0.05 – 0.08 
+0.17 
+0.15 – 0.2 
+Rapidly 
+degrading 
+waste 
+Food 
+waste/Sewage 
+sludge 
+0.06 
+0.05 – 0.08
+0.1854 
+0.13,4 – 
+0.29 
+0.085 
+0.07 – 0.1 
+0.4 
+0.17 – 0.710 
+Bulk Waste 
+0.05 
+0.04 – 0.06
+0.09 
+0.088 – 0.1
+0.065 
+0.05 – 0.08 
+0.17 
+0.1511 – 0.2
+1  The available information on the determination of k and half-lives in tropical conditions is quite limited. The values included in the 
+table, for those conditions, are indicative and mostly have been derived from the assumptions described in the text and values obtained 
+for temperate conditions.  
+2  The range refers to the minimum and maximum data reported in literature or estimated by the authors of the chapter. It is included, 
+basically, to describe the uncertainty associated with the default value.  
+3  Oonk and Boom (1995). 
+4  IPCC (2000). 
+5  Brown et al. (1999). A near value (16 yr) was used, for slow degradability, in the GasSim model verification (Attenborough et al.,     
+2002).  
+6  Environment Canada (2003).  
+7  In this range are reported longer half-lives values (up to 231 years) that were not included in the table since are derived from extremely 
+low k values used in sites with mean daily temperature < 0ºC (Levelton, 1991).   
+8  Estimated from RIVM (2004).  
+9  Value used  for rapid degradability, in the GasSim model verification (Attenborough et al., 2002);  
+10 Estimated from Jensen and Pipatti (2003).  
+11 Considering t1/2 = 4 - 7 yr as characteristic values for most developing countries in a tropical climate. High moisture conditions and 
+higly degradable waste.   
+*Adapted from: Chapter 3 in GPG-LULUCF (IPCC, 2003). 
+MAT – Mean annual temperature; MAP – Mean annual precipitation; PET – Potential evapotranspiration.  
+MAP/PET is the ratio of MAP to PET. The average annual MAT, MAP and PET during the time series should be selected to estimate 
+emissions and indicated by the nearest representative meteorological station.
+=== PAGE 18 ===
+Volume 5: Waste 
+3.18 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+TABLE 3.4 
+RECOMMENDED DEFAULT HALF-LIFE (t1/2) VALUES (YR) UNDER TIER 1   
+(Derived from k values obtained in experimental measurements, calculated by models, or used in greenhouse gas 
+inventories and other studies) 
+Climate Zone* 
+Boreal and Temperate 
+(MAT ≤ 20°C) 
+Tropical1 
+(MAT > 20°C) 
+Dry 
+(MAP/PET < 1) 
+Wet 
+(MAP/PET > 1) 
+Dry 
+(MAP < 1000 mm) 
+Moist and Wet 
+(MAP ≥ 1000 mm)
+Type of Waste  
+Default 
+Range2 
+Default
+Range2 
+Default
+Range2 
+Default 
+Range2 
+Paper/textiles 
+waste 
+17 
+143,5 – 
+233,4 
+12 
+10 – 143,5
+15 
+12 – 17 
+10 
+  8 – 12 
+Slowly 
+degrading 
+waste 
+Wood/ straw 
+waste 
+35 
+233,4 – 
+696,7 
+23 
+17 – 35 
+28 
+17 – 35 
+20 
+14 – 23 
+Moderately 
+degrading 
+waste 
+Other (non – 
+food) organic 
+putrescible/ 
+Garden and 
+park waste 
+14 
+12 – 17 
+7 
+ 6 – 98 
+11 
+ 9 – 14 
+4 
+3 – 5 
+Rapidly 
+degrading 
+waste 
+Food 
+waste/Sewage 
+sludge 
+12 
+  9 – 14 
+44 
+33,4 – 69 
+8 
+ 6 – 10 
+2 
+110 – 4 
+Bulk Waste 
+14 
+12 – 17 
+7 
+6 – 98 
+11 
+ 9 – 14 
+4 
+  3 – 511 
+1  The available information on the determination of k and half-lives in tropical conditions is quite limited. The values included in the 
+table, for those conditions, are indicative and mostly have been derived from the assumptions described in the text and values obtained 
+for temperate conditions. 
+2  The range refers to the minimum and maximum data reported in literature or estimated by the authors of the chapter. It is included, 
+basically, to describe the uncertainty associated with the default value.  
+3  Oonk and Boom (1995). 
+4  IPCC (2000). 
+5  Brown et al. (1999). A near value (16 yr) was used, for slow degradability, in the GasSim model verification (Attenborough et al.,     
+2002).  
+6  Environment Canada (2003). 
+7  In this range are reported longer half-lives values (up to 231 years) that were not included in the table since are derived from extremely 
+low k values used in sites with mean daily temperature < 0ºC (Levelton,1991).   
+8  Estimated from RIVM (2004).  
+9  Value used  for rapid degradability, in the GasSim model verification (Attenborough et al., 2002).  
+10 Estimated from Jensen and Pipatti (2003).  
+11 Considering t1/2 = 4 - 7 yr as characteristic values for most developing countries in a tropical climate. High moisture conditions and 
+higly degradable waste.   
+*Adapted from: Chapter 3 –GPG-LULUCF (IPCC, 2003). 
+MAT – Mean annual temperature; MAP – Mean annual precipitation; PET – Potential evapotranspiration.  
+MAP/PET is the ratio of MAP to PET. The average annual MAT, MAP and PET during the time series should be selected to estimate 
+emissions and indicated by the nearest representative meteorological station.  
+ 
+METHANE RECOVERY (R) 
+CH4 generated at SWDS can be recovered and combusted in a flare or energy device. The amount of CH4 which 
+is recovered is expressed as R in Equation 3.1. If the recovered gas is used for energy, then the resulting 
+greenhouse gas emissions should be reported under the Energy Sector. Emissions from flaring are however not 
+significant, as the CO2 emissions are of biogenic origin and the CH4 and N2O emissions are very small, so good 
+practice in the waste sector does not require their estimation. However, if it is wished to do so these emissions 
+should be reported under the waste sector. A discussion of emissions from flares and more detailed information 
+are given in Volume 2, Energy, Chapter 4.2. Emissions from flaring are not treated at Tier 1.
+=== PAGE 19 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.19 
+The default value for CH4 recovery is zero. CH4 recovery should be reported only when references documenting 
+the amount of CH4 recovery are available. Reporting based on metering of all gas recovered for energy and 
+flaring, or reporting of gas recovery based on the monitoring of produced amount of electricity from the gas 
+(considering the availability of load factors, heating value and corresponding heat rate, and other factors 
+impacting the amount of gas used to produce the monitored amount of electricity) is consistent with good 
+practice.  
+Estimating the amount of CH4 recovered using more indirect methods should be done with great care, using 
+substantiated assumptions. Indirect methods might be based on the number of SWDS in a country with CH4 
+collection or the total capacity of utilisation equipment or flaring capacity sold. 
+When CH4 recovery is estimated on the basis of the number of SWDS with landfill gas recovery a default 
+estimate of recovery efficiency would be 20 percent. This is suggested due to the many uncertainties in using this 
+methodology. There have been some measurements of efficiencies at gas recovery projects, and reported 
+efficiencies have been between 10 and 85 percent Oonk and Boom (1995) measured efficiencies at closed, 
+unlined SWDS to be in between 10 and 80 percent, the average over 11 SWDS being 37 percent. More recently 
+Scharff et al. (2003) measured efficiencies at four SWDS to be 9 percent, 50 percent, 55 percent and 33 percent. 
+Spokas et al. (2006) and Diot et al. (2001) recently measured efficiencies above 90 percent. In general, high 
+recovery efficiencies can be related to closed SWDS, with reduced gas fluxes, well-designed and operated 
+recovery and thicker and less permeable covers. Low efficiencies can be related to SWDS with large parts still 
+being in exploitation and with e.g., temporary sandy covers.  
+Country-specific values may be used but significant research would need to be done to understand the impact on 
+recovery of following parameters: cover type, percentage of SWDS covered by recovery project, presence of a 
+liner, open or closed status, and other factors. 
+When the amount of CH4 recovered is based on the total capacity of utilisation equipment or flares sold, an  
+effort should be made in order to identify what part of this equipment is still operational. A conservative estimate 
+of amount of CH4 generated could be based on an inventory of the minimum capacities of the operational 
+utilisation equipment and flares. Another conservative approach is to estimate total recovery as 35 percent of the 
+installed capacities. Based on Dutch and US studies (Oonk, 1993; Scheehle, 2006), recovered amounts varied 
+from 35 to 70 percent of capacity rates. The reasons for the range included (i) running hours from 95 percent 
+down to 80 percent, due to maintenance or technical problems; (ii) overestimated gas production and as result 
+oversized equipment; (iii) back-up flares being largely inactive. The higher rates took these considerations 
+already into account when estimating capacity. If a country uses this method for flaring, care must be taken to 
+ensure that the flare is not a back-up flare for a gas-to-energy project. Flares should be matched to SWDS 
+wherever possible to ensure that double counting does not occur.  
+In all cases, the recovered amounts should be reported as CH4, not as landfill gas, as landfill gas contains only a 
+fraction of CH4. The basis for the reporting should be clearly documented. When reporting is based on the 
+number of SWDS with landfill gas recovery or the total capacity of utilisation equipment, it is essential that all 
+assumptions used in the estimation of the recovery are clearly described and justified with country-specific data 
+and references.  
+DELAY TIME 
+In most solid waste disposal sites, waste is deposited continuously throughout the year, usually on a daily basis. 
+However, there is evidence that production of CH4 does not begin immediately after deposition of the waste.  
+At first, decomposition is aerobic, which may last for some weeks, until all readily available oxygen has been 
+used up. This is followed by the acidification stage, with production of hydrogen. The acidification stage is often 
+said to last for several months. After which there is a transition period from acidic to neutral conditions, when 
+CH4 production starts.  
+The period between deposition of the waste and full production of CH4 is chemically complex and involves 
+successive microbial reactions. Time estimates for the delay time are uncertain, and will probably vary with 
+waste composition and climatic conditions. Estimates of up to one year have been given in the literature 
+(Gregory et al., 2003; Bergman, 1995; Kämpfer and Weissenfels, 2001; Barlaz, 2004). The IPCC provides a 
+default value of six months for the time delay (IPCC, 1997). This is equivalent to a reaction start time of 1st of 
+January in the year after deposition, when the average residence time of waste in the SWDS has been six months. 
+However, the uncertainty of this assumption is at least 2 months. 
+The IPCC Waste Model allows the user to change the default delay of six months to a different value. It is good 
+practice to choose a delay time of between zero and six months. Values outside this range should be supported 
+by evidence.
+=== PAGE 20 ===
+Volume 5: Waste 
+3.20 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.3 
+USE OF MEASUREMENT IN THE ESTIMATION 
+OF CH4 EMISSIONS FROM SWDS  
+The FOD model and other methods for estimating CH4 generation at SWDS are constructed using scientific 
+knowledge as well as assumptions on microbial metabolism under anaerobic conditions in the SWDS. As with 
+all models, validation that includes some form of direct measurements to compare model predictions to actual 
+measurements increases the user’s confidence in the model and can be used to refine and improve the model 
+predictions. These measurements can also be used to validate a model by comparing model predictions to CH4 
+generation rates developed from measurements and to document the choice of country-specific values for 
+parameters used in the model in preparing national inventories.  
+Measurements can be measured amounts of gas recovered in the gas collection system (in combination with an 
+estimate of the recovery efficiency), measured amounts of diffuse CH4 emissions to air and combinations of both. 
+Several studies have used measurement data from gas collection systems to develop estimates of the parameters 
+needed for the FOD model (such as the decay rate constant and CH4 generation potential) for specific SWDS, for 
+classes of SWDS in specific regions, and for application to SWDS on a national basis (Oonk and Boom, 1995; 
+Huitric et al., 1997; SWANA, 1998; SCS Engineers, 2003; U.S. EPA, 1998; U.S. EPA, 2005). The technique 
+uses statistical procedures to develop best fit values for the model parameters, such as a nonlinear regression that 
+evaluates model parameters in an iterative fashion to find the best estimate for the model parameters, based on 
+the smallest sum of squared errors. With sufficient site-specific detail and an adequate large database of SWDS, 
+the statistical analysis can identify the effects of variations in waste composition, geographical location, rainfall, 
+and other factors on appropriate values for the model parameters. For example, several studies have found that 
+the decay rate constant increases with precipitation (U.S. EPA, 2005).  
+The use of direct measurements of extracted amounts of gas to estimate FOD model parameters is one option for 
+the good practice of developing country-specific values. This technique was used to develop some of the default 
+values for half-life presented in Table 3.4. It is applicable for those countries with accurate measurement data 
+from landfill gas collection systems for a representative set of SWDS with well known amounts, composition 
+and age-distribution of waste deposited. If site-specific CH4 collection data are used to estimate parameters for 
+the FOD model for the national inventory, it is good practice to ensure that the SWDS used in the analysis are 
+representative of all SWDS in the country in terms of the major factors that affect the values of the parameters 
+and CH4 emissions. Additional details on this technique are provided in Box 3.1. 
+ 
+ 
+BOX 3.1 
+DIRECT MEASUREMENTS FROM GAS COLLECTION SYSTEMS TO ESTIMATE FOD MODEL PARAMETERS 
+The key element in developing estimates of the parameters for the FOD model is a representative 
+database of landfills that has the following characteristics: 
+(i) 
+Contain types of wastes representative of landfills nationwide,  
+(ii) 
+Include a range of sizes, waste age, and geographical regions (especially if the effect of 
+precipitation is to be evaluated), 
+(iii) Have site-specific measurements of the landfill gas (LFG) collection rate and percent CH4 
+that include seasonal variations over time (covering at least one year and preferably longer), 
+(iv) 
+Have site-specific measurements of annual waste acceptance rates or total waste in place and 
+year the landfill opened (i.e., the waste in place or average annual acceptance rate for the 
+area of the landfill under the influence of the collection system, 
+(v) 
+Include site-specific estimates of percent recovery (based on design and operational 
+characteristics or other information), and 
+(vi) 
+Include annual average precipitation (if this effect is to be evaluated). 
+Accuracy of direct measurements of LFG flow rate, percent CH4, and annual waste disposal rates 
+can be better than ±10 percent. The most significant source of error in using the direct 
+measurement of CH4 collection rates to estimate CH4 generation rates is the determination of LFG 
+collection efficiency. However, this error can be reduced and controlled if collection rate data are 
+used only for landfills that are known or can be shown to have efficient and well-maintained 
+collection systems and cover materials.
+=== PAGE 21 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.21 
+BOX 3.1 (CONTINUED) 
+The use of a collection efficiency will need to be researched and justified in order to be used with 
+confidence. Several factors must be considered, such as the type of final cover, surface monitoring 
+conducted on a regular basis showing low levels or no detectable CH4, and a program of corrective 
+action if CH4 is detected (e.g., performing maintenance to improve the integrity of the cover or 
+increasing the vacuum of collection wells). The estimate of collection efficiency can be based on 
+site-specific considerations and adjusted to the upper or lower end of the range after considering 
+these factors. The overall error and effect on the final results would tend to be lower when 
+averaged over a large database of landfills because the errors would tend to cancel when using an 
+unbiased midrange estimate.  
+Although surface measurements can be used to detect CH4 as noted above, the use of surface 
+measurements at the landfill to directly estimate collection efficiency is only recommended when 
+the limitations of methods are fully taken into account, as discussed in more detail in the following 
+section that describe the difficulties and inaccuracies of such measurements. Effects to take into 
+account when measuring collection efficiencies are (i) CH4 oxidation, that reduces the ratios of 
+amount of CH4 emitted and (ii) solution of CO2 in the water phase in the waste or in the top-layer, 
+when comparing the ratio of CH4 and CO2 emissions and CH4 and CO2 recovery. 
+Once a representative database has been established, measurements and collection efficiencies are 
+estimated, the measurement data can be analyzed to determine country or region specific 
+parameters. If a country has good waste composition data by landfill, this information could be 
+used together with measurements and modelling to deduce parameters such as DDOC. For a 
+country with less reliable waste composition data, parameters may have to be estimated at a 
+broader level, considering Lo and k instead of more waste type specific parameters. It is not 
+recommended for a country to directly estimate national emissions from measurements. Using 
+measurements to deduce national level parameters based on the characteristics of the landfills 
+analysed is the preferred approach to incorporating measurement data from collection systems. 
+ 
+Direct measurements of CH4 emissions at the SWDS surface (rather than measuring CH4 collection or generation) 
+at a specific SWDS can in principle be of similar value for validating the FOD model parameters and developing 
+national inventory estimates. In practice there are however limitations for several reasons:  
+(i) 
+Monitoring and measuring CH4 emissions at the SWDS’s surface is a demanding task, and there 
+are no generally agreed or standardised methods available for routine or long-term monitoring 
+because the emissions come from a large area and vary throughout the year.  
+(ii) 
+There are very few representative data available from direct measurements of CH4 emissions for 
+individual SWDS, much less to give good estimates for national emission inventories. It is 
+therefore at the moment considered good practice to use emission estimates from individual sites 
+based on monitoring and measurements only if the representativeness of the monitoring can be 
+justified. If site-specific emissions data are used to estimate national emissions, it is good practice 
+to group all SWDS in the country according to their characteristics and to base the national 
+estimate on representative emission behaviour in each group. 
+ 
+Atmospheric emissions measurement techniques, their difficulties, and other considerations are discussed in 
+more detail in Box 3.2.
+=== PAGE 22 ===
+Volume 5: Waste 
+3.22 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+BOX 3.2  
+DIRECT MEASUREMENTS OF METHANE EMISSIONS FROM THE SWDS SURFACE  
+Surface landfill gas (LFG) emissions are highly variable both spatially and temporally. Emissions 
+vary on a daily basis as a result of changes in air-pressure and due to rainfall which affects the 
+permeability of the top-layer. On top of that there is a seasonal variation in emissions as a result of 
+reduced oxidation in winter. Additionally, emissions vary over the sections of the SWDS, due to 
+differences in waste amounts, age and composition. Due to the high horizontal permeability, 
+compared to vertical permeability, the slopes of a SWDS generally have higher emissions than the 
+upper surface. On a more local scale, emissions are highly variable due to regions of reduced 
+permeability in the subsurface and due to cracks in the surface. As a result, emissions at locations a 
+few metres away from each other can vary over a factor 1000. 
+Measurement of diffuse CH4 emissions in this context should give an indication of annual average 
+emissions from the entire SWDS. So, temporal and seasonal fluctuation of gas emission (Maurice 
+and Lagerkvist, 1997; Park and Shin, 2001) should be considered as part of the evaluation of site-
+specific data. The data collection period should be sufficient to cover temporal variation at the site. 
+Seasonal variation might be comparably easily taken into consideration. 
+When performing measurements of diffuse emissions, one should realise that one measures the 
+flux after oxidation, which can be a significant part of the percent of CH4 generated that is not 
+recovered.  
+Several techniques for direct measurement at the surface and/or below and above-ground have 
+been proposed. The most important techniques are: 
+(i)  
+Static or forced flux chamber measurements, 
+(ii) 
+Mass balance methods, 
+(iii)  Micrometeorological measurements, 
+(iv)  Plume measurements. 
+The flux chamber method has been widely applied to measure the CH4 flux on the SWDS surface 
+(e.g., Park and Shin, 2001; Mosher et al., 1999; UK Environment Agency, 2004). A drawback of 
+this method is the necessity of large number of measuring points in order to obtain reliable 
+estimates of total emissions, which makes the method very labour intensive and thus expensive. 
+There are a number of ways to improve the accuracy or reduce the number of measurements 
+required, e.g., to expand the estimates from a smaller section to the whole SWDS through 
+geostatistical methods (Börjesson et al., 2000; Spokas et al., 2003) or to identify the main emitting 
+zones by observing cracks, stressed vegetation, interfaces between capped zone, edges and slope 
+condition, etc. (UK Environment Agency, 2004), or to use portable gas-meter, olfaction or surface 
+temperature as a first indicator (Yamada et al, 2005).  
+In the mass-balance method emissions are obtained by measuring the flux through an imaginary 
+vertical plane on the SWDS by interpreting of wind velocity and the CH4 concentrations at 
+different heights over the SWDS surface. This plane can be both one-dimensional (Oonk and 
+Boom, 1995; Scharff et al., 2003) or two-dimensional. The advantage of this method is that it is 
+easily automated and can measure emissions from a large surface (in many case the whole SWDS) 
+for longer period of times (weeks to months). Another advantage is that the both CH4 and CO2 
+emissions can be obtained which gives information on CH4 oxidation and collection efficiencies. 
+The disadvantage of the method is its limited scope (250 m) which makes it hard to measure 
+emissions from the largest SWDS. 
+In the micrometeorological method emissions are measured as a flux through an imaginary horizontal 
+plane and recalculated as vertical fluxes. CH4 concentrations above the SWDS are used in 
+combination with information on air transport and mixing at the scale of a few m3 (hence 
+micrometeorology, Fowler and Duyzer, 1989). Laurila et al. (2005) propose the micrometeorological 
+Eddy-covariance method as suitable for estimation of landfill gas emission, with advantages of easy 
+automation which enables measurements over longer periods of time and the simultaneous 
+monitoring of CH4 and CO2 emissions. The drawback of the method seems to be its limited footprint 
+(about 25 m), as a result of which it might not produce representative emissions from the entire 
+SWDS.
+=== PAGE 23 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.23 
+BOX 3.2 (CONTINUED) 
+Plume measurements are designed to measure the emissions from an entire SWDS by measuring 
+the difference in CH4 flux in a transect screen downwind and upwind from the SWDS. Emissions 
+might be assessed comparing increase in CH4 concentrations with tracer concentrations (e.g., from 
+a known amount of N2O or SF6 released on the SWDS) or using a dispersion model. Variations of 
+this method are used around the world by Czepiel et al. (1996), Savanne et al. (1997), Galle et al., 
+(1999) and Hensen and Scharff (2001). The advantage of the method is its accuracy and its 
+possibility to measure emissions from the entire SWDS, this being very effective to cope with 
+spatial variation. However, the method is very expensive and normally only applied for one or a 
+few specific days. Therefore the result seems to be not representative for the annual average 
+emissions from the site (Scharff et al., 2003). For this reason Scharff et al. (2003) developed a 
+stationary version of the mobile plume measurement (SPM) for plume measurements around a 
+SWDS for longer times. 
+At this moment (2006), there is no scientific agreement on what methodology is preferred to obtain 
+annual average emissions from an entire SWDS. Intercomparisons of methods are performed by 
+Savanne et al. (1995) and Scharff et al. (2003) and the conclusion is more or less that no single 
+method can deal with spatial and temporal variability and is yet affordable. According to Scharff et 
+al. (2003) the mass-balance method and the static plume method are the best candidates for further 
+development and validation. However there has been little scientific discussion on this conclusion 
+at the moment of writing of the Guidelines.  
+ 
+ 
+3.4 
+CARBON STORED IN SWDS  
+Some carbon will be stored over long time periods in SWDS. Wood and paper decay very slowly and 
+accumulate in the SWDS (long-term storage). Carbon fractions in other waste types decay over varying time 
+periods (see Half-life under Section 3.2.3.)  
+The amount of carbon stored in the SWDS can be estimated using the FOD model (see Annex 3A.1). The long-
+term storage of carbon in paper and cardboard, wood, garden and park waste is of special interest as the changes 
+in carbon stock in waste originating from harvested wood products which is reported in the AFOLU volume (see 
+Chapter 12, Harvested Wood Products). The FOD model of this Volume provides these estimates as a by-
+product. The waste composition option calculates the long-term stored carbon from wood, paper and cardboard, 
+and garden and park waste in the SWDS, as this is simply the portion of the DOC that is not lost through decay 
+(the equations to estimate the amount are given in Annex 3A.1). When using the bulk waste option it is necessary 
+to estimate the appropriate portion of DOC originating from harvested wood products in the total DOC of the 
+waste, before finding the amounts of long-term stored carbon. When country-specific estimates are not available, 
+the IPCC default fractions of paper and cardboard, wood, and garden and park waste can be used.  
+The long-term stored carbon in SWDS is reported as an information item in the Waste sector. The reported value 
+for waste derived from harvested wood products (paper and cardboard, wood and garden and park waste) is 
+equal to the variable 1B, ∆CHWP SWDS DC, i.e., the carbon stock change of HWP from domestic consumption 
+disposed into SWDS of the reporting country used in Chapter 12, Harvested Wood Products, of the AFOLU 
+Volume. This parameter as well as the annual CH4 emissions from disposal of HWP in the country can be 
+estimated with the FOD model (see sheet HWP in the spreadsheet). 
+3.5 
+COMPLETENESS 
+Previous versions of the IPCC Guidelines have focused on emissions from MSW disposal sites, although 
+inventory compilers were encouraged to consider emissions from other waste types. However, it is now 
+recognised that there is often a significant contribution to emissions from other waste types. The 2006 Guidelines 
+therefore provide default data and methodology for estimating the generation and DOC content of the following 
+waste types:  
+• 
+Municipal Solid Waste (MSW) – the default definition and composition is given in Chapter 2,  
+• 
+Sewage sludge ( from both municipal and industrial sewage treatment), 
+• 
+Industrial solid waste (including waste from wood and paper industries and construction and demolition 
+waste, which may be largely inert materials, but also include wood as a source of DDOCm),
+=== PAGE 24 ===
+Volume 5: Waste 
+3.24 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+• 
+Residues from mechanical-biological treatment plants (see Chapter 4, Biological Treatment of Solid Waste).  
+Countries should provide their own estimates of the fractions of these waste types disposed in SWDS, 
+incinerated or recycled. 
+Waste types addressed elsewhere in the 2006 Guidelines:  
+• 
+Emissions from manure management (included in the AFOLU sector.) 
+Waste management types to include: 
+• 
+Managed SWDS, 
+• 
+Unmanaged SWDS (open dumps, including above-ground piles, holes in the ground and dumping into 
+natural features such as ravines). 
+Waste management types addressed elsewhere in the 2006 Guidelines: 
+• 
+Emissions from incineration (Chapter 5 of this Volume), 
+• 
+Emissions from open burning at SWDS (Chapter 5 of this Volume), 
+• 
+Emissions from biological treatment of solid waste including centralised composting facilities, and home 
+composting (Chapter 4 of this Volume). 
+Closed SWDS continue to emit CH4. This is automatically accounted for in the FOD method because historical 
+waste disposal data are used.  
+All of the management types listed above should be included in this sector where they occur to a significant 
+extent. 
+3.6 
+DEVELOPING A CONSISTENT TIME SERIES  
+Two major changes from the 1996 Guidelines are introduced in the 2006 Guidelines. These are: 
+• 
+Replacing the old default (mass balance) method with the first-order decay (FOD) method, 
+• 
+Inclusion of industrial waste and other non-MSW categories for all countries. 
+Both of these changes may require countries to recalculate their results for previous years, so that the time series 
+will be consistent. The new spreadsheet provided for the IPCC FOD method automatically calculates emissions 
+for all past years. However, it is important to ensure that the data input into the model form a consistent time 
+series. The FOD model requires historical data as far back as 1950, so this is a significant task. 
+Guidance is given in Section 3.2.2 to enable countries to estimate past MSW and industrial waste disposal based 
+on urban population, GDP and other drivers.  
+As waste statistics generally improve over time, countries may find that country-specific data are available for 
+recent years but not for the whole time series. It is good practice to use country-specific data where possible. 
+Where default data and country-specific data are mixed in a time series, it is important to check for consistency. 
+It may also be necessary to use backward extrapolation or splicing techniques to reconcile the two datasets. The 
+general guidance on these techniques is given in Chapter 6 of Volume 1 (Time Series Consistency). 
+3.7 
+UNCERTAINTY ASSESSMENT 
+There are two areas of uncertainty in the estimate of CH4 emissions from SWDS: (i) the uncertainty attributable to 
+the method; and (ii) the uncertainty attributable to the data (activity data and parameters). 
+3.7.1 
+Uncertainty attributable to the method  
+The FOD model consists of a pre-exponential term, describing the amount of CH4 generated throughout the life-
+time of the SWDS, and an exponential term that describes how this CH4 is generated over time. Therefore the 
+uncertainties in using the FOD model can be divided into uncertainties in the total amount of CH4 formed 
+throughout the life-time of the SWDS and uncertainties in the distribution of this amount over the years.
+=== PAGE 25 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.25 
+The uncertainties in the total amount of CH4 formed during the life-time of the SWDS stem from uncertainties in 
+the amount and the composition of the waste disposed in SWDS (W and DOC), the decomposition (DOCf) and 
+the CH4 correction factor (MCF). These uncertainties are addressed hereafter. 
+The uncertainties in distribution of CH4 generation over the years are highly dependent on the specific situation. 
+When amounts of waste disposed and waste management practices only slowly develop over the years, the 
+uncertainty due to the model will be low. For example, when decomposition is slower than expected, an 
+underestimation of CH4 formation in 2005 from waste disposed in 1990 will be counteracted by an 
+overestimation of amounts formed from waste disposed in e.g., 2000. However, when the annual amounts of 
+waste or waste composition change significantly, errors in the model are of importance. 
+The best way of evaluating the error due to the model in a specific case can be obtained from the model by 
+performing a sensitivity analysis, varying the k-values within the error ranges assumed (see Table 3.5 for default 
+uncertainty values) or in a Monte Carlo analysis using the model and varying all relevant variables. 
+The use of the mass balance method, which was the default (Tier 1) method in previous versions of the IPCC 
+guidance, tends to lead to over-estimation of emissions in cases where the trend is for increased disposal of waste 
+to SWDS over time. It was assumed that all CH4 would be released in the same year that the waste was deposited. 
+The use of the FOD method removes this error and reduces the uncertainty associated with the method. However, 
+it is important to remember that the FOD method is a simple model of a very complex and poorly understood 
+system. Uncertainty arises from the following sources: 
+• 
+Decay of carbon compounds to CH4 involves a series of complex chemical reactions and may not always 
+follow a first-order decay reaction. Higher order reactions may be involved, and reaction rates will vary with 
+conditions at the specific SWDS. Reactions may be limited by restricted access to water and local variations 
+in populations of bacteria. 
+• 
+SWDS are heterogeneous. Conditions such as temperature, moisture, waste composition and compaction 
+vary considerably even within a single site, and even more between different sites in a country. Selection of 
+‘average’ parameter values typical for a whole country is difficult.  
+• 
+Use of the FOD method introduces additional uncertainty associated with decay rates (half-lives) and 
+historical waste disposal amounts. Neither of these are well understood or thoroughly researched. 
+However, it is likely that the main source of uncertainty lies in selection of values for parameters for the model, 
+rather than with the methodology of the model itself. 
+3.7.2 
+Uncertainty attributable to data  
+This source of uncertainty is simply the uncertainty attributable to each of the parameter inputs. The uncertainty 
+attributable to the data can be classified into activity data and parameters. 
+3.7.2.1 
+UNCERTAINTIES ASSOCIATED WITH ACTIVITY DATA 
+The quality of CH4 emission estimates is directly related to the quality and availability of the waste generation, 
+composition and management data used to derive these estimates. The activity data in the waste sector include 
+the total municipal solid waste, total industrial waste, waste composition, and the fraction of solid waste sent to 
+solid waste disposal sites.  
+The uncertainty in waste disposal data depends on how the data is obtained. Uncertainty can be reduced when the 
+amounts of waste in the SWDS are weighed. If the estimates are based on waste delivery vehicle capacity or visual 
+estimation, uncertainty will be higher. Estimates based default activity data will have the highest uncertainties. 
+If waste scavenging takes place at the SWDS, it needs to be taken into account with the waste disposal data, 
+otherwise, the uncertainty in waste disposal data will increase. Scavenging will also increase uncertainties in the 
+composition of waste disposed in the SWDS, and hence also the total DOC in the waste. Uncertainty estimates for 
+the default model parameters are given in Table 3.5. The estimates are based on expert judgement.   
+Waste generation may be estimated from population (or urban population) and per-capita waste generation rates. 
+Uncertainty can be introduced if the population does not match the population whose waste is collected. 
+Typically, in many countries, waste is only collected from urban populations. Urban population could fluctuate 
+daily or seasonally by migration of the workforce.
+=== PAGE 26 ===
+Volume 5: Waste 
+3.26 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.7.2.2 
+UNCERTAINTIES ASSOCIATED WITH PARAMETERS 
+Methane correction factor (MCF) 
+There are two sources of uncertainty in the MCF. 
+• 
+Uncertainty in the value of the MCF for each type of site (managed-anaerobic, managed-semi-aerobic, 
+unmanaged deep and/or high water table, unmanaged shallow): These MCF values are based on one 
+experimental study and expert judgement and not on measured data. 
+• 
+Uncertainty in the classification of sites into the different site types: For example, the distinction between 
+deep and shallow sites (5 m depth of waste) is based on expert opinion. Inevitably, few, if any, countries will 
+be able to classify their unmanaged waste disposal sites into deep and shallow based on measured data. It 
+can also be difficult to determine the sites that meet the IPCC criteria for managed sites.  
+Degradable organic carbon (DOC) 
+There are two sources of uncertainty in DOC values. 
+• 
+Uncertainty in setting the DOC for different types of waste types/materials (paper, food, etc.): There are few 
+studies of DOC, and different types of paper, food, wood and textiles can have very different DOC values. 
+The water content of the waste also has an influence. DOC for industrial waste is very poorly known. 
+• 
+Uncertainty in the waste composition affects estimates of total DOC in the SWDS: Waste composition 
+varies widely even within countries (for example, between urban and rural populations, between households 
+on different incomes, and between seasons) as well as between countries. 
+ 
+Fraction of degradable organic carbon which decomposes (DOC f)  
+The uncertainty in DOCf is very high. There have been few studies, and it is difficult to replicate real SWDS 
+conditions in experimental studies. 
+Fraction of CH 4 in landfill gas (F) 
+The CH4 fraction of generated landfill gas, F, is usually taken to be 0.5, but can vary between 0.5 and 0.55, 
+depending on several factors (see Section 3.2.3). The uncertainty in this figure is relatively low, as F depends 
+largely on the stoichiometry of the chemical reaction producing CH4. The concentration of CH4 in recovered 
+landfill gas may be lower than the actual value because of potential dilution by air, so F values estimated in this 
+way will not necessarily be representative. 
+Methane recovery (R) 
+CH4 recovery is the amount of CH4 generated at SWDS that is recovered and burned in a flare or energy recovery 
+device. The uncertainty depends on the method used to estimate recovered CH4. The uncertainty is likely to be 
+relatively small compared to other uncertainties if metering is used. If other methods are used, for example by 
+estimating the efficiency of CH4 recovery equipment, the uncertainty will be larger. (See Section 3.2.3.)  
+Oxidation factor (OX) 
+The oxidation factor is very uncertain because it is difficult to measure, varies considerably with the thickness 
+and nature of the cover material, atmospheric conditions and climate, the flux of methane, and the escape of 
+methane through cracks/fissures in the cover material. Field and laboratory studies which determine oxidation of 
+CH4 only through uniform and homogeneous soil layers may lead to over-estimations of oxidation in landfill 
+cover soils.  
+The half-life 
+There is high uncertainty in the estimates of half-life because it is difficult to measure decay rates under 
+conditions equivalent to those prevailing in real SWDS. Also, since there is considerable variation in half-life 
+with waste composition, climate and site type, it is difficult to select values representative of a whole country.
+=== PAGE 27 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.27 
+Uncertainty estimates for MSWT  (total MSW generated) and MSWF (fraction of MSWT disposed at SWDS) and 
+the default model parameters are given in Table 3.5. The estimates are based on expert judgement.  
+ 
+TABLE 3.5 
+ ESTIMATES OF UNCERTAINTIES ASSOCIATED WITH THE DEFAULT ACTIVITY DATA AND PARAMETERS 
+ IN THE FOD METHOD FOR CH4 EMISSIONS FROM SWDS
+  
+Activity data and emission factors 
+Uncertainty Range  
+Total Municipal Solid Waste (MSWT)  
+Country-specific: 
+30% is a typical value for countries which collect waste generation data on 
+regular basis.  
+±10% for countries with high quality data (e.g., weighing at all SWDS and 
+other treatment facilities).  
+For countries with poor quality data: more than a factor of two. 
+Fraction of MSWT sent to SWDS 
+(MSWF) 
+±10% for countries with high quality data (e.g., weighing at all SWDS).  
+±30% for countries collecting data on disposal at SWDS.  
+For countries with poor quality data: more than a factor of two. 
+Total uncertainty of Waste 
+composition 
+±10% for countries with high quality data (e.g., regular sampling at 
+representative SWDS).  
+±30% for countries with country-specific data based on studies including 
+periodic sampling.  
+For countries with poor quality data: more than a factor of two. 
+Degradable Organic Carbon (DOC)7  
+  
+For IPCC default values : ±20%  
+For country-specific values: 
+Based on representative sampling and analyses: ±10%  
+Fraction of Degradable Organic 
+Carbon Decomposed (DOCf)  
+For IPCC default value (0.5): ± 20% 
+For country-specific value 
+± 10% for countries based on the experimental data over longer time periods. 
+Methane Correction Factor (MCF) 
+= 1.0  
+= 0.8  
+= 0.5 
+= 0.4 
+= 0.6 
+For IPCC default value： 
+–10%, +0% 
+±20% 
+±20% 
+±30% 
+–50%, +60%  
+Fraction of CH4 in generated Landfill 
+Gas (F) = 0.5 
+For IPCC default value: ±5% 
+Methane Recovery (R)  
+The uncertainty range will depend on how the amounts of CH4 recovered and 
+flared or utilised are estimated: 
+± 10% if metering is in place. 
+± 50% if metering is not in place.  
+Oxidation Factor (OX)  
+Include OX in the uncertainty analysis if a value other than zero has been 
+used for OX itself. In this case the justification for a non-zero value should 
+include consideration of uncertainties. 
+half-life ( t1/2 )  
+Ranges for the IPCC default values are provided in Table 3.4. 
+Country-specific values should include consideration of uncertainties. 
+Source: Expert judgement by Lead Authors of the Chapter. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          
+7  The uncertainty range given applies to the DOC content in bulk waste. The ranges for DOC for different waste components 
+in MSW given in Table 2.4 can be used to estimate the uncertainties for these components.
+=== PAGE 28 ===
+Volume 5: Waste 
+3.28 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.8 
+QA/QC, Reporting and Documentation  
+It is good practice to document and archive all information required to produce the national emissions inventory 
+estimates as outlined in Chapter 6, Quality Assurance and Quality Control and Verification, in Volume 1, 
+General Guidance and Reporting. Some examples of specific documentation and reporting relevant to this source 
+category are provided below. 
+• 
+Countries using the IPCC FOD model should include the model in the reporting. Countries using other 
+methods or models should provide similar data (description of the method, key assumptions and parameters). 
+• 
+If country-specific data are used for any part of the time series, it should be documented. 
+• 
+The distribution of waste to managed and unmanaged sites for the purpose of MCF estimation should also 
+be documented with supporting information. 
+• 
+If CH4 recovery is reported, an inventory of known recovery facilities is desirable. Flaring and energy 
+recovery should be documented separately from each other.  
+• 
+Changes in parameters from year to year should be clearly explained and referenced. 
+It is not practical to include all documentation in the national inventory report. However, the inventory should 
+include summaries of methods used and references to source data such that the reported emissions estimates are 
+transparent and steps in their calculation may be retraced. 
+It is good practice to conduct quality control checks and an expert review of the emissions estimates as outlined 
+in Chapter 6 of Volume 1, Quality Assurance and Quality Control, and Verification.  
+Inventory compilers should cross-check country-specific values for MSW generated, industrial waste generated 
+and waste composition against the default IPCC values, to determine whether the national parameters used are 
+considered reasonable relative to the IPCC default values. 
+Where survey and sampling data are used to compile national values for solid waste activity data, QC procedures 
+should include:  
+(i) 
+Reviewing survey data collection methods, and checking the data to ensure that they were collected 
+and aggregated correctly. Inventory compilers should cross-check the data with previous years to 
+ensure the data are reasonable. 
+(ii) 
+Evaluating secondary data sources and referencing QA/QC activities associated with the secondary 
+data preparation. This is particularly important for solid waste data, since most of these data are 
+originally prepared for purposes other than greenhouse gas inventories. 
+Inventory compilers should provide the opportunity for experts to review input parameters.  
+Inventory compilers should compare national emission rates with those of similar countries that have comparable 
+demographic and economic attributes. Inventory compilers should study significant discrepancies to determine if 
+they represent errors in the calculation or actual differences.
+=== PAGE 29 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.29 
+References 
+Facultad de Ingenieria de la Universidad Nacional Del Centro De La Provincia De Buenos Aires (2004).  
+Olavarria Landfill Gas Recovery Project, Buenos Aires, Argentina. August 2004.   
+http://www.dnv.is/certification/climatechange/Upload/PDD_Olavarria_2004-05-
+21.pdf#search=%22olavarria%20landfill%20gas%20recovery%20project%22 
+Attenborough, G. M., Hall, D. H., Gregory, R. G. and McGoochan, L. (2002). GasSim: Landfill Gas Risk 
+Assessment Model. In: Conference Proceedings SITA Environmental Trust- 
+ 
+Sponsored by SITA Environmental Trust and Organics Limited. ISBN 0-9539301.   
+Barlaz, M. (2004). Critical Rewiew of Forest Products Decomposition in Municipal Solid Waste Landfills. 
+NCASI Technical Bulletin, no 872, March 2004. 
+Bergman, H. (1995). Metanoxidation i täckskikt på avfallsupplag. (Methane oxidation in waste deposition 
+covers). Licentiate thesis 1995:14L, Tekniska Högskolan i Luleå, ISSN 0280-8242.  (In Swedish) 
+Bogner, J. and Matthews, E. (2003). ‘Global methane emissions from landfills: New methodology and annual 
+estimates 1980 – 1996’, Global Biogeochemical Cycles, Vol. 17, No. 2.  
+Brown, K. A., Smith, A., Burnley, S. J., Campbell, D.J.V., King, K. and Milton, M.J.T. (1999). Methane  
+Emissions from UK Landfills, AEA Technology, AEAT-5217, Culham. 
+Börjesson, G., Danielsson, A. and Svensson, B.H. (2000). ‘Methane fluxes from a Swedish landfill determined 
+by geostatistical treatment of static chamber measurements’, Environ Sci Technol 34: 4044-4050. 
+Czepiel, P.M., Mosher, B., Harriss, R., Shorter, J.H., McManus, J.B., Kolb, C.E., Allwine, E. and Lamb, B. 
+(1996). ‘Landfill methane emissions measured by enclosure and atmospheric tracer methods’, J Geophys 
+Res D101: 16711-16719. 
+Diot M., Bogner, J., Chanton, J., Guerbois, M., Hébé, I., Moreau le Golvan, Y., Spokas, K. and Tregourès, A. 
+(2001). LFG mass balance: a key to optimize LFG recovery, in Proceedings of the Eighth International 
+Waste Management and Landfill Symposium Sardinia 2001, S. Margherita di Pula (Cagliari, Italia), 
+October 1-5,      2001.  
+Environment Canada (2003). Canada’s Greenhouse Gas Inventory 1990-2001. 8. Waste. Greenhouse Gas 
+Division August 2003. The Green line Environment Canada’s Worldwide Web Site.  
+Environment Canada  (2004). Landfill Gas Capture and Combustion Quantification Protocol. Avaliable at: 
+www.ec.gc.ca/pdb/ghg/lfg_protocol_e.cfm.  
+Fowler, D. and Duyzer, J.H. (1989). Micrometeorological techniques for the measurement of trace gas exchange, 
+Exchange between terrestrial ecosystems and the atmosphere, Andreae, M.O., Schimel, D.S. Eds., John 
+Wiley & Sons, pp. 189-207. 
+Galle B., Samuelsson, J., Börjesson, G. and Svensson, H. (1999). Measurement of methane emissions from 
+landfills using FTIR spectroscopy. Sardinia 1999, Seventh  International Waste Management and Landfill 
+Symposium. Vol. IV, 47-54. 
+Gardner, W.D., Ximenes, F., Cowie, A., Marchant, J.F., Mann, S. and Dods, K. (2002). Decomposition of wood 
+products in the Lucas Heights landfill facility. Presented at the Third Australian Conference on 'Life 
+Cycle Assessment – “Life Cycle Decision-making for Sustainability”. Queensland, Australia, 17 – 19 
+July, 2002. State Forests of New South Wales, Sydney, Australia. 
+URL:http://www.greenhouse.crc.org.au/crc/ecarbon/enews/gardner.pdf 
+Gregory, R.G., Gillet, A.G. and Bradley, D. (2003). ‘Methane emissions from landfill sites in the UK’, LQM 
+Report 443/1, January 2003. 
+Hensen, A. and Scharff, H. (2001). Methane emission estimates from landfills obtained with dynamic plume 
+measurements, Water, Air and Soil Pollution, Focus, 1(5-6): 455-464. 
+Hoeks, J. (1983). Significance of biogas reduction in waste tips, Waste management and research, 1, pp. 323-
+325 
+Huitric, R. and Soni, R. (1997). Making the most of LFG projection models, Proceedings from SWANA's 20th 
+annual LFG symposium, Monterey California, USA 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. Houghton, J.T., Meira Filho, 
+L.G., Lim, B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. and Callander, B.A. (Eds), 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France.
+=== PAGE 30 ===
+Volume 5: Waste 
+3.30 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+IPCC (2000). Good Practice Guidance and Uncertianty Management in National Greenhouse Gas Inventories. 
+Penman J., Kruger D., Galbally I., Hiraishi T., Nyenzi B., Enmanuel S., Buendia L., Hoppaus R., 
+Martinsen T., Meijer J., Miwa K. and Tanabe K. (Eds), Intergovernmental Panel on Climate Change 
+(IPCC), IPCC/OECD/IEA/IGES, Hayama, Japan. 
+IPCC (2001). Summary for Policymakers and Technical Summary of Climate Change 2001: Mitigation. 
+Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on 
+Climate Change, Bert Metz et al. eds. Cambridge University Press, Cambridge, United Kingdom 
+IPCC (2003). Good Practice Guidance for Land Use, land-Use Change and Forestry. Penman, J., Gytarsky, M., 
+Hiraishi, T., Kruger, D., Pipatti, R., Buendia, L., Miwa, K., Ngara, T., Tanabe, K. and Wagner, F. (Eds), 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/IGES, Hayama, Japan. 
+Jensen, J. E. and Pipatti, R. (2002). ‘CH4 Emissions from Solid Waste Disposal’, Background Papers. IPCC 
+Expert Meetings on Good Practice Guidance and Uncertainty Management in National Greenhouse Gas 
+Inventories, ), Intergovernmental Panel on Climate Change (IPCC)-National Greenhouse Gas Inventories 
+Programme (NGGIP), IGES, Hayama, Japan, pp 419-465. 
+Kämpfer, P. and Weissenfels, W. (2001). Biologische Behandlung organisher Abfälle, Springer, Berlin. 
+Laurila, T.,  Tuovinen, J.P., Lohila, A., Hatakka, J., Aurela, M., Thum, T., Pihlatie, M., Rinne, J. and Vesala, T. 
+(2005). ‘Measuring methane emissions from a landfill using a cost-effective micrometeorological 
+method’, Geoph. Res. Let., Vol. 32, L19808, 
+Levelton, B.H. (1991). Inventory of Methane Emissions from Landfills in Canada. Levelton & Associates. 
+Prepared for Environment Canada, June 1991.   
+Matsufuji, Y., Kobayashi, H., Tanaka, A., Ando, S., Kawabata, T. and Hanashima, M. (1996). ‘Generation of 
+greenhouse gas effect gases by different landfill types and methane gas control’, Proceedings of 7th 
+ISWA International Congress and Exhibition, 1996:10, No. 1, p. 253-254. 
+Maurice, C. and Lagerkvist, A. (1997). ‘Seasonal variation of landfill gas emissions’, Sardinia 1997 Sixth  
+International Waste Management and Landfill Symposium,Vol IV, pp. 87-93. 
+Micales, J.A. and Skog, K.E. (1997). ‘The decomposition of forest products in landfills’, International 
+Biodeterioration and Biodegradation 39(2-3): pp. 145-158 
+Mosher, B., Czepiel, P., Harriss, R., Shorter, J.H., Kolb, C.E., McManus, J.B., Allwine, E. and Lamb, B. (1999). 
+‘Methane emission at nine landfill sites in the northeastern United States’, Environ Sci Technol 33: 2088-
+2094. 
+Oonk, H. (1993). Overzicht van stortgasprojecten in Nederland (Overview of Dutch Landfill gas projects), 
+March 1993. TNO, Apeldoorn, The Netherlands. 
+Oonk, H. and Boom, T. (1995). ‘Landfill gas formation, recovery and emissions’, TNO-report R95-203, TNO. 
+Appeldoorn, The Netherlands.  
+Park J.W. and Shin H.C. (2001). ‘Surface methane emission of landfill gas from solid waste landfill’, 
+Atmospheric Environment 35, 3445-3451 
+Pelt, R., Bass, R.L., Heaton, R. E., White, Ch., Blackard, A., Burklin, C. and Reisdorph, A. (1998). User’s 
+Manual Landfill Gas Emissions Model Version 2.0. U.S. Environmental Protection Agency, Washington, 
+D.C. February 1998, 94 pp. 
+RIVM. (2004). Netherlands’s National GHG Inventory Report. 8. Waste. RIVM Report 773201008, 8 pp.  
+Savanne, D., Arnaud, A.,  Beneito, A., Berne, P., Burkhalter, R., Cellier, P., Gonze, M.A., Laville, P., Levy, F., 
+Milward, R., Pokryszka, Z., Sabroux, J.C., Tauziede, C. and Tregoures, A. (1997). ‘Comparison of 
+different methods for measuring landfill methane emissions’, Sardinia 1997 Sixth  International Waste 
+Management and Landfill Symposium, Vol IV, pp. 81-86. 
+Scheehle, E. (2006). Personal Communication. 
+SCS Wetherill Environmental (2003). New Zealand’s Greenhouse Gas Inventory 1990-2002. Chapter 8: Waste. 
+New Zealand Climate Change Office.  
+Scharff, H., Martha, A., van Rijn, D.M.M., Hensen, A., v.d. Bulk, W.C.M., Flechard, C., Oonk H., Vroon, R., de 
+Visscher, A. and Boeckx, P. (2003). A comparison of measurement methods to determine landfill methane 
+emissions, report by Afvalzorg Deponie B.V., Haarlem, the Netherlands. 
+Spokas, K., Graff, C., Morcet, M. and Aran, C. (2003). Implications of the spatial variability of landfill emission 
+rates on geospatial analyses. Waste Management. 23: 599-607.
+=== PAGE 31 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.31 
+Spokas, K., Bogner, J., Chanton, J., Morcet, M., Aran, C., Graff, C., Moreau-le-Golvan, Y. and Hebe, I. (2006). 
+‘Methane mass balance at three landfill sites: What is the efficiency of capture by gas collection 
+systems?’ Waste Management, 26: 516-525. 
+SWANA (1998). Comparison of Models for Predicting Landfill Methane Recovery, Publication No. GR-
+LG0075, March, Solid Waste Association of North America (SWANA). 
+UK Environment Agency (2004). Guidance on monitoring landfill gas surface emissions.   
+URL: http://www.environment-agency.gov.uk/subjects/waste/?lang=_e 
+U.S. EPA (2005). Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2004. Annex 
+3.14.  Methodology for Estimating CH4 Emissions from Landfills.  April 2005, U.S. Environmental 
+Protection Agency (U.S. EPA). 
+U.S. EPA (2002). Solid Waste Management and Greenhouse Gases, 2nd Ed, EPA530-R-02-006, U.S. 
+Environmental Protection Agency (U.S. EPA). 
+U.S. EPA (1998). Compilation of Air Pollutant Emission Factors AP-42, Fifth Edition, Volume1: Stationary 
+Point and Area Sources. Chapter 2: Solid waste Disposal. Section 2.4.4.1. U.S. Environmental Protection 
+Agency (U.S. EPA), November1998.  
+U.S. EPA (1995). Compilation of Air Pollutant Emissions Factors, AP-42, Edition 5. U.S. Environmental 
+Protection Agency (U.S. EPA).URL: http://www.epa.gov/ttn/chief/ap42/ 
+Yamada, M., Ishigaki, T., Endo, K., Inoue, Y., Nagamori, M., Ono Y. and Ono Y. (2005). Distribution of 
+temperature and methane flux on landfill surface. Sardinia 2005, Tenth  International Waste Management 
+and Landfill Symposium, Cagliari, Italy
+=== PAGE 32 ===
+Volume 5: Waste 
+3.32 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Annex 3A.1 First Order Decay Model 
+3A1.1  
+INTRODUCTION 
+The first order decay (FOD) model introduced in Chapter 3 is the default method for calculating methane (CH4) 
+emissions from solid waste disposal sites (SWDS). This Annex provides the supplementary information on this 
+model:  
+• 
+mathematical basis for the FOD model (see Section 3A1.2), 
+• 
+key issues in the model, such as the estimation of the mass of degradable organic carbon available for 
+anaerobic decomposition at SWDS (DDOCm) (Section 3A1.2) and the delay time from disposal of waste in 
+the SWDS till the decomposition starts (Section 3A1.3), 
+• 
+introduction of the spreadsheet model developed to facilitate the use of the FOD method (3A1.4), 
+• 
+how to estimate the long-term storage of carbon in SWDS (Section 3A1.5), 
+• 
+different approaches to the FOD model, including an explanation of the differences between the current and 
+earlier IPCC methods (Section 3A1.6).  
+3A1.2  
+FIRST ORDER DECAY (FOD) MODEL – BASIC THEORY 
+The basis for a first order decay reaction is that the reaction rate is proportional to the amount of reactant 
+remaining (Barrow and Gordon, 1996), in this case the mass of degradable organic carbon decomposable under 
+anaerobic conditions (DDOCm). The DDOCm reacted over a period of time dt is described by the differential 
+equation 3A.1.1: 
+EQUATION 3A1.1 
+DIFFERENTIAL EQUATION FOR FIRST ORDER DECAY 
+(
+)
+dt
+DDOCm
+k
+DDOCm
+d
+•
+•
+−
+=
+ 
+Where:  
+DDOCm  =  
+mass of degradable organic carbon (DOC) in the disposal site at time t 
+k  
+=  
+decay rate constant in y-1 
+The solution to this equation is the basic FOD equation. 
+EQUATION 3A1.2 
+FIRST ORDER DECAY EQUATION 
+kt
+e
+DDOCm
+DDOCm
+−
+•
+=
+0
+ 
+Where:  
+DDOCm  =  
+mass of degradable organic carbon that will decompose under anaerobic conditions in 
+disposal site at time t 
+DDOCm0  =  
+mass of DDOC in the disposal site at time 0, when the reaction starts 
+k  
+ 
+ =  
+decay rate constant in y-1 
+t  
+ 
+ =  
+time in years.  
+Substituting t =1 into Equation 3A1.2 shows that at the end of year 1 (the year after disposal), the amount of DDOCm 
+remaining in the disposal site is:  
+EQUATION 3A1.3 
+DDOCM REMAINING AFTER 1 YEAR OF DECAY 
+At t = 1,  
+k
+e
+DDOCm
+DDOCm
+−
+•
+=
+0
+ 
+ 
+The DDOCm decomposed into CH4 and CO2 at the end of year 1 (DDOCm decomp) will then be:
+=== PAGE 33 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.33 
+EQUATION 3A1.4 
+DDOCm DECOMPOSED AFTER 1 YEAR OF DECAY 
+At t = 1,  
+)
+1
+(
+0
+k
+e
+DDOCm
+decomp
+DDOCm
+−
+−
+•
+=
+ 
+The equation for the general case, for DDOCm decomposed in period T 8 between time (t−1) and t, will be:  
+EQUATION 3A1.5 
+DDOCm DECOMPOSED IN YEAR T 
+⎥⎦
+⎤
+⎢⎣
+⎡
+−
+•
+=
+−
+−
+−
+kt
+t
+k
+T
+e
+e
+DDOCm
+decomp
+DDOCm
+)1
+(
+0
+ 
+Equations 3A1.4 and 3A1.5 are based on the mass balance over the year. 
+In Section 3.2.3, the parameter half-life time of the decay is discussed. Half-life is the time it takes for the 
+amount of reaction to be reduced by 50 percent. The relationship between half-life time and the reaction rate 
+constant k is found by substituting DDOCm in Equation 3A1.2 with 1/2DDOCm0, and t with t1/2: 
+ EQUATION 3A1.6 
+RELATIONSHIP BETWEEN HALF-LIFE AND REACTION RATE CONSTANT  
+ 
+2
+/
+1
+/
+)
+2
+In(
+t
+k =
+ 
+ 
+3A1.3  
+CHANGING THE TIME DELAY IN THE FOD EQUATION 
+In most SWDS, waste is disposed continuously throughout the year, usually on a daily basis. However, there is 
+evidence that production of CH4 does not begin immediately after disposal of the waste (see Section 3.2.3 in 
+Chapter 3).  
+Equations 3A1.3 and 3A1.4 assume that the decay reaction starts on January 1 in the year after disposal, i.e., an 
+average six month delay before the reaction commences. 
+The equations can easily be transformed to model an earlier start to the decay reaction, i.e., start of the decay 
+reaction in the year of disposal. This is done by moving the e-kt curve backwards along the time axis. For 
+example, to model a reaction start on the first of October in the year of disposal (i.e., an average time delay of 
+three months before the decay reaction commences, instead of six months), Equation 3A1.2 will be transformed 
+into the following: 
+EQUATION 3A1.7 
+FOD EQUATION FOR DECAY COMMENCING AFTER 3 MONTHS  
+(
+)
+25
+.0
+0
++
+−
+•
+=
+t
+k
+e
+DDOCm
+DDOCm
+ 
+Then there will be two solutions, one for the year of disposal and one for the rest of the years: 
+EQUATION 3A1.8 
+DDOCm DECOMPOSED IN YEAR OF DISPOSAL (3 MONTH DELAY) 
+(
+)
+k
+Y
+e
+DDOCm
+decomp
+DDOCm
+25
+.0
+0
+1
+−
+−
+•
+=
+ 
+ 
+EQUATION 3A1.9 
+DDOCm DISSIMILATED IN YEAR (T) (3 MONTH DELAY) 
+(
+)
+(
+)
+⎥⎦
+⎤
+⎢⎣
+⎡
+−
+•
+=
++
+−
+−
+−
+25
+.0
+75
+.0
+0
+T
+k
+T
+k
+T
+e
+e
+DDOCm
+decomp
+DDOCm
+ 
+ 
+                                                          
+8 T denotes the year for which the estimate is done in relation to deposition year.
+=== PAGE 34 ===
+Volume 5: Waste 
+3.34 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Where: 
+DDOCm decompY  
+=  
+DDOCm decomposed in year of disposal 
+DDOCm decompT 
+=  
+DDOCm decomposed in year T (from point t−1 to point t on time axis) 
+T  
+=   year from point t−1 to t on the time axis, where year 1 is the year after disposal. 
+Y  
+=   disposal year 
+The same can be done to find the equations for reaction start within the year after disposal. 
+3A1.3.1  
+Disposal profile 
+The method presented here assumes that CH4 production from all of the waste disposed during the first year 
+(Year Y) begins on the 1st of January on the year after disposal. Year 1 is defined as the year after disposal.  
+Some inaccuracy will be introduced by the fact that, in reality, waste disposed at the beginning of the year will 
+begin to produce CH4 earlier, and waste disposed at the end of the year will begin to produce CH4 later. 
+Comparison of results calculated with the simple FOD method presented here and the exact day-by-day method, 
+which is presented in Section 3A1.6.3, has been used to evaluate this error. With a half-life time of 10 years, 
+evaluating CH4 emissions with the exact method gives a decay profile only 1 day difference from the simplified 
+version of the method. With a half-life time of 3 years, the simple method gives 3.5 days difference from the 
+exact method. Even with a half-life time of 1 year, the difference between the exact and simple methods is just 
+10 days. The error introduced by the assumption in this simple method is very small in comparison with other 
+uncertainties in the parameters, especially given that the uncertainty in delay time is at least two months.  
+3A1.4  
+SPREADSHEET FOD MODEL 
+In order to estimate CH4 emissions for all solid waste disposal sites in a country, one method is to model the 
+emissions from the waste disposed in each year as a separate row in a spreadsheet. In the IPCC Waste Model, 
+CH4 formation is calculated separately for each year of disposal, and the total amount of CH4 generated is found 
+by a summation at the end. A typical example, for six years of disposal of 100 units of DDOCm each year, with 
+a decay rate constant of 0.1 (half-life time of 6.9 years), and CH4 generation beginning in the year after disposal, 
+is shown in the table below. The figures in the table are the DDOCm decomposed from that waste each year, 
+from which the CH4 emissions can be calculated. 
+When considered over a period of 50 years, which is necessary for the FOD method, this leads to a rather large 
+calculation matrix. The spreadsheet uses a more compact and elegant approach to the calculations. This is done 
+by adding the DDOCm disposed into the disposal site in one year to the DDOCm left over from the previous 
+years. The CH4 emission for the next year is then calculated from this ‘running total’ of the DDOCm remaining 
+in the site. In this way, the full calculation for one year can be done in only three columns, instead of having one 
+column for each year (see Table 3A1.1). 
+The basis for this approach lies in the first order reaction. With a first order reaction the amount of product (here 
+DDOCm decomposed) is always proportional to the amount of reactant (here DDOCm). This means that the 
+time of disposal of the DDOCm is irrelevant to the amount of CH4 generated each year - it is just the total 
+DDOCm remaining in the site that matters. 
+This also means that when we know the amount of DDOCm in the SWDS at the start of the year, every year can 
+be regarded as year number 1 in the estimation method, and all calculation can be done by these two simple 
+equations: 
+EQUATION 3A1.10 
+MASS OF DEGRADABLE ORGANIC CARBON ACCUMULATED AT THE END OF YEAR T 
+(
+)
+k
+T
+T
+T
+e
+DDOCma
+DDOCmd
+DDOCma
+−
+−•
++
+=
+1
+ 
+ 
+EQUATION 3A1.11 
+MASS OF DEGRADABLE ORGANIC CARBON DECOMPOSED IN YEAR T 
+(
+)
+k
+T
+T
+e
+DDOCma
+decomp
+DDOCm
+−
+−
+−
+•
+=
+1
+1
+ 
+Where: 
+the decay reaction begins on the 1st of January the year after disposal.
+=== PAGE 35 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.35 
+DDOCmaT  
+= 
+DDOCm accumulated in the SWDS at the end of year T  
+DDOCmdT  
+=  
+mass of DDOC disposed in the SWDS in year T 
+DDOCmaT-1  =  
+DDOCm accumulated in the SWDS at the end of year (T−1) 
+DDOCm decompT  =  
+DDOCm decomposed in year T 
+ 
+TABLE 3A1.1  
+NEW FOD CALCULATING METHOD 
+year 
+DDOCm 
+disposed 
+DDOCm 
+accumulated 
+DDOCm 
+decomposed 
+0 
+100 
+100 
+0 
+1 
+100 
+190.5 
+9.5 
+2 
+100 
+272.4 
+18.1 
+3 
+100 
+346.4 
+25.9 
+4 
+100 
+413.5 
+33.0 
+5 
+100 
+474.1 
+39.3 
+6 
+100 
+529.0 
+45.1 
+ 
+3A1.4.1  
+Introducing a different time delay into the spreadsheet model 
+The table and equations presented above assume that anaerobic decomposition of DDOCm to CH4 begins on 1st 
+of January in the year after disposal (an average delay of 6 months before the decay reaction begins). 
+If the anaerobic decomposition is set to start earlier than this, i.e., in the year of disposal, separate calculations 
+will have to be made for the year of disposal. As the mathematics of every waste category or waste type/fraction 
+is the same, only parameters are different, indexing for different waste categories and types/fractions are omitted 
+in the equations 3A1.12-17, and 3A1.19: 
+EQUATION 3A1.12  
+DDOCm REMAINING AT END OF YEAR OF DISPOSAL 
+(
+) 12
+/
+13 M
+k
+T
+T
+e
+DDOCmd
+rem
+DDOCm
+−
+•
+−
+•
+=
+  
+(Column F in CH4 calculating sheets in the spreadsheet model) 
+ 
+EQUATION 3A1.13 
+DDOCm DECOMPOSED DURING YEAR OF DISPOSAL 
+(
+)
+⎥⎦
+⎤
+⎢⎣
+⎡
+−
+•
+=
+−
+•
+−
+12
+/
+13
+1
+M
+k
+T
+T
+e
+DDOCmd
+dec
+DDOCm
+ 
+(Column G in the CH4 calculating sheets in the spreadsheet model) 
+Where:  
+DDOCm remT  =  
+DDOCm disposed in year T which still remains at the end of year T (Gg) 
+DDOCmdT  
+=  
+DDOCm disposed in year T (Gg) 
+DDOCm decT  =  
+DDOCm disposed in year T which has decomposed by the end of year T (Gg) 
+T  
+=   year T (inventory year) 
+M  
+=   month when reaction is set to start, equal to the average delay time + 7 (month) 
+k  
+=   rate of reaction constant (y-1) 
+ 
+Equations 3A1.10 and 3A1.11 will then become:
+=== PAGE 36 ===
+Volume 5: Waste 
+3.36 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+EQUATION 3A1.14 
+DDOCm ACCUMULATED AT THE END OF YEAR T 
+(
+)
+k
+T
+T
+T
+e
+DDOCma
+rem
+DDOCm
+DDOCma
+−
+−•
++
+=
+1
+  
+(Column H in the CH4 calculating sheets in spreadsheet model) 
+ 
+EQUATION 3A1.15 
+DDOCm DECOMPOSED IN YEAR T 
+(
+)
+k
+T
+T
+T
+e
+DDOCma
+dec
+DDOCm
+decomp
+DDOCm
+−
+−
+−
+•
++
+=
+1
+1
+ 
+(Column I in the CH4 calculating sheets in the spreadsheet model) 
+Where: 
+DDOCmaT  
+=   DDOCm accumulated in the SWDS at the end of year T, Gg 
+DDOCmaT-1  =  
+DDOCm accumulated in the SWDS at the end of year (T−1), Gg 
+DDOCm decompT  =   DDOCm decomposed in year T, Gg 
+The spreadsheets are based on Equations 3A1.12 to 3A1.15. If the reaction start is set to the first of January the 
+year after disposal, this is equivalent to an average time delay of 6 months (month 13). Equations 3A1.14 and 
+3A1.15 will then be identical to Equations 3A1.10 and 3A1.11.   
+3A1.4.2  
+Calculating DDOCm from amount of waste disposed  
+Data on waste disposal is entered into the spreadsheet. The data can be given by waste type (waste composition 
+option) or as bulk waste. In the waste composition option, waste is split by waste type/material (paper and 
+cardboard, food garden and park waste, wood, textiles and other waste). In the bulk waste option, waste is split 
+only by main waste category (MSW and industrial waste). Not all DOCm entering the site will decompose under 
+the anaerobic conditions in the SWDS. The parameter DOCf is the fraction of DOCm which will actually 
+degrade in the SWDS (see Section 3.2.3 in Chapter 3). The decomposable DOCm (DDOCm) entering the SWDS 
+is calculated as follows: 
+EQUATION 3A1.16 
+CALCULATION OF DECOMPOSABLE DOCm FROM WASTE DISPOSAL DATA 
+MCF
+DOC
+DOC
+W
+DDOCmd
+f
+T
+T
+•
+•
+•
+=
+ 
+(Column D in the CH4 calculating sheet in the spreadsheet model) 
+Where: 
+DDOCmdT  
+=  
+DDOCm disposed in year T, Gg 
+WT 
+=  
+mass of waste disposed in year T, Gg 
+DOC 
+=  
+Degradable organic carbon in disposal year (fraction), Gg C/Gg waste  
+DOCf  =  
+fraction of DOC that can decompose in the anaerobic conditions in the SWDS (fraction) 
+MCF  
+=  
+CH4 correction factor for year of disposal (fraction) (see Section 3.2.3) 
+3A1.4.3  
+Calculating CH4 generation from DDOCm decomposed 
+The amount of CH4 generated from the DDOCm which decomposes is calculated as follows:  
+EQUATION 3A1.17 
+CH4 GENERATED FROM DECOMPOSED DDOCm 
+12
+/
+16
+•
+•
+=
+F
+decomp
+DDOCm
+generated
+CH
+T
+T
+4
+ 
+(Column J in the CH4 calculating sheets in the spreadsheet model) 
+Where: 
+CH4 generatedT 
+= amount of CH4 generated from the DDOCm which decomposes
+=== PAGE 37 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.37 
+DDOCm decompT  = DDOCm decomposed in year T, Gg 
+F  
+=  
+fraction of CH4, by volume, in generated landfill gas 
+16/12  =  
+molecular weight ratio CH4/C (ratio). 
+The CH4 generated by each category of waste disposed is added to get total CH4 generated in each year. Finally, 
+emissions of CH4 are calculated by subtracting first the CH4 gas recovered from the disposal site, and then CH4 
+oxidised to carbon dioxide in the cover layer. 
+EQUATION 3A1.18 
+CH4 EMITTED FROM SWDS 
+(
+)
+T
+T
+x
+T
+x
+4
+T
+4
+OX
+R
+generated
+CH
+emitted
+CH
+−
+•
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+−
+= ∑
+1
+,
+ 
+ (The final result calculating column in the Results sheet) 
+Where:  
+CH4 emittedT  
+= 
+ CH4 emitted in year T, Gg 
+x  
+=   waste type/material or waste category 
+RT  =   CH4 recovered in year T, Gg 
+OXT  =   Oxidation factor in year T, (fraction) 
+3A1.5  
+CARBON STORED IN SWDS 
+Only part of the DOCm in waste disposed in SWDS will decay into both CH4 and CO2. An MCF value lower 
+than 1, means that part of the DOCm will decompose aerobically to CO2, but not to CH4. The DOCm available 
+for anaerobic decay will not decompose completely either. The decomposing part of this DOCm (DDOCmd) is 
+given in Equation 3A1.16. The part of DOCm that will not decompose will be stored long-term in the SWDS, 
+which will then be: 
+EQUATION 3A1.19 
+ CALCULATION OF LONG-TERM STORED DOCm FROM WASTE DISPOSAL DATA 
+(
+)
+MCF
+DOC
+DOC
+W
+stored
+term
+long
+DOCm
+f
+T
+T
+•
+−
+•
+•
+=
+1
+-
+ 
+ 
+Using the default value for DOCf = 0.5, 50 percent of the disposed DOCm will remain there for long term. 
+Equation 19 describes the annual increase in the stock of long-term stored carbon in the SWDS. The long-term 
+stored carbon in harvested wood products (HWP) disposed in SWDS (see Chapter 12 in the AFOLU volume) 
+can be estimated using this equation. For the waste composition option, the amount of DOCm which is long-term 
+stored in HWP waste disposed in SWDS is calculated directly from material information in the Activity sheet. 
+Using the bulk waste option, the fraction of waste originating from HWP needs to be estimated first. If this is not 
+known, the regional or country-specific default fractions for paper and cardboard, garden and park and wood 
+waste can be used (see Section 2.3). The calculations are performed in the spreadsheet model in the sheet called 
+‘Stored C’ and ‘HWP’. 
+3A1.6  
+DIFFERENT FOD APPROACHES 
+Different FOD approaches have been used to estimate the CH4 emissions from SWDS. The differences between 
+the approach used in these Guidelines, previous IPCC approaches and the so-called exact FOD method are 
+discussed below. The approach used in this Volume has been chosen mainly for the following reasons: 
+• 
+the method describes the FOD reaction mathematically more accurately than the previous IPCC approaches, 
+• 
+it is easy to understand, 
+• 
+it is easy to use in a spreadsheet model,  
+• 
+it gives, as a by-product, an estimate of changes in carbon stored in SWDS (annual changes in carbon stock, 
+for both long-term and short-term storage as the mass-balance of conversions of carbon into CH4 and CO2 in 
+the SWDS are maintained by the approach).
+=== PAGE 38 ===
+Volume 5: Waste 
+3.38 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3A1.6.1  
+1996 Guidelines - The rate of reaction approach 
+In the Revised 1996 IPCC guidelines (1996 Guidelines, (IPCC, 1997)) the estimation of the CH4 emissions from 
+SWDS was based on the rate of reaction equation. This is a common way of looking at the mass transformation 
+in a chemical reaction. This is obtained by differentiating Equation 3A1.2 with respect to time: 
+EQUATION 3A1.20  
+FIRST ORDER RATE OF REACTION EQUATION 
+ 
+(
+)
+kt
+e
+DDOCm
+k
+dt
+DDOCm
+d
+rate
+reaction
+DDOCm
+−
+•
+•
+=
+−
+=
+0
+/
+ 
+ 
+The rate of reaction equation shows the rate of reaction at any time, and the rate of reaction moves along a curve. 
+Therefore it has to be integrated to find the amount of reacted DDOCm over a period of time. 
+We want to find the DDOCm decomposed into CH4 and CO2 per calendar year. The start is year number 1 going 
+from point 0 to point 1 on the time axis. Year number 1 is associated to point 1 on the time axis. Therefore the 
+integration has to be performed from t−1 to t, which leads to an equation identical to Equation 3A1.5.  
+However, the equation presented in the 1996 Guidelines (Equation 4, Chapter 6) is: 
+EQUATION 3A1.21 
+IPCC 1996 GUIDELINES EQUATION FOR DOC REACTING IN YEAR T 
+kt
+T
+e
+DDOCm
+k
+decomp
+DDOCm
+−
+•
+•
+=
+0
+ 
+ 
+In fact, this is the rate of reaction equation. Effectively this means that the yearly CH4 production is calculated 
+from the rate of reaction at the end of the year. This is an approximation which involves summing a series of 
+rectangles under the rate of reaction curve, instead of accurately integrating the whole area under the curve. An 
+error is introduced by the approximation; the small triangles shown on the top of the columns in Figure 3A1.1 
+are neglected, and mass balance over the year is not obtained. The method based on the equation in the 1996 
+Guidelines using a half-life time of 10 years would give results 3.5 percent lower than the full mass balance 
+calculations used in these Guidelines (see equations 3A.1.4-5). 
+However, where the method in the 1996 Guidelines is used with half life times developed specifically for this 
+method, calculations will be correct.  
+Figure 3A1.1   
+Error introduced by not fully integrating the rate of reaction curve  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3A1.6.2  
+IPCC 2000 Good Practice Guidance 
+In the Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories (GPG2000, 
+IPCC, 2000), Equation 5.1, a normalisation factor A is introduced into the rate of reaction equation. When this 
+‘normalisation factor’ is multiplied into Equation 5.1 the result is a solved integral:
+=== PAGE 39 ===
+ 
+Chapter 3: Solid Waste Disposal 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+3.39 
+EQUATION 3A1.22 
+IPCC 2000GPG FOD EQUATION FOR DDOCm REACTING IN YEAR T 
+(
+)
+⎥⎦
+⎤
+⎢⎣
+⎡
+−
+•
+=
++
+−
+−
+1
+0
+t
+k
+kt
+T
+e
+e
+DDOCm
+decomp
+DDOCm
+ 
+ 
+This is equivalent to the correct equation (Equation 3A1.5) as it integrates the decay curve. However, for year 1 it 
+integrates from point 1 to point 2 on the time axis, and therefore the CH4 formed in the first year of reaction is not 
+counted (see Figure 3A1.2). This means that with a half life time of 10 years the GPG2000 equation calculates 
+results that are 7 percent lower than those calculated with approach taking the full mass balance into account. 
+Figure 3A1.2  
+Effect of error in the GPG2000 equation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The intention of the normalisation factor has obviously been to fill in the small triangles on top of the columns in 
+Figure 3A1.1. It fails because the normalisation factor used is equivalent to an integration going from point t to (t 
++1) on the time axis. As the integration using year number as a basis has to go from t-1 to 1, the normalisation 
+factor filling in the whole area under the rate of reaction curve would be A = ((1/e-k) − 1)/k.  
+3A1.6.3  
+Mathematically Exact First-Order Decay Model 
+The First Order Decay (FOD) model as described above can be shown to be mathematically equivalent to a 
+model for which the total amount of DOC is assumed to be disposed at a single point in time in each disposal 
+year, i.e., on a single date. If there is no delay in the commencement of the decay process, this date would be the 
+middle of the year, i.e., 1st of July, with a delay of 6 months the assumed reaction start with the full amount of 
+material is 31st December/1st January. This assumption, though counter-intuitive, leads to numerical errors that 
+are small compared to the uncertainty in the understanding of the chemical processes, activity data, emission 
+factors and other parameters of the emission calculation.  
+An alternative formulation of the FOD method is presented here for completeness. The delay in the 
+commencement of the decay process can be represented, and simple recursive formulations can be given. 
+Equation 3A1.23 represents the formulation of the FOD with disposal rate D(t). The first term in the bracket 
+represents the inflow into the carbon pool in the SWDS (disposal), the second term represents the outflow from the 
+site (carbon in form of CH4); the sum of the two terms represents the overall change in carbon stock in the SWDS.  
+EQUATION 3A1.23 
+FOD WITH DISPOSAL RATE D(t) 
+[
+] dt
+t
+DDOCm
+k
+t
+D
+t
+dDOCm
+)
+(
+)
+(
+)
+(
+•
+−
+=
+ 
+Where: 
+dDDOCm(t) 
+= 
+change in DDOCm at time t 
+D(t) 
+ 
+=  
+DDOCm disposal rate at time t 
+DDOCm(t) 
+= 
+DDOCm available at time t for decay  
+If there is a delay of Δ years in the commencement of the decay process after the DDOCm has been disposed, it 
+will be necessary to distinguish the part of the stock that is available for decay, to which Equation 3A1.23
+=== PAGE 40 ===
+Volume 5: Waste 
+3.40 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+applies, and the inert part of the stock. For a disposal rate D(t) that is constant during each disposal year (and 
+equal to the amount of DDOC disposed during that year divided by one year) it can be shown that the carbon 
+stocks at the end of year i can be expressed in terms of the carbon stocks at the end of year i−1 and the amounts 
+of disposal in year i and year i−1 (Pingoud and Wagner, 2006): 
+EQUATION 3A1.24 
+DEGRADABLE ORGANIC CARBON ACCUMULATED DURING A YEAR 
+)
+(
+)1
+(
+)
+(
+)1
+(
+i
+DDOCmd
+c
+i
+DDOCmd
+b
+i
+DDOCma
+a
+i
+DDOCma
+•
++
+−
+•
++
+•
+=
++
+ 
+Where: 
+DDOCma (i) 
+= 
+DDOCm stock in the SWDS at the beginning of year i, Gg C 
+DDOCmd (i)   =  
+DDOCm disposed during year i, Gg C  
+a 
+=   e-k  (constant)  
+b 
+=   1/k • (e-k(1-Δ)-e-k) − Δ • e-k (constant) 
+c 
+=   1/k • (1-e-k(1-Δ)) + Δ  (constant) 
+Δ 
+=   delay constant, in years (between 0 and 1 years) 
+For an immediately starting decay (Δ=0), the constant b is equal to zero, so that Equation 3A1.24 reduces to an 
+equation that relates the carbon pool in a given year i to the carbon pool in the previous year i-1 and the amount 
+of DOC being deposited during year i.  
+It can further be shown (Pingoud and Wagner, 2006) that this form can be used to calculate recursively the 
+corresponding CH4 produced in a given year:  
+EQUATION 3A1.25 
+CH4 GENERATED DURING A YEAR 
+[
+])
+(
+'
+)
+1
+(
+'
+)
+(
+'
+)
+(
+i
+DDOCmd
+c
+i
+DDOCmd
+b
+i
+DDOCma
+a
+q
+i
+gen
+CH4
+•
++
+−
+•
+−
+•
+•
+=
+ 
+Where: 
+CH4 gen (i) 
+=  
+CH4 generated during year i, Gg C 
+DDOCma(i)    =   DDOC stock in the SWDS at the beginning of year i, Gg C 
+DDOCmd(i)   =  
+DDOC disposed during year i, Gg C 
+q 
+=   MCF • F • 16/12  
+a’ 
+=   1 − e-k   =  1 − a (constant) 
+b’ 
+=   1/k • (e-k(1-Δ)-e-k) − Δ • e-k  = b (constant) 
+c’ 
+=   1− Δ − 1/k • (1-e-k(1-Δ)) = 1 − c (constant) 
+ 
+References 
+ 
+Pingoud, K. and Wagner, F. (2006). Methane emissions from landfills and decay of harvested wood products: 
+the first order decay revisited. IIASA Interim Report IR-06-004.  
+Barrow, Gordon M. (1996). Physical Chemistry, Mc Graw Hill, NewYork, 6th ed.  
+IPCC (2000). Good Practice Guidance and Uncertianty Management in National Greenhouse Gas Inventories. 
+Penman, J., Kruger D., Galbally, I., Hiraishi, T., Nyenzi, B., Enmanuel, S., Buendia, L., Hoppaus, R., 
+Martinsen, T., Meijer, J., Miwa, K. and Tanabe, K. (Eds). Intergovernmental Panel on Climate Change 
+(IPCC), IPCC/OECD/IEA/IGES, Hayama, Japan. 
+IPCC (1997). Revised 1996 IPCC Guidelines for National Greenhouse Inventories. Houghton, J.T., Meira Filho, 
+L.G., Lim, B., Tréanton, K., Mamaty, I., Bonduki, Y., Griggs, D.J. and Callander, B.A. (Eds). 
+Intergovernmental Panel on Climate Change (IPCC), IPCC/OECD/IEA, Paris, France.

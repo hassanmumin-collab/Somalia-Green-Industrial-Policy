@@ -1,0 +1,4141 @@
+=== PAGE 1 ===
+MINISTRY OF ENERGY
+AND WATER RESOURCES
+ROADMAP
+TO IMPLEMENTATION
+NATIONAL WATER 
+RESOURCE STRATEGYRY
+2021-2025
+=== PAGE 2 ===
+ 
+ 
+ 
+ 
+ 
+Federal Government of Somalia 
+ 
+Ministry of Energy and Water Resources 
+ 
+ 
+rategy 
+National Water Resource St
+ 
+2021-2025 
+ 
+Final Roadmap 
+ 
+August 2021
+=== PAGE 3 ===
+ 
+FOREWORD 
+The critical economic and social importance of water in the 
+Somali society is immeasurable. This means that there are 
+opportunities to use access to water as a key steppingstone 
+for socio-economic development as well as an entry point to 
+wider peace building. These aspirations can only be realised 
+through fast-tracking the strengthening of water governance 
+instruments such as through this maiden National Water 
+Resource Strategy (NWRS) and developing sound institutions 
+at federal and member state levels. This will provide the 
+much-needed impetus for holistic water sector reforms as 
+well as priority projects to address key sector challenges that 
+hinder growth and development. 
+This NWRS has been developed through a meticulous stakeholder engagement process, to underpin and 
+support Somalia’s developmental objectives of the National Development Plan 2020-2024 (NDP-9).  In 
+essence, the NDP-9, whose aim is to eliminate poverty and the impacts of poverty experienced by the 
+people of Somalia, will be the key driver for the NWRS over the next 5 to 10 years. Water is central to this, 
+needing to ensure sustainable water resource management and development, provision of water services 
+that support economic sectors, and investment in infrastructure to improve water security whilst 
+managing the ravages of floods and droughts. The NWRS has been intentionally designed to provide 
+synergy with NDP-9’s four pillars. Each of these pillars has a set of strategies and interventions that the 
+NWRS mirrors.  
+Ultimately, all the above strategies and actions reiterate the Federal Government of Somalia’s priorities 
+on the importance of supporting communities to have improved livelihoods through better services. 
+Therefore, this is a call to action to all stakeholders, to join hands in providing their continuous invaluable 
+support and cooperation to realise this NWRS. Together, we will safeguard Somalia’s water resources and 
+work towards ensuring water security for Somalia’s future generations. 
+ 
+ 
+ 
+ 
+H.E.Hassan Abdinur Abdi 
+Minister of Energy and Water Resources 
+Federal Government of Somalia
+=== PAGE 4 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+ii 
+ 
+ACKNOWLEDGEMENTS 
+ 
+The National Water Resource Strategy (NWRS) is the culmination of various contributions from a 
+range of stakeholders representing government ministries, international cooperating partners and 
+external stakeholders (private sector and civil society). These stakeholders are thanked for their 
+contributions.  The Ministry would like to also thank UNDP and UNICEF for their support.
+=== PAGE 5 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+iii 
+ 
+EXECUTIVE SUMMARY 
+Introduction 
+For Somalia, water it is the backbone of social, economic and environmental growth and prosperity. 
+Yet, the growing demands for water and its increasing scarcity is a growing concern. Somalia is a water 
+scarce country with approximately 411 m3 of renewable fresh water per capita as of 2017 (World Bank, 
+2020). This is a staggering decline over time from 2 087 m3 in 1962 (ibid), and far below the UN 
+recommended threshold of 1 000 m3 per capita per year. With rapid population growth, the current 
+per capita levels will decline further in coming decades.  This continuous decline in freshwater 
+availability has resulted in fierce competition over water resources and conflicts in some regions of 
+Somalia. The deteriorating quality of groundwater resources as a result of overexploitation, increasing 
+population and pollution is another challenge. Further, these challenges will be exacerbated by climate 
+change which has been manifested through recurrent floods and droughts. With the mean annual 
+rainfall expected to increase by 1%, 3% and 4% by 2030, 2050 and 2080, respectively (using the 1981-
+2000 reference period) (FGS, 2015) and coupled with increasing variability, more severe periods of 
+drought and floods are expected in future periods. 
+The global COVID-19 pandemic has interrupted Somalia’s growth trajectory with the economy 
+contracting by 2.5% in 2020 (World Bank, 2020).  More importantly, the pandemic has raised the 
+water, sanitation and hygiene agenda that has become a key element in the defence against the 
+disease’s spread. This has highlighted the urgency of strengthening water infrastructure, water 
+resources management and governance, equitable water supply, and enhanced water quality 
+standards as over 47% of the Somali population does not have access to safe water, sanitation and 
+hygiene (WASH) services. 
+Within this context, water governance in Somalia is impacted by limited horizontal and vertical 
+coordination between water sector institutions and those sector institutions supporting socio-
+economic development.  In many instances these institutions have limited resources and stretched 
+capacity.  These institutions play a key role in supporting the evolving policy, legal and institutional 
+framework, in strengthening water resource management based upon improved scientific data and 
+information, and in developing infrastructure to support development and address climate extremes. 
+The Imperative to Act 
+Cognisant of the myriad of challenges facing Somalia’s declining water resources, the Federal 
+Government of Somalia continues to make progressive strides to safeguard its water resources. This 
+includes progressive efforts to develop a sound constitutional framework to solidify its political 
+settlement and state-building reforms and enact legislative and regulatory instruments to anchor the 
+institutional development process, and this is particularly the case for the water sector. 
+The need to develop the economy of Somalia to address high levels of poverty is outlined in the 
+National Development Plan 2020-2024 (NDP-9), which also notes that water is a key natural resource 
+that needs to be effectively managed and sustainably developed to support the growth and 
+development the country needs.
+=== PAGE 6 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+iv 
+ 
+Availability of water, of sufficient quality, has a direct bearing on Somalia’s ability to meet the 
+Sustainable Development Goals (SDGs): 1, 2, 3, 5, 6, 8, and 13, in terms of ending poverty, ending 
+hunger and achieving food security, ensuring healthy lives, ensuring gender equality, access to clean 
+water and sanitation, promoting sustainable economic growth, and taking climate action respectively.  
+The complexity of managing Somalia’s water resources requires a strategic national approach that 
+involves the engagement of key government actors, the private sector, civil society, as well as the 
+support of a range of international cooperating partners and development financing institutions. 
+The Strategic Response 
+This NWRS provides a suite of strategies, objectives, and actions for the water sector for the 2021-
+2025 period. However, some of the outcomes will only be realised in the longer-term. The NWRS 
+targets to unlock key actions and align with the Provisional Constitution (2012), Sustainable 
+Development Goals and sectoral policies and laws. The NDP-9 will be the key driver for the NWRS over 
+the next 5 to 10 years. 
+The Vision of the NWRS is: 
+Under the NWRS, there are three Strategic Goals for this first edition that provides the basis for future 
+water sector developments:  Goal 1:  Establishing a Functional Water Sector Governance Framework 
+- Provides the strategic approach and actions towards strengthening water sector governance; Goal 2: 
+Operationalising Integrated Water Resources Management – Provides the strategic approach and 
+actions towards improved and integrated water resource management as a basis for ensuring 
+sustainable water resource development and the provision of sanitation services. Goal 3:  Improving 
+the Provision of Priority Water Services – Provides the strategic approach and actions to guide the 
+development of water 
+resources 
+to 
+realise 
+improvements in the 
+various services.  
+During the assessment 
+phase of the strategy 
+development, 
+many 
+issues and challenges 
+were identified. These 
+were 
+collated 
+into 
+clusters, 
+resulting 
+in 
+twenty 
+sub-strategies 
+“Sustainable, equitable and secure water for national unity, growth and well-being, for 
+all and in harmony with nature”
+=== PAGE 7 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+v 
+ 
+that will collectively realise the three Goals. The entire NWRS is underpinned by best practice 
+principles and values that follow thematic relevance throughout the document. 
+Towards Implementation 
+To respond to the suite of strategies, objectives, and actions provided in this NWRS, there is a 
+realisation that the attainment of longer-term objectives will take a phased and progressive, 
+developmental approach that enables Somalia to pragmatically attain sustainable outcomes. This 
+needs to be supported by relevant institutional arrangements, cooperating partners and a monitoring 
+and evaluation framework that will enable the MoEWR to monitor and report on progress.  
+Complimenting the NWRS, this NWRS Roadmap provides clarity on key priorities and supporting 
+actions, roles and responsibilities as well as milestones and targets has been developed. The roadmap 
+outlines the establishment of appropriate cooperative platforms to support and guide the 
+programming of actions as well as to oversee and evaluate progress. Importantly, this Roadmap 
+outlines 13 project charters that describe Flagship Projects that will facilitate interventions to support 
+the implementation of the NWRS in a phased and progressive manner. These Flagship Projects will be 
+undertaken with the broad leadership of the FGS in partnership with the FMS, working in conjunction 
+with International Cooperating Partners.
+=== PAGE 8 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+vi 
+ 
+TABLE OF CONTENTS 
+FOREWORD ............................................................................................................................................. I 
+ACKNOWLEDGEMENTS ......................................................................................................................... II 
+EXECUTIVE SUMMARY ......................................................................................................................... III 
+LIST OF FIGURES ................................................................................................................................... VII 
+LIST OF TABLES ..................................................................................................................................... VII 
+LIST OF ACRONYMS ............................................................................................................................ VIII 
+ 
+INTRODUCTION ............................................................................................................... 1 
+1.
+1.1 
+Country context ..................................................................................................1 
+1.2 
+The need for the National Water Resource Strategy (NWRS).............................1 
+1.3 
+The approach and purpose .................................................................................2 
+1.4 
+The NWRS strategic framework ..........................................................................3 
+1.5 
+Ensuring effective implementation ....................................................................4 
+2. 
+THE IMPLEMENTATION IMPERATIVE .............................................................................. 6 
+2.1 
+Lessons in Implementing NWRS and IWRM .......................................................7 
+ 
+ENSURING IMPLEMENTATION ...................................................................................... 13 
+3.
+3.1 
+Phase 1 – Laying the Foundation ......................................................................13 
+3.2 
+Phase 2 – Building Capacity ..............................................................................19 
+3.3 
+Phase 3 – Driving Growth .................................................................................24 
+ 
+DRIVING FLAGSHIP PROJECTS ....................................................................................... 27 
+4.
+4.1 
+Focusing delivery through Flagship Projects .....................................................27 
+4.2 
+Flagship Project Charters ..................................................................................28 
+4.3 
+Principles that underpin the Flagship Projects .................................................45 
+ 
+FAST TRACKING IMPLEMENTATION .............................................................................. 47 
+5.
+ 
+REFERENCES .................................................................................................................. 50 
+6.
+=== PAGE 9 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+vii 
+ 
+LIST OF FIGURES 
+ 
+Figure 1-1: Drainage basins of Somalia .................................................................................................... 1 
+Figure 1-2:Objectives of NWRS ................................................................................................................ 2 
+Figure 1-3: Strategic goals of the NWRS ................................................................................................... 3 
+Figure 1-4: The NWRS Goals and supporting Strategies ........................................................................... 4 
+Figure 1-5:  IWRM planning and implementation cycle ........................................................................... 4 
+Figure 2-1:  The progressive process towards building back better ......................................................... 6 
+Figure 3-1: Summary of the phased implementation of the NWRS ....................................................... 13 
+Figure 4-1: Key factors to underpin focused NWRS implementation ..................................................... 27 
+Figure 5-1:  Potential phasing for the initiation of Flagship Projects ...................................................... 49 
+ 
+LIST OF TABLES 
+ 
+Table 3-1:  Phase 1 Implementation Tables............................................................................................ 16 
+Table 3-2:  Phase 2 Implementation Tables............................................................................................ 21 
+Table 3-3:  Phase 3 Implementation Tables............................................................................................ 25
+=== PAGE 10 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+viii 
+ 
+LIST OF ACRONYMS 
+Abbreviation 
+Meaning 
+COVID-19 
+Novel Corona Virus 2019 
+FGS 
+Federal Government of Somalia  
+FMS 
+Federal Member State 
+IWRM 
+Integrated Water Resource Management  
+MoAI 
+Ministry of Agriculture and Irrigation 
+MoE 
+Ministry of Education 
+MoEWR 
+Ministry of Energy and Water Resources 
+MoF 
+Ministry of Finance 
+MoHADM 
+Ministry of Humanitarian Affairs and Disaster Management 
+MoL 
+Ministry of Livestock 
+MoPIED 
+Ministry of Planning, Investment and Economic Development 
+NAPA 
+National Adaptation Programme of Action  
+NDP 
+National Development Plan 
+NWRS 
+National Water Resource Strategy 
+SDGs 
+Sustainable Development Goals 
+SWALIM 
+Somalia Water and Land Information Management 
+WASH 
+Water, Sanitation and Hygiene 
+WSS 
+Water and sanitation services
+=== PAGE 11 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+1 
+ 
+ 
+INTRODUCTION 
+1.
+1.1 
+Country context 
+Located on the Horn of Africa, Somalia is emerging from a prolonged period of conflict for 
+approximately 30 years. Towards this end, the Federal Government of Somalia (FGS) is working hard 
+to realise the objectives of growth and development as laid out in the National Development Plan 
+2020 - 2024 (NDP-9). Water resource management and development is essential to the country’s 
+growth and development, hence, the development of a National Water Resource Strategy (NWRS) 
+becomes an important component of realising 
+the country’s development agenda. 
+Somalia can be divided into nine major water 
+basins with the Juba and Shabelle rivers being 
+very important in Somalia, the latter having 
+been described as the breadbasket of Somalia 
+(Jama & Mourad, 2019).  
+Climate change, environmental degradation 
+and increasing competition for scarce water, 
+stressed 
+rangelands 
+and 
+other 
+natural 
+resources are major drivers of fragility, 
+displacement, extreme poverty, and food 
+insecurity. This poses significant challenges in 
+enabling 
+access 
+to 
+water 
+for 
+Somalia’s 
+estimated population of approximately 15 
+million in 2020, growing at a rate of 3% per year 
+(United Nations Department of Ecconomic and 
+Social 
+Affairs, 
+2019) 
+with 
+an 
+estimated 
+population of 35 million by 2050. 
+As pressures on these limited resources increase, the need for improved water sector governance, 
+strengthened water resource management and increase water security will impact on the country’s 
+ability to ensure sustainable growth and development. 
+1.2 
+The need for the National Water Resource Strategy (NWRS) 
+Restarting institutional activity and strengthening water resources governance in the aftermath of a 
+prolonged conflict era is challenging. Recent and recurrent environmental disasters as well as the 
+ongoing Covid-19 pandemic serve to underline the dramatic recovery that is required. This places 
+emphasis on the need for addressing social, economic and environmental aspects that results in 
+green growth and is inclusive in ensuring that nobody is left behind.  Therefore, the reconstruction 
+that is required provides a significant opportunity to put in place approaches that ensure more social 
+and economic resilience for the future. 
+Figure ‎1-1: Drainage basins of Somalia
+=== PAGE 12 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+2 
+ 
+Currently, the Somalian government is creating and modernizing institutions, seeking to restore 
+services to a struggling and distressed population. Whilst much has been achieved to date, there are 
+still many challenges that the government face in improving water resource management and 
+development across the country. 
+One of these challenges is the limited horizontal and vertical coordination between water sector 
+institutions and those sector institutions supporting socio-economic development. In many instances 
+these institutions have limited resources and stretched capacity, which impacts their ability to 
+support evolving policy, legal and institutional frameworks, strengthen water resource management, 
+and develop infrastructure to support development and address climate extremes.  
+The critical economic and social importance of water in Somali society means that there are 
+opportunities to use access to water as an entry point to wider peace building as well as a key 
+steppingstone for socio-economic development. These aspirations can only be realised through fast-
+tracking the strengthening of water governance instruments, such as the Strategy, and developing 
+sound institutions at federal and member state levels to provide impetus for holistic water sector 
+reforms as well as priority projects to address key sector challenges that hinder growth and 
+development. 
+1.3 
+The approach and purpose 
+The NWRS has therefore been developed to underpin and support the developmental objectives of 
+the NDP-9. Water is central to this, needing to ensure sustainable water resource management and 
+development and the provision of water services that support economic sectors. This must be 
+underpinned by sound strategic governance and operational clarity.   
+The Somalian water sector is in the process of updating its core legal instrument i.e. the Water Act. 
+Alongside this is the prioritisation of the development of the NWRS as there is the recognition for the 
+need to strategically plan for the range of activities that are needed in the short-term, whilst working 
+towards longer-term objectives (see Figure ‎1-2). 
+ 
+Figure ‎1-2:Objectives of NWRS
+=== PAGE 13 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+3 
+ 
+In this regard, the process to regularise the Somalian water sector will require structured action over 
+time. This first NWRS cannot achieve all that the Federal Government of Somalia needs to do in 
+support of water sector reforms, but rather it is an indication of the government’s commitment to 
+undertaking incremental activities that demonstrate progressive realisation of the country’s 
+developmental objectives. 
+Water resource management and development is inherently complex, noting that water impacts 
+other sectors and ministries at different tiers of government. Engagement in the development of this 
+strategy has therefore been critical. Despite the complexities of the COVID-19 outbreak, the MoEWR 
+has ensured ongoing stakeholder engagement and participation. The support of partner Ministries as 
+well as key international cooperating partners has been instrumental in developing the NWRS and in 
+understanding the key linkages and interfaces between sectors to develop an integrated, 
+developmental approach. 
+1.4 
+The NWRS strategic framework 
+In March 2020, the first consultative workshop for the development of the NWRS deliberated on the 
+intent for the strategy and a vision for the NWRS was developed and subsequently refined. 
+This NWRS Vision is brought to life through four core mission statements of intent, namely: 
+ 
+To enhance the role of water in unity, growth, and well-being. 
+ 
+To enhance integrated water resources management. 
+ 
+To build resilience by promoting sustainable development. 
+ 
+To ensure equity, productivity, and sustainable services. 
+These four mission statements were translated into three Strategic Goals for this first NWRS that 
+provides the basis for 
+future 
+water 
+sector 
+developments 
+(Figure 
+1-3). 
+During 
+the 
+assessment 
+phase of the strategy 
+development, many issues 
+and 
+challenges 
+were 
+identified. 
+These 
+were 
+collated 
+into 
+clusters, 
+resulting in twenty sub-
+“Sustainable, equitable and secure water for national unity, growth and well-being, for 
+all and in harmony with nature” 
+Figure ‎1-3: Strategic goals of the NWRS
+=== PAGE 14 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+4 
+ 
+strategies that will collectively realise the three Goals, as provided in Figure ‎1-4 below. 
+ 
+Figure ‎1-4: The NWRS Goals and supporting Strategies   
+1.5 
+Ensuring effective implementation 
+The challenges in achieving sustainable water resource management to support growth and 
+development are many.  Countries across 
+the planet are striving to improve the 
+implementation of various interventions 
+towards 
+integrated 
+water 
+resource 
+management (IWRM) and the attainment 
+of the Sustainable Development Goals 
+(SDGs).  Somalia’s approach is based 
+upon 
+the 
+IWRM 
+planning 
+and 
+implementation cycle that recognises the 
+importance of the enabling environment, 
+the 
+institutional 
+frameworks 
+and 
+structures, the management instruments 
+and the development of infrastructure 
+that supports the management, control 
+and use of water resources (Figure ‎1-5). 
+Figure ‎1-5:  IWRM planning and implementation cycle (after 
+Global Water Partnership Technical Committee (2004)) 
+However, despite IWRM being on the agenda for many years there are in many cases a range of 
+political, social, economic and governance challenges that hinder progress (UN Environment, 2018). 
+Internationally, the obstacles often indicated include:
+=== PAGE 15 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+5 
+ 
+ 
+Institutional aspects related to mandates, roles and responsibilities often resulting in poor 
+cooperation and often conflicts in approach; 
+ 
+Insufficient capacity to ensure effective implementation of key instruments especially those 
+that are more regulatory in nature, particularly at more localised levels; and 
+ 
+Funding shortages linked either to limited national government support, revenue shortfalls 
+or challenges related to international and donor support (UN Environment, 2018). 
+Somalia equally faces these challenges in its efforts to ensure ongoing and sustainable growth and 
+development.  However, progress is required in support of NDP-9 and to address the levels of 
+poverty and economic insecurity that Somali citizens face. This requires a phased and progressive 
+approach that pragmatically implements the NWRS whilst developing the competency, capability, 
+and capacity of government to sustainably manage and develop national, state and local level water 
+resources.   
+The NWRS Roadmap will be the guiding instrument that provides clarity as to key priorities and 
+supporting actions, roles, and responsibilities as well as milestones and targets so that progress can 
+be monitored and evaluated.
+=== PAGE 16 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+6 
+ 
+ THE IMPLEMENTATION IMPERATIVE 
+2.
+The imperative to act is underpinned by a significant range of challenges that require structured and 
+strategic redress. Water is a key natural resource that needs to be effectively managed and 
+sustainably developed to support the growth and development Somalia needs. Yet these and 
+associated natural resources are stressed with natural resource quality being significantly degraded 
+(Federal Government of Somalia, 2019). 
+Whilst Somalia emerges from decades of conflict, the ongoing impacts of flood and droughts, as well 
+as the current Covid-19 pandemic all underline an ongoing fragility that NDP-9 and supporting sector 
+strategies aim to address.  Undertaking efforts to ensure development within a fragile state context 
+from which Somalia emerges, is complex and requires strategic interventions supported by impact-
+oriented implementation that supports development, protects lives, and improves livelihoods. This 
+will require a comprehensive approach that is realised through a phased and progressive 
+implementation plan that is cognisant of the difficulties of realising integration that supports 
+sustainable solutions. 
+Noting the concepts behind “building back better” there is a need to work coherently and smartly, 
+noting the important linkages with many sectors (such as energy, agriculture, livestock, disasters etc) 
+to realise a more inclusive and resilient future, built upon a green economy.  The support of the 
+international community will be essential in assisting this transition, with support progressively 
+moving from humanitarian aid to development support that uses country systems and thereby 
+building governance capacity (Figure ‎2-1). 
+ 
+Figure ‎2-1:  The progressive process towards building back better (adapted from Hallegate, Rentschler, & Walsh, 2018)
+=== PAGE 17 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+7 
+ 
+Additionally, it is of considerable importance to note that whilst there is a need to improve and 
+strengthen the enabling, institutional and managerial environment, there is also an as important 
+imperative to ensure that water development challenges are addressed to ensure livelihoods.  This 
+means that Somalia will be needing to “build the car whilst driving it”.  This is not easy when “build 
+back better” strategies are requiring that recovery from disasters (whatever the nature of the 
+disaster) involves building faster, building stronger and building more inclusively  (Hallegate, 
+Rentschler, & Walsh, 2018).  These approaches will result in reducing disaster impact, in building 
+resilience and in ensuring that no one gets left behind. 
+The Somalian context is therefore complex, but nevertheless provides an opportunity to develop a 
+more resilient future.  This is aligned to many countries of the world that are realising that recovery 
+from the Covid-19 pandemic provides the opportunity to pursue a greener, more inclusive, and 
+resilient recovery that supports the attainment of the SDGs. Part of this realisation is that climate 
+shocks and the resultant hazards will increasingly exacerbate social and political shifts as well as 
+economic shocks, with the ability to manage the impacts across sectors becoming increasingly 
+complex (UNICEF, 2020). This will require government at various levels to play a stronger role in 
+leading change, in driving policy and in securing investments to address an increasingly complex suit 
+of social, economic, and environmental challenges. This will require the ongoing support of the 
+international development community as well as that of the private sector and civil society. 
+Therefore, the approach towards building back better will be based upon several key premises that 
+will provide for a structured implementation of the NWRS whilst support the national imperative to 
+develop a resilient future.  This will focus upon improving the governance of water and related 
+natural resources, whilst undertaking sustainable water sector developments that improve societal 
+well-being and reduce livelihood vulnerabilities.  
+In shaping the approach to implementing the NWRS, it is useful to draw from the experience of 
+implementing such strategies in other contexts. 
+2.1 
+Lessons in Implementing NWRS and IWRM 
+The experiences of other countries in putting IWRM into practice can provide useful lessons for the 
+approach to be used in Somalia.  Whilst it must be understood that the approach and success of 
+processes within each country are influenced by political, social, economic, and cultural conditions of 
+each country, nevertheless they do provide important themes for consideration and some key 
+recommendations. 
+Theme 1:  Failure to take up the sector leadership role 
+In many countries there has been failure to really understand the role of being the water sector lead 
+and how this role is key in not only pulling the sector together to drive implementation but also to 
+act as the project sponsor in unlocking challenges and in promoting the importance of consolidated 
+effort. As a result, implementation efforts get stalled by a range of complex intergovernmental 
+challenges and limited or poor coordination in sector strategies resulting in efficiencies and reduced
+=== PAGE 18 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+8 
+ 
+effectiveness. The complexity of implementing the NWRS in conjunction with other sector 
+development processes requires strong strategic leadership that pulls the sector together and fosters 
+alignment with other sectors.  
+ 
+Theme 2:  Balance technical solutions with improved governance 
+Whilst there are a range of technical dimensions to water resource management and development 
+(e.g. hydrological modelling, ecological flow requirements, water quality analyses, climate modelling 
+etc) that are indeed very important as part of understanding and managing resources, these need to 
+be balanced with addressing the softer issues of governance, intersectoral engagement and 
+coordination, stakeholder engagement and other enabling and institutional elements.  There has 
+often been a drive by national water ministries to drive hard on technical studies under the banner 
+that “we do not know enough” and not dealing with possibly the more complex political economy 
+and issues of governing the water sector. 
+ 
+Theme 3:  Best practice versus appropriate practice 
+There is across the continent a desire to use the best possible practices to support water resource 
+management and development. In some instances, or in some aspects of IWRM, this is possible 
+correct. However, this needs to be measured against the competencies and capabilities of the 
+country as well as a range of other institutional, environmental, social, and political aspects.  It is 
+good to strive for best practice, but it is often pragmatic to develop these in phased and progressive 
+ways that are most appropriate for the country. The support of international partners in developing 
+the needed competencies and capacity, supported by appropriate systems and technology is 
+important. 
+ 
+Theme 4:  Data and information management as a key building block 
+Noting the above, the technical studies are important but are often undermined by having sufficient 
+data and information to support these studies that support decision making. The improvement of 
+monitoring networks and the development of data and information management systems should be 
+a “no-regrets” option.  However, these aspects are often not prioritised or afforded sufficient funding 
+to develop the networks and systems needed.  These need to be supported by a range of 
+institutional and stakeholder processes which are often not addressed as comprehensively as 
+required.  Additionally, these are not solutions that are realised swiftly and therefore need to be 
+initiated early in the roll-out of strategies. 
+ 
+Theme 5:  Understanding sector support and regulation 
+The implementation of IWRM strategies often face challenges of balancing sector support with the 
+need to improve regulatory approaches.  This requires a phased and progressive approach noting 
+that the more historic approaches of “command and control” are no longer useful. For the water 
+sector this means working progressively with water use sectors to progressively develop and 
+implement regulatory instruments. This ultimately results in better levels of regulatory adherence as
+=== PAGE 19 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+9 
+ 
+well as more effective empowerment to enable these sectors to apply approaches that support the 
+goals of these instruments. 
+ 
+Theme 6:  Failure to develop a prioritised implementation plan 
+Many NWRS instruments fail to develop a prioritised implementation plan. In some instances, this 
+results in poorly coordinated attempts to implement the entire strategy without clarity as to whether 
+all elements of the strategy are to be realised within the five-year timeline that strategies most 
+typically use. This is sometimes exacerbated by the sense that pragmatism and phased delivery is 
+politically unpalatable.  This results in a level of complexity that often prevents meaningful progress 
+and attempts to deliver on strategies that are beyond the capacity of the sector.  
+ 
+Theme 7:  Failure to link NWRS to developmental objectives 
+Water can catalyse or constrain growth, but often the linkages between water resource management 
+and development and developmental objectives are not fully understood or effectively translated in 
+the way that strategies are developed or implemented. For example, the requirements for 
+hydropower development may need adjustments to the regulatory approach within a system, or the 
+water quality of irrigation water may require different regulatory approaches to support the export 
+market for fruits and vegetables. Similarly, if we are driving economic growth through industrial 
+development, this will have implications for the policies and strategies for water quality 
+management. These require the water sector to approach IWRM from an objective perspective and 
+will require ongoing engagements and more effective integration between sectors (see below) to 
+better understand these sector interfaces.  However, this can also be unlocked by pathfinder projects 
+that explore new and innovative ways of supporting these developmental objectives.  The lessons 
+gleaned from such projects can assist in shaping policy and further implementation approaches. 
+ 
+Theme 8:  Poor integration with other sectors 
+Many NWRS instruments are seen purely from the perspective of the water sector and fail to 
+effectively integrate the needs of those sectors that are dependent on water. This often despite 
+extensive engagement with these sectors. This is sometimes driven by the regulatory mindset that in 
+order to ensure sustainability the water sector should not be seen to be supportive of water use 
+sectors, in other instances there is limited understanding of the needs of each sector and how to 
+effectively interface strategic instruments and plans.  These are often complex to address and 
+therefore requires ongoing engagement and exchange to develop approaches and support more 
+integrated decision making between the sectors. This is important in ensuring that water and 
+environmental considerations are adequately reflected in these developmental sector strategies and 
+plans. 
+ 
+Theme 9:  Centralised decision making and lack of transparency 
+In many instances despite the desire to decentralise water resource management activities, decision 
+making is often centralised and not transparent. This is not supportive of empowering other sector
+=== PAGE 20 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+10 
+ 
+institutions or fostering integration between sectors, often resulting in poor coordination and 
+inefficiencies in the use of resources.  This can create implementation bottlenecks that translate into 
+poor delivery. 
+ 
+Theme 10:  Inconsistent stakeholder engagement 
+The importance of stakeholder engagement is broadly understood and is often a pillar of processes 
+to develop strategies, however, this engagement often falters during the implementation phases. 
+This results in a failure to engage with and support key aspects of delivery, often limiting the finding 
+of joint solutions to challenges. In some instances, this creates a lack of transparency that results in 
+limited trust. This is further exacerbated by weak communications and knowledge exchange 
+strategies, noting that in many government ministries these skills are often limited and stretched. 
+ 
+Theme 11:  Limited focus on realising impact 
+Often NWRS instruments place significant focus on the core elements of IWRM with often a strong 
+emphasis on ensuring that the technical building blocks of IWRM are in place to ensure sustainable 
+water resource management.  This is understandable as this is often led by technically strong water 
+ministries. However, there is often limited focus upon the outcomes from these strategies and how 
+this supports sustainable societal and economic development. In addition, it is important to note that 
+between countries the systems of governance, legal frameworks, institutional frameworks, and 
+decision-making processes can differ considerably. Thus, the notion of a singular IWRM paradigm is 
+flawed. This means rather developing appropriate outcomes-based strategies that progressively 
+strengthen water resource management and development according to the needs and country 
+context. 
+From the above, several recommendations can be outlined. 
+Recommendation 1:  Address sector governance frameworks early on 
+Effective delivery of the NWRS does need to be underpinned by clarity regarding institutional 
+mandates and the roles and responsibilities that these institutions will play.  Noting the complexity of 
+the Somalian context together with the need to embed IWRM and drive integrated sector 
+development, it will be imperative to start addressing the water sector governance frameworks at an 
+early stage. In so doing it is imperative that the water sector Ministry takes on board the roles and 
+responsibilities of water sector leadership, thereby providing a clear strategic steer for sector. 
+ 
+Recommendation 2:  Develop effective coordination platforms 
+While resources are often constrained there are a complex suite of actions to be taken across sectors 
+at different spatial and administrative levels. Integration requires interaction and therefore the 
+establishment of a coordination platform is an important step to support the roll-out of the NWRS 
+and act as a conduit for more effective intersectoral synchronisation and better transparency. In the 
+Somalian context with considerable levels of support being channelled through international 
+cooperating partners, the need for these platforms become imperative in terms of enabling
+=== PAGE 21 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+11 
+ 
+government to coordinate these inputs and ensure that these interventions support government 
+priorities. 
+ 
+Recommendation 3:  Build institutional and sector capacity  
+In the developmental state the need to be developing capacity is imperative and must be understood 
+as an ongoing process. These need to be understood through two lenses. Firstly, developing 
+organisational capacity and ensuring that there are the necessary line functions, staff complements 
+with appropriate skills and supporting systems to ensure delivery of the strategy. Secondly, 
+developing the pipeline of students and skills-pool from which the broader water sector can obtain 
+staff.  These do complement each other and are both equally important and as with other sector 
+development interventions do need to be initiated early noting that the impacts of these are only 
+realised in the medium-term. 
+ 
+Recommendation 4:  Prioritise key projects to realise impact 
+The requirements of the water sector are many and complex.  Certainly, the resources available do 
+not match the level of investment needed to achieve a sustainable water future. This can only be 
+achieved progressively over time.  There are “no-regrets” interventions that will realise longer-term 
+impact and do need to be initiated (as mentioned above), but equally there is a need to ensure that 
+projects are delivered in a way that continually strives to provide shorter-term impact. It is therefore 
+important to design and implement projects that provide an optimal balance between programmatic 
+costs, benefits, 
+and priorities looking across economic, social, and environmental needs. These projects show 
+success that generates lessons to be taken into future projects that result in more success. 
+ 
+Recommendation 5:  Enable adaptive management 
+The experiences of many countries demonstrate the importance of enabling adaptive management 
+that supports delivery aligned to the evolving context. This means making timely adjustments and 
+changes to activities to ensure that effective and efficient implementation can continue. These 
+changes can be quite profound but are made in the interest of attaining the overall objective. It is 
+important to have a plan and to strive towards attaining the set goals and objectives, but emerging 
+issues will influence the approach and will result in adjustments to the programme. This ability is 
+underpinned by an engagement process that supports transparency and the ready exchange of 
+information, as well as support from senior management that will enable the re-direction of 
+resources when needed. 
+ 
+Recommendation 6:  Ensure ongoing stakeholder engagement 
+The ongoing engagement with stakeholders is critical in the implementation phase of strategies.  
+Often ministries believe that once the strategy is developed the delivery phase of projects no longer 
+requires this engagement. However, there needs to be a realisation that this engagement may need 
+to take different and appropriate forms but must nevertheless continue. Often the success of
+=== PAGE 22 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+12 
+ 
+projects can be measured against the degree to which stakeholder engagement has been successful. 
+This will require the development of principles and guidance materials that will ensure projects 
+undertake these important processes and in so doing address issues such as gender imbalances, 
+socio-economic differences, and other power differentials. This engagement in projects will be the 
+platform upon which successful implementation is built. 
+ 
+Considering these lessons and recommendations and translating these into the Somali context 
+provides guidance on how to structure the implementation approach.
+=== PAGE 23 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+13 
+ 
+ ENSURING IMPLEMENTATION 
+3.
+During the validation workshop held in December 2020, government officials shared their knowledge 
+and insights to reach an agreed-upon suite of priorities for the implementation of the NWRS.  This is 
+not to say that the many other elements that make up the NWRS are not important or will not be 
+addressed.  Rather this recognises the importance of phasing actions noting that some actions 
+provide the building blocks for future interventions. This prioritisation also recognises that Somalia 
+has limited resources and a developing government sector that is steadily building its capability, 
+competency, and capacity to implement the NWRS at FGS and FMS level. 
+As it stands, there is still a significant suite of actions and to realise the impact needed a phased and 
+progressive approach is required to guide implementation.  In considering the approach, it is also 
+important to factor in causality (we need to do certain things first before we can do the next) and 
+connectivity (we need to do some things in conjunction with others things) so that we pragmatically 
+provide an implementation journey (Figure ‎3-1). 
+ 
+Figure ‎3-1: Summary of the phased implementation of the NWRS 
+The implementation scheduling and details of actions to be undertaken under these phases are 
+provided below. 
+3.1 
+Phase 1 – Laying the Foundation 
+There is a significant focus in the NWRS on strengthening the water sector governance frameworks 
+and developing a cooperative government approach that progressively improves the FGS and FMS
+=== PAGE 24 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+14 
+ 
+ministries approach to water resource management and development.  Efforts to develop the role of 
+government as water sector leader will be important and will be progressively strengthened through 
+the development of governance frameworks and supporting policy, legal and regulatory instruments.   
+A key element will be the further development of coordination and facilitation platforms such as the 
+task forces and clusters. 
+These coordination platforms will be improved and developed over time and will see government 
+actors leading and coordinating focused interventions. 
+Efforts to develop and improve the legal and policy frameworks will need to be continued and 
+realised.  These take time to see through to implementation noting the administrative and political 
+processes that need to be followed, hence they need to be started at this early stage. 
+Improving the coordination of financing arrangements will be a longer-term intervention but does 
+need to be initiated at this stage knowing that this will develop over time.  The use of country 
+systems and shifting international support to use these systems, where possible, will be imperative.  
+This will assist in transitioning towards country-led development rather than agenda-led support, 
+thereby enabling the water sector to effectively channel financial resources to sectoral and 
+developmental priorities. 
+During this phase there will be interventions initiated to plan for larger projects and infrastructural 
+solutions.  Projects of this nature take time to develop, finance and implement and therefore 
+initiating this planning step will be catalytic in terms of seeing longer-term infrastructure projects 
+implemented. 
+Lastly, this phase will have a strong focus on the development of capacity with government 
+institutions, this will be linked to the development of the water sector governance framework so that 
+appropriate capacity is in place to support the developing institutional mandates.  It will also be 
+important to start improving the broader societal awareness of water sector issues and processes, 
+and as such the development of knowledge products and communications materials will be 
+developed over time. 
+The core actions that have been identified and prioritised during Phase 1 include: 
+ 
+A3 – Undertake required legislative amendments  
+ 
+A4: - Enactment of Water Bill  
+ 
+A5 – Develop a water sector regulatory framework  
+ 
+A15 – Develop water sector development scenarios and identify priority projects  
+ 
+A17 – Develop funding and resource mobilisation strategy  
+ 
+A21 - Promote trust building activities towards transboundary basin management across the 
+region 
+ 
+A22 – Establish inter-ministerial cooperation structures 
+ 
+A23 – Establish inter-governmental cooperation structures
+=== PAGE 25 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+15 
+ 
+ 
+A24 - Develop an engagement strategy and plan that enables more active participation of 
+stakeholders at transboundary, national, federal state and catchment levels 
+ 
+A27 - Undertake water sector capacity needs assessment 
+ 
+A28 - Develop water sector capacity building framework and plan 
+ 
+A30 - Identify specific water sector interventions to diffuse and prevent conflict situations 
+ 
+A31 - Establish an emergency conflict response team 
+ 
+A32 - Develop a water sector planning framework 
+ 
+A35: - Develop a national water masterplan 
+ 
+A38 - Develop integrated water resource management and development plans for the Juba 
+and Shabelle basins 
+ 
+A49 - Establish Permanent Flood Task Force/ Committee to coordinate governmental action 
+ 
+A50 - Determine water sector priorities for strengthened climate planning 
+ 
+A68 - Develop a national water conservation and water demand management (WCWDM) 
+strategy 
+ 
+A71 - Develop a water sector gender strategy and implementation plan 
+ 
+A72 - Ensure gender representation in sector processes, institutions, and committees 
+ 
+A77 - Undertake a water sector infrastructure asset assessment study and develop a national 
+asset register 
+ 
+A78 - Identify priority infrastructure improvements and developments to support economic 
+development, assure supply and manage disaster risk 
+ 
+A81 - Assess infrastructure development requirements as inputs into national masterplan 
+and investment framework
+=== PAGE 26 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+16 
+ 
+Table ‎3-1:  Phase 1 Implementation Tables  
+ 
+PHASE 1: LAYING THE FOUNDATION  
+Goal  
+Sub-Strategy  
+Strategic Objective  
+Action  
+Timeframe  
+Champion  
+Collaboration and Sector Support 
+2 
+0 
+2 
+1 
+2 
+0 
+2 
+2 
+2 
+0 
+2 
+3 
+2 
+0 
+2 
+4 
+2 
+0 
+2 
+5 
+Federal 
+Govt. 
+Federal 
+Member 
+State  
+District 
+Level  
+Private 
+Sector  
+Civil 
+Society 
+ICPs 
+1: To develop a functional water sector governance framework 
+Sub-strategy 1 
+Develop policies, 
+legislation, and 
+strategies for 
+improved water 
+sector governance 
+SO1b: National water sector 
+legislation enacted 
+A3: 
+Undertake 
+required 
+legislative 
+amendments 
+ 
+ 
+ 
+ 
+ 
+MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+A4: Enactment of the Water Bill 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+SO1c: 
+Appropriate 
+regulatory 
+framework 
+& 
+instruments developed 
+A5: Develop a water sector regulatory 
+framework 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 3 
+Develop 
+sustainable water 
+sector financing 
+framework 
+SO3b: Sustainable water 
+sector 
+investment 
+framework developed 
+A15: Develop water sector development 
+scenarios and identify priority projects 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+SO3c: 
+Water 
+sector 
+development funding and 
+resources are mobilised 
+A17: Develop a funding and resource 
+mobilisation strategy 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 4 
+Establish a basis for 
+transboundary 
+basin management 
+SO4b: Principles for 
+transboundary WRM & 
+cooperation developed and 
+agreed 
+A21: Promote trust building activities 
+towards transboundary basin management 
+across the region 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 5 
+Support inter-
+ministerial and 
+inter-governmental 
+cooperation 
+SO5a: Structures to support 
+cooperative 
+government 
+are 
+established 
+and 
+operationalised 
+A22: Establish inter-ministerial cooperation 
+structures 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+A23: 
+Establish 
+inter-governmental 
+cooperation structures 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 6  
+Engage 
+stakeholders 
+supported by 
+effective 
+communications 
+SO6a: 
+Stakeholder 
+engagement 
+is 
+strengthened 
+A24: Develop an engagement strategy and 
+plan that enables more active participation 
+of stakeholders at transboundary, national, 
+federal state and catchment levels 
+ 
+ 
+ 
+ 
+ MoEWR
+=== PAGE 27 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+17 
+ 
+ 
+PHASE 1: LAYING THE FOUNDATION  
+Goal  
+Sub-Strategy  
+Strategic Objective  
+Action  
+Timeframe  
+Champion  
+Collaboration and Sector Support 
+2 
+0 
+2 
+1 
+2 
+0 
+2 
+2 
+2 
+0 
+2 
+3 
+2 
+0 
+2 
+4 
+2 
+0 
+2 
+5 
+Federal 
+Govt. 
+Federal 
+Member 
+State  
+District 
+Level  
+Private 
+Sector  
+Civil 
+Society 
+ICPs 
+Sub-strategy 7 
+Undertake capacity 
+building & 
+knowledge 
+exchange 
+interventions 
+SO7a: Water sector capacity 
+is progressively built 
+ 
+A27: Undertake water sector capacity 
+needs assessment 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+A28: Develop water sector capacity building 
+framework and plan 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-sub-strategy 8 
+Undertake 
+interventions to 
+reduce conflict  
+SO8a: 
+Conflict 
+regarding 
+access to water is reduced 
+A30: Identify specific water sector 
+interventions to diffuse and prevent 
+conflict situations 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+SO8b: 
+Coordination 
+of 
+humanitarian efforts 
+A31: Establish an emergency conflict 
+response team 
+ 
+ 
+ 
+ 
+ MoHADM 
+ 
+ 
+ 
+ 
+ 
+2: To operationalise integrate water resources 
+management 
+Sub-strategy 9 
+Improve water 
+sector & integrated 
+planning 
+SO9a: 
+Water 
+sector 
+planning 
+framework 
+formalised 
+A32: Develop a water sector planning 
+framework 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+SO9b: 
+National 
+Water 
+Masterplan developed 
+A35: Develop a national water masterplan 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+SO9c: 
+Water 
+sector 
+planning 
+instruments 
+at 
+national and federal state 
+levels are developed and 
+implemented 
+A38: Develop integrated water resource 
+management and development plans for 
+the Juba and Shabelle basins 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 10 
+Plan and respond 
+to climate change 
+and its impacts on 
+water resources 
+management 
+SO10b: Flood and drought 
+risk management strategies 
+and plans developed 
+A49: Establish Permanent Flood Task Force/ 
+Committee to coordinate governmental 
+action 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+SO10c: Water priorities are 
+mainstreamed into the 
+national climate planning 
+A50: Determine water sector priorities for 
+strengthened climate planning 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 14 
+Implement water 
+conservation and 
+water demand 
+management 
+SO14a: 
+National 
+water 
+conservation 
+and 
+water 
+demand 
+management 
+strategy 
+and 
+guidelines 
+developed 
+A68: Develop a national water conservation 
+and water demand management strategy 
+ 
+ 
+ 
+ 
+ MoEWR
+=== PAGE 28 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+18 
+ 
+ 
+PHASE 1: LAYING THE FOUNDATION  
+Goal  
+Sub-Strategy  
+Strategic Objective  
+Action  
+Timeframe  
+Champion  
+Collaboration and Sector Support 
+2 
+0 
+2 
+1 
+2 
+0 
+2 
+2 
+2 
+0 
+2 
+3 
+2 
+0 
+2 
+4 
+2 
+0 
+2 
+5 
+Federal 
+Govt. 
+Federal 
+Member 
+State  
+District 
+Level  
+Private 
+Sector  
+Civil 
+Society 
+ICPs 
+3: To improve the provision of priority water 
+services 
+Sub-strategy 15 
+Ensure gender and 
+equity is integrated 
+into service 
+delivery 
+SO15a: Water sector gender 
+strategy 
+and 
+plan 
+developed 
+A71: Develop a water sector gender 
+strategy and implementation plan 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+A72: Ensure gender representation in 
+sector processes, institutions, and 
+committees 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 16 
+Plan and develop 
+water sector 
+infrastructure 
+SO16a: Improved under-
+standing of the water sector 
+infrastructure asset base is 
+developed 
+A77: Undertake a water sector 
+infrastructure asset assessment study and 
+develop a national asset register 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+SO16b: 
+Water 
+sector 
+infrastructure improvement 
+and development plan is 
+developed 
+A78: Identify priority infrastructure 
+improvements and developments to 
+support economic development, assure 
+supply and manage disaster risk 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 17 
+Improve water 
+security for 
+agriculture 
+SO17b: Water security for 
+rainfed 
+and 
+irrigated 
+agricultural is improved 
+A81: Assess infrastructure development 
+requirements as inputs into national 
+masterplan and investment framework 
+ 
+ 
+ 
+ 
+ MoAI 
+ 
+ 
+ 
+ 
+ 
+3: To improve the 
+provision of priority 
+water services 
+Sub-strategy 18 
+Improve water 
+security for 
+livestock & wildlife 
+SO18a: Water security for 
+livestock 
+and 
+wildlife 
+sectors is improved 
+A88: Assess infrastructure rehabilitation 
+and development requirements for water 
+storage and supply for livestock 
+management as inputs into national 
+masterplan and investment framework 
+ 
+ 
+ 
+ 
+ MoL 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 20 
+Enhance provision 
+of ecosystem 
+goods and services 
+SO20a: 
+Integrated 
+environmental 
+management framework is 
+established 
+SA97: Undertake a situation assessment of 
+the country’s fresh-water ecosystems and 
+related ecological infrastructure 
+ 
+ 
+ 
+ 
+ DoE
+=== PAGE 29 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+19 
+ 
+3.2 
+Phase 2 – Building Capacity 
+This second phase will build upon the gains of Phase 1 and seeks to embed the approaches 
+developed and to further develop these towards realising developmental impact.  Building capacity 
+puts a clear emphasis upon institutional strengthening, understanding that this will take place at 
+various levels and will require a prioritised approach.  This would include the ongoing development 
+of institutional capabilities and capacities, as well as institutional establishment processes such as a 
+hydro-meteorological service centre. 
+Efforts to improve the legal and policy environments would continue and will be translated into the 
+development of an agreed upon approach to water sector regulation and water use authorisation. 
+The coordination and planning undertaken in Phase 1, will start to realise impacts in the water sector 
+response to the management of climate hazards.  This will include the sharing of hydrological, flood 
+and drought data and information that will assist MoHADM in its role as lead agent in disaster 
+management, as well as the ongoing (longer-term) interventions to develop infrastructure. 
+Ongoing efforts to coordinate the financing to support interventions will continue and a process to 
+start developing an investment framework to support the infrastructure masterplan will be initiated.  
+This will progressively take place whilst the planning for infrastructure projects will be translated 
+during this phase into project preparation. 
+A key element of Phase 2 will be interventions to strengthen the data and information management 
+and will involve undertaking improvements in supporting systems. 
+The core actions that have been identified and prioritised during Phase 2 include: 
+ 
+A9 - Develop institutional policies and strategies that set out the water sector institutional 
+framework  
+ 
+A10 - Develop an institutional establishment and development plan that is phased, 
+progressive and innovative 
+ 
+A16 - Develop a water sector investment framework 
+ 
+A29 - Implement priority aspects of the capacity building framework and plan 
+ 
+A40 - Conduct scientific research and studies on climate change impacts on water sector 
+nationally, locally and for prioritised areas 
+ 
+A43 - Undertake flood and drought risk assessment studies to identify priority risks nationally 
+ 
+A44 - Develop long-term water sector disaster risk management strategy 
+ 
+A45 - Develop flood mitigation strategy together with flood mitigation infrastructure 
+development plans 
+ 
+A53 - Develop of a national water use permitting system 
+ 
+A54 - Develop strategy for the phased implementation of a national water use permitting 
+system 
+ 
+A55: -Develop a compliance monitoring and enforcement strategy 
+ 
+A61 - Develop a plan for the strengthening of hydrological and environmental monitoring
+=== PAGE 30 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+20 
+ 
+ 
+A63 - Establish a national hydro-meteorological service 
+ 
+A80 - Develop improved system management approaches to improve water security for 
+agriculture 
+ 
+A83 - Support innovative and alternative approaches towards irrigation and agriculture 
+development that support improved water use efficiency and enable sector growth 
+ 
+A87 - Develop improved system management approaches to improve water security for 
+livestock management 
+ 
+A91 - Develop improved WSS monitoring and information exchange 
+ 
+A92 - Develop WSS delivery standards, procedures and guiding regulations 
+ 
+A96 - Monitor and report on achievement of WSS delivery standards and adherence to 
+regulations 
+.
+=== PAGE 31 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+21 
+ 
+Table ‎3-2:  Phase 2 Implementation Tables  
+ 
+PHASE 2: BUILDING CAPACITY  
+Goal  
+Sub-Strategy  
+Strategic Objective  
+Action  
+Timeframe  
+Champion  
+Collaboration and Sector Support 
+2 
+0 
+2 
+1 
+2 
+0 
+2 
+2 
+2 
+0 
+2 
+3 
+2 
+0 
+2 
+4 
+2 
+0 
+2 
+5 
+Federal 
+Govt. 
+Federal 
+Member 
+State 
+District 
+Level  
+Private 
+Sector  
+Civil 
+Society 
+ICPs 
+1: To develop a functional water sector 
+governance framework 
+Sub-strategy 2 
+Establish water 
+sector institutional 
+framework 
+SO2a: 
+Water 
+sector 
+institutional 
+framework 
+developed 
+A9: Develop institutional policies and 
+strategies that set out the water 
+sector institutional framework 
+ 
+ 
+ 
+ 
+ 
+MoEWR  
+ 
+ 
+ 
+ 
+ 
+ 
+SO2b: 
+Water 
+sector 
+institutions established and 
+developed 
+A10: 
+Develop 
+an 
+institutional 
+establishment and development plan 
+that is phased, progressive and 
+innovative 
+ 
+ 
+ 
+ 
+ 
+MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 3 
+Develop sustainable 
+water sector 
+financing framework 
+SO3b: 
+Sustainable 
+water 
+sector investment framework 
+developed 
+A16: 
+Develop 
+a 
+water 
+sector 
+investment framework 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 7 
+Undertake capacity-
+building & 
+knowledge ex-
+change interventions 
+SO7a: Water sector capacity 
+is progressively built 
+A29: Implement priority aspects of 
+the capacity building framework and 
+plan 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+2: To operationalise integrate water 
+resources management 
+Sub-strategy 9 
+Improve water sector 
+& integrated 
+planning 
+SO9c:  Water sector planning 
+instruments at national and 
+federal 
+state 
+levels 
+are 
+developed and implemented 
+A38:  Develop integrated water 
+resource 
+management 
+and 
+development plans for the Juba and 
+Shabelle basins 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 10 
+Plan and respond to 
+climate change and 
+its impacts on water 
+resources 
+management 
+SO10a:  
+Advance under-standing of 
+climate impacts on extreme 
+events is promoted 
+A40: Conduct scientific research and 
+studies on climate change impacts on 
+water sector nationally, locally and 
+for prioritised areas 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+SO10b: Flood and drought 
+risk management strategies 
+and plans developed 
+A43: Undertake flood and drought 
+risk assessment studies to identify 
+priority risks nationally 
+ 
+ 
+ 
+ 
+ MoEWR
+=== PAGE 32 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+22 
+ 
+ 
+PHASE 2: BUILDING CAPACITY  
+Goal  
+Sub-Strategy  
+Strategic Objective  
+Action  
+Timeframe  
+Champion  
+Collaboration and Sector Support 
+2 
+0 
+2 
+1 
+2 
+0 
+2 
+2 
+2 
+0 
+2 
+3 
+2 
+0 
+2 
+4 
+2 
+0 
+2 
+5 
+Federal 
+Govt. 
+Federal 
+Member 
+State 
+District 
+Level  
+Private 
+Sector  
+Civil 
+Society 
+ICPs 
+A44: Develop long-term water sector 
+disaster risk management strategy 
+ 
+ 
+ 
+ 
+ MoEWR, 
+MoHADM 
+ 
+ 
+ 
+ 
+ 
+ 
+A45: 
+Develop 
+flood 
+mitigation 
+strategy 
+together 
+with 
+flood 
+mitigation 
+infrastructure 
+development plans 
+ 
+ 
+ 
+ 
+ MoEWR, 
+MoHADM 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 11 
+Improve water sector 
+regulation 
+SO11a: 
+Water 
+permitting 
+system 
+developed 
+and 
+implemented 
+A53: Develop of a national water use 
+permitting system 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+A54: Develop strategy for the phased 
+implementation of a national water 
+use permitting system 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+ 
+SO11b: 
+Compliance 
+monitoring and enforcement 
+strategy 
+developed 
+and 
+implemented 
+A55: Develop a compliance 
+monitoring and enforcement strategy 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 13 
+Systematize 
+monitoring and 
+information 
+management 
+SO13a: 
+Hydrological 
+and 
+environmental 
+monitoring 
+networks are developed 
+A61: Develop a plan for the 
+strengthening of hydrological and 
+environmental monitoring 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+SO13b: Institutional 
+frameworks for data and 
+information management are 
+improved 
+A63: Establish a national hydro-
+meteorological service 
+ 
+ 
+ 
+ 
+ 
+MoEWR 
+ 
+ 
+ 
+ 
+ 
+3: To improve the 
+provision of priority 
+water services 
+Sub-strategy 17 
+Improve water 
+security for 
+agriculture 
+SO17b: Water security for 
+rainfed 
+and 
+irrigated 
+agricultural is improved 
+A80: Develop improved system 
+management approaches to improve 
+water security for agriculture 
+ 
+ 
+ 
+ 
+ MoEWR, 
+MoAI  
+ 
+ 
+ 
+ 
+ 
+SO17c: 
+On-farm 
+irrigation 
+technologies and water use 
+management im-proved 
+A82: Develop strategy and plans to 
+introduce climate smart approaches, 
+improve water use efficiency and 
+minimise water losses within the 
+irrigation and agricultural sectors 
+ 
+ 
+ 
+ 
+ MoEWR, 
+MoAI
+=== PAGE 33 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+23 
+ 
+ 
+PHASE 2: BUILDING CAPACITY  
+Goal  
+Sub-Strategy  
+Strategic Objective  
+Action  
+Timeframe  
+Champion  
+Collaboration and Sector Support 
+2 
+0 
+2 
+1 
+2 
+0 
+2 
+2 
+2 
+0 
+2 
+3 
+2 
+0 
+2 
+4 
+2 
+0 
+2 
+5 
+Federal 
+Govt. 
+Federal 
+Member 
+State 
+District 
+Level  
+Private 
+Sector  
+Civil 
+Society 
+ICPs 
+A83: Support innovative and 
+alternative approaches towards 
+agriculture development that support 
+improved water use efficiency and 
+enable sector growth 
+ 
+ 
+ 
+ 
+ MoEWR, 
+MoAI 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 18 
+Improve water 
+security for livestock 
+& wildlife 
+SO18a: Water security for 
+livestock and wildlife sectors 
+is improved 
+A87: Develop improved system 
+management approaches to improve 
+water security for livestock and 
+wildlife management 
+ 
+ 
+ 
+ 
+ MoEWR, 
+MoL 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 19 
+Improve provision of 
+water and sanitation 
+services (WSS) 
+SO19a: 
+Sustainable 
+frameworks for the provision 
+of WSS is developed 
+A91: Develop improved WSS 
+monitoring and information exchange  
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+A92: Develop WSS delivery standards, 
+procedures and guiding regulations 
+ 
+ 
+ 
+ 
+ MoEWR 
+ 
+ 
+ 
+ 
+ 
+SO19b: 
+Delivery 
+of 
+sustainable and safe WSS is 
+improved 
+A96: Monitor and report on 
+achievement of WSS delivery 
+standards and adherence to 
+regulations 
+ 
+ 
+ 
+ 
+ MoEWR
+=== PAGE 34 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+24 
+ 
+3.3 
+Phase 3 – Driving Growth 
+This phase will be focused upon translating the efforts of the initial two phases into delivery impact.  
+During this phase priority infrastructure projects will be initiated and improvement in the levels of 
+water services to key social and economic sectors will be started.  During this phase improvements in 
+the levels of WSS will be realised in priority urban centres. Equally, improvements in priority 
+catchments will be initiated if not realised. These will result in improved water security for priority 
+agricultural projects as well as livestock and wildlife priorities.  These projects will be integrated in 
+approach and will further cement the cooperative government partnerships that have been fostered. 
+The longer-term efforts to ensure coordination across the different government ministries will start 
+to translate into alignment in policies and even key legislative instruments.  This will start to realise 
+alignment across the various sectors that will underpin ongoing and sustainable development 
+outcomes. 
+The core actions that have been identified and prioritised during Phase 3 include: 
+ 
+A 39:  Monitor implementation of planning instruments to support adaptive management 
+ 
+A46: Develop and implement national drought emergency response strategy and action plan 
+ 
+A83: Support innovative and alternative approaches towards agriculture development that 
+support improved water use efficiency and enable sector growth 
+ 
+A84: Introduction and application of modern irrigation technologies to avoid water loses 
+ 
+A85: Improve rainfed agriculture system through conjunctive water use and develop rainfed 
+water harvesting 
+ 
+A86: Develop agriculture water management and improve the drainage system 
+ 
+A87:  Develop improved system management approaches to improve water security for 
+livestock and wildlife management 
+ 
+A89:  Develop strategy and plans to introduce climate smart approaches, improve water use 
+efficiency and minimise water losses within the livestock and wildlife sectors 
+ 
+A93: Improve WSS delivery levels through enhanced private sector participation in rural and 
+urban water supply and sanitation services 
+ 
+SA99: Identify priority systems for improved ecosystem management and rehabilitation 
+ 
+SA100: Develop and implement plans for the management of prioritised ecological 
+infrastructure
+=== PAGE 35 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+25 
+ 
+Table ‎3-3:  Phase 3 Implementation Tables 
+PHASE 3: DRIVING GROWTH  
+Goal  
+Sub-Strategy  
+Strategic Objective  
+Action  
+Timeframe  
+Champion  
+Collaboration and Sector Support 
+2 
+0 
+2 
+1 
+2 
+0 
+2 
+2 
+2 
+0 
+2 
+3 
+2 
+0 
+2 
+4 
+2 
+0 
+2 
+5 
+Federal 
+Govt. 
+Federal 
+Member 
+State  
+District 
+Level  
+Private 
+Sector  
+Civil 
+Society 
+ICPs 
+2: To operationalise integrate 
+water resources management 
+Sub-strategy 9 
+Improve water sector 
+& integrated planning 
+ 
+SO9c:  Water sector planning 
+instruments at national and 
+federal state levels are 
+developed and implemented 
+A 39:  Monitor implementation of 
+planning instruments to support 
+adaptive management 
+ 
+ 
+ 
+ 
+ 
+MoEWR, 
+MoPIED 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 10 
+Plan and respond to 
+climate change and its 
+impacts on water 
+resources 
+management 
+SO10b: Flood and drought 
+risk management strategies 
+and plans developed 
+A46: Develop and implement 
+national drought emergency 
+response strategy and action plan 
+ 
+ 
+ 
+ 
+ 
+MoEWR, 
+MoHADM 
+ 
+ 
+ 
+ 
+ 
+ 
+3: To improve the provision of priority water services 
+ 
+ 
+Sub-strategy 17 
+Improve water security 
+for agriculture 
+SO17c: On-farm irrigation 
+technologies and water use 
+management improved 
+A83: Support innovative and 
+alternative approaches towards 
+agriculture development that 
+support improved water use 
+efficiency and enable sector growth 
+ 
+ 
+ 
+ 
+ 
+MoAI 
+ 
+ 
+ 
+ 
+ 
+ 
+A84: Introduction and application of 
+modern irrigation technologies to 
+avoid water loses 
+ 
+ 
+ 
+ 
+ 
+MoAI 
+ 
+ 
+ 
+ 
+ 
+ 
+SO17d: Dryland agriculture 
+developed and improved 
+A85: Improve rainfed agriculture 
+system through conjunctive water 
+use and develop rainfed water 
+harvesting 
+ 
+ 
+ 
+ 
+ 
+MoAI 
+ 
+ 
+ 
+ 
+ 
+ 
+A86: Develop agriculture water 
+management and improve the 
+drainage system 
+ 
+ 
+ 
+ 
+ 
+MoAI
+=== PAGE 36 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+26 
+ 
+PHASE 3: DRIVING GROWTH  
+Goal  
+Sub-Strategy  
+Strategic Objective  
+Action  
+Timeframe  
+Champion  
+Collaboration and Sector Support 
+2 
+0 
+2 
+1 
+2 
+0 
+2 
+2 
+2 
+0 
+2 
+3 
+2 
+0 
+2 
+4 
+2 
+0 
+2 
+5 
+Federal 
+Govt. 
+Federal 
+Member 
+State  
+District 
+Level  
+Private 
+Sector  
+Civil 
+Society 
+ICPs 
+Sub-strategy 18 
+Improve water security 
+for livestock & wildlife 
+SO18a:  Water security for 
+livestock and wildlife sectors 
+is improved 
+A87:  Develop improved system 
+management approaches to 
+improve water security for livestock 
+and wildlife management 
+ 
+ 
+ 
+ 
+ 
+MoL 
+ 
+ 
+ 
+ 
+ 
+ 
+A89:  Develop strategy and plans to 
+introduce climate smart 
+approaches, improve water use 
+efficiency and minimise water 
+losses within the livestock and 
+wildlife sectors 
+ 
+ 
+ 
+ 
+ 
+MoL 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 19 
+Improve provision of 
+water and sanitation 
+services (WSS) 
+SO19b: Delivery of 
+sustainable and safe WSS is 
+improved 
+A93: Improve WSS delivery levels 
+through enhanced private sector 
+participation in rural and urban 
+water supply and sanitation 
+services 
+ 
+ 
+ 
+ 
+ 
+MoEWR, 
+District  
+ 
+ 
+ 
+ 
+ 
+ 
+Sub-strategy 20 
+Enhance and develop 
+the provision of 
+ecosystem goods and 
+services 
+SO20b: Management strategy 
+for prioritised ecosystems and 
+ecological infrastructure is 
+developed 
+SA99: Identify priority systems for 
+improved ecosystem management 
+and rehabilitation 
+ 
+ 
+ 
+ 
+ 
+DoE 
+ 
+ 
+ 
+ 
+ 
+ 
+SA100: Develop and implement 
+plans for the management of 
+prioritised ecological infrastructure  
+ 
+ 
+ 
+ 
+DoE
+=== PAGE 37 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+27 
+ 
+ 
+DRIVING FLAGSHIP PROJECTS 
+4.
+4.1 
+Focusing delivery through Flagship Projects 
+With the three phases of NWRS implementation there is still so much to achieve, and a significant 
+amount of effort is required to drive this.  Whilst the MoEWR has large responsibilities for the NWRS 
+and its implementation, the NWRS requires a “whole government” response that will see other 
+Ministries leading certain aspects of the NWRS, with a considerable amount of coordination being 
+required. 
+As 
+noted 
+earlier, 
+experiences 
+across 
+the 
+continent are informative and help to guide an 
+approach 
+that 
+will 
+realise 
+progressive 
+implementation and successive impact for 
+Somalia and its citizens.  The six factors when 
+applied to the key priorities outlined above start 
+to provide not only the basis for putting the 
+Somali Government at the centre of efforts to 
+coordinate and facilitate projects, but in so doing 
+assists the Government to strengthen its 
+capacity, its systems and its intersectoral 
+coordination to realise impact (Figure ‎4-1). 
+Figure ‎4-1: Key factors to underpin focused NWRS 
+implementation  
+Using these key delivery factors, 13 flagship project charters have been outlined to kick-start the 
+implementation of the strategy. These flagship projects broadly align with the pillars of the NWRS 
+and are structured to support the phases of implementation as outlined below. 
+It is important to emphasise a number of key aspects about these Flagship projects: 
+ 
+Flagship Project 0:  This Flagship project is central to the implementation of the NWRS as this 
+project provides for the establishment and facilitation of a Coordination Committee that will 
+support and oversee projects that support the roll-out of the NWRS as well as provide the 
+bridging coordination between the water sector and other developmental sectors. Thus, 
+Flagship Project 0 supports all remaining Flagship Projects. 
+ 
+Flagship Project Charters: The projects are presented below as project charters that will later 
+require more detailed translation into project Terms of Reference. These Terms of Reference 
+will then provide a more rigorous breakdown of scope, deliverables, timelines and so forth.  
+The current charters introduce these projects and therefore aim to provide a broad 
+indication of the project scope, objectives, supporting activities, beneficiaries, lead 
+ministries, and timelines. 
+ 
+Lead Ministries:  While the MoEWR as water sector leader will be leading many of the 
+Flagship projects, there are a number where other Ministries will be required to take up this 
+responsibility noting the linkages to the specific sector.
+=== PAGE 38 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+28 
+ 
+4.2 
+Flagship Project Charters 
+ 
+NWRS FLAGSHIP PROJECT NO 0 
+Title: 
+Enhancing the government’s capacity to prepare, coordinate and implement water 
+sector projects. 
+Overview: 
+The government’s current capacity to provide the necessary strategic leadership and 
+coordination that enables effective water sector development is limited.  This flagship 
+programme is proposed to provide early additional professional capacity at the Ministry of 
+Energy and Water Resources (MoEWR), to provide support for an inter-ministerial 
+federal/state level coordination facility, and to develop and support a platform for 
+information collection, analysis and dissemination. This programme is seen as a “zero-phase 
+programme” as a prerequisite for the subsequent three NWRS roadmap phases to be 
+managed and implemented according to expectations in terms of delivery and timelines. The 
+coordination facility will provide a powerful mechanism to promote sector development 
+across Somalia, engaging key federal ministries and all member states.  
+Objectives: 
+ 
+Enhance the staff and institutional capacity of the MoEWR to initiate, prepare and 
+implement water projects. This includes capacity to negotiate with international donors 
+and organizations, other federal ministries, and state members government.  
+ 
+Establish an inter-ministerial federal/state level coordination facility to support the 
+initiation, preparation, and implementation of water projects. The facility will support all 
+water projects in Somalia on behalf of federal and state level governments. The facility 
+will be supported by a secretariat that consists of 2-3 full-time persons.  
+ 
+Launch a water sector information platform, where updated information about planned 
+and ongoing projects across Somalia is found and that directly supports coordination, 
+growth, and well-being.
+=== PAGE 39 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+29 
+ 
+ 
+Provide a full-time secretariat that will backstop the MoEWR in preparing for meetings, 
+in capturing and providing information, in following-up on decisions and in tracking 
+progress. The secretariat will work within MoEWR; working closely with staff and 
+facilitating coordination with other sectors and ministries. 
+Strategic NWRS activities include: 
+ 
+A6: Establish an interim management facility to oversee and monitor implementation of the NWRS 
+ 
+A7:  Establish an Intergovernmental working group to ensure effective coordination in the 
+implementation of the NWRS 
+ 
+A22: Establish inter-ministerial cooperation structures 
+ 
+A23: Establish inter-governmental cooperation structures 
+ 
+A32: Develop a water sector planning framework 
+ 
+A72: Ensure gender representation in sector processes, institutions, and committees 
+Beneficiaries: The water sector at large, as well as key sector Ministries, as this is part of the governance 
+structure for enhanced capacity to plan and implement water and development projects. The programme 
+will provide both federal and state government with the capacity to lead sector development and will 
+provide the donor and international community with support in ensuring that planned and ongoing projects 
+are well coordinated and implemented according to policy, plans and government priorities. 
+Lead Ministry:  MoEWR 
+Government counterparts: MoPIED, MoHADM, MoAI, MoL; DoE, FMS 
+Geographic coverage: National 
+Timeframe: 2021-2026; 5 years 
+Principle activities performed: 
+ 
+Develop Terms of Reference for coordination facility and secretariat, develop an inter-ministerial and 
+federal/state member government cooperative agreement. 
+ 
+Support the facility set-up and establishment including assessing staff needs, develop job descriptions, 
+determining staff costs, identifying individuals and appoint staff. Establish project office and determine 
+office running costs and provisioning requirements. 
+ 
+Provide support functions to enable roll-out of the NWRS and enhance cooperation. 
+ 
+Develop website and procedures for collecting and disseminating project information. Have one 
+secretariat member experienced in website management and how to add information. 
+Results: Government capacity – federal as well as state level – is profoundly enhanced in terms of providing 
+water sector leadership. Project implementation and inter-sectoral integration will be enhanced. Project 
+efficiency and effectiveness will be enhanced, with reporting and adaptive management being strengthened.  
+ 
+NWRS FLAGSHIP PROJECT NO 1 
+Title: 
+Developing a functional water sector governance framework 
+Overview: 
+Through a range of ongoing processes Somalia has been working to strengthen the existing 
+governance frameworks.  Within the water sector, the NWRS has provided strategic guidance 
+as to the array of interventions that are needed to strengthen the water sector and support 
+the implementation of NDP-9, however, stabilizing the broader governance frameworks will 
+be important to provide consolidated national intent and enable normative approaches 
+towards improved water sector management and development. This governance framework 
+will provide consistent and coherent direction to the water sector at national, Federal State 
+and local levels.  Key dimensions that require redress include the need to finalize the national
+=== PAGE 40 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+30 
+ 
+water act, to develop an overarching policy to guide water resource management and 
+development, and to develop an institutional framework that addresses uncertainties 
+regarding mandates, roles and responsibilities.   
+Objectives: 
+ Provide support to develop a national water sector policy that provides the basis for 
+legislation, regulation and the institutional frameworks that will implement these 
+governance instruments. 
+ Support the MoEWR to refine and finalise the national water act including developing core 
+legal principles, developing the revised legislation, and supporting the MoEWR in the 
+various participative processes to finalise the act. 
+ Support the MoEWR and Federal Member States to develop a clear institutional 
+framework that will enable the effective management and development of water ranging 
+from water resource management, water resource development and the provision of 
+water services.  This will include the development of an implementation plan and the 
+provision of support to transform existing institutions. 
+Strategic activities included: 
+ 
+A1: Develop a national water policy to direct sustainable water sector management and development 
+ 
+A2: Develop guidelines and protocols to support policy implementation 
+ 
+A3:  Undertake required legislative amendments 
+ 
+A4:  Enactment of the Water Bill 
+ 
+A8: Develop water sector governance principles 
+ 
+A9:  Develop institutional policies and strategies that set out the water sector institutional framework 
+ 
+A10:  Develop an institutional establishment and development plan that is phased, progressive and 
+innovative 
+ 
+A11:  Ensure and oversee the establishment of water sector institutions 
+ 
+A12:  Guide the delegation of water sector mandates to appropriate institutions at sub-national level 
+Beneficiaries: Broader water sector including government institutions, civil society and private sector actors 
+Lead Ministry:  MoEWR 
+Government counterparts: MoPIED; MoHADM, MoAI, MoL, DoE, FMS 
+Geographic coverage: National 
+Timeframe: 2021-2026 
+Principle activities performed: 
+ 
+Design a process to develop the policy and law, including the construction of task teams to provide 
+inputs into the development of each aspect of the policy and law.  This needs to include a broader 
+stakeholder engagement process to ensure participation at key process junctures. 
+ 
+Develop a suite of agreed upon governance principles that guide the development of national 
+instruments including policy, legislation and institutions. 
+ 
+Progressively develop new policy, law and institutional frameworks and provide support to the MoEWR 
+to take these through to finalisation. 
+ 
+Develop implementation plan to roll-out new institutional framework and provide support to the 
+MoEWR in the implementation of the institutional transformation plan. 
+Results: Clarity in the governance arrangements that will lead water sector management and development, 
+with improved institutional arrangements that will implement the national water policy and water act.
+=== PAGE 41 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+31 
+ 
+NWRS FLAGSHIP PROJECT NO 2 
+Title: 
+Undertaking organisational capacity building interventions to strengthen the MoEWR 
+at FGS and FMS levels 
+Overview: 
+The MoEWR is leading water sector management and development at a national level, in 
+close partnership with the FMS. The capacity of the MoEWR is limited and stretched and this 
+will impact the ability to ensure implementation of the NWRS. Whilst support will be sought 
+to underpin the coordination of actions across the government, there is still a significant 
+amount of technical interventions that require the MoEWR to drive. Developing the MoEWR’s 
+capabilities, capacity and competencies across key line functions will be essential to ensure 
+that water sector development is progressively and effectively delivered. This will need to 
+consider the prioritisation of interventions so that the capacitation takes place in an 
+appropriate, phased, and progressive manner. The focus of this programme will primarily be 
+on the MoEWR, while the capacity at FMS level is also of concern noting the importance of 
+the working partnership at Federal and State level. This will require this programme to 
+integrate interventions to support capacity building at both levels in the longer term. 
+Objectives: 
+ 
+Understand the progressive capability, capacity and competency requirements of the 
+MoEWR and water ministries at FMS level. 
+ 
+Provide a plan to progressively develop the capability, capacity and competency of the 
+MoEWR to technically support the implementation of the NWRS. 
+ 
+Support the MoEWR to ensure sustainable resourcing to ensure ongoing progress with 
+capacitation to underpin institutional development. 
+ 
+Undertake primary interventions to develop the required capabilities, capacity and 
+competencies including staffing, training as well as other interventions to support the 
+needed development. 
+ 
+Develop a longer term plan of interventions to transfer capacity building consistently to 
+FMS. 
+Strategic activities included: 
+ 
+A27: Undertake water sector capacity needs assessment 
+ 
+A28: Develop water sector capacity building framework and plan 
+ 
+A29: Implement priority aspects of the capacity building framework and plan 
+Beneficiaries: Federal government as well as broader water sector 
+Lead Ministry:  MoEWR 
+Government counterparts: MoPIED 
+Geographic coverage: National 
+Timeframe: 2021-2031; 5+5 years 
+Principle activities performed: 
+ 
+Undertake a skills audit and conduct a needs assessment for additional staffing, training and capacity 
+building. 
+ 
+Development of a capacity building strategy and implementation plan over short- and long-term 
+durations, including a monitoring and evaluation framework to track progress. 
+ 
+Develop and implement a resource mobilisation drive to ensure the capacity building strategy and plan 
+are adequately financed. 
+ 
+Develop and pursue partnerships for skills development and capacity building with best practice 
+institutions.
+=== PAGE 42 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+32 
+ 
+ 
+Design approaches to institutionalise training and capacity building (maintaining institutional memory). 
+ 
+Support the roll-out of the implementation plan. 
+ 
+Establish and maintain water sector knowledge sharing platforms. 
+Results: The MoEWR has strengthened its capabilities, capacity and competency to implement the NWRS in 
+a phased and progressive manner.  Water sector skills and capacity has broadly increased, new partnerships 
+for knowledge sharing and lessons learnt have developed, training and capacity building has been 
+institutionalised, and knowledge sharing platforms and information packages have been developed. 
+ 
+NWRS FLAGSHIP PROJECT NO 3 
+Title: 
+Bridging diversion: Engaging civil society to address the water crisis 
+Overview: 
+Somalia’s water crisis is linked to diversion and conflict between opposing groups. It is an 
+important step to utilise the water crisis itself and to generate a shared common interest that 
+enables sound, long-term sustainable water resources management to support development. 
+This is particularly so at local levels, having significant impacts on livelihoods. As such, a 
+solution must be found by bridging different interests and finding shared, win-win solutions 
+that support sustainable development and livelihoods. Diversions are linked to such aspects 
+as the clan-based system, gender inequality, conflicting land-use demands, political interests, 
+federal/state arrangements, and religious positions. Whilst there are efforts at the 
+government level to introduce improved governance arrangements, it is also important to 
+work at the more localised levels to unite people to find cooperative and sustainable 
+solutions to the range of water challenges that communities face.  
+Objectives: 
+ 
+Develop and establish a Somalia Civil Society Water Caucus that provides linkages 
+between national and local level water sector challenges and crises and provides a 
+conduit to support interventions at community levels; 
+ 
+Develop a an agreed-upon “minimum-agenda” for a shared water future in Somalia; 
+ 
+Define activities, roles and responsibilities, how to monitor progress, and provide conflict 
+resolution mechanisms;   
+ 
+Support the implementation of NWRS and linked Roadmap. 
+Strategic activities included: 
+ 
+A24: Develop an engagement strategy and plan that enables more active participation of stakeholders 
+at transboundary, national, federal state and catchment levels; 
+ 
+A25: Support and drive functional platforms for the engagement of stakeholders nationally, within 
+catchments and at local levels 
+ 
+A29: Implement priority aspects of the capacity building framework and plan 
+ 
+A30: Identify specific water sector interventions to diffuse and prevent conflict situations 
+ 
+A72: Ensure gender representation in sector processes, institutions, and committees 
+ 
+A74:  Capacity building plan to support the empowerment of women 
+ 
+A75:  Develop guidelines for the mainstreaming of gender and equity into water services delivery 
+Beneficiaries: National with a focus upon local level change. This is targeted as a basic building block in 
+easing and resolving various water crises. It will support equity, poverty reduction, and deliver growth and 
+the generation of jobs and opportunities.  
+Lead Ministry:  MoEWR 
+Government counterparts: MoIFAR, FMS 
+Geographic coverage: National
+=== PAGE 43 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+33 
+ 
+Timeframe: 2021-2031; 5+5 years 
+Principle activities performed: 
+ 
+Undertake a civil society situation assessment including identifying different groups and their agendas/ 
+positions. Arrange meetings and collect information. 
+ 
+Develop Terms of Reference for Somalia Civil Society Water Caucus as a platform for exchange, lesson 
+learning and focused implementation of the NWRS and Roadmap. Agree on activities/targets, 
+monitoring and conflict resolution.  Support the establishment and initial meetings of the Caucus. 
+ 
+Develop a strategic roadmap with roles and responsibilities attached. Link it with NWRS and 
+government policy and priorities.  
+ 
+Develop a programme approach that allows for post-conflict communication and meetings. 
+ 
+Provide platforms for trust building through experiential exchanges regarding the water crisis, water 
+management, and boundary conditions. Arrange study tours, meetings across the country, promote 
+awareness. 
+Results: Improved understanding of how to address local water challenges that support local development 
+and economic activities.  Conflict and disruptions are reduced through a common understanding of the need 
+for shared development and wellbeing.  
+ 
+NWRS FLAGSHIP PROJECT NO 4 
+Title: 
+Developing a sustainable water sector financing framework 
+Overview: 
+The Somalian water sector is dependent upon development support and humanitarian aid 
+from a range of international development partners. As such this financial support is provided 
+in many different and uncoordinated ways. Whilst some of this support uses the Somali 
+country systems, much aid does not and as such it is difficult for the government to 
+strategically guide how these financial resources are utilized to support national and state 
+level priorities.  At the same time there is a need to strengthen the governance arrangements 
+within the Somali government to ensure transparency and more effective coordination across 
+ministries. The implementation of the NWRS requires improved financial sustainability and 
+autonomy for the water sector.  Importantly, the ability of Somalia to recover from its history 
+of conflict, from recurrent natural disasters and the recent impact of the Covid-19 pandemic 
+the concepts that underpin “build back better” requires the country to deliver resilient, 
+sustainable and efficient recovery systems.  This requires funding and financing mechanism 
+that will underpin the ability of the government to ensure that priorities are financed, and 
+that the government demonstrates its ability ensure this process of reconstruction and 
+recovery is effective and efficient. 
+Objectives: 
+ 
+Develop a suite of financing principles that provide normative guidance as to how water 
+sector financing will be realised through a water sector financing framework and policy. 
+ 
+Provide a water sector funding and financing strategy. 
+ 
+Provide the basis for structured and sustainable resource mobilisation. 
+ 
+Support capacity building to ensure effective resource management and the 
+development of country systems. 
+Strategic activities included: 
+ 
+A13:  Develop water sector financing policy principles 
+ 
+A14:  Engage the water sector in developing a water sector financing policy 
+ 
+A17:  Develop a funding and resource mobilisation strategy
+=== PAGE 44 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+34 
+ 
+Beneficiaries: Federal government, FMS, broader water sector 
+Lead Ministry:  MoEWR 
+Government counterparts: MoPIED, MoF, FMS 
+Geographic coverage: National 
+Timeframe: 2021-2031 
+Principle activities performed: 
+ 
+Undertake a detailed assessment of the current water sector financing and funding arrangements, 
+existing funding and financing gaps, and needs to achieve the federal government’s ambition for the 
+water sector. 
+ 
+Develop water sector financing policy principles and engage the water sector in developing a water 
+sector financing policy. 
+ 
+Develop a water sector funding and financing strategy to support the implementation of key 
+developmental projects. 
+ 
+Support the Federal government to undertake resource mobilisation. 
+ 
+Support the government to strengthen country systems and improve governance systems. 
+Results: Improved understanding of the water sectors financial constraints and the development of 
+strategic interventions to address gaps and provide longer-term, more sustainable funding and financing to 
+support water sector development.  
+ 
+NWRS FLAGSHIP PROJECT NO 5 
+Title: 
+Establishing capacity in Somalia to provide education and professional technical 
+training for individuals and institutions and delivering applied research and academic 
+development on IWRM 
+Overview: 
+Given the dire need for trained professionals in IWRM/environmental management and 
+linked technical issues in Somalia there is a need to undertake a suite of interventions to 
+support the development of this new cohort of technical professionals.  This programme has 
+three goals. Firstly, the programme will undertake actions to build capacity within Somalia 
+focused on the needs of institutions and the broader water sector.  This implies to deliver 
+long-term academic IWRM BSc/MSc education and short-term professional and technical 
+water-linked training. This also requires targeted short-term support to enable government 
+ministries at federal and state levels to address capacity for identified roles and 
+responsibilities. Secondly, the programme will aim to deliver three batches of academic 
+students, with these students being linked / earmarked for internships at identified 
+institutions, thereby supporting longer term institutional development. Thirdly, this 
+programme will enable and support the preparation and implementation of applied research 
+in priority selected topics. 
+Objectives: 
+ 
+Establish a programme to deliver academic and professional training in IWRM and 
+related technical issues for individuals and institutions and undertake applied research in 
+priority selected topics in Somalia. 
+ 
+Provide professional training and targeted seminars for government staff. 
+ 
+Develop collaborative approaches with regional / global networks engaged in IWRM 
+capacity development and relevant research. 
+ 
+Undertake capacity development within institutions and the support the training of
+=== PAGE 45 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+35 
+ 
+students towards strengthening institutional capacity. 
+ 
+Initiate applied research and generate new knowledge and understanding for water, 
+environment, and development sectors in Somalia.   
+Strategic activities included: 
+ 
+A27: Undertake water sector capacity needs assessment 
+ 
+A28: Develop water sector capacity building framework and plan 
+ 
+A29: Implement priority aspects of the capacity building framework and plan  
+ 
+A40: Conduct scientific research and studies on climate change impacts on water sector nationally, 
+locally and for prioritised areas 
+ 
+A83: Support innovative and alternative approaches towards irrigation and agriculture development 
+that support improved water use efficiency and enable sector growth 
+Beneficiaries: Universities, vocational institutions, water sector professional bodies 
+Lead Ministries: MoE and MoEWR 
+Government counterparts: MoAI, MoHADM, DoE, FMS 
+Geographic coverage: National 
+Timeframe: 2021-2031; 5+5 years 
+Principle activities performed: 
+ 
+Undertake a situation assessment and needs assessment to establish training and skills development 
+requirements. 
+ 
+Establish a programmatic approach for supporting the delivery of academic and professional training in 
+IWRM and technical water issues. This includes development and accreditation of curricula, courses and 
+supporting materials, the design of interventions to train trainers, to support institutional capacitation, 
+and to provide online, web-based trainings. 
+ 
+Arrange and deliver capacity development for three batches of academic students. Provide professional 
+training based on demand and proactive assessments and deliver seminars for targeted government 
+and institutional staff.  
+ 
+Develop applied research in priority selected topics. This well deliver context appropriate solutions, 
+capacitated staff, and international collaboration.  
+ 
+Develop cooperation with regional and global networks and universities. 
+ 
+Assess future training and capacity development interventions to support ongoing improvements and 
+upscaling of the programme. 
+Results: Somalia has developed its own capacity to capacitate individuals and institutions in critical water 
+and environmental issues. There is an established programme that can provide for new subject focus areas, 
+enabling ongoing development to support the needs of the country whether individuals or institutions. 
+Institutional capacity has been strengthened. 
+ 
+NWRS FLAGSHIP PROJECT NO 6 
+Title: 
+Establishing a basis for transboundary basin management and negotiations 
+Overview: 
+Transboundary water resources in Somalia include surface water as well as groundwater and 
+these resources are of utmost importance to Somalia and its drive to develop. Agriculture 
+systems in the Jubba and Shabelle river basins, both originating in upstream Ethiopia, and 
+produce most of the food grown in Somalia. Likewise, Somalia shares transboundary aquifers 
+with Ethiopia and Kenya.  There is a need to ensure that the shared waters generate benefits, 
+support sustainable development, and well-being in all three countries. Developing
+=== PAGE 46 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+36 
+ 
+cooperative approaches to support this will be important to all riparian states. There is a need 
+therefore to initiate a range of interventions to support the development of these cooperative 
+relations, noting that these take time to develop through trust-building exchanges.  
+Objectives: 
+ 
+Develop an agreed upon programmatic approach to strengthening trust between the 
+three riparian states. 
+ 
+Develop a Somali perspective and policy principles on transboundary water management, 
+with a focus on regional development and the sharing of benefits. 
+ 
+Undertake a series of interventions to develop adequate capacity in basin management, 
+transboundary water management, and negotiation skills with Federal Ministries. 
+ 
+Provide support to the Federal Government to facilitate interventions with neighbouring 
+states for trust-building activities, to undertake background studies that build common 
+understanding, and provide a foundation for future cross-border discussions.   
+Strategic activities included: 
+ 
+A 20: Develop principles and policy for transboundary cooperation and basin management 
+ 
+A 21: Promote trust building activities towards transboundary basin management across the region 
+ 
+A 27: Undertake water sector capacity needs assessment 
+ 
+A 29: Implement priority aspects of the capacity building framework and plan 
+Beneficiaries: Federal government from the development of approaches to inform national policy and 
+principles.  Communities depending on water in the Jubba and Shabelle rivers and shared aquifers in south-
+east Ethiopia, eastern Kenya.  National benefits from improved water security in Jubba and Shabelle that 
+supports agriculture development. 
+Lead Ministry:  MoEWR 
+Government counterparts: MoFA, FMS.  
+Geographic coverage: National 
+Timeframe: 2021-2026 
+Principle activities performed: 
+ 
+Develop a programme of support that progressively enables engagement with partner states. 
+ 
+Develop policy principles that support effective transboundary engagement in shared basin and 
+aquifers. 
+ 
+Assess current human and institutional capacity in basin and transboundary water management, and 
+what future negotiations with neighbouring countries require. 
+ 
+Develop a suite of interventions to build capacity within the Federal Government and Member States to 
+build capacity and competencies to support transboundary processes and negotiations. 
+ 
+Approach neighbouring countries and jointly develop and undertake trust-building activities like study 
+tours, basin studies, training, and identify potential shared benefits in regional development. 
+ 
+Undertake discussions with neighbouring countries on how to initiate and conduct discussions about 
+transboundary waters and regional development. 
+ 
+Engage with regional structures to support improved regional development and to drive the 
+development of instruments that underpin transboundary agreements for basins and aquifers. 
+Results: Somalia has an agreed upon approach to strengthen transboundary basin and aquifer management. 
+Improved trust between neighbouring states provides the basis for the development of international 
+agreements for the management and development of transboundary water resources.
+=== PAGE 47 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+37 
+ 
+ 
+ 
+NWRS FLAGSHIP PROJECT NO 7 
+Title: 
+Establishing a monitoring and information management system 
+Overview: 
+The ability to make water sector decisions is strongly influenced by access to data and 
+information required to inform these decisions. The status of monitoring networks and the 
+management of data that is generated requires significant strengthening.  The programme 
+will establish a Water Information Management System for Somalia (WIMSS). This will 
+require a comprehensive, integrated system that includes data collection, data analysis and 
+the development of information knowledge products, that enables effective data and 
+information management and that supports dissemination of data, information and 
+knowledge products to stakeholders including government, water sector institutions, water 
+user, civil society, and private sector. This programme will also need to address the 
+institutional aspects related to the monitoring of climatic and hydrological aspects as well as 
+managing and maintaining the SWIMS. 
+Objectives: 
+ 
+Develop hydrological and environmental monitoring networks. 
+ 
+Improve institutional frameworks for data and information management. 
+ 
+Develop intergovernmental information management and decision support systems. 
+ 
+Provide demand driven and tailor-made water information services. 
+ 
+Establish and develop a modern, functioning hydro-meteorological offices, with the 
+necessary resourcing and systems.  
+Strategic activities included: 
+ 
+A 61: Develop a plan for the strengthening of hydrological and environmental monitoring 
+ 
+A 62: Recruit staff and build institutional capacity to support effective hydrological and climate 
+monitoring and data and information management 
+ 
+A 63: Establish a national hydro-meteorological service 
+ 
+A 65: Undertake a situation assessment, needs analysis and develop options for an IMS
+=== PAGE 48 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+38 
+ 
+ 
+A 66: Develop with key partners a strategy for IMS development and implementation 
+Beneficiaries: National water sector as well as other related Ministries including those responsible for 
+disaster risk management, for agriculture and irrigation and for livestock. Additionally, the donor community 
+in supporting the transition from emergency aid to long-term programmatic development and the private 
+sector in developing and providing cost-effective quality services.  
+Lead Ministry:  MoEWR 
+Government counterparts: MoHADM, MoAI, MoL, DoE, FMS 
+Geographic coverage: National 
+Timeframe: 2021-2031; 5+5 years 
+Principle activities performed: 
+ 
+Undertake three studies. Assess (i) existing hydrological and environmental monitoring and identify 
+gaps and opportunities for improvement, including deliveries by other ongoing or planned projects and 
+initiatives; (ii) water-linked data and information needs among key sector actors; and (iii) optional 
+management systems that exists in turning data into information, disseminating such information, and 
+turn information into actual, everyday planning and decision making. 
+ 
+Develop the SWIMS in conjunction with the ongoing institutional development processes as well as 
+working with key sector Ministries. 
+ 
+Develop a detailed organisational structure for the national hydro-metrological service centre which will 
+include mandate and purpose, roles and responsibilities, clear and assigned activities and processes, 
+and governance work processes. Part of this will also require understanding the capacity needs of the 
+centre and how this can be built / strengthened in a phased and progressive manner. 
+ 
+Conduct a capacity development and recruiting programme to identify, recruit and/or train staff 
+members. This activity will be ongoing once the service centre has been established as the institution 
+grows into its mandate.  
+ 
+Develop a programme document to identify longer-term technical assistance, and funding support 
+requirements to support long-term implementation and developmental improvements (for five years).  
+ 
+Develop close institutional cooperation with SWALIM, noting that there is an overlap in roles between 
+the centre and SWALIM. It is foreseen that SWALIM can provide much support to the establishment of 
+the centre.  
+Results: A comprehensive system for demand-driven water-linked data and information is developed and 
+institutionalised in Somalia, thereby providing a platform for support to a variety of sectors with tailor-
+made, timely, and applicable information. 
+ 
+NWRS FLAGSHIP PROJECT NO 8 
+Title: 
+Providing support to improve the understanding of water sector related disaster risks 
+in Somalia 
+Overview: 
+Disasters such as floods and droughts continue to wreak havoc in Somalia with compounded 
+effects being felt in urban and rural settings. The impacts of these disasters are significant as 
+community level with lives and livelihoods being threatened. Noting the drive to ensure 
+ongoing growth and development aligned to NDP-9, the need to improve disaster risk 
+reduction and enable effective and swift recovery is imperative. This programme will enable 
+quantification of current and future disasters in select urban areas and communities 
+accompanied with the design and implementation of appropriate interventions in response to 
+current and anticipated disasters.
+=== PAGE 49 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+39 
+ 
+Objectives: 
+ Improve the scientific research and studies to develop the understanding of climate 
+impacts on extreme events in Somalia. 
+ Strengthen the capacity building and training to improve the water sector’s climate 
+change and disaster risk reduction competencies. 
+ Develop medium to long-term risk reduction strategies to guide ongoing plans to improve 
+climate resilience and minimise disaster risk. 
+Strategic activities included: 
+ 
+A40:  Conduct scientific research and studies on climate change impacts on water sector nationally, 
+locally and for prioritised areas 
+ 
+A41:  Develop capacity building and training plans to strengthen water sector climate change and DRR 
+competencies 
+ 
+A43: Undertake flood and drought risk assessment studies to identify priority risks nationally 
+ 
+A44:  Develop long-term water sector disaster risk management strategy 
+Beneficiaries: Federal government and FMS in enabling improved planning and risk reduction, as well as 
+urban areas, and communities that will benefit from better planning reduced risk. 
+Lead Ministry:  MoHADM 
+Government counterparts: MoEWR, DoECC, FMS 
+Geographic coverage: National 
+Timeframe: 2021-2026 
+Principle activities performed: 
+ 
+Undertake study to strengthen the understanding of future climate change impacts on Somalia. 
+ 
+Identify immediate water sector disaster risk management interventions from national climate 
+strategies and policies e.g., NAPA, NDC, INC, climate policy etc, and ensure alignment. 
+ 
+Undertake vulnerability and impact assessment of floods and droughts on urban areas and local 
+communities to identify priorities and develop a short to medium term implementation plan; 
+ 
+Ensure alignment of DRM interventions with regional disaster risk reduction strategies and coordination 
+with the flood and drought programme. 
+ 
+Support current disaster risk reduction and management coordination mechanisms and platforms for 
+stakeholder engagement. 
+ 
+Contributing to scientific research and studies on climate change impacts on water sector nationally, 
+locally and for prioritised areas. 
+ 
+Develop a capacity building and skills enhancement programme for government officials to improve the 
+abilities to manage climate risk. 
+Results: Increased resilience to floods and droughts through improved quantification of impacts on floods 
+and droughts in select locations.  Strengthened capacity in government institutions and within prioritised 
+communities.  Better coordination of stakeholders and disaster response to minimise risk and support faster 
+recovery.
+=== PAGE 50 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+40 
+ 
+ 
+NWRS FLAGSHIP PROJECT NO 9 
+Title: 
+Undertaking prioritised interventions to improve urban water and sanitation services 
+Overview: 
+While the WASH Cluster has supported a range of interventions to improve the provision of 
+water and sanitation services (WSS), the challenges across Somalia to provide basic and 
+sustainable service are many. The WASH sector governance requires the cooperation and 
+engagement of several ministries, institutions and stakeholders to address WSS challenges. 
+The support of international partners is important. The provision of services is still largely in 
+the hands of private sector actors and sometimes communities.  There is a need to urgently 
+strengthen the role of government in ensuring that basic services are supplied according to 
+agreed-upon standards. This programme will enable a paradigm shift in sector service 
+delivery to ensure government oversight is progressively realised. This will be undertaken 
+through developing national approaches, standards and procedures and through the practical 
+implementation of these within three priority urban areas. This will provide the basis for 
+transferring these approaches to other important areas in a phased and progressive manner. 
+Objectives: 
+ 
+Develop a sustainable institutional framework and appropriate business models for the 
+provision of WSS services; 
+ 
+Develop WSS delivery standards, procedures and guiding regulations to support 
+improved service delivery and ensure consistent quality of service; 
+ 
+Identify three priority urban and community centres for support towards improved 
+service delivery, for transformation of service business models and for improved 
+regulation of standards; and  
+ 
+Develop a suite of guidelines and knowledge products based on lessons learned to 
+support other urban centres. 
+ 
+Build institutional capacity regarding approaches to strengthen WSS. 
+Strategic activities included:
+=== PAGE 51 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+41 
+ 
+ 
+A90:  Develop institutional frameworks and improved business models to support improved water 
+sanitation and services (WSS) delivery and regulation 
+ 
+A92:  Develop WSS delivery standards, procedures and guiding regulations 
+ 
+A93:  Improve service delivery levels through enhanced private sector participation in urban water 
+supply and sanitation services 
+ 
+A94:  Undertaken training interventions to support communities to engage with sustainable WSS 
+services 
+ 
+A95:  Develop consolidated suite of WSS guidelines to support effective service delivery  
+Beneficiaries: FMS and districts from improved governance approaches to service delivery, private water 
+companies that strengthen business models for more sustainable service provision, and citizens in three 
+priority urban centres from receiving improved standards of service. 
+Lead Ministry:  MoEWR 
+Government counterparts: MoPIED, FMS 
+Geographic coverage: National 
+Timeframe: 2021-2031; 5+5 years 
+Principle activities performed: 
+ 
+Develop improved institutional framework for the provision of WSS, aligned to the upcoming WASH 
+policy. 
+ 
+Develop standards and supporting guidelines and regulations for the provision of WSS. 
+ 
+Design and implement business models to provide more sustainable services that meet service delivery 
+standards. 
+ 
+Identify three priority areas for support to improved WSS delivery and map out privately owned WSS 
+companies with the intent of regularising activities. 
+ 
+Provide institutional and operational support to WSS companies in the identified priority areas. 
+ 
+Develop capacity of government institutions to oversee the delivery of WSS. 
+ 
+Capitalise and build on the Somalia WASH Cluster for WSS coordination and to exchange lessons 
+learned. 
+Results: Enhanced WSS sector services in urban areas, improved water supply and sanitation network and 
+infrastructure, increased information exchange and coordination, improved capacity and skills for WSS 
+services 
+ 
+NWRS FLAGSHIP PROJECT NO 10 
+Title: 
+Undertaking interventions to improve water security for the agriculture sector 
+Overview: 
+Food insecurity has been an issue of concern for many years within Somalia and is an area of 
+focus for NDP-9.  Crop production through irrigated and rain-fed agriculture remains 
+important to the ability to address concerns of food security. Additionally, the development 
+of irrigated agriculture is seen as being a key part of strengthening the national economy. 
+Larger scale commercial agriculture is based within the Juba and Shabelle river basins, but the 
+water security of these areas has been decreased by recurrent floods and the deterioration of 
+infrastructure including canals and barrages.  Improving infrastructure in the Juba and 
+Shabelle River basin is a priority to reduce the water related risks and to support irrigation 
+expansion. Importantly, rain-fed agriculture provides a significant contribution to national 
+food security and undertaking actions to strengthen the resilience of local rain-fed agriculture 
+will have national impact on livelihoods. Led by the MoAI, efforts to ensure improved water
+=== PAGE 52 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+42 
+ 
+use efficiency, reduced water losses, and introduction of climate smart, innovative and 
+alternative approaches for agricultural development will further improve the water security 
+of agriculture nationally. 
+Objectives: 
+ 
+Improve the water security of the agriculture sector in the Juba and Shabelle River basin 
+to support economic stability, livelihoods and food security; 
+ 
+Undertake infrastructure improvements that address floods and improve irrigation 
+supply to support agricultural expansion; 
+ 
+Develop dryland agriculture practices to enable expansion of agriculture that benefits 
+communities and improves food security; 
+ 
+Develop improved on-farm technologies and water use management to support further 
+agricultural expansions; and  
+ 
+Provide guidance for further agricultural developments across Somalia. 
+Strategic activities included: 
+ 
+A79:  Develop improved land management and conservation policies and guidelines 
+ 
+A80: Develop improved system management approaches to improve water security for irrigated 
+agriculture 
+ 
+A82: Develop strategy and plans to introduce climate smart approaches, improve water use efficiency 
+and minimise water losses within the irrigation and agricultural sectors 
+ 
+A83: Support innovative and alternative approaches towards agriculture development that support 
+improved water use efficiency and enable sector growth 
+ 
+A84: Introduction and application of modern irrigation technologies to avoid water loses 
+ 
+A85: Improve rainfed agriculture system through conjunctive water use and develop rainfed water 
+harvesting 
+ 
+A86: Develop agriculture water management and improve the drainage system 
+Beneficiaries: Small and large-scale farmers, private sector 
+Lead Ministries: MOEWR and MoAI 
+Government counterparts: MoPIED, DoE, FMS 
+Geographic coverage: Juba and Shabelle river basin, flood risk areas, dry-land areas 
+Timeframe: 2021-2031; 5+5 years 
+Principle activities performed: 
+ 
+Undertake an infrastructure needs assessment to support irrigated and rain-fed agriculture in the Juba 
+and Shabelle River basin. 
+ 
+Conduct a needs assessment for improvements needed to increase water use efficiency and reduce 
+water losses at on-farm level. This will build on on-going programmes for greater efficiency. 
+ 
+Identify innovative, climate-smart and alternative approaches for agricultural development. 
+Collaboration with research institutions will be key as well as with agricultural incubation hubs locally. 
+ 
+Develop and roll-out an implementation plan for the phased improvement of water security for 
+agriculture in the Juba and Shabelle River basin. 
+ 
+Design a holistic training programme for farmers to cover all aspects of agricultural development 
+including but not limited to value addition, business planning, access to markets, technology etc. 
+ 
+Working with MoEWR, MoAI and FMS undertake interventions to build local capacity in institutions as 
+well as that of local farmers. 
+ 
+Identify financing institutions that can provide financing for agricultural development at micro, medium 
+and large scale production. 
+ 
+Implement a rigorous monitoring and evaluation plan to track progress and scale of investment against
+=== PAGE 53 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+43 
+ 
+results. 
+Results: Increased agricultural productivity (quantity, quality, coverage), reduced water loss and increased 
+water use efficiency at farm level, adaptable and scalable climate-smart and innovative agricultural models. 
+ 
+NWRS FLAGSHIP PROJECT NO 11 
+Title: 
+Implementing a programme of support to address on-going  flooding in Beledweyne, 
+Jowhar Hirshabelle and Qardo City, Puntland 
+Overview: 
+Beledwyne is an important socio-economic hub being the largest city within the Hirshabelle 
+State. Whilst there is a long history of flooding, in recent years the recurrence of floods and 
+the magnitude of these floods has increased.  In 2019 about 68% of the city was flooded 
+having significant impacts on lives and livelihoods. Recent flash flooding in 2020 impacted 
+upon Qardo City, Puntland resulted in loss of life. There has been support from Ministries of 
+the Federal Government together with that of international partners.  Recent work supported 
+by the United Nations Peacebuilding Fund is informative and provides a useful basis for 
+further interventions. This programme will build upon this and other work undertaken to date 
+towards developing a suite of interventions that will reduce the risk to flooding and minimize 
+the socio-economic impact of these floods. 
+Objectives: 
+ 
+Develop a comprehensive flood management strategy and implementation plan for Juba 
+and Shabelle basin. 
+ 
+Support the roll-out of the implementation plan to improve risk reduction. 
+ 
+Develop improved practices to minimize flood risk. 
+ 
+Ensure coordination of actions with the Task Force on floods and droughts. 
+ 
+Undertake capacity building interventions within government institutions to strengthen 
+flood warning and response mechanisms as well as emergency response working with 
+key development partners such as the UN OCHA. 
+ 
+Undertake capacity building interventions with civil society groups to support in flood 
+response as well as enhancing community awareness. 
+ 
+Provide support to regional engagements with Ethiopia to address transboundary 
+aspects. 
+Strategic activities included: 
+ 
+A43: Undertake flood and drought risk assessment studies to identify priority risks nationally 
+ 
+A44:  Develop long-term water sector disaster risk management strategy 
+ 
+A45: Develop flood mitigation strategy together with flood mitigation infrastructure development plans 
+ 
+A48:  Monitor and oversee implementation of emergency response plans for floods and droughts 
+ 
+A49:  Establish Permanent Flood Task Force/ Committee to coordinate governmental action 
+Beneficiaries: Communities with Beledweyne, Hirshabelle. Communities within Qardo City, Puntland. 
+International counterparts 
+Lead Ministry:  MoEWR and MoHADM 
+Government counterparts: Hirshabelle State, Puntland. 
+Geographic coverage: Flood and drought prone areas across Somalia 
+Timeframe: 2021-2031; 5+5 years 
+Principle activities performed: 
+ 
+Undertake assessment of previous flood risk studies and their findings.
+=== PAGE 54 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+44 
+ 
+ 
+Develop stakeholder engagement plan and establish a cooperation and coordination task team. 
+ 
+Develop a long-term flood risk management strategy and implementation plan working in coordination 
+with floods and droughts Task Force. 
+ 
+Outline specific and priority response strategies and plans and provide support to implement these with 
+key local, national and international partners. 
+ 
+Undertake prioritised actions to develop needed infrastructure aligned to the developed plans. 
+ 
+Design and roll out capacity development for government officers, coordinating partners, civil society 
+groups, and communities focussing on technical and operational flood risk reduction in Beledwyne and 
+Qardo City. 
+ 
+Establish data and information sharing protocols for water sector data e.g. hydrological data that is 
+important for flood and drought monitoring and management. 
+ 
+Coordinate monitoring and reporting on progress and improvements in flood response. 
+ 
+Document lessons learned and develop guidance materials. 
+Results: Reduced flood risk and improved resilience to floods by communities within two urban centres. 
+Developed strategies and plans, as well as lessons learned to guide other regions of Somalia. Improved 
+capacity of government and community representatives, improved cooperation, and joint planning by 
+government ministries. 
+ 
+NWRS FLAGSHIP PROJECT NO 12 
+Title: 
+Undertaking key interventions to improve water security for livestock  
+Overview: 
+Livestock plays a pivotal role of the Somalian economy and livelihoods of Somalian 
+communities. Water shortages are critically important and with many parts of the country 
+being arid, the maintenance of water supply infrastructure and water points are critical to 
+maintaining herd health. Access to water for livestock herds continues to be a source of 
+conflict, particularly between sedentary farmers and agro-pastoralists who move their herds 
+from location to location. The programme will increase the infrastructure network for water 
+storage and supply for livestock through rehabilitation and development of infrastructure as 
+well as roll out interventions to increase water efficiency and reduce water losses for the 
+livestock sector.  The programme will also develop and implement interventions to address 
+the conflicts that arise over access to water. 
+Objectives: 
+ 
+Develop a water security strategy and implementation plan for livestock sector. 
+ 
+Undertake actions to rehabilitate and improve water security for livestock herds in two 
+prioritised areas. 
+ 
+Develop and implement capacity building interventions in prioritised areas to ensure 
+sustainable operations and maintenance of local water points. 
+ 
+Build capacity within local administrations to support communities, to ensure good 
+practice and report on water security issues, and to address conflicts that arise. 
+ 
+Develop capacity of civil society groups to support awareness and improved practice as 
+well as address conflict over access to water. 
+ 
+Develop guidance materials and knowledge products to support other regions of Somalia. 
+Strategic activities included: 
+ 
+A30: Identify specific water sector interventions to diffuse and prevent conflict situations 
+ 
+A87:  Develop improved system management approaches to improve water security for livestock 
+ 
+A88:  Assess infrastructure rehabilitation and development requirements for water storage and supply
+=== PAGE 55 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+45 
+ 
+for livestock management as inputs into national masterplan and investment framework 
+ 
+A89:  Develop strategy and plans to introduce climate smart approaches, improve water use efficiency, 
+and minimise water losses within the livestock sector 
+Beneficiaries: Communities; civil society groups, Agro-pastoralists, nomads across Somalia 
+Lead Ministries:  MoEWR and MoL 
+Government counterparts: DoECC, FMS 
+Geographic coverage: Two priority regions within Somalia, National impact 
+Timeframe: 2021-2026 
+Principle activities performed: 
+ 
+Establish a multi-sectoral platform for collective planning between sectors (water, agriculture, 
+community development etc.) to understand the developmental needs and design respective 
+interventions to address the identified needs. 
+ 
+Develop tools and implementation guidance to support the reduction of conflict over access to water. 
+ 
+Undertake an assessment of hotspots for overgrazing, poor land management and deforestation of 
+rangelands for priority intervention areas. 
+ 
+Undertake an assessment to identify two priority areas for infrastructure improvements e.g. livestock 
+water points, that needs rehabilitation and development for water storage and supply for livestock. 
+ 
+Rehabilitate and expand infrastructure to ensure sufficient water supplies for stock watering in two 
+priority areas; 
+o 
+Incorporate conjunctive use of surface and groundwater to increase livestock production and 
+reduce water insecurity risk. 
+o 
+Design and implement water conservation activities through improved catchment and 
+rangeland management interventions. 
+ 
+Conduct a capacity building and knowledge exchange programme to support and disseminate 
+information on improved practice and to reduce current and future conflict in the priority areas. 
+ 
+Provide a platform for civil society and private sector to support government to drive new approaches 
+and build the capacity needed. 
+ 
+Develop guidance materials based on lessons learned. 
+Results: Resilience of communities, agro-pastoralists and nomads is increased, rehabilitated, and improved 
+infrastructure for livestock, strengthened capacity at community and local levels, guidance materials 
+developed to support other areas of Somalia. 
+ 
+4.3 
+Principles that underpin the Flagship Projects 
+The Flagship projects will provide important support in the process of developing improved 
+approaches to governance and strengthening the national drive towards growth and development, 
+and as such the drive towards action needs to be underpinned by core principles and values.  These 
+are in many instances specific and normative in nature and as such guide the objectives and actions 
+that are required to implement the Flagship projects.  These key principles include: 
+ 
+Leadership:  The NWRS is a national strategy that impacts on multiple sectors and as such 
+key projects will be led by Ministries that are responsible for these sectors, such as MoEWR, 
+MoAI, MoHADM and MOL.
+=== PAGE 56 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+46 
+ 
+ 
+Gender and equity:  Ensuring that all citizens, regardless of gender, age or disability should 
+have access to water for their basic human needs and for broader developmental purposes. 
+Gender and equity considerations will be central to all projects and the way in which these 
+projects are undertaken. 
+ 
+Good governance:  The establishment and development of Somali-led governance systems 
+that support effective management and accountability will be important in supporting the 
+strengthening of the Somali government over time. 
+ 
+Public interest:  The management of resources will be undertaken using principles and 
+approaches to ensure the broader public interest. 
+ 
+Transparency:  Developing open and communicative approaches regarding process and 
+progress in project implementation will ensure that all key parties have access to data and 
+information that can inform decision making. 
+ 
+Efficiency and effectiveness:  Projects should be undertaken to ensure effective delivery 
+using resources efficiently. 
+ 
+Stakeholder engagement:  The engagement of stakeholders is important to the effective 
+implementation of projects and recognises that this engagement involves various levels of 
+participation ranging from informing through to consulting and collaborating. 
+ 
+Monitoring and reporting:  The management of projects will ensure that implementation 
+will be monitored, supported by regular reporting.  This will support adaptive management 
+approaches and will ensure that project objectives are achieved. 
+ 
+Phased implementation:  Many of the Flagship projects identify potentially second and 
+follow up phases of work that serve to further entrench delivery.  This enables the project to 
+assess delivery to date and to entrench improved approaches during follow-up phases.
+=== PAGE 57 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+47 
+ 
+ FAST TRACKING IMPLEMENTATION 
+5.
+Initiating and driving complex strategies can be daunting and require a step-by-step approach and 
+need to be understood through the project management lens of project initiation, project planning 
+and project execution. While many of the core activities are to be led by the MoEWR, the 
+intergovernmental nature of this undertaking will require that Ministries cooperate with each other 
+in transparent and regular manner from the start.  Equally, engaging the support of key international 
+cooperating partners as early as possible will be essential to get key pathfinder Flagship projects 
+moving as quickly as possible. 
+Key steps to fast-track implementation include: 
+ 
+MoEWR Senior Management Alignment:  In preparing for the presentation of the strategy 
+to Cabinet, there is opportunity to create clear alignment within the senior management of 
+the MoEWR. This is an important first step to fully understand not only the NWRS but also 
+the requirements of the Ministry as sector leader to drive the implementation of the NWRS.  
+It needs to be noted that the NWRS implementation becomes the core guiding instrument 
+for MoEWR business into the future.  In this regard, it will be important to outline the 
+operational management arrangements within the MoEWR for leading the NWRS 
+implementation, noting that the Minister and the DG will act as the “project sponsors”.  It 
+will be important to delegate this responsibility to take the operational lead and outline the 
+reporting requirements to support this and keep the Minister and DG abreast of progress. 
+ 
+Presentation to Cabinet:  A key step for all NWRS instruments is to obtain Cabinet approval, 
+noting the implications of this for Government and the commitment of staff to realise its 
+implementation.  The Cabinet will provide approval of the cooperative, intergovernmental 
+approach that is required and this is a key step in ensuring that all Ministries are aware that 
+whilst the MoEWR is the water sector leader, that several Ministries will have key leading 
+roles where water interfaces with their sectors.  Approval by Cabinet will then enable the 
+formal launch of the NWRS. 
+ 
+Launch of the NWRS:  The official launch of the strategy provides the opportunity to not only 
+ensure that a broader suite of stakeholders is aware that the NWRS is to be officially 
+implemented, but importantly starts to create cohesion around the need to support 
+implementation.  This cohesion can be understood through a range of lenses and it is 
+important to potentially unpack these to guide the launch process.  Suggested options 
+include: 
+o National launch:  This provides the opportunity pull together a wide array of 
+stakeholders and create a broader awareness of the initiation of the strategy and its 
+implementation. 
+o Federal State launch:  The impacts of Covid-19 may potentially prohibit this, but the 
+launch of the strategy in each FMS provides access to the launch and creates 
+awareness with a more localised suite of stakeholders.  This will have profound 
+impact of the implementation of the strategy within each FMS.  Through this launch
+=== PAGE 58 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+48 
+ 
+process it will be important to outline the coordination platforms to be established 
+within each FMS. 
+o International Partner launch:  While many of the ICP’s would have been engaged at 
+the national launch, it will be important to have a more detailed implementation 
+discussion with these partners. The ICPs provide critically important technical and 
+financial resources that will aid in driving the Flagship Projects, as well as other 
+supporting interventions and as such it will be an important step to start creating 
+synergy in effort.  As the strategy is placing much emphasis on the FGS to take the 
+lead on coordination and leadership this launch will be the first of a number of more 
+focused discussions to create aligned support from the ICPs. 
+ 
+Initiate Flagship Project 0:  A key step will be to rapidly initiate this Flagship Project focused 
+upon the coordination of interventions and projects to implement the NWRS.  This 
+intergovernmental committee will be an operational committee that will ensure oversight of 
+NWRS activities as well as the interfacing initiatives that have impact.  As such the committee 
+members will ensure coordination across a significant range of governmental projects.  This 
+is in recognition of the centrality of water to many aspects of socio-economic development 
+and the delivery of NDP-9.  As such, the principles outlined for the Flagship Projects are 
+critically important to adhere to.  Lastly, the introduction of a Secretariat to support this 
+coordination committee will be important in enabling the Ministries to focus on the technical 
+dimensions of ensuring effective implementation, with the Secretariat assisting in ensuring 
+the coordination process is effectively coordinated.  The establishment of this committee will 
+require: 
+o Terms of Reference:  A clear Terms of Reference for the committee will need to be 
+developed and presented at the first meeting.  This will need to outline aspects such 
+as core functions and responsibilities, membership, quorum, meeting frequency, 
+reporting requirements and so forth. 
+o Commitment of Staff:  The efficacy of this committee will be dependent upon 
+consistent membership and participation by all Ministries.  This consistency will be 
+essential is establishing alignment between the various sector Ministries and as such 
+members should be co-opted onto this committee for a minimum of two years. 
+o Commitment of leadership:  The support of senior ministerial leadership for this 
+committee is important in providing the mandate to ensure implementation.  Whilst 
+it is expected that some decisions for time-to-time will require the approval of the 
+DGs, wherever possible this committee should be mandated to ensure ongoing 
+delivery and progress. 
+ 
+Initiating the Flagship Projects:  Once the coordination committee is in place, the 
+committee’s first order of business will be to drive the remaining Flagship Projects.  These 
+could be phased in various ways, but the support that ICPs provide for these projects may 
+also impact on their roll-out.  At this stage, these projects are presented as high-level project 
+charters and do require translating into more detail Terms of Reference.  This may be
+=== PAGE 59 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+49 
+ 
+influenced by the way in which support is accrued i.e a specific ICP may support a Flagship 
+Project in part.  This will therefore require a mobilisation drive to assess the support that can 
+be garnered for each Project.  This will then guide the Coordination Committee in developing 
+an execution plan against which progress can be monitored.  Potential phasing of the 
+projects is outlined in Figure ‎5-1. 
+ 
+Figure ‎5-1:  Potential phasing for the initiation of Flagship Projects 
+ 
+ 
+Monitoring & Evaluating:  As the projects start to be initiated it will be imperative to put in 
+place a monitoring and evaluation framework supported by a dashboard that enables the 
+Coordination Committee (under Flagship Project 0) to track progress and guide adaptively.  
+This will enable ongoing reporting to Cabinet on progress as well as to ICPs who are 
+supporting specific interventions. Equally, important will be the development of a web-based 
+platform to communicate progress and give access to information and knowledge products 
+that share lessons learned.
+=== PAGE 60 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+50 
+ 
+ REFERENCES 
+6.
+AFDB. (2016). Improving Access to Water and Saitation in Rural Somalia: Environmental and Social 
+Management Plan. AFDB. 
+AfDB. (2020). African Economic Outlook.  
+African Development Bank. (2016). Environmetal and Social management Plan - Improving Access to 
+Water and Sanitation in Rural Somalia.  
+Alexander, L. (2020, June 16). 7 Facts About Sanitation in Somalia. Retrieved from The Borgen 
+Project: https://borgenproject.org/tag/10-facts-about-sanitation-in-somalia/ 
+Basnyat, D. (2007). Water Resources of Somalia; Technical Report No W–11. Nairobi: FAO-SWALIM. 
+Chemonics International. (2017). Policy Brief: Water Demand Management in the Limpopo River 
+Basin. USAID. 
+Development Initiatives. (2019). Towards an improved understanding of vulnerability and resilience in 
+Somalia.  
+Embassy of Sweden. (2019). Scoping Study for Improvement of Water and Sanitation in Somalia. 
+Nairobi: Embassy of Sweden, Somalia Section. 
+FAO Aquastat. (2016). AQUASTAT Main Database. Retrieved November 28, 2020, from Food and 
+Agriculture Organization of the United Nations: 
+http://www.fao.org/nr/water/aquastat/data/query/results.html  
+FAO SWALIM. (2020). Climate. Retrieved September 21, 2020, from 
+http://www.faoswalim.org/water/climate-somalia 
+FAO, SWALIM. (2014, September). Water Resources. Retrieved from Groundwater: 
+https://www.faoswalim.org/water/water-resources/ground-water 
+FAO, SWALIM. (2020). The Juba and Shabelle Rivers and Their Importance to Somalia. Retrieved June 
+3, 2020, from http://www.faoswalim.org/article/juba-and-shabelle-rivers-and-their-
+importance-somalia 
+Federal Directorate of Environment and Climate Change. (2020). Somalia National Climate Change 
+Policy. Federal Republic of Somalia. 
+Federal Government of Somalia. (2017). National Development Plan 2017 - 2019.  
+Federal Government of Somalia. (2017). Somalia National Development Plan, 2017-2019. Mogadishu. 
+Federal Government of Somalia. (2019). National Environment Policy. Directorate of Environment. 
+Federal Government of Somalia. (2019). Somalia National Development Plan 2020-2024: NDP-9 The 
+Path to a Just, Stable and Prosperous Somalia. Mogadishu,: Federal Government of Somalia.
+=== PAGE 61 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+51 
+ 
+Federal Government of Somalia. (2020a). Somalia 2019 Floods Impact and Needs Assessment. World 
+Bank. 
+Federal Republic of Somalia. (2013). National Adaptation Programme of Action on Climate Change 
+(NAPA). Mogadishu: Ministry of National Resources. 
+Federal Republic of Somalia. (2017a). The National Youth Policy of the Federal Republic of Somalia.  
+FGS. (2015). Somalia's Intended Nationally Determined Contributios (INDC). Federal Government of 
+Somalia (FGS). 
+Geology.com. (2007). Map of Somalia. Retrieved from Geology.com. 
+Global Water Partnership Technical Committee. (2004). Catalyzing Change: A handbook for 
+developing integrated water resources management (IWRM) and water efficiency strategies. 
+GWP. 
+Global Water Partnership Technical Committee. (2004). Tools for keeping IWRM strategic planning 
+on Track. GWP. 
+Hallegate, S., Rentschler, J., & Walsh, B. (2018). Building Back Better: Achieving resilience through 
+stronger, faster, and more inclusive post-disaster reconstruction. Washington DC: Global 
+Facility for Disaster Reduction and Recovery, The World Bank. 
+Hussein, H., Conker, A., & Grandi, M. (2020). Small is beautiful but not trendy: Understanding the 
+allure of big hydraulic works in the Euphrates-Tigris and Nile waterscapes. Mediterr. Politics, 
+1-24. 
+IMF. (2020). Enhanced heavily-indebted poor countries (HIPC) initiative - preliminary document. IMF. 
+Jama, A. A., & Mourad, K. A. (2019, February 11). Water Services Sustainability: Institutional 
+Arrangements and Shared Responsibilities. Sustainability, p. 15. 
+Mabhaudhi, T., Chibarabada, T., & Modi, A. (2016). Water-Food-Nutrition-Health Nexus: Linking 
+Water to Improving Food, Nutrition and Health in Sub-Saharan Africa. International Journal 
+of Environmental Research and Public Health, 13(107). 
+Ministry of Agriculture and Irrigation. (2019). National Irrigation Policy. Federal Government of 
+Somalia. 
+Ministry of Livestock Forestry and Range. (2019). Somalia Livestock Sector Development Strategy. 
+Federal Government of Somalia. 
+Ministry of Planning, Investment, and Economic Development. (2020). Aid Flows in Somalia.  
+Ministry of Planning, Investment, and Economic Development. (2020). Somalia National 
+Development Plan 2020 to 2024.
+=== PAGE 62 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+52 
+ 
+Mourad, K. A. (2020). A Water Compact for Sustainable Water Management. Sustainability, 12(7339), 
+1-18. 
+OCHA. (n.d.). Somalia WASH Cluster. Retrieved from 
+https://www.humanitarianresponse.info/fr/operations/somalia/somalia-wash-
+cluster#:~:text=The%20Somalia%20WASH%20Cluster%20brings,effective%20and%20sustain
+able%20humanitarian%20action. 
+Reliefweb. (2020). Somali WASH Cluster Dashboard. Retrieved from 
+https://reliefweb.int/sites/reliefweb.%20int/files/resources/somali_wash_cluster_dashboar
+d_for_june_2020.pd 
+Somalia WASH Cluster. (2019). Somalia Water, Sanitation, and Hygiene Assessment Report. UNICEF, 
+REACH. 
+SWALIM. (n.d.). Seasonal Average Rainfall dduring Gu and Deye Seasons. Mogadishu: SWALIM. 
+The New Humanitarian. (2010). Fight over water, pasture sends hundreds fleeing. Retrieved March 2, 
+2021, from The New Humanitarian: 
+https://www.thenewhumanitarian.org/report/91034/somalia-fight-over-water-pasture-
+sends-hundreds-fleeing 
+The World Bank. (2014, August 12). Al-Shabaab's 'water terrorism' is yielding results and tragedy in 
+Somalia's civil war. Retrieved March 2, 2021, from Conflict: 
+https://www.pri.org/stories/2014-08-08/how-al-shabaab-using-water-tool-terrorism 
+UN Environment. (2018). Progress on integrated water resources management. Global baseline for 
+SDG 6, Indicator 6.5.1: degree of IWRM implementation. UNEP. 
+UNDP. (2019). Human Development Report 2019. New York. 
+UNDP. (2021, January 21). UNDP Climate Change Adaptation. Retrieved from Somalia Climate 
+Ambition NDC: https://www.adaptation-undp.org/somalia-climate-ambition-NDC 
+UNHCR. (2020). Conflict and heavy floods force tens of thousands of people to flee their homes in 
+Somalia, amidst COVID-19 threat. Retrieved November 25, 2020, from 
+https://www.unhcr.org/news/briefing/2020/5/5eb50d2d4/conflict-heavy-floods-force-tens-
+thousands-people-flee-homes-somalia-amidst.html 
+UNICEF. (2020). Reimagining our Future: Building Back Better from COVID-19. New York: UNICEF. 
+United Nations. (2014). Report of the Intergovernmental Committee of Experts on Sustainable 
+Development Financing. New York: United Nations. 
+United Nations Assistance Mission in Somalia. (2017). A New Partnership for Somalia for Peace, 
+Stability, and Prosperity - A Framework for Mutual Accountability and Accountable Progress. 
+London Conference, Somalia.
+=== PAGE 63 ===
+Somalia National Water Resource Strategy 2021- 2025:  A Roadmap to Realisation 
+August 2021 
+ 
+Sustainable, equitable and secure water for national unity, growth and well-being, for all and in harmony with 
+nature 
+53 
+ 
+United Nations Department of Ecconomic and Social Affairs. (2019). World Population Prospects. 
+https://population.un.org/wpp/Graphs/DemographicProfiles/Line/706: United Nations. 
+WHO UNICEF. (2017). Household Data Somalia. Retrieved September 21, 2020, from 
+https://washdata.org/data/household#!/table?geo0=country&geo1=SOM 
+World Bank. (2020). Impact of COVID-19: Policies to Manage the Crisis and Strengthen Economic 
+Recovery. World Bank Group, Federal Republic of Somalia. 
+World Bank. (2020, August 25). Renewable Internal Freshwater Resources per Capita (cubic meters) 
+1962-2014. Retrieved from data.worldbank.org: 
+https://data.worldbank.org/indicator/er.h2o.intr.pc 
+World Bank Group. (2011). Delivering Water Supply and Sanitation in Fragile States: The transition 
+from emergency to development.  
+World Economic Forum. (2019). Global Risks Report 2019: 14th Edition. Geneva: World Economic 
+Forum. 
+WWF, AfDB. (2012). Africa Ecological Footprint Report: Green Infrastructure for Africa's Ecological 
+Security. WWF – World Wide Fund for Nature, AfDB - African Development Bank.
+=== PAGE 64 ===
+MINISTRY OF ENERGY
+AND WATER RESOURCES

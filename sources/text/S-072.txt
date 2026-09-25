@@ -1,0 +1,2784 @@
+=== PAGE 1 ===
+ 
+1 
+ 
+Somalia Urban Resilience Project Phase II, NAGAAD (P170922)  
+Mid-Term Review (MTR) Mission 
+October 29th – November 17th, 2024 
+AIDE MEMOIRE 
+ 
+I. 
+INTRODUCTION  
+ 
+1. 
+A World Bank team1 conducted a Mid-Term Review from October 29th – November 17th, 
+2024, in Nairobi, Garowe, and virtually. The main objectives: (i) to assess project design and 
+implementation progress towards achieving the Project Development Objectives; (ii) discuss 
+detailed work plans, institutional arrangements, progress on the results framework, and 
+disbursement targets; (iii) review fiduciary and environmental and social framework (ESF) 
+compliance; (iv) agree on course corrections and next steps for improving project performance; and 
+(v) discussion with Hargeisa city. Additionally, conduct technical discussions on the ongoing 
+preparatory diagnostics for the proposed Somalia Informal Settlements Upgrading Project. 
+ 
+2. 
+The team would like to thank the Minister, State Minister, and Director General (DG) of 
+the federal Ministry of Public Works, Reconstruction and Housing (MPWRH), Federal State 
+Minister MPWRH, Mayors from participating cities, Project Coordination Unit (PCU), Project 
+Implementation Units (PIUs) of participating cities, United Nations Office for Project Services 
+(UNOPS), and International Organization for Migration (IOM), representatives from the European 
+Union (EU), Germany Kreditanstalt für Wiederaufbau (KfW), and Foreign, Commonwealth, and 
+Development Office, UK (FCDO). This Aide Memoire summarizes the key findings, 
+recommendations, and agreements reached during the MTR. Table 1 shows key project data. As 
+agreed during the meetings with the Government, this Aide Memoire is classified as an official 
+document as required by the World Bank Access to Information Policy. 
+  
+Table 1. Key project data 
+Board Date 
+December 2019 
+Effectiveness 
+March 2020 
+Additional Financings (AFs) 
+AF1US$21.5M – June ‘22, Effective July ‘22 
+AF2 US$50M – Approved Jan ’23, Effective Apr ‘23 
+AF3 US$50M – Approved May ‘24, Effective Aug ‘24 
+IDA and MPF TF 
+IDA: US$ 160M; MPF: US$ 93.5M 
+Total: US$253.5 million 
+Total Disbursement as at MTR 
+IDA: US$ 71.41M (44%); MPF: US$50.76M (54%); 
+Total: 122.17 (48%) 
+Total Commitments as at MTR 
+US$152M (60%) of total project allocation 
+Expected Total Disbursement -Dec’25 
+US$194M 
+Project Development Objective Rating 
+Satisfactory – remains the same as previous mission 
+Implementation Progress Rating 
+Satisfactory – upgraded from Moderately Satisfactory 
+Closing Date 
+December 31, 2026 
+ 
+1 The Mission comprised: Nandya Thalyta Yuwono (Sr. Urban Specialist, Task Team Leader [TTL]) and Benjamin Kushner (DRM Specialist/Co-TTL), 
+Soraya Goga (Lead Urban Specialist), Samuel Mbachia (Engineer Consultant), Stephen Amayo (Sr. Financial Management Specialist), Francis Muthuiya 
+(Sr. Procurement Specialist), Abdirahman Zeila (Sr. Environment Specialist), Jacinta Murunga (Social Development Specialist), Samantha Wijesundera 
+(Engineer, Consultant), Nisha Pinho (WFA, Finance Analyst), Miguel De Corral (Sr. Operations Officer), Adam Diehl (Sr. Transport Specialist), Melody 
+Benavidez (Urban Resilience Consultant), Sarah Cramer (M&E Consultant), Fathi Egal (Consultant), Nancy Muthoni (Team Assistants).  
+  
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+=== PAGE 2 ===
+ 
+2 
+ 
+ 
+ 
+II. 
+KEY AREAS FOR ATTENTION 
+ 
+3. 
+Accelerating project implementation. With current project closing date of December 31, 
+2026, the mission identified actions needed for expediting physical progress, particularly in 
+Dhusamereb, Beledweyne, and Mogadishu. For Mogadishu, roads contracts will be awarded by 
+December 2024. Beledweyne and Dhusamareb have initiated procurement process and will award 
+contract for their first construction packages by February 2025. Key actions include monthly check-
+ins with each city and UNOPS and updating the Management Information System (MIS) on 
+progress of activities in each city. Third party monitoring will commence in June 2025 for semi-
+annual continuous activity moving forward.  
+ 
+4. 
+Ensure timely payments and accelerating disbursement. As the project approaches its 
+closing date in two years’ time, disbursement stands at US$122.03 million or around 48%, and 
+around 60% committed. Projected disbursement between December 2024 and December 2025 
+approximately US$65 million, and payments ready for submission to the Bank by December 2024 
+stands at US$8 million. The mission noted there was payment delay in Garowe, Puntland for 
+UNOPS. This issue was resolved during the mission. For future payments, similar issue may arise. 
+The team recommends for the government led by MPWRH to make an agreement with Puntland 
+EAFS for way forward to ensure timely payment. It was agreed during the mission that the PCU 
+FM specialist will facilitate monthly check-in with each PIU FM specialist, to ensure timely 
+submission of payments.  
+ 
+5. 
+Strengthening contract management. Contract management remains an issue. To bolster 
+the PIUs capacity around contract management a training was held for PCU and PIUs, prior to the 
+MTR. A new mitigation plan was agreed during the mission, which will include joint contract 
+management plans and contract registers between the project teams and UNOPS to ensure parties 
+meet their obligations. The PCU will continue to convene monthly ‘check-ins’ with each PIU and 
+UNOPS to review progress, which will also be informed by monthly progress reports and in the 
+Management Information System (MIS).  
+ 
+6. 
+Building institutional capacity for sustainability. The mission highlighted the importance 
+of further building the capacity at multiple levels of government to support delivery of municipal 
+services and for sustainability of investments initiated under the project. This includes federal level 
+MPWRH and federal member state (FMS) level, although not overtaking the implementation 
+function of the municipal governments.  
+ 
+o Capacity building for FGS and FMS MPWRH will be a joint effort with the Somalia 
+Horn of Africa Infrastructure Integration Project (SHIIP) and mobilizing other resources, 
+such as the Programmatic Analytical and Advisory Services (PASA) Livable Cities and 
+Disaster Resilience Platform.  
+o Capacity building for municipal staff. Participating cities through the PIU will prepare a 
+proposal for targeted capacity building for operations and maintenance for municipal staff 
+and FMS MPWRH engineers, as well as proposed list of equipment and/or tools needed for 
+O&M. PCU will facilitate consultation process with FGS and FMS MPWRH for the 
+proposed capacity building need. The first consultation will be in the second week of 
+December as part of the agenda for monthly check-in.  
+o Capacity building for PCU and PIUs. The mission noted there is a need for strengthening 
+communications and capacity of PCU and PIUs on project management. Team building and
+=== PAGE 3 ===
+ 
+3 
+ 
+targeted capacity building need will be discussed in the next monthly check-in with the 
+Bank. In person team building for PCU and PIUs will be scheduled for the last week of 
+January 2025.  
+ 
+7. 
+Completion of Component 4. Urban Forced Displacement and drought response 
+activities by IOM. This component has been successfully completed. It was discussed during the 
+mission that IOM will act on design issue with Baidoa temporary shelter during the Defect Liability 
+Period (DLP). In addition, IOM will provide clear timeline for data sharing with the MPWRH by 
+using similar process as Baxnaano project by December 19, 2024. This will include agreement to 
+have additional agreement with the MPWRH on data sharing. As agreed during the mission, 
+submission of the final report for the overall activities will be submitted to the MPWRH through 
+the PCU by December 31, 2024. 
+ 
+8. 
+Potential of project restructuring to add Hargeisa. During the MTR mission, the team 
+noted that a request for additional financing to add Hargeisa is under discussion. This will require 
+a project restructuring, additional financing, and possible extension of project closing date, see 
+Section VI for more detail. This will require a separate assessment with Hargeisa team, and this is 
+scheduled for virtual meetings on the second week of December 2024. An official request letter is 
+expected to be shared with the Bank by December 9, 2024.  
+ 
+9. 
+Proposed Somalia Informal Settlements Upgrading Project. The World Bank, together 
+with MPWRH, the Project Coordination Unit (PCU), Project Implementation Unit (PIU), U.N 
+agencies, MOPIED Durable Solutions Unit, discussed technical aspects of project preparation for 
+the Somalia Informal Settlement Upgrading Project (SISUP). These discussions were led by 
+thematic experts and covered critical areas, including the role of urban upgrading, sites and services 
+and rental housing in the housing value chain, settlement typology and selection, options for 
+infrastructure and service delivery (including social enterprises), livelihoods and job creation and 
+environmental and social frameworks pertinent to urban upgrading and housing.  The proposed 
+Project timeline includes a Project Concept Note this Fiscal Year (ending June 2025), followed by 
+a targeted project approval in Q1/Q2 next FY (the Bank’s FY starting July 2025).  To facilitate 
+Project preparation, the mission discussed with the MPWRH on an updated request letter for the 
+Project from the Ministry of Finance and for stakeholder consultations planned for January 2025.   
+ 
+10. 
+Programmatic Analytical and Advisory Services (PASA) Livable Cities and Disaster 
+Resilience Platform. The mission also introduced the Livable Cities Platform PASA.  Designed 
+with an implementation over 3 years, the PASA will undertake analytics and technical assistance 
+under 5 pillars.  These include: (i) Disaster and Climate Risk Management; (ii) Inclusive Cities; 
+(iii) Urban Services; (iv) Competitive Cities; and (v) Alternative financing for municipal 
+governments.  Building on insights from the Somalia Urbanization Review, PASA will enhance 
+diagnostic capacity, inform long-term urban strategy, and support the ISU’s policy dialogue and 
+preparatory work. As initial engagements, the Client and the Team agreed on the need for Housing 
+and Land Policy Dialogue, Settlements and Spatial Analytics in key cities – including a mapping 
+of public land in Mogadishu and selected cities.  
+ 
+III. 
+SURP-II IMPLEMENTATION PROGRESS AND KEY FINDINGS  
+ 
+Overall implementation progress: 
+ 
+11. 
+Implementation progress and assessment of project design at MTR.
+=== PAGE 4 ===
+ 
+4 
+ 
+ 
+o Project Development Objective. The PDO of the project is “to strengthen public service 
+delivery capacity of local governments, increase access to climate-resilient urban 
+infrastructure and services, and to provide immediate and effective response to an eligible 
+crisis or emergency in selected areas.” The PDO and its indicators remain highly relevant 
+and achievable. The project aims to provide 1 million people with improved access to 
+climate-resilient urban infrastructure and services and has already exceeded 1 million 
+beneficiaries, of which a significant proportion are women and IDPs.  
+o Performance towards achieving PDO and Implementation Progress (IP).  
+• 
+The progress towards achievement of PDO remains Satisfactory. 
+• 
+The performance of IP upgraded as Satisfactory. The mission acknowledged 
+significant improvement on implementation progress and disbursement. Further, 
+the mission acknowledged full compliance of ESF, PCU and PIUs are fully staffed 
+and budgeted, three out of four PDO indictors have been achieved, and Component 
+4. Urban Forced Displacement successfully completed.  
+o Disbursement trend. As of November 18, 2024, cumulative disbursement stands at 
+US$122.03 million, representing approximately 48 percent of the total budget of US$253.5 
+million with approximately 60 percent committed. The disbursement has increased by 
+US$27.36 million in 6 months since the previous ISM in May 2024.  
+o The use of country system and performance-based allocation. The mission 
+acknowledged that one of the achievements of the project is the use of country system on 
+the allocating funds to participating cities. On implementation, cities are responsible for 
+implementing the project, including participatory planning and consultations, 
+procurement, supervision, and adopting operations and maintenance manual.  
+o Institutional strengthening and capacity building. This is key to the success of project 
+implementation in Somalia. The project started with capacity building to the PCU and 
+PIUs. At MTR, the mission noted that there has been transfer of knowledge and trainings 
+to municipal staff and peer learning from other projects.  
+o U.N agencies to support project implementation. The project, through the government 
+of Somalia, contracted the United Nations Office for Project Services (UNOPS) to support 
+the PIU on supervision of civil works. In addition, UNOPS provided design for 
+infrastructure investments and capacity building program for the PIUs and municipal staff 
+for sustainability. The MTR mission acknowledge the importance of continuing with this 
+model throughout the project.  
+ 
+Implementation progress by Component: 
+ 
+Component 1: Urban Infrastructure and Services (US$155 million) 
+ 
+12. 
+This component is expected to provide feasibility studies and designs for resilience urban 
+infrastructure, followed by civil works. The number and size of infrastructure investments in each 
+city varies, depending on city allocation formula agreed in the beginning of the project. The 
+implementation of this component is on track. The cities started their proposed investments on roads 
+with side drainage, pedestrian walks, and streetlights. Garowe, Baidoa, and Kismayo have 
+completed their initial roads packages. Mogadishu will award its roads packages by December
+=== PAGE 5 ===
+ 
+5 
+ 
+2024, while Dhusamared and Beledweyne are expecting to award their first civil works contract by 
+February 2025. This is on schedule, as agreed in May ISM2.  
+13. 
+Roads, side drainage, pedestrian walkways. Civil works for roads package 1 in Garowe, 
+Kismayo, Baidoa and Mogadishu have been completed.3 Various quick disbursing activities 
+planned in Mogadishu4 have also been completed. While package 2 works in Garowe and the 
+construction of Dhusamareeb, Beledweyne and BRA PIU office are on schedule. Progress of work 
+gained momentum in the last four months as contractor increased resources and completed asphalt 
+works. Works are slightly delayed in Kismayo.5 Delays are attributed to late mobilization of key 
+equipment and materials, breakdown of equipment, contractor’s poor cashflow, and heavy rains, 
+award of multiple contracts resulting in sharing of resources, and limited contractors’ contract 
+management capacity. The PIUs will ensure that contractors update their work program and prepare 
+recovery plans to ensure timely completion. In Kismayo, package 3 construction of 5.1km AC 
+roads, two detention ponds and drainage outfall will start in January 2025, and Baidoa will package 
+3A and 3B construction of 2.5Km and 4.1Km AC roads will start in February and April 2025 
+respectively. In Mogadishu, BRA has prepared feasibility study report and designs for citywide 
+trunk drainage and 13km urban roads are ongoing with UNOPS, while procurement of condition 
+assessment and cleaning of 5km existing drainage and construction of PIU office is progressing 
+well. Construction of Dhusamareeb PIU office and materials testing laboratory is progressing well, 
+and Beledweyne has commenced construction of PIU office and laboratory in October 2024.  
+  
+14. 
+City-wide drainage. UNOPS was initially contracted by the project to prepare roads design 
+and supervision for civil works contracts.  For AF3 activities, UNOPS will provide feasibility 
+studies and designs of citywide drainage in Mogadishu and Garowe, as well as urban roads in 
+Beledweyne6 and Dhusamareeb. Preparation of priority investments with the new allocation from 
+AF3 have commenced in all cities with Kismayo most advanced with ready designs for 5.1km roads, 
+associated drainage, two detention ponds and three outfalls. Mogadishu, Dhusamareeb and 
+Beledweyne have completed designs and bidding documents for priority investments in November 
+2024, while designs for Garowe and Mogadishu package 1 citywide drainage will be ready by 
+December 2024 and March 2025 respectively. In December 2024, Baidoa will engage UNOPS for 
+feasibility studies and design of citywide drainage and gravel link road. To ensure timely delivery 
+in each city, UNOPS has engaged additional experts to undertake some designs in-house, and 
+experienced firms for specialized design of bridges and citywide drainage. UNOPS has agreed with 
+PCU and PIUs on detailed timelines for deliverables in each city to ensure to avoid further slippage 
+and ensure timely implementation of AF3 investments. 
+ 
+Component 2: Institutional Strengthening and Analytics (US$3 million)  
+ 
+15. 
+Progress to Date.  The component has provided technical assistance to strengthen core 
+municipal functions through technical assistance on informal settlements (for Baidoa, Garowe, 
+Mogadishu), climate-resilient operation, and maintenance (O&M) (for Mogadishu), solid waste 
+ 
+2 Of a total of 96.7km roads with drainage, 32.3km (33.5%) asphalt concrete roads with drainage and outfall completed, 9.9km (10.2%) and a 145m bridge 
+ongoing, 14.96km (15.5%) at different procurement stages, designs for 30.5km (31.5%) are ready for procurement and works to start in between March 
+and June 2025, and designs for 9km (9.3%) gravel road will be complete in March 2025 for works to start in July 2025. 
+3 A total of 32.3km asphalt concrete (AC) roads have been completed; in Garowe – 9.1km, Kismayo – 8.3km and 750m outfall drainage, Baidoa – 14.7km, 
+and Mogadishu 0.23km. 
+4 Quick wins include: i) construction of the Ceymiska Road (230m, B15); ii) drainage extension of Tabeelaha Jaceylka Road (255m, B20); iii) dredging 
+of 4 catchment ponds (Bondhere, Hillac, Tunbluq and 15th May catchments) to improve urban flood management; and iv) women’s skills training. 
+5 Construction of 21.5Km of roads with drainage is ongoing: works in Garowe are 95% progress vs 97% time for 145m long bridge and 1.22km AC road, 
+works in Baidoa are 95% progress vs 99% time spent for 10.8km AC roads, and are delayed in Kismayo 65.1% progress vs 87% time for 4.75km roads 
+and 8.5% vs 34% time for 4.5km roads. Asphalt concrete (AC) roads include side drainage, pedestrian sidewalk, some streetlighting, and two detention 
+ponds in Kismayo.    
+6 UNOPS TA will also support feasibility study and design of two new bridges and assessment of two existing bridges in Beledweyne.
+=== PAGE 6 ===
+ 
+6 
+ 
+management (for Mogadishu), flood risk management (for Kismayo, Garowe), Nature Based 
+Solutions Opportunity Scans (NBSOS) and a mayors’ forum.  The project is also supporting 
+technical assistance for flood risk management studies (Baidoa, Beledweyne, and Dhusamereb) and 
+a planned solid waste management pilot for Mogadishu.  The Mission encouraged the PCU and 
+PIUs to identify and advance proposals for additional technical assistance needs.  
+ 
+16. 
+Planned activities. The government will identify additional technical assistance and 
+analytics priorities under the project. This includes institutional strengthening on urban governance 
+and roles and responsibilities of the three tiers government (FGS, FMS, and cities) on resilient urban 
+infrastructure service delivery. Discussions on the best approach to stabilization in Dhusamareb and 
+Beledweyne are ongoing. It was agreed during the mission that the PCU will commence 
+procurement of the first phase of the stabilization assessment. The Terms of Reference (TOR) was 
+discussed and agreed during the mission.  
+ 
+Component 3: Project Management and Capacity Building (US$30.5 million)  
+ 
+17. 
+Progress to Date. Key accomplishments include the development of a geo-referenced 
+monitoring system and a web-based Management Information System (MIS), more structured 
+coordination between the PCU and the PIUs, and the delivery of impact assessment reports for 
+Baidoa, Garowe, and Kismayo that examine the impact of completed SURP-II works to host 
+communities (See Annex 5 for the completed reports). A dedicated PCU M&E staff has been hired 
+to institutionalize use of the MIS across the project and to support the migration of the MIS to be 
+hosted directly by Government. The PCU and PIUs are fully mobilized.7 The project is in its third 
+year of implementation and increasingly focusing on sustainability. 104 municipal and project staff 
+were trained on topics ranging from Grievance Redress, E&S safeguards, Community Engagement 
+and M&E.  In August 2024, project and FMS MPWRH engineers joined a learning exchange with 
+the Government of Sri Lanka to build capacity around implementing citywide drainage systems. 
+The MPWRH is developing a whole-of-government capacity building plan to enhance technical 
+skills and certification of government engineers. This TA will enhance municipal-led civil works, 
+while also supporting higher levels of FGS/FMS engagement, supervision, and quality control. The 
+mission agreed that the joint plan, including possible SURP-II and SHIIP support, would entail a 
+phased approach that emphasizes hands-on-learning while leveraging existing learning and 
+engagement from the UNOPS and successful PIUs.  
+ 
+Planned activities. The next Mayor’s forum is planned for June 2025 (topic to be discussed), global 
+exchanges on livable cities, amongst others. The Bank team is also engaging the Global Center on 
+Adaptation to develop an Urban Climate Resilience Master Class.  The project will continue 
+providing trainings to municipal staff, in addition to PIUs, to take more active ownership of data 
+management and quality control for the sustainable management of the MIS beyond the project. 
+This will also include the roll-out of the government’s capacity building plan, as well as capacity 
+building plan for FGS and FMS on standard and policies for managing urban infrastructure. Annual 
+contract management and procurement training, FM training, and ESF training, will be expanded 
+to municipal staff and FMS.  
+ 
+Component 4: Response to Urban Forced Displacement (US$65 million) 
+ 
+ 
+7 Ongoing staff recruitment includes a new Beledweyne Project Coordinator, M&E Specialist for BRA, and Community Engagement officers for 
+Beledweyne and Dhusamereb.  In addition, the Mission agreed to recruit an additional PCU Engineer to improve the efficiency of quality reviews.
+=== PAGE 7 ===
+ 
+7 
+ 
+18. 
+Progress to Date. The US$65 million project drought response (100% utilized) was 
+activated for a two-year period and closed in September 2024.8 Key achievements include 452,148 
+people benefitted from health and nutrition services, of which 68% women and 77% IDPs. Cash 
+assistance was provided to 163,054 beneficiaries, of which 86% women headed households and 
+100% IDPs. Around 300,000 people benefitted from temporary settlement, as part of housing, land, 
+and property (HLP) intervention in Garowe, Baidoa, and Mogadishu, following drought in 2021-
+2022.  
+ 
+19. 
+Planned activities. The government and IOM will focus on communicating project impacts 
+and learning, including final reporting and closing ceremonies by December 2024. IOM has an 11-
+month defects and liabilities period which are contractually obligated, and further joint monitoring 
+will continue to identify and address any issues.9 The project will register all relevant beneficiary 
+information into the FGS universal beneficiary registry developed by MOLSA and supported by 
+WFP under the Baxnaano program. This requires IOM to sign a data transfer agreement with 
+MoLSA but pending a clear timeline and subsequent data transfer. 
+ 
+IV. 
+FIDUCIARY COMPLIANCE 
+ 
+             Procurement 
+ 
+20. 
+The procurement performance remains Moderately Satisfactory. The mission noted 
+positive progress in the implementation of procurement activities. Most of the procurement agreed 
+actions from the previous mission have either been achieved or are at the advanced stage of 
+completion. The aggregate total of the procurement activities since the project implementation 
+period started is US$ 237,249,731.39, of which US$ 83,246,674.46 (35.10%) have been completed, 
+US$ 95,512,560.16 (40.25%) are on-going, US$ 58,490,496.77 (24.65%) have been initiated and 
+currently in various stages of procurement, and US$25,987,226 (17.41%) have been planned but 
+not initiated. The mission emphasized that the planned but not initiated activities should be 
+expedited.  
+ 
+21. 
+Staffing. The PCU also finalized the recruitment of the new Project Procurement Specialist, 
+and the Consultant will be reporting in November 2024. Also, it was agreed during the mission that 
+procurement activities not yet finalized/being planned should be expedited and that all contracts 
+should be successfully executed before the project end date of December 31, 2026. 
+ 
+22. 
+Post review. The mission was informed that since July 1, 2023, the prior review threshold 
+applicable in accordance with the Bank procurement policy applies to this project except for 
+ 
+8Urban areas were experiencing a large inflow of internally displaced persons (IDPs) triggered by the 2021-2023 drought. Under the first AF, US$20 
+million was allocated to the CERC (from component 1) to support a project drought response (the CERC was activated on July 19, 2022). The dedicated 
+drought response component (Component 4) was introduced under the second AF and the funds from the CERC added to the new component.  The project 
+provided support on housing, land, and property (HLP) and basic services (water, sanitation, and hygiene [WASH] and/or health) in Mogadishu, Baidoa, 
+and Garowe. The FGS engaged the International Organization for Migration (IOM) as an implementing partner through an output agreement signed in 
+September 2022. IOM outsourced elements of the response to its Danwadaag Consortium comprised of international and local nongovernmental 
+organizations (NGOs). Through US$45 million of CRW-ERF financing, a ‘minimum response package’, including cash assistance, was introduced under 
+the second AF (excluding additional investments in HLP).  An amendment to the output agreement was signed between the FGS and IOM in April 2023 
+to scale implementation. 
+9 The shelter design for Baidoa was updated per the revised ESMP on January 22, 2024, including vendors constructing CGI shelter walls and roofs with 
+10% of the most vulnerable households receiving fully built concrete shelters, which was informed and endorsed through government and community 
+consultations.
+=== PAGE 8 ===
+ 
+8 
+ 
+Beledweyne and Dhusamareeb Municipalities PIUs. In this regard, the World Bank will conduct 
+the first post review of the activities not initially reviewed by the World Bank this FY. 
+ 
+23. 
+Mandatory use of the new Standard Form of Agreement (SFA). Starting November 
+2024, it will be mandatory to use the new SFA dated July 2024 agreed between the World Bank 
+and the United Nations Agencies. The template includes new Environmental and Social (E&S) 
+provisions. 
+ 
+Contract Management 
+ 
+24. 
+ Contract Management is a key concern. Issues include delays in submission of payment 
+request, mobilization delays/multiple contract amendments, unmet contract timelines, failure to 
+follow Contract Management Plan among others. Proposed mitigation measures discussed/agreed 
+on include improving Client/Contractors Contract management skills, expedited payments to 
+contractors and strengthening proper planning during Contract implementation period. On capacity 
+building, the Bank conducted a virtual procurement training in July 2024 and another training (face-
+to-face) on Contract Management was conducted in Nairobi from October 14 – 17, 2024. The 
+PCU/PIUs staff attended the training. It was agreed during the mission that continuous procurement 
+and contract management training are needed to improve project implementation.  
+ 
+Financial Management (FM) 
+ 
+25. 
+The financial management (FM) performance is Moderately Satisfactory, and the FM 
+risk is deemed Substantial. See Annex 2 for a Table of Disbursements as of November 6, 2024.  
+ 
+26. 
+Staffing. The mission acknowledged strong and high capacity of PCU FM specialist for the 
+project. As stated in the Financing Agreement, the project should maintain staffing of core PCU 
+team, including FM specialist, throughout project implementation.  
+ 
+27. 
+Disbursement. The level of disbursements at mid-term stood at 48%, which is considered 
+moderately satisfactory. The cumulative budget absorption rate was also noted to be moderately 
+satisfactory with significant commitments that are expected to boost the overall project expenditure. 
+The risk of delayed accountability by the UN implementing partners was noted and the project 
+requested to follow up on the submission of requisite financial reports from the UN agencies to 
+facilitate accountability of UN advances in the Bank’s client connection system. The mission also 
+advised the project to monitor the foreign exchange losses between the SDR and USD and 
+reorganize project activities accordingly.  
+ 
+28. 
+Submission of Interim Unaudited Financial Reports. The project is up to date regarding 
+submission of quarterly interim unaudited financial reports (IFR) to the World Bank including the 
+latest IFR for the quarter ended June 30, 2024. The IFR for the quarter ended September 30, 2024, 
+was submitted to the Bank by November 14, 2024. The latest FM supervision report highlighted 
+inadequate internal audit oversight, delays in payment processing, gaps in accounting for advances 
+to the Federal Member States and delayed deployment of the PCU Procurement Specialist. The 
+external audit report for FY23 expressed an unqualified (clean) opinion on the financial statements 
+but flagged gaps in internal audit oversight. The project was advised to address the issues noted in 
+line with the agreed FM action plan.  
+ 
+V. 
+ESF Compliance and Performance
+=== PAGE 9 ===
+ 
+9 
+ 
+ 
+29. 
+The overall E&S performance remains Satisfactory. The project’s E&S Risk 
+Classification (ESRC) remains High (High in social and Substantial in environment ratings). 
+Section VIII highlights the MTR and ISM Agreed Actions, including measures to strengthen the 
+inclusion of women, youth and Persons with Disabilities (PWDs), captured under Annex 6.   
+ 
+30. 
+Implementation of Environmental and Social Commitment Plan (ESCP). The 
+implementation of ESCP is proceeding as planned despite the extreme FCV circumstances, 
+including the limited presence of government institutions, significant physical insecurity, and the 
+intensifying socio-economic impacts of climate change. The Bank commends the PCU/PIUs for 
+making substantial progress in the management of E&S risks in the project. The mission was 
+informed that the project resolved  99 out of  106 grievances reported since the last Mission in May 
+2024; secured funds to compensate displaced PAPS and, particularly in Mogadishu, where the PIU 
+has deposited US$ 400,000 to an escrow account; finalized the recruitment of E&S specialist for 
+Kismayo and the Community Engagement Officer for Beledweyne to onboard on December 1, 
+2024, and January 2025 respectively; strengthened stakeholder engagement; promptly reported to 
+the Bank, the fatality incident in Garowe and implemented all the corrective and preventive actions; 
+included the requirement for contractor’s to submit Local Recruitment Plans (LRPs) during bidding 
+and issued land ownership documents to 1000 IDPs resettled in Hoodale settlement in Garowe. 
+Despite these achievements, the PCU/PIUs need to continue the deliberate targeting of women, 
+youth, and PWDs for employment, upskilling, and internships, and disaggregate data to include 
+more categories of stakeholders reached, such as PWDs, minority clans, youth, older persons and 
+other vulnerable or disadvantaged groups.  
+ 
+31. 
+Staffing. The mission acknowledged strong and high capacity of PCU E&S specialist. The 
+PCU/PIUs to build the capacity of SURP II staff, especially the Female Community Engagement 
+Officers, e.g., through certification; undertake cross-city exchange learning and produce a 
+documentary highlighting the SURP II success stories. The mission noted that in some cities, such 
+as Baidoa, women have been trained and are actively involved in construction-related activities 
+such as blocks interlocking; however, more efforts are still needed across the six cities. Hence, 
+annex 6 captures an action plan discussed between the SURP II gender and GBV team, the Bank's 
+E&S team, and contributions from the mayor of Beledweyne to strengthen inclusion efforts under 
+the project. The plan focuses on upskilling, internships, contractor employment of skilled and un-
+skilled locals, and engagement of PWDs in jobs they can do safely. 
+ 
+32. 
+Compliance to ESS. The Bank advised the PCU/PIUs to ensure that the design of sub-
+projects such as roads and drainage system adhere to the safety provisions under ESS 4, such as 
+providing appropriate and safe pedestrian access paths/routes and drainage tunnels. 
+ 
+33. 
+Baidoa shelters under Component 4.  The mission recommends for the PCU, PIU Baidoa, 
+and IoM to proactively inspect the shelters in Baidoa to ensure any structural challenges are 
+promptly addressed, to ensure that activities under the forced displacement component are 
+concluded with no pending E&S obligations, including grievances.  
+ 
+VI. 
+PROPOSED PROJECT RESTRUCTURING 
+ 
+34. 
+Proposed Project Restructuring and Additional Financing.  A restructuring and 
+additional financing is proposed to: (i) revise project name; i.e. from Somalia to Somali (as 
+Somaliland will be represented by Hargeisa city); (ii) revise the Results Framework (RF) to reflect 
+additional activities and adjust selected indicators; (iii) add Hargeisa as a new city under the project;
+=== PAGE 10 ===
+ 
+10 
+ 
+(iv) extend project closing date to allow for investments in Hargeisa and to continue with 
+investments in current participating cities; and (v) add capacity building for MPWRH FGS and 
+FMS as part of Component 3. The Project Implementation Manual (PIM) will be updated following 
+MTR discussions. This include updating roles and responsibilities of MPWRH FGS and FMS, and 
+role of participating cities.  
+ 
+Summary of Proposed Restructuring  
+Proposed Changes 
+YES 
+NO 
+Program’s Development Objective  
+ 
+X 
+Program Scope 
+Note: to include Hargeisa 
+X 
+ 
+Results Framework 
+Note: to adjust for new activities and end target for selected indicators 
+X 
+ 
+Legal Covenants  
+ 
+X 
+Loan Closing Date (s)  
+Note: proposed 2 years extension to ensure completion of investments in Hargeisa and 
+additional activities in current participating cities 
+X 
+ 
+Additional Financing Proposed – pending official request letter to the Bank 
+Note: (i) to add funds for Hargeisa – setting up PIU, FS/design, civil works; (ii) 
+capacity building for FGS, FMS, and cities; and (iii) PCU/PIU project management cost 
+X 
+ 
+Change to Financing Plan  
+ 
+X 
+Reallocation between and/or Components 
+ 
+X 
+Change in Key Parameters (Disbursement Arrangements)  
+Note: add disbursement arrangement between FGS and Somaliland for Hargeisa 
+X 
+ 
+ 
+ 
+35. 
+Proposed changes to the Results Framework indicators. It was agreed during the MTR 
+mission that a few indicators need revision, to ensure alignment with cities’ priorities and ability to 
+complete investments by project closing date, December 31, 2026. See Annex 1 for proposed RF 
+changes.  
+ 
+VII. 
+MTR AGREED ACTIONS 
+ 
+PCU 
+1 
+Phased and joint capacity building proposal for 
+government engineers  
+PCU SURP-II and PCU SHIIP 
+Proposal by 
+Dec 10, ‘24 
+2 
+Recruitment of additional PCU engineer 
+PCU 
+Jan ‘25 
+3 
+Agree with IOM on the transfer of data and 
+rectification of work in Baidoa during DLP period 
+PCU and IOM 
+Dec ‘24 
+4 
+Amendment of UNOPS TA contract (to include 
+Dhusamareeb and Beledweyne and extend 
+time/inputs for other cities) 
+PCU/PIUs/UNOPs 
+Jan ‘25 
+Baidoa  
+1 
+Sign Package 3A and 3B contracts  
+PIU/PCU 
+Dec 31, ‘24 
+2 
+Prepare technical report on action required on 
+Package 2 road drainage and walkways. 
+PIU/PCU/UNOPS 
+Nov 30, ‘24
+=== PAGE 11 ===
+ 
+11 
+ 
+3 
+Sign contract for design of Citywide drainage 
+design and Northern Link Road 
+PIU/UNOPS 
+Nov 30, ‘24 
+Kismayo 
+1 
+Submit revised program works and recovery plan 
+for package 2A and 2B 
+PIU/UNOPS 
+Nov 29, ‘24 
+2 
+Sign package 3 contract 
+PIU/PCU 
+Nov 30, ‘24 
+3 
+Sign contract for citywide drainage FS and DED 
+PIU/PCU 
+Nov 30, ‘24 
+Garowe 
+1 
+Prepare detailed designs for citywide drainage 
+package 1 
+PIU/UNOPS 
+Dec 31, ‘24 
+2 
+Publish request for bids for urban roads Package 1 
+works 
+PIU/PCU 
+Jan 30, ‘25 
+3 
+Publish request for bids for trunk drainage Package 
+1 works 
+PIU/PCU 
+Jan 17, ‘25 
+4 
+Publish request for bids for PIU office building 
+works.  
+PIU/PCU 
+Feb 7, ‘25 
+Mogadishu 
+1 
+Publish request for bids for 4 packages of urban 
+road works 
+PIU/PCU 
+Nov 29, ‘24 
+2 
+Issue variation order for cleaning of additional 
+2.5km of existing trunk drainage 
+PIU/PCU 
+Nov 29, ‘24 
+3 
+Prepare detailed designs for citywide drainage 
+outfall O-5, O-16 and O-1 
+PIU/UNOPS 
+Mar 28, ‘25 
+4 
+Sign contract for 4 packages of urban roads 
+PIU/PCU 
+Feb 28, ‘25 
+Beledweyne 
+1 
+Publish request for bids for Package 2 (Road #3) 
+PIU/PCU 
+Jan 5, ‘25 
+2 
+Sign contracts for Package 1B (Road #2) 
+PIU 
+Mar 22, ‘25 
+Dhusamareeb 
+1 
+Publish request for bids for Package 2 (Main Road) 
+ PIU/PCU 
+Jan 30, ‘25 
+2 
+Sign contract for Package 1 urban roads  
+PIU 
+Mar 29, ‘25 
+3 
+Publish request for bids for Public Park 
+PIU/PCU 
+Jan 24, ‘25 
+4 
+Prepare detailed designs for 1.5km Market Roads  
+PIU/UNOPS 
+Mar 15, ‘25 
+ 
+ 
+Annex 1. Proposed Changes to Results Framework Indicators 
+ 
+Current indicator 
+Proposed revision 
+Remarks 
+Urban roads rehabilitated or upgraded 
+(Kilometers) 
+Current value: 31.67 km 
+Revise target to 70 km 
+Following the third AF, the cities shift priorities 
+towards drainage given increasing flood risks. The
+=== PAGE 12 ===
+ 
+12 
+ 
+Target: 90 km 
+end target may need to be adjusted to reflect the 
+shift in priorities. 
+Pedestrian walkways constructed 
+(Kilometers) 
+Current value: 34.33 
+Target: 90 
+Decrease target to 70 km 
+(in line with roads target) 
+This is to reflect revised number of km of roads 
+rehabilitated or upgraded.  
+Number of person days of employment 
+created (days, % female, % IDPs, % 
+host) (Number) 
+Current value: 206,398 (23% IDPs, 
+15% female) 
+Target: 400,000 
+Introduce disaggregation 
+for youth 
+Corporate scorecard indicator to include youth 
+Length of trunk drainage improved by 
+the project 
+Current status: 3 km 
+Target: 22.4 km 
+Revise target to 15 km and 
+revise name of indicator 
+Proposed revision to the indicator name to include 
+all drainage work. 
+Introduce new target on 
+reduced flood risk,e.g. # of 
+people benefitting from 
+reduced flood risk or area 
+of land with reduced flood 
+risk 
+An additional target is needed to reflect the work 
+undertaken that reduces flood risks in urban areas 
+Number of beneficiaries benefitting 
+from cash assistance (number, % 
+women, % IDPs) (Number) (Number) 
+Current status: 163,054 (100% IDPs, 
+86% female) 
+Target: 350,000 
+Decrease target to 163,000 While the number of households reached exceeded 
+the target set in the output agreement with IOM, the 
+number of individuals benefitting was less than 
+estimated. This is due to average household size of 
+registered IDP households (3) was significantly 
+smaller than the average household size in Somalia 
+(7 in urban areas). 
+Number of individuals treated with 
+health and nutrition services (number, 
+% women, % IDPs) (Number). 
+(Number) 
+Current status: 452,148 (68% women 
+and girls, 77% IDPs) 
+Target: 178,467 
+Increase target to 450,000 Target overachieved: (i) increased demand by the 
+new IDP arrivals in Dayniile and Kahda districts. 
+The Elnino floods resulted in widespread movement 
+of people from flood-affected districts of lower 
+shabelle to Banadir region; (ii) increased influx of 
+IDPs and diseases outbreaks in Baidoa due to 
+Elnino rains.  
+Number of individuals benefitting from 
+WASH services and investments 
+(number, % women, % IDPs) 
+(Number). (Number) 
+Current status: 315,337 
+Target: 330,000 
+Revise target to 315,000 
+This target should be revised, as it was set before 
+the output agreement for the AF2 contract with IOM 
+was finalized.  
+Number of beneficiaries of HLP 
+services (number, % women, % IDPs) 
+(Number). (Number) 
+Current status: 129,211 (39% women, 
+100% IDPs) 
+Target: 341,100 
+Decrease target to 129,000 This target should be revised as it exceeds end 
+target agreed in the output agreements with IOM.  
+ 
+ 
+Annex 1A. Detailed Implementation Progress 
+ 
+1. Baidoa
+=== PAGE 13 ===
+ 
+13 
+ 
+Implementation progress.   Baidoa has three contract packages as shown in the above table. Package one 
+worth US$3.98 million involves the construction of 3.9km10 roads with associated drainage and three box 
+culverts, pedestrian walkways, and street lighting. DOCOL Construction and Logistics Company was 
+awarded the contract on February 15, 2021, but the work did not start until August 2021. Initial delays were 
+due to the Government’s late payment of advance money, delays associated with the operationalization of 
+the Security Management Plan (SMP), specifically agreement on the security costs, the contractor’s delay 
+in mobilizing key equipment11 and contract management inefficiencies, and relocation of utilities at the 
+six-cell box culvert and eight septic tanks on Road 1A. Despite the delays and a ten-month extension of 
+contract period, the works were completed on March 31, 2023. Defects liability period (DLP) ended on 
+March 30, 2024, thereafter the contractor rectified minor defects and was issued with a defect’s liability 
+certificate.  
+  
+Package 2 contract was also awarded to DOCOL for US$5.95 million over 18 months for the construction 
+of three roads totalling 9.8km12, including drainage, pedestrian walkways, one bridge walkway, and 
+streetlights. Due to RAP issues, Hanano road was rerouted which increased the length by 1Km. Also, a 
+section of road 6 (package 1) was damaged following heavy rains in September - December 2024. These 
+variations increased the cost of package 2 by US$1.31 million and revised the contract price to 
+US$7.26million. UNOPS provided a climate resilient design for that included a rigid concrete pavement 
+which the contractor implemented. The mission noted that since the last mission in May the Contractor has 
+mobilized more resources such that works were not on schedule at 98% completion. Significant delays had 
+been caused by lack of some key equipment, heavy rainfall and exacerbated by delayed payments to the 
+contractor.  Asphalt works were completed on all roads while construction of drainage, footpaths and road 
+furniture was progressing well. However, the mission noted with concern that (i) drainage was missing in 
+several road sections, (ii) streetlighting was not provided for all three roads, (iii) gaps on footpaths along 
+Road 1B were risky as pedestrians could get injured, (iv) access culverts to properties were not sufficient, 
+and (v) in some sections of Road 5, the embankment is high above the properties with slopes not protected 
+and drainage not provided. The mission also noted the rapid urbanization of the area around Hanano road, 
+which at the time of design in 2019 was considered peri urban. This has created the need for improved road 
+drainage and junction geometry design and provision of streetlighting. UNOPS reported that except for 
+drainage works on Road 5 that connect to Road 2, the other activities valued at US$150,00013 can be done 
+within 3 months during the defect’s notification period, since the contract end date is November 18, 2024, 
+alternatively contract to be extended by three months. UNOPS team, and PCU engineer visited Baidoa on 
+Sunday, November 10, 2024, and together with the PIU team, inspect these works, assess the gaps, and 
+prepare a technical report on what is feasible under the current contract and what could be done under 
+Package 3. The mission reiterated that further extension of time on this contract will not be acceptable. 
+  
+The last package was divided into two contracts. PCU was reviewing the bids for Package 3B14, the 
+contract is expected to be signed by November 30, 2024, and works to commence by January 2025. PIU 
+was evaluating bids for Package 3A for 2.47km Baidoa main road, and the works are expected to commence 
+in February 2025. The two packages include outfall drainage that will reduce flooding. The mission noted 
+a slippage of 2 months in the commencement of the works and requested Baidoa to expedite the 
+procurement. 
+ 
+ 
+10 Road 6 – Ali Amhar Road (2.8km) and Road 1A - Hospital Road (1.1km) 
+11 Road transportation of equipment is not possible due to insecurity and the Contractor experienced challenges in airlifting heavy equipment from 
+Mogadishu. Two excavators were required for earthworks, but only one was available in March 2022, 7 months after the contract start date. 
+12 Road 5 - 30KA road (3.2km), Road 7 - Hannano 2 Road (3.9km) and Road 1B - Hospital Road (2.7km) 
+13 About US$800,000 is unutilized and available for these works under the contract. 
+14 Package 3B involves construction of 1.2km Sharif Gacamey Road, 1.5Km Unaye Road, and 1.38Km Murasal Road.
+=== PAGE 14 ===
+ 
+14 
+ 
+Technical Studies.  Citywide drainage and the Northern link road have been identified as priority 
+investments under AF3. The TORs have been reviewed and cleared by the Bank and. no objection to single-
+source UNOPS granted. However, the signing of the contract was delayed since UNOPS did not initially 
+use the new output contract template. The Bank has now cleared the draft contract for signing. The timeline 
+for the designs for the 9km gravel road and citywide drainage are currently being determined.  
+ 
+ESF. The Mission noted significant challenges with universal access on some roads. The contractor had 
+substantially completed the roads without making provisions for some residents to access their houses. The 
+footage shared by the PIU also showed some sidewalks that had gaps in between them, ostensibly for 
+stormwater drainage off the pavement, but which pose hazards to pedestrians. The PIU was urged to 
+urgently address both matters to forestall any incidents affecting homeowners, pedestrians and the larger 
+public. The Mission was also informed that, following the incidents involving roofs being blown in the 
+Barwaaqo IDP settlement site, IOM had agreed to address the issue with the contractor on the site and 
+ensure that no harm befalls the residents of the site, who are going to inhabit the houses. The team was 
+advised to ensure that an assessment was done to review the fitness for human habitation of the shelters 
+under construction urgently and to put the matter to rest. The Mission agreed to a recommendation for PCU 
+and PIU engineers to jointly carry out site safety inspections after the remedial works are completed.  
+ 
+Key issues as reported by the Baidoa PIU include the following: 
+ 
+• 
+ Security risk management: The PIU reported no project-related security incidents at the time of the 
+mission.  The PIU confirmed police presence at project sites and that police officers had received 
+orientation and signed Codes of Conduct. 
+ 
+• 
+Environment, Occupational Health and Safety (OHS)/community health and safety: The Mission 
+observed that there was improved use of Personal Protection Equipment (PPE) by workers, as the 
+contractor has been consistently implementing a “No PPE, No Work” policy. To enhance the safety of 
+road users, the Mission had recommended the installation of permanent road safety signage, but this 
+has not been implemented across all the roads. The Mission continues to encourage the PIU to replace 
+stolen or damaged road signs, erect speed bumps, and enforce compliance by road users, especially by 
+working even more closely with the municipal government. The Mission particularly recommended 
+closer engagement with the local police to enforce traffic management as well is increasing community 
+awareness on Child Labour and GBV issues.  
+ 
+2. Kismayo 
+ 
+Implementation progress. Kismayo has three contract packages as shown in table above. For package 1, 
+the PIU contracted the Chongqing Overseas Construction Corporation (COCC) on May 24, 2021, to 
+construct 7.75km roads and a drainage outfall for US$5.4 million.15 However, physical work only began 
+in February 2022 after an eight-month delay due to the contractor’s challenges in mobilizing equipment 
+and personnel and due to cash flow challenges throughout the life of the works. That led to a shortage of 
+materials on site, delays in equipment repair, and temporary work stoppages due to a strike by unpaid 
+workers. As a result, the COCC contracted two local subcontractors to help finalize the remaining works.  
+After three contract extensions, extending the project end date to December 31, 2023 (from 18 to 31 
+months), the contractor finally completed the work on December 31, 2023. The contractor completed minor 
+outstanding works and is addressing minor defects during the 12-month defects liability period (DLP).  
+  
+ 
+15 This was above the estimated by US$500,000 and pulled from Package 2.
+=== PAGE 15 ===
+ 
+15 
+ 
+Package 2A was awarded to Kulmiye General Services Limited on October 15, 2023, to construct 4.7km 
+of roads for US$4.1 million, and works commenced on January 18, 2024. The mission noted the delay in 
+completion of the works that are to be completed on December 31, 2024, with 65.1% actual progress to 
+date. The contractor will request a three-month extension of time, revise the program of works, and prepare 
+a recovery plan to ensure completion of work by March 31, 2024. 
+  
+After experiencing delays in procurement when the bidder with the most advantageous bid declined to sign 
+the contract, Package 2B was awarded to Kulmiye General Services Limited, the next ranked bidder, on 
+May 1, 2024. The mission noted with concern slippage in the program of works with 8.5% progress to date. 
+This was due to lack of key equipment for the works and instances of delayed payments. Whilst the 
+contractor was able to mobilize equipment for each contract, the main equipment for package 2B was in 
+use in package 2A, which has contributed to the slow progress. Kismayo assured the mission that since 
+package 2A earthworks had been completed, all equipment would now be dedicated to package 2B. Package 
+2b Works will take 14 months, ending July 31, 2024. The Contractor will submit a recovery plan and 
+updated program of work.  
+  
+Procurement of Package 3 works16 is at an advanced stage, with contract signing expected by November 
+15, 2024. The contract's duration is 16 months, with the planned completion date in June 2026.  
+ 
+Technical studies.  The citywide urban flood risk and stormwater drainage assessment (FRA) in February 
+2023 identified priority areas for drainage upgrading and flood risk management in Kismayo. The TA, 
+financed by Global Facility for Disaster Risk and Recovery (GFDRR), was implemented by Hydronova. 
+The pre-feasibility report provides a mix of grey and green infrastructure, which is primarily made of 
+concrete and steel pipes and channels, and nature-based solutions to attenuate the stormwater in the city. 
+The proposed measures are set out in six investment packages totaling US$230 million, with the priority 
+package of US$44 million. To advance the FRA to a feasibility study and detailed engineering design, 
+Kismayo expects to sign the consultancy contract in November 2024, and the assignment will take 10 
+months. However, there is no funding for the investments to be designed, but this creates an opportunity 
+for Kismayo to approach other donors to support addressing these most needed investments. 
+  
+To ensure local ponding does not occur on SURP II roads, Kismayo with support from UNOPS under the 
+TA is preparing designs and bidding documents for three outfalls17 of length 1.93km and two detention 
+ponds in line with the citywide drainage pre-feasibility study. These have been identified for investment, 
+as the Municipality undertakes Kismayo city-wide drainage feasibility study and engineering design. 
+Preferably, this detailed study should precede the drainage investments. However, it is stated that the 
+proposed investments are “no regret” type interventions that will not interfere with investments that may 
+be proposed under the citywide assessment. At the upstream end of the outfalls are retention ponds that too 
+are identified for improvement as green public spaces. Introduction of regulation gates for ponds may be 
+considered to drain water prior to storm events, to increase retention. Kismayo proposes to implement these 
+as variation order under the ongoing road contracts. 
+ 
+ESF. All subproject-specific E&S instruments for Kismayo for packages 1 and 2 are under implementation. 
+The PIU has updated the E&S instruments for package 1 to reflect package 2 and the newly designed Argo 
+drainage outfall and the instruments have been disclosed in-country. The sub- contractors are implementing 
+the sub-projects C-ESMP, LMP, and SMP and all newly recruited workers/staff have signed the codes of 
+conduct.  
+ 
+ 
+16 Package 3 included 1.71km of Road 2a, 1.3km of Road 4B, and 2.1 Road 10. 
+17 Three outfalls are 840m Olympic, 740 Majengo, and 350 Old Stadium outfalls
+=== PAGE 16 ===
+ 
+16 
+ 
+Key E&S issues reported by the Kismayo PIU include the following: 
+ 
+• 
+Drainage outfall proposed. There are new issues arising around the newly proposed drainage outfall 
+for Kismayo, including possible impact on biodiversity, as well as the stormwater retention ponds. The 
+PIU has updated and disclosed sub-project-specific E&S instruments for Package 1 to reflect Package 
+2 roads, and the newly proposed drainage line through Argo Junction.  Security risk management: An 
+MoU was signed between the COCC, the contractor, and Kismayo police commissioner on April 25, 
+2022. The PIU in Kismayo was confident about the overall security prospects, noting that the recent 
+terror attack, which took place very close to the project site in October 2022, was not aimed at the PIU 
+offices nor the project. Regardless, the PIU must remain vigilant and follow strict mitigation measures 
+outlined in the SMP.  
+ 
+• 
+Environment, OHS/community health, and safety: The Mission recommended that the PIU review 
+data from the contractor report to establish data gaps. The Mission noted that it was the responsibility 
+of the E&S specialists in all the PIUs as well as at the PCU, to flag out where there are data gaps and 
+follow it up with the contractors. 
+ 
+3. Garowe 
+ 
+Implementation progress. Garowe has two investment packages financed under SURP-II as shown in the 
+above table. Package 1 includes the construction of four urban roads totaling 6.3km18, side drainage, 
+streetlighting and walkways. The contract was signed with TTN Construction on April 18, 2021, for of 
+US$3.73 million. Package 1 civil works were completed and handed over to the Municipality on November 
+1, 2022, one month before the contract end date of November 30, 2022.  The municipality has also planted 
+500 trees along the Package 1 roads. The contract realized savings amounting to $638,719 that was used to 
+carry out additional works under variation order 1 – streetlighting (297 lights), extension of Wadajir road 
+(460m), and drainage outfalls along Tawfiq road and Indija road (930m). To complete these additional 
+works, the completion date was extended to May 31, 2023. All the additional works were completed in 
+time. 
+  
+The Package 2 contract was also signed with TTN on April 3, 2022, and includes Gambol Road (1.22km) 
+and Gambol Bridge (0.14km), at US$3.86 million.  Initial delays in starting physical works occurred due 
+to the need for review and verification of bridge design by an independent third party. However, the 
+construction of the road section started in February 2023 and is 98% complete.  As the review of the bridge 
+design was going on, the Contractor submitted a Value Engineering Design (VED) for the bridge. The 
+design review consultant completed the review of the original design and the contractor’s VED in July 2023 
+and recommended the VED. The commencement of bridge works was further delayed due to lengthy 
+negotiations on the VED cost estimate. Design changes and increased scope resulted in increase in cost by 
+US$2.45 million.  After lengthy negotiations with the Contractor, Garowe finally signed the variation order 
+and addendum to the contract, paving the way for the bridge works to commence in December 2023. 
+UNOPS TA has recruited an experienced bridge engineer to supervise the bridge construction. Whilst hoped 
+to complete the works a few weeks ahead of scheduled completion date of December 3, 2024, an incident 
+that resulted in a fatality on site caused a stoppage of work for 3 weeks. The bridge works are still on 
+schedule with progress at 95%. A saving of US$817,000 has been realized, and Garowe intends to improve 
+traffic flow along the Garowe main road by constructing 0.7km of East Africa Road and 0.5km of Garowe 
+main road junction improvement. To complete the new works, the contract period will be extended by 2 
+months to January 31, 2025. The mission visited Garowe on November 10, 2024.  
+ 
+18 2.02km of 30th Street, 0.7km of Injida Road, 2.15km of Towfiq Road, and 1.44 of Wadajir Road
+=== PAGE 17 ===
+ 
+17 
+ 
+ 
+Technical Studies. Design of citywide drainage investment to be partly funded under AF3 is underway. In 
+December 2023, Garowe contracted UNOPS to design priority drainage investments that were identified 
+under the urban flood risk assessment/pre-feasibility undertaken by Hydronova in 2023, to alleviate the 
+impacts of frequent flooding. However, UNOPS did not commence work until late March 2024 due to 
+delays in the disbursement of funds from the government. The pre-feasibility presented options and priority 
+investment/packages, a total of US$247 million in FRM investment needs. Preliminary design estimates 
+for investments in six priority urban zones selected for detailed engineering designs is US$68million. 
+However, under SURP II Garowe has available US$ 4 million, which is not sufficient for stormwater 
+drainage in one zone. Detailed engineering design for the first package will be ready in December 2024, 
+the remaining 5 packages will be ready by February 2025. The prepared investments create an opportunity 
+for other donors to support Garowe in addressing the flooding challenge in the city.  
+  
+Designs for Garowe urban roads and municipality building are progressing well. Designs for the 20km of 
+roads are expected in December 2024. Preliminary estimates indicate that about US$15million is required 
+for the designed roads, but currently, Garowe has funds for 2Km only.  
+  
+Assessment of the structural integrity and safety of the stalled municipality building for the PIU was 
+completed with positive recommendations. The architectural and engineering designs for the completion of 
+the building will be prepared and will address gaps identified in the assessment report. The bidding 
+documents will be ready in December 2024. 
+   
+Key E&S issues reported by the Garowe PIU include the following: 
+ 
+• 
+Security risk management: Four police officers, one of them female, have been deployed to Package 
+1 sites. In August 2023, Garowe Municipality deployed armed police officers to the Hoodale site 
+following disruptions of civil works. The incident has been resolved and there are ongoing discussions 
+for the Municipality to put up a permanent police post. No additional insecurity incidents and/or risks 
+were recorded at the time of the mission. 
+ 
+• 
+Environment, OHS/community health and safety: The PIU has planted several Ficus Benjamina 
+trees on the road median. The Mission encouraged the PIU to closely monitor the growth of the trees 
+and any unforeseen impact, especially on the pavement and community safety, as the species is 
+particularly susceptible to heavy gales and winds. The Mission reiterated the previous recommendation 
+that the newly completed roads should have EHS, and road traffic safety warnings and signposts erected 
+prominently and painted on the main carriageway in thermoplastic quality to aid road users.         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Mogadishu 
+ 
+Milestone 
+Quick Wins 
+PIU Office 
+Cleaning 6.7Km of 
+existing drainage
+=== PAGE 18 ===
+ 
+18 
+ 
+Investments  
+▪ 
+4 catchment ponds dewatering and 
+desilting and fencing ($594k, Jan. 31, 
+’23) 
+Construction 
+of 
+PIU Office 
+  
+  
+Cleaning and condition 
+assessment 
+of 
+5Km 
+existing drainage 
+  
+  
+▪ 
+2 community road (B10 and B20) 
+drainage extension ($393k, Mar. 31, 
+’23) 
+▪ 
+Cleaning and condition assessment of 
+700m existing trunk drainage. 
+▪ 
+1 community road (B15 Ceymiska 
+Rd) construction ($$200k, Apr. 15, 
+’23)  
+Contract amount 
+US$1.66 million 
+                          
+US$560,481.00  
+                                      
+US$348,570.00  
+Current progress 
+Desilting of all 4 catchment ponds, B10 
+road drainage condition assessment, and 
+construction of B15 (Ceymiska Rd) and 
+B20 drainage extension all completed 
+19% (on schedule) 
+15% 
+(on 
+schedule, 
+2.42Km cleaned) 
+Contractor 
+Various 
+Alool Construction 
+and Consultants 
+Target General Services 
+LTD 
+Contract signing 
+Various dates 
+13th July 2024 
+27th August 2024 
+Commencement 
+of 
+works (Planned) 
+Oct. 2022 
+August 14,2024 
+September 15, 2024 
+Commencement 
+of 
+works (Actual) 
+March 22, 2022 
+August 14,2024 
+September 15, 2024 
+Completion of works 
+(Planned) 
+June 22, 2023 
+August 14, 2025 
+September 14, 2025 
+Completion of works 
+(Revised) 
+Oct – Nov 2023 
+TBD 
+September 14, 2025 
+ 
+Implementation progress.  Implementation of civil works in Mogadishu is significantly delayed with minor 
+quick disbursing investments undertaken so far, as Mogadishu’s priority investments changed from urban 
+and community roads to trunk drainage that has not been designed. BRA has now prioritized a mix of 
+several quick wins and large-scale investments of four trunk drainage lines based on the Mogadishu 
+citywide drainage master plan that the Bank funded. The eight quick wins shown on the above table have 
+been completed. Drainage-related quick win activities have improved stormwater management in some 
+parts of the city and public safety due to the fencing of the ponds. PIU office work commenced in August 
+and is proceeding well on schedule. Cleaning of existing trunk drainage is ongoing, and 2.4Km of trunk 
+mains in good condition have been identified so far. With the discovery of this trunk drainage network, it 
+was agreed that BRA and the contractor find ways of enhancing the rate of progress to complete the 
+identification of manholes, take invert levels, and alignment verification by November 15 so that the 
+existing trunk drainage can be including in the citywide drainage modeling. It was also agreed that BRA 
+will issue a variation order to include 2.5km trunk drainage lines not in the contract. Procurement of 
+desilting of Sigale pond will commence once ES documentation is ready in December 2024, a slippage of 
+6 months from earlier planned dat.  
+ 
+Solid Waste Management (SWM) pilot. It was agreed during the mission that the Bank will invite a SWM 
+expert to review the proposed activities for SWM pilot in Mogadishu. This will be further discussed with 
+the MPWRH, PCU, BRA Mogadishu, and the Bank in November 2024.
+=== PAGE 19 ===
+ 
+19 
+ 
+Technical Studies: To advance the Trunk drainage masterplan prepared in 2018 (see Annex 1D) and 
+delivered by UNOPS, BRA has commenced feasibility studies and detailed engineering design for 
+Mogadishu city in July 2024. BRA experienced a delay in engaging design consultants when the 
+competitive process was unsuccessful, leading to the single sourcing of UNOPS in December 2023 to 
+undertake the designs. The trunk drainage lines are expected to have a transformational impact on urban 
+flood management but will require a longer time to implement and are slow to disburse. During the mission, 
+BRA shared with the Bank the feasibility study (FS) report, the Bank will review this by November 15, 
+2024. The FS prioritized three quick win (QW) trunk drainage packages, O-5 (1.44km), O-16B (13.7 km), 
+and O-1(12.4km). The alignment of these trunk lines agrees with the masterplan thought with longer micro 
+tunnel sections and higher cost estimates. BRA is also locating the existing trunk drainage lines, assessing 
+their condition and taking technical survey and pipe profile information. Some discovered lines are as large 
+as 2m diameter and in good condition. Due to the discovery of existing trunk drainage along O-2 and O-3, 
+these two investments are no longer high priority and will be delayed. It was agreed to incorporate the 
+existing trunk lines in the citywide drainage hydraulic modeling. Further, to expedite these investments, 
+BRA will begin with outfall sections without micro tunnel, these include 1.44m on O-5, 3km on O-16B, 
+and 4km on O-1 towards the ocean. UNOPS will complete preliminary engineering design in December 
+and detailed engineering design in March 2025 for all three priority trunk drainage packages together with 
+the Mogadishu Airport trunk drainage package. ESIA will be ready in December 2024 and detailed 
+topographic survey and geotechnical investigation ongoing. Designs for the other trunk lines will be 
+undertaken thereafter and completed by mid 2025.  
+BRA has also prepared designs for nine urban roads, 13.1km delivered by UNOPS. The investment is in 
+four packages estimated at US$ 17.8 million.19 
+ 
+Key E&S issues reported by the Mogadishu PIU include the following:  
+ 
+• 
+Quick Win investments: The approved E&S instruments were disclosed, with summaries of 
+translated copies in Somali of the approved instruments (ESMP and SEP, as well as the LMP) 
+publicly disclosed on the BRA website and made physically available in the five target districts. 
+The Mission was updated on the planned fencing of the rehabilitated ponds. The Mission 
+recommended that the PIU conducts further discussions on geomembrane liners needed for Hilaac 
+urban stormwater retention pond as they help in reducing groundwater pollution risks while also 
+ensuring longer residence time of water, which results in community benefits. Further, E&S 
+instruments will be updated to capture the Sigale catchment pond and the eight (8) urban roads. 
+ 
+• 
+Trunk Drainage: To inform the selection and design of priority drainage lines, the E&S assessment 
+will be conducted together with the Feasibility Study and the DED. The revised TOR has already 
+been cleared by the Bank. The Mission advised the PIU/PCU safeguards specialists and engineers 
+to closely collaborate in this process. While O-2 is a reasonably structured outlet and located in the 
+safely protected port, O-16 is a smaller pipe discharging to the beach surrounded by business 
+activities, busy roads and an illegal dump site. This discharge into a populated area may cause 
+significant public health problems. The Mission and the PIU/PCU agreed on the need to carefully 
+assess the resettlement impact (economic impact from drainage lines work) among others and 
+consider alternatives in the forthcoming feasibility study and the ESIA.                 
+ 
+19 P1 has one road 2km dual carriageway, US$4.95m; P2 has two roads 4km, US$4.95m; P3 has three roads 3.94km, US$4.2m; P4 has one road 
+2.9km, US$3.7m
+=== PAGE 20 ===
+ 
+20 
+ 
+• 
+Security Risk Management: No project-related security incidents were recorded at the time of the 
+mission.   
+ 
+5. Dhusamar                                                                                                                                                                  
+eb  
+ 
+Milestone 
+PIU Office 
+Package 1 
+Package 2 
+Investments  
+Construction of PIU 
+office and Laboratory 
+1 road (3.3km), side 
+drainage, walkways, 
+streetlights 
+1 road (4.9km) side 
+drainage, walkways, 
+streetlights 
+Initial Contract 
+amount 
+0.419 
+Estimate - US$5 million 
+Estimate - US$4.9 
+million 
+Revised Contract 
+amount 
+N/A 
+N/A 
+N/A 
+Current progress 
+80% 
+Published 
+Bidding docs 
+preparation 
+Contractor 
+Somtech Engineering & 
+Construction 
+N/A 
+N/A 
+Contract signing 
+Feb. 29, '24 
+Feb. ‘24 
+Apr. 3, 2022 
+Commencement of 
+works (Planned) 
+Apr. 1, '24 
+Jan. 2024 
+Mar. 2025 
+Commencement of 
+works (Actual) 
+Apr. 1, '24 
+N/A 
+N/A 
+Completion of works 
+(Planned) 
+Sep. 30, '24 
+N/A 
+N/A 
+Completion of works 
+(Revised) 
+Dec. 31, '24 
+N/A 
+N/A 
+ 
+Implementation progress. Construction of the PIU office and laboratory building is progressing well at 
+80% completion. The works were awarded to Somtech Engineering & Construction at US$0.49 million and 
+commenced in April 2024 and will be completed on December 31, 2024. Procurement of equipment for the 
+materials testing laboratory will be delivered in December 2024. UNOPS has delivered engineering designs 
+and bidding documents in two quick win (QW) packages for two roads (see above table). Package 1 has 
+been published, and bids will be opened on November 21, 2024. The mission advised Dhusamareeb not to 
+wait until package 1 commences to publish package 2, but to publish as soon as the bidding documents 
+have been cleared by PCU since time is of the essence as project closes in December 2026. Commencement 
+of civil works is expected in February 2025 for QW package 1 and April 2025 for QW package 2. These 
+will be the first urban roads to be financed by the Bank in Dhusamareeb. UNOPS informed the mission that 
+there are road contractors with the capacity to undertake the works, and it was possible to transport 
+equipment and construction materials from Mogadishu and other major cities in Somalia. For the 
+supervision of these works, the UNOPS TA contract with BRA that includes other four cities will be 
+amended in December 2024 to include Dhusamareeb. Design for the 3,500m2 public park was being 
+reviewed to include more green spaces, while the design for 1.5Km market roads will be completed in 
+February 2025. 
+6. Beledweyne
+=== PAGE 21 ===
+ 
+21 
+ 
+Milestone 
+PIU Office 
+Package 1B (Rd#2) 
+Package 2 (Rd#1) 
+Package 3 (Rd#3) 
+Investments  
+Construction of 
+PIU office and 
+Laboratory 
+1 road (3km), side 
+drainage, walkways, 
+streetlights 
+1 road (3.25km) 
+side drainage, 
+walkways, 
+streetlights 
+1 road (3km) side 
+drainage, 
+walkways, 
+streetlights 
+Initial Contract 
+amount 
+636,826.48 
+Estimate - US$4.35 
+million 
+Estimate - US$3.8 
+million 
+Estimate - 
+US$2.87 million 
+Revised Contract 
+amount 
+N/A 
+N/A 
+N/A 
+N/A 
+Current progress 
+13.5% 
+N/A 
+N/A 
+N/A 
+Contractor 
+Timely 
+Transportation & 
+Logistics Co. 
+N/A 
+N/A 
+N/A 
+Contract signing 
+Aug. 25, '24 
+N/A 
+N/A 
+N/A 
+Commencement 
+of works 
+(Planned) 
+Oct. 10, '24 
+Mar. '25 
+May '25 
+May '25 
+Commencement 
+of works 
+(Actual) 
+Oct. 10, '24 
+N/A 
+N/A 
+N/A 
+Completion of 
+works (Planned) 
+Sep. 10, '25 
+N/A 
+N/A 
+N/A 
+Completion of 
+works (Revised) 
+N/A 
+N/A 
+N/A 
+N/A 
+ 
+Implementation progress. Construction of the PIU office and laboratory building is on schedule at 13.5 % 
+completion. The works were awarded to Timely Transportation & Logistics Company at US$0.64 million, 
+works commenced in August 2024, and will be completed on September 30, 2024. UNOPS has delivered 
+designs and bidding documents in three quick win (QW) packages for three roads (see above table). All are 
+under review by PIU and PCU to check that the designs are resilient to climate, especially flooding due to 
+the location of the city along River Shebelle. Package 1B will be published in November. Subsequently, 
+package 2 and 3 will be published. Commencement of civil works is expected in March 2025 for QW 
+package 1B and May 2025 for QW package 2 and 3. These will be the first urban roads to be financed by 
+the Bank in Beledweyne. UNOPS informed the mission that there are road contractors with the capacity to 
+undertake the works, and it was possible to transport equipment and construction materials from Mogadishu 
+and other major cities in Somalia. For the supervision of these works, the UNOPS TA contract with BRA 
+that includes other four cities will be amended in December 2024 to include Beledweyne.  
+  
+Dhusmareeb and Beledweyne Technical Studies. The institutional and urban infrastructure needs 
+assessments were completed for both cities in early 2023. The PIUs contracted UNOPS in December 2023 
+to prepare feasibility studies, detailed engineering designs, and bidding documents for priority 
+investments20, including roads/drainage, bridges, and public parks, with civil works anticipated to start by 
+ 
+20 Includes: (i) Dhusamereeb -- 10 sections of roads (approximately 24km) including drainage and solar streetlights; improvement of central market roads 
+(approximately 1.5km); and development of a public park (3,500m2), and (ii) Beledweyne – 8 roads (22 km) and two bridges (120 m).
+=== PAGE 22 ===
+ 
+22 
+ 
+March 2025.21 Dhusamareb and Beledweyne PIUs simultaneously procured and are jointly undertaking a 
+city-wide flood risk assessment to identify options for drainage upgrading and flood risk management and 
+identify prioritized investments to pre-feasibility stage (similar to the studies that were conducted in Garowe 
+and Kismayo), but detailed engineering designs will not be prepared as no funding for these investments is 
+currently available.  The consultants prepared an inception report and commenced the flood risk assessment 
+study. In addition, UNOPS is preparing a feasibility study and detailed engineering designs for two bridges 
+in Beledweyne. Two earlier identified sites have been dropped due to lack of access to the sites and new 
+sites identified. The first bridge will be in a newly identified location where the farmers are willing to sell 
+land for access road, while the second bridge will replace the current Liiqliiqato Bailey bridge within the 
+city. Community consultations, preparation of ESIA and technical investigations and surveys are ongoing. 
+UNOPS indicated they will submit a workplan with new timelines for preparation of bridge design as 
+changing the bridge locations midway into the assignment will have a significant impact on the delivery 
+timeline and cost of the assignment.  
+Component 4: Response to Urban Forced Displacement  
+Implementation Progress. To date, US$50.5 million has been disbursed to IOM, which has expensed 
+US$22 million and committed US$22.3 million, or 68% of the total component allocation of US$65 million. 
+The component reached nearly 300,000 (81% of 371,000 targets of drought induced IDPs in Mogadishu, 
+Baidoa, and Garowe as well as host communities. A third amendment to the output agreement was signed 
+between the FGS and IOM 2023.22 To date, 2,450 latrines and 6 boreholes were constructed, and 2 health 
+centers rehabilitated and equipped, and 106,450 individuals treated with emergency health and nutrition 
+services, 23,860 women supported with ANC and PNC services, 9,357 children treated for early stages of 
+malnutrition, 638 incremental housing units constructed, and 84,267 persons received lease agreements. 
+The relocation commencement for Hoodal and Barwaaqo is approaching with Hoodal relocation expected 
+to start during the week of May 19th, and Barwaaqo during the week of June 15th. Health operations in 
+Baidoa and Mogadishu have received greater than expected coverage largely due to new IDP arrivals in 
+Banadir IDP sites. Social service investments such as community centers, recreational equipment, tree 
+planting/greening and health support have been scaled up in relocation settlements aimed at raising the 
+quality of life within such communities. Delays with shelter procurement and shelter construction activities 
+in Baidoa have pushed back the expected completion dates for shelter activities for Barwaaqo, requiring a 
+conversation around extending timeframes for activity deliverables in Baidoa. 
+ 
+To date, 750 latrines and 2 boreholes were constructed, and 39,953 households received shelter and hygiene 
+kits, 39,685 households received multi-purpose cash assistance (MPCA) (2 of 4 batches), 216,315 women 
+and children received health and nutrition services, 21 health facilities supported to provide 10,647 children 
+affected by moderate acute malnutrition and pregnant and lactating women, 21,468 children affected by 
+severe acute malnutrition, amongst other support. Key challenges include delays in de-duplication for 
+MPCA with WFP, delays in securing land tenure documents required for latrine construction, and additional 
+health and nutrition needs related to late 2023 flooding.  
+ 
+ 
+ 
+ 
+ 
+21 Current timeline for key deliverables: (i) feasibility report, detailed designs, and bidding documents for quick wins 1 [November 30, 2024], (ii) feasibility 
+report, detailed designs, and bidding documents for quick wins 2 [December/January 30, 2024], (iii) feasibility study and detailed designs for 2 bridges 
+[March 30, 2025], (iv) award of road construction contracts for quick wins 1 [January 30, 2025], and quick wins 2 [February/March 28, 2025] and award 
+of bridge construction contracts [September 1, 2025], however AF3 funds may not be adequate to finance all priority investments in Beledweyne and 
+Dhusamareeb. 
+22 To extend the project closing date to September 30, 2024, and decrease the commitment threshold to 60% (from 70) to release payments.
+=== PAGE 23 ===
+ 
+23 
+ 
+Annex 1B: Technical Note on Drainage Investment in Mogadishu 
+ 
+Drainage Investments- Overall 
+  
+A Multi Criteria Analysis had been carried out to identify priority investment of the project that mainly 
+resulted in the identification of selected roads, bridges and drainage investments in the project cities. In 
+preparation for drainage investments; the PIU had carried out the necessary feasibility studies, preliminary 
+designs, environmental and social impact assessments, detailed engineering designs and bidding 
+documents; and these activities remain at various stages of implementation.  
+ 
+The Project Coordination Unit (PCU) had provided observations and recommendation in terms of important 
+considerations for modelling and detailed design of these infrastructure investments. It is expected that 
+these observations and recommendation are deliberated by UNOPS and associated design teams prior to 
+finalization of the detailed designs; notwithstanding, the final design responsibility rest with the UNOPS 
+and necessary technical rigor is expected. It is important to restore existing drainage systems to the extent 
+possible as a way of initial alleviation of flooding. Once restored, an effective plan of action is to be 
+deployed for continued regular maintenance.   
+ 
+The Municipalities must endeavor to preserve flood detention and retention areas as much as feasible and 
+maintain the natural drainage paths. Secondary to flood reduction, they form important public spaces for 
+recreation and greening the surroundings.  
+ 
+Implementation of most drainage packages will commence between March and July 2025; with an effective 
+construction period of between 18-24 months. Once contract works commence, given the limited contractor 
+capacity and complex nature of drainage engineering; the PCU/PIUs are advised to monitor progress 
+diligently in close collaboration with UNOPS. With the asphalting of previously gravel earth roads, increase 
+in road foundation height and the introduction of new roadside drainage, increase of runoff is expected that 
+could lead to local level ponding. It is therefore important that adequate cross culverts and leader drains are 
+incorporated in the road design to prevent increased local flooding. 
+  
+Drainage Investments in Mogadishu 
+  
+The Master Plan for the Trunk Drainage in Mogadishu had been completed. After much deliberation, the 
+flood infrastructure is proposed to be designed to accommodate a 25-year return period rainfall. The trunk 
+drainage infrastructure required to drain such a storm consists of trunk mains of 4m diameter. The proposed 
+construction methods for these include open cut sections of depth up to 8m and micro tunnelling. The 
+expected cost of the trunk drainage network is USD 446 Million. The practicality of constructing drainage 
+mains of 4m diameter using the construction methods proposed in a highly dense city; and the economic 
+viability of the works proposed is to be further verified. Additionally, it was noted with concern that the 
+existing drainage network in the city had not been included in the model; in effect ignoring its functionality. 
+However, the BRA is undertaking a condition assessment of 6.7kms of the estimated 9.0km of the existing 
+system network; and this work is to be expanded to cover the full 9.0km system. This report with the cross-
+sections, invert levels, manhole shaft locations etc. is to be shared with UNOPS by November 15, 2024, for 
+inclusion in the modelling. The PCU/ PIU requested that modeling for return period of 15 and 10 years be 
+done for informed decision making as with regards to return period to be used in the detailed engineering 
+design.   
+  
+Three “quick win” packages at a cost of US$ 102 Million were identified from three (catchments O-5, O-
+16 and O1) of the seven trunk drainage catchment areas and were reviewed and approved by PIU. The 
+figure below shows the Masterplan recommended Option 2 catchment areas and trunk drainage lines;
+=== PAGE 24 ===
+ 
+24 
+ 
+confirmed by the recently completed feasibility study. Catchment areas boundaries are marked in white, 
+micro-tunnelling (trenchless technology) sections in green, and open cut trench sections in black. The ESIA 
+and the detailed topographic survey and geotechnical investigation are ongoing. A decision is to be taken 
+as to proceed with the design of these “quick wins” concentrating on their completion by end of December 
+2024 or to wait until the completion of the full study and designs by March/April 2025. The latter option 
+would take 3-4 months longer but is the more prudent option to allow time to include the existing drainage 
+in the model and as all analytics would be completed by then. 
+ 
+ 
+ Map of Mogadishu Trunk Drainage Lines (Masterplan Preferred Option 2) 
+ 
+The detailed engineering designs for trunk drainage are expected to be completed March 2025. With the 
+necessary review and approvals, bid document preparation and international tender processes, evaluation 
+and award; some proportion of the planned works may not be undertaken within the current project period. 
+Therefore, the Mogadishu PIU is advised to fully restore and rehabilitate the existing drainage network to 
+the extent feasible and explore the possibility of carrying out some local level improvement to alleviate 
+flooding in the shorter term.  
+  
+It was also reported that the calibration of the model had been difficult due to lack of locally observed data. 
+However, the model is aligned with the observations of the Master Plan of 2018 and therefore, the model 
+calibration is within tolerable accuracy. In consideration of infrastructure investment proposed; the PIU in 
+consultation with BRA Public Works Department and UNOPS is advised to consider setting up a limited 
+number of rain gauges and streamflow measuring instruments to facilitate more accurate model calibration.
+=== PAGE 25 ===
+ 
+25 
+ 
+ 
+Annex 1C: Details of Road Investments and Progress Status 
+ 
+Table 1: Summary of SURP II Road Investments 
+Progress Status 
+ KM  
+ %  
+Total Completed 
+32.34 
+33 
+Total ongoing roads 
+9.90 
+10 
+ Total under Procurement  
+14.96 
+15 
+Total planned (designs ready)* 
+39.48 
+41 
+Total expected at end of Project 
+96.68 
+100 
+*Designs for all other cities are ready except for Baidoa 9km gravel road which will be ready by Mar ’25. 
+Table 2: Road Investments: Progress status by City 
+City 
+Road Investment 
+Total Km 
+Completed, 
+Km 
+Works 
+Ongoing 
+Procurement 
+stage 
+Mogadishu 
+  
+0.23 
+0.23 
+- 
+- 
+  
+Community road 
+0.23 
+0.23 
+- 
+0 
+Baidoa 
+  
+21.25 
+14.70 
+- 
+6.55 
+  
+Package 1&2 
+14.70 
+14.70 
+- 
+0 
+  
+Package 3 
+6.55 
+- 
+0 
+6.55 
+Kismayo 
+  
+22.11 
+8.30 
+8.70 
+5.11 
+  
+Package 1&2 
+17.00 
+8.30 
+8.70 
+0 
+  
+Package 3 
+5.11 
+- 
+0 
+5.11 
+Garowe 
+  
+10.31 
+9.11 
+1.20 
+- 
+  
+Package 1&2 
+9.11 
+9.11 
+- 
+0 
+  
+VO 
+1.20 
+- 
+1.20 
+ 
+Dhusamareeb 
+  
+3.30 
+- 
+- 
+3.30 
+  
+Package 1  
+3.30 
+- 
+- 
+3.30 
+Total length, Km 
+57.20 
+32.34 
+9.90 
+14.96 
+  
+Table 3: Road Investments: Planned under AF3 (designs ready) 
+City 
+Investment 
+ Km  
+ %  
+Mogadishu 
+4 road packages 
+12.83 
+32 
+Baidoa* 
+1 road package 
+9.00 
+23 
+Garowe 
+1 road package 
+2.00 
+5 
+Dhusamareeb 
+2 road packages 
+6.40 
+16 
+Beledweyne 
+3 road packages 
+9.25 
+23 
+Total planned roads 
+39.48 
+100 
+*Preparation of designs will start in Dec ’24 and will take 4 months to complete.
+=== PAGE 26 ===
+ 
+26 
+ 
+Annex 1D: ESF Agreed Next Steps 
+ 
+ 
+ESF 
+1 
+Secure escrow account compensation funds, 
+compensate 
+PAPs 
+physically 
+and/or 
+economically displaced by project activities. 
+PCU/PIUs 
+Before 
+contract 
+mobilization. 
+2 
+Include contractor labor recruitment plan in 
+bidding documents.  
+PCU/PIUs 
+Continuous 
+3 
+Strengthen the capacity of female Community 
+Engagement 
+Officers, 
+e.g. 
+through 
+certification. 
+PCU/PIUs 
+Continuous 
+4 
+Conduct cross-city learning exchange trips.  
+PCU/PIUs 
+Continuous 
+5 
+Implement the inclusion action plan under 
+annex 6 to ensure women, youth, PWDs and 
+other disadvantaged groups access project 
+benefits such as employment and upskilling.  
+PCU/PIUs 
+Continuous 
+6 
+Ensure the design of sub-projects such as 
+roads 
+includes 
+appropriate 
+/feasible 
+paths/routes to access households/facilities, as 
+agreed upon with communities and their 
+leadership. 
+PIUs 
+Continuous 
+7 
+UNOPS to submit quarterly reports on OHS 
+inspections that are carried out weekly by 
+E&S officer, showing details of compliance 
+with EHS guidelines at construction sites, and 
+details of any sanctions against recalcitrant 
+contractors. 
+UNOPS through PCU 
+Quarterly 
+every year 
+8 
+PCU, PIU and IoM to proactively inspect the 
+shelters in Baidoa, to ensure any structural 
+challenges are promptly addressed, to ensure 
+that activities under the forced displacement 
+component are concluded with no pending 
+E&S obligations, including grievances. 
+PCU/PIU/IoM 
+Immediate
+=== PAGE 27 ===
+ 
+27 
+ 
+Annex 2: Disbursements  
+ 
+Total disbursement is US$120 million or approximately 48% of total US$253.5 million. Disbursement 
+trend increased over time.
+=== PAGE 28 ===
+ 
+28 
+ 
+ 
+Annex 3: MTR Assessment on Project Design 
+ 
+Relevance. The PDO of the project is “to strengthen public service delivery capacity of local governments, 
+increase access to climate-resilient urban infrastructure and services, and to provide immediate and 
+effective response to an eligible crisis or emergency in selected areas.” The PDO and its indicators remain 
+highly relevant and achievable and should be retained. The project aims to provide 1 million people with 
+improved access to climate-resilient urban infrastructure and services and has already exceeded 1 million 
+beneficiaries reached under the municipal drought response, of which a significant proportion are women 
+and IDPs.  
+ 
+The relevance for SURP-II remains high particularly in light of the El Niño Southern Oscillation 
+(ENSO), which influences Somalia’s climate variability, bringing more rainfall and flooding during El 
+Niño and droughts in La Niña years.23 Climate-related shocks are occurring in increasingly quick 
+succession, leaving little time for Somalis to recover.24 During the MTR, the SURP-II mayors highlighted 
+the significance of the project for increasing urban resilience to climate and disaster risks, especially 
+flooding through drainage infrastructure investments and analytics that have helped prioritize Flood Risk 
+Mitigation (FRM) investments. The mayors expressed demand for further support to strengthen urban 
+resilience, including improving the capacity of municipal land administration departments and increasing 
+the skills of local government functions on urban planning.  
+ 
+Expected outputs and results of the project, particularly the PDO indicators are gaining momentum. 
+Three of the four PDO-level indicators are either on track or already surpassed. The only indicator that has 
+been lagging is on total people with improved access to climate-resilient urban infrastructure and services. 
+Beneficiaries are only counted when a sub-project has been completely handed over. The target for this 
+indicator was substantially increased with the third additional financing to factor in additional sub-projects 
+that had not been included in the original project. As of the latest estimates, 489,899 people have benefitted 
+from completed works, which stands at 49% of the end target of 1,000,000. Given the scale of works 
+ongoing, under procurement and in the pipeline, the indicator is expected to be achieved by project closing 
+date. 
+ 
+Achievements  
+ 
+At the time of the MTR, the project has accomplished the following:  
+ 
+1. Three additional financing, with total project amount of US$253.5m. The project has pioneered 
+approaches like municipal-led implementation, use of country system, inter-governmental fund 
+transfer, participatory planning, economic inclusion, capacity building and analytical works that 
+have tangibly strengthened the public service delivery capacity of local governments while 
+increasing access to climate-resilient urban infrastructure and services.  
+ 
+2. The use of country system and implementation at municipal level. This is one of the 
+achievements under the project. The mission acknowledged ownership by the cities on investments 
+completed and ongoing activities under the project. The allocation formula and transfer system 
+ 
+23 Adelphi. Weathering Risk: Climate Risk Profile Somalia. 2023. 
+24 GFDRR. Somalia Country Profile. Accessed in 2023. 
+12 Climate Analytics. From droughts to floods: how Eastern
+=== PAGE 29 ===
+ 
+29 
+ 
+which follows the government system has become a good example of making development works 
+in Somalia cities. It is expected that the cities through support from PCU, PIUs, and the MPWRH, 
+will prepare of the O&M and sustainability plan prior to the project closing date.  
+ 
+3. Strengthened government capacity at all levels. Strong public service delivery and increasing 
+access to climate-resilient urban infrastructure and services depend on good inter-governmental 
+coordination and capacity. SURP-II has been able to build capacity at the municipal, federal 
+member state, and federal levels of government in Somalia across different functions including 
+engineering, contract management, and M&E. Some of the most The Somali Mayors Forum and 
+engineering exchange in Sri Lanka were particularly notable in that they promoted greater dialogue 
+and understanding across cities and different levels of government.  
+ 
+4. City-wide urban analytics have led to more targeted investments. Flood risk management 
+diagnostics identified US$230 million in FRM investment needs in Kismayo and US$120 million 
+for Garowe. The studies equipped the municipalities with the evidence needed to strategically 
+prioritize drainage investments and provided a basis to engage with donors and other developing 
+partners.  
+ 
+5. Tangible civil works impacts. The first two packages have been completed for 3 cities, and more 
+are under preparation. To date, across Baidoa, Garowe, Kismayo, and Mogadishu 31.67 km or road 
+length have been completed with 26.56 km in roadside drainage completed. Such investments have 
+increased accessibility to services, including schools, hospitals, and markets. Additionally, business 
+expansion has already been seen along improved roads with small businesses and vendors reporting 
+increased customer traffic. And drainage systems have been proven to mitigate flood risks, reduce 
+health risks, and improve public hygiene. The remaining cities have completed the feasibility and 
+designs for their investments, with implementation expected to being early next year. The drought 
+response delivered through IOM has significantly exceeded the target of beneficiaries reached by 
+285%.
+=== PAGE 30 ===
+ 
+30 
+ 
+Annex 4: Impact Assessment Reports  
+ 
+BAIDOA PROJECT IMPACT ASSESSMENT REPORT 
+1. Introduction 
+ 
+The Nagaad/SURP-II Project, funded by the World Bank, is a transformative initiative aimed at enhancing 
+public service delivery, expanding climate-resilient urban infrastructure, and supporting rapid crisis 
+response across six cities in Somalia. This project focuses on bridging critical infrastructure gaps while 
+improving living conditions for both host communities and internally displaced persons (IDPs) in these 
+urban centers. 
+In preparation for the Midterm Review (MTR) of the Nagaad Project, Key Informant Interviews (KIIs) 
+were conducted with community leaders, government officials, project staff, and beneficiary group 
+representatives in Baidoa. The primary purpose of these interviews is to gather qualitative insights into the 
+project’s impact, challenges, and areas for improvement. This qualitative data will be used alongside 
+quantitative data from the project’s Management Information System (MIS) to build a comprehensive 
+assessment of the project's performance and impact. 
+ 
+2. Stakeholder Information 
+ 
+To ensure a well-rounded perspective on the project’s impact, a diverse range of stakeholders was 
+interviewed, including: 
+ 
+City 
+Group 
+Position 
+Number of People Interviewed 
+Baido
+a 
+Local Government 
+Mayor 
+1 
+Baido
+a 
+Local Business 
+Market Vendor 
+2 
+Baido
+a 
+Community Organization 
+Youth Leader 
+1 
+Baido
+a 
+Community Member 
+Resident 
+3 
+Total 
+7 
+  
+Interview Methodology: Each interview lasted 30-45 minutes, covering topics ranging from infrastructure 
+impact to community satisfaction. Interviews were conducted confidentially in Somali, with responses 
+translated as needed to ensure clarity and accuracy. Interviewers documented responses thoroughly to 
+provide a reliable qualitative foundation for the MTR. 
+ 
+3. Impact of Infrastructure Improvements 
+ 
+The infrastructure improvements under the Nagaad/SURP-II Project have yielded several tangible benefits 
+for Baidoa’s residents. These enhancements have not only improved access to essential services but have 
+also positively impacted local businesses, community well-being, and safety. 
+ 
+Roads and Accessibility 
+• 
+Improved Market Access and Economic Activity: The construction of new roads, such 
+as Ali Amhar and Hospital Road 1B, has significantly boosted access to local markets like 
+Muuri Market. Previously isolated by rough, unpaved paths, these markets now benefit from
+=== PAGE 31 ===
+ 
+31 
+ 
+increased foot traffic and smoother transport of goods, promoting local commerce and 
+creating economic opportunities. 
+• 
+Enhanced Connectivity and Reduced Travel Times: Road improvements have cut down 
+travel times, especially for residents on the city’s outskirts, including IDP camps. With more 
+direct routes and better road quality, community members now experience easier and faster 
+access to schools, healthcare facilities, and other services. 
+• 
+Expanded Emergency Response Capabilities: The improved road network has facilitated 
+faster emergency responses, as ambulances and other emergency vehicles can reach critical 
+locations more quickly, contributing to enhanced public safety. 
+ 
+Drainage Systems 
+ 
+• 
+Flood Risk Mitigation: Upgraded roadside drainage systems have been essential in 
+reducing the frequency and severity of flooding, particularly during seasonal rains. These 
+systems channel rainwater away from residential areas and roads, effectively managing 
+water flow and reducing potential hazards. 
+• 
+Efficient Water Management and Community Resilience: The drainage improvements 
+have also fostered a greater sense of community confidence and resilience. Residents report 
+feeling safer during heavy rains, knowing that flooding risks have been mitigated, allowing 
+for continued mobility and economic activity. 
+ 
+Street Lighting 
+ 
+• 
+Improved Night Safety and Extended Business Hours: The installation of solar 
+streetlights has transformed nighttime safety and mobility. With well-lit streets, residents 
+feel more comfortable moving around after dark, and local businesses have extended their 
+hours, contributing to an active evening economy. 
+• 
+Reduction in Crime and Increased Community Activities: Increased lighting has led to 
+a noticeable drop in crime rates, as well-lit areas deter illegal activities. Additionally, 
+residents now gather for social activities in the evenings, creating a more connected and 
+vibrant community environment. 
+ 
+Pedestrian Walkways 
+ 
+• 
+Enhanced Safety for Vulnerable Groups: Dedicated pedestrian walkways have 
+significantly improved safety for those who previously shared roads with vehicles. 
+Vulnerable groups, including children and the elderly, now have safer spaces for movement, 
+reducing accident risks. 
+• 
+Increased Mobility and Promotion of a Healthier Lifestyle: With walkways available, 
+residents have adopted healthier habits, incorporated walking and jogging into their daily 
+routines, which has led to a shift towards a more health-conscious and socially engaged 
+community. 
+ 
+4. Community Perception and Satisfaction. The community in Baidoa has expressed a largely positive 
+response to the SURP-II infrastructure developments, highlighting improved connectivity and quality of 
+life. However, certain areas have been identified where adjustments could further enhance the project’s 
+impact:
+=== PAGE 32 ===
+ 
+32 
+ 
+• 
+General Satisfaction Levels: Community members appreciate the ease of transportation and access 
+to essential services. The new roads and walkways have been particularly beneficial in improving 
+mobility and social interactions. 
+ 
+Areas for Improvement: 
+• 
+Road Extensions and Width: Residents note that some roads could be widened or 
+extended to accommodate higher traffic volumes, especially in areas experiencing rapid 
+population growth. 
+• 
+Closed Drains for Safety: Open roadside drains, while effective in flood management, pose 
+a safety risk to pedestrians and animals. The community has recommended covering drains 
+to enhance safety. 
+• 
+Maintenance Needs: Regular maintenance of roads, walkways, and drainage systems has 
+been emphasized as essential for sustaining the infrastructure's benefits. 
+ 
+6. Livelihood and Economic Impact. The infrastructure improvements have contributed 
+significantly to local economic growth and improved livelihoods for Baidoa’s residents. Key 
+economic impacts include: 
+ 
+• 
+Increased Job Opportunities: The construction phase created numerous jobs for residents, 
+including skilled and unskilled positions. The increase in employment not only provided income 
+but also allowed workers to acquire valuable skills for future projects. 
+• 
+Boosted Local Businesses and Reduced Transportation Costs: Improved roads have made it 
+easier for vendors and small businesses to transport goods, reducing costs and expanding their 
+customer base. As a result, there is more local commerce, and residents have more accessible 
+shopping options. 
+• 
+Impact on Public Transport and Property Values: The development of smoother, reliable roads 
+has led to fewer breakdowns of popular public transport options, such as Bajajs, enhancing 
+efficiency and affordability for daily commuters. Additionally, property values have risen in areas 
+close to the newly constructed roads, further incentivizing investment in these neighborhoods. 
+ 
+7. Beneficiaries and Inclusivity. The SURP-II Project has successfully reached a broad range of 
+beneficiaries within Baidoa, with specific groups reporting substantial improvements in their daily 
+lives: 
+ 
+• 
+Identification of Beneficiary Groups: 
+o Residents and Local Community: General public benefits from increased safety, 
+improved infrastructure, and reduced travel times. 
+o Local Businesses and Entrepreneurs: Enhanced access to customers and a more favorable 
+environment for business operations. 
+o Local Government: Infrastructure improvements have aided the local government in 
+providing better services and addressing community needs effectively. 
+• 
+Special Impact on Vulnerable Groups: 
+o Internally Displaced Persons (IDPs): Many IDPs, particularly women and youth, now 
+have improved access to markets, healthcare, and social services, which has fostered 
+integration into the urban community. 
+o Women and Youth: Better connectivity has enabled NGOs and support agencies to deliver 
+services more effectively, particularly to women and young people, who often face mobility 
+constraints.
+=== PAGE 33 ===
+ 
+33 
+ 
+8. Regional Influence and Wider Impact. The impact of the infrastructure improvements extends 
+beyond Baidoa, serving as a model for urban development in neighboring areas and motivating 
+other towns to invest in similar projects: 
+ 
+• 
+Influence on Neighboring Towns and Regions: Surrounding towns like Hudur and Berdale have 
+started their own infrastructure projects, inspired by Baidoa’s progress. By building gravel roads 
+and improving local infrastructure, these towns aim to replicate Baidoa’s development success. 
+• 
+Examples of Replication Efforts: The visible improvements in Baidoa have increased advocacy 
+from other regions, prompting them to seek donor support and partner with development agencies 
+for similar projects. The SURP-II project has therefore set a precedent, encouraging a ripple effect 
+of urban development across the region. 
+ 
+9. Challenges and Lessons Learned. The implementation of SURP-II’s infrastructure projects in 
+Baidoa faced several challenges, which also provided valuable lessons for future initiatives: 
+ 
+Key Challenges: 
+ 
+o Disruption of Public Utilities: Road construction work occasionally impacted water pipes, 
+electricity lines, and communication cables, leading to temporary service interruptions for 
+residents and businesses. 
+o Environmental Concerns: Dust, noise, and waste generated during construction affected 
+air quality and contributed to pollution, especially in dry periods. Mitigation measures, like 
+water spraying for dust control, were implemented but posed ongoing management 
+challenges. 
+o Construction-Related Road Closures: Temporary Road closures were necessary during 
+construction, causing inconvenience for residents and disrupting local businesses. Although 
+alternative routes were provided, these disruptions impacted daily activities. 
+o Encroachment Issues: Some structures built close to road reserves required removal or 
+adjustment, resulting in delays and necessitating compensation arrangements. 
+ 
+Lessons for Future Projects: 
+ 
+o Community Involvement in Planning: Early and continuous engagement with community 
+members helped build trust and reduce friction, making it clear that projects of this scale 
+may involve temporary inconveniences for long-term benefits. 
+o Proactive Utility Coordination: Improved coordination with utility providers from the 
+start can help prevent service disruptions, ensuring smoother project timelines and less 
+disruption to the community. 
+o Importance of Public Awareness Campaigns: Educating residents about the project 
+timeline, benefits, and temporary disruptions can enhance community patience and 
+understanding, easing the implementation process. 
+o Urban Planning and Zoning Compliance: Setting and enforcing clear guidelines on road 
+reserves and building encroachment can help prevent delays and community disputes in 
+future infrastructure projects. 
+ 
+  10. Recommendations for Improvement 
+ 
+Infrastructure Needs:
+=== PAGE 34 ===
+ 
+34 
+ 
+o Box Culverts for Flood-Prone Areas: Installing box culverts in locations prone to seasonal 
+flooding can improve accessibility and reduce waterlogging issues. 
+o Additional Roads and Streetlights: Expanding Road networks and installing streetlights 
+in other areas would ensure broader coverage, improving both safety and mobility. 
+o Vocational Training Centers and Community Facilities: Establishing training centers 
+would provide residents with skill-building opportunities, contributing to long-term 
+community development. 
+o Enhanced Water Management Systems: Improved water catchment areas and drainage 
+facilities would support sustainable water management, especially important in high-
+rainfall seasons. 
+  
+Community and Government Roles in Sustainability: 
+ 
+o Local Involvement in Infrastructure Maintenance: Encouraging community members to 
+participate in infrastructure upkeep promotes a sense of ownership and responsibility. 
+o Traffic Awareness and Road Safety Programs: Educating the public on road safety 
+practices, speed limits, and pedestrian crossing use will ensure that infrastructure is used 
+safely and efficiently. 
+o Immediate Response Protocols: Establishing procedures for quick repairs of road damage 
+or drainage blockages can prevent further infrastructure degradation and ensure consistent 
+functionality. 
+ 
+11. Conclusion. The Nagaad/SURP-II infrastructure projects have brought significant improvements to 
+Baidoa’s urban environment, enhancing accessibility, safety, and economic growth. These developments 
+have not only improved quality of life but also served as a model for surrounding regions, showcasing the 
+positive impact of targeted urban resilience projects. Looking forward, the focus will remain on expanding 
+infrastructure coverage, sustaining project outcomes, and enhancing community involvement to ensure 
+long-term success. Continued collaboration between the community, local government, and development 
+partners will be key to building on the progress achieved and addressing emerging urban challenges.
+=== PAGE 35 ===
+ 
+35 
+ 
+GAROWE SURP-II PROJECT IMPACT ASSESSMENT REPORT 
+ 
+1. Introduction. The Nagaad/SURP-II Project, funded by the World Bank, focuses on enhancing public 
+service delivery, expanding access to climate-resilient urban infrastructure, and bolstering community 
+resilience across key Somali cities, including Garowe. This initiative is part of a larger effort to support 
+urban infrastructure development that addresses the needs of both host communities and internally 
+displaced persons (IDPs). In Garowe, the project has implemented new road networks, roadside drainage 
+systems, pedestrian walkways, and solar streetlights, aiming to improve connectivity, safety, and 
+accessibility for residents. To gain insight into the project’s impact, Key Informant Interviews (KIIs) were 
+conducted with various stakeholders, including local government officials, business owners, and residents, 
+as part of the Midterm Review (MTR). These interviews provide qualitative data to complement 
+quantitative findings from project reports, enabling a holistic understanding of how the project has 
+influenced community well-being and economic activities. 
+ 
+2. Stakeholder Information. A range of stakeholders was interviewed to capture diverse perspectives on 
+the project’s impact: 
+City 
+Group 
+Position 
+Number of People Interviewed 
+Garowe 
+Local Government 
+Deputy Mayor 
+1 
+Garowe 
+Local Business 
+Shop Owner 
+2 
+Garowe 
+Community Member 
+Resident 
+2 
+Total 
+5 
+  
+Interview Methodology: Each interview lasted approximately 30-45 minutes and was conducted in 
+Somali, with responses translated as needed. The responses were documented to provide an in-depth view 
+of the infrastructure improvements' impact on daily life, community safety, and economic growth in 
+Garowe. 
+ 
+3. Impact of Infrastructure Improvements. The infrastructure developments implemented under the 
+SURP-II Project in Garowe have yielded several significant benefits for the city’s residents, enhancing 
+accessibility, safety, and economic vitality. Key areas of impact include: 
+ 
+• 
+Roads and Accessibility 
+o Improved Access to Services: The construction of new roads, such as Towfiq and 30th 
+Street, has facilitated smoother access to essential services, including schools, healthcare 
+facilities, and markets. Residents reported substantial reductions in travel times and the 
+increased availability of transportation options, such as Bajaj services, which have become 
+more widespread following road improvements. 
+o Enhanced Economic Activity: The improved road network has attracted new businesses 
+along these routes, creating job opportunities and promoting economic growth. Shops, 
+cafes, and other small businesses have benefited from increased foot traffic, while property 
+values along these roads have risen, encouraging further investment. 
+o Safety and Emergency Response: Better roads have contributed to improved emergency 
+response times, with emergency vehicles able to reach affected areas more quickly and 
+safely. Additionally, reduced road roughness has lowered vehicle wear and tear, further 
+supporting reliable access to essential services. 
+ 
+• 
+Drainage Systems
+=== PAGE 36 ===
+ 
+36 
+ 
+o Flood Prevention: The implementation of roadside drainage systems has significantly 
+reduced the risk of flooding along major roads, especially in areas like Towfiq Street. These 
+drainage channels ensure smoother water flow during the rainy season, minimizing road 
+damage and protecting surrounding properties. 
+o Improved Sanitation and Road Longevity: The drainage infrastructure has improved 
+local sanitation by preventing water stagnation and erosion, enhancing the long-term 
+durability of the road network and creating cleaner, more resilient urban spaces. 
+ 
+• 
+Street Lighting 
+ 
+o Nighttime Safety and Crime Reduction: Solar-powered streetlights installed along major 
+roads have enhanced nighttime visibility, reduced crime rates and improving safety for 
+residents. Many community members, especially women and youth, feel safer traveling at 
+night, and local businesses have been able to extend their operating hours, supporting a 
+more active evening economy. 
+o Increased Community Mobility: The lighting has encouraged community activities after 
+dark, allowing residents to move freely and safely around the city in the evenings and 
+fostering a stronger sense of community. 
+ 
+• 
+Pedestrian Walkways 
+ 
+o Increased Mobility and Health Benefits: The newly installed pedestrian walkways have 
+improved mobility for pedestrians, particularly vulnerable groups such as children and the 
+elderly. These walkways provide safe, dedicated paths, encouraging walking as a mode of 
+transport and supporting healthier, more active lifestyles. 
+o Enhanced Community Connectivity: With these walkways, community members are now 
+better connected, and pedestrian safety has greatly improved, reducing the risk of road 
+accidents and enhancing the overall walkability of the city. 
+ 
+4. Community Perception and Satisfaction. The feedback gathered from Garowe residents indicates 
+strong community approval of the SURP-II infrastructure improvements, with key areas highlighted as 
+follows: 
+• 
+General Satisfaction: Community members expressed positive perceptions of the infrastructure 
+developments, appreciating improved mobility, safety, and economic opportunities. The 
+enhancements in road conditions and street lighting have increased community morale, with 
+resident’s hopeful for continued urban progress. 
+• 
+Areas for Improvement: 
+o Broader Drainage Improvements: While the drainage systems have reduced flooding 
+along main roads, residents noted that further improvements could benefit additional areas 
+prone to waterlogging. Improved cleaning and maintenance protocols were suggested to 
+ensure optimal drainage performance. 
+o Green Spaces and Beautification: Some residents expressed a desire for more greenery 
+along the newly developed roads. This includes planting trees or shrubs that would enhance 
+the visual appeal of these spaces, contributing to environmental benefits and community 
+well-being. 
+ 
+5. Livelihood and Economic Impact. The SURP-II infrastructure improvements have fostered economic 
+growth and expanded livelihood opportunities within Garowe, enhancing residents’ quality of life and 
+business prospects:
+=== PAGE 37 ===
+ 
+37 
+ 
+ 
+• 
+Increased Job Opportunities: The construction and maintenance phases of the project generated 
+local employment, offering job opportunities that ranged from skilled labor in construction to 
+maintenance roles. This influx of jobs has positively impacted the local economy, helping residents 
+improve their livelihoods. 
+• 
+Enhanced Business Environment: With improved roads and pedestrian access, local businesses 
+have experienced an increase in customer traffic. The upgraded road network has enabled more 
+efficient goods transport, while cafes, shops, and service providers have reported growth in 
+clientele, contributing to an active local economy. 
+• 
+Reduction in Travel and Transport Costs: Enhanced connectivity and safer roads have made 
+daily commutes more efficient and affordable, with businesses saving on transportation costs and 
+residents finding it easier to access essential services and employment centers. 
+ 
+7. Beneficiaries and Inclusivity. The SURP-II Project in Garowe has reached a wide array of 
+beneficiaries, with positive impacts noted for vulnerable groups: 
+ 
+• 
+Key Beneficiary Groups: 
+o Residents and Business Owners: Property owners along the newly constructed roads have 
+benefited from increased property values, while businesses have thrived due to higher foot 
+traffic and enhanced accessibility. 
+o Vulnerable Groups: Women, children, the elderly, and IDPs have particularly benefited 
+from safer pedestrian pathways, improved road access, and enhanced security measures, 
+such as street lighting. These improvements have contributed to greater social inclusion and 
+access to resources. 
+• 
+Community-Wide Benefits: The improved infrastructure has provided all residents, regardless of 
+socio-economic status, with enhanced access to public spaces and services, promoting inclusivity 
+and broader community cohesion. 
+ 
+8. Regional Influence and Wider Impact. The infrastructure developments in Garowe have also had 
+positive effects beyond the immediate project area, influencing neighboring communities and 
+setting a model for further urban development: 
+• 
+Increased Inter-Regional Connectivity: New roads have facilitated easier travel for vehicles 
+carrying goods across regions, supporting broader trade and improving supply chain efficiency in 
+and around Garowe . 
+• 
+Model for Other Regions: The success of Garowe’s infrastructure improvements has encouraged 
+nearby towns to seek similar developments, with some areas looking to replicate these projects and 
+enhance their own urban environments. This cross-regional interest underscores the broader impact 
+of the SURP-II Project as a catalyst for urban development. 
+  
+9. Challenges and Lessons Learned. The implementation of the SURP-II infrastructure projects in 
+Garowe encountered some challenges, which provided key insights and lessons to guide future 
+projects: 
+ 
+• 
+Key Challenges: 
+ 
+o Utility Disruptions: During construction, utility services such as water and electricity were 
+occasionally disrupted, affecting residents and businesses. Improved pre-planning and 
+coordination with utility providers could mitigate these issues in future projects.
+=== PAGE 38 ===
+ 
+38 
+ 
+o Temporary Inconveniences: Road closures, dust, and noise during construction were 
+noted as temporary inconveniences for the community. These disruptions, though managed 
+with alternative routes, impacted daily activities, particularly for residents in affected areas. 
+o Maintenance Needs for Drainage Systems: Some stakeholders expressed concerns about 
+the long-term maintenance of drainage systems to ensure consistent flood prevention. 
+Establishing regular cleaning and monitoring routines was highlighted as essential for 
+sustaining the system’s effectiveness. 
+ 
+• 
+Lessons for Future Projects: 
+o Community Engagement is Vital: Early and regular communication with residents 
+increased their understanding and acceptance of temporary inconveniences, building trust 
+and fostering a sense of community involvement. 
+o Better Utility Coordination: Collaborating with utility providers before project initiation 
+helped minimize service disruptions, enabling smoother project execution. 
+o Documentation and Knowledge Sharing: Capturing lessons learned and maintaining open 
+communication channels among project teams and the local community ensured that 
+challenges were addressed effectively and can be avoided in future projects. 
+ 
+10. Recommendations for Improvement. Based on community feedback and project outcomes, 
+several recommendations were identified to enhance the impact and sustainability of Garowe’s 
+infrastructure improvements: 
+ 
+• 
+Infrastructure Needs: 
+o Expanded Drainage and Greening Initiatives: Expanding the drainage network to more 
+areas and incorporating green spaces along major roads could further improve flood 
+management and enhance the urban environment’s visual appeal. 
+o Regular Maintenance Schedules: Establishing systematic maintenance schedules for 
+roads, drainage systems, and street lighting would preserve the quality and functionality of 
+the infrastructure, ensuring longevity and reducing the risk of deterioration. 
+o Traffic and Pedestrian Safety Education: Implementing safety campaigns to educate 
+residents on safe road usage, pedestrian walkways, and traffic rules would support 
+responsible infrastructure use and improve public safety. 
+• 
+Community and Government Roles in Sustainability: 
+o Local Ownership and Accountability: Encouraging community members to take an active 
+role in reporting damage or maintenance needs would promote a shared sense of 
+responsibility and preserve infrastructure quality. 
+o Collaborative Maintenance Programs: Local government and community partnerships 
+could support ongoing maintenance efforts, including cleaning, tree watering, and 
+streetlight servicing, fostering a sustainable, well-maintained urban environment. 
+ 
+10. Conclusion. The SURP-II infrastructure projects in Garowe have significantly enhanced the city’s 
+accessibility, economic potential, and safety, creating a positive ripple effect throughout the community. 
+The improved roads, drainage systems, walkways, and street lighting have transformed daily life for 
+residents, reduced crime, and bolstered the local economy. Additionally, the success of these projects has 
+set a model for neighboring areas, inspiring further urban improvements across the region. 
+Looking ahead, maintaining the infrastructure and expanding initiatives such as drainage and green spaces 
+will be critical to sustaining these achievements. Through continued collaboration between the local 
+government, community, and development partners, Garowe’s infrastructure can continue to serve as a 
+foundation for a resilient and prosperous urban future.
+=== PAGE 39 ===
+ 
+39 
+ 
+KISMAYO SURP-II PROJECT IMPACT ASSESSMENT REPORT 
+ 
+1. Introduction. The Nagaad/SURP-II Project, funded by the World Bank, aims to enhance urban 
+infrastructure, public service access, and climate resilience across Somalia’s key cities, including Kismayo. 
+This project is particularly focused on improving the lives of both host communities and internally displaced 
+persons (IDPs) through the construction of climate-resilient roads, pedestrian walkways, drainage systems, 
+and solar streetlights. In Kismayo, these improvements aim to increase mobility, safety, and economic 
+opportunity while fostering community development and resilience. As part of the Midterm Review (MTR) 
+of the Nagaad Project, Key Informant Interviews (KIIs) were conducted with various stakeholders, 
+including government officials, local business owners, and service providers, to assess the project’s impact. 
+The feedback collected provides valuable qualitative insights that complement quantitative data, capturing 
+the project’s impact on quality of life, local economic growth, and community safety in Kismayo. 
+ 
+2. Stakeholder Information. The following stakeholders in Kismayo were interviewed to gain a 
+comprehensive understanding of the SURP-II project’s impact: 
+ 
+City 
+Group 
+Position 
+Number of People Interviewed 
+Kismay
+o 
+Local Government 
+Mayor 
+1 
+Kismay
+o 
+Service Provider 
+Taxi Driver 
+1 
+Kismay
+o 
+Local Business 
+Small Business Owner 
+2 
+Kismay
+o 
+Community Member 
+Resident 
+3 
+Total 
+7 
+  
+Interview Methodology: Each interview was conducted in Somali and lasted approximately 30-45 
+minutes. Responses were translated and documented, allowing a detailed view of infrastructure 
+improvements and their effects on everyday life in Kismayo. 
+ 
+3. Impact of Infrastructure Improvements. The infrastructure improvements introduced under the 
+SURP-II Project have had a transformative impact on Kismayo’s residents, businesses, and overall city 
+landscape. These developments have enhanced accessibility, increased safety, and bolstered economic 
+activity across the city. The main areas of impact include: 
+ 
+• 
+Roads and Accessibility 
+o Improved Access to Services: The newly constructed and rehabilitated roads, such as those 
+on Afmadow and 15 May Roads, have significantly improved access to essential services 
+like schools, hospitals, and markets. Residents report faster, more reliable transportation 
+options, with previously challenging routes now accessible for both private vehicles and 
+taxis, allowing residents to reach these services with ease. 
+o Reduced Travel Time and Business Growth: Improved Road conditions have drastically 
+reduced travel times across the city, enhancing overall productivity. For example, travel to 
+Suqyare Market now takes minutes instead of hours. This efficiency has spurred local 
+business growth, with many new shops, markets, and supermarkets opening along the 
+rehabilitated roads, benefiting from the increased customer footfall.
+=== PAGE 40 ===
+ 
+40 
+ 
+o Safer and More Reliable Transportation: Better roads have resulted in fewer vehicle 
+breakdowns, which has particularly benefitted the local taxi industry. Drivers report 
+substantial reductions in maintenance costs, as the improved infrastructure has allowed for 
+safer, more reliable services, reducing wear and tear on their vehicles. 
+ 
+• 
+Drainage Systems 
+o Effective Flood Prevention: The roadside drainage systems have effectively reduced 
+flooding during heavy rains, which previously created major challenges for residents and 
+businesses. Areas like Argo and Calanley Road, once prone to severe flooding, are now 
+flood-free, allowing for uninterrupted business operations and easier mobility for residents.  
+o Enhanced Sanitation and Health Benefits: The improved drainage systems have also 
+contributed to better environmental health by eliminating stagnant water, which previously 
+posed risks of waterborne diseases. The efficient channeling of rainwater has created a 
+cleaner, safer urban environment, directly benefited community health and reduced 
+sanitation costs. 
+ 
+• 
+Street Lighting 
+o Increased Nighttime Safety and Crime Reduction: Solar-powered streetlights have 
+vastly improved nighttime safety, reducing crime rates and creating a safer environment for 
+residents and businesses. Community members, particularly women and youth, now feel 
+more secure moving around at night, fostering a more active nighttime economy with 
+extended business hours along these well-lit roads. 
+o Support for Local Businesses: The availability of streetlights has allowed businesses to 
+extend their operating hours into the evening. This shift has encouraged an increase in 
+economic activity and nightlife, with local shops and cafes staying open later and attracting 
+more customers, contributing to a vibrant city atmosphere. 
+ 
+• 
+Pedestrian Walkways 
+o Enhanced Safety and Accessibility: Dedicated pedestrian walkways have improved safety 
+for walkers, particularly vulnerable groups like children and the elderly. These pathways 
+have created clear, structured spaces for pedestrians, reducing the risk of accidents and 
+encouraging a walking culture that promotes health and mobility for all residents. 
+o Social and Health Benefits: Walkways have encouraged physical activity among residents, 
+with many using these spaces for walking, jogging, and social gatherings. This has 
+contributed to healthier lifestyles and stronger community bonds as residents are more likely 
+to engage with each other in these safe, accessible public spaces. 
+ 
+4. Community Perception and Satisfaction. The community in Kismayo has responded positively to the 
+SURP-II infrastructure improvements, highlighting the significant benefits the project has brought to 
+everyday life. However, certain areas have been identified where additional enhancements could further 
+increase community satisfaction. 
+ 
+• 
+General Satisfaction Levels: Community members expressed high levels of satisfaction with the 
+improved infrastructure, particularly the roads, drainage systems, and street lighting. Many 
+residents noted the visible transformation in their neighborhoods, with improved mobility, safety, 
+and business opportunities fostering a sense of pride in the city. 
+• 
+Areas for Improvement:
+=== PAGE 41 ===
+ 
+41 
+ 
+o Covered Drainage Systems: Community members have requested that open drains be 
+covered to reduce the risk of accidents involving pedestrians and animals. This adjustment 
+could enhance overall safety, especially for children and elderly residents. 
+o Beautification and Environmental Awareness: Residents expressed a desire for more 
+green spaces and tree planting along the main roads to enhance the city’s aesthetics and 
+promote environmental health. Additionally, increased community awareness initiatives 
+were recommended to encourage residents to actively participate in maintaining the 
+infrastructure. 
+ 
+5. Livelihood and Economic Impact. The SURP-II project has had a profound effect on local economic 
+growth and livelihood opportunities in Kismayo. These improvements have helped expand businesses, 
+create jobs, and increase property values across the city: 
+ 
+• 
+Job Creation and Business Expansion: The new infrastructure has enabled local businesses to 
+flourish, with new shops, markets, and eateries opening along the improved roads. This surge in 
+commercial activity has created job opportunities, especially for youth, who now have more 
+avenues for employment in the growing market. 
+• 
+Enhanced Accessibility for Essential Services: Improved Road conditions have facilitated easier 
+access to schools, healthcare facilities, and markets, which has enhanced daily life for residents. 
+Travel times have been significantly reduced, allowing for faster and more efficient transportation 
+across the city. 
+• 
+Increased Property Values: Property values have increased along the new roads, with some areas 
+experiencing rent hikes as businesses and residents move closer to the improved infrastructure. 
+These economic shifts have contributed to community-wide economic vitality, benefitting both 
+property owners and local entrepreneurs. 
+ 
+6. Beneficiaries and Inclusivity. The SURP-II Project in Kismayo has reached a broad range of 
+beneficiaries, with benefits observed for vulnerable groups, including IDPs, youth, and women: 
+ 
+• 
+Primary Beneficiaries: 
+o Residents and Business Owners: The improved infrastructure has primarily benefited 
+local businesses, residents, and property owners, who have seen enhanced accessibility and 
+higher foot traffic in commercial areas. 
+o Vulnerable Groups: The new infrastructure has been particularly impactful for women, 
+youth, and internally displaced persons (IDPs). Women and youth have gained safer access 
+to markets and social spaces, while IDPs now have better opportunities for employment and 
+access to essential services due to the improved road network. 
+ 
+• 
+Community-Wide Benefits: The infrastructure upgrades have fostered a sense of inclusivity and 
+accessibility for all residents, encouraging a more connected and cohesive community. With 
+enhanced safety and mobility, vulnerable groups have greater opportunities to participate in social 
+and economic activities. 
+ 
+7. Regional Influence and Wider Impact. The positive outcomes of Kismayo’s infrastructure 
+improvements have extended beyond the city, influencing neighboring areas and inspiring similar 
+initiatives: 
+ 
+• 
+Influence on Neighboring Towns: The success of Kismayo’s infrastructure projects has inspired 
+nearby towns such as Afmadow and Dhobley to explore similar developments. These towns have
+=== PAGE 42 ===
+ 
+42 
+ 
+initiated consultations and begun preparations to upgrade their own roads and drainage systems, 
+recognizing the benefits observed in Kismayo. 
+• 
+Examples of Regional Impact: Kismayo’s transformation has sparked interest from surrounding 
+regions in replicating these improvements, with plans for community forums and consultations to 
+discuss priority infrastructure needs. This regional influence highlights Kismayo’s role as a model 
+for urban development, promoting economic growth and infrastructure resilience across the broader 
+region. 
+  
+8. Challenges and Lessons Learned. While the SURP-II infrastructure improvements have brought 
+positive changes to Kismayo, the project faced several challenges that offer valuable insights for future 
+initiatives: 
+ 
+• 
+Key Challenges: 
+o Disruptions During Construction: Road closures and utility disruptions were significant 
+challenges for residents and businesses during the construction phase. The closures affected 
+daily routines, with limited alternative routes causing inconvenience for residents and local 
+commerce. 
+o Dust and Noise Issues: Dust and noise from construction activities presented 
+environmental challenges, especially for those living and working near the construction 
+zones. These issues temporarily affected air quality and disrupted the peace for nearby 
+residents. 
+o Open Drains as Safety Hazards: Although the new drainage systems have been effective 
+in reducing flooding, open drains have raised concerns for pedestrian safety, with 
+community members recommending that they be covered to prevent accidents. 
+ 
+• 
+Lessons for Future Projects: 
+o Community Engagement in Planning: Early and frequent communication with the 
+community helped minimize resistance and ensured that residents understood the project’s 
+purpose. Ongoing consultations helped build trust and align project goals with community 
+needs. 
+o Effective Management of Road Closures: Enhanced coordination with local businesses 
+and public services during road closures could mitigate the impact of disruptions, allowing 
+better preparation for alternative routes and access points. 
+o Regular Maintenance Planning: Establishing maintenance plans for drainage and road 
+infrastructure during the planning stages helps ensure long-term project sustainability, 
+minimizing the risk of deterioration over time. 
+ 
+10. Recommendations for Improvement. Based on community feedback and the experiences from 
+the SURP-II project, several recommendations have been proposed to further enhance the benefits 
+and sustainability of Kismayo’s infrastructure improvements: 
+ 
+• 
+Infrastructure Enhancements: 
+o Cover Open Drains: Covering open drains would reduce safety risks for pedestrians and 
+animals, especially in densely populated areas. 
+o Expand Greening Initiatives: Planting trees along the main roads and adding green spaces 
+could improve air quality, enhance visual appeal, and promote environmental awareness 
+among residents.
+=== PAGE 43 ===
+ 
+43 
+ 
+o Install Traffic and Pedestrian Signals: Adding traffic lights and pedestrian crossings at 
+key intersections would improve road safety, particularly for pedestrians, by creating clear, 
+organized spaces for both vehicles and walkers. 
+ 
+• 
+Community and Government Roles in Sustainability: 
+o Maintenance and Cleanliness: Establishing a dedicated team to maintain roads, drainage, 
+and green spaces could ensure that the infrastructure remains functional and visually 
+appealing. This initiative could also create job opportunities for residents. 
+o Awareness Campaigns for Public Responsibility: Running awareness campaigns to 
+educate residents on infrastructure use, maintenance, and environmental cleanliness would 
+encourage a sense of responsibility and community ownership of the improvements. 
+ 
+10. Conclusion. The SURP-II infrastructure projects have greatly benefited Kismayo, enhancing mobility, 
+safety, and economic growth while improving the quality of life for residents. The construction of resilient 
+roads, drainage systems, pedestrian walkways, and street lighting has fostered a more connected and secure 
+community, with local businesses thriving and vulnerable groups gaining better access to essential services. 
+Looking forward, continued collaboration between the local government, community members, and 
+development partners will be essential to maintain and build upon these achievements. By implementing 
+the recommendations and maintaining an inclusive approach, Kismayo can ensure long-term sustainability 
+and serve as a model for similar urban resilience initiatives across the region. With the community’s 
+support, Kismayo’s infrastructure improvements can remain a pillar of progress, supporting the city’s 
+development for years to come.
+=== PAGE 44 ===
+ 
+44 
+ 
+Annex 6: Inclusion of Women, Youth and Persons with Disabilities 
+ 
+Recommendation  
+Actions 
+Responsible 
+Timeline 
+Bidding documents, 
+requirement for 
+contractors to 
+prepare, 
+implement a Local 
+Recruitment Plan 
+(LRP). 
+Contractors to submit LRP in the 
+bidding documents, showing 
+how contractors will reach out, 
+recruit and retain women, youth 
+and Persons with Disabilities. 
+PIU  
+During the Bid 
+Contractors to include indicators in 
+ESHS metrics for measuring 
+progress. 
+PIU  
+During the Bid 
+Promote inclusion of 
+women, youth, 
+and PWDs in 
+employment and 
+upskilling by 
+setting targets in 
+bidding 
+documents.  
+• 
+Skill training on PCIP for 70 
+women. Each city to train 10 
+except BRA which will train 20 
+women. This will be achieved 
+through collaboration with 
+Technical and Vocational 
+Education and Training Centers 
+(TVETs), requiring contractors 
+to meet the LRP obligations. 
+• 
+Setting of an obligation for 
+contractors to train/retrain 
+young people -national talent, 
+including a target for female 
+talent, enhance local female 
+and male capacity. 
+• 
+Safe employment, upskilling of 
+PWDs, reporting on the 
+progress.  
+PIU  
+Before Civil 
+work 
+started in 
+each Sub 
+project of 
+the cities 
+Putting aside 
+provisional sums 
+to contractors 
+against the agreed 
+targets for 
+employment of 
+women, youth and 
+PWDs. (Future). 
+Putting aside provisional sums to 
+be paid to contractors against 
+the agreed quantitative targets 
+for women’s employment (for 
+future bidding). 
+PIU  
+During the 
+preparation 
+BOQ and 
+bid 
+evaluation 
+report 
+Establish female role 
+models by 
+investing in and 
+promoting 
+experienced 
+female workers on 
+all levels related to 
+Nagaad project. 
+Skills and career advancement 
+trainings for Female staff with 
+high potential. 
+PIU  
+Before civil 
+work 
+started  
+Coaching and mentoring session 
+young women professionals as 
+engineers and technicians: 
+• 
+Engineers’ internship, On 
+Job Trainings to include 
+women. 
+• 
+Upcoming Capacity 
+building engineer at 
+Federal, State and 
+Municipal level should 
+include women.  
+PIU
+=== PAGE 45 ===
+ 
+45

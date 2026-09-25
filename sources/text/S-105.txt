@@ -1,0 +1,1303 @@
+=== PAGE 1 ===
+CLEAN DEVELOPMENT MECHANISM 
+ 
+ 
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology 
+AMS-I.L.: Electrification of rural 
+communities using renewable energy 
+Version 05.0 
+Sectoral scope(s): 01
+=== PAGE 2 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+ 
+COVER NOTE 
+1. 
+Procedural background 
+1. 
+The Executive Board of the clean development mechanism (CDM) (hereinafter referred to 
+as the Board), at its 119th meeting (EB 119), mandated the Methodologies Panel (MP) to 
+revise the methodology AMS-I.L.: Electrification of rural communities using renewable 
+energy (hereinafter referred to as AMS-I.L.) to address the following issues and propose 
+improvements:  
+(a) 
+Include a definition for Type I and Type II consumers; 
+(b) 
+Add criteria to distinguish between Type I and Type II consumers; 
+(c) 
+Include a requirement to meter the electricity consumption instead of estimating it; 
+(d) 
+Include possible approaches to estimate Type I and Type II consumers; and 
+(e) 
+Ensure consistency of the emission reduction calculation approaches in the 
+methodology. 
+2. 
+Purpose 
+2. 
+The proposed revision addresses the mandate received from EB119. 
+3. 
+Key issues and proposed solutions 
+3. 
+The MP, while working on the request for clarification “SSC_838: Clarification on AMS-I.L. 
+on usage of an average value for the share of Type I and Type II consumers”, agreed to 
+seek a mandate from the Board to revise methodology AMS-I.L. to further improve the 
+methodological requirements as listed under the paragraph 1 above. 
+4. 
+The proposed revision to the methodology addresses the issues included in paragraph 1 
+above by proposing:  
+(a) 
+Definition of Type I and Type II consumers; 
+(b) 
+Inclusion of a criteria based on electricity consumption to distinguish between Type 
+I and Type II consumers; 
+(c) 
+Inclusion of requirement to monitor the electricity consumption however, retaining 
+the option to estimate the electricity consumption for small solar home systems 
+less than 1.0 kW as installation of an electricity meter may not be feasible in such 
+cases; 
+(d) 
+Inclusion of possible approaches to estimate Type I and Type II consumers; and 
+(e) 
+Consistency of the emission reduction calculation approaches in the methodology.
+=== PAGE 3 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+ 
+4. 
+Impacts 
+5. 
+The proposed revision will ensure consistency of the emission reduction calculation 
+approaches in the methodology and avoid confusion among the users over application of 
+different approaches for emission reduction calculations. 
+5. 
+Subsequent work and timelines 
+6. 
+The MP, at its 93rd meeting, agreed to seek public inputs on the revised version of the 
+methodology. If inputs are received, they will be discussed with the MP and forwarded to 
+the Board for its consideration. If no inputs are received, the MP recommends that the 
+Board approve the proposed draft version of the methodology. No further work is 
+envisaged. 
+6. 
+Recommendations to the Board 
+7. 
+If no inputs are received during the call for public input, the MP recommends that the Board 
+adopt this proposed revision, to be made effective at the time of the Board’s approval. If 
+inputs are received, they will be discussed with the MP and forwwarded to the Board for 
+its consideration.
+=== PAGE 4 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+4 of 22 
+TABLE OF CONTENTS 
+Page 
+1. 
+INTRODUCTION ........................................................................................................  
+5 
+2. 
+SCOPE, APPLICABILITY AND ENTRY INTO FORCE ............................................  
+5 
+2.1. 
+Scope .............................................................................................................  
+5 
+2.2. 
+Applicability ....................................................................................................  
+5 
+2.3. 
+Entry into force ...............................................................................................  
+6 
+2.4. 
+Applicability of sectoral scopes ......................................................................  
+6 
+3. 
+NORMATIVE REFERENCES ....................................................................................  
+7 
+4. 
+DEFINITIONS .............................................................................................................  
+7 
+5. 
+BASELINE METHODOLOGY ....................................................................................  
+8 
+5.1. 
+Project boundary ............................................................................................  
+8 
+5.2. 
+Baseline emission ..........................................................................................  
+8 
+5.3. 
+Baseline emission ..........................................................................................  
+9 
+5.3.1. Greenfield and/or rehabilitation of individual renewable generation 
+systems ..........................................................................................................  
+9 
+5.3.2. Greenfield or expansion of renewable mini-grid systems ..............................  
+10 
+5.4. 
+Project emissions ...........................................................................................  
+14 
+5.5. 
+Leakage ..........................................................................................................  
+14 
+5.6. 
+Emission reductions .......................................................................................  
+14 
+6. 
+MONITORING METHODOLOGY ..............................................................................  
+14 
+6.1. 
+Individual, renewable electricity generation system ......................................  
+14 
+6.2. 
+Data and parameters monitored ....................................................................  
+17 
+6.3. 
+Greenfield or expansion of renewable mini-grid systems ..............................  
+18 
+6.4. 
+Data and parameters monitored ....................................................................  
+19 
+6.5. 
+Project activity under a programme of activities ............................................  
+21
+=== PAGE 5 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+5 of 22 
+1. 
+Introduction 
+1. 
+The following table describes the key elements of the methodology: 
+Table 1. 
+Methodology key elements 
+Typical project(s) 
+Communities which did not have electricity prior to project 
+implementation are supplied with electricity from renewable 
+based systems (e.g. solar home systems, renewable mini 
+grid) 
+Type of GHG emissions 
+mitigation action 
+Renewable energy: 
+Displacement of fossil fuel use 
+2. 
+Scope, applicability and entry into force 
+2.1. 
+Scope 
+2. 
+This methodology is applicable to electrification of a community achieved through the 
+installation of renewable electricity generation systems that displace fossil fuel use, such 
+as in fuel-based lighting systems, stand-alone power generators, and fossil fuel based 
+mini-grids. The two categories of applicable project activities are: 
+(a) 
+Implementation of individual, renewable energy systems such as roof top solar 
+photovoltaic systems; 
+(b) 
+Installation or extension of an isolated mini-grid which distributes electricity 
+generated only from renewable energy systems. 
+2.2. 
+Applicability 
+3. 
+This methodology is applicable to electrification of a community achieved through the 
+installation of renewable electricity generation systems that displace fossil fuel use, such 
+as in fuel-based lighting systems, stand-alone power generators, and fossil fuel based 
+mini-grids. The two categories of applicable project activities are: 
+(a) 
+Implementation of individual, renewable energy systems such as roof top solar 
+photovoltaic systems; 
+(b) 
+Installation or extension of an isolated mini-grid which distributes electricity 
+generated only from renewable energy systems. 
+4. 
+This methodology is applicable to electrification of a community achieved through the 
+installation of: 
+(a) 
+Greenfield individual, renewable energy system projects such as roof top solar 
+photovoltaic systems or installation or extension of an isolated mini-grid activities; 
+and/or 
+(b) 
+Rehabilitation (or refurbishment) of individual, renewable energy systems if it can 
+be demonstrated that the baseline system(s) are not part of another CDM activity
+=== PAGE 6 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+6 of 22 
+and are non-operational and require a substantial investment1 for them to be 
+rehabilitated to or above the original electricity generation capacity. Options for 
+demonstrating compliance with this condition include providing documentation 
+that: 
+(i) 
+The existing system has not generated electricity, or that alternative fuels 
+(e.g. kerosene) have been used, for at least six months prior to project design 
+document (PDD) or component programme activity design document (CPA-
+DD) submittal; and/or 
+(ii) 
+Substantial investments are required to rehabilitate the existing systems, e.g. 
+investments greater than half of the cost to install a new system with the 
+same electricity generation capacity. 
+5. 
+This methodology is applicable in situations where consumers that were not connected to 
+a national/regional grid prior to project implementation are supplied with electricity from 
+the project activity. It is also applicable to situations where a fraction of consumers that 
+are supplied with electricity from a fossil fuel based mini-grid prior to the implementation 
+of the project are now supplied with electricity from the project activity. 
+6. 
+At least 75 per cent (by number) of the consumers connected to the project renewable 
+electricity generation system(s) shall be households. 
+7. 
+Project equipment shall comply with applicable international standards2 or comparable 
+national, regional or local standards/guidelines and the PDD or CPA-DD shall indicate the 
+standard(s) applied. 
+8. 
+The methodology is applicable to renewable electricity generation systems intended for 
+permanent installation and is not applicable to portable systems, such as portable 
+electricity generating systems or LED lanterns. The aggregate installed capacity of the 
+renewable energy generating systems shall not exceed 15 MW. 
+9. 
+For projects involving the installation of hydro power plants with reservoirs the 
+requirements prescribed under “AMS-I.D.: Grid connected renewable electricity 
+generation” shall be followed. 
+2.3. 
+Entry into force 
+10. 
+The date of entry into force is the date of the publication of the EB ### meeting report on 
+# Month 2024. 
+2.4. 
+Applicability of sectoral scopes 
+11. 
+For validation and verification of CDM projects and programme of activities by a 
+designated operational entity (DOE) using this methodology, application of sectoral 
+scope 01 is mandatory. 
+ 
+1 On-going or deferred maintenance is not eligible under this. 
+2 For example, IEC 62124 PV stand-alone systems, design verification or another PVGAP recommended 
+standard to verify system design and performance of stand-alone photovoltaic systems including 
+functionality, the battery autonomy and solar fraction.
+=== PAGE 7 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+7 of 22 
+3. 
+Normative references 
+12. 
+Project participants shall apply the “General guidelines for SSC CDM methodologies”, the 
+“TOOL21: Demonstration of additionality of small-scale project activities” and the 
+“TOOL22: Leakage in biomass small-scale project activities” mutatis mutandis. 
+13. 
+This methodology is based on the proposed small-scale methodology “NM073: 
+Electrification of rural communities using renewable energy” which was jointly proposed 
+by The World Bank, UK Department for International Development (DFID) and Pöyry 
+Management Consulting (Sweden). Further, the methodology is revised based on: (i) 
+“NM092: Electrification and energization of off-grid areas using renewable energy” 
+proposed by NIRAS A/S in cooperation with KfW and (ii) the request for revision “SSC_702 
+Revision of AMS-I.L. to further clarify monitoring requirements and baseline calculations 
+for mini-grid system” proposed by Randall Spalding-Fecher. 
+14. 
+This methodology also refers to the latest approved version of the following approved 
+methodology, tool and standard: 
+(a) 
+“AMS-I.D.: Grid connected renewable electricity generation” (hereinafter referred 
+to as AMS-I.D.); 
+(b) 
+“TOOL33: Default values for common parameters” (hereinafter referred to as 
+TOOL33); 
+(c) 
+“Standard on sampling and surveys for CDM project activities and programmes of 
+activities”. 
+4. 
+Definitions 
+15. 
+The definitions contained in the Glossary of CDM terms shall apply. 
+16. 
+For the purpose of this methodology, the following definitions shall apply: 
+(a) 
+Consumer(s) - they are end-user(s)/facility(ies) that may be categorised as a Type 
+I or a Type II depending on their annual electricity consumption include 
+households; public buildings; and/or small, medium and micro enterprises 
+(SMMEs). Electricity uses may include interior lighting, street lighting, refrigeration, 
+or agricultural water pumps; 
+(b) 
+Individual, renewable electricity generation system - a renewable-based 
+electricity generation system that supplies electricity to a single consumer (e.g. a 
+home) and that are is not interconnected with other facilities or generation systems, 
+i.e. stand-alone systems; 
+(c) 
+Renewable mini-grid system - a small-scale renewable power system with a total 
+capacity not exceeding 15 MW (i.e. the sum of installed capacities of all electricity 
+generating units connected to the mini-grid is equal to or less than 15 MW) which 
+is not connected to a national or a regional grid; 
+(d) 
+Rehabilitation (or refurbishment) - Investment to restore existing individual, 
+renewable electricity generation systems including individual renewable electricity 
+generators that are not generating electricity in their current condition. This may 
+involve repairs, renovations or replacement of broken, missing or worn out
+=== PAGE 8 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+8 of 22 
+equipment, but specifically excludes actions only involving on-going or deferred 
+maintenance. The primary objective of rehabilitation or refurbishment is to restore 
+the performance of the system. Rehabilitation may also lead to increase in 
+efficiency performance of individual, renewable electricity generation systems; 
+(e) 
+Type I consumers – they are end-user(s)/facility(ies) that include households 
+having annual electricity consumption equal to or less than 55 kWh3; 
+(f) 
+Type II consumers – they are end-user(s)/facility(ies) that include households 
+having annual electricity consumption more than 55 kWh, public buildings, 
+commercial consumers, small, medium and micro enterprises (SMMEs), public 
+institutions; street lighting and small-scale industrial consumers as well as 
+agricultural facilities (such as irrigation pump sets). 
+5. 
+Baseline methodology 
+5.1. 
+Project boundary 
+17. 
+The spatial extent of the project boundary includes the project renewable electricity 
+generation systems, any project distribution (mini-grid) systems, and the physical sites of 
+the consumers served by the project activity. 
+5.2. 
+Baseline emission 
+18. 
+Two parameters are required to be known to determine the baseline: 
+(a) 
+The amount of renewable electricity utilized by the consumers served by the project 
+renewable electricity generation systems; 
+(b) 
+The number of consumers supplied with renewable electricity by the project 
+activity. 
+19. 
+The following are the baseline emission factors for each tranche of annual amount of 
+renewable electricity consumed per consumer during the crediting period: 
+(a) 
+For the first 55 kWh of electricity supplied to the user by the project electricity 
+generating system in a given year, For Type I consumers, the emission factor 
+provided a default emission factor value as provided under section 5.2 of TOOL33 
+may shall be used; 
+(b) 
+For the electricity supplied to the user by the project electricity generating system 
+in a given year that is above 55 kWhFor Type II consumers, a default emission 
+factor value as specified in Table 1 of TOOL33 based on the diesel generator 
+capacity and the load may shall be used. 
+20. 
+For ex-ante estimate of emission reductions, if project activity monitors all connections 
+through metering following option 1, the Type I and Type II consumers to be considered 
+for estimation of emission reductions should be determined at the time of connection 
+ 
+3 A household consumer engaged with a commercial activity, such as running a small shop on a household 
+electricity connection should be considered as Type II consumer irrespective of its annual electricity 
+consumption.
+=== PAGE 9 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+9 of 22 
+based on the load rating of the connection and their proportion can be determined on a 
+sample basis either annually choosing 90/10 confidence/precision or biennially choosing 
+95/10 confidence/precision for the sample size estimation following the requirements 
+under “Standard on sampling and surveys for CDM project activities and PoAs”. 
+5.3. 
+Baseline emission 
+5.3.1. Greenfield and/or rehabilitation of individual renewable generation systems 
+21. 
+Option 1: where all connections are metered following (In case monitoring option 1 as 
+refered to in paragraph 36 below is applied), baseline emissions for the entire project 
+activity are calculated as: 
+𝐵𝐸𝑦= 𝐵𝐸55𝑇1,𝑦+ 𝐵𝐸 55 𝑝𝑙𝑢𝑠𝑇2,𝑦 
+Equation (1) 
+Where: 
+𝐵𝐸𝑦 
+= 
+Baseline emissions in year y (t CO2) 
+𝐵𝐸55𝑇1,𝑦 
+= 
+Aggregate baseline emissions for Type I consumers that consumed equal 
+to or less than 55 kWh of renewable electricity from project renewable 
+electricity systems in year y (t CO2) 
+𝐵𝐸55 𝑝𝑙𝑢𝑠𝑇2,𝑦 
+= 
+Aggregate baseline emissions for Type II consumers that consumed more 
+than 55 kWh of renewable electricity from project renewable electricity 
+systems in year y (t CO2) 
+22. 
+For Type I consumers that consumed equal to or less than 55 kWh, baseline emissions 
+are calculated as: 
+𝐵𝐸55𝑇1,𝑦= ∑𝐸𝐺𝑥,𝑇1,𝑦× 𝐸𝐹𝐶𝑂2,55𝑇1
+𝑁
+𝑥
+ 
+Equation (2) 
+Where: 
+𝐸𝐺𝑥𝑇1,𝑦 
+= 
+Electricity delivered by project renewable electricity generation system to 
+Type I consumer x, where the electricity delivered to that facility is equal 
+to or less than 55 kWh in year y (MWh) 
+𝐸𝐹𝐶𝑂2,55𝑇1 
+= 
+A default emission factor value as provided under section 5.2 of TOOL33 
+for first 55 kWh of electricity supplied (t CO2/MWh) 
+𝑥 
+= 
+Type I Cconsumer supplied with renewable electricity from operating 
+project renewable electricity generation systems consuming equal to or 
+less than 55 kWh in year y 
+𝑁 
+= 
+Number of Type I consumers in the project activity consuming equal to or 
+less than 55 kWh/year
+=== PAGE 10 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+10 of 22 
+23. 
+For Type II consumers that consumed more than 55 kWh baseline emissions are 
+calculated as: 
+𝐵𝐸55 𝑝𝑙𝑢𝑠𝑇2,𝑦= ∑[(𝐸𝐺𝑧𝑇2,𝑦−0.055) × 𝐸𝐹𝐶𝑂2,55 𝑝𝑙𝑢𝑠𝑇2 + 𝐶]
+𝑀
+𝑧𝑇2
+ 
+Equation (3) 
+Where: 
+𝐸𝐺𝑧,𝑇2,𝑦 
+= 
+Electricity delivered by project renewable electricity generation system to 
+Type II consumer z in year y, where the electricity delivered to the facility 
+is more than 55 kWh (kMWh) 
+𝐸𝐹𝐶𝑂2,55 𝑝𝑙𝑢𝑠𝑇2  
+= 
+A default emission factor value as specified in Table 1 of TOOL33 based 
+on the diesel generator capacity and the load (t CO2/MWh) 
+𝑧 
+= 
+Type II Cconsumer supplied with renewable electricity from operating 
+project renewable electricity generation systems consuming more than 55 
+kWh in year y 
+𝑐 
+ 
+A constant calculated as multiplication of 55 kWh electricity supply and a 
+default emission factor value as provided under section 5.2 of TOOL33 
+(t CO2) 
+𝑚 𝑀 
+= 
+Number of Type II consumers facilities in the project activity consuming 
+more than 55 kWh  
+24. 
+In case monitoring option 2 as refered to in paragraph 36 below is applied, baseline 
+emissions for the entire project activity are calculated as: 
+𝐵𝐸𝑦= 𝐸𝐺𝑡ℎ,𝑦 𝑋 𝑓𝑦  𝑋 𝐸𝐹𝐶𝑂2,𝑇2,𝑦  
+Equation (4) 
+Where: 
+𝐸𝐺𝑡ℎ,𝑦 
+= 
+“Theoretical” electricity which could be delivered by project renewable 
+electricity generation system to all consumers in year y, i.e. if all individual 
+systems would be operational (MWh) 
+𝑓𝑦  
+= 
+Fraction of individual renewable generation systems demonstrated as 
+operating in year y determined in accordance with the requirements of 
+paragraph 37 below 
+5.3.2. Greenfield or expansion of renewable mini-grid systems 
+25. 
+An ex ante census of project electricity consumers are intended to be supplied with 
+electricity from the project renewable mini-grid shall be carried out to document the 
+physical location of each consumer and the anticipated annual electricity consumption of 
+each consumer. As an option, the anticipated annual electricity consumption of individual 
+consumer may be established based on the type of connection or payment arrangement 
+provided (e.g. load limited, fee for service based connection). The consumers should be 
+categorised as either households (Type I consumers) or non-households4 (Type II 
+ 
+4 These include commercial consumers; small, medium and micro enterprises (SMMEs); public 
+institutions; street lighting and small-scale industrial consumers as well as agricultural facilities (such as 
+irrigation pump sets).
+=== PAGE 11 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+11 of 22 
+consumers). Electricity consumption of each Type I consumer that is expected to consume 
+more than 1,000 kWh per year and each Type II consumer shall be individually metered. 
+Type I consumers whose consumption is required to be individually metered are called 
+Type I-M consumers and Type I consumers whose consumption is not required to be 
+individually metered are called as Type I-NM facilities. 
+26. 
+Baseline emissions are the sum of emissions associated with: 
+(a) 
+Consumers that will be connected to the new or expanded mini-grid but were not 
+connected to any existing grids prior to the project activity; these are defined as 
+new consumers (either Type I and Type II consumers); 
+(b) 
+Consumers that will be connected to the new or expanded mini-grid but were 
+connected to an existing grid prior to the project activity; these are defined as 
+existing consumers (for existing consumers, whether they are Type I and Type II 
+consumers is not relevant). 
+27. 
+Baseline emissions are the sum of emissions associated with new consumers (Type I and 
+Type II consumers) and existing consumers are calculated as follows: 
+𝐵𝐸𝑦= 𝐵𝐸𝑇1,𝑦+ 𝐵𝐸𝑇2,𝑦+ 𝐵𝐸𝑒𝑥𝑖𝑠𝑡,𝑦 
+Equation (5) 
+Where: 
+𝐵𝐸𝑦 
+= 
+Baseline emissions in year y (t CO2) 
+𝐵𝐸𝑇1,𝑦 
+= 
+Baseline emissions for Type I consumers in year y (t CO2) 
+𝐵𝐸𝑇2,𝑦 
+= 
+Baseline emissions for Type II consumers in year y (t CO2) 
+𝐵𝐸𝑒𝑥𝑖𝑠𝑡,𝑦 
+= 
+Baseline emissions of existing consumers, i.e. baseline emissions from 
+displacement of electricity from an existing mini-grid (t CO2) BEexist,y = 0, if there 
+are no existing consumers 
+28. 
+Baseline emissions of existing consumers are calculated as follows: 
+𝐵𝐸𝑒𝑥𝑖𝑠𝑡,𝑦= 𝐸𝐷𝑒𝑥𝑖𝑠𝑡,𝑦× 𝐸𝐹𝑚𝑔𝑟𝑖𝑑 
+Equation (6) 
+Where: 
+𝐸𝐷𝑒𝑥𝑖𝑠𝑡,𝑦 
+= 
+Total electricity delivered to existing consumers (Nexist,y) (MWh) 
+𝐸𝐹𝑚𝑔𝑟𝑖𝑑 
+= 
+Baseline emissions factor for the mini-grid (t CO2) 
+For a mini-grid system where all generators use exclusively fuel oil and/or 
+diesel fuel, emission factor can be determined per the procedure provided in 
+Table 1 of TOOL33. For all other mini-grids it shall be calculated as the 
+weighted average emissions for the current generation mix following the 
+procedure provided in AMS-I.D. 
+29. 
+One of tThe following two approaches can be used to estimate baseline emissions 
+associated with new Type I and Type II consumers. 
+(a) 
+Approach 1. Detailed calculations based on identification of Type I and Type II 
+consumers and monitoring of their tranches of electricity consumption;
+=== PAGE 12 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+12 of 22 
+(b) 
+Approach 2. Simplified calculation based on total average electricity consumption 
+of Type I and Type II per consumers. 
+5.3.2.1. 
+Approach 1. Detailed calculations based on metered electricity consumption 
+of all consumers 
+30. 
+Baseline emissions from Type I consumers, BET1,y are calculated as follows:a function of 
+total electricity consumed by all the Type I consumers and a baseline emission factor 
+chosen based on the average annual electricity consumption of all Type I consumers. 
+follows: 
+𝐵𝐸𝑇1,𝑦= [(𝐸𝐶𝑇1𝑁𝑀,𝑦× 𝑁𝑀𝑦) × 𝐸𝐹𝐶𝑂2,𝑇1,𝑁𝑀]
++ [( ∑𝐸𝐶𝑇1𝑀,𝑗,𝑦
+𝑀𝑁𝑦
+𝑗
+𝐸𝐶𝑇1𝑀,𝑦× 𝑀𝑁𝑦) × 𝐸𝐹𝐶𝑂2,𝑇1𝑀] 
+Equation (7) 
+𝐸𝐶𝑇1𝑁𝑀,𝑦= (𝐸𝐶𝑡𝑜𝑡_𝑇1𝑁𝑀,𝑦)
+𝑁𝑀𝑦
+ 
+Equation (8) 
+𝐸𝐶𝑇1𝑀,𝑦=
+(∑
+𝐸𝐶𝑇1𝑀,𝑗,𝑦
+𝑀𝑁𝑦
+𝑗
+)
+𝑀𝑁𝑦
+ 
+Equation (9) 
+𝐸𝐶𝑡𝑜𝑡_𝑇1𝑁𝑀,𝑦= [(𝐸𝐷𝑡𝑜𝑡,𝑦−𝐸𝐷𝑒𝑥𝑖𝑠𝑡,𝑦) × (1 −𝑇𝐷𝐿𝑝)] −∑𝐸𝐶𝑇2,𝑖,𝑦
+𝑁
+𝑖
+−∑𝐸𝐶𝑇1,𝑀,𝑗,𝑦
+𝑀
+𝑗
+ 
+Equation (10) 
+Where: 
+𝐵𝐸𝑇1,𝑦 
+= 
+Baseline emissions for Type I consumers in year y (t CO2) 
+𝐸𝐶𝑇1𝑁𝑀,𝑦 
+= 
+Average annual electricity consumption of all Type I-NM consumers in 
+year y (MWh) 
+𝐸𝐶𝑇1𝑀,𝑦 
+= 
+Average annual electricity consumption of all Type I-M consumers in 
+year y (MWh) 
+𝐸𝐶𝑇1𝑀,𝑗,𝑦 
+= 
+Annual electricity consumption of Type I-M consumer j in year y (MWh) 
+𝑁𝑀𝑦 
+= 
+Number of Type I-NM consumers in year y 
+𝑀𝑁𝑦 
+= 
+Number of Type I-M consumers in year y 
+𝐸𝐹𝐶𝑂2,𝑇1,𝑁𝑀 
+= 
+(a) If ECT1NM,y is equal to or less than 0.055 MWh/y, then use a default 
+emission factor value as provided for first 55 kWh of electricity 
+supplied under section 5.2 of TOOL33 (t CO2/MWh);
+=== PAGE 13 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+13 of 22 
+(b) If ECT1NM,y is more than 55 kWh/y, then: 
+(i) 
+For the portion up to and including 0.055 MWh/y, use a default 
+emission factor value as provided for first 55 kWh of electricity 
+supplied under section 5.2 of TOOL33 (t CO2/MWh); 
+(ii) For the portion greater than 0.055 MWh/y, use a default value as 
+specified in Table 1 of TOOL33 based on the diesel generator 
+capacity and the load; 
+𝐸𝐹𝐶𝑂2,𝑇1𝑀 
+= 
+(a) If ECT1M,y is equal to or less than 0.055 MWh/y, then use a default 
+emission factor value as provided for first 55 kWh of electricity 
+supplied under section 5.2 of TOOL33 (t CO2/MWh); 
+(b) If ECT1M,y is more than 55 kWh/y 0.055 MWh/y, then: 
+(i) 
+For the portion up to and including 0.055 MWh/y, use a default 
+emission factor value as provided for first 55 kWh of electricity 
+supplied under section 5.2 of TOOL33 (t CO2/MWh); 
+(ii) For the portion greater than 0.055 MWh/y, use a default value as 
+specified in Table 1 of TOOL33 based on the diesel generator 
+capacity and the load; 
+𝐸𝐶𝑡𝑜𝑡_𝑇1𝑁𝑀,𝑦 
+= 
+Total electricity delivered to the community of all Type I-NM consumers, 
+net of transmission and distribution losses (MWh) 
+𝐸𝐷𝑡𝑜𝑡,𝑦 
+= 
+Total electricity delivered to the community of all Type I, Type-II and 
+existing consumers (MWh) 
+𝑇𝐷𝐿𝑝 
+= 
+Transmission and distribution losses within the project area (%), with 10 
+per cent as a default value 
+31. 
+With this approach, baseline emissions of Type II consumers, BET2,y are calculated as 
+follows: 
+𝐵𝐸𝑇2,𝑦= ∑𝐸𝐶𝑇2,𝑖,𝑦× 𝐸𝐹𝐶𝑂2,𝑇2
+𝑁𝑀𝑦
+𝑖
+ 
+Equation (11) 
+Where: 
+𝐵𝐸𝑇2,𝑦 
+= 
+Baseline emissions for Type II consumers in year y (t CO2) 
+𝐸𝐶𝑇2,𝑖,𝑦 
+= 
+Metered aAnnual electricity consumption of Type II consumer i in year y 
+(MWh) 
+𝑁𝑀𝑦 
+= 
+Number of Type II consumers in year y 
+5.3.2.2. 
+Approach 2. Simplified calculation based on metered total average electricity 
+consumption supplied by the project renewable energy generation system 
+to all conumsers 
+32. 
+With this approach, baseline emissions are calculated as follows: 
+𝐵𝐸𝑦= 𝐵𝐸𝑇1,𝑦+ 𝐵𝐸𝑇2,𝑦= (𝐸𝐷𝑡𝑜𝑡,𝑦−𝐸𝐷𝑒𝑥𝑖𝑠𝑡,𝑦) × (1 −𝑇𝐷𝐿𝑝) × 𝐸𝐹𝐶𝑂2,𝑡𝑜𝑡 
+Equation (12)
+=== PAGE 14 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+14 of 22 
+Where: 
+𝐸𝐷𝑡𝑜𝑡,𝑦 
+= 
+Total electricity delivered to the community of all Type I, Type II and 
+existing consumers (MWh) 
+𝑇𝐷𝐿𝑝 
+= 
+Transmission and distribution losses within the project area (%), with 10 
+per cent as a default value 
+𝐸𝐹𝐶𝑂2,𝑡𝑜𝑡 
+= 
+A default emission factor value as specified in Table 1 of TOOL33 based 
+on the diesel generator capacity and the load (t CO2/MWh) 
+5.4. 
+Project emissions 
+33. 
+Project emissions are considered zero (i.e. PEy = 0) except in the cases below where 
+method indicated in AMS-I.D. is applied to calculate project emissions. 
+(a) 
+Emissions related to the operation of geothermal power plants (e.g. non-
+condensable gases, electricity/fossil fuel consumption); 
+(b) 
+Emissions from water reservoirs of hydro power plants. 
+5.5. 
+Leakage 
+34. 
+If the energy generating equipment is transferred from another activity leakage is to be 
+considered. 
+5.6. 
+Emission reductions 
+35. 
+Emission reductions on annual basis (ERy) are calculated as follows: 
+𝐸𝑅𝑦= 𝐵𝐸𝑦−𝑃𝐸𝑦−𝐿𝐸𝑦 
+Equation (13) 
+Where: 
+𝐸𝑅𝑦 
+= 
+Emission reductions in year y (t CO2e/y) 
+𝐵𝐸𝑦 
+= 
+Baseline Emissions in year y (t CO2/y) 
+𝑃𝐸𝑦 
+= 
+Project emissions in year y (t CO2/y) 
+𝐿𝐸𝑦 
+= 
+Leakage emissions in year y (t CO2/y) 
+6. 
+Monitoring methodology 
+6.1. 
+Individual, renewable electricity generation system 
+36. 
+Net annual amount of renewable electricity supplied to a facility  consumer is monitored 
+as below: 
+(a) 
+Option 1. Measure the net amount of renewable electricity delivered to each 
+consumer connected to the project renewable electricity generation system(s). 
+Such measurements shall be made continuously and recorded at least on a 
+monthly basis; 
+(b) 
+Option 2. Calculate the net amount of renewable electricity delivered to all the 
+consumers connected to the project renewable electricity generation system(s) as
+=== PAGE 15 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+15 of 22 
+the installed capacity of the project renewable electricity generation systems times 
+annual average value for availability.5 This option can only be applied to project 
+activities involving installation or rehabilitation of individual, renewable energy 
+systems and only for consumers (facilities) associated with those systems whose 
+installed capacity is equal to or less than 1.0 kW. For solar photovoltaic electricity 
+systems, the annual average value for availability can be obtained through 
+following options6: 
+(i) 
+Option 2a. Assume a conservative default value of twelve per cent 
+(12 per cent) for the annual average value for availability;7 
+(ii) 
+Option 2b. Calculate the annual average value for availability based on local 
+site conditions and system characteristics. “RETScreen® International 
+Photovoltaic Project Model” included in the “RETScreen Clean Energy 
+Project Analysis Software”8 as below: 
+a. 
+Complete the “Energy Model and Solar Resource & System Load” 
+worksheet; 
+b. 
+For the cells where “user inputs” are required and where online 
+databases are provided (e.g. weather database), the latter may be 
+used as sources for the input to the cells; 
+c. 
+If the annual solar radiation9 (MWh/m2/year) in the sites of the project 
+activity or the component project activity vary significantly (i.e. greater 
+than +/-10% variation) then: 
+i. 
+Perform the calculation for the site receiving the least amount 
+of annual solar radiation; or 
+ii. 
+Perform the calculation for a representative selection of sites 
+and take the weighted average value; 
+d. 
+If there is more than one type of project electricity generation system 
+i.e. the system characteristics of the project systems differ, then 
+perform the calculations separately for each type of system and take 
+the weighted average value. The following parameters may be 
+considered for defining the system characteristics: 
+i. 
+Type of the system e.g. The system is a mini-grid or off-grid or 
+water pumping system; 
+ii. 
+System is with or without battery backup; 
+ 
+5 This assumes that all of the renewable energy that is produced will be consumed by the facility consumer. 
+6 Availability factors for other renewable energy systems may be proposed following the procedures for 
+request for revision of small-scale CDM methodologies. 
+7 For example, a 15 Wp Solar Home System would deliver 15.77 kWh annually (0.015 x 8760 x 0.12). 
+8 Publicly available at <http://www.retscreen.net/ang/home.php>. Other similar software may be proposed 
+for inclusion following the procedures for a revision of a methodology. 
+9 If the solar radiation values are available for each month it may be annualized by taking the average for 
+12 months.
+=== PAGE 16 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+16 of 22 
+iii. System includes or excludes inverters; 
+iv. Type of solar panel when more than one type of solar panel is 
+used (e.g. monocrystalline silicon, polycrystalline silicon and 
+thin films); 
+v. Type of tracking device when more than one type of solar 
+tracking devices are used (i.e. fixed, one-axis, two-axis, 
+azimuth); 
+vi. Type of control method, orientation and slope (i.e. maximum 
+power point tracker and clamped control methods, degrees 
+above horizontal for the slope, azimuth of solar panel in degrees 
+from due South); 
+e. 
+Assume a value of 10 per cent loss for the miscellaneous losses; 
+(iii) 
+Option 2c. Source the annual average value for availability from the project 
+feasibility report (e.g. provided by the manufacturer/supplier of the systems) 
+when it includes the calculations for estimating the output from the systems 
+(i.e. weather data used, system characteristics and losses assumed are 
+described). 
+37. 
+When option 2 in paragraph 36 above is applied, the number of operating project 
+renewable electricity generation systems is determined on a sample basis either annually 
+choosing 90/10 confidence/precision or biennially choosing 95/10 confidence/precision for 
+the sample size estimation following the requirements under “Standard on sampling and 
+surveys for CDM project activities and PoAs”. This monitored value determines N/M/P 
+(number of consumers) in equations (2) and, (3). Renewable electricity generation 
+systems can be counted as operating only if they can be shown to be able to produce 
+electricity by means of one of the following: 
+(a) 
+The manufacturer’s warranty; or 
+(b) 
+Regular maintenance arrangement (e.g. with suppliers / distributors / 
+implementers); or 
+(c) 
+Showing that the systems are procured following the standards/guidelines 
+(local/national/international) to ensure that the systems are of adequate quality 
+and provide the required performance; or 
+(d) 
+By direct monitoring of systems, if necessary on sample basis. 
+38. 
+In the absence of this demonstration, the system capacity shall be de-rated following the 
+manufacturers guidelines or as per relevant international standards/guidelines. 
+39. 
+Both monitoring options 1 and 2 in paragraph 36 above can be used within the same 
+project activity provided that: 
+(a) 
+A procedure that ensures no double counting of emissions reductions has been 
+implemented; 
+(b) 
+Option 2 is applied to all systems with a capacity for renewable electricity 
+generation is equal to or less than 1.0 kW.
+=== PAGE 17 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+17 of 22 
+6.1.1. Data and parameters monitored 
+Data / Parameter Table 1.  
+Data / Parameter: 
+EGT1,y 
+Data unit: 
+MWh/y 
+Description: 
+Electricity delivered by project renewable electricity generation system 
+to Type I consumers 
+Measurement 
+procedures (if any): 
+One of the following options shall be applied. 
+(A) As per the option 1 in paragraph 36 above, an electricity meter 
+shall be installed for each consumer as part of the project 
+activity, to determine the total gross electricity delivered by 
+project renewable electricity generation system to Type I 
+consumers; or  
+(B) As per the option 2 in in paragraph 36 above, net amount of 
+renewable electricity delivered to all the consumers connected 
+to the project renewable electricity generation system(s) shall 
+be calculated as the installed capacity of the project renewable 
+electricity generation systems times annual average value for 
+availability 
+Monitoring frequency: 
+For option A above, continuous monitoring, hourly measurement and 
+at least monthly recording 
+Any comment: 
+- 
+Data / Parameter Table 2.  
+Data / Parameter: 
+EFCO2,T1 
+Data unit: 
+t CO2/MWh 
+Description: 
+A default emission factor value 
+Measurement 
+procedures (if any): 
+As provided under section 5.2 of TOOL33 
+Monitoring frequency: 
+- 
+Any comment: 
+- 
+Data / Parameter Table 3.  
+Data / Parameter: 
+N 
+Data unit: 
+Number 
+Description: 
+Number of Type I consumers in the project activity 
+Measurement 
+procedures (if any): 
+Determined at the time of connection based on load rating of the 
+connection on a sample basis choosing 90/10 confidence / precision 
+level for annual monitoring or 95/10 confidence / precision level for 
+biennial monitoring 
+Monitoring frequency: 
+Annual or biennial 
+Any comment: 
+-
+=== PAGE 18 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+18 of 22 
+Data / Parameter Table 4.  
+Data / Parameter: 
+EGT2,y 
+Data unit: 
+MWh/y 
+Description: 
+Electricity delivered by project renewable electricity generation system 
+to Type II consumers 
+Measurement 
+procedures (if any): 
+As per the option 1 in paragraph 36 above, an electricity meter shall 
+be installed for each consumer as part of the project activity, to 
+determine the total gross electricity delivered by project renewable 
+electricity generation system to Type II consumers 
+Monitoring frequency: 
+Continuous monitoring, hourly measurement and at least monthly 
+recording 
+Any comment: 
+- 
+Data / Parameter Table 5.  
+Data / Parameter: 
+EFCO2,T2 
+Data unit: 
+t CO2/MWh 
+Description: 
+A default emission factor value 
+Measurement 
+procedures (if any): 
+As provided under Table 1 of TOOL33 based on the diesel generator 
+capacity and the load 
+Monitoring frequency: 
+- 
+Any comment: 
+- 
+Data / Parameter Table 6.  
+Data / Parameter: 
+M 
+Data unit: 
+Number 
+Description: 
+Number of Type II consumers in the project activity 
+Measurement 
+procedures (if any): 
+Determined at the time of connection based on load rating of the 
+connection on a sample basis choosing 90/10 confidence / precision 
+level for annual monitoring or 95/10 confidence / precision level for 
+biennial monitoring 
+Monitoring frequency: 
+Annual or biennial 
+Any comment: 
+- 
+6.2. 
+Greenfield or expansion of renewable mini-grid systems 
+40. 
+Electricity consumption of each Type I consumer and each Type II consumer shall be 
+individually metered. 
+41. 
+The metering of all the relevant parameters shall be as per the guidance indicated below. 
+The applicable requirements (e.g. calibration) for monitoring plan specified in the “General 
+guidelines for SSC CDM methodologies” are an integral part of the monitoring guidelines 
+specified below and therefore shall be referred to by the project participant.
+=== PAGE 19 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+19 of 22 
+6.2.1. Data and parameters monitored 
+Data / Parameter table 7. 
+ 
+Data / Parameter: 
+EDexist,y 
+Data unit: 
+MWh/y 
+Description: 
+Total electricity delivered in year y to the existing consumers 
+Measurement 
+procedures (if any): 
+Measurements are undertaken using electricity meters. The 
+measurement should be taken at the nearest pre-existing substation 
+from which the electrification project is supplied 
+Monitoring frequency: 
+Continuous monitoring, hourly measurement and at least monthly 
+recording 
+Any comment: 
+- 
+Data / Parameter Table 8.  
+Data / Parameter: 
+EFmgrid 
+Data unit: 
+t CO2/MWh 
+Description: 
+Baseline emission factor of mini-grid 
+Measurement 
+procedures (if any): 
+For a mini-grid system where all generators use exclusively fuel oil 
+and/or diesel fuel, emission factor can be determined per the 
+procedure provided in Table 1 of TOOL33. For all other mini-grids it 
+shall be calculated as the weighted average emissions for the current 
+generation mix following the procedure provided in AMS-I.D. 
+Monitoring frequency: 
+- 
+Any comment: 
+- 
+Data / Parameter Table 9.  
+Data / Parameter: 
+EDtot,y 
+Data unit: 
+MWh/y 
+Description: 
+Electricity delivered to consumers from the grid/mini-grid system 
+Measurement 
+procedures (if any): 
+An electricity meter shall be installed as part of the project activity to 
+measure total gross electricity supplied to all connected consumers 
+(new and existing) from the project renewable electricity generation 
+system. 
+For new mini-grid construction, the metering can be at the mini-grid 
+plant itself. For mini-gird extension, this can be at the substation from 
+which the electrification project is supplied 
+Monitoring frequency: 
+Continuous monitoring, hourly measurement and at least monthly 
+recording 
+Any comment: 
+- 
+Data / Parameter table 10.  
+Data / Parameter: 
+ECT2,i,y 
+Data unit: 
+MWh/y 
+Description: 
+Electricity metered at Type II consumer i in year y
+=== PAGE 20 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+20 of 22 
+Measurement 
+procedures (if any): 
+Measurements are undertaken using electricity meters at the 
+consumer electricity service entrance 
+Monitoring frequency: 
+Continuous monitoring, hourly measurement and at least monthly 
+recording 
+Any comment: 
+- 
+Data / Parameter table 11.  
+Data / Parameter: 
+ECT1M,j,y 
+Data unit: 
+MWh/y 
+Description: 
+Electricity metered at Type I-M consumer j in year y 
+Measurement 
+procedures (if any): 
+Measurements are undertaken using electricity meters at the facility 
+electricity service entrance 
+Monitoring frequency: 
+Continuous monitoring, hourly measurement and at least monthly 
+recording 
+Any comment: 
+- 
+Data / Parameter table 12.  
+Data / Parameter: 
+Proportion of Ny, NMy, Nexist,y and My having access to mini-grid 
+Data unit: 
+- 
+Description: 
+Check for continued access to electricity 
+Measurement 
+procedures (if any): 
+Annual/biennial checks that mini-grid connections are still working, 
+done with a census or a statistically significant sample of consumers. 
+Use 90/10 and 95/10 precision for annual and biennial checks, 
+respectively 
+Monitoring frequency: 
+Annual/biennial 
+Any comment: 
+- 
+Data / Parameter Table 13.  
+Data / Parameter: 
+EFCO2,tot 
+Data unit: 
+t CO2/MWh 
+Description: 
+A default emission factor value 
+Measurement 
+procedures (if any): 
+As provided under Table 1 of TOOL33 based on the diesel generator 
+capacity and the load 
+Monitoring frequency: 
+- 
+Any comment: 
+- 
+Data / Parameter table 14.  
+Data / Parameter: 
+TDLp 
+Data unit: 
+Per cent 
+Description: 
+Transmission and distribution losses within the project area 
+Measurement 
+procedures (if any): 
+Use a defulat value of 10 per cent
+=== PAGE 21 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+21 of 22 
+Monitoring frequency: 
+- 
+Any comment: 
+- 
+6.3. 
+Project activity under a programme of activities 
+42. 
+The methodology is applicable to a programme of activities; no additional leakage 
+estimations are necessary other than that indicated under leakage section above. Both 
+Option 1 and Option 2 under paragraph 36 above for monitoring can be used for 
+monitoring within one component project activity of a programme of activity and within the 
+same rural community provided that the requirements specified for the use of each option 
+are followed during the crediting period in a consistent manner. 
+- - - - -
+=== PAGE 22 ===
+CDM-MP93-A04 
+  
+Draft version of Small-scale Methodology: AMS-I.L.: Electrification of rural communities using renewable 
+energy 
+Version 05.0 
+Sectoral scope(s): 01 
+22 of 22 
+Document information 
+Version 
+Date 
+Description 
+ 
+05.0 
+4 March 2024 
+MP 93, Annex 4 
+The revision: 
+• Includes a definition for Type I and Type II consumers; 
+• Adds criteria to distinguish between Type I and Type II 
+consumers; 
+• Includes a requirement to meter the electricity consumption 
+instead estimating it; 
+• Includes possible approaches to estimate Type I and Type II 
+consumers; and  
+• Ensures consistency of the emission reduction calculation 
+approaches in the methodology. 
+04.0 
+8 September 2022 
+EB 115, Annex 10 
+The revision: 
+• Introduces reference to “TOOL33: Default values for common 
+parameters”; 
+• Removes reference to “AMS-I.F.: Renewable electricity 
+generation for captive use and mini-grid”; 
+Makes minor editorial improvements. 
+03.0 
+28 November 2014 
+EB 81, Annex 21 
+The revision is in response to SSC_715, allows increased flexibility 
+to determine system availability factor for solar PV systems. 
+02.0 
+1 June 2014 
+EB 79, Annex 15 
+The revision clarifies the baseline procedure and monitoring 
+requirements for renewable based mini-grid, removes the 
+requirement related to high efficiency lighting and consolidates 
+elements from SSC-NM092 to broaden the applicability of AMS-I.L. 
+covering rehabilitation of renewable energy systems. 
+01.0 
+2 March 2012 
+EB 66, Annex 53 
+Initial adoption. 
+Decision Class: Regulatory 
+Document Type: Standard 
+Business Function: Methodology 
+Keywords: electricity generation, renewable energy generation, retrofit, simplified methodologies, type (i) 
+projects

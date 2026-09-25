@@ -1,0 +1,407 @@
+=== PAGE 1 ===
+## IFC SII record, project 33327
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[SponsorCostLocation.Sponsor] The project sponsor is Bakhresa a leading industrial group headquartered in Dar es Salaam and whose core business is wheat milling in countries such as Tanzania, Mozambique, Uganda, Rwanda and Malawi. Previous projects with IFC include financing milling activities in Mozambique (#29475&#27398), Rwanda (#633443%#29477), and Malawi (#27399). Bakhresa Group has a ~5,000 tons per day (tpd) milling capacity which requires yearly purchases of over a million tons of wheat. The shareholders of project company are members of the Bakhresa family.
+[SponsorCostLocation.Cost_Nature] As part of the US$80 million wheat mill project in South Africa, IFC’s participation is up to US$25 million A Loan to Bakhresa South Africa (Pty) Ltd.
+[SponsorCostLocation.Location] Bakhresa has bought a disused flour mill in Umbilo a prime location which is 3.7 km from the main discharge terminal at the Durban Port in KwaZulu-Natal province in South Africa. Bakhresa will entirely refurbish the mill with a 750 tpd state-of-the-art Buhler complete wheat milling line. The bulk grain handling equipment is fully operational as the silos had been rented out to third parties until recently. The storage capacity in silos is 30,000 MT in 70 separate silo bins with loading capacity ranging from 150 to 250 t/h. The premises are strategically located near the main grain bulk discharge terminals:
+Durban Bulk Services (DBS) terminal (currently under improvement, will have a draft of 11.3 meters allowing Panamax sizes (up to 50,000 MT vessels), 7,000 MT a day discharge rate.
+South Africa Bulk Terminals MW5 terminal with 9.6 min (vessel would first upload at DBS and then possibly shift to this other terminal).
+Rennies Bulk Terminal (up to 14,000 MT / day discharge rate).
+Agriport 6-7,000 MT / day discharge.
+[DevelopmentImpact.Impact] (i) Employment Generation: The project will generate permanent jobs for local communities in Durban, South Africa. Also during the construction of the mill, temporary positions will be created in the region. The creation of additional indirect jobs throughout the value chain is expected.
+(ii) SME supply chain development: Agro allied businesses in the value chain such as local SME''s that provide goods and services to the mill, (transportation, packaging materials, ingredients, distribution, general services) or buyers from the mill (wholesalers, retailers, bakeries, animal feed manufactures) will benefit from the development of a flour mill plant in Durban, South Africa.
+(iii) Food security: Improved food security in South Africa and neigboring countries, where wheat products are a staple diet.
+(iv) Fiscal benefits: Increased tax revenues.
+[DevelopmentImpact.Result] Indicator Metrics Comments Calendar Year 2022 Calendar Year 2023 Calendar Year 2024
+Organizational capacity and Management Programs(%) Organizational capacity and Management Programs(%) Not Available Not Available Not Available
+Human Resources Policies and Procedures(%) Human Resources Policies and Procedures(%) Not Available Not Available Not Available
+Occupational Health and Safety(%) Occupational Health and Safety(%) Not Available Not Available Not Available
+[DevelopmentImpact.Role] (i) Long-term partnership: IFC has supported Bakhresa''s expansion in East and Central Africa over the years. Bakhresa is expanding in Southern Africa and is looking to IFC for continued support. The proposed IFC loan to Bakhresa will enable the group to successfully enter the South African market.
+(ii) Global expertise: IFC''s global knowledge of industry and best practice in agribusiness will help Bakhresa''s entry in South Africa.
+(iii) Environmental, safety and social standards: IFC will work with the Company to enhance its environmental, safety and social standards.
+(iv) Stamp of approval: IFC''s investment will bring a high level of comfort to other financiers which rely on IFC''s sector expertise.
+[RisksMitigation.SocialCategoryRationale] The development will occur in an area designated as “General Industrial” in accordance with the municipal town planning regulations and all the potential impacts are generally site specific and none are regarded to be significant. Further, grain milling itself has few impacts and results in limited wastes. Bakhresa has extensive experience in the business line and propose constructing an ultra-modern facility, including a dust collection and reuse system and energy efficiency equipment. Thus this is a Category B project according to IFC’s Policy on Environmental and Social Sustainability because the limited number of specific impacts that may occur are site specific, and those impacts can be avoided or mitigated by adhering to generally recognized performance standards, programs, procedures, guidelines or design criteria.
+[RisksMitigation.EnvSocialRisksImpact] Please refer to the related Environmental and Social Review Summary (ESRS) document for this project.
+[RisksMitigation.MitigationMeasures] Please refer to the Environmental and Social Action Plan (ESAP) tab in the related Environmental and Social Review Summary (ESRS) document for this project.
+[Psw.Facility[0].Key] IDA21-PSW BFF
+[Psw.Facility[1].Key] IDA21-PSW RMF
+[Psw.Facility[2].Key] IDA21-PSW LCF
+[Psw.Facility[3].Key] CCW-IDA21
+[Psw.Facility[4].Key] None
+[Psw.Total_Project_Cost] Not Available
+[Psw.Ifc_OA_Commitment] Not Available
+[Psw.Commercial_CoFinancing] Not Available
+[Psw.Dfi_CoFinancing] Not Available
+[ProjectName] Bakhresa SA (Pty) Limited
+[CompanyName] BAKHRESA SA (PTY) LTD
+[Department] Regional Industry MAS Africa II
+[Country] South Africa
+[Region] Africa
+[Industry] Agribusiness and Forestry
+[Sector] Grain Processing (Milling, Starch, Flour, Malt)
+[EnvironmentalCategory] B - Limited
+[Status] Completed
+[ProjectOverView.Project_Description] Establish a greenfield 750 tons capacity per day wheat mill in the South African port city of Durban, to serve primarily the KwaZulu-Natal province and export to neighboring countries including Mozambique. Bakhresa has decided to establish a wheat mill in South Africa at a cost of US$80 million and has invited IFC to provide senior debt of US$25 million.
+The IFC’s participation is up to US$25 million A Loan to Bakhresa South Africa (Pty) Ltd which will be used to fund a greenfield project in Bakhresa South Africa operations.
+[ProjectOverView.Env_Soc_Inf] Key project risks and impacts relate to managing and minimizing potential impacts during construction and ensuring adequate management of services (e.g., sewerage and stormwater) during the operational phase. Potential impacts that could result from the actual milling operation, i.e., dust explosion, food contamination and issues associated with occupational health and safety, will be effectively addressed by means of internal management systems, such as Bakhresa’s safety program and implementation of a HACCP (Hazard Analysis Critical Control Points) food safety program.
+[DocumentType] Summary of Investment Information (AIP Policy 2012)
+[ProjectType] Investment
+## IFC ESRS record, project 33327
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[RelevantProjects[5].Region] Africa
+[RelevantProjects[6].Region] Africa
+[RelevantProjects[7].Region] Africa
+[RelevantProjects[8].Region] Africa
+[RelevantProjects[9].Region] Africa
+[RelevantProjects[10].Region] Africa
+[RelevantProjects[11].Region] Africa
+[RelevantProjects[12].Region] Africa
+[RelevantProjects[13].Region] Africa
+[RelevantProjects[14].Region] Africa
+[RelevantProjects[15].Region] Africa
+[RelevantProjects[16].Region] Africa
+[RelevantProjects[17].Region] Africa
+[RelevantProjects[18].Region] Africa
+[RelevantProjects[19].Region] Africa
+[RelevantProjects[20].Region] Africa
+[RelevantProjects[21].Region] Africa
+[RelevantProjects[22].Region] Africa
+[RelevantProjects[23].Region] Africa
+[RelevantProjects[24].Region] Africa
+[RelevantProjects[25].Region] Africa
+[RelevantProjects[26].Region] Africa
+[RelevantProjects[27].Region] Africa
+[RelevantProjects[28].Region] Africa
+[RelevantProjects[29].Region] Africa
+[RelevantProjects[30].Region] Africa
+[RelevantProjects[31].Region] Africa
+[RelevantProjects[32].Region] Africa
+[RelevantProjects[33].Region] Africa
+[RelevantProjects[34].Region] Africa
+[RelevantProjects[35].Region] Africa
+[RelevantProjects[36].Region] Africa
+[RelevantProjects[37].Region] Africa
+[RelevantProjects[38].Region] Africa
+[RelevantProjects[39].Region] Africa
+[RelevantProjects[40].Region] Africa
+[RelevantProjects[41].Region] Africa
+[RelevantProjects[42].Region] Africa
+[RelevantProjects[43].Region] Africa
+[RelevantProjects[44].Region] Africa
+[RelevantProjects[45].Region] Africa
+[RelevantProjects[46].Region] Africa
+[RelevantProjects[47].Region] Africa
+[RelevantProjects[48].Region] Africa
+[RelevantProjects[49].Region] Africa
+[RelevantProjects[50].Region] Africa
+[RelevantProjects[51].Region] Africa
+[RelevantProjects[52].Region] Africa
+[RelevantProjects[53].Region] Africa
+[RelevantProjects[54].Region] Africa
+[RelevantProjects[55].Region] Africa
+[RelevantProjects[56].Region] Africa
+[RelevantProjects[57].Region] Africa
+[RelevantProjects[58].Region] Africa
+[RelevantProjects[59].Region] Africa
+[RelevantProjects[60].Region] Africa
+[RelevantProjects[61].Region] Africa
+[RelevantProjects[62].Region] Africa
+[RelevantProjects[63].Region] Africa
+[RelevantProjects[64].Region] Africa
+[RelevantProjects[65].Region] Africa
+[RelevantProjects[66].Region] Africa
+[RelevantProjects[67].Region] Africa
+[RelevantProjects[68].Region] Africa
+[RelevantProjects[69].Region] Africa
+[RelevantProjects[70].Region] Africa
+[RelevantProjects[71].Region] Africa
+[RelevantProjects[72].Region] Africa
+[RelevantProjects[73].Region] Africa
+[RelevantProjects[74].Region] Africa
+[RelevantProjects[75].Region] Africa
+[RelevantProjects[76].Region] Africa
+[RelevantProjects[77].Region] Africa
+[RelevantProjects[78].Region] Africa
+[RelevantProjects[79].Region] Africa
+[RelevantProjects[80].Region] Africa
+[RelevantProjects[81].Region] Africa
+[RelevantProjects[82].Region] Africa
+[RelevantProjects[83].Region] Africa
+[RelevantProjects[84].Region] Africa
+[RelevantProjects[85].Region] Africa
+[RelevantProjects[86].Region] Africa
+[RelevantProjects[87].Region] Africa
+[RelevantProjects[88].Region] Africa
+[RelevantProjects[89].Region] Africa
+[RelevantProjects[90].Region] Africa
+[RelevantProjects[91].Region] Africa
+[RelevantProjects[92].Region] Africa
+[RelevantProjects[93].Region] Africa
+[RelevantProjects[94].Region] Africa
+[RelevantProjects[95].Region] Africa
+[RelevantProjects[96].Region] Africa
+[RelevantProjects[97].Region] Africa
+[RelevantProjects[98].Region] Africa
+[RelevantProjects[99].Region] Africa
+[RelevantProjects[100].Region] Africa
+[RelevantProjects[101].Region] Africa
+[RelevantProjects[102].Region] Africa
+[RelevantProjects[103].Region] Africa
+[RelevantProjects[104].Region] Africa
+[RelevantProjects[105].Region] Africa
+[RelevantProjects[106].Region] Africa
+[RelevantProjects[107].Region] Africa
+[RelevantProjects[108].Region] Africa
+[RelevantProjects[109].Region] Africa
+[RelevantProjects[110].Region] Africa
+[RelevantProjects[111].Region] Africa
+[RelevantProjects[112].Region] Africa
+[RelevantProjects[113].Region] Africa
+[RelevantProjects[114].Region] Africa
+[RelevantProjects[115].Region] Africa
+[RelevantProjects[116].Region] Africa
+[RelevantProjects[117].Region] Africa
+[RelevantProjects[118].Region] Africa
+[RelevantProjects[119].Region] Africa
+[RelevantProjects[120].Region] Africa
+[RelevantProjects[121].Region] Africa
+[RelevantProjects[122].Region] Africa
+[RelevantProjects[123].Region] Africa
+[RelevantProjects[124].Region] Africa
+[RelevantProjects[125].Region] Africa
+[RelevantProjects[126].Region] Africa
+[RelevantProjects[127].Region] Africa
+[RelevantProjects[128].Region] Africa
+[RelevantProjects[129].Region] Africa
+[RelevantProjects[130].Region] Africa
+[RelevantProjects[131].Region] Africa
+[RelevantProjects[132].Region] Africa
+[RelevantProjects[133].Region] Africa
+[RelevantProjects[134].Region] Africa
+[RelevantProjects[135].Region] Africa
+[RelevantProjects[136].Region] Africa
+[RelevantProjects[137].Region] Africa
+[RelevantProjects[138].Region] Africa
+[RelevantProjects[139].Region] Africa
+[RelevantProjects[140].Region] Africa
+[RelevantProjects[141].Region] Africa
+[RelevantProjects[142].Region] Africa
+[RelevantProjects[143].Region] Africa
+[RelevantProjects[144].Region] Africa
+[RelevantProjects[145].Region] Africa
+[RelevantProjects[146].Region] Africa
+[RelevantProjects[147].Region] Africa
+[RelevantProjects[148].Region] Africa
+[RelevantProjects[149].Region] Africa
+[RelevantProjects[150].Region] Africa
+[RelevantProjects[151].Region] Africa
+[RelevantProjects[152].Region] Africa
+[RelevantProjects[153].Region] Africa
+[RelevantProjects[154].Region] Africa
+[RelevantProjects[155].Region] Africa
+[RelevantProjects[156].Region] Africa
+[RelevantProjects[157].Region] Africa
+[RelevantProjects[158].Region] Africa
+[RelevantProjects[159].Region] Africa
+[RelevantProjects[160].Region] Africa
+[RelevantProjects[161].Region] Africa
+[RelevantProjects[162].Region] Africa
+[RelevantProjects[163].Region] Africa
+[RelevantProjects[164].Region] Africa
+[RelevantProjects[165].Region] Africa
+[RelevantProjects[166].Region] Africa
+[RelevantProjects[167].Region] Africa
+[RelevantProjects[168].Region] Africa
+[RelevantProjects[169].Region] Africa
+[RelevantProjects[170].Region] Africa
+[RelevantProjects[171].Region] Africa
+[RelevantProjects[172].Region] Africa
+[RelevantProjects[173].Region] Africa
+[RelevantProjects[174].Region] Africa
+[RelevantProjects[175].Region] Africa
+[RelevantProjects[176].Region] Africa
+[RelevantProjects[177].Region] Africa
+[RelevantProjects[178].Region] Africa
+[RelevantProjects[179].Region] Africa
+[RelevantProjects[180].Region] Africa
+[RelevantProjects[181].Region] Africa
+[RelevantProjects[182].Region] Africa
+[RelevantProjects[183].Region] Africa
+[RelevantProjects[184].Region] Africa
+[RelevantProjects[185].Region] Africa
+[RelevantProjects[186].Region] Africa
+[RelevantProjects[187].Region] Africa
+[RelevantProjects[188].Region] Africa
+[RelevantProjects[189].Region] Africa
+[RelevantProjects[190].Region] Africa
+[RelevantProjects[191].Region] Africa
+[RelevantProjects[192].Region] Africa
+[RelevantProjects[193].Region] Africa
+[RelevantProjects[194].Region] Africa
+[RelevantProjects[195].Region] Africa
+[RelevantProjects[196].Region] Africa
+[RelevantProjects[197].Region] Africa
+[RelevantProjects[198].Region] Africa
+[RelevantProjects[199].Region] Africa
+[RelevantProjects[200].Region] Africa
+[RelevantProjects[201].Region] Africa
+[RelevantProjects[202].Region] Africa
+[RelevantProjects[203].Region] Africa
+[RelevantProjects[204].Region] Africa
+[RelevantProjects[205].Region] Africa
+[RelevantProjects[206].Region] Africa
+[RelevantProjects[207].Region] Africa
+[RelevantProjects[208].Region] Africa
+[RelevantProjects[209].Region] Africa
+[RelevantProjects[210].Region] Africa
+[RelevantProjects[211].Region] Africa
+[RelevantProjects[212].Region] Africa
+[RelevantProjects[213].Region] Africa
+[RelevantProjects[214].Region] Africa
+[RelevantProjects[215].Region] Africa
+[RelevantProjects[216].Region] Africa
+[RelevantProjects[217].Region] Africa
+[RelevantProjects[218].Region] Africa
+[RelevantProjects[219].Region] Africa
+[RelevantProjects[220].Region] Africa
+[RelevantProjects[221].Region] Africa
+[RelevantProjects[222].Region] Africa
+[RelevantProjects[223].Region] Africa
+[RelevantProjects[224].Region] Africa
+[RelevantProjects[225].Region] Africa
+[RelevantProjects[226].Region] Africa
+[RelevantProjects[227].Region] Africa
+[RelevantProjects[228].Region] Africa
+[RelevantProjects[229].Region] Africa
+[RelevantProjects[230].Region] Africa
+[RelevantProjects[231].Region] Africa
+[RelevantProjects[232].Region] Africa
+[RelevantProjects[233].Region] Africa
+[RelevantProjects[234].Region] Africa
+[RelevantProjects[235].Region] Africa
+[RelevantProjects[236].Region] Africa
+[RelevantProjects[237].Region] Africa
+[RelevantProjects[238].Region] Africa
+[RelevantProjects[239].Region] Africa
+[RelevantProjects[240].Region] Africa
+[RelevantProjects[241].Region] Africa
+[RelevantProjects[242].Region] Africa
+[RelevantProjects[243].Region] Africa
+[RelevantProjects[244].Region] Africa
+[RelevantProjects[245].Region] Africa
+[RelevantProjects[246].Region] Africa
+[RelevantProjects[247].Region] Africa
+[RelevantProjects[248].Region] Africa
+[RelevantProjects[249].Region] Africa
+[RelevantProjects[250].Region] Africa
+[RelevantProjects[251].Region] Africa
+[RelevantProjects[252].Region] Africa
+[RelevantProjects[253].Region] Africa
+[ESProjCategoryAndApplicableStandard.IAPS] While all Performance Standards are applicable to this investment, IFCs environmental and social due diligence indicates that the investment will have impacts which must be managed in a manner consistent with the following Performance Standards. If IFCs investment proceeds, IFC will periodically review the the project’s ongoing compliance with the Performance Standards
+PS 1 – Assessment and Management of Environmental and Social Risks and Impacts
+PS 2 - Labor and working conditions
+PS 3 - Resource Efficiency and Pollution Prevention
+PS 4 – Community Health, Safety and Security
+If IFC’s investment proceeds, IFC will periodically review the the project’s ongoing compliance with the Performance Standards
+[ESProjCategoryAndApplicableStandard.ESCR] Key project issues relate to managing and minimizing potential impacts during construction and ensuring adequate management of services (e.g., sewerage and stormwater) during the operational phase. Potential impacts that could result from the actual milling operation, e.g., dust explosion and food contamination, will be effectively addressed by means of internal management systems, such as Bakhresa’s safety program and implementation of a HACCP (Hazard Analysis Critical Control Points) food safety program.
+Bakhresa acquired the facility on a willing buyer willing seller basis, thus PS 5: Land Acquisition and Involuntary Resettlement is not applicable. In addition, given it is an existing facility located within an industrial area, PS6: Biodiversity Conservation and Sustainable Management of Living Resources is not applicable and neither is PS8: Cultural Heritage. There are no Indigenous Peoples in South Africa, thus PS: 7 is not applicable.
+The development will occur in an area designated as “General Industrial” in accordance with the municipal town planning regulations and all the potential impacts are generally site specific and none are regarded to be significant. Further, grain milling itself has few impacts and results in limited wastes. Bakhresa have extensive experience in the business line and propose constructing an ultra-modern facility, including a dust collection and reuse system and energy efficiency equipment. Thus this is a Category B project according to IFC’s Policy on Environmental and Social Sustainability because the limited number of specific impacts that may occur are site specific, and those impacts can be avoided or mitigated by adhering to generally recognized performance standards, programs, procedures, guidelines or design criteria.
+[ESRisksOrImpactAndMitigation.PS1_AssessMgmtEnvSocialRisks] Assessment: The KwaZulu-Natal provincial Department of Agriculture and Environmental Affairs has confirmed in writing that no Environmental Impact Assessment (EIA) is required in accordance with the national EIA Regulations. Further, given the project location and that the facility was previously used for a similar activity, it is considered that no such assessment is required.
+Management: Bakhresa is in the process of preselecting experienced construction companies to undertake the necessary civil works for the project. No major structural work is required and rather this is associated with upgrading / revamping sections of the building to accommodate the new equipment. Compliance with South African legislation related to occupational health and safety (OHS) will ensure alignment with recognized industry practice.
+Bakhresa has a Safety Management Program consisting of a manual that is applied across the Group, which incorporates environmental issues along with OHS aspects. A HACCP food safety program will be implemented at the facility along with accreditation against ISO 9001, a quality management system.
+Emergency Response: Bakhresa’s Safety Manual has safety policies and procedures including those related to dust explosion and appropriate emergency response procedures for various potential incidents. Given the project location and size of the site, off-site impacts as a result of incidents on-site are very unlikely. The Durban Metro Fire Department also needs to sign off on building plans prior to any construction to ensure project compliance with the life and fire safety requirements of the South African Building Standards; this will ensure alignment with the requirements for such as defined in the WBG EHS General Guidelines. Equally, the Fire Department will undertake an inspection of the facility during construction and once operational.
+Monitoring and Reporting: In accordance with the license to operate to be issued by the municipality, Bakhresa will be required to report on specific aspects still to be defined. In addition, the Company will report on environmental and social performance via the Annual Monitoring Report to be submitted to IFC.
+Stakeholder Engagement: Outside of engagement with relevant provincial and municipal authorities, no stakeholder engagement will be undertaken for the project which is considered adequate given the project location. However, Bakhresa will develop and implement a community grievance mechanism such that should stakeholders or the general public raise concerns regarding operations, these can be addressed accordingly.
+[ESRisksOrImpactAndMitigation.PS2_LaborWorkConditions] The facility will employ approximately 200 permanent workers and of these only 3-4 would be expatriate staff with the number of women still to be confirmed.
+Bakhresa has a corporate Human Resources Policy that is incorporated in its Condition of Service document that applies to all its operations and will similarly apply to the South African operations and amended accordingly to comply with South African labor legislation.
+The Conditions of Service document details the employment conditions, hiring and dismissal and a grievance mechanism, amongst related matters. The objective of the Conditions of Service is to ensure consistency and fairness in handling personnel and administrative matters, and to provide a ready reference for management and staff to ensure positive working relationships for the Company and staff. Bakhresa has a corporate manager for administrative and human resources affairs. Compliance with South African legislation will ensure alignment with this Performance Standard and allows for freedom of association, collective bargaining and the minimum age for employment is 18 years. Submission of the project specific HR documentation to IFC confirming alignment with South African legislation is a requirement as defined in the ESAP; compliance with national labor legislation aligns with the requirements of this Performance Standard.
+The Company has a Safety Management Program and a manual that is applied across all operations. Bakhresa’s Safety Manual is a customized program for grain management and milling and attendant occupational health and safety risks. It addresses safety committees and meetings, employee training, permit requirements and procedures and accident investigation and reporting. Overall the program and associated manual is adequately responsive to the requirements of this performance standard and the World Bank Group (WBG) General Environmental, Health and Safety (EHS) Guidelines. This documentation though will need to be reviewed to ensure compliance with the national Occupational Health and Safety Act; this is defined in the ESAP.
+In respect of contractors, as per the ESAP, Bakhresa will include the requirement for compliance with national labor legislation in their contract documentation with the contractor and submit the contractor’s OHS plan to IFC for agreement.
+[ESRisksOrImpactAndMitigation.PS3_ResEffPollutionPrev] Potential pollution issues during the construction phase will be limited given much of the work will be undertaken internally. The areas adjacent to the site are industrial in nature thus nuisance impacts during the construction and operational phases to the broader community are not envisaged. As such, no environmental management plan is prescribed for the project and wastes will be domestic in nature and there are well established private and public waste management collectors and associated waste disposal facilities for such.
+Electricity will be supplied by the municipality and usage thereof allied to consumption by fuel by vehicles equates to 8525 tons of CO2 per year. Interruptions to electricity supply in Durban are generally limited and thus only a small 150 kVa diesel generator will be installed at the mill so as to operate essential services such as lighting.
+The facility is estimated to use 130 m3 of water per month for both potable use and dampening the wheat and this will be supplied by the municipality. No water treatment is required and the municipal water quality complies with international standards for such. Stormwater will be collected in the established on-site stormwater management system which then discharges into the municipal stormwater system which ultimately discharges to sea. Sewerage is also discharged into the municipal sewerage collection system which discharges to one of the municipal treatment facilities and in this area that is the Southern Treatment Works.
+Limited waste will be generated by the facility, primarily domestic solid waste. All dust generated in the mill is recycled into the process and the bags in which grain is delivered are reused for storage of the byproducts prior to sale, or sold.
+On occasion, the property will be fumigated for pests. As per the ESAP, Bakhresa are required to develop a pest management program that ensures that WHO Class 1 pesticides are not used and where Class II pesticides are used, a program is defined to eliminate their use.
+[ESRisksOrImpactAndMitigation.PS4_CommHealthSecurity] Due to the site location and the nature of the operations, the potential for off-site impacts is limited. The road network in the area is well established and designed to accommodate heavy vehicles.
+Security for the development will be outsourced and provided by unarmed guards who will able to call on additional resources should this be required, along with the national police.
+As noted Bakhresa will also implement a HACPP food safety system and obtain certification against ISO 9001. The focus of the former is to ensure food safety prior to sale of flour to the public and will include assessment and monitoring of product quality at various key stages in the manufacturing process.
+[StakeHolderOrEngagements.StakeHolderEngagement] No community engagement has been undertaken for the project and given the project location and type of activity is considered unnecessary.
+[StakeHolderOrEngagements.LAPD] The ESRS and ESAP, along with any further information required about the facility in Durban may be obtained from the individual detailed below.
+Mr. Veeresh Hiremath
+Bakhresa SA (Pty) Ltd
+1 Fennis Close
+Umbilo
+Durban
+4001
+South Africa
+Phone: +27 (0) 31 2742000
+Mobile: +27 (0) 797950700
+Fax: +27 (0) 31 2742004
+[EAndSActionPlan] BGM South Africa(33327) Supervision Disclosure Snapshot – Version 2
+Description
+Anticipated Completion Date
+Status
+Comments
+Completion Date
+Develop and implement a community grievance mechanism.
+30-Jun-2015
+Completed
+Completed
+4/30/2016
+Submit the Human Resource documentation to IFC for the operational phase confirming alignment with this Performance Standard and national labor legislation.
+31-Mar-2015
+Completed
+Completed
+4/30/2016
+Update the Bakhresa Safety Management Program to ensure alignment with the South Africa' national Occupational Health and Safety (OHS) Act.
+30-Mar-2015
+Completed
+Completed
+4/30/2016
+a) Submit the contract documentation for the construction phase to IFC confirming the requirement for compliance with national labor legislation, including OHS.
+31-Dec-2014
+Completed
+Completed
+4/30/2016
+b) Submit the contractor's OHS plan to IFC confirming alignment with national legislative requirements.
+31-Jan-2015
+Completed
+Completed
+4/30/2016
+Develop and implement a pesticide management program compliant with the World Bank Group General Environmental, Health and Safety Guidelines. This plan is to prescribe the non-use of WHO Class I pesticides and an plan to eliminate the use of Class II pesticides within one year of the facility being operational.
+30-Sep-2015
+Completed
+Completed
+4/30/2016
+Develop and implement a HACCP accredited food safety system.
+31-Dec-2015
+Completed
+Completed
+4/30/2016
+[ProjectName] Bakhresa SA (Pty) Limited
+[CompanyName] BAKHRESA SA (PTY) LTD
+[Department] Regional Industry MAS Africa II
+[Country] South Africa
+[Region] Africa
+[Industry] Agribusiness and Forestry
+[Sector] Grain Processing (Milling, Starch, Flour, Malt)
+[EnvironmentalCategory] B - Limited
+[Status] Completed
+[ProjectOverView.Project_Description] The project involves upgrading an existing grain milling facility and operation in Durban, South Africa by the Bakhresa Group (Bakhresa). Established in 1983, Bakhresa currently operates grain milling operations in Tanzania, Uganda, Malawi, Mozambique and Rwanda. The combined annual milling capacity of the company is in excess of some 2 million tons per annum and IFC is currently invested in the Rwanda and Mozambique operations. Overall the latter projects are complaint with IFC’s requirements with environmental and social performance being satisfactory. Key issues to be addressed to ensure alignment with IFC;’s Performance Standards related to resettlement in Mozambique, and the management of labor, including occupational health and safety during construction, and the implementation of adequate management systems during operations at the facilities in both Mozambique and Rwanda. Construction of these projects is now complete and IFC will be assessing the operations in 2013 to confirm operational aspects continue to be satisfactory.
+Bakhresa have purchased a facility that was previously used as a flour mill which requires limited modification to accommodate the milling equipment. The facility will have a milling capacity of 750 tons per day and will primarily service the local market, though flour may be exported to neighboring countries. The mill is located in an industrial area adjacent to the Port of Durban and the total project cost is $80 million with IFC’s providing Bakhresa with a loan of $25 million.
+Milling is typically a relatively low impact process and, in this instance, notably so given the project location. Wheat will be imported via a dedicated wheat handling facility within the Port and then transported by bulk road carriers some 3.5 kilometers through an industrial area to the Bakhresa facility. At the site the grain will be offloaded into the grain in-take and transferred to silos. Thereafter the grain is cleaned by means of screening, separation and aspiration and then scoured to remove loose dust on the grain particles. The grain is then dampened and placed in temporary bins for 24 hours following which it is milled by means of a grinding and sifting system. Product is generally 75% flour and 25% byproduct (bran and pollard), although these quantities may vary depending on the quality of the grain received. The flour is then packaged in 25 and 50 kg bags, while the bran and pollard is stored in the bags in which grain was received prior to sale as animal feed. All the milling activities as defined above will occur within enclosed buildings comprised of concrete floors with steel and brick wall cladding.
+Limited quantities of grain are sourced from Africa with the majority of the grain being purchased on the spot market and imported from producing areas, such as South America, United States, Australia and Europe, amongst others. Some of the flour will be transported by Bakhresa to end-customers, although the majority will be collected by customers directly from the mill. Bran and pollard will be transferred by road to customers.
+Currently, the production is only scheduled to commence at the end of 2014 and Bakhresa is yet to appoint a contractor for the limited civil works required. Equipment for the facility will be sourced from Buhler, one the largest manufacturers of milling equipment globally and from whom Bakhresa has acquired most of their milling equipment previously.
+[ProjectOverView.Review_Scope] IFC’s appraisal of this project included a site visit to the facility in Durban, discussions with the Managing Director assigned to the project and responsible for implementation, written responses to an environmental and social questionnaire compiled for the project and a review of documentation related to existing investments by IFC in Bakhresa, including that related to occupational health and safety and human resources.
+IFC’s appraisal also considered environmental and social management plans for the project and gaps where applicable between these plans and IFC requirements. Where necessary, corrective measures intended to close these gaps within a reasonable period of time are summarized in the paragraphs that follow, and in the agreed Environmental and Social Action Plan (ESAP) disclosed with this review summary. Through implementation of these management plans and the ESAP the Project is expected to be designed and operated in accordance with Performance Standards objectives.
+[DocumentType] Environmental Documents
+[ProjectType] Investment
+[BCS] Broad Community Support is not applicable for this project

@@ -1,0 +1,261 @@
+=== PAGE 1 ===
+## IFC SII record, project 33405
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[SponsorCostLocation.Sponsor] Pearl Dairy, based in Uganda, is a part of the Midcom Group of companies operating throughout sub-Saharan Africa, whose primary business operations include distribution of Nokia mobile phones and accessories, education, and real estate. The Company is jointly owned by the family trusts of the two key sponsors, Mr. Bhasker Kotecha & Family (50.5%) and Mr. Anand Kapoor & Family (49.5%).
+[SponsorCostLocation.Cost_Nature] Total project cost is estimated at $15 million. IFC, with GAFSP support, will provide a US$8 million senior loan.
+[SponsorCostLocation.Location] The Project will be implemented and located on a 15 acre plot in Mbarara, Uganda.
+The registered address of the Company is: Plot 29B Acacia Avenue, Kololo, P O Box 7420, Kampala, Uganda.
+The factory address is: Plot 100, Folio 2, LRV 4045 Kashari Block, Nyakinengo Parish, Biharwe Sub-Country Mbarara District, Uganda.
+[SponsorCostLocation.BlendedFinanceRationale] Refer to other sections for details.
+[RisksMitigation.SocialCategoryRationale] Projects of this nature have issues related to assessment and management of environmental and social risks and impacts, labor and working conditions, resource efficiency and pollution prevention, community health, safety and security. This proposed investment is an E&S Category B project according to IFC’s Policy on Environmental and Social Sustainability, because potential adverse environmental or social risks and/or impacts are limited, few in numbers, site-specific, largely reversible and readily addressed through mitigating measures.
+[RisksMitigation.EnvSocialRisksImpact] Please refer to the related Environmental and Social Review Summary (ESRS) document for this project.
+[RisksMitigation.MitigationMeasures] Please refer to the Environmental and Social Action Plan (ESAP) tab in the related Environmental and Social Review Summary (ESRS) document for this project.
+[AdditionalProjectAttribute.Blended_Finance] Yes
+[AdditionalProjectAttribute.Blended_Finance_Facility] GAFSP-TF
+[Psw.Facility[0].Key] IDA21-PSW BFF
+[Psw.Facility[1].Key] IDA21-PSW RMF
+[Psw.Facility[2].Key] IDA21-PSW LCF
+[Psw.Facility[3].Key] CCW-IDA21
+[Psw.Facility[4].Key] None
+[Psw.Total_Project_Cost] Not Available
+[Psw.Ifc_OA_Commitment] Not Available
+[Psw.Commercial_CoFinancing] Not Available
+[Psw.Dfi_CoFinancing] Not Available
+[ProjectName] Pearl Dairy
+[CompanyName] PEARL DAIRY FARMS LTD
+[Department] Regional Industry MAS Africa II
+[Country] Uganda
+[Region] Africa
+[Industry] Agribusiness and Forestry
+[Sector] Dairy Products
+[EnvironmentalCategory] B - Limited
+[Status] Completed
+[ProjectOverView.Project_Description] The proposed investment consists of an $8 million financing package to Pearl Dairy Farms Limited (“Pearl Dairy” or the “Company”), a Ugandan milk processor.
+The proposed financing package will be supported by the Private Sector Window of the Global Agriculture and Food Security Program (“GAFSP”). GAFSP funding plays a catalytic role to create opportunity to support innovative private sector investments and deliver a level of additionality and impact beyond what is possible through IFC’s regular operations.
+The financing package will support Pearl Dairy in establishing a greenfield powdered milk processing plant in the Mbarara District of Uganda with a handling capacity of 240,000 liters of milk per day. The project will source raw milk from smallholder farmers in the surrounding region and will support the development of milk collection centers to further strengthen the dairy value chain. The Project is in the final stages of construction phase and its commissioning is expected by the second half of 2013. The construction has been financed by sponsor equity, shareholder loans as well as bank loans from Stanbic Uganda.
+[ProjectOverView.Env_Soc_Inf] Main environmental and social risks and impacts of the project include (i) operational licenses for the dairy processing plant; (ii) environmental, occupational health and safety (OHS), food safety and social management system and related procedures, including Hazard Assessment and Critical Control Point (HACCP) Principles and ISO 22000 certification; (iii) EHS organizational structure and internal capacity; (iv) adherence to Ugandan labor law, working conditions, standards and OHS risk prevention and management, including employees, contractors and nearby communities; (v) Life and Fire Safety (L&FS) provisions and emergency preparedness and response; (vi) use of public utilities (water supply and energy), water and energy use efficiency and adoption of best available technology; (vii) wastewater collection and treatment, solid waste disposal, air emissions from generators and boiler, including greenhouse gas emissions, potable water quality, treatment and monitoring, hazardous material handling, management and control of pest; (viii) food safety, (ix) engagement with communities on traffic safety and social performance.
+Key Mitigating Measures
+Key mitigating measures include the following: hiring an Environment, Health and Safety Officer to develop and implement an environmental and social management system and manage certification processes; developing and implementing an environmental, occupational health & safety (OHS), and food safety management system, including policies, plans, manuals and procedures consistent with ISO 9001, 14001, and HACCP/ISO 2200; developing a structured EHS monitoring and reporting system on environmental and social impacts; preparing a Human Resources Policy; developing a structured grievance mechanism procedure for employees; adopting a management procedure for the supply chain, which will include the development and implementation of a Supplier’s Code of Conduct with provisions against child and forced labor; developing and implementing a waste management plan; developing and implementing a safe driver and transport safety vehicle procedure; and obtaining certification of structural and fire safety aspects by registered engineering and fire safety professionals.
+[DocumentType] Summary of Investment Information (AIP Policy 2012)
+[ProjectType] Investment
+## IFC ESRS record, project 33405
+[ClientDocumentation[0].Type] pdf
+[ClientDocumentation[0].File_Name] ESIA Pearl Dairy
+[ClientDocumentation[0].Path] \33405_ESRS
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[RelevantProjects[5].Region] Africa
+[RelevantProjects[6].Region] Africa
+[RelevantProjects[7].Region] Africa
+[RelevantProjects[8].Region] Africa
+[RelevantProjects[9].Region] Africa
+[RelevantProjects[10].Region] Africa
+[RelevantProjects[11].Region] Africa
+[RelevantProjects[12].Region] Africa
+[RelevantProjects[13].Region] Africa
+[RelevantProjects[14].Region] Africa
+[RelevantProjects[15].Region] Africa
+[RelevantProjects[16].Region] Africa
+[RelevantProjects[17].Region] Africa
+[RelevantProjects[18].Region] Africa
+[RelevantProjects[19].Region] Africa
+[RelevantProjects[20].Region] Africa
+[RelevantProjects[21].Region] Africa
+[RelevantProjects[22].Region] Africa
+[RelevantProjects[23].Region] Africa
+[RelevantProjects[24].Region] Africa
+[RelevantProjects[25].Region] Africa
+[RelevantProjects[26].Region] Africa
+[RelevantProjects[27].Region] Africa
+[RelevantProjects[28].Region] Africa
+[RelevantProjects[29].Region] Africa
+[RelevantProjects[30].Region] Africa
+[RelevantProjects[31].Region] Africa
+[RelevantProjects[32].Region] Africa
+[RelevantProjects[33].Region] Africa
+[RelevantProjects[34].Region] Africa
+[RelevantProjects[35].Region] Africa
+[RelevantProjects[36].Region] Africa
+[RelevantProjects[37].Region] Africa
+[RelevantProjects[38].Region] Africa
+[RelevantProjects[39].Region] Africa
+[RelevantProjects[40].Region] Africa
+[RelevantProjects[41].Region] Africa
+[RelevantProjects[42].Region] Africa
+[RelevantProjects[43].Region] Africa
+[RelevantProjects[44].Region] Africa
+[RelevantProjects[45].Region] Africa
+[RelevantProjects[46].Region] Africa
+[RelevantProjects[47].Region] Africa
+[RelevantProjects[48].Region] Africa
+[RelevantProjects[49].Region] Africa
+[RelevantProjects[50].Region] Africa
+[RelevantProjects[51].Region] Africa
+[RelevantProjects[52].Region] Africa
+[RelevantProjects[53].Region] Africa
+[RelevantProjects[54].Region] Africa
+[RelevantProjects[55].Region] Africa
+[RelevantProjects[56].Region] Africa
+[RelevantProjects[57].Region] Africa
+[RelevantProjects[58].Region] Africa
+[RelevantProjects[59].Region] Africa
+[RelevantProjects[60].Region] Africa
+[RelevantProjects[61].Region] Africa
+[RelevantProjects[62].Region] Africa
+[RelevantProjects[63].Region] Africa
+[RelevantProjects[64].Region] Africa
+[RelevantProjects[65].Region] Africa
+[RelevantProjects[66].Region] Africa
+[RelevantProjects[67].Region] Africa
+[RelevantProjects[68].Region] Africa
+[RelevantProjects[69].Region] Africa
+[RelevantProjects[70].Region] Africa
+[RelevantProjects[71].Region] Africa
+[RelevantProjects[72].Region] Africa
+[RelevantProjects[73].Region] Africa
+[RelevantProjects[74].Region] Africa
+[RelevantProjects[75].Region] Africa
+[RelevantProjects[76].Region] Africa
+[RelevantProjects[77].Region] Africa
+[RelevantProjects[78].Region] Africa
+[RelevantProjects[79].Region] Africa
+[RelevantProjects[80].Region] Africa
+[ESProjCategoryAndApplicableStandard.IAPS] While all Performance Standards are applicable to this investment, IFCs environmental and social due diligence indicates that the investment will have impacts which must be managed in a manner consistent with the following Performance Standards. If IFCs investment proceeds, IFC will periodically review the the project’s ongoing compliance with the Performance Standards
+PS 1 – Assessment and Management of Environmental and Social Risks and Impacts
+PS 2 - Labor and working conditions
+PS 3 - Resource Efficiency and Pollution Prevention
+PS 4 – Community Health, Safety and Security
+If IFC’s investment proceeds, IFC will periodically review the the project’s ongoing compliance with the Performance Standards
+[ESProjCategoryAndApplicableStandard.ESCR] This proposed investment is expected to have limited environmental and social impacts which are expected to be site-specific and none is expected to be significant. Those impacts can be avoided or mitigated by adhering to recognized performance standards, procedures, guidelines and design criteria, as described in the following sections. Thus, this is a Category B project in accordance with IFC’s Environmental and Social Sustainability Policy. This categorization is in accordance with other similar type of projects within the sector. The project is designed to avoid, minimize and manage E&S risks and impacts of the Company’s operations in compliance with applicable IFC’s Performance Standards and IFC/World Bank Group (WBG) General and sector-specific (Dairy Processing) Environmental, Health and Safety (EHS) Guidelines.
+Key E&S issues applicable for this investment are: (i) operational licenses for the dairy processing plant; (ii) environmental, occupational health and safety (OHS), food safety and social management system and related procedures, including Hazard Assessment and Critical Control Point (HACCP) Principles and ISO 22000 certification; (iii) EHS organizational structure and internal capacity; (iv) adherence to Ugandan labor law, working conditions, standards and OHS risk prevention and management, including employees, contractors and nearby communities; (v) Life and Fire Safety (L&FS) provisions and emergency preparedness and response; (vi) use of public utilities (water supply and energy), water and energy use efficiency through project design and adoption of best available technology, including equipment selection; (vii) wastewater collection and treatment, solid waste disposal, air emissions from generators and boiler, including greenhouse gas emissions, potable water quality, treatment and monitoring, hazardous material handling, management and control of pest; (viii) food safety, (ix) engagement with communities on traffic safety and social performance.
+[ESRisksOrImpactAndMitigation.PS1_AssessMgmtEnvSocialRisks] Environmental and Social Assessment and Management System
+In accordance with Uganda’s National Environment Act and the Environment Impact Assessment Regulations No 13 of 1998, Pearl Dairy has commissioned the preparation of an Environmental Impact Assessment (EIA) Report for the greenfield dairy processing plant of Mbarara. In January 2011, Pearl Dairy received a Certificate of Approval (certificate no NEMA/EIA/3570) from the National Environment Management Authority. The land of the dairy plant is located on a freehold tenure. The Land Act of 1998 defines ‘freehold’ as a tenure that derives its legality from the Constitution and the written law. Freehold tenure may involve either a grant of land in perpetuity, or for a lesser specified time period. The Act specifies that the holder of land in freehold has full power of ownership of it.
+Pearl Dairy aims at getting ISO 9001, 14001, and 22000 certification in the next coming years. It has an Environmental and Social Management System (ESMS) framework covering issues, like discharge of effluent, management of hydrocarbons, handling of solid waste, and OHS. It developed procedures to sample raw milk, to handle can and tanker milk reception. It has also Key Performance Indicators for effluent discharge, noise pollution, emissions to air, and water and energy efficiency (ref. water and energy). Going forward, as set forth in the ESAP, Pearl Dairy will develop and implement an Environmental, OHS and food safety management system, including policies, plans, manuals and procedures – consistent with ISO 9001, 14001, and HACCP/ISO 22001.
+Policy
+Pearl Dairy has an overarching environmental policy dated January 2013. It contains provisions related to environmental safety, development of environmental management system, assessment of environmental impacts, objectives to meet ISO 14001 requirements, reduction of waste, energy efficiency, training programs, suppliers’involvement in improving overall environmental performance, and development of partnerships to achieve environmental goals.
+Management Programs
+Mitigating measures proposed in the EIA includes the following: treatment of wastewater, solid waste management, reuse of rainwater, use of personal protective equipment (PPE), tree planting, fencing of plant perimeter, road safety measures, restoration of quarried site, and monitoring of water. As mentioned above, Pearl Dairy will mainstream these E&S management programs within the framework of ISO 9001, 14001, and 22000 management system.
+Organizational Capacity and Competency
+Pearl Dairy’s Organizational Chart includes, among others, a Procurement Manager for raw milk, a Production Manager, a Maintenance Manager, and a Quality, Environment, Health, and Safety (QEHS) Manager. At the time of appraisal, a Quality Manager had already been hired. Management confirmed that the EHS Manager will be hired in the next 4-6 months as set forth in the ESAP. The tasks of the EHS Manager will be to im
+plement the overall ESH management system, to develop EHS Action Plans, to ensure training of all workers on EHS issues, to implement procedures for reporting injuries, rules for use of Protective Personnel Equipment (PPE), transport safety practices, waste management, resources monitoring, community engagement, etc. The Federation of Uganda Employers, which is the voice of employers in Uganda on social and economic issues has developed an EHS training plan for Pearl Dairy workers. The plan comprises modules on OHS, first aid, life and fire safety and prevention.
+Emergency Preparedness and Response
+Pearl Dairy’s operations could be associated with fire and explosion risks, and ammoniac leakage from the refrigeration system. Pearl Dairy developed an Emergency Preparedness and Response Plan taking into account major and minor emergencies. Major emergency scenarios include major fire/explosion, leakage of ammonia, and natural hazards. Minor emergency scenarios include spillage of acid/sodium hydroxide or caustic soda, inhalation of ammonia, security breaches, collapse of structure, accident of tankers (diesel, milk, etc.), sudden health issues (heart attack, etc.), fall of high voltage power lines. To be in line with requirements of IFC’s Performance Standard 1, the Plan will include the following elements: procedures for shutting down equipment, production and evacuations procedures, including means of egress and a designated meeting place outside the plant. It will also include specific training and practice (simulations and drills with periodicity), schedules and equipement requirements for employees who are responsaible for rescue operations, medical duties, threat and incident responses. As part of the plant’s EHS inspection, fire extinguishers, hydrants and the fire fighting system will be inspected on a regular manner. In coordination with local fire brigades, neighbouring farmers and surrounding companies, the assigned Company’s security team will undertake periodic fire drills.
+Monitoring and Review
+As set forth in the ESAP, Pearl Dairy will adopt a structured EHS monitoring and reporting system on environmental, OHS and social impacts of its operations. Monitoring frequencies and methodology will be defined by the above mentioned ESMS and monitoring data will be stored in a centralized database for monthly and annual report production. Pearl Dairy will report on Key Performance Indicators (KPIs) in order to monitor the following EHS parameters: a) Safety – Lost Time Incidence Frequency Rate (LTIFR), Accident Free Days; b) Resource Efficiency – Carbon (kg/ton), Water Usage (kiloliters/ton), Energy Usage (kWh/ton), wastewater monitoring effluents and air emissions parameters from boiler, generators in line with IFC/WBG’s General and Sector specific EHS guidelines; c) Staff - Retention and training days. In addition, the Quality and EHS Managers will define an integrated EHS report format and based on critical EHS key performance i
+ndicators (e.g. compliance with legal and regulatory requirements, EHS management system progress report and certification, including quality control and food safety management system, energy and water consumption and efficiency; air emissions (Nitrous and sulfur oxides (NOx, SOx), particulates), including GHG emissions; noise levels and management, solid and hazardous waste management and disposal, effluent discharges from the wastewater treatment unit, compliance with national OHS requirements, including accident rates (lost-time accidents); customers and community complaints, supplier performance and community engagement activities). The Company will also report annually to IFC as part of the Annual Monitoring Report (AMR).
+Stakeholder Engagement
+During the EIA preparation process, a community meeting was held in July 2010 to discuss potential impacts and opportunities of the project. Residents, community representatives as well as local authorities were met during the meeting and minutes were taken. Comments were related to positive and negative impacts as well as opportunities of the project. Impacts identified during the meeting were related to employment opportunities, increase of income generating activities in the area, increase in the land value, pollution of land and water, dust during construction, security and morality issues because of the presence of workers, and increase of traffic accidents. Participants agreed that the long-term positive attributes associated with the establishment of the milk processing plant outweigh the negative impacts as long as the mitigating measures are properly and effectively implemented. Mitigating measures identified during the meeting include fencing, employment, and a wastewaster treatment plant (WWTP). Pearl Dairy also conducted a survey of potential dairy farmers and cooperatives interested in providing milk to the processing plant. A total of 87 cooperatives (for a total of about 5,000 farmers) were contacted and interviewed.
+[ESRisksOrImpactAndMitigation.PS2_LaborWorkConditions] Human Resources (HR) Policies and Procedures
+Although not currently operating because construction is not yet completed (less than a month left according to the managers), Pearl Dairy actually hires 15 foreigners (mostly Indians and Kenyans), and 45 local workers. These workers all have written contracts. During peak of operations, it is expected that the number of workers will increase by about 50%. Daily or casual workers (50 to 75 daily workers) will also be hired and will be contracted by a third party (HR Solutions) and will be paid twice as much as the minimum legal wage. All expatriates and local workers are covered by a workplace medical insurance. Expatriates are covered under an international plan and local workers are covered under the Ugandan National Security Fund.
+According to the 2006 Ugandan Employment Act, maximum working hours are 48 hours a week. In absence of a working agreement to the contrary, hours worked in excess of 48 hours in any one week, is regarded as overtime hours. Three shifts of 8 hours over 7 days are being scheduled at the plant. At the time of appraisal, there were no workers’representatives. Construction of the new dairy processing plant started in 2009. Core construction services are provided by Jan Engineers which has a HR Policy according to the construction manager. They have 30 permanent employees and they also hire up to 230 daily workers.
+Pearl Dairy does not have a HR Policy. As set forth in the ESAP to comply with the requirement of IFC’s Performance Standard 2, the Sponsor will develop a HR Policy that will cover all type of workers, including direct workers and contracted workers. At a minimum, the HR Policy will include the following provisions: working relationship, working conditions, terms of employment, workers’organizations, non-discrimination and equal opportunity, retrenchment, grievance mechanism, child and forced labor, occupational health and safety, workers engaged by third parties, and supply chain. The HR manual will be communicated to all new employees during the induction process.
+Grievance Mechanism
+There is actually no grievance mechanism for workers (for construction and operation). As set forth in the ESAP, Pearl Dairy will establish a structured grievance mechanism procedure that will meet IFC’s PS2 requirements and that will be included into its HR Policy. This procedure will include steps to be taken for workers to manifest any concern, engage in a mediation process, contact responsible persons, and provide feedback. Awareness raising on the grievance mechanism procedure will take place during the worker’s induction session. The scope of this grievance mechanism will also apply to contractors.
+Occupational Health and Safety
+In its Environmental Management System, Pearl Dairy has defined specific provisions for Occupational Health and Safety (OHS) related to safety of electrical equipment, personal protective equipment, safety signage, machine safety, handl
+ing of chemicals, fire extinguishers, first aid kits, and noise level. In line with the Ugandan Occupational Safety and Health Act (No. 9, 2006), Pearl Dairy is using a general register for workplaces to compile information on boilers, hoists and lifts, accidents, and occupational diseases. This register is kept available for inspection by the Commissionner for Occupational Safety and Health. During construction, OHS training was organized weekly with a focus on the use of scaffolds and PPE. Two incidents occurred involving the fall of scaffolds and resulted in an employee with a broken arm and seven others suffering from cuts. According to Pearl Dairy’s management, during operation, a plant-level EHS Committee will be established to undertake task hazard analysis based on Standard Operating Procedures (SOPs) for each activity, enforcement of use of PPE, safety recording, and safety orientation during the induction/orientation program complemented by on-the-job training supervised. The plant will established an infirmary and a nurse will be hired prior to commissioning.
+Supply Chain
+Pearl Dairy will be sourcing raw milk from local cooperatives and farmers. Specifically, the Company plans to set-up a comprehensive milk collection scheme to collect good quality raw milk from 5,000 farmers. Pearl Dairy will be developing and facilitating a training program for farmers to improve raw milk quality, storage, and provision of technical assistance on animal feed and husbandry. In Uganda, risks of child labor have been reduced notably by Universal Primary Education. According to Unicef, primary school net enrollment ratio was 92% in 2009. As identified in the US Department of Labor List of Goods produced by child labor and forced labor in Uganda, harmful child labor is associated with the cattle industry, especially in the Karamoja Region (the Project is located in the Southern Region). Site visits and discussions with local farmers and cooperatives have confirmed children’s involvement in farming as part of a familial activity. It does not however prevent them to attend schools. In order to mitigate any incidence of harmful child labor in its supply chain, Pearl Dairy will adopt, as set forth in the ESAP, a management procedure for its supply chain, which will include the development and implementation of a Supplier’s Code of Conduct which will be mainstreamed into its contractual agreements with dairy cooperatives. This Code of Conduct will include provisions against child and forced labor.
+[ESRisksOrImpactAndMitigation.PS3_ResEffPollutionPrev] Resource Efficiency
+Energy is provided by the national grid and three back-up generators (two 250 kva; one 100 kva), in case of power outage. Steam is produced through a 5t boiler (5t water/hour at 5 bars). Two tanks of 20,000 L (diesel and furnace oil) and one 50,000 L tank (furnace oil) with secondary containment are found on the site. During operation, 15 milk tankers will be bought (10 X 10,000L; 5 X 15,000L) as well as a 14-seater van and 5 cars. Pearl Dairy will establish a logbook for fuel consumption in order to calculate its GHG emissions on an on-going basis. Annual GHG emissions of the upcoming operations are estimated at around 7,230 tonnes CO2 equivalent. LED lamps will be used in the laboratory. Tube lights with protective cover will be used in other rooms.
+Water Consumption
+During operation, water will be used for cleaning, sanitation, and cooling purposes. Sourcing of raw water will be from the National Water and Sewerage Corporation (NWSC), a Government-owned utility operating and providing water and sewerage services. Two backup deep boreholes down to a depth of 112 meters will provide water flow of 3,000 and 5,000 L/hour. A reserve of water will be stored in an underground tank of 280,000L. Total raw water consumption (in liters) used per liter of processed milk is presently estimated at 2.0 which is slightly above the industry benchmark (1.0-1.5). Pearl Dairy will adopt a specific KPI which will monitor this performance on a monthly basis.
+Pollution Prevention
+Main source of air emissions are mostly from the furnace oil fired steam boiler and generators that burn diesel to produce electricity, heat and hot water. The boiler and generators will undergo trimestrial maintenance inspection to optimize efficiency. Air emissions monitoring will be carried out every six months by an independent and certified laboratory from the stack and ambient quality outside and inside the plant. Expected results should be within the permissible parameters outlined in the IFC/WBG General EHS Guidelines for point source emissions to air. The oil and grease trap at the wastewater treatment plant will be emptied daily and cleaned weekly.
+Wastes
+Wastewater will be composed of dilutions of milk/milk products, detergents lubricants, chemicals, boiler blow down and purging, and domestic effluent. Dairy industry wastes are characterized by high organic demand variable in quantity and composition. Parameters of concern will be pH, fats, suspended solids, dissolved solids, BOD and COD. A wastewater treatment plan was constructed on-site with a capacity of 500m³/day. Treatment includes screening and grit removal, sedimentation, biological treatment, sludge digestion and disposal. The effluent after treatment is meant to be discharged onto land for irrigation and will follow the standards of the Uganda Pollution Control Board and IFC/WBG EHS Guidelines for Dairy Processing. A monitoring system will be established for daily compliance of the efflu
+ents with the above standards. Estimated wastewater discharge (in liters per liters of processed milk) is estimated at 2.5 which is above the industry beanchmark (0.9-1.4).
+To be in line with requirements of IFC’s Performance Standards and the IFC/WBG General EHS Guidelines as set forth in the ESAP Pearl Dairy will develop a waste management plan that will include the following: review of waste sources, pollution prevention opportunities, and necessary treatment, storage, and disposal infrastructure; characterization of waste by type, quantities, and potential use/disposition establishment of priorities based on a risk analysis that takes into account the potential EHS risks during the waste cycle and the availability of infrastructure to manage the waste in an environmentally sound manner; opportunities for source reduction, as well as reuse and recycling; procedures and operational controls for onsite storage; options / procedures / operational controls for treatment and final disposal.
+Hazardous Materials Management
+Hazardous Material Management will comply with the provisions of the Uganda National Environment Regulations (1999). Article 5 emphasizes waste minimization measures by making Cleaner Production a requirement for owners or operators of facilities that generate waste. Hazardous material includes nitric acid and caustic soda that will be used as cleaning products and ammonia (2,000 kg stored in an external tank used with glycol for the cooling system). A cleaning in place (CIP) system will be used to minimize the use of chemicals and water. Sludge from the on-site wastewater treatment plant will be dried and used as manure by surrounding farming communities. Hazardous wastes present in all operations will be minimal and characterized by used oils and used reagents from the laboratory’s product analysis. The former will be collected by authorized license providers for recycling while the latter are flushed into the effluent inlets stream and treated on site by the wastewater treatment plant. Material Safety Data Sheets (MSDS) for laboratory reactants will be visible on products used, including the on-site registry, and stored safely in a separate and locked room.
+Pearl Dairy will sign a waste management agreement with a contractor to collect waste three times a week and to dispose solid waste in a treatment site at Rwebihuro. Hazardous and non-value wastes will be incinerated by a Macro Burn Biomass Incinerator in line with the standards of the National Environment Management Authority.
+Pesticide Use and Management
+A legally registered company will conduct control activities for the following pests: mosquitoes, coackroaches, ants, termites, silverfish, flies, snakes and rats. Products used will not be listed under WHO Class 1a and 1b chemical formulations. Pearl Dairy will adopt a management procedure to require contractors and suppliers for mandatory training of workers and ensure provision of adequate PPE based upon
+MSDS for the materials used. This requirement will be added in employee’s OHS training programs.
+[ESRisksOrImpactAndMitigation.PS4_CommHealthSecurity] Community Health and Safety
+The dairy processing plant is located in an agricultural area and next to the main road. As such, potential adverse impacts from its operations would be limited to induced increased traffic which should not represent a significant risk for the local population. Dairy processing plants do not generally pose any serious risks on the health, safety and security of surrounding communities. The liquid waste disposal, controlled by the wastewater treatment operations, can result in adverse water surface quality impacts on the stream located near the plant, if not efficiently operated. Transport employees and sub-contractors will be requested to produce a validated driver license. As set forth in the ESAP, the Company will develop and implement a safe driver and transport safety vehicle procedure, including training session for its own and third party haulage contractors. Forklift operators will be trained and certified by the Department of Labor. Copies of their certification will be provided. For product quality, corporate level consumer complaints call center will be established to address any issues.
+A NWSC Certificate of Analysis dated March 2012 confirms that physico-chemical parameters of boreholes water are within the Ugandan national standards and conform to the WHO quality guidelines for potable water. Desinfection of water will be ensured by a chlorine dosing pump and an ozone generator.
+Infrastructure and Equipment Design and Safety
+To be in line with requirements of IFC’s Performance Standard 4 as set forth in the ESAP, Pearl Dairy will obtain certification of structural and fire safety aspects by engineering and fire safety professionals registered with national or international professional organizations to perform such certification and/or local regulatory agencies with oversight on these matters.
+Security Personnel
+Pearl Dairy will outsource its security personnel through a security contractor. It will make reasonable inquiries to investigate the employment record and other available records, including any criminal record, of individuals or firms and will not employ or use any individuals or companies that have abused or violated human rights in the past. Any firearms and ammunition issued should be licensed, recorded, stored securely, marked and disposed of appropriately. Security personnel should be instructed to exercise restraint and caution, clearly prioritizing prevention of injuries or fatalities and peaceful resolution of disputes. The use of physical force should be reported to and investigated by the client.
+[StakeHolderOrEngagements.StakeHolderEngagement] During the Environmental Impact Assessment, a community meeting was held in July 2010 to discuss about potential impacts and opportunities of the project. Residents, community representatives as well as local authorities were met during the meeting. Pearl Dairy also conducted a survey of potential dairy farmers and cooperatives interested in providing milk to the processing plant. A total of 87 cooperatives (for a total of about 5,000 farmers) were contacted and interviewed.
+[EAndSActionPlan] Pearl Dairy (33405) Supervision Disclosure Snapshot – Version 2
+Description
+Anticipated Completion Date
+Status
+Comments
+Completion Date
+Hire an Environment, Health and Safety Officer to develop and implement an Environmental and Social Management System
+31-Oct-2013
+Completed
+Completed
+Develop a structured grievance mechanism procedure that will be included into the HR Policy
+31-Oct-2013
+Completed
+Completed
+Adopt a management procedure for its supply chain, which will include the development and implementation of a Supplier’s Code of Conduct which will be mainstreamed into its contractual agreements with dairy cooperatives. The Code of Conduct will include provisions against child and forced labor.
+31-Oct-2013
+Completed
+Completed
+Develop a waste management plan
+31-Aug-2013
+Completed
+Completed
+Develop and implement a safe driver and transport safety vehicle procedure, including training sessions for its own and third party haulage contractors
+31-Oct-2013
+Completed
+Completed
+Certification of structural and fire safety aspects by engineering and fire safety professionals registered with national or international professional organizations
+31-Oct-2013
+Completed
+Completed
+-
+28-Mar-2019
+In progress
+Under discussion with IFC Client
+-
+14-Mar-2020
+In progress
+In progress
+-
+24-Apr-2021
+In progress
+In progress
+Develop and implement an Environmental, OHS and food safety management system, including policies, plans, manuals and procedures – consistent with ISO 9001, 14001, and HACCP/ISO 22000
+31-Oct-2013
+Completed
+Completed
+Develop a structured EHS monitoring and reporting system on environmental and social impacts of Pearl Dairy's operations. Monitoring frequencies and methodology will be defined by the above mentioned ESMS and monitoring data will be stored in a centralized database for monthly and annual report production
+31-Oct-2013
+Completed
+Completed
+Prepare a Human Resources Policy to cover staff and management working relationships, working conditions & terms of employment, workers’ organizations, non-discrimination & equal opportunity, retrenchment, grievance redress, child and forced labor, occupational health & safety, workers engaged by third parties, and supply chain.
+31-Oct-2013
+Completed
+Completed
+[ProjectName] Pearl Dairy
+[CompanyName] PEARL DAIRY FARMS LTD
+[Department] Regional Industry MAS Africa II
+[Country] Uganda
+[Region] Africa
+[Industry] Agribusiness and Forestry
+[Sector] Dairy Products
+[EnvironmentalCategory] B - Limited
+[Status] Completed
+[ProjectOverView.Project_Description] The project consists of an A loan of USD $6.5m by IFC to support Pearl Dairy Farms Limited (“Pearl Dairy” or “the Company”) to establish a modern milk processing plant in Mbarara District of Uganda (the “Project”). The total project cost is USD $13.35m, including working capital. The balance will be financed by USD $3.95m of Sponsor equity and working capital facility of USD $2.9m from a commercial bank. The plant will have a handling capacity of 240,000 liters of milk per day. Its main final product is milk powder and some other products, such as butter, ghee, cheese and cream. In addition, the team is considering a Global Agriculture and Food Security Program component of USD $1m to finance the roll-out of the Company’s extension services program to dairy farmers as well as investments in cooling plants in selected hub districts to facilitate milk collection from smallholder farms.
+Pearl Dairy is a new venture established by the Midland Group based in Uganda. The Company is jointly owned by the family trusts of the two Sponsors Mr Bhasker Kotecha & Family (50.5%) and Mr Anand Kapoor & Family (49.5%). They are the key shareholders in all Midland Group companies. Construction of the greenfield Project commenced in 2010. The Project is in the final stages of construction phase and its commissioning is expected by the second quarter of 2013. The construction has been financed by Sponsor equity, shareholder loans as well as bank loans from Stanbic Uganda.
+[ProjectOverView.Review_Scope] IFC’s environmental and social (E&S) review included the following:
+- Meetings with the following people: Chairman of Midland Group, Group General Manager, Group Managing Director, Midcom Head Finance, Pearl Dairy Production Manager, Pearl Dairy General Manager Operations, Pearl Dairy Milk Procurement Manager, Pearl Dairy Managing Director, Pearl Dairy Quality Manager, Heifer International Livestock Specialist, and Jan Engineers Construction Manager;
+- Site visit in Mbarara, including visit of the dairy plant and dairy cooperatives (one privatly owned and two owned by farmers); and meetings with the following people: former owner of Pearl Dairy’s land, Chairman of the NDFCU Property, Awamu Freshmilk Supplier Ltd. Station Manager, and Local Council Representative;
+- Review of technical documents provided by Pearl Dairy, including the Pearl Dairy Organizational Chart, Environment Policy, Environmental Impact Assessment (EIA) for the dairy processing plant, Certificate of Approval of Environmental Impact Assessment, Certificate of Title for the Kashari Block 7 in Mbarara, Management Programs of the Environmental Management System, Training plan for Occupational Health and Safety (OHS), OHS General Register for Workplaces in Uganda, Effluent Treatment and Water Treatment Scheme for Pearl Dairy, Hydrogeological Feasibility Study for the drilling of two boreholes for specific use by Pearl Dairy, Key Performance Indicators (KPIs) for Pearl Dairy, Strategy and Procedures for Milk Reception, Sampling Plan for Raw Milk for Pearl Dairy, Pearl Dairy Processing and Product Flow, Pearl Dairy Milk Procurement Agreement, list of Cooperatives surveyed by Pearl Dairy, and the Emergency Preparedness and Response Plan.
+[DocumentType] Environmental Documents
+[ProjectType] Investment
+[BCS] Broad Community Support is not applicable for this project

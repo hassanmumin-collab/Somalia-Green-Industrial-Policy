@@ -1,0 +1,997 @@
+=== PAGE 1 ===
+NATIONAL BUREAU OF STATISTICS - SOMALIA
+Gross Domestic Product (GDP)
+Statistical Release
+2024
+=== PAGE 2 ===
+National Bureau of Statistics-Somalia | Statistical Release
+2024
+2
+Statistical Release
+Somalia Gross Domestic Product 
+Report
+NATIONAL BUREAU OF STATISTICS 
+SOMALIA
+2024
+Website: www.nbs.gov.so
+@NBS_Somalia
+@nbssomalia
+@nbs_somalia
++252-61-4960003
+snbs@nbs.gov.so
+=== PAGE 3 ===
+Gross Domestic Product (GDP)
+2024
+3
+=== PAGE 4 ===
+Gross Domestic Product (GDP)
+2024
+i
+Preface
+This publication provides Somalia’s Annual National Accounts for the year 2024, showing 
+annual GDP estimates from expenditure approach at current and constant 2022 prices. 
+All estimates are calculated in accordance with the System of National Accounts, 2008 
+which is a comprehensive, consistent and flexible set of macroeconomic accounts to 
+meet the needs of policymakers, analysts and international observers. 
+The National Accounts provide comprehensive information on the income, spending 
+and production that occurs in an economy. This information is broken down into various 
+categories, allowing policy makers, analysts, and researchers to understand how different 
+sectors are performing and how the economy grows over time. In essence, National 
+Accounts are the foundation for analyzing and monitoring a country’s economic size, 
+structure and dynamics, making them essential for informed decision-making. 
+The Somalia National Bureau of Statistics (SNBS) would like to thank all the partners, 
+agencies and institutions that made their data available as an input to these GDP estimates. 
+Without their cooperation it would have been impossible to produce this publication. The 
+cooperation and support of the Central Bank of Somalia (CBS) and other government 
+agencies in providing the administrative data used in compiling the GDP estimates is very 
+much valued. We would also like to thank all officers of the SNBS, in particular officers 
+of the National Accounts Unit, as well as field staff of the Macroeconomic and Financial 
+Statistics Directorate, for their dedication towards the success of this exercise.
+Furthermore, we would like to thank the IMF for having provided continuing technical 
+assistance. We further acknowledge the technical assistance that we received from 
+the World Bank and the African Development Bank through the Statistical Capacity 
+Building Program. These activities have served to improve the visibility of the SNBS and 
+its relationship with its users, while simultaneously providing an opportunity to highlight 
+critical statistics to a wide audience.
+The SNBS welcomes the views and feedback of users to help us to improve the quality of 
+Somalia’s national accounts at snbs@nbs.gov.so.
+Dr. Abdisalam Abdirahman Mohamed
+Director General
+Somalia National Bureau of Statistics
+=== PAGE 5 ===
+National Bureau of Statistics-Somalia | Statistical Release
+2024
+ii
+Preface	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+i
+Introduction	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+Data Sources and Methods	 	
+	
+	
+	
+	
+	
+	
+	
+1
+Key findings	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+Revisions since the previous release 		
+	
+	
+	
+	
+	
+	
+4
+Improvements in National Accounts Compilation	 	
+	
+	
+	
+	
+4
+Statistical Tables	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+5
+Table of Contents
+Figure 1: Real GDP and deflator growth, 2018-2024 	
+	
+	
+	
+	
+3
+Table 1: GDP by expenditure, current prices, millions of US dollars	 	
+	
+	
+5
+Table 2: GDP by expenditure, current prices, percentage shares 	
+	
+	
+	
+5
+Table 3: GDP by expenditure, constant prices, millions of US dollars	
+	
+	
+5
+Table 4: GDP by expenditure, 2022 constant prices, percent annual change	
+	
+5
+Table 5: GDP by expenditure, 2022 constant prices, percentage point 
+contributions to growth	
+	
+	
+	
+	
+	
+	
+	
+	
+5
+Table 6: Implicit deflators, percentage annual change	
+	
+	
+	
+	
+6
+Table 7: GDP by expenditure, current prices, revisions since 2023 release, 
+millions of US dollars	 	
+	
+	
+	
+	
+	
+	
+	
+	
+6
+Table 8: GDP by expenditure, 2022 constant prices, revisions to growth 
+since 2023 release, percentage points	
+	
+	
+	
+	
+	
+	
+6
+List of Tables and Figures
+=== PAGE 6 ===
+Gross Domestic Product (GDP)
+2024
+1
+T
+he annual Gross Domestic Product (GDP) statistics are key indicators of Somalia’s 
+economy and its growth in recent years, providing estimates of expenditure levels 
+and growth across the economy. Much effort has been made to secure new sources 
+of data and improve the quality of data from existing sources, the estimates presented in 
+this report were compiled as far as possible in accordance with the System of National 
+Accounts, 2008 (2008 SNA). The 2008 SNA is the internationally agreed standard set 
+of recommendations to compile measures of economic activity in accordance with strict 
+accounting conventions based on economic principles. The accounting framework of the 
+SNA allows economic data to be compiled and presented in a format that is designed for 
+purposes of economic analysis, decision-making, policy formulation, and international 
+comparisons using standard definitions and classifications.
+The base year for the Somalia’s National Accounts was updated from 2017 to 2022 in the 
+2023 GDP release, largely based on the incorporation of new consumption benchmarks 
+derived from the Somalia Integrated Household Budget Survey. The National Accounts 
+estimate in this report summarizes the latest economic developments and presents time 
+series data from 2018 to 2024. 
+Data used for compiling the national accounts is sourced from surveys conducted by 
+SNBS, other government agencies and external sources. The main sources comprise:
+Balance of Payments: Data are compiled by the CBS on exports and imports in 
+total and broken down by product. In addition, CBS data on primary and secondary 
+income flows are used to estimate Gross National Income (GNI) and Gross National 
+Disposable Income (GNDI).
+Somalia Integrated Household Budget Survey:  The results of the 2022 survey 
+were used to form the benchmarks for household final consumption expenditure 
+(HFCE), from which subsequent estimates are extrapolated using various indicators.
+Consumer price index:  CPI is the deflator for many items and is calculated as a 
+weighted average of the Mogadishu and Hargeisa CPIs. 
+Population Estimation Survey of Somalia (PESS): The PESS provides estimates 
+of population levels for 2014. Annual population growth in subsequent years is 
+estimated at a fixed rate of 2.8 percent.
+1
+2
+Introduction
+Data Sources and Methods
+=== PAGE 7 ===
+National Bureau of Statistics-Somalia | Statistical Release
+2024
+2
+Estimates also utilise other contemporary source data, including government financial 
+statistics (GFS) and exchange rates. The SNBS continuously explores other reliable data 
+sources that are available to make further improvements in the compilation of the GDP 
+by the expenditure approach, and to facilitate future estimates of GDP by the production 
+approach, as well as on a quarterly basis. Improvements to further align with international 
+standards are ongoing. 
+Changes made this year are discussed in Section 4, ‘Improvements in National Accounts’. 
+Further details on methodology are provided in the sources and methods document 
+published on the SNBS website.1 
+1  Available at: https://nbs.gov.so/wp-content/uploads/2023/07/National-Accounts-Concepts-Sources-and-Meth­
+ods-Somalia.pdf	
+3
+Key findings
+Somalia’s GDP increased by 4.1 percent in 
+2024 in constant 2022 prices, at a similar 
+pace to the 4.2 percent growth recorded in 
+2023.  In current prices, 2024 GDP levels 
+were $11,966 million, up from $10,957 million 
+in 2023. GDP per capita in current prices 
+increased from $694 in 2023 to $737 in 
+2024. Strong growth in overseas remittances 
+and grants appear to have financed higher 
+levels of household consumption and 
+continued strength in fixed investment, with 
+this extra demand largely met through a 
+surge in imports of goods and services.  The 
+latter was partially offset through strong 
+export growth, particularly due to high 
+demand for agricultural products, though the 
+trade deficit further widened in 2024. 
+The principal export of livestock contracted 
+in 2024, though levels remain very high due 
+to the uptick in demand from Middle East 
+trading partners. Overseas transfers largely in the form of remittances from the Somali 
+diaspora and international aid provide significant support to household incomes and 
+development finance and contribute to international reserves, help finance imports, 
+and improve Somalia’s current account position. Additionally, remittances are often 
+countercyclical helping to sustain consumption and investment during potential economic 
+downturns.  As a result of these inflows, Somalia’s GNDI, which is defined as GDP plus 
+net primary and secondary income from abroad, was $18,226 million in current prices in 
+2024.  
+4.2%
+4.1%
+GDP Growth, 2023
+GDP Growth, 2024
+=== PAGE 8 ===
+Gross Domestic Product (GDP)
+2024
+3
+Household final consumption expenditure (HFCE) is the largest component of GDP, 
+and increased by 8.8 percent in 2024 in constant prices, following growth of 5.6 percent 
+in 2023 (revised up from 4.5 percent). The level of household consumption is more than 
+100 percent of GDP, indicating that a high proportion of consumption is supplied from 
+imports. Non-food was the fastest growing component, due to high growth in imports 
+of consumer goods, while food and housing were assumed to have grown in line with 
+population growth as per previous years. 
+Government final consumption expenditure (GFCE) is a relatively small component, 
+accounting for around 8 percent of GDP in level terms. Expenditure increased by 16.0 
+percent in 2024 in constant price terms, following relatively weak growth of 2.2 percent 
+in 2023 (revised down from 5.0 percent).  By convention, government output is measured 
+on a sum-of-costs basis as most services are provided free or at economically insignificant 
+prices.  The overall increase in 2024 was driven by strong growth in both compensation 
+of employees and purchases of goods and services for intermediate consumption.
+Gross Fixed Capital Formation (GFCF) has been a fast-growing component of the GDP, 
+with a growth of 21.1 percent in 2024, following growth of 14.5 percent in 2023 (revised 
+up from 8.7 percent). Investment in construction continued to grow apace, while growth 
+in investment in equipment and machinery has accelerated in recent years. In large urban 
+centers there is a growing demand for property, both commercial and residential, driving 
+demand for (largely imported) construction materials and also contributing to increased 
+employment in the sector. 
+While exports of goods and services grew to over 30 percent of GDP, imports of goods 
+and services are much larger at nearly 100 percent of GDP. In 2024, exports of goods 
+and services increased by 42.3 percent overall in constant prices, in particular due to 
+a surge in demand for crops and vegetable oils. Imports of goods and services grew by 
+28.5 percent at constant prices, with notable increases in imports of food, clothes and 
+footwear, and medical products. 
+Looking at each component in detail:
+
+ϮϬϭϴ
+ϮϬϭϵ
+ϮϬϮϬ
+ϮϬϮϭ
+ϮϬϮϮ
+ϮϬϮϯ
+ϮϬϮϰ
+ZĞĂů'WŐƌŽǁƚŚ
+Ϯ͘ ϭ
+Ϯ͘ ϴ
+ͲϮ͘ ϴ
+ϯ͘ ϰ
+Ϯ͘ ϳ
+ϰ͘ Ϯ
+ϰ͘ ϭ
+'WĚĞĨůĂƚŽƌŐƌŽǁƚŚ
+ϭ͘ Ϯ
+ϲ͘ ϵ
+Ϯ͘ ϱ
+ϲ͘ ϯ
+ϰ͘ ϳ
+ϯ͘ ϭ
+ϰ͘ ϵ
+Ͳϰ͘ Ϭ
+ͲϮ͘ Ϭ
+Ϭ͘ Ϭ
+Ϯ͘ Ϭ
+ϰ͘ Ϭ
+ϲ͘ Ϭ
+ϴ͘ Ϭ
+WĞƌĐĞŶƚ
+Figure 1: Real GDP and deflator growth, 2018-2024
+=== PAGE 9 ===
+National Bureau of Statistics-Somalia | Statistical Release
+2024
+4
+During 2024, the GDP deflator, a measure of economy-wide price change, grew by 4.9 
+percent, following growth of 3.1 percent in 2023. The GDP deflator is influenced by the 
+consumer price index (CPI), which on a core basis12  grew by 8.4 percent, but is also 
+driven by other movements in other prices and by compositional changes. 
+2  Defined here as the CPI excluding food, housing and energy.	
+4
+5
+Revisions since the previous release 
+Improvements in National Accounts Compilation
+The previous release (June 2024) published GDP estimates from 2018 to 2023. In this 
+latest release, updated balance of payments statistics have been incorporated, resulting 
+revisions to trade and primary/secondary incomes in 2023 as well as revisions to HFCE 
+and GFCF and a very minor revision to nominal GDP levels, though no revisions to real 
+GDP growth.  
+There were also minor revisions to government finance statistics that slightly revised 
+GFCE in 2023. In addition, a correction was made to the CPI-derived deflator used to 
+estimate general government final consumption expenditure (GFCE) in constant prices, 
+which had a minor impact on real GFCE and a very slight impact on real GDP levels and 
+growth from 2018 to 2023. 
+The SNBS has a program of statistical 
+improvement that will provide new data 
+sources that can be used to improve GDP 
+estimates in future years. These include a 
+forthcoming biennial Establishment Survey, 
+with the sample derived from the recently 
+conducted 
+Somalia 
+Integrated 
+Business 
+Establishment Census (SIBEC).  This will 
+form a key input to the development of 
+estimates of GDP by the production approach. 
+An agricultural census is scheduled to be 
+conducted during 2026.  In addition, a new 
+national CPI has been developed which will be 
+used for GDP deflation from 2026 onwards.
+The SNBS is also planning to improve 
+estimation by building stronger relationships 
+with existing and potential suppliers of data, 
+such as other government agencies, 
+to 
+obtain 
+additional 
+production 
+information to complement estimates 
+of market production activity obtained 
+by the Establishment Survey, and to 
+support compilation of GDP by the 
+expenditure approach on a quarterly 
+basis.
+Based on the current schedule for 
+benchmark source data collections, the 
+next rebase of GDP is expected to take 
+place in 2027 and will move the base 
+year from 2022 to 2027.
+=== PAGE 10 ===
+Gross Domestic Product (GDP)
+2024
+5
+6
+Statistical Tables
+Table 1: GDP by expenditure, current prices, millions of US dollars
+Table 2: GDP by expenditure, current prices, percentage shares 
+Table 3: GDP by expenditure, constant prices, millions of US dollars
+Table 4: GDP by expenditure, 2022 constant prices, percent annual change
+Table 5: GDP by expenditure, 2022 constant prices, percentage point contributions to growth
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+Household final consumption 
+9,684 
+10,558 
+10,827 
+11,539 
+12,683 
+14,078 
+15,961 
+Government final consumption 
+495 
+529 
+595 
+676 
+759 
+785 
+931 
+Gross fixed capital formation 
+1,268 
+1,392 
+1,381 
+1,705 
+2,413 
+2,587 
+3,201 
+Exports of goods and services 
+1,119 
+1,131 
+1,178 
+1,532 
+1,804 
+2,404 
+3,735 
+   of which: livestock 
+311 
+406 
+402 
+523 
+558 
+861 
+970 
+Minus: Imports of goods and services 
+4,693 
+4,954 
+5,353 
+5,969 
+7,456 
+8,896 
+11,861 
+GDP at purchasers' prices 
+7,873 
+8,655 
+8,628 
+9,484 
+10,203 
+10,957 
+11,966 
+GDP per capita, US Dollars 
+572 
+612 
+594 
+635 
+664 
+694 
+737 
+Gross national expenditure 
+11,448 
+12,478 
+12,803 
+13,921 
+15,855 
+17,450 
+20,093 
+Gross national income 
+7,839 
+8,619 
+8,591 
+9,444 
+10,164 
+11,167 
+12,210 
+Gross national disposable income 
+11,356 
+12,319 
+12,589 
+13,676 
+15,336 
+16,898 
+18,226 
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+Household final consumption 
+123.0 
+122.0 
+125.5 
+121.7 
+124.3 
+128.5 
+133.4 
+Government final consumption 
+6.3 
+6.1 
+6.9 
+7.1 
+7.4 
+7.2 
+7.8 
+Gross fixed capital formation 
+16.1 
+16.1 
+16.0 
+18.0 
+23.6 
+23.6 
+26.7 
+Exports of goods and services 
+14.2 
+13.1 
+13.7 
+16.2 
+17.7 
+21.9 
+31.2 
+   of which: livestock 
+4.0 
+4.7 
+4.7 
+5.5 
+5.5 
+7.9 
+8.1 
+Minus: Imports of goods and services 
+59.6 
+57.2 
+62.0 
+62.9 
+73.1 
+81.2 
+99.1 
+GDP at purchasers' prices 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+Household final consumption 
+11,827 
+11,913 
+11,828 
+12,111 
+12,683 
+13,394 
+14,569 
+Government final consumption 
+518 
+539 
+601 
+677 
+759 
+775 
+900 
+Gross fixed capital formation 
+1,567 
+1,749 
+1,751 
+1,835 
+2,413 
+2,762 
+3,344 
+Exports of goods and services 
+1,385 
+1,332 
+1,356 
+1,587 
+1,804 
+2,558 
+3,639 
+   of which: livestock 
+404 
+512 
+505 
+523 
+558 
+1,023 
+917 
+Minus: Imports of goods and services 
+5,691 
+5,658 
+5,934 
+6,277 
+7,456 
+8,860 
+11,386 
+GDP at purchasers' prices 
+9,606 
+9,875 
+9,602 
+9,932 
+10,203 
+10,631 
+11,066 
+Gross National Expenditure 
+13,913 
+14,202 
+14,180 
+14,623 
+15,855 
+16,932 
+18,813 
+ 
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+Household final consumption 
+2.2 
+0.7 
+-0.7 
+2.4 
+4.7 
+5.6 
+8.8 
+Government final consumption 
+0.9 
+4.0 
+11.5 
+12.6 
+12.1 
+2.2 
+16.0 
+Gross fixed capital formation 
+18.7 
+11.6 
+0.1 
+4.8 
+31.5 
+14.5 
+21.1 
+Exports of goods and services 
+10.0 
+-3.9 
+1.8 
+17.0 
+13.7 
+41.8 
+42.3 
+   of which: livestock 
+4.4 
+26.9 
+-1.5 
+3.6 
+6.8 
+83.2 
+-10.3 
+Minus: Imports of goods and services 
+8.3 
+-0.6 
+4.9 
+5.8 
+18.8 
+18.8 
+28.5 
+GDP at purchasers' prices 
+2.1 
+2.8 
+-2.8 
+3.4 
+2.7 
+4.2 
+4.1 
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+Household final consumption 
+2.7 
+0.9 
+-0.9 
+2.9 
+5.8 
+7.0 
+11.0 
+Government final consumption 
+0.0 
+0.2 
+0.6 
+0.8 
+0.8 
+0.2 
+1.2 
+Gross fixed capital formation 
+2.6 
+1.9 
+0.0 
+0.9 
+5.8 
+3.4 
+5.5 
+Exports of goods and services 
+1.3 
+-0.6 
+0.2 
+2.4 
+2.2 
+7.4 
+10.2 
+   of which: livestock 
+0.2 
+1.1 
+-0.1 
+0.2 
+0.4 
+4.6 
+-1.0 
+Minus: Imports of goods and services 
+-4.6 
+0.3 
+-2.8 
+-3.6 
+-11.9 
+-13.8 
+-23.8 
+GDP at purchasers' prices 
+2.1 
+2.8 
+-2.8 
+3.4 
+2.7 
+4.2 
+4.1
+=== PAGE 11 ===
+National Bureau of Statistics-Somalia | Statistical Release
+2024
+6
+Table 6: Implicit deflators, percentage annual change
+Table 7: GDP by expenditure, current prices, revisions since 2023 release, millions of US dollars
+Table 8: GDP by expenditure, 2022 constant prices, revisions to growth since 2023 release, percentage points
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+2024 
+Household final consumption 
+1.6 
+8.2 
+3.3 
+4.1 
+5.0 
+5.1 
+4.2 
+Government final consumption 
+0.9 
+2.7 
+0.9 
+0.9 
+0.1 
+1.2 
+2.2 
+Gross fixed capital formation 
+1.4 
+-1.7 
+-0.9 
+17.9 
+7.6 
+-6.3 
+2.2 
+Exports of goods and services 
+2.3 
+5.2 
+2.3 
+11.1 
+3.6 
+-6.0 
+9.2 
+Minus: Imports of goods and services 
+2.2 
+6.2 
+3.0 
+5.4 
+5.2 
+0.4 
+3.7 
+GDP at purchasers' prices 
+1.2 
+6.9 
+2.5 
+6.3 
+4.7 
+3.1 
+4.9 
+Gross national expenditure 
+1.5 
+6.8 
+2.8 
+5.4 
+5.0 
+3.1 
+3.6 
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+Household final consumption 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+1.1 
+Government final consumption 
+0.0 
+-0.5 
+-0.3 
+-0.3 
+-0.1 
+-2.7 
+Gross fixed capital formation 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+5.8 
+Exports of goods and services 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+24.3 
+   of which: livestock 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+36.6 
+Minus: Imports of goods and services 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+9.3 
+GDP at purchasers' prices 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+ 
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+Household final consumption 
+0 
+0 
+0 
+0 
+0 
+528 
+Government final consumption 
+0 
+0 
+0 
+0 
+0 
+-17 
+Gross fixed capital formation 
+0 
+0 
+0 
+0 
+0 
+132 
+Exports of goods and services 
+0 
+0 
+0 
+0 
+0 
+239 
+   of which: livestock 
+0 
+0 
+0 
+0 
+0 
+1 
+Minus: Imports of goods and services 
+0 
+0 
+0 
+0 
+0 
+895 
+GDP at purchasers' prices 
+0 
+0 
+0 
+0 
+0 
+-12 
+GDP per capita, US Dollars 
+0 
+0 
+0 
+0 
+0 
+-1 
+Gross national expenditure 
+0 
+0 
+0 
+0 
+0 
+644 
+Gross national income 
+0 
+0 
+0 
+0 
+0 
+240 
+Gross national disposable income 
+0 
+0 
+0 
+0 
+0 
+491
+=== PAGE 12 ===
+Gross Domestic Product (GDP)
+2024
+7
+Somalia National Bureau of Statistics
+Statistical Release
+Gross Domestic Product (GDP)
+2024

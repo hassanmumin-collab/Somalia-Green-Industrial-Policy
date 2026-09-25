@@ -1,0 +1,9016 @@
+=== PAGE 1 ===
+2022 SOMALIA 
+INTEGRATED 
+HOUSEHOLD 
+BUDGET SURVEY
+(SIHBS)
+NATIONAL BUREAU OF STATISTICS
+THE FEDERAL REPUBLIC OF SOMALIA
+MAIN REPORT 
+FEBRUARY 2023
+=== PAGE 2 ===
+
+=== PAGE 3 ===
+2022 SOMALIA 
+INTEGRATED 
+HOUSEHOLD 
+BUDGET SURVEY
+(SIHBS)
+MAIN REPORT 
+NATIONAL BUREAU OF STATISTICS
+THE FEDERAL REPUBLIC OF SOMALIA
+FEBRUARY 2023
+=== PAGE 4 ===
+iv
+The Federal Republic of Somalia
+National Bureau of Statistics
+FOREWORD 
+The Somalia National Bureau of Statistics (SNBS) conducted the first Somalia Integrated Household Budget 
+Survey (SIHBS—2022) since 1985. Data collected through the SIHBS will be used to improve the Gross 
+Domestic Product (GDP) estimates and for the compilation of the commodity basket and commodity 
+weightings used in the construction of a new Consumer Price Index (CPI). Collection of consumer price 
+data is critical for inflation measurement. Furthermore, the survey will serve as a baseline for a rapid 
+monitoring system.
+The main purpose of the SIHBS is to collect and consolidate information required for monitoring the 
+progress towards national poverty reduction strategies that include understanding the efficiency of 
+development policies, programs and projects geared towards improving the living standards of households 
+(HHs). The primary objective of the household budget survey was to collect detailed information on 
+household expenditures and consumption incurred on goods and services to monitor household welfare 
+and measure poverty more sustainably. 
+The Finalization of the SIHBS required a series of consultative processes which included field visits to 
+various Federal States and the review of relevant policy documents. A total of 7,212 households were 
+selected from 601 Enumeration Areas (EAs) which were distributed across Somalia. 35 EAs were sampled 
+in each of the 17 covered regions, with 12 HHs interviewed per EA, adding up to about 420 HHs per region.
+The SIHBS provides valuable information to update the National Accounts Weighting Systems as well 
+as a new commodity basket with updated expenditure weights to be used in calculating the CPI. This 
+report therefore, is an essential tool for filling the gap of the needed economic data allowing a better 
+understanding of contemporary economic challenges and opportunities in the country.
+SNBS acknowledges with gratitude the many contributions that complemented the efforts of the Bureau 
+in the successful completion of the survey. The SNBS would like to thank the selected HHs in particular for 
+their cooperation, and for the time they devoted to the interviews. Our appreciation also goes to the field 
+personnel and data entry officers for the meticulous manner in which they discharged their duties. We are 
+also grateful to the Federal Member states for the varied ways in which they assisted our field teams to 
+ensure the successful completion of this important national exercise. 
+The Bureau would also like to acknowledge, with sincere appreciations, the financial contribution and 
+support received from Development partners as well as the technical assistance and professional advice 
+provided by the World Bank, as well as Development technical team, who have worked day and night to 
+produce this report.
+I am optimistic that the results contained in this report and the rich datasets upon which they are based, 
+will be useful to policy makers, programme managers, researchers and other various data users.
+Sharmarke Mohamed Farah
+Director General
+Somalia National Bureau of Statistics
+=== PAGE 5 ===
+v
+Somalia Integrated Household
+Budget Survey (SIHBS)
+ACKNOWLEDGMENTS
+The successful implementation of the 2022 Somali Integrated household Budget Survey required 
+substantial technical and financial assistance from development partners whose contributions I would like 
+to earnestly acknowledge. Firstly, we wish to extend our appreciations to the World Bank group, for their 
+technical and financial supports throughout the survey. Our special gratitude goes to the World Bank team 
+led by Aphichoke Kotikula, Valerie Evans, Berhe Mekonnen Beyene, Shinya Takamatsu, Marie Christelle 
+Mabeu, and Matthieu Rouyer for providing technical assistance at all stages from preparation to the 
+implementation of this survey. 
+We gratefully acknowledge the guidance and support provided by the Deputy Director General, Mr. 
+Abdirahman Omar Dahir, our appreciations are particularly extended to the technical team led by Mr. 
+Mohamed Abdinur Mohamed, Mr. Hashim Sheikh Abdinoor, Mr. Abdi Ali, for playing pivotal roles in the 
+analysis and compilation of the report. We also wish to extend a special word of thanks to the entire SNBS 
+staff for their support and commitment which led to successful completion of the survey.
+The Bureau is finally grateful to the participating households for their hospitality, cooperation and time 
+dedicated to host several visits made by enumerators, especially during data collection for their willingness 
+and patience in providing appropriate information that enabled the compilation of this report. Our gratitude 
+also goes to the Federal Member States, survey coordinators and local leaders for their continuous support 
+in mobilizing the respondents and making the data collection process possible.
+The SIHBS 2022 Report is expected to facilitate planning within the Federal Government and the business 
+community and stimulate further research and in-depth analysis. It is our expectation that this report will be 
+a useful source of information to planners and policy makers, non-government organizations, academicians, 
+and other stakeholders, including national, regional, and international organizations. 
+Sharmarke Farah
+Director General
+National Bureau of Statistics
+=== PAGE 6 ===
+vi
+The Federal Republic of Somalia
+National Bureau of Statistics
+CONTENTS
+FOREWORD 	
+iv
+ACKNOWLEDGMENTS	
+v
+CONTENTS	
+vi
+1.	
+INTRODUCTION AND SURVEY METHODOLOGY	
+	
+	
+	
+	
+	
+	
+2
+1.1	
+Introduction 	
+2
+1.2	
+Objectives	
+2
+1.3	
+Survey Design	
+2
+1.4	
+Instruments, Staff Training, Fieldwork and Quality Control	
+	
+	
+	
+	
+	
+3
+1.5	
+Organization of the Survey Report	
+4
+2.	
+HOUSEHOLD DEMOGRAPHICS 	
+8
+2.1	
+Introduction 	
+8
+2.2	
+Age-sex structure	
+8
+2.3	
+Dependency Ratio 	
+9
+2.4	
+Sex Ratio	
+10
+2.5	
+Marital Status	
+10
+3.	
+EDUCATION	
+16
+3.1	
+Introduction	
+16
+3.2	
+Literacy	
+16
+3.3	
+Educational Attainment 	
+16
+3.4	
+School Attendance	
+20
+3.5	
+Mode of Transport 	
+20
+4.	
+HEALTH, SMOKING & COVID-19 VACCINATION	
+	
+	
+	
+	
+	
+24
+4.1	
+Introduction  	
+24
+4.2	
+Health Status 	
+24
+4.3	
+Chronic illness	
+26
+4.4	
+Support for chronic diseases, disability and injury		
+	
+           26
+4.5	
+Consultation with healthcare providers	
+26
+4.6	
+Reasons for not using medical services.	
+26
+4.7	
+Health facility locations	
+30
+4.8	
+Cigarette and shisha smoking 	
+31
+4.9	
+Mask wearing and Covid-19 vaccination status.	
+	
+	
+	
+            31
+5.	
+HOUSEHOLD DWELLINGS AND OWNERSHIP OF DURABLE GOODS 	
+            34
+5.1	
+Introduction 	
+34
+5.2	
+Ownership of Durable Goods	
+36
+6.	
+ENERGY, WATER, AND SANITATION	
+40
+6.1	
+Introduction	
+40
+6.2	
+Access to Electricity 	
+40
+6.3	
+Energy Sources for Lighting and Cooking	
+40
+6.4	
+Access to Drinking Water 	
+40
+6.5	
+Toilet and Hand Washing Facilities	
+43
+6.6	
+Handwashing	
+44
+=== PAGE 7 ===
+vii
+Somalia Integrated Household
+Budget Survey (SIHBS)
+7.	
+ECONOMIC ACTIVITY STATUS AND AGRICULTURAL ACTIVITIES	
+            48
+7.1	
+Introduction 	
+48
+7.2	
+Working age Population. 	
+48
+7.3	
+Economic Activity Status and Distribution	
+48
+7.4	
+Distribution of Employed Persons by Occupation 	 	
+	
+            49
+7.5	
+Household owning and using land.	
+52
+8.	
+HOUSEHOLD NON-AGRICULTURAL BUSINESS AND INDIVIDUAL INCOME	
+            56
+8.1	
+Introduction 	
+56
+8.2	
+Ownership of Households Business	
+56
+8.3	
+Share of household business types by place of residence	
+	
+            56
+8.4	
+Household business types by Sex	
+56
+8.5	
+Decision on earning and management of Household Business. 	
+	
+            56
+8.6	
+Household Business Registration 	
+58
+8.7	
+Household Business Employee Types 	
+58
+9.	
+FOOD SECURITY AND SHOCKS 	
+62
+9.1	
+Introduction 	
+62
+9.2	
+Food insecurity experience answers	
+62
+9.3	
+Food insecurity experience scale	
+62
+9.4	
+Shocks Causes	
+63
+10.	
+CREDIT, INCOME, FINANCIAL SERVICES AND ICT		
+	
+            68
+10.1	
+Introduction 	
+68
+10.2	
+Income Source and Usage Decisions	
+68
+10.3	
+Loan Sources and Distribution	
+68
+10.4	
+Remittances Distribution	
+68
+10.5	
+Phone Ownership and Accessibility	
+69
+10.6	
+Internet Access	
+70
+10.7	
+Bank account Ownership and Usage of Mobile Banking	
+	
+            70
+=== PAGE 8 ===
+viii
+The Federal Republic of Somalia
+National Bureau of Statistics
+LIST OF TABLES
+Table 2.1	 Household size	
+8
+Table 2.2	 Population by age group, sex, 	
+and place of residence	
+	
+	
+	
+	
+9
+Table 2.3	 Marital status by age group, place of residence and educational attainment	
+11
+Table 2.4	 Government issued ID ownership	
+12
+Table 3.1	 Literacy rates among adults (15+) by sex, age group, and place of residence SIHBS 2022	
+16
+Table 3.2	 Educational attainment of population	
+17
+Table 3.2a	Educational attainment of population, Males	
+18
+Table 3.2b	Educational attainment of population, Females	
+19
+Table 3.3	 School attendance ratio	
+20
+Table 3.4	 Mode of transport 	
+21
+Table 4.1	 Health status	
+24
+Table 4.2	 Distribution of the population for each type of disability 	
+25
+Table 4.4	 Percentage of the population with chronic diseases and disabilities by background characteristics	
+28
+Table 4.6	 Percentage of ill or injured population and reasons not to use medical care by background
+	
+characteristics.	
+	
+	
+	
+	
+	
+	
+	
+	
+                     29
+Table 4.7	 Health facility location	
+30
+Table 4.8	 Smoking and khat chewing.	
+30
+Table 4.9	 COVID-19 prevention and vaccination 	
+31
+Table 5.1	 Percent distribution of household dwelling types and construction materials, by place of residence	
+35
+Table 5.2	 Tenure and Ownership	
+36
+Table 5.3	 Household distance from nearest all-season road, by place of residence	
+36
+Table 5.4	 Ownership of durable goods, by place of residence	
+37
+Table 6.1	 Main sources of energy	
+41
+Table 6.2	 Access to Drinking Water	
+42
+Table 6.3	 Mode of transport for water collection, by season and place of residence	
+43
+Table 6.4	 Toilet Facility used by the household.	
+43
+Table 6.5	 Households sharing toilet facility.	
+43
+Table 6.6	 Disposal of Youngest child stool	
+44
+Table 7.1	 Employment statistics of working age population	
+48
+Table 7.2	 Employed population by major occupation.	
+49
+Table 7.3	 Percentage distribution of currently employed population aged 15 years and above and 
+	
+occupation by place of residence and sex	
+	
+	
+	
+	
+	
+                     50
+Table 7.4	 Land utilization	
+53
+Table 7.5	 Land ownership and use right status	
+53
+Table 8.1	 Share of household business types by place of residence	
+57
+Table 8.3	 Age, intensity and registration of household business	
+58
+Table 9.1	 Food security situation during the month preceding the survey	
+62
+Table 9.2	 Shocks	
+64
+Table 9.3	 Response to the shock	
+65
+Table 10.1	Sources of unearned income	
+68
+Table 10.2	Household sources of borrowing	
+68
+Table 10.3	Remittance transfer method	
+69
+Table 10.4	Mobile ownership and use for financial transaction.	
+69
+Table 10.5	Internet Access	
+71
+Table 10.6	Population who own bank account.	
+71
+=== PAGE 9 ===
+ix
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Figure 2.1		
+Population pyramid, SIHBS 2022	
+8
+Figure 2.2		
+Dependency ratio by place of residence, SIHBS 2022	
+9
+Figure 2.3		
+Sex ratio by age group, SIHBS 2022	
+10
+Figure 2.4		
+Marital status, SIHBS 2022	
+10
+Figure 3.1		
+Educational attainment by place of residence	
+18
+Figure 3.2		
+Educational attainment by sex	
+19
+Figure 5.1		
+Number of sleeping room by place of residence.	
+34
+Figure 5.2		
+Cooking area by place of residence	
+34
+Figure 6.1		
+Access to Electricity by place of residence	
+40
+Figure 6.2		
+Drinking water services by season and place of residence.	
+41
+Figure 6.3		
+Proportion of population using handwashing facility with soap and water.	
+44
+Figure 7.1		
+Proportion of households own land.	
+52
+Figure 8.1		
+Percentage of the households running their own business in thepast 12 months.	
+56
+Figure 8.2		
+Sex of household business owners by place of residence	
+56
+Figure 8.4		
+Household business employees including household members.	
+58
+Figure 9.1		
+Food insecurity experience scale (FIES) by place of residence	
+63
+Figure 9.2		
+Shocks experienced by place of residence (% of households)d 	
+63
+Figure 9.3		
+Loss of household income or asset because of shock	
+65
+Figure 10.1	
+Percentage of households received any remittances of money from anyone living outside 
+	
+	
+the household, within Somalia or abroad, in the last 12 months 	
+	
+                                   68
+Figure 10.2	
+Location of internet access	
+70
+LIST OF FIGURES
+=== PAGE 10 ===
+x
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER I
+INTRODUCTION AND SURVEY 
+METHODOLOGY
+=== PAGE 11 ===
+1
+Somalia Integrated Household
+Budget Survey (SIHBS)
+KEY MESSAGES
+The Somali Integrated Household Budget 
+Survey (SIHBS) is implemented with support 
+from the World Bank Group as part of the 
+Somali Integrated Statistics and Economic 
+Capacity Building Project.
+SIHBS objectives include monitoring 
+household welfare and measuring poverty, 
+monitoring the living conditions of private 
+Somali households such as access to 
+basic assets, facilities, and services, and 
+improving the GDP estimates and the 
+compilation of the commodity basket used 
+in the construction of a new Consumer 
+Price Index.
+SIHBS is a nationally representative sample 
+of 7,212 households living in Urban, Rural 
+and Nomadic areas across 17 regions. The 
+data was collected between 10th May and 
+31st July 2022.
+=== PAGE 12 ===
+2
+The Federal Republic of Somalia
+National Bureau of Statistics
+1.	INTRODUCTION AND SURVEY METHODOLOGY
+1.1	 Introduction 
+Somalia has developed its Ninth National 
+Development Plan (NDP9), 2020-2024, which 
+serves as the country’s Interim Poverty Reduction 
+Strategy Paper (IPRSP) under the Highly Indebted 
+Poor Country (HIPC) initiative. In March 2020, 
+Somalia reached the HIPC Decision Point 
+milestone, with the International Monetary Fund 
+(IMF) and World Bank’s International Development 
+Association (IDA) determining that Somalia has 
+taken the necessary steps to begin receiving debt 
+relief under the enhanced HIPC Initiative. However, 
+one of the most crucial HIPC Completion Point 
+triggers was satisfactory implementation of the 
+poverty reduction strategy.
+Somalia is building its statistical capacity to support 
+evidence-based economic and social policymaking 
+and crucially to guide investment across the sectors 
+and track progress towards its developmental goals 
+in line with international standards for reporting of 
+macroeconomic and HIPC reporting. 
+1.2	 Objectives
+The main purpose of the Somali Integrated 
+Household Budget Survey (SIHBS) is to (a) monitor 
+welfare, (b) provide macroeconomic baselines 
+and establish baseline survey for a frequent data 
+collection system in the future, and (c) build the 
+technical and administrative capacity necessary 
+for SNBS to run future SIHBSs with no or minimal 
+external support.
+The primary objective of the SIHBS is therefore 
+to collect detailed information on household 
+expenditures and consumption incurred on goods 
+and services to monitor household welfare and 
+measure poverty more sustainably. In addition 
+to welfare data, SIHBS will collect other socio-
+economic information relevant for monitoring the 
+living conditions of Somali households such as 
+access to basic assets, facilities and services.
+The Specific Objectives of the SIHBS are:
+•	 To obtain the reference commodity basket of 
+household consumption as weights for the 
+compilation of the consumer price index (CPI). 
+Collection of consumer price data is critical for 
+inflation measurement. 
+•	 To estimate household expenditure for national 
+accounts indicators such as gross domestic 
+product (GDP).
+•	 To study income/expenditure patterns of 
+disadvantaged groups, including pensioner 
+households, single parent households, etc.
+•	 To study income/expenditure disparities among 
+socio-economic groups
+•	 To study consumer behavior among socio-
+economic groups for general poverty and/
+or income distribution studies calculation of 
+minimum subsistence level (national poverty 
+line)
+•	 For capacity building, SNBS statisticians 
+and enumerators are fully trained on survey 
+methodology and data collection, processing, 
+analysis and dissemination.
+1.3	 Survey Design
+The Somalia Integrated Household Budget Survey 
+(SIHBS) is a nationally representative survey based 
+on a sample of 7,212 households:1 representative 
+both at regional level2 and for urban, rural and 
+nomadic areas at the national level. As a random 
+sample survey, each interviewed unit (household 
+and individual) represents a certain number of 
+similar units in the target population.
+The SIHBS targeted households living in Somalia 
+covering all sampled enumeration areas in urban, 
+rural and nomadic areas. This survey used the 
+sample frame of the Somalia Health Demographic 
+Survey (SHDS) 2020. The sampling frame covers 
+urban, rural and nomadic strata and includes 
+internally displaced persons (IDPs). 
+The development of the SIHBS sampling frame 
+followed a stratified multi-stage probability cluster 
+sample design. Urban and rural areas followed 
+a three-stage stratified cluster sample design, 
+while in nomadic areas the design was a two-
+stage stratified cluster sample design. The primary 
+1	
+ A household was defined as a group of people who lived 
+together under the same roof and ate from the same food pot, 
+who answered to the same HoH and were covered under the 
+same household budget.
+2	
+ The sampling included 17 of the pre-war regions of Somalia. 
+The survey did not include Middle Juba, 18th of the pre-war 
+region, due to insecurity.
+=== PAGE 13 ===
+3
+Somalia Integrated Household
+Budget Survey (SIHBS)
+sampling units (PSUs) were selected with a 
+probability proportional to the number of dwelling 
+structures which constituted the sampling frame. 
+The secondary sampling units (SSUs) for rural 
+and urban areas were selected with a probability 
+proportional to the number of listed households 
+which constituted the frame. The ultimate sampling 
+units (USUs) for rural, urban and nomadic areas 
+were randomly selected from listed households in 
+the cluster. 
+To begin with, 100% of households in the sampling 
+frame in the selected urban, rural and nomadic 
+enumeration areas (EAs) were listed as the first 
+level, which captured information on the head of 
+household, spouse, dwelling location description, 
+GPS coordinates and household unique identifier. 
+The listed households were recorded using an 
+electronic listing questionnaire. The data was 
+cleaned, and a summary of households (HH) listed 
+per EA were used to generate HH sampling frames 
+for the second stage of sampling; an average of 
+12 HHs were selected in every EA within each 
+stratum. The primary target for interview was the 
+Head of Household (HoH)3 and/or the spouse of 
+the HoH. If neither was available; another member, 
+listed in the form, was chosen provided that he/she 
+was a HH member aged 16 and above, was not a 
+dependent, and knew about the expenditures and 
+consumptions of the household.
+The SIHBS sample of 7,212 households was 
+selected from 601 EAs which were distributed 
+across Somalia. About 35 EAs were sampled 
+in each of the 17 covered regions, with 12 HHs 
+interviewed per EA, amounting to about 420 HHs 
+per region. 
+The total number of surveyed EAs by place of 
+residence is shown in the table below:
+1.4	 Instruments, Staff Training, 
+Fieldwork and Quality Control
+1.4.1	Instruments
+The questionnaire for this survey contained three 
+modules:
+•	 A demographic module collecting information 
+on the population including demographics, 
+3	
+ The Head of Household is a member of the household who 
+holds the role of decision maker in that household. Other 
+residents normally recognize this individual as their head. In 
+most cases the Head of Household takes part in the economy, 
+control and welfare of the household.
+education, health, labor, disability, security 
+perceptions, ICT and relation to the HoH.
+•	 A household module collecting information 
+on dwelling, ownership of land and durable 
+goods, access to basic services and utilities, 
+food security, exposure and response to 
+shocks, household businesses including crops, 
+fisheries and livestock, financial services and 
+remittances.
+•	 A consumption module collecting detailed 
+information on food and non-food consumption 
+expenditures.
+The survey questionnaire and listing form were 
+scripted with the Survey Solutions software to 
+allow for use in CAPI (computer-assisted personal 
+interviewing) using tablets. A series of checks 
+and testing was done on the mobile script to 
+ensure that all the questions, skip logics and 
+iterations were well captured. Further, the scripted 
+instruments were then piloted in English. The pilot 
+enabled the survey team to check for language 
+comprehension, questionnaire structure and 
+question flow, skip logic and interview length. 
+Two independent translators translated all text 
+into Somali and a third translator reconciled the 
+two translations to ensure that the language and 
+meanings were correctly captured. Then, the Somali 
+version was back translated into English for quality 
+assurance. After that, the final pilot in Somali was 
+undertaken in the field and further revisions were 
+implemented based on the pilot report. Finally, all 
+adjustments were applied on the scripts in English 
+and in Somali for training of the field teams.
+1.4.2	Staff Training
+Trainings for the field team were organized at three 
+levels: Training of Trainers (ToTs), HH listing training 
+and training of enumerators and supervisors for the 
+main survey:
+•	 The ToT training was conducted with 18 
+trainers who went through a one-week training 
+that equipped them with information on key 
+components of the survey. 
+•	 The 200 enumerators and supervisors first 
+attended a one-week training in order to learn 
+how  to carry out the listing exercise before 
+being trained on the main survey instrument.
+•	 The training sessions for the main survey
+=== PAGE 14 ===
+4
+The Federal Republic of Somalia
+National Bureau of Statistics
+were undertaken in the same locations where 
+household listing was undertaken over three 
+weeks including field practice and were 
+conducted immediately following the listing 
+training. The training covered data collection 
+instruments, a thorough review of interviewing 
+procedures and research ethics.
+1.4.3	Fieldwork
+Fieldwork was completed between 10th May and 
+31st July 2022. The study was administered by 
+face-to-face, in-home interviews using a computer 
+assisted personal interviewing (CAPI) approach. 
+Enumerators on the field used tablets to complete 
+the survey questionnaire through the Survey 
+Solutions platform. Once questionnaires were 
+completed, the data was submitted immediately to 
+the server. 
+The total response rate was 96 percent. Response 
+rate was the highest among nomadic households, 
+at 99 percent, followed by rural at 97 percent and 
+urban at 95 percent.
+1.4.4	Quality Control
+Data collection was subject to rigorous quality 
+control protocols, carried at different levels of 
+the field operations. Quality assurance protocols 
+included supervised interviews, spot-checks, back-
+checks, and automated high-frequency checks of 
+the data collected. Each region had an independent 
+quality control team that reported directly to the 
+project manager. 
+Supervisors observed 10-15 percent of all 
+interviews done by every interviewer; this 
+supervision was more intense during the initial 
+days of data collection to evaluate and improve 
+interviewer performance by noting errors. 
+Meanwhile, back-checking was performed on 5 
+percent of the interviews.
+1.5	 Organization of the Survey 
+Report
+The rest of the report is organized as follows: 
+•	 Chapter II presents information on the 
+demographic composition of households. 
+•	 Chapter III presents information on education.
+•	 Chapter IV covers information on health, 
+smoking, and Covid-19 vaccination. 
+•	 Chapter V presents information on dwellings, 
+ownership of durable goods as well as 
+security. 
+•	 Chapter VI covers information on energy, water 
+and sanitation. 
+•	 Chapter VII presents information on economic 
+activity status as well as agricultural activities. 
+•	 Chapter VIII focuses on household non-
+agricultural business and individual income. 
+•	 Chapter ix: food security and shocks. 
+•	 Chapter x: credit, income, financial services, 
+and ICT.
+=== PAGE 15 ===
+5
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Somalia is building its statistical capacity 
+to support evidence-based economic and 
+social policymaking and crucially to guide 
+investment across the sectors and track 
+progress towards its developmental goals in 
+line with international standards for reporting 
+of macroeconomic and HIPC reporting
+=== PAGE 16 ===
+6
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER II
+HOUSEHOLD DEMOGRAPHICS
+=== PAGE 17 ===
+7
+Somalia Integrated Household
+Budget Survey (SIHBS)
+KEY MESSAGES
+Average household size is 6.7 persons 
+overall, 7.0 persons in urban areas and 
+about 6 persons in rural and nomadic areas. 
+The age-sex structure shows women 
+outnumbering men among young adults and 
+the oldest age categories.
+The population pyramid has a wide base 
+and narrow top, a typical feature for a 
+young population.
+Dependency ratio is highest in rural and 
+nomadic areas reaching 131 percent and 
+121 percent respectively, compared with 
+106 percent for urban areas. 
+ Half of the population above the age of 
+15 years are married (50.5 percent), 37.9 
+percent have never been married, 5.5 
+percent are divorced and 6.1 are widowed.
+Only 4.1 percent of the adult (15+) 
+population owns a passport, which is 
+the only nationally recognized form of 
+identification in Somalia.
+=== PAGE 18 ===
+8
+The Federal Republic of Somalia
+National Bureau of Statistics
+2.	HOUSEHOLD DEMOGRAPHICS 
+2.1	 Introduction 
+This chapter provides a descriptive summary of 
+the demographic structure of households, which 
+includes the distribution of household size,  and the 
+population’s sex, age, marital status, and ownership 
+of government issued identification.
+Household Size 
+Average household size is obtained by dividing the 
+total number of persons living in households by the 
+total number of households.4 Average household 
+size is 6.7 nationally, but with notable differences 
+between urban areas on the one hand and rural/
+nomadic areas on the other hand. 
+Table 2.1 presents information about household 
+size and average size by place of residence. The 
+proportion of large households (9+ members) 
+stands at 23.4 percent. 26.8 percent for urban 
+areas, compared with 18.0 percent for rural areas 
+and 18.4 percent for nomadic areas. This indicates 
+that urbanization is not only driven by household 
+relocation but also by household size.
+2.2	 Age-sex structure
+Table 2.2 presents the distribution of the 
+population, by age, residence (urban, rural and 
+nomadic) and sex. The age structure of the 
+population is typical of a society with a young 
+population. Age and sex are important demographic 
+variables that are the primary basis of demographic 
+classification in vital statistics and surveys. The 
+largest population age group is 5-9 years which 
+4	
+ This simple average method is not exactly implemented in the 
+report. As with every other statistic presented in this report, 
+each observation in the sample is weighted by the inverse of 
+the probability of selection.
+Table 2.1  Household size
+Percent distribution of household size; average household size, by place of residence
+Background 
+characteristics
+Place of residence
+Rural
+Urban
+Nomadic
+Total
+Average household size
+6.2
+7.0
+6.1
+6.7
+Number of usual 
+members
+1
+1.1
+0.6
+0.4
+0.7
+2
+3.9
+2.4
+4.5
+3.1
+3
+8.6
+6.4
+9.1
+7.3
+4
+12.4
+9.7
+14.0
+10.9
+5
+17.8
+13.9
+17.6
+15.4
+6
+14.8
+14.1
+16.9
+14.7
+7
+14.2
+14.0
+12.1
+13.8
+8
+9.3
+12.0
+6.9
+10.6
+9+
+18.0
+26.8
+18.4
+23.4
+Total
+100.0
+100.0
+100.0
+100.0
+20.0
+15.0
+10.0
+5.0
+0.0
+0.0
+5.0
+10.0
+15.0
+20.0
+<5
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80+
+Male
+Female
+Figure 2.1  Population pyramid, SIHBS 2022
+=== PAGE 19 ===
+9
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 2.2  Population by age group, sex, and place of residence
+Percentage distribution of the household population by age group, sex and place residence, SIHBS, 2022
+Background 
+Characteristics
+Rural
+Urban
+Nomadic
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Age group
+<5
+19.1
+17.2
+18.1
+16.6
+15.0
+15.8
+18.6
+17.9
+18.2
+17.4
+15.9
+16.6
+5-9
+22.7
+19.1
+20.8
+18.6
+17.7
+18.2
+18.3
+20.0
+19.1
+19.6
+18.3
+18.9
+10-14
+16.4
+15.7
+16.0
+16.8
+15.1
+15.9
+18.1
+14.7
+16.4
+16.8
+15.2
+16.0
+15-19
+8.7
+10.4
+9.6
+12.5
+12.8
+12.6
+9.9
+9.9
+9.9
+11.3
+11.9
+11.6
+20-24
+4.5
+7.7
+6.2
+7.9
+9.0
+8.5
+5.8
+7.8
+6.8
+6.8
+8.5
+7.7
+25-29
+4.5
+5.7
+5.2
+5.1
+6.8
+6.0
+4.4
+7.7
+6.0
+4.9
+6.6
+5.8
+30-34
+4.9
+6.0
+5.4
+4.7
+5.7
+5.2
+5.8
+5.5
+5.6
+4.9
+5.7
+5.3
+35-39
+4.0
+5.0
+4.5
+4.0
+4.9
+4.5
+4.3
+4.8
+4.5
+4.0
+4.9
+4.5
+40-44
+5.2
+3.7
+4.4
+3.5
+3.5
+3.5
+4.6
+3.5
+4.1
+4.1
+3.6
+3.8
+45-49
+2.0
+2.2
+2.1
+2.3
+2.3
+2.3
+1.5
+1.7
+1.6
+2.2
+2.2
+2.2
+50-54
+2.7
+1.6
+2.1
+2.6
+2.2
+2.4
+2.7
+2.4
+2.5
+2.7
+2.1
+2.4
+55-59
+1.3
+0.9
+1.1
+1.4
+1.0
+1.2
+1.7
+1.0
+1.3
+1.4
+1.0
+1.2
+60-64
+1.3
+1.8
+1.6
+1.6
+1.4
+1.5
+2.0
+1.9
+2.0
+1.6
+1.6
+1.6
+65-69
+0.5
+0.8
+0.6
+0.6
+0.5
+0.6
+0.7
+0.3
+0.5
+0.6
+0.6
+0.6
+70-74
+1.2
+1.0
+1.1
+0.8
+0.9
+0.8
+0.7
+0.5
+0.6
+0.8
+0.9
+0.9
+75-79
+0.2
+0.2
+0.2
+0.3
+0.3
+0.3
+0.4
+0.0
+0.2
+0.3
+0.2
+0.2
+80+
+0.8
+0.9
+0.8
+0.7
+0.7
+0.7
+0.6
+0.6
+0.6
+0.7
+0.8
+0.7
+Total
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+Dependency age groups
+0-14
+58.2
+52.1
+55.0
+51.9
+47.9
+49.8
+54.9
+52.6
+53.8
+53.8
+49.4
+51.5
+15-64
+39.1
+45.0
+42.2
+45.7
+49.7
+47.8
+42.8
+46.0
+44.4
+43.8
+48.1
+46.0
+65+
+2.7
+2.9
+2.8
+2.4
+2.4
+2.4
+2.3
+1.4
+1.9
+2.4
+2.4
+2.4
+Total
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+constitutes 18.9 percent while only  0.7 percent of 
+the population is in the age group of 80+ years.
+The Population Pyramid in Figure 2.1 reveals 
+a youthful population structure for Somalia as 
+there is an inverse relationship between age and 
+population size for both males and females. The 
+age pyramid becomes even narrower above age 60, 
+with a notable deficit of males over 80 compared to 
+females. 
+2.3	 Dependency Ratio 
+The dependency ratio is a measure of the number 
+of dependents, meaning the population aged below 
+15 and over the age of 64, divided by the population 
+aged 15 to 64. This demographic indicator gives 
+insight into the number of people not of working 
+age, compared with the number of those of 
+working age. The dependency ratio is highest in 
+rural and nomadic areas reaching 131 percent and 
+121 respectively, compared with 106 for urban 
+areas (Figure 2.2).
+Figure 2.2  Dependency ratio by place of residence, SIHBS 2022
+131
+106
+121
+114
+0
+20
+40
+60
+80
+100
+120
+140
+Rural
+Urban
+Nomadic
+Total
+=== PAGE 20 ===
+10
+The Federal Republic of Somalia
+National Bureau of Statistics
+2.4	 Sex Ratio
+The sex ratio is the proportion of males to females, 
+often expressed as the number of males per 100 
+females. This means that a value below 100 reflects 
+females outnumbering men, and vice-versa. The sex 
+ratio for the total population across age categories 
+is 93.4.
+Figure 2.3 shows the variations of gender 
+composition by age. The sex ratio is mostly 
+balanced for the three youngest age categories 
+(0-14 years), while the youth population (15-35) sex 
+ratio shows a deficit of males compared to females. 
+For middle-aged and older adults, the sex ratio by 
+age group shows a high degree of variation.
+Figure 2.3: Sex ratio by age group, SIHBS 2022
+2.5	 Marital Status
+Half of the population above the age of 15 are 
+married (50.5 percent), and 37.9 percent have never 
+been married. The percentage of divorced is slightly 
+lower at 5.5 percent compared to widowed at 6.1 
+percent(Figure 2.4). 
+Table 2.3 presents the distribution of marital status 
+for the population aged 15 years and above. Persons 
+that were never married account for 93.3 percent 
+of those aged 15 to 19 years old, but that rate 
+quickly decreases with age and only 4.2 percent of 
+those aged 35 to 39 years old were never married. 
+Currently marriage rate is highest among people 
+aged 35 to 44 years old at around 85 percent. The 
+proportion of divorced persons is highest among 
+those aged 25 to 29 at 9.1 percent, followed by 
+those aged 30 to 34 years old at 7.6 percent.
+The proportion of never married persons is highest 
+in urban areas at 42.1 percent, compared with 30 
+percent in rural areas and 29.4 percent in nomadic 
+areas. The marriage rate is highest in nomadic 
+50.5
+49.8
+50.7
+47.0
+42.6
+40.7
+44.2
+43.3
+51.5
+47.4
+54.2
+56.5
+48.9
+47.3
+47.1
+54.5
+46.5
+48.3
+49.5
+50.2
+49.3
+53.0
+57.4
+59.3
+55.8
+56.7
+48.5
+52.6
+45.8
+43.5
+51.1
+52.7
+52.9
+45.5
+53.5
+51.7
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+<5
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80+
+Total
+Male
+Female
+Figure 2.3  Sex ratio by age group, SIHBS 2022
+Figure 2.4  Marital status, SIHBS 2022
+37.9
+50.5
+5.5
+6.1
+Never married
+Married
+Divorced
+Widowed
+=== PAGE 21 ===
+11
+Somalia Integrated Household
+Budget Survey (SIHBS)
+areas at 63.1 percent, while divorce rate is lowest 
+at 3.1 percent. The divorce rate is highest in urban 
+areas at 5.9 percent, followed by rural areas at 5.5 
+percent.
+People with no formal education are least likely 
+to have never been married at 24.8 percent and 
+conversely, they are most likely to be married, 
+divorced or widowed. There is a general trend of 
+decreasing rates of divorced and widowed status as 
+educational attainment increases.
+Table 2.3  Marital status by age group, place of residence and educational attainment
+Percentage of the population aged 15+ by marital status, SIHBS, 2022
+Background Characteristics
+Never 
+married
+Married
+Divorced
+Widowed
+Total
+Age group
+ 
+ 
+ 
+ 
+ 
+15-19
+93.3
+5.2
+1.2
+0.2
+100.0
+20-24
+61.1
+32.2
+6.1
+0.6
+100.0
+25-29
+29.2
+60.4
+9.1
+1.2
+100.0
+30-34
+11.8
+77.5
+7.6
+3.1
+100.0
+35-39
+4.2
+85.6
+6.3
+3.9
+100.0
+40-44
+3.7
+84.6
+6.3
+5.3
+100.0
+45-49
+2.3
+80.0
+6.8
+10.8
+100.0
+50-54
+1.9
+76.5
+6.8
+14.8
+100.0
+55-59
+2.1
+74.2
+5.0
+18.8
+100.0
+60-64
+1.7
+64.1
+6.6
+27.6
+100.0
+65-69
+1.9
+63.8
+3.8
+30.6
+100.0
+70-74
+2.2
+51.4
+3.9
+42.5
+100.0
+75-79
+1.0
+53.3
+5.9
+39.9
+100.0
+80+
+3.0
+40.9
+5.2
+51.0
+100.0
+Place of residence
+ 
+ 
+ 
+ 
+ 
+Rural
+30.0
+57.0
+5.5
+7.4
+100.0
+Urban
+42.1
+46.2
+5.9
+5.9
+100.0
+Nomadic
+29.4
+63.1
+3.1
+4.4
+100.0
+Highest level of education
+ 
+ 
+ 
+ 
+ 
+No formal education
+24.8
+59.9
+6.4
+8.9
+100.0
+Primary
+54.7
+38.4
+4.8
+2.1
+100.0
+Secondary
+64.4
+30.8
+3.6
+1.2
+100.0
+Higher
+59.0
+37.3
+2.9
+0.8
+100.0
+Total
+37.9
+50.5
+5.5
+6.1
+100.0
+People with no formal education are least 
+likely to have never been married at 24.8 
+percent and conversely, they are most likely 
+to be married, divorced or widowed
+=== PAGE 22 ===
+12
+The Federal Republic of Somalia
+National Bureau of Statistics
+Identity Documentation
+Table 2.4 summarizes rates of ownership of 
+identification documents issued by public 
+authorities. Only 4.1 percent of the adult (15+) 
+population owns a passport which is the only 
+nationally recognized form of identification 
+in Somalia, while 11.3 percent of adults own 
+another form of identification5. Consequently, the 
+overwhelming majority (84.7 percent) of the Somali 
+population does not own any form of identification.
+Males are more likely to own passports than 
+females 5.1 percent compared to 3.2 percent, 
+while both sexes are about equally as likely to 
+own any other form of ID.  Owning a passport 
+5	
+ The most common forms of identification other than pass-
+ports are identity cards followed by birth certificates.
+is more likely for persons aged 75 to 79 at 12.5 
+percent, compared to only 1.6 percent ownership 
+for the youngest cohort of adults (15-19). Passport 
+ownership rates also differ between places of 
+residence, with urban areas reporting the highest 
+rates at 5.6 percent, compared with 1.5 and 0.2 
+percent for rural and nomadic areas respectively.
+Table 2.4  Government issued ID ownership
+Government issued ID ownership by sex, age group, and place of residence 
+Background characteristics 
+No ID
+Passport
+Any other form of ID
+Sex 
+Male 
+83.4
+5.1
+11.6
+Female 
+85.9
+3.2
+11.0
+Age group
+ 
+ 
+15-19
+92.4
+1.6
+6.0
+20-24
+85.9
+3.3
+10.8
+25-29
+82.6
+5.1
+12.4
+30-34
+81.1
+4.6
+14.3
+35-39
+84.0
+4.5
+11.6
+40-44
+83.5
+3.8
+12.7
+45-49
+79.3
+5.2
+15.5
+50-54
+76.6
+7.3
+16.1
+55-59
+76.8
+7.8
+15.4
+60-64
+82.3
+5.6
+12.1
+65-69
+86.0
+8.2
+5.8
+70-74
+80.6
+5.8
+13.6
+75-79
+82.6
+12.5
+5.0
+80+
+85.3
+5.4
+9.3
+Place of residence  
+ 
+ 
+Rural 
+88.9
+1.5
+9.6
+Urban 
+81.6
+5.6
+12.8
+Nomadic 
+94.4
+0.2
+5.4
+Total 
+84.7
+4.1
+11.3
+=== PAGE 23 ===
+13
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Males are more likely to own passports 
+than females at 5.1 percent compared to 3.2 
+percent, while both sexes are about equally 
+as likely to own any other form of ID
+=== PAGE 24 ===
+14
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER III EDUCATION
+=== PAGE 25 ===
+15
+Somalia Integrated Household
+Budget Survey (SIHBS)
+KEY MESSAGES
+Just over half of the population (53.7 
+percent) is literate. The literacy rate is 
+higher among males than females, at 63.6 
+percent and 45.3 percent respectively. Youth 
+literacy rate stands at 70.3 percent.
+Nearly two-thirds (65.5 percent) of the 
+population have no formal education. Only 4 
+percent have higher education. 
+Only a quarter (25 percent) of all primary 
+school aged children in Somalia attend 
+primary schools. The net attendance 
+ratio (NAR) decreases to 14.6 percent for 
+secondary school aged children.
+Most students, 92.2 percent for primary 
+school and 85.1 percent for secondary 
+school, commute to school on foot.
+=== PAGE 26 ===
+16
+The Federal Republic of Somalia
+National Bureau of Statistics
+3.	EDUCATION
+3.1	 Introduction
+Education is a fundamental right as well as one 
+of the most important factors for a country’s 
+long-term social and economic development. This 
+chapter examines the formal education of Somalia’s 
+population using indicators such as literacy, school 
+attendance, enrollment, highest education level 
+achieved, and mode of transportation. 
+3.2	 Literacy
+Just over half of the population (53.7 percent) is 
+literate. The literacy rate is higher among males 
+than females, at 63.6 percent and 45.3 percent, 
+respectively. There is a substantial difference in 
+literacy rates between age groups, with younger 
+age categories showing the highest literacy 
+rates and the oldest members having the lowest 
+literacy rates. Literacy rates are higher in urban 
+and rural areas, at 60.9 percent and 49.1 percent, 
+respectively, than in nomadic areas (20.5 percent). 
+Table 3.1 presents the percentage of literacy 
+among adults 15+ years old by age group, sex, and 
+place of residence.
+3.3	 Educational Attainment 
+Table 3.2 presents the educational attainment of 
+the Somali population. Nearly two-thirds (65.5 
+percent) of the Somali population have no formal 
+education. The educational level most commonly 
+reported is some primary education, as this group 
+represents 17.3 percent of the population. Only 4.6 
+percent of the population report having completed 
+secondary education and 4 percent attained higher 
+education. Young cohorts are the most educated 
+ones. For individuals falling in the 20-24 and 25-29 
+age groups, higher education attainment rates are 
+at 14.2 percent and 12.2 percent, respectively. 
+When looking at place of residence, urban residents 
+tend to have higher educational attainment 
+compared to rural or nomadic residents. Among 
+nomads, the overwhelming majority (92.5 percent) 
+reported no formal education, while two-thirds 
+(68.6 percent) of rural respondents have no formal 
+education. Only 3 percent of rural residents have 
+completed secondary schooling, and 1.7 percent 
+have reached higher education (Figure 5.1). 
+Table 3.2a presents the distribution of educational 
+Table 3.1  Literacy rates among adults (15+) by sex, age group, and place of residence SIHBS 2022
+Background characteristics
+Literacy rate
+Age group
+Male
+Female
+Total
+15-19
+75.1
+69.9
+72.4
+20-24
+77.5
+59.4
+67.1
+25-29
+67.5
+47.1
+55.4
+30-34
+59.8
+41.3
+49.5
+35-39
+58.2
+28.0
+41.0
+40-44
+50.6
+26.9
+39.1
+45-49
+55.5
+30.2
+42.2
+50-54
+49.2
+23.8
+37.5
+55-59
+54.8
+17.9
+38.8
+60-64
+48.5
+9.6
+28.4
+65-69
+46.4
+11.8
+29.0
+70-74
+36.8
+8.7
+21.9
+75-79
+38.6
+12.2
+26.6
+80+
+38.1
+5.3
+20.6
+Youth
+15-24
+76.0
+65.5
+70.3
+Place of residence
+Rural
+72.2
+51.4
+49.1
+Urban
+23.8
+17.3
+60.9
+Nomadic
+61.7
+48.4
+20.5
+Total 
+63.6
+45.3
+53.7
+=== PAGE 27 ===
+17
+Somalia Integrated Household
+Budget Survey (SIHBS)
+attainment for men. Overall, three out of five 
+males (60.6 percent) have no formal education, 
+18 percent have some primary education, 5.5 
+percent completed primary, and 4.5 percent 
+completed secondary education. Only 6.2 percent 
+of male population reported having received higher 
+education. 
+As with the total population, younger Somali males 
+(between 20 and 34) tend to be more educated. 
+Nearly every fifth (18.4 percent) male aged 25-
+29 reported having reached higher education. 
+By residence, males in nomadic areas have the 
+highest percentages with no formal education (91.6 
+percent) compared to urban (52.9 percent) and rural 
+(65.5 percent) areas. 
+Table 3.2b presents the distribution of educational 
+attainment for women. The female population 
+shows lower educational attainment across all 
+education categories when compared to males 
+(Figure 3.1). For example, 69.9 percent of females 
+reported having received no formal education, while 
+this percentage is at 60.6 percent among males. 
+The gap in education attainment is especially 
+notable regarding secondary and higher education. 
+Only 3.1 percent of females report having 
+completed secondary education,  half of the 
+percentage of males’ in this category (6.2 percent). 
+Furthermore, only 2.7 percent of females report 
+having higher education, while the males’ 
+respective proportion is 5.3 percent. Differences in 
+educational attainment between males and females 
+differ between rural, urban and nomadic places 
+of residence. For instance, females in nomadic 
+communities register the highest rate of having 
+received no formal education at 93.5 percent, a 
+much higher proportion than for women in urban 
+(65.5 percent) and rural (71.4 percent) areas. 
+Table 3.2  Educational attainment of population
+Highest level of schooling attended or completed of population aged 6 and over, by age group and place of residence, SIHBS 2022
+Background characteristics
+No formal 
+education
+Some 
+Primary
+Completed 
+Primary
+Some 
+Secondary
+Completed 
+Secondary
+Higher 
+education
+Total
+Age group
+6-9
+85.4
+14.6
+100.0
+10-14
+59.2
+36.6
+2.8
+1.3
+0.0
+0.1
+100.0
+15-19
+41.7
+22.8
+11.4
+14.8
+6.6
+2.8
+100.0
+20-24
+47.0
+11.2
+6.4
+8.0
+13.2
+14.2
+100.0
+25-29
+60.2
+9.3
+6.2
+2.9
+9.3
+12.2
+100.0
+30-34
+66.8
+9.5
+6.0
+2.5
+7.8
+7.3
+100.0
+35-39
+75.7
+7.3
+5.7
+1.9
+5.1
+4.3
+100.0
+40-44
+78.2
+7.6
+4.7
+2.0
+4.5
+3.0
+100.0
+45-49
+76.1
+6.6
+8.3
+0.8
+5.4
+2.9
+100.0
+50-54
+78.3
+6.2
+3.3
+1.9
+5.3
+5.0
+100.0
+55-59
+78.1
+3.0
+6.1
+2.8
+8.3
+1.6
+100.0
+60-64
+82.4
+6.2
+3.2
+0.8
+4.0
+3.4
+100.0
+65-69
+81.3
+5.6
+2.8
+0.0
+7.5
+2.9
+100.0
+70-74
+89.2
+4.3
+1.8
+0.0
+3.9
+0.9
+100.0
+75-79
+91.8
+0.8
+0.9
+0.0
+1.2
+5.3
+100.0
+80+
+90.5
+3.0
+3.1
+0.0
+2.5
+0.9
+100.0
+Place of residence
+Rural
+68.6
+19.4
+4.5
+2.8
+3.0
+1.7
+100.0
+Urban
+59.5
+18.5
+5.7
+5.0
+5.9
+5.4
+100.0
+Nomadic
+92.5
+6.1
+0.4
+0.3
+0.5
+0.2
+100.0
+Total 
+65.5
+17.3
+4.8
+3.9
+4.6
+4.0
+100.0
+=== PAGE 28 ===
+18
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 3.2a  Educational attainment of population, Males
+Percent distribution of male population age 6 and over by highest level of schooling attended or completed and median years completed, 
+according to background characteristics, SIHBS 2022
+Background characteristics
+No formal 
+education
+Some 
+Primary
+Completed 
+Primary
+Some 
+Secondary
+Completed 
+Secondary
+Higher 
+education
+Total
+Age group
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6-9
+84.9
+15.1
+100.0
+10-14
+58.2
+37.4
+2.8
+1.5
+0.1
+100.0
+15-19
+38.2
+23.5
+12.4
+16.0
+7.2
+2.8
+100.0
+20-24
+37.4
+10.1
+7.2
+10.6
+16.8
+17.8
+100.0
+25-29
+48.0
+8.8
+7.4
+3.4
+14.0
+18.4
+100.0
+30-34
+54.6
+8.9
+7.7
+2.7
+13.9
+12.2
+100.0
+35-39
+62.2
+7.1
+8.9
+3.2
+9.6
+9.0
+100.0
+40-44
+71.7
+7.9
+5.8
+2.8
+7.1
+4.7
+100.0
+45-49
+67.6
+8.0
+10.0
+1.3
+7.9
+5.3
+100.0
+50-54
+71.2
+7.2
+4.0
+2.3
+7.7
+7.6
+100.0
+55-59
+68.3
+3.7
+8.4
+4.3
+12.9
+2.3
+100.0
+60-64
+69.4
+9.8
+5.4
+1.5
+7.6
+6.2
+100.0
+65-69
+79.7
+0.8
+3.5
+0.0
+9.9
+6.1
+100.0
+70-74
+81.8
+5.0
+3.2
+0.0
+8.2
+1.8
+100.0
+75-79
+85.0
+1.5
+1.6
+0.0
+2.2
+9.7
+100.0
+80+
+79.7
+6.5
+6.4
+0.0
+5.5
+2.0
+100.0
+Place of residence 
+Rural
+65.5
+19.8
+5.3
+3.1
+4.3
+2.1
+100.0
+Urban
+52.9
+19.5
+6.6
+5.7
+7.9
+7.4
+100.0
+Nomadic
+91.6
+6.9
+0.5
+0.5
+0.5
+0.0
+100.0
+Total 
+60.6
+18.0
+5.5
+4.5
+6.2
+5.3
+100.0
+Figure 3.1  Educational attainment by place of residence
+68.6
+19.4
+4.5
+2.8
+3.0
+1.7
+59.5
+18.5
+5.7
+5.0
+5.9
+5.4
+92.5
+6.1
+0.4
+0.3
+0.5
+0.2
+65.5
+17.3
+4.8
+3.9
+4.6
+4.0
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+No formal
+education
+Some Primary
+Completed
+Primary
+Some Secondary
+Completed
+Secondary
+Higher education
+Rural
+Urban
+Nomadic
+Total
+=== PAGE 29 ===
+19
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Figure 3.2  Educational attainment by sex
+Table 3.2b  Educational attainment of population, Females
+Percent distribution of female household population age 6 and over by highest level of schooling attended or completed and median years 
+completed, according to background characteristics, SIHBS 2022
+Background characteristics
+No formal 
+education
+Some 
+Primary
+Completed 
+Primary
+Some 
+Secondary
+Completed 
+Secondary
+Higher 
+education
+Total
+Age group
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6-9
+85.9
+14.1
+100.0
+10-14
+60.2
+35.8
+2.7
+1.1
+0.1
+0.1
+100.0
+15-19
+44.8
+22.2
+10.5
+13.7
+6.0
+2.8
+100.0
+20-24
+54.2
+12.1
+5.8
+6.0
+10.5
+11.5
+100.0
+25-29
+68.5
+9.5
+5.4
+2.6
+6.0
+8.0
+100.0
+30-34
+76.6
+10.0
+4.7
+2.4
+2.9
+3.4
+100.0
+35-39
+86.0
+7.5
+3.2
+0.9
+1.6
+0.8
+100.0
+40-44
+85.0
+7.4
+3.5
+1.2
+1.8
+1.1
+100.0
+45-49
+83.7
+5.3
+6.8
+0.3
+3.2
+0.7
+100.0
+50-54
+86.7
+5.1
+2.4
+1.4
+2.6
+1.9
+100.0
+55-59
+90.9
+2.1
+3.0
+0.9
+2.4
+0.7
+100.0
+60-64
+94.8
+2.8
+1.1
+0.1
+0.5
+0.7
+100.0
+65-69
+82.7
+9.9
+2.2
+0.0
+5.3
+0.0
+100.0
+70-74
+95.8
+3.6
+0.6
+0.0
+0.0
+0.0
+100.0
+75-79
+100.0
+0.0
+0.0
+0.0
+0.0
+0.0
+100.0
+80+
+99.8
+0.0
+0.2
+0.0
+0.0
+0.0
+100.0
+Place of residence
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rural
+71.4
+19.1
+3.8
+2.6
+1.8
+1.4
+100.0
+Urban
+65.5
+17.7
+4.9
+4.3
+4.0
+3.7
+100.0
+Nomadic
+93.5
+5.3
+0.3
+0.2
+0.5
+0.3
+100.0
+Total 
+69.9
+16.6
+4.2
+3.4
+3.1
+2.7
+100.0
+60.6
+18.0
+5.5
+4.5
+6.2
+5.3
+69.9
+16.6
+4.2
+3.4
+3.1
+2.7
+0
+10
+20
+30
+40
+50
+60
+70
+80
+No formal
+education
+Some Primary
+Completed
+Primary
+Some
+Secondary
+Completed
+Secondary
+Higher
+education
+Male
+Female
+=== PAGE 30 ===
+20
+The Federal Republic of Somalia
+National Bureau of Statistics
+3.4	 School Attendance
+Table 3.3 presents the school attendance ratios in 
+primary and secondary schools. The net attendance 
+ratio (NAR) for primary school is a measure of the 
+official primary school-age population (6 to 13 years) 
+attending primary school.
+Only about a quarter (25.0 percent) of all primary 
+school aged children in Somalia attend primary 
+school. The NAR is not significantly different 
+between rural and urban populations (over a 
+quarter for both), however it is extremely low in 
+the nomadic population at 5.2 percent. This means 
+that a very high proportion of children in the 
+nomadic communities do not attend primary school, 
+especially when compared to children in urban 
+and rural areas. The net attendance ratio (NAR) 
+decreases to 14.6 percent for secondary school 
+aged children. The NAR is significantly higher for 
+secondary school aged children in urban areas than 
+in rural and nomadic areas.  
+The gross attendance ratios (GAR) for primary level 
+(39.0 percent) and secondary level (28.5 percent) 
+are significantly higher than the net attendance 
+ratios (NAR). This indicates a high rate of older-aged 
+children attending primary and secondary school.
+3.5	 Mode of Transport 
+Walking is the most prevalent mode of 
+transportation for primary and secondary students, 
+regardless of where they live (Table 3.4). 92.2 
+percent of primary school students walk to 
+school, while only 7.9 percent use a vehicle or a 
+motorcycle. A similar pattern is observed among 
+secondary school students, with 85.1 percent 
+walking to school.
+Table 3.3  School attendance ratio
+Net attendance ratios (NAR) and gross attendance ratios (GAR) by sex and level of schooling and Gender Parity Index (GPI) and place of 
+residence, SIHBS, 2022
+Background  
+characteristics
+PRIMARY SCHOOL: Net Attendance Ratio1
+PRIMARY SCHOOL: Gross Attendance Ratio2
+ Male
+ Female
+Total
+Gender 
+Parity Index3
+ 
+ Male
+ Female
+Total
+Gender 
+Parity 
+Index3
+PRIMARY
+Residence
+Rural
+27.5
+28.3
+27.9
+1.03
+38.3
+42.1
+40.1
+1.10
+Urban
+29.3
+26.0
+27.7
+0.89
+47.4
+41.4
+44.3
+0.87
+Nomadic
+6.3
+4.1
+5.2
+0.64
+11.5
+8.5
+10.1
+0.74
+Total
+25.9
+24.0
+25.0
+0.93
+40.4
+37.7
+39.0
+0.93
+SECONDARY
+Residence
+Rural
+10.3
+13.1
+11.8
+1.27
+21.7
+21.1
+21.4
+0.98
+Urban
+18.8
+16.7
+17.7
+0.89
+40.1
+30.2
+35.0
+0.75
+Nomadic
+0.0
+1.0
+0.5
+0.00
+1.5
+1.1
+1.3
+0.74
+Total
+14.9
+14.3
+14.6
+0.96
+31.9
+25.3
+28.5
+0.79
+1 The NAR for primary school is the percentage of the primary-school age (6-13 years) population that is attending primary school. The NAR for secondary school is 
+the percentage of the secondary-school age (14-17 years) population that is attending secondary school. By definition the NAR cannot exceed 100 percent
+2 The GAR for primary school is the total number of primary school students, expressed as a percentage of the official primary-school-age population. The GAR 
+for secondary school is the total number of secondary school students, expressed as a percentage of the official secondary-school-age population. If there are 
+significant numbers of overage and underage students at a given level of schooling, the GAR can exceed 100 percent
+3 The Gender Parity Index for primary school is the ratio of the primary school NAR(GAR) for females to the NAR(GAR) for males. The Gender Parity Index for 
+secondary school is the ratio of the secondary school NAR(GAR) for females to the NAR(GAR) for males.
+=== PAGE 31 ===
+21
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 3.4  Mode of transport 
+Percentage of mode of transport to school by place of residence, SIHBS 2022
+Mode of Transport
+Rural
+Urban
+Nomadic
+Total
+To primary school
+On foot
+99.0
+89.6
+93.9
+92.2
+By bike
+0.1
+0.3
+0.0
+0.3
+Private car/vehicle
+0.2
+5.9
+0.1
+4.2
+Public vehicle minibus
+0.6
+3.3
+6.0
+2.7
+Private tri-cycle (bajaj)/ motorcycle
+0.0
+0.6
+0.0
+0.4
+Public tri-cycle (bajaj)/ motorcycle
+0.1
+0.4
+0.0
+0.3
+Other
+0.0
+0.0
+0.0
+0.0
+Total percent
+100.0
+100.0
+100.0
+100.0
+To secondary school
+On foot
+98.3
+82.7
+100.0
+85.1
+By bike
+0.0
+0.2
+0.0
+0.1
+Private vehicle
+0.0
+7.8
+0.0
+6.5
+Public vehicle minibus
+1.7
+5.4
+0.0
+4.8
+Private tri-cycle (bajaj)/ motorcycle
+0.0
+1.8
+0.0
+1.5
+Public tri-cycle (bajaj)/ motorcycle
+0.0
+2.2
+0.0
+1.9
+Total percent
+100.0
+100.0
+100.0
+100.0
+=== PAGE 32 ===
+22
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER IV
+HEALTH, SMOKING & COVID-19 
+VACCINATION
+=== PAGE 33 ===
+23
+Somalia Integrated Household
+Budget Survey (SIHBS)
+KEY MESSAGES
+About 8.3 percent of the population suffer 
+from some form of disabilities, while 4.2 
+percent suffer from a chronic illness and 3.5 
+percent suffered from an accident or other 
+illness. 
+High blood pressure (28.1 percent) and 
+diabetes (16.2 percent) are the most 
+common among people suffering from 
+chronic illnesses. 
+Less than one fourth, (21.2 percent) 
+of persons with chronic diseases and 
+disabilities receive any kind of support. 
+Overall, ill or injured people tend to consult 
+a pharmacy (44.1 percent) more than other 
+health care providers. Slight gender and 
+residence difference towards health care 
+preference are observed.
+Lack of affordability causes 48.5 percent 
+of ill or injured people to refrain from using 
+medical services; in addition to their belief 
+that their illness is minor (33.3 percent) and 
+unavailability of a doctors or nurses (4.6 
+percent).  Some differences are observed 
+by areas of residence.
+One fourth of patients seek healthcare at 
+health facilities in the same neighborhood 
+as their residence (26.8 percent), while 36.0 
+percent visit health facilities in the same 
+district. 
+2.6 percent of the population 15+ are 
+smokers; nevertheless, 0.1 percent smoke 
+shisha and 2.5 percent chew Khat. Gender 
+difference is significant as almost no 
+females reported smoking or chewing Khat. 
+Majority (79.4 percent) of the population 18+ 
+did not wear a mask in the last 7 days and 
+only 7.1 percent have received at least one 
+dose of Covid-19 vaccination.
+=== PAGE 34 ===
+24
+The Federal Republic of Somalia
+National Bureau of Statistics
+4.	HEALTH, SMOKING & COVID-19 VACCINATION
+4.1	 Introduction  
+The SIHBS collected information on the health 
+status of the population. This chapter presents key 
+indicators on general health such as incidence of 
+sickness or injury, disability and chronic illnesses, 
+those who diagnosed chronic illnesses, consultation 
+with healthcare providers, health facility locations, 
+mode of transport used to get to health facilities, 
+smoking, mask wearing and Covid-19 vaccination 
+status. Information on population health and 
+healthcare access is crucial in the design of policy 
+interventions as well as monitoring NDP9 and 
+international milestones such as the Sustainable 
+Development Goals (SDGs).
+4.2	 Health Status 
+Table 4.1 presents data on the distribution of 
+the prevalence of disability, chronic illness and 
+accidents in the population by sex, age and place 
+of residence.  A general glance of the health status 
+in Somalia presented in the table shows that 3.5 
+percent of the population have suffered from an 
+accident or other illness, while about 8.3 percent of 
+the population suffer from some form of disability 
+and 4.2 percent  suffer from a chronic illness.
+By gender, females register slightly higher rates of 
+disability than males (8.8 percent to 7.8 percent) 
+and by residence, rural areas (9.1 percent) have 
+higher percentages compared to urban areas (8.2 
+percent) and nomads (7.2 percent).
+Table 4.1  Health status
+Prevalence of disability, chronic diseases and illness by background characteristics, SIHBS, 2022
+Background characteristics
+Disability
+Chronic illness
+Suffered from an accident 
+or other illness
+Age group
+0-4
+9.2
+0.8
+3.9
+5-9
+4.3
+0.6
+3.4
+10-14
+4.2
+1.0
+2.6
+15-19
+4.3
+1.4
+2.8
+20-24
+3.6
+2.7
+2.7
+25-29
+4.5
+4.4
+2.7
+30-34
+5.4
+3.9
+4.0
+35-39
+7.4
+6.3
+4.8
+40-44
+12.9
+9.7
+3.6
+45-49
+14.0
+13.5
+4.5
+50-54
+21.2
+19.8
+6.5
+55-59
+22.9
+19.4
+4.1
+60-64
+32.7
+24.4
+5.6
+65-69
+41.2
+27.9
+6.4
+70-74
+56.9
+29.9
+7.1
+75-79
+58.6
+38.9
+9.3
+80+
+65.5
+32.9
+5.6
+Place of residence 
+Rural
+9.1
+3.8
+3.9
+Urban
+8.2
+4.7
+3.7
+Nomadic
+7.2
+2.3
+1.5
+Sex
+Male
+7.8
+3.6
+3.2
+Female
+8.8
+4.7
+3.8
+Total
+8.3
+4.2
+3.5
+=== PAGE 35 ===
+25
+Somalia Integrated Household
+Budget Survey (SIHBS)
+4.2.1	Disability
+Table 4.2 presents among population with 
+disabilities, percentage population who suffer from 
+specific types of disabilities by sex, age group and 
+place of residence. The results indicate that oldest 
+people (80 years and above) are most affected 
+for almost all types of disability with 73.5 percent 
+reporting to have difficulties in seeing, even if 
+he/she is wearing glasses, 53.3 percent having 
+difficulties in hearing, even if he/she is wearing 
+a hearing aid, 78.0 percent having difficulties in 
+walking or climbing steps, 48.4 percent having 
+difficulties in remembering or concentrating, 51.6 
+percent having difficulties with self-care and 27.3 
+percent having difficulties communicating. Difficulty 
+in walking and climbing is the most commonly 
+reported type of disability with 43.9 percent of the 
+total population with disabilities.
+Illnesses related to eyesight, hearing, and mobility 
+occur more amongst females whereby 42.8 
+percent of the female population have difficulty 
+in seeing compared to 34.1 percent males, 25.9 
+percent have hearing difficulties (vs. 20.4 males) 
+and 46.6 percent have difficulty in climbing steps 
+(vs. 40.8 percent males). By contrast, males have 
+slightly higher rates of disability related to self-
+care (31.8 percent males vs. 27.3 percent females) 
+and communication (36.6 percent males vs. 31.8 
+percent females). 
+Mobility disabilities are the most prevalent type of 
+disability across places all residence types. Urban 
+residents record relatively higher rates of walking or 
+climbing difficulties at 44.4 percent compared with 
+rural and nomadic residents at 43.1 percent. 
+Table 4.2  Among population with disabilities, percentage who suffer from specific types of disabilities 
+Type of 
+Disability
+Have difficulty 
+seeing, even 
+if he/she is 
+wearing glasses
+Have difficulty 
+hearing, even 
+if he/she is 
+wearing a 
+hearing aid
+Have difficulty 
+walking or 
+climbing steps
+Have difficulty 
+remembering or 
+concentrating
+Have difficulty 
+with self-care
+Have difficulty 
+communicating
+Sex
+Male
+34.1
+20.4
+40.8
+26.1
+31.8
+36.6
+Female
+42.8
+25.9
+46.6
+26.5
+27.3
+31.8
+Age group
+ 
+ 
+ 
+ 
+ 
+ 
+0-4
+12.5
+11.6
+42.8
+44.2
+71.1
+67.7
+5-9
+18.2
+16.9
+19.5
+23.2
+30.4
+51.0
+10-14
+27.9
+18.1
+25.1
+15.5
+14.8
+47.5
+15-19
+22.8
+18.9
+24.7
+17.1
+10.2
+39.8
+20-24
+37.0
+15.6
+22.5
+18.1
+17.1
+25.0
+25-29
+36.7
+27.7
+31.0
+19.7
+22.9
+31.3
+30-34
+32.0
+30.4
+26.6
+23.5
+13.3
+28.1
+35-39
+36.3
+14.8
+30.3
+16.9
+11.4
+25.2
+40-44
+39.9
+21.6
+40.6
+13.0
+10.4
+15.4
+45-49
+44.4
+21.4
+43.4
+18.4
+6.8
+17.3
+50-54
+46.7
+21.3
+55.2
+18.0
+10.9
+9.8
+55-59
+64.2
+37.7
+59.5
+15.3
+14.0
+15.6
+60-64
+61.2
+28.6
+65.0
+22.3
+17.5
+12.0
+65-69
+64.1
+38.9
+61.0
+30.4
+26.3
+14.1
+70-74
+70.4
+39.2
+72.6
+33.4
+28.8
+16.9
+75-79
+75.4
+39.7
+77.6
+37.1
+34.8
+15.6
+80+
+73.5
+53.3
+78.0
+48.4
+51.6
+27.3
+Place of 
+residence 
+Rural
+37.1
+24.4
+43.1
+22.1
+26.9
+32.1
+Urban
+39.8
+22.5
+44.4
+29.1
+29.3
+36.1
+Nomadic
+37.0
+26.9
+43.1
+20.4
+36.0
+25.4
+Total
+38.8
+23.4
+43.9
+26.3
+29.3
+34.0
+=== PAGE 36 ===
+26
+The Federal Republic of Somalia
+National Bureau of Statistics
+4.3	 Chronic illness
+Table 4.3 presents the distribution of chronic 
+illnesses. Diabetes and high blood pressure are 
+most prevalent compared to other diseases at 21.1 
+percent and 26.3 percent respectively.
+By gender, males are more prone to diabetes (25.0 
+percent) males compared to 18.4 percent. Females 
+however are more prone to Joint inflammation (7.7 
+percent females compared to 3.6 percent males) . 
+By place of residence, diabetes and high blood 
+pressure stand out in urban areas (24.2 percent and 
+27.3 percent respectively). In rural areas, high blood 
+pressure has higher prevalence rates than other 
+illnesses at 28.1 percent. 
+4.4	 Support for chronic diseases, 
+disability and injury
+Table 4.4 shows the distribution of support sources 
+for people with chronic diseases, disabilities or 
+injuries. The results show that 15.2 percent of 
+individuals with chronic diseases and disabilities 
+report receiving support from relatives, family and 
+friends in the form of cash or in-kind. The next 
+most common source of support is NGOs (3.3 
+percent) providing free health service, medicine 
+or equipment. It is worth noting that support from 
+government programs is barely available at 1.5 
+percent. Overall, only 21.2 percent of the population 
+with chronic illnesses, disability or injury received 
+any kind of support.
+By place of residence, urban residents tend to 
+receive more support from a multitude of sources, 
+with 22.5 percent receiving any kind of support.
+4.5	 Consultation with healthcare 
+providers
+Respondents reporting a (non-chronic) illness or 
+injury during the month preceding the survey were 
+then asked whether they had sought a health 
+consultation.  Table 4.5 shows that among the 
+respondents who reported sickness or injury, 44.1 
+percent had sought consultation from a pharmacy, 
+23.5 percent from public health centers and 
+17.5 percent from private clinics. For pharmacy 
+consultations, the percentage was slightly higher 
+in rural areas (56.8 percent) than in urban areas 
+(40.1 percent). Additionally, the results show that 
+consulting a public health care provider was almost 
+the same at 23.4 percent for  females and 23.5 
+percent for males .
+4.6	 Reasons for not using medical 
+services.
+Table 4.6 below presents the main barriers for 
+ill and injured individuals from utilizing medical 
+services.  Lack of affordability is the most common 
+reason at 48.5 percent. Other barriers include 
+perceiving illness as minor (33.3percent) and travel 
+is too difficult/costly (3.4percent). By gender, there 
+is a higher percentage of females who cannot 
+afford medical services (52.4 percent) than males 
+(43.6 percent).
+Affordability is the primary reason for not seeking 
+medical services across all places of  residence. 
+The next most common reason for urban and rural 
+residents is personal judgment that the illness 
+is not severe at 38.6 percent and 32.1 percent 
+respectively. Finally, over a quarter of nomads (33.1 
+percent) do not seek medical services because of 
+lack of medical staff.
+=== PAGE 37 ===
+27
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 4.3: Distribution of the population by type of chronic illness
+Background 
+Characteristics
+Type of chronic illness
+Diabetes
+High 
+blood 
+pressure
+Joint 
+inflammation
+Cancer
+TB 
+(tuberculosis)
+Leprosy
+Cardiac / 
+heart
+Respiratory 
+disease 
+(asthma)
+Stomach/ 
+intestinal 
+ulcer
+Chronic 
+kidney 
+disease
+Anemia
+Chronic 
+mental/  
+psychological 
+illness
+Hepatitis
+Other
+Age group 
+0-4
+1.5
+1.2
+5.1
+2.1
+3.9
+0.0
+8.4
+21.9
+7.9
+1.9
+9.6
+17.0
+0.0
+19.5
+5-9
+5.1
+5.0
+0.7
+0.0
+8.0
+0.0
+0.0
+12.5
+7.4
+13.0
+5.5
+12.6
+9.3
+20.9
+10-14
+15.1
+0.0
+2.3
+0.5
+3.9
+0.0
+5.4
+3.0
+16.4
+8.1
+10.4
+5.5
+4.7
+24.8
+15-19
+3.2
+0.0
+2.0
+0.0
+0.0
+0.0
+1.0
+8.9
+5.8
+6.6
+17.8
+27.6
+12.4
+14.7
+20-24
+7.5
+4.8
+2.9
+0.0
+8.3
+0.0
+8.9
+3.7
+4.4
+12.6
+21.9
+9.2
+6.1
+9.7
+25-29
+6.3
+9.3
+11.0
+0.0
+1.1
+2.7
+2.5
+0.7
+11.7
+14.6
+10.5
+19.8
+1.9
+7.6
+30-34
+20.6
+17.6
+2.8
+0.0
+2.0
+0.0
+2.9
+1.7
+6.1
+9.9
+14.2
+6.6
+3.1
+12.5
+35-39
+15.3
+25.4
+1.6
+0.0
+1.1
+0.0
+4.7
+6.9
+13.0
+6.5
+7.5
+6.0
+1.5
+10.6
+40-44
+27.7
+27.3
+6.2
+0.0
+4.8
+0.0
+1.3
+0.3
+2.9
+11.9
+3.3
+5.5
+1.4
+7.5
+45-49
+24.7
+30.2
+6.2
+0.0
+0.7
+0.0
+5.4
+3.6
+4.0
+7.2
+2.6
+5.9
+0.8
+8.7
+50-54
+34.0
+27.3
+9.7
+0.0
+0.1
+0.0
+3.6
+1.5
+3.9
+1.7
+1.4
+3.5
+0.9
+12.4
+55-59
+35.3
+32.2
+2.1
+0.0
+0.0
+0.0
+2.1
+6.3
+4.0
+4.9
+3.9
+0.0
+0.9
+8.4
+60-64
+27.8
+42.6
+7.5
+5.3
+0.2
+0.0
+1.1
+1.0
+3.7
+2.8
+3.2
+1.4
+1.2
+2.1
+65-69
+25.4
+43.3
+7.6
+0.0
+0.0
+0.0
+6.4
+0.0
+3.6
+2.1
+2.9
+1.3
+3.3
+4.1
+70-74
+21.6
+37.4
+14.3
+1.3
+0.0
+0.9
+0.1
+3.5
+6.2
+3.3
+0.3
+5.0
+0.0
+5.9
+75-79
+22.1
+59.6
+3.8
+0.0
+0.0
+0.0
+2.1
+5.2
+7.2
+0.0
+0.0
+0.0
+0.0
+0.0
+80+
+13.8
+45.2
+7.6
+1.0
+0.0
+0.0
+7.2
+1.2
+8.5
+0.3
+2.9
+2.3
+0.2
+9.9
+Place of 
+residence 
+Rural
+16.2
+28.1
+6.0
+0.4
+3.1
+0.2
+3.7
+3.7
+5.9
+7.7
+7.2
+4.2
+1.8
+11.9
+Urban
+24.2
+27.3
+5.8
+0.8
+1.4
+0.2
+3.6
+3.3
+6.2
+5.1
+5.5
+6.4
+1.6
+8.6
+Nomadic
+4.8
+10.0
+7.3
+0.3
+0.0
+0.0
+0.0
+7.6
+5.1
+13.5
+6.1
+14.2
+9.6
+21.5
+Sex
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Male
+25.0
+26.3
+3.6
+1.5
+2.3
+0.4
+3.3
+2.8
+5.6
+6.5
+3.3
+9.5
+2.1
+7.8
+Female
+18.4
+26.3
+7.7
+0.1
+1.2
+0.1
+3.4
+4.2
+6.4
+6.0
+7.8
+4.3
+2.2
+11.9
+Total
+21.1
+26.3
+6.0
+0.7
+1.6
+0.2
+3.4
+3.6
+6.1
+6.3
+5.9
+6.5
+2.2
+10.2
+=== PAGE 38 ===
+28
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 4.4  Percentage of the population with chronic diseases and disabilities by background characteristics
+Background 
+characteristics
+Cash or in kind 
+transfer from the 
+social welfare 
+fund
+Support from 
+the disability 
+fund (cash or 
+in-kind)
+Educational/
+Vocational 
+training 
+through an 
+NGO
+Educational/
+Vocational 
+training 
+through a 
+government 
+program
+Free provision 
+of health 
+service, 
+medicines or 
+equipment 
+through an 
+NGO
+FREE provision 
+of health service, 
+medicines or 
+equipment 
+through 
+government 
+program
+Cash or In-Kind 
+from relatives’ 
+family/ friends
+Cash or in 
+kind from 
+charity and 
+kind people
+Received 
+any kind of 
+support
+Age group
+0-4
+0.0
+2.9
+0.0
+0.0
+11.1
+2.3
+25.1
+3.6
+41.6
+5-9
+0.7
+0.0
+0.0
+0.0
+0.9
+6.2
+4.1
+1.3
+13.3
+10-14
+0.5
+0.0
+1.0
+0.0
+3.8
+1.0
+14.8
+0.0
+20.2
+15-19
+0.0
+0.0
+0.3
+0.0
+1.5
+0.0
+17.6
+3.1
+22.1
+20-24
+0.0
+1.6
+0.0
+0.0
+4.4
+3.4
+14.8
+0.0
+22.6
+25-29
+2.1
+0.8
+0.8
+0.8
+3.4
+1.0
+12.0
+1.2
+19.7
+30-34
+2.0
+0.0
+0.6
+0.0
+4.1
+0.0
+11.9
+3.0
+20.3
+35-39
+1.3
+0.5
+0.5
+0.5
+6.2
+3.6
+9.1
+1.1
+18.5
+40-44
+1.0
+0.3
+0.0
+0.0
+4.2
+3.7
+14.8
+2.3
+24.7
+45-49
+0.3
+0.0
+0.0
+0.0
+3.4
+1.7
+19.9
+0.0
+24.8
+50-54
+0.8
+0.1
+0.0
+0.0
+1.5
+0.6
+16.5
+0.1
+19.0
+55-59
+0.6
+0.4
+0.0
+0.0
+0.0
+0.0
+19.6
+0.0
+20.6
+60-64
+0.4
+2.7
+0.2
+0.0
+3.4
+0.8
+19.3
+0.8
+25.7
+65-69
+2.9
+0.0
+0.0
+0.0
+4.8
+0.0
+22.7
+0.8
+28.5
+70-74
+0.8
+0.0
+0.0
+0.3
+1.4
+0.3
+12.1
+0.7
+15.1
+75-79
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+13.0
+0.0
+13.0
+80+
+0.0
+1.2
+1.2
+1.2
+4.7
+2.2
+18.8
+2.4
+23.9
+Sex
+Male
+0.5
+1.1
+0.3
+0.2
+3.3
+1.8
+15.9
+1.1
+22.6
+Female
+0.9
+0.4
+0.2
+0.2
+3.2
+1.3
+14.8
+1.1
+20.2
+Place of residence
+Rural
+0.4
+1.1
+0.4
+0.3
+2.9
+1.9
+14.1
+1.8
+20.1
+Urban
+0.9
+0.6
+0.3
+0.1
+3.6
+1.5
+16.1
+1.0
+22.5
+Nomadic
+0.3
+0.0
+0.0
+0.0
+0.9
+0.0
+9.2
+0.0
+10.5
+Total 
+0.7
+0.7
+0.3
+0.2
+3.3
+1.5
+15.2
+1.1
+21.2
+=== PAGE 39 ===
+29
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 4.5: Percentage of Ill or Injured Population who Consulted a Health Care Provider by age Sex and Place of Residence
+Background 
+characteristics
+public 
+health 
+centre/ 
+health unit
+private clinic
+public 
+hospital
+private 
+hospital
+pharmacy
+private 
+consultation 
+of health 
+professional
+traditional 
+health 
+practitioner
+outside of 
+Somalia
+Age group
+0 – 4
+29.4
+11.6
+10.7
+4.7
+41.9
+0.0
+1.7
+0.0
+5 – 9
+20.2
+21.2
+6.2
+4.4
+46.3
+0.0
+1.7
+0.0
+10 – 14
+18.5
+11.7
+3.3
+8.6
+57.0
+0.0
+0.6
+0.3
+15 – 19
+28.0
+16.3
+6.8
+2.1
+44.1
+0.0
+1.5
+1.2
+20 – 24
+29.3
+13.2
+1.2
+6.0
+50.4
+0.0
+0.0
+0.0
+25 – 29
+12.5
+24.7
+8.9
+7.1
+46.8
+0.0
+0.0
+0.0
+30 – 34
+21.4
+10.4
+3.9
+3.9
+60.4
+0.0
+0.0
+0.0
+35 – 39
+31.1
+7.0
+11.3
+7.2
+38.2
+1.4
+3.8
+0.0
+40 – 44
+16.3
+25.6
+22.1
+17.1
+16.0
+0.0
+2.8
+0.0
+45 – 49
+17.4
+40.7
+11.6
+8.4
+22.0
+0.0
+0.0
+0.0
+50 – 54
+16.2
+34.2
+2.3
+14.9
+32.4
+0.0
+0.0
+0.0
+55 – 59
+12.5
+21.5
+8.4
+6.2
+51.4
+0.0
+0.0
+0.0
+60 – 64
+34.3
+28.2
+0.0
+12.4
+25.1
+0.0
+0.0
+0.0
+65 – 69
+15.9
+33.8
+0.0
+21.8
+28.5
+0.0
+0.0
+0.0
+70 – 74
+28.9
+18.0
+27.5
+2.8
+22.9
+0.0
+0.0
+0.0
+75 – 79
+16.1
+60.1
+0.0
+7.8
+16.0
+0.0
+0.0
+0.0
+80+
+26.1
+15.9
+0.8
+1.9
+55.3
+0.0
+0.0
+0.0
+Residence
+Rural
+18.3
+18.0
+3.2
+3.0
+56.8
+0.0
+0.6
+0.2
+Urban
+25.4
+17.8
+7.8
+7.3
+40.1
+0.4
+1.2
+0.2
+Nomadic
+21.9
+5.5
+27.2
+13.1
+26.3
+0.0
+6.0
+0.0
+Sex
+Male
+23.5
+17.1
+6.5
+4.4
+46.8
+0.6
+1.0
+0.1
+Female
+23.4
+17.9
+7.5
+7.8
+42.0
+0.0
+1.2
+0.2
+Total 
+23.5
+17.5
+7.1
+6.3
+44.1
+0.3
+1.1
+0.2
+Table 4.6  Percentage of ill or injured population and reasons not to use medical care by background characteristics.
+Background 
+characteristics
+Cannot 
+afford
+Travel 
+is too 
+difficult /
+costly
+No female 
+doctor/ 
+nurse 
+available
+No 
+doctor/ 
+nurse
+No 
+medical 
+facility
+Illness 
+was minor
+No proper 
+service
+Social and 
+cultural 
+reasons
+Others
+Sex
+Male
+43.6
+3.2
+1.2
+5.9
+6.0
+36.4
+3.3
+0.0
+0.4
+Female
+52.4
+3.5
+0.9
+3.5
+3.2
+30.9
+3.0
+1.2
+1.5
+Place of residence
+Rural
+42.0
+6.8
+2.1
+2.7
+6.0
+32.1
+7.3
+0.2
+0.7
+Urban
+55.1
+1.8
+0.2
+0.6
+0.6
+38.6
+0.9
+1.0
+1.3
+Nomadic
+27.8
+3.3
+3.1
+33.1
+22.2
+5.5
+5.1
+0.0
+0.0
+Total
+48.5
+3.4
+1.0
+4.6
+4.4
+33.3
+3.1
+0.7
+1.0
+=== PAGE 40 ===
+30
+The Federal Republic of Somalia
+National Bureau of Statistics
+4.7	 Health facility locations
+Overall, 36.0 percent of health facilities are 
+at best located in the same district as the 
+respondents. Meanwhile, the majority of health 
+facilities are located either within the same district 
+(32.3 percent) or in the same neighborhood as 
+respondents (26.8 percent). By place of residence, 
+about half of rural residents (39.7 percent) and 
+more than two thirds of nomadic residents (61.9 
+percent) report accessing health facilities located 
+in the same district. In urban areas, health facilities 
+are more likely to be in the same neighborhood 
+(33.0 percent) and same district (29.8 percent) 
+as respondents, with only 33.7 percent reporting 
+that health facilities are at best in the same district 
+locations. Urban and rural areas have better access 
+to nearby health services compared to nomads, 
+with only 2.8 percent of the latter reporting health 
+facilities located in the same neighborhood, and in 
+Table 4.7  Health facility location
+Percentage of the population’s residence near health facility by background characteristics
+Background characteristics
+Same 
+neighborhood 
+as residence
+Same Sub-
+district
+Same District
+Another 
+District in the 
+same state
+In another 
+state
+Another 
+country
+Sex
+Male 
+22.5
+35.2
+38.6
+2.2
+1.4
+0.1
+Female 
+30.2
+30.0
+33.9
+5.3
+0.4
+0.3
+Place of residence
+Rural 
+11.8
+40.6
+39.7
+5.7
+2.1
+0.2
+Urban
+33.0
+29.8
+33.7
+2.9
+0.4
+0.2
+Nomadic
+2.8
+17.1
+61.9
+15.8
+1.1
+1.3
+Total 
+26.8
+32.3
+36.0
+4.0
+0.8
+0.2
+Table 4.8  Smoking and khat chewing.
+Percentage of adults (15+) who smoke cigarettes, shisha or chew khat by background characteristics, SIHBS 2022
+Background 
+characteristics
+Smoke cigarette
+Smoke shisha
+    Chew khat     
+Smoke cigarettes,       
+shisha or chew Khat
+Sex
+Male 
+5.6
+0.1
+5.3
+7.2
+Female 
+0.1
+0.1
+0.0
+0.2
+Age group
+15-19
+0.5
+0.0
+0.4
+0.6
+20-24
+1.3
+0.1
+1.0
+1.5
+25-29
+2.3
+0.1
+2.1
+3.1
+30-34
+3.7
+0.2
+3.3
+4.7
+35-39
+4.1
+0.1
+4.3
+5.6
+40-44
+5.2
+0.3
+4.9
+7.4
+45-49
+4.1
+0.3
+4.2
+4.9
+50-54
+4.5
+0.0
+4.3
+5.7
+55-59
+7.4
+0.1
+7.7
+9.2
+60-64
+4.1
+0.0
+4.2
+5.2
+65-69
+0.8
+0.0
+1.1
+1.1
+70-74
+1.0
+0.7
+2.2
+3.3
+75-79
+2.7
+0.0
+0.0
+2.7
+80+
+0.4
+0.0
+0.3
+0.7
+Place of residence 
+Rural
+3.2
+0.0
+3.1
+4.3
+Urban
+2.3
+0.1
+2.1
+2.9
+Nomadic
+3.0
+0.0
+3.2
+4.3
+Total 
+2.6
+0.1
+2.5
+3.4
+=== PAGE 41 ===
+31
+Somalia Integrated Household
+Budget Survey (SIHBS)
+the same district at 17.1 percent.
+4.8	 Cigarette and shisha smoking 
+Table 4.8 presents the proportion of individuals who 
+smoke cigarettes, shisha and chew khat. Generally, 
+as little as  2.6 percent of the respondents reported 
+smoking cigarettes, with less than one percent (0.1 
+percent) reported smoking shisha and 2.5 percent 
+chewing khat. Those who reported consuming any 
+of the three account for 7.2 percent of the male 
+population. Smoking (cigarettes and shisha) and 
+khat chewing begins at the early age of 15-19 years 
+and peaks at 55-59 years.
+4.9	 Mask wearing and Covid-19 
+vaccination status.
+Table 4.9 presents the percentage of the adult 
+population who wear masks as well as their 
+vaccination status. There is no significant gender 
+difference with regards to wearing masks. 
+However, urban residents tend to wear masks more 
+than those living in other types of residences.  
+The majority (79.4 percent) of the adult (15+) 
+Somali population have not worn a mask in the 
+past 7 days and only 7.1 percent have received at 
+least one Covid-19 vaccination dose. Vaccination 
+is more common among males, 5.9 percent have 
+received at least two doses, compared to 3.9 
+percent of females. By place of residence, urban 
+and rural residents register higher vaccination rates 
+compared to nomadic residents.
+Table 4.9  COVID-19 prevention and vaccination 
+Percentage of adult population (15+) by who wear a mask in public and vaccination status
+Background 
+characteristics
+Mask wearing
+Covid-19 Vaccination
+All of the 
+time
+Most of the 
+time
+About half 
+of the time
+Some of 
+the time
+None of the 
+time
+I have 
+not been 
+in public 
+during the 
+last 7 days 
+Received at 
+least one 
+dose
+Received 
+two doses a
+Sex
+Male 
+2.9
+4.2
+2.2
+10.3
+79.8
+0.6
+8.4
+5.9
+Female 
+3.2
+4.2
+2.1
+9.8
+79.1
+1.7
+6.0
+3.9
+Age group
+15-19
+3.1
+5.3
+3.1
+11.1
+76.5
+1.0
+3.0
+2.2
+20-24
+3.1
+5.0
+2.8
+11.9
+76.0
+1.3
+5.7
+3.9
+25-29
+3.2
+4.6
+2.4
+10.1
+78.4
+1.3
+6.7
+4.3
+30-34
+3.0
+4.8
+1.9
+9.2
+80.2
+0.9
+7.1
+4.8
+35-39
+3.7
+2.9
+1.4
+9.8
+81.4
+0.9
+6.7
+4.3
+40-44
+2.8
+3.2
+1.6
+8.0
+83.8
+0.6
+7.9
+5.4
+45-49
+3.5
+4.1
+2.8
+10.1
+77.8
+1.6
+9.1
+5.8
+50-54
+2.5
+4.6
+2.2
+10.4
+79.7
+0.5
+9.7
+6.5
+55-59
+3.1
+1.9
+1.1
+11.2
+81.7
+1.1
+12.5
+8.5
+60-64
+2.2
+3.3
+1.2
+8.5
+83.6
+1.2
+10.3
+8.5
+65-69
+4.4
+3.1
+0.0
+10.5
+79.4
+2.6
+11.3
+8.2
+70-74
+3.8
+2.9
+0.4
+7.4
+81.3
+4.2
+13.6
+9.8
+75-79
+0.8
+0.0
+1.4
+8.8
+85.0
+4.0
+5.7
+4.0
+80+
+1.6
+2.4
+2.3
+5.9
+85.2
+2.6
+4.8
+2.2
+Place of residence
+Rural 
+1.5
+1.2
+0.9
+5.5
+90.4
+0.5
+7.3
+5.2
+Urban 
+3.9
+5.8
+2.9
+13.0
+73.0
+1.4
+7.2
+5.1
+Nomadic 
+1.5
+0.9
+0.1
+1.8
+94.6
+1.2
+6.3
+2.7
+Total 
+3.1
+4.2
+2.1
+10.0
+79.4
+1.2
+7.1
+4.8
+a	
+ Note: Received two doses refers to the percentage of the population of  those who answered they were vaccinated with one dose  and were asked to go back 
+for a second dose and later received the second dose.
+=== PAGE 42 ===
+32
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER V
+HOUSEHOLD DWELLINGS AND 
+OWNERSHIP OF DURABLE GOODS
+=== PAGE 43 ===
+33
+Somalia Integrated Household
+Budget Survey (SIHBS)
+KEY MESSAGES
+The number of rooms dedicated for sleeping 
+differ considerably from one area of 
+residence to another. Urban dwellings are 
+more complex and most consist of two to 
+three rooms, 37.0 percent, and 40.2 percent, 
+respectively. Rural residents mostly have 
+1-2 rooms, 35.9 percent and 39.1 percent, 
+respectively. The majority of nomads live in 
+modest single-room structures.
+Kitchen / cooking areas are available in 
+most of urban (80.4 percent) and rural (68.9 
+percent) residences; while less common in 
+nomadic residences (21.3 percent). 
+Majority of cooking areas (47.1 percent) 
+are located inside the dwelling. This 
+differs greatly by type of residence, urban 
+(56.1 percent) and rural (46.5 percent) 
+residences; while less common in nomadic 
+residences (6.1 percent). Most nomads do 
+not have a kitchen or cooking areas inside 
+their home.
+Villa (or bungalow) is a popular type 
+of housing that is often found in urban 
+areas (29.3 percent). Iron sheet houses 
+(24.3percent) as well as houses containing 
+one room (15.4 percent) are also common 
+in urban areas. A quarter (24.2 percent) 
+of the rural households live in one room 
+houses followed by iron sheet houses (22.0 
+percent). Nomads occupy mostly traditional 
+Somali houses and tents, 47.1 percent and 
+29.9 percent, respectively.
+The floor materials differ by dwelling type. 
+In urban areas, most floors are made of 
+cement (45.3 percent), while earth/sand 
+are mostly found in rural (52.5 percent), and 
+especially nomadic (87.0 percent) dwellings. 
+Walls built of iron as well as mud and wood 
+are most common in rural households. 
+Nomadic households usually consist of 
+grass, wood and mud while majority of 
+urban households use iron sheets, stones 
+and cement bricks for walls. 
+Urban and rural households predominantly 
+use iron sheets to build the roof, 89.9 
+percent and 81.6 percent, respectively. 
+Nomads commonly use plastic bags and 
+grass. 
+Residence ownership is most common in 
+rural area (63.3 percent). Less than a half 
+of urban dwellers and nomads own their 
+residences, 42.6 percent and 46.7 percent, 
+respectively. 
+The most common goods in the households 
+are mattresses, blankets, mobile phones 
+with no Internet connection, beds with 
+mattresses, chairs and tables.
+=== PAGE 44 ===
+34
+The Federal Republic of Somalia
+National Bureau of Statistics
+5.	HOUSEHOLD DWELLINGS AND OWNERSHIP OF DURABLE 
+GOODS 
+5.1	 Introduction 
+The analysis of housing characteristics discussed 
+in this chapter provides information on the 
+construction material of the main dwelling 
+units, the type of tenure, the ownership status 
+of the dwelling, the number of sleeping rooms 
+and ownership of durable goods. The findings 
+presented are important in assessing the impact of 
+government policies and development initiatives. 
+Further, the information will be key in monitoring 
+progress towards achievement of Sustainable 
+Development Goal (SDG) 1.6
+5.1.1	Housing Dwellings 
+The number of rooms used for sleeping varies 
+substantially between places of residence. Urban 
+and rural dwellings often have multiple sleeping 
+rooms, with 40.2 percent of urban residences and 
+25.0 percent of rural residences having more than 
+two rooms for sleeping. By contrast, two thirds 
+(77.0 percent) of nomadic dwellings have only one 
+sleeping room, as shown in Figure 5.1.
+6	
+ “Goal 1: End poverty in all its forms everywhere.”
+Similar trends can be observed with regards to the 
+cooking area location, as shown in Figure 5.2. A 
+dedicated cooking area is available to most urban 
+(80.4 percent) and rural (68.9 percent) households, 
+and it is located outside the dwelling for 22.4 
+percent of rural households and 24.3 percent of 
+urban households. Meanwhile, less than quarter 
+of nomadic households  (21.3  percent) have a 
+dedicated area for cooking, a round third of which 
+(6.1 percent) is located inside the dwelling
+5.1.2	Dwelling Type and Materials of Floors, 
+Walls and Roofs 
+Table 5.1 presents the distribution of household 
+dwelling types by place of residence in Somalia. 
+Villa (or bungalow) is the most common dwelling 
+type in urban areas (29.3 percent),  while iron sheet 
+houses are common in both urban (24.3 percent) 
+and rural areas (22.0 percent). Over a quarter of 
+rural households (24.2 percent) and 15.4 percent of 
+urban households occupy a room within someone 
+else’s house. Half of      nomadic households live 
+in the traditional Somali houses  (47.1 percent) and 
+another quarter (29.9 percent) reside in tents.  
+The most popular building floor material in urban 
+Figure 5.1  Number of sleeping room by place of residence.
+Figure 5.2  Cooking area by place of residence
+35.9
+22.9
+77.0
+33.2
+39.1
+37.0
+21.5
+35.5
+25.0
+40.2
+1.5
+31.2
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+00%
+Rural
+Urban
+Nomadic
+Total
+One
+Two
+Three or more
+46.5
+56.1
+6.1
+47.1
+22.4
+24.3
+15.2
+22.7
+31.1
+19.6
+78.7
+30.2
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Rural
+Urban
+Nomadic
+Total
+Inside dwelling
+Outside dwelling
+No kitchen
+=== PAGE 45 ===
+35
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 5.1  Percent distribution of household dwelling types and construction materials, by place of residence
+Rural
+Urban
+Nomadic
+Total
+Dwelling type
+Villa (bungalow)
+12.8
+29.3
+1.2
+21.4
+Apartment
+5.0
+5.4
+0.6
+4.7
+Room
+24.2
+15.4
+9.6
+16.9
+Part of an establishment or business
+0.9
+1.6
+0.2
+1.3
+Tents
+4.7
+4.9
+29.9
+8.1
+Improvised home
+11.3
+10.1
+8.5
+10.2
+Traditional Somali house
+9.2
+1.7
+47.1
+9.5
+Hut
+9.9
+7.4
+1.2
+7.2
+Iron sheet house
+22.0
+24.3
+1.6
+20.8
+Total 
+100.0
+100.0
+100.0
+100.0
+Main building material of the floor
+Cement
+40.0
+45.3
+3.6
+39.8
+Tiles
+4.2
+15.6
+0.2
+11.0
+Wood
+1.6
+2.0
+3.4
+2.0
+Earth/sand
+52.5
+35.8
+87.0
+45.4
+Other 
+1.7
+1.3
+5.9
+1.9
+Total
+100.0
+100.0
+100.0
+100.0
+Main building material used for walls
+Stones
+20.5
+21.4
+1.6
+19.2
+Cement bricks
+13.6
+22.3
+1.1
+17.9
+Mud and Wood
+19.6
+12.5
+18.9
+15.1
+Baked bricks
+1.0
+1.0
+0.3
+1.0
+Wood
+8.0
+4.0
+21.2
+6.8
+Iron sheets
+30.3
+36.5
+15.8
+32.8
+Grass
+6.3
+0.9
+35.8
+5.8
+Other
+0.7
+1.3
+5.3
+1.6
+Total
+100.0
+100.0
+100.0
+100.0
+Building material used for the roof
+Iron sheets
+81.6
+89.9
+20.2
+80.8
+Tiles
+0.8
+2.3
+0.3
+1.7
+Concrete
+0.8
+1.5
+1.2
+Wood
+1.7
+1.3
+7.0
+2.0
+Grass
+6.6
+1.0
+21.4
+4.5
+Plastic Bag
+7.6
+3.3
+43.3
+8.4
+Other 
+0.9
+0.6
+7.8
+1.4
+Total 
+100.0
+100.0
+100.0
+100.0
+areas is cement, as reported by 45.3 percent 
+of urban households, and a large share of rural 
+households (40.0 percent) also have cement floors. 
+Nomadic households predominantly use earth/
+sand (87.0 percent), as do more than a half of rural 
+households (52.5 percent) and a third of urban 
+households (35.8 percent). Tiles are used in 15.6 
+percent of dwelling floors for urban households, but 
+only in 4.2 percent of dwellings in rural dwellings..
+Iron sheets are the most common wall material 
+across urban and rural areas at 36.5 percent 
+and      30.3 percent respectively. They are much 
+less common among nomads who primarily use 
+grass (35.8 percent), as well as wood walls (21.2 
+percent). Mud and wood walls are also widely 
+used  in rural areas (19.6 percent), while stones and 
+cement bricks are found mostly in urban (21.4 and 
+22.3 respectively) and rural (20.5 and 13.6 percent 
+respectively).
+=== PAGE 46 ===
+36
+The Federal Republic of Somalia
+National Bureau of Statistics
+With respect to roof materials, iron sheets are 
+predominantly used by urban (89.9 percent) and 
+rural (81.6 percent) residents. Nomadic households 
+use plastic bags (43.3 percent) and grass (21.4 
+percent) more than iron sheets (20.2 percent) or 
+other types of building materials.
+5.1.3	Dwelling Tenure and Ownership
+Nearly half of households (48.5 percent) own 
+their home in Somalia (table 5.2).  Ownership is 
+highest in rural areas where about two-thirds (63.3 
+percent) of the households report owning a home. 
+less than half of urban and nomadic households 
+owning a home at (42.5 percent and 46.7 percent 
+respectively). Rent is more common in urban areas 
+(38.5 percent) and authorized free stay7 is most 
+common for nomads (28.4 percent). Unauthorized 
+free stay8 is reported for nearly a quarter of the 
+nomadic households (24.1 percent).
+Table 5.2 Tenure and Ownership
+7	
+ This category does not own or rent a dwelling. The household 
+is given a place to stay by the owner for free.
+8	
+ This category does not own or rent a dwelling. The household 
+occupies a place without the owner’s permission.
+5.1.4	Dwelling Distance from Nearest All-
+Season Road
+Table 5.3 shows that 79.4 percent of residences 
+are located within 100m of an all-season road (a 
+road that can be used during all seasons). However, 
+some differences are notable depending on the 
+place of residence. More households in rural (85.3 
+percent) and urban (77.9 percent) areas are less 
+than 100m away from an all-season road compared 
+to nomads (74.8 percent).
+5.2	 Ownership of Durable Goods
+Information about the ownership of selected 
+items was collected to better understand the 
+living standards of Somali households. These 
+items include home furniture and appliances, 
+communication and entertainment equipment, 
+farm equipment, vehicles, and jewelry. Table 5.4 
+summarizes the ownership of durable goods by 
+place of residence. At a glance, the most commonly 
+owned durable goods are mattresses, blankets, 
+mobile phones with no Internet connection, beds 
+with mattresses, chairs and tables. 
+The most commonly owned transportation 
+Table 5.2  Tenure and Ownership
+Percentage of households and type of tenure by residence
+Rural
+Urban
+Nomadic
+Total
+Tenure
+Own
+63.3
+42.6
+46.7
+48.5
+Rent
+20.3
+38.5
+0.8
+28.9
+Stay for free, authorized
+13.4
+16.2
+28.4
+17.0
+Stay for free, not authorized
+3.0
+2.7
+24.1
+5.5
+Total 
+100.0
+100.0
+100.0
+100.0
+Table 5.3  Household distance from nearest all-season road, by place of residence
+Rural
+Urban
+Nomadic
+Total
+Distance
+Less than 100m
+85.3
+77.9
+74.8
+79.4
+100m to 1km
+7.4
+14.4
+7.4
+12.0
+1km to 10km
+6.5
+6.6
+15.0
+7.4
+More than 10 km
+0.9
+1.1
+2.7
+1.2
+Total
+100.0
+100.0
+100.0
+100.0
+=== PAGE 47 ===
+37
+Somalia Integrated Household
+Budget Survey (SIHBS)
+equipment is the animal-drawn cart (4.2 percent), 
+followed by private cars (1.3 percent) and 
+motorcycles (1.2 percent). The most common 
+household appliances are washing machines, fans, 
+TVs, and radios. Mobile phones (with no Internet 
+connection) are the most commonly owned 
+communication device (61.7 percent), followed by 
+smart mobile phones (40.4 percent). Every fifth 
+household (20.5 percent) owns a water storage 
+tank.
+Table 5.4  Ownership of durable goods, by place of residence
+ 
+Rural
+Urban
+Nomadic
+Total
+Durable goods
+ 
+ 
+ 
+Mattress (without bed)
+79.0
+81.0
+39.7
+75.2
+Blanket
+67.5
+59.8
+78.2
+64.2
+Bed with mattress
+59.4
+76.4
+5.8
+62.8
+Mobile phone not able to connect 
+to Internet
+60.9
+61.4
+64.7
+61.7
+Chair
+57.5
+64.0
+9.3
+55.2
+Table
+45.7
+47.7
+4.8
+41.6
+Smart mobile phone
+34.0
+50.8
+4.3
+40.4
+Mortar/ pestle
+45.2
+38.7
+38.1
+40.3
+Axe
+30.4
+14.5
+54.8
+23.8
+Water storage tank (plastic or 
+metal)
+20.9
+21.8
+13.4
+20.5
+Television
+7.4
+26.2
+0.0
+17.9
+Washing Machine
+8.3
+24.4
+0.0
+17.1
+Fan
+11.8
+19.8
+0.0
+15.2
+Refrigerator
+3.6
+12.9
+4.6
+9.4
+Solar panel
+13.5
+3.2
+26.1
+8.8
+Cart (animal drawn) - for 
+transporting people and goods
+9.3
+1.5
+6.5
+4.2
+Computer/ laptop/ Ipad
+0.3
+5.2
+0.0
+3.3
+Private car
+0.6
+1.8
+0.3
+1.3
+Motor cycle
+1.7
+1.2
+0.2
+1.2
+Air conditioner
+0.0
+0.2
+0.0
+0.1
+=== PAGE 48 ===
+38
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER VI
+ENERGY, WATER, AND SANITATION
+=== PAGE 49 ===
+39
+Somalia Integrated Household
+Budget Survey (SIHBS)
+KEY MESSAGES
+Overall, more than half of the Somali 
+population (61.9 percent) has access 
+to electricity  (Figure. 6.1). There are 
+significant differences between places of 
+residence, as the majority of urban dwellers 
+have access to electricity (80.1 percent), 
+compared to about a third of rural residents 
+(39.4 percent), and only 8.7 percent of 
+nomads.
+Charcoal (47.9 percent) and firewood 
+(41.3 percent) are the two energy sources 
+most commonly used for cooking. Gas and 
+electricity are only minimally used.
+Approximately 77.7 percent of the 
+population have access to improved water 
+services during rainy season, and 74.7 
+percent during dry season.
+More than a half (60.1) of the population 
+access to safely managed drinking water in 
+the dry season. There are wide disparities 
+across places of residence, with only 14.2 
+percent of nomads and 51.2 percent of rural 
+residents having access to safely managed 
+drinking water in the dry season, compared 
+with 71.9 percent of urban residents.
+About six in ten people use improved toilet 
+facilities 60.7 percent).  Usage of improved 
+toilet facilities is common in urban areas 
+(72.5 percent), rare in nomadic areas (8.5 
+percent) and accounts for just more than 
+half of rural residents (54.7 percent).
+Overall, 29.2 percent of households share 
+their toilet facilities with other households, 
+with slight variations across places of 
+residence, going from 14.5 percent of 
+nomadic households to 26.5 and 30.6 
+percent of rural and urban households 
+respectively.
+Overall, around a third (32.2) of the 
+population use soap and water to wash 
+their hands. Urban residents use soap and 
+water the most (39.8  percent), followed by 
+rural residents (24.8percent), while nomads 
+rarely use it (6.0 percent).
+=== PAGE 50 ===
+40
+The Federal Republic of Somalia
+National Bureau of Statistics
+6.	ENERGY, WATER, AND SANITATION
+6.1	 Introduction
+The survey collected data on access to electricity, 
+sources of fuel for both cooking and lighting, 
+consumption of firewood and charcoal, toilet 
+facilities, drinking water and solid waste disposal. 
+Access to clean drinking water is one of the 
+Sustainable Development Goals (SDGs) and a 
+target outlined in Somalia’s National Development 
+Plan. The source of drinking water for a household 
+is an indicator of how safe it is to consume, while 
+the time necessary to fetch it provides information 
+on accessibility.
+6.2	 Access to Electricity 
+Overall, more than half of the population (61.9 
+percent) has access to electricity . There are 
+significant differences between places of 
+residence, as the majority of urban dwellers have 
+access to electricity (80.1 percent), compared to 
+about a third of rural residents (39.4 percent), and 
+only 8.7 percent of nomads (Figure 6.1).
+6.3	 Energy Sources for Lighting and 
+Cooking
+Table 6.1 presents the source of energy for lighting 
+and cooking. Electricity (54.1 percent), torches 
+(35.4 percent) and to solar (9.7 percent) are the 
+most popular energy sources for lighting in Somalia. 
+Three quarters of urban residents rely on electricity 
+(75.5 percent), while the majority of nomads rely 
+on torches (91.1 percent). Nearly a half of rural 
+residents rely on torches (47.5 percent), about one-
+third on electricity (30.3 percent) and about one-
+fifth on solar lightning (21.4 percent). 
+Charcoal (47.9 percent) and firewood (41.3 percent)  
+are the two energy sources most commonly used 
+for cooking, unlike gas or electricity which are only 
+minimally used. Urban areas stand out for mostly 
+using charcoal (60.6 percent) while other residence 
+types rely more often on firewood (55.8 percent 
+for rural households and 94.3 percent for nomadic 
+households).
+6.4	 Access to Drinking Water 
+About four in five Somalis (77.7 percent) have 
+access to an improved water source during the 
+rainy season, with this rate going down to 74.7 
+percent  during the dry season. This is mainly 
+driven by a decrease in use of improved drinking 
+water source in the rural (74.2 percent to 69.6 
+percent) and nomadic (61.6 percent to 52.3 percent) 
+populations. 
+The main improved sources of drinking water 
+are piped water into dwelling (44.7/41.8 percent 
+during the rainy/dry season), followed by tubewell/
+boreholes (11.7/11.5 percent during the rainy/dry 
+season). A little under two-thirds of the urban 
+population (55.9 percent) and a third of the rural 
+population (35.7 percent) have access to piped 
+water into dwelling, whereas tubewell/borehole are 
+more common in nomadic areas (36.9 percent).
+Non-improved water sources are also used, 
+although to a lesser degree. Nomads rely more 
+than others on natural and non-improved water 
+sources like and natural surface water (river, dam, 
+lake, water catchment), especially in the rainy 
+season (16.9 percent) followed by rural dwellers 
+(10.7/9.5 percent during the rainy/dry season). 
+SDG indicator 6.1.1 is the proportion of population 
+Figure 6.1  Access to Electricity by place of residence
+39.4
+80.1
+8.7
+61.9
+60.6
+19.9
+91.3
+38.1
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Rural
+Urban
+Nomadic
+Total
+Yes
+No
+=== PAGE 51 ===
+41
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 6.1  Main sources of energy
+Main sources of energy for lighting and cooking by place 
+of residence, SIHBS, 2022
+Type of 
+energy
+Rural
+Urban
+Nomadic
+Total
+Electricity
+Yes
+39.4
+80.1
+8.7
+61.9
+No
+60.6
+19.9
+91.3
+38.1
+Total
+100.0
+100.0
+100.0
+100.0
+Main source of energy for lighting
+Electricity
+30.3
+75.5
+0.5
+54.1
+Solar
+21.4
+5.0
+8.0
+9.7
+Kerosene
+0.0
+0.2
+0.0
+0.1
+Firewood
+0.5
+0.5
+0.4
+0.5
+Torch
+47.5
+18.5
+91.1
+35.4
+Candles
+0.1
+0.0
+0.0
+0.0
+Other 
+0.2
+0.2
+0.0
+0.2
+Total
+100.0
+100.0
+100.0
+100.0
+Main source of energy for cooking
+Electricity
+1.4
+5.8
+0.0
+3.9
+Solar
+2.0
+0.4
+0.8
+0.8
+Gas
+1.0
+8.9
+0.0
+5.7
+Charcoal
+39.7
+60.6
+4.3
+47.9
+Firewood
+55.8
+24.0
+94.3
+41.3
+Farm 
+residuals
+0.0
+0.0
+0.2
+0.0
+Animal 
+dung
+0.0
+0.1
+0.0
+0.1
+Paraffin
+0.0
+0.0
+0.0
+0.0
+Other 
+0.2
+0.2
+0.3
+0.2
+Total
+100.0
+100.0
+100.0
+100.0
+having access to safely managed drinking water 
+services. Safely managed drinking water is defined 
+as being obtained from an improved source and 
+accessible on premises, and 63.2/60.1 percent of 
+the Somali population has access to such water 
+services in the rainy/dry season. This indicator 
+shows wide disparities across places of residence, 
+with only 14.2 percent of nomads and 51.2 percent 
+of rural residents having access to safely managed 
+drinking water in the dry season, compared with 
+71.9 percent of urban residents.
+For those who do not have access to water on 
+premises, walking is the most common means of 
+transport for water collection (43.1/40.7 percent 
+during the rainy/dry season), followed by the use 
+of donkeys (23.8/25.8 percent during the rainy/dry 
+season). 
+More than half of urban residents rely on walking 
+year-round (63.6/59.5 percent in the rainy/dry 
+season). Rural residents rely mostly on walking and 
+donkeys (46.4/45.1 percent and 29.1/30.8 percent 
+respectively in the rainy/dry season); as well as 
+motor vehicles and wheelbarrows to a lesser 
+extent. Finally, about one-third of nomadic residents 
+rely on donkeys (29.2/30.9  percent in the rainy/
+dry season), followed by motor vehicle 24.5 in dry 
+season; as well as walking 21.1 percent in rainy 
+season.
+Figure 6.2  Drinking water services by season and place of residence.
+10.8
+16.8
+5.0
+9.5
+12.7
+4.3
+15.1
+17.2
+21.6
+17.2
+21.0
+18.5
+35.0
+21.0
+4.4
+22.8
+4.5
+4.3
+20.8
+4.6
+14.6
+6.6
+19.8
+10.1
+14.1
+7.2
+17.4
+10.1
+55.2
+74.3
+18.9
+63.2
+51.2
+71.9
+14.2
+60.1
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Rural
+Urban
+Nomadic
+Total
+Rural
+Urban
+Nomadic
+Total
+Rainy season
+Dry season
+Surface water
+Unimproved
+Limited
+Basic
+Safely managed
+=== PAGE 52 ===
+42
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 6.2  Access to Drinking Water
+Main source of drinking water, time to fetch water and access to water services by season and place of residence, SIHBS, 2022
+Characteristic
+Water source during rainy season
+Water source during dry season
+Rural
+Urban
+Nomadic
+Total
+Rural
+Urban
+Nomadic
+Total
+Improved water sources
+74.2
+82.0
+61.6
+77.7
+69.6
+80.8
+52.3
+74.7
+Piped water into dwelling
+35.7
+55.9
+2.0
+44.7
+34.1
+52.3
+0.7
+41.8
+Piped water to yard/plot
+3.4
+8.8
+0.1
+6.5
+3.4
+10.7
+0.1
+7.7
+Public tap/standpipe
+5.1
+4.7
+1.2
+4.4
+4.9
+5.7
+0.9
+5.0
+Tubewell/borehole
+14.1
+6.2
+36.9
+11.7
+13.6
+6.7
+33.6
+11.5
+Protected dug well
+8.2
+3.6
+9.0
+5.3
+9.7
+4.0
+10.7
+6.2
+Protected spring
+2.1
+0.2
+2.6
+1.0
+2.2
+0.3
+1.6
+0.9
+Rainwater collection
+5.5
+2.5
+9.8
+4.1
+1.7
+0.8
+4.7
+1.5
+Bottled waterb
+0.0
+0.4
+0.0
+0.3
+0.1
+0.5
+0.0
+0.3
+Unimproved water sources
+25.8
+18.0
+38.5
+22.3
+30.4
+19.2
+47.7
+25.3
+Unprotected spring
+0.4
+0.0
+0.7
+0.2
+0.4
+0.0
+0.3
+0.2
+Unprotected dug well
+4.8
+0.7
+6.0
+2.3
+7.4
+1.0
+10.4
+3.7
+Cart with small tank
+1.4
+2.1
+0.7
+1.8
+2.0
+2.2
+3.1
+2.2
+Tanker-truck
+8.1
+13.8
+13.9
+12.5
+10.9
+14.6
+20.8
+14.4
+Surface water
+1.1
+0.1
+3.3
+0.7
+0.6
+0.1
+1.4
+0.3
+Natural surface water
+8.4
+0.6
+9.8
+3.6
+7.9
+0.7
+8.0
+3.3
+Water catchment
+1.2
+0.1
+3.8
+0.8
+1.0
+0.1
+3.4
+0.7
+Other
+0.3
+0.5
+0.4
+0.4
+0.3
+0.5
+0.4
+0.4
+Total
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+Round-trip time to fetch drinking 
+water from source
+On premises
+65.3
+88.5
+30.2
+76.0
+60.7
+85.7
+27.3
+72.5
+Not more than 30 minutes
+26.3
+8.8
+36.1
+16.2
+28.6
+10.5
+35.2
+17.9
+More than 30 minutes
+8.4
+2.7
+33.7
+7.7
+10.7
+3.7
+37.5
+9.6
+Total
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+Drinking water services access 
+categoriesc
+Safely managed
+55.2
+74.3
+18.9
+63.2
+51.2
+71.9
+14.2
+60.1
+Basic 
+14.6
+6.6
+19.8
+10.1
+14.1
+7.2
+17.4
+10.1
+Limited
+4.4
+1.2
+22.8
+4.5
+4.3
+1.7
+20.8
+4.6
+Unimproved
+15.1
+17.2
+21.6
+17.2
+21.0
+18.5
+35.0
+21.0
+Surface water
+10.8
+0.7
+16.8
+5.0
+9.5
+0.8
+12.7
+4.3
+Total
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+b	
+Bottled water is considered an improved water source of drinking water if the secondary source of water for cooking and personal hygiene is improved, and an 
+unimproved source of drinking water otherwise.
+c	
+Water service access categories are defined by the UNICEF/WHO Joint Monitoring Programme : 
+Safely managed: Drinking water from an improved water source that is accessible on premises, available when needed and free from faecal and priority 
+chemical contamination. 
+Basic: Drinking water from an improved source, provided collection time is not more than 30 minutes for a roundtrip including queuing. 
+Limited: Drinking water from an improved source for which collection time exceeds 30 minutes for a roundtrip including queuing. 
+Unimproved:  Drinking water from an unprotected dug well or unprotected spring. 
+Surface water: Drinking water directly from a river, dam, lake, pond, stream, canal or irrigation canal.
+=== PAGE 53 ===
+43
+Somalia Integrated Household
+Budget Survey (SIHBS)
+6.5	 Toilet and Hand Washing 
+Facilities
+Table 6.4 below presents information about toilet 
+facilities used by Somalis. About six in ten people 
+use improved toilet facilities in Somalia (60.7 
+percent). This category includes facilities such as 
+the Pit latrine with slab (used 25.2 percent), flush to 
+pit latrine (20.4 percent) and flush to piped sewer 
+system (11.5 percent). Usage of improved toilet 
+facilities is common in urban areas (72.5 percent), 
+rare in nomadic areas (8.5 percent) and accounts 
+for about half of rural residents (54.7 percent).
+Among the 39.3 percent of people using 
+unimproved toilet facilities, slightly less than half 
+(16.8 percent) practice open defecation in the bush/
+field/no toilet, while a similar number of people 
+use an open pit latrine (19.5 percent). By place 
+of residence, 21.3 percent of urban dwellers use 
+open pit latrines, while rural residents use open 
+pit latrines and open defecation at (23.6 and 17.7 
+percent respectively). Finally, the wide majority 
+of nomadic residents (85.9 percent) do not have 
+access to a toilet facility and use open defecation.
+As shown in Table 6.5, 29.2 percent of households 
+share their toilet facilities with other households, 
+with slight variations across places of residence. 
+About 6 out of 10 households (61.1 percent)  that 
+share toilet facilities share them with 2 to 5 other 
+households, while a round a third (30.7 percent) 
+share them with only one other household, and 
+8.2 percent of households share facilities with 6 or 
+more other households.
+More than a quarter (48.1 percent) of households 
+report disposing of their youngest child’s stools into 
+a toilet or latrine. This method is most commonly 
+used by urban and rural households, with 57.9 
+percent and 48.0 percent prevalence respectively. 
+By contrast, a little under half of nomadic 
+households (49.7 percent) leave their youngest 
+Table 6.3  Mode of transport for water collection, by season and place of residence
+Mode of transport for water 
+collection
+Rainy season
+Dry season
+Rural
+Urban
+Nomadic
+Total
+Rural
+Urban
+Nomadic
+Total
+Motor vehicles
+11.2
+14.5
+19.7
+15.2
+11.8
+16.3
+24.5
+17.4
+Donkey
+29.1
+12.0
+29.2
+23.8
+30.8
+15.7
+30.9
+25.8
+Camel/Cattle
+0.3
+0.0
+20.5
+7.1
+0.3
+0.0
+19.1
+6.2
+Walking
+46.4
+63.6
+21.1
+43.1
+45.1
+59.5
+16.5
+40.7
+Wheelbarrow
+10.5
+5.0
+6.8
+7.5
+10.4
+4.6
+6.9
+7.4
+Other
+2.6
+4.8
+2.7
+3.3
+1.7
+3.9
+2.2
+2.6
+Total
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+Table 6.4  Toilet Facility used by the household.
+Percentage of main toilet facility used by the HH by type of residence
+Toilet facility
+Rural
+Urban
+Nomadic
+Total
+Improved toilet facility
+54.7
+72.5
+8.5
+60.7
+Flush to piped sewer
+6.0
+15.6
+0.1
+11.5
+Flush to septic tank/
+0.2
+1.9
+0.0
+1.3
+Flush to pit latrine
+17.8
+24.8
+2.0
+20.4
+Ventilated improved pit latrine
+2.1
+1.7
+1.4
+1.7
+Pit latrine with slab
+28.1
+27.9
+4.5
+25.2
+Composting toilet
+0.6
+0.6
+0.4
+0.6
+Unimproved toilet facility
+45.3
+27.5
+91.6
+39.3
+Flush to elsewhere
+2.2
+1.4
+3.3
+1.8
+Open pit latrine
+23.6
+21.3
+1.5
+19.5
+Bucket
+0.9
+0.6
+0.7
+0.7
+No toilet / bush / field
+17.7
+3.7
+85.9
+16.8
+Other
+0.0
+0.0
+0.2
+0.0
+Use neighbour’s
+0.9
+0.5
+0.0
+0.5
+Table 6.5  Households sharing toilet facility.
+Percentage of households sharing toilet facility and number of other 
+household’s toilet shared with households by place of residence, SIHBS, 2022
+ 
+Rural
+Urban
+Nomadic
+Total
+Percentage of households 
+sharing toilet
+26.5
+30.6
+14.5
+29.2
+Number of other 
+households sharing toilet
+1
+31.2
+30.8
+19.3
+30.7
+2-5
+61.6
+60.6
+80.7
+61.1
+6+
+7.2
+8.6
+0.0
+8.2
+Total
+100.0
+100.0
+100.0
+100.0
+=== PAGE 54 ===
+44
+The Federal Republic of Somalia
+National Bureau of Statistics
+child’s stool in the open (table 6.6).
+6.6	 Handwashing
+Figure 6.3 presents the different methods of 
+handwashing used by Somalis across places 
+of residence. Overall, around a third (32.2) of 
+population use soap and water to wash their hands. 
+Urban residents use soap and water the most 
+(39.8 percent), followed by rural residents (24.8 
+percent). Very few nomads use soap and water for 
+handwashing (6.0 percent).
+Table 6.6  Disposal of Youngest child stool
+Method of stool disposal for under five years old by place of residence, SIHBS, 
+2022, SIHBS, 2022
+Disposal methods
+Rural
+Urban
+Nomadic
+Total
+Child used toilet/latrine
+18.6
+18.1
+4.9
+16.5
+Put/rinsed into toilet or 
+latrine
+48.0
+57.9
+2.9
+48.1
+Put/rinsed into drain or 
+ditch
+5.3
+4.1
+0.2
+3.9
+Thrown into garbage
+16.0
+14.6
+21.9
+15.9
+Buried
+3.7
+3.4
+20.5
+5.7
+Left in the open
+8.3
+1.9
+49.7
+9.8
+Total 
+100.0
+100.0
+100.0
+100.0
+Figure 6.3  Proportion of population using handwashing facility with soap and water.
+24.8
+39.8
+6.0
+32.2
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+35.0
+40.0
+45.0
+Rural
+Urban
+Nomadic
+Total
+=== PAGE 55 ===
+45
+Somalia Integrated Household
+Budget Survey (SIHBS)
+=== PAGE 56 ===
+46
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER VII
+ECONOMIC ACTIVITY STATUS AND 
+AGRICULTURAL ACTIVITIES
+=== PAGE 57 ===
+47
+Somalia Integrated Household
+Budget Survey (SIHBS)
+KEY MESSAGES
+Youth unemployment rate is 30.1 percent. 
+The youth unemployment rate is higher 
+in urban areas (35.6 percent) than in rural 
+and nomadic areas (21.8 and 5.5 percent 
+respectively)
+About quarter (26.5 percent) of employed 
+population in Somalia is engaged in clerical 
+support work, and another quarter are 
+engaged in professional services (25.6 
+percent). 
+Only 23.3 percent of the total households 
+own and use land. Rural and urban 
+communities own and use their land more 
+than others (30.5 percent and 22.8 percent, 
+respectively). 
+The primary function for land utilization is 
+primarily residential (74.8 percent).
+=== PAGE 58 ===
+48
+The Federal Republic of Somalia
+National Bureau of Statistics
+7.	ECONOMIC ACTIVITY STATUS AND AGRICULTURAL 
+ACTIVITIES
+7.1	 Introduction 
+This chapter provides an overview of the main 
+economic activities of the Somali population 
+including employed persons by industry and 
+occupation, and unemployed persons by age group, 
+place of residence and sex. The main survey to 
+provide internationally comparable standards of 
+measures in this sector is the Labor Force Survey, 
+which is a more in-depth and rigorous measure of 
+these employment and unemployment indicators. 
+The discussion in this chapter also touches on 
+household ownership of land and land usage.
+7.2	 Working age Population. 
+Labor statistics presented below cover persons 
+15 years and above (adults). The results in Table 
+7.1 show that adult respondents were employed 
+at a rate of 21.7 percent, and the proportion was 
+larger for males (32.9 percent) than females (12.2 
+percent). 
+The labor force participation rate of 25.9 percent 
+indicates that just over a quarter of the working 
+age population was either working or seeking 
+employment. The male labor force participation rate 
+is 38.4 percent, higher than the female rate of 15.3 
+percent. 
+Table 7.1 shows that the share of labor force that 
+did not work – though available to work and actively 
+looking for it, called the unemployment rate, is 
+16.3 percent. The unemployment rate is higher 
+in urban areas (19.3 percent) than in rural and 
+nomadic areas (10.6 and 5.4 percent respectively). 
+The unemployment rates for males and females 
+are 14.3 and 20.6 respectively, while the youth 
+unemployment rate is 30.1 percent overall and 
+higher for females (32.0 percent) than males (29.0 
+percent).
+7.3	 Economic Activity Status and 
+Distribution
+Table 7.2 presents the distribution of the employed 
+population by gender and place of residence. About 
+a quarter (26.5 percent) of the employed population 
+in Somalia is engaged in clerical support work, 
+with another quarter in professional services (25.6 
+percent). Comparatively, a higher proportion of men 
+than women are engaged in professional activities. 
+A slightly larger proportion of females are employed 
+as Elementary Occupations at 16.0 percent. 
+There is a lower proportion of females engaged in 
+clerical support workers and as Skilled Agricultural, 
+Forestry and Fishery Workers. Professionals and 
+Clerical Support Workers are the most common 
+occupations across places of residence.
+Table 7.1  Employment statistics of working age population
+Background characteristics
+Employment 
+rate (%)
+Labor force 
+participation 
+rate (%) 
+Unemployment 
+rate (%)
+Youth 
+unemployment 
+rate (%)
+Place of residence
+Rural
+24.9
+27.8
+10.6
+21.8
+Urban
+22.1
+27.3
+19.3
+35.6
+Nomadic
+13.2
+14.0
+5.4
+5.5
+ Sex
+Female
+12.2
+15.3
+20.6
+32.0
+Male
+32.9
+38.4
+14.3
+29.0
+Total
+21.7
+25.9
+16.3
+30.1
+Note: all numbers are for population aged 15 and older, youth unemployment based on 15-24 years old.
+=== PAGE 59 ===
+49
+Somalia Integrated Household
+Budget Survey (SIHBS)
+7.4	 Distribution of Employed 
+Persons by Occupation 
+Customer service clerks is the most frequently 
+reported occupation of employed persons 
+(18.7 percent), with no difference between 
+the percentage of males and females working 
+as customer service clerks. The next most 
+common occupation is Business administration 
+professionals, which employs 10.1 percent of the 
+total employed population. 
+In nomadic areas, 10.4 percent of people are 
+employed in agriculture, and the proportion is 
+higher for females (18.9 percent) than males (7.1 
+percent). In urban areas, however, about one in 
+five employed people (20.9 percent) are Customer 
+Services Clerks, with only 0.6 percent employed as 
+Agricultural, Forestry and Fishery Laborers. Finally, 
+rural residents are most commonly employed 
+in Customer services clerks (14.5 percent) and 
+personal services workers jobs (10.7 percent). 
+Table 7.2  Employed population by major occupation.
+Percentage distribution of currently employed population aged 15 years and above and main occupation by place of residence and sex
+Occupation
+Rural
+Urban
+Nomadic
+Total
+Male
+Female
+ Total
+Male
+Female
+Total 
+Male
+Female
+ Total
+Male
+Female
+Total
+Managers
+12.2
+13.2
+12.5
+8.8
+11.7
+9.8
+15.3
+1.9
+11.7
+10.1
+11.6
+10.6
+Professionals
+21.9
+22.6
+22.1
+28.5
+26.6
+27.9
+13.7
+14.2
+13.8
+25.8
+25.0
+25.6
+Technicians 
+and Associate 
+Professionals
+7.7
+12.3
+8.9
+10.6
+10.8
+10.7
+3.5
+5.4
+4.0
+9.4
+10.9
+9.8
+Clerical Support 
+Workers
+26.3
+19.8
+24.5
+28.0
+27.1
+27.7
+17.5
+32.1
+21.4
+26.9
+25.7
+26.5
+Services and 
+Sales Workers
+10.9
+13.6
+11.6
+5.2
+4.9
+5.1
+11.9
+8.4
+11.0
+7.1
+7.1
+7.1
+Skilled 
+Agricultural, 
+Forestry and 
+Fishery Workers
+5.0
+4.5
+4.9
+1.1
+0.5
+0.9
+10.9
+3.0
+8.8
+2.8
+1.6
+2.4
+Craft and Related 
+Trades Workers
+1.4
+1.2
+1.3
+2.7
+2.0
+2.5
+0.0
+3.1
+0.8
+2.2
+1.9
+2.1
+Plant and Machine 
+Operators and 
+Assemblers
+1.2
+0.0
+0.9
+2.4
+0.2
+1.7
+0.0
+0.0
+0.0
+1.9
+0.2
+1.4
+Elementary 
+Occupations
+13.5
+12.7
+13.3
+12.6
+16.0
+13.7
+27.2
+31.9
+28.5
+13.7
+16.0
+14.4
+Total
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+=== PAGE 60 ===
+50
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 7.3  Percentage distribution of currently employed population aged 15 years and above and occupation by place of residence and sex
+Occupation
+Rural
+Urban
+Nomadic
+Total
+Male
+Female
+ Total
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female 
+Total
+Chief executives, 
+Senior Officials 
+and Legislators
+0.6
+0.0
+0.4
+0.5
+0.1
+0.4
+0.0
+0.0
+0.0
+0.5
+0.0
+0.4
+Administrative 
+and commercial 
+Managers
+1.4
+0.1
+1.1
+2.7
+1.6
+2.4
+0.5
+0.0
+0.3
+2.2
+1.2
+1.9
+Production and 
+specialized 
+services 
+managers
+4.4
+2.9
+3.9
+3.2
+4.5
+3.6
+10.7
+1.4
+8.1
+4.0
+4.0
+4.0
+Hospitality, 
+Retail and 
+Other Services 
+Managers
+5.5
+9.8
+6.7
+2.4
+6.0
+3.5
+4.1
+0.4
+3.1
+3.3
+6.6
+4.3
+Science and 
+Engineering 
+Professionals
+1.6
+0.0
+1.2
+2.4
+0.0
+1.6
+0.0
+0.0
+0.0
+2.0
+0.0
+1.4
+Health 
+Professionals
+1.1
+3.6
+1.8
+3.3
+4.4
+3.7
+1.3
+2.4
+1.6
+2.6
+4.1
+3.0
+Teaching 
+Professionals
+8.8
+3.2
+7.3
+9.9
+4.9
+8.3
+4.4
+0.5
+3.3
+9.3
+4.3
+7.7
+Business 
+administration 
+professionals
+6.5
+13.1
+8.3
+9.2
+14.3
+10.9
+6.8
+13.2
+8.6
+8.4
+14.0
+10.1
+Information and 
+communication 
+Technology 
+professionals
+0.3
+0.0
+0.3
+1.4
+0.8
+1.2
+0.1
+0.0
+0.1
+1.0
+0.6
+0.9
+Legal, Social 
+Cultural 
+Professionals
+4.1
+2.6
+3.7
+2.6
+2.1
+2.4
+0.9
+1.5
+1.1
+2.9
+2.2
+2.7
+Science and 
+Engineering 
+Associate 
+Professionals
+1.1
+0.8
+1.0
+1.8
+0.2
+1.3
+0.5
+0.0
+0.3
+1.5
+0.3
+1.2
+Health Associate 
+Professionals
+0.1
+2.0
+0.6
+1.0
+1.3
+1.1
+0.0
+0.0
+0.0
+0.7
+1.4
+0.9
+Business and 
+Administration 
+Associate 
+Professionals ­
+2.7
+4.6
+3.2
+4.2
+7.7
+5.3
+2.1
+5.0
+2.9
+3.7
+6.8
+4.6
+Legal, Social, 
+Cultural and 
+Related Associate 
+Professionals
+2.7
+3.9
+3.1
+1.9
+1.4
+1.7
+1.6
+1.5
+1.6
+2.1
+2.0
+2.1
+Information and 
+Communications 
+Technicians
+0.9
+0.6
+0.9
+1.5
+0.3
+1.1
+0.0
+0.0
+0.0
+1.3
+0.4
+1.0
+General and 
+Keyboard Clerks
+6.7
+5.5
+6.4
+4.9
+5.6
+5.1
+4.7
+1.4
+3.8
+5.4
+5.3
+5.4
+Customer 
+Services Clerks
+16.0
+10.5
+14.5
+21.3
+19.9
+20.9
+7.8
+24.1
+12.3
+19.1
+17.9
+18.7
+Numerical 
+and Material 
+Recording Clerks
+0.4
+0.3
+0.4
+0.1
+0.0
+0.1
+0.0
+1.0
+0.3
+0.2
+0.1
+0.2
+Other Clerical 
+Support Workers
+3.4
+3.9
+3.5
+2.3
+1.5
+2.1
+4.7
+3.7
+4.5
+2.8
+2.2
+2.6
+Personal Services 
+Workers
+10.4
+11.4
+10.7
+3.9
+4.2
+4.0
+11.9
+8.0
+10.8
+6.2
+6.1
+6.1
+=== PAGE 61 ===
+51
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 7.3  Percentage distribution of currently employed population aged 15 years and above and occupation by place of residence and sex
+Occupation
+Rural
+Urban
+Nomadic
+Total
+Male
+Female
+ Total
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female 
+Total
+Sales Workers
+0.0
+2.3
+0.6
+0.8
+0.6
+0.7
+0.0
+0.0
+0.0
+0.5
+0.9
+0.6
+Personal Care 
+Workers
+0.2
+0.0
+0.2
+0.2
+0.0
+0.1
+0.0
+0.0
+0.0
+0.2
+0.0
+0.1
+Protective 
+Services Workers
+0.2
+0.0
+0.1
+0.1
+0.1
+0.1
+0.0
+0.0
+0.0
+0.1
+0.1
+0.1
+Market-
+oriented Skilled 
+Agricultural 
+Workers
+1.4
+1.1
+1.3
+0.3
+0.2
+0.3
+3.0
+0.0
+2.1
+0.7
+0.4
+0.6
+Market-oriented 
+Skilled Forestry, 
+Fishery and 
+Hunting Workers
+0.4
+0.2
+0.3
+0.2
+0.1
+0.2
+5.2
+0.0
+3.7
+0.6
+0.1
+0.4
+Subsistence 
+Farmers, Fishers, 
+Hunters and 
+Gatherers
+3.2
+3.2
+3.2
+0.6
+0.1
+0.4
+2.6
+2.9
+2.7
+1.4
+1.0
+1.3
+Building and 
+Related Trades 
+Workers 
+(excluding 
+Electricians)
+0.8
+0.3
+0.7
+1.0
+0.4
+0.8
+0.0
+0.0
+0.0
+0.9
+0.4
+0.7
+Metal, Machinery 
+and Related 
+Trades Workers
+0.4
+0.0
+0.3
+0.4
+0.2
+0.3
+0.0
+2.9
+0.8
+0.4
+0.3
+0.3
+Handicraft and 
+Printing Workers
+0.0
+0.0
+0.0
+0.1
+0.0
+0.1
+0.0
+0.0
+0.0
+0.1
+0.0
+0.0
+Electrical and 
+Electronic Trades 
+Workers
+0.0
+0.0
+0.0
+0.6
+0.0
+0.4
+0.0
+0.0
+0.0
+0.4
+0.0
+0.3
+Food Processing, 
+Woodworking, 
+Garment and 
+Other Craft and 
+Related Trades 
+Workers
+0.1
+1.6
+0.5
+0.6
+1.3
+0.8
+0.0
+0.0
+0.0
+0.4
+1.3
+0.7
+Stationary Plant 
+and Machine 
+Operators
+0.0
+0.0
+0.0
+0.1
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+Drivers and 
+Mobile Plant 
+Operators
+1.3
+0.0
+0.9
+2.3
+0.2
+1.6
+0.0
+0.0
+0.0
+1.9
+0.2
+1.4
+Cleaners and 
+Helpers
+0.0
+2.4
+0.7
+1.0
+6.6
+2.8
+0.0
+0.0
+0.0
+0.7
+5.2
+2.1
+Agricultural, 
+Forestry and 
+Fishery Laborers
+5.0
+3.1
+4.5
+0.8
+0.3
+0.6
+7.1
+18.9
+10.4
+2.3
+1.9
+2.2
+Laborers 
+in Mining, 
+Construction, 
+Manufacturing 
+and Transport
+4.6
+0.0
+3.3
+4.6
+1.2
+3.5
+9.6
+0.0
+7.0
+4.9
+0.8
+3.7
+Food Preparation 
+Assistants
+0.0
+3.4
+0.9
+0.2
+0.4
+0.2
+0.2
+0.0
+0.1
+0.1
+1.1
+0.4
+Street and 
+Related Sales and 
+Services Workers
+0.0
+0.6
+0.2
+0.4
+1.2
+0.6
+1.3
+0.0
+0.9
+0.3
+1.0
+0.5
+=== PAGE 62 ===
+52
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 7.3  Percentage distribution of currently employed population aged 15 years and above and occupation by place of residence and sex
+Occupation
+Rural
+Urban
+Nomadic
+Total
+Male
+Female
+ Total
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female 
+Total
+Refuse Workers 
+and Others 
+Elementary 
+Workers
+0.0
+0.0
+0.0
+0.1
+0.3
+0.1
+0.0
+0.0
+0.0
+0.0
+0.2
+0.1
+Other Service/
+support activities 
+(Drivers, shop 
+keepers, casual 
+workers etc.)
+3.3
+3.2
+3.3
+5.4
+5.9
+5.6
+8.8
+11.2
+9.5
+5.0
+5.5
+5.2
+Total
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+7.5	 Household owning and using 
+land.
+Figure 7.1 below shows households that own land. 
+Overall, 23.3 percent of households own and use 
+land. The proportion of land-owning households 
+is higher among rural and urban households (30.5 
+percent and 22.8 percent respectively) than for 
+nomadic households (11.0 percent).
+Most land parcels are used for residential 
+purposes (74.8 percent) and, to a lesser extent, for 
+agricultural purposes (20.9 percent). Only 2.4 and 
+3.5 percent of parcels are used for pastoral and 
+business/commercial uses respectively.  Urban and 
+rural households use most of their land parcels for 
+residential purposes (79.6 percent and 70.3 percent 
+respectively), whereas nomadic households use 
+more of their land for agricultural purposes (40.0 
+percent). (Table 7.4).  
+Table 7.5 below presents the gender of landowners 
+in Somalia by type of residence for residential and 
+agricultural land in Somalia, as well as the number 
+of persons owning each parcel. Land parcels are 
+typically owned by a single person across use 
+types, at 87.4 percent for residential land and 83.2 
+percent for agricultural land. While 9.1 percent of 
+parcels used for residential purposes and 12.3 of 
+parcels used for agricultural purposes are owned by 
+2 people, only 3.5 and 4.5 percent respectively are 
+owned by more than 2 people.
+Land owned by one person is mostly owned by 
+men, with the gender gap being more pronounced 
+for agricultural land (71.0 percent of male among 
+single owners) compared to residential land (61.7 
+percent of male among single owners).
+Figure 7.1  Proportion of households own land.
+30.5
+22.8
+11.0
+23.3
+Rural
+Urban
+Nomadic
+Total
+=== PAGE 63 ===
+53
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 7.4  Land utilization
+Percentage of current land usage according to background characteristics
+Background characteristics
+Residential
+Agricultural
+Pastoral
+Business/ 
+Commercial
+Place residence
+Rural
+70.3
+29.2
+2.0
+1.9
+Urban
+79.6
+13.5
+2.4
+4.7
+Nomadic
+57.1
+40.0
+4.7
+0.8
+Total
+74.8
+20.9
+2.4
+3.5
+Table 7.5  Land ownership and use right status
+Residential land
+Rural
+Urban
+Nomadic
+Total
+Average number of persons who own a parcel
+1 person
+89.2
+85.8
+95.4
+87.4
+2 persons
+9.1
+9.6
+2.7
+9.1
+3-12 persons
+1.7
+4.6
+1.9
+3.5
+Sex of single owners:
+Male
+62.7
+60.3
+72.2
+61.7
+Female
+37.3
+39.7
+27.8
+38.3
+Sex of share of multiple owners:
+Male
+50.0
+47.5
+54.8
+48.4
+Female
+50.0
+52.5
+45.2
+51.6
+Agricultural land
+Average number persons who own a 
+parcel:
+1 person
+82.6
+83.8
+83.5
+83.2
+2 persons
+12.8
+10.8
+14.9
+12.3
+3-12 persons
+4.6
+5.4
+1.7
+4.5
+Sex of single owners:
+Male
+75.1
+64.8
+72.9
+71.0
+Female
+25.0
+35.2
+27.1
+29.0
+Sex of multiple owners:
+Male
+52.9
+57.4
+44.3
+53.5
+Female
+47.1
+42.6
+55.7
+46.5
+=== PAGE 64 ===
+54
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER VIII
+HOUSEHOLD NON-AGRICULTURAL 
+BUSINESS AND INDIVIDUAL INCOME
+=== PAGE 65 ===
+55
+Somalia Integrated Household
+Budget Survey (SIHBS)
+KEY MESSAGES
+Only 15.8 percent of households have run a 
+business on their own in the last 12 months. 
+The rate of owning a household business is 
+higher among urban (18.0 percent) and rural 
+(16.9 percent) households than nomadic 
+ones (3.2 percent).  
+Generally, there are more female business 
+owners than males. The total ratio stands at 
+56.7 percent to 35.4 percent for sole owners, 
+while 7.9 percent of businesses are owned 
+by both genders.
+At the national level, the most common 
+types of household businesses are trading 
+business on a street or in a market (37.2 
+percent), and shops, such as a carwash 
+owner, metal worker, mechanic, carpenter, 
+tailor, barber, etc. (23.4percent).
+Household business registration stands 
+at 34.7 percent. at 16.5 and 6.6 percent 
+of businesses registered respectively. 
+However, household businesses are 
+markedly more likely to be registered in 
+urban areas, at 43.3 percent.
+Females have a higher decision-making role 
+on the use of business earnings compared 
+to males, with the ratio standing at  of 54.9 
+to 32.1 percent.
+=== PAGE 66 ===
+56
+The Federal Republic of Somalia
+National Bureau of Statistics
+8.	HOUSEHOLD NON-AGRICULTURAL BUSINESS AND 
+INDIVIDUAL INCOME
+8.1	 Introduction 
+This chapter presents information about non-
+agricultural businesses and individual income to 
+measure the income derived from their business 
+activities. Information is also given on ownership 
+of household business by type of premises 
+where they operate, ownership status, household 
+business employee types, business revenue and 
+profits, and household involvement in business by 
+sex.
+8.2	 Ownership of Households 
+Business
+Only 15.8 percent of households have run a 
+business on their own in the last 12 months (Figure 
+8.1). The rate of owning a household business 
+is higher among urban (18.0 percent) and rural 
+(16.9 percent) households than nomadic ones (3.2 
+percent).
+8.3	 Share of household business 
+types by place of residence
+Table 8.1 shows the types of household businesses 
+operated in the 12 months preceding the survey. 
+At the national level, the most common types of 
+household businesses are trading business on 
+a street or in a market (37.2percent), and shops, 
+such as a carwash owner, metal worker, mechanic, 
+carpenter, tailor, barber, etc. (23.4 percent).)
+8.4	 Household business types by 
+Sex
+Generally, there are more female business owners 
+than males. The total ratio stands at 56.7 percent to 
+35.4 percent for sole owners, while 7.9 percent of 
+businesses are owned by both genders (Figure 8.2). 
+Higher rates of female ownership are found in both 
+urban and rural areas, but almost equal in nomadic 
+areas at 44.1 percent for males and 44.2 percent 
+females.
+8.5	 Decision on earning and 
+management of Household 
+Business. 
+Ownership of the business appears to come with 
+decision-making power on the use of earnings 
+and business management, as all three variables 
+show similar distributions by gender. Females 
+have a higher decision-making role on the use of 
+business earnings compared to males, with the 
+ratio standing at  of 54.9 to 32.1 percent. Females’ 
+decision-making power is even more notable on 
+management of the business with a ratio of 56.6 to 
+35.4 percent. As with ownership, the national trend 
+of higher rate of female decision-making is found 
+Figure 8.1  Percentage of the households running their own business in the 
+past 12 months.
+Figure 8.2  Sex of household business owners by place of residence
+16.9
+18.0
+3.2
+15.8
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+14.0
+16.0
+18.0
+20.0
+Rural
+Urban
+Nomadic
+Total
+31.7
+36.5
+44.1
+35.4
+58.2
+56.5
+44.2
+56.7
+10.0
+7.0
+11.8
+7.9
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Rural
+Urban
+Nomadic
+Total
+Male
+Female
+Both
+=== PAGE 67 ===
+57
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 8.1  Share of household business types by place of residence
+Type of business
+Rural
+Urban
+Nomadic
+Total
+Shops, such as a car wash owner, metal worker, 
+mechanic, carpenter, tailor, barber, etc.
+24.5
+23.4
+11.6
+23.4
+Processed any purchased crops or livestock products for 
+sale
+1.3
+3.1
+13.1
+2.9
+Owned a trading business on a street or in a market
+41.5
+36.1
+20.7
+37.2
+Offered any service or hawking or sold anything on a 
+street or in a market
+1.4
+3.4
+27.2
+3.4
+Owned a professional office or offered professional 
+services as a doctor, accountant, lawyer etc.
+3.5
+1.9
+0.2
+2.3
+Driven a household-owned or rented taxi, motorbike, 
+Bajaj, pick-up truck
+5.0
+8.7
+0.0
+7.4
+Owned a cafe, restaurant or food stand
+12.7
+5.4
+19.5
+7.8
+Not elsewhere classified
+10.2
+18.1
+7.7
+15.6
+Total
+100.0
+100.0
+100.0
+100.0
+Table 8.2: Ownership and decision making of earnings and management of household business
+Decision 
+Rural
+Urban
+Nomadic
+Total
+Business ownership
+Male
+31.7
+36.5
+44.1
+35.4
+Female
+58.2
+56.5
+44.2
+56.7
+Both
+10.0
+7.0
+11.8
+7.9
+Decision on use of earnings 
+Male
+27.7
+33.1
+55.6
+32.1
+Female
+55.8
+54.9
+44.2
+54.9
+Both
+16.5
+12.0
+0.2
+13.0
+Management decision makers
+Male
+32.6
+35.8
+55.6
+35.4
+Female
+57.0
+56.8
+44.4
+56.6
+Both
+10.4
+7.4
+0.0
+8.1
+Total
+100.0
+100.0
+100.0
+100.0
+=== PAGE 68 ===
+58
+The Federal Republic of Somalia
+National Bureau of Statistics
+in urban (56.5 percent) and rural (58.2 percent) 
+compared with nomadic at (44.2 percent) (Table 
+8.2).
+8.6	 Household Business 
+Registration 
+The Federal Government of Somalia requires any 
+business of any size to obtain a business license/
+registration prior to operation, a process which 
+aims to ensure a proposed business adheres 
+to the country’s laws and regulations, including 
+the payment of taxes. Table 8.3 shows that 34.7 
+percent of businesses in Somalia are registered. 
+There are marginal differences between rural 
+and nomadic areas with respect to business 
+registration, at 16.5 and 6.6 percent of businesses 
+registered respectively. However, household 
+businesses are markedly more likely to be 
+registered in urban areas, at 43.3 percent. 
+8.7	 Household Business Employee 
+Types 
+At the national level, about 57.2 percent of 
+household businesses are run by one person, 24.4 
+percent are operated by two people, 7.2 percent are 
+run by three people, and 11.2 percent of household 
+businesses are run by three people or more. (Figure 
+8.4)9. Household businesses are much likelier 
+to employ 2 people in rural areas (36.8 percent) 
+compared to urban areas.
+9	
+ The nomadic result is not shown due to the small sample size. 
+Table 8.3  Age, intensity and registration of household business
+Rural
+Urban
+Nomadic
+Total
+Years since opened
+4.6
+4.7
+3.9
+4.6
+Months operated in the last year
+11.5
+11.3
+12
+11.3
+Registered (%)
+16.5
+43.3
+6.6
+34.7
+Figure 8.4  Household business employees including household members.
+50.7
+60.1
+57.2
+36.8
+19.9
+24.4
+8.0
+7.2
+7.2
+4.5
+12.8
+11.2
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Rural
+Urban
+Total
+1 employee
+2 employees
+3 employees
+4+ employees
+=== PAGE 69 ===
+59
+Somalia Integrated Household
+Budget Survey (SIHBS)
+=== PAGE 70 ===
+60
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER IX
+FOOD SECURITY AND SHOCKS
+=== PAGE 71 ===
+61
+Somalia Integrated Household
+Budget Survey (SIHBS)
+KEY MESSAGES
+Over half of households (52.2 percent) were 
+unable to afford healthy and nutritious 
+food in the month preceding the survey. 
+Over a third of households (34.9 percent) 
+experienced going hungry, and more than a 
+quarter (27.1 percent) went without eating 
+for a whole day at least once.
+The prevalence of “moderate or severe” 
+food insecurity according to the Food 
+Insecurity Experience Scale (FIES) is 44.3 
+percent in the overall population and 
+62.9 percent in the nomadic population. 
+Furthermore, 39.8 percent of nomads face 
+“severe” food insecurity, compared with 
+23.0 and 21.8 percent of the urban and rural 
+population respectively.
+The three top types of shocks most 
+reported by households over the 24 months 
+preceding the survey are large rises in food 
+prices (53.3 percent), drought or severe 
+water shortage (47.3 percent), and the 
+death of livestock (14.6 percent).
+As a result of these shocks, almost half 
+of affected households have lost income 
+(44.8 percent), 1 in 10 (10.9 percent) have 
+incurred a loss of assets and a third (33.2 
+percent) have lost both income and assets. 
+Affected urban and rural households are 
+likely to have incurred losses in income 
+at (41.9 percent urban, 47.2 percent rural), 
+while the majority of affected nomadic 
+households have incurred losses in both 
+income and assets (53.7 percent) (Figure 
+9.3).
+The most common response to shocks 
+was prayer, adopted by 37.4 percent of 
+affected households, followed by spending 
+cash savings (21.0 percent), doing nothing 
+(15.7 percent), reducing food consumption 
+(12.5 percent), receiving help from family/
+friends (8.6 percent), and reducing non-food 
+expenditures (6.1 percent).
+=== PAGE 72 ===
+62
+The Federal Republic of Somalia
+National Bureau of Statistics
+9.	FOOD SECURITY AND SHOCKS 
+9.1	 Introduction 
+This chapter presents information about 
+experiences of food insecurity, prevalence of 
+moderate and severe food insecurity according 
+to the Food Insecurity Experience Scale (FIES), 
+exposure to various types of shocks, losses 
+to income and assets from those shocks and 
+responses adopted to cope with shocks.
+Being food secure is a state when all people in a 
+household or in a community, at all times, have 
+physical and economic access to sufficient, safe 
+and nutritious food to meet their dietary needs and 
+food preferences for a healthy and productive life. 
+In Somalia, households are frequently exposed to 
+shocks disrupting their social and economic life, and 
+for many of them resulting in displacement. These 
+shocks include natural catastrophes, economic 
+changes as well as conflict and violence.
+9.2	 Food insecurity experience 
+answers
+Table 9.1 below presents answers to questions 
+about different forms of food insecurity experienced 
+in the month preceding the survey. Over half of 
+households (52.2 percent) were unable to afford 
+healthy and nutritious food, 47.7 percent were 
+worried that they would not have enough food to 
+eat, and 43.5 percent ate less than they thought 
+they should. Over a third of households (34.9 
+percent) experienced going hungry, 37.8 percent ran 
+out of food, and more than a quarter (27.1 percent) 
+went without eating for a whole day at least once.
+Experiences of food insecurity are least prevalent 
+among urban households, and most prevalent 
+among nomadic households. For instance, 63.3 
+percent of nomadic households were worried they 
+would not have enough to eat over the month 
+preceding the survey, compared with 48.2 of rural 
+households and 44.3 of urban households. The 
+most severe forms of food insecurity experienced 
+also show notable differences across places 
+of residence, with  45.6 percent of nomadic 
+households having gone at least one whole day 
+without eating, compared with 24.8 and 24.2 
+percent of rural and urban households respectively.
+9.3	 Food insecurity experience 
+scale
+The set of eight questions in table 9.1 is part of a 
+methodology developed by FAO used to identify 
+households facing difficulties in accessing food 
+and summarized in an indicator called the Food 
+Insecurity Experience Scale (FIES). The different 
+experiences of food insecurity which respondents 
+are asked about are combined into a single score 
+at the population level, allowing for comparisons 
+across countries. The FIES has been selected as an 
+indicator (2.1.2) for target 2.1 of the SDGs.10 
+In the FIES, respondents can be placed in the 
+“moderate” or “severe” food insecurity category. 
+According to the FAO: “People experiencing 
+moderate levels of food insecurity will typically eat 
+low quality diets and might have been forced, at 
+times during the year, to also reduce the quantity 
+of food they would normally eat, while those 
+experiencing severe levels would have gone for 
+entire days without eating, due to lack of money or 
+other resources to obtain food.”
+Food insecurity is a concern in Somalia, as shown 
+10	
+ “By 2030, end hunger and ensure access by all people, in par-
+ticular the poor and people in vulnerable situations, including 
+infants, to safe, nutritious and sufficient food all year round.”
+Table 9.1  Food security situation during the month preceding the survey
+Food insecurity experience
+Rural
+Urban
+Nomadic
+Total
+Worried you would not have enough food to eat
+48.2
+44.3
+63.3
+47.7
+Unable to eat healthy and nutritious food
+52.1
+47.7
+73.7
+52.2
+Ate only a few kinds of food
+48.7
+44.2
+66.8
+48.3
+Had to skip a meal
+42.8
+38.6
+62.2
+42.7
+Ate less than you thought you should
+41.6
+40.3
+62.3
+43.5
+Ran out of food
+36.1
+34.8
+55.8
+37.8
+Hungry but did not eat
+34.0
+31.7
+52.3
+34.9
+Went without eating for a whole day
+24.8
+24.2
+45.6
+27.1
+=== PAGE 73 ===
+63
+Somalia Integrated Household
+Budget Survey (SIHBS)
+in Figure 9.1 below showing the proportion of 
+the Somali population facing food insecurity by 
+place of residence. The prevalence of “moderate 
+or severe” food insecurity is 44.3 percent in the 
+overall population and 62.9 percent in the nomadic 
+population. Furthermore, 39.8 percent of nomads 
+face “severe” food insecurity, compared with 23.0 
+and 21.8 percent of the urban and rural population 
+respectively.
+9.4	 Shocks Causes
+Table 9.2 presents the shocks encountered by 
+Somali households over the 24 months preceding 
+the survey. The three top types of shocks most 
+reported by households are large rises in food 
+prices (53.3 percent), drought or severe water 
+shortage (47.3 percent), and the death of livestock 
+(14.6 percent). 
+By place of residence, nomadic households are 
+by far the most likely to be affected by drought/
+severe water shortages (87.2 percent) and livestock 
+deaths (51.2 percent), followed by rural households 
+(52.6 percent and 18.9 percent respectively). Urban 
+households are much less affected by these shocks 
+(36.6 percent and 5.0 percent respectively). 
+As could be expected, rural households are 
+comparatively more affected by agricultural shocks 
+than others, notably large fall in sale prices for 
+crops (3.0 percent compared to 2.0 and 0.6 percent 
+of urban and nomadic households respectively); 
+and crop disease or crop pests (3.4 percent of rural 
+compared to 1.7 and 2.1 percent).
+As a result of these shocks, almost half of affected 
+households have lost income (44.8 percent), over 1 
+in 10 (10.9 percent) have incurred a loss of assets 
+and a third (33.2 percent) have lost both income 
+and assets. Affected urban and rural households 
+are likely to have incurred losses in income only 
+(41.9 percent urban, 47.2 percent rural), while the 
+majority of affected nomadic households have 
+incurred losses in both income and assets (45.6 
+percent) (Figure 9.2).
+Table 9.3 below presents the most common 
+responses to the shocks adopted by affected 
+households by place of residence. The most 
+common response was prayer, adopted by 37.4 
+percent of affected households, followed by 
+spending cash savings (21.0 percent), doing nothing 
+(15.7 percent), reducing food consumption (12.5 
+percent), receiving help from family/friends (8.6 
+percent), and reducing non-food expenditures (6.1 
+percent).
+Urban households responded relatively more by 
+spending cash savings (23.0 percent compared 
+to 21.4 and 13.7 percent of rural and nomadic 
+households respectively). 
+Rural households receiving more support from 
+international organizations (5.3 percent compared 
+to 2.5 and 3.6 percent of urban and nomadic 
+households respectively)). Finally, nomadic 
+households were relatively more prone to prayer 
+(43.6 percent compared to 41.7 and 33.6 percent 
+of rural and urban households respectively), doing 
+nothing (18.0 percent compared to 15.3 and 15.2 
+percent), and selling livestock or poultry (11.2 
+percent compared to rural 4.0 percent.
+d	
+“Other natural shocks” include fires, storm, floods, and crops pest or disease. 
+“Health shocks” include deaths, chronic/severe illnesses, and accidents affecting household members. 
+“Security shocks” includes conflict, robbery/burglary/assault/sexual assault/carjacking, and livestock theft. 
+“Economic shocks” includes business failures, end of regular aid/remittances/assistance, loss of salaried employment or non-payment of 
+salary, large increases in agricultural input prices, and large falls in crop sales prices. 
+“Other shocks” include births, divorces/separations, evictions, household members jailed/arrested, and dwellings damaged/destroyed.
+Figure 9.1  Food insecurity experience scale (FIES) by place of 
+residence
+43.7
+40.5
+62.9
+44.3
+21.8
+23.0
+39.8
+24.4
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
+Rural
+Urban
+Nomadic
+Total
+Moderate or severe(% individuals)
+Severe (%individuals)
+=== PAGE 74 ===
+64
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 9.2  Shocks
+Shocks experienced by households by place of residence, SIHBS 2022
+Shock type
+Rural
+Urban
+Nomadic
+Total
+Large rise in price for food
+52.4
+53.6
+53.7
+53.3
+Drought or severe water shortage
+52.6
+36.6
+87.2
+47.3
+Livestock died
+18.9
+5.0
+51.2
+14.6
+Floods
+4.3
+3.3
+2.3
+3.4
+Birth in the household
+2.1
+3.7
+1.6
+3.0
+Conflict
+2.0
+3.1
+3.1
+2.8
+Death of other family member 
+1.2
+3.3
+0.6
+2.4
+Crop disease or crop pests
+3.4
+1.7
+2.1
+2.2
+Chronic/severe illness or accident of household 
+member
+1.5
+2.6
+1.5
+2.1
+Large fall in sale prices for crops 
+3.0
+2.0
+0.6
+2.1
+Large increase in agric. input prices 
+1.4
+2.3
+0.9
+1.9
+Loss of salaried employment or non-payment of 
+salary 
+1.3
+2.3
+0.3
+1.8
+End of regular assistance, aid or remittances from 
+outside household
+2.8
+1.3
+1.4
+1.7
+Death of household head 
+1.2
+1.8
+0.9
+1.5
+Household business failure (non-agric.)  
+1.0
+1.7
+0.7
+1.4
+Break-up of the household/ divorce
+0.7
+1.7
+0.6
+1.3
+Livestock were stolen
+1.2
+1.1
+2.0
+1.2
+Robbery/ burglary/ assault/ sexual assault/ 
+carjacking
+0.0
+1.5
+0.0
+0.9
+Dwelling damaged/ destroyed
+0.6
+1.1
+0.6
+0.9
+Death of working  member of household 
+0.7
+0.6
+0.4
+0.6
+Evicted
+0.1
+0.7
+0.1
+0.5
+Jailed/arrested
+0.5
+0.5
+0.0
+0.4
+Fire/storm
+0.2
+0.4
+0.3
+0.3
+Figure 9.3  Loss of household income or asset because of shock
+47.2
+41.9
+53.7
+44.8
+11.8
+9.3
+16.8
+10.9
+30.2
+31.8
+45.6
+33.2
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+Rural
+Urban
+Nomadic
+Total
+Income loss
+asset
+Loss of both
+=== PAGE 75 ===
+65
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 9.3  Response to the shock
+Household response to shocks
+Rural
+Urban
+Nomadic
+Total
+Prayer
+41.7
+33.6
+43.6
+37.4
+Spent cash savings
+21.4
+23.0
+13.7
+21.0
+Did nothing
+15.3
+15.2
+18.0
+15.7
+Reduced food consumption
+11.9
+13.9
+8.6
+12.5
+Received help from family/friends
+10.5
+8.8
+5.2
+8.6
+Reduced non-food expenditures
+5.8
+6.2
+6.3
+6.1
+Borrowed money from relatives
+4.2
+7.2
+4.2
+5.9
+Consumed lower cost but less preferred foods.
+2.9
+5.4
+2.5
+4.2
+Received help from international organizations
+5.3
+2.5
+3.6
+3.4
+Sold livestock or poultry
+4.0
+0.8
+11.2
+3.4
+Worked more or longer hours
+1.8
+4.5
+1.6
+3.3
+Sent children to live with relatives
+1.8
+2.5
+1.4
+2.1
+Started a new business
+1.1
+0.8
+2.3
+1.1
+Received help from local NGO
+0.9
+1.3
+0.1
+1.0
+Borrowed money from money lender
+0.8
+1.0
+1.1
+1.0
+Received help from government
+0.4
+1.2
+0.1
+0.8
+Received help from religious institutions 
+0.6
+1.1
+0.0
+0.8
+Household members who were not working went to work 
+0.8
+0.7
+0.7
+0.7
+Sold assets (tools, furniture, car etc.)
+0.4
+1.0
+0.0
+0.7
+Sold farm land
+0.8
+0.6
+0.3
+0.6
+Went elsewhere for more than a month to find work
+1.4
+0.3
+0.4
+0.6
+Removed children from school to work
+0.6
+0.6
+0.1
+0.5
+Sold more crops
+0.1
+0.7
+0.0
+0.4
+Rented out farmland 
+0.4
+0.3
+0.2
+0.3
+Borrowed money from institutions e.g. a bank
+0.2
+0.1
+0.4
+0.2
+=== PAGE 76 ===
+66
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER X
+CREDIT, INCOME, FINANCIAL 
+SERVICES AND ICT
+=== PAGE 77 ===
+67
+Somalia Integrated Household
+Budget Survey (SIHBS)
+KEY MESSAGES
+The Sources of unearned income for Somali 
+households come from aid in cash (21.3 
+percent) and aid in kind (14.4 percent). 
+Urban households tend to rely on cash and 
+in-kind donations less than others.
+Borrowing from a trader/merchant is the 
+most common in Somalia reported by 82.9 
+percent of the households. Borrowing 
+from a relative/friend/neighbor is second 
+most common cited by 17.5 percent of the 
+households. Borrowing from a commercial 
+bank is only cited by 2.0 percent of the 
+households and from an employer by 1.7 
+percent. Urban households have more 
+diverse loan options compared to other 
+places of residence.
+One in five households (20.7 percent) 
+received remittances from someone living 
+outside the household. About quarter of 
+rural and urban residents (22.2 percent) 
+received remittances, compared to 10.8 
+percent among nomadic households.
+Remittances are commonly transferred 
+through hawala (55.4 percent) and mobile 
+money (41.5 percent). Hawala is adopted 
+more in urban areas and mobile money is 
+used more in nomadic households, while 
+rural households rely on both.
+Nearly three-thirds (85.0 percent) of the 
+population aged 15+ own a mobile phone. 
+Mobile phone ownership records minor 
+differences by place of residence; but 
+marks a difference between respondents 
+with higher education (96.2 percent) 
+compared with no formal education (84.0 
+percent).
+Usage of financial transactions amongst 
+mobile phone owners stands high at 81.8 
+percent. 
+Nearly a quarter of the population aged 
+10+ (27.6 percent) accessed the internet 
+in the last three months. Use of internet is 
+predictably higher among urban residents 
+in the last three months, at 34.9 percent 
+compared with 19.6 percent among the rural 
+ones. 
+The mobile phone is the primary location 
+from which the internet is accessed, and 
+the home is the second preferred location 
+with a wide percentage gap between 
+the two (89.6 percent compared with 8.9 
+percent)
+Only 8.8 percent of the population aged 
+15+ owns a bank account. A significant 
+difference is present by level of education: 
+27.6 percent for higher education compared 
+with 6.0 percent for no formal education
+=== PAGE 78 ===
+68
+The Federal Republic of Somalia
+National Bureau of Statistics
+10.	 CREDIT, INCOME, FINANCIAL SERVICES AND ICT
+10.1	Introduction 
+This Chapter presents data on access to and 
+sources of credit, income, financial services and 
+ICT. Household income is the aggregate earnings of 
+all household members. It includes income arising 
+from rent, pension financial investment, aid in cash 
+and aid in kind.
+10.2	Income Source and Usage 
+Decisions
+Over the 12 months preceding the survey, 21.3 and 
+14.4 percent of households received income from 
+aid in cash and in kind, respectively.  Investment 
+is a source of unearned income for 1.1 percent 
+of urban and 0.8 percent of rural households. 
+Households in urban areas also collect income 
+from rental of property (2.2 percent) and pension 
+payments (0.3 percent) (Table 10.1).
+10.3	Loan Sources and Distribution
+Among borrowers, 82.9 percent of households have 
+loans borrowed from a trader / merchant
+and 17.5 percent borrowed from a relative/friend/
+neighbor over the past 12 months. By residence, 
+urban households have a more diverse loan sources 
+compared to others: 76.8 percent borrowed from a 
+trader/merchant, 20.1 percent from relative/friend/
+neighbor, 3.9 percent from commercial banks, 2.5 
+percent from employer and 1 percent or less from 
+either Hawala or NGO (Table 10.2).
+10.4	Remittances Distribution
+Nearly one in five households (20.7 percent) 
+received remittances from someone living outside 
+the household, within Somalia or abroad Over the 
+12 months preceding the survey (Figure 10.1). 
+By place of residence, about a quarter of urban 
+residents and rural residents (22.2 percent and 21.7 
+percent respectively) rely on remittances, compared 
+to 10.8 percent among nomadic households (Figure 
+10.1).
+Remittances are commonly transferred through 
+hawala (55.4 percent) and mobile money (41.5 
+percent) methods.  By place of residence (Table 
+10.3), urban areas adopt Hawala transfers (62.0 
+percent) more than others, while mobile money 
+methods are more used among nomadic (72.3 
+percent) households. Rural households rely on both 
+Hawala and mobile money.
+Table 10.1  Sources of unearned income
+ 
+Investment 
+Income
+Rental of 
+property
+Pension 
+payment
+Aid in 
+cash
+Aid in 
+Kind
+Place of 
+residence
+Rural
+0.8
+0.7
+0.2
+29.6
+16.9
+Urban
+1.1
+2.2
+0.3
+16.5
+12.8
+Nomadic
+1.3
+0.6
+27.7
+16.8
+Total 
+1.0
+1.6
+0.2
+21.3
+14.4
+Table 10.2  Household sources of borrowing
+Percentage of households borrowed in the last 12 months and source of the 
+loan by place of residence, SIHBS 2022
+ 
+Rural
+Urban
+Nomadic
+Total
+Percentage 
+31.3
+19.3
+53.3
+26.8
+Source of loan
+ 
+ 
+ 
+ 
+Commercial bank
+1.0
+3.9
+0.0
+2.0
+Hawala
+0.2
+1.1
+0.2
+0.6
+NGO
+0.4
+0.9
+0.4
+0.6
+Employer
+1.5
+2.5
+0.8
+1.7
+Trader/Merchant
+87.3
+76.8
+88.3
+82.9
+Relative/Friend/Neighbor
+14.2
+20.1
+17.0
+17.5
+Mobile phone platform
+0.0
+0.3
+0.0
+0.1
+Figure 10.1  Percentage of households received any remit-
+tances of money from anyone living outside the household, within 
+Somalia or abroad, in the last 12 months 
+22.2
+22.2
+10.8
+20.7
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+Rural
+Urban
+Nomadic
+Total
+=== PAGE 79 ===
+69
+Somalia Integrated Household
+Budget Survey (SIHBS)
+10.5	Phone Ownership and 
+Accessibility
+Table 10.4 presents mobile ownership amongst 
+the population aged 15 + years and shows that 
+majority of the population (85.0 percent) owns a 
+mobile phone. Overall, phone ownership correlates 
+with educational levels. Majority of respondents 
+with university degree (96.2 percent) own a 
+mobile phone, 90.7 percent with secondary and 
+84.0 percent with no formal education. Female 
+population tend to have more access to a mobile 
+phone 3.8 percent compared to male 3.2 percent. 
+By place of residence, urban and nomadic residents 
+have higher access to somebody’s phones 
+compared to rural residents, at 3.9 and 3.3 percent 
+respectively. Also, access to somebody’s phone is 
+more common amongst persons with no formal 
+education and primary education (3.5 percent and 
+5.2 percent respectively) (Table 10.4). 
+The usage of financial transaction amongst mobile 
+phone owners stands high at 81.8 percent (Table 
+10.4). Urban residences lead at 83.2 percent 
+followed by rural residences at 79.7 percent. 
+By education level, all literacy levels widely use 
+their mobile phone for financial transactions with 
+secondary (88.0 percent) and university (95.3 
+percent) education levels recording the highest 
+percentages.
+Table 10.3  Remittance transfer method
+Proportion of the households who received any remittances during the month preceding the survey by method of 
+transfer, SIHBS 2022
+Transfer method
+Rural
+Urban
+Nomadic
+Total
+Hawala
+46.8
+62.0
+25.6
+55.4
+Bank/wire transfer
+0.2
+1.8
+0.0
+1.2
+Mobile money
+50.8
+34.4
+72.3
+41.5
+Through an individual
+2.2
+1.8
+2.2
+1.9
+Total
+100.0
+100.0
+100.0
+100.0
+Table 10.4  Mobile ownership and use for financial transaction.
+Percentage of population 15+ who own a mobile phone, access, and use for financial transactions by background 
+characteristics SIHBS 2022
+Mobile ownership and use
+Have a mobile phone
+Have access to a 
+mobile phonee
+Use a mobile phone 
+for any financial 
+transactions in the 
+last 3 months
+Sex
+ 
+ 
+ 
+Male
+85.6
+3.2
+82.5
+Female
+84.5
+3.8
+81.1
+Highest level of formal education
+ 
+ 
+ 
+No formal education
+84.0
+3.5
+79.8
+Primary
+80.4
+5.2
+79.1
+Secondary
+90.7
+2.6
+88.0
+Higher
+96.2
+0.5
+95.3
+Place of residence
+ 
+ 
+ 
+Rural
+86.2
+2.6
+79.7
+Urban
+85.5
+3.9
+83.2
+Nomadic
+79.9
+3.3
+77.6
+Total
+85.0
+3.5
+81.8
+e	
+ Only those who do not have mobile phone but can access to mobile
+=== PAGE 80 ===
+70
+The Federal Republic of Somalia
+National Bureau of Statistics
+10.6	Internet Access
+The mobile is the primary location of internet 
+access, quoted by 89.6 percent of the population 
+aged 10+; their next popular location is at home 
+(Figure 10.2). Other locations such as workplace 
+(0.6 percent), home of a relative/friend/ neighbor 
+(0.6 percent), cybercafé or community center are 
+hardly used. Locations such as education centers 
+were not used to access the internet the past 3 
+months.
+Table 10.5 presents the percentage of population 
+age 10+ years who have accessed the internet in 
+the past 3 months and the location from where the 
+internet is accessed. Overall, 27.6 percent of the 
+population aged 10+ years have access to internet. 
+By residence, 100 percent of this population in 
+nomad areas and 99.1 percent in rural areas relied 
+on the mobile phone for access. Whereas 10+ 
+years urban residents did not solely rely on the 
+mobile, but also, access the internet from their 
+homes (10.6 percent). 
+Figure 10.2  Location of internet access
+At the educational level cut, only 14.2 percent of 
+the people with no formal education have access 
+to the internet, while the percentage of internet 
+access increases as the educational level moves 
+forward to peak at the secondary (71.0 percent) and 
+university levels (87.1 percent). Secondary school 
+and university respondents access the internet 
+primarily from a mobile (86.9 percent and 82.0 
+percent respectively); as well as, from their home 
+(11.5 percent and 15.2 percent respectively).
+10.7	Bank account Ownership and 
+Usage of Mobile Banking
+Only 8.8 percent of the population aged 15+ 
+own a bank account. The highest concentration 
+is observed in urban areas (10.3 percent) and the 
+percentage decreases in rural areas (7.7 percent) 
+and nomadic areas (2.0 percent). By education 
+level, the percentage of population 15 years 
+and above owning a bank account increases as 
+education gets higher (Table 10.6).
+89.6
+8.9
+0.6
+0.6
+0.3
+0.0
+0.0
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
+80.0
+90.0
+100.0
+Mobile use
+At home
+At work place
+Home of a
+relative/
+neighbour/
+friend
+Cyber café
+Education
+centre
+Community
+centre
+=== PAGE 81 ===
+71
+Somalia Integrated Household
+Budget Survey (SIHBS)
+Table 10.5  Internet Access
+Percentage of population aged 10+ who accessed the internet in the past 3 months and distribution of the population who access internet by 
+location accessed
+Background 
+characteristics
+Percentage of 
+population 10+ 
+use internet
+Mobile 
+use
+At 
+workplace
+Cyber 
+cafe
+Education 
+centre
+Community 
+centre
+At home
+Home of 
+a relative/ 
+neighbour/ 
+friend
+Sex
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Male
+30.8
+91.2
+1.0
+0.2
+0.0
+0.0
+7.1
+0.4
+Female
+24.7
+87.7
+0.2
+0.3
+0.0
+0.0
+10.9
+0.7
+Highest level of 
+education
+No formal education
+14.2
+93.9
+0.1
+0.1
+0.0
+5.1
+0.7
+Primary
+30.7
+91.5
+0.3
+0.0
+0.0
+7.2
+1.0
+Secondary
+71.0
+86.9
+1.0
+0.3
+0.0
+0.1
+11.5
+0.2
+Higher
+87.1
+82.0
+1.5
+0.9
+0.0
+0.0
+15.2
+0.2
+Place of residence
+ 
+Rural
+19.6
+99.1
+0.1
+0.7
+0.1
+Urban
+34.9
+87.6
+0.7
+0.3
+0.0
+0.0
+10.6
+0.7
+Nomadic
+2.0
+100.0
+Total
+27.6
+89.6
+0.6
+0.3
+0.0
+0.0
+8.9
+0.6
+Table 10.6  Population who own bank account.
+Percent of population age 15+ who own a bank account by to background characteristics, SIHBS, 2022
+ Background characteristics
+Own bank account
+Sex
+ 
+Male
+11.5
+Female
+6.4
+Highest level of education
+No formal education
+6.0
+Primary
+8.2
+Secondary
+13.2
+Higher
+27.6
+Place of residence
+Rural
+7.7
+Urban
+10.3
+Nomadic
+2.0
+Total
+8.8
+=== PAGE 82 ===
+
+=== PAGE 83 ===
+
+=== PAGE 84 ===
+NATIONAL BUREAU OF STATISTICS
+THE FEDERAL REPUBLIC OF SOMALIA

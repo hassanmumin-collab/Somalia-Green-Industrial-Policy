@@ -1,0 +1,18 @@
+# Numbers permitted in chapters without a claim tag. Each entry masks an exact phrase.
+# Every entry needs a reason. Hassan reviews this list.
+# Automatically allowed without an entry: years used as dates (2028, 2023/24, 2028 to 2032),
+# heading numbers, and labels such as Part 3, Cluster 1, Phase II, Annex 2, Table 4, Step 1a, Q1.
+- phrase: "Article 6"
+  reason: "Name of Article 6 of the Paris Agreement (carbon market cooperation). A title, not a figure."
+- phrase: "HS 0201"
+  reason: "Harmonized System product code (fresh or chilled bovine meat). A classification label, not a figure."
+- phrase: "HS 0202"
+  reason: "Harmonized System product code (frozen bovine meat). A classification label, not a figure."
+- phrase: "HS 1301"
+  reason: "Harmonized System product code (natural gums and resins). A classification label, not a figure."
+- phrase: "HS 3301"
+  reason: "Harmonized System product code (essential oils). A classification label, not a figure."
+- phrase: "NDC 3.0"
+  reason: "Name of Somalia's third-generation Nationally Determined Contribution. A document title, not a figure."
+- phrase: "resolution 2806"
+  reason: "Number of a UN Security Council resolution. A title, not a figure."

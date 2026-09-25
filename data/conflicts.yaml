@@ -1,0 +1,182 @@
+# Conflicting figures and how they are resolved (CLAUDE.md section 2, rule 4).
+# Each entry lists the claims that disagree, the claim the report uses, and why.
+# Resolutions marked "proposed" await Hassan's approval.
+- id: X-001
+  measure: Somalia GDP at current prices, 2025
+  period: "2025"
+  claims: [C-0001, C-0017]
+  used: C-0001
+  resolution: >-
+    Approved by Hassan Mumin (2026-09-24). NBS (Tier 1, rebased 2022 series, June 2026 release) gives USD 13,234 million; IMF WEO April 2026
+    (Tier 2) gives USD 12.956 billion. The IMF figure predates the NBS release and its revisions. The report uses
+    the NBS level as the official actual and states the IMF figure alongside it. The IMF path is used only for
+    growth rates in projections (see the model assumptions).
+- id: X-002
+  measure: Somalia real GDP growth, 2025
+  period: "2025"
+  claims: [C-0003, C-0024]
+  used: C-0003
+  resolution: >-
+    Approved by Hassan Mumin (2026-09-24). NBS gives 3.1 percent; IMF WEO April 2026 estimates 3 percent. Difference is within rounding of
+    an estimate made before the NBS release. The report uses the NBS figure and notes the IMF estimate.
+- id: X-003
+  measure: livestock exports, value, 2018
+  period: "2018"
+  claims: [C-0043, C-0045]
+  used: C-0043
+  resolution: >-
+    Re-estimate. The Central Bank's 2018 Annual Report estimated USD 299.04 million; its 2019 Annual Report
+    (Table 3, FAO-FSNAU and CBS estimates and valuations) re-estimated 2018 at USD 311,130,084 with different head
+    counts and unit values. Both are estimates. The report uses the later re-estimate (the USD 311.1 million lead)
+    and says so. The series covers exports through Berbera, so it includes Somaliland.
+- id: X-004
+  measure: livestock exports, value, 2024
+  period: "2024"
+  claims: [C-0046, C-0050]
+  used: C-0050
+  resolution: >-
+    Revision. The Central Bank's 2024 Annual Report gave USD 969.9 million (the USD 970 million lead); its 2025
+    Annual Report revises 2024 to USD 950.9 million, consistent with the NBS 2025 GDP release (USD 951 million,
+    C-0013). The report uses the revised figure and notes the earlier one.
+- id: X-005
+  measure: livestock exports, 2025 (nominal against real)
+  period: "2025"
+  claims: [C-0051, C-0052]
+  used: C-0051
+  resolution: >-
+    Resolved, not a conflict (fact-checker, 23 September 2026). USD 922.9 million is the nominal value; USD 823
+    million is livestock exports in real (constant-price) terms from SNBS expenditure-side GDP, reproduced in the
+    Central Bank's 2025 Annual Report (Table 2). The report uses the nominal figure for values and may cite the
+    real decline of 10 percent as the volume change.
+- id: X-006
+  measure: live animal / livestock exports, value, 2024
+  period: "2024"
+  claims: [C-0050, C-0138]
+  used: C-0050
+  resolution: >-
+    Approved by Hassan Mumin (2026-09-24). The Central Bank (Tier 1, USD 950.9 million, revised) and FAOSTAT (Tier 3, USD 414.1 million, FAO
+    flag E) differ by more than half. Somalia does not report trade to UN Comtrade, so FAO trade values are built
+    largely from partner-country data, which miss much of the Gulf livestock trade. The report uses the Central
+    Bank figure and uses FAOSTAT only for product detail, with this caveat stated.
+- id: X-007
+  measure: renewable energy share of electricity
+  period: "2025-2026"
+  claims: [C-0064, C-0095]
+  used: C-0064
+  resolution: >-
+    Approved by Hassan Mumin (2026-09-24). NDC 3.0 gives 12 percent of installed capacity; the World Bank regional table gives a 20 percent
+    renewable energy share without stating whether it measures capacity or generation. They may measure different
+    things. The report states both with their definitions until the World Bank basis is confirmed.
+- id: X-008
+  measure: sesame, 2024 (production against exports)
+  period: "2024"
+  claims: [C-0127, C-0135]
+  used: C-0135
+  resolution: >-
+    Internal inconsistency in FAOSTAT: recorded exports (16,855 tonnes, flag X) exceed recorded production
+    (16,543 tonnes, flag X), which is not possible without stocks. Both series are international estimates for
+    Somalia. The report uses export figures only as an order of magnitude and states the caveat. Seek a Tier 1
+    sesame production figure (Ministry of Agriculture) in Phase 2 follow-up.
+- id: X-009
+  measure: sesame seed production, recent years
+  period: "2024-2025"
+  claims: [C-0127, C-0157]
+  used: C-0157
+  resolution: >-
+    Approved by Hassan Mumin (2026-09-24), needs a Tier 1 figure. FAOSTAT gives 16,543 tonnes for 2024 (flag X, from an international
+    organization); FAO's Hand-in-Hand Lower Juba investment case uses a baseline of approximately 50,000 tons a
+    year, which may refer to the programme area rather than the whole country. The report will not treat either
+    as settled national production and will seek a Ministry of Agriculture figure.
+- id: X-010
+  measure: potential sustainable fish harvest
+  period: "various"
+  claims: [C-0155, C-0156]
+  used: C-0156
+  resolution: >-
+    Approved by Hassan Mumin (2026-09-24). The World Bank cites 1970s and 1980s survey estimates of 600,000 to 835,000 tons; UNIDO cites
+    380,000 to 500,000 MT. The report states the full range, uses the lower, more recent estimate for any
+    planning, and notes that no recent stock assessment exists.
+- id: X-011
+  measure: clean cookstove deployment target
+  period: "2030-2035"
+  claims: [C-0077, C-0172]
+  used: C-0077
+  resolution: >-
+    Approved by Hassan Mumin (2026-09-24). NDC 3.0 (Tier 1, June 2025) plans 1,178,000 improved cookstoves by 2035; the UNEP technology needs
+    assessment brief (December 2024) sets a goal of 5 million clean cookstoves by 2030 (30 percent penetration),
+    apparently derived from earlier planning. They are different documents and horizons. The report treats
+    NDC 3.0 as the current official plan and mentions the brief's goal only as an earlier ambition.
+- id: X-012
+  measure: current fish production or catch
+  period: "2010-2025"
+  claims: [C-0153, C-0188]
+  used: C-0153
+  resolution: >-
+    Approved by Hassan Mumin (2026-09-24). The NTP gives a baseline of 120,000 MT of fish production (year not stated); the World Bank
+    Badmaal appraisal estimates domestic catch at around 50,000 tons a year since 2010, with foreign fleets
+    catching around 100,000 tons. The NTP figure may include foreign catch. The report cites the World Bank
+    estimate for domestic catch and quotes the NTP target as the government's stated ambition.
+- id: X-013
+  measure: total population of Somalia
+  period: "2014-2025"
+  claims: [C-0227, C-0228]
+  used: C-0228
+  resolution: >-
+    Decided by Hassan Mumin (2026-09-24): use the NDC 3.0 figure (19.6 million), stated as an estimate. The only
+    official figure is the 2014 estimate
+    (12,316,895, NBS); NBS grows it at a fixed 2.8 percent a year for national accounts (C-0016). NDC 3.0
+    uses 19.6 million (source not stated). The two cannot both describe the same year. The report avoids
+    stating a population figure where possible; where needed it states the NDC figure as an estimate and
+    notes the absence of a census.
+- id: X-014
+  measure: generation plan cost, 2030 to 2050 (text against Table 1-4)
+  period: "2030-2050"
+  claims: [C-0103, C-0104]
+  used: C-0103
+  resolution: >-
+    Internal inconsistency in the Ministry of Energy's plan (S-026): the text gives USD 22.9 billion total and
+    USD 11.6 billion investment; Table 1-4 totals USD 23.6 billion and USD 11.2 billion. The report, if it uses
+    these totals, states both and notes the discrepancy; figures are undiscounted constant 2025 USD.
+- id: X-015
+  measure: CO2 emission factor of diesel generation per MWh
+  period: "2006-2025"
+  claims: [D-0017, C-0327, D-0034]
+  used: D-0017
+  resolution: >-
+    Resolved by Claude under Hassan Mumin's delegation (2026-09-24: 'make an optimal decision'). The IPCC-based factor (D-0017, 0.692 t CO2 per MWh: plan heat rate 2.23 Gcal per MWh with the IPCC
+    default 74,100 kg CO2 per TJ) differs from the factor implied by the Ministry of Energy plan's own diesel
+    emission factor of 0.33 t CO2 per Gcal (D-0034, 0.736 t CO2 per MWh). The plan does not say whether its heat
+    rate is on a net or gross calorific basis. The model uses the IPCC-based value as base and the plan-based
+    value as the high end of the range; the report states both. The plan itself pairs its 0.33 t per Gcal with
+    medium-speed generators at 2.05 Gcal per MWh (about 0.677 t per MWh), so 0.736 must not be described as the
+    plan's own diesel emission rate.
+- id: X-016
+  measure: total project cost, Pearl Dairy powdered milk plant (IFC comparator)
+  period: "2013"
+  claims: [C-0237, C-0324]
+  used: C-0237
+  resolution: >-
+    Resolved by Claude under Hassan Mumin's delegation (2026-09-24: 'make an optimal decision'). The same IFC disclosure gives USD 15 million (Summary of Investment Information) and USD 13.35 million
+    including working capital (Environmental and Social Review Summary). The report cites C-0237, which states
+    both figures; the dairy capital-cost assumption uses the range (USD 55.6 to 62.5 per litre a day of capacity).
+- id: X-017
+  measure: project cost and expected jobs, DTRT garment expansion (IFC comparator)
+  period: "2022"
+  claims: [C-0246, C-0325, C-0248, C-0326]
+  used: C-0246
+  resolution: >-
+    Resolved by Claude under Hassan Mumin's delegation (2026-09-24: 'make an optimal decision'). The same IFC disclosure gives a project cost of USD 12.26 million and, in its blended-finance paragraph,
+    USD 10 million; it gives more than 3,000 new jobs (ESRS) and 2,900 direct jobs (SII). The factory building is
+    to be built by a developer and leased to DTRT, so the cost appears to exclude it. The pairings give from under
+    USD 3,333 to USD 4,228 per job. The garment capital-cost assumption uses this range together with the Royal
+    (Kenya) comparator (USD 5,405 per job) and adds an allowance for buildings.
+- id: X-018
+  measure: solid waste generated per day (Mogadishu against urban Somalia)
+  period: "2012-2019"
+  claims: [C-0378, C-0379]
+  used: C-0378
+  resolution: >-
+    Approved by Hassan Mumin (2026-09-24). Different scope and year: about 2,500 tons a day for Mogadishu (Ritter 2019, cited in a 2026
+    peer-reviewed study) against 1,500 tons a day for all urban areas of Somalia (UN-Habitat 2012). The later
+    city figure is used to size the landfill module, which takes only the collected share; both are secondary
+    estimates and are attributed. No measured tonnage exists.

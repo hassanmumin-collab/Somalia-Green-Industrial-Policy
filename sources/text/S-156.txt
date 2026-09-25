@@ -1,0 +1,163 @@
+=== PAGE 1 ===
+# UN Comtrade (comtradeapi.un.org public preview API, annual HS data) rows retrieved 2026-09-24 with tools/comtrade_pull_3.py, one line per record.
+# (1) Imports of fresh or chilled bovine meat (HS 0201) in 2023 by the six GCC states, by partner (0 = World).
+# (2) Imports from Somalia (706) of lac, natural gums, resins and gum-resins (HS 1301) and essential oils (HS 3301) in 2023; twelve partners queried, eleven reporting (Oman none).
+# Filter: partner2Code 0, customsCode C00, motCode 0. Values in current USD; net weight in kg (blank where not reported). Partner names from UN Comtrade M49 codes.
+# Format: Reporter (code) | Flow | Partner (code) | HS code | Year | Trade value USD | Net weight kg | Quantity | Quantity unit code | HS version
+Saudi Arabia (682) | Import | Sudan (729) | HS 0201 | 2023 | 4017196.7 | 443177.555 | 443177.555 | 8 | H6
+Saudi Arabia (682) | Import | Argentina (32) | HS 0201 | 2023 | 10095.2 | 1323.257 | 1323.257 | 8 | H6
+Saudi Arabia (682) | Import | Kazakhstan (398) | HS 0201 | 2023 | 30441.066 | 3037.691 | 3037.691 | 8 | H6
+Saudi Arabia (682) | Import | Uruguay (858) | HS 0201 | 2023 | 423813.323 | 44329.049 | 44329.049 | 8 | H6
+Saudi Arabia (682) | Import | Ethiopia (231) | HS 0201 | 2023 | 20155605.363 | 2015047.173 | 2015047.173 | 8 | H6
+Saudi Arabia (682) | Import | Estonia (233) | HS 0201 | 2023 | 13200.0 | 1317.218 | 1317.218 | 8 | H6
+Saudi Arabia (682) | Import | United Rep. of Tanzania (834) | HS 0201 | 2023 | 3613915.11 | 367922.847 | 367922.847 | 8 | H6
+Saudi Arabia (682) | Import | Colombia (170) | HS 0201 | 2023 | 1594595.96 | 159123.508 | 159123.508 | 8 | H6
+Saudi Arabia (682) | Import | Kenya (404) | HS 0201 | 2023 | 7101310.489 | 725851.255 | 725851.255 | 8 | H6
+Saudi Arabia (682) | Import | New Zealand (554) | HS 0201 | 2023 | 4095309.498 | 409547.882 | 409547.882 | 8 | H6
+Saudi Arabia (682) | Import | Bangladesh (50) | HS 0201 | 2023 | 4790.4 | 712.54 | 712.54 | 8 | H6
+Saudi Arabia (682) | Import | Russian Federation (643) | HS 0201 | 2023 | 9644423.226 | 963600.341 | 963600.341 | 8 | H6
+Saudi Arabia (682) | Import | Brazil (76) | HS 0201 | 2023 | 75044219.191 | 7488605.062 | 7488605.062 | 8 | H6
+Saudi Arabia (682) | Import | Pakistan (586) | HS 0201 | 2023 | 96404803.19 | 12300980.367 | 12300980.367 | 8 | H6
+Saudi Arabia (682) | Import | Australia (36) | HS 0201 | 2023 | 51492336.846 | 5283728.239 | 5283728.239 | 8 | H6
+Saudi Arabia (682) | Import | Poland (616) | HS 0201 | 2023 | 219916.528 | 21945.302 | 21945.302 | 8 | H6
+Saudi Arabia (682) | Import | Canada (124) | HS 0201 | 2023 | 1923425.019 | 193388.206 | 193388.206 | 8 | H6
+Saudi Arabia (682) | Import | Japan (392) | HS 0201 | 2023 | 196356.795 | 23296.108 | 23296.108 | 8 | H6
+Saudi Arabia (682) | Import | Netherlands (528) | HS 0201 | 2023 | 2102110.614 | 219269.098 | 219269.098 | 8 | H6
+Saudi Arabia (682) | Import | Spain (724) | HS 0201 | 2023 | 989963.175 | 98802.639 | 98802.639 | 8 | H6
+Saudi Arabia (682) | Import | United Arab Emirates (784) | HS 0201 | 2023 | 253994.927 | 27673.626 | 27673.626 | 8 | H6
+Saudi Arabia (682) | Import | United Kingdom (826) | HS 0201 | 2023 | 27869.866 | 2781.113 | 2781.113 | 8 | H6
+Saudi Arabia (682) | Import | Italy (380) | HS 0201 | 2023 | 844551.179 | 106474.837 | 106474.837 | 8 | H6
+Saudi Arabia (682) | Import | USA (842) | HS 0201 | 2023 | 769226.647 | 80048.773 | 80048.773 | 8 | H6
+Saudi Arabia (682) | Import | India (699) | HS 0201 | 2023 | 31116176.022 | 3122118.14 | 3122118.14 | 8 | H6
+Saudi Arabia (682) | Import | World (0) | HS 0201 | 2023 | 312089646.331 | 34104101.824 | 34104101.824 | 8 | H6
+United Arab Emirates (784) | Import | World (0) | HS 0201 | 2023 | 485734159.914 | 81218236.91 | 81218236.91 | 8 | H6
+United Arab Emirates (784) | Import | United Kingdom (826) | HS 0201 | 2023 | 34803.572 | 2539.0 | 2539.0 | 8 | H6
+United Arab Emirates (784) | Import | USA (842) | HS 0201 | 2023 | 30638724.966 | 2115507.0 | 2115507.0 | 8 | H6
+United Arab Emirates (784) | Import | Italy (380) | HS 0201 | 2023 | 278187.325 | 13594.98 | 13594.98 | 8 | H6
+United Arab Emirates (784) | Import | India (699) | HS 0201 | 2023 | 32135507.127 | 7459969.0 | 7459969.0 | 8 | H6
+United Arab Emirates (784) | Import | France (251) | HS 0201 | 2023 | 16629.331 | 1414.0 | 1414.0 | 8 | H6
+United Arab Emirates (784) | Import | Netherlands (528) | HS 0201 | 2023 | 4564467.747 | 272201.9 | 272201.9 | 8 | H6
+United Arab Emirates (784) | Import | Spain (724) | HS 0201 | 2023 | 151530.125 | 6660.96 | 6660.96 | 8 | H6
+United Arab Emirates (784) | Import | Turkiye (792) | HS 0201 | 2023 | 26547.365 | 25000.0 | 25000.0 | 8 | H6
+United Arab Emirates (784) | Import | Japan (392) | HS 0201 | 2023 | 201252.555 | 1839.6 | 1839.6 | 8 | H6
+United Arab Emirates (784) | Import | Belgium (56) | HS 0201 | 2023 | 13226.023 | 1175.0 | 1175.0 | 8 | H6
+United Arab Emirates (784) | Import | Saudi Arabia (682) | HS 0201 | 2023 | 88982.707 | 11600.0 | 11600.0 | 8 | H6
+United Arab Emirates (784) | Import | Australia (36) | HS 0201 | 2023 | 126531054.114 | 7504306.3 | 7504306.3 | 8 | H6
+United Arab Emirates (784) | Import | Canada (124) | HS 0201 | 2023 | 5606941.812 | 324916.8 | 324916.8 | 8 | H6
+United Arab Emirates (784) | Import | Pakistan (586) | HS 0201 | 2023 | 174905439.47 | 46296495.0 | 46296495.0 | 8 | H6
+United Arab Emirates (784) | Import | Russian Federation (643) | HS 0201 | 2023 | 1577422.91 | 106531.6 | 106531.6 | 8 | H6
+United Arab Emirates (784) | Import | South Africa (710) | HS 0201 | 2023 | 16333673.85 | 2141261.0 | 2141261.0 | 8 | H6
+United Arab Emirates (784) | Import | Egypt (818) | HS 0201 | 2023 | 39520.957 | 6107.0 | 6107.0 | 8 | H6
+United Arab Emirates (784) | Import | Brazil (76) | HS 0201 | 2023 | 66479364.826 | 12033389.37 | 12033389.37 | 8 | H6
+United Arab Emirates (784) | Import | Lebanon (422) | HS 0201 | 2023 | 33.547 | 54.0 | 54.0 | 8 | H6
+United Arab Emirates (784) | Import | Oman (512) | HS 0201 | 2023 | 2570.268 | 319.5 | 319.5 | 8 | H6
+United Arab Emirates (784) | Import | Philippines (608) | HS 0201 | 2023 | 2874.007 | 440.0 | 440.0 | 8 | H6
+United Arab Emirates (784) | Import | Ireland (372) | HS 0201 | 2023 | 322885.769 | 32487.0 | 32487.0 | 8 | H6
+United Arab Emirates (784) | Import | Romania (642) | HS 0201 | 2023 | 7164.817 | 531.0 | 531.0 | 8 | H6
+United Arab Emirates (784) | Import | New Zealand (554) | HS 0201 | 2023 | 19558662.449 | 1964385.0 | 1964385.0 | 8 | H6
+United Arab Emirates (784) | Import | Argentina (32) | HS 0201 | 2023 | 1202048.206 | 103294.9 | 103294.9 | 8 | H6
+United Arab Emirates (784) | Import | Colombia (170) | HS 0201 | 2023 | 2460889.015 | 439868.0 | 439868.0 | 8 | H6
+United Arab Emirates (784) | Import | Kenya (404) | HS 0201 | 2023 | 1081387.64 | 190095.0 | 190095.0 | 8 | H6
+United Arab Emirates (784) | Import | Ethiopia (231) | HS 0201 | 2023 | 50411.133 | 8695.0 | 8695.0 | 8 | H6
+United Arab Emirates (784) | Import | Sudan (729) | HS 0201 | 2023 | 115977.669 | 17913.0 | 17913.0 | 8 | H6
+United Arab Emirates (784) | Import | Niger (562) | HS 0201 | 2023 | 158.764 | 345.0 | 345.0 | 8 | H6
+United Arab Emirates (784) | Import | Azerbaijan (31) | HS 0201 | 2023 | 1773.846 | 202.0 | 202.0 | 8 | H6
+United Arab Emirates (784) | Import | Kyrgyzstan (417) | HS 0201 | 2023 | 2875.033 | 348.0 | 348.0 | 8 | H6
+United Arab Emirates (784) | Import | United Rep. of Tanzania (834) | HS 0201 | 2023 | 204121.182 | 46804.0 | 46804.0 | 8 | H6
+United Arab Emirates (784) | Import | Uruguay (858) | HS 0201 | 2023 | 297078.271 | 20821.0 | 20821.0 | 8 | H6
+United Arab Emirates (784) | Import | Kazakhstan (398) | HS 0201 | 2023 | 799971.517 | 67126.0 | 67126.0 | 8 | H6
+Oman (512) | Import | Sudan (729) | HS 0201 | 2023 | 12054.616 | 3000.0 | 3000.0 | 8 | H6
+Oman (512) | Import | New Zealand (554) | HS 0201 | 2023 | 2983386.211 | 354364.0 | 354364.0 | 8 | H6
+Oman (512) | Import | Russian Federation (643) | HS 0201 | 2023 | 21750.325 | 1002.0 | 1002.0 | 8 | H6
+Oman (512) | Import | Brazil (76) | HS 0201 | 2023 | 814127.437 | 131243.0 | 131243.0 | 8 | H6
+Oman (512) | Import | Morocco (504) | HS 0201 | 2023 | 593981.794 | 100309.0 | 100309.0 | 8 | H6
+Oman (512) | Import | South Africa (710) | HS 0201 | 2023 | 598249.674 | 63797.0 | 63797.0 | 8 | H6
+Oman (512) | Import | Australia (36) | HS 0201 | 2023 | 118470.741 | 12299.0 | 12299.0 | 8 | H6
+Oman (512) | Import | Philippines (608) | HS 0201 | 2023 | 131921.976 | 10661.0 | 10661.0 | 8 | H6
+Oman (512) | Import | Pakistan (586) | HS 0201 | 2023 | 11780931.061 | 3343863.0 | 3343863.0 | 8 | H6
+Oman (512) | Import | Egypt (818) | HS 0201 | 2023 | 12842.653 | 1242.0 | 1242.0 | 8 | H6
+Oman (512) | Import | Bahrain (48) | HS 0201 | 2023 | 24566.97 | 5790.0 | 5790.0 | 8 | H6
+Oman (512) | Import | Italy (380) | HS 0201 | 2023 | 5126.138 | 357.0 | 357.0 | 8 | H6
+Oman (512) | Import | USA (842) | HS 0201 | 2023 | 83131.339 | 2729.0 | 2729.0 | 8 | H6
+Oman (512) | Import | Turkiye (792) | HS 0201 | 2023 | 111651.495 | 5040.0 | 5040.0 | 8 | H6
+Oman (512) | Import | Qatar (634) | HS 0201 | 2023 | 939352.404 | 47608.0 | 47608.0 | 8 | H6
+Oman (512) | Import | World (0) | HS 0201 | 2023 | 27878850.412 | 5568245.0 | 5568245.0 | 8 | H6
+Oman (512) | Import | India (699) | HS 0201 | 2023 | 2588434.326 | 663526.0 | 663526.0 | 8 | H6
+Oman (512) | Import | United Arab Emirates (784) | HS 0201 | 2023 | 7058871.25 | 821415.0 | 821415.0 | 8 | H6
+Qatar (634) | Import | United Rep. of Tanzania (834) | HS 0201 | 2023 | 276888.715 | 44838.683 | 44838.683 | 8 | H6
+Qatar (634) | Import | USA (842) | HS 0201 | 2023 | 15310428.844 | 1656810.372 | 1656810.372 | 8 | H6
+Qatar (634) | Import | Egypt (818) | HS 0201 | 2023 | 729739.83 | 130878.509 | 130878.509 | 8 | H6
+Qatar (634) | Import | South Africa (710) | HS 0201 | 2023 | 12236765.098 | 1314507.069 | 1314507.069 | 8 | H6
+Qatar (634) | Import | India (699) | HS 0201 | 2023 | 5014881.23 | 506156.265 | 506156.265 | 8 | H6
+Qatar (634) | Import | Colombia (170) | HS 0201 | 2023 | 579758.567 | 58515.529 | 58515.529 | 8 | H6
+Qatar (634) | Import | New Zealand (554) | HS 0201 | 2023 | 4185754.876 | 423282.889 | 423282.889 | 8 | H6
+Qatar (634) | Import | Pakistan (586) | HS 0201 | 2023 | 30571869.81 | 5397661.394 | 5397661.394 | 8 | H6
+Qatar (634) | Import | Paraguay (600) | HS 0201 | 2023 | 1047179.319 | 105692.707 | 105692.707 | 8 | H6
+Qatar (634) | Import | Brazil (76) | HS 0201 | 2023 | 9831143.41 | 992265.738 | 992265.738 | 8 | H6
+Qatar (634) | Import | Argentina (32) | HS 0201 | 2023 | 799534.185 | 86263.007 | 86263.007 | 8 | H6
+Qatar (634) | Import | Australia (36) | HS 0201 | 2023 | 19217074.807 | 1983071.332 | 1983071.332 | 8 | H6
+Qatar (634) | Import | Netherlands (528) | HS 0201 | 2023 | 981596.265 | 125376.779 | 125376.779 | 8 | H6
+Qatar (634) | Import | Other Asia, nes (490) | HS 0201 | 2023 | 15010.423 | 1515.015 | 1515.015 | 8 | H6
+Qatar (634) | Import | Ireland (372) | HS 0201 | 2023 | 899743.946 | 97520.63 | 97520.63 | 8 | H6
+Qatar (634) | Import | Italy (380) | HS 0201 | 2023 | 309992.019 | 31287.76 | 31287.76 | 8 | H6
+Qatar (634) | Import | World (0) | HS 0201 | 2023 | 103618414.222 | 13120578.318 | 13120578.318 | 8 | H6
+Qatar (634) | Import | Canada (124) | HS 0201 | 2023 | 1611052.878 | 164934.641 | 164934.641 | 8 | H6
+Kuwait (414) | Import | United Rep. of Tanzania (834) | HS 0201 | 2023 | 264510.725 | 36105.53 | 36105.53 | 8 | H6
+Kuwait (414) | Import | New Zealand (554) | HS 0201 | 2023 | 5035082.91 | 537749.92 | 537749.92 | 8 | H6
+Kuwait (414) | Import | Kazakhstan (398) | HS 0201 | 2023 | 13774.091 | 1548.0 | 1548.0 | 8 | H6
+Kuwait (414) | Import | Georgia (268) | HS 0201 | 2023 | 61753.895 | 5978.0 | 5978.0 | 8 | H6
+Kuwait (414) | Import | Sudan (729) | HS 0201 | 2023 | 1134003.867 | 156314.0 | 156314.0 | 8 | H6
+Kuwait (414) | Import | Kenya (404) | HS 0201 | 2023 | 588841.567 | 84142.93 | 84142.93 | 8 | H6
+Kuwait (414) | Import | Russian Federation (643) | HS 0201 | 2023 | 39873.567 | 2419.245 | 2419.245 | 8 | H6
+Kuwait (414) | Import | South Africa (710) | HS 0201 | 2023 | 28263545.518 | 3839376.0 | 3839376.0 | 8 | H6
+Kuwait (414) | Import | Brazil (76) | HS 0201 | 2023 | 452881.427 | 81715.2 | 81715.2 | 8 | H6
+Kuwait (414) | Import | Jordan (400) | HS 0201 | 2023 | 1771.001 | 250.0 | 250.0 | 8 | H6
+Kuwait (414) | Import | Lebanon (422) | HS 0201 | 2023 | 84900.618 | 11685.0 | 11685.0 | 8 | H6
+Kuwait (414) | Import | Pakistan (586) | HS 0201 | 2023 | 70037253.826 | 9576585.0 | 9576585.0 | 8 | H6
+Kuwait (414) | Import | Canada (124) | HS 0201 | 2023 | 9174.046 | 1050.0 | 1050.0 | 8 | H6
+Kuwait (414) | Import | Australia (36) | HS 0201 | 2023 | 10555944.242 | 1035541.36 | 1035541.36 | 8 | H6
+Kuwait (414) | Import | Egypt (818) | HS 0201 | 2023 | 642554.335 | 187112.0 | 187112.0 | 8 | H6
+Kuwait (414) | Import | Netherlands (528) | HS 0201 | 2023 | 251485.403 | 22731.89 | 22731.89 | 8 | H6
+Kuwait (414) | Import | Saudi Arabia (682) | HS 0201 | 2023 | 101181.456 | 15600.0 | 15600.0 | 8 | H6
+Kuwait (414) | Import | United Arab Emirates (784) | HS 0201 | 2023 | 104703.925 | 9363.7 | 9363.7 | 8 | H6
+Kuwait (414) | Import | United Kingdom (826) | HS 0201 | 2023 | 134784.899 | 15886.6 | 15886.6 | 8 | H6
+Kuwait (414) | Import | USA (842) | HS 0201 | 2023 | 228465.645 | 15438.56 | 15438.56 | 8 | H6
+Kuwait (414) | Import | India (699) | HS 0201 | 2023 | 4613607.452 | 970404.0 | 970404.0 | 8 | H6
+Kuwait (414) | Import | World (0) | HS 0201 | 2023 | 122620094.414 | 16606996.935 | 16606996.935 | 8 | H6
+Bahrain (48) | Import | Uruguay (858) | HS 0201 | 2023 | 514.838 | 51.963 | 51.963 | 8 | H6
+Bahrain (48) | Import | United Rep. of Tanzania (834) | HS 0201 | 2023 | 6942.205 | 1245.081 | 1245.081 | 8 | H6
+Bahrain (48) | Import | Ukraine (804) | HS 0201 | 2023 | 5232.622 | 797.175 | 797.175 | 8 | H6
+Bahrain (48) | Import | Russian Federation (643) | HS 0201 | 2023 | 63362.784 | 6744.111 | 6744.111 | 8 | H6
+Bahrain (48) | Import | Paraguay (600) | HS 0201 | 2023 | 19873.492 | 2005.849 | 2005.849 | 8 | H6
+Bahrain (48) | Import | New Zealand (554) | HS 0201 | 2023 | 5094384.298 | 536646.986 | 536646.986 | 8 | H6
+Bahrain (48) | Import | Kenya (404) | HS 0201 | 2023 | 1311.867 | 235.283 | 235.283 | 8 | H6
+Bahrain (48) | Import | Argentina (32) | HS 0201 | 2023 | 91735.183 | 9258.911 | 9258.911 | 8 | H6
+Bahrain (48) | Import | Ireland (372) | HS 0201 | 2023 | 61544.471 | 6211.736 | 6211.736 | 8 | H6
+Bahrain (48) | Import | Brazil (76) | HS 0201 | 2023 | 1258722.504 | 127043.942 | 127043.942 | 8 | H6
+Bahrain (48) | Import | South Africa (710) | HS 0201 | 2023 | 2454237.971 | 262300.393 | 262300.393 | 8 | H6
+Bahrain (48) | Import | Australia (36) | HS 0201 | 2023 | 3355072.362 | 355057.36 | 355057.36 | 8 | H6
+Bahrain (48) | Import | Pakistan (586) | HS 0201 | 2023 | 20008321.721 | 3583643.367 | 3583643.367 | 8 | H6
+Bahrain (48) | Import | Egypt (818) | HS 0201 | 2023 | 41724.194 | 7483.215 | 7483.215 | 8 | H6
+Bahrain (48) | Import | Netherlands (528) | HS 0201 | 2023 | 118004.364 | 14548.028 | 14548.028 | 8 | H6
+Bahrain (48) | Import | France (251) | HS 0201 | 2023 | 8207.33 | 1219.738 | 1219.738 | 8 | H6
+Bahrain (48) | Import | USA (842) | HS 0201 | 2023 | 4350438.886 | 462751.239 | 462751.239 | 8 | H6
+Bahrain (48) | Import | India (699) | HS 0201 | 2023 | 5978860.043 | 603924.178 | 603924.178 | 8 | H6
+Bahrain (48) | Import | World (0) | HS 0201 | 2023 | 42918491.135 | 5981168.557 | 5981168.557 | 8 | H6
+United Arab Emirates (784) | Import | Somalia (706) | HS 1301 | 2023 | 1871463.863 | 1291910.0 | 1291910.0 | 8 | H6
+United Arab Emirates (784) | Import | Somalia (706) | HS 3301 | 2023 | 1764.83 | 5.27 | 5.27 | 8 | H6
+Saudi Arabia (682) | Import | Somalia (706) | HS 1301 | 2023 | 509602.121 | 45963.464 | 45963.464 | 8 | H6
+China (156) | Import | Somalia (706) | HS 1301 | 2023 | 1440380.0 | 471289.0 | 471289.0 | 8 | H6
+China (156) | Import | Somalia (706) | HS 3301 | 2023 | 15960.0 | 41.654 | 41.654 | 8 | H6
+India (699) | Import | Somalia (706) | HS 1301 | 2023 | 460545.804 | 91855.0 | 91855.0 | 8 | H6
+France (251) | Import | Somalia (706) | HS 1301 | 2023 | 2760506.817 | 242043.0 | 242043.0 | 8 | H6
+France (251) | Import | Somalia (706) | HS 3301 | 2023 | 37458.528 | 200.0 | 200.0 | 8 | H6
+Germany (276) | Import | Somalia (706) | HS 1301 | 2023 | 1746358.007 | 151850.412 | 151850.412 | 8 | H6
+Germany (276) | Import | Somalia (706) | HS 3301 | 2023 | 119255.167 | 418.483 | 418.483 | 8 | H6
+USA (842) | Import | Somalia (706) | HS 1301 | 2023 | 223105.0 | 22012.0 | 22012.0 | 8 | H6
+USA (842) | Import | Somalia (706) | HS 3301 | 2023 | 635238.0 | 3300.0 | 3300.0 | 8 | H6
+United Kingdom (826) | Import | Somalia (706) | HS 1301 | 2023 | 385880.652 | 79113.0 | 79113.0 | 8 | H6
+United Kingdom (826) | Import | Somalia (706) | HS 3301 | 2023 | 54252.193 | 347.532 | 347.532 | 8 | H6
+Italy (380) | Import | Somalia (706) | HS 1301 | 2023 | 457463.128 | 37251.0 | 37251.0 | 8 | H6
+Egypt (818) | Import | Somalia (706) | HS 1301 | 2023 | 1067078.697 |  | 0.0 | -1 | H6
+Egypt (818) | Import | Somalia (706) | HS 3301 | 2023 | 4815.791 |  | 0.0 | -1 | H6
+Yemen (887) | Import | Somalia (706) | HS 1301 | 2023 | 34999.456 | 85433.0 | 85433.0 | 8 | H4

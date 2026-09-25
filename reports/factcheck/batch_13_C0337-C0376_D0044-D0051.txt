@@ -1,0 +1,149 @@
+Independent fact-check, 2026-09-24, claims C-0337 to C-0376 and D-0044 to D-0051.
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0337: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0338: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0339: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0340: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0341: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0342: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0343: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0344: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0345: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0346: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0347: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0348: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0349: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0350: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0351: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0352: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0353: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0354: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims. S-148 '2022' is the dataset label; built from 2022/23 (Ethiopian fiscal year) accounts.
+
+C-0355: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0356: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0357: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0358: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0359: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0360: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0361: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0362: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0363: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0364: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0365: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0366: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0367: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0368: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0369: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0370: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0371: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0372: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0373: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0374: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims. Tools applied 2010-11; period label approximate.
+
+C-0375: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+D-0044: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims. Kenya inputs rounded to whole KSh billion; third decimal approximate.
+
+D-0045: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+D-0046: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+D-0047: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+D-0048: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims. Outlier (intermediate inputs 3.7 percent of output); use with care as a BPO benchmark.
+
+D-0049: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+D-0050: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+D-0051: PASS
+  Reason: Cell, quote or formula confirmed at the cited source and page; factor sets complete and denominators are gross output for D- claims.
+
+C-0376: FAIL
+  Reason: Passage is in the apparel section; statement dropped the apparel qualifier.
+  Correction: "For Ethiopia's apparel sector, the World Bank (2012) estimated that a plug-and-play industrial park near Djibouti (for example at Dire Dawa) would reduce apparel exporters' f.o.b. production costs by 2 percent and cut six days from delivery time." (applied 2026-09-24)
+
+Summary: 47 pass, 1 fail, 0 query.

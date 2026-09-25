@@ -1,0 +1,163 @@
+Independent fact-check, 2026-09-25, claims C-0485 to C-0529 and D-0072 to D-0079.
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0485: FAIL
+  Reason: No year stated for tariffs; 'latest available year' covers access data only. Correction applied 2026-09-25.
+
+C-0486: FAIL
+  Reason: Same year issue. Correction applied 2026-09-25.
+
+C-0487: FAIL
+  Reason: Same year issue. Correction applied 2026-09-25.
+
+C-0488: FAIL
+  Reason: Same year issue. Correction applied 2026-09-25.
+
+C-0489: FAIL
+  Reason: Same year issue. Correction applied 2026-09-25.
+
+C-0490: FAIL
+  Reason: Same year issue. Correction applied 2026-09-25.
+
+C-0491: FAIL
+  Reason: '(pre-conflict)' qualifies generation, not the tariff; quote shortened. Correction applied 2026-09-25.
+
+C-0492: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0493: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0494: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0495: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0496: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0497: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0498: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0499: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0500: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0501: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page. Do not interpret as cumulative or annual.
+
+C-0502: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0503: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page. Measure clarified: labelled 'Container Throughput'; period and basis not stated.
+
+C-0504: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0505: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0506: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0507: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0508: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0509: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0510: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0511: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0512: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0513: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0514: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0515: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0516: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0517: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0518: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0519: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0520: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0521: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0522: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0523: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0524: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0525: FAIL
+  Reason: Dropped 'notably'; Sanaag and Bari are examples. Correction applied 2026-09-25.
+
+C-0526: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0527: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0528: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+C-0529: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page. Present the full 80 to 90 range.
+
+D-0072: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page. Base-year undiscounted annual benefits.
+
+D-0073: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+D-0074: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+D-0075: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+D-0076: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+D-0077: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+D-0078: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+D-0079: PASS
+  Reason: Quote, record or formula confirmed at the cited source and page.
+
+Summary: 45 pass, 8 fail, 0 query.

@@ -1,0 +1,372 @@
+=== PAGE 1 ===
+## IFC SII record, project 48528
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[SponsorCostLocation.Sponsor] Royal is 100%-owned by Mr. Omprakash Shukla, a Kenyan businessman who has been in the textiles and apparel sector for 32 years. He started his career in the export business prior to joining the business first garment factory as a general manager.
+[SponsorCostLocation.Cost_Nature] The project cost is estimated at US$20 million. IFC’s proposed investment in Royal is a US$15 million corporate A loan to support the Group in implementing the Project, with the balance of US$5 million through Equity.
+[SponsorCostLocation.Location] The funds will be used in the Royal factory located in the Athi River Export Processing Zone in Nairobi, in the Republic of Kenya.
+[DevelopmentImpact.Impact] The project helps finance a Kenyan garments manufacturer to expand its operations.
+Economy-wide effects: The textiles and apparels sector is a strategic priority in Kenya's economic development agenda. The project is expected to have various positive economy-wide effects including (i) the direct creation of 3,700 formal manufacturing jobs, mostly for women in underserved population groups, and a larger number of indirect jobs, (ii) the generation of valuable foreign exchange earnings for Kenya from increased exports through the expansion of CMT operations.
+Stakeholder effects: The Project is expected to employ people primarily coming from underserved, low-income populations with limited education and skills, and no formal employment history. Beyond providing jobs, the IFC investment will help enhance employees’ technical and soft skills through various training programs and policies. Additionally, the Group is also committed to creating a more inclusive workforce, particularly for women.
+Assessment of Contribution to Market Creation - Competitiveness: The Project is expected to boost the Group's productivity, thereby improving Group's overall competitiveness. This improvement in a domestic apparel producing company will be achieved through a multi-pronged approach including optimization of sewing line staffing, automation of specific tasks and integration of real time data analytics. Furthermore, training local staff on these tools will create a pool of skilled professionals, benefiting the entire industry in Kenya. The project is anticipated to have meaningful demonstration effects, as improvements in productivity and export expansion are likely to encourage other domestic companies in Kenya's textile and apparel sector to adopt similar approaches.
+[DevelopmentImpact.Risk_Assessment] 0 0 0 0 0 0 0 0 0.0000
+[DevelopmentImpact.Role] Financial additionality - Financing Structure: (i) IFC will provide customized financing with two tranches to match the CMT ramp-up (in US$) with 7-year tenor (including 2-year grace period) which is not readily available to the Company in the local market; (ii) IFC will potentially provide concessional financing which will help de risk the project given the limited available security package.
+Non-Financial additionality - Knowledge Innovation and Capacity Building: IFC will help Royal strengthen the workplace policies for the female workforce (i.e. gender) through the Kenya2Equal program. Standard setting - During Project implementation and supervision, IFC will provide technical, environmental and social (E&S), health and safety expertise to improve the overall environmental and safety performance as well as introduce international best practices to the client.
+[RisksMitigation.SocialCategoryRationale] This is a Category B project according to IFC's Policy on Environment and Social Sustainability (2012). Based on information reviewed by IFC, the proposed project will have limited adverse E&S impacts that are few, site specific, largely reversible and readily addressed through existing mitigation measures and good international industry practices (GIIP). Key E&S issues related to the project include: (i) the company's management and monitoring systems to assess and manage E&S risks and impacts from its operations, including those related to expansion of production capacities covered under the project, (ii) management of labor and working conditions, occupational health and safety (OHS) policies and practice and workers’ transportation safety, (iii) monitoring and management of air emissions, waste and wastewater and hazardous materials, (v) life and fire safety and emergency response systems, (vi) raw material supply chain, (vii) the company's stakeholder engagement activities related to E&S aspects.
+[RisksMitigation.EnvSocialRisksImpact] Please refer to the related Environmental and Social Review Summary (ESRS) document for this project.
+[RisksMitigation.MitigationMeasures] Please refer to the Environmental and Social Action Plan (ESAP) tab in the related Environmental and Social Review Summary (ESRS) document for this project.
+[Psw.Facility[0].Key] IDA21-PSW BFF
+[Psw.Facility[1].Key] IDA21-PSW RMF
+[Psw.Facility[2].Key] IDA21-PSW LCF
+[Psw.Facility[3].Key] CCW-IDA21
+[Psw.Facility[4].Key] None
+[Psw.Total_Project_Cost] Not Available
+[Psw.Ifc_OA_Commitment] Not Available
+[Psw.Commercial_CoFinancing] Not Available
+[Psw.Dfi_CoFinancing] Not Available
+[ProjectName] Royal CMT
+[CompanyName] Royal Apparel Group of Companies
+[Department] Regional Industry - MAS Africa
+[Country] Kenya
+[Region] Africa
+[Industry] Manufacturing
+[Sector] Garment and Apparel (Without Fabric , Excluding Footwear)
+[EnvironmentalCategory] B - Limited
+[Status] Active
+[ProjectOverView.Project_Description] The proposed IFC investment seeks to support Royal Apparel EPZ Limited (RAL), Royal Garment Industries EPZ Limited (RGI) and Royal Clothing EPZ Limited (RCL), (together, the Royal Garments Group of Companies, Royal or the Group), a Kenyan garments manufacturing company based in Athi River, to expand the Cut-Make-Trim (CMT) operations in Kenya by constructing a new factory (the Project).
+[ProjectOverView.ESAP] 
+[ProjectOverView.Env_Soc_Inf] Please refer to the Environmental and Social Review Summary (ESRS) linked to this project SII in the IFC's project disclosure website.
+[DocumentType] Summary of Investment Information (AIP Policy 2012)
+[ProjectType] Investment
+## IFC ESRS record, project 48528
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[RelevantProjects[5].Region] Africa
+[RelevantProjects[6].Region] Africa
+[RelevantProjects[7].Region] Africa
+[RelevantProjects[8].Region] Africa
+[RelevantProjects[9].Region] Africa
+[RelevantProjects[10].Region] Africa
+[RelevantProjects[11].Region] Africa
+[RelevantProjects[12].Region] Africa
+[RelevantProjects[13].Region] Africa
+[RelevantProjects[14].Region] Africa
+[RelevantProjects[15].Region] Africa
+[RelevantProjects[16].Region] Africa
+[RelevantProjects[17].Region] Africa
+[RelevantProjects[18].Region] Africa
+[RelevantProjects[19].Region] Africa
+[RelevantProjects[20].Region] Africa
+[RelevantProjects[21].Region] Africa
+[RelevantProjects[22].Region] Africa
+[RelevantProjects[23].Region] Africa
+[RelevantProjects[24].Region] Africa
+[RelevantProjects[25].Region] Africa
+[RelevantProjects[26].Region] Africa
+[RelevantProjects[27].Region] Africa
+[RelevantProjects[28].Region] Africa
+[RelevantProjects[29].Region] Africa
+[RelevantProjects[30].Region] Africa
+[RelevantProjects[31].Region] Africa
+[RelevantProjects[32].Region] Africa
+[RelevantProjects[33].Region] Africa
+[RelevantProjects[34].Region] Africa
+[RelevantProjects[35].Region] Africa
+[RelevantProjects[36].Region] Africa
+[RelevantProjects[37].Region] Africa
+[RelevantProjects[38].Region] Africa
+[RelevantProjects[39].Region] Africa
+[RelevantProjects[40].Region] Africa
+[RelevantProjects[41].Region] Africa
+[RelevantProjects[42].Region] Africa
+[RelevantProjects[43].Region] Africa
+[RelevantProjects[44].Region] Africa
+[RelevantProjects[45].Region] Africa
+[RelevantProjects[46].Region] Africa
+[RelevantProjects[47].Region] Africa
+[RelevantProjects[48].Region] Africa
+[RelevantProjects[49].Region] Africa
+[RelevantProjects[50].Region] Africa
+[RelevantProjects[51].Region] Africa
+[RelevantProjects[52].Region] Africa
+[RelevantProjects[53].Region] Africa
+[RelevantProjects[54].Region] Africa
+[RelevantProjects[55].Region] Africa
+[RelevantProjects[56].Region] Africa
+[RelevantProjects[57].Region] Africa
+[RelevantProjects[58].Region] Africa
+[RelevantProjects[59].Region] Africa
+[RelevantProjects[60].Region] Africa
+[RelevantProjects[61].Region] Africa
+[RelevantProjects[62].Region] Africa
+[RelevantProjects[63].Region] Africa
+[RelevantProjects[64].Region] Africa
+[RelevantProjects[65].Region] Africa
+[RelevantProjects[66].Region] Africa
+[RelevantProjects[67].Region] Africa
+[RelevantProjects[68].Region] Africa
+[RelevantProjects[69].Region] Africa
+[RelevantProjects[70].Region] Africa
+[RelevantProjects[71].Region] Africa
+[RelevantProjects[72].Region] Africa
+[RelevantProjects[73].Region] Africa
+[RelevantProjects[74].Region] Africa
+[RelevantProjects[75].Region] Africa
+[RelevantProjects[76].Region] Africa
+[RelevantProjects[77].Region] Africa
+[RelevantProjects[78].Region] Africa
+[RelevantProjects[79].Region] Africa
+[RelevantProjects[80].Region] Africa
+[RelevantProjects[81].Region] Africa
+[RelevantProjects[82].Region] Africa
+[RelevantProjects[83].Region] Africa
+[RelevantProjects[84].Region] Africa
+[RelevantProjects[85].Region] Africa
+[RelevantProjects[86].Region] Africa
+[RelevantProjects[87].Region] Africa
+[RelevantProjects[88].Region] Africa
+[RelevantProjects[89].Region] Africa
+[RelevantProjects[90].Region] Africa
+[RelevantProjects[91].Region] Africa
+[RelevantProjects[92].Region] Africa
+[RelevantProjects[93].Region] Africa
+[RelevantProjects[94].Region] Africa
+[RelevantProjects[95].Region] Africa
+[RelevantProjects[96].Region] Africa
+[RelevantProjects[97].Region] Africa
+[RelevantProjects[98].Region] Africa
+[RelevantProjects[99].Region] Africa
+[RelevantProjects[100].Region] Africa
+[RelevantProjects[101].Region] Africa
+[RelevantProjects[102].Region] Africa
+[RelevantProjects[103].Region] Africa
+[RelevantProjects[104].Region] Africa
+[RelevantProjects[105].Region] Africa
+[RelevantProjects[106].Region] Africa
+[RelevantProjects[107].Region] Africa
+[RelevantProjects[108].Region] Africa
+[RelevantProjects[109].Region] Africa
+[RelevantProjects[110].Region] Africa
+[RelevantProjects[111].Region] Africa
+[RelevantProjects[112].Region] Africa
+[RelevantProjects[113].Region] Africa
+[RelevantProjects[114].Region] Africa
+[RelevantProjects[115].Region] Africa
+[RelevantProjects[116].Region] Africa
+[RelevantProjects[117].Region] Africa
+[RelevantProjects[118].Region] Africa
+[RelevantProjects[119].Region] Africa
+[RelevantProjects[120].Region] Africa
+[RelevantProjects[121].Region] Africa
+[RelevantProjects[122].Region] Africa
+[RelevantProjects[123].Region] Africa
+[RelevantProjects[124].Region] Africa
+[RelevantProjects[125].Region] Africa
+[RelevantProjects[126].Region] Africa
+[RelevantProjects[127].Region] Africa
+[RelevantProjects[128].Region] Africa
+[RelevantProjects[129].Region] Africa
+[RelevantProjects[130].Region] Africa
+[RelevantProjects[131].Region] Africa
+[RelevantProjects[132].Region] Africa
+[RelevantProjects[133].Region] Africa
+[RelevantProjects[134].Region] Africa
+[RelevantProjects[135].Region] Africa
+[RelevantProjects[136].Region] Africa
+[RelevantProjects[137].Region] Africa
+[RelevantProjects[138].Region] Africa
+[RelevantProjects[139].Region] Africa
+[RelevantProjects[140].Region] Africa
+[RelevantProjects[141].Region] Africa
+[RelevantProjects[142].Region] Africa
+[RelevantProjects[143].Region] Africa
+[RelevantProjects[144].Region] Africa
+[RelevantProjects[145].Region] Africa
+[RelevantProjects[146].Region] Africa
+[RelevantProjects[147].Region] Africa
+[RelevantProjects[148].Region] Africa
+[RelevantProjects[149].Region] Africa
+[RelevantProjects[150].Region] Africa
+[RelevantProjects[151].Region] Africa
+[RelevantProjects[152].Region] Africa
+[RelevantProjects[153].Region] Africa
+[RelevantProjects[154].Region] Africa
+[RelevantProjects[155].Region] Africa
+[RelevantProjects[156].Region] Africa
+[RelevantProjects[157].Region] Africa
+[RelevantProjects[158].Region] Africa
+[RelevantProjects[159].Region] Africa
+[RelevantProjects[160].Region] Africa
+[RelevantProjects[161].Region] Africa
+[RelevantProjects[162].Region] Africa
+[RelevantProjects[163].Region] Africa
+[RelevantProjects[164].Region] Africa
+[RelevantProjects[165].Region] Africa
+[RelevantProjects[166].Region] Africa
+[RelevantProjects[167].Region] Africa
+[RelevantProjects[168].Region] Africa
+[RelevantProjects[169].Region] Africa
+[RelevantProjects[170].Region] Africa
+[RelevantProjects[171].Region] Africa
+[RelevantProjects[172].Region] Africa
+[RelevantProjects[173].Region] Africa
+[RelevantProjects[174].Region] Africa
+[RelevantProjects[175].Region] Africa
+[RelevantProjects[176].Region] Africa
+[RelevantProjects[177].Region] Africa
+[RelevantProjects[178].Region] Africa
+[RelevantProjects[179].Region] Africa
+[RelevantProjects[180].Region] Africa
+[RelevantProjects[181].Region] Africa
+[RelevantProjects[182].Region] Africa
+[RelevantProjects[183].Region] Africa
+[RelevantProjects[184].Region] Africa
+[RelevantProjects[185].Region] Africa
+[RelevantProjects[186].Region] Africa
+[RelevantProjects[187].Region] Africa
+[RelevantProjects[188].Region] Africa
+[RelevantProjects[189].Region] Africa
+[RelevantProjects[190].Region] Africa
+[RelevantProjects[191].Region] Africa
+[RelevantProjects[192].Region] Africa
+[RelevantProjects[193].Region] Africa
+[RelevantProjects[194].Region] Africa
+[RelevantProjects[195].Region] Africa
+[RelevantProjects[196].Region] Africa
+[RelevantProjects[197].Region] Africa
+[RelevantProjects[198].Region] Africa
+[RelevantProjects[199].Region] Africa
+[RelevantProjects[200].Region] Africa
+[RelevantProjects[201].Region] Africa
+[RelevantProjects[202].Region] Africa
+[RelevantProjects[203].Region] Africa
+[RelevantProjects[204].Region] Africa
+[RelevantProjects[205].Region] Africa
+[RelevantProjects[206].Region] Africa
+[RelevantProjects[207].Region] Africa
+[RelevantProjects[208].Region] Africa
+[RelevantProjects[209].Region] Africa
+[RelevantProjects[210].Region] Africa
+[RelevantProjects[211].Region] Africa
+[RelevantProjects[212].Region] Africa
+[RelevantProjects[213].Region] Africa
+[RelevantProjects[214].Region] Africa
+[RelevantProjects[215].Region] Africa
+[RelevantProjects[216].Region] Africa
+[RelevantProjects[217].Region] Africa
+[RelevantProjects[218].Region] Africa
+[RelevantProjects[219].Region] Africa
+[RelevantProjects[220].Region] Africa
+[RelevantProjects[221].Region] Africa
+[RelevantProjects[222].Region] Africa
+[RelevantProjects[223].Region] Africa
+[RelevantProjects[224].Region] Africa
+[RelevantProjects[225].Region] Africa
+[RelevantProjects[226].Region] Africa
+[RelevantProjects[227].Region] Africa
+[RelevantProjects[228].Region] Africa
+[RelevantProjects[229].Region] Africa
+[RelevantProjects[230].Region] Africa
+[RelevantProjects[231].Region] Africa
+[RelevantProjects[232].Region] Africa
+[RelevantProjects[233].Region] Africa
+[RelevantProjects[234].Region] Africa
+[RelevantProjects[235].Region] Africa
+[RelevantProjects[236].Region] Africa
+[RelevantProjects[237].Region] Africa
+[RelevantProjects[238].Region] Africa
+[RelevantProjects[239].Region] Africa
+[RelevantProjects[240].Region] Africa
+[RelevantProjects[241].Region] Africa
+[RelevantProjects[242].Region] Africa
+[RelevantProjects[243].Region] Africa
+[RelevantProjects[244].Region] Africa
+[RelevantProjects[245].Region] Africa
+[RelevantProjects[246].Region] Africa
+[RelevantProjects[247].Region] Africa
+[ESProjCategoryAndApplicableStandard.IAPS] While all Performance Standards are applicable to this investment, IFC’s environmental and social due diligence indicates that the investment will have impacts which must be managed in a manner consistent with the following Performance Standards
+PS 1 - Assessment and Management of Environmental and Social Risks and Impacts
+PS 2 - Labor and Working Conditions
+PS 3 - Resource Efficiency and Pollution Prevention
+PS 4 - Community Health, Safety and Security
+[ESProjCategoryAndApplicableStandard.ESCR] This is a Category B project according to IFC's Policy on Environment and Social Sustainability (2012). Based on information reviewed by IFC, the proposed project will have limited adverse E&S impacts that are few, site specific, largely reversible and readily addressed through existing mitigation measures and good international industry practices (GIIP). Key E&S issues related to the project include: (i) the company's management and monitoring systems to assess and manage E&S risks and impacts from its operations, including those related to expansion of production capacities covered under the project, (ii) management of labor and working conditions, occupational health and safety (OHS) policies and practice and workers’ transportation safety, (iii) monitoring and management of air emissions, waste and wastewater and hazardous materials, (v) life and fire safety and emergency response systems, (vi) raw material supply chain, (vii) the company's stakeholder engagement activities related to E&S aspects.
+[ESRisksOrImpactAndMitigation.ESMM] IFC’s appraisal considered the environmental and social management planning process and documentation for the Project and gaps, if any, between these and IFC’s requirements. Where necessary, corrective measures, intended to close these gaps within a reasonable period of time, are summarized in the paragraphs that follow and (if applicable) in an agreed Environmental and Social Action Plan (ESAP). Through implementation of these measures, the Project is expected to be designed and operated in accordance with Performance Standards objectives.
+PS 1 - Assessment and Management of Environmental and Social Risks and Impacts
+Environmental and Social Policy & Management Systems: RAL has a Health Safety and Environment (HSE) Policy. The company’s social policies and management systems focus on labour and working conditions and are allied with the national law and standards. The company maintains the Worldwide Responsible Accreditable Production (WRAP) certification, which covers labour and working conditions and compliance with local environmental laws ( https://wrapcompliance.org/en/about/what-we-do/12-principles/ ). focuses on product quality and safety. RAL will, as per ESAP #1, augment its corporate HSE policy consistently with the principles of IFC’s PSs.
+Identification of Risks and Impacts: the company ESMS includes a procedure for identification of occupational health and safety (OHS) risks. It requires that the OHS risk assessment be updated every time there is a change in process, equipment, legal requirements and following corrective actions from accidents and incidents. The Environmental aspect identification procedure also covers requirement for environmental and social impact assessment (ESIA). The two procedures require full involvement of worker EHS committees in risk identification and assessment.
+The company shall also conduct E&S risk assessments for the proposed rooftop solar and textile wastewater treatment projects, in accordance with IFC PSs and WBG EHS Guidelines. The E&S risk assessment reports will include the construction phase environmental, health, safety and social management plan (CEHSSMP) to be implemented by the contractors. The company will ensure that the CEHSSMP’s implementation is overseen by a qualified E&S officer. To facilitate this the company shall also develop a Contractor E&S Performance Management Procedure and incorporate it into the existing ESMS. (ESAP #2).
+Management Plans and Programs. The company identifies and manages E&S risks and impacts associated with its operations through compliance with applicable national standards and E&S regulatory permits and requirements. The company has established an environmental and social management system (ESMS) compliant with the national law and commensurate with its current operational E&S risks and impacts. As part of the ESMS, the company has integrated its E&S risk management programs, plans, and procedures into the ESMS Manual, and independent Management Plans/procedures. These plans and procedures cover E&S risks and impacts such as occupational health and safety, resource use, waste management, security, emergency preparedness and response. The company will augment the ESMS per the project ESAP.
+Organizational Capacity and Competency. The RAL Group has an E&S organizational structure responsible for implementing the ESMSs for the three entities. The Group Compliance Manager handles environmental health and safety (EHS) responsibilities and is supported by EHS Officers in each of the three entities, with 2 EHS Officers appointed at RAL (Unit 1 and Unit 2). The Group HR Manager also manages the management of labor risk at the group level, with delegated responsibilities to the facility-level HR and Administration Managers and HR officers.
+Emergency Preparedness and Response: The RAL ESMS incorporates commitments to establish an emergency preparedness and response system. Hazard risk assessments undertaken at facility and operation levels inform the identification of emergencies. Key emergencies identified in the company emergency preparedness and disaster management policies and the requisite plan (EPRP) include fire, floods, terrorist attacks, equipment failure, and environmental spills (including wastewater management systems, steam lines, boilers and fuel loading systems), worker unrest, water contamination and food poisoning. The plan incorporates prevention, response, evacuation, and continuity procedures. The company has appointed/designated management staff and EHS committee members (including fire marshals, first aiders, and nurses), and identified external actors responsible/necessary for implementing the EPRP. RAL also provides annual and periodic training and drills to ensure effective implementation of the EPRP. RAL complies with national fire safety standards and has a valid county fire safety certificate for all its facilities. The company has certified fire marshals and , and regularly service fire extinguishers and alarms; the company has site-specific emergency fire evacuation plans and procedures. RAL will perform an audit of fire alarm, fire safety passive and active systems against the national building and fire state safety codes, and identify a timebound corrective action plan (ESAP #3).
+EHS Training. The company undertakes internal training for their staff through in-person group sessions and tool-box talks on topical issues determined by EHS and HR Management staff. External certified professionals are involved in OHS trainings per local legal requirements covering issues such as first aid, fire emergency prevention and response, and qualifications for staff members in workplace EHS Committees. the company also undertakes training per the requirements of their clients and international certification requirements. The company will expand its training program to cover emerging E&S construction and operation phase risks from the solar roof and waste-water treatment projects. A training schedule covering these requirements for direct staff and contractor workers will be shared with IFC for approval (ESAP #4).
+EHS Monitoring and Review. The ESMS provides for monitoring of implementation and evaluation of the performance of the integrated E&S management plans and programs. The company has established an EHS Committee with staff and management representation for joint monitoring and to enhance the ESH performance of all Strategic Business Units. The RAL Sustainable Business Team is also meant to ensure that the company consistently meets its clients’ EHS standards. Internal and external audits on E&S performance are undertaken to facilitate licensing or permitting by local authorities, including environmental, OHS, labor authorities and the EPZ Authority. Independent audits are also undertaken for client certifications. As part of ESAP #1, the company will improve its E&S monitoring programs to incorporate performance improvement systems and enhance its key performance indicators (KPIs) against its E&S objectives with appropriate leading and lagging indicators, to meet PS requirements.
+PS 2 – Labor and Working Conditions
+RAL has 1,648 staff of which 65% are women. The only third-party workers on the premises are those periodically engaged in short-term equipment servicing. For production activities, RAL sometimes outsources work to its sister companies to meet constraints in customer targets.
+With the project implementation, the RAL staff numbers are expected to increase to about 5,000 direct staff, with a 65% female worker recruitment target.
+Human Resource Policy and Procedures. RAL has documented HR policies and procedures consistent with the Kenyan labor regulations and WRAP principles. The policies and procedures comply broadly with PS 2 requirements except for the gaps identified below. The HR manual outlines the company's labor commitments and provides mechanisms for implementation of its recruitment, induction, performance review, worker communication, general and sexual harassment, protections from reprisals and retaliation, and termination policies. The manual also outlines the company leave policies covering annual, maternity/paternity/adoption, unpaid, study, compensatory and sick leave. At induction, staff are provided with an Employee Handbook presented in English and the national language (Swahili).
+Working Conditions and Terms of Employment. All workers are provided with written contracts covering probation and confirmed employment stages. Wages and salaries are benchmarked against local market rates but are always within the latest local minimum wage requirements. While overtime work is voluntary, the company adheres to local law requirements on maximum overtime hours and overtime pay. All employees are enrolled in the national mandatory health insurance and pension schemes. Staff are issued with monthly salary slip indicating all the wages, bonuses, and overtime earned, as well as the monthly statutory deductions.
+Non-discrimination and Equal Opportunity. RAL has a documented non-discrimination policy and provides employee training on the policy at the induction stage. The procedures provide mechanisms for non-discrimination in recruitment, remuneration, promotion, and termination processes while encouraging reporting of discrimination-related grievances. Job applicants and employees are not required to disclose personal information that is not relevant to work, and female applicants are not subjected to pregnancy tests.
+Workers Organization. The company has documented its commitment to local law and the WRAP principles on freedom of association and collective bargaining. Though RAL workers are not unionized, they can form and join the active worker representatives committee. The committee representatives meet with the management monthly and can express employee grievances for resolution. The RAL group does not discriminate between members and non-members of the worker's organization in terms of employment terms and wages. The company will review its worker (ethics) declaration form to remove any language that could be interpreted to impact legally protected collective bargaining rights (ESAP#5).
+Protecting the Workforce. RAL HR Policies and Procedures Manual and the staff HR handbook explicitly prohibit child labor and forced labor. The company only hires persons above 18 years old and enforces this through verification of national identity cards at recruitment.
+Worker’s Grievance Redress Mechanism (GRM). The RAL grievance redress mechanism is documented in the grievance handling policy and provides for informal and formal resolution processes, escalation mechanisms, and anonymous platforms for grievance reporting through a suggestion box or an anonymous call. However, there are no feedback mechanisms to staff on resolving anonymous grievances. The GRM includes allowances for receipt of group-level grievances and resolution through committees comprising of management and staff representatives. Workers are sensitized on the GRM by receiving copies of the HR handbook provided at induction. The company also has an anti-sexual harassment (SH) policy covering all employees, third-party workers, and visitors to the company premises and incorporates protections from reprisals and retaliation. To meet PS requirements, however, improvements are needed on: (i) definition of the workplace to include work related travel, the company allocated accommodation and staff exposure in the use of company vehicles; (ii) expansion of definitions to include gender-based violence (GBV) in the workplace; (iii) development and implementation of a code of conduct for direct and third party workers; (v) disciplinary mechanisms for management staff who do not respond to SH/GBV cases; (vi) incorporation of survivor centric responses to instances of SH/GBV, and (viii) training of staff tasked with responding to and resolving SH/GBV related complaints. The company will review and update its GRM to close the gaps identified under this section (ESAP #6).
+Retrenchment. The company does not intend to undertake any retrenchment under this project and has never implemented a retrenchment program since its establishment. The company termination policies align with national law including the local requirements for retrenchment on employee notifications, employee engagement and severance pay. The company will update the HR manual to document its commitments under local law and PS 2 requirements on retrenchment (ESAP #7).
+Occupational Health and Safety. The main OHS risks arise from the use of sewing machines, irons, textile riveting machines, detergents, bulk diesel storage, and maintenance of boilers and generators. Depending on the work area, production staff are also exposed to long periods of standing and repetitive tasks with potential for musculoskeletal and eye strain. The RAL EHS Manual outlines the company's commitment to undertake OHS risk assessments and requires an annual review of the Hazard Identification and Risk Assessment. The company has established an OHS program which includes: (i) an OHS management plan with documented OHS prevention and response procedures, (ii) annual audits of workplace lighting, dust, and noise; (iii) facilitation of annual inspection of onsite sanitation, potable water supplies and chemical storage, fire-fighting equipment, boilers and generators per local regulatory and permitting requirements; (iii) Annual occupational health testing covering routine auditory and eye exams for staff exposed to noise and higher risks of eye strain, (iv) Provision of PPE including rubber mats, specialized gloves, and dust masks, (v) provision of staffed nursing stations, first aid facilities, medical facility referral procedures and health insurance under the statutory health insurance fund, and (vi) incident reporting and accident investigation procedures. As indicated under PS 1, employee annual training also incorporates OHS components. The company undertakes occupational exposure measurements for dust (PM10) to inform its OHS risk prevention program and to identify non-compliances for corrective action under the project ESMS. Recent audits show that the work areas and the facility compound are generally within local threshold limits for PM10 The company will improve its accident investigation procedure by incorporating an appropriate root cause analysis methodology and adequately training the EHS Committee to apply these methodologies. RAL will also upgrade its OHS management procedures in line with IFC PS2 and WBG General EHS Guidelines (2007), to include provisions for the development of site-specific risk registers, identification and monitoring of OHS-related diseases, gender considerations in risk assessment and monitoring requirements, including KPIs with leading and lagging indicators, internal and external training schedule for staff and an annual staff health screening schedule. (ESAP #8).
+RAL has sanitation facilities segregated by gender and arrangements for supplementing municipal water supply interruptions. However, the increase in RAL workforce will result in a strain on existing sanitation facilities and their back-up water storage capacity. The company will construct gender segregated toilets and install additional water storage to ensure adequate housekeeping and sanitation for the increased workforce. The additional capacity in sanitation facilities will be undertaken per local building codes and good international industry practice (ESAP#9). In line with local law, the company will also establish a lactation room with adequate privacy for breastfeeding mothers and provide the necessary equipment for safe breastmilk storage during working hours (ESAP#10).
+The company undertakes annual noise audits for the workplace and EHS certification. Noise levels are within occupational noise limits for industrial activities but there are areas where additional measures such as provision of PPE for staff are deemed necessary. RAL will review the noise exposure levels through-out the premises and in applicable zones, institute a hearing protection program for impacted staff, replete with appropriate periodic hearing tests, provision of appropriate PPE and where practical / appropriate, a work rotation program. (ESAP #11). RAL will also expand its noise management and monitoring program to cover any sensitive land uses within its property, such as the areas likely to host the proposed company creche.
+Third Party Workers and Supply Chain. RAL has a contractor and supplier code of conduct, including prohibiting child and forced labor. The company also requires its contractors and suppliers to sign an acknowledgment form that the contractual arrangement can be canceled in cases of non-compliance. RAL policies require a sub-contracting agreement for work outsourced to RCL and RGL. The sub-contracting agreement includes clauses on (i) commitment to compliance with labor and safety standards aligned to RAL HR policies and its labor certifications, (ii) the right for RAL to audit RCL and RGL labor practices, and (iii) the requirement for RCL and RGL to close out of identified corrective actions to obtain customer approvals for the sub-contracted work. The RAL WRAP audit includes a compliance review on subcontracted works, while the Supplier Qualification Program Audit covers the compliance review for RAL suppliers.
+PS 3 – Resource Efficiency and Pollution Prevention
+Resource Efficiency. The company mainly relies on municipal water supply for its operations but sometimes subsidizes this with water purchased from commercial browsers. Electricity is sourced from the national grid, while steaming clothes boilers are fueled using commercial suppliers' fuelwood. Diesel generators also provide back-up power supply to the facility. The company tracks electricity, fuel and water consumption volumes.
+Air Emissions. The project and its immediate neighborhood are zoned for and used by industrial actors. The company yet to establish monitoring of the boilers and backup generator stacks air emissions. Hence, the company will augment the environmental monitoring procedures as part of the ESMS in accordance with national law and WBG General EHS guidelines (2007), (ESAP #12).
+Solid Waste Management. Solid waste from RAL mainly consists of fabric pieces, plastic and paper packaging materials, food waste and boiler ash. The company has a documented waste management plan and has engaged a license waste collection and disposal contractor for disposal of food waste and boiler ash and collection of recyclable material. The company has a waste tracking system that indicates volumes of waste produced and a chain of custody recording system to the final disposal site. The company is in the process of developing a standard operating procedure (SOP) to calculate the mass and balance of fabric recycled into their production system.
+Wastewater Management. Toilet and general cleaning wastewater is disposed into the municipal sewer system. Representatives from EPZA monitor effluent in the sewer system. Under the project, the company will establish an effluent treatment plant (ETP) to treat wastewater from washing of textiles. The design and ETP treatment efficiency, will meet the WBG EHS Guidelines for Textile Manufacturing (2007) effluent levels (Table 2. Effluent levels for the textile industry). Before commissioning the ETP, RAL will integrate the augmented effluent monitoring program into the existing ESMS (ESAP #13).
+Hazardous Materials. The main hazardous materials stored at company facilities are diesel and furnace oil, with smaller volumes of sodium hypochlorite, thinners, insecticide, and soldering fluid. RAL will provide MSDS and refresher training for staff exposed to chemicals and petroleum products (ESAP #14).
+PS 4 – Community Health, Safety and Security
+RAL premises are located in the industrial area, thus, interactions with surrounding settlements are limited. The main community health and safety risks are related to product safety, use of company vehicles and community/visitor interactions with company security personnel.
+Product Safety. RAL has a Quality Management System (QMS) aligned with a Supplier Qualification Program assessment that ensures product safety. The company also has in-house equipment to check for sharps and metals left in the final product before packaging and shipping. The QMS in place outlines personnel and management roles and responsibilities, with provisions for internal audits, corrective action identification, and recall and rework procedures.
+Road Safety. RAL has a traffic and vehicle management policy, that covers vehicle maintenance, inspections, and repairs, drivers' certifications and conduct, compulsory driver training, and a platform for community complaints on driver behavior. The company actions under ESAP #8 on reporting and investigation of incidents and near misses, will be extended to the company vehicles and drivers.
+Security Personnel. RAL Security staff are direct company employees and are charged with general security and as the prevention of unauthorized entry into the premises. RAL implements security protocols aligned to the US Customs Trade Partnership Against Terrorism (C-TPAT) which also aims to prevent trafficking of prohibited and dangerous items in the global supply chain. RAL commitments under WRAP certification include monitoring and audit of security personnel conduct, with no red flags identified in the recent audit. To meet PS 4 requirements, RAL will strengthen its security management policy to include (i) procedures to assess social risks posed by its security arrangements, (ii) conduct background checks on past human rights abuses before engaging security staff, (iii) training security personnel on the appropriate use of force towards workers and communities (ESAP #15).
+[StakeHolderOrEngagements.StakeHolderEngagement] RAL’s stakeholder engagement activities are mainly aligned with local environmental laws on stakeholder engagement and the broader EPZ stakeholder engagement requirements. They include using EPZ notice boards to make public announcements (e.g., recruitment notices), engaging neighbors during ESIA studies and annual EHS audits, and providing emergency numbers on company vehicles to report inappropriate driver behavior or road accidents. RAL also engages local communities through CSR activities such as donations to children’s orphanages in the project area and tree planting.
+RAL will develop and document a stakeholder engagement plan with a community grievance mechanism commensurate to its E&S risks and impacts and per PS 1 requirements (ESAP #16). The SEP will include stakeholder identification, prioritization and mapping and will incorporate strategies and programs for engagement and reporting to all stakeholders (including institutional/regulatory stakeholders) critical to management of all the E&S risks identified under this ESDD.
+[StakeHolderOrEngagements.LAPD] 0 0 0 0 0 0 0 0 0.0000
+Company Name: Royal Apparel Ltd
+Point of Contact: Gayan Fernando
+Address: P.O Box 2247 – 00606 Nairobi
+Email: compliance@Royalapparelepz.com
+Phone: +254 11 3725065
+[EAndSActionPlan] S.no Description Anticipated Completion Date Status
+1 RAL will, as per ESAP #1, augment its corporate HSE policy consistently with the principles of IFC’s PSs.The company will improve its E&S monitoring programs to incorporate performance improvement systems and enhance its key performance indicators (KPIs) against its E&S objectives with appropriate leading and lagging indicators, to meet PS requirements. 12/15/2024 Completed
+2 RAL will undertake E&S risk assessments for the proposed rooftop solar and textile effluent treatment projects, per IFC PSs and applicable WBG EHS Guidelines. The E&S risk assessment reports will include the construction phase environmental, health, safety and social management plan (CEHSSMP) to be implemented by the contractors. The company will ensure that the CEHSSMP’s implementation is overseen by a qualified E&S officer. 10/30/2026 Pending
+3 RAL will audit fire alarm and fire safety passive and active systems against the national building and fire state safety codes and identify a time-bound corrective action plan. The group will also review the shared and individual fire-fighting equipment in all four premises to ensure adequate water pumps for the fire hose. 10/30/2026 Pending
+4 The company will expand its training program to cover emerging E&S construction and operation phase risks from the solar roof and waste-water treatment projects. 10/30/2026 Pending
+5 The company will review its worker code of conduct and declaration form to remove any language impacting legally protected collective bargaining rights. 12/15/2024 Completed
+6 RAL will review and update its prevention of sexual harassment policies and workers’ grievance policy to include mechanisms for responding to GBV/SH risks in the workplace and improve its anonymous reporting platforms in accordance with the requirements of PS2. 04/30/2025 Completed
+7 RAL will update the HR manual to document its commitments under local law and PS 2 requirements on retrenchment. 06/30/2025 Completed
+8 RAL will upgrade its OHS management procedures to include provisions for development of site-specific risk registers, identification and monitoring of OHS related diseases, gender considerations in OHS risk assessment and monitoring requirements including KPIs with leading and lagging indicators, internal and external training schedule for staff and an annual staff health screening schedule. 06/30/2025 Completed
+9 RAL will construct additional gender segregated toilets and install additional water storage to ensure adequate housekeeping and sanitation for the increased workforce. The additional capacity in sanitation facilities will be undertaken in accordance with local building codes and good international industry practice. 03/30/2025 Completed
+10 RAL will establish a lactation room with adequate privacy for breastfeeding mothers and provide the necessary equipment for safe storage of breastmilk during working hours 03/30/2025 Completed
+11 RAL will review the noise exposure levels through-out the premises and in applicable zones, institute a hearing protection program for impacted staff, replete with appropriate periodic hearing tests, provision of appropriate PPE and where practical / appropriate, a work rotation program. 04/30/2025 Completed
+12 RAL will augment the environmental monitoring procedures as part of the ESMS in accordance with national law and WBG General EHS guidelines (2007). 04/30/2025 Completed
+13 RAL will establish an effluent treatment plant (ETP) to treat wastewater from washing of textiles. The new ETP design and its effluent monitoring program, will be in accordance with PS 3 and WBG EHS Guidelines for Textile Manufacturing (2007). Prior to commissioning of the ETP, RAL will integrate the augmented effluent monitoring program into the existing ESMS 06/30/2027 Pending
+14 RAL will provide MSDS and a refresher training for staff exposed to chemicals and petroleum products. 12/31/2025 Completed
+15 RAL will strengthen its security management policy to include (i) procedures to assess social risks posed by its security arrangements, (ii) conduct background checks on past human rights abuses prior to engaging security staff, (iii) training security personnel on the appropriate use of force towards workers and communities. 12/31/2025 Completed
+16 RAL will develop and document a stakeholder engagement plan (SEP) with a community grievance mechanism commensurate to its E&S risks and impacts and in accordance with PS 1 requirements. 10/30/2026 Pending
+[ProjectName] Royal CMT
+[CompanyName] Royal Apparel Group of Companies
+[Department] Regional Industry - MAS Africa
+[Country] Kenya
+[Region] Africa
+[Industry] Manufacturing
+[Sector] Garment and Apparel (Without Fabric , Excluding Footwear)
+[EnvironmentalCategory] B - Limited
+[Status] Active
+[ProjectOverView.Project_Description] Royal Apparel EPZ Limited (RAL or the Company) is an apparel manufacturer founded in 2021 based in Kenya’s Athi River Export Processing Zone (EPZ). The company produces woven pants, knit tops, high-end hospital scrubs, and intimates to supply global apparel brands such as Dickies, Michael Kors, The Children’s Place, and Walmart (see: https://royalapparelepz.com/ ). RAL is a family-owned business and has two other sister companies, namely Royal Garment Industries EPZ Ltd. (RGI) and Royal Clothing EPZ Ltd. (RCL), which together form the RAL Group. The RAL group runs 4 facilities within EPZ, namely RAL Unit 1 combined with the group head office, RAL Unit 2, RCL and RGL.
+IFC is proposing an A loan of up to US$15m to RAL to finance (i) the acquisition of equipment and establishment of new sewing lines to scale up RAL’s production capacity, (ii) construction of a 3kWh rooftop solar power plant, and (iii) construction of a textile wastewater effluent treatment plant with a treatment capacity of 230m3 per day.
+[DocumentType] Environmental Documents
+[ProjectType] Investment
+[BCS] Broad Community Support is not applicable for this project.

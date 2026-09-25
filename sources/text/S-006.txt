@@ -1,0 +1,1664 @@
+=== PAGE 1 ===
+OPPORTUNITY MAPPING / PRE-FEASIBILITY ASSESSMENT
+OF SPECIAL ECONOMIC ZONES (SEZS) IN SOMALIA
+EXECUTIVE REPORT
+SEPTEMBER 2022
+=== PAGE 2 ===
+Acknowledgements
+This document was prepared by UNIDO Somalia Programme team of experts in collaboration with
+the technical team at the Ministry of Commerce and Industry of the Federal Government of Somalia,
+within the framework of the “Productive Sectors Development Programme for Somalia”, implemented
+by UNIDO with FAO and ILO, and funded by Italy through the United Nations Multi Partners Trust
+Fund for Somalia.
+=== PAGE 3 ===
+© UNIDO 2022. All rights reserved.
+This report is the copyright of the United Nations Industrial Development Organization (UNIDO) and has
+been prepared by Triple Line under contract to UNIDO. The contents of this report may not be reproduced
+in whole or in part, nor passed to any other organization or person without the specific prior written
+permission of UNIDO.
+The views expressed in the report are entirely those of the authors and do not necessarily represent the
+views or policies of UNIDO. Comments and discussion on items related to content and opinion should be
+addressed to the author, via 3l@tripleline.com.
+Triple Line has used reasonable skill and care in checking the accuracy and completeness of information
+supplied by the client or third parties in the course of this project under which the report was produced.
+Triple Line is however unable to warrant either the accuracy or completeness of such information
+supplied by the client or third parties, nor that it is fit for any purpose. Triple Line does not accept
+responsibility for any legal, commercial, or other consequences that may arise directly or indirectly as a
+result of the use by Triple Line of inaccurate or incomplete information supplied by the client or third
+parties in the course of this project or its inclusion in this project or its inclusion in this report.
+Document title
+Reference no.
+Prepared by
+Checked by
+Date
+Draft Report: Opportunity Mapping / Pre-Feasibility Assessment of Special
+Economic Zones (SEZs) in Somalia
+SOM-2275J
+Saloni Shah, Liban Mohamed, Michael Castle-Miller, Hawa Wehelie, Morial Shah,
+Bruce Pollock, Mahat Mohamed
+Nikos Papachristodoulou
+19 Septmeber 2022
+Document Control
+This document has been produced without formal United Nations editing. The designations employed and
+the presentation of the material in this document do not imply the expression of any opinion whatsoever
+on the part of the Secretariat of the United Nations Industrial Development Organization (UNIDO)
+concerning the legal status of any country, territory, city or area or of its authorities, or concerning the
+delimitation of its frontiers or boundaries, or its economic system or degree of development. Designations
+such as “developed”, “industrialized” or “developing” are intended for statistical convenience and do not
+necessarily express a judgement about the stage reached by a particular country or area in the
+development process. Mention of firm names or commercial products does not constitute an
+endorsement by UNIDO.
+DISCLAMER
+=== PAGE 4 ===
+Contents
+Contents 
+List of abbreviations 
+1            Introduction 
+1.1         Objectives of this report 
+1.2         Research approach and methodology 
+2           Opportunity Mapping and Pre-feasibility Assessment of SEZs in Somalia 
+2.1         Opportunities for SEZs in Mogadishu 
+2.1.1       Mogadishu: location advantages, economic opportunities, and key challenges 
+2.1.2       Opportunities for SEZs in Mogadishu 
+2.2         Opportunities for SEZs in Baidoa 
+2.2.1       Baidoa: location advantages, economic opportunities, and key challenges 
+2.2.2       Opportunities for SEZs in Baidoa
+2.3         Opportunities for SEZs in Bossaso 
+2.3.1       Bossaso: location advantages, economic opportunities, and key challenges
+2.3.4       Opportunities for SEZs in Bossaso 
+3            Roadmap and strategy to develop SEZs in Somalia 
+3.1          Vision and policy agenda for SEZs in Somalia 
+3.2          Phased development of SEZs
+3.3          Legal, regulatory, and institutional framework for SEZs 
+3.4          Financing SEZs and investment promotion 
+3.5          Action plan to implement SEZs in Somalia 
+Annex 1. Key Legal Lessons of SEZ Development from other FCAS
+=== PAGE 5 ===
+List of abbreviations
+ADR                
+AfDB               
+AMISOM          
+BRA                
+CAS                 
+CSET               
+CWS            
+DDG                
+DRC           
+EDU              
+FGS               
+FMS                
+GEEL              
+Global GAP     
+IDPs                
+ILO                
+IOM RDS         
+IQF                  
+MEB                
+MoCI               
+MT                  
+NAEB              
+NTFC               
+OSS               
+PCS              
+PSDP             
+SoBS               
+SDZ                
+SEZs            
+SMIIC            
+SSF                
+SURP             
+TEU                 
+Tkm                
+UAE                
+UCT                
+UNIDO            
+UNDP             
+UNOPS           
+WFP               
+Alternative Dispute Resolution 
+African Development Bank
+African Union Mission in Somalia
+Banadir Regional Administration 
+Customs Automated System 
+Centre for Social & Economic Transformation
+Cash for Work Schemes 
+Danish Demining Group 
+Danish Refugee Council
+Enterprise Development Unit
+Federal Government of Somalia 
+Federal Member States
+Growth, Enterprise, Employment and Livelihoods
+Global Good Agricultural Practices
+internally displaced people
+International Labor Organization 
+International Organization for Migration’s Recovery and Durable Solutions Unit
+Individual Quick Freeze 
+Minimum Expenditure Basket
+Ministry of Commerce and Industry 
+Metric tonnes
+National Agriculture Export Board
+Somalia National Trade Facilitation Committee 
+one-stop shops 
+Provisional Constitution of Somalia
+Productive Sector Development Programme
+Somali Bureau of Standards 
+Sustainable Development Zone
+Special Economic Zones 
+Standards and Metrology Institute for Islamic Countries 
+Somalia Stability Fund 
+Somalia Urban Investment Planning Project 
+Twenty-Foot Equivalent 
+Ton-Kilometer 
+United Arab Emirates
+Unconditional Cash Transfer 
+United Nations Industrial Development Organization 
+United National Development Program
+United Nations Office for Project Services
+World Food Programme
+=== PAGE 6 ===
+1. Introduction
+Mapping of opportunities and conducting
+pre-feasibility assessment of SEZs in
+Somalia; and 
+Design of a strategy for developing SEZs in
+Somalia, including a legal, regulatory, and
+institutional framework.
+As part of its activities implemented within the
+framework 
+of 
+the 
+Productive 
+Sector
+Development Programme (PSDP) for Somalia,
+the United Nations Industrial Development
+Organization (UNIDO) is working with the
+Ministry of Commerce and Industry (MoCI) of
+the Federal Government of Somalia (FGS) to
+evaluate the role of Special Economic Zones
+(SEZs) in the country. In this process, UNIDO
+commissioned 
+Triple 
+Line 
+Consulting 
+to
+undertake an opportunity mapping and pre-
+feasibility assessment of SEZs in Somalia.
+Accordingly, the objectives of this report are
+two-fold: 
+1.1. Objectives of this report 
+The assignment’s approach and methodology
+covers¹:
+Pre-feasibility assessment of three potential
+SEZs in Somalia, including fish and food
+processing 
+industry 
+in 
+Mogadishu, 
+agro-
+commodity processing in Baidoa and fish
+processing industry in Bossaso. The value
+chains were selected based on: (a) maximum
+economic 
+impact 
+in 
+terms 
+of 
+market
+opportunity, trade balance and job creation,
+(b) competitive advantage in extent of local
+value addition and price, and (c) increased
+private sector participation through support
+from development partners and existing
+registered companies that have investment
+capacity. The locations were selected based
+on: (a) ease of transportation from one
+economic hub to the nearest one along the
+corridor, as measured by speed, checkpoints 
+1.2. Research approach and
+methodology 
+¹The approach and methodology for the final phase of the study was provided in the Phase 2 Report (dated 21 December 2021).
+Private sector players in these three
+economic hubs and respective value
+chains;
+FGS stakeholders, including MoCI, Ministry
+of Agriculture, and Ministry of Fisheries &
+Marine Resources;
+Federal Member States of Puntland and
+Southwest 
+and 
+Banadir 
+Regional
+Administration; 
+Real estate and logistics companies in
+Mogadishu 
+with 
+an 
+annual 
+turnover
+ranging from $10 million to $100 million
+that could be potential SEZ developer-
+operators.
+per 
+kilometer, 
+transportation 
+costs, 
+and
+upcoming road rehabilitation programs along
+the corridor, (b) support or interest from the
+local government and collaborations/existing
+partnerships between state government and
+UNIDO; (c) private sector development in the
+economic hub measured by partnerships
+between 
+UNIDO 
+and 
+local 
+chamber 
+of
+commerce 
+(this 
+indicator 
+provides 
+an
+assessment of a platform available for
+investment attraction), number of registered
+firms, donor programs and population (to
+estimate workforce availability). 
+ The team carried out extensive consultations
+with: 
+Findings from these consultations have been
+analyzed 
+and 
+the 
+report 
+provides 
+an
+assessment of market demand, type of
+infrastructure, 
+commercial 
+viability,
+implementation modality and potential sites
+for each of the three SEZ opportunities.
+Recommendations on legal, regulatory, and
+institutional framework required to develop,
+finance, operate and regulate SEZs in Somalia.
+Here, 
+we 
+conducted 
+consultations 
+with
+relevant FGS bodies and FMS to understand
+current system and provide recommendations.
+=== PAGE 7 ===
+Mogadishu is Somalia’s capital city, the largest
+city, and an economic and financial hub. With
+a population of at least 2.5 million, Mogadishu
+has been growing rapidly. The city is bustling
+with real estate boom, large volumes of
+imports of consumer goods, construction
+works, proliferation of small and medium sized
+processing 
+and 
+assembly 
+units,
+telecommunications and road infrastructure,
+banking, and hospitality services. 
+The Port of Mogadishu is the largest in Somalia
+handling on average 4,000 to 10,000 Twenty
+Foot Equivalent (TEU) containers per month. In
+2020, the port authorities handled 164,175 TEUs
+increasing at an average rate of 114% since
+2015.1 Located along the coast of Indian Ocean,
+the Port of Mogadishu offers direct trade
+routes to the Middle East and South Asia.
+Garments, furniture, machinery, construction
+materials, pharmaceuticals, soaps and plastics,
+food 
+commodities 
+such 
+as 
+sugar, 
+rice,
+vegetable oil, cereal flour are imported from
+China, India, Turkey, Malaysia through the Port
+of Mogadishu. On the other hand, fish (mainly),
+sesame 
+seeds, 
+bananas, 
+livestock, 
+and
+frankincense are exported through the Port to
+Saudi Arabia, UAE, Japan, China, Oman, India
+and Turkey.2  
+The 
+trading 
+activity 
+has 
+transformed
+Mogadishu 
+into 
+a 
+logistics 
+hub. 
+Goods
+imported are consolidated and distributed 
+1 Consultations with Ministry of Ports and Maritime Transport, Federal Government of Somalia 
+2 International Trade Center Statistics for Exports from Imports to Somalia for HS Code 6 digits (2011 to 2019) (mirror data)
+through the two key markets of Bakaara and
+Suuq Bacaad, located in the center of
+Mogadishu. 
+This has given opportunities to private sector
+that has invested in transport companies and
+co-operatives, third party logistics services
+such as customs clearance and warehousing,
+and distribution and trading companies. 
+On the other hand, exports of fish and sesame
+seeds have supported development of fish co-
+operatives, fish processing companies and
+sesame exporting companies. Additionally,
+Mogadishu has also attracted investments
+from local entrepreneurs and their diaspora
+families in light manufacturing industries such
+as 
+mattresses, 
+interlocking 
+(to 
+produce
+household items such as furniture, electrical
+and plumbing works), soaps and detergents,
+construction materials such as bricks, food
+items such as yoghurt, maize flour, fruit juices
+and among others. 
+Establishment of these small and medium
+scale companies in logistics, trading, and light
+manufacturing has further attracted large
+scale investments from diaspora groups in
+service sector – telecommunications, banking
+and financial services, energy and water
+supply, real estate, and hospitality. Some of
+these companies have grown to be large
+conglomerates over the last two to three
+decades, operating in more than one service
+sector and having presence in foreign markets
+such as UAE, Saudi Arabia, Turkey, Qatar, UK,
+USA, Kenya and Egypt. 
+All 
+these 
+developments 
+have 
+created
+significant employment and entrepreneurial
+opportunities for residents of Mogadishu and
+other towns and villages in Somalia that
+support these industries.
+2. Opportunity Mapping and Pre-feasibility Assessment
+of SEZs in Somalia
+2.1. Opportunities for SEZs in
+Mogadishu 
+2.1.1. Mogadishu: location advantages,
+economic opportunities, and key
+challenges 
+Location advantages and economic
+opportunities
+=== PAGE 8 ===
+There are many constraints that are limiting
+Mogadishu’s inclusive and resilient economic
+development. The legacy of civil war has left
+the city dealing with ongoing insecurity, hybrid
+forms of governance, and land conflicts rooted
+in clan competition. Access to livelihoods,
+housing and services is mediated through clan
+networks, 
+often 
+leaving 
+minority 
+groups,
+women, and displaced people at a significant
+disadvantage. The city has large number of
+Internally Displaced Persons (IDPs) living in
+IDP camps and informal settlements and with
+no stable jobs and income opportunities.
+There are continuous disputes on land which
+lead to large-scale evictions of the urban poor,
+creating 
+further 
+poverty 
+and 
+extreme
+inequality. 
+Most of the basic services such as education,
+health, 
+water, 
+transportation, 
+electricity,
+banking, and telecommunications are provided
+by the private sector through diaspora
+investments. Clan elders, business leaders,
+militia, civic groups, and religious authorities
+may provide basic security and rudimentary
+social safety nets. The privatization of basic
+services and security does not necessarily
+translate into increased choice, as single
+providers either dominate or have aligned
+their prices. Commodification of services
+generates acute problems of access for
+households unable to pay, and for those
+without networks of clan support. Inequalities
+are compounded by the concentration of
+diaspora investments and clan-linked service
+provision in particular neighborhoods, and
+exclusion 
+of 
+non-clan 
+members 
+from
+provision.4  
+4 Earle Lucy (2021) Mogadishu: City Scoping Study, African Cities Research Consortium 
+5 Ibid.
+On the other hand, while water supply services
+have expanded, it is beset by shortages and
+substandard quality. Urban poor households
+do not have access to piped water and rely on
+direct water intake from shallow wells. The
+government is not actively involved in water
+supply delivery and therefore the services are
+entirely privatized. While there is no shortage
+of water in the city, there are indications that
+ground water is polluted. A similar situation
+exists in electricity supply – the services are
+provided by private companies to households
+and businesses that can afford. There are
+issues around reliability of electricity and the
+need for a diesel-or-petrol-powered generator
+as a backup during power outages.5 As a
+result, several companies, particularly light
+manufacturing businesses are unable to
+operate to the full capacity. More on this along
+with specific evidence has been discussed in
+upcoming sections of the report.
+In short, the economic opportunities bound by
+constraints 
+continue 
+to 
+characterize
+Mogadishu as a rapidly growing yet a fragile
+city. However, this also provides opportunities
+for the city to develop an SEZ that can leverage
+on the growing fisheries and food processing
+industry and address several of the business
+environment constraints.
+2. Opportunity Mapping and Pre-feasibility Assessment
+of SEZs in Somalia
+Constraints to inclusive and resilient
+economic development in Mogadishu
+=== PAGE 9 ===
+2. Opportunity Mapping and Pre-feasibility Assessment
+of SEZs in Somalia
+*Source: Triple Line analysis based on consultations with a grains processing plant in Mogadishu. 
+To address infrastructure and spoilage related
+challenges 
+that 
+informal 
+traders 
+and
+processors face, it would be imperative to
+rehabilitate existing market infrastructure and
+provide an integrated infrastructure through a
+user-fee model. 
+2.1.2. Opportunities for SEZs in
+Mogadishu
+SEZ for informal fish processors serving
+the domestic market
+The SEZ for informal fish processor-traders
+would include a demarcated zone with fish-
+processing, logistics and market infrastructure,
+combined 
+with 
+services 
+such 
+weighing
+machines, quality inspection, training, and
+capacity 
+building, 
+forming 
+of 
+trader-co-
+operatives, provision of equipment such as
+wooden crates, tarpaulin mats, and among
+others. Traders and processors (both men and
+women) would use the infrastructure daily and
+pay a daily or a weekly user fee. In this section,
+we have defined the type of infrastructure and
+services to be provided, approximate costs for
+providing the infrastructure and a highlevel
+assessment of its commercial viability.
+The SEZ for formal fish and food processing
+companies in Mogadishu would include a
+demarcated zone which offers a transparent,
+regulated, and secure business environment,
+such 
+that 
+companies 
+are 
+not 
+levied
+differentiated tariffs on utilities and other
+aspects of doing business. Basically, all firms
+will be treated equally and will be charged
+same fees starting from registering the
+business to operating the business, such that 
+SEZ for formal fish and food processing
+companies
+there would be no bias or favoritism or any
+form of illegal payments. Additionally, the SEZ
+would offer reliable infrastructure and services
+such as water supply and electricity, combined
+with 
+complementary 
+services 
+such 
+as
+inspection and quality control, warehousing,
+waste management, logistics and among
+others, that would help companies to (a)
+reduce cost of production per unit and (b)
+scale and expand business by increasing
+profits and re-investing the profits into the
+company. The end objective of the proposed
+SEZ in Mogadishu would be to increase value-
+addition and production of locally made food-
+items to improve Somalia’s trade balance and
+to serve as an example where business
+environment (with all the existing regulations
+in place) is better and secure than elsewhere
+in the country. In simple words, the zone must
+be ‘special’ and provide infrastructure and
+services that are not available in the rest of
+the country and thereby, contribute to the
+country’s 
+economic 
+development 
+agenda.
+Similar to the previous section, we describe
+the type of infrastructure required for the
+proposed SEZ, analyze key challenges and
+assess the commercial viability.
+=== PAGE 10 ===
+2. Opportunity Mapping and Pre-feasibility
+Assessment of SEZs in Somalia
+Baidoa, the capital of the Bay Region in South
+West State of Somalia, is a strategic town and
+an 
+economic 
+hub 
+situated 
+along 
+the
+Mogadishu – Doolow (Ethiopia) – Mandera
+(Kenya) 
+corridor. 
+The 
+town 
+is 
+nearly
+equidistant from Mogadishu (244 kilometers
+away) and Doolow (227 kilometers). It lies
+between the two key rivers in Somalia – Jubba
+and Shabelle, making the area around Baidoa
+within Bay Region the most fertile in the
+country for agriculture production. These
+characteristics make Baidoa a natural agro-
+logistics cluster for production and 
+2.2. Opportunities for SEZs in
+Baidoa  
+2.2.1. Baidoa: location advantages,
+economic opportunities, and key
+challenges 
+Location advantages and economic
+opportunities 
+distribution of food items (grains, nuts, fruits
+and vegetables) and a habitat for agro-
+pastoralists to feed livestock. Sorghum is the
+key crop produced in Bay Region (around
+145,000 MT per year), followed by maize,
+cassava and sesame seeds.40 These crops are
+consolidated 
+at 
+Baidoa 
+and 
+traded 
+by
+middlemen (wholesalers) to neighboring rural
+and urban centers, including Mogadishu’s
+Bakaara Market, Merka, Qoriyoley (in Lower
+Shabelle Region), Bardera and Beled Hawa
+(Gedo Region), Hudur and Wajid (Bakool
+Region) and even to Beledweyne, capital of
+Hiran Region in Hirshabelle State and to cross-
+border towns of Kenya and Ethiopia. The town
+also serves as a transit point for livestock
+(camel, 
+cattle, 
+sheep, 
+and 
+goat) 
+being
+transported and traded to Garissa – Kenya’s
+key livestock market in the north.41 
+Figure 1: Baidoa as an agro-logistics cluster along the Mogadishu – Baidoa – Doolow (ETH) & Mandera (KE)
+Economic Corridor
+Source: Triple Line Inception Report (dated 05 October 2021). 
+40 Average Crop Production in Somalia 2010-2019 in MT, FAO Statistics; Triple Line Inception Report (dated 05 October 2021). 41
+AMISOM (2013) Sector III Profile: Baidoa.
+=== PAGE 11 ===
+2. Opportunity Mapping and Pre-feasibility
+Assessment of SEZs in Somalia
+Additionally, Baidoa also serves as a trading
+center for household items (processed food
+such as flour, rice, sugar and oil, furniture,
+home electric fittings, household appliances)
+which are imported from foreign markets
+through Mogadishu Port and distributed to
+other towns in Southern and Central Somalia.
+These economic opportunities have created
+employment 
+for 
+people 
+in 
+Baidoa 
+and
+neighboring towns. Most of these people work
+as farmers, traders, distributors of agriculture
+inputs, agro-pastoralists, transporters, and
+informal retailers. Moreover, the ongoing
+movement of traders and transporters and
+other types of middlemen have created
+opportunities for service sector such as small-
+scale hotels and lodges, restaurants, bajaj
+(three-wheeler vehicles) transport services,
+financial services (mobile payment agents),
+hair-dressing/beauty 
+salons 
+and 
+among
+others.
+Banks such as Dahabshiil, IBS and Salaam
+have opened branches. This has helped
+traders and SMEs to access small loans of US$
+5,000 to 20,000. Some of the SMEs, co-
+operatives and farmers have received support
+from aid agencies in the form of training,
+receipt 
+of 
+fertilizers, 
+seeds 
+and 
+other
+agriculture inputs and grants to expand their
+business/production 
+activities.42 
+While
+firewood and charcoal continue to remain
+important sources of energy (especially for
+cooking), several residents in Baidoa also
+enjoy 24 hours electricity provided by Baidoa
+Electric Company and BECO. Most residents
+also have access to mobile phones and
+landline. The town is fully covered by 4G
+portable internet from service providers such
+as Hormuud and Somtel. With the growth of
+telecommunication service providers, several
+internet or cyber cafes have proliferated in the
+city.43 Lastly, between 2015 and 2019, more
+than 20 kilometers of feeder roads were
+rehabilitated through funding from Somalia
+Stability Fund (SSF), Danish Refugee Council
+(DRC), International Labor Organization (ILO)
+and International Organization for Migration’s
+Recovery and Durable Solutions Unit (IOMRDS).
+Five community roads were rehabilitated with
+cobble stone, approximating a total of 2.9
+kilometers, and funded by Norwegian Ministry
+of 
+Foreign 
+Affairs 
+and 
+United 
+National
+Development Program (UNDP) Somalia. The
+Baidoa Municipality also built a bridge on the
+road known as ’30-ka Road’ with support from
+SSF and Danish Demining Group (DDG). The
+aim was to improve accessibility for trucks
+coming from Mogadishu to Gedo Region (which
+hosts the cross borders of Doolow and
+Mandera with Ethiopia and Kenya respectively)
+while passing through Baidoa.44 
+Further progress made in Baidoa through
+efforts from Baidoa Municipality in
+collaboration with international aid
+agencies
+These opportunities were also accelerated by
+continuous efforts by the Baidoa Municipality
+to improve the business environment and
+provide 
+basic 
+infrastructure. 
+Since 
+the
+deployment African Union Mission in Somalia
+(AMISOM) forces in 2013, security has improved
+in the town. Baidoa Municipality has made
+remarkable reforms and progress in service
+delivery and in decentralization of governance
+to 
+the 
+subdistricts 
+of 
+Baidoa. 
+The
+administration has continued engagement
+with development agencies to bring stability
+and support to the sub-districts in the rural
+areas in the hinterland of Baidoa.
+42 Research and Evidence Facility (REF) (July 2020) Baidoa Municipality Initiatives on Population Displacement and Urbanization: Key
+Lessons Learned and Way Forward; funded by the EU Trust Fund for Africa (horn of Africa Window) 
+43 Ibid. 
+44 Ibid
+=== PAGE 12 ===
+2. Opportunity Mapping and Pre-feasibility
+Assessment of SEZs in Somalia
+The combined effects of drought and on-
+going crisis in Baidoa have had a harmful
+impact 
+on 
+economic 
+stability 
+and
+livelihoods, 
+leading 
+to 
+a 
+chronic
+humanitarian 
+situation 
+and 
+major
+displacements of population. According to
+UN-Habitat, in 2014, the Bay Region had a
+total population of 792,182 persons, of
+which approximately 30% were nomads
+and Internally Displaced Persons (IDPs)
+and many of these resided in Western part
+of the Baidoa town near the airport and in
+the Northern part (Horeseed quarter).46
+Some 
+of 
+the 
+IDPs 
+are 
+temporarily
+employed through Cash for Work Schemes
+(CWS) to do construction works such as
+laying of roads and maintenance of
+machinery. They are not employed in more
+stable income generating opportunities
+such as painting of houses and buildings,
+agriculture 
+production, 
+tailoring 
+and
+hairdressing.
+Challenges deterring economic
+development and solutions being
+explored
+During 
+the 
+dry 
+seasons 
+(particularly
+between February and April), Baidoa faces
+a water crisis – the Isha Spring located at
+the center of the town dries up completely
+and further leaving the borewells and
+shallow wells to also dry up. This causes
+several 
+residents 
+(specifically 
+agro-
+pastoralists) to migrate north or south-
+wards to feed water to livestock. This crisis
+has been further exacerbated dur to
+changing climatic conditions. Frequent
+droughts in Southern and Central Somalia
+have impacted agriculture production and
+the capacity of livestock to survive and
+therefore 
+significantly 
+impacting
+livelihoods of people in the Bay Region.
+Market activity in Baidoa is also closely
+correlated with seasonality and climatic
+conditions. Low production levels lead to
+increased dependence of food items from
+foreign 
+markets. 
+Prices 
+of 
+imported
+commodities increase during the dry
+season. This also serves as the opportunity
+for 
+increased 
+insecurity 
+along 
+the
+Mogadishu – Baidoa corridor – high toll
+fees are imposed, and goods are looted
+from trucks – as a result, such deteriorated
+business environment only favors the
+largest traders and businessmen who have
+the capacity to incur high marginal costs.45
+Despite these achievements and economic
+progress, Baidoa remains vulnerable to several
+climate-related, security and infrastructure-
+related challenges which prohibit consistent
+development in the city:
+45 REACH (2018) Comprehensive Site Assessment – Baidoa District
+46 UNHABITAT & IOM (2017) Spatial Analysis for Urban Planning Consultations and Durable Solutions for Displacement Crisis –
+Working Paper 
+47 REACH (2018) Comprehensive Site Assessment – Baidoa District
+In an effort to find long-term solutions, the
+FGS and South West State's Ministry of Water
+approached the AfDB to support development
+of water infrastructure for Baidoa town. The
+municipality recommended the construction of
+dams to harvest rainwater from Isha River (a
+dry river with flash floods during the
+monsoons). The dam could positively affect
+the 
+ground 
+water-table 
+and 
+support
+development of boreholes. So far, a feasibility
+study has been carried out. The overall
+proposition includes construction of a dam
+with more boreholes in areas with adequate
+underground water. A hydrogeological survey
+will be carried out to determine areas with
+adequate ground water.47
+=== PAGE 13 ===
+2. Opportunity Mapping and Pre-feasibility
+Assessment of SEZs in Somalia
+Source: Consultations with stakeholders
+Photos: Farmer sun-drying maize (left) and group of women peeling maize post drying (right)
+The objective of the SEZ in Baidoa would be to
+reduce post-harvest losses and effectively
+manage storage and distribution of agriculture
+inputs such as seeds. We recommend an Agro-
+Logistics SEZ in Baidoa which would include
+three facilities – (1) grains processing and
+logistics facility, (2) horticulture cold storage
+and pack-house and (3) warehouses for
+agriculture input companies/distributors. 
+2.2.2. Opportunities for SEZs in Baidoa 
+Figure 2: Implementation Modality of Baidoa Agro-Commodities SEZ
+The private sector and South West government
+have not indicated any specific locations for
+the development of the SEZ within Baidoa
+Potential Sites
+The 
+Baidoa 
+Agro-Logistics 
+SEZ, 
+can 
+be
+implemented through a private developer-
+operator model. 
+Implementation Modality and Commercial
+Viability
+The private developer-operator can develop,
+finance and operate the facility comprising of
+all the infrastructure mentioned above, and
+can levy a fee on processor-traders. The South
+West Member State can provide land and enter
+into a land-lease arrangement with the
+developer-operator, while the Ministry of
+Commerce and Industry and Ministry of
+Agriculture can regulate and monitor the
+performance of the SEZ. The exhibit below
+provides an illustration of the implementation
+modality
+=== PAGE 14 ===
+2. Opportunity Mapping and Pre-feasibility
+Assessment of SEZs in Somalia
+58 UN-HABITAT (2009) Bossaso – First Steps Towards Strategic Urban Planning 
+59 Humanitarian Information Unit, US Department of State (2009) Puntland: Instability Masking Economic Viability
+2.3 Opportunities for SEZs in
+Bossaso 
+2.3.1 Bossaso: location advantages,
+economic opportunities, and key
+challenges
+Location advantages and dependence on
+livestock for livelihood
+Bossaso, situated on the Gulf of Aden, is the
+third largest city in Somalia (not including
+Somaliland), the capital of Bari Region and the
+most important center on the Puntland coast.
+The city has an estimated population of
+250,000 excluding the number of internally
+displace people which are estimated to be
+45,000 and growing further. 
+The population has been increasing because
+IDPs and nomadic population are leaving the
+south due to drought and other climatic
+conditions 
+impacting 
+livelihoods. 
+The
+municipality estimates that since 2009, on
+average, 2,000 people migrate into Bossaso
+every year.58
+The climate of Bossaso is very hot and humid;
+the temperatures in the summer can approach
+50 degrees Celsius. As a result, agriculture
+production is nearly absent, making Bossaso
+dependent on south-central Somalia and
+foreign markets for food. Residents of Bossaso
+are mainly traders, pastoralists, and fishermen
+– they export livestock, frankincense, myrrh,
+gums, fish, and animal products (hides, butter,
+etc.) to Middle Eastern markets and import
+food products, clothes, medicine, and other
+commodities in return.
+Livestock is the main product exported; the
+Government of Puntland claims to earn 40
+percent of its revenue from livestock sector.59 
+Between 2005 and 2015, an average of 100,000
+cattle, 20,000 camels and 1.5 million goats
+travelled through the port of Bossaso annually
+to foreign markets such as Yemen, Oman, the
+UAE, Saudi Arabia, Kuwait, Bahrain, Egypt, Qatar
+and Libya. 52% of the livestock originated in
+the interior regions of Puntland, with the rest
+from Southern Somalia (30 percent) and
+Ethiopia (18 percent). This livestock trade
+peaks during the Hajj season, when large
+livestock carriers are moored in the port and
+ready to transport livestock across the Red Sea
+to the Port of Jeddah in Saudi Arabia.60 
+Foreign 
+exchange 
+earned 
+from 
+livestock
+exports is then used by Puntland traders to
+source foods from a number of international
+markets: India is the major source for sugar
+and rice; flour comes from Oman, Egypt, UAE
+and Turkey; spaghetti is sourced from Turkey,
+Oman and the UAE; and cooking oil comes
+from Malaysia.61 
+Declining livestock trade and fisheries
+sector as the alternative source of income 
+However, four consecutive years of drought
+have resulted in limited water supplies for
+livestock and people who trek long distances
+searching for water. Additionally, due to Covid-
+19 lockdowns, the food importers in Bossaso
+hoarded stocks and often spread rumors of
+impending shortages, such as rice imports
+from India. Prices of sugar, rice, and cooking
+oil increased in 2020 by nearly 20% within two-
+week period. Food importers also remained
+concerned about sourcing food commodities.
+Import of cooking oil from Malaysia took more
+than the average 30-40 days to arrive in
+Puntland markets. Disruptions in global supply
+chains and many countries dependent on
+Malaysia and Indonesia for palm oil were other
+contributing factors.62
+=== PAGE 15 ===
+2. Opportunity Mapping and Pre-feasibility
+Assessment of SEZs in Somalia
+60 Dua Jatin, Warsame Abdideeq and Shire Ahmed (2020) Bossaso and the Gulf of Aden – Changing Dynamics of a Land-Sea Network, funded by UKAID
+in partnership with The Asia Foundation and Carnegie Middle East Center 61 Majid Nisar, Salman Hasssan, Sahra Ahmed Koshin, Ahmed M. Musa and
+Khalif Abdirahman (2020) Puntland and COVID-19: Local Responses and Economic Impact, LSE Conflict Research Programme Blog 62 Ibid 63 Ibid 64 Dua
+Jatin, Warsame Abdideeq and Shire Ahmed (2020) Bossaso and the Gulf of Aden – Changing Dynamics of a Land-Sea Network, funded by UKAID in
+partnership with The Asia Foundation and Carnegie Middle East Center
+In Puntland, banks such as Amal, Dahabshiil,
+and Salaama all provide loans, and many
+small businesses take out loans of US$ 10,000
+to US$ 20,000. Livestock traders are amongst
+the users of this facility. Due to Covid-19,
+access to these loans dried up as the banks
+were not sure whether people will be able to
+make 
+the 
+monthly 
+repayments. 
+Lastly,
+remittances also reduced and visits from
+diaspora to Somalia decreased in the last two
+years.63 
+Drought, locusts, and other climatic factors
+have increasingly made fisheries and potential
+oil reserves as the alternative economic
+opportunities to the people of Puntland. The
+Covid-19 pandemic has also contributed to
+reduced dependence on livestock trade and
+increase in exports of fish products to earn
+foreign exchange and import food items. 
+Moreover, in 2017, Dubai-based DP World, one
+of the largest port operators in the world and
+backed by the Dubai government, won a 30-
+year concession worth US$ 336 million to
+rehabilitate and manage the Bossaso Port. The
+Government of Qatar has revealed plans to
+build a port in Hobyo, on the eastern coastline
+of Puntland that would rival Bossaso for
+maritime trade in the region. Similarly, Dubai
+has 
+established 
+concessions 
+with 
+the
+Somaliland government to run the Berbera
+Port, leading to further port rivalries in the
+region.64 
+Irrespective of the port rivalries to import food
+items for Somalia and hinterland of Horn of
+Africa, the Port of Bossaso serves to be a
+strategic infrastructure to export fisheries,
+livestock and frankincense. 
+There is an opportunity to support the
+emerging 
+fish 
+industry 
+in 
+Bossaso 
+by
+developing an SEZ that strengthens both the
+types of value chains described above. The SEZ
+in Bossaso can be known as the ‘Fish
+Processing Zone’ including two types of
+facilities: Fish processing and logistics facility
+for informal traders  and Fish processing
+facility for formal investors/exporters
+2.3.2 Opportunities for SEZs in Bossaso
+Type of Infrastructure
+Bossaso Fish Processing Zone would be
+implemented 
+through 
+private 
+sector
+participation – an SEZ developer-operator can
+develop base infrastructure on a demarcated
+zone and develop two separate facilities that
+would run in parallel – (1) the fish processing
+and 
+logistics 
+facility 
+for 
+informal
+processortraders and (2) fish processing zone
+for formal investors/exporters. 
+Implementation Modality and Commercial
+Viability 
+The users of facility 1 will pay daily or weekly
+user-fee whereas the formal investors will pay
+a monthly fee including rent for serviced land
+and other fees depending on additional
+services used within the zone. We estimate
+that the zone would occupy 100-150 informal
+processor-traders and at least 3-5 fish
+exporting companies. 
+We cannot fully estimate the commercial
+viability of the zone because we do not have
+an estimate of the cost of land development in
+Bossaso.
+=== PAGE 16 ===
+2. Opportunity Mapping and Pre-feasibility
+Assessment of SEZs in Somalia
+Potential Sites 
+Figure 3: Implementation Modality of Bossaso Fish Processing Zone
+A feasibility study is being currently carried out
+and as per our consultations with the Ministry
+of Commerce & Industry within the State
+Government of Puntland, three sites have been
+identified for the SEZ.
+Garacad Sea Port (mainly to serve fisheries
+sector) 
+Bossaso Port and SEZ (to serve livestock,
+fisheries 
+and 
+frankincense 
+and 
+also
+imports of food items)
+Goldogob (bordering Ethiopia, close to
+Galkayo) (to serve cross border trade
+between Ethiopia and Puntland)
+1.
+2.
+3.
+Figure 4: Potential Sites for SEZs in Puntland
+Further details on type of infrastructure and
+implementation plan have not been disclosed
+to us. The figure on following page shows (a) a
+map of the three locations, (b) an ariel view of
+Goldogob, indicating the amount of economic
+activity and presence of urban clusters, and (c)
+Bossaso Port. In Table 1, a map of opportunity
+for SEZs in Somalia Based on Constraints
+Analysis and Demand Assesment is presented.
+The Government of Puntland is in discussions
+with DP World to develop and operate an SEZ
+in Puntland. 
+However, we can ascertain that a portion of the
+additional 
+income 
+generated 
+by 
+reduced
+spoilage 
+/ 
+increased 
+sales 
+by 
+informal
+processor-traders would be used as the
+‘userfee’ for the services offered.
+=== PAGE 17 ===
+2. Opportunity Mapping and Pre-feasibility
+Assessment of SEZs in Somalia
+Table 1: Opportunity Mapping for SEZs in Somalia Based on Constraints Analysis and Demand Assesment
+=== PAGE 18 ===
+2. Opportunity Mapping and Pre-feasibility
+Assessment of SEZs in Somalia
+Table 1: Opportunity Mapping for SEZs in Somalia Based on Constraints Analysis and Demand Assesment
+=== PAGE 19 ===
+Investment 
+climate 
+(systematic 
+and
+reliable 
+procedures 
+for 
+starting 
+and
+operating businesses, for both local and
+foreign investors)
+Catalyzing local formal finance to allow
+companies to expand and invest further •
+Value-addition of locally available raw
+materials
+Diversifying trade and improving trade
+balance
+Infrastructure 
+for 
+private 
+sector
+development (reliable access to utilities) •
+Sustaining SMEs and creating formal jobs
+An earlier phase of this assignment analyzed
+Somalia’s economy, reviewed SEZ practices in
+African and other Asian economies, discussed
+in depth the characteristics of the private
+sector in Somalia, and evaluated the potential
+for SEZs in Somalia. Based on this analysis, we
+recommended an approach for the FGS to
+implement SEZs in the country: Somalia’s SEZ
+program must address wider economic and
+social challenges in the country and therefore,
+should act as a catalyst for reforms in: 
+A phased approach is recommended, in which
+the short-to-medium term strategy (usually
+referred to as 3- 10 years) should focus on
+developing local value chains for local
+production and gradually increasing value and
+quality of products to enter export markets.
+The long-term strategy (10–20-year horizon)
+could include more value-addition for exports
+to regional and foreign markets, attracting
+foreign investments in the productive sectors,
+developing 
+new 
+value 
+chains 
+for 
+local
+consumption and exports (i.e., those value 
+chains where raw materials are not available
+locally), diversifying export markets (other
+than Middle East countries) and positioning
+Somalia as a logistics hub (i.e., exports of
+logistics services).
+SEZ strategy skewed towards promoting export
+of abundant natural resources without any
+value addition (such as livestock and fisheries)
+will risk the country suffering from Dutch
+Disease phenomenon. 
+Value chain development is a pre-requisite
+towards SEZ development and overall success
+of 
+the 
+program. 
+This 
+also 
+includes
+development 
+of 
+backward 
+and 
+forward
+linkages, i.e., all interventions required to
+facilitate access to raw materials, reduce time
+and 
+costs 
+for 
+transportation 
+of 
+goods,
+implement 
+quality 
+standards 
+and
+certifications, develop skills and promote use
+of technology, increase access to finance, and
+among others, to ensure that SEZs are
+sustainable. 
+Using this approach, we provide below the
+building blocks of Somalia’s SEZ development
+strategy/roadmap for short-to-medium term: 
+3. Roadmap and strategy to develop SEZs in
+Somalia
+3.1 Vision and policy agenda
+for SEZs in Somalia
+To create growth poles of business activity that
+will stimulate employment, domestic value-
+addition and catalyze formal credit. 
+Vision for SEZs in Somalia
+SEZs in Somalia would be defined as:
+Defining SEZs in Somalia
+=== PAGE 20 ===
+demarcated or delimited zones with base
+infrastructure and super-structures, that offer
+companies or tenants services and business
+environment that is safe and differentiated
+from the rest of the country. 
+The type of SEZs and nature of activities
+allowed within it would be driven by target
+beneficiaries, their value chain of operation
+and overall needs assessment. 
+One stop center with various services such
+as to pay and file taxes, pay utility bills,
+access formal credit from local banks,
+clearance of imports and facilitation of
+exports, 
+manage 
+foreign 
+exchange
+transactions. The objective here is to offer
+an improved regulatory environment by
+having a centralized agency coordinating
+with other government agencies. 
+Security, including both physical security
+and protection of inventory and other
+assets from theft.
+3. Roadmap and strategy to develop SEZs in
+Somalia
+Increase in value-addition of local value
+chains
+Increase in number of jobs (including,
+sustainability) 
+Improvement in quality of products •
+Increase 
+in 
+local 
+formal 
+capital
+mobilization/investments
+Better 
+environment 
+management 
+at
+processing units 
+Outcomes of the short-to-medium term
+strategy
+Formal private sector: small and medium
+enterprises in the productive sectors of
+agriculture, food processing, livestock,
+fisheries, light manufacturing, warehousing
+and logistics, and general trading.
+Informal private sector: 
+co-operatives,
+wholesalers, and processor-traders in the
+productive sectors of agriculture and
+fisheries
+Target beneficiaries
+Needs assessment of the beneficiaries
+Reliable 
+road, 
+water, 
+and 
+energy
+infrastructure within the zone (does not
+have to be 24/7, but to begin with reliable
+enough to manage production capacities
+and volumes) 
+Training SMEs with standards and quality
+control; offer onsite inspection services
+Incubation and business development
+center for SMEs 
+To implement the short to medium term
+strategy, focus on basic requirements:
+These requirements are in general across all
+types of SEZs proposed and implemented in
+Somalia. These can be customized further
+based on type of SEZ and as determined
+through pre-feasibility and feasibility studies.
+=== PAGE 21 ===
+3. Roadmap and strategy to develop SEZs in
+Somalia
+Legal, regulatory, and institutional system
+for SEZs
+Capacity building of SEZ implementation
+and regulatory authorities in Somalia 
+Identification of financing options for SEZ
+and promotion of the SEZ program
+As mentioned earlier, an SEZ Strategy for
+Somalia must consider a phased development
+of SEZ projects in Somalia. The short to
+medium term strategy would be to implement
+an SEZ that focuses on local value chain
+development, creation of jobs, attraction of
+local investments and improving business
+environment. 
+The Mogadishu Food & Fish Processing SEZ
+(which appears to be most attractive based on
+pre-feasibility assessment) must be the first
+SEZ to be piloted in Somalia.
+The SEZ will serve as an example of safe,
+secure, and transparent business environment
+in the country. Based on the lessons learnt
+from the pilot SEZ, the Federal Government of
+Somalia 
+can 
+implement 
+more 
+SEZs 
+as
+proposed in this study. However, to implement
+the pilot SEZ, several interventions/support
+systems need to be implemented. In the
+forthcoming sections, we discuss the approach
+towards developing these systems and getting
+Somalia ready for SEZs. These include: 
+3.2 Phased development of
+SEZs
+3.3 Legal, regulatory, and
+institutional framework for
+SEZs
+In this study we provide our recommendations
+for implementing SEZ opportunities in Somalia.
+The recommendations are informed by an
+understanding 
+of 
+the 
+country’s 
+political
+economy as well as international good
+practice. 
+We provide recommendations on the following
+aspects that would drive the legal, regulatory,
+and 
+institutional 
+framework 
+for 
+SEZ
+development in Somalia:
+Governance of SEZs – which outlines
+recent international practices on the
+extent of freedom provided to privately-
+run SEZs and need for a regulatory
+authority to oversee and regulate these
+SEZs
+SEZ Zone Authority – various options
+available 
+for 
+establishing 
+the 
+zone
+authority, advantages, and disadvantages
+of 
+each 
+of 
+the 
+options 
+and
+recommendations for Somalia
+Developer-Operators of SEZs – various
+developer-operator models, advantages
+and disadvantages, and recommendations
+for Somalia
+=== PAGE 22 ===
+3. Roadmap and strategy to develop SEZs in
+Somalia
+3.4 Financing SEZs and
+investment promotion
+Given 
+the 
+context 
+of 
+Somalia, 
+the
+recommendation is that the identified SEZ
+opportunities would be privately financed and
+implemented, 
+and 
+developers 
+would 
+be
+responsible for raising their own finance from
+available sources. At present, most of the
+capital investment in Somalia is financed via
+diaspora remittances (80%), due to limited
+access to commercial loans from local banks.
+It is possible that the opportunities identified
+could be financed in the same way, as part of
+the developer’s portfolio. However, as the
+high-level financial analysis demonstrates, the
+SEZs may not be commercially attractive. In
+which case, the standard approach is to use
+blended 
+finance 
+approaches, 
+whereby
+lowinterest 
+loans 
+and/or 
+grants 
+from
+donors/IFIs can be blended with commercial
+loans and equity to reduce the overall cost of
+capital. 
+This would require the use of project finance
+(limited recourse) techniques to raise capital
+from multiple sources (i.e., private and donors)
+that is ring-fenced specifically to the SEZ
+project in question. It is not clear what
+experience the potential private developers
+have in using project finance, if any, which
+could be a constraint on implementing the
+prospective opportunities. Once established,
+the SEZ Authority should market prospective
+opportunities 
+to 
+suitable 
+developers 
+in
+advance of tendering. The SEZ Authority should
+also play a role in marketing the SEZ to
+tenants to ensure contracts or expressions of
+interest are in place to rent facilities in
+advance of development. This can form the
+basis for attracting developers and for
+developers to secure finance.
+One-Stop Shop Services – which outlines
+(a) various services to be offered to
+tenants/occupants of SEZs in Somalia (this
+is based on needs assessment carried out
+in the previous section of prefeasibility
+assessment), and (b) models to implement
+one-stop shop services
+Investment 
+and 
+Fiscal 
+Incentives 
+–
+required by both the developer-operator
+and tenants/occupants of the SEZ to
+encourage private sector participation and
+more investments
+Concept 
+of 
+Sustainable 
+Development
+Zones – recommendations for FGS to
+introduce the SDZ idea early on and if
+possible, incorporate the same in the SEZ
+legal and regulatory framework
+=== PAGE 23 ===
+3. Roadmap and strategy to develop SEZs in
+Somalia
+3.5 Action plan to implement SEZs in Somalia
+Action
+Timing
+Responsibility
+Presentation and validation of SEZ
+scoping report findings – discussion
+with relevant federal agencies
+responsible for different aspects of SEZ
+development and potential private
+sector developer-operators
+Q3-4 2022
+UNIDO
+Establish Apex SEZ Authority 
+Q1 2023
+President of Somalia / relevant
+Ministry with oversight
+Review and draft missing legislation
+2023-24
+Relevant ministries including Commerce and
+Industry, Finance, Public Works, Agriculture
+etc. and Attorney General’s Office
+Recruitment and capacity building of
+staff for Authority
+2023-24
+Recruitment by line ministry with
+oversight, capacity building by
+UNIDO
+Detailed feasibility studies / business
+plans for SEZ opportunities 
+Q1 - Q3
+2023
+UNIDO or other donor / IFI
+Identification of financing and
+procurement options
+Q4 2023
+Recommendation as part of
+feasibility study actioned by SEZ
+Authority
+Marketing of opportunities
+Q1-2 2024
+SEZ Authority
+Tendering and procurement of SEZs
+under developer-operator model 
+Q3-4 2024
+SEZ Authority with assistance from
+UNIDO
+=== PAGE 24 ===
+Annex 1. Key Legal Lessons of SEZ Development
+from other FCAS
+(1) Strong private-sector participation in zone management is important
+Fragile and Conflict-Affected States (FCAS) face special challenges when launching SEZs. SEZs
+aim to attract investment in order to stimulate economic growth. However, fear of conflict and
+political uncertainty in FCAS often deters potential investors. Nevertheless, if the legal and
+regulatory framework is well designed, an SEZ can hold great promise for FCAS. SEZs of FCAS
+may aim to: (i) attract pr ivate-sector investment; (ii) generate employment; (iii) serve as a stable
+pilot area for reforms to policies and institutions, especially when it is not possible to make
+changes nationwide. In doing so, such SEZs may bypass institutional dysfunctionality; and (iv)
+provide good governance, encourage sustainable growth, apply green growth paradigms, or
+leapfrog over traditional development pathways to technologically enabled pathways. Annex 2
+contains our research memorandum on comparable FCAS and their experience with SEZs.
+Somalia could learn from the experience of other FCAS and adapt key lessons from the
+experience of other FCAS to its own context. Mainly, given Somalia’s legal and institutional
+circumstances, our research suggests that Somalia should consider the following main lessons
+from SEZs in FCAS:
+Encouraging private-sector developers and operators to play a significant role in the
+administration and management of zones can help compensate for some of the capacity
+deficiencies in government agencies. Moreover, structured partnerships with these private-
+sector developers and operators can be designed in a way that transfers skills, knowledge, and
+technology over to the government agencies regulating the zones, so that the state can play a
+more effective role over time. There are a number of positive examples of the private sector
+helping promote stability and growth in FCAS outside the narrow SEZ context. The private sector
+can deliver critical infrastructure in FCAS. This happened in Liberia through the Liberia Electricity
+Corporation and in Afghanistan and Sierra Leone through mobile cellular telephone providers.
+Businesses can even play a direct part in state-building efforts through public-private dialogues,
+as was the case, for instance, in Liberia, Myanmar, South Africa, and many other countries.
+Somalia’s working with private-sector partners to manage SEZs may produce similar outcomes.
+Already, Somalia’s private sector companies such as those in the real estate, logistics, and
+construction sectors show some capacity to operate zones. For instance, the Shabelle Group in
+Somalia is currently operating Somalia’s airport zone. Somalia could consider supporting the
+work of other private sector partners to help run its SEZ operations.
+(2) The legal and regulatory framework must envision a delegation of relevant regulatory and
+administrative functions to dedicated privately managed zone-level institutions
+Many successful SEZs enjoy significant autonomy and feature in governments’ decentralization
+strategies. For instance, in Djibouti - an FCAS - the zone authority performs the functions of
+several different government ministries. From business licensing to immigration visas and
+drivers’ licenses, the zone authority streamlines the provision of facilities for businesses.
+=== PAGE 25 ===
+Annex 1. Key Legal Lessons of SEZ Development
+from other FCAS
+(3) Allow room for legal certainty and the rule of law
+Especially in FCAS contexts, private-sector developers and operators can carry out delegated
+responsibilities on behalf of governments. Such developer-operators’ incentives are aligned
+with the zone’s performance since rising demand for space within the zone and zones’
+international reputation helps private sector developers and operators. 
+The fear of conflict, political instability, and broader concerns regarding legal certainty and the
+rule of law in FCAS often deters potential investors. Businesses and investors value legal
+certainty and predictability.
+They also value limited discretion of those in government, access to clear and consistently
+applied laws, equal treatment under law, and related good practices. In particular, clear,
+predictable, and easy to access rules help investors better price their risks and operate their
+businesses. While legal certainty can often be challenging for conflict-affected states, it is
+possible to carve out enclaves of certainty and good rule of law practices in the form of SEZs
+and their institutions. For Somalia specifically, our primary research suggested that private
+sector companies with the financial capacity to invest in SEZs would be reluctant to do so in the
+absence of legal certainty and political stability. At minimum, SEZ developer-operators and
+businesses would require that laws develop in line with prior precedent and that they are not
+entirely repealed unexpectedly. Relatedly, SEZ stakeholders would also benefit from good title
+to land, physical safety, safety of their investments through predictable and progressive legal
+changes, access to clear laws, and limited discretionary or unlawful practices in connection with
+the collection of taxes and other duties. 
+(4) SEZ institutions matter
+All research on SEZs and economic development suggests that institutions matter for
+development. Somalia’s SEZ legal and regulatory frameworks must prioritize institutions above
+all else. Technical assistance, existing infrastructure, tax incentives, or financial resources will
+make SEZs successful if SEZ institutions remain weak. Somalia’s government must empower
+dedicated and highly competent zone-level public and private institutions, delegate regulatory
+functions to them, and establish new zone-specific rules for doing business. In so doing, its SEZs
+can become both enclaves for business-enabling reforms and starting places for building better
+institutions across the country.
+=== PAGE 26 ===
+UNIDO Somalia Programme Office
+9
+Chelsea Village - AMISOM AAIA
+Mogadishu, Somalia
+Twitter @UNlDOSomalia
+office.somalia@unido.org
+UNIDO
+UNITED NATIONS
+INDUSTRIAL DEVELOPMENT ORGANIZATION

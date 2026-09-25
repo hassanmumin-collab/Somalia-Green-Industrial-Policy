@@ -1,0 +1,29 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PROJECT_DIR}/.claude/hooks/run_hook.sh\" post",
+            "timeout": 120,
+            "statusMessage": "Running accuracy verifier"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PROJECT_DIR}/.claude/hooks/run_hook.sh\" stop",
+            "timeout": 300,
+            "statusMessage": "Running accuracy verifier before stopping"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+PROMOTING CLEAN AND EFFICIENT 
+COOKSTOVES IN SOMALIA 
+TECHNOLOGY DESCRIPTION 
+TECHNICAL DESCRIPTION  
+Clean and efficient cookstoves are advanced cooking technologies designed to reduce biomass consumption 
+(firewood and charcoal) while improving combustion efficiency. Traditional cooking methods, with largely 
+open fires or rudementary stoves, commonly practiced in Somalia, lead to high levels of indoor air pollution 
+and contribute significantly to deforestation. With over 80% of Somalis using biomass for cooking, the clean 
+and efficient cookstoves are designed to address these challenges by requiring less wood fuel, reducing 
+harmful emissions, and enhancing overall cooking efficiency. The widespread adoption of clean cookstoves 
+in Somalia could reduce indoor air pollution by up to 70%, improving overall public health outcomes. 
+Furthermore, the deployment of these cookstoves aligns with Somalia’s climate goals, as it reduces reliance 
+on biomass, mitigating deforestation and contributing to lower greenhouse gas emissions.  
+CURRENT TECHNOLOGY READINESS LEVEL OR COMMERCIAL READINESS INDEX  
+The Technology Readiness Level (TRL) of clean and efficient cookstoves in Somalia is currently at TRL 8, 
+indicating that the technology has been demonstrated in real-world environments and is ready for 
+widespread deployment. There are ongoing initiatives by local and international NGOs promoting adoption 
+particularly in Somaliland. However, the Commercial Readiness Index (CRI) for these cookstoves remains at 
+an intermediate level, around CRI 3 to 4, meaning that while the technology is technically proven, there are 
+significant barriers to large-scale commercial adoption. Challenges such as limited financing options, lack of 
+widespread market infrastructure, lack of policy, technical capacities, and insufficient consumer awareness 
+have hindered the broader uptake of clean cookstoves. 
+CLIMATE RATIONALE OF THE TECHNOLOGY 
+Somalia relies heavily on biomass for energy, with over 80% of the population using firewood and charcoal 
+for cooking. This reliance leads to large-scale deforestation, contributing to Somalia’s greenhouse gas (GHG) 
+emissions, primarily through carbon dioxide (CO2) from biomass combustion. By introducing clean 
+cookstoves, the country aims to reduce deforestation rates and GHG emissions, improving resilience to 
+climate change. The technology is aligned with Somalia’s Nationally Determined Contributions (NDC), which 
+targets a reduction of 2.15 million tonnes of CO2 equivalent (MtCO2eq) per year by 2030 from improved 
+cooking methods alone. Additionally, reducing deforestation enhances climate resilience by conserving 
+ecosystems and reducing soil erosion, making clean cookstoves a critical technology for both climate 
+mitigation and adaptation in Somalia.
+=== PAGE 2 ===
+ 
+ 
+ 
+ 
+ 
+2 
+AMBITION OF THE TECHNOLOGY 
+SCALE FOR IMPLEMENTATION AND TIME-LINE 
+The goal is to deploy 5 million clean cookstoves by 2030, targeting both households and institutions such as 
+schools and health centers. This would represent 30% penetration across Somalia, significantly reducing 
+fuelwood consumption and improving air quality for millions of households, particularly in rural areas where 
+reliance on biomass is highest. The ambition is to lower GHG-emissions, improve health outcomes for women 
+and children, and create local economic opportunities in manufacturing and distribution. 
+AMBITION FOR TECHNOLOGY READINESS LEVEL OR COMMERCIAL READINESS INDEX 
+By 2030, the technology is expected to reach TRL 9 and CRI of 5 or 6 – Demonstration in an operational 
+environment, with large-scale deployment in rural areas and institutional use across Somalia. The strategy 
+includes establishing local manufacturing capabilities, improving distribution channels, and ensuring 
+affordability through financial instruments.1 
+EXPECTED IMPACTS OF THE TECHNOLOGY 
+• 
+Environmental Impact: Reduced deforestation and forest degradation as less biomass is needed for 
+cooking. Widespread use of clean cookstoves could lead to a 30% reduction, translating to 
+approximately 1.8 million tons of firewood saved annually. This reduction aligns with Somalia’s NDC 
+target of lowering annual greenhouse gas emissions by an estimated 2.5 MtCO2eq by 2030. 
+• 
+Health Impact: Improved indoor air quality through reduced smoke emissions, particularly benefiting 
+women and children(by upto 90%) who are most exposed to cooking fumes. This can result in fewer 
+cases of respiratory diseases and other health complications associated with air pollution by atleast 
+30%. According to WHO estimates, reducing exposure to indoor air pollution could save around 2,500 
+lives annually in Somalia by 2030.2 
+• 
+Economic Impact: Significant fuel cost savings for households using clean cookstoves, by upto 50%, 
+as they will require less firewood or charcoal, amounting to an annual saving of approximately $150 
+per household. With 3 million households expected to adopt clean cookstoves, this translates into a 
+collective annual saving of $450 million. Additionally, local production and maintenance of 
+cookstoves could create approximately 50,000 new jobs by 2030, particularly for women and youth, 
+boosting rural economic activity.3 
+• 
+Social Impact: Women and children spend an average of 3-5 hours per day collecting firewood. By 
+reducing the need for biomass, this time could be cut by up to 60%, freeing up to 1,200 hours 
+annually per household.Time saved from fuel collection by women and children can be redirected to 
+education, economic activities, and community engagement. Gender empowerment is a key social 
+benefit, as the adoption of clean cookstoves reduces the burden on women and girls who are 
+traditionally responsible for cooking and fuel collection. This is key for a country  ranked 4th last on 
+the UNDP Gender Inequality Index4 with a score of 0.776 (where the maximum score of 1 denotes 
+complete inequality). 
+ 
+1 Federal Government of Somalia(2021) Somalia updated NDC 2021 
+2 https://cdn.who.int/media/docs/default-source/country-profiles/environmental-health/environmental-health-som-
+2022.pdf?sfvrsn=d042f6bf_5&download=true 
+3 Federal Government of Somalia(2022) Somalia, Energy Sector Policy, 2018 
+4 https://www.undp.org/somalia/our-focus/genderequality
+=== PAGE 3 ===
+ 
+ 
+ 
+ 
+ 
+3 
+POLICY ACTIONS FOR TECHNOLOGY IMPLEMENTATION 
+EXISTING POLICIES IN RELATION TO THE TECHNOLOGY 
+• 
+National Development Plan (NDP) 2020-2024: The NDP emphasizes clean energy solutions and 
+outlines a strategy for addressing the energy needs of vulnerable groups, including women and 
+displaced persons. Clean cookstoves are highlighted as part of the plan’s broader clean energy 
+strategy to reduce deforestation and meet growing energy demands. 
+• 
+Somalia National Energy Policy (2018): This policy aims to provide all Somalians with access to 
+efficient, affordable, and sustainable energy, promoting environmental stewardship. It encourages 
+investment in renewable energy and energy-efficient technologies like clean cookstoves to mitigate 
+climate change and improve household energy use. 
+• 
+National Climate Change Policy, 2020: The policy offers strategic direction on issues of climate 
+change in Somalia including mitigation country’s baseline emissions and emphasis on the low 
+emissions development path. It recommends policy interventions to be implemented across all 
+sectors including in relation to energy and the importance of improved cooking methods 
+• 
+Updated Nationally Determined Contributions (NDC) (2021): Somalia’s NDC includes clean 
+cookstoves as a priority technology for emission reduction. The NDC sets a target of achieving 30% 
+adoption of clean and energy-efficient cookstoves by 2030, with the goal of reducing CO2 emissions 
+by 2.15 MtCO2eq annually. 
+PROPOSED POLICIES TO ENHANCE TECHNOLOGY IMPLEMENTATION 
+1. Financial Incentives and Support: 
+• 
+Introduce subsidies and grants to make clean cookstoves more affordable for both 
+manufacturers and consumers. This includes targeted financial support for local manufacturers 
+to scale production and for low-income households to purchase cookstoves. 
+• 
+Microfinance partnerships: Work with local microfinance institutions to provide low-interest 
+loans or Sharia-compliant financial products, enabling households to purchase cookstoves 
+through Pay-As-You-Go (PAYG) models or installment plans. These financing methods can 
+significantly reduce the upfront costs of clean cookstoves for consumers. 
+2. Strengthen Policy and Regulatory Frameworks: 
+• 
+Develop a national policy on clean and efficient cookstoves, establishing quality and 
+performance standards to ensure that cookstoves are safe, durable, and efficient. The policy 
+should mandate minimum efficiency levels and regulate the market to prevent substandard 
+products. 
+• 
+Create a coordinating body within the Ministry of Environment and Climate Change to oversee 
+the implementation of clean cookstove initiatives, ensuring alignment with national climate 
+and energy policies. This body would also be responsible for monitoring and evaluation. 
+3. Capacity Building and Local Production: 
+• 
+Establish training centers to build the technical capacity of local manufacturers and technicians, 
+focusing on stove production, distribution, and maintenance. These centers should provide 
+opportunities for women and youth to develop skills in the clean energy sector. 
+• 
+Support research and innovation in clean cookstove design to ensure that stoves meet the 
+unique cooking preferences and energy needs of Somali households. 
+4. Public Awareness and Education: 
+• 
+Launch a national awareness campaign to educate the public on the benefits of clean 
+cookstoves, including health improvements, fuel savings, and environmental impact. The
+=== PAGE 4 ===
+ 
+ 
+ 
+ 
+ 
+4 
+campaign should be delivered through multiple platforms, including radio, television, social 
+media, and community workshops. 
+• 
+Engage community leaders and women’s groups as advocates for clean cookstove adoption, 
+particularly in rural areas where traditional cooking methods are deeply entrenched. 
+COSTS RELATED TO THE IMPLEMENTATION OF POLICIES 
+The estimated budget for the implementation of clean and efficient cookstoves in Somalia is approximately 
+USD 45 million over the period 2025-2030. This budget will cover: 
+• 
+Subsidies and grants for manufacturers and consumers (USD 32 million) 
+• 
+Capacity building for local artisans and institutions (USD 5 million) 
+• 
+Public awareness and education campaigns (USD 3 million) 
+• 
+Policy development and enforcement (USD 5 million) 
+The total investment is expected to be supported through a combination of domestic resources(including 
+private sector), international climate finance, and partnerships with development agencies such as the 
+Green Climate Fund (GCF) and multilateral development banks. 
+ 
+USEFUL INFORMATION 
+CONTACT DETAILS 
+• 
+TNA Coordinator:  
+Hafsa Omar Abdilahi, Ministry of Environment and Climate Change      -      Tel:  +252634536811            
+Email:    climate@moecc.gov.so 
+• 
+Champion:  
+Abdullahi Ahmed Ali; Ministry of Environment and Climate Change, Somalia  E-mail: 
+najeb@moecc.gov.so 
+LINKS TO TNA REPORTS 
+https://tech-action.unepccc.org/country/somalia/

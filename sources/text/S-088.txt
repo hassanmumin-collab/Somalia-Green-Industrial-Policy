@@ -1,0 +1,2850 @@
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Private Sector in the Federal Republic of Somalia: Composition, 
+Performance and Constraints to Growth 
+Results from Two Rounds of Integrated Business Surveys and Qualitative 
+Assessments  
+ 
+ 
+December 1, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+=== PAGE 2 ===
+ 
+Contents 
+Acknowledgments ........................................................................................................ 3 
+Executive Summary ....................................................................................................... 4 
+1. 
+Introduction ......................................................................................................... 10 
+2. Composition and performance of the private sector in the Federal Republic of Somalia 13 
+2.1 Characteristics of the formal private sector in the Federal Republic of Somalia ...... 13 
+2.2 Annual sales, employment growth, labor productivity, investment trends, and market 
+reach ...................................................................................................................... 16 
+3. Key business environment constraints ...................................................................... 25 
+3.1 Market competition and regulations .................................................................... 25 
+3.1.1 Price distortions .......................................................................................... 27 
+3.1.2 Entry barriers ............................................................................................... 28 
+3.1.3 Competition from informal firms ................................................................... 29 
+3.2 Infrastructure ..................................................................................................... 30 
+3.2.1 Transportation and logistics .......................................................................... 30 
+3.2.2 Connectivity and digital technology ............................................................... 33 
+3.2.3 Electricity .................................................................................................... 35 
+3.3 Access to financial resources and government support ........................................ 35 
+3.3.1 Access to financial resources ....................................................................... 36 
+3.3.2 Government support .................................................................................... 38 
+4. Firm expectations .................................................................................................... 40 
+4.2.1 Sales and workforce expectations ................................................................. 40 
+4.2.2 Capital Investment expectations ................................................................... 42 
+4.2.3 Financial resilience expectations .................................................................. 44 
+Appendix .................................................................................................................... 46 
+A.1. Survey methodology and implementation ........................................................... 48 
+A.2. Survey sample composition ............................................................................... 50 
+A.3. Focus group discussions ................................................................................... 54
+=== PAGE 3 ===
+3 
+ 
+Acknowledgments 
+The Report ‘Private Sector in the Federal Republic of Somalia: Composition, Performance, and 
+Constraints to Growth’ is a product of the World Bank’s Finance, Competitiveness, and Investment 
+(FCI) Global Practice, prepared in collaboration with the Development Economics (DEC) Vice 
+Presidency. The report has been prepared as part of the Supporting Financial Inclusion and Private 
+Sector-led Recovery in The Federal Republic of Somalia Programmatic Analytical and Advisory 
+project (PASA, P179247), which aims to strengthen the development of the private and financial 
+sector in the country through targeted analytics, technical assistance, and capacity building. The 
+project is organized around three pillars: (1) addressing knowledge gaps for financial and private 
+sector development; (2) strengthening legal, regulatory, and institutional frameworks at key 
+institutions; and (3) convening activities. The PASA is generously supported by the Somalia Multi-
+Partner Fund. 
+This report was prepared under the project’s Pillar 1, drawing on the results from the two rounds of 
+data collection conducted in the Federal Republic of Somalia in August–November 2023 and in 
+October–November 2024. In each round the data collection includes both a survey (Integrated 
+Business Establishment Surveys, IBES) and focus group discussions. The findings from the first 
+round were summarized in the report ‘Somalia Business Survey and Qualitative Assessment: First-
+Round Results’. This final report merges and compares the results of both rounds.  
+The report complements the findings of the recently published World Bank Group’s Country Private 
+Sector Diagnostic (CPSD) on the Federal Republic of Somalia and other analytical works on private 
+sector development in the economy, including the Enterprise Survey data published in December 
+2025. 
+The report was prepared by a team composed of Asta Bareisaite (Senior Private Specialist, PASA TTL, 
+EAEF1), Sameer Goyal (Senior Financial Sector Specialist, PASA co-TTL, EAEF1), Silvia Muzi (Senior 
+Economist, ETIIC), Reyes Aterido (Consultant, EAEF1), Juan Andres Cartwright Ramon (Consultant, 
+EAEF1), and Yann Ehrhard (Consultant, EAEF1). Data collection was supervised by Gemechu Aga 
+(Senior Economist, DECEA). The report benefited from the leadership and guidance of World Bank 
+Group management, including Qimiao Fan (Division Director, AECE2), Hideki Matsunaga (Country 
+Manager, AEMSO), Alwaleed Alatabani (Practice Manager, EAEF1), and Asya Akhlaque (Practice 
+Manager, ETIIC). The team is also grateful to the peer reviewers who provided valuable inputs: Marc 
+Tobias Schiffbauer (Lead Economist, ETIIC), Alejandro De la Fuente (Senior Economist, EAEPV), and 
+Milaine Rossanaly (Senior Private Sector Specialist, EMAF1).
+=== PAGE 4 ===
+4 
+ 
+Executive Summary  
+Composition and performance of the private sector 
+Firms in the Federal Republic of Somalia are predominantly in the services sector, vast majority 
+is informal. Private sector activity in the country is predominantly comprised of low-value-added 
+service firms, with 72 percent of establishments operating in wholesale and retail trade, followed by 
+public and social services and market-oriented services (12 percent and 11 percent, respectively), 
+and manufacturing (5 percent).1 The majority of firms operate in the informal sector, with formal 
+establishments representing about 28 percent of all businesses.  
+Formal firms are overwhelmingly micro-sized, highly concentrated in a few urban centers, and 
+largely male-owned. Nearly 97 percent of formal firms employ 1–9 people and are mostly structured 
+as sole proprietorships, which account for 91 percent of these establishments.2 These firms are 
+geographically concentrated, with Mogadishu alone hosting 31 percent of all formal establishments 
+in the Federal Republic of Somalia,3 and generating 67 percent of total sales and 62 percent of formal 
+private sector employment across the five surveyed cities.4 Female participation in firm ownership 
+also remains extremely limited. Only 7 percent of businesses are majority-owned by women— 
+substantially below both the Sub-Saharan Africa and global averages, where female-majority 
+ownership stands at about 16 percent—underscoring persistent gender gaps in access to economic 
+opportunities.5 
+Sales growth in the formal private sector is highly uneven. In 2024, 54 percent of formal firms in 
+the five cities that were analyzed experienced higher sales, up from 43 percent in 2023. While this is 
+a positive trend, the share of firms reporting declining sales also rose, from 3 percent to 8 percent.6 
+Specifically, 54 percent of firms reported an average increase of 17 percent, 38 percent saw no 
+change, and 8 percent reported an average decrease of 14 percent. An establishment-weighted 
+average of firms’ sales changes indicates a moderate improvement in sales performance, estimated 
+at around 8 percent. Sales performance was geographically uneven. Improvements were 
+concentrated in Mogadishu, where 65 percent of firms reported sales growth in 2024. In contrast, 
+Bosaso lagged, with weakening sales performance (only 11 percent reported increases, while 32 
+percent reported declines). Finally, firm size also mattered, as larger firms (10+ employees) led sales 
+increases, with 61 percent reporting higher sales in 2024—more than double the 29 percent recorded 
+in 2023, and higher than the 48 and 49 percent of smaller firms (5–9 employees) that reported 
+increased sales in 2023 and 2024, respectively—suggesting that firm size continues to be a key driver 
+of growth. 
+ 
+1 Federal Republic of Somalia Integrated Business Establishment Census (SIBEC) 2024. The census includes formal, informal, and 
+micro-establishments of all sizes in 16 urban centers, operating in all sectors except for agriculture, mining, public administration, and 
+household activities. Formal establishments are defined as those having fixed location and holding licenses from the Ministry of 
+Commerce (UBI Code), Ministry of Finance (TIN), Chamber of Commerce (SCCI), or Municipality license. 
+2 SIBEC 2024. 
+3 SIBEC 2024. 
+4 Integrated Business Establishment Surveys (IBES).  
+5 IBES conducted in the Federal Republic of Somalia and in other regional and global contexts. 
+6 IBES.
+=== PAGE 5 ===
+5 
+ 
+Unlike sales, productivity has grown only modestly, with gains concentrated among stronger 
+firms while weaker firms fell further behind. Across the five cities, average labor productivity—
+measured as output per worker—was US$1,540 (median US$1,333). This is modest compared to the 
+median labor productivity for firms in several Sub-Saharan African countries (US$14,179).7 
+Mogadishu and Beledweyne were the most productive in 2024, while Bosaso and Kismayo lagged. 
+Notably, smaller firms were more likely to fall into the high or medium-high productivity categories 
+(58 percent) compared to larger firms, where only 40 percent fell into these brackets. This challenges 
+the common assumption that larger firms are inherently more efficient and suggests that some thrive 
+in protected or non-tradable sectors without investing in innovation. When looking at productivity 
+growth, overall improvements in 2024 were modest. Productivity increased only in Baidoa, remained 
+broadly flat in Mogadishu, and declined in other cities. Moreover, the productivity distribution reveals 
+growth among more productive firms, while those below the median experienced worsening 
+performance. This divergence signals that recent gains in 2024 are not broadly shared and raises 
+concerns about inclusive growth.  
+Job creation remains limited despite stronger sales growth, reflecting weak labor absorption. 
+In 2024, only 14 percent of firms reported expanding their workforce, down from 30 percent in 2023, 
+while the share of firms reducing staff rose from 3 to 8 percent. Even in Mogadishu, which leads in 
+sales growth, job creation was minimal. In effect, in Mogadishu 88 percent of firms reported no 
+employment change in 2023 and 91 percent in 2024, while Bosaso saw sharp cuts in employment 
+(41 percent of firms reduced staff in 2024).  
+Weak labor absorption is accompanied by investment levels that are slightly below regional 
+levels and marked differences across cities. On average, 31 percent of firms made fixed-asset 
+purchases in 2024, slightly below regional and global averages (35 and 38 percent, respectively).8 
+City patterns on this front diverged. Firms in Mogadishu led current investments (43 percent of firms), 
+while firms in Kismayo (11 percent) and Bosaso (14 percent) lagged. By firm size, larger firms invested 
+more than smaller ones (35 versus 28 percent), yet higher investment was not consistently linked to 
+productivity gains. 
+About 84 percent of firms sell primarily to local markets. Participation beyond local markets is 
+low across the five cities that were analyzed and even more so in Baidoa (2 percent), Kismayo (2 
+percent), and in Beledweyne (8 percent). Mogadishu and Bosaso show higher national reach (about 
+18 percent each), and only firms in Mogadishu report international sales. By size, just 6 percent of 
+smaller firms operate beyond local markets, versus 25 percent nationally and 4 percent 
+internationally among larger firms. Overall, only 7 percent of firms export directly, and 42 percent use 
+imported inputs—both below the global benchmark (11 percent and 56 percent, respectively). 
+ 
+7 This indicator is computed in two steps using the World Bank Enterprise Surveys of African countries (last year available). First, the 
+median productivity is calculated within each country, which reflects the performance of the middle firm in that country. Then, the 
+average of these country-level medians is taken, giving each country equal weight regardless of its size or number of firms.  
+8 IBES conducted in the Federal Republic of Somalia and World Bank Enterprise Surveys for regional and global comparators.
+=== PAGE 6 ===
+6 
+ 
+Key business environment constraints 
+Market competition emerged as the most pressing constraint for Somali firms in 2024, 
+surpassing infrastructure issues. Across cities, 44 percent of firms cited competition as their top 
+obstacle, and 57 percent of smaller firms versus 26 percent of larger firms identified competition as 
+their primary constraint. Within competition, the main obstacles cited were price distortions (39 
+percent of firms), entry barriers (28 percent of firms), and competition from informal firms (13 
+percent of firms), with their relative importance varying across cities and firm sizes. By firm size, price 
+distortions are slightly more binding for smaller firms (41 percent versus 34 percent). Price 
+distortions were also most acute in Baidoa, Beledweyne, and Bosaso, where focus group discussions 
+(FGDs) highlighted monopolistic practices in telecom, electricity, and imported goods as pressing 
+issues. FGDs also attribute price distortions and entry barriers to monopolistic control over key 
+industries, state favoritism, and weak competition oversight. Insecurity adds another layer of 
+complexity, especially in the southern and central regions. Entry barriers are more binding for larger 
+firms (32 percent versus 26 percent) and dominate as a constraint to competition in Mogadishu (42 
+percent). Though reforms such as online registration have begun, enforcement remains uneven, and 
+the institutional and regulatory landscape is fragmented across federal, state, and municipal levels. 
+Competition from informal firms was also cited as a key reason for competition constraints 
+overwhelmingly affecting smaller firms (20 percent of smaller firms versus 2 percent of larger firms). 
+Taken together, IBES results and FGD perspectives underscore the importance of strengthening fair 
+competition oversight and reducing regulatory fragmentation to level the playing field. 
+Transportation and logistics constraints also remain a major barrier to firm performance in the 
+Federal Republic of Somalia, driving up costs and limiting the ability of businesses to grow and 
+compete. In both 2023 and 2024, transportation was among the most frequently cited obstacles to 
+operations. Where transport is the top obstacle, firms most often cite high cost (54 percent), followed 
+by limited storage (17 percent), speed (15 percent), and reliability (10 percent). In 2024, 
+transportation ranked as the second highest obstacle across the five cities surveyed (13 percent), 
+with this issue being reported most important in Bosaso (18 percent) and least reported in Kismayo 
+(2 percent). Larger firms were also nearly twice as likely as smaller ones to cite transport as the top 
+obstacle. Poor road conditions, high port fees, and limited storage and cold chain infrastructure were 
+reported in FGDs as key factors disrupting supply chains and inflating operational costs, especially 
+in sectors such as agribusiness. Focus group participants also emphasized that the majority of paved 
+roads are in disrepair, with seasonal flooding further impeding the movement of goods. These 
+logistical shortcomings contribute to fragmented markets, favor established firms with greater 
+resources, and trap smaller businesses in local markets. As a result, the private sector continues to 
+struggle with high prices, inconsistent supply, and limited access to broader investments and trade 
+opportunities. The quality of logistics in the Federal Republic of Somalia has slipped in international 
+comparisons. Its ranking on the World Bank Logistics Performance Index fell from 127/150 (2007) to 
+138/140 (2023), while it stands at 133/140 for trade- and transport-related infrastructure quality.9 
+ 
+9 World Bank. 2023. 2023 Logistics Performance Index (Global). Logistics Performance Index. 
+https://lpi.worldbank.org/international/global.
+=== PAGE 7 ===
+7 
+ 
+Furthermore, more than 90 percent of paved roads have deteriorated, with the Mogadishu-Bosaso 
+trip sometimes taking five days.10 As a result, the private sector continues to struggle with 
+inconsistent supply and limited access to broader investment and trade opportunities. 
+Internet connectivity is increasingly recognized as a critical constraint to business growth, 
+especially for larger firms and those in Mogadishu. In 2024, 7 percent of firms—up from just 2 
+percent in 2023—identified it as a major constraint, with 90 percent of these citing low-speed 
+connections as the main issue. Connectivity challenges were reported especially by firms in 
+Mogadishu (13 percent) and by larger firms (17 percent). Persistent infrastructure gaps, especially in 
+central and southern regions, limit speed and reliable connectivity. Larger and more digitally reliant 
+firms face the greatest challenges, as poor internet hinders basic operations such as sales, 
+coordination, and digital finance. Demand-side gaps also matter. Sectoral and geographic disparities 
+in digital adoption persist, with broadband access and digital business practices remaining limited 
+outside Mogadishu, especially in interior and secondary cities. Connectivity limitations also help 
+explain why many firms remain local rather than expanding beyond their municipality. 
+Access to electricity continues to hinder business operations, particularly due to high costs and 
+unreliable service. These issues are especially acute outside major cities, where limited 
+infrastructure restricts firms’ ability to operate beyond their local markets. Even in urban areas, 
+where access is comparatively better, poor service quality and high electricity costs remain 
+persistent concerns. Focus group participants emphasized that electricity constraints often limit 
+mobility and delivery capacity, further discouraging business expansion. In 2023, 11 percent cited 
+electricity as the top obstacle versus 5 percent in 2024; among those affected in 2024, high cost was 
+the leading issue (57 percent), followed by unreliability (40 percent). FGDs further noted that the lack 
+of electricity outside firms’ local municipalities is a direct reason many do not expand geographically. 
+Similarly, financial constraints remain a critical barrier to firm growth, despite not being 
+consistently cited as the top concern. In 2024, only 10 percent of Somali firms applied for credit—
+half the rate observed in 2023—with smaller businesses and firms in Bosaso facing the most severe 
+barriers. Rejection rates declined to 34 percent in 2024 (from 70 percent in 2023), consistent with 
+borrower discouragement as applications fell. Nationwide, 55 percent of firms are credit constrained 
+(69 percent of smaller firms versus 37 percent of larger firms), with the highest share in Bosaso (76 
+percent) and the lowest in Kismayo (15 percent).11 Those rates are considerably higher than the 
+regional and global averages (25 and 14 percent of firms, respectively). Among non-applicants, 55 
+percent were inhibited by barriers (26 percent cited collateral requirements, 17 percent procedures, 
+others cited unfavorable terms or fear of rejection), while 45 percent reported no need. The credit 
+market remains thin and urban-concentrated, serving larger, well-collateralized borrowers. Supply-
+side gaps (limited branch presence, high transaction costs, and weak product diversification) and 
+demand-side constraints (low financial literacy and awareness) both suppress access. A notable 
+ 
+10 Bareisaite, Asta, Juan Andres Cartwright Ramon, and Mounir Bari. 2024. Federal Republic of Somalia Country Private Sector 
+Diagnostic. Washington, DC: World Bank Group. 
+11 The percentage of firms that are credit constrained is higher in the report compared to the results of the recent World Bank Enterprise 
+Survey that identifies 28 percent of firms as fully credit constrained and 42 percent as partially credit constrained.
+=== PAGE 8 ===
+8 
+ 
+bright spot is the widespread use of mobile money, which enables basic transactions even where 
+formal intermediation is limited. 
+Firms’ expectations 
+Despite the abovementioned constraints, business expectations seem to be improving, 
+offering grounds for cautious optimism. Between 2023 and 2024, the share of firms expecting 
+higher sales in the next six months increased from 51 to 74 percent. However, expectations were not 
+always aligned with realized outcomes. While in 2023, firms that expected an increase in sales 
+anticipated an increase of 21 percent over six months, the realized 12-month average growth in 2024 
+was about 8 percent, indicating overoptimism. City-level heterogeneity on this front is pronounced. 
+In 2024, Kismayo was the most optimistic (97 percent of firms expecting higher sales), while Bosaso 
+was the least (28 percent of firms). Investment intentions also remained high, with 64 percent of 
+firms planning to purchase new or used assets. The share of firms expecting to fall into arrears 
+declined markedly—from 15 to 8 percent—suggesting an improvement in financial resilience. Short-
+term survival prospects improved, with firms saying they would be unable to operate beyond one 
+month if sales stopped falling from 30 percent in 2023 to 8 percent in 2024.  
+Employment expectations, however, remain flat. Roughly one-third of firms expected to hire new 
+workers during the next six months in both years (31 percent in 2023 and 37 percent in 2024), with 
+little movement in the share anticipating their workforce to remain stable (68 percent in 2023 and 63 
+percent in 2024), and a negligible proportion of firms expecting reduced headcounts. However, only 
+14 percent of firms reported expanding headcount in 2024 (less than half the share that had expected 
+to do so in 2023). The noteworthy disconnect between rising sales and investment expectations and 
+stagnant employment projections could stem from several factors, including structural labor market 
+barriers, high labor costs, or uncertainty about long-term demand rather than labor-intensive growth. 
+This highlights the need for labor market reforms and measures to reduce hiring frictions—
+particularly to foster inclusive, job-rich growth. 
+Box 1. Key aggregate findings  
+• 
+Formal enterprises in the Federal Republic of Somalia are dominated by services (95 percent), 
+overwhelmingly micro-sized (97 percent), highly concentrated in a few urban centers (Mogadishu 
+accounts for 31percent of firms, 67 percent of sales, and 62 percent of jobs), and largely male-
+owned (only 7 percent of firms are majority female-owned). 
+• 
+Performance of private sector firms is mixed. In 2024, 54 percent of firms reported higher sales, 
+but only 14 percent expanded employment. Productivity has grown only modestly between 2023 
+and 2024 and is polarized—with growth concentrated only among the most productive firms. 
+Smaller firms are often more productive than larger ones. 
+• 
+Investments are steady and market reach is limited. In 2024, investments were slightly below 
+regional and global benchmarks (31 percent of firms made fixed-asset purchases versus 35 
+percent and 38 percent at the regional and global level, respectively), and market reach is narrow
+=== PAGE 9 ===
+9 
+ 
+(84 percent of firms sell only locally and just 7 percent export). Weak domestic demand and 
+fragmented markets limit investments. 
+• 
+Competition is the most binding obstacle to private sector development cited by firms (44 
+percent of firms, especially smaller ones, among which the share increases to 57percent), driven 
+by distorted prices, entry barriers, and informal competitors. At the same time, during FGDs, firms 
+reported improved regulation and licensing and nascent reforms (for example, online registration) 
+that—if consistently enforced—could help improve market contestability by stimulating firm entry. 
+• 
+Infrastructure is also reported as a binding constraint, with severe infrastructure gaps due to 
+costly and unreliable transport, problems with internet connectivity, and unreliable electricity. 
+Nonetheless, during FGDs firms reported progress in internet access in recent years.  
+• 
+Limited access to finance is also concerning. Overall, in the cities analyzed, only 10 percent of 
+firms applied for a loan in 2024. Moreover, 55 percent of firms were credit constrained compared 
+to an average of 25 percent in Sub-Saharan Africa. During FGDs, firms reported widely using 
+mobile money to transact where formal intermediation is limited.  
+• 
+Expectations are high but often exceed outcomes. 74 percent of firms anticipated 20 percent 
+sales growth in 2024, about one-third expected to hire new workers, and 64 percent planned to 
+invest. However, actual sales gains and capital spending remain subdued, and the proportion of 
+firms that actually expanded their workforce is less than half of those that expected to do so.
+=== PAGE 10 ===
+10 
+ 
+1. Introduction 
+This report arrives at an important moment in time, as the Federal Republic of Somalia enters a 
+critical phase in its development. Since the formation of the Federal Government in 2012, the 
+country has made significant strides in political normalization, institutional reform, and economic 
+recovery. The country has sustained robust growth, averaging 5.25 percent between 2013 and 2024 
+(World Development Indicators), and continues to rebuild essential governance and regulatory 
+systems. However, deeply rooted fragility persists, with nearly 90 percent of the population facing 
+multidimensional vulnerability. With constrained fiscal space and delivery capacity, the private 
+sector’s role in services and employment is pivotal. Yet, informality, market concentration, and low 
+productivity blunt its impact, making the translation of macro-level gains into inclusive, job-rich 
+growth challenging for the country. As a result, economic opportunities remain insufficient for a 
+rapidly growing and urbanizing population.12 More robust, inclusive, and private sector-led economic 
+growth is needed to ensure that the hard-won gains of the last decade take root. 
+Supporting the development of the private sector is a priority for the Federal Government. This 
+is underscored in the National Transformation Plan (NTP) 2025–2029 and the Centennial Vision 2060 
+(CV2060). In effect, the NTP states that, “[The country] is committed to fostering private sector 
+growth by improving the business environment, removing regulatory barriers, and promoting 
+financial inclusion,” whereas the CV60 notes “[This strategic document] prioritizes the establishment 
+of a thriving private sector, nurtured by a supportive ecosystem, to unlock opportunities for job 
+creation, income generation, and foreign investment attraction.” The World Bank Group is also 
+committed to supporting the Federal Government in achieving this objective, as indicated in the 
+Country Partnership Framework for the Federal Republic of Somalia for FY24–28 under Pillar 1: 
+Inclusive, private sector-led job creation and economic growth. As part of this pillar the World Bank 
+Group plans on assisting the private sector to create more productive and higher-wage jobs, focused 
+on bridging the “missing middle” of productive small and medium enterprises (SMEs). 
+In this context, understanding the private sector—a constrained yet vital pillar of the 
+economy—is crucial. Given limited public sector fiscal space and underdeveloped institutional 
+capacity for basic service delivery, the Federal Republic of Somalia’s private sector plays a central 
+role in delivering services, generating employment (accounting for about 95 percent of jobs), and 
+supporting communities. Yet it remains largely informal, fragmented, and undiversified. A small 
+number of conglomerates dominate key markets, while most enterprises are informal micro-
+businesses with low productivity and limited links to wider markets.13 Supporting private 
+enterprises—especially in underserved regions—can reduce poverty and promote resilience. 
+Unlocking the sector’s full potential is, therefore, crucial to achieving a more inclusive and 
+prosperous country. 
+ 
+12 Bareisaite, Asta, and Juan Andres Cartwright Ramon. 2024. Somalia Business Survey and Qualitative Assessment. First-Round Results 
+13 Bareisaite, Asta, Juan Andres Cartwright Ramon, and Mounir Bari. 2024. Federal Republic of Somalia Country Private Sector 
+Diagnostic. Washington, DC: World Bank Group.
+=== PAGE 11 ===
+11 
+ 
+However, reliable data on the Federal Republic of Somalia’s private sector remain scarce, 
+limiting the possibility to design evidence-based reforms. Some advances have begun to shift this 
+landscape. For instance, the 2024 Federal Republic of Somalia Integrated Business Establishment 
+Census (SIBEC) conducted by the Somali National Bureau of Statistics (SNBS) marks a historic 
+milestone in national development planning, as it is the first national census in over 50 years to 
+provide reliable data on the composition of the private sector, offering an essential foundation for 
+evidence-based policy making. Yet, data on performance of the private sector remained scarce, as 
+indicated by the 2024 Somalia Country Private Sector Diagnostic (CPSD), which underscored the 
+urgent need for granular firm-level data to better understand firm performance and the key 
+constraints to private sector growth, thereby laying the basis for strong, evidence-based policy 
+making.  
+To fill the remaining critical data gaps, this report presents new and comprehensive evidence 
+on composition, performance, and constraints to growth of the Federal Republic of Somalia’s 
+formal private sector. It draws on two rounds of representative firm-level surveys conducted by the 
+World Bank (that is, the 2023 and 2024 Integrated Business Establishment Surveys [IBES]). The 
+surveys covered 700 formally registered firms across five cities—Baidoa, Beledweyne, Bosaso, 
+Kismayo, and Mogadishu—with 86 percent of respondents tracked in both years.14 Qualitative focus 
+group discussions (FGDs), also conducted in 2023 and 2024, complement the firm-level surveys by 
+adding context and nuance, capturing perceptions and dynamics that quantitative data alone cannot 
+reveal.15 Taken together, these data collection efforts provide an unprecedented view of the formal 
+private sector in the Federal Republic of Somalia.  
+The report aims to guide evidence-based policy making and complement the existing and 
+ongoing private sector diagnostic efforts in the Federal Republic of Somalia. It builds on recent 
+diagnostics, such as the CPSD, which set out reforms priorities for the country’s private sector using 
+available data. The purpose of this extended report is to offer a diagnostic overview of the private 
+sector landscape, without proceeding into detailed policy recommendations. The new survey and 
+focus group evidence presented in this report provide additional context on firm-level conditions and 
+challenges, offering empirical support that reinforces and further substantiates the CPSD’s findings 
+and recommendations. The diagnostic is also expected to serve as input to other analytical 
+initiatives, including the upcoming Growth and Jobs Report, where policy priorities will be analyzed 
+in greater depth. In December 2025, this effort was further complemented by the publication of the 
+World Bank Enterprise Survey data, which can be leveraged to deepen the diagnostic of constraints 
+to private sector growth by analyzing firms’ day-to-day experiences with the business environment.16 
+ 
+14 The report refers to the combined results of these five cities, as ‘aggregate’. 
+15 The FGDs, which followed the surveys, were designed to complement the quantitative work by exploring in greater depth the areas that 
+firms identified as most problematic. This qualitative approach helped shed light on specific findings, providing richer insights into the 
+challenges and experiences reported by the firms. More details on the FDG are provided in Annex A.3 
+16 The data are available on the World Bank Enterprise Survey (WBES) website https://www.enterprisesurveys.org/en/enterprisesurveys. 
+The WBES interviewed 241 formal firms across the country, covering small (5–19 employees; 171), medium (20–99; 66), and large (100+; 
+4) firms.
+=== PAGE 12 ===
+12 
+ 
+It is important to stress that important gaps remain. As indicated by the SIBEC data used in the 
+report to provide information on the business demographic in the country, formal firms account for 
+only about 28 percent of all businesses,17 leaving the majority of economic activity in the informal 
+sector beyond their scope. This report focuses on the formal sector—by design, the survey covers 
+only formally registered firms in five cities and excludes large conglomerates and informal micro-
+enterprises. Qualitative inputs—especially around competition and informal practices—help bridge 
+this gap and shed light on the broader economic ecosystem. However, further analytical efforts are 
+required to better understand the characteristics and performance of the informal sector in Somalia.  
+The report is structured as follows. Chapter 2 outlines the composition and performance of the 
+private sector in the Federal Republic of Somalia, focusing on firm employment, productivity, and 
+investment between 2023 and 2024. Chapter 3 examines key business environment constraints, 
+including market competition, infrastructure issues (such as transportation and logistics, 
+connectivity and digital technology, and electricity), and access to finance and government support. 
+Chapter 4 analyzes firm expectations, covering anticipated sales, workforce adjustments, capital 
+investment plans, and financial resilience. Chapter 5 concludes by discussing the implications for 
+future policy interventions, prioritization, and areas for further diagnostic and analytical work. 
+Methodological details on the surveys and FGDs are provided in the appendix, along with the sample 
+composition of the IBES. 
+ 
+ 
+ 
+17 SIBEC 2024.
+=== PAGE 13 ===
+13 
+ 
+2. Composition and performance of the private sector in the Federal Republic 
+of Somalia 
+This chapter profiles the Federal Republic of Somalia’s formal private sector, highlighting 
+differences across firm types. The analysis of firm structure, performance, and investment patterns 
+helps identify both strengths and structural bottlenecks. Although fewer than one in three 
+establishments in the Federal Republic of Somalia are formally registered, focusing on formal firms 
+is key to boosting investment and promoting more and better jobs. The formal sector is a bellwether 
+for sustainable growth, investment attraction, and integration into global markets. Examining 
+productivity in the formal private sector is crucial for investment and job creation, while 
+improvements in this area can also benefit informal firms through spillovers, such as knowledge 
+transfer and stronger market links.18 Within the formal sector, the focus of this report is on privately 
+owned firms in manufacturing, wholesale, and retail and market-oriented services sectors.19  
+The chapter integrates multiple data sources. The chapter starts by setting the stage on the 
+composition of the private sector, leveraging the 2024 SIBEC.20 It details the distribution of formal 
+firms by size, sector, location, and ownership structures, including women’s participation. The rest 
+of the chapter draws primarily on the 2023–2024 IBES and focuses on formal firms with five 
+employees or more across five cities: Baidoa, Beledweyne, Bosaso, Kismayo, and Mogadishu.21 
+These cities account for 56 percent of all formal firms in the Federal Republic of Somalia.22 The 
+analysis tracks productivity trends between 2023 and 2024. It examines firm investment behavior 
+and international links, particularly through trade. The majority of firms in the IBES sample employ 
+between 5 and 50 workers, with only a small share exceeding that range. To facilitate meaningful 
+analysis, when IBES data are used, firms are grouped into two categories: smaller firms (5–9 
+employees) and larger firms (10 or more employees). 
+2.1 Characteristics of the formal private sector in the Federal Republic of Somalia 
+Private sector activity in the Federal Republic of Somalia is predominantly concentrated in 
+small, low-value-added services, with most firms operating at micro scale and with limited 
+levels of formalization. The total number of establishments recorded in the SIBEC is 174,149, 
+categorized into formal (28 percent), informal (25 percent), and micro-establishments (47 percent). 
+Within the formal sector, micro firms (1–9 employees) represent about 97.0 percent of formal firms, 
+small firms (10–49 employees) account for an estimated 2.5 percent, and approximately 0.5 percent 
+ 
+18 A companion report could explore the informal sector—which plays a significant role in the Somali economy—that falls outside the 
+scope of this analysis. 
+19 The IBES covers firms operating in the non-farm, non-mining, and non-financial private sector. Specifically, it includes firms in 
+manufacturing (Group D); construction (Group F); various service sectors (Groups G and H); transport, storage, and communications 
+(Group I); and information technology (Division 72 of Group K), following the International Standard Industrial Classification (ISIC) Rev. 
+3.1. Additional service sectors, identified by SIBEC as public and social services (such as electricity, gas, steam, and air conditioning 
+supply; water supply, sewerage, and waste management; education; human health and social work activities; arts, entertainment, and 
+recreation; and other service activities) are not included. More details on the sample composition are provided in Appendix A.2. 
+20 The 2024 SIBEC is a ground-breaking endeavor by the SNBS to completely capture the country’s business demography. This first-of-its-
+kind census collected thorough information on formal, informal, and micro-establishments. 
+21 The five cities were chosen based on the concentration of private sector activities and ensure a balanced coverage of the different 
+locations in the country (that is, coastal and inland). Details about the 2023 and 2024 IBES are provided in the Appendix. 
+22 SIBEC 2024.
+=== PAGE 14 ===
+14 
+ 
+is split between medium-size firms (50–249 employees) and large firms (250 or more employees) 
+(Figure 2.1a).23 In terms of sectors, wholesale and retail trade accounts for 72 percent of all 
+establishments, followed by public and social services and market-oriented services (12 percent and 
+11 percent, respectively), and manufacturing (5 percent) (Figure 2.1a). By legal status, approximately 
+91 percent of formal firms are sole proprietorships, 6 percent operate as partnerships, and 3 percent 
+are nongovernmental organizations or other type of entities (Figure 2.1c).  
+The Federal Republic of Somalia’s formal private sector is also disproportionately concentrated 
+in Mogadishu relative to the city’s population share. According to SIBEC 2024, Mogadishu 
+(Banadir) hosts about 31 percent of formal firms, followed by Bosaso (12 percent), Beledweyne (5 
+percent), Kismayo (4 percent), and Baidoa (4 percent) (Figure 2.1d). Yet, Mogadishu accounts for only 
+12 percent of the country’s population,24 implying a concentration 2.7 times higher than its 
+population share and underscoring the policy need to spread formal sector growth beyond the 
+capital. 
+Figure 2.1a - The entire formal private sector is 
+predominantly composed of micro firms 
+Percentage of firms, by size 
+Figure 2.1b - Most formal firms are in wholesale and 
+retail 
+Percentage of firms, by sector 
+ 
+ 
+23 Firm size classifications are based on the 2024 SIBEC, which has minor differences from the categories used in the World Bank’s IBES. 
+24 United Nations Statistics Division. Somalia - Country Profile (UN Data). United Nations 2024. https://data.un.org/en/iso/so.html. 
+97.35%
+2.45%
+0.18%
+0.02%
+Micro (1-9)
+Small (10-49)
+Medium (50-249)
+Large (250+)
+5%
+11%
+12%
+72%
+Manufacturing
+Market Oriented Services
+Public and Social Services
+Wholesale and Retail
+=== PAGE 15 ===
+15 
+ 
+Figure 2.1c - Large majority of formal firms are 
+owned by a single sole proprietor 
+Percentage of firms, by legal ownership 
+Figure 2.1d - Almost one-third of formal firms are in 
+Mogadishu 
+Percentage of firms, by city 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: SIBEC 2024; SNBS. 
+Note: Figure 2.1b: Market-oriented services include accommodation and food service activities; information and 
+communication; real estate activities; professional, scientific, and technical activities; and administrative and support 
+service activities. Public and social services include electricity, gas, steam, and air conditioning supply; water supply, 
+sewage, and waste management; education; human health and social work activities; arts, entertainment, and recreation; 
+and other service activities. 
+Figure 2.1d: The category of other cities includes the cities of Hargeisa, Berbera, Burao, Garowe, Galkayo, Adado, 
+Dhusamareeb, Jowhar, Barawe, Hudur, and Beletxawo. Awdal, Sanaag, Sool, and Middle Juba regions are not included in 
+the census. 
+Box 2. Female entrepreneurship in the formal sector is limited 
+In 2024, only 7 percent of businesses in the 5 cities in the analysis were majority-owned by women. This is 
+substantially below both the Sub-Saharan Africa and global averages, where female-majority ownership 
+stands at about 16 percent. The highest shares of majority female-owned establishments were observed in 
+Bosaso and Baidoa (14 percent), and among smaller firms at the aggregate level (11 percent) (Figure 2.2a). 
+At the same time, the average share of firm ownership held by women is also lower than in comparable 
+contexts. In the five cities analyzed, women owned on average just 8 percent of each firm, compared with 
+an average of 18 percent in Sub-Saharan African countries (Figure 2.2b). Examining the percentage of 
+ownership is important because the extent of ownership typically determines real decision-making power, 
+control over profits, and access to collateral. When women hold only a small ownership stake, they are 
+less able to influence strategic choices, expand their economic opportunities, or benefit from the full 
+returns of the business, even when they are involved in day-to-day operations. 
+Figure 2.2a - Few firms are majority-owned by women 
+Figure 2.2b - When in business, women own a small 
+percentage of firms’ shares 
+Percentage of firms, by gender of the owner (2024) 
+Percentage owned by female (2024) 
+ 
+91%
+6%
+2%
+1%
+Sole
+Proprietorship
+Partnership
+NGO and Other
+Non-Profit
+Other
+12%
+5%
+31%
+4%
+4%
+44%
+Bosaso
+Beledweine
+Mogadishu
+Baidoa
+Kismayo
+Other cities
+=== PAGE 16 ===
+16 
+ 
+ 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+Source: The Federal Republic of Somalia IBES 2024. 
+2.2 Annual sales, employment growth, labor productivity, investment trends, and market reach 
+Sales 
+A majority of firms reported increasing sales in 2024, showing improvement over 2023. Figure 
+2.3a shows the share of firms reporting increased, decreased, or unchanged sales over the previous 
+12 months, both overall and by city. In 2024, 54 percent of firms reported an average sales increase 
+of 17 percent compared to the year before (up from 43 percent in 2023), 38 percent reported no 
+change, and 8 percent reported an average decrease of 14 percent in 2024 (up from 3 percent in 2023) 
+(See Figure 2.3a and Figure 2.3bError! Reference source not found.).  
+This positive trend masks a sharp geographic divergence. Regional analysis reveals that while 
+some areas experienced better performance in 2024 compared to the year before, others continued 
+to face significant challenges. Mogadishu’s share of firms with rising sales jumped from 44 percent 
+in 2023 to 65 percent in 2024, driving the overall positive performance at the aggregate level. On the 
+contrary, firms in Bosaso remained the weakest performers, with only 11 percent reporting sales 
+increases while 32 percent reported declines (Figure 2.3a). Other cities fell between these two 
+extremes. The differences in net increase are also noticeable, with Mogadishu firms whose sales 
+increased doing so by 16 percent on average, in comparison to an average of 10 percent in Bosaso. 
+Similarly, firms in Mogadishu whose sales decreased did so by 20 percent on average, in comparison 
+to an average of 11 percent in Bosaso (Figure 2.3b).  
+Larger firms drove sales growth while smaller firms saw lower gains and more frequent 
+declines. Among firms with more than 10 employees (larger firms), the share reporting higher sales 
+more than doubled—from 29 percent in 2023 to 61 percent in 2024—while the share of larger firms 
+reporting declines edged down from 3 percent in 2023 to 2 percent in 2024. In contrast, smaller firms 
+(with 10 or fewer employees) showed little improvement. While the share of these firms reporting an 
+increase in sales remained almost unchanged (48 percent in 2023 and 49 percent in 2024), 13 
+percent of smaller firms reported a decline in sales in 2024 (up from 3 percent the previous year) 
+(Figure 2.3c). On net, larger firms, which on average increased sales by 21 percent and decreased by 
+11 percent, had a net increase of 12.6 percent in 2024. At the same time, smaller firms experienced
+=== PAGE 17 ===
+17 
+ 
+an overall increase of 5.5 percent, less than half that of larger firms (Figure 2.3bError! Reference s
+ource not found.).  
+Figure 2.3a - The share of firms reporting sales growth 
+increased in 2024, with Bosaso being the notable 
+exception  
+Figure 2.3b - The percentage of sales change varies by 
+city and size 
+Percentage of firms that increased and decreased sales 
+in the last 12 months, by city and year 
+Percentage of sales change in the last 12 months, 2024 
+(by city and size) 
+ 
+ 
+Figure 2.3c - In 2024, the share of firms with sales 
+growth was more pronounced among larger firms 
+Figure 2.3d - The share of women-owned firms 
+reporting higher sales rose in 2024, but so did the 
+share reporting declines 
+Percentage of firms that increased and decreased sales 
+in the last 12 months, by size and year 
+Percentage of firms that increased and decreased sales 
+in the last 12 months, by gender 
+ 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+ 
+Women-owned firms showed strong improvements in sales in 2024, although differences with 
+men-owned firms remain. In 2023, only 17 percent of women-owned firms reported higher sales, 
+compared to 47 percent of men-owned firms. By 2024, the share of women-owned firms with 
+increased sales rose to 48 percent, while the corresponding share for men-owned firms increased 
+slightly to 54 percent.
+=== PAGE 18 ===
+18 
+ 
+At the same time, the share of women-owned firms experiencing declines in sales also rose sharply, 
+reaching 34 percent in 2024 compared to negligible declines in 2023. In contrast, men-owned firms 
+remained relatively stable, with only minor changes in the share reporting decreased sales over the 
+same period. Overall, female-owned firms saw a notable gain in sales performance, narrowing the 
+gap with male-owned firms. However, the increased declines highlight ongoing challenges for 
+women entrepreneurs in the economy (Figure 2.3d). 
+Employment 
+Despite sales gains, job creation in 2024 was weak, with most firms holding headcount 
+constant. Sustained increases in sales often drive job creation, with businesses expanding their 
+operations and workforce to meet growing demand. Unfortunately, this is not the case in the Federal 
+Republic of Somalia. The share of firms expanding their workforce in the five cities in the analysis fell 
+from 30 percent in 2023 to 14 percent in 2024, while the share reducing employment rose from 3 
+percent to 8 percent. In Mogadishu, the share of firms expanding their workforce changed only 
+minimally—88 percent of firms reported no employment change in 2023 and 91 percent in 2024. 
+Meanwhile, Bosaso experienced a sharp reversal, with 41 percent of firms cutting jobs in 2024 after 
+negligible reductions in 2023 (Figure 2.4a). Both smaller and larger firms reduced hiring momentum. 
+In effect, while larger firms drove employment in 2023, there was a particularly steep drop in the 
+proportion of firms increasing their workforce among larger firms—from 52 percent expanding in 
+2023 to 16 percent in 2024. Downsizing remained low among larger firms but rose sharply among 
+smaller firms–from 3 percent to 13 percent (Figure 2.4b). 
+Figure 2.4a - In 2024, majority of firms did not expand 
+their workforce and even contracted 
+Figure 2.4b - Majority of larger firms increased their 
+workforce in 2023 but did not expand in 2024 
+Percentage of firms that increased, decreased 
+employment by city and year 
+Percentage of firms that increased, decreased 
+employment by city and size 
+ 
+Source: The Federal Republic of Somalia IBES 2023 and 2024.  
+Economic activity is highly concentrated in Mogadishu, which accounts for the majority of total 
+sales and formal sector employment in the sample cities. In 2024, firms in Mogadishu generated
+=== PAGE 19 ===
+19 
+ 
+67 percent of total sales and 62 percent of formal private sector jobs across the five cities analyzed, 
+far exceeding the contributions of other localities. In effect, Baidoa ranked second with only 15 
+percent of total sales and 16 percent of total private sector employment (Figure 2.5a).25 Larger firms 
+in Mogadishu are pivotal. They represent 27 percent of firms but account for 42 percent of both total 
+employment and total sales of surveyed cities (Figure 2.5b). Elsewhere, patterns vary, with larger 
+firms contributing more in Kismayo and Beledweyne, whereas in Baidoa and Bosaso smaller firms 
+drive most of the economic activity, particularly in terms of employment offered.  
+Figure 2.5a - Economic activity is concentrated in 
+Mogadishu 
+Figure 2.5b - Large firms in Mogadishu contribute 
+most to sales and employment  
+Share of firms, employment, and sales by city and year  
+Share of firms, employment, and sales by city and size 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+Note: Total shares add up to a 100. 
+Productivity 
+Productivity improved slightly on average in 2024, but gains were uneven, and many 
+lower-productivity firms slipped further. Across the five cities, average labor productivity was 
+US$1,540 (with the median at US$1,333).26 This is modest when compared to the median labor 
+productivity for firms in several Sub-Saharan African countries (US$14,179).27 Productivity in 2024 
+was not only low but also showed little growth compared to 2023. This is shown by the kernel density 
+in Figure 2.6a, which depicts the distribution of firm productivity in 2024 and lies slightly to the right 
+of 2023, reflecting only a modest overall improvement. The same figure also reveals that less 
+productive firms (defined as those with sales per worker below the median) experienced a decline in 
+productivity, as illustrated by the 2024 curve lying below the 2023 curve in the left tail of the 
+distribution. This means that on top of labor productivity in the five cities in the analysis being very 
+modest, the performance of less productive firms also worsened over the year. In simpler terms, 
+ 
+25 According to 2024 SIBEC, Mogadishu’s formal firms represent 56.5 percent of all formal firms in the five cities in the study. 
+26 The mean in 2023 was US$1,516, and the median was US$1,143. The difference between average and median values indicates that a 
+small number of highly productive firms are driving the mean upward. 
+27 This indicator is computed in two steps using the World Bank Enterprise Surveys of African countries (last year available). First, the 
+median productivity is calculated within each country, which reflects the performance of the middle firm in that country. Then, the 
+average of these country-level medians is taken, giving each country equal weight regardless of its size or number of firms.
+=== PAGE 20 ===
+20 
+ 
+firms that were already on the lower end of the productivity scale became even less efficient in 2024 
+compared to 2023, highlighting how the small gains seen at the aggregate level were not shared 
+across the board. 
+Figure 2.6a - Firm productivity improved in 2024 but 
+some firms underperformed relative to 2023 
+Figure 2.6b - Productivity changes vary across cities. 
+While it decreased in most cities, Baidoa’s firms 
+became more productive 
+Distribution of labor productivity in 2023 and 2024 - 
+median (kernel) 
+Predicted productivity by locality holding size, sector, and 
+age constant 
+ 
+Source: The Federal Republic of Somalia IBES 2023 and 2024. 
+Note: Figure 2.6a: The vertical lines correspond to the median of the productivity distribution. 
+Figure 2.6b: These values come from two separate regressions (one for each year, 2023 and 2024). The coefficients are 
+marginal effects, indicating the adjusted mean productivity for each city. Each regression controls for sector, firm size, and 
+firm age. 
+The magnitude and direction of productivity changes differ from one city to another. To 
+document the heterogeneity of productivity across the different cities in the analysis, changes in 
+productivity are estimated holding differences in location, size, sector, and age constant (Figure 
+2.6b). This enables the identification of differences based on geographical location for firms that are 
+similar in other characteristics (that is, size, sector, and age of the firm). When all these elements are 
+considered, productivity changes between 2023 and 2024 vary across geographical locations. 
+Specifically, in Mogadishu, productivity remained largely unchanged between 2023 and 2024, while 
+in Baidoa it increased. In contrast, productivity declined in the other cities.  
+In 2024, Mogadishu and Beledweyne were the most productive cities. Bosaso and Kismayo, on 
+the contrary, had lower productivity. In 2024, the average firm productivity in Mogadishu was 118 
+percent higher than in Bosaso and 36 percent higher than in Kismayo (Figure 2.6b). Figure 2.7a 
+provides more detail on the composition of firms by productivity level across cities, showing the 
+distribution of firms classified by quartiles.28 In Mogadishu, 57 percent of firms fall into the high or 
+medium-high productivity categories, with the majority being high productivity. Beledweyne shows a 
+ 
+28 Productivity is classified into four categories based on a firm’s position in the productivity distribution: low productivity (below the 25th 
+percentile), low-medium (25th to below the 50th percentile), high-medium (50th to below the 75th percentile), and high productivity 
+(75th percentile and above). Figure 2.7a and Figure 2.7b show the distribution of firms across these categories by city and firm size.
+=== PAGE 21 ===
+21 
+ 
+similar pattern. In Baidoa and Kismayo, the share of high or medium-high productivity firms is 
+comparable—49 percent and 50 percent, respectively—but unlike Mogadishu and Beledweyne, the 
+majority fall within the medium-high category. In contrast, Bosaso has a much lower share of high 
+and medium-high productivity firms (25 percent combined), with 62 percent of firms classified as 
+low productivity. This confirms the earlier findings based on average productivity levels by city.  
+Contrary to conventional expectations, high-productivity firms are more common among 
+smaller firms than larger ones. In 2024, 58 percent of smaller firms (5–9 employees) were in the 
+high or medium-high productivity categories, compared to just 40 percent of larger firms (10 or more 
+employees) (Figure 2.7a29). This pattern is consistent with literature suggesting that larger firms 
+dominating formal economic activity often have incentives to focus on ‘easier’ and less productive 
+activities—typically in non-tradable or protected sectors—rather than pursuing innovation or export-
+oriented strategies.30 This contrasts with the more conventional view that emphasizes the 
+disadvantages faced by smaller enterprises, such as limited economies of scale, higher per-unit 
+input costs, and greater exposure to market frictions affecting access to capital and quality inputs.31  
+Figure 2.7a - Productive firms are more concentrated 
+in Mogadishu and Beledweyne 
+Figure 2.7b - More of the high and medium-high 
+productive firms are small 
+Distribution of firms by their productivity quartile across 
+cities 
+Distribution of firms by their productivity quartile by size 
+Source: The Federal Republic of Somalia IBES 2024. 
+Note: Firms are classified according to their productivity quartile. 
+Firm-level investment  
+Investment activity in 2024 was broadly comparable to regional benchmarks—with marked 
+differences across cities. In 2024, 31 percent of firms in the five cities that were analyzed reported 
+ 
+29 The average productivity of small firms (1–9 employees) is US$1,656, while firms with 10 or more workers have an average of US$1.384. 
+30 Schiffbauer, Marc, James Sampi, and Javier Coronado. 2025. Competition and Productivity: Evidence from Peruvian Municipalities. The 
+Review of Economics and Statistics 107 (1): 95–108. doi: https://doi.org/10.1162/rest_a_01257; Diwan, Ishac, Philip Keefer, and Marc 
+Schiffbauer. 2020. “Pyramid capitalism: Cronyism, regulation, and firm productivity in Egypt.” The Review of International 
+Organizations 15 (1): 211–246. 
+31 Merotto, D., M. Weber, M., and R. Aterido. 2018. “Pathways to Better Jobs in IDA countries: Findings from Jobs Diagnostics.” Job series 
+14.
+=== PAGE 22 ===
+22 
+ 
+investing in fixed assets (Figure 2.8a)32—slightly below the Sub-Saharan African economies average 
+(35 percent) and the global average (38 percent).33 At the city level, Mogadishu leads on current 
+investment, with a 43 percent investment rate, while Kismayo (11 percent) and Bosaso (14 percent) 
+are lower. Larger firms invested more than smaller firms, but gains did not uniformly translate into 
+stronger performance. Among smaller firms, 28 percent purchased fixed assets in the year before 
+2024, compared to 35 percent of larger firms (Figure 2.8aError! Reference source not found.). I
+nvestment was particularly low among female-owned firms: only 4 percent reported purchasing fixed 
+assets in the previous 12 months, compared to 33 percent of male-owned firms (Figure 2.8b). In other 
+words, almost one out of every three male-owned firms invested in new fixed assets, while among 
+female-owned firms, the rate was close to zero. This stark difference highlights significant gender 
+gaps in firms’ ability to expand, modernize, and increase productivity. Box 3 explores the most 
+frequently reported reasons behind the limited investment rates, highlighting the lack of demand as 
+the leading cause. 
+Figure 2.8a - Almost one in three firms invested 
+during the previous 12 months 
+Figure 2.8b - Only a very limited share of female-owned 
+firms invested during the previous 12 months 
+Percentage of firms that purchased new or used fixed 
+assets in the past 12 months 
+Percentage of firms that purchased new or used fixed assets 
+in the past 12 months, by gender 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+Source: The Federal Republic of Somalia IBES 2024. 
+Box 3 - Lack of demand limits investment and growth 
+Lack of demand is the most reported reason for non-investing. Firms that did not purchase fixed assets 
+during the previous 12 months were asked the main reason for not doing so. Table 2.1 shows outcomes by 
+size. While one in four larger firms report their business model does not need new investments to 
+thrive, over half are primarily constrained by limited market size and lack of demand. A significant portion 
+(11 percent) also perceive the current political climate as too risky. Notably, only 7 percent of large firms 
+point to a lack of resources, compared to 20 percent of small firms citing resource scarcity as the reason 
+ 
+32 Investment is defined as the purchase of fixed assets based on the question ‘Over the last 12 months, did this establishment purchase 
+any new or used fixed assets, such as machinery, vehicles, equipment, land or buildings, including expansion and renovations of existing 
+structures?’ This variable is only available in 2024. The results are slightly below the recent WBES that confirmed 35 percent of firms 
+purchasing fixed assets.  
+33 Data on the percentage of firms that invested in Sub-Saharan African countries and globally are from the World Bank Enterprise Survey 
+website.
+=== PAGE 23 ===
+23 
+ 
+for not investing. Alongside the lack of resources, lack of demand and the political environment are 
+important constraints for small firms (26 and 25 percent of firms, respectively). 
+Table 2.1. Lack of demand is a major issue for larger firms  
+Reasons why firm did not invest, by size (percentage of firms) 
+  
+Aggregate 
+(%) 
+Smaller 
+firms (%) 
+Larger 
+Firms (%) 
+Did not have enough demand 
+37 
+26 
+54 
+No need because of type of business 
+20 
+17 
+25 
+Political uncertainty 
+19 
+25 
+11 
+Lack of resources 
+15 
+20 
+7 
+Different business strategy 
+7 
+10 
+3 
+Regulations and permits 
+2 
+2 
+1 
+Source: The Federal Republic of Somalia IBES 2024.  
+The ability of Somali firms to expand beyond local markets is also severely limited by weak demand. 
+Business representatives across focus groups emphasized that markets outside major municipalities are 
+often disorganized and underdeveloped, with limited consumer purchasing power, making sales in these 
+areas financially unviable. This is particularly true for SMEs, which make up the majority of the Federal 
+Republic of Somalia’s private sector.  
+Market Reach 
+Most firms sell primarily to local markets, with national and international reach concentrated 
+in Mogadishu and Bosaso. Across the five cities surveyed in 2024, 84 percent of firms operated 
+primarily in local markets (Figure 2.9a). This is remarkably higher than the 57 percent average in Sub-
+Saharan African economies. Participation beyond local markets is especially low in Baidoa and 
+Kismayo (2 percent each) and remains limited in Beledweyne (8 percent). Mogadishu and Bosaso 
+show higher national reach (18 percent of firms each), and only firms in Mogadishu report having 
+international sales. By size, smaller firms are overwhelmingly local (only 6 percent operate beyond 
+their community), whereas 25 percent of larger firms sell nationally and 4 percent internationally 
+(Figure 2.9b).
+=== PAGE 24 ===
+24 
+ 
+Figure 2.9a - Most firms primarily compete in local 
+markets  
+Figure 2.9b - While small businesses are typically 
+focused on local markets, a significant portion of 
+larger firms operate over a broader geographic 
+reach 
+Percentage of firms by their market structure and city 
+Percentage of firms by their market structure and size 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+Figure 2.10 - The Federal Republic of Somalia’s firms rely heavily on 
+imports 
+Percentage of firms trading (direct and indirect exporters and importers) 
+Source: The Federal Republic of Somalia IBES 2024. 
+Accordingly, firms’ direct links with international markets remain limited relative to global 
+benchmarks, with few exporters and below-average reliance on foreign inputs. In 2024, only 7 
+percent of firms in the Federal Republic of Somalia exported directly to international markets, a share 
+that is both below the global average of 12 percent and aligned with the Sub-Saharan African average 
+of 7 percent. Similarly, 42 percent of firms reported using imported material inputs or supplies of 
+foreign origin, which is lower than the 51 percent average in Sub-Saharan Africa and 59 percent 
+globally (Figure 2.10). Taken together, these figures suggest a limited integration of Somali firms into 
+cross-border value chains.
+=== PAGE 25 ===
+25 
+ 
+3. Key business environment constraints  
+This chapter examines how business environment constraints may help explain firm 
+performance in the five cities in the analysis. The analysis focuses on three key areas: (a) market 
+competition—particularly price distortions, entry barriers, and competition from informal firms; (b) 
+infrastructure, including transportation and logistics, connectivity and digital technology, and 
+electricity; and (c) access to resources, including public and private sector financial resources and 
+other types of government support. These areas were selected based on the top obstacles to 
+operations reported in the 2023 and 2024 IBES (see Figure 3.1a and Figure 3.1b).34 The surveys 
+identify market competition, transportation, connectivity, and electricity as the main obstacles. The 
+selection was further informed by data on firms’ experiences cited by FGD respondents, which reveal 
+persistent issues with access to finance. The chapter draws on both objective indicators from the 
+IBES and the subjective perspectives of business owners expressed in the FGDs, combining lived 
+experiences with assessments of the business environment. 
+Figure 3.1a - Transport and logistics was the top 
+concern in 2023, closely followed by market 
+competition and electricity, with only a small gap 
+between them 
+Figure 3.1b - In 2024, market competition was the 
+biggest constraint to firms’ operations, far 
+outweighing any other challenge 
+Percentage of Somali firms reporting top obstacles in 
+2023 
+Percentage of Somali firms reporting top obstacles in 
+2024 
+ 
+ 
+Source: The Federal Republic of Somalia IBES 2023 and 2024.  
+3.1 Market competition and regulations 
+Lack of market competition harms firms across all major cities in the Federal Republic of 
+Somalia, with small enterprises bearing the brunt of the impact. In 2024, market competition 
+ 
+34 The recent WBES identifies access to finance, access to land, and electricity as more binding obstacles to firms’ operations. It is worth 
+notice that the categories of the main obstacles among which firms were asked to choose were different in the WBES and in the IBES.
+=== PAGE 26 ===
+26 
+ 
+emerged as the most binding constraint for firms in all surveyed cities—ranging between 41 and 48 
+percent of businesses (Figure 3.2a). Underscoring size-based differences, 57 percent of smaller 
+firms reported market competition as their primary operational challenge, compared with 26 percent 
+for larger firms. Small businesses often have fewer resources, less bargaining power, and greater 
+reliance on individual consumer demand, making them more vulnerable to the effects of anti-
+competitive behavior (Figure 3.2b). This is consistent with insights from the recent CPSD report, 
+which highlighted that competition issues appear linked to the presence of large conglomerates that 
+dominate key industries, such as logistics, tourism, and energy. Leveraging their political and 
+economic influence, these groups maintain tight control over the market, making it difficult for 
+smaller firms to compete. They benefit from economies of scale and control much of the export 
+market for the limited range of goods produced in the Federal Republic of Somalia. Weak law 
+enforcement and a lack of fair competition oversight allow them to crowd out other businesses and 
+perpetuate an uneven playing field.35 
+Figure 3.2a - Market competition affects firms in all 
+cities 
+Figure 3.2b - Smaller firms are hit harder by market 
+competition 
+Percentage of Somali firms reporting top four obstacles, 
+by city 
+Percentage of Somali firms reporting top obstacles, by size  
+Source: The Federal Republic of Somalia IBES 2024.  
+Among the firms that identified market competition as their main obstacle, the most commonly 
+cited challenges were distorted market prices, entry barriers, and competition from informal 
+firms. Firms reporting market competition as their most binding constraint were asked to identify the 
+primary concern regarding the competition pressures they faced. Their responses (see Table 3.1) 
+reveal the widespread presence of anti-competitive practices. The most frequently cited concern 
+was distorted market prices, reported by 39 percent of respondents in 2024. This was followed by 
+barriers to market entry (28 percent). Other notable issues include informal competition (13 
+ 
+35 Bareisaite, Asta, Juan Andres Cartwright Ramon, and Mounir Bari. 2024. Federal Republic of Somalia Country Private Sector 
+Diagnostic. Washington, DC: World Bank Group.
+=== PAGE 27 ===
+27 
+ 
+percent), shortages of key inputs (9 percent), perceived favoritism by the state (7 percent), and 
+competition from imports (4 percent). 
+These challenges vary significantly by location and firm size. Price distortions were the major 
+concern in Baidoa, Beledweyne, and Bosaso (particularly affecting firms in Baidoa where 63 percent 
+cited it as their worst challenge). In Mogadishu, firms worried most about entry barriers affecting 
+market access (42 percent reported entry barriers as the most challenging), with price distortions 
+being the major issue for one-third of businesses (Table 3.1). Price distortions affect both size groups 
+but are slightly more binding for smaller firms (41 percent), who may lack the scale to absorb or 
+counteract price manipulation (Table 3.2). 
+Table 3.1 - The presence of price distortions poses a substantial competitive challenge for firms in nearly all cities, 
+excluding Kismayo 
+Top constraints related to competition, by city (percentage of firms)  
+  
+Aggregate 
+Baidoa 
+Beledweyne 
+Bosaso 
+Kismayo 
+Mogadishu 
+Distorted market prices 
+39 
+63 
+41 
+38 
+18 
+33 
+Entry barriers  
+28 
+9 
+5 
+8 
+2 
+42 
+Competition from informal businesses 
+13 
+10 
+19 
+25 
+3 
+12 
+Shortages of inputs 
+9 
+14 
+15 
+27 
+3 
+4 
+State favoritism to companies 
+7 
+4 
+14 
+1 
+0 
+9 
+Imports from other countries 
+4 
+0 
+6 
+0 
+73 
+0 
+Source: The Federal Republic of Somalia IBES 2024. 
+Table 3.2 - Price distortions pose the highest competitive threat to both large and small businesses 
+Top constraints related to competition, by size (percentage of firms)  
+  
+Aggregate 
+(%) 
+Smaller 
+firms  
+ (%) 
+ Larger 
+firms 
+(%) 
+Distorted market prices 
+39 
+41 
+34 
+Entry barriers  
+28 
+26 
+32 
+Competition from informal businesses 
+13 
+20 
+2 
+Shortages of inputs 
+9 
+8 
+11 
+State favoritism to companies 
+7 
+5 
+9 
+Imports from other countries 
+4 
+0 
+11 
+Source: The Federal Republic of Somalia IBES 2024. 
+The sections below examine these issues in more detail, leveraging insights from the FGDs to enrich 
+the analysis. 
+3.1.1 Price distortions  
+Distorted market prices in the Federal Republic of Somalia stem from a combination of 
+structural weaknesses, market monopolies, and the absence of effective regulatory oversight. 
+Focus group participants emphasized how monopolistic control over essential sectors—such as 
+telecommunications, electricity, and import/export—enables a handful of firms to manipulate
+=== PAGE 28 ===
+28 
+ 
+market conditions to their advantage.36 FGD participants reported that companies often benefit from 
+favoritism by state actors and operate in an environment with minimal regulatory accountability. As 
+a result, they can restrict market entry, inflate prices artificially, and compromise the quality of goods 
+and services.37 This is particularly pronounced in sectors such as construction materials, 
+electronics, and essential food items. Without strong competition frameworks, there is little to 
+prevent anti-competitive behaviors, and market dynamics are often driven by speculation rather than 
+underlying supply and demand dynamics. In comparing the current situation to 2023, respondents 
+in the 2024 FGDs offered mixed perspectives on progress. Some noted a slight improvement in 
+market stability, attributing this to increased government regulation and licensing, while others 
+reported that price volatility had worsened, particularly for imported goods and fuel. 
+3.1.2 Entry barriers 
+Somali businesses—especially larger firms in Mogadishu—report facing a multifaceted set of 
+entry barriers. Among firms experiencing market competition as their worst constraint, 28 percent 
+cited entry barriers as the most significant hindrance. Notably, Mogadishu recorded the highest 
+prevalence of this challenge, with 42 percent of firms in the city indicating entry barriers as a major 
+operational obstacle (Table 3.1). Larger firms are more affected by entry barriers than smaller ones, 
+with 32 percent reporting obstacles compared to 26 percent for smaller firms (Table 3.2), likely 
+reflecting stricter and more complex compliance demands.  
+Respondents in FGDs described entry barriers as a complex web of challenges. These include 
+limited access to finance, infrastructure gaps, and regulatory uncertainty. While issues with 
+infrastructure and access to finance are discussed in the next sections, this section focuses mainly 
+on regulatory barriers. Participants in FGDs noted that dominant firms in different sectors, including 
+electricity and telecommunications, use their control over essential services to block new 
+competitors, primarily by setting entry costs prohibitively high. Such concentration of market power 
+limits firms’ entry into the market and restricts consumer choices, undermining overall market 
+efficiency. Without regulatory mechanisms to level the playing field, these monopolies are able to 
+maintain dominance, often to the detriment of potential new entrants and smaller firms. 
+FGD participants consistently emphasized that business registration and licensing processes 
+impose substantial financial and administrative burdens on new entrants. Despite recent 
+progress,38 the institutional and regulatory landscape remains fragmented and underdeveloped. 
+Entrepreneurs described licensing procedures as complex, time-consuming, and regionally 
+inconsistent, often requiring interaction with multiple government bodies and, in some areas, even 
+local peace committees. The risk of inadvertently duplicating business names—due to insufficient 
+government information—was cited as a common and costly issue. A lack of transparency, 
+ 
+36 This has led to multiple market inefficiencies, such as poor integration among telecommunications providers and excessively high 
+prices for essential services like electricity. 
+37 A similar situation is depicted in the recent WBG report: Bareisaite, Asta, Juan Andres Cartwright Ramon, and Mounir Bari. 2024. 
+Federal Republic of Somalia Country Private Sector Diagnostic. Washington, DC: World Bank Group. 
+38 The Federal Republic of Somalia has achieved notable progress in strengthening the regulatory system across key areas. As indicated 
+in the recent CPSD report, this was possible through reforms such as the introduction of an online business registration system, which 
+has helped streamline procedures and reduce the time and effort required to formalize a business. These advancements mark important
+=== PAGE 29 ===
+29 
+ 
+bureaucratic inefficiencies, and unclear legal frameworks further complicate compliance, especially 
+for firms in tightly regulated sectors such as telecommunications, health care, and finance. This 
+resonates with the messages of recent World Bank analytical reports on the Somali private sector 
+(for example, the CPSD), which highlighted that processes for obtaining business licenses and 
+completing post-registration steps are still complex, vary across regions, and often lack clarity. 
+Persistent issues include overlapping mandates between the Government of the Federal Republic of 
+Somalia, Federal Member States, and municipalities and the lack of a unified national business 
+registration framework.39  
+3.1.3 Competition from informal firms 
+The third most frequently cited challenge within market competition was competition from 
+informal firms. At the aggregate level, 13 percent of firms that identified market competition as a 
+major constraint pointed to informal competition as the main issue, with the highest share in Bosaso 
+(25 percent) and the lowest in Kismayo (3 percent) (Table 3.1). The issue is particularly pronounced 
+among smaller firms, with 20 percent identifying direct competition from informal firms as their main 
+market challenge (Table 3.2). This is partly because smaller formal firms often operate in the same 
+low-margin segments as their informal counterparts. In contrast, only 2 percent of larger firms 
+viewed informal competition as a significant obstacle. Instead, they were more affected by entry 
+barriers and distorted market prices. 
+Competition with informal firms varies significantly across cities and by firm size. At the 
+aggregate level, 37 percent of firms reported competing with informal businesses, when prompted 
+(Figure 3.3a).40 This is lower than both the Sub-Saharan African average, where 56 percent of firms 
+face competition from informal firms, and the global average of 42 percent. Despite this relatively 
+positive picture overall, competition from informal businesses is more pronounced in certain 
+geographical areas of the economy. The challenge is significantly more acute in Baidoa (67 percent) 
+and Beledweyne (60 percent). It is also notable in Kismayo (49 percent) and Mogadishu (31 percent). 
+Strikingly, only 16 percent of firms in Bosaso reported facing competition from informal firms (Figure 
+3.3a)—a finding that warrants further investigation. As far as size goes, half of the smaller firms report 
+facing competition from informal firms compared with 20 percent of the larger firms. As noted above, 
+this is understandable since smaller firms tend to operate in retail, repair services, and local trade—
+where competition from informal firms is most intense (Figure 3.3b).  
+Faced with competition from informal businesses, formal firms are often forced to choose 
+between lowering their prices to unsustainable levels or maintaining them and losing 
+customers. Participants in FGDs emphasized the range of interlinked challenges posed by informal 
+operators, who are free from tax obligations, licensing fees, regulatory compliance, and can offer 
+lower prices, thereby creating severe market distortions. The challenge is heavily felt in sectors with 
+thin profit margins, where even slight price differences can significantly influence consumer choices. 
+ 
+39 Bareisaite, Asta, Juan Andres Cartwright Ramon, and Mounir Bari. 2024. Federal Republic of Somalia Country Private Sector 
+Diagnostic. Washington, DC: World Bank Group. 
+40 This is in line with the 41 percent reported in the 2025 WBES.
+=== PAGE 30 ===
+30 
+ 
+This forces formal businesses into unsustainable pricing strategies or the risk of losing customers, 
+undermining their financial viability. The issue is further aggravated by the strategic positioning of 
+informal sellers near formal establishments, intercepting customers with cheaper offerings. This 
+dynamic erodes incentives for formalization, weakens the tax base, discourages investment and 
+innovation, and threatens broader economic development. As formal firms bear higher operational 
+costs without commensurate competitive advantage, the uneven playing field undermines market 
+stability and long-term growth prospects. 
+Figure 3.3a - Competition from informal 
+establishments is especially high in Baidoa and 
+Beledweyne 
+Figure 3.3b - Smaller firms face more competition 
+from informal establishments than larger firms 
+Percentage of firms facing competition, by informal 
+establishments, by city  
+ 
+Percentage of firms facing competition, by informal 
+establishments, by size  
+ 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+3.2 Infrastructure 
+This section focuses on three key infrastructure areas that firms in the five cities analyzed 
+identified as major obstacles to operations: transport and logistics, digital connectivity, and 
+access to electricity. Efficient transport and logistics systems reduce the time and cost of moving 
+goods and services, enabling firms to reach wider markets, optimize supply chains, and compete 
+more effectively. Digital connectivity enhances access to information, markets, and customers, 
+while also enabling innovation, automation, and more efficient business operations. Meanwhile, 
+reliable and affordable electricity is essential for virtually all economic activity, from powering 
+machinery and equipment to supporting modern office functions. Together, these infrastructure 
+components are necessary for businesses to scale, invest, and generate employment opportunities.  
+3.2.1 Transportation and logistics  
+Transport and logistics were identified as the most significant challenge to private sector 
+development in 2023 and the second most relevant challenge in 2024. In 2023, transportation 
+was cited as the main obstacle by 19 percent of firms (Figure 3.1a). In 2024, 13 percent of firms 
+identified transport as the most significant constraint to operations, making it the second most
+=== PAGE 31 ===
+31 
+ 
+commonly reported obstacle after market competition (see Figure 3.4a1b). Across cities, Bosaso, a 
+major gateway for trade, reported higher transport constraints (18 percent of firms). The lowest share 
+is in Kismayo, where transport is not included in the top four obstacles, with only 2 percent of firms 
+highlighting it as problematic.41 In the remaining cities transportation issues were cited as the top 
+obstacle by between 11 and 14 percent of firms (Figure 3.4a). By firm size, larger firms are more 
+affected by transportation challenges than smaller firms. Transportation is cited as the top obstacle 
+by nearly 20 percent of larger firms, compared to only 9 percent of smaller firms (Figure 3.4a). This 
+likely reflects larger firms’ greater propensity to operate beyond local markets (29 percent compared 
+to 6 percent—see Figure 2.9b).  
+Figure 3.4a - In 2024, larger firms are more obstructed by 
+transportation issues 
+Figure 3.4b - Cost of transport is the main issue related to 
+transportation  
+Percentage of firms citing transportation as the top 
+obstacle, by city and size 
+Worst problems cited when transportation is the biggest 
+obstacle (percentage of firms) 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+Among transportation issues, the cost of transportation is the principal concern for firms in the 
+five cities that were analyzed. About 54 percent of businesses that identified transportation and 
+logistics as a major obstacle cited high transport costs as the worst problem. This was followed by 
+concerns about storage facilities (17 percent) and speed of transport (15 percent). Reliability was 
+also cited by 10 percent of firms that reported transportation as a constraint (Figure 3.4b). 
+Poor road conditions, limited connectivity, and insecurity are factors that drive transportation 
+costs and consumer prices. The country faces high road transport costs and elevated port and 
+airport fees that complicate long-haul transportation. Geographic and economic fragmentation—
+especially between rural and urban, and coastal and landlocked areas—remains pronounced. Over 
+90 percent of the Federal Republic of Somalia’s paved roads have deteriorated, while most rural 
+roads are gravel or earth, making travel particularly difficult during the rainy seasons. The lack of all-
+season roads limits rural connectivity, increases fuel and maintenance costs, and prolongs travel 
+times. For instance, it takes five days to travel between Mogadishu and Bosaso by road. High 
+transport costs are further aggravated by roadblocks and by the absence of a unified vehicle registry. 
+ 
+41 Firms in Kismayo reported market competition (over 40 percent) and access to electricity (nearly 40 percent) as the most pressing 
+challenges. Other aspects of the business environment were considered less binding in comparison.
+=== PAGE 32 ===
+32 
+ 
+Poor regional road links also isolate the Federal Republic of Somalia from broader trade integration. 
+While corridor rehabilitation is under way, progress remains constrained by insecurity, limited 
+government capacity, and fiscal pressures.42 Infrastructure shortfalls also directly affect pricing. Poor 
+road networks, insecurity along trade routes, and unreliable port operations lead to delays and cost 
+escalations that are passed on to consumers, while the widespread use of diesel generators due to 
+an unreliable electricity grid inflates production costs. 
+FGDs reinforced and contextualized the abovementioned infrastructure challenges. Roads are 
+reported to be often either nonexistent or in severe disrepair due to long-standing damage from the 
+civil war, making the movement of goods costly and inefficient. These challenges intensify during the 
+rainy season, when flooding further degrades road conditions and disrupts supply chains. This 
+contributes to the concentration of activities in local markets previously discussed (84 percent of 
+firms serve only local markets; see Figure 2.9a), drives up operational costs, and forces firms to 
+contend with goods scarcity and inflated prices, thereby limiting their potential for growth and 
+expansion of markets. FGDs also uncovered that markets beyond major municipalities are 
+fragmented, with limited consumer purchasing power, making outreach to those areas financially 
+unattractive for many firms—especially SMEs—thereby dampening the returns on investment in 
+logistics capacity. 
+Logistics are also identified as a challenge, with one recurring concern—particularly among 
+firms in the agri-business sector—being the lack of cold chain infrastructure. Perishable goods 
+often spoil before reaching markets, leading to revenue loss, product scarcity, and food safety 
+concerns. Larger firms reported underutilized production capacity due to the unreliable supply of 
+raw materials, while smaller producers and retailers described frequent stock-outs and their inability 
+to ensure product quality. Participants also pointed out the competitive disadvantages faced by new 
+and smaller firms due to high transport costs and logistical unreliability. These barriers were reported 
+to deter market entry and expansion. Established businesses are better equipped to mitigate such 
+costs through private fleets and storage, reinforcing their dominance. Meanwhile, smaller 
+businesses lack the capacity to absorb transportation shocks or invest in workarounds. 
+The poor quality of transportation is reflected in inadequate trade-related infrastructure. The 
+country’s ranking in the World Bank’s Logistics Performance Index has declined from 127th out of 
+150 in 2007 to 138th out of 140 in 2023. More specifically, in the quality of trade and transport-related 
+infrastructure, the Federal Republic of Somalia ranks 133rd out of 140 countries.43 Despite some 
+recent progress, quality standards and infrastructure in the Federal Republic of Somalia are largely 
+deficient, and relevant institutions are at a nascent stage. Since the collapse of the state in 1991, the 
+Federal Republic of Somalia has lacked a government-led quality infrastructure ecosystem. Practical 
+ 
+42 Bareisaite, Asta, Juan Andres Cartwright Ramon, and Mounir Bari. 2024. Federal Republic of Somalia Country Private Sector 
+Diagnostic. Washington, DC: World Bank Group. 
+43 World Bank. 2023. 2023 Logistics Performance Index (Global). Logistics Performance Index. 
+https://lpi.worldbank.org/international/global.
+=== PAGE 33 ===
+33 
+ 
+measures for public health and safety to ensure the quality of goods and enable exports are often 
+absent.44  
+Security is also cited as a critical barrier that increases transportation costs and reduces 
+predictability. Security risks have rendered certain transport routes completely unusable, forcing 
+businesses to rely on longer routes that increase both travel time and fuel costs. The unpredictability 
+of security situations leads to frequent delays and disruptions, making it challenging for businesses 
+to maintain reliable delivery schedules. It also hinders long-term planning, disproportionately 
+affecting SMEs that lack the resources to mitigate these risks. Furthermore, focus group participants 
+emphasized that ongoing insecurity significantly limits profitability, market entry, and expansion. This 
+is particularly severe in the conflict-prone southern and central regions. The need for additional 
+security measures, such as armed convoys or specialized secure vehicles, dramatically increases 
+operational costs. Across FGDs, firms also cite threats from groups such as Al-Shabaab, clan-based 
+rivalries, and the burden of informal taxation/extortion at checkpoints—robbery, intimidation, and 
+prolonged delays—that raise operating costs and deter expansion beyond familiar, safer zones. 
+Coping strategies to address security challenges exist but remain costly and limited in scope. 
+Some businesses have responded by adopting remote monitoring systems, mobile money solutions, 
+and local partnerships to reduce risk. However, these options are often beyond the financial capacity 
+of smaller firms. Security challenges also restrict access to farmland and inputs, lowering 
+agricultural productivity and raising food insecurity. Participants consistently noted that improved 
+security—through stronger government action and international support—is essential to enable 
+private sector growth, support rural markets, and expand economic opportunities across the 
+country. 
+3.2.2 Connectivity and digital technology  
+Internet connectivity was cited as the third most binding constraint in 2024, making it far more 
+salient than in 2023. Reliable internet connectivity is essential for firm growth as it enables access 
+to markets, customers, and suppliers beyond local boundaries. It supports key business functions 
+such as digital marketing, online sales, data management, and communication, while also improving 
+operational efficiency and access to digital financial services. Issues with internet connectivity were 
+identified as the most binding obstacle to operations by 7 percent of firms in 2024—a considerable 
+increase compared to just 2 percent in 2023, when it ranked as the third-to-last reported obstacle 
+(Figure 3.1a and Figure 3.1b) signaling the likely presence of higher demand for connectivity from 
+firms.45  
+Issues with internet connectivity were cited as the most binding obstacle to operations mainly 
+by larger firms and firms in the capital city. In 2024, internet connectivity was cited as the top 
+obstacle, primarily in Mogadishu, where 13 percent of firms reported it as the main constraint. 
+However, this does not imply that connectivity is less adequate in the capital city. Rather, firms in 
+ 
+44 Bareisaite, Asta, Juan Andres Cartwright Ramon, and Mounir Bari. 2024. Federal Republic of Somalia Country Private Sector 
+Diagnostic. Washington, DC: World Bank Group.  
+45 According to the recent WBES, 27 percent of firms in the economy report experiencing internet disruptions.
+=== PAGE 34 ===
+34 
+ 
+Mogadishu may have greater dependence on digital tools, which can amplify the costs of outages 
+and slow speeds wherever they occur. Similarly, the issue was more pronounced among larger firms, 
+with 17 percent identifying it as a major challenge. (Figure 3.5a). As firms grow, even modestly, they 
+increasingly depend on digital tools for managing clients, teams, sales, inventory, and 
+communication. Reliable connectivity becomes essential as unstable or low-quality internet 
+undermines these basic business functions. Limited connectivity thus becomes a significant barrier 
+to scaling up, even for firms that are not fully technology driven. Consistent with this, among those 
+firms across the five cities that reported internet connectivity as a top obstacle, 90 percent identified 
+low-speed internet as the main issue (Figure 3.5b). 
+Figure 3.5a - Firms in Mogadishu and larger firms are 
+more constrained by connectivity issues 
+Percentage of firms citing internet connectivity as the top 
+obstacle, by city and size  
+ 
+Figure 3.5b - Low speed is the most binding 
+connectivity failure 
+The worst problem cited when internet connectivity is 
+the biggest obstacle (percentage of firms) 
+ 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+Broadband penetration and the use of internet bandwidth are low in the five cities that were 
+analyzed, despite some progress in recent years. As noted in the Federal Republic of Somalia 
+CPSD, limited broadband access in the country is the result of both supply-side and demand-side 
+issues. On the supply side, there are major gaps in middle- and last-mile infrastructure. The country’s 
+fiber optic network is largely underdeveloped, especially in the central and southern regions, partly 
+because of ongoing security issues. While improving infrastructure is essential, overcoming 
+demand-side challenges—such as limited digital literacy, financial constraints, and limited 
+information on service availability—will also be necessary to enhance digital connectivity.46 
+Unreliable internet connection and lack of access in some areas are also reported in FGDs as key 
+factors preventing firms from expanding beyond their local municipality. Focus group participants 
+acknowledged some progress in expanding internet access in recent years. However, they noted that 
+ 
+46 Bareisaite, Asta, Juan Andres Cartwright Ramon, and Mounir Bari. 2024. Federal Republic of Somalia Country Private Sector 
+Diagnostic. Washington, DC: World Bank Group.
+=== PAGE 35 ===
+35 
+ 
+digital technology and internet connectivity remain significant challenges for many businesses, 
+particularly small- and medium-size businesses operating outside the city centers.  
+3.2.3 Electricity  
+Access to electricity is cited as the top obstacle for 11 percent of respondents in 2023 and 5 
+percent in 2024 (Figure 3.6a and Figure 3.6b). The high cost of electricity (57 percent) and its 
+unreliability (40 percent) are the main constraints faced by the firms identifying access to electricity 
+as a top concern (Figure 3.6b). Issues with electricity vary across locations, with 39 percent of firms 
+citing electricity as their top obstacle being in Kismayo and a negligible share in Mogadishu (Figure 
+3.6b). While these insights align with consultations performed by the World Bank for other analytical 
+studies in the country (for example, the CPSD), they need to be contextualized by noting that the 
+population of firms surveyed had more than five employees and was located in the largest cities in 
+the Federal Republic of Somalia—where electricity is available to a larger proportion of firms than in 
+other (more rural) regions. FGDs also noted that a lack of electricity outside their local municipality 
+is one of the reasons firms remain local. 
+Figure 3.6a - High cost of electricity is the main 
+concern for firms 
+The worst problem cited when electricity is the biggest 
+obstacle (percentage of firms) 
+ 
+ 
+Figure 3.6b - Firms in Kismayo are most severely 
+hindered by electricity constraints  
+Percentage of firms citing electricity as the top obstacle, 
+by city and size 
+ 
+ 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+3.3 Access to financial resources and government support 
+In addition to market competition and infrastructure, firms consistently identify two related 
+barriers to growth— limited access to finance and insufficient government support. Many firms 
+in the FGDs noted the difficulty in securing start-up or expansion capital, which significantly hampers 
+their ability to enter or grow within the formal economy. Government support—whether through 
+financial assistance such as grants or subsidized loans, or non-financial support such as training, 
+advisory services, or regulatory facilitation—is also recognized as an important factor for business 
+growth. This section discusses both aspects.
+=== PAGE 36 ===
+36 
+ 
+3.3.1 Access to financial resources 
+Firms in the five cities that were analyzed are severely credit constrained. Across the five cities 
+that were analyzed, 55 percent of firms are credit constrained, a rate that is more than double the 
+Sub-Saharan Africa average of 25 percent and four times the global share of 14 percent.47 By city, the 
+share ranges from 15 percent in Kismayo to 76 percent in Bosaso, with Mogadishu close to the 
+aggregate average (57 percent). By size, smaller firms (5–9 employees) are nearly twice as likely to be 
+credit constrained as larger ones (69 percent versus 37 percent), underscoring the disproportionate 
+financial access challenges they face (Figure 3.7a). Financial constraints are a major barrier to firm 
+entry, investment, and growth. Limited access to finance restricts firms’ ability to invest, hire, expand, 
+or innovate, keeping them small and less competitive. Over time, this widens gaps between firms, as 
+those with access to finance can grow and adapt, while constrained firms remain vulnerable. 
+Figure 3.7a - More than half of the firms are credit 
+constrained, especially smaller firms and firms in Bosaso 
+Figure 3.7b - Many firms that did not apply did not 
+need a loan  
+Percentage of firms that are credit constrained 
+Reasons for not applying for a loan in the last 12 
+months (percentage of firms) 
+ 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+Note: Firms are considered credit constrained if they do not have access to external finance and any of the following two 
+conditions are met: (a) the firm did not apply for a loan for any reason other than the lack of need for it or (b) the firm 
+applied for a loan but was rejected. 
+Loan application rates fell sharply in 2024, even as rejection rates declined overall. A closer 
+analysis of some of the individual components of the credit-constrained index paints an even more 
+concerning picture. Overall, in the cities analyzed, only 10 percent of firms applied for a loan in 2024, 
+ 
+47 Credit-constrained firms are defined as those that do not have access to external finance, and for which any of the following two 
+conditions are met: (a) the firm did not apply for a loan for any reason other than the lack of need for it or (b) the firm applied for a loan 
+but was rejected, including cases where it had access to equity financing. Islam, Asif M., and Jorge Rodriguez Meza. 2023. “How 
+Prevalent Are Credit-Constrained Firms in the Formal Private Sector?” Policy Research Working Paper, World Bank.
+=== PAGE 37 ===
+37 
+ 
+down from twice that rate in 202348 (Table 3.3). Over the same period, the rejection rate dropped from 
+70 percent in 2023 to 34 percent in 2024. While loan applications declined in all five major cities, the 
+steepest drop occurred in Kismayo (55 percentage points). Rejection rates showed mixed patterns, 
+with a sharp rise in Baidoa (53 percentage points) and Kismayo (24 percentage points), while falling 
+in Mogadishu, Bosaso, and Beledweyne, where fewer firms applied but more were approved. Smaller 
+firms were more likely to apply for loans than larger firms in both years. Although their rejection rates 
+were initially higher than those of larger firms, they experienced a steeper decline in 2024 (Table 3.3).  
+Table 3.3 - Credit application and rejection rates dropped, but there were disparities across cities and sizes 
+Percentage of firms that applied for a loan and percentage of firms that applied for a loan and were rejected, by city and 
+size 
+Year 
+Applied (%) 
+Rejected (out of those that applied) 
+(%) 
+Aggregate 
+2023 
+20 
+70 
+  
+2024 
+10 
+34 
+Baidoa 
+2023 
+13 
+24 
+  
+2024 
+11 
+77 
+Beledweyne 
+2023 
+16 
+69 
+  
+2024 
+13 
+23 
+Bosaso 
+2023 
+13 
+98 
+  
+2024 
+8 
+3 
+Kismayo 
+2023 
+58 
+39 
+  
+2024 
+3 
+63 
+Mogadishu 
+2023 
+25 
+74 
+  
+2024 
+11 
+28 
+5–9 
+2023 
+23 
+72 
+  
+2024 
+11 
+29 
+10+ 
+2023 
+13 
+61 
+  
+2024 
+9 
+41 
+Source: The Federal Republic of Somalia IBES 2023 and 2024. 
+High collateral, complex application procedures, and demand-side issues, such as limited 
+awareness of financial products, were frequently cited as reasons why firms decide not to apply 
+for credit. Among firms that did not apply for a loan, 55 percent of the firms reported feeling 
+constrained: 25 percent cited excessive collateral requirements, 17 percent pointed to overly 
+complex application procedures, and the remainder perceived the terms as unfavorable or feared 
+rejection. The remaining 45 percent of firms indicated they simply did not think that a loan was 
+necessary (Figure 3.7b). These patterns—together with the sharp drop in applications and high 
+rejection rates, and more generally, the high percentage of firms being credit constrained—indicate 
+that firms’ lower demand for credit may be driven less by a lack of investment ambition and more by 
+real or perceived barriers in the credit system. Mistrust in the financial system and low financial 
+literacy may further discourage businesses from applying for credit. During the FGDs, entrepreneurs 
+cited legacies of bank failures, low financial literacy, and limited awareness of formal financial 
+products as drivers of distrust. Complex procedures and unclear terms hinder loan applications.  
+ 
+48 The decline in loan applications discussed above is a concerning indicator. In FGDs, businessmen emphasized that investment was 
+necessary not only to grow but also to be able to navigate the high market fluctuations in the Federal Republic of Somalia.
+=== PAGE 38 ===
+38 
+ 
+Those firms that do apply for loans have to navigate several challenges. Banks require land or 
+property titles as collateral—requirements that many SMEs cannot meet. Given the lack of 
+unsecured loan products, these requirements effectively exclude a significant portion of businesses, 
+particularly those without substantial fixed assets, from accessing formal credit. Participants in 
+FGDs also highlighted that, in addition to collateral, banks often demand guarantors, and in some 
+cases, the involvement of a peace elder or a well-known businessperson, further raising the barrier 
+to entry for many borrowers. The high cost of finance is another critical challenge reported across 
+business sectors and sizes during FGDs, driven by factors such as rising interest rates, application 
+and processing fees, expenses related to meeting collateral requirements, and the opportunity costs 
+associated with the lengthy loan application process. 
+Taken together, these patterns point to a thin, urban-concentrated credit market that serves 
+larger, well-collateralized borrowers, leaving many SMEs and firms outside major cities 
+underserved. As noted in the CPSD, the availability of—and access to—a diverse range of financial 
+services in the Federal Republic of Somalia is restricted by both supply-side and demand-side 
+factors. The small degree of financial intermediation that is available is largely provided by a handful 
+of institutions largely concentrated in urban areas and is generally focused on offering relatively 
+larger loans. Some businesses—particularly those aiming to expand into rural regions—have 
+reported, during FGDs, that they were entirely unable to obtain formal financing, significantly 
+hindering their growth prospects. Beyond the collateral-related barriers already discussed, structural 
+gaps such as limited branch presence outside urban centers, high transaction costs, and weak 
+product diversification further constrain access. On the demand side, limited financial literacy and a 
+general lack of awareness about available financial products continue to suppress demand for 
+appropriate services. This situation stands in contraposition to the notable bright spot highlighted by 
+recent World Bank assessments, which showed that the widespread use of mobile money has 
+helped firms carry out basic transactions even in areas underserved by formal financial institutions.49  
+3.3.2 Government support  
+Government support to the private sector is minimal. In 2023, firms were asked whether they 
+received government support over the previous year. The vast majority (99 percent) reported receiving 
+no support and did not expect any in the near-term future. However, they showed high interest in 
+receiving support, especially for improving their skills and adopting new technologies. When asked 
+to select the three most needed policies to support their business from a list of 10, the most 
+frequently cited were support to improve managerial skills (19 percent of firms) and assistance with 
+adopting digital technologies (14 percent). Nearly 14 percent of firms indicated deferral of tax 
+payments as the main support policy needed (Figure 3.8).  
+ 
+49 Bareisaite, Asta, Juan Andres Cartwright Ramon, and Mounir Bari. 2024. Federal Republic of Somalia Country Private Sector 
+Diagnostic. Washington, DC: World Bank Group.
+=== PAGE 39 ===
+39 
+ 
+Figure 3.8 - Firms preferred support to improve their capabilities 
+Types of preferred support by government (percentage of firms) 
+Source: The Federal Republic of Somalia IBES 2023.
+=== PAGE 40 ===
+40 
+ 
+4. Firms’ expectations 
+Business expectations are a leading indicator of private sector performance and investment 
+behavior. Building on the analysis of outcomes in 2023–2024, the report now shifts to firms’ 
+forward-looking sentiments, focusing on three dimensions: (a) sales and workforce projections, (b) 
+capital investment plans, and (c) financial resilience. Together, these expectations offer predictive 
+insights into how firms anticipate future demand and their ability to withstand shocks. Although 
+expectations do not automatically translate into outcomes, they influence hiring, production 
+planning, and investment decisions. Capturing these outlooks enables policy makers to design 
+targeted support measures and foster a more conducive environment for sustained private sector 
+growth. 
+4.2.1 Sales and workforce expectations 
+Firms’ sales expectations have become significantly more optimistic between 2023 and 2024. 
+Looking six months ahead (relative to the same period a year earlier), the share expecting higher sales 
+rose from 51 percent in 2023 to 74 percent in 2024, while the share of firms anticipating declining 
+was negligible (1 percent and 0 percent, respectively). Accordingly, the share of firms that expected 
+‘no change’ slightly decreased from 48 percent to 26 percent. In 2024, the average expected increase 
+in sales was about 20 percent (Figure 4.1a and Figure 4.1b). This sharp improvement signals rising 
+confidence and potential expansion through investments, inventory buildups, and higher input 
+purchases. However, a comparison of expectations and actual results shows that outcomes did not 
+meet projected levels. Although 43 percent of firms in 2023 increased sales (Figure 2.3a), 
+respondents overestimated opportunity and downplayed risk: in 2023, 51 percent anticipated a net 
+11 percent rise over 6 months whereas the 2024 actual net increase over the last 12 months was 
+about 8 percent (Figure 2.3a, Figure 2.3b, Figure 4.1a, and Figure 4.1b).  
+While firms were broadly optimistic, there was notable heterogeneity across locations. 
+Compared to 2023, the share of firms expecting to increase sales rose in every city except Baidoa 
+and Bosaso. The sharpest increase in optimism came from Kismayo, where in 2024, 97 percent of 
+firms expected sales to rise by an average of 22 percent—up from 73 percent of firms expecting an 
+11 percent increase in 2023. By contrast, Bosaso projected the weakest expectations. Only 28 
+percent of firms anticipated growth in 2024, with an average increase of 9 percent, down from 34 
+percent of firms expecting a 21 percent increase in 2023. In the remaining cities, between 75 and 86 
+percent of firms expected sales to grow, with projected increases ranging from roughly 18 to 26 
+percent (Figures 4.1a and 4.1b). However, when comparing six-month projections made in 2023 to 
+actual 12-month outcomes in 2024, expectations proved overoptimistic across the board. For 
+instance, in Mogadishu, firms were less confident, yet an expected 7 percent increase in six months 
+materialized as 4 percent. Firms in Bosaso proved the least realistic: while they anticipated a 7 
+percent increase, actual sales declined by 2.4 percent (Figure 2.3b and Figure 4.1b). 
+Smaller firms were less optimistic than larger ones. The share of larger firms expecting sales 
+growth rose sharply from 45 percent in 2023 to 92 percent in 2024, compared to smaller firms, for 
+whom expectations increased more modestly—from 53 percent in 2023 to 62 percent in 2024 (Figure
+=== PAGE 41 ===
+41 
+ 
+4.1a). The gap between expectations and actual outcomes is especially pronounced for smaller 
+firms: in 2023, they projected an increase of 10 percent in six months but achieved only a 5.5 percent 
+net increase after 12 months. Larger firms, by contrast, projected an 11 percent increase and slightly 
+outperformed with 12.6 percent growth over 12 months. Reflecting this stronger performance, large 
+firms became more optimistic in 2024, projecting a 19 percent net increase (Figure 4.1a Figure 4.1b). 
+Figure 4.1a - Firms showed optimism about demand in 
+the future 
+Expectations of changes in sales in the next six months 
+compared with the same period last year, 2023 and 2024 
+(percentage of firms) 
+Figure 4.1b - Baidoa, Beledweyne, and large firms 
+were more optimistic about sales  
+Percentage sales expected to change in the next six 
+months compared with the same period last year, (by 
+city, size, and year) 
+ 
+Source: The Federal Republic of Somalia IBES 2023 and 2024. 
+Firms expecting to increase their workforce remain relatively stable, despite more optimistic 
+sales forecasts. The share of firms expecting to expand their workforce rose slightly from 31 percent 
+in 2023 to 37 percent in 2024, with little movement in the share anticipating their workforce would 
+remain stable (68 percent in 2023 and 63 percent in 2024), and a negligible proportion of firms 
+expecting reduced headcounts (Figure 4.2a). This stands in sharp contrast to sales expectations 
+which rose from a share of 51 percent in 2023 to 74 percent in 2024 (Figure 4.1b). The misalignment 
+between rising sales expectations and more cautious employment plans is noteworthy. Several 
+factors may explain this: firms may be hesitant to expand their workforce due to rising labor costs, 
+economic uncertainty, limited availability of skilled workers, or a preference for meeting increased 
+demand through productivity improvements or technological investments rather than hiring 
+additional staff. 
+Firms have also demonstrated overoptimism on employment. Only 14 percent of the firms 
+actually expanded in the year between 2023 and 2024 (Figure 2.4a - In 2024, majority of firms did 
+not expand their workforce and even contractedIn 2024, the majority of firms did not expand their 
+workforce and even contracted. Large disparities exist across cities and firm sizes. Firms in Baidoa, 
+Kismayo, and Beledweyne lowered their expectations between 2023 and 2024. In Baidoa, for 
+example, 80 percent of firms predicted an employment increase in 2023, but only 36 percent did so 
+in 2024. Similarly, Kismayo saw a drop from 75 percent to 47 percent in the share of firms predicting
+=== PAGE 42 ===
+42 
+ 
+expansion of the workforce. Larger firms, however, became more optimistic: the share expecting an 
+increase in hiring rose from 23 percent in 2023 to 50 percent in 2024 (Figure 4.2a). Moreover, the 
+projected scale of workforce expansion in 2024 remains modest across most cities and firm sizes. 
+For instance, in 2024, firms in Bosaso and smaller firms reported the highest expected workforce 
+growth at 13 percent and 10 percent, respectively—an interesting contrast given that Bosaso has the 
+lowest expected increase in sales among the five cities studied (Figure 4.2b). 
+Figure 4.2a - Expectations of expanding employment are 
+not as high as sales 
+Expectations of employment in the next six months 
+compared with the same period last year, 2023 and 2024 
+(percentage of firms)  
+Figure 4.2b - While lower share firms expect to hire 
+workers in Bosaso and small firms, the average 
+increase is higher 
+Percentage employment increase expected in the next 
+six months (by city and size and year)  
+ 
+Source: The Federal Republic of Somalia IBES 2023 and 2024. 
+Box 4. Female entrepreneurship in the formal sector is limited 
+In 2024, 75 percent of male-owned firms expected sales to increase over the next six months, up from 51 
+percent in 2023. Female-owned firms also showed gains, with the share expecting higher sales rising from 
+48 percent to 62 percent over the same period. While the increase for female-owned firms was slightly 
+smaller, it still reflects more positive sales expectations for both groups (Figure 4.4).  
+Employment expectations tell a different story. Male-owned firms showed only a modest rise in the share 
+planning to expand their workforce, from 29 percent in 2023 to 38 percent in 2024. In contrast, female-
+owned firms became more cautious, with the share expecting to hire dropping from 43 percent to 20. This 
+suggests that, although female entrepreneurs are optimistic about sales, they remain hesitant to expand 
+employment—possibly because sales growth may not be seen as sustainable long term, or due to limited 
+resources and support for managing additional staff (Figure 4.4). Overall, while sales expectations are 
+improving for both male- and female-owned firms, employment growth remains a more cautious area, 
+particularly among female-owned businesses. 
+Figure 4.3a - Female entrepreneurs are as optimistic 
+as male entrepreneurs regarding sales 
+Figure 4.3b - However, female entrepreneurs have 
+less positive expectations about employment growth 
+ 
+Expectations of changes in sales in the next six months 
+compared with the same period last year, 2023 and 
+2024, by gender (percentage of firms) 
+Expectations of changes in employment in the next six 
+months compared with the same period last year, by 
+gender, 2023 and 2024 (percentage of firms)
+=== PAGE 43 ===
+43 
+ 
+ 
+ 
+Source: The Federal Republic of Somalia IBES 2024. 
+Source: The Federal Republic of Somalia IBES 2024. 
+4.2.2 Firm-level investment expectations 
+Although investment expectations remain stable and high, signaling confidence in future 
+growth, they proved overoptimistic. The share of firms expecting to invest in new or used fixed 
+assets in the next six months remains steady at encouraging levels—63 percent in 2023 and 64 
+percent in 2024 (Figure 4.4). This means that only about one in three firms does not plan to invest in 
+the next six months, a finding that misaligns with the patterns discussed in Section 2.3, where only 
+31 percent of firms, in 2024, invested in the last 12 months (see Figure 2.8a). The discordance 
+between expectations and realizations—evident in 2023 when projected sales, employment, and 
+investment failed to materialize in 2024—raises questions about the reliability of such expectations 
+as predictors of actual outcomes. It is possible that structural constraints, such as economic 
+instability, market competition, or access to finance, prevent firms from translating optimistic plans 
+into concrete investment decisions. This persistent optimism gap therefore highlights both the 
+resilience of business sentiment and the fragility of the conditions needed to turn that sentiment into 
+sustained growth. 
+Regional variation in capital investment expectations remains stark. For instance, in 2024, nearly 
+all firms in Kismayo (93 percent) planned to purchase fixed assets, indicating robust local optimism 
+or perhaps specific opportunities in that city. In contrast, very few firms in Bosaso (16 percent) 
+anticipated investing, highlighting potential constraints or differing local economic conditions 
+(Figure 4.4a). The difference between projected investment in 2023 and actual investment in 2024 is 
+highest in Kismayo, where 97 percent of firms intend to invest in the next six months but only 11 
+percent invested in the last 12 months (Figure 2.8a and Figure 4.4b). As expected, firm size plays a 
+role: larger firms are more likely to plan for investment, with 68 percent reporting expected asset 
+purchases compared to 61 percent of smaller firms in 2024. Larger firms overestimated investments 
+by 55 percentage points (90 percent projected investments, but only 35 percent did so). Smaller firms 
+were more modest: 53 percent expressed intention and 28 percent put it into practice (Figure 2.8a 
+and Figure 4.4bError! Reference source not found.). This underlines the importance of ensuring t
+hat smaller enterprises also have access to the resources and conditions needed to invest and grow.
+=== PAGE 44 ===
+44 
+ 
+Figure 4.4a - Expectations about investment didn’t 
+change between 2023 and 2024  
+Percentage of firms that expect to purchase any new or 
+used fixed assets in the next six months compared with 
+the same period last year (by city and size) 
+Figure 4.4b - Firms in Kismayo have higher 
+expectations of investments  
+Percentage of firms that expect to purchase any new or 
+used fixed assets in the next 6 months compared with the 
+same period last year (by city, size, and year)  
+ 
+Source: The Federal Republic of Somalia IBES 2023 and 2024. 
+4.2.3 Financial resilience expectations  
+Expectations of financial resilience have improved, reflecting growing business confidence. In 
+terms of financial resilience, approximately 8 percent of businesses in 2024 expect to fall into arrears 
+within the next six months, down from 15 percent in 2023 (Figure 4.5a). This growing confidence is 
+likely linked to the broader improvements in sales and investment expectations. As firms anticipate 
+higher revenues and plan for capital investment, they may also feel more secure in their ability to 
+generate sufficient income to cover operating costs and debt obligations. Bosaso reports the highest 
+share of businesses anticipating arrears (22.0 percent), while Kismayo has the lowest (0.3 percent). 
+Smaller firms are more likely than larger ones to anticipate falling into arrears over the next six 
+months (10 percent of smaller firms versus 6 percent of larger firms) (Figure 4.5b).  
+Figure 4.5a - Firms reduced their expectation to fall 
+in arrears 
+Percentage of firms expecting to fall in areas in the 
+next six months, by year 
+Figure 4.5b - Bosaso’s firms are less confident about their 
+financial situation 
+Percentage of firms expecting to fall in arrears in the next six 
+months, by city and size 
+ 
+Source: The Federal Republic of Somalia IBES 2023 and 2024.
+=== PAGE 45 ===
+45 
+ 
+Resilience is further supported by an increase in survival expectations in the event of a sudden 
+stop in sales. When asked how long their establishment could continue operating given current cost 
+structures but no sales, respondents in 2024 appeared to be on more solid financial ground. In 2023, 
+30 percent of firms reported they would be unable to operate for more than a month; by 2024, this 
+figure had fallen to just 8 percent. The share of firms able to operate for between one and six months 
+increased from 57 percent in 2023 to 75 percent in 2024. Few firms in either year believed they could 
+survive for a year or more, and only 11 percent (2023) and 16 percent (2024) reported being able to 
+last between six months and one year (Figure 4.6). 
+Figure 4.6 - Firms improved their resilience prospects 
+Time firms could remain open if sales stopped (percentage of firms) 
+ 
+Source: The Federal Republic of Somalia IBES 2023 and 2024. 
+The alignment of these expectations—stronger sales, increased investment, and reduced 
+likelihood of arrears—points to an overall improvement in business sentiment and suggests a 
+more favorable outlook for private sector stability and growth. The only area where expectations 
+have not shown a comparable improvement is employment. Despite optimism around sales and 
+investment, firms remain cautious about expanding their workforce, indicating that labor decisions 
+may lag behind other indicators of recovery due to cost concerns, regulatory uncertainty, or limited 
+confidence in the sustainability of demand.
+=== PAGE 46 ===
+46 
+ 
+5. Conclusive remarks  
+The evidence presented in this report provides a diagnostic overview that can inform the 
+Federal Republic of Somalia’s broader reform agenda in support of private investment and jobs. 
+Providing detailed recommendations is beyond the intended scope of this report. However, the 
+analysis highlights areas likely to have the greatest impact on firm productivity and job creation, 
+which could be further explored in policy design and sequencing exercises.  
+The analysis in the report confirms that firms in the Federal Republic of Somalia face binding 
+constraints that must be addressed for jobs- and productivity-enhancing reforms to take effect. 
+Such challenges are not uncommon in fragile and conflict-affected settings, and identifying and 
+implementing these foundational, first-order policy reforms can provide clear a roadmap for building 
+a more dynamic, resilient, and inclusive private sector. Key obstacles in the Federal Republic of 
+Somalia include large price distortions, significant barriers to trade and investment, and critical 
+infrastructure gaps. Tackling these constraints could enable Somali firms to improve 
+competitiveness, increase product quality, and expand productive capacity, therefore strengthening 
+private sector growth and employment outcomes.  
+Table 5.1 provides a summary of these constraints, with some high-level measures that can be 
+further unpacked in the upcoming analytical work, including the Somalia Country Growth and 
+Jobs Report. Findings from the 2025 Enterprise Survey, along with the forthcoming Somali IBES (led 
+by the SNBS), will further strengthen the analytical basis for policy dialogue. Together with the results 
+presented in this report, they can provide the diagnostics needed to identify more granular 
+constraints and guide targeted interventions supporting private sector–led growth in the Federal 
+Republic of Somalia. At the same time, addressing remaining evidence gaps—particularly on 
+informality, which accounts for over 70 percent of all firms—will remain crucial. 
+Table 5.1 - Summary of constraints 
+Constraints identified 
+Suggested follow-up 
+Market concentration and absence of competition. 
+High concentration limits competitive pressure, reducing 
+incentives for investment, innovation, and productivity 
+improvement. Firms especially point to distorted prices as 
+a constraint. Dominant firms can set prices above 
+competitive levels, creating barriers for smaller firms and 
+new entrants, and constraining growth opportunities 
+across the sector.  
+ 
+A better understanding of the sources of price distortions, 
+along with measures to ensure market entry for firms, 
+appears to be a first-order requirement for stimulating 
+competition and enhancing productivity. 
+ 
+Barriers to trade and investment. Most businesses 
+operate locally rather than nationally or internationally, 
+competing 
+within 
+narrow 
+geographic 
+or 
+sectoral 
+boundaries. This market fragmentation limits incentives to 
+invest, introduce new products or processes, and upgrade 
+skills—key drivers of labor productivity, wages, and job 
+creation. In this context, trade and investment policies 
+could play an important role in fostering external 
+competition and improving access to technology and 
+inputs.  
+ 
+Potential measures include reducing trade and investment 
+barriers, streamlining customs and regulatory procedures, 
+and supporting firms’ integration into domestic, regional, 
+and global value chains.
+=== PAGE 47 ===
+47 
+ 
+Constraints identified 
+Suggested follow-up 
+Regional fragmentation. Economic activity is heavily 
+concentrated in Mogadishu, where a few well-resourced 
+urban firms dominate, while firms in other regions struggle 
+to formalize and grow. Expanding business activity beyond 
+the capital could diversify economic opportunities, reduce 
+regional disparities, and promote broader labor market 
+participation, reinforcing both private sector growth and 
+the creation of more productive and inclusive employment 
+opportunities across the Federal Republic of Somalia.  
+ 
+The limited presence of formal firms, particularly outside 
+Mogadishu, highlights the need for policies that support 
+formalization, 
+simplify 
+regulatory 
+compliance, 
+and 
+incentivize investment in secondary cities and regional 
+hubs.  
+ 
+At the same time, knowledge of the informal sector 
+remains limited. A companion study examining the 
+characteristics and performance of informal firms would 
+provide valuable insights to inform policy design. 
+Infrastructure gaps and weak connectivity. These 
+challenges further constrain private sector development 
+outside Mogadishu. Poor road conditions and seasonal 
+flooding further impede the movement of goods, 
+disrupting supply chains, inflating operational costs, and 
+making business particularly challenging for larger firms.  
+Addressing these infrastructure challenges is therefore 
+essential to improve market access, reduce costs, and 
+enable firms across the country to expand operations, 
+enhance competitiveness, and create more inclusive 
+employment opportunities.
+=== PAGE 48 ===
+48 
+ 
+Appendix 
+A.1. Survey methodology and implementation  
+The Federal Republic of Somalia Integrated Business Surveys collected data from formally registered 
+establishments across five Somali cities: Baidoa, Beledweyne, Bosaso, Kismayo, and Mogadishu in 
+2023 and 2024. For multi-establishment firms, each establishment may be a separate unit of 
+analysis, provided its financial statements are individually identifiable. Firms with multiple locations 
+but with only consolidated financial statements are considered a single unit of analysis.  
+The survey exclusively targeted establishments officially registered with either the Ministry of 
+Commerce and Industry or the local municipality, which 
+• 
+Employ a minimum of five workers, categorized into three size classes: small (5 to 19 
+employees),50 medium (20 to 99 employees), and large (100 or more employees) and 
+• 
+Operate within non-farm and non-financial private sectors. Specifically, the following sectors 
+were included manufacturing (Group D); construction (Group F); various service sectors 
+(Groups G and H); transport, storage, and communications (Group I); and information 
+technology (division 72 of Group K) as per the International Standard Industrial Classification 
+(ISIC) Rev. 3.1.  
+Data collection occurred in two consecutive rounds including 700 firms each.  
+• 
+Round 1 took place between August and November 2023.  
+• 
+Round 2 was a follow-up of the previous round conducted between October 5, 2024, and 
+November 18, 2024.  
+Nearly 86 percent of the firms interviewed during round 1 were also interviewed during the second 
+round of data collection. The distribution of complete interviews in both years is detailed in Table A.1. 
+The sampling method employed was stratified random sampling, ensuring a representative cross 
+section of businesses. Weights were computed and used in the analysis to project the results to the 
+population of inference. Table A.1 presents the sample design in both rounds of data collection. 
+Table A.1 - Federal Republic of Somalia Integrated Business Survey: Number of observations by sector 
+City 
+Size 
+Food 
+manufactur
+ing 2023 
+Food 
+manufactur
+ing 2024 
+Other 
+manufactur
+ing 2023 
+Other 
+manufactur
+ing 2024 
+Reta
+il 
+2023 
+Reta
+il 
+2024 
+Hotel 
+and 
+Touris
+m 
+2023 
+Hotel 
+and 
+Touris
+m 
+2024 
+Other 
+servic
+es 
+2023 
+Other 
+servic
+es 
+2024 
+Baidoa 
+Small (5–19) 
+10 
+1 
+6 
+2 
+35 
+59 
+19 
+4 
+19 
+38 
+Medium (20–
+99) 
+0 
+0 
+0 
+0 
+1 
+12 
+3 
+0 
+7 
+14 
+ 
+50 While the survey focused on firms with more than 5 employees, between 12 and 18 firms with fewer than 5 employees are included in 
+the dataset, respectively in 2023 and 2024. The original sampling frame included only firms with 5+ employees, and some of these firms 
+may have reduced their workforce since then, though they are still sampled as representative of small firms (5–9 employees).
+=== PAGE 49 ===
+49 
+ 
+City 
+Size 
+Food 
+manufactur
+ing 2023 
+Food 
+manufactur
+ing 2024 
+Other 
+manufactur
+ing 2023 
+Other 
+manufactur
+ing 2024 
+Reta
+il 
+2023 
+Reta
+il 
+2024 
+Hotel 
+and 
+Touris
+m 
+2023 
+Hotel 
+and 
+Touris
+m 
+2024 
+Other 
+servic
+es 
+2023 
+Other 
+servic
+es 
+2024 
+Large (100+) 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+  
+Unknown 
+0 
+0 
+0 
+0 
+3 
+1 
+1 
+0 
+6 
+1 
+Beledwey
+ne 
+Small (5–19) 
+0 
+2 
+0 
+1 
+64 
+38 
+0 
+1 
+28 
+52 
+Medium (20–
+99) 
+1 
+2 
+0 
+0 
+7 
+4 
+0 
+0 
+7 
+8 
+Large (100+) 
+0 
+0 
+0 
+0 
+1 
+1 
+0 
+0 
+2 
+0 
+  
+Unknown 
+0 
+0 
+0 
+0 
+3 
+0 
+0 
+0 
+7 
+1 
+Bosaso 
+Small (5–19) 
+0 
+2 
+0 
+3 
+1 
+0 
+3 
+16 
+4 
+0 
+Medium (20–
+99) 
+0 
+1 
+1 
+1 
+0 
+2 
+0 
+0 
+11 
+12 
+Large (100+) 
+0 
+0 
+0 
+0 
+1 
+1 
+0 
+0 
+0 
+0 
+  
+Unknown 
+48 
+1 
+14 
+1 
+4 
+38 
+37 
+1 
+16 
+51 
+Kismayo Small (5–19) 
+1 
+0 
+0 
+2 
+3 
+29 
+0 
+4 
+3 
+28 
+Medium (20–
+99) 
+0 
+0 
+0 
+0 
+7 
+4 
+0 
+1 
+7 
+3 
+Large (100+) 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+  
+Unknown 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+54 
+2 
+Mogadish
+u 
+Small (5–19) 
+9 
+6 
+10 
+24 
+40 
+54 
+0 
+61 
+21 
+72 
+Medium (20–
+99) 
+0 
+1 
+1 
+1 
+4 
+2 
+0 
+3 
+8 
+2 
+Large (100+) 
+1 
+0 
+1 
+0 
+5 
+1 
+0 
+1 
+7 
+1 
+  
+Unknown 
+1 
+1 
+78 
+1 
+3 
+1 
+62 
+1 
+4 
+22
+=== PAGE 50 ===
+50 
+ 
+A.2. Survey sample composition  
+By stratification variables 
+Figure A2.1a - Distribution of firms in sample, by 
+location 2023, not weighted 
+Figure A2.1b - Distribution of firms in sample, by 
+location 2024, not weighted 
+ 
+Source: The Federal Republic of Somalia IBES 2023. 
+Source: The Federal Republic of Somalia IBES 2024. 
+Figure A2.2.a - Distribution of firms in sample, by 
+sector 2023, not weighted 
+Figure A2.2b - Distribution of firms in sample, by sector 
+2024, not weighted 
+ 
+Source: The Federal Republic of Somalia IBES 2023. 
+Source: The Federal Republic of Somalia IBES 2024.
+=== PAGE 51 ===
+51 
+ 
+Figure A2.3a - Distribution of firms in sample, by size 
+2023, not weighted 
+Figure A2.3b - Distribution of firms in sample, by size 
+2024, not weighted 
+ 
+ 
+ 
+Source: The Federal Republic of Somalia IBES 2023. 
+Note: There are 12 firms in 2023 and 18 in 2024 with 
+fewer than 5 employees 
+Source: The Federal Republic of Somalia IBES 2024. 
+Note: There are 12 firms in 2023 and 18 in 2024 with fewer 
+than 5 employees 
+Figure A2.4a - Distribution of firms in sample, by age 
+2023, not weighted 
+Figure A2.4b - Distribution of firms in sample, by age 
+2024, not weighted 
+ 
+Source: The Federal Republic of Somalia IBES 2023. 
+Source: The Federal Republic of Somalia IBES 2024.
+=== PAGE 52 ===
+52 
+ 
+Figure A2.5a - Distribution of firms in sample, by legal 
+status 2023, not weighted 
+Figure A2.5b - Distribution of firms in sample, by legal 
+status 2024, not weighted 
+Source: The Federal Republic of Somalia IBES 2023. 
+Source: The Federal Republic of Somalia IBES 2024. 
+Figure A2.6a - Distribution of firms in sample, by 
+gender 2023, not weighted 
+Figure A2.6b - Distribution of firms in sample, by 
+gender 2024, not weighted 
+ 
+Source: The Federal Republic of Somalia IBES 2023. 
+Source: The Federal Republic of Somalia IBES 2024.
+=== PAGE 53 ===
+53 
+ 
+Figure A2.7a - Distribution of firms in sample, by 
+multi-establishment 2023, not weighted 
+Figure A2.7b - Distribution of firms in sample, by 
+multi-establishment 2024, not weighted 
+ 
+Source: The Federal Republic of Somalia IBES 2023. 
+Source: The Federal Republic of Somalia IBES 2024.
+=== PAGE 54 ===
+54 
+ 
+A.3. Focus group discussions 
+The qualitative assessment consisted of two rounds of 12 FGDs within the same strata (location, size, 
+and sector) targeted in the Federal Republic of Somalia Business Survey. The two rounds of FGDs 
+were complementary to the two survey rounds.  
+The first round took place between December 19, 2023, and January 4, 2024. Round 2 took place 
+between February 22, 2025, and March 19, 2025. All participants are individuals responsible for 
+making major strategic and financial decisions within the businesses they represent. To ensure only 
+the people who meet the above criteria were recruited to participate in the FGDs, establishments 
+were contacted by phone to determine their eligibility and willingness to participate in the FGD. Table 
+A.2 shows the distribution of the FGDs across the five locations in the study. 
+The objective of the FGDs was to add further context to the Federal Republic of Somalia Business 
+Survey results in select areas covered by the survey. The FGDs were facilitated using an open-ended 
+discussion guided by experienced moderators and notetakers, ensuring that key topics were covered 
+while allowing room for participants to share their views and experiences. Each FGD aimed to have 
+at least seven participants from private sector businesses that cut across eligible sectors and sizes 
+(small, medium, large)—which was achieved in all but one FGD. Moderators and notetakers were 
+trained in Somali. Discussions were recorded, and recordings were transcribed word for word in 
+Somali, then translated into English and reviewed for accuracy and completeness. 
+Tables A.3–A.5 provide a more detailed overview of the firms that participated in the FGDs. It includes 
+the dates when each session was held, the number of businesses involved in each discussion, and 
+the location, for both 2023 and 2024. 
+Table A.2 - Distribution of FGDs across the five locations (Round 1) 
+City 
+FGD 
+Number of businesses 
+represented in FGDs 
+FGD date 
+Baidoa 
+FGD 1 
+8 
+01/02/2024 
+FGD 2 
+8 
+01/04/2024 
+Beledweyne 
+FGD 1 
+7 
+12/24/2023 
+FGD 2 
+7 
+12/24/2023 
+Bosaso 
+FGD 1 
+8 
+01/02/2024 
+FGD 2 
+6 
+01/04/2024 
+Kismayo 
+FGD 1 
+7 
+12/24/2023 
+FGD 2 
+6 
+12/29/2023 
+Mogadishu 
+FGD 1 
+8 
+12/19/2023 
+FGD 2 
+5 
+12/23/2023 
+FGD 3 
+7 
+12/24/2023 
+FGD 4 
+7 
+12/27/2023
+=== PAGE 55 ===
+55 
+ 
+Table A.3 - Distribution of FGDs across city, sector, and size (Round 1) 
+City 
+Sectors 
+Large (100+) 
+Medium (20–99) 
+Small (5–19) 
+Total 
+Baidoa 
+Food 
+ 
+ 
+1 
+1 
+Hotel and tourism 
+ 
+2 
+1 
+3 
+Other manufacturing 
+ 
+ 
+2 
+2 
+Other services 
+ 
+2 
+2 
+4 
+Retail 
+ 
+2 
+4 
+6 
+Total 
+ 
+ 
+ 
+16 
+Beledweyne 
+Food 
+ 
+1 
+1 
+2 
+Hotel and tourism 
+ 
+1 
+2 
+3 
+Other manufacturing 
+ 
+ 
+1 
+1 
+Other services 
+1 
+3 
+2 
+6 
+Retail 
+ 
+ 
+2 
+2 
+Total 
+ 
+ 
+ 
+14 
+Bossaso 
+Food 
+ 
+1 
+2 
+3 
+Hotel and tourism 
+ 
+1 
+ 
+1 
+Other manufacturing 
+ 
+ 
+1 
+1 
+Other services 
+1 
+2 
+2 
+5 
+Retail 
+ 
+2 
+2 
+4 
+Total 
+ 
+ 
+ 
+14 
+Kismayo 
+Food 
+1 
+1 
+3 
+5 
+Hotel and tourism 
+ 
+1 
+ 
+1 
+Other manufacturing 
+ 
+ 
+ 
+0 
+Other services 
+ 
+1 
+2 
+3 
+Retail 
+ 
+2 
+2 
+4 
+Total 
+ 
+ 
+ 
+13 
+Mogadishu 
+Food 
+1 
+2 
+1 
+4 
+Hotel and tourism 
+ 
+1 
+1 
+2 
+Other manufacturing 
+ 
+1 
+ 
+1 
+Other services 
+1 
+3 
+5 
+9 
+Retail 
+2 
+4 
+5 
+11 
+Total 
+ 
+ 
+ 
+27 
+Table A.4 - Distribution of FGDs across the five locations (Round 2) 
+City 
+FGD 
+No. of 
+businesses 
+represented in 
+FGD 
+FGD date 
+Baidoa 
+FGD-1 
+8 
+3/15/2025 
+FGD-2 
+8 
+3/15/2025 
+Beledweyne 
+FGD-1 
+8 
+3/19/2025
+=== PAGE 56 ===
+56 
+ 
+City 
+FGD 
+No. of 
+businesses 
+represented in 
+FGD 
+FGD date 
+FGD-2 
+8 
+3/25/2025 
+Bosaso 
+FGD-1 
+8 
+3/13/2025 
+FGD-2 
+8 
+3/26/2025 
+Kismayu 
+FGD-1 
+9 
+3/22/2025 
+FGD-2 
+9 
+3/25/2025 
+Mogadishu 
+FGD-1 
+10 
+3/11/2025 
+  
+FGD-2 
+11 
+3/12/2025 
+  
+FGD-3 
+11 
+3/13/2025 
+  
+FGD-4 
+8 
+3/23/2025 
+Table A.5 - Distribution of FGDs across city, sector, and size (Round 2) 
+City 
+Large (100+) 
+Medium (20–99) 
+Small (5–19) 
+Total 
+Baidoa 
+Food  
+  
+1 
+2 
+3 
+  
+Hotel and Tourism 
+  
+1 
+2 
+3 
+  
+Other Manufacturing 
+  
+1 
+2 
+3 
+  
+Other Services 
+  
+2 
+2 
+4 
+  
+Retail 
+  
+1 
+2 
+3 
+  
+Total 
+  
+  
+  
+16 
+Beledweyne 
+Food  
+  
+1 
+2 
+3 
+  
+Hotel & Tourism 
+  
+  
+2 
+2 
+  
+Other Manufacturing 
+  
+1 
+2 
+3 
+  
+Other Services 
+1 
+1 
+2 
+4 
+  
+Retail 
+1 
+1 
+2 
+4 
+  
+Total 
+  
+  
+  
+16 
+Bosaso 
+Food  
+  
+1 
+1 
+2 
+  
+Hotel and Tourism 
+  
+1 
+2 
+3 
+  
+Other Manufacturing 
+  
+1 
+2 
+3 
+  
+Other Services 
+1 
+1 
+2 
+4
+=== PAGE 57 ===
+57 
+ 
+City 
+ 
+Large (100+) 
+Medium (20–99) 
+Small (5–19) 
+Total 
+  
+Retail 
+  
+2 
+2 
+4 
+  
+Total 
+  
+  
+  
+16 
+Kismayu 
+Food  
+1 
+1 
+2 
+4 
+  
+Hotel and Tourism 
+1 
+1 
+2 
+4 
+  
+Other Manufacturing 
+1 
+1 
+2 
+4 
+  
+Other Services 
+  
+1 
+2 
+3 
+  
+Retail 
+  
+1 
+2 
+3 
+  
+Total 
+  
+  
+  
+18 
+Mogadishu 
+Food  
+4 
+4 
+3 
+11 
+  
+Hotel and Tourism 
+1 
+1 
+2 
+4 
+  
+Other Manufacturing 
+2 
+2 
+3 
+7 
+  
+Other Services 
+2 
+2 
+4 
+8 
+  
+Retail 
+3 
+3 
+4 
+10 
+Total 
+  
+  
+  
+40

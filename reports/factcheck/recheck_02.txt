@@ -1,0 +1,9 @@
+Fact-check re-check 2, 2026-09-23.
+
+C-0127: PASS
+C-0162: PASS
+C-0163: PASS
+C-0164: PASS
+C-0229: PASS
+C-0225: FAIL
+  Reason: 36,000 is the whole GBS workforce (BPO is ~40 percent of GBS, p. 12); "GBS/BPO workforce" misleads. Correction: "According to the Kenya Investment Authority (2026), Kenya's global business services (GBS) workforce, which includes BPO, was an estimated 36,000 in 2025 (comparator)."; measure "Kenya GBS employment (KenInvest, comparator)".

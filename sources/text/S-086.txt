@@ -1,0 +1,3187 @@
+=== PAGE 1 ===
+1 
+ 
+2022 Social Accounting Matrix for Ethiopia 
+A Nexus Project SAM  
+17 September 2024 
+ 
+International Food Policy Research Institute, Washington DC, USA 
+ 
+ 
+Nexus Project 
+The Nexus Project is a collaboration between IFPRI and its partners, including national statistical 
+agencies and research institutions. Our aim is to improve the quality of social accounting matrices 
+(SAMs) used for computable general equilibrium (CGE) modeling. The Nexus Project develops 
+toolkits and establishes common data standards, procedures, and classification systems for 
+constructing and updating national SAMs. This addresses the need for greater transparency and 
+consistency in SAM construction to strengthen model-based research and policy analysis in 
+developing countries. Nexus SAMs allow for more robust cross-country comparisons of national 
+economic structure, especially agriculture-food systems. The Nexus Project’s guiding principles 
+are that all data should be traceable to original sources and/or assumptions, and that all SAMs 
+should be freely available online. Greater transparency and accessibility should facilitate more 
+data validation and participation of the modeling community. Statistics are continuously being 
+revised and errors are often only identified when data is used for analysis, and so we welcome your 
+suggestions on how the SAMs can be improved to reflect new and/or better information. 
+ 
+ 
+Acknowledgements 
+The Nexus Project receives support from the U.S. Agency for International Development, under 
+the Policy, Evidence, Analytics, Research and Learning (PEARL) Award# 720RFS22IO00003. 
+The work also benefits from the CGIAR Research Initiatives on Foresight and National Policies 
+and Strategies that provide financial support for developing the SAM build frameworks. 
+ 
+For further information, please email: IFPRI-Nexus@cgiar.org
+=== PAGE 2 ===
+2 
+ 
+Table of Contents 
+ 
+1. Social Accounting Matrices .................................................................................................................... 3 
+2. Standard Nexus SAM Accounts............................................................................................................. 5 
+3. Nexus SAM Entries and General Data Sources ................................................................................... 8 
+4. Balancing Nexus SAMs ......................................................................................................................... 22 
+5. Ethiopia SAM and Data Sources ......................................................................................................... 23 
+References .................................................................................................................................................. 28 
+ 
+ 
+Abbreviations 
+ 
+BACI 
+International Trade Database at the Product-level 
+BOPS 
+Balance of Payments Statistics 
+BPM6 
+Balance of Payments Manual, Sixth Edition 
+CGE 
+Computable General Equilibrium 
+COMTRADE 
+Commodity Trade Statistics Database 
+FAO 
+Food and Agriculture Organization  
+FAOSTAT 
+Food and Agriculture Organization’s Statistical Database 
+GDP 
+Gross Domestic Product 
+GFCF 
+Gross Fixed Capital Formation 
+GFS 
+Government Finance Statistics 
+GFSM 
+Government Finance Statistics Manual 
+GOS 
+Gross Operating Surplus 
+IMF 
+International Monetary Fund 
+IOT 
+Input-Output Table 
+ISIC 
+International Standard Industrial Classification 
+SAM 
+Social Accounting Matrix 
+SNA 
+System of National Accounts 
+SUT  
+Supply-Use Table 
+TRAINS 
+Trade Analysis Information System
+=== PAGE 3 ===
+3 
+ 
+1. Social Accounting Matrices 
+ 
+A national SAM is an economy-wide data framework that captures the detailed economic structure 
+of a country. A SAM is a square matrix in which each account is represented by a row and a 
+column.1 Each cell reflects a payment from the column account to the row account, i.e., incomes 
+appear along rows and expenditures along columns. Double-entry accounting requires that, for 
+each account, total revenue (row total) equals total expenditure (column total). Table 1 shows an 
+aggregate SAM, with verbal explanations in place of numbers.  
+Activities and commodities: Nexus SAMs distinguish between “activities” (entities that carry out 
+production) and “commodities” (representing markets for goods and non-factor services). SAM 
+flows are valued at producer prices in activity accounts and at market prices in commodity 
+accounts, i.e., inclusive of indirect taxes and transactions cost margins. Commodities consist of 
+activity outputs, either exported or sold domestically, and imports. In the activity columns, 
+payments are made to commodities (intermediate demand) and factors of production (value-added, 
+equal to operating surplus and compensation of employees). In the commodity columns, payments 
+are made to domestic activities, the rest of the world, and various tax accounts (for domestic and 
+import taxes).  
+Government income and payments: The government in a Nexus SAM is disaggregated into a core 
+government account and various tax collection accounts. Tax accounts are necessary since 
+otherwise the economic interpretation of certain payments becomes ambiguous. Direct payments 
+between the government and other domestic institutions are reserved for transfers. Payments from 
+the government to factors are captured in the government services activity. Government 
+consumption demand is a purchase of the output from the government services activity, which in 
+turn, pays labor.  
+Domestic nongovernment institutions: Domestic nongovernment institutions consist of 
+households and enterprises. Enterprises earn factor incomes (reflecting their ownership of capital) 
+and receive transfers from other institutions. Enterprise incomes are used for corporate taxes, 
+enterprise savings, and transfers to other institutions. Unlike households, enterprises do not 
+demand commodities. In the SAM, enterprises are an aggregation of financial and nonfinancial 
+corporations, as defined within the System of National Accounts (SNA).  
+Household consumption: Nexus SAMs distinguish between home (own) consumption of 
+activities and marketed consumption of commodities by households. Home consumption, which 
+appears in the SAM as payments from household accounts to activity accounts, is valued at 
+producer prices, i.e., without marketing margins and sales taxes that may be levied on marketed 
+commodities. Final household consumption of marketed commodities appears as payments from 
+household accounts to commodity accounts, valued at consumer prices including marketing 
+margins and taxes.    
+ 
+1 For a lengthier discussion on SAMs, see Pyatt and Round (1985) and Reinert and Roland-Holst (1997).
+=== PAGE 4 ===
+4 
+ 
+Table 1: Standard Nexus Macro SAM  
+ 
+Activities 
+Commo-
+dities 
+Factors 
+Enterprises 
+Households 
+Govern-
+ment 
+Taxes 
+Investment 
+Rest of the 
+World 
+Total 
+Activities 
+ 
+Marketed 
+outputs 
+ 
+ 
+Private non-
+marketed 
+consumption 
+ 
+ 
+ 
+ 
+Activity 
+income 
+Commo-
+dities 
+Intermediate 
+demand 
+Transaction 
+costs 
+ 
+ 
+Private 
+marketed 
+consumption 
+Government 
+consumption 
+ 
+Gross capital 
+formation 
+Exports 
+Total 
+demand 
+Factors 
+Value-added 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foreign 
+transfers to 
+factors 
+Factor 
+income 
+Enterprises 
+ 
+ 
+Factor 
+income to 
+enterprises 
+ 
+ 
+Government 
+transfers to 
+enterprises  
+ 
+ 
+Foreign 
+transfers to 
+enterprises  
+Enterprise 
+income 
+Households 
+ 
+ 
+Factor 
+income to 
+households 
+Enterprise 
+transfers to 
+households 
+ 
+Government 
+transfers to 
+households  
+ 
+ 
+Foreign 
+transfers to 
+households  
+Household 
+income 
+Govern-
+ment 
+ 
+ 
+ 
+Enterprise 
+transfers to 
+government 
+Household 
+transfers to 
+government 
+ 
+Taxes  
+paid to 
+government 
+ 
+Foreign 
+transfers to 
+government  
+Government 
+income 
+Taxes 
+Taxes on 
+producers 
+Taxes on 
+products 
+Factor taxes  
+Corporate 
+taxes 
+Household 
+taxes 
+ 
+ 
+ 
+ 
+Tax income 
+Savings 
+ 
+ 
+ 
+Enterprise 
+savings 
+Household 
+savings 
+Government 
+savings 
+ 
+ 
+Foreign 
+savings  
+Savings 
+Rest of the 
+World 
+ 
+Imports 
+Factor 
+payments 
+abroad  
+Enterprise 
+payments 
+abroad 
+Household 
+payments 
+abroad 
+Government 
+payments 
+abroad 
+ 
+ 
+ 
+Foreign 
+exchange 
+outflow 
+Total 
+Activity 
+expenditures 
+Total 
+supply 
+Factor 
+expenditures 
+Enterprise 
+expenditures 
+Household 
+expenditures 
+Government 
+expenditures 
+Tax 
+payments 
+Investment 
+Foreign 
+exchange 
+inflow
+=== PAGE 5 ===
+5 
+ 
+2. Standard Nexus SAM Accounts 
+ 
+Activities and commodities: Standard Nexus SAMs separate domestic production into 42 
+activities, as shown in Table 2.2 Each activity represents a group of industries from the 
+International Standard Industrial Classification system (ISIC Revision 4). The 4-digit ISIC codes 
+corresponding to each SAM activity are shown in Table A1 in the appendix. Agricultural activities 
+are further disaggregated using the FAO’s classification system, as shown in Table A2 in the 
+appendix. Information on production technologies comes from national input-output tables (IOT) 
+or supply-use tables (SUT). Activities and commodities have a one-to-one mapping based on a 
+concordance between ISIC industries and Harmonized System products (HS Version 2012).3  
+Table 2. Standard Nexus SAM Activities and Commodities 
+Code 
+Description 
+Code 
+Description 
+ 
+ 
+ 
+maiz 
+Maize 
+text 
+Textiles, clothing and footwear 
+rice 
+Rice 
+wood 
+Wood and paper products 
+ocer 
+Other cereals 
+chem 
+Chemicals and petroleum 
+puls 
+Pulses 
+nmet 
+Non-metal minerals 
+oils 
+Oilseeds 
+metl 
+Metals and metal products 
+root 
+Roots 
+mach 
+Machinery, equipment and vehicles 
+vege 
+Vegetables 
+oman 
+Other manufacturing 
+sugr 
+Sugarcane 
+elec 
+Electricity, gas and steam 
+toba 
+Tobacco 
+watr 
+Water supply and sewage 
+cott 
+Cotton and fibers 
+cons 
+Construction 
+frui 
+Fruits and nuts 
+trad 
+Wholesale and retail trade 
+coff 
+Coffee, tea and cocoa 
+tran 
+Transportation and storage 
+ocrp 
+Other crops 
+hotl 
+Accommodation and food services 
+catt 
+Cattle and raw milk 
+comm 
+Information and communication 
+poul 
+Poultry and eggs 
+fsrv 
+Finance and insurance 
+oliv 
+Other livestock 
+real 
+Real estate activities 
+fore 
+Forestry 
+bsrv 
+Business services 
+fish 
+Fisheries 
+padm 
+Public administration 
+mine 
+Mining 
+educ 
+Education 
+food 
+Processed foods 
+heal 
+Health and social work 
+beve 
+Beverage and tobacco 
+osrv 
+Other services 
+Source: IFPRI Nexus 42/5/10 standard SAM structure. 
+Factors of production: Nexus SAMs separate factors into three broad categories: labor, land and 
+capital. Labor is further disaggregated across three education-based categories, as shown in Table 
+3. There is greater consistency in education categories across countries since these are based on 
+the number of years of schooling that workers report having completed (see the notes provided in 
+Table 3). Information on total labor value-added as a share of sectoral gross domestic product 
+(GDP) is drawn from national IOTs or SUTs. This is disaggregated across labor subcategories 
+ 
+2 Nexus SAMs are aggregations of IFPRI’s detailed country SAMs, which adopt a standard classification (90 
+activities/commodities, 13 factors, and 15 household groups). Some SAMs are even more detailed, but all can be 
+aggregated to the standard 90/13/15 Nexus structure (and to the 42/5/10 structure documented here). 
+3 The lengthy concordance between Nexus SAM commodities and HS 2012 codes are available upon request.
+=== PAGE 6 ===
+6 
+ 
+using wage and salary data as well as imputed earnings by unpaid family members as reported in 
+household and labor force surveys (see Section 5). 
+Capital is gross operating surplus (GOS), plus a portion of the mixed income reported in national 
+IOTs or SUTs that is not assigned to either labor or land factors. Crop and livestock capital are 
+paid directly to households, while capital earnings in other sectors are paid to enterprises.  
+Table 3. Standard Nexus SAM Factors  
+Code 
+Description 
+Notes 
+lab-n 
+Labor - low education 
+Not finished primary schooling (i.e., 0-6 years of schooling)  
+lab-p 
+Labor - medium education 
+Finished primary, but not finished secondary schooling (i.e., 7-11 years of schooling) 
+lab-s 
+Labor - high education 
+Finished secondary or tertiary schooling (12+ years of schooling) 
+lnd 
+Land - agricultural crops  
+Cultivated crop land  
+cap 
+Capital 
+For agricultural crops (e.g., tractors, irrigation infrastructure) 
+Source: IFPRI Nexus 42/5/10 standard SAM structure. 
+Households: Nexus SAMs separate national populations into 10 representative household groups, 
+as shown in Table 4. Rural and urban households are distinguished based on a country’s official 
+definition of these areas and may vary between countries. Rural and urban households are further 
+disaggregated into per capita consumption quintiles. Quintiles are defined at the national level, 
+meaning that rural and urban quintiles are comparable and that the combined population of each 
+quintile is equal to a fifth of the national population. Per capita consumption groups are not 
+adjusted for adult-equivalency and, like national accounts, include all (most) consumption items 
+reported in a country’s household survey (see Section 5). The latter implies that the consumption 
+estimates and quintiles in Nexus SAMs may deviate from poverty-oriented consumption measures 
+and groupings, since these typically use adult equivalence scales, exclude “nonessential” items 
+(e.g., airplane tickets), and impute a “use value” for durable and semidurable assets (in addition to 
+housing).  
+Table 4. Standard Nexus SAM Households 
+Code 
+Description 
+Notes 
+hhd-r1 
+Rural - quintile 1 
+Rural households separated into 
+national per capita consumption 
+expenditure quintiles 
+hhd-r2 
+Rural - quintile 2 
+hhd-r3 
+Rural - quintile 3 
+hhd-r4 
+Rural - quintile 4 
+hhd-r5 
+Rural - quintile 5 
+hhd-u1 
+Urban - quintile 1 
+Urban households separated into 
+national per capita consumption 
+expenditure quintiles 
+hhd-u2 
+Urban - quintile 2 
+hhd-u3 
+Urban - quintile 3 
+hhd-u4 
+Urban - quintile 4 
+hhd-u5 
+Urban - quintile 5 
+Source: IFPRI Nexus 42/5/10 standard SAM structure. 
+Other accounts: The remaining accounts in the Nexus SAMs are shown in Table 5. These include 
+the transaction costs of moving goods between producers, domestic markets, and national borders, 
+as well as the various indirect taxes imposed on marketed commodities.
+=== PAGE 7 ===
+7 
+ 
+Table 5. Standard Nexus SAM Accounts 
+Code 
+Description 
+Notes 
+a___ 
+Activities 
+See Table 2 for the list of activity accounts 
+c___ 
+Commodities 
+See Table 2 for the list of commodity accounts 
+f___ 
+Factors 
+See Table 3 for the list of factor accounts 
+h___ 
+Households 
+See Table 4 for the list of household accounts 
+trc 
+Transaction costs 
+From moving goods between producers, markets and/or borders 
+ent 
+Enterprises 
+Financial and non-financial corporations 
+gov 
+Government 
+Government as an institution, not as a producing activity 
+atax 
+Taxes - activity 
+Indirect taxes on producers 
+dtax 
+Taxes - direct 
+Direct taxes on enterprises and households 
+etax 
+Taxes - export 
+Indirect taxes on exports 
+ftax 
+Taxes - factor 
+Direct taxes on factor incomes 
+mtax 
+Taxes - import 
+Indirect taxes on imports (import duties) 
+stax 
+Taxes - sales 
+Indirect taxes on domestic sales (VAT, GST and excise duty) 
+s-i 
+Savings-investment 
+Investment is gross fixed capital formation 
+dstk 
+Change in stocks 
+Inventory accumulation or depletion 
+row 
+Rest of world 
+All foreign countries and economies  
+total 
+Total 
+Row and column totals 
+Source: IFPRI Nexus 42/5/10 standard SAM structure.
+=== PAGE 8 ===
+8 
+ 
+3. Nexus SAM Entries and General Data Sources 
+ 
+The previous section outlined the broad structure of a Nexus SAM, including its standardized 
+classification of accounts. This section describes the information included in each row and column 
+entry in the SAM. One advantage of Nexus SAMs is that their Macro SAMs have a common 
+classification or definition of cell entries. This section describes each of the blocks of cells in the 
+Macro SAM following the numbered sequence shown in Table 8.  
+The Macro SAMs are compiled using three key data sources. First, the International Monetary 
+Fund’s (IMF) Government Finance Statistics (GFS) database provides detailed information on 
+government revenues and expenditures and follows a standardized accounting framework. Nexus 
+SAMs use the 2014 GFS Manual (GFSM) (IMF 2014b) and a mapping between GFSM codes and 
+macro SAM accounts can be found in Table A4 in the appendix. Second, the IMF maintains 
+detailed Balance of Payments Statistics (BOPS) (IMF 2014a). Nexus SAMs use the sixth BOPS 
+Manual (BPM) and a mapping between BPM6 codes and macro SAM accounts can be found in 
+Table A5 in the appendix. The conversion from US dollars to local currency uses the official 
+exchange rate, as reported in World Development Indicators (World Bank 2021). Third, countries 
+maintain their own national accounts that include production and expenditure-based GDP 
+estimates. To the extent possible, the Nexus SAMs, like most countries, follow the United Nation’s 
+System of National Accounts (SNA) (UN 2009).  
+ 
+1. Intermediate demand   
+ 
+ 
+(Commodities | Activities) 
+ 
+Definition: Intermediate demand includes payments by activities for the commodities used as 
+non-factor inputs in production processes. For example, payments by the maize activity 
+(amaiz) to the chemical commodity (cchem) for the fertilizer inputs used to grow maize. 
+ 
+Estimation: Intermediate demand for each activity is estimated in three steps. First, the ratio 
+of total intermediate demand to total value-added in each activity is derived from national 
+IOT/SUTs and, where possible, updated using more recent national accounts, agricultural and 
+industrial surveys, and/or censuses of economic activity. Second, this ratio is used to derive 
+the absolute level of total intermediate demand based on the estimated level of activity value-
+added (see Entry 2 below). Third, total intermediate payments are disaggregated across 
+individual commodities using shares derived from national IOT/SUTs and agricultural and 
+industrial surveys. Note that IOT/SUTs are usually only updated when national statistical 
+agencies rebase national accounts. The quality or accuracy of intermediate input coefficients 
+therefore declines over time until the underlying IOT/SUTs are re-estimated. The description 
+of each SAM in Section 5 indicates the IOT/SUT’s benchmark year.
+=== PAGE 9 ===
+9 
+ 
+Table 8: Numbered Entries in a Standard Nexus SAM  
+ 
+Activities 
+Commodities 
+Factors 
+Enterprises 
+Households 
+Government 
+Taxes 
+Investment 
+Rest of the 
+World 
+Activities 
+ 
+4 
+ 
+ 
+17 
+ 
+ 
+ 
+ 
+Commodities 
+1 
+5 
+ 
+ 
+18 
+23 
+ 
+29 
+31 
+Factors 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32 
+Enterprises 
+ 
+ 
+8 
+ 
+ 
+24 
+ 
+ 
+33 
+Households 
+ 
+ 
+9 
+12 
+ 
+25 
+ 
+ 
+34 
+Government 
+ 
+ 
+ 
+13 
+19 
+ 
+28 
+ 
+35 
+Taxes 
+3 
+6 
+10 
+14 
+20 
+ 
+ 
+ 
+ 
+Savings 
+ 
+ 
+ 
+15 
+21 
+26 
+ 
+30 
+36 
+Rest of the 
+World 
+ 
+7 
+11 
+16 
+22 
+27
+=== PAGE 10 ===
+10 
+ 
+2. Value-added  
+ 
+ 
+ 
+ 
+ 
+(Factors | Activities) 
+ 
+Definition: Value-added is the returns earned by factors during the production process, such 
+as labor wages and salaries, land rents, and capital profits. Land and capital includes gross 
+operating surplus (GOS), part of which may be reported as “mixed income” in national 
+accounts or IOT/SUTs.  
+ 
+Estimation: Total value-added by activity is estimated in two steps. First, national accounts 
+report the level of gross domestic product (GDP measured in basic prices) for aggregate sectors 
+and these are assigned to groups of SAM activities. Second, aggregate GDP estimates are 
+disaggregated to the level of the SAM activities using information on sub-sectoral production 
+from sources beyond national accounts. The value of activity level agricultural production is 
+estimated using production quantity and producer price data from national Ministries of 
+Agriculture and/or the FAO’s FAOSTAT database (FAO 2021). Total value-added in each 
+agricultural sector is estimated by multiplying the ratio of GDP to gross output (derived from 
+IOT/SUTs) by the estimated value of activity gross output. Similarly, information on activity-
+level industrial production is derived from manufacturing or industrial surveys (or possibly 
+from changing weights of producer price indices).  
+ 
+Labor value added is disaggregated across the worker categories in Table 3 using national 
+household and/or labor force survey data.4 Workers in these surveys report their sector of 
+employment, their earnings (wages, salaries, in-kind, etc.), and their education levels. Earnings 
+from farm and non-farm enterprises are usually reported at the household level in surveys, and 
+in such cases, these earnings are allocated across individual household members based on their 
+reported employment status and sector of employment. It is assumed that paid and unpaid 
+family members earn equal shares of household enterprise incomes (net of input costs). 
+ 
+3. Taxes on producers  
+ 
+ 
+ 
+ 
+(Taxes | Activities) 
+ 
+Definition: Net taxes on production (or subsidies if value is negative).  
+ 
+Estimation: The total value of activity taxes (atax) is taken from the IMF’s GFS and includes 
+“taxes on payroll and workforce” (GFSM code 112). This is disaggregated across activities 
+using information from national tax authorities and/or from the IOT/SUT. For the latter, tax 
+rates are derived from the IOT/SUT and then applied to the sectoral value of GDP and 
+intermediate payments (see Entries 1 and 2). This provides an initial estimate of net activity 
+tax payments, which are then scaled to match the total value of activity tax collections. 
+ 
+ 
+ 
+ 
+ 
+4 The national household surveys used to build Nexus SAMs are often the same as the surveys used to estimate 
+poverty rates or the weights for the consumer price index (e.g., Living Conditions Monitoring Surveys).
+=== PAGE 11 ===
+11 
+ 
+4. Marketed output  
+ 
+ 
+ 
+ 
+(Activities | Commodities)  
+ 
+Definition: Value of domestically produced goods and services that are supplied to markets, 
+either for domestic use or for export. Marketed output is net non-marketed or home produced 
+and consumed goods and services (see Entry 18).  
+ 
+Estimation: This is a residual balancing item for activities. The value of gross output less the 
+value of non-marketed consumption is paid from each activity to its corresponding commodity, 
+thereby balancing activity rows and columns. 
+ 
+5. Transaction costs  
+ 
+ 
+ 
+ 
+(Commodities | Commodities) 
+ 
+Definition: Trade and transport costs associated with moving goods between producers, 
+markets and national borders, either for domestic, import or export trade. For example, 
+exporters incur transport fees when moving goods from their factories to the national border, 
+whereas importers incur fees when delivering goods to domestic markets.  
+ 
+Estimation: There are two approaches to estimating transaction costs in Nexus SAMs. First, 
+margin payments as a share of total demand are estimated using past IOT/SUTs. These rates 
+are then applied to total demand estimates in the SAM, including exports, to derive new 
+transaction costs. Second, margins are estimated by the gap between producer and market 
+prices, net of indirect taxes, using price data supplied by national statistical agencies. The first 
+approach is preferred and is the one typically used for Nexus SAMs (see detailed description 
+of each SAM’s data sources for information on which approach was used). Finally, transaction 
+cost margins generate income for trade and/or transport activities.  
+ 
+6. Taxes on products  
+ 
+ 
+ 
+ 
+(Taxes | Commodities) 
+ 
+Definition: All indirect taxes imposed on goods and services (or subsidies if value is negative).  
+ 
+Estimation: Nexus SAMs separate taxes on products into three categories: sales taxes (stax), 
+export taxes (etax), and import tariffs (mtax) (see Table 4). The total value of tax collections 
+is taken from the IMF’s GFS. Sales taxes are “taxes on goods and services” (GFSM code 114), 
+which is a summation of various tax instruments, most importantly value-added taxes (GFSM 
+11411), sales taxes (GFSM 11412), and excise duties (GFSM 1142). Import tariffs (mtax) are 
+“taxes on international trade and transactions” (GFSM 115), excluding “taxes on exports” 
+(GFSM 1152), which are assigned to export taxes in the SAM. 
+ 
+Tax revenues are disaggregated across commodities using national tax authority data and/or 
+tax rates estimated from the IOT/SUT. If the IOT/SUT is outdated, then weighted import tariff 
+rates are taken from the United Nations Conference on Trade and Development’s Trade 
+Analysis and Information System (TRAINS) (UNCTAD 2021). Tax rates are applied to the 
+level of domestic sales, imports or exports (see Entries 7 and 32). This provides an initial
+=== PAGE 12 ===
+12 
+ 
+estimate of commodity level tax payments, which are then scaled to match the total value of 
+each tax revenue category, as estimated above.  
+ 
+7. Imports   
+ 
+ 
+ 
+ 
+ 
+(Rest of World | Commodities) 
+ 
+Definition: Value of goods and services imported from abroad, less the cost of carriage, 
+insurance and freight.  
+ 
+Estimation: The total value of imports is taken from national accounts, and this is then 
+disaggregated into total goods and total services using current account data from the IMF’s 
+BOPS (i.e., BPM6 codes BMG for “goods, debit” and BMS for “services, debit”). BOPS 
+provides detailed information on services imports by commodity, and this is used to assign 
+imports to service commodities in the SAM (see Table A5 in the appendix). Goods imports are 
+disaggregated across commodities using 6-digit HS gross import flows from the International 
+Trade Database at the Product-level (BACI) (Gaulier and Zignago 2010) which is built based 
+on the United Nations Commodity Trade Statistics (COMTRADE) database (UNSD 2024). 
+BACI performs various operations to reconcile COMTRADE data reported by both exporting 
+and importing countries. As a result, the trade data are balanced, enhancing the quality of trade 
+data for many low- and low-middle income countries. 
+ 
+8. Factor income to enterprises  
+ 
+ 
+ 
+(Enterprises | Factors)  
+ 
+Definition: Capital payments to enterprises after paying factor taxes and after transfers to the 
+rest of the world (see Entries 10 and 11). Payments equal gross operating surplus (GOS) 
+generated outside the crop and livestock sectors (see direct payments to households below). 
+GOS includes the value of consumption of fixed capital during the production process.  
+ 
+Estimation: This is a residual balancing item for the capital account. Total capital income less 
+capital taxes and foreign transfers is paid to the enterprise account, thereby balancing capital’s 
+row and column.  
+ 
+9. Factor income to households  
+ 
+ 
+ 
+(Households | Factors) 
+ 
+Definition: Labor, land, and crop/livestock capital payments to households, after paying factor 
+taxes and making transfers to the rest of the world (see Entries 10 and 11). These payments 
+equal compensation to workers, returns to land, and the capital earnings (i.e., GOS) generated 
+in the crop and livestock sectors. 
+ 
+Estimation: This is a residual balancing item for labor and land. Total factor incomes less 
+factor taxes and foreign transfers are paid to individual household accounts, thereby balancing 
+these factors’ rows and columns. Labor payments to households are disaggregated across 
+household and labor categories using information from national household or labor force 
+surveys (see Entry 2 on treatment on workers’ shares of household enterprise incomes). Land
+=== PAGE 13 ===
+13 
+ 
+and livestock capital payments to households are disaggregated using survey households’ 
+reported revenues from agricultural crops and livestock.
+=== PAGE 14 ===
+14 
+ 
+10. Factor taxes  
+ 
+ 
+ 
+ 
+ 
+(Taxes | Factors)  
+ 
+Definition: Direct taxes paid by capital to the government.  
+ 
+Estimation: The value of capital tax collections is taken from the IMF’s GFS. Factor taxes are 
+“taxes on property” (GFSM code 113), which is a summation of various taxes, including 
+wealth and estate taxes and capital levies.   
+ 
+11. Factor payments abroad  
+ 
+ 
+ 
+(Rest of World | Factors) 
+ 
+Definition: Labor, land and capital incomes paid to foreign households or enterprises. For 
+example, workers belonging to foreign households may earn some or all of their labor incomes 
+in domestic industries and this income may be repatriated back to workers’ home countries. 
+Similarly, some profits generated by foreign-owned mining companies may be repatriated to 
+company headquarters in another country. 
+ 
+Estimation: Factor transfers to the rest of the world are from the IMF’s BOPS. Labor transfers 
+are “compensation of employees, debit” (BPM6 code BMIPCE). Capital transfers are 
+“investment income, debit” (BPM6 BMIPI), which includes, amongst others, payments on 
+equity and investment funds to foreign investors.  
+ 
+12. Enterprise transfers to households 
+ 
+ 
+(Households | Enterprises) 
+ 
+Definition: Indirect capital payments by enterprises to households, after paying corporate taxes 
+and saving and making transfers to government and the rest of the world (see Entries 13, 14, 
+15 and 16). This includes indirect gross operating surplus paid from the earnings of household 
+nonfarm enterprises.  
+ 
+Estimation: This is a residual balancing item for the enterprise account. Total enterprise 
+income less taxes and transfers is paid to households, thereby balancing the enterprise row and 
+column. Enterprise earnings are paid to households based on households’ earnings from 
+nonfarm enterprises, dividends and private pension funds as reported in national household 
+surveys.  
+ 
+13. Enterprise transfers to government 
+ 
+ 
+(Government | Enterprises) 
+ 
+Definition: Transfers from enterprises (financial and non-financial corporations) to 
+governments, other than direct tax payments (see Entry 13). For example, domestic banks may 
+provide loans to the government, or parastatal enterprises may pay dividends or repay loans to 
+the general government. Enterprises may also contribute to public social welfare schemes on 
+behalf of their employees.
+=== PAGE 15 ===
+15 
+ 
+Estimation: Transfers received by the government from financial and non-financial 
+corporations are taken from the IMF’s GFS. This is “property income” (GFSM code 141), 
+which includes, amongst others, interest and dividend payments and payments for rented 
+public property. Transfers from enterprises also include “other taxes” (GFSM 116), which are 
+either paid by business or are unidentifiable. Finally, enterprises include employer 
+contributions to social security (GFSM 1212) and other social schemes (GFSM 1222). 
+ 
+14. Corporate taxes   
+ 
+ 
+ 
+ 
+(Taxes | Enterprises) 
+ 
+Definition: Corporate and other direct taxes paid by enterprises (financial and non-financial 
+corporations) to the government. 
+ 
+Estimation: The total value of taxes collected from enterprises is taken from the IMF’s GFS. 
+This includes taxes “payable by corporations and other enterprises” (GFSM code 1112) and 
+“other taxes on income, profits, and capital gains” (GFSM 1113). 
+ 
+15. Enterprise savings 
+ 
+ 
+ 
+ 
+(Savings | Enterprises) 
+ 
+Definition: Domestic private savings by enterprises (financial and non-financial corporations). 
+This includes reinvested earnings as well as the value of the consumption of fixed capital (i.e., 
+provision for capital depreciation).  
+ 
+Estimation: Total domestic private savings is back-calculated by subtracting public and 
+foreign savings from the value of gross capital formation (see Entries 21, 26, 29 and 36). 
+Unfortunately, few developing countries have the detailed national accounts data needed to 
+disaggregate domestic private savings across corporations (enterprises) and households. 
+Accordingly, in the absence of this information, the Nexus SAMs assume that enterprises and 
+households have similar savings rates, after enterprises have subtracted their allowance for the 
+depreciation of working capital.  
+ 
+16. Enterprise payments abroad 
+ 
+ 
+ 
+(Rest of World | Enterprises) 
+ 
+Definition: Secondary income transfers from domestic financial and non-financial enterprises 
+to the rest of the world. 
+ 
+Estimation: The value of enterprise foreign payments comes from the IMF’s BOPS. This 
+includes “other transfers, debit” (BPM6 code BMISOOT). 
+ 
+17. Private non-marketed consumption 
+ 
+ 
+(Activities | Households)  
+ 
+Definition: Activity output that is both produced and consumed within the household, i.e., 
+“own” or “home” consumption.
+=== PAGE 16 ===
+16 
+ 
+Estimation: Non-marketed consumption is estimated in three steps. First, the share of total 
+private consumption for each Nexus SAM commodity is estimated using aggregate private 
+consumption from national accounts and commodity-level consumption from national 
+household surveys. Second, the share of home consumption in total consumption of each 
+commodity is estimated using the household surveys, and this share of then used to separate 
+total commodity consumption into marketed and non-marketed components. Third, home 
+consumption is disaggregated across household groups using household survey data. Home 
+consumption is defined as any products not purchased in markets, including the consumption 
+of both home produced products and products received “in-kind” from other households (i.e., 
+without monetary payment).  
+ 
+18. Private marketed consumption  
+ 
+ 
+(Commodities | Households) 
+ 
+Definition: Commodities that are purchased in markets and consumed by households.  
+ 
+Estimation: Marketed consumption is estimated in three steps. First, the share of total private 
+consumption for each Nexus SAM commodity is estimated using aggregate private 
+consumption from national accounts and commodity-level consumption from national 
+household surveys. Second, the share of home consumption in total consumption of each 
+commodity is estimated using the household surveys, and this share of then used to separate 
+total commodity consumption into marketed and non-marketed components. Third, marketed 
+consumption is disaggregated across household groups using household survey data. Marketed 
+consumption is defined as any products purchased in markets, i.e., not home produced or 
+received “in-kind” from other households.  
+ 
+19. Household transfers to government 
+ 
+ 
+(Government | Households) 
+ 
+Definition: Payments by household to the government other than for direct taxes (see Entry 
+19). For example, households may contribute to public social welfare schemes, including 
+retirement and healthcare funds. 
+ 
+Estimation: The total value of transfers is taken from the IMF’s GFS. This is social security 
+and other social contributions, including payments by employees (GFSM codes 1211 and 
+1221), self-employed and unemployed people (GFSM 1213), and unallocable and imputed 
+contributions (GFSM 1214 and 1223). Household transfers to government also include various 
+other revenue sources, including from sales of goods and services (GFSM 142), and fines 
+penalties and forfeits (GFSM 143).   
+ 
+20. Household taxes  
+ 
+ 
+ 
+ 
+(Taxes | Households) 
+ 
+Definition: Direct income or personal taxes paid by households. For example, households 
+often “pay as you earn” (PAYE) taxes to the government based on their wages and salaries.
+=== PAGE 17 ===
+17 
+ 
+Estimation: Total tax collection is taken from the IMF’s GFS. It includes taxes on income, 
+profits and capital gains that are “payable by individuals” (GFSM code 1111). This is 
+disaggregated across the household groups in the Nexus SAMs using personal income tax rates 
+reported by households in the national household survey. If tax data if not available or is poorly 
+captured in the survey, then incomes from secondary/tertiary educated labor is used as a proxy 
+for disaggregating total direct tax collections (see Table 3). 
+ 
+21. Household savings 
+ 
+ 
+ 
+ 
+(Savings | Households) 
+ 
+Definition: Domestic private savings by households.  
+ 
+Estimation: Total domestic private savings is back calculated by subtracting public and foreign 
+savings from the value of gross capital formation (see Entries 21, 26, 29 and 36). 
+Unfortunately, few countries have the detailed national accounts data needed to disaggregate 
+domestic private savings across enterprises (corporations) and households. Accordingly, in the 
+absence of detailed information, the Nexus SAMs assume that enterprises and households have 
+similar savings rates, after enterprises have subtracted their allowance for the depreciation of 
+working capital. Household savings are then disaggregated across household groups in the 
+SAM using information from national household surveys. Although survey households often 
+report the value of deposits made into bank accounts or the amount of savings during the year, 
+including private pension contributions, this information is often poorly captured. In such 
+cases, proxy indicators are derived from household earnings from enterprises and incomes 
+from more educated labor. 
+ 
+22. Household payments abroad 
+ 
+ 
+ 
+(Rest of World | Households) 
+ 
+Definition: Secondary income transfers from households to the rest of the world. 
+ 
+Estimation: The value of household foreign payments comes from the IMF’s BOPS. This 
+includes “personal transfers, debit” (BPM6 code BMISOPT). Transfers are disaggregated 
+across household groups in the SAM using information from national household surveys that 
+capture the amount of remittances households sent abroad.  
+ 
+23. Government consumption 
+ 
+ 
+ 
+(Commodities | Government) 
+ 
+Definition: Government recurrent spending on goods and services. Public consumption 
+demand by the government institution is the primary source of demand for services produced 
+by government activities, which consist of public administration, education, and health and 
+social work. 
+ 
+Estimation: The total value of government consumption is drawn directly from a country’s 
+national accounts data. This is cross-checked against recurrent expenditures in the IMF’s GFS, 
+which reports government’s “compensation of employees” (GFSM code 21), “use of goods
+=== PAGE 18 ===
+18 
+ 
+and services” (GFSM 22), and “consumption of fixed capital” (GFSM 23). Total consumption 
+is disaggregated across commodities using budget shares derived from the IOT/SUT, and then 
+adjusted to reflect changes in the composition of supply of public administration, education, 
+and health and social work services. 
+ 
+24. Government transfers to enterprises  
+ 
+(Enterprises | Government) 
+ 
+Definition: Transfers from the government to enterprises (financial and non-financial 
+corporations). For example, the government may pay interest or repay the principal on a loan 
+from a domestic bank, or the government may lend money to parastatal companies.  
+ 
+Estimation: Transfers paid by the government to financial and non-financial corporations are 
+taken from the IMF’s GFS. This is interest payments to nongovernment residents (GFSM code 
+242), subsidies to public corporations and private enterprises (GFSM 25) and “other expenses” 
+(GFSM 28). The latter includes property expenses like dividend and rental payments. 
+ 
+25. Government transfers to households  
+ 
+(Households | Government) 
+ 
+Definition: Payments by the government to households. For example, governments may pay 
+households from a public pension or cash transfer scheme.  
+ 
+Estimation: The total value of transfers is taken from the IMF’s GFS. This is social benefits 
+(GFSM code 27), which includes social security, social assistance, and other employment-
+related social benefits, each of which may be paid in cash or in-kind. 
+ 
+26. Government savings 
+ 
+ 
+ 
+ 
+(Savings | Government) 
+ 
+Definition: Recurrent fiscal surplus for the government (of deficit if cell entry is negative). 
+Note that this is the difference between revenues and recurrent expenditures, i.e., before public 
+capital investment. Recurrent expenditures include public consumption spending (see Entry 
+25) and transfers to domestic and foreign institutions (see Entries 24, 25 and 27).   
+ 
+Estimation: This is the residual balancing item for the government account, although it cross-
+checked against the difference between total revenues and total recurrent expenses in the IMF’s 
+GFS (GFSM codes 1 and 2). Any deviation from GFS data is due to the Nexus SAM giving 
+preference to statistics from national accounts (for indirect tax collections and government 
+consumption spending, see Entries 3, 6 and 23) and to the IMF’s BOP database (for foreign 
+transfers, see Entries 27 and 35).
+=== PAGE 19 ===
+19 
+ 
+27. Government payments abroad  
+ 
+ 
+(Rest of World| Government) 
+ 
+Definition: Transfers from the government to the rest of the world. For example, government 
+may provide foreign aid to other countries, or must pay interest or repay loans to foreign 
+governments and financial enterprises. 
+ 
+Estimation: The value of government foreign payments comes from the IMF’s BOPS, and is 
+cross-checked against the IMF’s GFS. BOPS-based payments include “general government 
+transfers, debit” under secondary income (BPM6 code BMISG). GFS-based payments include 
+interest payments to nonresidents (GFSM code 241), and grants paid to foreign governments 
+and international organizations (GFSM 26).   
+ 
+28. Tax revenues paid to government 
+ 
+ 
+(Government | Taxes) 
+ 
+Definition: Revenues transferred from individual tax accounts to the government account. 
+ 
+Estimation: This is a residual balancing item for the tax accounts in the SAM. The distinction 
+between taxes and the government account allows the SAM to disaggregate indirect taxes on 
+commodities, i.e., sales taxes, export taxes, and import tariffs (see Entry 6).  
+ 
+29. Gross capital formation  
+ 
+ 
+ 
+(Commodities | Investment) 
+ 
+Definition: Combination of gross fixed capital formation (GFCF) and changes in stocks or 
+inventories. GFCF is the spending on commodities involved during the investment in capital 
+stock. For example, investment typically involves the purchase of machinery, vehicles and 
+equipment, as well as payments for constructing new factories and storage facilities. Changes 
+in stocks occur when businesses carry-over stock for sale in subsequent years, or when they 
+sell products in the current year that were produced in previous years. Positive values in the 
+SAM indicate an accumulation of stocks and negative values indicate a depletion of stocks. 
+Finally, note that the Nexus SAMs combine private, public and foreign investment, just as they 
+combine private, public and foreign savings (see Entries 15, 21 and 26). 
+ 
+Estimation: The Nexus SAMs distinguish between GFCF (s-i) and changes in stocks (dstk). 
+SAM entries are determined in two steps. First, the total value of GFCF and stock changes are 
+taken from official national accounts data. Second, these total values are disaggregated across 
+commodities using expenditure shares from the IOT/SUT. In some cases, countries report the 
+composition of GFCF on an annual basis, in which case this information is used in place of the 
+IOT/SUT shares. The same is true for stock changes, although most countries only report 
+detailed stock changes when a new IOT/SUT is produced during the rebasing of national 
+accounts. Although commodity level stock changes in Nexus SAMs may deviate from national 
+accounts, this may be less concerning since these flows are typically exogenous within 
+economywide models.
+=== PAGE 20 ===
+20 
+ 
+30. Inventory or stock change adjustment  
+ 
+(Savings | Investment) 
+ 
+Definition: The accumulation of stocks for sale in subsequent years are added to the amount 
+of savings available in the country (and a depletion of stocks reduces savings). For example, if 
+an activity produces a machine this year for sale next year then they are effectively saving the 
+value of the machine (or investing in future sales). This transfer of total stock changes to the 
+savings account was not shown in Table 1, because it nets to zero in SAMs that aggregate gross 
+fixed capital formation (GFCF) and changes in stocks.  
+ 
+Estimation: This is a residual balancing item for the change in stocks account (see Entry 29). 
+The total value of stock changes is paid to the savings account. A positive value means a net 
+accumulation of stocks and a negative value means a net depletion.    
+ 
+31. Exports 
+ 
+ 
+ 
+ 
+ 
+ 
+(Commodities | Rest of World) 
+ 
+Definition: Value of goods and services exported abroad.  
+ 
+Estimation: The total value of exports is taken from national accounts, and this is then 
+disaggregated into total goods and total services using current account data from the IMF’s 
+BOPS (i.e., BPM6 codes BXG for “goods credit” and BXS for “services credit”). BOPS 
+provides detailed information on services exports by commodity, and this is used to assign 
+exports to service commodities in the SAM (see Table A5 in the appendix). Goods exports are 
+disaggregated across commodities using 6-digit HS gross export flows from the International 
+Trade Database at the Product-level (BACI) (Gaulier and Zignago 2010) which is built based 
+on the United Nations Commodity Trade Statistics (COMTRADE) database (UNSD 2022). 
+ 
+32. Foreign transfers to factors 
+ 
+ 
+ 
+(Factors | Rest of World) 
+ 
+Definition: Labor, land and capital incomes received from the rest of the world. For example, 
+workers belonging to domestic households may earn some or all of their labor incomes 
+working in a foreign country and this income may be repatriated. Similarly, domestically-
+owned companies may repatriate profits earned abroad. 
+ 
+Estimation: Factor transfers from the rest of the world are from the IMF’s BOPS. Labor 
+receipts are “compensation of employees, credit” (BPM6 code BXIPCE). Capital receipts are 
+“investment income, credit” (BPM6 BXIPI), which includes, amongst others, income on 
+foreign equity and investment funds.  
+33. Foreign transfers to enterprises 
+ 
+ 
+(Enterprises| Rest of World) 
+ 
+Definition: Secondary income transfers from the rest of the world to domestic financial and 
+non-financial enterprises.
+=== PAGE 21 ===
+21 
+ 
+Estimation: The value of enterprise foreign receipts comes from the IMF’s BOPS. This 
+includes “other transfers, credit” (BPM6 code BXISOOT). 
+ 
+34. Foreign transfers to households 
+ 
+ 
+(Households| Rest of World) 
+ 
+Definition: Secondary income transfers from households to the rest of the world. For example, 
+households may receive remittance incomes from family members working abroad. 
+ 
+Estimation: The value of household foreign incomes comes from the IMF’s BOPS. This 
+includes “personal transfers, credit” (BPM6 code BXISOPT). Transfers are disaggregated 
+across household groups in the SAM using information from national household surveys that 
+capture the amount of remittances households received from abroad.  
+ 
+35. Foreign transfers to government 
+ 
+ 
+(Government| Rest of World) 
+ 
+Definition: Transfers from the rest of the world to the government. For example, government 
+may receive foreign aid from other countries. 
+ 
+Estimation: The value of government foreign receipts comes from the IMF’s BOPS, and this 
+is cross-checked against the IMF’s GFS. BOPS-based receipts include “general government 
+transfers, credit” under secondary income (BPM6 code BXISG). GFS-based payments include 
+grants received from foreign governments and international organizations (GFSM code 131 
+and 132).   
+ 
+36. Foreign savings  
+ 
+ 
+ 
+ 
+(Savings | Rest of World) 
+ 
+Definition: Current account balance equal to total foreign capital or savings inflows.  
+ 
+Estimation: This is the residual balancing item for the rest of world account, although it cross-
+checked against the current account balance reported in the IMF’s BOPS (BPM6 code 1). Any 
+deviation from BOPS data – and this is usually small – is due to the Nexus SAM giving 
+preference to total the value of imports and exports reported in national accounts (see Entries 
+7 and 31).
+=== PAGE 22 ===
+22 
+ 
+4. Balancing Nexus SAMs 
+ 
+Nexus SAMs are constructed in three stages using the IFPRI SAM Building Toolkit. The toolkit 
+uses a standardized template in Microsoft-Excel® to construct and export an unbalanced SAM to 
+a compilation and balancing program that is executed in the General Algebraic Modeling System 
+(GAMS).  
+During the first stage of the SAM Toolkit, a Macro SAM is constructed using the data described 
+in previous sections. The three main data sources for the Macro SAM are national accounts, GFS, 
+and BOPS. Unfortunately, in many developing countries, these three data sources are not fully 
+reconciled. For example, the total value of exports and imports in national accounts may not 
+exactly match the values appearing in BOPS. Preference is given to certain data sources. For 
+instance, Nexus SAMs always use national accounts data instead of trade data from BOPS or 
+government consumption spending estimates from GFS. Similarly, preference is given BOPS over 
+GFS when estimating transfers between the government and the rest of the world. Row and column 
+totals in the Macro SAM are reconciled manually through various residual balancing items, as 
+listed below:  
+• Marketed supply balances the activity accounts (see Entry 4) 
+• Transfers to households or enterprises balances the factor accounts (see Entry 8 and 9) 
+• Transfers to households balances the enterprise account (see Entry 12) 
+• Household and government savings balance the household and government accounts (see 
+Entries 21 and 26) 
+• Foreign savings balances the rest of world account (see Entry 36).  
+During the second stage, income and expenditure shares derived from surveys and other sources 
+are used to disaggregate the Macro SAM entries across detailed activities, commodities, factors, 
+and households. Sectoral and product data is used to disaggregate production and trade, and survey 
+data is used to disaggregate factor and household incomes and consumer demand. There are always 
+imbalances between the level of supply and demand for commodities and between household 
+incomes and expenditures. These imbalances are manually checked for misclassification issues 
+and logical errors in data collection and reporting. However, imbalances invariably remain, and so 
+Nexus SAMs use cross-entropy estimation techniques to reconcile row and column totals at the 
+detailed commodity and household level. For more information on cross-entropy-based 
+reconciliation of SAM accounts, see Robinson et al. (2001).
+=== PAGE 23 ===
+23 
+ 
+5. Ethiopia SAM and Data Sources 
+ 
+The 2022 Ethiopia SAM follows the Standard Nexus Structure (see Section 2). Table 9 lists the 
+specific data sources used to construct the SAM. Most sources are consistent with those used in 
+Standard Nexus SAMs (see Section 3). 
+Activities: Ethiopia’s national accounts were rebased using a 2015/16 base year. The SUT was 
+aggregated to the Nexus activities using the ISIC Revision 4 concordance (see Table A1 in the 
+appendix). National accounts provided GDP estimates for 19 sectors, which were further 
+disaggregated to the standard Nexus 89 sectors using crop and livestock production and producer 
+price data from FAOSTAT (see Table A2) and industrial subsector production costs from the 
+Large and Medium Manufacturing and Electricity Industries Survey. National accounts provided 
+sufficient detail for service sector GDP. The final SAM was aggregated to the standard 42 
+activities for dissemination.   
+Table 9. Summary of Data Sources for the 2022 Ethiopia SAM 
+Data needs 
+Data year 
+Country data sources  
+Reference 
+Macroeconomic structure 
+ 
+ 
+ 
+   National accounts 
+2022/23 
+2015/16 rebased series   
+NBE (2024) 
+      IOT/SUT 
+2018 
+2010/11 Social Accounting Matrix for Ethiopia 
+EPAU/IFPRI (2017)    
+   Government finance 
+2022 
+Government Finance Statistics online database 
+IMF (2024a) 
+   Balance of payments 
+2022 
+Balance of Payments BPM6 Compilation 
+IMF (2024b) 
+   Exchange rate 
+2022 
+World Development Indicators 
+World Bank (2024) 
+Disaggregating activities 
+ 
+ 
+ 
+   Aggregate sectors 
+2022/23 
+2015/16 rebased series   
+NBE (2024) 
+   Crops and livestock subsectors 
+2022 
+FAOSTAT online database 
+FAO (2024) 
+   Mining 
+2010/11 
+2010/11 Social Accounting Matrix for Ethiopia 
+EPAU/IFPRI (2017)    
+   Manufacturing 
+2016/17  
+2016/17 Large and Medium Scale Industries Survey  
+CSA (2018) 
+Disaggregating commodities 
+ 
+ 
+ 
+   Private consumption 
+2015/16 
+Household Consumption-Expenditure Survey (HCES) 
+CSA (2018) 
+      Own consumption share 
+2015/16 
+Household Consumption-Expenditure Survey (HCES) 
+CSA (2018) 
+   Public consumption 
+2010/11 
+2010/11 Social Accounting Matrix for Ethiopia 
+EPAU/IFPRI (2017)    
+   Gross fixed capital formation 
+2010/11 
+2010/11 Social Accounting Matrix for Ethiopia 
+EPAU/IFPRI (2017)    
+   Goods trade 
+2022 
+BACI database 
+Gaulier and Zignago (2010) 
+   Services trade 
+2022 
+Balance of Payments BPM6 Compilation 
+IMF (2024b) 
+   Indirect tax rates 
+2010/11 
+2010/11 Social Accounting Matrix for Ethiopia 
+EPAU/IFPRI (2017)    
+      Import tariff rates 
+2021 
+TRAINS online database 
+UNCTAD (2024) 
+   Transaction cost margins 
+2010/11 
+2010/11 Social Accounting Matrix for Ethiopia 
+EPAU/IFPRI (2017)    
+Disaggregating labor 
+2010/11 
+Household Consumption-Expenditure Survey (HCES) 
+CSA (2012) 
+ 
+2013  
+2013 National Labor Force Survey  
+CSA (2014) 
+Disaggregating households 
+2015/16 
+Household Consumption-Expenditure Survey (HCES) 
+CSA (2018) 
+Source: 2022 Ethiopia SAM. 
+Commodities: National accounts report GDP by expenditure group, i.e., private and public 
+consumption, investment demand, and exports and imports. These groups were disaggregated 
+across the Nexus commodities using the following data:  
+• Six-digit BACI and itemized BOPS data were used to disaggregate international goods 
+and services trade, respectively.
+=== PAGE 24 ===
+24 
+ 
+• The 2015/16 Household Consumption-Expenditure Survey (HCES), which is a nationally-
+representative household survey distinguishes between marketed and own consumption 
+spending, and this information was used to disaggregate total private consumption 
+spending across activities and commodities.  
+• The 2010/11 SAM provided information on the breakdown of public consumption 
+spending across public administration, health and social work, and education. This was 
+updated using GDP estimates for public administration, education and health.   
+• Initial indirect tax rates were first estimated from the 2010/11 SAM and then adjusted 
+using more recent data on tariffs and VAT collections by commodity. Rates were then 
+scaled uniformly to match total revenues by tax instrument.  
+• Transaction cost margins (as a share of commodity supply) were estimated from the 
+2010/11 SAM. 
+Labor: The SUT separates sectoral GDP into compensation of employees, and gross operating 
+surplus. Labor value-added was disaggregated using sector-level worker and household income 
+shares derived from the HCES. This includes wage earnings, as well as farm and non-farm 
+enterprise revenues. The latter were apportioned equally to individual household members based 
+on their reported employment status and sector of employment. For example, if more than one 
+household member reports being employed in agriculture, then each of these members are 
+assigned an equal share of the households’ reported farm earnings. 
+Households: Household incomes and expenditures were disaggregated across representative 
+household groups using information from the HCES. Households receive factor incomes based 
+on reported earnings of individual household members. The value-added generated by crop land 
+and livestock capital were paid to household groups based on their reported farm enterprise 
+revenues. Direct tax payments were assumed to be proportional to secondary/tertiary-educated 
+workers’ wage and non-farm enterprise earnings. Finally, transfers received from the 
+government and the rest of the world were assigned to households using information from the 
+HCES. More specifically, the ratio of transfer earnings to total household consumption was used 
+to estimate initial transfer incomes, and these were then scaled uniformly across all households 
+to match the total value of transfers appearing in government and balance of payments statistics.
+=== PAGE 25 ===
+25 
+ 
+Table 10: Macro SAM for Ethiopia in 2022 (Billions of Birr) 
+ 
+Activities 
+Commodities 
+Factors 
+Enterprises 
+Households 
+Government 
+Taxes 
+Investment 
+Rest of the 
+World 
+Total 
+Activities 
+ 
+10,155 
+ 
+ 
+1,003 
+ 
+ 
+ 
+ 
+11,158 
+Commodities 
+4,030 
+1,971 
+ 
+ 
+4,786 
+504 
+ 
+1,748 
+551 
+13,588 
+Factors 
+7,128 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+7,129 
+Enterprises 
+ 
+ 
+3,489 
+ 
+ 
+ 
+ 
+ 
+ 
+3,489 
+Households 
+ 
+ 
+3,613 
+2,802 
+ 
+ 
+ 
+ 
+377 
+6,791 
+Government 
+ 
+ 
+ 
+34 
+0 
+ 
+387 
+ 
+52 
+473 
+Taxes 
+ 
+289 
+ 
+72 
+27 
+ 
+ 
+ 
+ 
+387 
+Savings 
+ 
+ 
+ 
+582 
+975 
+-31 
+ 
+ 
+222 
+1,748 
+Rest of the 
+World 
+ 
+1,174 
+27 
+0 
+1 
+ 
+ 
+ 
+ 
+1,203 
+Total 
+11,158 
+13,588 
+7,129 
+3,489 
+6,791 
+473 
+387 
+1,748 
+1,203 
+ 
+Source: 2022 Ethiopia SAM.
+=== PAGE 26 ===
+26 
+ 
+Table 11: Structure of Production and Trade in Ethiopia (2022) 
+ 
+Share of total (%) 
+Exports/ 
+output (%) 
+Imports/ 
+demand (%) 
+GDP 
+Exports 
+Imports 
+All sectors or commodities 
+100 
+100 
+100 
+5.4 
+9.7 
+Agriculture 
+37.3 
+30.7 
+3.1 
+7.2 
+1.3 
+    Crops 
+25.8 
+30.5 
+3.1 
+11.4 
+2.0 
+    Livestock 
+8.9 
+0.2 
+0.0 
+0.2 
+0.0 
+    Forestry 
+2.5 
+0.0 
+0.0 
+0.0 
+0.1 
+    Fisheries 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+Industry 
+25.5 
+8.6 
+67.8 
+1.4 
+16.9 
+    Mining 
+0.4 
+0.2 
+0.6 
+3.6 
+11.6 
+    Manufacturing 
+4.6 
+8.3 
+66.8 
+4.9 
+34.4 
+        Processed foods 
+1.3 
+4.4 
+4.2 
+5.5 
+8.8 
+        Beverage and tobacco 
+0.6 
+0.0 
+0.2 
+0.1 
+1.3 
+        Textiles, clothing, and footwear 
+0.5 
+3.9 
+2.3 
+25.1 
+19.7 
+        Wood and paper products 
+0.4 
+0.0 
+3.9 
+0.0 
+34.1 
+        Chemicals and petroleum 
+0.2 
+0.0 
+29.7 
+0.0 
+65.9 
+        Non-metal minerals 
+0.5 
+0.0 
+0.4 
+0.0 
+4.9 
+        Metals and metal products 
+0.5 
+0.0 
+7.3 
+0.0 
+32.4 
+        Machinery, equipment, and vehicles 
+0.1 
+0.0 
+17.7 
+0.0 
+63.8 
+        Other manufacturing 
+0.4 
+0.0 
+1.1 
+0.0 
+16.2 
+    Electricity, gas, and steam 
+0.2 
+0.0 
+0.0 
+0.0 
+0.0 
+    Water supply and sewage 
+0.5 
+0.0 
+0.0 
+0.0 
+0.0 
+    Construction 
+19.9 
+0.0 
+0.5 
+0.0 
+0.3 
+Services 
+37.2 
+60.7 
+29.1 
+7.5 
+7.6 
+    Wholesale and retail trade 
+13.5 
+0.0 
+0.0 
+0.0 
+0.0 
+    Accommodation and food services 
+2.3 
+11.2 
+1.0 
+21.2 
+5.1 
+    Transportation and storage 
+1.7 
+44.9 
+21.7 
+41.2 
+41.6 
+    Information and communication 
+2.4 
+0.0 
+0.0 
+0.0 
+0.0 
+    Finance and insurance 
+1.9 
+0.1 
+3.1 
+0.3 
+17.0 
+    Real estate activities 
+6.6 
+0.0 
+0.0 
+0.0 
+0.0 
+    Business services 
+1.4 
+2.9 
+3.2 
+15.7 
+30.8 
+    Public administration 
+2.9 
+1.6 
+0.0 
+2.9 
+0.0 
+    Education 
+2.0 
+0.0 
+0.0 
+0.0 
+0.0 
+    Health and social work 
+0.7 
+0.0 
+0.0 
+0.0 
+0.0 
+    Other services 
+1.8 
+0.0 
+0.0 
+0.0 
+0.0 
+Source: 2022 Ethiopia SAM.
+=== PAGE 27 ===
+27 
+ 
+Table 12: Household Income Sources in Ethiopia (2022) 
+ 
+Share of total household income (%) 
+ 
+Labor by education level 
+Crop  
+land 
+Capital 
+Transfers 
+Total 
+ 
+All  
+workers 
+Low 
+educated 
+Medium 
+educated  
+High 
+educated  
+All 
+Agriculture 
+Non-
+agriculture 
+Government 
+World 
+ 
+All households 
+35.6 
+24.7 
+4.8 
+6.1 
+8.8 
+50.0 
+8.8 
+41.3 
+0.0 
+5.6 
+100 
+   Quintile 1 
+47.3 
+40.5 
+5.4 
+1.4 
+15.6 
+32.9 
+15.7 
+17.2 
+0.0 
+4.2 
+100 
+   Quintile 2 
+43.1 
+35.9 
+4.8 
+2.3 
+14.0 
+38.0 
+14.1 
+23.9 
+0.0 
+4.9 
+100 
+   Quintile 3 
+42.5 
+34.0 
+5.4 
+3.1 
+13.0 
+39.3 
+12.9 
+26.4 
+0.0 
+5.2 
+100 
+   Quintile 4 
+38.7 
+27.6 
+5.4 
+5.7 
+9.8 
+45.8 
+9.6 
+36.2 
+0.0 
+5.7 
+100 
+   Quintile 5 
+25.4 
+11.3 
+4.1 
+10.0 
+3.1 
+65.3 
+3.1 
+62.2 
+0.0 
+6.2 
+100 
+Rural households 
+40.2 
+33.7 
+4.1 
+2.4 
+13.3 
+41.0 
+13.2 
+27.8 
+0.0 
+5.5 
+100 
+Urban households 
+27.0 
+8.1 
+6.1 
+12.9 
+0.6 
+66.8 
+0.6 
+66.2 
+0.0 
+5.7 
+100 
+Source: 2022 Ethiopia SAM. 
+Notes: Labor is separated by the maximum level of education achieved: “low educated” workers have not finished primary schooling (i.e., 0-6 years of 
+schooling); “medium educated” workers have finished primary schooling, but not finished secondary schooling (i.e., 7-11 years of schooling); and “high 
+educated” workers have finished secondary or tertiary schooling (12+ years of schooling). 
+ 
+ 
+Table 13: Household Populations and Expenditures in Ethiopia (2022) 
+ 
+Population 
+Consumption spending 
+Total spending 
+ 
+Millions  
+of people 
+Share of 
+total (%) 
+Share of 
+total (%) 
+Per capita 
+(1000 Birr) 
+Food share 
+(%) 
+Per capita 
+(1000 Birr) 
+Savings rate 
+(%) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All households 
+120.8 
+100 
+100 
+48 
+58.6 
+56 
+14.4 
+   Quintile 1 
+24.3 
+20.1 
+9.1 
+22 
+68.3 
+26 
+15.3 
+   Quintile 2 
+24.2 
+20.0 
+13.1 
+31 
+62.3 
+37 
+15.1 
+   Quintile 3 
+24.3 
+20.1 
+17.4 
+41 
+61.4 
+49 
+15.5 
+   Quintile 4 
+24.1 
+20.0 
+20.9 
+50 
+58.9 
+59 
+14.6 
+   Quintile 5 
+23.9 
+19.8 
+39.5 
+96 
+53.8 
+111 
+13.2 
+Rural households 
+97.4 
+80.7 
+64.3 
+38 
+63.1 
+45 
+15.1 
+Urban households 
+23.4 
+19.3 
+35.7 
+88 
+50.5 
+102 
+13.0 
+Source: 2022 Ethiopia SAM. 
+Notes: Expenditures are annual. Consumption spending includes spending on goods and services. Total spending is consumption spending plus taxes, savings, 
+and outward remittances.
+=== PAGE 28 ===
+28 
+ 
+References 
+General References 
+EC, IMF, OECD, UN and World Bank (European Commission, International Monetary Fund, 
+Organization for Economic Cooperation and Development, United Nations, and World 
+Bank). 2010. System of National Accounts 2008. New York NY, USA: EC, IMF, OECD, 
+UN and World Bank. 
+FAO (Food and Agriculture Organization of the United Nations). 2024. FAO Statistical 
+Databases (FAOSTAT). Rome, Italy: FAO.  
+Gaulier, G. and Zignago, S., 2010. BACI: International Trade Database at the Product-level (the 
+1994-2007 version). 
+IMF (International Monetary Fund). 2016a. BPM6 Compilation Guide: Companion Document to 
+the Sixth Edition of the Balance of Payments and International Investment Position 
+Manual. Washington DC, USA: IMF. 
+IMF (International Monetary Fund). 2016b. Government Finance Statistics Manual 2014. 
+Washington DC, USA: IMF. 
+IMF (International Monetary Fund). 2024a. Government Finance Statistics Database. 
+Washington DC, USA: IMF. 
+IMF (International Monetary Fund). 2024b. Balance of Payments and International Investment 
+Position Online Database. Washington DC, USA: IMF.  
+Pyatt, G. and J. Round. 1985. Social Accounting Matrices: A Basis for Planning. Washington 
+DC, USA: World Bank. 
+Reinert, K.A., and D.W. Roland-Holst. 1997. “Social Accounting Matrices.” In Francois, J.F., 
+and K.A. Reinert (eds.) Applied Methods for Trade Policy Analysis: A Handbook. New 
+York NY, USA: Cambridge University Press. 
+Robinson, S., A. Cattaneo and M. El-Said. 2001. “Updating and Estimating a Social Accounting 
+Matrix Using Cross Entropy Methods.” Economic Systems Research 13 (1): 47-64. 
+UNCTAD (United Nations Conference on Trade and Development). 2024. Trade Analysis 
+Information System (TRAINS). Geneva, Switzerland: UNCTAD. 
+UNDESA (United Nations Department for Economic and Social Affairs). 2002. International 
+Standard Industrial Classification of All Economic Activities (ISIC): Revision 3.1. 
+Statistical Papers, Series M No. 4 Rev. 3.1. New York NY, USA: Statistics Division, 
+UNDESA. 
+UNDESA (United Nations Department for Economic and Social Affairs). 2008. International 
+Standard Industrial Classification of All Economic Activities (ISIC): Revision 4. Statistical 
+Papers, Series M No. 4 Rev. 4. New York NY, USA: Statistics Division, UNDESA. 
+UNSD (United Nations Statistics Division). 2024. Commodity Trade Statistics Database. New 
+York NY, USA: UNSD.
+=== PAGE 29 ===
+29 
+ 
+World Bank. 2024. World Development Indicators. Washington DC, USA: World Bank. 
+ 
+Country-Specific References 
+CSA (Central Statistical Agency, Federal Democratic Republic of Ethiopia). 2012. The 2010/11 
+Household Consumption and Expenditure (HCE) Survey: Analytical Report. Addis Ababa, 
+Ethiopia: CSA  
+CSA (Central Statistical Agency, Federal Democratic Republic of Ethiopia). 2018. The 2015/16 
+Ethiopian Household Consumption and Expenditure (HCE) Survey: Statistical Report. 
+Addis Ababa, Ethiopia: CSA. 
+ CSA (Central Statistical Agency, Federal Democratic Republic of Ethiopia). 2014. Statistical 
+Report on the 2013 National Labor Force Survey. Addis Ababa, Ethiopia: CSA 
+CSA (Central Statistical Agency, Federal Democratic Republic of Ethiopia). 2018. Report on 
+Large and Medium Scale Manufacturing and Electricity Industries Survey 2016-2017. 
+Addis Ababa, Ethiopia: CSA.  
+EPAU/IFPRI (Economic and Policy Analysis Unit / International Food Policy Research 
+Institute). 2017. A 2010/11 Social Accounting Matrix for Ethiopia. Addis Ababa, Ethiopia: 
+EPAU / Washington DC, USA: IFPRI.  
+NBE (National Bank of Ethiopia). 2024. National Bank of Ethiopia Quarterly Bulletin. Second 
+Quarter 2023/24. Addis Ababa, Ethiopia: NBE
+=== PAGE 30 ===
+30 
+ 
+Table A1. Detailed Classification of Standard Nexus (42) Activity Accounts 
+Nexus Activity 
+International Standard Industrial Classification (ISIC) Revision 4 
+Code 
+Description 
+Code 
+Description 
+maiz 
+Maize 
+0111 
+Growing of cereals (except rice), leguminous crops and oil seeds 
+rice 
+Rice 
+0112 
+Growing of rice 
+ocer 
+Other cereals 
+0111 
+Growing of cereals (except rice), leguminous crops and oil seeds 
+puls 
+Pulses 
+0111 
+Growing of cereals (except rice), leguminous crops and oil seeds 
+oils 
+Oilseeds 
+0111 
+Growing of cereals (except rice), leguminous crops and oil seeds 
+root 
+Roots 
+0113 
+Growing of vegetables and melons, roots and tubers 
+vege 
+Vegetables 
+0113 
+Growing of vegetables and melons, roots and tubers 
+sugr 
+Sugarcane 
+0114 
+Growing of sugar cane 
+toba 
+Tobacco 
+0115 
+Growing of tobacco 
+cott 
+Cotton and fibers 
+0116 
+Growing of fiber crops 
+frui 
+Fruits and nuts 
+0121 
+Growing of grapes 
+ 
+ 
+0122 
+Growing of tropical and subtropical fruits 
+ 
+ 
+0123 
+Growing of citrus fruits 
+ 
+ 
+0124 
+Growing of pome fruits and stone fruits  
+ 
+ 
+0125 
+Growing of other tree and bush fruits and nuts 
+ 
+ 
+0126 
+Growing of oleaginous fruits 
+coff 
+Coffee, tea, and cocoa 
+0127 
+Growing of beverage crops 
+ocrp 
+Other crops 
+0119 
+Growing of other non-perennial crops 
+ 
+ 
+0128 
+Growing of spices, aromatic, drug and pharmaceutical crops 
+ 
+ 
+0129 
+Growing of spices, aromatic, drug and pharmaceutical crops 
+ 
+ 
+0130 
+Plant propagation 
+ 
+ 
+0161 
+Support activities for crop production 
+ 
+ 
+0163 
+Post-harvest crop activities 
+ 
+ 
+0164 
+Seed processing for propagation 
+catt 
+Cattle and raw milk 
+0141 
+Raising of cattle and buffaloes 
+poul 
+Poultry and eggs 
+0146 
+Raising of poultry 
+oliv 
+Other livestock 
+0142 
+Raising of horses and other equines 
+ 
+ 
+0143 
+Raising of camels and camelids 
+ 
+ 
+0144 
+Raising of sheep and goats 
+ 
+ 
+0145 
+Raising of swine/pigs 
+ 
+ 
+0149 
+Raising of other animals 
+ 
+ 
+0162 
+Support activities for animal production 
+ 
+ 
+0170 
+Hunting, trapping and related service activities 
+fore 
+Forestry 
+02xx 
+Forestry and logging 
+fish 
+Fishing 
+03xx 
+Fishing and aquaculture 
+mine 
+Mining 
+05xx 
+Mining of coal and lignite 
+ 
+ 
+06xx 
+Extraction of crude petroleum and natural gas 
+ 
+ 
+07xx 
+Mining of metal ores 
+ 
+ 
+08xx 
+Other mining and quarrying 
+ 
+ 
+09xx 
+Mining support service activities 
+food 
+Food processing 
+101x 
+Processing and preserving of meat 
+ 
+ 
+102x 
+Processing and preserving of fish, crustaceans and mollusks 
+ 
+ 
+103x 
+Processing and preserving of fruit and vegetables 
+ 
+ 
+104x 
+Manufacture of vegetable and animal oils and fats 
+ 
+ 
+105x 
+Manufacture of dairy products 
+ 
+ 
+106x 
+Manufacture of grain mill products, starches and starch products 
+ 
+ 
+107x 
+Manufacture of other food products 
+ 
+ 
+108x 
+Manufacture of prepared animal feeds 
+beve 
+Beverage and tobacco 
+11xx 
+Manufacture of beverages 
+ 
+ 
+12xx 
+Manufacture of tobacco products 
+text 
+Textiles, clothing and footwear 
+13xx 
+Manufacture of textiles 
+ 
+ 
+14xx 
+Manufacture of wearing apparel 
+ 
+ 
+15xx 
+Manufacture of leather and related products 
+wood 
+Wood and paper products 
+16xx 
+Manufacture of wood and of products of wood and cork, except furniture 
+ 
+ 
+17xx 
+Manufacture of paper and paper products 
+ 
+ 
+18xx 
+Printing and reproduction of recorded media 
+chem 
+Chemicals and petroleum 
+19xx 
+Manufacture of coke and refined petroleum products 
+ 
+ 
+20xx 
+Manufacture of chemicals and chemical products (excl. 2012 and 2021 above) 
+ 
+ 
+21xx 
+Manufacture of basic pharmaceutical products and pharmaceutical preparations 
+ 
+ 
+22xx 
+Manufacture of rubber and plastics products 
+nmet 
+Non-metal minerals 
+23xx 
+Manufacture of other non-metallic mineral products
+=== PAGE 31 ===
+31 
+ 
+Table A1 (continued). Detailed Classification of Standard Nexus (42) Activity Accounts 
+Nexus Activity 
+International Standard Industrial Classification (ISIC) Revision 4 
+Code 
+Description 
+Code 
+Description 
+metl 
+Metals and metal products 
+24xx 
+Manufacture of basic metals 
+ 
+ 
+25xx 
+Manufacture of fabricated metal products, except machinery and equipment 
+mach 
+Machinery, equipment and vehicles 
+26xx 
+Manufacture of computer, electronic and optical products 
+  
+  
+27xx 
+Manufacture of electrical equipment 
+ 
+ 
+28xx 
+Manufacture of machinery and equipment  
+ 
+ 
+29xx 
+Manufacture of motor vehicles, trailers and semi-trailers 
+ 
+ 
+30xx 
+Manufacture of other transport equipment 
+oman 
+Other manufacturing 
+31xx 
+Manufacture of furniture 
+ 
+ 
+32xx 
+Other manufacturing 
+ 
+ 
+33xx 
+Repair and installation of machinery and equipment 
+elec 
+Electricity, gas and steam 
+35xx 
+Electricity, gas, steam and air conditioning supply 
+watr 
+Water supply and sewage 
+36xx 
+Water collection, treatment and supply 
+ 
+ 
+37xx 
+Sewerage 
+ 
+ 
+38xx 
+Waste collection, treatment and disposal activities; materials recovery 
+cons 
+Construction 
+41xx 
+Construction of buildings 
+ 
+ 
+42xx 
+Civil engineering 
+ 
+ 
+43xx 
+Specialized construction activities 
+trad 
+Wholesale and retail trade 
+45xx 
+Wholesale and retail trade and repair of motor vehicles and motorcycles 
+ 
+ 
+46xx 
+Wholesale trade, except of motor vehicles and motorcycles 
+ 
+ 
+47xx 
+Retail trade, except of motor vehicles and motorcycles 
+tran 
+Transportation and storage 
+49xx 
+Land transport and transport via pipelines 
+ 
+ 
+50xx 
+Water transport 
+ 
+ 
+51xx 
+Air transport 
+ 
+ 
+52xx 
+Warehousing and support activities for transportation 
+ 
+ 
+53xx 
+Postal and courier activities 
+hotl 
+Accommodation and food services 
+55xx 
+Accommodation and food services 
+ 
+ 
+56xx 
+Food and beverage service activities 
+comm 
+Information and communication 
+58xx 
+Publishing activities 
+ 
+ 
+59xx 
+Motion picture, video, TV program production, sound and music publishing  
+ 
+ 
+60xx 
+Programming and broadcasting activities 
+ 
+ 
+61xx 
+Telecommunications 
+ 
+ 
+62xx 
+Computer programming, consultancy and related activities 
+ 
+ 
+63xx 
+Information service activities 
+fsrv 
+Finance and insurance 
+64xx 
+Financial service activities, except insurance and pension funding 
+ 
+ 
+65xx 
+Insurance, reinsurance and pension funding, except compulsory social security 
+ 
+ 
+66xx 
+Activities auxiliary to financial service and insurance activities 
+real 
+Real estate activities 
+68xx 
+Real estate activities 
+bsrv 
+Business services 
+69xx 
+Legal and accounting activities 
+ 
+ 
+70xx 
+Activities of head offices; management consultancy activities 
+ 
+ 
+71xx 
+Architectural and engineering activities; technical testing and analysis 
+ 
+ 
+72xx 
+Scientific research and development 
+ 
+ 
+73xx 
+Advertising and market research 
+ 
+ 
+74xx 
+Other professional, scientific and technical activities 
+ 
+ 
+75xx 
+Veterinary activities 
+ 
+ 
+77xx 
+Rental and leasing activities 
+ 
+ 
+78xx 
+Employment activities 
+ 
+ 
+79xx 
+Travel agency, tour operator, reservation service and related activities 
+ 
+ 
+80xx 
+Security and investigation activities 
+ 
+ 
+81xx 
+Services to buildings and landscape activities 
+ 
+ 
+82xx 
+Office administrative, office support and other business support activities 
+padm 
+Public administration 
+84xx 
+Public administration and defense; compulsory social security 
+educ 
+Education 
+85xx 
+Education 
+heal 
+Health and social work 
+86xx 
+Human health activities 
+ 
+ 
+87xx 
+Residential care activities 
+  
+  
+88xx 
+Social work activities without accommodation 
+osrv 
+Other services 
+90xx 
+Creative, arts and entertainment activities 
+ 
+ 
+91xx 
+Libraries, archives, museums and other cultural activities 
+ 
+ 
+92xx 
+Gambling and betting activities 
+ 
+ 
+93xx 
+Sports activities and amusement and recreation activities 
+ 
+ 
+94xx 
+Activities of membership organizations 
+ 
+ 
+95xx 
+Repair of computers and personal and household goods 
+ 
+ 
+96xx 
+Other personal service activities 
+ 
+ 
+97xx 
+Activities of households as employers of domestic personnel 
+ 
+ 
+98xx 
+Undifferentiated goods/service activities of private households for own use 
+ 
+ 
+99xx 
+Activities of extraterritorial organizations and bodies
+=== PAGE 32 ===
+32 
+ 
+Table A2. Detailed Classification of Standard Nexus Agricultural Activity Accounts 
+Code 
+Description (FAOSTAT crop and livestock product codes in parentheses) 
+maiz 
+Maize (56) 
+rice 
+Paddy rice (27) 
+ocer 
+Wheat (15); Barley (44); Rye (71); Oats (75); Millet (79); Sorghum (83); Buckwheat (89); Quinoa (92); Fonio (94); Triticale (97); 
+Canary seed (101); Mixed grain (103); Cereals not elsewhere specified (108) 
+puls 
+Dry beans (176); Dry broad beans and horse beans (181); Dry peas (187); Chick peas (191); Dry cow peas (195); Pigeon peas (197); 
+Lentils (201); Bambara beans (203); Vetches (205); Lupins (210); Pulses not elsewhere specified (211) 
+oils 
+Soybeans (236);  Groundnuts with shell (242); Coconuts (249); Palm oil fruit (254); Palm kernels (256); Palm oil (257); Olives (260); 
+Karite nuts (sheanuts) (263); Castor oil seed (265); Sunflower seed (267); Rapeseed (270); Tung nuts (275); Jojoba seed (277); 
+Safflower seed (280); Sesame seed (289); Mustard seed (292); Poppy seed (296); Melonseed (299); Tallowtree seed (305); Vegetable 
+tallow (306); Stillingia oil (307); Cottonseed (329); Linseed (333); Hempseed (336); Oilseeds not elsewhere specified (339) 
+root 
+Potatoes (116); Sweet potatoes (122); Cassava (125); Yautia (cocoyam) (135); Taro (cocoyam) (136); Yams (137); Roots and tubers 
+not elsewhere specified (149) 
+vege 
+Cabbages and other brassicas (358); Artichokes (366); Asparagus (367); Lettuce and chicory (372); Tomatoes (388); Cauliflowers and 
+broccoli (393); Pumpkins, squash and gourds (394); Cucumbers and gherkins (397); Eggplants (aubergines) (399); Chilies and 
+peppers, green (401); Green onions and shallots (402); Dry onions (403); Garlic (406); Leeks and other alliaceous vegetables (407); 
+Green beans (414); Green peas (417); Leguminous vegetables not elsewhere specified (420); String beans (423); Carrots and turnips 
+(426); Okra (430); Green maize (446); Mushrooms and truffles (449); Chicory roots (459); Carobs (461); Fresh vegetables not 
+elsewhere specified (463) 
+sugr 
+Sugar cane (156); Sugar beet (157); Sugar crops not elsewhere specified (161) 
+toba 
+Unmanufactured tobacco (826) 
+cott 
+Kapok fruit (310); Seed cotton (328); Flax fiber and tow (773); Hemp tow waste (777); Jute (780); Bastfibers, other (782); Ramie 
+(788); Sisal (789); Agave fibers not elsewhere specified (800); Manila fiber (abaca) (809); Fiber crops not elsewhere specified (821) 
+frui 
+Brazil nuts with shell (216); Cashew nuts with shell (217); Chestnut (220); Almonds with shell (221); Walnuts with shell (222); 
+Pistachios (223); Kola nuts (224); Hazelnuts with shell (225); Areca nuts (226); Nuts not elsewhere specified (234); Bananas (486); 
+Plantains (489); Oranges (490); Tangerines, mandarins, clementines and satsumas (495); Lemons and limes (497); Grapefruit 
+(including pomelos) (507); Citrus fruit not elsewhere specified (512); Apples (515); Pears (521); Quinces (523); Apricots (526); Sour 
+cherries (530); Cherries (531); Peaches and nectarines (534); Plums and sloes (536); Stone fruit not elsewhere specified (541); Pome 
+fruit not elsewhere specified (542); Strawberries (544); Raspberries (547); Gooseberries (549); Currants (550); Blueberries (552); 
+Cranberries (554); Berries not elsewhere specified (558); Grapes (560); Watermelons (567); Other melons (including cantaloupes) 
+(568); Figs (569); Mangoes, mangosteens and guavas (571); Avocados (572); Pineapples (574); Dates (577); Persimmons (587); 
+Cashew apple (591); Kiwi fruit (592); Papayas (600); Fresh tropical fruit not elsewhere specified (603); Fresh fruit not elsewhere 
+specified (619) 
+coff 
+Green coffee (656); Cocoa beans (661); Tea (667); Mata (671); Tea not elsewhere specified (674) 
+ocrp 
+Hops (677); Pepper (piper spp.) (687); Dry chilies and peppers (689); Vanilla (692); Cinnamon (canella) (693); Cloves (698); 
+Nutmeg, mace and cardamoms (702); Anise, badian, fennel and coriander (711); Ginger (720); Spices not elsewhere specified (723); 
+Peppermint (748); Dried pyrethrum (754); Natural rubber (836); Natural gums (839) 
+catt 
+Cattle meat (867); Whole fresh cow milk (882); Indigenous cattle meat (944); Live weight cattle meat (945); Whole fresh buffalo 
+milk (951); Whole fresh sheep milk (982); Whole fresh goat milk (1020); Whole fresh camel milk (1130) 
+poul 
+Chicken meat (1058);  Duck meat (1069); Hen eggs in shell (1062);  Indigenous duck meat (1070); Live weight duck meat (1071); 
+Goose and guinea fowl meat (1073); Indigenous goose meat (1077); Live weight goose meat (1078); Turkey meat (1080); Indigenous 
+bird meat not elsewhere specified (1084); Other live weight poultry meat (1085); Indigenous turkey meat (1087); Live weight turkey 
+meat (1088); Bird meat not elsewhere specified (1089); Other bird eggs in shell (1091); Indigenous chicken meat (1094); Live weight 
+chicken meat (1095) 
+oliv 
+Buffalo meat (947); Indigenous buffalo meat (972); Live weight buffalo meat (973); Sheep meat (977); Greasy wool (987); 
+Indigenous sheep meat (1012); Live weight sheep meat (1013); Goat meat (1017); Indigenous goat meat (1032); Live weight goat 
+meat (1033); Pig meat (1035); Indigenous pig meat (1055); Live weight pig meat (1056); Horse meat (1097); Ass meat (1108); Mule 
+meat (1111); Indigenous horse meat (1120); Live weight horse meat (1121); Indigenous ass meat (1122); Live weight ass meat 
+(1123); Indigenous mule meat (1124); Live weight mule meat (1125); Camel meat (1127); Indigenous camel meat (1137); Live 
+weight camel meat (1138); Rabbit meat (1141); Indigenous rabbit meat (1144); Live weight rabbit meat (1145); Other rodent meat 
+(1151); Indigenous rodent meat (1154); Live weight rodent meat (1155); Other camelid meat (1158); Indigenous other camelid meat 
+(1161); Live weight other camelids meat (1162); Game meat (1163); Meat not elsewhere specified (1166); Snails (1176); Natural 
+honey (1182); Beeswax (1183); Silk-worm cocoons (1185)
+=== PAGE 33 ===
+33 
+ 
+Table A3. Detailed Classification of the Government Account 
+Government Financial Statistics Manual (IMF GFSM 2014) 
+Nexus SAM Entries* 
+Code 
+Description 
+Row 
+Column 
+1 
+Revenue 
+ 
+ 
+11 
+Taxes 
+ 
+ 
+111 
+Taxes on income, profits, and capital gains 
+ 
+ 
+1111 
+Payable by individuals 
+dtax 
+hhd-__ 
+1112 
+Payable by corporations and other enterprises 
+dtax 
+ent 
+1113 
+Other taxes on income, profits, and capital gains 
+dtax 
+ent 
+112 
+Taxes on payroll and workforce 
+ftax 
+flab-__ 
+113 
+Taxes on property 
+ftax 
+fcap-_ 
+114 
+Taxes on goods and services 
+stax 
+c____ 
+115 
+Taxes on international trade and transactions 
+ 
+ 
+1151 
+Customs and other import duties 
+mtax 
+c____ 
+1152 
+Taxes on exports 
+etax 
+c____ 
+1153 
+Profits of export or import monopolies 
+mtax 
+c____ 
+1154 
+Exchange profits 
+mtax 
+c____ 
+1155 
+Exchange taxes 
+mtax 
+c____ 
+1156 
+Other taxes on international trade and transactions 
+mtax 
+c____ 
+116 
+Other taxes 
+dtax 
+ent 
+12 
+Social contributions 
+ 
+ 
+121 
+Social security contributions 
+ 
+ 
+1211 
+Employee contributions 
+gov 
+hhd-__ 
+1212 
+Employer contributions 
+gov 
+ent 
+1213 
+Self-employed or unemployed contributions 
+gov 
+hhd-__ 
+1214 
+Unallocable contributions 
+gov 
+hhd-__ 
+122 
+Other social contributions 
+ 
+ 
+1221 
+Employee contributions 
+gov 
+hhd-__ 
+1222 
+Employer contributions 
+gov 
+ent 
+1223 
+Imputed contributions 
+gov 
+hhd-__ 
+13 
+Grants 
+gov 
+row 
+14 
+Other revenue 
+ 
+ 
+141 
+Property income 
+gov 
+ment 
+142 
+Sales of goods and services 
+gov 
+hhd-__ 
+143 
+Fines, penalties, and forfeits 
+gov 
+hhd-__ 
+144 
+Transfers not elsewhere classified 
+gov 
+hhd-__ 
+145 
+Premiums, fees, and nonlife insurance claims  
+gov 
+ment 
+2 
+Expense 
+ 
+ 
+21 
+Compensation of employees 
+c____ 
+gov 
+22 
+Use of goods and services 
+c____ 
+gov 
+23 
+Consumption of fixed capital 
+c____ 
+gov 
+24 
+Interest 
+ 
+ 
+241 
+To nonresidents 
+row 
+gov 
+242 
+To residents other than general government 
+ent 
+gov 
+243 
+To other general government units 
+ent 
+gov 
+25 
+Subsidies 
+ent 
+gov 
+26 
+Grants 
+row 
+gov 
+27 
+Social benefits 
+hhd-__ 
+gov 
+28 
+Other expense 
+ent 
+gov 
+* Table 4 describes the Nexus SAM codes.
+=== PAGE 34 ===
+34 
+ 
+Table A5. Detailed Classification of the Rest of World Account 
+Balance of Payments (IMF BOP6) 
+Nexus SAM Entries* 
+Code 
+Description 
+Row 
+Column 
+BCA 
+Current account 
+ 
+ 
+ 
+ 
+ 
+ 
+BGS 
+Goods and services 
+ 
+ 
+BG 
+Goods 
+ 
+ 
+BXG 
+Credit 
+c____ 
+row 
+BMG 
+Debit 
+row 
+c____ 
+BS 
+Services 
+ 
+ 
+BXS 
+Credit 
+c____ 
+row 
+BXSR 
+Maintenance and repair services n.i.e. 
+ctrad 
+row 
+BXSTR 
+Transport 
+ctran 
+row 
+BXSTV 
+Travel 
+chotl 
+row 
+BXSOCN 
+Construction services 
+ccons 
+row 
+BXSOIN 
+Insurance and pension services 
+cfsrv 
+row 
+BXSOFI 
+Financial services 
+cfsrv 
+row 
+BXSORL 
+Charges for the use of intellectual property n.i.e. 
+cbsrv 
+row 
+BXSOTCM 
+Telecommunication, computer, and information services 
+cbsrv 
+row 
+BXSOOB 
+Other business services 
+cbsrv 
+row 
+BXSOPCR 
+Personal, cultural, and recreational services 
+cosrv 
+row 
+BXSOGGS 
+Government goods and services n.i.e. 
+cpadm 
+row 
+BMS 
+Debit 
+row 
+c____ 
+BMSR 
+Maintenance and repair services n.i.e. 
+row 
+ctrad 
+BMSTR 
+Transport 
+row 
+ctran 
+BMSTV 
+Travel 
+row 
+chotl 
+BMSOCN 
+Construction services 
+row 
+ccons 
+BMSOIN 
+Insurance and pension services 
+row 
+cfsrv 
+BMSOFI 
+Financial services 
+row 
+cfsrv 
+BMSORL 
+Charges for the use of intellectual property n.i.e. 
+row 
+cbsrv 
+BMSOTCM 
+Telecommunication, computer, and information services 
+row 
+cbsrv 
+BMSOOB 
+Other business services 
+row 
+cbsrv 
+BMSOPCR 
+Personal, cultural, and recreational services 
+row 
+cosrv 
+BMSOGGS 
+Government goods and services n.i.e. 
+row 
+cpadm 
+ 
+ 
+ 
+ 
+BIP 
+Primary income 
+ 
+ 
+BXIP 
+Credit 
+ 
+ 
+BXIPCE 
+Compensation of employees 
+flab-__ 
+row 
+BXIPI 
+Investment income 
+fcap-_ 
+row 
+BXIPO 
+Other primary income 
+fcap-_ 
+row 
+BMIP 
+Debit 
+ 
+ 
+BMIPCE 
+Compensation of employees 
+row 
+flab-__ 
+BMIPI 
+Investment income 
+row 
+fcap-_ 
+BMIPO 
+Other primary income 
+row 
+fcap-_ 
+ 
+ 
+ 
+ 
+BIS 
+Secondary income 
+ 
+ 
+BXIS 
+Credit 
+ 
+ 
+BXISG 
+General government 
+gov 
+row 
+BXISO 
+Financial and nonfinancial corporations, households, and NPISHs 
+ 
+ 
+BXISOPT 
+Personal transfers 
+hhd-__ 
+row 
+BXISOOT 
+Other current transfers 
+ent 
+row 
+BMIS 
+Debit 
+ 
+ 
+BMISG 
+General government 
+row 
+gov 
+BMISO 
+Financial and nonfinancial corporations, households, and NPISHs 
+ 
+ 
+BMISOPT 
+Personal transfers 
+row 
+hhd-__ 
+BMISOOT 
+Other current transfers 
+row 
+ent 
+* Table 4 describes the Nexus SAM codes, and Table 1 describes the activities and commodities.

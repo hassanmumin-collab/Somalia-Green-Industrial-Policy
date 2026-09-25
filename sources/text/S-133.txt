@@ -1,0 +1,231 @@
+=== PAGE 1 ===
+## IFC SII record, project 33983
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[SponsorCostLocation.Sponsor] The Project will be led by Musim Mas Group (“MM” or the “Group”). MM is a fully integrated palm oil corporation with operations spanning the entire palm oil value chain from upstream palm oil plantations to midstream and downstream operations such as kernel crushing, refining and manufacturing of specialty fats, biodiesel, oleochemicals, soap, palm wax and fine chemicals. MM operates globally and has its corporate headquarters are in Singapore. MM is fully owned by the Karim family who are the founders of the Group. A new Joint Venture Project Company (“JV Co”) to be incorporated in Ethiopia and will be sponsored by MM and its local partner; Luxury and Popular Trading Plc. (an Ethiopian general trading and distributing company), with MM owning the larger stake. Another minority shareholder may be brought on board. IFC proposes to take a minority (<20%) equity stake in the JV Co.
+[SponsorCostLocation.Cost_Nature] The total project cost is estimated at US$7.5 million. The proposed IFC equity investment in the JV Co is c.US$1.2M on IFC’s account.
+[SponsorCostLocation.Location] The Project will be located in Oromiya State, Duukam Industrial Zone, Ethiopia.
+[DevelopmentImpact.Impact] 1. Add value to the Ethiopia economy by moving from import model to local soap production operation which provides direct and indirect employment to the local community and contributes to the government revenue
+2. Bring FDI into Ethiopia, thereby encouraging other foreign investments to the country
+3. Transfer of knowledge and know-how on soap-making
+4. Introduction of international standards in corporate governance including financial management
+5. Foster increased competition and quality in the Ethiopian soap industry through the addition of high-quality soap production facilities in Ethiopia
+[DevelopmentImpact.Role] 1. IFC additionality includes the following a) political risk mitigation; b) honest broker role between the client and the local partners; c) local market knowledge; and d) access to local financial markets through existing relationships with financial intermediaries
+2. This is the client''s first investment in Africa - if this works out and the client expands across Africa, IFC can leverage our presence and market knowledge across the continent
+3. IFC can add value by helping Musim Mas Group expand in other IDA countries outside Africa
+[RisksMitigation.SocialCategoryRationale] The proposed investment is expected to have limited environmental and social impacts which will be project site-specific with none anticipated to be significant. Further, the impacts can be avoided or mitigated by adhering to recognized performance standards, procedures, guidelines and design criteria as described in the following sections. Thus this is a Category B project in accordance with IFC’s Environmental and Social Sustainability Policy.
+[RisksMitigation.EnvSocialRisksImpact] Please refer to the related Environmental and Social Review Summary (ESRS) document for this project.
+[RisksMitigation.MitigationMeasures] Please refer to the Environmental and Social Action Plan (ESAP) tab in the related Environmental and Social Review Summary (ESRS) document for this project.
+[Psw.Facility[0].Key] IDA21-PSW BFF
+[Psw.Facility[1].Key] IDA21-PSW RMF
+[Psw.Facility[2].Key] IDA21-PSW LCF
+[Psw.Facility[3].Key] CCW-IDA21
+[Psw.Facility[4].Key] None
+[Psw.Total_Project_Cost] Not Available
+[Psw.Ifc_OA_Commitment] Not Available
+[Psw.Commercial_CoFinancing] Not Available
+[Psw.Dfi_CoFinancing] Not Available
+[ProjectName] MM Ethiopia Soap
+[CompanyName] MM Ethiopia JV
+[Department] Regional Industry - MAS Africa
+[Country] Ethiopia
+[Region] Africa
+[Industry] Manufacturing
+[Sector] Soap and Cleaning Compound (Soap, Detergent, etc.)
+[EnvironmentalCategory] B - Limited
+[Status] Completed
+[ProjectOverView.Project_Description] IFC is proposing an equity investment in a proposed Joint Venture Project (“Project”) to set-up a soap manufacturing operation in Addis Ababa, Ethiopia. The proposed Project initially involves importing palm oil based soap noodles produced by Musim Mas Group (“MM” or the “Group”) in Indonesia, value adding and packaging these soap noodles into soap bars in the proposed plant, to be sold in the Ethiopian market, with the possibility of exporting to neighboring countries.
+[ProjectOverView.Env_Soc_Inf] Key environmental and social issues applicable for this investment are: (i) EHS organizational structure and internal capacity to manage environmental and social issues in accordance with national legislative requirements and the Performance Standards; (ii) labor and working conditions during construction and operations including that related to occupational health and safety (OHS); (iii) management of sewage; and (iv) supply chain issues related to palm oil.
+[DocumentType] Summary of Investment Information (AIP Policy 2012)
+[ProjectType] Investment
+## IFC ESRS record, project 33983
+[RelevantProjects[0].Region] Africa
+[RelevantProjects[1].Region] Africa
+[RelevantProjects[2].Region] Africa
+[RelevantProjects[3].Region] Africa
+[RelevantProjects[4].Region] Africa
+[RelevantProjects[5].Region] Africa
+[RelevantProjects[6].Region] Africa
+[RelevantProjects[7].Region] Africa
+[RelevantProjects[8].Region] Africa
+[RelevantProjects[9].Region] Africa
+[RelevantProjects[10].Region] Africa
+[RelevantProjects[11].Region] Africa
+[RelevantProjects[12].Region] Africa
+[RelevantProjects[13].Region] Africa
+[RelevantProjects[14].Region] Africa
+[RelevantProjects[15].Region] Africa
+[RelevantProjects[16].Region] Africa
+[RelevantProjects[17].Region] Africa
+[RelevantProjects[18].Region] Africa
+[RelevantProjects[19].Region] Africa
+[RelevantProjects[20].Region] Africa
+[RelevantProjects[21].Region] Africa
+[RelevantProjects[22].Region] Africa
+[RelevantProjects[23].Region] Africa
+[RelevantProjects[24].Region] Africa
+[RelevantProjects[25].Region] Africa
+[RelevantProjects[26].Region] Africa
+[RelevantProjects[27].Region] Africa
+[RelevantProjects[28].Region] Africa
+[RelevantProjects[29].Region] Africa
+[RelevantProjects[30].Region] Africa
+[RelevantProjects[31].Region] Africa
+[RelevantProjects[32].Region] Africa
+[RelevantProjects[33].Region] Africa
+[RelevantProjects[34].Region] Africa
+[RelevantProjects[35].Region] Africa
+[RelevantProjects[36].Region] Africa
+[RelevantProjects[37].Region] Africa
+[RelevantProjects[38].Region] Africa
+[RelevantProjects[39].Region] Africa
+[RelevantProjects[40].Region] Africa
+[RelevantProjects[41].Region] Africa
+[RelevantProjects[42].Region] Africa
+[RelevantProjects[43].Region] Africa
+[RelevantProjects[44].Region] Africa
+[RelevantProjects[45].Region] Africa
+[RelevantProjects[46].Region] Africa
+[RelevantProjects[47].Region] Africa
+[RelevantProjects[48].Region] Africa
+[RelevantProjects[49].Region] Africa
+[RelevantProjects[50].Region] Africa
+[RelevantProjects[51].Region] Africa
+[RelevantProjects[52].Region] Africa
+[RelevantProjects[53].Region] Africa
+[RelevantProjects[54].Region] Africa
+[RelevantProjects[55].Region] Africa
+[RelevantProjects[56].Region] Africa
+[RelevantProjects[57].Region] Africa
+[RelevantProjects[58].Region] Africa
+[RelevantProjects[59].Region] Africa
+[RelevantProjects[60].Region] Africa
+[RelevantProjects[61].Region] Africa
+[RelevantProjects[62].Region] Africa
+[RelevantProjects[63].Region] Africa
+[RelevantProjects[64].Region] Africa
+[RelevantProjects[65].Region] Africa
+[RelevantProjects[66].Region] Africa
+[RelevantProjects[67].Region] Africa
+[RelevantProjects[68].Region] Africa
+[RelevantProjects[69].Region] Africa
+[RelevantProjects[70].Region] Africa
+[RelevantProjects[71].Region] Africa
+[RelevantProjects[72].Region] Africa
+[RelevantProjects[73].Region] Africa
+[RelevantProjects[74].Region] Africa
+[RelevantProjects[75].Region] Africa
+[RelevantProjects[76].Region] Africa
+[RelevantProjects[77].Region] Africa
+[RelevantProjects[78].Region] Africa
+[RelevantProjects[79].Region] Africa
+[RelevantProjects[80].Region] Africa
+[RelevantProjects[81].Region] Africa
+[RelevantProjects[82].Region] Africa
+[RelevantProjects[83].Region] Africa
+[RelevantProjects[84].Region] Africa
+[RelevantProjects[85].Region] Africa
+[RelevantProjects[86].Region] Africa
+[RelevantProjects[87].Region] Africa
+[RelevantProjects[88].Region] Africa
+[RelevantProjects[89].Region] Africa
+[RelevantProjects[90].Region] Africa
+[RelevantProjects[91].Region] Africa
+[RelevantProjects[92].Region] Africa
+[RelevantProjects[93].Region] Africa
+[RelevantProjects[94].Region] Africa
+[RelevantProjects[95].Region] Africa
+[RelevantProjects[96].Region] Africa
+[RelevantProjects[97].Region] Africa
+[RelevantProjects[98].Region] Africa
+[RelevantProjects[99].Region] Africa
+[RelevantProjects[100].Region] Africa
+[RelevantProjects[101].Region] Africa
+[RelevantProjects[102].Region] Africa
+[RelevantProjects[103].Region] Africa
+[RelevantProjects[104].Region] Africa
+[RelevantProjects[105].Region] Africa
+[RelevantProjects[106].Region] Africa
+[RelevantProjects[107].Region] Africa
+[RelevantProjects[108].Region] Africa
+[RelevantProjects[109].Region] Africa
+[RelevantProjects[110].Region] Africa
+[RelevantProjects[111].Region] Africa
+[RelevantProjects[112].Region] Africa
+[RelevantProjects[113].Region] Africa
+[RelevantProjects[114].Region] Africa
+[RelevantProjects[115].Region] Africa
+[RelevantProjects[116].Region] Africa
+[RelevantProjects[117].Region] Africa
+[RelevantProjects[118].Region] Africa
+[ESProjCategoryAndApplicableStandard.IAPS] While all Performance Standards are applicable to this investment, IFCs environmental and social due diligence indicates that the investment will have impacts which must be managed in a manner consistent with the following Performance Standards. If IFCs investment proceeds, IFC will periodically review the the project’s ongoing compliance with the Performance Standards
+PS 1 – Assessment and Management of Environmental and Social Risks and Impacts
+PS 2 - Labor and working conditions
+PS 3 - Resource Efficiency and Pollution Prevention
+If IFC’s investment proceeds, IFC will periodically review the the project’s ongoing compliance with the Performance Standards
+[ESProjCategoryAndApplicableStandard.ESCR] The proposed investment is expected to have limited environmental and social impacts which will be project site-specific with none anticipated to be significant. Further, the impacts can be avoided or mitigated by adhering to recognized performance standards, procedures, guidelines and design criteria as described in the following sections. Thus this is a Category B project in accordance with IFC’s Environmental and Social Sustainability Policy.
+Key environmental and social issues applicable for this investment are: (i) environment, health and safety (EHS) organizational structure and internal capacity to manage environmental and social issues in accordance with national legislative requirements and the Performance Standards; (ii) labor and working conditions during construction and operations including that related to occupational health and safety (OHS); (iii) management of sewage; and (iv) supply chain issues related to palm oil.
+The soap pressing and packaging plant will be constructed in a designated industrial area without proximity to any communities. In addition to this, finished soap will mostly be collected from the plant warehouse by individual retailers. Thus PS4 does not apply. PS 5: Land Acquisition and Involuntary Resettlement does not apply to the investment as the designated 1.5 ha site has not triggered involuntary resettlement and/or economic displacement and has been leased from the Government for 80 years. PS6: Biodiversity Conservation and Sustainable Natural Resources Management does not apply because no conversion of natural/critical habitats will take place. There is no presence of Indigenous People, PS7, and no Cultural Heritage, PS8, issues have been identified.
+[ESRisksOrImpactAndMitigation.PS1_AssessMgmtEnvSocialRisks] Policy: MM’s approach to sustainability is set out in its Sustainability Strategy which is based upon the eight Principles and Criteria developed by the Roundtable on Sustainable Palm Oil (RSPO). These Principles and Criteria include themes on environmental responsibility and conservation of natural resources and biodiversity, compliance with applicable laws and regulations, responsible consideration of employees etc. The Sustainability Strategy is supported by a series of standard operating procedures (SOPs) which set out minimum EHS requirements across all MM operations.
+Identification of Risks and Impacts: An environmental impact assessment (EIA) in accordance with the Ethiopian regulatory requirements has not been undertaken for the proposed soap pressing and packaging plant. While the project is not expected to generate any significant impacts, as stipulated in the ESAP, MM will engage a suitably qualified consultant, acceptable to IFC, to undertake an EIA prior to construction. The EIA should identify and tabulate potential risks and impacts associated with the project, and for each impact, develop a series of mitigation and/or recommendations to avoid, reduce and compensate for the impacts. This will be captured in an Environmental Management Plan (EMP) which will cover all phases of the project. Potential risks and impacts to be expected from the implementation and operation of the project include noise and dust emissions during construction, labor and working conditions during construction and operations including that related to OHS, waste management particularly related to sewage treatment.
+Management Programs: MM will implement mitigation measures identified during the EIA to be undertaken for the project to ensure impacts do not exceed those expected and identified within the EIA during all phases of the project. In addition to this, and as stipulated in the ESAP, the Group will design and implement an environmental, health and safety management system appropriate to the nature and scale of the soap processing and packaging plant and will include provisions for assessment and management of any expansions. The EHS management system will be based upon MM’s SOPs as far as possible, adapted to local Ethiopian environment and organization size, and will be aligned with IFC’s Performance Standards and the requirements of ISO 14 001 and OHSAS 18001.
+Organizational Capacity and Competency: Consistent with MM’s operations elsewhere, a committee responsible for Safety, Health and Environmental Quality (SHEQ) will be set up for the project to enforce the protocols and standards for SHEQ. The main tasks of this committee are to identify potential EHS and quality risks and ensure availability of equipment and tools to respond/address the identified risks. In addition to this, MM will appoint a technical representative to lead the development, implementation, and maintenance of the EHS management system referred to above. The EHS managem
+ent system will encompass the roles and responsibilities required to effectively implement the system and identify the need for senior management and staff training in order to fully execute the EHS, and it will include reporting to MM group level.
+MM will mostly be responsible for the design of the facilities in Ethiopia. The Group has a dedicated Project Management and Engineering team to service and partner with selected technology providers. Construction of buildings, boundary wall, water reticulation etc. will be done by a local construction contractor to be identified. MM will require the contractor to provide a detailed method statement identifying all the EHS risks associated with specific works and define all measures proposed to address such issues prior to commencement of works. The contractor will be required to develop an EHS plan and retain a copy of same for inspection by MM and their representatives for the duration of the contract. The contractor’s EHS plan will be developed taking into account the construction phase EMP to be developed as part of the EIA.
+Emergency preparedness and response: The safety design of the factory will be based on MM’s Fire Protection Framework, adapted to the local Ethiopian environment. MM’s Fire Protection Framework is based upon the US National Fire Protection Association (NFPA) fire protection standards. The Fire Protection Framework include the following elements: construction of plants using non-combustible material; site layout and spacing, isolating high hazard process/storage areas; isolation and containment of highly flammable goods/material; appropriate fire protection based on fire load; principles of early detection (smoke/heat detectors) and quick response and appropriate response (foam or gas for special types of fire) in high risk areas, per insurers recommendations/NFPA guidelines; rated/approved fire pumps; and adequate water storage for 2-hours firefighting, etc. MM will also comply with local standards for fire and safety. In addition the Group will establish plans and procedures to ensure that there will be appropriate and adequate response to any emergency incident. Subsequently, emergency drills to identify potential areas for improvement will be scheduled and conducted regularly. The drills will also be undertaken to ensure that all site personnel as well as relevant government organizations are conversant with the emergency preparedness and response procedures. Records of these drills will be kept.
+During construction the site will be fully fenced to prevent unauthorized access by the public. Unarmed security personnel will be outsourced through private security contractors and will be provided on a 24 hour basis.
+Monitoring and Review: Once developed and implemented, the effectiveness of the EHS system including procedures and programs, will be subject to continuous monitoring and review, in response to changing circumstances as well as internal practices. This wi
+ll include regular internal EHS inspections performed by the appointed technical staff; regular management operational review meetings; incident and accident reporting; physical monitoring (potable water quality and quantity, noise, and waste generation); and EHS legal compliance audits performed as appropriate by various government departments. The audit reports, incorporating corrective actions, if any, will be submitted to the SHEQ committee which will be responsible for implementation of all corrective actions.
+Stakeholder Engagement, External Communications and Grievance Mechanisms: The Duukam industrial area where the soap processing and packaging plant will be located is not in close proximity to any stakeholders, except other users of the industrial park.
+Supply chain: The Group has received the RSPO Grower Certification on all of its six palm oil plantations with 8 palm oil mills and is waiting for RSPO approval on another. The Group has also received the RSPO Supply Chain Certification in eight companies. In addition to this, MM operates an International Sustainability and Carbon Certification (ISCC) Palm Methyl Ester (PME) plant integrated with palm oil mills. ISCC covers topics such as reduction of Green House Gas (GHG) emissions, sustainable use of land, protection of natural biospheres and social sustainability. As such, MM’s facilities are regularly audited by independent professional auditors. The RSPO and ISCC certificates are considered proxy for Performance Standard 2 and Performance Standard 6 related supply chain requirements.
+[ESRisksOrImpactAndMitigation.PS2_LaborWorkConditions] Human Resources (HR) Policy and Management: As noted under the project description section above, during operations the project will have a staff compliment of about 100 employees. The majority of these employees will be local Ethiopians and will be full time employees. There are no plans to employ contract workers during operation phase. Depending on labor market conditions, should contract workers be employed, MM will apply the same HR policies for these workers.
+The Project will be governed by the Group’s Human Resources Policy and Procedures. The Policy and Procedures, which form part of MM’s Sustainability Strategy, commits the Group to ensure that its pay and working conditions for workers must always meet at least legal or industry minimum standards and are sufficient to provide a decent living wage. All employees are provided with written agreements/contracts which specify the working conditions (e.g., recruitment, training, remuneration, termination, hours of work, etc.) and benefits (e.g. medical, life and disability). MM is committed to a ‘zero’ tolerance stance against any forms of discrimination. The Group does not make use of forced or trafficked labor and does not employ child labor in its operations. All workers are free to form and join trade unions, as well as to bargain collectively.
+As stipulated in the ESAP, MM will develop an HR Policy and Procedure manual specific to its operations and taking into account all of the above and local labor rules and regulations. Subsequent to the development of the policy, MM will conduct training for its employees to raise awareness on the HR Policy and the grievance mechanism (its use and applicability). In addition to this, MM will include contractual provisions for contractors to comply with Performance Standard 2 in applicable contracts, particularly during the construction phase, for the Project. Thereafter, MM will develop and implement a procedure to ensure contractor labor and working conditions (inclusive of health and safety) comply with Performance Standard 2.
+Occupational Health and Safety (OHS): Potential OHS risks related to the soap processing and packaging operations mainly include those related to slipping on floors and minor cuts. However, these are limited and usually minor because the plants are almost fully automated. MM has a well-established safety policy framework contained within the Sustainability Strategy. The Group strives to foster a workplace culture that is sensitive to safety. This is achieved by conducting regular training and drills, and instilling adequate use of Personal Protective Equipment (PPE) such as gloves, helmets, boots, masks and safety clothing. The plant will also be supplied with first aid kits for which training will be provided. All of MM’s factories are equipped with early warning and firefighting systems regular training is conducted. These principles will be applied at the operations in Ethiopia. MM reported a limited number of
+minor injuries related to cuts based on its bigger operation in Indonesia.
+MM, as far as possible within local Ethiopian practices and through contractor agreements, will ensure that comprehensive procedures for workplace OHS conditions are implemented and meet both Ethiopian requirements and MM’s standards during the construction phase. OHS aspects will be mainstreamed into the plant’s operations through employee induction and training program and assigning responsibilities as appropriate.
+[ESRisksOrImpactAndMitigation.PS3_ResEffPollutionPrev] Resource efficiency: The Project will be connected to the national grid and will use about 450 kWh for the two unit finishing line, warehouse and office. Two emergency back-up generators will also be installed and used only in case of power outages. The soap machine (plodder) to be installed will use variable frequency drives which will consume electricity more efficiently. The drives are essentially electronic motor controllers that can adjust the frequency and voltage of power supply in line with process requirements.
+Water for the Project will be sourced from a borehole to be sited within the facility. The estimated water consumption is 310 m3 per month. The water will mainly be used in the plant for service and firefighting purposes and for potable use. As stipulated in the ESAP, the project will implement a water quality monitoring program for potable water and ensure that it meets the WHO drinking water quality standards. MM will also install flow meters, as appropriate, in different areas on site to monitor water usage.
+Pollution prevention: Potential pollution issues during the construction phase include waste management and use of chemicals, and nuisance impacts (e.g. noise, dust and air emissions from construction equipment) on sparse existing tenants in adjacent buildings. However, these issues are expected to be minor and will be limited to the immediate vicinity of the project area. Despite this, MM will ensure that the EHS plan, especially sections covering waste management under contractor obligations, chemicals, materials and products requiring special care are fully implemented during the construction phase.
+Limited amounts of waste will be produced during the operational phase of the Project. This includes solid waste such as paper and packaging material, and liquid waste, which is mainly sewage and limited amounts of storm-water runoff. Solid waste will be collected on a regular basis by the municipal services and disposed at a designated landfill site. Given that there is no municipal sewerage system MM will identify and install an appropriate sewage treatment facility which will be operated to meet the WBG EHS Guidelines for discharge of wastewater. This requirement is stipulated in the ESAP.
+Except for diesel fuel, there will be no hazardous material and/or waste that would be used and/or generated from the project implementation. The diesel fuel will be stored in a dedicated storage tank. The storage tank, which will be fitted with secondary containment, will be installed according the MM’s standard operating procedure for constructing fuel tanks.
+[StakeHolderOrEngagements.StakeHolderEngagement] The Duukam industrial area where the soap processing and packaging plant will be located is not in close proximity to any stakeholders, except other users of the industrial park.
+[StakeHolderOrEngagements.LAPD] Inquiries and comments about the project can be made through the contact details provided below.
+Contact: Ataklti Yihdego
+Address: PO box 11176 Addis Ababa, Ethiopia
+Email: mailto:luxurypopular@ethionet.et
+Tel: +251 - 115508902
+Contact: Hadi Sofian
+Address: 150 Beach Road, Gateway West, Singapore #16-01
+Email: mailto:hadi@icofgroup.com
+[EAndSActionPlan] Title Anticipated completion Date
+Engage a suitably qualified consultant, acceptable to IFC, to undertake an Environmental Impact Assessment (EIA) for the Project in compliance with national regulations and IFC’s Performance Standards and incorporate the mitigation measures, as appropriate, into the design, implementation and operation of the soap processing and packaging plant. The EIA is to include an Environmental Management Plan for the construction phase. 12/31/2014
+Design and implement an environmental, health and safety (EHS) management system appropriate to the nature and scale of the soap processing and packaging plant consistent with the Group’s Standard Operating Procedures and IFC Performance Standard 1 requirements. This should define roles and responsibilities, and other necessary elements (manual procedures) to enable the project and operations in Ethiopia to comply with applicable national laws and regulations, IFC Performance Standards and the applicable Word Bank Group EHS Guidelines. The system will include mechanisms for the EHS representative to report monthly EHS monitoring results to the Safety, Health and Environmental Quality committee which will need to sign off on the reports. 12/31/2015
+Designate an individual to be responsible for the development and implementation of the EHS system defined above. 12/31/2015
+Develop and submit a Human Resources Policy and Procedure manual specific to the Ethiopian Project and compliant with IFC Performance Standard 2. Subsequent to the development of the Policy: Conduct training for employees to raise awareness on the HR Policy and the grievance mechanism (its use and applicability). 12/31/2014
+Include contractual provisions for contractors to comply with Performance Standard 2 in applicable contracts for the Project to the extent practicable in Ethiopia. 09/30/2014
+Ensure that a comprehensive environment, health and safety plan (incorporating procedures, work instructions etc.) appropriate for the project, (including an indication of how compliance is to be ensured), is included in the final construction contract. Develop and implement a procedure to ensure contractor labor and working conditions (inclusive of health and safety) comply with Performance Standard 2. This procedure is to identify roles and responsibilities for monitoring contractor performance. 09/30/2014
+Implement a water quality monitoring program for the project and ensure that potable water meets the nationally legislated drinking water standards and WHO Guidelines for Drinking Water Quality. 12/31/2015
+Commission a suitably qualified engineering consultancy firm to identify, design and construct an appropriate sewage treatment facility that will comply with the requirements of the WBG EHS Guidelines for discharge of wastewater. 12/31/2014
+[ProjectName] MM Ethiopia Soap
+[CompanyName] MM Ethiopia JV
+[Department] Regional Industry - MAS Africa
+[Country] Ethiopia
+[Region] Africa
+[Industry] Manufacturing
+[Sector] Soap and Cleaning Compound (Soap, Detergent, etc.)
+[EnvironmentalCategory] B - Limited
+[Status] Completed
+[ProjectOverView.Project_Description] IFC is proposing an equity investment in a proposed Joint Venture Project (“Project”) to set-up a soap manufacturing operation in Addis Ababa, Ethiopia.
+The Project will be led by Musim Mas Group (“MM” or the “Group”). MM is a privately owned, fully integrated palm oil corporation with operations spanning the entire palm oil value chain from upstream palm oil plantations to midstream and downstream operations such as kernel crushing, refining and manufacturing of specialty fats, biodiesel, oleochemicals, soap, palm wax and fine chemicals. MM operates globally and has its corporate headquarters in Singapore. MM markets its palm products to more than 80 countries. MM started as a soap manufacturing company and has been in the soap business for 70 years and in Ethiopia for the last 7 years. Currently MM sells multi-purpose soap to Ethiopia under the Popular brand name.
+The proposed Project initially involves importing palm oil based soap noodles produced by MM in Indonesia, value adding and packaging these soap noodles into soap bars in the proposed plant, to be sold in the Ethiopian market, and possibly to be exported to neighboring countries. The initial plan would be to tap on and expand the “Popular” soap brand’s existing market share before exploring diversification in other soap products and segments. MM is partnering with Luxury & Popular Trading Plc (LPT), a local Ethiopian general trading and distributing company. LPT has been distributing MM’s “Popular” soap in Ethiopia since MM started selling in Ethiopia 7 years ago and is well-placed as a local partner for the Project. In this partnership, MM will apply its technical knowhow, branding, supply integration and quality raw materials (soap noodles), while LPT will manage the sales and distribution network, and provide local knowledge.
+The project plant will be constructed at a designated 1.5 ha plot. Construction is expected to take about 18 months. Land concession rights have been issued to LPT by the Government for occupation of the land for 80 years.
+The plant will include ancillary facilities such as separate warehouses for raw materials (including packaging material) and packaged soap, office block and ablutions. The Project involves transforming the pre-formulated soap noodles into bar soap which will involve mixing; passing through a series of refiners; extruding into bars; cut to convenient lengths and then stamped into shape. There is minimal waste or byproducts from this process. The pressed bars are then packaged and distributed. At full production, the project will have a staff compliment of about 100 employees. The majority of these employees will be local Ethiopians.
+[ProjectOverView.Review_Scope] IFC’s Environmental and Social Due Diligence (ESDD) of this project consisted meetings in Addis Ababa, Ethiopia, with representatives of MM and LPT. It also included a visit to the 1.5 ha project site in the Duukam industrial area, located in the Oromiya region about 29 km south-east from Addis Ababa, and the LPT warehouses in Addis Ababa. While at the project site the IFC team met with Engineers from the Oromiya region planning division who advised on impact assessment requirements for the project. In addition to the site visits and meetings, IFC reviewed MM’s Sustainability Strategy and associated policy documents which were summarized in English, and the Group’s Sustainability Journal dated January 2013.
+IFC’s appraisal considered environmental and social management plans for the project and gaps if any between these plans and IFC requirements. Where necessary, corrective measures intended to close these gaps within a reasonable period of time are summarized in the paragraphs that follow and (if applicable) in the agreed Environmental and Social Action Plan (ESAP). Through implementation of these management plans and the ESAP the Project is expected to be designed and operated in accordance with Performance Standards objectives.
+[DocumentType] Environmental Documents
+[ProjectType] Investment
+[BCS] Broad Community Support is not applicable for this project

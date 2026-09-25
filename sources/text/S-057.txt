@@ -1,0 +1,6496 @@
+=== PAGE 1 ===
+Quarterly 
+Economic 
+Review
+(2026Q1)
+Volume No.: 21  
+January-March 2026
+=== PAGE 2 ===
+Economic, Monetary, and Financial Analysis Division
+CENTRAL BANK OF SOMALIA
+January-March 2026
+Quarterly Economic Review (2026Q1)
+info@centralbank.gov.so
+www.centralbank.gov.so
+@CBSsomalia
+Central Bank of Somalia
+©2026
+In the case of quotation, please refer to this Publication 
+as follow: -
+Central Bank of Somalia (CBS) Quarterly Economic 
+Review (2026Q1):
+Mogadishu – Somalia
+To request a complimentary copy of this report, an 
+electronic copy is available at www.centralbank.gov.so
+55 Corso Somalia
+P. O. Box 11
+Mogadishu, Somalia
++ (252) 1866131
++ (252) 1866151
++ (252) 1866152
+Fax: +2521241152
+Monetary Financial and Regulatory Policy Group
+Research & Statistics Department
+=== PAGE 3 ===
+FIRST QUARTER REPORT | 2026
+i
+Central Bank of Somalia
+List of Acronyms
+ACH
+Automated Clearing House
+AEs
+Advanced Economies
+AML/CFT
+Anti-Money Laundering and Counter Financing of Terrorism
+CAR
+Capital Adequacy Ratio
+CBS
+Central Bank of Somalia
+CPI
+Consumer Price Index
+EMDEs
+Emerging Markets and Developing Economies
+FAO
+Food And Agriculture Organization
+FGS
+Federal Government of Somalia
+FMS
+Federal Member States
+FSNAU
+Food Security and Nutrition Analysis Unit
+G20
+Group of Twenty
+G7
+Group of Seven
+GDP
+Gross Domestic Product
+ICT
+Information Communication Technology 
+IMF
+International Monetary Fund
+ISMS
+Information Security Management System 
+LCR
+Liquidity Coverage Ratio 
+LIDCs
+Low-Income Developing Countries
+MoF
+Ministry of Finance
+MTB
+Money Transfer Businesses
+NGO
+Non-Governmental Organization
+NPS
+National Payment System
+OECD
+Organization For Economic Co-Operation and Development
+PAPSS
+Pan-African Payment and Settlement System
+RTGS
+Real-Time Gross Settlement
+SIPS
+Somalia Instant Payment System 
+SNBS
+Somali National Bureau of Statistics
+SOS
+Somali Shilling
+SSA
+Sub-Saharan Africa
+SWIFT
+Society for Worldwide Interbank Financial Telecommunication
+TT
+Telegraphic Transfers
+UAE
+United Arab Emirates
+UNCTAD
+United Nations Conference on Trade and Development
+WEO
+World Economic Outlook
+YTD
+Year To Date
+=== PAGE 4 ===
+FIRST QUARTER REPORT | 2026
+ii
+Central Bank of Somalia
+Table of Contents
+List of Acronyms	
+i
+Executive Summary	
+iv
+Soo Koobid Guud	
+1
+Dhaqaalaha Adduunka	
+1
+Dhaqaalaha Gudaha	
+1
+Ganacsiga Dibadda	
+1
+Miisaaniyadda Dowladda	
+2
+Hay’adaha Maaliyadda	
+2
+World Economy	
+3
+1.1	
+Global Trade	
+5
+1.2 
+Global Inflation
+5
+1.3 
+Global Financial Stability 
+6
+1.4 
+Implications for the Domestic Economy 
+7
+Domestic Economy	
+8
+2.1 
+Livestock Exports 
+9
+2.2 
+Domestic Inflation
+10
+2.3 
+Exchange Rate Developments 
+10
+Trade Analysis 	
+12
+3.1 
+Trade Analysis 2026Q1 
+12
+3.2 
+Analysis of Imports in the First Quarter of 2026 
+13
+3.3 
+Domestic Exports for the First Quarter of the Year, 2026 
+16
+Public Finance Development	
+18
+4.1 
+FGS Revenue and Grants 
+19
+4.2 
+FGS Expenditure Performance 
+19
+4.3 
+Comparison of Quarterly Fiscal Performance 
+20
+4.4 
+Federal Member States 
+22
+Financial Sector Development 
+25
+5.1 
+Commercial Banks 
+26
+5.2 
+Remittances 
+30
+5.3 
+National Payment System 
+32
+Statistical Appendices	
+34
+APPENDIX I. FINANCIAL SECTOR STATISTICS 
+35
+APPENDIX II. EXTERNAL SECTOR STATISTICS 
+38
+APPENDIX III. GOVERNMENT SECTOR STATISTICS 
+44
+APPENDIX IV. REAL SECTOR STATISTICS 
+45
+=== PAGE 5 ===
+FIRST QUARTER REPORT | 2026
+iii
+Central Bank of Somalia
+List of Tables
+Table 1: Quarterly Real GDP Growth (Percentage Change), Seasonally Adjusted Data 2024Q1-2026Q1 
+4
+Table 2: Total Heads of Livestock Export (2025Q1 - 2026Q1) 
+10
+Table 3: Quarterly Exchange Rate (2022Q1-2026Q1)
+11
+Table 4: Percentage Share of Imported Categories in the First Quarter of 2026 (In Millions of US Dollars) 
+14
+Table 5: Comparison Between Imports of 2025Q1 & 2026Q1 (In Millions of US Dollars) 
+15
+Table 6: Percentage Shares of the Leading Export Items in the First Quarter, 2026 (In Millions of US Dollars) 
+16
+Table 7: Comparison Between Exports of 2025Q1 and 2026Q1 (In Millions of US Dollars) 
+16
+Table 8: The Actual Budget of the 1st Quarter of FGS Operations for the Fiscal Year 2026 (In Millions of US Dollars) 
+18
+Table 9: Comparison of Quarterly Fiscal Performance (2021Q1-2026Q1) 
+21
+Table 10: Comparison of FMS Quarterly Fiscal Performance (2026Q1) in Million US Dollars 
+24
+Table 11: Consolidated Balance Sheet for Commercial Banks in Millions of US Dollars (2024Q1-2026Q1) 
+26
+Table 12: Remittance Inflow in Millions of US Dollars (2023Q1-2026Q1) 
+30
+Table 13: National Payment System Transactions and Values (2024Q1-2026Q1) 
+33
+ 
+3
+Figure 2: Global Trade Growth (Percentage Change) 2025-2027 
+5
+Figure 3: Global Inflation Rate (Percentage Change) 2025-2027 
+6
+Figure 4: Growth Rate 2020-2026 
+8
+Figure 5: Total Value of Livestock Export 2023Q1-2026Q1 
+9
+Figure 6: Quarterly Average Trends in Domestic Inflation (%), 2024Q1-2026Q1 
+10
+Figure 7: Quarterly Exchange Rate Movements: Appreciation (-) / Depreciation (+) (2022Q1-2026Q1)  
+11
+Figure 8: Quarterly Trade Trends: Exports, Imports, and Trade Balance (2021Q1-2026Q1) 
+12
+Figure 9: Composition of Somalia’s Merchandise Imports by Major Commodity Groups, 2026Q1 (Percent of Total 
+ Imports) 
+13
+Figure 10: Quarterly Trends in Major Merchandise Import Categories, 2025Q1–2026Q1 
+15
+Figure 11: Comparison Between Exports of 2025Q1 & 2026Q1 
+17
+Figure 12: The Performance of Government Fiscal Receipts in the First Quarter of the Fiscal Year 2026 
+19
+Figure 13: The Performance of Government Fiscal Spending in the First Quarter of 2026 
+20
+Figure 14: Revenue and Grants (2025Q1 & 2026Q1) 
+21
+Figure 15: Quarterly FGS Fiscal Spending (2021Q1-2026Q1) 
+22
+Figure 16: Summary of Federal Member States Revenues and Grants 2026Q1 
+22
+Figure 17: Summary of Federal Member States Expenditure 2026Q1 
+23
+Figure 18: Consolidated Commercial Banks Data (Assets) (2024Q1-2026Q1) 
+27
+Figure 19: Consolidated Commercial Banks Data (Liabilities) (2024Q1-2026Q1) 
+28
+Figure 20: Commercial Banks’ Capital Adequacy Performance 
+28
+Figure 21: Core Capital Strength of the Banking Sector 
+29
+Figure 22: Liquidity Position of Commercial Banks 
+29
+Figure 23: Total Inward Transfers (2024Q1-2026Q1) 
+31
+Figure 24: Remittance Inflow by Source and Channel in 2026Q1 
+32
+Figure 25: National Payment System (2024Q1-2026Q1) 
+33
+=== PAGE 6 ===
+FIRST QUARTER REPORT | 2026
+iv
+Central Bank of Somalia
+Executive Summary
+The global economy demonstrated continued resilience in the first quarter of 2026, although 
+momentum was tempered by the outbreak of conflict in the Middle East, which introduced new 
+headwinds through higher commodity prices, firmer inflation expectations, and tighter financial 
+conditions. Global growth is estimated at 3.4 percent in 2025 and is projected to slow to 3.1 
+percent in 2026, before recovering modestly to 3.2 percent in 2027. Global headline inflation 
+is projected to rise from 4.1 percent in 2025 to 4.4 percent in 2026, driven primarily by higher 
+energy and food prices associated with disruptions in the Strait of Hormuz.
+Somalia’s economy entered 2026 on a weaker footing than in previous years. Real GDP growth 
+moderated from 4.0 percent in 2024 to an estimated 3.1 percent in 2025 and is projected to slow 
+further to 2.6 percent in 2026. The first quarter of 2026 was characterised by an intensifying 
+drought, a sharp external energy price shock, and continued retrenchment of foreign aid. 
+Headline inflation is projected to increase to 5.9 percent in 2026, from 3.7 percent in 2025, 
+as fuel prices more than doubled following the Middle East conflict, generating broad-based 
+cost-push pressures across transport, food, and utilities. The Somali shilling depreciated by 
+1.2 percent during the quarter, with the average exchange rate reaching SOS 31,956 per US 
+dollar. Private consumption, underpinned by remittance inflows, remained the principal driver 
+of domestic demand.
+Somalia’s merchandise trade deficit widened further in 2026Q1. Total merchandise imports 
+increased by 16 percent year-on-year to US$2,478.74 million, driven by higher demand for 
+construction materials, clothing and footwear, medical products, and oil and gas. Total exports 
+increased by 20 percent to US$345 million, supported by stronger livestock, animal skins, 
+and fishery exports. Livestock remained the dominant export commodity, accounting for 75 
+percent of total merchandise exports at US$258 million. Notwithstanding improved export 
+performance, the trade deficit widened to US$2,134 million from US$1,844 million in 2025Q1, 
+reflecting continued structural dependence on imported goods and a narrow export base. 
+Fiscal performance in the first quarter of 2026 reflected continued progress in domestic revenue 
+mobilisation alongside weaker external grant inflows. Total government revenue and grants 
+reached US$154 million, representing 12 percent execution of the annual budget, while total 
+expenditure amounted to US$171 million, resulting in a financing gap of US$17 million. Domestic 
+revenue increased by 7 percent year-on-year to US$101 million, driven by improvements in tax 
+administration and compliance. External grants declined by 18 percent to US$53 million, as 
+bilateral disbursements fell to zero and multilateral inflows moderated. Capital expenditure 
+remained low at US$7 million, equivalent to 3 percent of the approved annual capital budget, 
+reflecting persistent implementation constraints.
+Somalia’s financial sector continued to expand and strengthen in the first quarter of 2026, 
+supported by regulatory reforms led by the CBS. Total banking sector assets increased to 
+US$2,352 million, representing quarterly growth of 2 percent and annual growth of 16 percent. 
+The sector maintained sound prudential indicators, with capital adequacy and liquidity ratios 
+comfortably exceeding regulatory minimums. Inward remittance transfers amounted to US$1,588 
+million during the quarter. The national payment system processed 337,788 transactions 
+with a combined value of US$593 million, reflecting broader adoption of electronic payment 
+infrastructure and continued deepening of financial intermediation.
+=== PAGE 7 ===
+FIRST QUARTER REPORT | 2026
+1
+Central Bank of Somalia
+Soo Koobid Guud
+Dhaqaalaha Adduunka
+Dhaqaalaha caalamka ayaa muujiyey adkaysi rubucii koowaad ee 2026, inkasta oo koboca 
+dhaqaalaha uu yaraaday kadib markii uu qarxay dagaalka Bariga Dhexe, kaas oo sababay 
+caqabado cusub oo ka dhashay kororka qiimaha badeecadaha muhiimka ah iyo filashada 
+kor u kaca sicir-bararka. Koboca dhaqaalaha adduunka waxaa lagu qiyaasayaa inuu noqday 
+3.4 boqolkiiba sannadka 2025, waxaana la filayaa inuu hoos ugu dhaco 3.1 boqolkiiba 
+sannadka 2026, waxaa sidoo kale la filayaa inuu soo kabto sanadka soo socda ee 2027, 
+oo uu gaaro 3.2 boqolkiiba. Sicir-bararka guud ee caalamka ayaa la saadaalinayaa inuu kor 
+u kaco uu gaaro 4.4 boqolkiiba halkii uu ka ahaa 4.1 boqolkiiba sanadkii hore ee 2025ka,
+taas oo inta badan ay sabab u yihiin kororka qiimaha shidaalka iyo cuntada ee ka dhashay
+carqaladaha ka jira marin-biyoodka Hormuz.
+Dhaqaalaha Gudaha
+Kobaca wax-soo-saarka gudaha (GDP) ayaa hoos uga dhacay 4.0 boqolkiiba sannadka 
+2024 una dhacay qiyaastii 3.1 boqolkiiba sannadka 2025, waxaana la filayaa inuu sii 
+yaraado oo uu gaaro 2.6 boqolkiiba dhamaadka sannadka 2026. Hoos u dhaca korarka 
+dhaqaalaha gudaha waxaa sabab u ahaa abaaraha sii xoogaysanaya, iyo sii 
+yaraanshaha taageerada dhaqaale ee dibadda uga timaadda Soomaaliya.
+Sicir-bararka guud ee Soomaaliya ayaa la filayaa inuu gaaro 5.9 boqolkiiba sannadka 2026, 
+marka loo eego 3.7 boqolkiiba sannadka 2025, iyadoo sababta ugu weyn ay tahay qiimaha 
+shidaalka oo in ka badan laba jibbaarmay kadib colaadda Bariga Dhexe. Kororkaasi wuxuu 
+sababay cadaadis saameeyey gaadiidka, cuntada, iyo adeegyada muhiimka ah. Shilinka 
+Soomaaliga ayaa rubucii koowaad qiimo-dhac ku yimid 1.2 boqolkiiba ah, iyadoo celceliska 
+sarifka lacagtu gaaray 31,956 shilin Soomaali halkii doollar ee Maraykan ah. 
+Ganacsiga Dibadda
+Wadarta badeecadaha la soo dejiyey waxay korortay 16 boqolkiiba marka loo eego isla 
+muddadii sannadkii hore, iyadoo gaartay US$2,478.74 milyan oo doolarka Maraykanka ah. 
+Kororkan waxaa sababay baahida sii kordhaysa ee qalabka dhismaha, dharka iyo kabaha, 
+dawooyinka, iyo shidaalka iyo gaaska.
+Dhoofinta Soomaaliya waxay korortay 20 boqolkiiba, iyadoo gaartay US$345 milyan, taas oo 
+ay sababtay koboca dhoofinta xoolaha nool, hargaha iyo maqaarka, iyo kalluunka. Xoolaha 
+nool ayaa weli ahaa badeecadda ugu badan ee la dhoofiyo, iyadoo ahayd 75 boqolkiiba 
+wadarta dhoofinta badeecadaha, una dhiganta US$258 milyan.
+=== PAGE 8 ===
+FIRST QUARTER REPORT | 2026
+2
+Central Bank of Somalia
+Miisaaniyadda Dowladda
+Dakhliga guud ee dowladda ayaa gaaray US$154 milyan, taas oo ka dhigan 12 boqolkiiba fulinta 
+miisaaniyadda sannadlaha ah. Kharashaadka dowladda ayaa gaaray US$171 milyan, taasoo dhalisay 
+farqi maaliyadeed oo dhan US$17 milyan.
+Dakhliga gudaha ayaa kordhay 7 boqolkiiba marka loo eego sannadkii hore, isagoo gaaray US$101 
+milyan, taas oo ay keeneen horumaro laga sameeyey maamulka canshuuraha iyo u hoggaansanaanta 
+bixinta canshuuraha. Deeqaha dibadda ayaa hoos u dhacay 18 boqolkiiba, iyagoo gaaray US$53 milyan.
+Hay’adaha Maaliyadda
+Hantida guud ee bangiyada ayaa gaartay US$2,352 milyan, taas oo ka dhigan koboc 2 boqolkiiba ah 
+marka loo eego rubucii hore iyo 16 boqolkiiba marka loo eego sannadkii hore isla rubacan oo kale. 
+wadarta guud ee daymaha bankiyada ayaa iyadana kor u kacday waxayna gaartay US$2,030 milyan 
+rubucii koowaad ee 2026, marka loo eego US$1,976 milyan rubucii hore iyo US$1,710 milyan rubucii 
+koowaad ee 2025.
+Lacagaha xawaaladaha ee gudaha dalka soo galay waxay rubucan gaareen US$1,588 milyan. Nidaamka 
+lacag-bixinta qaranka ayaa fududeeyay 337,788 macaamil ganacsi oo wadarta qiimahoodu ahayd 
+US$593 milyan, taas oo muujinaysa in isticmaalka lacag-bixinta elektaroonigga ah uu sii fidayo.
+=== PAGE 9 ===
+FIRST QUARTER REPORT | 2026
+3
+Central Bank of Somalia
+World Economy1
+A
+ccording to the IMF’s April 2026 World 
+Economic Outlook, global economy faces 
+a major new challenge following the 
+outbreak of war in the Middle East. Although 
+recent economic growth has been supported by 
+technology investment, easier financial conditions, 
+and policy support, the conflict threatens these 
+gains by increasing energy prices, inflation, and 
+financial uncertainty. The IMF’s reference forecast 
+assumes the conflict will be limited and disruptions 
+will ease by mid-2026. Under this assumption, 
+global economic growth is projected to slow 
+downward to 3.1 percent in 2026 (a downward 
+revision of 0.2 percentage points from the January 
+2026 forecast) and recover slightly to 3.2 percent 
+in 2027, remaining below the historical average of 
+3.7 percent. Global inflation is expected to increase 
+upward to 4.4 percent in 2026 before declining to 
+3.7 percent in 2027. Without the conflict, global 
+growth would have been revised upward to 3.4 
+percent in 2026, showing that the war is the main 
+reason for the lower growth forecast.
+The report emphasizes that the effects of the war 
+will not be evenly distributed. Emerging markets 
+and developing economies, especially those 
+that rely on imported energy are already facing 
+economic weaknesses, and expected to suffer 
+the most. If the conflict lasts longer or damages 
+energy infrastructure, global growth could fall 
+further to 2–2.5 percent, while inflation could rise 
+above 5–6 percent, creating severe economic 
+challenges worldwide.
+Figure 1: Global Real GDP Growth (Percentage Change) 2025-2027 
+Source: IMF WEO April 2026
+3.4
+1.9
+4.4
+3.1
+1.8
+3.9
+3.2
+1.7
+4.2
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+World
+Advanced Economies
+Emerging Market and Developing
+Economies
+2025
+2026
+2027
+=== PAGE 10 ===
+FIRST QUARTER REPORT | 2026
+4
+Central Bank of Somalia
+Growth in Advanced Economies (AEs) is estimated 
+at about 1.9 percent in 2025 and is projected to 
+ease to around 1.8 percent in 2026, before modestly 
+declining to 1.7 percent in 2027. The outlook for 
+advanced economies remains broadly unchanged 
+from January 2026 WEO, as the direct impact 
+of the Middle East shock is partly offset by the 
+resilience of services activity, AI-driven investment, 
+and gradually easier monetary conditions. On the 
+other hand, in Emerging Markets and Developing 
+Economies (EMDEs), growth is estimated at around 
+4.4 percent in 2025 and projected to moderate to 
+about 3.9 percent in 2026, before recovering to 
+4.2 percent in 2027, mainly reflects the impact of 
+higher energy and food prices, foreign exchange 
+depreciation pressures, and the deterioration in 
+external financing conditions for commodity-
+importing economies.
+Growth in Sub-Saharan Africa is estimated at about 
+4.5 percent in 2025, the fastest pace in a decade, 
+reflecting hard-won stabilization gains. Regional 
+growth is, however, projected to ease to 4.3 percent 
+in 2026, before recovering to 4.4 percent in 2027. 
+The downgrade reflects the impact of higher oil, 
+gas, and fertilizer prices, disrupted trade with Gulf 
+partners, lower tourist arrivals, and weaker remittance 
+prospects. Inflation pressures have re-emerged in 
+the region, with median inflation projected to rise 
+from 3.4 percent in 2025 to 5.0 percent in 2026. 
+According to the Organization for Economic Co-
+operation and Development, economic activities 
+across its member countries in the first quarter 
+of 2026 showed moderate momentum. Real GDP 
+growth in the OECD area increased to about 0.4 
+percent in the 2026Q1, up from 0.2 percent in the 
+fourth quarter of 2025, supported by a rebound in 
+the United States and the United Kingdom. In the 
+first quarter of 2026, GDP growth in major European 
+economies showed mixed performance. The Euro 
+Area recorded growth of around 0.1 percent, slightly 
+below the 0.2 percent observed in 2025Q4, while 
+growth in the European Union eased marginally 
+to 0.2 percent compared with the previous 
+quarter. Germany expanded by 0.3 percent, 
+while France recorded no growth as private 
+consumption, 
+investment, 
+and 
+exports 
+contracted. In the first quarter of 2026, GDP in 
+the 
+G7 
+economies 
+registered 
+a 
+moderate 
+expansion of 0.4 percent, up from 0.2 percent in 
+the fourth quarter of 2025. Performance across 
+the group was uneven: the United Kingdom (0.6 
+percent), the United States and Japan (0.5 
+percent each), Canada (0.4 percent), and Italy 
+(0.2 percent). The acceleration in the United 
+Kingdom mainly reflected stronger private and 
+government consumption, while in the United 
+States, a rebound in government consumption 
+and 
+exports, 
+alongside 
+higher 
+investment, 
+supported activity.
+Source: G20 and OECD GDP Growth Quarterly Report 2026Q1
+2024
+2025
+2026
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+OECD Area  
+0.4
+0.5
+0.6
+0.4
+0.3
+0.6
+0.6
+0.2
+0.4
+G20 
+0.8
+0.8
+0.9
+0.9
+0.7
+0.9
+0.9
+0.7
+European Union 
+0.4
+0.3
+0.4
+0.5
+0.5
+0.3
+0.4
+0.2
+0.2
+Euro area 
+0.3
+0.2
+0.4
+0.4
+0.6
+0.1
+0.3
+0.2
+0.1
+G7  
+0.2
+0.5
+0.6
+0.4
+0.1
+0.5
+0.6
+0.2
+0.4
+  Canada 
+0.7
+0.8
+0.6
+0.7
+0.5
+-0.2
+0.6
+-0.2
+0.4
+  France 
+0.2
+0.2
+0.3
+-0.1
+0.2
+0.4
+0.6
+0.2
+0.0
+  Germany 
+-0.1
+-0.3
+0.0
+0.2
+0.4
+-0.2
+0.0
+0.2
+0.3
+  Italy 
+0.1
+0.2
+0.0
+0.1
+0.3
+0.0
+0.2
+0.3
+0.2
+  Japan 
+-0.3
+0.0
+0.7
+0.4
+0.4
+0.3
+-0.6
+0.2
+0.5
+  United Kingdom 
+0.7
+0.6
+0.2
+0.4
+0.6
+0.1
+0.2
+0.2
+0.6
+  United States 
+0.2
+0.9
+0.8
+0.5
+-0.2
+0.9
+1.1
+0.1
+0.5
+Table 1: Quarterly Real GDP Growth (Percentage Change), Seasonally Adjusted Data 2024Q1-2026Q1
+=== PAGE 11 ===
+FIRST QUARTER REPORT | 2026
+5
+Central Bank of Somalia
+1.1	Global Trade
+Global trade continued to expand in early 2026, 
+although momentum has weakened relative to 
+the strong gains recorded during 2025. According 
+to the IMF’s WEO, April 2026, world trade volume 
+growth is estimated at about 5.1 percent in 2025 
+and is projected to slow sharply to 2.8 percent in 
+2026, before recovering to 3.8 percent in 2027. The 
+2026 slowdown reflects weaker global demand, 
+persistent geopolitical tensions, rising trade costs, 
+and supply disruptions linked to the conflict in 
+the Middle East.  
+Figure 2: Global Trade Growth (Percentage Change) 2025-2027
+Source: IMF WEO April 2026
+According to the UNCTAD Global Trade Update 
+of April 2026, the value of global trade in goods 
+and services reached approximately US$35 trillion 
+in 2025, an increase of about US$2.5 trillion (7.5 
+percent) compared with 2024. Goods accounted 
+for about US$1.8 trillion of that increase (around 7 
+percent growth), while services contributed roughly 
+US$700 billion (around 8 percent growth). UNCTAD 
+estimated that the positive trend continued in the 
+first quarter of 2026, with goods and services 
+expected to grow by 2.5 percent and 2 percent, 
+respectively.
+According to the OECD International Trade 
+Statistics of 2026Q1 report, G20 merchandise 
+trade expanded strongly in the first quarter of 
+2026, with both exports and imports rising by 
+5.3 percent quarter-on-quarter compared with 
+the fourth quarter of 2025, partly driven by trade 
+of semiconductors and other high-technology 
+products in East Asia. Estimates also indicate 
+that G20 trade in services expanded modestly, 
+with exports rising by 1.7 percent and imports by 
+1.5 percent, despite disruptions to trade related 
+to the ongoing crisis in the Middle East.
+1.2 Global Inflation
+Global inflation pressures have re-intensified 
+in early 2026, reversing part of the disinflation 
+observed in recent years. The impact of higher 
+energy prices, driven by the conflict in the Middle 
+East and disruptions in the Strait of Hormuz, has 
+been transmitted to broader commodity markets, 
+raising inflation expectations and lifting headline 
+inflation across most regions. According to the 
+IMF’s WEO, April 2026, global headline inflation is 
+projected to rise from an estimated 4.1 percent in 
+2025 to 4.4 percent in 2026, before declining to 
+3.7 percent in 2027. This represents an upward 
+revision of 0.6 percentage points for 2026 and 
+0.3 percentage points for 2027 compared to the 
+January 2026 WEO, reflecting the impact of higher 
+energy and food prices.
+5.1
+4.7
+5.7
+3.7
+7.4
+2.8
+2.6
+2.7
+2.5
+3.5
+3.8
+3.1
+4.9
+2.7
+5.4
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+World
+AEs
+EMDEs
+AEs
+EMDEs
+Imports
+Exports
+2025
+2026
+2027
+=== PAGE 12 ===
+FIRST QUARTER REPORT | 2026
+6
+Central Bank of Somalia
+Figure 3: Global Inflation Rate (Percentage Change) 2025-2027
+Source: IMF WEO April 2026
+1.3	Global Financial Stability 
+According to the IMF Global Financial Stability 
+Report (April 2026), global financial stability risks 
+increased in the first quarter of 2026 as markets 
+adjusted to heightened geopolitical tensions in 
+the Middle East. Since late February, global equity 
+markets have weakened, while sovereign bond 
+yields have risen amid higher energy prices and 
+renewed concerns about inflation. The US dollar 
+strengthened moderately, reflecting its traditional 
+safe-haven role during periods of heightened 
+uncertainty. Although financial markets have 
+remained orderly, the IMF highlights that risks 
+have become increasingly asymmetric, with the 
+possibility of a sharper tightening in global financial
+conditions if geopolitical tensions persist.
+In AEs, financial markets remained broadly resilient, 
+though long-term bond yields edged higher in several 
+jurisdictions, reflecting concerns over elevated 
+public debt, persistent inflation pressures, and 
+uncertainty about the pace of monetary easing. 
+EMDEs have been disproportionately affected by the 
+recent market repricing. Capital flows to emerging 
+markets, largely intermediated by nonbank financial 
+institutions, have shown heightened sensitivity to 
+shifts in global risk sentiment, with commodity-
+importing economies and those with pre-existing 
+vulnerabilities experiencing the largest impacts. 
+Sovereign spreads have widened in several emerging 
+markets, while local-currency bond markets came 
+under pressure during periods of US dollar strength.
+Inflation in AEs is projected to edge up from 2.5 
+percent in 2025 to about 2.8 percent in 2026, before 
+easing to 2.2 percent in 2027. In the United States, 
+above-target inflation has persisted, with core 
+inflation for personal consumption expenditure 
+remaining elevated, supported by a still-tight labor 
+market and the gradual pass-through of higher 
+trade barriers. Inflation in EMDEs is projected to 
+remain elevated, rising from 5.2 percent in 2025 to 
+about 5.5 percent in 2026, before declining to 4.6 
+percent in 2027. The slower pace of disinflation 
+reflects the larger pass-through of energy and food 
+prices, exchange rate depreciation pressures, and 
+the impact of tighter external financing conditions 
+in commodity-importing economies.
+According to the FAO Food Price Index, the global 
+FAO Food Price Index rose from 124.3 points in 
+December 2025 to 128.5 points in March 2026, 
+marking a 3.4 percent quarter-on-quarter increase. 
+The rise in March was driven primarily by higher 
+prices for cereals, meat, dairy products, vegetable 
+oils, and sugar, reflecting both market fundamentals 
+and the impact of higher energy prices linked to 
+the escalating conflict in the Middle East. The FAO 
+Vegetable Oil Price Index, in particular, reached its 
+highest level since mid-2022, while sugar prices 
+increased by 7.2 percent in March 2026.
+=== PAGE 13 ===
+FIRST QUARTER REPORT | 2026
+7
+Central Bank of Somalia
+1.4	Implications for the Domestic 
+Economy
+Amid the renewed global energy shock, persistent 
+geopolitical tensions, and tighter external financing 
+conditions, Somalia’s economy faces growing 
+exposure to external risks transmitted through 
+trade, remittances, aid, and commodity prices. 
+The external sector remains heavily dependent 
+on livestock exports and imported goods, while 
+economic activities in key Gulf trading partners 
+have come under pressure following the disruptions 
+in the Strait of Hormuz. Growth among Somalia’s 
+key trading partners is moderating across both 
+import sources and export destinations. According 
+to the IMF April 2026 WEO, China’s growth is 
+projected to ease to 4.5 percent in 2026 and 4.2 
+percent in 2027, while India is expected to remain 
+the fastest-growing major economy, expanding 
+by about 6.4 percent in 2026 and 6.3 percent 
+in 2027. Türkiye, another key import source for 
+Somalia, is projected to expand by about 3.0 
+percent in 2026.  On the export side, growth in the 
+United Arab Emirates, Oman, and Saudi Arabia 
+has followed a downward trend, reflecting lower 
+oil production and trade disruptions associated 
+with the Middle East conflict. Saudi Arabia and 
+the United Arab Emirates are projected to grow by 
+about 3.1 percent in 2026, while Oman is projected 
+to grow by 3.5 percent in 2026. Somalia’s economic 
+growth outlook for 2026 has weakened compared 
+with earlier projections. IMF’ GDP forecast has 
+been revised downward to around 2.6 percent 
+from 3.1 percent, due to the combined impact of 
+higher global energy and food prices, persistent 
+climate-related shocks, and continued declines 
+in foreign aid. Despite these challenges, private 
+consumption supported by continued remittance 
+inflows is expected to remain a key driver of 
+domestic demand and provide some support to 
+economic activity. Inflation is expected to remain 
+elevated, reflecting the pass-through of higher 
+imported food and fuel prices.
+=== PAGE 14 ===
+FIRST QUARTER REPORT | 2026
+8
+Central Bank of Somalia
+Figure 4: Growth Rate 2020-2026
+Source: SNBS, 2025 and IMF, 2026
+Domestic Economy
+2
+Somalia’s economy entered 2026 on a weaker footing than in previous years, as the convergence of 
+declining foreign aid, persistent climate shocks, and a sudden external energy price shock tested the 
+resilience that had characterized recent performance. Following real GDP growth of 4.0 percent in 2024, 
+economic activity moderated to an estimated 3.1 percent in 2025, and projected at 2.6 percent in 2026, 
+reflecting the deepening impact of aid reductions, climate, and global price shocks on an economy 
+with limited productive capacity. Private consumption, underpinned by remittance inflows, remained 
+the principal engine of domestic demand during the first quarter of 2026. However, the quarter was 
+dominated by an intensifying drought and, from late February, an unanticipated surge in global energy 
+prices that transmitted rapidly into the domestic economy. 
+-2.8
+3.4
+2.7
+4.2
+4.0
+3.1
+2.6
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+2020
+2021
+2022
+2024
+2025
+2026
+2023
+GDP Growth Rate
+=== PAGE 15 ===
+FIRST QUARTER REPORT | 2026
+9
+Central Bank of Somalia
+As of March 2026, Somalia’s macroeconomic 
+performance has come under renewed pressure, 
+as the resilience demonstrated in recent years 
+has been challenged by the combined effects 
+of a worsening drought, a significant external 
+energy price shock, and the continued decline in 
+foreign aid inflows. These overlapping shocks 
+have intensified economic vulnerabilities, placing 
+additional strain on growth prospects, fiscal 
+conditions, and household welfare. Headline 
+inflation is projected to increase to 5.9 percent in 
+2026 from 3.7 percent in 2025 due to disruptions 
+in global energy markets, which more than doubled 
+domestic fuel prices from about US$0.60 to 
+roughly US$1.50 per liter, generating broad-
+based cost-push pressures across transport, 
+food, and utilities. The simultaneous occurrence 
+of a global energy shock, a worsening drought, 
+and a structural decline in foreign aid created a 
+reinforcing cycle of cost-push inflation, weakening 
+rural incomes, and rising acute food insecurity. 
+The combined effects are expected to widen the 
+current account deficit, as fuel and food import 
+bills surge, and to cause a marked deterioration 
+in household welfare across both urban centers 
+and rural agropastoral regions.
+On the fiscal side, domestic revenue mobilization 
+remained the principal source of strength, even 
+as external grants weakened. Fiscal performance 
+is expected to show a financing gap of US$65.1 
+million under the approved budget. Domestic 
+revenues are projected to increase to US
+$470.6 million by the end of 2026.
+2.1 Livestock Exports
+Livestock exports remained the backbone of 
+Somalia’s external sector during the first quarter 
+of 2026, continuing to account for the dominant 
+share of merchandise exports, primarily to Saudi 
+Arabia, Oman, and the United Arab Emirates. 
+Livestock export activity in the sector is highly 
+seasonal, shaped by Hajj season and demand 
+in Gulf markets.
+During the first quarter of 2026, livestock exports 
+increased by 39 percent compared to 2025Q4 
+and by 6 percent compared to the same period 
+last year. Livestock exports contributed US
+$257.76 million to the economy, accounting for 
+75 percent of total exports in 2026Q1. The 
+composition of 
+exports 
+remained 
+heavily 
+weighted toward sheep and goats, followed by 
+cattle and camels, consistent with established 
+seasonal patterns. During the first quarter of 
+2026, the country exported 1,424,413 heads of 
+livestock, comprising 1,293,931 sheep and goats, 
+followed by 71,921 cattle and 58,561 camels.
+Source: MoF, FSNAU and CBS valuations and adjustments, 2026
+Figure 5: Total Value of Livestock Export 2023Q1-2026Q1
+178.6
+453.6
+116.3
+112.5
+233.9
+373.9
+188.4
+173.7
+244.3
+329.7
+164.1
+184.8
+257.8
+0.0
+50.0
+100.0
+150.0
+200.0
+250.0
+300.0
+350.0
+400.0
+450.0
+500.0
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+2023
+2024
+2025
+2026
+In Millions of US Dollars
+=== PAGE 16 ===
+FIRST QUARTER REPORT | 2026
+10
+Central Bank of Somalia
+Source: SNBS, 2026
+Figure 6: Quarterly Average Trends in Domestic Inflation (%), 2024Q1-2026Q1
+2.2 Domestic Inflation
+Domestic inflation remained moderate through 
+much of 2025, however, inflationary pressures re-
+intensified in the first quarter of 2026, driven by a 
+combination of domestic supply-side disruptions 
+and a sharp external energy price shock. Headline 
+inflation is projected to rise to 5.9 percent in 2026, 
+a significant upward shift from the relatively 
+benign price environment of recent quarters. This 
+acceleration reflects a reinforcing cycle of cost-
+push pressures stemming from three concurrent 
+Table 2: Total Heads of Livestock Export (2025Q1 - 2026Q1)
+Year
+Quarter
+Camel
+Cattle
+Sheep & Goats
+Total Head
+2025
+Q1
+60,927 
+72,428 
+1,306,109 
+1,439,464 
+Q2
+48,794 
+6,579 
+2,373,651 
+2,429,024 
+Q3
+24,849 
+80,992 
+875,703 
+981,544 
+Q4
+58,443 
+62,011 
+930,003 
+1,050,457 
+2026
+Q1
+58,561 
+71,921 
+1,293,931 
+1,424,413 
+Source: MoF, FSNAU and CBS Valuations and adjustments, 2026
+shocks; a deepening drought that reduced 
+domestic agricultural output and pushed food 
+prices higher; a sharp surge in global energy 
+prices that more than doubled domestic fuel 
+costs and structural food price dynamics 
+associated with continued high dependence on 
+imported foodstuffs. On a quarterly basis, 
+inflation increased from 5.1 percent in 2025Q4 
+to 6.3  percent in 2026Q1, as the impact of the 
+failed Deyr season rainfall manifested in higher 
+food prices.
+2.3	Exchange Rate Developments
+The Somali shilling (SOS) remained broadly stable 
+against the US dollar during the first quarter of 
+2026, continuing the pattern of gradual depreciation 
+observed in recent years. The relative stability of the 
+nominal exchange rate reflected the high degree 
+of dollarization in the domestic economy, where 
+a substantial share of transactions is conducted 
+in US dollars. During the first quarter of 2026, 
+the Somali shilling depreciated by 1.2 percent, 
+with an average exchange rate of SOS31,956 
+per US dollar. Over the quarter, the exchange 
+rate fluctuated against the US dollar, reaching 
+SOS32,039 in January, SOS31,243 in February, 
+and SOS32,586 in March.
+2026
+=== PAGE 17 ===
+FIRST QUARTER REPORT | 2026
+11
+Central Bank of Somalia
+Source: CBS, 2026
+Figure 7: Quarterly Exchange Rate Movements: Appreciation (-) / Depreciation (+) (2022Q1-2026Q1)
+Table 3: Quarterly Exchange Rate (2022Q1-2026Q1)
+Period
+Somalia Shilling/US$
+2022
+Q1
+25,827
+Q2
+26,621
+Q3
+27,034
+Q4
+27,848
+2023
+Q1
+26,673
+Q2
+27,141
+Q3
+27,056
+Q4
+27,932
+2024
+Q1
+28,035
+Q2
+28,028
+Q3
+27,687
+Q4
+28,721
+2025
+Q1
+28,937
+Q2
+29,910
+Q3
+30,003
+Q4
+31,564
+2026
+Q1
+31,956
+Source: CBS, 2026
+-1%
+3%
+2%
+3%
+-4%
+2%
+0%
+4%
+0%
+0%
+-1%
+4%
+1%
+3%
+0%
+5%
+1%
+-6%
+-4%
+-2%
+0%
+2%
+4%
+6%
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+2022
+2023
+2024
+2025
+2026
+=== PAGE 18 ===
+FIRST QUARTER REPORT | 2026
+12
+Central Bank of Somalia
+Trade Analysis 3
+3.1	Trade Analysis 2026Q1
+Somalia’s merchandise trade has remained in 
+persistent deficit, reflecting the structural imbalance 
+between a narrow export base and strong import 
+demand. Since 2018Q1, merchandise imports have 
+followed a clear upward trajectory, increasing from 
+approximately US$683.56 million to US$2,478.74 
+million in 2026Q1. The quarterly merchandise 
+trade deficit has widened correspondingly, from 
+US$589.73 million in 2018Q1 to US$2,133.82 
+million in 2026Q1. In 2026Q1, total merchandise 
+exports increased by 20 percent year-on-year 
+to US$345 million, while merchandise imports 
+rose by 16 percent to US$2,478.74 million. The 
+merchandise trade deficit accordingly widened from 
+US$1,843.80 million in 2025Q1 to US$2,133.82 
+million in 2026Q1. The export-to-import coverage 
+ratio improved marginally from 13 percent to 14 
+percent, but export receipts continued to finance 
+only a limited share of merchandise imports, 
+underscoring the structural fragility of Somalia’s 
+external position.
+Source: MoF with CBS valuations and adjustments, 2026
+Figure 8: Quarterly Trade Trends: Exports, Imports, and Trade Balance (2021Q1-2026Q1)
+1,138
+891
+1,350
+1,412
+1,304
+1,656
+1,711
+1,708
+1,644
+1,763
+1,823
+1,725
+1,937
+1,775
+1,955
+2,236
+2,131
+1,725
+2,000
+2,814
+2,479
+163
+225
+156
+173
+142
+236
+173
+153
+217
+479
+163
+150
+297
+431
+238
+206
+287
+391
+299
+284
+345
+-975
+-666
+-1,194
+-1,239
+-1,162
+-1,420
+-1,539
+-1,555
+-1,426
+-1,284
+-1,660
+-1,575
+-1,640
+-1,345
+-1,717
+-2,029
+-1,844
+-1,334
+-1,701
+-2,531
+-2,134
+-3,000
+-2,000
+-1,000
+0
+1,000
+2,000
+3,000
+4,000
+Imports
+Exports
+Trade Balance
+=== PAGE 19 ===
+FIRST QUARTER REPORT | 2026
+13
+Central Bank of Somalia
+Source: MoF with CBS valuations and adjustments, 2026
+Figure 9: Composition of Somalia’s Merchandise Imports by Major Commodity Groups, 2026Q1 (Percent of Total Imports)
+3.2	Analysis of Imports in the First 
+Quarter of 2026
+Somalia’s total imports amounted to US$2,478.74 
+million in 2026Q1, representing a 12 percent decline 
+from US$2,814.23 million recorded in 2025Q4. 
+Despite the quarterly decline, imports increased 
+by 16 percent compared with US$2,130.84 million 
+in 2025Q1, indicating stronger import demand 
+compared with the same period of the previous 
+year.
+Food imports remained the largest import category, 
+accounting for 19 percent of total imports, with a 
+value of US$472.02 million. Food imports declined 
+by 39 percent compared with 2025Q4 and by 8 
+percent compared with 2025Q1, reflecting lower 
+food import demand compared to the previous 
+quarter and the corresponding period last year.
+Medical products ranked second, contributing 
+16 percent of total imports at US$398.77 million. 
+Imports of medical products decreased by 11 
+percent on a quarterly basis but increased by 
+31 percent compared with 2025Q1, reflecting 
+continued demand for healthcare-related goods.
+Construction materials accounted for 14 percent 
+of total imports, valued at US$356.88 million. 
+Construction imports increased by 9 percent from 
+the previous quarter and by 26 percent compared 
+with 2025Q1, suggesting continued investment 
+in construction activities.
+Clothes and footwear imports amounted to 
+US$343.89 million, representing 14 percent of 
+total imports. The category declined slightly by 
+0.9 percent compared with 2025Q4 but increased 
+significantly by 34.0 percent compared with 
+2025Q1, indicating stronger consumer demand 
+compared with the same quarter of the previous 
+year.
+Oil and gas imports totaled US$265.72 million, 
+accounting for 11 percent of total imports. This 
+category recorded strong growth, increasing by 56 
+percent compared with 2025Q4 and by 41 percent 
+compared with 2025Q1, driven by higher energy 
+demand and increased import requirements.
+Food, 19%
+Medical product , 
+16%
+Construction, 14%
+Clothes & 
+Footwear, 14%
+Oil & Gas, 11%
+=== PAGE 20 ===
+FIRST QUARTER REPORT | 2026
+14
+Central Bank of Somalia
+Electronics and electrical machines reached 
+US$120.43 million, representing 5 percent of total 
+imports. Imports in this category increased by 
+44 percent from the previous quarter and by 86 
+percent compared with 2025Q1, reflecting rising 
+demand for technology and electrical equipment.
+Cars and spare parts imports amounted to 
+US$117.32 million (5 percent of total imports), 
+declining by 38 percent from 2025Q4 and by 30 
+percent compared with 2025Q1. Khat imports also 
+declined, reaching US$85.42 million, a decrease 
+of 27 percent quarter-on-quarter and 11 percent 
+year-on-year.
+Source: MoF with CBS valuations and adjustments, 2026
+Table 4: Percentage Share of Imported Categories in the First Quarter of 2026 (In Millions of US Dollars)
+Category
+2025Q1
+2025Q2
+2025Q3
+2025Q4
+2026Q1
+% Share 2026Q1
+Food
+514.65
+486.94
+414.56
+779.31
+472.02
+19
+Medical product 
+303.92
+234.62
+291.33
+446.12
+398.77
+16
+Construction
+283.63
+327.45
+378.75
+327.30
+356.88
+14
+Clothes & Footwear
+256.60
+102.65
+201.72
+347.13
+343.89
+14
+Oil & Gas
+188.20
+124.39
+107.63
+169.98
+265.72
+11
+Electronics & Electric Machines
+64.60
+36.04
+31.65
+83.65
+120.43
+5
+Cars & spare parts
+168.67
+104.00
+113.34
+187.77
+117.32
+5
+Personal Care
+65.19
+57.10
+73.34
+100.64
+86.78
+4
+Khat
+95.93
+88.97
+110.62
+116.31
+85.42
+3
+Cosmetics
+30.76
+24.16
+58.67
+44.58
+73.21
+3
+Other
+46.35
+51.34
+87.73
+57.69
+60.53
+2
+Furniture & Utensils
+38.17
+30.05
+66.30
+67.76
+39.60
+2
+Plant Industries
+30.86
+17.46
+28.04
+51.19
+37.18
+1
+Beverages & Tobacco
+34.05
+31.41
+22.53
+15.75
+10.94
+0
+Stationery 
+9.25
+7.94
+13.49
+19.04
+10.05
+0
+Grand Total
+2,130.84
+1,724.52
+1,999.69
+2,814.23
+2,478.74
+Personal care products totaled US$86.78 million, 
+representing a 14 percent decline from 2025Q4 
+but a 33 percent increase compared with 2025Q1. 
+Cosmetics imports recorded strong growth, 
+increasing to US$73.21 million, up by 64 percent 
+compared with the previous quarter and 138.0 
+percent compared with 2025Q1, representing the 
+highest annual growth among the listed categories.
+Furniture and utensils imports declined to US$39.60 
+million, falling by 42 percent quarter-on-quarter 
+but increasing by 4 percent year-on-year.
+Plant industries imports stood at US$37.18 
+million, declining by 27 percent from the previous 
+quarter but increasing by 21 percent compared 
+with 2025Q1. Stationery imports decreased by 47 
+percent from 2025Q4 but increased by 9 percent 
+compared with 2025Q1.
+Beverages and tobacco recorded the weakest 
+performance among the major categories, declining 
+to US$10.94 million. Imports in this category 
+decreased by 31 percent compared with 2025Q4 
+and by 68 percent compared with 2025Q1.
+=== PAGE 21 ===
+FIRST QUARTER REPORT | 2026
+15
+Central Bank of Somalia
+Source: MoF with CBS valuations and adjustments, 2026
+Table 5: Comparison Between Imports of 2025Q1 & 2026Q1 (In Millions of US Dollars)
+Category
+2025Q1
+2026Q1
+% Change
+Food
+514.65
+472.02
+-8
+Medical product 
+303.92
+398.77
+31
+Construction
+283.63
+356.88
+26
+Clothes & Footwear
+256.6
+343.89
+34
+Oil & Gas
+188.2
+265.72
+41
+Electronics & Electric Machines
+64.6
+120.43
+86
+Cars & spare parts
+168.67
+117.32
+-30
+Personal Care
+65.19
+86.78
+33
+Khat
+95.93
+85.42
+-11
+Cosmetics
+30.76
+73.21
+138
+Other
+46.35
+60.53
+31
+Furniture & Utensils
+38.17
+39.6
+4
+Plant Industries
+30.86
+37.18
+20
+Beverages & Tobacco
+34.05
+10.94
+-68
+Stationery 
+9.25
+10.05
+9
+Grand Total
+2,130.84
+2,478.74
+16
+Source: MoF with CBS valuations and adjustments, 2026
+Figure 10: Quarterly Trends in Major Merchandise Import Categories, 2025Q1–2026Q1
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+Food
+Medical
+product
+Construction
+Clothes &
+Footwear
+Oil & Gas
+Electronics &
+Electric
+Machines
+Cars & spare
+parts
+Personal
+Care
+Khat
+Cosmetics
+2025Q1
+2025Q2
+2025Q3
+2025Q4
+2026Q1
+In Millions of US Dollars
+=== PAGE 22 ===
+FIRST QUARTER REPORT | 2026
+16
+Central Bank of Somalia
+Source: MoF with CBS valuations and adjustments, 2026
+Table 7: Comparison Between Exports of 2025Q1 and 2026Q1 (In Millions of US Dollars)
+ 
+2025Q1
+2026Q1
+% Change
+Livestock
+244.30
+257.76
+6
+Animal Skins 
+11.72
+32.68
+179
+Fishery Export
+1.83
+15.18
+731
+Others
+4.58
+14.37
+214
+Crops & Vegetable Oil
+8.12
+10.36
+28
+Livestock Product (Meat)
+13.65
+9.02
+-34
+Forest Products
+2.84
+5.54
+95
+Grand Total
+287.04
+344.91
+20
+3.3	Domestic Exports for the First 
+Quarter of the Year, 2026
+Merchandise exports increased to US$344.91 
+million in 2026Q1, from US$287.04 million in 
+2025Q1, representing a 20 percent year-on-
+year increase. Despite this improvement, 
+the composition of exports remained highly 
+concentrated, with livestock accounting for the 
+majority of export receipts. Livestock exports 
+amounted to US$257.76 million in 2026Q1, up 
+from US$244.30 million in the corresponding 
+quarter of 2025, and represented 75 percent of total 
+merchandise exports. The continued dominance 
+of live animal exports underscores Somalia’s 
+limited diversification of its export base and its 
+exposure to sector-specific and external shocks.
+Source: MoF with CBS valuations and adjustments, 2026
+Table 6: Percentage Shares of the Leading Export Items in the First Quarter, 2026 (In Millions of US Dollars)
+ 
+2025Q1
+2025Q2
+2025Q3
+2025Q4
+2026Q1
+% Share 2026Q1
+Livestock
+244.30
+329.73
+164.05
+184.82
+257.76
+75
+Animal Skins 
+11.72
+8.03
+23.80
+19.41
+32.68
+9
+Fishery Export
+1.83
+9.73
+8.50
+5.81
+15.18
+4
+Others
+4.58
+7.82
+7.48
+9.18
+14.37
+4
+Crops & Vegetable Oil
+8.12
+16.48
+85.15
+53.03
+10.36
+3
+Livestock Product (Meat)
+13.65
+12.61
+8.96
+8.79
+9.02
+3
+Forest Products
+2.84
+6.44
+1.15
+2.53
+5.54
+2
+Grand Total
+287.04
+390.84
+299.09
+283.57
+344.91
+Among the remaining export categories, animal 
+skins increased substantially to US$32.68 million 
+from US$11.72 million a year earlier, raising 
+their share of total exports to 9 percent. Fishery 
+exports also strengthened, increasing from US$2 
+million to US$15 million and accounting for 4 
+percent of total exports, although the sector’s 
+overall contribution remained modest relative 
+to its estimated potential. In contrast, crops and 
+vegetable oil exports accounted for only US$10 
+million, representing 3 percent of total exports, 
+reflecting a significant decline from the elevated 
+levels observed during the second half of 2025. 
+Livestock products, primarily meat, remained 
+broadly unchanged at US$9 million, accounting 
+for 3 percent of total export receipts, while forest 
+products increased to US$6 million, accounting 
+for 2 percent of total export receipts.
+=== PAGE 23 ===
+FIRST QUARTER REPORT | 2026
+17
+Central Bank of Somalia
+Source: MoF with CBS valuations and adjustments, 2026
+Figure 11: Comparison Between Exports of 2025Q1 & 2026Q1
+244
+12
+2
+5
+8
+14
+3
+258
+33
+15
+14
+10
+9
+6
+0
+50
+100
+150
+200
+250
+300
+Livestock
+Animal Skins Fishery Export
+Others
+Crops &
+Vegetable Oil
+Livestock
+Product
+(Meat)
+Forest
+Products
+2025Q1
+2026Q1
+=== PAGE 24 ===
+FIRST QUARTER REPORT | 2026
+18
+Central Bank of Somalia
+Public Finance Development
+4
+Somalia’s 2026 Federal Government budget 
+reflects continued efforts to maintain fiscal stability 
+while supporting priority government services 
+amid a challenging economic environment. The 
+approved budget projects a total revenue and 
+grants of US$1,298.7 million (8 percent of GDP), 
+comprising US$470.6 million (3 percent of GDP) 
+in domestic revenue and US$828.1 million (5 
+percent of GDP) in external grants. Domestic 
+revenue is expected to be driven primarily by tax 
+revenue (US$336.6 million), while non-tax revenue 
+is projected at US$134.0 million. External grants 
+remain the largest source of budget financing, with 
+multilateral grants (US$673.7 million) accounting 
+for the majority of donor support, followed by 
+bilateral grants (US$154.4 million).
+Table 8: The Actual Budget of the 1st Quarter of FGS Operations for the Fiscal Year 2026 (In Millions of US Dollars)
+Budget 2026
+2026Q1
+% Share in 2026Q1
+2026Q1 % of budget
+ Total Revenue and Grants 
+1,299
+154
+12
+ Total Domestic Revenue 
+471
+101
+65
+21
+ Tax revenue 
+337
+71
+46
+21
+ Non-tax revenue 
+134
+30
+19
+22
+ Total External Grants 
+828
+53
+35
+6
+ Current - Grants Bilateral 
+154
+ Current - Grants - Multilateral 
+674
+53
+35
+8
+ Total Expenditure 
+1364
+171
+13
+ Total Recurrent Expenditure 
+1154
+164
+96
+14
+ Compensation of employees 
+379
+87
+51
+23
+ Use of goods and services 
+427
+37
+22
+9
+ Social benefits 
+35
+ Interest & Other Charges 
+7
+1
+1
+16
+ Subsidies 
+8
+ Grants 
+225
+27
+16
+12
+ Other expenses 
+73
+12
+7
+17
+ Total Capital Expenditure 
+210
+7
+4
+3
+ Consumption of fixed capital 
+210
+7
+4
+3
+ Financing Gap / Surplus (-) or (+) 
+-65
+-17
+Source: MoF, 2026
+Total government expenditure is budgeted at 
+US$1,363.8 million, of which US$1,153.8 million 
+(85 percent) is allocated to recurrent expenditure 
+and US$210.0 million (15 percent) to capital 
+expenditure. Within recurrent spending, the largest 
+allocations are for the use of goods and services 
+(US$427.2 million) and compensation of employees 
+(US$378.5 million), followed by grants (US$225.4 
+million). Smaller allocations are budgeted for social 
+benefits (US$35.0 million), subsidies (US$8.0 
+million), and interest and other charges (US$7.0 
+million).
+Overall, the 2026 budget projects a financing gap 
+of US$65.1 million, highlighting the continued need 
+for fiscal discipline, enhanced domestic revenue 
+mobilization, and sustained donor support to 
+finance government operations and development 
+priorities.
+=== PAGE 25 ===
+FIRST QUARTER REPORT | 2026
+19
+Central Bank of Somalia
+4.1 FGS Revenue and Grants
+During 2026Q1, the Federal Government of 
+Somalia collected US$153.9 million in total revenue 
+and grants. Of this amount, domestic revenue 
+contributed US$100.6 million, accounting for 
+approximately 65 percent of total revenue, while 
+external grants amounted to US$53.3 million (35 
+percent). Domestic revenue comprised US$70.8 
+million in tax revenue and US$29.7 million in non-
+Source: MoF, 2026
+Figure 12: The Performance of Government Fiscal Receipts in the First Quarter of the Fiscal Year 2026
+tax revenue. All external grants received during the 
+quarter were multilateral grants, while no bilateral 
+grants were disbursed. The strong contribution 
+of domestic revenue demonstrates continued 
+progress in revenue mobilization, although external 
+grant financing remains an important source of 
+fiscal resources.
+4.2 FGS Expenditure Performance
+Total government expenditure amounted to 
+US$170.9 million during 2026Q1, exceeding total 
+revenue and grants and resulting in a financing gap 
+of US$17.0 million. Recurrent expenditure totaled 
+US$164.4 million, accounting for approximately 96 
+percent of total spending, while capital expenditure 
+amounted to US$6.5 million (4 percent). Within 
+recurrent expenditure, compensation of employees 
+was the largest expenditure item at US$86.7 
+million, followed by the use of goods and services 
+(US$37.2 million) and grants (US$27.2 million). 
+Other expenses totaled US$12.2 million, while 
+interest and other charges amounted to US$1.1 
+million. No expenditure was recorded under social 
+benefits or subsidies during the quarter. Overall, 
+government spending remained concentrated on 
+recurrent operations, with relatively limited capital 
+investment during the first quarter of 2026.
+1299
+471
+337
+134
+828
+154
+674
+154
+101
+71
+30
+53
+0
+12%
+21%
+21%
+22%
+6%
+0%
+8%
+0%
+5%
+10%
+15%
+20%
+25%
+0
+200
+400
+600
+800
+1000
+1200
+1400
+ Total
+Revenue and
+Grants
+ Total
+Domestic
+Revenue
+ Tax revenue
+ Non-tax
+revenue
+ Total
+External
+Grants
+ Current -
+Grants
+Bilateral
+ Current -
+Grants -
+Multilateral
+In Millions of US Dollars
+Budget
+ 2026 March YTD
+ YTD % of Budget
+=== PAGE 26 ===
+FIRST QUARTER REPORT | 2026
+20
+Central Bank of Somalia
+Figure 13: The Performance of Government Fiscal Spending in the First Quarter of 2026
+Source: MoF, 2026
+4.3 Comparison of Quarterly Fiscal 
+Performance
+Fiscal performance in 2026Q1 showed modest 
+improvements in domestic revenue mobilization 
+alongside lower government expenditure compared 
+with the corresponding quarter of 2025. Total 
+revenue and grants declined slightly by 3 percent 
+to US$153.9 million from US$158.9 million in 
+2025Q1, primarily due to lower external grant 
+disbursements. However, domestic revenue 
+increased by 7 percent, rising from US$93.8 
+million to US$100.6 million. This improvement 
+was supported by growth in both tax revenue, 
+which increased by 4 percent to US$70.8 million, 
+and non-tax revenue, which rose by 16 percent 
+to US$29.7 million.
+External grants declined by 18 percent, falling from 
+US$65.1 million in 2025Q1 to US$53.3 million in 
+2026Q1. The decline was largely attributable to the 
+absence of bilateral grant disbursements during 
+the quarter, while multilateral grants remained 
+broadly stable at US$53.3 million compared with 
+US$54.8 million a year earlier.
+On the expenditure side, total government spending 
+declined by 8 percent, from US$186.5 million in 
+2025Q1 to US$170.9 million in 2026Q1. Recurrent 
+expenditure decreased by 4 percent to US$164.4 
+million, mainly reflecting lower spending on 
+compensation of employees and the use of 
+goods and services. Compensation of employees 
+declined by 4 percent, while expenditure on goods 
+and services fell by 12 percent. Conversely, grants 
+increased by 8 percent to US$27.2 million, and 
+other expenses rose modestly by 4 percent.
+Capital expenditure recorded the largest decline, 
+falling by 58 percent from US$15.6 million in 
+2025Q1 to US$6.5 million in 2026Q1, indicating 
+slower implementation of development and 
+infrastructure projects during the quarter.
+Overall, the fiscal deficit narrowed from US$27.6 
+million in 2025Q1 to US$17.0 million in 2026Q1, 
+representing an improvement of approximately 
+38 percent. The smaller deficit reflects stronger 
+domestic revenue collection and lower government 
+expenditure, despite reduced external grant inflows.
+1364
+1154
+379
+427
+35
+225
+210
+171
+164
+87
+37
+0
+27
+7
+13%
+14%
+23%
+9%
+0%
+12%
+3%
+0%
+5%
+10%
+15%
+20%
+25%
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+ Total
+Expenditure
+ Total
+Recurrent
+Expenditure
+ Compensation
+of employees
+ Use of goods
+and services
+ Social
+benifits
+ Grants
+ Total Capital
+Expenditure
+In Millions of US Dollars
+Budget
+ 2026 March YTD
+ YTD % of Budget
+=== PAGE 27 ===
+FIRST QUARTER REPORT | 2026
+21
+Central Bank of Somalia
+Figure 14: Revenue and Grants (2025Q1 & 2026Q1)
+Source: MoF, 2026
+Table 9: Comparison of Quarterly Fiscal Performance (2021Q1-2026Q1)
+ 
+2021Q1
+2022Q1
+2023Q1
+2024Q1
+2025Q1
+2026Q1
+Total Revenue and Grants
+77
+78
+81
+118
+159
+154
+Total Domestic Revenue
+52
+57
+65
+92
+94
+101
+Tax revenue
+39
+42
+45
+66
+68
+71
+Non-tax revenue
+13
+16
+19
+26
+26
+30
+Total External Grants
+25
+20
+16
+27
+65
+53
+Grants Bilateral
+6
+10
+Grants Multilateral
+25
+20
+16
+21
+55
+53
+Total Expenditure
+86
+94
+102
+126
+187
+171
+Total Recurrent Expenditure
+84
+93
+101
+125
+171
+164
+Compensation of employees
+56
+61
+64
+81
+91
+87
+Use of goods and services
+14
+18
+20
+28
+42
+37
+Social Benefits
+3
+Interest & Other Charges
+4
+2
+2
+1
+1
+1
+Subsidies
+2
+Grants
+10
+12
+12
+14
+25
+27
+Other expenses
+12
+12
+Total Capital Expenditure
+2
+2
+1
+1
+16
+7
+Consumption of fixed capital
+2
+2
+1
+1
+16
+7
+Financing Gap / Surplus (-) or (+)
+-9
+-16
+-21
+-8
+-28
+-17
+Source: MoF, 2026
+159
+94
+68
+26
+65
+10
+55
+154
+101
+71
+30
+53
+0
+53
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+ Total Revenue
+and Grants
+ Total Domestic
+Revenue
+ Tax revenue
+ Non-tax
+revenue
+ Total External
+Grants
+Grants Bilateral
+Grants
+Multilateral
+In millions of US Dollars 
+ 2025Q1
+2026Q1
+=== PAGE 28 ===
+FIRST QUARTER REPORT | 2026
+22
+Central Bank of Somalia
+Figure 15: Quarterly FGS Fiscal Spending (2021Q1-2026Q1) 
+Source: MoF, 2026
+4.4 Federal Member States
+4.4.1 FMS Revenue and Grants 
+During the first quarter of 2026Q1, Jubaland 
+recorded total revenue and grants of US$13.08 
+million, the highest among the Federal Member 
+States, including US$9.17 million in domestic 
+revenue and US$3.91 million in external grants. 
+Galmudug followed with total revenue and grants 
+of US$5.59 million, comprising US$2.87 million in 
+domestic revenue and US$2.72 million in external 
+grants. Hirshabelle recorded total revenue and 
+grants of US$3.53 million, with US$1.73 million 
+generated from domestic revenue and US$1.80 
+million received through external grants. Southwest 
+reported total revenue and grants of US$3.31 
+million, including US$1.25 million in domestic 
+revenue and US$2.06 million in external grants.
+Figure 16: Summary of Federal Member States Revenues and Grants 2026Q1
+Source: MoF, 2026
+86
+84
+56
+14
+0
+10
+2
+94
+93
+61
+18
+0
+12
+2
+102
+101
+64
+20
+3
+12
+1
+126
+125
+81
+28
+0
+14
+1
+187
+171
+91
+42
+0
+25
+16
+171
+164
+87
+37
+0
+27
+7
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+Total Expenditure
+Total Recurrent
+Expenditure
+Compensation of
+employees
+Use of goods and
+services
+Social  Benefits
+Grants
+Total Capital
+Expenditure
+In millions of US Dollars 
+2021Q1
+2022Q1
+2023Q1
+2024Q1
+2025Q1
+2026Q1
+13
+9
+7
+2
+4
+3
+1
+3
+1
+1
+0
+2
+2
+0
+6
+3
+2
+0
+3
+2
+0
+4
+2
+2
+0
+2
+1
+0
+ -
+ 2.00
+ 4.00
+ 6.00
+ 8.00
+ 10.00
+ 12.00
+ 14.00
+ Total Revenue
+and Grants
+ Total Domestic
+Revenue
+ Tax revenue
+ Non-tax
+revenue
+ Total External
+Grants
+ Grants
+Bilateral
+ Grants
+Multilateral
+Jubaland
+Southwest
+Galmudug
+Hirshabelle
+=== PAGE 29 ===
+FIRST QUARTER REPORT | 2026
+23
+Central Bank of Somalia
+4.4.2 FMS Expenditure 
+During the first quarter 2026Q1, Jubaland recorded 
+US$14.67 million in total expenditure, consisting 
+of US$14.48 million in recurrent expenditure and 
+US$0.19 million in capital expenditure, resulting 
+in a financing gap of US$1.59 million. Galmudug 
+followed with total expenditure of US$9.21 million, 
+including US$7.98 million in recurrent expenditure 
+and US$1.23 million in capital expenditure with 
+a financing gap of US$3.61 million. Southwest 
+recorded total expenditure of US$4.11 million, 
+comprising US$3.50 million in recurrent expenditure 
+and US$0.60 million in capital expenditure, resulting 
+in a financing gap of US$0.80 million. Hirshabelle 
+reported total expenditure of US$3.64 million, with 
+US$3.63 million allocated to recurrent expenditure 
+and US$0.01 million to capital expenditure and a 
+financing gap of US$0.11 million.
+Figure 17: Summary of Federal Member States Expenditure 2026Q1
+Source: MoF, 2026
+15 
+14 
+8 
+5 
+0 
+0 
+(2)
+4 
+4 
+2 
+1 
+1 
+1 
+(1)
+9 
+8 
+3 
+5 
+1 
+1 
+(4)
+4 
+4 
+2 
+1 
+0 
+0 
+(0)
+ (5)
+ -
+ 5
+ 10
+ 15
+ 20
+ Total Expenditure
+ Total Recurrent
+Expenditure
+ Compensation of
+employees
+ Use of goods and
+services
+ Total Capital
+Expenditure
+ Consumption of
+fixed capital
+ Financing Gap /
+Surplus (-) or (+)
+Jubaland
+Southwest
+Galmudug
+Hirshabelle
+=== PAGE 30 ===
+FIRST QUARTER REPORT | 2026
+24
+Central Bank of Somalia
+Table 10: Comparison of FMS Quarterly Fiscal Performance (2026Q1) in Million US Dollars
+Jubaland
+Southwest
+Galmudug
+Hirshabelle
+Total Revenue and Grants
+      13.08 
+         3.31 
+         5.59 
+         3.53 
+ Total Domestic Revenue
+         9.17 
+         1.25 
+         2.87 
+         1.73 
+  Tax revenue
+         7.18 
+         1.20 
+         2.43 
+         1.64 
+  Non-tax revenue
+         1.99 
+         0.04 
+         0.44 
+         0.10 
+ Total External Grants
+         3.91 
+         2.06 
+         2.72 
+         1.80 
+  Grants Bilateral
+         2.61 
+         1.87 
+         2.38 
+         1.44 
+  Grants Multilateral
+         1.30 
+         0.19 
+         0.34 
+         0.36 
+Total Expenditure
+      14.67 
+         4.11 
+         9.21 
+         3.64 
+ Total Recurrent Expenditure
+      14.48 
+         3.50 
+         7.98 
+         3.63 
+  Compensation of employees
+         7.93 
+         2.01 
+         2.54 
+         1.97 
+  Use of goods and services
+         4.86 
+         1.49 
+         5.31 
+         1.44 
+  Social benefits
+         0.00 
+ - 
+- 
+ - 
+  Interest & Other Charges
+ - 
+- 
+ - 
+- 
+  Subsidies
+ - 
+- 
+ - 
+- 
+  Grants
+         0.05 
+ - 
+         0.13 
+         0.23 
+  Other expenses
+         1.65 
+ - 
+- 
+ - 
+ Total Capital Expenditure
+         0.19 
+         0.60 
+         1.23 
+         0.01 
+  Consumption of fixed capital
+         0.19 
+         0.60 
+         1.23 
+         0.01 
+Financing Gap / Surplus (-) or (+)
+       (1.59)
+       (0.80)
+       (3.61)
+       (0.11)
+Source: MoF, 2026
+=== PAGE 31 ===
+FIRST QUARTER REPORT | 2026
+25
+Central Bank of Somalia
+Financial Sector Development 
+5
+During the first quarter of 2026, the Central Bank of 
+Somalia continued to make important progress in 
+strengthening Somalia’s institutional and regulatory 
+framework. Ongoing reforms focused on enhancing 
+financial sector regulation and supervision, 
+promoting financial inclusion, and improving the 
+Anti-Money Laundering and Counter Financing of 
+Terrorism (AML/CFT) framework contributed to 
+reinforcing confidence in the country’s financial 
+system. Preparations for the reintroduction 
+of the Somali Shilling under a currency board 
+arrangement also moved forward, underscoring 
+the Banks’ commitment to monetary stability 
+and stronger macroeconomic management. 
+These reforms remain part of Somalia’s broader 
+economic modernization agenda, supported by 
+international partners including the International 
+Monetary Fund and the World Bank.
+During the same period, the Central Bank of 
+Somalia achieved a major institutional milestone 
+by obtaining the internationally recognized ISO/
+IEC 27001:2022 certification for its Information 
+Security Management System (ISMS). The 
+certification, issued by the Management Systems 
+Certification Body, confirms that the Bank’s 
+information security framework, including its 
+ICT infrastructure, applications, and critical 
+information assets, complies with global best 
+practices in information security management 
+and risk control. This achievement reflects 
+Banks’s continued commitment to strengthening 
+operational resilience, institutional governance, 
+cybersecurity, accountability, and internal control 
+systems. 
+Regulatory progress also extended to new segments 
+of the financial sector. In January 2026, the Central 
+Bank of Somalia granted operating licenses to four 
+Takaful companies, marking an important step 
+in the formal regulation of Somalia’s insurance 
+sector in line with Shariah principles and risk-based 
+supervisory standards. This brought a previously 
+unregulated segment of the financial system under 
+formal oversight, strengthening consumer protection 
+and widening the scope of CBS supervision. Further 
+strengthening the financial regulatory framework, 
+in March 2026 the National Payment System Law 
+was enacted, providing a comprehensive legal 
+basis for the regulation, oversight, and operation of 
+payment systems and payment service providers 
+in Somalia. CBS also announced its participation in 
+the Pan-African Payment and Settlement System 
+(PAPSS), an important step toward improving 
+cross-border payment infrastructure, supporting 
+intra-African trade, and integrating Somalia further 
+into the continent’s financial architecture.
+As of 2026Q1, Somalia’s financial sector comprised 
+15 licensed banks (including 14 domestic 
+commercial banks and 1 foreign bank), 17 licensed 
+money transfer businesses (remittances), 6 mobile 
+money operators, 19 microfinance institutions, 
+7 Takaful (Islamic insurance) institutions, and 2 
+payment systems. In recent years, the Central 
+Bank of Somalia has strengthened the legal and 
+regulatory framework governing non-bank financial 
+institutions, including Takaful companies and 
+microfinance institutions, through new licensing, 
+reporting, and supervisory regulations introduced 
+in 2025.
+=== PAGE 32 ===
+FIRST QUARTER REPORT | 2026
+26
+Central Bank of Somalia
+Alongside this measure, CBS continued to 
+advance key financial sector reforms aimed at 
+strengthening financial stability and expanding 
+financial inclusion. These initiatives include the 
+enactment of the National Payment Systems 
+Act, 
+as 
+well 
+as 
+preparations 
+for 
+the 
+establishment of a national credit bureau and a 
+central collateral registry to improve access to 
+credit information and support the expansion of 
+formal lending.
+5.1 Commercial Banks
+Somalia’s commercial banking sector continued to 
+expand and strengthen during the first quarter of 
+2026, reflecting ongoing progress in financial sector 
+development and institutional reform. The banking 
+sector has played an increasingly important role 
+in supporting financial intermediation, facilitating 
+trade, expanding digital payment services, and 
+promoting financial inclusion across the country. 
+The sector continued to benefit from reforms 
+aimed at strengthening banking supervision, 
+compliance, risk management, and Anti-Money 
+Laundering and Counter Financing of Terrorism 
+(AML/CFT) frameworks. The integration of banks 
+into the National Payment System (NPS) and the 
+Somalia Instant Payment System (SIPS) has further 
+improved interoperability, transaction efficiency, 
+and digital financial services nationwide. Despite 
+persistent economic and security challenges, 
+Somalia’s commercial banking industry has 
+demonstrated resilience and remains central to 
+the country’s broader economic modernization 
+and financial inclusion agenda. Banking sector 
+indicators remained healthy, supported by strong 
+capital and liquidity levels, while the non-performing 
+loan (NPL) ratio stayed below 4 percent. However, 
+total credit to the private sector remained 5 percent 
+of GDP, highlighting the still-developing nature of 
+the formal banking sector despite its continued 
+progress and resilience.
+Source: CBS, 2026
+Table 11: Consolidated Balance Sheet for Commercial Banks in Millions of US Dollars (2024Q1-2026Q1)
+2024
+2025
+2026
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Total Assets
+1,814
+1,907
+1,971
+2,020
+2,021
+2,109
+2,191
+2,299
+2,352
+ Financing Assets
+392
+430
+446
+473
+491
+511
+535
+540
+591
+ Investment Assets
+336
+291
+299
+324
+335
+328
+323
+359
+386
+ Other Assets
+90
+118
+116
+58
+61
+46
+32
+30
+47
+Total Liabilities
+1,520
+1,611
+1,669
+1,716
+1,710
+1,795
+1,869
+1,976
+2,030
+ Customer Deposits
+1,463
+1,556
+1,599
+1,652
+1,651
+1,724
+1,612
+1,630
+1,650
+ Microfinance Loan
+6
+6
+3
+3
+3
+3
+3
+7
+0
+ Other Liabilities
+35
+32
+47
+39
+41
+49
+57
+66
+100
+Total Liabilities and Owner’s Equity
+1,814
+1,907
+1,971
+2,020
+2,021
+2,109
+2,191
+2,299
+2,352
+Total Shareholders’ Equity
+294
+296
+302
+305
+311
+314
+322
+323
+323
+Total assets of commercial banks increased to 
+US$2,352 million in 2026Q1 from US$2,299 million 
+in 2025Q4 and US$2,021 million in 2025Q1. On 
+a quarterly basis, total assets grew by 2 percent, 
+while on an annual basis they increased by 16 
+percent. The expansion in total assets reflects 
+improved banking sector activity, supported by 
+growth in financing and investment portfolios 
+during the review period. The asset structure 
+remained dominated by cash holdings, which 
+accounted for 35 percent of total assets (US$834 
+million) in 2026Q1. Financing assets represented 
+the second largest component at 25 percent, 
+followed by investment assets at 16 percent.
+Financing assets rose to US$591 million in 2026Q1, 
+compared to US$540 million in the previous quarter 
+and US$491 million in 2025Q1, representing 
+quarterly growth of 9 percent and annual growth of 
+20 percent. The increase points to stronger credit 
+provision and greater commercial bank support for 
+private sector activity. Trade financing remained
+=== PAGE 33 ===
+FIRST QUARTER REPORT | 2026
+27
+Central Bank of Somalia
+Figure 18: Consolidated Commercial Banks Data (Assets) (2024Q1-2026Q1)
+Source: CBS, 2026
+the largest component of the financing portfolio 
+at 38 percent, consistent with the sector’s focus 
+on commerce and trade-related credit. Real estate 
+loans accounted for 26 percent of financing assets, 
+while construction loans represented 10 percent.
+Investment assets also increased, rising to US$386 
+million from US$359 million in the previous quarter 
+and US$335 million in 2025Q1. Quarterly growth 
+stood at 7 percent, while annual growth reached 
+15 percent, indicating a gradual shift toward more 
+diversified and longer-term asset holdings.
+On the liabilities side, total liabilities increased to 
+US$2,030 million in 2026Q1, up from US$1,976 
+million in the previous quarter and US$1,710 
+million in 2025Q1, representing quarterly growth 
+of 3 percent and annual growth of 19 percent. 
+Customer deposits remained the main source 
+of funding, accounting for 81 percent of total 
+liabilities at around US$1,650 million. Deposits 
+were broadly stable year-on-year and slightly 
+higher quarter-on-quarter, suggesting continued 
+public confidence in the formal banking sector.
+Microfinance loans declined sharply to US$0.2 
+million from US$6.8 million in the previous quarter, 
+continuing a downward trend that likely reflects the 
+transition of microfinance activity toward the newly 
+licensed and separately regulated microfinance 
+institutions. Total shareholders’ equity stood at 
+US$323 million, broadly unchanged from the 
+previous quarter and 4 percent higher than the 
+US$311 million recorded in 2025Q1. The stable 
+capital base, alongside balance sheet growth, 
+indicates that the sector remains resilient and 
+able to support a gradual expansion in financial 
+intermediation.
+1,814
+1,907
+1,971
+2,020
+2,021
+2,109
+2,191
+2,299
+2,352
+0
+500
+1,000
+1,500
+2,000
+2,500
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+2024
+2025
+2026
+Total Assets
+Financing Assets
+Investment Assets
+Other Assets
+=== PAGE 34 ===
+FIRST QUARTER REPORT | 2026
+28
+Central Bank of Somalia
+Figure 19: Consolidated Commercial Banks Data (Liabilities) (2024Q1-2026Q1)
+Figure 20: Commercial Banks’ Capital Adequacy Performance
+Source: CBS, 2026
+Source: CBS, 2026
+5.1.1 Capital Adequacy and Liquidity Conditions
+The banking sector maintained sound prudential 
+conditions in the first quarter of 2026, with capital 
+adequacy, core capital, and liquidity ratios all 
+remaining comfortably above their regulatory 
+minimums. The Capital Adequacy Ratio opened
+the quarter at 16 percent in January before easing 
+slightly to 15 percent in February and March. It 
+remained well above the regulatory minimum of 
+12 percent throughout the period. This points to 
+a gradual stabilization from the higher levels seen 
+in early and mid-2025, when the ratio reached 
+21 percent, while still showing that banks held 
+adequate capital buffers to absorb potential losses.
+1,520
+1,611
+1,669
+1,716
+1,710
+1,795
+1,869
+1,976
+2,030
+0
+500
+1,000
+1,500
+2,000
+2,500
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+2024
+2025
+2026
+In Millions of US Dollars
+Total Liabilities
+Customer Deposits
+Microfinance Loan
+Other Liabilities
+Total Shareholder’s Equity
+15%
+14%
+16%
+19%
+21%
+16%
+17%
+15%
+15%
+0%
+5%
+10%
+15%
+20%
+25%
+Mar
+Jun
+Mar
+Dec
+Mar
+Sep 
+Dec 
+Jun 
+Sep
+Capital Adequacy Ratio
+ Required Capital Adequacy Ratio
+2025
+2026
+2024
+=== PAGE 35 ===
+FIRST QUARTER REPORT | 2026
+29
+Central Bank of Somalia
+Figure 21: Core Capital Strength of the Banking Sector
+Source: CBS, 2026
+The Core Capital Ratio stood at 15 percent in January before easing to 14 percent in 
+February and March. Despite the modest decline, it remained above the regulatory minimum of 
+8 percent. 
+The Liquid Assets Ratio remained well above the 
+regulatory minimum of 20 percent, recording 52 
+percent in January, 50 percent in February, and 51 
+percent in March. The ratio has remained broadly 
+stable over an extended period, in line with the 
+high liquidity levels observed throughout 2024 and 
+2025. This position shows that banks retained 
+sufficient capacity to meet short-term obligations 
+and withstand potential liquidity pressures.
+Figure 22: Liquidity Position of Commercial Banks
+Source: CBS, 2026
+49%
+50%
+50%
+51%
+52%
+52%
+54%
+54%
+51%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Mar
+Jun
+Mar
+Jun
+Sep
+Dec
+Mar
+Sep 
+Dec  
+Liquid Asset Ratio
+ Required Liquid Asset Ratio
+2025
+2026
+2024
+=== PAGE 36 ===
+FIRST QUARTER REPORT | 2026
+30
+Central Bank of Somalia
+Source: CBS, 2026
+Table 12: Remittance Inflows in Millions of US Dollars (2023Q1-2026Q1)
+Q3
+Individual 
+Remittance
+Business
+NGO 
+Transfers
+Other Swift 
+Transfers
+Total
+Grand Total
+2023
+Q1
+Banks
+15
+115
+75
+329
+534
+  1,442
+MTBS
+547
+143
+218
+-
+908
+Q2
+Banks
+29
+119
+75
+330
+553
+  1,407
+MTBS
+519
+161
+174
+-
+854
+Q3
+Banks
+79
+128
+80
+334
+621
+  1,373
+MTBS
+451
+131
+170
+-
+752
+Q4
+Banks
+100
+168
+84
+342
+694
+  1,448
+MTBS
+440
+121
+192
+-
+754
+2024
+Q1
+Banks
+190
+395
+105
+42
+731
+  1,553
+MTBS
+478
+167
+177
+0
+822
+Q2
+Banks
+232
+456
+121
+45
+853
+  1,626
+MTBS
+447
+159
+167
+-
+774
+Q3
+Banks
+246
+439
+108
+49
+842
+  1,627
+MTBS
+456
+153
+175
+-
+785
+Q4
+Banks
+237
+457
+139
+53
+887
+  1,628
+MTBS
+433
+130
+178
+-
+741
+2025
+Q1
+Banks
+265
+461
+126
+48
+900
+  1,686
+MTBS
+537
+155
+94
+-
+786
+Q2
+Banks
+242
+505
+148
+52
+947
+   1,688
+MTBS
+508
+137
+96
+-
+741
+Q3
+Banks
+247
+491
+123
+50
+911
+1,689
+MTBs
+535
+117
+126
+-
+778
+Q4
+Banks
+239
+495
+105
+112
+951
+1,724
+MTBs
+562
+94
+117
+-
+773
+2026
+Q1
+Banks
+233
+429
+100
+49
+811
+          1,588 
+MTBs
+642
+61
+74
+0
+777
+5.2 Remittances
+Total Inward remittance transfers amounted to 
+US$1,587.9 million in the first quarter of 2026, 
+representing an 8 percent decline from US$1,723.8 
+million recorded in the fourth quarter of 2025 and 
+a 6 percent decrease compared with US$1,685.7 
+million in the corresponding quarter of 2025. The 
+quarterly decline partly reflects seasonal patterns, 
+as the fourth quarter typically records higher inflows 
+linked to year-end transfers and holiday-related 
+remittances. Despite the moderation, inward 
+transfers remained substantial and continued to 
+support household consumption, private sector 
+activity, and humanitarian operations across 
+the country. In terms of individual remittances 
+were the largest component of total inflows, 
+amounting to US$875.0 million and accounting 
+for 55 percent of total inflows. Business transfers 
+totaled US$489.7 million, representing about 31 
+percent, while NGO-related transfers reached 
+US$173.7 million, or 11 percent. Compared with 
+2025Q1, individual remittances increased from 
+US$801.6 million in 2025Q1, representing 9 percent 
+while business transfers declined from US$615.2 
+million (20 percent)  and NGO transfers fell from 
+US$220.5 million (21 percent).
+=== PAGE 37 ===
+FIRST QUARTER REPORT | 2026
+31
+Central Bank of Somalia
+Figure 23: Total Inward Transfers (2023Q1-2026Q1)
+Source: CBS, 2026
+Commercial banks processed US$811.3 million in 
+inward transfers during the first quarter of 2026, 
+compared with US$951.1 million in 2025Q4 and 
+US$900.1 million in 2025Q1, representing quarterly 
+and annual declines of 15 percent and 10 percent 
+respectively. Business transfers remained the 
+main component of bank-facilitated inflows at 
+US$428.6 million, accounting for approximately 
+53 percent of total commercial bank inflows. 
+Individual remittances processed through banks 
+amounted to US$233.4 million, representing 
+29 percent of bank inflows, while NGO-related 
+transfers totaled US$99.9 million.
+Money transfer businesses processed US$776.6 
+million in inward transfers during the quarter, 
+broadly stable compared with US$772.7 million 
+in 2025Q4 but lower than US$785.5 million in 
+2025Q1. Individual remittances remained the main 
+component of MTB inflows at US$641.6 million, 
+accounting for approximately 83 percent of total 
+MTB transfers. This is consistent with the role 
+of MTBs as the primary channel for household 
+remittances. Business transfers through MTBs 
+amounted to US$61.1 million, representing 8 
+percent, while NGO-related transfers totaled 
+US$73.8 million, or 10 percent.
+The distribution of inflows across channels shows 
+a clear division of roles within Somalia’s remittance 
+system. Commercial banks remained the main 
+channel for higher-value business and institutional 
+transfers, while money transfer businesses 
+continued to handle most personal remittance 
+flows. The relative stability of MTB volumes, 
+compared with the sharper decline in commercial 
+bank inflows, suggests that household remittance 
+flows were more resilient than institutional transfers 
+during the quarter.
+562 
+548 
+530 
+541 
+668 
+679 
+703 
+670 
+802 
+750 
+781 
+801 
+875 
+258 
+280 
+259 
+289 
+562 
+615 
+592 
+587 
+615 
+641 
+608 
+589 
+490 
+293 
+249 
+250 
+277 
+282 
+288 
+283 
+317 
+221 
+244 
+249 
+222 
+174 
+329 
+330 
+334 
+342 
+42 
+45 
+49 
+53 
+48 
+52 
+50 
+112 
+49 
+1,442 
+1,407 
+1,373 
+1,448 
+1,553 
+1,626 
+1,627 
+1,628 
+1,686 
+1,688 
+1,688 
+1,724 
+1,588 
+ -
+ 200
+ 400
+ 600
+ 800
+ 1,000
+ 1,200
+ 1,400
+ 1,600
+ 1,800
+ 2,000
+ -
+ 100
+ 200
+ 300
+ 400
+ 500
+ 600
+ 700
+ 800
+ 900
+ 1,000
+ 2023Q1
+ 2023Q2
+ 2023Q3
+ 2023Q4
+ 2024Q1
+ 2024Q2
+ 2024Q3
+ 2024Q4
+ 2025Q1
+ 2025Q2
+ 2025Q3
+ 2025Q4
+ 2026Q1
+ Individuals
+ Business
+ NGOs
+ Other TT
+ Total
+=== PAGE 38 ===
+FIRST QUARTER REPORT | 2026
+32
+Central Bank of Somalia
+Figure 24: Remittance Inflows by Source and Channel in 2026Q1
+Source: CBS, 2026
+5.3	National Payment System
+Payment system activity moderated in the first 
+quarter of 2026 after the elevated levels recorded in 
+the fourth quarter of 2025, which were partly driven 
+by a sharp increase in December transaction values. 
+The system operated through two main channels: 
+the Real Time Gross Settlement system, which 
+processes large-value interbank payments, and 
+the Automated Clearing House, which facilitates 
+retail and lower-value transactions.
+During the quarter, the national payment system 
+processed 337,788 transactions with a combined 
+value of approximately US$592.9 million. Compared 
+with the previous quarter, transaction volume 
+declined by 14 percent from 392,103 transactions, 
+while transaction value fell by 26 percent from 
+US$798 million. On a year-on-year basis, transaction 
+volumes were broadly stable compared with 
+339,504 transactions in 2025Q1, while total 
+transaction value increased by 23 percent from 
+US$484.3 million, indicating a higher average 
+value of payments processed through the system.
+RTGS processed 10,558 transactions during the 
+quarter with a combined value of approximately 
+US$467.8 million. Although RTGS accounted for 
+less than 4 percent of total transaction volume, it 
+represented around 79 percent of total transaction 
+value, consistent with its role in settling large-value 
+interbank obligations. On a year-on-year basis, 
+RTGS transaction value increased by 31 percent 
+from US$357.9 million in 2025Q1, pointing to 
+stronger high-value payment activity.
+The Automated Clearing House accounted for most 
+payment activity by volume, processing 327,230 
+transactions with a combined value of US$125.2 
+million during the quarter. ACH transactions 
+represented approximately 97 percent of total 
+system volume, broadly in line with previous 
+quarters. On a year-on-year basis, ACH transaction 
+value declined slightly by 1 percent from US$126.4 
+million 
+in 
+2025Q1, 
+while 
+volumes 
+declined 
+modestly from 330,251 transactions. 
+233
+429
+100
+49
+642
+61
+74
+0
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Individual Remittance
+Business
+NGO Transfers
+Other Swift Transfers
+In Millions of US Dollars
+2026 Bs  Q1
+2026 MTBs Q1
+Banks
+MTBs
+=== PAGE 39 ===
+FIRST QUARTER REPORT | 2026
+33
+Central Bank of Somalia
+Source: CBS, 2026
+Table 13: National Payment System Transactions and Values (2024Q1-2026Q1)
+2024
+2025
+2026
+ 
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+RTGS
+294
+319
+349
+460
+358
+417
+457
+619
+468
+ACH
+101
+136
+127
+154
+126
+125
+142
+179
+125
+Total Value in Millions of US$
+395
+455
+476
+614
+484
+541
+599
+798
+593
+Total Transactions
+297,037
+307,197
+321,906
+351,076
+339,504
+328,406
+349,138
+392,103
+337,788
+Figure 25: National Payment System (2024Q1-2026Q1)
+Source: CBS, 2026
+294
+319
+349
+460
+358
+417
+457
+619
+468
+101
+136
+127
+154
+126
+125
+142
+179
+125
+395
+455
+476
+614
+484
+541
+599
+798
+593
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+0
+100
+200
+300
+400
+500
+600
+700
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+2024
+2025
+2026
+In Millions of US Dollars 
+RTGS
+ACH
+Total Value in Millions of US$
+=== PAGE 40 ===
+Statistical Appendices
+Statistical 
+Appendices
+FIRST QUARTER REPORT | 2026
+34
+Central Bank of Somalia
+=== PAGE 41 ===
+FIRST QUARTER REPORT | 2026
+35
+Central Bank of Somalia
+APPENDIX I. FINANCIAL SECTOR STATISTICS
+1. Financial Sector Data
+a. Consolidated Commercial Banks Data (2022Q1-2026Q1)
+Year
+Month
+Consolidated Assets
+Consolidated Liabilities and Owner's Equity
+Financing 
+Assets
+Investments 
+Assets
+Other Assets
+Total Assets
+Customer 
+Deposits
+Microfinanc
+Loans
+Other Liabil-
+ities
+Total liabil-
+ities
+Total 
+shareholders’ 
+Equity
+Total 
+Liabilities and 
+Equity
+2022
+March
+238.7 
+188.9 
+92.2 
+1,256.8 
+951.3 
+4.1 
+66.4 
+1,037.2 
+197.0 
+1,256.8 
+June
+253.8 
+213.3 
+74.2 
+1,326.2 
+1,018.8 
+0.0 
+75.2 
+1,114.3 
+212.0 
+1,326.2 
+Sep
+275.9 
+221.3 
+79.8 
+1,386.5 
+1,029.7 
+2.5 
+102.3 
+1,171.3 
+215.2 
+1,386.5 
+Dec
+293.4 
+244.5 
+71.9 
+1,462.5 
+1,164.3 
+2.9 
+57.2 
+1,247.4 
+215.1 
+1,462.5 
+2023
+March
+314.0 
+239.0 
+188.3 
+1,485.9 
+1,171.3 
+2.9 
+62.9 
+1,268.1 
+217.8 
+1,485.9 
+June
+341.2 
+224.1 
+117.3 
+1,439.6 
+1,113.0 
+2.9 
+57.1 
+1,218.5 
+221.1 
+1,439.6 
+Sep
+412.2 
+266.5 
+123.9 
+1,689.2 
+1,296.8 
+2.9 
+80.7 
+1,399.7 
+289.5 
+1,689.2 
+Dec
+404.0 
+301.8 
+105.0 
+1,795.5 
+1,430.9 
+3.9 
+51.9 
+1,506.1 
+289.4 
+1,795.5 
+2024
+Mar
+ 392.1 
+ 336.0 
+   89.9 
+ 1,813.7 
+ 1,463.3 
+ 6.0 
+ 35.2 
+ 1,520.1 
+ 293.5 
+1,813.7
+June
+430.5 
+291.1
+118.0 
+1,904.0 
+1,555.5 
+6.3 
+30.3 
+1,609.4 
+294.6 
+1,904.0 
+Sep
+ 445.5 
+ 299.2 
+ 115.8 
+ 1,970.5 
+ 1,598.6 
+ 2.9 
+ 47.2 
+ 1,668.6 
+ 302.0 
+1,970.5
+Dec 
+ 472.6 
+ 324.1 
+   57.7 
+ 2,020.2 
+ 1,651.4 
+ 3.4 
+ 39.2 
+ 1,715.6 
+ 304.6 
+ 2,020.2 
+2025
+Mar
+490.5
+334.6
+61.4
+2,020.7
+1,651.3
+3.4
+40.7
+1,710.2
+310.5
+2,020.7
+Jun
+510.7
+327.8
+46.4
+2,108.8
+1,724.1
+3.4
+48.8
+1,795.3
+313.5
+2,108.8
+Sep
+534.9
+322.6
+31.9
+2,191.0
+1,612.0
+3.3
+56.5
+1,869.2
+321.9
+2,191.0
+Dec
+540.0 
+359.5 
+29.9 
+2,298.6 
+1,630.1 
+6.8 
+65.8 
+1,975.6 
+322.9 
+2,298.6 
+2026
+March
+590.9
+385.6
+47.1
+2,352.3
+1,650.5
+0.2
+99.8
+2,029.6
+322.7
+2,352.3
+Source: CBS, 2026	
+Inflow
+Remittances
+Business
+Grants
+Other Swift Transfer 
+TT
+Total
+Grand Total
+2022
+Q1
+545.54
+263.93
+184.89
+117.87
+1,112.23
+4,746.1 
+Q2
+560.36
+242.31
+216.5
+109.83
+   1,129
+Q3
+536.98
+217.44
+248.3
+109.83
+1,112.55
+Q4
+507.98
+260.81
+293.95
+329.55
+1,392.29
+2023
+Q1
+562.33
+258.47
+293
+328.63
+1,442.43
+5,669.8
+Q2
+548.48
+279.69
+248.67
+329.84
+1,406.68
+Q3
+529.91
+258.75
+250.18
+333.84
+1,372.68
+Q4
+540.57
+288.87
+276.73
+341.77
+1,447.94
+2024
+Q1
+ 667.9 
+ 561.6 
+ 282.0 
+ 41.5 
+ 1,553.1 
+6,433.9 
+Q2
+ 679.0 
+ 614.9 
+ 287.7 
+ 44.6 
+ 1,626.1 
+Q3
+ 702.8 
+ 592.0 
+ 282.9 
+ 49.0 
+ 1,626.8 
+Q4
+ 670.3 
+ 587.3 
+ 317.0 
+ 53.4 
+ 1,628.0 
+2025
+Q1
+ 801.6 
+615.2 
+ 220.5 
+ 48.3 
+ 1,685.6 
+ 6,785.7
+Q2
+ 749.6
+ 641.4
+ 244.5 
+ 52.4 
+ 1,687.9 
+Q3
+781.5 
+ 608.1 
+249.0 
+49.9 
+1,688.4 
+Q4
+ 800.8 
+ 589.1 
+222.2
+111.62
+1,723.8
+2026
+Q1
+875.01 
+489.70 
+173.70 
+49.45 
+1,587.86 
+1,587.86
+Source: CBS, 2026
+b. Total Inward Transfers (MTBs and Banks), 2022Q1-2026Q1
+=== PAGE 42 ===
+FIRST QUARTER REPORT | 2026
+36
+Central Bank of Somalia
+c. National Payment System Statistics (2022M1-2026M3)
+Year
+ Month 
+ Total Value in US$ 
+ Total Transactions  
+2022
+January 
+55,866,105
+63,384
+February 
+75,149,507
+74,314
+March 
+90,413,886
+76,169
+April 
+133,080,285
+75,878
+May 
+103,553,848
+70,416
+June 
+111,389,857
+80,692
+July 
+108,980,321
+71,131
+August 
+124,819,484
+77,212
+September 
+167,490,844
+77,964
+October 
+141,024,060
+84,423
+November 
+143,940,321
+79,113
+December 
+170,371,751
+92,208
+2023
+January
+91,138,394
+68,639
+February 
+130,539,859
+81,132
+March 
+131,871,272
+82,533
+April 
+125,973,546
+76,944
+May 
+116,501,322
+83,862
+June 
+107,317,866
+82,017
+July 
+175,821,041
+95,017
+August 
+157,567,915
+81,653
+September 
+173,500,848
+84,385
+October 
+156,699,911
+119,531
+November 
+166,123,192
+98,871
+December 
+175,458,194
+107,519
+2024
+January
+101,423,228
+80,498
+February
+121,310,653
+97,846.00
+March
+172,314,768
+118,693.00
+April
+131,945,166
+96,457.00
+May
+157,149,839
+112,414.00
+June
+165,963,730
+98,326.00
+July
+162,583,128
+104,769.00
+August
+171,429,982
+124,552.00
+September
+141,891,448
+92,585.00
+October
+180,351,791
+119,371.00
+November
+194,236,252
+96,366.00
+December
+238,398,186
+135,339.00
+2025
+January
+113,050,273
+88,421.00
+February
+166,051,504
+122,356.00
+March
+205,223,267
+128,727.00
+April
+136,145,701
+96,381.00
+May
+240,720,064
+125,410.00
+June
+164,591,945
+106,615.00
+July
+207,700,079
+119,811
+August
+179,663,316
+107,407
+September
+211,328,000
+121,920
+October
+179,892,170
+131,257
+November
+236,080,883
+114,453
+December
+381,849,738
+146,393
+2026
+January
+144,412,768
+90,563
+February
+197,056,326
+119,426
+March
+251,455,916
+127,799
+Source: CBS, 2026
+=== PAGE 43 ===
+FIRST QUARTER REPORT | 2026
+37
+Central Bank of Somalia
+d. Financial Soundness Indicators (FSIs): Percentages, 2022Q1-2026Q1
+2022
+2023
+2024
+2025
+2026
+Core Indicators 
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Capital Adequacy (%) 
+Regulatory capital to 
+risk-weighted assets 
+26
+26
+28
+25
+20
+22
+24
+24
+15.1
+14
+16
+18.8
+20.6
+17.6
+17
+15.3
+15.1
+Tier 1 capital to risk-
+weighted assets 
+26
+26
+28
+25
+20
+22
+24
+24
+15
+13
+15
+17.2
+19.1
+16.1
+15
+13.7
+13.9
+Nonperforming loans net 
+of provisions to capital
+3.6
+3.9
+3
+2.6
+5.2
+6.4
+3.2
+1.7
+2
+3.2
+2.4
+2.4
+2.3
+3.7
+2.8
+2.6
+2.5
+Common Equity Tier 1 
+capital to risk-weighted 
+assets
+26
+26
+28
+25
+20
+22
+24
+24
+15
+13
+15
+17.2
+19.1
+16.1
+15
+13.7
+13.9
+Tier 1 capital to assets 
+14
+15
+17
+16
+14
+14
+16
+15
+14
+13
+12
+12
+12.8
+12.3
+13
+11.8
+11.7
+Asset Quality (%) 
+Nonperforming loans to 
+total gross loans 
+3.4
+3.5
+3
+1.8
+3.7
+5
+3.1
+2.3
+2.6
+3.1
+2.8
+2.7
+2.8
+3.4
+2.9
+2.6
+2.8
+Loan concentration by 
+economic activity 
+90
+90
+91
+94
+79
+70
+69
+73
+80.5
+76
+78
+75.8
+74.4
+74.5
+73
+73.4
+72.8
+Provisions for 
+nonperforming loans 
+29
+27
+28
+2.9
+22
+32
+40
+59
+55.3
+45
+55
+54.2
+55.4
+45.3
+52
+53.5
+55.5
+Earnings & Profitability 
+(%)
+Return on assets 
+1
+0.8
+1.7
+1.8
+0.4
+0.4
+0.6
+0.3
+0.5
+0.7
+0.6
+0.5
+0.7
+0.7
+0.7
+0.5
+0.9
+Return on equity 
+6.9
+5.5
+12
+12
+2.8
+2.7
+3.9
+2.1
+3.5
+4.7
+4.2
+3.5
+4.7
+4.6
+5.2
+5
+6.8
+Interest margin to gross 
+income 
+70
+73
+74
+73
+72
+73
+71
+66
+74
+73
+73
+72
+69.7
+71.1
+72
+73.2
+73.1
+Noninterest expenses to 
+gross income 
+80
+83
+70
+70
+92
+92
+88
+94
+87.9
+85
+86
+89.2
+83.6
+84.1
+82
+88.8
+77.1
+ Liquidity (%)
+Liquid assets to total 
+assets 
+51
+52
+50
+49
+43
+46
+46
+49
+49.2
+50
+50
+51.6
+51.7
+52.1
+54
+54.1
+51.1
+Liquid assets to short-
+term liabilities 
+68
+71
+71
+63
+57
+61
+64
+65
+65.1
+65
+65
+66.7
+67.8
+67.8
+70
+70.1
+67
+Liquidity Coverage Ratio 
+(LCR) 
+-
+-
+-
+-
+-
+-
+-
+-
+303
+361
+448
+413
+362
+417
+373
+317
+265
+Additional FSIs for Deposit Takers (DTs) (%)
+Personnel expenses to 
+noninterest expenses 
+40
+41
+43
+45
+39
+38
+39
+36
+37.9
+39
+39
+34.6
+41.4
+39.9
+40
+33.2
+40
+Customer deposits to 
+total (no interbank) loans 
+409
+401
+373
+397
+373
+326
+315
+354
+373
+361
+359
+349
+337
+338
+301
+302
+274
+Credit growth to private 
+sector 
+46
+19
+20
+28
+29
+36
+56
+46
+31.1
+33
+10
+16.8
+27
+16.7
+16
+13
+20.5
+FSIs for Real Estate Markets (REMs) (%)
+Residential real estate 
+loans to total gross loans 
+14
+13
+13
+12
+18
+15
+11
+8.6
+8.6
+17
+14
+13.4
+13.2
+12.2
+12
+11.1
+11.8
+Commercial real estate 
+loans to total gross loans 
+-
+-
+-
+-
+1.4
+1.7
+7.4
+7.4
+7.3
+7.3
+8
+7.8
+8.2
+11.5
+11
+11.3
+11.6
+Source: CBS 2026
+=== PAGE 44 ===
+FIRST QUARTER REPORT | 2026
+38
+Central Bank of Somalia
+APPENDIX II. EXTERNAL SECTOR STATISTICS
+1. Export and Import of Goods (Value in US Dollars), 2022M1-2026M3
+Year
+Month
+Total Value of Exports 
+Total Value of Imports
+Trade Balance
+2022
+Jan
+43,581,688.08
+413,886,686.76
+-370,304,998.68
+Feb
+45,420,121.52
+394,751,806.77
+-349,331,685.25
+Mar
+52,729,333.60
+495,060,299.20
+-442,330,965.60
+April
+49,838,579.13
+497,835,554.13
+-447,996,974.99
+May
+46,253,289.27
+586,992,912.16
+-540,739,622.89
+June
+140,285,056.96
+571,294,855.01
+-431,009,798.05
+July
+55,582,305.80
+489,097,747.47
+-433,515,441.67
+Aug
+37,858,666.33
+638,865,301.06
+-601,006,634.73
+Sep
+79,141,939.67
+583,411,525.82
+-504,269,586.15
+Oct
+39,835,739.33
+591,042,596.98
+-551,206,857.65
+Nov
+48,217,595.67
+572,758,652.55
+-524,541,056.88
+Dec
+65,300,596.00
+544,519,641.20
+-479,219,045.20
+2023
+Jan
+74,771,289.60
+601,574,856.55
+-526,803,566.95
+Feb
+71,246,280.40
+522,650,816.48
+-451,404,536.08
+Mar
+71,203,751.20
+519,478,163.92
+-448,274,412.72
+April
+46,668,046.00
+629,711,058.85
+-583,043,012.85
+May
+111,579,462.13
+632,885,992.51
+-521,306,530.38
+June
+320,610,522.53
+500,391,878.96
+-179,781,356.43
+July
+58,831,351.13
+674,608,904.08
+-615,777,552.95
+Aug
+60,398,242.13
+586,071,077.55
+-525,672,835.42
+Sep
+44,175,847.60
+562,810,994.67
+-518,635,147.07
+Oct
+49,383,190.33
+582,177,997.37
+-532,794,807.04
+Nov
+41,912,835.33
+584,498,187.67
+-542,585,352.34
+Dec
+58,708,781.67
+558,602,532.86
+-499,893,751.19
+2024
+Jan
+88,897,845.61
+586,927,995.78
+-498,030,150.17
+Feb
+105,836,857.83
+681,026,934.54
+-575,190,076.72
+Mar
+102,672,538.53
+669,243,652.42
+-566,571,113.89
+April
+96,161,492.90
+547,801,613.28
+-451,640,120.39
+May
+116,458,569.08
+624,574,285.79
+-508,115,716.70
+June
+217,928,986.19
+602,932,951.23
+-385,003,965.04
+July
+69,398,837.73
+690,584,302.82
+-621,185,465.09
+Aug
+77,021,025.46
+703,303,926.06
+-626,282,900.60
+Sep
+91,234,326.38
+560,897,051.92
+-469,662,725.54
+Oct
+58,082,649.73
+774,567,392.89
+-716,484,743.17
+Nov
+32,631,789.34
+712,836,627.18
+-680,204,837.84
+Dec
+115,424,480.21
+748,163,252.23
+-632,738,772.02
+=== PAGE 45 ===
+FIRST QUARTER REPORT | 2026
+39
+Central Bank of Somalia
+2025
+Jan
+72,634,825.94
+702,971,164.49
+-630,336,338.55
+Feb
+117,634,081.56
+791,973,185.97
+-674,339,104.41
+Mar
+96,774,731.71
+635,894,369.03
+-539,119,637.32
+April
+100,103,554.16
+568,197,377.96
+-468,093,823.80
+May
+150,016,987.11
+613,907,453.86
+-463,890,466.75
+June
+140,715,340.34
+542,417,443.01
+-401,702,102.67
+July
+54,939,589.11
+689,476,541.27
+-634,536,952.16
+Aug
+81,739,847.54
+664,929,945.74
+-583,190,098.20
+Sept
+162,408,583.95
+645,286,631.86
+-482,878,047.91
+Oct
+75,437,171.01
+987,509,349.31
+-912,072,178.30
+Nov
+126,205,500.07
+815,640,526.26
+-689,435,026.19
+Dec
+81,923,789.09
+1,011,081,727.43
+-929,157,938.34
+2026
+Jan
+72,398,769.51
+844,579,018.94
+-772,180,249.43
+Feb
+161,220,154.41
+863,845,042.94
+-702,624,888.53
+Mar
+111,293,627.79
+770,312,477.31
+-659,018,849.52
+Source: MoF with CBS Price Adjustments, 2026
+2. Export of Livestock (Heads), 2022M1-2026M3
+Total Heads of Livestock Export
+Year
+Month
+Camel
+Cattle
+Sheep & Goats
+Total Livestock
+2022
+ Jan 
+      4,152 
+    23,002 
+      191,878 
+ 219,032 
+ Feb 
+      7,029 
+    12,269 
+      207,977 
+ 227,275 
+ Mar 
+      7,240 
+    17,699 
+      261,504 
+ 286,443 
+ Apr 
+      2,838 
+    14,445 
+      324,483 
+ 341,766 
+ May 
+      5,449 
+    10,251 
+      287,310 
+ 303,010 
+ Jun 
+    15,899 
+    30,836 
+    1,018,622 
+     1,065,357 
+Jul
+      3,981 
+    19,226 
+      324,770 
+ 347,977 
+Aug
+      5,382 
+    13,264 
+      193,053 
+ 211,699 
+Sept
+      1,982 
+    81,962 
+ 86,655 
+ 170,599 
+Oct
+    11,930 
+    22,690 
+      107,863 
+ 142,483 
+Nov
+    15,527 
+    28,765 
+      130,217 
+ 174,509 
+Dec
+    11,025 
+    32,436 
+      167,694 
+ 211,155
+=== PAGE 46 ===
+FIRST QUARTER REPORT | 2026
+40
+Central Bank of Somalia
+Total Heads of Livestock Export  
+Year
+Month
+Camel
+Cattle
+Sheep & Goats
+Total Livestock
+2023
+Jan 
+    13,613 
+    35,974 
+      351,930 
+ 401,517 
+Feb 
+    21,294 
+    40,132 
+      311,339 
+ 372,765 
+Mar 
+    14,996 
+    39,292 
+      413,044 
+ 467,332 
+Apr 
+      3,561 
+    34,682 
+      318,211 
+ 356,454 
+May 
+    26,967 
+    25,655 
+      819,542 
+ 872,164 
+Jun 
+    24,714 
+    53,733 
+    3,300,501 
+     3,378,948 
+Jul
+    33,755 
+      9,892 
+      221,512 
+ 265,159 
+Aug
+    18,366 
+    20,048 
+      161,932 
+ 200,346 
+Sept
+      8,451 
+    15,517 
+      201,264 
+ 225,232 
+Oct
+      9,454 
+    16,383 
+      253,874 
+ 279,711 
+Nov
+    15,912 
+    14,520 
+      185,061 
+ 215,493 
+Dec
+20,109
+21,214
+306,031
+347,354
+2024
+Jan 
+19,318
+27,844
+354,453
+401,615
+Feb 
+25,263
+30,518
+451,001
+506,782
+Mar 
+21,648
+27,694
+440,046
+489,388
+April
+24,414
+27,806
+467,489
+519,709
+May
+13,032
+25,630
+854,336
+892,998
+June
+14,019
+14,116
+1,064,949
+1,093,083
+July
+13,451
+31,434
+1,649,532
+1,694,416
+Aug
+21,568
+13,595
+260,208
+295,371
+Sep
+22,040
+28,003
+308,727
+358,770
+Oct
+6,337
+25,283
+274,150
+305,770
+Nov
+10,748
+23,089
+349,580
+383,417
+Dec
+24,157
+20,845
+385,863
+430,865
+2025
+Jan 
+13,018
+19,123
+297,523
+329,664
+Feb 
+30,107
+28,655
+493,197
+551,959
+Mar 
+13,007
+20,448
+468,682
+502,137
+April
+13,676
+1,598
+560,755
+576,029
+May
+20,494
+2,303
+929,550
+952,347
+June
+14,624
+2,678
+883,346
+900,648
+July
+9,905
+20,200
+309,662
+339,767
+Aug
+11,188
+29,485
+289,242
+329,916
+Sep
+3,756
+31,307
+276,799
+311,861
+Oct
+12,884 
+24,479 
+259,387 
+296,751 
+Nov
+19,451 
+22,275 
+362,939 
+404,665 
+Dec
+26,108
+15,256
+307,677
+349,041
+2026
+Jan 
+10,784
+20,665
+296,825
+328,274
+Feb 
+32,792
+29,079
+523,377
+585,248
+Mar 
+14,985
+22,176
+473,729
+510,891
+Source: MoF with CBS Price Adjustments, 2026
+=== PAGE 47 ===
+FIRST QUARTER REPORT | 2026
+41
+Central Bank of Somalia
+3. Export of Livestock (Values), 2022M1-2026M3
+Total Value of Livestock Export (In Millions of US Dollars)
+Year
+Month
+Camel
+Cattle
+Sheep & Goats
+Total Livestock
+2022
+ Jan 
+       4,284,864 
+       11,869,032 
+   17,729,527 
+ 33,883,423 
+ Feb 
+       7,253,928 
+  6,330,804 
+   19,217,075 
+ 32,801,807 
+ Mar 
+       7,471,680 
+  9,132,684 
+   24,162,970 
+ 40,767,334 
+ Apr 
+       2,945,844 
+  7,678,962 
+   31,150,368 
+ 41,775,174 
+ May 
+       5,656,062 
+  5,449,432 
+   27,581,760 
+ 38,687,254 
+ Jun 
+     16,503,162 
+       16,392,418 
+   97,787,712 
+130,683,292 
+Jul
+       3,821,760 
+  9,228,480 
+   31,177,920 
+ 44,228,160 
+Aug
+       4,080,828 
+  6,360,756 
+   18,483,888 
+ 28,925,472 
+Sept
+       1,902,720 
+       39,341,760 
+     8,318,880 
+ 49,563,360 
+Oct
+     11,452,800 
+       10,891,200 
+   10,354,848 
+ 32,698,848 
+Nov
+     14,951,520 
+       13,918,800 
+   12,503,232 
+ 41,373,552 
+Dec
+     10,595,881 
+       16,295,411 
+   16,103,988 
+ 42,995,280 
+2023
+ Jan 
+     16,335,600 
+       17,267,520 
+36,319,176 
+69,922,296 
+ Feb 
+     25,552,800 
+       19,263,360 
+32,130,185 
+76,946,345 
+ Mar 
+     17,995,200 
+       18,860,160 
+42,626,141 
+79,481,501 
+ Apr 
+       4,273,200 
+       16,647,360 
+32,839,375 
+53,759,935 
+ May 
+     32,360,400 
+       12,314,400 
+84,576,734 
+129,251,534 
+ Jun 
+     29,656,800 
+       25,791,840 
+340,611,703 
+396,060,343 
+Jul
+     34,430,100 
+  4,273,344 
+18,607,008 
+57,310,452 
+Aug
+     18,733,320 
+  8,660,736 
+13,602,288 
+40,996,344 
+Sept
+       8,620,020 
+  6,703,344 
+16,906,176 
+32,229,540 
+Oct
+       9,643,080 
+  6,291,072 
+22,848,660 
+38,782,812 
+Nov
+16,230,240
+5,575,680
+16,655,490
+38,461,410
+Dec
+20,511,180
+8,146,176
+27,542,790
+56,200,146
+2024
+ Jan 
+20,167,992
+12,696,864
+35,728,862
+68,593,718
+ Feb 
+26,374,572
+13,916,208
+45,460,901
+85,751,681
+ Mar 
+22,600,512
+12,628,464
+44,356,637
+79,585,613
+April
+26,366,580
+13,346,880
+49,366,865
+89,080,325
+May
+14,074,290
+12,302,280
+90,217,908
+116,594,478
+June
+15,139,980
+6,775,680
+112,458,562
+134,374,222
+Jul
+24,587,862
+6,525,504
+26,541,196
+57,654,562
+Aug
+20,642,892
+11,035,771
+28,974,130
+60,652,793
+Sep
+25,125,041
+13,441,632
+31,490,164
+70,056,838
+ Oct 
+6,767,916
+11,073,954
+26,976,360
+44,818,230
+ Nov 
+11,478,864
+10,112,982
+34,398,672
+55,990,518
+ Dec 
+25,799,676
+9,130,110
+37,968,919
+72,898,705
+=== PAGE 48 ===
+FIRST QUARTER REPORT | 2026
+42
+Central Bank of Somalia
+Total Value of Livestock Export (In Millions of US Dollars)
+Year
+Month
+Camel
+Cattle
+Sheep & Goats
+Total Livestock
+2025
+ Jan 
+ 14,606,196 
+ 8,949,564 
+ 31,775,456 
+ 55,331,216 
+ Feb 
+ 33,780,054 
+ 13,410,540 
+ 52,673,440 
+ 99,864,034 
+ Mar 
+ 14,593,854 
+ 9,569,664 
+ 50,055,238 
+ 74,218,756 
+April
+ 15,918,864 
+ 814,980 
+ 63,926,070 
+ 80,659,914 
+May
+ 23,855,016 
+ 664,530 
+ 105,968,700 
+ 130,488,246 
+June
+ 17,022,336 
+ 855,780 
+ 100,701,444 
+ 118,579,560 
+Jul
+4,283,794
+8,272,498
+16,972,752
+29,529,044
+Aug
+6,663,679
+12,868,330
+26,402,059
+45,934,068
+Sep
+12,851,381
+24,817,493
+50,918,257
+88,587,131
+Oct
+  12,368,785 
+11,162,615 
+28,013,840 
+51,545,240 
+Nov
+  18,673,034 
+10,157,500 
+39,197,367 
+68,027,901 
+Dec
+25,063,786
+6,956,873
+33,229,099
+65,249,757
+2026
+ Jan 
+12,293,793
+11,159,179
+34,906,631
+58,359,603
+ Feb 
+37,382,767
+15,702,795
+61,549,161
+114,634,722
+ Mar 
+17,083,049
+11,975,271
+55,710,552
+84,768,872
+Source: MoF & FSNAU with CBS valuations and adjustments, 2026
+Year/Month
+Buying Rate
+Selling Rate
+Mid-Rate
+Year
+Month
+(SOS/US$)
+(SOS/US$)
+(SOS/US$)
+2022
+Jan
+26064.63
+2,6073.89
+26,069.26
+Feb
+25,344.58
+25,424.17
+25,284.38
+Mar
+26,022.22 
+26,032.59 
+26,027.41 
+Apr
+26,433.20 
+26,551.20 
+26,492.20 
+May
+26,236.80 
+26,526.80 
+26,381.80 
+Jun
+26,983.08 
+26,993.08 
+26,988.08 
+Jul
+26,949.13 
+27,002.17 
+26,975.65 
+Aug
+27,056.41 
+27,066.37 
+27,061.39 
+Sep
+27,059.40 
+27,069.40 
+27,064.40 
+Oct
+27,485.37 
+27,529.44 
+27,507.41
+Nov
+28,013.08 
+28,023.08 
+28,018.08
+Dec
+28,014.62 
+28,025.77 
+28,020.19
+2023
+Jan
+27,565.19 
+27,643.15 
+27,604.17 
+Feb
+26,082.50 
+26,242.50 
+26,162.50 
+Mar
+26,229.62 
+26,274.23 
+26,251.92 
+Apr
+27,050.00 
+27,060.00 
+27,055.00 
+May
+27,308.08 
+27,318.08 
+27,313.08 
+Jun
+27,057.73
+27,067.73
+27,062.73
+Jul
+ 27,041.54 
+ 27,051.54 
+ 27,046.54 
+Aug
+ 27,044.07 
+ 27,054.07 
+ 27,049.07 
+Sep
+27,066.00 
+27,076.00 
+27,071.00 
+Oct
+27,640.00 
+27,820.00 
+27,730.00 
+Nov
+28,032.31 
+28,042.31 
+28,037.31 
+Dec
+28,024.23
+28,034.23
+28,029.23
+4. Exchange Rate Series (2022M1-2026M3)
+=== PAGE 49 ===
+FIRST QUARTER REPORT | 2026
+43
+Central Bank of Somalia
+2024
+Jan
+28,032.59
+28,042.59
+28,037.59
+Feb
+28,028.60
+28,038.60
+28,033.60
+Mar
+28,027.31
+28,037.31
+28,032.31
+April
+28,022.31
+28,032.31
+28,027.31
+May
+28,029.63
+28,039.63
+28,034.63
+June
+28,017.27
+28,027.27
+28,022.27
+Jul
+28,037.69
+28,047.69
+28,042.69
+Aug
+28,038.08
+28,048.08
+28,043.08
+Sep
+26,971.15
+26,981.15
+26,976.15
+Oct
+28,086.11
+28,097.04
+28,091.57
+Nov
+29,029.60
+29,039.60
+29,034.60
+Dec
+29,033.70
+29,042.59
+29,038.15
+2025
+Jan
+29,018.46
+29,028.46
+29,023.46
+Feb
+28,611.67
+29,037.92
+28,824.79
+Mar
+29,160.37
+28,762.96
+28,961.67
+April
+29,988.46 
+29,998.46 
+29,993.46 
+May
+30,011.54 
+30,021.54 
+30,016.54 
+June
+29,713.85 
+29,723.85 
+29,718.85 
+Jul
+29,874.81 
+30,023.46 
+29,949.13 
+Aug
+30,012.31 
+30,027.31 
+30,019.81 
+Sep
+30,034.42 
+30,048.27
+30,041.35 
+Oct
+30,739.62 
+30,851.31
+30,795.46 
+Nov
+31,686.92 
+30,924.96
+31,853.75 
+Dec
+  32,032.96 
+32,053.52
+    32,043.24 
+2026
+Jan
+  32,031.54 
+32,046.15
+    32,038.85 
+Feb
+  30,638.92 
+31,846.83
+    31,242.88 
+Mar
+  32,045.93 
+33,125.93
+    32,585.93 
+Source: CBS, 2026
+=== PAGE 50 ===
+FIRST QUARTER REPORT | 2026
+44
+Central Bank of Somalia
+APPENDIX III. GOVERNMENT SECTOR STATISTICS
+1. Government Budget Operations (2022-2026Q1)
+2022
+2023
+2024
+2025
+2026
+Actual 
+Budget
+Actual 
+Budget
+Actual 
+Budget
+Actual 
+Budget
+Estimated 
+Budget
+YTD Budget
+Total Revenue and Grants 
+722.0
+738.0
+912.7
+919.8
+1,298.7
+153.9
+   Total Domestic Revenue 
+262.8
+329.5
+369.4
+404.2
+470.6
+100.6
+      Tax revenue 
+181.7
+224.6
+267.0
+282.5
+336.6
+70.8
+       Non-tax revenue 
+81.1
+104.9
+102.3
+121.7
+134.0
+29.7
+  Total External Grants 
+459.2
+408.5
+543.4
+515.6
+828.1
+53.3
+      Current - Grants Bilateral 
+37.1
+0.8
+29.7
+18.6
+154.4
+0.0
+      Current - Grants Multilateral 
+422.1
+407.7
+513.7
+497.0
+673.7
+53.3
+Total Expenditure 
+731.4
+720.3
+905.2
+971.2
+1,363.8
+170.9
+  Total Recurrent Expenditure 
+718.2
+705.9
+876.7
+896.5
+1,153.8
+164.4
+     Compensation of employees 
+259.6
+292.2
+341.6
+370.9
+378.5
+86.7
+     Use of goods and services 
+140.8
+138.2
+204.5
+253.9
+427.2
+37.2
+     Interest & Other Charges 
+12.7
+13.2
+7.5
+8
+7.0
+1.1
+     Subsidies 
+5.0
+5.4
+9.0
+13.0
+8.0
+0.0
+    Grants 
+111.2
+126.3
+160.3 
+179.7
+225.4
+27.2
+    Social benefits
+188.9
+130.6
+153.8
+19.1
+35.0
+0.0
+    Other expenses 
+0.0
+0.0
+0.0
+52.1
+72.7
+12.2
+ Total Capital Expenditure 
+13.2
+14.4
+28.5
+74.6
+210.0
+6.5
+   Consumption of fixed capital 
+13.2
+14.4
+28.5
+74.6
+210.0
+6.5
+Financing Gap / Surplus (-) or (+) 
+-9.4
+17.7
+7.5
+-51.3
+-65.1
+-17.0
+Source: MoF, 2026
+=== PAGE 51 ===
+FIRST QUARTER REPORT | 2026
+45
+Central Bank of Somalia
+1 
+MOGADISHU
+Month/Year
+25-Oct
+25- Nov
+25- Dec
+26-Jan
+26-Feb
+26-Mar
+Cereal/Measurement
+Price USD
+Price USD
+Price USD
+Price USD
+Price USD
+Price USD
+Cowpeas 1kg
+0.70
+0.74
+0.76
+0.90 
+0.99 
+   1.06 
+Local Sesame Oil 1L
+2.46
+2.44
+2.42
+ 2.51 
+2.76 
+  2.86 
+Red Sorghum 1 Kg
+0.43
+0.44
+0.40
+0.46 
+0.48 
+  0.55 
+Red Sorghum 50 Kg
+20.30
+19.31
+19.20
+ 21.71 
+22.41 
+23.63 
+Wheat Flour 1 Kg
+0.52
+0.52
+0.53
+0.54 
+0.56 
+  0.54 
+Wheat Grain 1 Kg
+0.75
+0.68
+        0.74
+0.74 
+0.78 
+  0.84 
+White Maize 1 Kg
+0.47
+0.44
+0.44
+ 0.53 
+0.55 
+   0.61 
+White Maize 50 Kg
+17.29
+16.32
+18.3
+ 0.53 
+0.55 
+   0.61 
+White Sorghum 1 Kg
+0.59
+0.59
+0.60
+0.60 
+0.64 
+  0.68 
+White Sorghum 50 Kg
+23.14
+24.02
+24.83
+24.83 
+28.01 
+ 27.59 
+Source: FSNAU/with CBS Price Adjustments of SOS to US Dollar, 2026
+2
+JOWHAR
+Month/Year
+25-Oct
+25- Nov
+25- Dec
+26-Jan
+26-Feb
+26-Mar
+Cereal/Measurement
+Price USD
+Price USD
+Price USD
+Price USD
+Price USD
+Price USD
+Cowpeas 1kg
+0.85
+0.89
+1.00
+1.0
+1.0
+1.0
+Local Sesame Oil 1L
+2.70
+3.00
+2.85
+3.0
+3.0
+3.0
+Red Sorghum 1 Kg
+0.37
+0.46
+0.45
+1.0
+1.0
+1.0
+Red Sorghum 50 Kg
+20.68
+21.60
+29.56
+29.0
+31.0
+30.0
+Wheat Flour 1 Kg
+0.69
+0.72
+0.71
+1.0
+1.0
+1.0
+Wheat Grain 1 Kg
+-
+-
+-
+-
+-
+-
+White Maize 1 Kg
+0.39
+0.41
+0.44
+-
+-
+1.0
+White Maize 50 Kg
+18.55
+19.48
+18.35
+23.0
+24.0
+26.0
+White Sorghum 1 Kg
+0.78
+0.58
+0.59
+1.0
+1.0
+1.0
+White Sorghum 50 Kg
+38.97
+28.84
+29.34
+41.0
+43.0
+43.0
+Source: FSNAU/with CBS Price Adjustments of SOS to US Dollar, 2026
+3
+BAIDOA
+Month/Year
+25-Oct
+25- Nov
+25- Dec
+26-Jan
+26-Feb
+26-Mar
+Cereal/Measurement
+Price USD
+Price USD
+Price USD
+Price USD
+Price USD
+Price USD
+Cowpeas 1kg
+0.75
+1.45
+1.24
+1.0 
+   1.0 
+   1.0 
+Local Sesame Oil 1L
+3.55
+3.45
+3.55
+4.0 
+   4.0 
+   2.0 
+Red Sorghum 1 Kg
+0.34
+0.35
+0.45
+-   
+   1.0 
+   1.0 
+Red Sorghum 50 Kg
+13.68
+18.24
+22.68
+23.0 
+25.0 
+22.0 
+Wheat Flour 1 Kg
+0.78
+0.79
+0.73
+1.0 
+   1.0 
+   1.0 
+Wheat Grain 1 Kg
+1.10
+1.11
+0.95
+1.0 
+   1.0 
+   1.0 
+White Maize 1 Kg
+0.34
+0.39
+0.53
+-   
+      -   
+   1.0 
+White Maize 50 Kg
+14.34
+18.14
+21.89
+23.0 
+23.0 
+21.0 
+White Sorghum 1 Kg
+0.41
+0.38
+0.39
+1.0 
+   1.0 
+   1.0 
+White Sorghum 50 Kg
+18.84
+17.53
+18.32
+25.0 
+27.0 
+27.0 
+Source: FSNAU/with CBS Price Adjustments of SOS to US Dollar, 2026
+APPENDIX IV. REAL SECTOR STATISTICS
+1. Domestic Cereal Prices in Mogadishu and Other Main Cities, 2025Q4-2026Q1
+=== PAGE 52 ===
+FIRST QUARTER REPORT | 2026
+46
+Central Bank of Somalia
+4
+BELETWEYNE
+Month/Year
+25-Oct
+25- Nov
+25- Dec
+26-Jan
+26-Feb
+26-Mar
+Cereal/Measurement
+Price USD
+Price USD
+Price USD
+Price USD
+Price USD
+Price USD
+Cowpeas 1kg
+1.07
+1.18
+1.20
+1.0
+1.0
+1.0
+Local Sesame Oil 1L
+2.71
+2.54
+2.86
+3.0
+3.0
+3.0
+Red Sorghum 1 Kg
+0.42
+0.47
+0.50
+-
+-
+-
+Red Sorghum 50 Kg
+21.11
+21.98
+29.65
+28.0
+29.0
+29.0
+Wheat Flour 1 Kg
+0.52
+0.52
+0.53
+1.0
+1.0
+1.0
+Wheat Grain 1 Kg
+0.70
+0.72
+0.75
+1.0
+1.0
+1.0
+White Maize 1 Kg
+0.43
+0.44
+0.42
+-
+-
+-
+White Maize 50 Kg
+18.59
+19.46
+18.41
+18.0
+19.0
+20.0
+White Sorghum 1 Kg
+0.57
+0.61
+0.62
+1.0
+1.0
+1.0
+White Sorghum 50 Kg
+25.33
+27.78
+29.49
+28.0
+28.0
+29.0
+Source: FSNAU/with CBS Price Adjustments of SOS to US Dollar, 2026
+5
+KISMAYO 
+Month/Year
+25-Oct
+25- Nov
+25- Dec
+26-Jan
+26-Feb
+26-Mar
+Cereal/Measurement
+Price USD
+Price USD
+Price USD
+Price USD
+Price USD
+Price USD
+Cowpeas 1kg
+1.21
+1.01
+1.23
+1.0
+1.0
+1.0
+Local Sesame Oil 1L
+3.16
+3.07
+3.00
+3.0
+3.0
+3.0
+Red Sorghum 1 Kg
+0.41
+0.41
+0.41
+-
+-
+-
+Red Sorghum 50 Kg
+0.00
+0.00
+0.00
+-
+-
+-
+Wheat Flour 1 Kg
+0.73
+0.75
+0.71
+1.0
+1.0
+1.0
+White Maize 1 Kg
+0.47
+0.50
+0.57
+1.0
+1.0
+1.0
+White Maize 50 Kg
+19.89
+15.70
+23.60
+29.0
+34.0
+32.0
+Source: FSNAU/with CBS Price Adjustments of SOS to US Dollar, 2026
+=== PAGE 53 ===
+FIRST QUARTER REPORT | 2026
+47
+Central Bank of Somalia
+2. Domestic Inflation (2022M1-2026M3)
+Period
+Monthly % Change
+Annual % Change
+Year
+Month
+2022
+January
+-0.06
+5.23
+February
+0.54
+6.45
+March
+1.81
+6.08
+April
+2.29
+6.45
+May 
+1.47
+6.67
+June
+-0.06
+6.98
+July 
+1.44
+7.74
+August
+-1.44
+7.57
+September
+0.40
+7.22
+October
+-0.06
+6.91
+November
+0.13
+6.36
+December
+-0.51
+6.06
+2023
+January
+-0.51
+5.57
+February
+0.41
+5.43
+March
+2.05
+5.68
+April
+2.76
+6.15
+May 
+1.88
+6.59
+June
+-0.01
+6.64
+July 
+0.81
+5.98
+August
+-1.59
+5.82
+September
+0.05
+5.45
+October
+0.66
+6.21
+November
+0.93
+7.05
+December
+-0.93
+6.60
+2024
+January
+-0.90
+6.19
+February
+-0.10
+5.65
+March
+2.25
+5.86
+April
+2.12
+5.20
+May 
+1.50
+4.81
+June
+0.47
+5.31
+July 
+1.04
+5.54
+August
+-1.23
+5.93
+September
+0.22
+6.13
+October
+0.38
+5.83
+November
+0.33
+5.20
+December
+-0.58
+5.57
+=== PAGE 54 ===
+FIRST QUARTER REPORT | 2026
+48
+Central Bank of Somalia
+2025
+January
+1.30
+4.00
+February
+-0.20
+3.20
+March
+0.40
+3.90
+April
+1.30
+3.61
+May 
+0.00
+4.18
+June
+2.60
+2.03
+July 
+2.10
+2.70
+August
+0.00
+3.20
+September
+0.60
+3.90
+October
+0.7
+5.1
+November
+0.6
+4.8
+December
+0.9
+5.3
+2026
+January
+1.4
+5.4
+February
+0.0
+5.6
+March
+2.4
+7.8
+Source: SNBS, 2026
+3. Gross Domestic Products
+a. Gross Domestic Products (at Current Prices), 2021-2025
+Expenditure Items
+2021
+2022
+2023
+2024
+2025
+Household Final Consumption
+11,539
+12,683
+14,116
+15,210
+16,307
+Government Final Consumption
+763
+857
+890
+1,051
+1,162
+Gross Fixed Capital Formation
+1,705
+2,413
+2,576
+2,678
+2,960
+Exports Of Goods and Services
+1,532
+1,804
+1,984
+2,532
+2,689
+of which:   Livestock
+523
+558
+861
+951
+923
+Minus: Imports of Goods and Services
+5,969
+7,456
+8,249
+9,124
+9,884
+GDP of Purchaser Price
+9,570
+10,301
+11,317
+12,348
+13,234
+GDP per Capita, US Dollars
+640
+671
+717
+761
+793
+Gross National Expenditure
+14,007
+15,952
+17,582
+18,939
+20,430
+b. Gross Domestic Products (at Constant Prices)
+Expenditure Items
+2021
+2022
+2023
+2024
+2025
+Household Final Consumption
+12,111
+12,683
+13,280
+13,802
+14,256
+Government Final Consumption
+765
+856
+880
+1,021
+1,114
+Gross Fixed Capital Formation
+1,835
+2,413
+2,756
+2,801
+2,962
+Exports of Goods and Services
+1,587
+1,804
+2,046
+2,357
+2,372
+    of which: Livestock
+523
+558
+1,023
+917
+823
+Minus: Imports of Goods and Services
+6,277
+7,456
+8,230
+8,816
+9,197
+GDP in Purchasers' Prices
+10,020
+10,300
+10,731
+11,164
+11,508
+GDP per capita, US Dollars
+640
+671
+717
+761
+793
+Gross National Expenditure
+14,711
+15,952
+16,915
+17,624
+18,333
+Source: SNBS, 2026
+=== PAGE 55 ===
+CENTRAL BANK OF SOMALIA
+info@centralbank.gov.so
+www.centralbank.gov.so
+@CBSsomalia
+Central Bank of Somalia

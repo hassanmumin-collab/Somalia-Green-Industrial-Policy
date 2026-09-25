@@ -1,0 +1,11 @@
+=== PAGE 1 ===
+# Global Solar Atlas (World Bank Group / ESMAP, data by Solargis) long-term annual averages returned by api.globalsolaratlas.info/data/lta for loc=2.0469,45.3182 (Mogadishu), retrieved 2026-09-24.
+# Format: layer | annual value | unit | method | period to | data version | updated
+PVOUT_csi | 1784.5347900390625 | kWh/kWp | PV simulation model | 2025 | 2.2.68 | 2026-04-01
+DNI | 1882.25 | kWh/m2 | Solar model | 2025 | 2.2.68 | 2026-04-01
+GHI | 2255.71875 | kWh/m2 | Solar model | 2025 | 2.2.68 | 2026-04-01
+DIF | 861.3984375 | kWh/m2 | Solar model | 2025 | 2.2.68 | 2026-04-01
+GTI_opta | 2265.9296875 | kWh/m2 | Solar model | 2025 | 2.2.68 | 2026-04-01
+OPTA | 6 | ° | PV simulation model | 2025 | 2.2.68 | 2026-04-01
+TEMP | 26.4375 | °C | Data processing | 2025 | 2.2.67 | 2026-03-01
+ELE | 59 | m | Data merging, cleaning, processing |  | 2.1.27 | 2019-02-01

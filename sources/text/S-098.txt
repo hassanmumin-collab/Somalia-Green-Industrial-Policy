@@ -1,0 +1,3885 @@
+=== PAGE 1 ===
+Energy Storage for Mini Grids
+Status and Projections of 
+Battery Deployment
+An Energy Storage Partnership Report
+=== PAGE 2 ===
+
+=== PAGE 3 ===
+Energy Storage for Mini Grids
+Status and Projections of Battery Deployment
+This report of the Energy Storage Partnership is prepared by the Energy 
+Sector Management Assistance Program (ESMAP) with contributions from 
+the Alliance for Rural Electrification (ARE), Ricerea sul  Sistema Energetico (RSE), 
+Loughborough University, and the Inter-American Development Bank (IADB). 
+The Energy Storage Partnership is a global partnership convened by the 
+World Bank Group through ESMAP Energy Storage Program to foster 
+international cooperation to develop sustainable energy storage 
+solutions for developing countries. For more information visit: 
+https://www.esmap.org/the_energy_storage_partnership_esp
+=== PAGE 4 ===
+ii	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+ABOUT ESMAP
+The Energy Sector Management Assistance Program (ESMAP) is a partnership between the World Bank and 
+24 partners to help low- and middle-income countries reduce poverty and boost growth through sustainable 
+energy solutions. ESMAP’s analytical and advisory services are fully integrated within the World Bank’s country 
+financing and policy dialogue in the energy sector. Through the World Bank Group (WBG), ESMAP works to 
+accelerate the energy transition required to achieve Sustainable Development Goal 7 (SDG7) to ensure access 
+to affordable, reliable, sustainable, and modern energy for all. It helps to shape WBG strategies and programs 
+to achieve the WBG Climate Change Action Plan targets. Learn more at: https://esmap.org
+© 2023 International Bank for Reconstruction and Development / The World Bank
+1818 H Street NW, Washington, DC 20433
+Telephone: 202-473-1000; Internet: www.worldbank.org
+Rights and Permissions 
+The material in this work is subject to copyright. Because the World Bank encourages dissemination of its 
+knowledge, this work may be reproduced, in whole or in part, for noncommercial purposes if full attribution to 
+this work is given. Any queries on rights and licenses, including subsidiary rights, should be addressed to World 
+Bank Publications, World Bank Group, 1818 H Street NW, Washington, DC 20433, USA; fax: +1-202-522-2625; 
+e-mail: pubrights@worldbank.org.
+Furthermore, the ESMAP Program Manager would appreciate receiving a copy of the publication that uses this 
+publication for its source sent in care of the address above, or to esmap@worldbank.org. This work is available 
+under the Creative Commons Attribution 3.0 IGO license (CC BY 3.0 IGO) http://creativecommons.org/licenses/
+by/3.0/igo. Under the Creative Commons Attribution license, you are free to copy, distribute, transmit, and adapt 
+this work, including for commercial purposes, under the following conditions:
+Attribution—Energy Sector Management Assistance Program (ESMAP). 2023. Energy Storage for Mini Grids: 
+Status and Projections of Battery Deployment. Washington, DC: World Bank.
+Translations—This translation was not created by The World Bank and should not be considered an official 
+World Bank translation. The World Bank shall not be liable for any content or error in this translation.
+Adaptations—This is an adaptation of an original work by The World Bank. Views and opinions expressed in 
+the adaptation are the sole responsibility of the author(s) of the adaptation and are not endorsed by The World 
+Bank.
+Third-Party Content—The World Bank does not necessarily own each component of the content contained 
+within the work and does not warrant that the use of any third-party owned individual component or part 
+contained in the work will not infringe on the rights of those third parties. If you wish to reuse a component of the 
+work, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission 
+from the copyright owner. Examples of components can include, but are not limited to, tables, figures, or 
+images.
+Production Credits
+Production Editor | Heather Austin
+Designer | Circle Graphics, Inc.
+Front Cover | ©IRENA
+Back Cover | ©IRENA
+All images remain the sole property of their source and may not be used for any purpose without written 
+permission from the source.
+=== PAGE 5 ===
+TABLE OF CONTENTS
+ABBREVIATIONS..................................................................................................................VII
+ACKNOWLEDGMENTS.......................................................................................................VIII
+KEY FINDINGS.......................................................................................................................IX
+EXECUTIVE SUMMARY.........................................................................................................X
+1	
+BATTERY TECHNOLOGIES IN MINI GRIDS ACROSS THE WORLD.......................... 1
+1.1  The Global Stock of Mini Grids..............................................................................2
+1.2  The Generation Mix of Mini Grids..........................................................................3
+1.3  The Role of Storage...............................................................................................3
+1.4  The Role of the Levelized Cost of Storage in the Technology 
+Selection Process..................................................................................................5
+1.5  Using Mini Grids for Productive Uses: Beyond Basic Access to Electricity...........5
+1.6  Challenges Faced by Mini Grid Developers..........................................................5
+2	
+SIZE OF THE GLOBAL MARKET FOR MINI GRID AND ENERGY STORAGE........... 7
+2.1  Number of People without Access to Electricity....................................................7
+2.2  Projected Access by 2030.....................................................................................8
+2.3  Rural Mini Grid Installations in 2021......................................................................8
+2.4  Forecasting Global Demand for Mini Grids and Battery Storage Systems...........9
+3	
+SELECTION OF BATTERY TECHNOLOGY...................................................................12
+3.1  Factors Investors Consider.................................................................................. 12
+3.2  Comparison of Storage Technologies................................................................. 14
+3.3  The Capital Cost of Batteries.............................................................................. 15
+3.4  The Levelized Cost of Storage............................................................................ 16
+4	
+FUTURE TRENDS IN BATTERY STORAGE FOR MINI GRID APPLICATION........... 20
+4.1  Used Lithium-Ion Batteries as a Stationary Storage Solution.............................20
+4.2  Iron-Air Batteries for Long-Term Energy Storage................................................ 21
+4.3  Sodium Ion Batteries...........................................................................................22
+4.4  Hydrogen-Powered Storage................................................................................22
+4.5  Flywheel Energy Storage for Mini Grid Stabilization...........................................22
+5	
+CASE STUDIES.............................................................................................................. 24
+5.1  Solar Mini Grids with Lead Acid Batteries: The Husk Power Microgrids 
+Initiative in India and Nigeria...............................................................................24
+5.2  Solar Hybrid Mini Grid with Lithium Iron Phosphate Batteries: The Lolwe
+Islands, Uganda...................................................................................................25
+=== PAGE 6 ===
+iv	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+5.3  Solar Hybrid Mini Grid with Lithium-Ion Nickel Manganese Cobalt Batteries: 
+San Seth, Bogale, Myanmar................................................................................26
+5.4  Solar Hybrid Mini Grid with Lithium Iron Phosphate Batteries: Dancitagi, 
+Nigeria.................................................................................................................26
+5.5  Solar Mini Grid with Lithium Iron Phosphate Batteries: Makhala, 
+Amperehour, India...............................................................................................27
+5.6  Solar Mini Grid with Vanadium Redox Flow Battery: Maldives............................28
+5.7  Solar Mini Grid with Flywheel Energy Storage Systems: The Philippines...........28
+6	
+RECOMMENDATIONS....................................................................................................31
+REFERENCES..................................................................................................................33
+APPENDIX A: TYPES OF ENERGY STORAGE..............................................................35
+APPENDIX B: IMPROVING THE PERFORMANCE OF LEAD ACID BATTERY 
+STORAGE MINI GRIDS............................................................................38
+=== PAGE 7 ===
+LIST OF FIGURES AND TABLES
+FIGURES
+1.1	
+Number of Installed and Planned Mini Grids, by Region, 2021.................................2
+1.2	 Number of Installed and Planned Mini Grids in Selected Countries, 2022................2
+1.3	 Generation Mix of Installed and Planned Mini Grids, 2019........................................3
+1.4	 Battery Storage Transition in Rural Mini Grids in Asia and Africa, 2012–21..............3
+1.5	 Primary Source of Battery Storage by Selected Mini Grid Developers in 2017–21.......4
+1.6	 Mini Grid Battery Storage as Percentage of Total Capacity, by Technology  
+Type, 2012–21............................................................................................................4
+1.7	
+Shares of Lead Acid and Lithium-Ion as Sources of Battery Storage by  
+Mini Grids in South and Southeast Asia and Africa, 2022.........................................4
+1.8	 Effect of Grid Load Factor on Levelized Cost of Electricity........................................5
+2.1	
+Number of People Without Access to Electricity, by Region, 2021 and 2030............8
+2.2	 Projected Annual Increase in Number of Rural People with Access to  
+Electricity, by Region, 2021–30..................................................................................8
+2.3	 Distribution of Mini Grid Capacity, by Region, 2021...................................................9
+2.4	 Projected Annual Global Demand for Rural Mini Grid in the Low-, Base-,  
+and High-Case Scenarios, 2021–30........................................................................ 10
+2.5	 Projected Global Cumulative Capacity Addition of New Rural Mini Grids,  
+2022–30................................................................................................................... 10
+2.6	 Projected Global Demand for Batteries for Rural Mini Grids, 2021–30................... 11
+3.1	
+Estimated and Projected Demand for Batteries for Mini Grids, by Type,  
+2021–30................................................................................................................... 13
+3.2	 Cost of Six-Hour Storage, by Battery Type, 2022–30.............................................. 15
+3.3	 Levelized Cost of Storage of Selected Battery Types at Different Durations........... 18
+3.4	 Contributions of Capital Expense, Operations and Maintenance, Residual  
+Value, and Electricity Cost to the Levelized Cost of Storage, by Battery Type........ 18
+3.5	 Estimated and Projected Levelized Cost of Storage for Six-Hour Duration  
+System, by Battery Type.......................................................................................... 19
+4.1	
+Projected Changes in Battery Performance Between 2018 and 2025,  
+by Type of Battery.................................................................................................... 21
+5.1	
+Husk Mini Grid in the Village of Akura, in Nasawara State, Nigeria.........................25
+5.2	 Hybrid Solar Mini Grid in the Lolwe Islands, Uganda...............................................25
+LIST OF FIGURES AND TABLES
+v
+=== PAGE 8 ===
+vi	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+5.3	 Ice Manufacturing Unit Powered by Engie-Equatorial’s Solar Mini Grid in the  
+Lolwe Islands, Uganda.............................................................................................26
+5.4	 Hybrid Solar Mini Grid in San Seth, Bogale, Myanmar............................................27
+5.5	 Solar Hybrid Mini Grid with Containerized Energy Storage Solutions Installed  
+by PowerGen in Dancitagi, Nigeria..........................................................................27
+5.6	 Solar Mini Grid with Containerized Battery Energy Storage System in  
+Makhala, India..........................................................................................................28
+5.7	 Vanadium Redox Flow Battery Energy Storage System at the Malahini Kuda 
+Bandos Resort, Maldives.........................................................................................29
+5.8	 Kinetic Energy Storage Systems in the Palawan islands, the Philippines...............30
+TABLES
+2.1	
+Estimated and Projected Mini Grid Capacity per Household, by Region,  
+2021 and 2030...........................................................................................................9
+2.2	 Battery Capacity in Selected Mini Grid Projects Installed in 2020–21..................... 11
+2.3	 Ratio of Battery Capacity to Mini Grid Installed Capacity........................................ 11
+3.1	
+Technical Parameters of Selected Battery Technologies......................................... 14
+3.2	 Pugh Matrix Ranking of Storage Technologies in Mini Grid Applications................ 15
+3.3	 Descriptions and Assumed Values in Levelized Cost of Battery Storage  
+Calculations.............................................................................................................. 17
+=== PAGE 9 ===
+vii
+CAPEX	
+capital expenditure
+CSR	
+Corporate Social Responsibility
+DER	
+distributed energy resource
+EE	
+Engie-Equatorial
+ESP	
+Energy Storage Partnership
+ESS	
+energy storage system(s)
+FESS 	
+flywheel energy storage system(s)
+GWh 	
+gigawatt hour(s)
+kg	
+kilogram
+kVA	
+kilovolt ampere
+kW	
+kilowatt
+kWh	
+kilowatt hour(s)
+kWp	
+kilowatt peak
+LCOE	
+levelized cost of electricity
+LCOS	
+levelized cost of storage
+LFP	
+lithium ferro-phosphate
+MWh	
+megawatt(s)
+NMC	
+nickel manganese cobalt
+O&M	
+operations and maintenance
+PALECO 	
+Palawan Electric Cooperative
+PV	
+photovoltaic
+SIPCOR 	
+S.I. Power Corporation
+VRFB	
+vanadium redox flow battery
+W	
+watt
+Wh	
+watt hour
+Wp	
+watt peak
+All currency is in United States dollars (US$, USD), unless otherwise indicated.
+ABBREVIATIONS
+=== PAGE 10 ===
+T
+his report was prepared by the World Bank’s Energy Sector Management Assistance 
+Program (ESMAP) and Customized Energy Solutions, and under the auspices of the 
+Working Group Five of the Energy Storage Partnership with technical contributions and 
+reviews by Jon Exel (Senior Energy Specialist, WB), Chris Greacen (Consultant, WB), 
+and Alfredo Villavicencio (Consultant, WB).
+Gabriela Elizondo Azuela (Practice Manager), Chandra Govindarajalu (Lead Energy Specialist), 
+Juliet Pumpuni (Senior Energy Specialist, WB), and Clemencia Torres de Mästle (Senior Energy 
+Specialist, WB) provided invaluable contributions and overall guidance.
+Special thanks to Husk Power Systems, Engie Energy Access, PowerGen, Amperehour, and 
+Amber Kinetics for providing information for the case studies; and to the following Energy Storage 
+Partnership partners – Jens Jaeger (ARE), Luciano Martini (RSE), Ed Brown (Loughborough 
+University), and Edwin Malagon (IADB) who participated in the peer review process.
+ACKNOWLEDGMENTS
+=== PAGE 11 ===
+ix
+T
+his report specifically focuses on battery energy storage in decentralized off-grid 
+mini grids located in remote areas. It provides an overview of battery technologies used 
+in mini grids globally, demand forecasts for various battery technologies, a comparison  
+of characteristics of different batteries, an exploration of costs and trends in battery  
+technologies, case studies, and recommendations.
+In the high-case scenario, it is projected that annual demand for mini grid batteries is 
+projected to increase to over 3,600 MWh by 2030 from around 180 MWh in 2020. In a base-case 
+scenario, annual demand exceeds 2,200 MWh, while in the low case annual demand is around 
+1,500 MWh.
+The selection of battery technology for mini-grid projects is a multi-faceted decision based 
+on factors such as cycle life, depth of discharge, type of load connected to the grid, energy density, 
+C-rating, thermal runaway, maintenance, after-sales service, hardware compatibility, maturity, cost, 
+battery degradation, operating conditions, and environmental concerns.
+The levelized cost of storage (LCOS) is critical for optimal decision-making in mini grid 
+development. Though upfront costs often dominate the technology selection process, the LCOS 
+provides a more comprehensive perspective by considering the lifetime cost of storage technologies. 
+The LCOS calculation incorporates the capital expenditure, operations and maintenance costs, 
+residual value, and cost of charging the battery. While lead acid batteries cost less per nameplate 
+capacity ($/kWh), the superior cycle life, efficiency, and permissible routine depth of discharge of 
+lithium-ion batteries result in a lower LCOS.
+Lithium-ion batteries have grown in popularity and are displacing lead acid batteries, 
+thanks to reduced prices, longer lifespan, and minimal maintenance requirements. Historically, lead 
+acid batteries were the go-to choice due to their maturity, availability, and low upfront cost.
+Lithium-ion prices are forecasted to decline until 2030. In contrast, lead acid, a mature 
+technology, may not witness significant price drops. Forecasts suggest that lithium-ion batteries 
+will extend their lead as the lowest-cost battery technology for mini grids dropping from 2022 LCOS 
+of $0.37 per kWh to $0.34 in 2026 and $0.32 by 2030, notwithstanding the likelihood that raw material 
+costs for lithium-ion batteries rise due to demand from the electric vehicle industry. The cost of lead 
+acid batteries will decline only slightly, from $0.55 to $0.54 per kWh over this time period.
+In the near future, other battery storage options are promising, including “second-life” 
+lithium-ion batteries, sodium-ion batteries, iron-air batteries, hydrogen, and flywheel energy storage
+This report includes case studies of mini grids from Africa and Asia that highlight global 
+deployment of battery technologies ranging from conventional lead acid to lithium-ion, to VRBF 
+and flywheel storage. Each case study describes the mini grid’s rating, energy storage rating, battery 
+chemistry, businesses served, communities electrified, and the way in which the electricity is used.
+Mini grid energy storage recommendations include: studying battery performance in actual 
+operating conditions, considering total cost and not just upfront battery cost, adopting safety and 
+performance standards, promoting recycling practices, encouraging the use of repurposed battery 
+technologies, exempting mini grid batteries from import duties, providing technical skills training, 
+and creating standard operating procedures to understand battery technology performance.
+KEY FINDINGS
+=== PAGE 12 ===
+T
+he Energy Storage Partnership (ESP), established by the World Bank in 2019, aims to 
+develop and implement energy storage solutions for developing countries. These solutions, 
+coupled with renewable energy sources, could provide electricity to over 1 billion people 
+who currently lack reliable access. A mini grid is an interconnected system of distributed 
+energy resources (DERs) – generally including renewable energy and electricity storage — that 
+operates independently, servicing customer groups of various sizes, from remote areas to urban 
+locations. These mini grids support a range of facilities including primary health centers, agricultural 
+activities, learning centers, hospitals, airports, and commercial establishments.
+This report specifically focuses on battery energy storage in decentralized off-grid mini grids 
+located in remote areas. It provides an overview of battery technologies used in mini grids globally, 
+demand forecasts for various battery technologies, a comparison of characteristics of different 
+batteries, an exploration of costs and trends in battery technologies, case studies, and recommen-
+dations. It also includes appendices that offer a broad overview of mechanical, electrochemical, 
+and thermal storage, as well as performance optimization of lead acid batteries in mini grids.
+Global electricity needs, particularly in remote and rural areas, are a significant challenge.  
+As of 2020, an estimated 740 million people still lack access to electricity, 577 million of whom live 
+in Sub-Saharan Africa (SSA). Though SSA has an electrification rate of 48% as of 2020, ambitious 
+national electrification plans in countries such as Ethiopia, Ghana, Kenya, Nigeria, Rwanda, and 
+Senegal aim to attain universal access by 2030. Some of these 2030 targets have been impacted 
+by the COVID-19 pandemic, with many developing countries likely to experience delays. Under the 
+existing trajectory, it is expected that about 800 million people will gain access to electricity between 
+2021 and 2030, leaving 560 million unelectrified. To achieve full electrification by 2030, it is necessary 
+to provide electricity to around 1.3 billion people.
+Growing deployment of mini grids are reaching some of this unelectrified population, with 
+21,000 mini grids currently serving about 48 million people worldwide. To serve half a billion people 
+by 2030, the world needs a fleet of 217,000 mini grids, most of which will be predominately powered 
+by solar electricity with battery backup.
+South Asia presently leads with the highest number of installed (9,600) and planned (19,000) 
+mini grids. Afghanistan, India, and Myanmar comprise about 80% of mini grids in this region. Africa 
+is estimated to have about 3,100 installed mini grids with about 9,000 in the pipeline. In Africa, 
+Nigeria, Tanzania, Senegal, and Ethiopia are among a number of countries that have embarked on 
+ambitious projects to boost their national electrification rates using mini grids. Initiatives such as 
+the Nigerian Electrification Project and the Rural Electrification Agency of Senegal intend to provide 
+power access to over a million households and enterprises using mini grids.
+The paradigm is shifting from traditional diesel and hydro-based grids to third-generation mini 
+grids powered by solar and hybrid energy systems and employing advanced technologies like  
+prepaid meters and online monitoring. The declining cost of solar panels, coupled with the abundant 
+availability of sunshine in developing countries, is making solar-powered mini grids an economically 
+feasible and environmentally conscious choice.
+In 2021, approximately 1,100 rural mini grid projects were installed globally, providing 80 MW 
+of capacity. South Asia led in annual installations, followed by Sub-Saharan Africa and Southeast 
+Asia. Projections for global demand for mini grids between 2022 and 2030, alongside the need for 
+battery storage systems to support these mini grids, have been formulated under three scenarios—
+high case, base case, and low case.
+In the high-case scenario, it is projected that annual demand for mini grid batteries is projected 
+to increase to over 3,600 MWh by 2030 from around 180 MWh in 2020. In a base-case scenario, 
+EXECUTIVE SUMMARY
+=== PAGE 13 ===
+executive summary
+xi
+annual demand exceeds 2,200 MWh, while in the low case annual demand is around 1,500 MWh. Lithium-ion batteries, 
+in particular, have seen increased usage in mini grids, especially in Sub-Saharan Africa. By 2030, lithium-ion battery 
+penetration is projected to rise to 70 percent from 55 percent in 2021 (Figure ES.1).
+Expanding the role of mini grids for productive uses, beyond basic electricity access, allows for increased grid utilization 
+without a corresponding rise in peak load. The outcome is lower levelized costs of electricity (LCOE) and expedited return 
+on investment for developers. Case studies from Bangladesh and India validate the effectiveness of this approach.
+Despite their immense potential, mini grids face various challenges, including remote project locations, difficulties 
+in monitoring and maintenance, sustainability concerns, taxation issues, risk of stranded assets, lack of financing, and 
+an absence of standardization. Operational challenges related to temperature also present difficulties, particularly for 
+storage technologies. Overcoming these barriers will be vital to leverage the full potential of mini grids in meeting the 
+world’s energy access goals.
+Storage technologies are central to the efficiency and reliability of mini grids. The selection of battery technology for 
+mini-grid projects is a multi-faceted decision that investors base on factors such as cycle life, depth of discharge, type 
+of load connected to the grid, energy density, C-rating, thermal runaway, maintenance, after-sales service, hardware 
+compatibility, maturity, cost, battery degradation, operating conditions, and environmental concerns (Table ES.1).
+Historically, lead acid batteries were the go-to choice due to their maturity, availability, and low upfront cost. 
+Based on a database of 170 mini grids using 30 MWh of combined storage, lithium-ion batteries have grown in 
+popularity and are displacing lead acid batteries, thanks to reduced prices, longer lifespan, and minimal maintenance 
+requirements. A qualitative Pugh matrix assessment with responses from mini grid developers reveals lithium-ion as 
+the most suitable technology, despite redox flow batteries scoring high on battery life and environmental friendliness.
+Vanadium Redox Flow Batteries (VRFBs) also show promise due to their long operational life, high depth of 
+discharge, robust performance across a range of temperatures, and potential for cost reduction through innovative 
+business models such as vanadium leasing.
+When considering the capital cost of batteries, lead acid, a mature technology, may not witness significant price 
+drops. In contrast, lithium-ion prices are forecasted to decline until 2030, notwithstanding the likelihood that raw 
+material costs for lithium-ion batteries rise due to demand from the electric vehicle industry.
+Considering the levelized cost of storage (LCOS) is critical for optimal decision-making in mini grid development. Though 
+upfront costs often dominate the technology selection process, the LCOS provides a more comprehensive perspective by 
+considering the lifetime cost of storage technologies. The LCOS calculation incorporates the capital expenditure, operations 
+and maintenance costs, residual value, and cost of charging the battery. While lead acid batteries cost less per nameplate 
+capacity ($/kWh), the superior cycle life, efficiency, and permissible routine depth of discharge of lithium-ion batteries result 
+in a lower LCOS. For VRFBs, the CAPEX per kWh significantly drops as storage duration increases.
+Forecasts suggest that lithium-ion batteries will extend their lead as the lowest-cost battery technology for 
+mini grids dropping from 2022 LCOS of $0.37 per kWh to $0.34 in 2026 and $0.32 by 2030, while the cost of lead 
+acid batteries will decline only slightly, from $0.55 to $0.54 per kWh over this time period. VRFBs are expected to 
+become increasingly competitive with lead acid batteries (Figure ES.2).
+4,000
+3,500
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+0
+Low Case
+Base Case 
+High Case
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+Capacity (MWh)
+FIGURE ES.1: Projected Global Demand for Batteries for Rural Mini Grids, 2021–30
+Source: CES.
+=== PAGE 14 ===
+xii	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+TABLE ES.1: Technical Parameters of Selected Battery Technologies
+Battery Type
+Parameter
+Lead Acid
+Advanced 
+Lead Acid
+Lithium-Ion
+NiNaCl2
+Vanadium 
+Redox Batteries 
+(VRB)
+Zn–Br (flow tech)
+Battery chemistry
+Lead
+Lead, carbon 
+electrodes
+NMC/LFP
+Nickel, sodium 
+chloride
+Vanadium
+Zinc, bromine
+Round-trip efficiency (percent)
+60–80 
+80–90 
+85–95 
+70–90 
+60–70 
+68–70
+C-rate
+C/10
+C/5
+C/4-2C
+C/6-C/8
+C/5-C/8
+C/3–C/4
+Depth of discharge (percent)
+50–60 
+70–80 
+90 
+80 
+100 
+100
+Energy density (Wh/kg)
+40–60
+27–30
+80–150
+65–70
+7–8
+15–25
+Cycle life
+500–1,000
+1,200–1,800
+2,000–6,000
+4,500–5,000
+7,000–10,000
+3,000–3,500
+Safety
+High
+High
+Medium
+Medium
+High
+Medium
+CAPEX ($/kWh)
+80–150
+120–300
+250–350
+750–1,000
+600–1000
+750–800
+Toxicity of chemicals
+High
+High
+High
+Medium
+Medium
+High
+Operating temperature (°C)
+–20–50
+–20–50
+0–55
+270–350
+15–55
+20–50
+Self-discharge (percent/month)
+10–15 
+3–5 
+0.5–2 
+5 
+5 
+60
+Source: CES.
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+2022
+2026
+2030
+Lead Acid
+0.55
+0.54
+0.54
+Adv. Lead Acid
+0.52
+0.50
+0.49
+Li-ion LFP
+0.37
+0.34
+0.32
+Vanadium Redox
+0.43
+0.41
+0.40
+NiNaCl2
+0.55
+0.51
+0.48
+LCOS ($/kWh)
+FIGURE ES.2: Estimated and Projected Levelized Cost of Storage for Six-Hour Duration System, by Battery Type
+Source: CES.
+=== PAGE 15 ===
+executive summary
+xiii
+In the near future, other battery storage options are promising. “Second-life” lithium-ion batteries presents a potential 
+stationary storage solution after they have been cycled out of use in automotive applications and thoroughly tested. 
+Sodium-ion batteries have emerged as a potential solution for energy storage in solar mini-grids, with advantages over 
+lithium-ion batteries in terms of raw material abundance, reasonable cycle life, comparable energy storage capacity, 
+adaptable manufacturing processes, and improved safety and stability. Iron-air batteries might offer a viable path for 
+low-cost long-term energy storage, despite their lower energy density. Hydrogen-powered storage solutions, capable 
+of storing energy for longer periods than batteries, are being proposed as alternatives to traditional diesel generators 
+and could potentially power mini grids in remote areas. Flywheel energy storage, which stores kinetic energy in a rotating 
+mass, offers significant advantages, such as a long lifetime, increased charge-cycle capabilities, and rapid output, while 
+lacking hazardous chemicals or fire hazards. Its current constraints include cost, rapid self-discharge, and limited capacity 
+for extensive energy storage.
+Case studies highlight global deployment of emerging storage technologies. Each case study describes the mini 
+grid’s rating, energy storage rating, battery chemistry, businesses served, communities electrified, and the way in which 
+the electricity is used.
+Husk Power Systems in India and Nigeria uses hybrid systems combining solar PV, batteries, and biomass 
+gasification to power over 200 community solar mini grids. Their system employs machine learning to optimize the 
+battery management and increase the lifetime of its lead-acid batteries. The company’s careful approach to monitoring 
+and controlling lead acid charge-discharge cycles and its ability to obtain attractive volume pricing on Indian-made lead 
+acid batteries are two reasons it uses lead acid batteries.
+In the Lolwe Islands, Uganda, Engie Energy Access and Equatorial Power deployed a hybrid solar mini grid with Lithium 
+Iron Phosphate (LFP) battery storage. The mini grid, supplying over 3,800 consumers, is supplemented with a business 
+incubation and asset financing program that includes water purification, ice making, electric mobility, and agro-processing. 
+These activities limit the dependence on diesel generators and help the developers utilize the mini grids at their full capacity.
+In San Seth, Bogale, Myanmar, Mandalay Yoma developed a hybrid solar mini grid with lithium-ion nickel 
+manganese cobalt (NMC) batteries. A 713 Wp hybrid solar mini grid with storage capacity of 1,312 kWh of lithium-ion 
+nickel manganese cobalt (NMC) batteries is paired with a 315 kVA genset. The grid, supplies over 1,300 households 
+and 20 businesses. The selection of NMC battery technology is primarily due to its lifespan of over 3,000 cycles.
+In Nigeria, more than 250 mini grids are currently. PowerGen mini grid at Dancitagi village uses a 200 kWp 
+solar hybrid mini grid with 500 kWh of lithium iron phosphate batteries and a 200 kVA diesel genset at. This grid has 
+brought significant improvements in power supply, and two years after installation, the load on the site had increased, 
+and there was a demand for additional storage capacity.
+In India, Amperehour and the Maharashtra Energy Agency Development Authority (MEDA) have established solar 
+mini grids at Makhala, Amravati, and Maharashtra. These mini grids rely on 110 kWh of containerized lithium iron 
+phosphate (LFP) batteries, providing connections to over 127 customers. No diesel generators are used. A machine 
+learning-based algorithm control optimizes the load profile and informs decision making
+In Maldives, the Korean company H2 built a system combining solar power and a vanadium redox flow battery 
+(VRFB). This system was designed to produce 1 MWh per day and store electricity for use during peak hours or when 
+solar power is unavailable. The system was specifically engineered to withstand the challenging maritime conditions 
+in the Maldives.
+In the Philippines, the Palawan Electric Cooperative (PALECO) and S.I. Power Corporation (SIPCOR) are 
+implementing a micro grid project using solar PV, diesel generators, and flywheel energy storage systems (FESS) 
+from Amber Kinetics. This system provides energy to the inhabitants, reducing their reliance on the unreliable grid 
+and promoting economic growth. It is also environmentally friendly as it reduces carbon emissions and the island’s 
+dependence on diesel fuel for power generation.
+Recommendations for improving the implementation and success of decentralized renewable energy mini grids, 
+with a focus on energy storage technologies:
+1.	 Study battery performance in the field: Conduct comprehensive analyses of different battery technologies under 
+actual conditions where mini grids are built and operate.
+2.	 Consider total cost: When planning mini grids, consider the Levelized Cost of Storage (LCOS) and how the batteries 
+affect the Levelized Cost of Energy (LCOE), not just the upfront cost of batteries.
+=== PAGE 16 ===
+xiv	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+3.	 Adopt safety and performance standards: These standards will reduce risks and increase industry acceptance, 
+particularly if they align with standards developed by international organizations.
+4.	 Carefully draft regulatory documents and procurement specifications: This ensures safety, quality, and performance 
+without restricting innovation in storage technologies.
+5.	 Promote best recycling practices: As the industry shifts toward lithium-ion technologies, it’s crucial to develop and 
+implement strategies for recycling these batteries.
+6.	 Encourage the use of repurposed battery technologies: Develop a standard for testing and certifying second-life 
+battery packs to increase confidence in their use for mini grids.
+7.	 Exempt mini grid batteries from import duties: To make battery technology more affordable and expedite their 
+deployment in mini grids.
+8.	 Provide skilling and upskilling programs: These will enhance technical competency, reduce downtime of mini grid 
+systems, and create employment opportunities in communities.
+9.	 Create standard operating procedures for understanding battery technology performance: This will help mini 
+grid players optimize their asset utilization and reduce risks, for example, by understanding the effects of 
+environmental conditions on battery performance.
+=== PAGE 17 ===
+1
+BATTERY TECHNOLOGIES IN MINI GRIDS 
+ACROSS THE WORLD
+I
+n 2019, the World Bank convened the Energy Storage Partnership (ESP), a global partnership 
+to adapt, develop, and roll out energy storage solutions for developing countries. Storage  
+technologies, in tandem with renewable energy sources, have great potential to provide access 
+to electricity to the more than 1 billion people who either lack access or are served poorly.  
+To enable the rapid uptake of variable renewable energy sources in developing countries, the ESP 
+is working on developing power systems, disseminating knowledge, building capacity, developing 
+testing protocols, validating performance, providing flexible sector coupling, developing decentral-
+ized energy storage solutions, crafting procurement frameworks, enabling energy storage policy, 
+and recycling systems and standards. This report is a knowledge product of the project lead by 
+Working Group 5, which focuses on developing knowledge products to support the development 
+and expansion of energy storage solutions.
+A mini grid is a group of interconnected multiple or single distributed energy resources (DERs) 
+and loads that work independently in remote locations or grid connected areas (SE4All 2022). Mini 
+grids cater to customer groups of different sizes, ranging from a few consumers in remote areas to 
+thousands of consumers in urban areas. In remote areas, mini grids have improved energy access 
+to primary health centers, lighting, agricultural activities, including productive use applications like 
+agricultural processing and cold storage and learning centers. Urban mini grids serve hospitals,  
+airports, Special Economic Zones, universities, and small commercial establishments. Some  
+successful mini grids are already connected to the central grid; others may be connected in the 
+future. Yet others are in locations that are too remote to be connected in the foreseeable future.
+This report focuses on decentralized off-grid mini grids in remote locations. It is organized  
+as follows.
+•	
+Section 1 provides an overview of battery technologies in mini grids across the world, using 
+information collected through interviews with major project developers and plant operators.
+•	
+Section 2 forecasts demand for various battery technologies deployed or targeted.
+•	
+Section 3 compares various storage technologies for mini grid applications.
+•	
+Section 4 explores costs and trends in battery technologies deployed in mini grids.
+•	
+Section 5 presents seven case studies.
+•	
+Section 6 proposes recommendations.
+•	
+Appendix A provides a broad overview of mechanical, electrochemical, and thermal storage.
+•	
+Appendix B discusses performance optimization of lead acid batteries in mini grids.
+OVERVIEW
+In 2020, around 9.5 percent of the world’s population (approximately 740 million people) lacked 
+access to electricity (World Bank 2020a). Around 500 million of them live in Sub-Saharan Africa 
+(World Bank 2019a). The lack of access to electricity can be attributed to sparse population densities, 
+the remote locations of the villages, financially stressed state-owned electric companies, low 
+willingness to pay, and lack of capital investment.
+As of 2022, around 21,500 mini grids worldwide were serving around 48 million people. Another 
+29,400 projects, with the capability to serve another 35 million people, were in the pipeline. This 
+pipeline will serve less than 5 percent of the population without access to electricity. To serve half 
+1
+=== PAGE 18 ===
+2	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+a billion people by 2030, the world needs a fleet of 
+217,000 mini grids powered by solar and hybrid energy 
+systems (ESMAP 2022).
+1.1  THE GLOBAL STOCK OF  
+MINI GRIDS
+South Asia leads the world in terms of both the number 
+of mini grids installed (9,300) and planned (19,000) 
+Figure 1.1 shows the regional distribution.
+Together, Afghanistan, India, and Myanmar have 
+about 80 percent of the world’s installed mini grids in 
+Asia. Afghanistan has the largest number of mini grids 
+installed (around 4,700). By 2018, India had brought 
+electrical poles and wires to all of its settlements. It now 
+aims to increase the reliability and productive use of 
+power. Achieving these objectives requires a large fleet 
+of solar-powered mini grids.
+The national electrification rate in Nigeria is around 
+55 percent, with a rural electrification rate of only 
+39 percent. To achieve universal energy access by 2030, 
+Nigeria needs to connect 500,000 to 800,000 households 
+every year, with a focus on rural areas. The Nigerian 
+Electrification Project (NEP), with support from the 
+World Bank, the African Development Bank, and other 
+partners, aims to provide energy access to under- and 
+unserved communities in Nigeria using renewable 
+energy. The project promotes electricity access for 
+households; micro, small, and medium-size enterprises 
+(MSMEs); and public education institutions. It aims to 
+provide cost-effective power to 250,000 MSMEs and  
+1 million households through off-grid and mini grid 
+systems by 2023. The plan will install mini grid systems 
+in 250 sites and target 15 mini grids at federal universities 
+(Nweke-Eze 2022).
+In Senegal, the Rural Electrification Agency of Senegal 
+(ACER) aims to install 1,000 mini grids, in order to achieve 
+19,000
+9,600
+9,000
+7,200
+3,100
+800
+1,200 400
+20,000
+15,000
+10,000
+5,000
+0
+South Asia
+Africa
+East  Asia & Pacific
+OECD & Central
+Asia
+300
+100
+Other
+Installed
+Planned
+Number of mini grids /off-grids
+connections
+FIGURE 1.1: Number of Installed and Planned Mini Grids, by Region, 2021
+Source: ESMAP 2022.
+A. Number of installed mini grids
+B. Number of planned mini grids
+4,700
+4,000
+3,200
+1,500
+1,200
+5,000
+4,000
+3,000
+2,000
+1,000
+-
+Afghanistan
+Myanmar
+India
+Nepal
+China
+20,000
+15,000
+10,000
+5,000
+-
+18,900
+2,700
+1,500
+1,200
+600
+India
+Nigeria
+Tanzania
+Senegal
+Ethiopia
+FIGURE 1.2: Number of Installed and Planned Mini Grids in Selected Countries, 2022
+Source: ESMAP 2022.
+=== PAGE 19 ===
+BATTERY TECHNOLOGIES IN MINI GRIDS ACROSS THE WORLD
+3
+a 2025 target of universal access to electricity by 2025 
+(Burger 2022).
+1.2  THE GENERATION MIX OF  
+MINI GRIDS
+Many mini grids are either first- or second-generation grids 
+using diesel or hydro as the main sources of generating 
+electricity. Most of the projects in the pipeline are third- 
+generation grids. These grids generally use solar or solar/
+diesel hybrids to generate electricity; they use advanced 
+technologies like remote monitoring and smart pre-paid 
+meters to ensure the seamless functioning of mini grids. 
+Third-generation mini grids installed by members of the 
+African Mini Grid Developers Association (AMDA) report 
+average uptimes of 99 percent (AMDA 2022).
+With the decline in the cost of solar panels, diesel 
+generators no longer make financial sense as the primary 
+source of electricity in mini grids. They are now used 
+as backup generators, deployed during extended cloudy 
+periods.
+The increased popularity of solar/solar hybrid mini 
+grids reflects three main factors:
+•	
+Sunshine is abundantly available.
+•	
+Most developing countries under study depend on 
+imports for the supply of fossil fuels.
+•	
+Capital expenditure (CAPEX) per kilowatt (kW) 
+is projected to fall from $3,659 in 2021 to under 
+$2,500 by 2030 (ESMAP 2022). This decline has 
+the potential to make each unit of electricity generated 
+by these grids competitive with electricity supplied 
+by the main/central grid in many areas.
+1.3  THE ROLE OF STORAGE
+Newer mini grids generally pair renewables with batteries 
+supplying four to six hours of electricity in the evening and 
+morning hours, when solar generation is low or unavailable. 
+To learn about the use of battery technology in mini grid 
+applications, CES interviewed developers representing  
+382 mini grids and 72 megawatt hours (MWh) of 
+battery storage usage.1 In 2017–21, 202 of these mini 
+grids, with 39 MWh of storage were built by 8 mini grid 
+developers (figure 1.4). Ten mini grids—with 3 MWh of 
+flow battery and sodium-based battery energy storage 
+technology comprised of flow battery (manufactured by 
+VFLOW technologies) and sodium-based technologies 
+(Dielectrik)—were also added (figures 1.5 and 1.6).
+A database of 170 mini grids, with 30 MWh of  
+storage, was developed based on secondary sources. 
+Over 80 percent of the sampled mini grids were operating 
+in Asia. The rest were operating in Africa.
+100%
+80%
+60%
+40%
+20%
+0%
+Installed mini grids
+Solar & solar hybrid
+Hydro
+Diesel
+Other
+7
+35
+40
+19
+Percent of generation
+Planned mini grids
+18
+78
+5
+FIGURE 1.3: Generation Mix of Installed and Planned 
+Mini Grids, 2019
+Source: Analysis by CES.
+Lead Acid Battery
+Li-ion Battery
+10,000
+8,000
+6,000
+4,000
+2,000
+0
+Battery storage (kWh)
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Li-ion Battery
+1,000
+1,400
+3,600
+4,400
+3,200
+2,800
+Lead Acid Battery
+5,520
+3,360
+6,840
+8,400
+5,400
+6,200
+4,760
+5,040
+3,360
+3,600
+FIGURE 1.4: Battery Storage Transition in Rural Mini Grids in Asia and Africa, 2012–21
+Source: CES.
+=== PAGE 20 ===
+4	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+lithium-ion technology. Other respondents believed that 
+lead acid battery technology is likely to be used for many 
+more years, although most mini grid developers are slowly 
+beginning to use lithium-ion technology in their energy 
+storage mix.
+Because of its robust performance in a broad range 
+of temperatures, redox flow battery technology can be 
+a good option for mini grids. It is still in the initial phase 
+of development. Some developers expressed interest in 
+experimenting with flow batteries. Invinity Energy, VFlow 
+Tech, and Delectrik manufacture redox flow batteries for 
+the mini grid market.
+Of the 37.4 MWh of storage deployed in mini grids 
+(see figure 1.7), 65 percent of storage capacity is in 
+South and Southeast Asia and 35 percent is in Africa. 
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+0.5
+1.4
+0.4
+1.7
+Mandalay
+Yoma
+Mlinda
+Amperehour
+Engie Energy
+Access
+Atlantia
+Renwia
+Schneider Energy
+Access
+GIZ Nigeria
+Selco
+Lead Acid
+Lithium LFP
+Lithium NMC
+Nickel - Sodium Chloride
+1.8
+1.5
+1.4
+1.8
+4.2
+4.9
+1.5
+6.6
+7.7
+0.6
+2.2
+1.1
+Battery storage (MWh)
+FIGURE 1.5: Primary Source of Battery Storage by Selected Mini Grid Developers in 2017–21
+Source: CES.
+2%
+2%
+23%
+73%
+Lead Acid
+Li-ion
+Redox Flow
+Nickel Sodium Chloride
+FIGURE 1.6: Mini Grid Battery Storage as Percentage of 
+Total Capacity, by Technology Type, 2012–21
+Source: CES.
+100%
+80%
+60%
+40%
+20%
+0%
+South & South East Asia
+Africa
+Lead Acid
+Lithium-Ion
+55.9
+71.3
+28.7
+44.1
+Percent of total
+FIGURE 1.7: Shares of Lead Acid and Lithium-Ion as 
+Sources of Battery Storage by Mini Grids in South and 
+Southeast Asia and Africa, 2022
+Source: CES.
+Lead acid storage technology was the dominant 
+choice for mini grid developers before 2018. Since then, 
+lithium-ion batteries have been increasingly popular,  
+reaching 44 percent of deployed battery storage  
+technologies in 2021. Their increased popularity in  
+the electric vehicle sector has led to reductions in the price 
+of lithium-ion cells. Lithium-ion batteries have become 
+more attractive for mini grid developers because of this 
+price reduction and the batteries’ increased availability.
+Mandalay Yoma—a solar energy provider in 
+Myanmar—uses only lithium-ion battery technology  
+(figure 1.7), because of its increased life and maintenance- 
+free operation. It expressed confidence in the future of
+=== PAGE 21 ===
+BATTERY TECHNOLOGIES IN MINI GRIDS ACROSS THE WORLD
+5
+(Redox flow batteries and sodium-based technologies 
+were excluded from the analysis in order to compare 
+lead acid and lithium-ion technologies deployed.)
+1.4  THE ROLE OF THE LEVELIZED 
+COST OF STORAGE IN THE 
+TECHNOLOGY SELECTION 
+PROCESS
+The levelized cost of storage (LCOS) is a financial term 
+for the average cost of storing each unit of energy in a 
+storage project over its lifetime. It takes into consideration 
+different cost items and their timing, the time value of the 
+money, and the opportunity cost of the invested capital.
+For mini grid developers, upfront cost (CAPEX) is  
+an important factor determining the selection of a tech-
+nology, and can overshadow other key parameters such 
+as the useful life of the project, efficiency parameters, 
+and the cost of operations and maintenance (O&M). 
+Indeed, despite the lower lifetime cost of lithium-ion 
+batteries, lead acid technology is still used by many 
+developers because of the low upfront cost. Using the 
+LCOS can help decision makers make better choices 
+about technology.
+1.5  USING MINI GRIDS FOR 
+PRODUCTIVE USES: BEYOND 
+BASIC ACCESS TO ELECTRICITY
+With an average uptime of 99 percent, third-generation 
+mini grids provide highly reliable supplies of electricity  
+that go beyond basic access to electricity. Most of  
+the new-generation mini grids are promoting productive- 
+use applications, such as egg incubators, grinders 
+for pulses, water pumps, flour mills, and other small 
+business uses.
+Increased use of productive appliances can increase 
+the load factor of the grid. Domestic load peaks during 
+mornings and evenings; the grid is relatively load free 
+in the middle of the day. The addition of productive 
+appliances creates load during business hours, leading 
+to increased utilization without an increase in peak load. 
+When electricity used to power productive appliances is 
+consumed at the same time the electricity is generated, 
+the levelized cost of electricity (LCOE) falls (figure 1.8). 
+Doubling the load factor from 20 percent to 40 percent 
+has the potential to reduce the LCOE by 25 percent. 
+Lower levelized costs support sustainable business models 
+and help developers achieve their targets earlier.
+The Suro Bangla mini grid in Bangladesh, developed 
+by the Infrastructure Development Company Limited 
+(IDCOL), generated its full potential within 1.5 years, a year 
+earlier than initially projected, thanks to the use of produc-
+tive loads (ESMAP 2022). The mini grid in Shivpura (Uttar 
+Pradesh, India) powers many productive loads, including a 
+bank, a sweets shop, a school, and other small businesses.
+1.6  CHALLENGES FACED BY  
+MINI GRID DEVELOPERS
+Mini grids around the world face operational and finan-
+cial challenges, including the following:
+•	
+Remote location: High transport costs of equip-
+ment and raw materials increase the costs of mini 
+grides in remote locations. Safety requirements for 
+battery transportation can add costs.
+0.60
+0.55
+0.50
+0.45
+0.40
+0.35
+0.30
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Grid load factor (percent) 
+LCOE ($/kWh)
+FIGURE 1.8: Effect of Grid Load Factor on Levelized Cost of Electricity
+Source: ESMAP 2019.
+=== PAGE 22 ===
+6	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+•	
+Monitoring: Remoteness makes it difficult to send 
+personnel for periodic monitoring. As most mini 
+grids are far from telecommunication networks, 
+monitoring through technological interventions like 
+wireless communication devices can be difficult. 
+Battery technologies that require periodic monitoring 
+present challenges.
+•	
+Periodic maintenance: It is difficult to find compe-
+tent technicians to carry out periodic maintenance 
+in remote areas. Developers try to bridge the gap 
+by identifying local entrepreneurs and training them 
+in maintenance.
+•	
+Business sustainability: Consumers’ willingness 
+to pay for electricity is often low. Some mini grid 
+developers/companies charge as much as  
+$0.75/kWh—far more than the average cost 
+of electricity offered by some utilities in African 
+countries. Storage choices require balancing cost 
+against the reliability of supply and the impact on 
+tariffs, which affect the amount of electricity customers 
+can afford to purchase.
+•	
+Taxation: Most mini grid players operate in devel-
+oping countries that must import the required equip-
+ment, including the batteries. Some countries have 
+differential import duty regimes, in which duties on 
+separate components (20–30 percent) are higher 
+than duties levied on integrated units (as low as 
+5–10 percent).
+•	
+Stranded assets: Mini grid developers face the 
+financial risk of their asset becoming stranded 
+when the main grid arrives. The addition of CAPEX-
+intensive battery technologies increases this 
+financial risk. In a bid to recoup their investment 
+early and reduce this risk, developers opt for lower 
+payback periods. Lower payback periods need higher 
+annual capital depreciation and increase the cost of 
+each unit of electricity generated. The higher cost  
+of each unit generated negatively affects users and 
+hence the large-scale deployment of mini grids.
+•	
+Financing: Some mini grid projects have been 
+funded exclusively by grants. These projects  
+tend to be unsustainable, coming to a halt when 
+funding ends.
+•	
+Absence of standardization: The size of individual 
+equipment like inverters, batteries, and switch gear 
+lack mini grid-specific standardization. As a result, 
+some components are over-designed and not fully 
+utilized. There is no standard mini grid size that grid 
+developers can use for deployment. A standard size 
+could be based on the size of the community to be 
+served or the available load.
+•	
+Operational challenge related to temperature: 
+The performance of some storage technologies is 
+sensitive to ambient temperature. Some storage 
+technologies perform better when they are cooled 
+by air conditioning systems. Air conditioning uses 
+some of the power stored in the batteries, however, 
+reducing the amount of energy available for other 
+uses, and air conditioning systems can be challenging 
+to maintain in remote locations.
+NOTE
+1.	 The mini grid developers interviewed for this project represent a 
+small subset of global players and may not be representative. The 
+results reported may over- or underestimate the prevalence of particular 
+battery storage technologies used in mini grids.
+=== PAGE 23 ===
+7
+SIZE OF THE GLOBAL MARKET FOR  
+MINI GRID AND ENERGY STORAGE
+2.1  NUMBER OF PEOPLE WITHOUT ACCESS TO ELECTRICITY
+A
+ccording to the Multi-Tier Framework (MTF), households with access below Tier 1 have 
+electricity for less than four hours a day to light lamps or charge phones (Bhata and 
+Angelou 2014). The International Energy Agency defines access to electricity as access 
+to at least 250 kWh of electricity a year in rural areas and at least 500 kWh a year in 
+urban areas of (IEA 2022c). The International Renewable Energy Agency (IRENA) estimates that in 
+2022 around 10 to 12 percent of the global population of 7.9 billion lacked access to electricity.
+Sub-Saharan Africa
+Sub-Saharan Africa has the world’s largest unelectrified population (figure 2.1). The share of the 
+population with access to electricity stood at 48 percent in 2020 (World Bank 2020b). Rates in 
+several countries, such as Niger, Chad, and the Democratic Republic of Congo, were less than 
+20 percent.
+The region’s population of 1.1 billion is expected to exceed 1.4 billion by 2030. In a business as 
+usual scenario, access to electricity is projected to hit 62 percent by 2030. Ethiopia, Ghana, Kenya, 
+Nigeria, Rwanda, and Senegal have ambitious National Electrification Plans, which are expected 
+to achieve universal access by 2030.2 For rural electrification, around 45 percent of investments 
+are for grid expansion to remote areas, 25 percent are for stand-alone solar home lighting systems, 
+and 30 percent are for mini grids (EnDev 2022).
+South Asia
+Around 108 million people in South Asia lacked access to electricity in 2020. In 2019 Pakistan, 
+Nepal, and Bangladesh had the lowest access rates in the region at 73 percent, 89 percent, and 
+93 percent, respectively (World Bank 2022b). These countries aim to achieve universal electricity 
+access by 2030.
+In Afghanistan, a 3 MW solar hybrid mini grid project funded by the United Nations Development 
+Programme (UNDP) is under evaluation (Green Climate Fund 2022). Bangladesh uses solar 
+photovoltaic (PV) as the key source for powering rural mini grids. In India, 2019 and 2020 saw 
+massive deployment of standalone solar home lighting systems to rural households. Under the 
+Saubhagya Scheme Programme, around 30 million solar home lighting units were distributed in 
+2019–21 (See the Saubhagya Scheme Dashboard).
+Southeast Asia
+In 2020, Cambodia , Laos, and Myanmar had electrification rates of 70 percent, 94 percent, 
+and 89 percent, respectively (World Bank 2022a). In 2022–23, 350 unelectrified villages in 
+Cambodia are expected to be connected by solar mini grids. Most countries in Southeast Asia aim 
+to achieve universal electricity access by or before 2030 (IEA 2022b). Indonesia plans to achieve 
+universal access by 2024, Myanmar expects to reach it by 2030, and Lao PDR expects to reach 
+98 percent access by 2025. The Philippines and Indonesia have several unelectrified islands that 
+are difficult to connect via the grid.
+2
+=== PAGE 24 ===
+8	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+2.2  PROJECTED ACCESS BY 2030
+Globally, the electricity access rate increased steadily 
+between 1996 and 2020, rising from 73.4 percent to 
+90.5 (Our World in Data n.d.). During 2020 and 2021, 
+the COVID-19 pandemic slowed the pace of electricity  
+access programs, as governments shifted their 
+priorities toward healthcare and logistics (IEA 2022a)
+The universal electricity access targets for 2030 are 
+likely to be delayed in several developing countries as 
+a result of the pandemic.
+In a business as usual scenario, some 800 million 
+people are expected to receive electricity between 2021 
+and 2030, leaving 560 million unelectrified (IEA 2022a). 
+To achieve 100 percent electrification by 2030, around 
+1,300 million people need to be electrified.
+To achieve rural electrification targets, 800 million 
+households must be electrified by 2030. In 2021, the 
+annual electrified population was estimated to be 
+around 30 to 40 million. CES estimates that achieving 
+universal electricity by 2030 would require a compound 
+annual growth rate of the electrified population of 
+around 6.5 percent. This report assumes that all regions 
+except Sub-Saharan Africa will achieve universal energy 
+access by 2030 (figure 2.2).
+2.3  RURAL MINI GRID 
+INSTALLATIONS IN 2021
+CES conducted a survey to estimate the number of 
+mini grids installed in 2021 and the MW capacity those 
+installations provided. It found that 1,100 rural mini grid 
+projects across the world provided 80 MW of capacity. 
+South Asia continued to lead in annual installations, 
+ at 35 percent of total MW installed, followed by  
+Sub-Saharan Africa (30 percent) and Southeast Asia 
+(28 percent) (figure 2.3).
+In South Asia, India, and Afghanistan lead, together 
+accounting for at least 20 MW of capacity. The typical 
+mini grid capacity was around 30 kilowatt peak (kWp) in 
+India and over 1 megawatt peak (MWp) in Afghanistan. 
+In Southeast Asia, Myanmar, Indonesia, the Philippines, 
+and Malaysia have the largest number of installations. 
+Mini grids of 100 kW and above have been installed in 
+the region. In Africa, Nigeria, Sierra Leone, and Senegal 
+lead. Uganda and Ethiopia have several projects 
+underway. Mini grids with capacities of 50 kWp to 
+130kWp were installed in Sub-Saharan Africa in 2021.
+800
+700
+600
+18
+23
+7
+500
+400
+300
+200
+100
+0
+1
+2021
+2030
+Sub-Saharan Africa 
+South Asia
+Southeast Asia 
+Rest of the world
+530
+22
+577
+108
+Number of people without access to
+electricity (millions)
+FIGURE 2.1: Number of People Without Access to 
+Electricity, by Region, 2021 and 2030
+Source: UN Population Division Data Portal and World Bank Access to 
+Electricity Portal 2022.
+140
+120
+100
+80
+60
+40
+20
+0
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+Year
+Population (mIllions)
+Southeast Asia
+Latin America & the Caribbean
+South Asia
+Total
+Sub-SaharanAfrica
+FIGURE 2.2: Projected Annual Increase in Number of Rural People with Access to Electricity, by Region, 2021–30
+Source: CES.
+=== PAGE 25 ===
+SIZE OF THE GLOBAL MARKET FOR MINI GRID AND ENERGY STORAGE
+9
+2.4  FORECASTING GLOBAL DEMAND 
+FOR MINI GRIDS AND BATTERY 
+STORAGE SYSTEMS
+This section forecasts global demand for mini grids 
+between 2022 and 2030. It also estimates demand for 
+battery storage systems to support these mini grids.  
+The forecasts are based on assumptions about the share 
+of mini grids in rural electrification and the capacity 
+of the mini grid per household. Based on extensive 
+interactions with mini grid players across Sub-Saharan 
+Africa, South Asia, and Southeast Asia, CES estimates 
+that in 2021, around 80 MW of mini grids were installed 
+globally. Of the total rural population electrified in 2021, 
+around 30 percent were electrified through mini grids.
+Three scenarios for mini grid installations are 
+projected for 2022–30:
+•	
+High-case scenario: From 2022 to 2025, of the 
+rural population electrified in each year, the share 
+that gains electricity access through mini grids is 
+projected to increase from 30 percent to 50 percent, 
+remaining at 50 percent until 2030. This scenario is 
+consistent with the assumptions in the State of the 
+Global Mini Grids Market Report 2020 (SE4All 2022).
+•	
+Base-case scenario: In the business-as-usual  
+scenario, mini grid penetration remains at 30 percent.
+•	
+Low-case scenario: In this scenario, mini grid 
+penetration is projected to fall to 20 percent. Other 
+methods of electricity access, such as grid expansion 
+and solar home lighting systems, are assumed to be 
+more prevalent.
+Mini grids are designed to power households and 
+commercial buildings, such as small shops and health 
+centers, in villages. They vary in size from dozens of 
+kWp to hundreds of kWp. The average size varies from 
+region to region. Household consumption averages 
+are based on inputs from mini grids developers across 
+Africa and South and Southeast Asia.
+Table 2.1 shows the average capacity of a mini grid 
+assigned to a household3 in each of the four regions 
+in 2021 and 2030. These data are based on primary 
+inputs. The connected loads for a typical household in 
+these regions were typically up to four units of 7 watts 
+(W) LED lights, two units of 25 W fans, and a socket 
+to which the household connected a television unit of 
+40 W. These loads were connected on the microgrid 
+network.
+Figure 2.4 shows the annual installed capacity of 
+mini grids in 2022–30 in the three scenarios. Figure 2.5 
+shows the cumulative installed capacity.
+Table 2.2 describes a sample of mini grid projects 
+installed during 2020 and 2021. Most of them are 
+dependent on diesel generator sets for a few hours 
+of power generation during the evening.4 The ratio of 
+battery kWh to kWp of solar power is typically limited to 
+2 to 2.5 when lithium-ion batteries are used for backup. 
+If lead acid batteries are used, the ratio increases to  
+3 to 4, because the depth of discharge is lower for lead 
+acid batteries (50 percent) than for lithium-ion ones 
+(80 percent).
+Mini grids paid for by government and Corporate 
+Social Responsibility (CSR) funds appear to favor  
+batteries with higher kWh to kWp ratios than mini grids 
+built with private developer funds. In India, the government  
+funded several mini grid projects in 2016–18 as part of 
+its rural electrification strategy. These projects used lead 
+acid batteries. The ratio of the size of the battery to the 
+mini grid capacity was 7 to 12. In projects funded with 
+CSR funding, the ratio was 3 to 6. In private mini grid 
+projects, developers conduct load modelling and select 
+the optimum size of batteries to support renewable 
+Rest of the world (7%)
+Southeast Asia
+(28%)
+South Asia (35%)
+Sub-Saharan Africa (30%)
+FIGURE 2.3: Distribution of Mini Grid Capacity,  
+by Region, 2021
+Source: CES.
+TABLE 2.1: Estimated and Projected Mini Grid Capacity 
+per Household (Wp), by Region, 2021 and 2030
+Region
+2021
+2030
+Sub-Saharan Africa
+120
+150
+Latin America and the Caribbean
+100
+150
+South Asia
+  90
+150
+Southeast Asia
+  80
+120
+Source: Primary inputs collected by CES from mini grid players.
+=== PAGE 26 ===
+10	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+1,800
+1,600
+1,400
+1,200
+1,000
+800
+600
+400
+200
+0
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+Low Case
+Base Case
+High Case
+Annual installed capacity (MWp)
+FIGURE 2.4: Projected Annual Global Demand for Rural Mini Grid in the Low-, Base-, and High-Case Scenarios, 2021–30
+Source: CES.
+2,300
+1,300
+221
+345
+440
+600
+900
+90
+250
+3,400
+1,700
+2,300
+8,000
+7,000
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+0
+Low case
+Base case
+High case
+Sub-Saharan Africa
+Southeast Asia
+Latin America & the Caribbean
+South Asia
+Cumulative capacity (MW)
+FIGURE 2.5: Projected Global Cumulative Capacity Addition of New Rural Mini Grids, 2022–30
+Source: CES.
+power. The ratio of the battery to mini grid capacity in 
+these projects was 2. Mini grids achieve one to two  
+days of power autonomy in government-funded projects; 
+in privately funded projects, the stored power was 
+exhausted at night. Government-funded mini grid 
+projects are now minimal, as governments increasingly 
+choose grid expansion for rural electrification.
+The penetration of lithium-ion batteries in mini 
+grids was higher in Sub-Saharan Africa than in Asia in 
+2019–20. Several countries, such as Senegal, provide 
+CAPEX subsidies for installation of mini grids. The ratio 
+of the battery size to the mini grid installed capacity 
+in Africa was 2 to 3, in most projects using lithium-ion 
+batteries (table 2.3).
+In 2021, demand for batteries is estimated to  
+have been around 180 MWh. Battery storage is  
+projected to rise to 3.6 gigawatt hours (GWh) by  
+2030 (figure 2.6).
+=== PAGE 27 ===
+SIZE OF THE GLOBAL MARKET FOR MINI GRID AND ENERGY STORAGE
+11
+TABLE 2.2: Battery Capacity in Selected Mini Grid Projects Installed in 2020–21
+Battery Size
+Country
+Year 
+Installed
+Mini Grid 
+Capacity 
+(kWp)
+kWh
+kWh/kWp
+Battery Technology
+Genset Size 
+(kVA)
+India
+2021
+39
+110
+2.8
+Lithium-ion/LFP
+No
+2020
+23
+96
+4
+Lead acid- Valved Regulated Lead-Acid (VRLA) 
+  15
+Myanmar
+2021
+713
+1,312
+1.8
+Lithium-ion/ nickel-manganese cobalt (NMC)
+315
+2019
+55
+160
+2.9
+Lithium-ion/ lithium ferro-phosphate (LFP)
+n.a.
+2021
+120
+264
+2.2
+Lithium-ion/LFP
+n.a.
+Nigeria
+2020
+200
+500
+2.5
+Lithium-ion/LFP
+100
+Uganda
+2021
+600
+358
+0.60
+Lithium-ion/LFP
+315
+Source: Interviews with mini grid developers; engineering, procurement, and construction (EPC) contractors; and mini grid solution providers.
+Note: n.a. Not applicable.
+TABLE 2.3: Ratio of Battery Capacity to Mini Grid Installed Capacity
+Battery Type
+kWh/kWp
+Lead acid 
+3
+Lithium-ion 
+2
+Other 
+3
+Source: CES.
+FIGURE 2.6: Projected Global Demand for Batteries for Rural Mini Grids, 2021–30
+Source: CES.
+4,000
+3,500
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+0
+Low Case
+Base Case
+High Case
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+Capacity (MWh)
+NOTES
+2.	 These plans are the Ethiopia Universal Electrification, the Ghana 
+National Electrification Scheme, the Kenya Universal Electricity Access, 
+the Rwanda Universal Electricity Access Program, and the Senegal 
+Electrification Plan.
+3.	 The number of rural households was calculated by estimating the 
+average number of people per household in each region. Household 
+size was assumed to be at least six in Sub-Saharan Africa and four to 
+five in South Asia, Southeast Asia, and Latin America and the Caribbean 
+(UNDESA 2022).
+4.	 The Uganda mini grid is an outlier that relies more heavily on the 
+diesel. It is an island mini grid in which the battery is used only to reduce 
+diesel consumption. The battery is therefore smaller than in other mini 
+grids. In many situations like this, batteries are much smaller than in mini 
+grids in which solar PV and battery are the primary sources of energy.
+=== PAGE 28 ===
+12
+SELECTION OF BATTERY TECHNOLOGY
+3.1  FACTORS INVESTORS CONSIDER
+I
+nvestors consider many factors in choosing a battery chemistry for a project, including  
+the following:
+•	
+Cycle life of the batteries: Longer cycle lives are desirable, because battery replacement 
+costs represent a significant share of overall project cost. Replacement cost is always higher 
+than the original battery cost, because it includes the labor cost of replacement in addition to 
+the battery cost.
+•	
+Depth of discharge: Batteries with higher depth of discharge capabilities can be more discharged 
+without damaging the battery. They thus provide more available energy, reducing the cost of storing 
+each unit of electricity.
+•	
+Type of load connected to the grid: In productive-end use applications (such as motors with 
+high inductive loads that use a high initial current to start), lead acid batteries are not ideal, 
+because high inrush currents can cause them to fail before the end of their expected lifetimes.
+•	
+Energy density: High-density products are more attractive than lower-density ones, because 
+they offer more available energy. Energy density is a very important criterion for mobile applica-
+tions, because more energy-dense technology has a higher payload capacity. Batteries need to 
+be transported to remote locations; lighter versions reduce transport-related expenditure and 
+ease the handling process.
+•	
+C-rating (charge and discharge current rating): The C-rating is a measurement of the max-
+imum current a battery can be charged or discharged. Most mini grids use lead acid batteries 
+with C-ratings of C/10, meaning that when discharging the battery can provide a level of current 
+that would cause it to fully discharge in 10 hours. These batteries are not intended for heavy-duty 
+applications with high discharge current requirements. When used for such applications, these 
+batteries die quickly. Lithium-ion and redox flow batteries often have higher C-ratings.
+•	
+Thermal runaway: Thermal runaway is a phenomenon in which the internal impedance of a 
+battery drops with increases in operating temperature. Reduced impedance results in increased 
+current flow, exacerbating the temperature of the system and posing the risk of fire or explosion. 
+Certain chemistries, including lithium-ion, face this issue, which requires attention.
+•	
+Maintenance: Battery technologies with fewer maintenance requirements fare better than 
+technologies that require frequent or complicated maintenance. Flooded lead acid batteries 
+require monitoring and the addition of distilled water. Redox flow batteries have pumps, seals, 
+and cooling systems that require routine maintenance.
+•	
+After-sales service: After-sales service is very important, because capabilities to troubleshoot 
+technologies may be limited in remote areas.
+•	
+Integrated solution: Plug-and-play solutions are operator friendly and can reduce tax costs in some 
+jurisdictions. In some African countries, for example, import duties on individual grid components 
+range from 20 to 30 percent while duties on an integrated unit can be as low as 5 to 10 percent.
+•	
+Hardware compatibility: Charge controllers and inverters have voltage windows within 
+which they must operate; they also have built-in battery-charging cycles that are battery 
+chemistry-specific. Many newer models have programmable settings that allow for different 
+3
+=== PAGE 29 ===
+SELECTION OF BATTERY TECHNOLOGY
+13
+types of technologies; some old equipment may 
+not. For these reasons, developers can face 
+compatibility issues when replacing a battery with 
+a new chemistry type (for example, switching 
+out old lead acid batteries with a new lithium-ion 
+pack).
+•	
+Maturity: Developers tend to view mature storage 
+technology as more reliable. Mature technologies 
+tend to have well-developed supply chains and 
+after-sale service.
+•	
+Cost: Cash-constrained developers may be more 
+concerned with the upfront CAPEX than with the 
+total lifetime cost of a technology. (See the Pugh 
+matrix in table 3.2.)
+•	
+Battery degradation: Technologies with higher 
+degradation rates need to be replaced more 
+often and to have higher lifetime costs than other 
+batteries.
+•	
+Operating conditions: Some storage technologies 
+underperform or degrade more quickly than others, 
+particularly in hot regions.
+•	
+Environmental concerns: End-of-life battery disposal 
+can create environmental hazards. Some batteries 
+contain heavy metals, such as cadmium and lead 
+(a dangerous neurotoxin), which can leach into the 
+ground water. Lithium-ion batteries pose fire hazards. 
+Battery electrolytes are generally caustic. Developers 
+need to take the recyclability of the battery technology 
+into account in choosing a battery type. The ability 
+to recycle lead acid and lithium-ion batteries varies 
+across countries; recycling of lead acid batteries in 
+many countries is generally easier and more commer-
+cially developed than recycling lithium-ion batteries. 
+Some countries export battery waste.
+Lead acid batteries long dominated the market for 
+batteries for mini grid. These batteries are a mature, 
+easily available technology with low upfront capital cost 
+($70–$100/kWh). They remain the battery technology of 
+choice for some leading innovative mini grid developers 
+(see case study 5.1).
+Thanks to the declining cost of lithium-ion batteries, 
+their lower LCOS, and longer battery life compared with 
+lead acid chemistry, the trend is changing (figure 3.1). 
+Lithium-ion battery penetration is projected to increase to 
+70 percent by 2030, from 55 percent in 2021, according 
+to CES analysis.
+In 2019, 19 percent of mini grid batteries in Asia  
+and 29 percent in Sub-Saharan Africa were lithium-ion 
+batteries. An ESMAP survey of 211 mini grids under  
+construction or commissioned in 2020 and 2021 found 
+that 69 percent used lithium-ion batteries and 31 percent 
+used lead acid batteries (ESMAP 2022). Lithium-ion 
+technology is used widely in stationary installations and 
+electric vehicles. It provides a longer life and less  
+maintenance than lead acid batteries. Case studies 5.2 to 
+5.5 profile mini grids using lithium-ion batteries in Uganda, 
+Myanmar, Nigeria, and India.
+1
+300
+1,200
+50
+270
+2,500
+2,000
+1,500
+1,000
+500
+0
+53
+162
+2021
+5
+740
+390
+2025
+2030
+Lead Acid
+Flow Battery
+Lithium-ion
+Others
+Annual installed capacity (MWh)
+FIGURE 3.1: Estimated and Projected Demand for Batteries for Mini Grids, by Type, 2021–30
+Source: CES.
+=== PAGE 30 ===
+14	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+The upfront capital cost of lithium-ion batteries is 
+projected to drop from a global average of $250/kWh 
+in 2021 to $200/kWh by 2030. Driven by large-scale 
+manufacturing plans for lithium-ion battery cells across 
+the globe and increasing scale of production, the price 
+of battery cells is projected to fall. However, most  
+production will be used to satisfy demand for batteries  
+in electric vehicles.
+Vanadium redox flow batteries (VRFB) are batteries 
+that use vanadium as an electrolyte to store energy. 
+Several factors make them attractive for mini grid 
+applications:
+•	
+They last six or more hours.
+•	
+They have operational lives of up to 10,000 cycles 
+or 20 years.
+•	
+They allow 100 percent depth of discharge.
+However, the upfront capital cost of VRFBs is  
+$350 to $450/kWh, according to battery manufacturers 
+interviewed in 2022. Case study 5.6 focuses on a solar 
+mini grid using a VRFB battery on an island in the  
+Maldives. An innovative business model involving  
+vanadium leasing reduced the upfront cost by 40 percent. 
+In this model, vanadium metal is leased to the end-user 
+and purchased back at the end of life of the battery. 
+Vanadium can be 100 percent recovered at the end 
+of life of the battery. Mini grids in India, China, Korea, 
+Sub-Saharan Africa, and Southeast Asia have already 
+installed this battery chemistry.
+Other technologies include advanced lead acid 
+chemistry, sodium batteries, fuel cells, and flywheel 
+storage. Together, these technologies are used in 
+fewer than 0.5 percent of mini grids installations. 
+Market share by 2030 is likely to remain below  
+1 percent of annual installations. Case study  
+5.7 profiles a mini grid with a flywheel energy storage 
+system in the Philippines.
+3.2  COMPARISON OF STORAGE 
+TECHNOLOGIES
+Table 3.1 compares storage technologies. The  
+comparison is quantitative in nature; the importance 
+of each parameter depends on the application of  
+the battery.
+Nickel sodium chloride technology is unique  
+in requiring very high temperatures to keep the  
+salt/electrolyte in a molten form. Achieving this  
+requirement may be difficult in remote locations.
+Table 3.2 presents a Pugh matrix to compare  
+various advanced battery technologies. This tool  
+helps users select the best option by scoring technologies 
+on a scale of 1 to 10 on a set of parameters. Ranks  
+are multiplied by assigned weights; the result is a 
+weighted average for each option.5 This analysis  
+reveals that lithium-ion is the most suitable 
+technology.
+TABLE 3.1: Technical Parameters of Selected Battery Technologies
+Parameter
+Battery Type
+Lead Acid
+Advanced 
+Lead Acid
+Lithium-Ion
+NiNaCl2
+Vanadium 
+Redox Batteries 
+(VRB)
+Zn–Br  
+(flow tech)
+Battery chemistry
+Lead
+Lead, carbon 
+electrodes
+NMC/LFP 
+Nickel, sodium 
+chloride
+Vanadium
+Zinc, bromine
+Round-trip efficiency (percent)
+60–80 
+80–90 
+85–95 
+70–90 
+60–70 
+68–70
+C-rate
+C/10
+C/5
+C/4-2C
+C/6-C/8
+C/5-C/8
+C/3–C/4
+Depth of discharge (percent)
+50–60 
+70–80 
+90 
+80 
+100 
+100
+Energy density (Who/kg)
+40–60
+27–30
+80–150
+65–70
+7–8
+15–25
+Cycle life
+500–1,000
+1,200–1,800
+2,000–6,000
+4,500–5,000
+7,000–10,000
+3,000–3,500
+Safety
+High
+High
+Medium
+Medium
+High
+Medium
+CAPEX ($/kWh)
+80–150
+120–300
+250–350
+750–1,000
+600–1000
+750–800
+Toxicity of chemicals
+High
+High
+High
+Medium
+Medium
+High
+Operating temperature (°C)
+–20–50
+–20–50
+0–55
+270–350
+15–55
+20–50
+Self-discharge (percent/month)
+10–15 
+3–5 
+0.5–2 
+5 
+5 
+60a
+Source: CES.
+Note: Using (1-.03)30 a daily self-discharge of 3 percent equates to a monthly self-discharge of about 60 percent.
+=== PAGE 31 ===
+SELECTION OF BATTERY TECHNOLOGY
+15
+Few companies manufacture redox flow batteries; 
+they perform poorly on service and CAPEX compared 
+with lead acid and lithium-ion. They score well in  
+terms of battery life, however. Redox flow batteries are 
+also considered environmentally friendly, with lifetimes 
+of 20 to 25 years; their vanadium and zinc components 
+are relatively easy to recycle. As more units are  
+manufactured, the CAPEX of flow batteries might 
+drop, making them an attractive choice for mini grid 
+developers.
+3.3  THE CAPITAL COST OF 
+BATTERIES
+Figure 3.2 provides CES’ estimates and forecasts of 
+battery costs for 2022–30. Lead acid is a mature tech-
+nology and may not see significant price drops in the 
+future. Lithium-ion is benefitting from significant learn-
+ing curves; price levels are forecast to drop until 2030. 
+There is upward pressure on the cost of raw materials 
+used by lithium-ion technology, however, because of 
+TABLE 3.2: Pugh Matrix Ranking of Storage Technologies in Mini Grid Applications
+Parameter
+Weight 
+(Percent)
+Li-Ion
+Lead Acid
+Advanced 
+Lead Acid
+VRFB
+Zn–Br
+Nickel 
+Sodium 
+Chloride
+Battery life
+25 
+8
+  5
+7
+9
+8
+9
+Heavy-duty usage (higher C-rate)
+15 
+9
+  5
+7
+7
+7
+7
+Maintenance
+10 
+9
+  6
+8
+7
+7
+6
+After-sales service
+15 
+8
+  9
+8
+6
+6
+5
+Maturity of technology
+10 
+8
+10
+6
+7
+7
+6
+Cost
+25 
+9
+10
+8
+6
+6
+5
+Weighted-average score
+8.5
+7.5
+7.4
+7.1
+6.9
+6.5
+Source: CES.
+700
+600
+500
+400
+300
+200
+100
+0
+Lead acid
+Adv. lead acid
+Li-ion LFP
+Vanadium flow
+NiNaCl2
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+Lead acid
+110
+110
+110
+110
+110
+110
+110
+110
+110
+Adv. lead acid
+160
+158
+155
+153
+151
+148
+146
+144
+144
+Li-ion LFP
+250
+243
+235
+228
+221
+215
+208
+202
+196
+Vanadium flow
+350
+340
+329
+319
+310
+301
+292
+283
+274
+NiNaCl2
+600
+582
+565
+548
+531
+515
+500
+485
+470
+Cost per kWh capacity (dollars)
+FIGURE 3.2: Cost of Six-Hour Storage, by Battery Type, 2022–30
+Source: CES.
+=== PAGE 32 ===
+16	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+demand from the electric vehicle industry. Prices are 
+expected to become stable once the mining industry 
+catches up with new demand.
+Battery capacity is nominal capacity; it does not 
+take into account different recommended depth of 
+discharge to avoid damaging the battery. For a flow 
+battery, the cost per kWh drops significantly as storage 
+duration increases, because kWh capacity in a flow 
+battery is a function of the size of the storage tanks and 
+electrolyte volume.
+3.4  THE LEVELIZED COST  
+OF STORAGE
+The levelized cost of storage (LCOS) is the ratio of the 
+discounted value of total expenditure and total electricity 
+delivered by the storage unit over its lifetime. It is given 
+by equation 3.1 (Mayr 2016):6
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+#
+#
+&
+#
+.
+LCOS
+cycles
+DOD
+C
+r
+DEG
+CAPEX
+cycles
+DOD
+C
+r
+DEG
+O M
+r
+cycles
+DOD
+C
+r
+DEG
+r
+V
+DOD
+P
+n
+n
+n
+1
+1
+1
+1
+1
+1
+1
+1
+1
+–
+rated
+n
+n
+N
+rated
+n
+n
+N
+n
+n
+N
+rated
+n
+n
+N
+N
+residual
+elec in
+1
+1
+1
+1
+1
+–
+h
+=
++
+-
++
++
+-
++
++
+-
++
++
+=
+=
+=
+=
++
+_
+_
+_
+_
+_
+_
+_
+_
+_
+i
+i
+i
+i
+i
+i
+i
+i
+i
+|
+|
+|
+|
+The first term in the equation addresses the CAPEX-
+associated costs of storage, the second covers O&M 
+costs, the third reflects the residual value after the 
+project lifetime, and the fourth addresses the cost of the 
+energy used to charge the battery, including the cost 
+of electricity lost as a result of the battery’s inefficiency 
+(more electricity must be put into the battery when 
+charging than comes out when discharging). Table 3.3 
+describes and provides values for these variables.
+The LCOS formula includes a discount rate for 
+the weighted-average cost of capital of 11.5 percent, 
+reflecting a 15 percent expected return on equity and 
+debt interest of 10 percent with a 70/30 debt to equity 
+ratio. The calculations assume a linear degradation of 
+battery capacity across the battery’s lifetime. The LCOS 
+includes costs associated not only with the battery but 
+also with the battery inverter.
+The calculation of LCOS also includes the cost of 
+charging the battery. These costs need to be included, 
+because efficiency losses during a complete charge- 
+discharge cycle means that more energy has to be 
+obtained for charging the battery than can be delivered 
+when discharging. This loss of energy can constitute a 
+significant cost factor. Not included in these energy loss 
+calculations are auxiliary air conditioning, which may 
+can help certain battery types (for example, lead acid 
+and lithium-iron phosphate) achieve longer lifetimes.
+Although the cost per nameplate capacity ($/kWh) 
+of lead acid batteries is considerably lower than that of 
+lithium-ion, the superior cycle life, efficiency, and permis-
+sible routine depth of discharge of lithium-ion batteries 
+leads to a lower LCOS (figure 3.3).
+Lithium-ferro-phosphate (LFP) battery technology 
+offers low-cost storage for all the durations considered. 
+The LCOS decreases as the storage duration increases 
+from four to eight hours, because the per kW cost of 
+the power conversion electronics, such as inverters, is 
+spread over more kWh of storage.
+VRFB technology decouples the power and energy 
+ratings of the system. It expands storage capacity by 
+adding extra electrolyte to the tank, which causes a 
+significant drop in the CAPEX per kWh of the system as 
+the system duration increases.
+Figure 3.4 shows the contributions of CAPEX, O&M, 
+residual value, and electricity cost to the LCOS for the 
+five technologies. Levelized CAPEX costs incorporate 
+not only the battery capital cost but also the battery life-
+time and the allowable depth of discharge. Batteries with 
+long lifetimes have a somewhat lower residual value, 
+because the trade-in value is discounted farther into the 
+future. Batteries with higher round-trip efficiencies have 
+lower charging electricity cost, because less electricity is 
+dissipated as heat in the charge/discharge process.
+Figure 3.5 shows estimates and forecasts of the 
+LCOS based on CAPEX and performance forecasts. 
+Lithium-ion LFP batteries are expected to increase their 
+lead as the lowest-cost battery technology for mini grids, 
+thanks to increased performance and cost reductions 
+through their widespread deployment in electric vehicles, 
+stationary grid-based electricity storage, and other 
+applications. Lead acid batteries remain a high-cost 
+choice, with only a slight decline in their price (because 
+the technology is mature). VRFB becomes increasingly 
+competitive with lead acid batteries.
+=== PAGE 33 ===
+SELECTION OF BATTERY TECHNOLOGY
+17
+TABLE 3.3: Descriptions and Assumed Values in Levelized Cost of Battery Storage Calculations
+Variable
+Description
+Comments
+Lead Acid
+Advanced 
+Lead Acid
+Li-ion 
+LFP
+Vanadium 
+Redox
+NiNaCl2
+CAPEX
+Upfront capital cost 
+including battery inverter 
+($/kWh capacity)
+Cost varies depending 
+on hours or storage
+135–160 
+185–210
+275–300
+314–507
+625–650
+Hours of storage 
+Intermediate variable in 
+CAPEX
+4, 6, and 8
+Battery cost ($/kWh 
+capacity)
+Intermediate variable in 
+CAPEX
+110
+160
+250
+50–300a
+600
+Inverter cost ($/kW)
+Intermediate variable in 
+CAPEX
+200
+Associated inverter cost 
+($/kWh capacity)
+Intermediate variable in 
+CAPEX 
+25–50 for systems with four to eight hours storage
+Number of 
+cycles 
+Charge/discharge cycles 
+per year
+One cycle assumed per 
+day
+365
+DOD 
+Depth of discharge 
+(percent)
+Designed allowable 
+depth of discharge
+50 
+70 
+90 
+100 
+80
+DEG
+Degradation (percent of 
+capacity degraded per 
+year)
+Degrades to 80 percent 
+capacity by end of 
+project life
+5 
+5 
+1.5 
+0.7 
+1.3
+N
+Battery lifetime (years)
+Calculated from number 
+of cycles
+4
+4
+13
+27
+15
+r
+Discount rate of 
+weighted-average cost of 
+capital (percent)
+70 percent debt at 
+10 percent interest + 
+30 percent equity with 
+15 percent expected rate 
+of return
+11.5
+O&M
+Operations and 
+maintenance cost ($/
+year)
+10
+10
+10
+20
+10
+Vresidual
+Residual value of 
+equipment at end of 
+project lifetime ($)
+Estimated at 10 percent 
+CAPEX cost, discounted 
+to end of project year
+16
+21
+30
+51
+65
+Pelec-in
+Electricity tariff for battery 
+charging ($/kWh)
+0.16
+η(DOD) 
+Total charge-discharge 
+efficiency, including 
+battery efficiency 
+and two-way inverter 
+efficiency (percent)
+75 
+75 
+85 
+70 
+90
+Source: Interviews and desk research conducted by CES.
+Note: a. The cost of redox batteries declines with increasing hours, because electrical capacity depends on the volume of electrolyte in tanks.
+=== PAGE 34 ===
+0.70
+0.60
+0.50
+0.40
+0.30
+0.20
+0.10
+0.00
+Lead Acid
+Adv. Lead
+Acid
+Li-ion LFP
+Vanadium
+Redox
+NiNaCl2
+4 hours
+$0.58
+$0.54
+$0.38
+$0.44
+$0.56
+6 hours
+$0.55
+$0.52
+$0.37
+$0.43
+$0.55
+8 hours
+$0.53
+$0.51
+$0.36
+$0.43
+$0.54
+LCOS per kWh (dollars)
+FIGURE 3.3: Levelized Cost of Storage (LCOS) of Selected Battery Types at Different Durations
+Source: CES assumptions applied to equation 3.1.
+0.29
+0.06
+Lead acid
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+CAPEX
+O&M
+Residual
+Electricity cost
+(0.02)
+0.13
+Increase
+Decrease
+Total
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+CAPEX
+O&M
+Residual
+Electricity cost
+0.28
+0.04
+(0.02)
+0.13
+Advanced lead acid
+Increase
+Decrease
+Total
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+CAPEX
+O&M
+Residual
+Electricity cost
+0.15
+0.03
+(0.00)
+0.12
+Li-ion LFP
+Increase
+Decrease
+Total
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+CAPEX
+O&M
+Residual
+Electricity cost
+0.34
+0.04
+(0.01)
+0.11
+NiNaCl2
+Increase
+Decrease
+Total
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+CAPEX
+O&M
+Residual
+Electricity cost
+0.14
+0.06
+(0.00)
+0.14
+Vanadium redox
+Increase
+Decrease
+Total
+FIGURE 3.4: Contributions of Capital Expense, Operations and Maintenance, Residual Value, and Electricity Cost to 
+the Levelized Cost of Storage, by Battery Type
+Source: CES assumptions applied to equation 3.1.
+=== PAGE 35 ===
+SELECTION OF BATTERY TECHNOLOGY
+19
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+2022
+2026
+2030
+Lead Acid
+0.55
+0.54
+0.54
+Adv. Lead Acid
+0.52
+0.50
+0.49
+Li-ion LFP
+0.37
+0.34
+0.32
+Vanadium Redox
+0.43
+0.41
+0.40
+NiNaCl2
+0.55
+0.51
+0.48
+LCOS ($/kWh)
+FIGURE 3.5: Estimated and Projected Levelized Cost of Storage for Six-Hour Duration System, by Battery Type
+Source: CES assumptions applied to equation 3.1.
+NOTES
+5.	 Several mini grid developers worked together to assign weights for 
+each parameter.
+6.	 Implementation of the LCOS methodology for this section and
+development of the accompanying spreadsheet was conducted by
+ESMAP senior consultant Chris Greacen, using cost and performance
+assumptions and battery CAPEX forecasts developed by CES. The
+LCOS spreadsheet model is available for download, so that interested
+readers can explore the implications of other assumptions.
+=== PAGE 36 ===
+20
+FUTURE TRENDS IN BATTERY STORAGE 
+FOR MINI GRID APPLICATION
+4
+M
+any mini grid developers are working to reduce the risk of stranded assets caused by 
+expanding the grid. This financial risk can be mitigated by rolling out third-generation 
+mini grids, which use advanced technology such as pre-paid meters that make them 
+integration-ready. Advanced lithium-ion technology and associated battery management 
+systems may allow transition to smart grids that can be operated remotely. The success of these 
+new-generation mini grids in dealing with the risk of asset stranding depends on the proportions of 
+productive-use appliances in consumption, because productive appliances require reliable power for 
+longer hours and therefore require heavy-duty storage capability.
+The spider web plot in figure 4.1 shows the projected improvement in the battery performance 
+based on key performance parameters. These plots are application agnostic, and not all parameters 
+are relevant for mini grid application.
+Cost, cycle life, and roundtrip efficiency are highly important to the cost of service; increased 
+roundtrip efficiency increases the available units of electricity and reduces the LCOS.
+All of these technologies are poised for some degree of performance improvement. Flow 
+battery technology, which looks promising for stationary energy storage application (see the Pugh 
+matrix in table 3.2), is poised to witness some decline in CAPEX.
+The rest of this section describes several promising alternatives. They include but are not limited 
+to lithium-ion batteries, iron-air batteries, hydrogen-powered storage, and flywheel energy storage.
+4.1  USED LITHIUM-ION BATTERIES AS A STATIONARY 
+STORAGE SOLUTION
+The average discarded lithium-ion battery still has a capacity of around 65 percent left. A German-
+Indian nonprofit startup—Nunam, funded by Audi Environmental Fund—is working on a way to use 
+repurpose these used batteries for applications in which high energy density is not a requirement 
+(Audi 2022).
+Korea launched a program to reuse lithium-ion batteries, in order to meet its goal of selling 1 million 
+electric vehicles by 2025. Under this program, the government funded a project to demonstrate 
+MWh-level reusing practices of old lithium-ion batteries. LG Chem will collect used electric vehicle 
+batteries to build energy storage systems (ESS) (Crompton 2022).
+A significant demonstration of large-scale usage of used batteries for ESS is the 3 MW/2.8 MWh 
+energy storage system installed at Amsterdam’s Johan Cruyff Arena. This ESS includes 590 battery 
+packs, 250 of which are used modules from electric vehicles. Each of these modules had an original 
+capacity of 24 kWh; during their second life at the stadium, they exhibited usable capacity of 20 kWh 
+(Pagliaro 2019).
+China decided to end the use of lead acid batteries in its fleet of telecom towers, powering them 
+instead with used lithium-ion batteries. It has signed agreements with 16 electric vehicle and battery 
+manufacturers. The cost of battery packs made of used lithium-ion batteries is around $100/kWh, 
+on a par with the price of new lead acid batteries (Jaio 2018).
+With growing electric vehicle uptake and a useful lifetime of around seven to eight years for 
+lithium-ion batteries, there may be a burgeoning market of used lithium-ion batteries ready to be 
+used for stationary ESS applications. Using such battery packs could reduce the CAPEX of mini 
+grid projects.
+=== PAGE 37 ===
+FUTURE TRENDS IN BATTERY STORAGE FOR MINI GRID APPLICATION
+21
+Lead Acid
+Advanced Lead Acid 
+Li-ion 
+NAS 
+Flow Battery - VRB
+Flow Battery - ZnBr
+Lithium-Sulphur (LiS)
+Al-air
+Supercapacitors
+ENERGY
+DENSITY
+POWER
+DENSITY
+SELF
+DISCHARGE
+CYCLE LIFE
+ SAFETY
+(THERMAL)
+COST
+ROUNDTRIP
+EFFICIENCY
+COMPLEXITY
+OF BMS
+ENERGY
+DENSITY
+POWER
+DENSITY
+SELF
+DISCHARGE
+CYCLE LIFE
+ SAFETY
+(THERMAL)
+COST
+ROUNDTRIP
+EFFICIENCY
+COMPLEXITY
+OF BMS
+ENERGY
+DENSITY
+POWER
+DENSITY
+SELF
+DISCHARGE
+CYCLE LIFE
+ SAFETY
+(THERMAL)
+COST
+ROUNDTRIP
+EFFICIENCY
+COMPLEXITY
+OF BMS
+ENERGY
+DENSITY
+POWER
+DENSITY
+SELF
+DISCHARGE
+CYCLE LIFE
+ SAFETY
+(THERMAL)
+COST
+ROUNDTRIP
+EFFICIENCY
+COMPLEXITY
+OF BMS
+ENERGY
+DENSITY
+POWER
+DENSITY
+SELF
+DISCHARGE
+CYCLE LIFE
+ SAFETY
+(THERMAL)
+COST
+ROUNDTRIP
+EFFICIENCY
+COMPLEXITY
+OF BMS
+ENERGY
+DENSITY
+POWER
+DENSITY
+SELF
+DISCHARGE
+CYCLE LIFE
+ SAFETY
+(THERMAL)
+COST
+ROUNDTRIP
+EFFICIENCY
+COMPLEXITY
+OF BMS
+ENERGY
+DENSITY
+POWER
+DENSITY
+SELF
+DISCHARGE
+CYCLE LIFE
+ SAFETY
+(THERMAL)
+COST
+ROUNDTRIP
+EFFICIENCY
+COMPLEXITY
+OF BMS
+ENERGY
+DENSITY
+POWER
+DENSITY
+SELF
+DISCHARGE
+CYCLE LIFE
+ SAFETY
+(THERMAL)
+COST
+ROUNDTRIP
+EFFICIENCY
+COMPLEXITY
+OF BMS
+ENERGY
+DENSITY
+POWER
+DENSITY
+SELF
+DISCHARGE
+CYCLE LIFE
+ SAFETY
+(THERMAL)
+COST
+ROUNDTRIP
+EFFICIENCY
+COMPLEXITY
+OF BMS
+FIGURE 4.1: Projected Changes in Battery Performance Between 2018 and 2025, by Type of Battery
+Source: Sen 2019.
+Note: Figure reflects data from commercially available products as of 2018. Expected performance improvements through 2025 are shown as darker 
+regions. Performance metrices are rated on a 0 to 10 scale, where 10 indicates the best performance.
+4.2  IRON-AIR BATTERIES FOR 
+LONG-TERM ENERGY STORAGE
+Batteries based on iron, which is plentiful on the Earth’s 
+crust and nontoxic, hold promise for longer-term energy 
+storage. Iron-air batteries use iron as the anode and 
+oxygen in the air as the cathode.
+Form Energy, a US energy storage company, has 
+developed an iron-air battery for utility applications that 
+is designed for a 100-hour discharge. It is targeting a 
+cost of $20/kWh—less than one-fifth the cost of large-
+scale lithium-ion batteries. The electrolyte used in these 
+batteries is a nonflammable, water-based solution; the 
+reaction involves reversible oxidation of iron pellets—
+essentially reversible rust (Plautz 2021).
+One drawback of iron-air batteries is their low 
+energy density. They are about 100 times heavier 
+than lithium-ion batteries, with each battery unit 
+about the size of a washing machine. Because they 
+release energy slowly, they likely need to be coupled 
+with energy storage that can release electricity more 
+quickly, such as lithium-ion batteries. In this configura-
+tion, they could possibly replace diesel generators in 
+some mini grids.
+ESS Inc. is another company building long-term battery 
+storage based on iron. It has developed a low-cost iron
+=== PAGE 38 ===
+22	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+flow battery optimized for 6 to 12 hours of storage and a 
+claimed cycle life exceeding 20,000 cycles.
+4.3  SODIUM ION BATTERIES
+Sodium-ion (Na-ion) batteries are quickly emerging as 
+a candidate for energy storage for solar mini-grids. In 
+November 2022, China’s Hina Battery factory started 
+to produce sodium ion batteries on a 1 GWh a year 
+production line (Kang 2022), which it expects to expand 
+to 5 GWh a year. The largest Chinese manufacturer of 
+lithium-ion batteries, Contemporary Amperex Technology 
+Co Ltd (CATL), also plans to start mass production of 
+sodium ion cells in 2023 (CATL 2021).
+These batteries have several advantages over 
+lithium-ion batteries:
+•	
+Abundant and inexpensive raw materials: Unlike 
+lithium, sodium is widely available and inexpensive, 
+making Na-ion batteries more accessible and cost- 
+effective. Sodium is about 1,000 times more preva-
+lent on the Earth’s crust than lithium; it is available 
+from soda ash or sea salt. Initially, the fact that 
+sodium ions are larger than lithium-ions presented 
+challenges for cathode and anode materials in the 
+battery, but recent developments by the Chinese 
+battery manufacturer CATL in the use of inexpensive 
+Prussian Blue as a cathode material and a porous 
+hard carbon for the anode appear to have overcome 
+these problems. Aluminum is used as a current 
+collector in the cells; it is less expensive than copper 
+used as a current collector in lithium-ion cells.
+•	
+Reasonable cycle life: Cycle life for sodium ion 
+batteries is reportedly 3,000 cycles (SMM 2021). 
+This is about half of lithium iron phosphate cycle life 
+but may expand as manufacturing expertise grows.
+•	
+Comparable energy storage capacity: CATL 
+recently released a sodium ion battery with energy 
+density (160 Wh/kg), comparable to lithium-ion 
+(>200 Wh/kg). The company has patented a sodium 
+ion battery with an energy density of 200 Wh/kg. 
+The lower energy density of sodium ion batteries 
+make them suitable for low-end electric vehicles as 
+well as stationary applications like mini grids.
+•	
+Ability to use adapted li-ion manufacturing processes: 
+The production of sodium-ion batteries can follow the 
+relatively mature lithium battery production process, 
+with material changes but not manufacturing 
+process changes in electrolytes, anodes, or cathodes 
+(DNKPOWER 2022).
+•	
+Enhanced safety and stability: Sodium batteries have 
+better thermal stability than lithium-ion batteries. 
+They are therefore safer.
+4.4  HYDROGEN-POWERED 
+STORAGE
+Some players are offering hydrogen-powered energy 
+solutions as an alternative to traditional diesel generators. 
+These solutions make use of hydrogen’s ability to store 
+energy for longer periods than batteries. They could be 
+used to power mini grids in remote areas.
+Tiger Power, in association with VITO (the Flemish 
+Technological Research Institute), produces turnkey 
+products that can harvest solar energy using a foldable 
+solar panel unit that can be transported to areas of interest. 
+The electricity generated is stored in batteries or converted 
+to hydrogen for storage in tanks. The company’s 
+algorithms optimize the usage of the battery and electro-
+lyzers. This product is offered as an alternative to diesel 
+generators and used for fairs, music festivals, farms, and 
+other remote locations that need temporary on-demand 
+electricity (VITO 2022).
+The state-run National Thermal Power Corporation 
+(NTPC) Ltd., India’s largest integrated power producer, 
+awarded a green hydrogen project to one of its plants in 
+southern India. The project’s objective is to produce and 
+store green hydrogen using a 240 kW solid oxide electro-
+lyzer. The electricity it generates with 50 kW solid oxide fuel 
+cells is meant to be used during the evening. This unique, 
+large-scale project is envisaged to be a precursor to multiple 
+such micro grids deployed in the future (Mint 2022).
+The Japanese company Toshiba Energy Systems 
+& Solutions Corporation produces an integrated hydro-
+gen energy system called H2One. Each unit contains 
+an electrolyzer, a fuel cell, a battery, and a storage tank. 
+The units store renewable electricity in batteries and 
+produce hydrogen that is held in storage tanks. The 
+system delivers the stored electricity on demand (Green 
+Car Congress 2022). An integrated solution using a small 
+container could be used to power mini grids.
+4.5  FLYWHEEL ENERGY STORAGE 
+FOR MINI GRID STABILIZATION
+OXTO Energy, a British company, has developed and 
+patented a new flywheel energy storage device that 
+will deliver safe, scalable storage at a competitive cost,
+=== PAGE 39 ===
+FUTURE TRENDS IN BATTERY STORAGE FOR MINI GRID APPLICATION
+23
+with high energy density and low physical footprint (Gill 
+2022). The flywheel stores kinetic energy in a vacuum in 
+the form of a rotating mass, which it converts back into 
+electricity using an efficient switching mechanism. Its 
+innovative power electronics allow the system to alter-
+nate between high power and energy. While providing 
+fast response, it allows a quick switch between load and 
+supply modes.
+OXTO’s flywheel has a lifetime of at least 25 years 
+and can be built with readily available materials. Other 
+advantages include increased charge-cycle capabilities 
+(more than 100,000, compared with 5,000 to 10,000 for 
+batteries); full output within 20 measurement signals; 
+and the lack of hazardous chemicals or fire hazards. 
+OXTO’s flywheels can be produced as 65 kW modules 
+for high power and low-energy applications like frequency 
+and voltage regulation. The duration of storage for 
+flywheel technologies is considered to be less than 
+30 minutes. Oxto’s standard unit has a power output of 
+65 kW and the ability to store 5 kWh of energy.
+Flores, another mini grid developer, uses a mix of  
+diesel, wind, and hydro generation to power some islands in 
+Portugal. The installed system consists of four hydro power 
+generators (3 × 250 kW + 1 × 600 kW), two wind turbines  
+(2 × 315 kW), and four diesel generators (3 × 550 kW +  
+1 × 810 kW). Because of the type of control used on the 
+hydro and diesel generators, the renewable energy pene-
+tration of the Flores system was limited primarily by system 
+stability; step response, spinning reserve, and reactive 
+power requirements were not limiting factors. A 350 kW/ 
+5 kWh flywheel energy storage system was added to the 
+system to improve frequency and voltage stability.
+Flywheels have good technical characteristics, but 
+cost, self-discharge, and the limited ability to store large 
+quantities of energy still constrain their use in small 
+standalone PV systems. They can be very useful in 
+PV-hybrid systems, however, for both addressing power 
+quality issues in inverter-dominated systems and bridging 
+power until a diesel generating set is started and ready 
+to be brought on-line in genset dominated ones.
+=== PAGE 40 ===
+24
+CASE STUDIES
+5
+T
+he case studies described in this section highlight global deployment of emerging storage 
+technologies. Each case study describes the mini grid’s rating, energy storage rating, 
+battery chemistry, businesses served, communities electrified, and the way in which the 
+electricity is used.
+5.1  SOLAR MINI GRIDS WITH LEAD ACID BATTERIES: THE HUSK 
+POWER MICROGRIDS INITIATIVE IN INDIA AND NIGERIA
+Founded in 2008, Husk Power Systems owns and operates more than 200 community solar mini 
+grids in India, Nigeria, and Tanzania. More than 130 mini grids in India, in the states of Bihar and 
+Uttar Pradesh, have total installed capacity of about 8.5 MW. They provide 24/7 electricity to more 
+than 10,000 small businesses.
+In November 2021, Husk began operating its first six mini grids in Nigeria’s Nasawara State. 
+Within several months, it had installed 12. In addition to the sale of electricity, the company is 
+engaged in a range of services, including water purification, agro-processing, and e-transportation.
+Husk uses a hybrid supply system consisting of solar PV, batteries, and biomass gasification. When 
+it first enters a village, it usually starts with about 50 kW of installed capacity. It considers the exact size 
+of each component a commercial secret; the solar PV panels in India averaged 30 kWp of capacity, with 
+the remaining capacity coming from biomass. In Nigeria, the minimum size of the installed solar PV is 
+50 kWp (figure 5.1). Husk can add generating capacity as demand of customers increases.
+Battery backup
+Husk’s standard configuration includes a valve regulated lead acid (VRLA) battery that acts as the 
+mini grid’s main power source between 11 pm and 7 am. It can also act as a backup supply source 
+between 7 am and 11 pm if the solar PV and biomass are not functioning as expected. The batteries 
+are designed for up to six hours of autonomous operation. Using a machine-learning approach to 
+battery management and generator dispatch, Husk has been able to increase the lifetime of its lead-
+acid batteries to about five years, from a previous average of about three and a half, by ensuring that 
+batteries do not discharge too deeply or chronically overcharge. The company’s careful approach to 
+monitoring and controlling lead acid charge-discharge cycles and its ability to obtain attractive volume 
+pricing on Indian-made lead acid batteries are two reasons it uses lead acid batteries.
+Daytime operations
+Solar PV is the main source of power at every location. The PV system is combined with the biomass 
+power plant system to supply electricity demand on rainy and foggy days. When excess electricity is 
+produced, it is used to charge the battery. Solar PV panels produce about 75 percent of the electricity 
+generated at a typical Husk mini grid in India and Nigeria.
+Night-time operations
+Husk’s biomass gasification system is switched on around 5 pm. It burns waste feedstock, such as 
+rice husk or corn cobs, and can serve customers until 11 pm. Husk estimates that the LCOE from 
+its gasification system at full load is 30 percent lower than the LCOE from diesel generation and
+=== PAGE 41 ===
+CASE STUDIES
+25
+FIGURE 5.1: Husk Mini Grid in the Village of Akura, in 
+Nasawara State, Nigeria
+Source: Husk 2023.
+35 percent lower than the LCOE from battery storage.7 
+This gasification system ensures a lower cost of elec-
+tricity production at night than withdrawing the electricity 
+from batteries or generating it from a diesel genset. As 
+it has largely automated the gasification system, Husk 
+does not require a full-time onsite operator to manually 
+run the system.
+Tariffs and metering
+Tariffs for all customers are based on time of use, with 
+a discount of 15 to 20 percent for daytime use. The 
+tariff rate declines once a customer crosses a minimum 
+threshold of 120 kWh per month. Nearly all customers 
+prepay for service. Meters can limit customers’ maximum 
+instantaneous loads. Power consumption and genera-
+tion data are monitored in near real time (at five-minute 
+intervals). Husk tracks how long it takes to resolve  
+customer complaints, ensuring that that reported 
+problems are fixed within four hours for households and 
+two hours for commercial customers.
+5.2  SOLAR HYBRID MINI GRID WITH 
+LITHIUM IRON PHOSPHATE 
+BATTERIES: THE LOLWE 
+ISLANDS, UGANDA
+Engie Energy Access is the leading mini-grid and off-grid 
+pay-as-you-go solar energy solutions company in Africa. 
+Equatorial Power is a Uganda-based renewable energy 
+company with expertise in agro-processing, business 
+incubation, water purification, and e-mobility. In January 
+2022, under it Engie-Equatorial (EE) joint venture, the two 
+companies commissioned a solar mini grid in the Lolwe 
+Islands, Uganda, situated in Namayingo District near Lake 
+Victoria. The island’s 15,000 people have limited access 
+to electricity and are heavily dependent on diesel gensets 
+for lighting and powering fishing boats around the lake. 
+The intervention provides clean and reliable electricity 
+for powering houses, enhancing livelihood opportunities, 
+and limiting the use of fossil fuels for energy generation 
+(Figure 5.2).
+System sizing and distribution network
+A hybrid solar mini grid of 600 kWp with LFP battery 
+storage capacity of 600 kWh paired with emergency 
+gensets of 200 kilovolt-amperes (kVA) is ensuring safe 
+and reliable electricity to residents of the island. The 
+mini grid provides connections to over 3,800 consumers,  
+including 3,026 households. The connections are 
+powered over 45 kilometers of medium- and low-voltage 
+distribution networks.
+Productive use of solar energy
+Local businesses have been supported by EE’s business 
+incubation and asset financing program. EE’s integrated 
+program also features an electric mobility integration 
+platform with electric outboard engines for boats and 
+e-motorcycles, an agro-processing hub, water purification 
+FIGURE 5.2: Hybrid Solar Mini Grid in the Lolwe Islands, 
+Uganda
+Source: Engie Energy Access 2023.
+=== PAGE 42 ===
+26	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+systems, ice making, and other allied value-addition 
+services, such as fish drying. All these productive 
+end-use activities now rely less on diesel generators, 
+and adding anchor and business loads has helped the 
+developer use the mini grids up to their rated capacities. 
+The mini grids will be able to generate around 800 
+MWh of energy annually, replacing 750 tons of carbon 
+emissions.
+The EE hybrid solar mini grid is not the only entity 
+providing basic electricity access to inhabitants of the 
+Lolwe Islands and contributing to overall development of 
+the community. EE is engaging with New Energy Nexus 
+to run a business incubation program in the region 
+that will have compulsory 50 percent participation from 
+women. One project outcome is EE’s support of Lolwe 
+female fishmongers to ensure inclusive recruitment and 
+access to the services provided.8
+5.3  SOLAR HYBRID MINI GRID 
+WITH LITHIUM-ION NICKEL 
+MANGANESE COBALT 
+BATTERIES: SAN SETH, 
+BOGALE, MYANMAR
+More than 70 percent of Myanmar’s population lacks 
+access to electricity. To take electricity to the last mile, 
+Mandalay Yoma has developed more than 45 solar 
+hybrid mini grid projects across the country. With these 
+efforts the company can touch more than 10,000 lives 
+and generate more than 2,000 local jobs.
+One successful mini grid installation is in San Seth, 
+Bogale Township, in the Ayeyarwady region of Myanmar. 
+A 713 Wp hybrid solar mini grid with storage capacity 
+of 1,312 kWh of lithium-ion nickel manganese cobalt 
+(NMC) batteries, paired with a 315 kVA genset, ensures 
+safe and reliable electricity to residents of the township. 
+The primary reason the developer selected NMC battery 
+chemistry is the technology’s life cycle of more than 
+3,000 cycles. The mini grid is providing connections to 
+more than 1,300 households (MiTV 2023) and more than 
+20 businesses. All the connections are powered by an 
+11 kV, 400 volt multiple transformer and vacuum circuit 
+breaker (VCB) switchgear protection for safer opera-
+tions. The price at which electricity is delivered to these 
+customers comes to around $0.20/kWh, with a contract 
+period of 15 years with the township. The mini grids will 
+be able to generate around 950 MWh of energy annually, 
+replacing 900 tons of carbon emissions.
+5.4  SOLAR HYBRID MINI GRID 
+WITH LITHIUM IRON 
+PHOSPHATE BATTERIES: 
+DANCITAGI, NIGERIA
+PowerGen started operation in 2011, with the vision of 
+making clean, renewable energy accessible to more 
+people in Africa. It now operates in Kenya, Nigeria, 
+Tanzania, and Zambia. The company has installed 
+more than 10,000 connections since its inception, 
+commissioning more than 100 mini grids. Until 2019, 
+the preferred choice of energy storage technology was 
+maintenance-free lead acid. PowerGen has now shifted 
+to lithium-based storage systems.
+Nigeria has a low access to electricity, with only  
+55% of electrification rate (World Bank 2023). To achieve 
+universal electricity access by 2030, it will need to 
+connect 600,000 to 800,000 households a year, with a 
+focus on rural areas.
+More than 250 mini grids are currently installed 
+in Nigeria. One installation is at Dancitagi, near Jutigi 
+Edatti, where PowerGen has installed a 200 kWp solar 
+hybrid mini grid with 500 kWh of lithium iron phosphate 
+batteries and a 200 kVA diesel genset. Two years after 
+installation, the load on the site had increased, and 
+there was a demand for additional storage capacity.  
+All connections are powered through low-voltage distri-
+bution networks of about 10 kilometers. Mini grids will be 
+able to generate around 300 MWh of energy annually, 
+replacing 250 tons of carbon emissions.
+FIGURE 5.3: Ice Manufacturing Unit Powered by 
+Engie-Equatorial’s Solar Mini Grid in the Lolwe Islands, 
+Uganda
+Source: Engie-Energy Access 2023.
+=== PAGE 43 ===
+CASE STUDIES
+27
+FIGURE 5.4: Hybrid Solar Mini Grid in San Seth, Bogale, Myanmar
+Source: Mandalay Yoma 2023.
+FIGURE 5.5: Solar Hybrid Mini Grid with Containerized Energy Storage Solutions Installed by PowerGen in  
+Dancitagi, Nigeria
+Source: Power GEN Nigeria 2023.
+5.5  SOLAR MINI GRID WITH 
+LITHIUM IRON PHOSPHATE 
+BATTERIES: MAKHALA, 
+AMPEREHOUR, INDIA
+Amperehour, in collaboration with the Maharashtra 
+Energy Agency Development Authority (MEDA), has 
+commissioned solar mini grids at Makhala, Amravati, 
+and Maharashtra, India. The technology—a combination 
+of power electronics, software, and control systems—
+was developed by Amperehour. These features allow 
+the mini grids to sustain variable loads and generation 
+profiles. A machine learning-based algorithm control 
+optimizes the load profile and informs decision making. 
+Amperehour has deployed more than 200 such systems 
+and software platforms on mini grids in India.
+Amperehour has deployed 39 kWp of solar mini 
+grids with 110 kWh of containerized LFP batteries and 
+no backup diesel generators. These mini grids are 
+providing connections to more than 127 customers. 
+The electricity tariff shared by the developer is around 
+$0.10/kWh, with a monthly fixed charge of $0.80 per 
+connection. The mini grid developer has contracts with
+=== PAGE 44 ===
+28	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+villages for periods of five years of O&M. These mini grids 
+will be able to generate around 51 MWh units of energy a 
+year, replacing 48 tons of carbon emissions annually.
+These mini grids have brought access to electricity 
+to more than 500 people in these villages. They power 
+two drinking water pumps and two flour-milling units. 
+People in these communities are now able to watch tele-
+vision, open new shops, and begin a digital education 
+program at community schools.
+5.6  SOLAR MINI GRID WITH 
+VANADIUM REDOX FLOW 
+BATTERY: MALDIVES
+In 2020, H2, a Korean company specializing in redox 
+flow batteries, built a 60 kW/250 kWh vanadium redox 
+flow battery system (VRFB) linked to solar power 
+generation at the Malahini Kuda Bandos Resort in 
+Maldives. A 500 kW diesel generator alongside 293 kWp 
+of photovoltaic power generation was installed at the 
+resort utility facility building. It was designed and built 
+to generate 1 MWh a day; the electricity stored through 
+the redox flow battery was designed to be used when 
+it rains or during power peak hours. The redox flow 
+battery is capable of repeated full discharge/charge, 
+from 0 percent state of charge to 100 percent. A diesel 
+generator provides backup power.
+The design, installation, and operation of the VRFB 
+considered the installation environment, the container 
+load distribution design, the impact load during maritime 
+transportation, the special painting for the parts, and the 
+salty environment of the resort island. Given the risk of 
+a tsunami, the foundation was designed to be installed 
+at a height of 60 centimeters or more from the ground. 
+The electrical connection and the cooling piping were 
+installed and insulated. The system was transported 
+using barges and cranes; the electrolyte was injected at 
+the site after separate transportation.
+When solar power is generated during the day, some 
+power is charged to the redox flow battery; constant  
+voltage is discharged for a certain period of time in 
+the evening. In order to improve efficiency, a weak-
+ness of redox flow batteries, power consumption was 
+reduced through on/off control of the fan and the 
+chiller; to reduce balance of plant (BOP) power  
+consumption, it was configured by quantifying the 
+flow rate by output.
+The system was designed to be managed through 
+remote monitoring in order to reduce follow-up manage-
+ment (given the characteristics of the island area), 
+ensure safety, and improve efficiency through scenarios 
+operations. Spare parts that are difficult to procure 
+locally were procured in advance and built to be  
+managed smoothly. Local engineers were trained to 
+ensure stable post-management, and an operation 
+manual was created.
+5.7  SOLAR MINI GRID WITH 
+FLYWHEEL ENERGY STORAGE 
+SYSTEMS: THE PHILIPPINES
+The island of Palawan, in the Philippines, has abundant 
+sunshine but frequent power outages, because of an 
+unreliable grid based on fossil fuels. The Philippine 
+FIGURE 5.6: Solar Mini Grid with Containerized Battery Energy Storage System in Makhala, India
+Source: Amperehour 2023.
+=== PAGE 45 ===
+CASE STUDIES
+29
+government has undertaken several efforts to bolster 
+energy supply in Palawan, including the use of solar PV 
+for power generation. Using solar power systems in the 
+province could provide significant benefits, including 
+reduced carbon emissions, lower electricity costs, and 
+improved energy security.
+In 2023, following the publication of the study,  
+the Palawan Electric Cooperative (PALECO) and  
+S.I. Power Corporation (SIPCOR) signed a power supply 
+agreement for a 15-year supply to the main grid in the 
+province. SIPCOR will install a micro grid with solar PV 
+and diesel generating sets along with flywheel energy  
+storage systems (FESS) from Amber Kinetics to provide 
+a reliable and sustainable solution. SIPCOR will support 
+the main grid of Palawan with 20 MW of conventional 
+and renewable solar energy technology backed up with 
+FESS. This micro grid project consists of installing  
+20 MWp of solar technology and a 23.1 MW diesel  
+genset plant; it will be supported with a 2.5 MW/ 
+10 MWh FESS.
+SIPCOR will be responsible for the installation, 
+operation, maintenance, and supply of power. The 
+FESS will store excess generation, which can be dis-
+charged at nighttime, when the energy from the sun is 
+no longer available. This energy-shifting application can 
+provide continuous electric supply from the renewable 
+energy sources to the electric cooperative, PALECO. 
+While the FESS is in charging mode during the daytime, 
+it can perform solar + storage application to address 
+the intermittency and variability of solar PV, mitigate the 
+effect of such intermittency on the PALECO distribution 
+system, and ensure the stability and reliability of the 
+system. The Amber Kinetics FESS will be electrically 
+connected to PALECO, but all flywheel management 
+systems will be integrated to the energy management 
+system that SIPCOR is going to install and control.
+The flywheels store electricity by spinning a large 
+rotor at high speeds using an electric motor. When 
+electricity is needed, the flywheel releases the stored 
+energy, which can be converted back into electricity 
+(Figure 5.8).
+Flywheel-based energy storage systems have 
+several advantages, including high efficiency, low 
+maintenance costs, and long lifespans. Flywheels 
+are made from recycled steel and do not contain any 
+hazardous chemicals or toxic materials, making them 
+environmentally friendly.
+This project will provide numerous benefits:
+•	
+The system will provide reliable and sustainable 
+energy to the island’s inhabitants, reducing their 
+dependence on an unreliable grid.
+•	
+The system will reduce the island’s carbon footprint, 
+by decreasing the amount of diesel fuel used to 
+generate electricity.
+•	
+The system will promote economic growth by 
+providing a stable source of energy that can  
+support local businesses and industries.
+SIPCOR will also install a diesel generator with a 
+dependable capacity of 20 MW. It will be integrated 
+into the solar + FESS system and connected along 
+the distribution system. The generator will move from 
+being the main source of power to becoming a back-up 
+source of power.
+FIGURE 5.7: Vanadium Redox Flow Battery Energy Storage System at the Malahini Kuda Bandos Resort, 
+Maldives
+Source: H2 2023.
+=== PAGE 46 ===
+30	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+69kV PALECO Transmission Line
+1km Transmission Line
+(+-)100m Transmission Line
+20MWp Solar 2.5MW / 10MWhr
+Energy
+Management
+System
+23.1 MW Diesel Genset Plant
+1km apart
+Source: Amber Kinetics 2023.
+FIGURE 5.8: Kinetic Energy Storage Systems in the Palawan islands, the Philippines
+NOTES
+7.	 If gasification has an LCOE that is 30 percent lower than battery 
+storage, one might wonder why systems use batteries at all. The reason 
+has to do with partial loads. After 11 pm, loads taper off, but some 
+remain. Keeping the biomass gasifier running at these times would  
+be inefficient and more expensive than cycling electricity through the 
+battery. During the day, batteries provide a buffer between the production 
+of solar electricity and consumption, without which electricity supply 
+would be unstable.
+8.	 For information on the project, see Equatorial Power (n.d., 2022) and 
+Nomvuyo (2022).
+=== PAGE 47 ===
+31
+RECOMMENDATIONS
+6
+D
+ecentralized renewable energy mini grids are crucial to achieving universal energy access 
+by 2030. Their success depends critically on the technologies used to store the energy 
+they produce.
+Until 2020, solar hybrid mini grids used primarily lead acid batteries for storage. In 2021, 
+	
+44 percent of the newly built mini grids studied for this report used lithium-ion technologies. 
+The next generation of energy storage will likely be dominated by lithium-ion and flow battery 
+technologies, causing the LCOS of lithium-ion technologies to fall as technologies scale up for 
+stationary and mobile applications.
+The analysis conducted for this report yields several recommendations for energy storage 
+practitioners:
+•	
+Study battery performance in the field. A ground-up analysis of the performance of the 
+battery technologies at existing sites would increase understanding of storage solutions have 
+measured up. This information would be useful for comparing battery performance in the 
+challenging environments where mini grids are built and operate. Case studies of mini grids 
+using battery technologies other than lead acid or lithium-ion would be particularly valuable.
+•	
+Look beyond the upfront cost of batteries. Teams considering mini grids should consider the 
+LCOS or how the batteries affect the LCOE of the mini grid modeled in simulation/optimization 
+software like HOMER Pro. Both of these approaches take into account operating expense, 
+cycle lifetime, charge/discharge efficiency, and CAPEX.
+•	
+Adopt battery safety and performance standards appropriate for mini grids, in order 
+to reduce risks and increase acceptance across the industry. Drawing on safety standards 
+for batteries developed by the International Electrotechnical Commission (IEC), the United 
+Nations, the Underwriters Laboratories (UL), and others, development institutions could suggest 
+standards for mini grids that governments could adopt. Examples include the following:
+•	
+IEC 61427: Secondary cells and batteries for renewable energy storage systems
+•	
+UL 1642: Safety of lithium batteries (for cells)
+•	
+UN 38.3: Transportation testing for lithium batteries
+•	
+IEC 62619: Safety requirements for lithium-ion batteries for stationary applications
+•	
+IEC 62620: Performance requirements for lithium-ion batteries for stationary applications.
+•	
+Draft regulatory documents and procurement specifications carefully, to ensure safety, 
+quality, and performance while avoiding restricting choices in ways that lock in incumbent 
+technology and rule out innovative storage technologies.
+•	
+Identify and promulgate best recycling practices for energy storage technologies. The lead 
+acid battery recycling industry and supply chain is well established. Lithium-ion supply chains are 
+more complex and involve multiple chemical and mineral processing plants, many of which 
+are located in China. This geographic separation increases the challenges of lithium recycling. 
+Anticipating the energy transition to lithium-ion technologies, government agencies should 
+engage with industries and research institutes to develop management strategies for recycling 
+lithium-ion batteries. National governments could collaborate with research institutes and
+=== PAGE 48 ===
+32	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+industry players to set up regional recycling hubs to 
+help address regional collection issues.
+•	
+Reuse repurposed battery technologies in  
+stationary storage applications. A standard to test 
+and certify second-life battery packs would increase 
+the confidence of mini grid players and funders for 
+deploying repurposed batteries.
+•	
+Exempt mini grid batteries from import duties,  
+to make battery technology affordable and fast-
+track their deployment in mini grids. One way 
+to ensure that the tax exemption is not captured 
+by standard internal combustion vehicle starting, 
+lighting, and ignition (SLI) batteries is to restrict the 
+exemptions to batteries above a certain capacity 
+(for example, above 10 kWh or 15 kWh, with appro-
+priate interpretive guidance provided to customs 
+officials to recognize these capacity amounts when 
+expressed in voltage and ampere-hour readings).
+•	
+Provide skilling, reskilling, and upskilling 
+programs to enhance the technical competency 
+of technicians and engineers, in order to reduce 
+the down time of mini grid systems. Such training 
+could improve troubleshooting and create employ-
+ment opportunities in communities. Programming 
+requires government, nongovernmental organiza-
+tion, and private sector support. During mini grid 
+commissioning, batteries often reach sites months 
+in advance; they require proper handling and storage. 
+Detailed guidelines for safe handing, storage, and 
+inspection of battery solutions would help avoid 
+deep discharges, fires, and safety hazards.
+•	
+Create standard operating procedures for under-
+standing battery technology performance, to help 
+mini grid players get the most out of the asset.  
+For example, understanding the effect of temperature 
+and other ambient climatic conditions on life cycle and 
+performance of a battery would help mini grid devel-
+opers design cooling for the storage compartments.  
+A standard operating procedure on the management 
+of fire hazards could help reduce risks.
+=== PAGE 49 ===
+33
+REFERENCES
+AMDA (African Minigrids Developers Association) 2022. Africa Minigrid Benchmarking Report Launched. https://
+africamda.org/2020/08/13/africa-minigrid-benchmarking-report-launched/
+Anderson, Jonathan O., Josef G. Thundiyil, and Andrew Stolbach. 2012. “Clearing the Air: A Review of the Effects 
+of Particulate Matter Air Pollution on Human Health.” Journal of Medical Toxicology: Official Journal of the 
+American College of Medical Toxicology 8 (2): 166–75. https://doi.org/10.1007/s13181-011-0203-1.
+Audi. 2022. Second-Life Battery: Green Power from Used Batteries. https://www.audi-umweltstiftung.de/umweltstiftung/
+en/projects/greenovation/nunam.html
+Bhata, M., and N. Angelou. 2014. “Capturing the Multi-Dimensionality of Energy Access.” Live Wire 2014/16, 
+World Bank, Washington, DC. https://openknowledge.worldbank.org/entities/publication/12790d0f-87de- 
+59e2-b5c6-9f33b2f4a759
+Burger, J. 2022. Mini-Grids Providing Electricity to Remote Areas in Senegal. Nanyang Technological University, Singapore. 
+https://www.ntu.edu.sg/cas/news-events/news/details/mini-grids-providing-electricity-to-remote-areas-in-senegal
+CATL (Contemporary Amperex Technology Co., Ltd.). 2021. “CATL Unveils Its Latest Breakthrough Technology 
+by Releasing Its First Generation of Sodium-Ion Batteries.” July 29. https://www.catl.com/en/news/665.html
+Crompton, Paul. 2021. “South Korea Launches Four-Year Lithium-Ion Battery Reuse Scheme.” Best Magazine, 
+February 18. https://www.bestmag.co.uk/south-korea-launches-four-year-lithium-ion-battery-reuse-scheme/.
+DNKPOWER. 2022. Will Sodium Batteries Replace Lithium Batteries? https://www.dnkpower.com/will-sodium- 
+batteries-replace-lithium-batteries/
+EnDev. 2022. Tiers, Markets and Sustainability: Trends in Rural Off-Grid Electrification Report. https://endev.info/
+wp-content/uploads/2021/07/EnDev_Learning_and_Innovation_Agenda_Rural_Electrification.pdf
+Equatorial Power. n.d. “Lolwe Island: About the Project.” https://equatorial-power.com/portfolio/lolwe-island/.
+———. 2022. “Engie Equatorial Inaugurates Game-Changing Lolwe Mini-Grid in Uganda.” Press release, January 14. 
+https://engie-energyaccess.com/uploads/banners/PRESSRELEASE_ENGIE-Equatorial-Lolwe-Island.pdf.
+ESMAP (Energy Sector Management Assistance Program). 2022. Mini Grids for Half a Billion People: Market 
+Outlook and Handbook for Decision Makers. Washington DC: World Bank Group.
+Gill, R. 2019. “OXTO Energy–Flywheeling into the 21st Century.” Crowdforangels, June 6. https://crowdforangels.
+com/blog/oxto-energy-flywheeling-into-the-21st-century/
+Green Car Congress. 2022. “Toshiba Integrated Hydrogen Energy System Starts Operation at Toranomon Hills 
+Business Tower in Tokyo.” June 21. https://www.greencarcongress.com/2020/06/20200621-toshiba.html
+Green Climate Fund. 2022. Afghanistan Rural Energy Market Transformation Initiative: Strengthening Resilience of 
+Livelihoods through Sustainable Energy Access. https://pims.undp.org/attachments/6485/217063/1731085/1755460/
+FP-UNDP-27032020-6485-Annex%206b%20ESAR.pdf
+IEA (International Energy Agency). 2022a. SDG7 Data and Projections: Access to Electricity 2021. Paris. https://
+www.iea.org/reports/sdg7-data-and-projections
+———. 2022b. Southeast Asia Energy Outlook 2022. https://iea.blob.core.windows.net/assets/e5d9b7ff-559b-
+4dc3-8faa-42381f80ce2e/SoutheastAsiaEnergyOutlook2022.pdf
+IRENA (International Renewable Energy Agency). 2022. Tracking SDG7: The Energy Progress Report 2022. Abu 
+Dhabi. https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2022/Jun/SDG7_Tracking_Progress_2022.
+pdf?rev=fbde91b736274cee985e00696df60cb4
+Jaio 2018. China Tower can ‘absorb’ 2 million retired electric vehicle batteries. IDTechEx. https://www.idtechex.
+com/de/research-article/china-tower-can-absorb-2-million-retired-electric-vehicle-batteries/15460
+Kang, L. 2022. “World’s First GWh-Class Sodium-Ion Battery Production Line Sees First Product off Line.” CnEVPost, 
+December 2. https://cnevpost.com/2022/12/02/hina-gwh-sodium-ion-battery-production-line-first-product/
+Mayr, F. 2016. “How to Determine Meaningful, Comparable Costs of Energy Storage.” Blog, March 3. https:// 
+apricum-group.com/how-to-determine-meaningful-comparable-costs-of-energy-storage/
+Mint. 2021. “NTPC Gives First Green Hydrogen Microgrid Project to Simhadri Plant.” December 16. https://www.
+livemint.com/industry/energy/ntpc-awards-india-s-first-green-hydrogen-microgrid-project-at-simhadri-plant- 
+11639558600422.html
+=== PAGE 50 ===
+34	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+MiTV (Myanmar International TV). 2023. “Sustainable Rural Development: Small-Scale Solar Power System Inaugurated in Bogale.” 
+March 15. https://www.myanmaritv.com/news/sustainable-rural-development-small-scale-solar-power-system-inaugurated-bogale
+Nomvuyo, Tena. 2022. “Innovative Lolwe Hybrid Solar 600kwp Minigrid Inaugurated in Uganda.” ESI Africa. https://www.esi-africa.com/
+industry-sectors/generation/innovative-lolwe-hybrid-solar-600kwp-minigrid-inaugurated-in-uganda/.
+Nweke-Eze, C. 2022. The Nigerian Electrification Project: An Example of a Successful Rural Electrification Design? Research 
+Institute for Sustainability (RIFS), Helmholtz Center, Potsdam, Germany. https://www.iass-potsdam.de/en/blog/2022/01/
+nigerian-electrification-project-example-successful-rural-electrification-design
+Our World in Data. n.d. Electricity Access, 2020. https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity
+Pagliaro, M. 2019. “Lithium battery Reusing and Recycling: A Circular Economy Insight.” Heliyon 5 (6).
+Plautz, J. 2021. “Form Energy’s $20/KWh, 100-Hour Iron-Air Battery Could Be a ‘Substantial Breakthrough.” Utility Dive, June 9. https://
+www.utilitydive.com/news/form-energys-20kwh-100-hour-iron-air-battery-could-be-a-substantial-br/603877/
+SE4All (Sustainable Energy for All). 2022. State of the Minigrids Market Report, 2020. Vienna. https://www.seforall.org/publications/
+state-of-the-global-mini-grids-market-report-2020
+Sen, R. 2019. Solar PV Battery Manual. Clean Network. https://www.thecleannetwork.org/pdf/Manual_0410.pdf
+SMM. 2021. Sodium-Ion Batteries Released by CATL, Potentially Threats to Li-Ion Batteries. https://news.metal.com/newscontent/101556644/
+Sodium-ion-batteries-released-by-CATL-potentially-threats-to-Li-ion-batteries/
+UN (United Nations). 2022. United Nations Population Division Data Portal. https://population.un.org/dataportal/.
+UNDESA (United Nations Department of Economic and Social Affairs). 2022. Population Facts. https://www.un.org/en/development/
+desa/population/publications/pdf/popfacts/PopFacts_2019-6.pdf
+VITO. 2022. Tiger Power with the Help of VITO/Energyville Launches Solar and Hydrogen-Driven Alternative to Diesel Generators. 
+https://vito.be/en/news/tiger-power-help-vitoenergyville-launches-solar-and-hydrogen-driven-alternative-diesel
+World Bank. 2019a. Access to Electricity (% of Population). World Bank Global Electrification Database. Washington, DC. https://data.
+worldbank.org/indicator/EG.ELC.ACCS.ZS
+———. 2019b. Population, Total. Washington, DC. https://data.worldbank.org/indicator/SP.POP.TOTL
+———. 2020a. Access to Electricity (% of Population). World Bank Global Electrification Database. Washington, DC. https://data.
+worldbank.org/indicator/EG.ELC.ACCS.ZS
+———. 2020b. World Bank Global Electrification Database: Access to Electricity (% of Population) – Sub-Saharan Africa. Washington, DC. 
+Accessed November 28. https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZG
+———. 2022a. Access to Electricity (percent of population) – East Asia Pacific. World Bank Global Electrification Database. Washington, DC. 
+https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=Z4
+———. 2022b. Access to Electricity (percent of population) – South Asia. World Bank Global Electrification Database. Washington, DC. 
+https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=8S
+=== PAGE 51 ===
+35
+APPENDIX A: TYPES OF ENERGY STORAGE
+Energy storage technologies can be divided into five groups.
+MECHANICAL STORAGE
+Mechanical storage includes the following:
+•	
+Pumped hydro storage (PHS) stores electrical energy as the potential energy of water.  
+It generally involves pumping water into a large reservoir at a high elevation, usually the top 
+of a mountain or hill. When energy is required, the water in the reservoir is guided through a 
+hydroelectric turbine, which converts the energy of flowing water to electricity. PHS is often 
+used to store energy for long periods. It would be difficult to deploy for rural mini grids, given 
+the need for topographical features to store large amounts of water and the difficult of making 
+the technology competitive at mini grid scales.
+•	
+Compressed air energy storage (CAES) converts electrical energy into compressed air, which 
+is stored in an underground cave or an above-ground high-pressure container. When excess 
+or low-cost electricity is available from the grid, it is used to run an electric compressor, which 
+compresses and stores air. When electrical energy is required, the compressed air is directed 
+toward a modified gas turbine, which converts the stored energy into electricity. Several start-
+ups are testing storing the heat produced during compression. This type of CAES does not use 
+natural gas to reheat the air upon decompression and is therefore emissions-free as well as 
+more efficient. Storing energy at scale generally requires geological features such as a cavern.
+•	
+Flywheel energy storage stores electrical energy as rotational energy in a heavy mass.  
+A typical flywheel energy storage system (FESS) consists of a large rotating disk or cylinder 
+supported on a stator, the stationary component found in electric motors and generators. 
+Stored electric energy increases with the square of the speed of the rotating mass, so materials 
+that can withstand high velocities and centrifugal forces are essential. Flywheel technology  
+is a low-maintenance and low environmental impact type of energy storage. It is suitable for 
+high-power applications, thanks to their capacity to absorb and release energy in a very  
+short period. Flywheel storage is more practical for high-power, high reaction time storage,  
+to smooth out energy flows on the scale of milliseconds or seconds, not hours or days.
+ELECTROCHEMICAL STORAGE
+Electrochemical storage includes various battery technologies that use different chemical  
+compounds to store electricity. Each of the numerous battery technologies has slightly different 
+characteristics and is used to store and then release electricity for different durations, ranging from 
+a few minutes to several hours.
+There are two main categories of batteries: (a) traditional solid rechargeable batteries, where 
+the chemical energy is stored in chemical reactions on the surface of solid metal electrodes, and 
+(b) flow batteries, where chemical energy is stored in liquid electrolytes kept in tanks and pumped 
+through the electrochemical cells.
+Rechargeable batteries include the following.
+•	
+Lead acid batteries have been in commercial use in different applications for over a century 
+(see case study 5.1). Lead acid is the most widely used battery technology worldwide.
+=== PAGE 52 ===
+36	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+High-performance variations of lead acid batteries 
+are classified as advanced lead acid and have a 
+longer life. Advanced lead acid batteries include 
+carbon and bipolar lead acid type. Lead carbon 
+lead acid batteries use carbon additives to improve 
+energy density, cycle life, and charging-discharging 
+properties. Bipolar lead acid batteries have bipolar 
+plates, which eliminate the high current density seen 
+around the terminals in a conventional design. Each 
+point on an electrode is in contact with the current 
+collector. This type of battery has higher specific 
+energy and energy density, a footprint that is about 
+40 percent smaller footprint than the monopolar 
+type, and is made of recyclable materials. It can be 
+used in place of lead acid batteries.
+•	
+Lithium-Ion batteries are lightweight and have high 
+density (see case studies 5.2–5.5). They are particu-
+larly well suited for portable applications (electric  
+vehicles and electronic devices). Performance 
+characteristics depend on the internal chemistry. 
+Improvements have increased usage in stationary 
+storage. Progress has led to a scale-up of manufac-
+turing and installation and a subsequent rapid price 
+reduction. Increasing energy densities in lithium-ion 
+batteries have been key in tilting interest toward them.
+•	
+High-temperature sodium batteries are made from 
+inexpensive nontoxic materials. They operate at 
+a high temperature (above 300°C) and have long 
+cycle lives. Sodium sulfur (NaS) batteries are 
+manufactured with molten sodium and liquid sulfur 
+enclosed in a steel casing and a cell container (usually 
+cylindrical in shape). Nihon Gaishi kabushikigaisha 
+(NGK) Insulators, a Japanese company, is the only 
+company manufacturing this battery. Key applications 
+include spinning reserve, frequency regulation, 
+energy time shift, and transmission congestion 
+relief. In India, NGK’s NaS battery was trial tested 
+by the National Thermal Power Corporation (NTPC) 
+for its feasibility in Indian grid conditions in a solar 
+system. Sodium nickel chloride (Na-NiCl2) batteries 
+operate at a lower temperature with molten sodium 
+as a cathode, NaAlCl4 as the electrolyte, and nickel 
+chloride as the anode. Major applications include 
+black start, renewable energy time shift, and fre-
+quency regulation.
+•	
+Zinc-based batteries combine zinc with various 
+chemicals. They are at an earlier development 
+stage than some other battery technologies. 
+Historically, zinc batteries were not rechargeable, 
+but developers are overcoming challenges to  
+produce fully rechargeable zinc-based chemistries. 
+This technology is lightweight, low-cost, and nontoxic. 
+Zinc air batteries (also known as zinc air fuel cells) 
+function by oxidizing zinc with oxygen while  
+controlling the reaction rate by controlling the air flow. 
+They come in both rechargeable and nonrechargable 
+forms. Applications include vehicle propulsion and 
+grid storage. Urban Electric Power (UEP), a US  
+company, has developed a rechargeable zinc  
+manganese (ZnMnO2) battery with a two- to 
+eight-hour discharge duration. These batteries are 
+safe and nontoxic, with no lead, heavy metals, or 
+flammable electrolytes. The company is scaling up 
+production and is expected to provide a cheaper 
+replacement for lithium-ion batteries.
+Flow batteries (see case study 5.6) differ from 
+conventional batteries in that energy is stored in the 
+electrolyte (the fluid) instead of the electrodes. The 
+electrolyte solutions are stored in tanks and pumped 
+through a common chamber, separated by a membrane, 
+that allows for transfer of electrons or flow of electricity 
+between the electrolytes.
+There are many different types of flow batteries. 
+At least three are currently commercially available: 
+redox flow, zinc-iron flow, and zinc-bromine batteries. 
+Variations such as zinc-iron flow batteries and hydrogen- 
+bromine flow batteries are also under development.
+This technology has reached commercialization, 
+with 326 MW grid connected flow batteries across  
+108 projects installed to date. In India, technology  
+adoption is limited to test trials. A 30 kW vanadium  
+redox battery was installed in 2015 for mini grid  
+capability by Imergy Power Systems.
+THERMAL ENERGY STORAGE
+Thermal energy storage includes ice-based storage  
+systems, hot and chilled water storage, molten salt  
+storage, and rock storage technologies:
+•	
+In latent heat storage, energy is stored in a material 
+that undergoes a phase change (transition between 
+solid and liquid) as it stores and releases energy. 
+One example of latent heat storage is an ice storage 
+tank for domestic or industrial cooling.
+•	
+In sensible heat storage, available energy is stored in 
+the form of an increase or decrease in temperature 
+of a material, which can be used to meet a heating 
+or cooling demand. Variations of this technology 
+include molten salt storage (generally coupled with 
+concentrated solar power plants, hot water storage,
+=== PAGE 53 ===
+APPENDIX A: Types of Energy Storage
+37
+and chilled water storage), designed to serve 
+households or a community.
+•	
+In thermochemical storage, reversible chemical 
+reactions are used to store thermal energy in the 
+form of chemical energy. Variations are in initial 
+developmental stages.
+In these systems, excess thermal energy is collected 
+for later use. Given the Second Law of Thermodynamic 
+inefficiencies in converting low-grade heat to electricity 
+and the challenges of storing high temperature heat at 
+small scales, this kind of storage is generally not viable 
+for mini grids.
+ELECTRICAL STORAGE
+Super capacitors and superconducting magnetic energy 
+storage (SMES) systems store electricity in electric and 
+electromagnetic fields with minimal loss of energy. A few 
+small SMES systems are commercially  
+available, mainly for power quality control in manufacturing 
+plants (such as microchip fabrication facilities). These 
+technologies are ideal for storing and releasing high 
+levels of energy in short bursts.
+CHEMICAL STORAGE
+Chemical storage typically uses the electrolysis of water 
+to produce hydrogen as a storage medium. Hydrogen 
+can subsequently be converted to electricity (via fuel 
+cells or engines) or heat and transportation fuel (power- 
+to-gas). In power-to-gas storage, excess electrical 
+energy is used to electrolyze water to produce hydrogen  
+and oxygen. The stored hydrogen can be used 
+directly as fuel for heating applications or in fuel cells. 
+Electrolyzers are unidirectional devices allowing for  
+only the storage of energy.
+Chemical energy stored in fuels (ethanol, hydrogen, 
+or natural gas) can be converted to electrical energy. 
+Several variations exist, including solid oxide fuel,  
+proton exchange membrane, and phosphoric acid fuel 
+cells. These systems can be used for stationary storage 
+or in transportation applications.
+=== PAGE 54 ===
+38
+APPENDIX B: IMPROVING THE 
+PERFORMANCE OF LEAD ACID  
+BATTERY STORAGE MINI GRIDS
+Most battery technologies in use today are lead acid. Most batteries are sulphated, reducing  
+their charge acceptance rate and forcing mini grid players to use diesel generators to meet  
+the shortage. A project on battery performance in India and the CLEAN Battery O&M manual 
+highlight the challenges of lead acid batteries in many mini grids. This appendix shows how  
+the performance of mini grids was deteriorating and provides recommendations on how it can  
+be improved.
+Figure B.1 plots battery capacity against the age of battery banks at selected sites. It shows 
+that most of the batteries monitored were operating below 80 percent of their rated capacity within 
+six months of installation; modelling had projected capacities of over 80 percent for at least three 
+years after installations. It also shows that valve regulated lead acid (VRLA) gel performed better 
+than flooded tubular and that VRLA absorbed glass mat after five years of operation. Laboratory 
+tests conducted by CES confirm these results.
+Timely and adequate equalization of flooded lead acid battery banks greatly increased the 
+capacity of the plants (figure B.2).
+Revival of older lead acid batteries can take about a month. It took almost 25 days to bring  
+six-year old batteries up to a certain capacity (table B.1). For this reason, is very important to  
+regularly maintain batteries throughout their lifetimes.
+Battery efficiency exceeded 80 percent for most plants that were no more than two years old 
+two years (figure B.3). Most plants that were more than two years old had efficiencies of less than 
+80 percent. Battery efficiency in these solar plants did not show significant improvement after 
+equalization.
+Battery utilization data recorded at these sites challenges two industry perceptions. One is 
+that batteries die early from overuse. Another is that as the plant ages, utilization of the battery 
+increases as the load at the site increases. The data show that utilization of older plants was lower 
+than that of newer plants. They also show that none of the plants had batteries that exceeded 
+60 percent of their rated capacity (figure B.4)
+Battery utilization was plotted against battery size (the ratio of battery-to-solar PV installed 
+capacity) (figure B.5). All batteries that used 30 to 60 percent of their capacity had battery-to-solar 
+ratios of 2.0 to 4.0 kWh/kWp, suggesting that this range could be considered the optimum battery 
+size for rural mini grids. Most government tenders suggest that sizes should be over 7.0 kWh/kWp. 
+Underutilization is found in plants with all sizes of batteries.
+=== PAGE 55 ===
+appendix b: Improving the Performance of Lead Acid Battery Storage Mini Grids
+39
+100%
+80%
+60%
+40%
+20%
+0%
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Age of battery (years)
+Flooded Tubular
+Gel VRLA
+VRLA
+Battery capacity (percent)
+FIGURE B.1: Capacity of Flooded Tubular, Valve Regulated Lead Acid (VRLA), and VRLA Gel Batteries in  
+First Eight Years
+Source: Sen 2019.
+140
+120
+100
+80
+60
+40
+20
+0
+Number of Cycles
+Charging
+Discharging
+Battery IN and OUT (in Ah)
+14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51
+FIGURE B.2: Tubular Battery Under 80 Percent Discharge and Recharge Cycle in Solar Charging Conditions 
+Demonstrating Drop and Increase in Capacity Before and After an Equalizing Charge
+Source: CES battery lab tests.
+=== PAGE 56 ===
+40	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+TABLE B.1: Revival of Old Lead Acid Batteries
+Battery Make
+Battery Type
+Age of Plant 
+(years)
+Initial Capacity 
+(percent)
+Capacity 
+After Revival 
+(percent)
+Duration of 
+Revival (days)
+Observations
+Reliance
+Flooded tubular
+6.0
+30 
+80 
+25 
+Most sites can be revived to 
+similar capacity and provide 
+two to three years more life 
+with regular O&M.
+HBL
+Gel tubular
+4.5
+10 
+25 
+  0
+This cell totally dried out, 
+because of o overcharging 
+at the site, and could not be 
+revived. This battery bank can 
+be discarded.
+Agni
+Flooded tubular
+6.0
+20 
+55 
+25 
+Most sites deploying batteries 
+from reputable manufacturers 
+will get revived better.
+Source: CES lab test.
+100%
+80%
+60%
+40%
+20%
+0%
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Age (in years)
+Efficiency (percent)
+FIGURE B.3: Efficiencies of Batteries at Plants of Different Ages
+Source: Sen 2019.
+Age (in years)
+Battery utilization (percent)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+60%
+40%
+20%
+0%
+50%
+30%
+10%
+FIGURE B.4: Battery Utilization at Plants of Different Ages
+Source: Sen 2019.
+=== PAGE 57 ===
+appendix b: Improving the Performance of Lead Acid Battery Storage Mini Grids
+41
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+0
+2
+4
+6
+8
+10
+12
+14
+Battery utilization (percent)
+Battery-to-solar installed capacity ratio (kWh/kWp)
+FIGURE B.5: Battery Utilization at Various Battery-to-Solar Installed Capacity Ratios
+Source: CES lab tests.
+=== PAGE 58 ===
+
+=== PAGE 59 ===
+
+=== PAGE 60 ===
+4	
+ENERGY STORAGE FOR MINI GRIDS: STATUS AND PROJECTIONS OF BATTERY DEPLOYMENT
+Funded by:

@@ -1,0 +1,62 @@
+Fact-check verdicts, batch 5 (C-0121 to C-0150), 2026-09-23. Notes: C-0138 and C-0150 repeat '(FAOSTAT)' in statement and measure (editorial); C-0139 is a round placeholder-like estimate; C-0149 includes palm oil (C-0148), do not add; FAO food import aggregate is not comparable with NBS food category.
+
+C-0121: PASS
+
+C-0122: PASS
+
+C-0123: PASS
+
+C-0124: PASS
+
+C-0125: PASS
+
+C-0126: PASS
+
+C-0127: QUERY
+  Reason: Quote and value correct (16,543 t, flag X), but basis 'actual' and status 'verified' conflict with X-008 and X-009 (exports exceed production; FAO Hand-in-Hand gives ~50,000 t; 40 percent fall from 27,616 t in 2023; area imputed). Consider basis 'estimate'.
+
+C-0128: PASS
+
+C-0129: PASS
+
+C-0130: PASS
+
+C-0131: PASS
+
+C-0132: PASS
+
+C-0133: PASS
+
+C-0134: PASS
+
+C-0135: PASS
+
+C-0136: PASS
+
+C-0137: PASS
+
+C-0138: PASS
+
+C-0139: PASS
+
+C-0140: PASS
+
+C-0141: PASS
+
+C-0142: PASS
+
+C-0143: PASS
+
+C-0144: PASS
+
+C-0145: PASS
+
+C-0146: PASS
+
+C-0147: PASS
+
+C-0148: PASS
+
+C-0149: PASS
+
+C-0150: PASS

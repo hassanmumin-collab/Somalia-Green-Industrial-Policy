@@ -1,0 +1,4833 @@
+=== PAGE 1 ===
+The Somali chilled meat value chain: 
+Structure, operation, profitability 
+and opportunities to improve the 
+competitiveness of Somalia’s 
+chilled meat export trade
+RESEARCH 
+PROGRAM ON
+Livestock and Fish
+ILRI Research Report 29
+I L R I R E S E A R C H R E P O RT   
+32
+Research
+Program on
+Policies,
+Institutions,
+and Markets
+=== PAGE 2 ===
+
+
+   	
+	
+	
+Danish Government
+	
+ 	
+	
+European Commission
+
+	
+	
+	
+Terra Nuova
+=== PAGE 3 ===
+The Somali chilled meat value chain: 
+Structure, operation, profitability 
+and opportunities to improve the 
+competitiveness of Somalia’s chilled meat 
+export trade
+Asfaw Negassa,1 Derek Baker,2 Lawrence Mugunieri,3 Riccardo Costagli,3 Francis Wanyoike,2 Mohamed 
+Hassan Abdulle3 and Amos Omore2
+1. International Maize and Wheat Improvement Center (CIMMYT), Addis Ababa, Ethiopia and formerly Marketing and Consumption 
+Economist, International Livestock Research Institute (ILRI), Addis Ababa, Ethiopia
+2. International Livestock Research Institute, Nairobi Kenya
+3. Terra Nuova Eastern Africa, Nairobi, Kenya, Box 74916, 00200 Nairobi
+=== PAGE 4 ===
+
+© 2012 International Livestock Research Institute (ILRI) 
+This publication is copyrighted by the International Livestock Research Institute (ILRI). It is licensed for use under the Creative Commons 
+Attribution-Noncommercial-Share Alike 3.0 Unported License. To view this license, visit http://creativecommons.org/licenses/by-nc-
+sa/3.0/. Unless otherwise noted, you are free to copy, duplicate, or reproduce, and distribute, display, or transmit any part of this 
+publication or portions thereof without permission, and to make translations, adaptations, or other derivative works under the following conditions: 
+	 ATTRIBUTION. The work must be attributed, but not in any way that suggests endorsement by ILRI or the author(s) 	
+
+	 NON-COMMERCIAL. This work may not be used for commercial purposes. 
+	 SHARE ALIKE. If this work is altered, transformed, or built upon, the resulting work must be distributed only under the same or similar license to this
+	
+one.
+
+NOTICE:
+For any reuse or distribution, the license terms of this work must be made clear to others.
+Any of the above conditions can be waived if permission is obtained from the copyright holder.
+Nothing in this license impairs or restricts the author’s moral rights.
+Fair dealing and other rights are in no way affected by the above.
+The parts used must not misrepresent the meaning of the publication. ILRI would appreciate being sent a copy of any materials in which text, photos etc. 
+have been used. 
+Editing, design and layout—ILRI Editorial and Publishing Services, Addis Ababa, Ethiopia.
+Cover photo credit: Terra Nuova 
+ISBN 92–9146–287–X
+Citation: Negassa, A., Baker, D., Mugunieri, L., Costagli, R., Wanyoike, F., Abdulle, M.H. and Omore, A. 2012. The Somali chilled meat value chain: 
+Structure, operation, profitability and opportunities to improve the competitiveness of Somalia’s chilled meat export trade. ILRI Research Report 32. 
+Nairobi: International Livestock Research Institute.
+ilri.org
+Better lives through livestock
+ILRI is a member of the CGIAR Consortium
+Box 30709, Nairobi 00100, Kenya
+Phone: + 254 20 422 3000
+Fax: +254 20 422 3001
+Email: ILRI-Kenya@cgiar.org
+Box 5689,  Addis Ababa, Ethiopia
+Phone: +251 11 617 2000 
+Fax: +251 11 617 2001
+Email: ILRI-Ethiopia@cgiar.org
+=== PAGE 5 ===
+iii
+The Somali chilled meat value chain
+Contents
+Tables		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+v
+Figures	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+vii
+Acknowledgements	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+viii
+Abstract	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ix
+1	
+Introduction	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+1.1	
+Background and justification	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1
+	
+1.2	
+Objectives	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+	
+1.3	
+Outline of the report 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+2
+2	
+Conceptual framework	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+2.1	
+Competitiveness	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3
+	
+2.2	
+Value Chains		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+	
+2.3	
+Analytical approach	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+3	
+Data collection	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+8
+	
+3.1	
+Rapid appraisal of the chilled meat export value chain	
+	
+	
+	
+	
+	
+	
+	
+8
+	
+3.2	
+Formal surveys of key actors in the chilled meat export value chain 	
+	
+	
+	
+	
+	
+9
+4	
+Results	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+10
+	
+4.1	
+Results of rapid appraisal	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+10
+	
+4.2	
+Results of formal survey	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+13
+	
+4.3	
+Determinants of gross margins	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+28
+	
+4.4	
+Challenges faced by Somali chilled meat export value chain actors	
+	
+	
+	
+	
+	
+29
+	
+4.5	
+Perceived constraints in the chilled meat export value chain	
+	
+	
+	
+	
+	
+	
+30
+	
+4.6	
+Market trends and agents’ future plans	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+31
+=== PAGE 6 ===
+iv
+The Somali chilled meat value chain
+5	
+Conclusions and recommendations	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+33
+	
+5.1	
+Overview	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+33
+	
+5.2	
+Value chain upgrading issues	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+35
+	
+5.3	
+Recommendations for the private sector	 	
+	
+	
+	
+	
+	
+	
+	
+	
+36
+	
+5.4	
+Policy recommendations	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+37
+	
+5.5	
+Research needs	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+37
+References	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+39
+=== PAGE 7 ===
+v
+The Somali chilled meat value chain
+Tables
+Table 1. 	
+Approach to value chain characterization	 	
+	
+	
+	
+	
+	
+	
+	
+	
+4
+Table 2. 	
+Sample selection for the formal survey	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+8
+Table 3. 	
+Demographic and business profiles of market actors in the chilled meat export value chain	
+	
+	
+13
+Table 4. 	
+Business assets of market actors	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+14
+Table 5. 	
+Percentage age distribution for different grades of slaughter animals, by species and value chain actor 	 15
+Table 6. 	
+Average weight and price of different grades of slaughter animals	
+	
+	
+	
+	
+	
+15
+Table 7. 	
+Ranking of different quality attributes considered in the selection of livestock marketed 
+	
+	
+to chilled meat exporters	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+17
+Table 8. 	
+Quality attributes required—Perceptions of various value chain actors	 	
+	
+	
+	
+	
+18
+Table 9. 	
+Percentage of marketing agents’ citing preference* for animals of different ages 	
+	
+	
+	
+20
+Table 10. 	
+Percentage of marketing agents’ citing preference for animals of different weight	
+	
+	
+	
+20
+Table 11. 	
+Transaction arrangements for chilled meat export between small-scale traders and their livestock 
+	
+	
+suppliers	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+21
+Table 12. 	
+Transaction arrangements between small-scale traders and buyers of slaughter stock 	
+	
+	
+22
+Table 13. 	
+The effect of seasons and religious festivals on the sale of livestock by small-scale traders	
+	
+	
+22
+Table 14. 	
+Proportion of market actors involved in chilled meat export with access to market information	
+	
+23
+Table 15. 	
+Marketing costs, revenues and gross profits for small-scale traders for the most recently 
+	
+	
+completed live animal transactions for chilled meat export (December 2007 to January 2008)	
+	
+24
+Table 16.	
+Marketing costs, revenues and gross profits/tonne from chilled goat meat export for recently 
+	
+	
+completed transactions (December 2007 to January 2008)	
+	
+	
+	
+	
+	
+	
+25
+Table 17.	
+Marketing costs, revenues and gross profits/tonne from chilled sheep meat exports for recently 
+	
+	
+completed transactions (December 2007 to January 2008)	
+	
+	
+	
+	
+	
+	
+26
+Table 18.	
+Marketing costs, revenues and gross profits/tonne from chilled beef and camel meat export for 
+	
+	
+recently completed transactions (December 2007 to January 2008)	
+	
+	
+	
+	
+	
+27
+Table 19.	
+Regression results on determinants of gross margin/kg live weight	
+	
+	
+	
+	
+	
+29
+Table 20.	
+Percentage of small-scale traders and brokers reporting the most important constraints to 
+	
+	
+the export of live animals and chilled meat		
+	
+	
+	
+	
+	
+	
+	
+	
+30
+=== PAGE 8 ===
+vi
+The Somali chilled meat value chain
+Table 21.	
+Percentage of exporters and their agents reporting the most important constraints to the export 
+	
+	
+of live animals and chilled meat	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+30
+Table 22.	
+Reasons for increases in volumes of animals handled	
+	
+	
+	
+	
+	
+	
+	
+31
+Table 23.	
+Reasons for declines in volumes of animals handled	
+	
+	
+	
+	
+	
+	
+	
+31
+Table 24.	
+Reported expansions and future plans (not upgrading per se)	
+	
+	
+	
+	
+	
+	
+32
+=== PAGE 9 ===
+vii
+The Somali chilled meat value chain
+Figures
+Figure 1.	
+Key market actors and slaughter stock supply channels for chilled meat export	
+	
+	
+	
+10
+Figure 2.	
+Mean prices of different grades of animals slaughtered for export as reported by small-scale traders	
+16
+Figure 3.	
+Mean prices of different grades of animals slaughtered for export as reported by brokers 	
+	
+	
+16
+Figure 4. 	
+Reported trends in volumes of animals handled by intermediaries dealing in animals slaughtered for
+	
+	
+export in Somalia	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+32
+=== PAGE 10 ===
+viii
+The Somali chilled meat value chain
+Acknowledgements
+This report is one of a series arising from the collaborative project between the International Livestock Research 
+Institute (ILRI) and Terra Nuova. The effort of various Somali institutions and individuals who made this survey 
+possible under difficult conditions is appreciated. Special thanks go to all the chilled meat industry players in Somalia 
+(including exporters, agents of exporters, small-scale traders and brokers) who volunteered useful information that 
+ensured success of this study. 
+The extensive field work would not have been possible without the contribution of Terra Nuova Somali Zonal field 
+experts’ namely Ibrahim Omer Osman (Somaliland), Hussein Haji Aden (Southern Somalia), and Ahmed Abdalle 
+Mohamed (Puntland) in collecting data. Lastly the contribution of two ILRI scientists Mohammad Jabbar in the initial 
+design of the study and Karl Rich in reviewing the report enhancing its quality is fully appreciated. 
+We acknowledge and are grateful to the European Union and Danish government for funding this study. 
+Disclaimer
+The contents of this report are the sole responsibility of Terra Nuova and can under no circumstances be regarded as 
+reflecting the position of the European Union and/or the Danish government.
+=== PAGE 11 ===
+ix
+The Somali chilled meat value chain
+Abstract
+Export-oriented pastoral livestock production is an important source of livelihood of the Somali people. The country 
+is largely food deficient, with imports forming a significant proportion of basic food requirements and which are largely 
+financed through earnings from exports of live animals and meat. The export of meat products offers more avenues 
+for increased earnings and tax revenue by exploiting the available opportunities for domestic value addition, than does 
+live animal trade.
+This study characterizes the Somali chilled export meat value chain in terms of actors, institutions and practices, and 
+provides an initial analysis of their profitability in handling four species of livestock. It also canvasses actors’ views 
+on opportunities and constraints faced. Its main objective is to provide information that will enable development of 
+strategies to improve the efficiency of the Somali chilled meat export value chain as a way of increasing incomes to 
+market actors.
+Primary data used was obtained from a rapid appraisal of chilled meat export marketing value chains in Somalia and a 
+formal survey of market actors (brokers, small-scale traders, agents of exporters, exporters and airfreight operators). 
+Secondary data obtained from a review of relevant literature and interviews with expert informants was also 
+generated.
+The study identified a widely-recognized and consistently-applied grading system for slaughter stock. Quality 
+requirements in importing countries were revealed to be well known throughout the chain, in that actors’ rankings of 
+attributes were consistent within and between actor stages. Conversely, knowledge of health and safety requirements 
+in the importing countries was known only to exporters. Other inconsistencies throughout the chain included the 
+nature and strength of trading relationships: long-lived at exporter and agent level but short term and cash-based at 
+producer level. Although exporters made payments mostly on the basis of carcass weight, agents of exporters paid 
+based on per head of live animals.
+There is evidence of economies of scale, and of financial advantage in species specialization (specifically, goats) by 
+traders. Most actors’ aspirations feature expansion, but they report investment funding as their main constraint.
+The report presents preliminary recommendations for public and private sectors, many predicated on further study. 
+These focus on value addition and information sharing on what constitutes value, building of product identity and 
+legally protecting its unique status, and coordination to address costs.
+=== PAGE 12 ===
+1
+The Somali chilled meat value chain
+1	 Introduction
+1.1	 Background and justification
+Somalia has an estimated land area of 638 thousand km2 and its human population in 2000 was about 8.7 million 
+(UNEP 2007). In 2004, its population of sheep, goats, camels and cattle was estimated at 14.5, 12.8, 7.0 and 5.4 
+million, respectively (FAO 2008), and the livelihood of Somali people depends heavily on pastoral livestock production 
+(Samatar et al. 1987; Little 1992; Little 2003; FAO/World Bank/EU 2004). Samatar et al. 1987 and Samatar 1992 
+estimated that about two-thirds of the population is directly or indirectly engaged in the livestock sector and that 
+livestock-related exports account for more than 70% of Somali foreign exchange earnings. As the country is largely 
+in food deficit that is provided for by imports, the foreign exchange earnings from exports of live animals and meat 
+are vital to food security (Little 1992). In general, Somalia’s livestock sector is the dominant source of livelihood 
+for the majority of the population and any improvement in this sector will contribute significantly to its economic 
+development and food security.
+Traditionally, Somalia’s livestock exports have mainly been in the form of live animals (see Negassa et al. 2008). 
+The main export destinations are Middle East countries including Saudi Arabia,1 Yemen, United Arab Emirates 
+(UAE), Oman, and Qatar. In the 1960s and 1970s, live animal exports from Somalia comprised about 70% of Saudi 
+Arabia’s live animal imports2 (Samatar et al. 1987). In addition, livestock is exported to East African countries, with 
+neighbouring Kenya the main destination (Little 2003). However, Somalia faces several problems in exporting live 
+animals, key among them being limited market infrastructure, specifically for transport and information transfer. 
+Across a range of developing countries, limited infrastructure has been shown to increase marketing costs (Hummels 
+2001; Hausman et al. 2005), and the same is likely to be true in Somalia. It also reduces the delivery of high-quality 
+animals to destination markets. In addition, live animal exports increase the risk of cross-border disease transmission, 
+which leads to frequent bans by importing countries.
+In contrast, the export of meat products has several advantages over trade in live animals. Aside from avoiding 
+import restrictions and bans on live animals, export of meat products offers opportunities for value addition at origin, 
+particularly employment and income effects. Meat exports also have the potential to widen the tax revenue base from 
+processing, marketing and associated activities involved in preparing chilled meat for export. Meat by-products such as 
+skins and hides provide revenue for value chain actors. Finally, by-products such as offal also provide cheap sources of 
+protein for domestic consumers besides being an additional source of revenue from the domestic market. 
+Although Somalia currently exports chilled meat in carcass form, there is likely to be potential for further value 
+addition, as evidenced by higher prices paid in export destinations for bulk delivery of higher quality cuts and boneless, 
+packaged and branded product. Improvement in the efficiency of meat production and marketing, geared towards 
+�������������������������������������w�������������������S��������������������w����������������������������������������Dj�������������w����������w���������-
+.  At the time of the survey, shipping was not directly to Saudi Arabia. Animals were shipped from Berbera and Bossaso to Djibouti port (where they were certi­
+fied), and then shipped from Djibouti to Saudi Arabia. However, with the lifting of import ban by Saudi Arabia, direct shipments resumed in September 2009.
+2.  Animals imported to Middle East countries for slaughter for religious festivals may be exported onwards to third countries, and so not necessarily consumed 
+domestically. This is a well-developed trade, including frozen zakat (‘religious supplies’, slaughtered and handled in compliance with religious custom) supplied to 
+poor Muslim countries from the wealthier ones.
+=== PAGE 13 ===
+2
+The Somali chilled meat value chain
+export destinations and buyers that reward such value addition, is one promising avenue of approach that offers 
+significant multiplier effects. This statement is supported by Somalia’s geographic proximity to the Middle East, which 
+implies lower transportation costs to export markets for chilled meat and meat products. However, effective chilled 
+meat exports are constrained by a number of factors. First, information on importing countries’ food safety standards 
+and procedural requirements is scarce. Similarly, importing countries’ consumer awareness and preferences on quality 
+and safety remain unknown amongst Somali value chain actors. This situation calls for investigations of the dynamic 
+changes in consumer demand for safe chilled meat products, and development of the ability to respond effectively to 
+these changes among the Somali exporters.
+Second, little is known about the incentives (market and non-market) facing those engaged in the Somali chilled 
+meat export value chain. As examples, the profitability of chilled meat has not been studied, nor the distribution of 
+benefits and their poverty impacts, and the factors affecting that distribution. Furthermore, cost-based opportunities 
+for improvements in competitiveness have not been empirically identified. An investigation of costs and returns 
+throughout the chain is therefore necessary, particularly as anecdotal evidence suggested a variety of chilled meat 
+export business models, entailing a variety of organizational and procurement arrangements.
+1.2	 Objectives
+The overall objective of this study is to characterize the Somali export chilled meat sector so as to inform its strategic 
+development and improve its efficiency. An analysis of the complete value chain, including retail distribution systems in 
+destination countries, is beyond the scope of the current study and is deferred to future work. The specific objectives 
+of the current study are to:
+identify and analyse awareness of quality, health and safety requirements in importing countries amongst Somali 
+1.	
+chilled meat export value chain actors;
+establish if there are grades and standards in the marketing of livestock destined for slaughter and export as 
+2.	
+chilled meat;
+identify the relationship of such grades to prices received throughout the value chain;
+3.	
+estimate costs and benefits for value chain actors, and relationships with organizational and procurement 
+4.	
+arrangements along the value chain;
+identify possible approaches to upgrading within the value chain;
+5.	
+evaluate value chain actors’ access to information on product volumes and prices; and
+6.	
+characterize constraints to efficient value chain function in the context of alternative business models.
+7.	
+1.3	 Outline of the report 
+Section 2 of this report presents a conceptual framework of competitiveness and the relevant elements of the 
+Somali livestock value chain, and describes the analytical approach used to answer key questions emerging. Section 3 
+describes the multiple data collection activities, and section 4 features results of rapid appraisal, surveys and regression 
+analysis of profit margins. Further, section 4 deals extensively with incentives and mechanisms within the Somali chilled 
+meat export value chain. Section 5 offers conclusions and a discussion of the study, with recommendations to public 
+and private sectors, and the research community.
+=== PAGE 14 ===
+3
+The Somali chilled meat value chain
+2	 Conceptual framework
+2.1	 Competitiveness
+Livestock products exporters from poor countries such as Somalia face competition from exporters in developed 
+countries. The context within which international trade in agricultural and food products occurs is changing, due to 
+changes in exporting and importing countries, and in the nature of competition for export markets. In the developed 
+countries, these changes have brought forth vertical and organizational change due to globalization and technological 
+change (Boehlje and Sonka 1998), rapidly-changing consumer preferences and food industry organization, and associated 
+standards (Farina and Reardon 2000), information exchange issues (Hennessy 1996), transactions costs (Frank and 
+Henderson 1992) and a shifting and multi-faceted regulatory environment (Avermaete and Viaene 2002). The ensuing 
+pressure from these changes has come to bear on small farmers and firms in the agriculture and food system. Each of 
+these change factors is likely to be of consequence in Somalia, and magnified by poor information flows, under-developed 
+market infrastructure, and regulatory processes and institutions that may not factor in these changes.
+In the global commercial environment, achievement of competitive advantage is seen by some to be the key to the survival 
+and growth of any firm. Porter’s (1980) view is that this might be based on cost (addressing, in the current context, 
+technology and organizational forms), product differentiation (similarly, targeting consumer segments and elements of the 
+regulatory regime), or both. Kaplinksy and Morris (2001) interpret value addition as the task not only of competitive firms 
+but also in the efficiency of all chain elements from production to processing, handling, distribution and sales. According 
+to this view, coordination amongst members in the value chain is very important to establish competitiveness (Hobbs 
+et al. 1998). Boehlje and Sonka (1998) go so far as to say that competition has come to be between chains, rather than 
+between firms. In the developing country context, long value chains are observed to connect producers to export markets, 
+and this is particularly so for pastoralists (e.g. Green et al. (2006) on East Africa), who dominate livestock production in 
+Somalia. Achievement of competitive advantage then implies vertical coordination amongst value chain actors, and efficient 
+information flows. Actors in Somalia’s portion of the Middle Eastern market’s chilled meat export value chain include 
+livestock producers, brokers, small-scale traders, agents of exporters, exporters, and airfreight operators (Negassa et al. 
+2008). Critical development issues include the linkage of small herders, small-scale traders and exporters to the international 
+meat market, and their capacity to compete in, and benefit from, international trade. Improving access of small farmers and 
+market actors to existing high value market chains is a necessary, but not sufficient, condition for increasing incomes and 
+combating poverty (World Bank 2008: 133–134). In order to reduce poverty, there is a need to help small farmers and small 
+business by improving the productivity and competitiveness of the value chains. This might address, as mentioned above, 
+poor infrastructure, market failures such as inadequate information flow and the capacity of value chain actors to recognize 
+and exploit opportunities. This study identifies and interprets indicators of market function in the Somali chilled export meat 
+value chain, and the efficiency of operation of chain actors in using the market.
+The relevant unit of analysis targeted at competitiveness is the value chain for a given final product demanded by the 
+consumers in domestic or export markets. This assumes that the coordination of the value chain is one of the sources 
+of competitive advantage. In this study, the final product is a chilled meat carcass exported to Middle East countries. 
+The value chain analytical framework is adopted to characterize the chilled meat export trade and determine the 
+constraints and opportunities encountered in enhancing chilled meat exports from Somalia.
+=== PAGE 15 ===
+4
+The Somali chilled meat value chain
+2.2	 Value chains
+Kaplinsky and Morris (2001) identify four elements in a value chain analysis, listed in Table 1 with explanation of the 
+relevance to the current study. These elements go beyond a simple description of the chain processes, and necessarily 
+require analysis not only of the value added in value chains (i.e. efficiency) but also the distribution of the value 
+added and its retention by specific actors in the chain (i.e. equity). Measurement of value chain equity is not widely 
+undertaken, and has focused primarily on possible exclusion of small farmers from markets (Dolan and Humphrey 
+2000). Rather than looking at each stage of production as its own entity, this study highlights the relationships within 
+networks of producers, traders, processors/exporters, and the means by which such networks are, or can be, 
+accessed (UNCTAD 2000).
+Table 1. Approach to value chain characterization
+Element of value chain analysis
+Items included
+Relevance to current study
+Systematic mapping of the actors 
+participating in the production, distribution 
+and marketing
+Characteristics of actors
+Profit and cost structures
+Product flows
+Risks and constraints
+Sustainability
+Tracing of livestock destined for slaughter 
+and export as chilled meat.
+Assessment of governance in the value chain Structure of relationships and 
+coordination of mechanisms between 
+actors
+Allocation of responsibility for 
+coordinating activity
+Evaluated in terms of:
+Transaction arrangements among the 
+actors
+Policy aspects of institutional arrangements 
+that might be targeted to improve 
+capabilities in the value chain
+Prospects for upgrading within the chain
+Capability of actors to innovate and 
+ensure continuous improvement in 
+product and process development
+Identification of opportunities and 
+constraints to upgrading. 
+The distribution of benefits of actors in the 
+chain
+Analysis of margins and profits within 
+the chain
+Equity considerations and development 
+contribution 
+Source: Adapted from Kaplinsky and Morris (2001)
+One criticism of the value chain approach is its customarily limited emphasis on the collection and analysis of 
+quantitative data (Rich et al. 2011). The current study addressed such concerns by focusing on collection and 
+interpretation of survey data. The specific tools used are discussed below in terms of information gathered in order to 
+address each of the various study objectives and analysis used. 
+2.3	 Analytical approach
+Livestock market actors
+In order to study the market actors, they first needed to be identified and characterized according to their role in 
+the export chilled meat value chain. This was achieved by conducting focus group discussions with industry specialists 
+based on guidelines established in earlier work (Negassa et al. 2008).
+Quality attributes and measurement
+Consideration of value addition requires knowledge of the attributes sought by the market, in this case the export 
+market. These attributes are measured in various ways at different points in the value chain: in live animals, carcasses, 
+and meat products. In the case of live animals, examples of attributes include age of animal, weight, body condition, 
+and body conformation. For carcasses and also meat, the examples of attributes include fat cover, damages to the 
+carcass, and conformation of the carcass.
+=== PAGE 16 ===
+5
+The Somali chilled meat value chain
+In this study, it was assumed that the quality requirements of the importing countries are manifested as specific grades 
+and standards within the Somali live animal marketing context. The study thus identified the specific characteristics 
+of each perceived grade in terms of quality attributes, and then established the level of awareness about these among 
+actors along the chain, and how prices varied across grades. A fuller investigation of the agreement between standards 
+used domestically and in the export markets is deferred to later work.
+Knowledge of quality preferences in export markets
+In the analysis of domestic actors’ awareness of importing countries’ health and safety requirements, it was assumed 
+that exporters’ perceptions are accurate.3 Based on this assumption, this study examines the extent to which quality, 
+health and safety requirements vary across chilled meat importing countries (as perceived by exporters), and variation 
+in awareness of these requirements among actors in the Somali export chilled meat value chain. As for quality 
+standards, the further examination of this assumption is deferred to later work.
+Information and its transmission 
+Access to good quality information plays a key role in the successful participation in markets by value chain actors 
+(Shepherd 1997). The current study identifies sources and uses of information by value chain actors and the extent 
+of its transmission. Transmission of information has conventionally been analysed in the context of the transmission 
+of price movements. However, in the absence of reliable price series, the transmission efficiency of the Somali chilled 
+meat export value chain is examined by surveying the state of knowledge at each chain stage and comparing the 
+results. This analysis extends to identification and measurement of quality of attributes, and familiarity with quality 
+preferences and documentation requirements in export markets. 
+Transaction arrangements and costs, and seasonality
+Owing to the length of the value chain in question, transactions play a significant role in the Somali chilled meat export 
+trade. A key step in understanding the trade is then to document the types of transactions undertaken by the chain 
+agents, the key transaction tasks within the chain, and the magnitude and allocation of their costs. Pingali et al. (2005) 
+found that these factors deterred market entry by small farmers. Barrett et al. (2006) measured various costs specific 
+to livestock marketing and tested their impact on market participation in Northern Kenya and Southern Ethiopia. 
+They found that though modest relative to selling prices, marketing costs had a significant negative effect on market 
+participation and also sales volumes. Unlike Barrett’s et al. (2006) study which only focused on livestock producers; 
+the current study addresses other marketing intermediaries and is the first of its kind to address such questions in 
+Somalia and for chilled meat export trade. 
+Samatar et al. (1988) observed that the two months preceding Haji accounted for more than 50% of the exports from 
+Berbera port in 1982, 1983 and 1985. There were also clear variations in numbers of livestock transactions due to religious 
+festivals, with most transactions concentrated around Ramadan. This study investigates whether similar seasonal transaction 
+volume variation relationships exist in the case of chilled meat exports at each stage of the chain and as a whole.
+Profitability
+The current study addresses directly the competitiveness of the chilled meat export value chain by survey analysis 
+of the cost structure at each point in the chain. Although it was anticipated that livestock purchase prices would 
+dominate such costs, the proportion of transactions costs is another indicator of the structure and efficacy of the 
+value chain and the functions of its actors.
+3. This essentially employs exporters’ perceptions as a proxy for actual regulatory requirements.
+=== PAGE 17 ===
+6
+The Somali chilled meat value chain
+Survey data were used to calculate gross profits and gross profit margins (see formulae below) for actors at each stage 
+of the chilled meat value chain and for each livestock species and associated meat type. At the small-scale trader level, 
+costs and returns were measured per sales lot, or per head of slaughter stock. At the exporter level, the gross profits 
+and gross profit margins were computed per lot, or per tonne of chilled meat exported. 
+Gross profit = Gross revenue – Total variable costs
+It is important to note that costs and revenues often vary seasonally. This study however limited itself to the 
+analysis of costs, revenues and margins from the last completed transaction. It was felt that detailed information on 
+transactions carried out long before the study may not be sufficiently accurate for these kinds of analysis as many 
+livestock marketing agents in Somalia do not keep records.
+Financial sustainability and marketing margins
+Although gross profit margin is an indicator of a firm’s short run financial health, long term performance, and indeed 
+survival, is influenced by fixed costs, from which only limited information was able to be collected in this study. 
+However, marketing margins (see formulae below) were recorded, and are employed here to draw inference about 
+entry and exit. Under perfect competition (particularly free entry and exit), profit maximization by economic agents 
+implies that the marketing margin is equal to the marginal cost of marketing activities (Helmberger and Chavas 1996). 
+It follows that marketing margins higher than marginal marketing costs will attract new entrants, which serves to 
+erode margins as the later entrants (currently engaged in other activities) are likely to operate at higher cost than 
+export chilled meat value chain incumbents (Piggott et al. 2000).
+Gross profit margin = (Gross profit ÷ Gross revenue) x 100% 
+Competitive status of markets in the value chain
+Although evidence on the existence of perfect competition in Somalia is limited, these projections for behaviour 
+at the margin seem reasonable, especially in terms of marginal animals being located unfavourably and/or being of 
+lower quality, and hence being supplied at higher cost. Absence of competitive forces (e.g. barriers to entry) removes 
+the incentive for incumbent firms to reduce marketing costs, and persistent high marketing margins may be further 
+interpreted as evidence of this (Piggott et al. 2000). In addition to the influence of competition, marketing margin 
+has been shown to be affected by changes in output and input prices, marketing costs, marketing infrastructure, 
+technologies used, government marketing policies, and risk and uncertainty in the marketing system (Tomek and 
+Robinson 1990; Helmberger and Chavas 1996). As part of its characterization task, this study will report on these 
+factors. Unfavourable conditions (e.g. highly volatile prices, or the absence of a grading system) lead market actors to 
+demand higher marketing margins in order to enter, or to remain in, particular markets.
+Relationship between transaction arrangements and profitability
+Wohlgenant (2001) found that marketing margins could be statistically associated with underlying demand and 
+supply factors in the value chain, and their lagged values, imperfect competition, uncertainty, delivery of quality, and 
+transaction costs. A number of studies have examined the relationship between transaction arrangements and factors 
+influencing vertical structure and performance, and the approach taken here is to examine the influence of transaction 
+arrangements on marketing margins. This study employs a regression model with marketing margin as the dependent 
+variable and a number of explanatory variables including institutional arrangements.
+=== PAGE 18 ===
+7
+The Somali chilled meat value chain
+Market trends and scaling up
+The study reports value chain actors’ perceptions of changes in transaction volumes, and compares these along the 
+chain. In addition to reporting experience, the study is forward-looking: it surveys future aspirations, and intentions 
+for scale of operation, and the means of achieving these. Perceived constraints to scaling up are also reported.
+Spatial and temporal factors in marketing margins
+Formal study of the influence of spatial and temporal (primarily seasonal) on reported marketing margins was not 
+conducted. However, the significance of transport costs and the availability of animals throughout the year were 
+referred to frequently in the study.
+=== PAGE 19 ===
+8
+The Somali chilled meat value chain
+3	 Data collection
+Owing to the perceived complexity of Somalia’s chilled meat export value chain, several data sources and collection 
+methods were used in this study. This allowed triangulation (Jick 1979) of information, drawing on: 
+a single rapid appraisal of the chilled meat export value chain;
+• 
+a survey of key value chain actors (brokers, small-scale traders, agents of exporters, exporters and airfreight 
+• 
+operators – see Table 2 for sample sizes) in the chilled meat export value chain; and,
+additional qualitative and quantitative data collected from value chain actors.
+• 
+Table 2. Sample selection for the formal survey
+Market actors*
+Population*
+Sample size
+Brokers
+210
+18 (9)**
+Small-scale traders
+105
+48 (46)
+Agents of exporters
+8
+3 (37)
+Exporters
+10
+6 (60)
+Airfreight operators
+4
+3 (75)
+*Based on findings from rapid appraisal. ** The figures in the parenthesis are proportion of the samples in the population in per cent. 
+The rapid appraisal was conducted in the second half of 2006. The survey was conducted between December 2007 
+and January 2008, a period which followed intermittent bans on imports of Somali livestock and livestock products 
+by several Middle Eastern Countries due to Rift Valley Fever outbreaks. Expert consultations were conducted during 
+both of these periods.
+3.1	 Rapid appraisal of the chilled meat export value chain
+The rapid appraisal served several purposes. It validated the information derived from a literature review that had 
+been used to formulate research hypotheses. It enabled targeting of value chain actors (including compilation of a 
+sample frame), and it formed the basis of the subsequent survey of value chain actors. The rapid appraisal used a 
+combination of methods, including review of documents and records, focus group interviews, key informant interviews 
+and personal observations. The objective was to obtain current and accurate information on the emerging chilled meat 
+export value chain in terms of the functions of the various actors in the value chain and their resources and marketing 
+practices.
+=== PAGE 20 ===
+9
+The Somali chilled meat value chain
+3.2	 Formal surveys of key actors in the chilled meat export 
+value chain 
+Formal surveys of a sample of actors from each stage of the chilled meat export value chain accessed data on the 
+actors’ basic economic, social and demographic attributes, their resource endowments, and their marketing costs 
+and returns. The sampling approach applied at each stage of the chain depended on the category of market actors 
+interviewed, the associated population, as well as the security situation in the area. The study limited itself to beyond-
+farm-gate livestock marketing activities by value chain actors.
+Table 2 summarizes the market actors, and sampling, for the formal survey. The rapid appraisal established that there 
+were 10 chilled meat exporters in Somalia. At the time of the survey, six of the 10 exporters were active: the other 
+four had ceased operations due to import bans on livestock products from Eastern Africa in a number of countries 
+in the Middle East following an outbreak of Rift Valley Fever that had occurred in 2006. All six active exporters were 
+surveyed: one in Somaliland, one in Puntland and four in central and southern Somalia. The managers of these export 
+businesses were interviewed using a structured questionnaire.
+Two of the surveyed exporters (H-Food from Somaliland and the Hiran Global Service Company from southern 
+and central Somalia) used agents to procure live animals for chilled meat export arrangements. Hiran Global Service 
+Company had three agents but the company was closed at the time of this survey and none of the agents were 
+available to be interviewed. H-Food had five agents, three of whom were included in the sample.
+The rapid appraisal also identified some 105 small-scale traders, 76 of whom were active at the time of the survey 
+and 48 of whom were included in the sample. In order to derive an appropriate sample size that would capture all 
+the organizational arrangements identified within the subsector, purposive sampling was used in which suppliers to 
+all exporters/slaughterhouses were taken into account. The other factor considered in sampling was the location of 
+the markets in which the traders were operating, in the light of survey resources: those markets least conveniently 
+located for visits by survey staff visiting other chain actors were excluded. 
+In sampling the brokers, several markets were purposively selected based on security, accessibility (within Somalia) 
+and importance as a source of slaughter stock. Generalization, based on the extent to which these markets are 
+representative of the whole country, is difficult to assess. A list of brokers of chilled meat slaughter livestock was then 
+prepared for each market based on expert consultation. The precise number of brokers is not known but there are 
+thought to be about two brokers per small-scale trader.4 Based on this assumption, there are an estimated 210 active 
+brokers in the study areas, of which 18 were randomly selected.
+4. Little (2003) estimates two to three brokers per livestock trader.
+=== PAGE 21 ===
+10
+The Somali chilled meat value chain
+4	 Results
+4.1	 Results of rapid appraisal 
+Structure and operation of the chilled meat export value chain
+A simplified representation of the key actors, and transactions pathways, in the domestic portions of Somalia’s chilled 
+meat export value chain is shown in Figure 1. It is notable that these channels can be very long (entailing many sequential 
+transactions) and in some cases brokers are used twice before the animals reach the slaughterhouse (e.g. channel 5).
+Figure 1. Key market actors and slaughter stock supply channels for chilled meat export
+1.	
+ProducersExporters
+2.	
+ProducersBrokersExporters
+3.	
+ProducersBrokersSlaughterhouse firmsExporters
+4.	
+ProducersBrokersSmall-scale tradersExporters
+5.	
+ProducersBrokersSmall-scale tradersBrokersAgents of exportersExporters
+6.	
+ProducersBrokersAgents of exportersExporters
+7.	
+ProducersBrokersSmall-scale tradersOrganized small-scale tradersExporters
+8.	
+ProducersBrokersOrganized small-scale tradersExporters
+Producers
+Small-scale
+traders
+Organized
+small-scale traders
+Brokers
+Slaughtrhouse
+firms
+Agents of 
+exporters
+Exporters
+=== PAGE 22 ===
+11
+The Somali chilled meat value chain
+Exporters
+The rapid appraisal established that there are 10 chilled meat exporters in Somalia. The chilled meat exporters’ act as 
+the final link between the Somali chilled meat marketing system and the importing countries. They assemble suitable 
+slaughter stock from different regions of Somalia, do the slaughtering, and then deliver chilled meat to importers in 
+the Middle East. To procure animals, some exporters operate through a dedicated network of agents of exporters 
+who are usually from the same clan as the exporter. They employ 3–4 full-time agents on average, as well as other 
+part-time intermediaries.
+At the time of the survey, six of the 10 exporters were active: the other four had ceased operations due to import 
+bans on livestock products from Eastern Africa in a number of countries in the Middle East following an outbreak of 
+Rift Valley Fever that had occurred in 2006. All six active exporters were surveyed: one in Somaliland, one in Puntland 
+and four in central and southern Somalia.
+Agents of exporters
+Agents of exporters source, tend and transfer slaughter animals on behalf of the exporters, based on established 
+rapport and trust. An agent of exporter deals exclusively with one exporter. It has been argued that the emergence 
+of agents of exporters is a direct result of the growth in export trade (Little 2003). The agents operate on part- or 
+full-time basis, and are well known to (in many cases they are relatives of) the exporters. The exporters advance 
+operational funds to the agents or reimburse them for expenses incurred, including livestock purchases.
+During the rapid appraisal, it appeared that just two exporters (H-Food from Somaliland and the Hiran Global 
+Service Company from southern and central Somalia) used agents to procure live animals for chilled meat export 
+arrangements. This indicates the existence of alternative arrangements. Hiran Global Service Company had three 
+agents but the company was closed at the time of this survey and none of the agents were available to be interviewed. 
+H-Food had five agents, three of whom were included in the sample.
+Small-scale traders
+Small-scale traders directly procure live animals in the primary (‘bush’) or secondary markets,5 from livestock 
+producers6 or through brokers (see below) and then sell the animals to other traders or directly to exporters. 
+They may or may not use brokers in selling live animals onwards to other traders. Small-scale traders may either act 
+individually or organize themselves into informal groups or companies, apparently to exploit the benefits of social 
+capital and networking. Small-scale traders commonly assemble slaughter stock for collection and transport directly to 
+slaughterhouses, or through brokers and agents of exporters.
+The rapid appraisal identified some 105 small-scale traders, 76 of whom were active at the time of the survey and 
+48 of whom were included in the sample. In order to derive an appropriate sample size that would capture all the 
+organizational arrangements identified within the subsector, purposive sampling was used in which suppliers to all 
+exporters/slaughterhouses were taken into account. The other factor considered in sampling was the location of 
+the markets in which the traders were operating, in the light of survey resources: those markets least conveniently 
+located for visits by survey staff visiting other chain actors were excluded. 
+5. Primary markets are mostly located near to production areas and secondary markets situated in district and regional capitals. Secondary markets are fed by 
+primary markets in most of the cases geographically disposed as a satellite system. These definitions were discussed and confirmed during the PRA.
+6. ‘Farm gate’ sales are rare: most sales take place in markets.
+=== PAGE 23 ===
+12
+The Somali chilled meat value chain
+Brokers
+Brokers are not traders per se but are market participants facilitating exchange between traders or between traders 
+and other market actors. Brokers are not engaged in the physical handling and management of livestock, nor do 
+they assume ownership of animals. They are found in all markets and one trader usually works with two to three 
+brokers (Little 2003). Brokers live in the same area, and belong to the same clan, as the producer–sellers and so have 
+a community-based mandate. Their facilitation role extends to connecting more remotely-located producers to the 
+market system. 
+Brokers provide the main link between producers and small-scale traders, between small-scale traders and agents 
+of exporters or, alternatively, between producers and agents of exporters (see Figure 1). In addition to connecting 
+buyers with sellers and acting as payment guarantors, they provide information on volumes, quality and price of 
+livestock: both the available supplies and the demand expressed by buyers. Brokers handle all major livestock species 
+(sheep, goats, cattle and camels). They maintain records of transactions (names of sellers and buyers, species and 
+quality grades7 of animals, number of animals per transaction, price) and so have access to the history of past livestock 
+transaction activities in their areas of operation.
+Brokers also provide market security, in that they are active in enforcing purchase and sale agreements and property 
+rights, and resolution of conflicts. In Somalia, the absence of functioning public institutions capable of these tasks 
+ensures a role for brokers: along with their market information role, they fill critical public goods gaps. They charge a 
+fee, generally a flat rate per animal (varying by species), which is usually shared equally between buyer and seller. 
+Not all small-scale traders use brokers: brokers’ participation gains significance further up the value chain (e.g. in 
+dealing with exporters). This observation supports the idea that trust-based trading relationships dominate live animal 
+and chilled meat value chains, in that the exporters may not know the sellers/producers that trade with them, and that 
+trading with small-scale traders entails risks to the buyer of non-delivery or supply of inferior animals (Little 2003). 
+Consequently, trust and personal relationships along ethnic and clan lines dominate the livestock marketing system in 
+Somalia. The continued political instability in Somalia contributes to this effect, and trade has become increasingly clan-
+based (Little 2003).
+In sampling the brokers, several markets were purposively selected based on security, accessibility (within Somalia) 
+and importance as a source of slaughter stock. A list of brokers of chilled meat slaughter livestock was then prepared 
+for each market based on expert consultation. The precise number of brokers is not known but there are thought to 
+be about two brokers per small-scale trader.8 Based on this assumption, there are an estimated 210 active brokers in 
+the study areas, of which 18 were randomly selected.
+Airfreight operators
+The chilled meat export trade requires reliable, well-organized and efficient meat transport. Air transport is currently 
+the only available mode for chilled meat. The rapid appraisal revealed that there are four airline companies engaged in 
+the airfreight of chilled meat to markets in the Middle East. These companies are all Somali-owned and have head and 
+branch offices in Somalia and/or the Middle East countries, and overseas offices in Dubai. At the time of the survey 
+only three airfreight operators exported chilled meat from Somalia: all three were selected. 
+7. Loosely, a quality level that is somewhat standard across the study area.
+8. Little (2003) estimates two to three brokers per livestock trader.
+=== PAGE 24 ===
+13
+The Somali chilled meat value chain
+4.2	 Results of formal survey
+Market actors
+Table 3 summarizes the demographic and business profiles of the various market actors involved in the Somali chilled 
+meat export value chain. It is notable that in the final sample none of the sampled exporters, agents of exporters, 
+small-scale traders, brokers and airfreight operators were women. The rapid appraisal, when the sampling frame 
+for the formal survey was drawn together with the different stakeholders, confirmed that traditionally females are 
+observed to engage much more in domestic livestock trade than in export. This effect appears to be pronounced in 
+the chilled meat export trade.
+Table 3. Demographic and business profiles of market actors in the chilled meat export value chain
+Characteristic
+Value-chain actors
+Small-scale 
+traders
+Brokers
+Agents of 
+exporters
+Exporters & slaughterhouse 
+operators
+Average age (%)
+Less than 30 years
+6
+0
+0
+17*
+30 to 45 years
+56
+72
+33
+83
+Over 45 years
+38
+28
+67
+0
+Years of formal education
+3.5 (4.6)
+1.9 (3.1)
+5.3 (4.6)
+10.6 (4.0)
+Type of business ownership (%)
+Sole proprietorship
+52
+–
+33
+17
+Partnership
+0
+–
+67
+67
+Joint venture
+38
+–
+0
+0
+Share company 
+10
+–
+0
+0
+Business start-up (%)
+Self-started
+50
+–
+100
+100
+Purchased 
+31
+–
+0
+0
+Inherited
+2
+–
+0
+0
+Others 
+8
+–
+0
+0
+Language spoken (%)
+Somali
+100
+100
+100
+–
+Arabic 
+8
+33
+33
+–
+English
+6
+6
+0
+–
+Other
+0
+6
+0
+–
+Language read and written (%)
+Somali
+85
+72
+100
+–
+Arabic 
+25
+33
+0
+–
+English
+13
+6
+0
+–
+Previous work experience (%)
+Small-scale trader (Gadley/jeeble)
+42
+17
+100
+–
+Broker (dilaal)
+13
+–
+100
+–
+Gedisley/jeeble
+44
+–
+–
+Livestock producer
+17
+33
+33
+–
+Generic livestock worker
+4
+17
+0
+–
+Other livestock trading role
+6
+6
+0
+–
+Average no. of years of trading experience
+Sheep
+9.5 (4.4)
+14.3 (8.1)
+4.5
+6.6
+Goats
+8.9 (4.5)
+–
+4.1
+6.6
+Cattle
+8.3 (4.1)
+–
+0.0
+5.1
+Camels
+8.3 (2.9)
+–
+0.0
+4.7
+Engaged in other economic activity (% yes)
+27
+39
+67
+50
+This activity finances other activities (% yes)
+13
+–
+67
+–
+Number of observations
+48
+18
+3
+6
+* For exporters, the age referred to were those of the business managers and not exactly those of the business owners; i.e. the owners tend to employ 
+younger and more educated managers to run their capital intensive businesses.
+Source: Survey data
+Standard deviations in parentheses; – denotes data not available
+=== PAGE 25 ===
+14
+The Somali chilled meat value chain
+Most of the 48 small-scale traders surveyed dealt with goats (90%) and sheep (77%) while only a few dealt with cattle 
+(8%) and camels (12%). Analysis of the number of animals handled per annum indicated a high rate of turnover for 
+these traders. For instance, in 2006 a small-scale trader on average handled some 5344 goats, 531 sheep, 161 camels 
+and 40 heads of cattle.
+Assets of value chain actors
+The business, social and human capital of market actors is summarized in Table 4, and differs substantially between 
+actors. The majority of small-scale traders surveyed were not members of any formal livestock trade association while 
+about 60% of the exporters were. The average working capital for small-scale traders and agents of exporters was 
+not available from the survey due to non-responses by most respondents but that of the exporters was about USD 
+170,000. Generally, fewer small-scale traders had physical capital assets as compared to exporters and their agents.
+Table 4. Business assets of market actors
+Business asset
+Small-scale 
+traders
+Agents of 
+exporters
+Exporters & 
+slaughterhouse operators
+Human capital
+Number of permanent employee 
+–
+–
+125.5 (103)
+Number of temporary employee 
+–
+–
+1 (2.4)
+Social capital
+Member of livestock trade associations
+Formal associations (% yes)
+4
+0
+60
+Informal associations (% yes)
+0
+33.3
+0
+Annual membership fee paid (% yes)
+0
+0
+40
+Annual membership fee paid (USD)
+–
+–
+230
+Working capital (USD)*
+–
+–
+171,060 (181,533)
+Physical capital 
+Own transportation assets
+Lorry (% yes)
+0
+33
+0
+Vehicle (% yes)
+2.1
+67
+33
+Refrigerated van (% yes)
+–
+–
+33
+Communication assets
+Phone (% yes)
+2.1
+67
+83
+Fax (% yes)
+0
+0
+17
+Mobile (% yes) 
+85
+100
+83
+E-mail (% yes)
+2.1
+0
+33
+Computer (% yes) 
+0
+0
+67
+Current market value of all assets owned (USD)
+114.3 (512.8)
+5593.3 (7891.5)
+381,975 (268,363)
+Standard deviations in parentheses.
+– Denotes data not available.
+*Cash and inventory on hand. 
+Knowledge of quality requirements and measurement
+It was observed that descriptions of quality attributes in respective grades in a species were very similar across market 
+actors, which is an indication of flow of information on quality. Market actors consistently described the quality of 
+animals according to grades: ‘grade 1’, ‘grade 2’ and ‘grade 3’. To characterize the grades, marketing agents were asked 
+to specify the levels of different quality attributes embodied in animals of different grades. Grades achieved reportedly 
+depend primarily on the age, weight and body condition of the animal. According to the small-scale traders and 
+brokers, grade 1 sheep and goats on average weighed 12–13 kg compared to 8–12 kg for grade 2 and 6–7 kg for grade 
+3 (Table 6).9 The body condition of grade 1 animals was consistently described as ‘excellent’ compared to ‘good’ and 
+‘fair’ for grades 2 and 3 animals respectively. This result was somewhat consistent across all types of market actors 
+9.  Results of a t-test showed that the weights of sheep and goats of various grades as stated by brokers were not significantly different from the weights 
+reported by small-scale traders.
+=== PAGE 26 ===
+15
+The Somali chilled meat value chain
+and for all livestock species. In the descriptions of grades, the most frequently-cited age brackets of slaughter animals 
+in each species showed little variation across grades (Tables 5 and 6). On average, the most frequent age ranged 1–2 
+years for sheep and goats, and 2–3 years for cattle and camels. 
+Table 5. Percentage age distribution for different grades of slaughter animals, by species and value chain actor 
+Sheep
+Goats
+Cattle
+Camel
+Grade 
+1
+Grade 
+2
+Grade 
+3
+Grade 
+1
+Grade 
+2
+Grade
+3
+Grade 
+1
+Grade 
+2
+Grade 
+3
+Grade 
+1
+Grade 
+2
+Grade 
+3
+Small-scale 
+traders
+<1 year
+18
+6
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+1 years to <1.5 years
+23
+18
+19
+38
+28
+28
+0
+0
+0
+0
+0
+0
+1.5 years to <2 years
+45
+57
+63
+50
+61
+61
+0
+0
+0
+0
+0
+0
+2 years to<2.5 years
+14
+18
+19
+4
+6
+6
+67
+67
+67
+80
+80
+80
+2.5 years to 3 years
+0
+0
+0
+0
+6
+6
+33
+33
+33
+20
+20
+20
+Brokers
+<1 year
+17
+8
+13
+7
+0
+0
+–
+–
+–
+0
+0
+0
+1 years to <1.5 years
+25
+50
+13
+47
+36
+13
+–
+–
+–
+0
+0
+0
+1.5 years to <2 years
+42
+25
+50
+13
+18
+37
+–
+–
+–
+0
+0
+0
+2 years to<2.5 years
+17
+17
+25
+33
+45
+50
+–
+–
+–
+0
+0
+0
+2.5 years to 3 years
+0
+0
+0
+0
+0
+0
+–
+–
+–
+100
+100
+100
+Agents of 
+exporters
+<1 year
+0
+–
+–
+0
+–
+–
+–
+–
+–
+–
+–
+–
+1 years to <1.5 years
+100
+–
+–
+33
+–
+–
+–
+–
+–
+–
+–
+–
+1.5 years to <2 years
+0
+–
+–
+67
+–
+–
+–
+–
+–
+–
+–
+–
+Exporters
+<1 year
+40
+25
+0
+50
+0
+0
+0
+0
+0
+0
+0
+0
+1 years to <1.5 years
+20
+25
+33
+17
+33
+33
+0
+0
+0
+0
+0
+0
+1.5 years to <2 years
+20
+25
+33
+33
+67
+67
+0
+0
+0
+0
+0
+0
+2 years to<2.5 years
+20
+25
+33
+0
+0
+0
+50
+50
+50
+0
+0
+0
+2.5 years to 3 years
+0
+0
+0
+0
+0
+0
+50
+50
+50
+100
+100
+100
+Table 6. Average weight and price of different grades of slaughter animals
+Sheep
+Goats
+Cattle
+Camel
+Grade 1 Grade 2 Grade 3 Grade 1 Grade 2 Grade 3 Grade 1 Grade 2 Grade 3 Grade 1 Grade 2 Grade 3
+Small-
+scale 
+traders
+Weight (kg) 12
+9
+7
+12
+8
+7
+97
+86
+63
+114
+99
+88
+Price (USD) 14
+12
+10
+15
+12
+10
+127
+105
+90
+140
+122
+108
+Brokers
+Weight (kg) 12
+12
+7
+13
+10
+6
+98
+98
+73
+Price (USD) 14
+11
+10
+15
+13
+15
+140
+117
+98
+Agents of 
+exporters
+Weight (kg) 17
+15
+Price (USD) 17
+20
+Exporters Weight (kg) 9
+7
+7
+8
+8
+6
+100
+86
+73
+150
+120
+100
+Price (USD) 14
+8
+12
+Only male animals are slaughtered for export. Breed and body conformation were rarely mentioned as important 
+attributes in the grading of slaughter animals for chilled meat export, perhaps an indication that the slaughtered stock 
+were yet to mature. The means of age and weight for first-grade sheep and goats reported by exporters were lower 
+than corresponding figures from the samples of the other value chain actors. The low average age and weight for 
+grade 1 animals given by the exporters are attributed to statistical bias (one exporter dealt in very young sheep and 
+goats—averaging 4 months of age) probably associated with specific contracts.
+A notable result in Table 5 is some inconsistency among value chain actors’ claimed proportions in each grade. It is 
+not clear whether the different proportions represent inconsistency in reporting, the need to fatten and finish animals 
+throughout the value chain, or presence of animals other than those destined for export.
+=== PAGE 27 ===
+16
+The Somali chilled meat value chain
+Figures 2 and 3 show the relationship between grade and price of export slaughter animals. Higher-grade animals 
+generated higher prices. According to the surveyed small-scale traders, a 1st grade camel on average fetched USD 
+140 compared to USD 122 for a 2nd grade and USD 108 for a 3rd grade. The average prices for cattle were USD 
+127, USD 105 and USD 90 for a 1st, 2nd, and 3rd grade, respectively. First grade goats and sheep fetched USD 15 and 
+USD 14, respectively compared to USD 12 for 2nd grades and USD 10 for 3rd grades. A one-way analysis of variance 
+suggests the following: for small-scale traders, there is no strong price–grade relationship for cattle and camels; but 
+the opposite applies to reports by brokers. The two analyses agree on a strong price–grade relationship for sheep and 
+goats. 
+Figure 2. Mean prices of different grades of animals slaughtered for export as reported by small-scale traders
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Camel 
+Cattle
+Goat
+Sheep
+Species
+USD
+Grade1
+Grade2
+Grade3
+.
+Figure 3. Mean prices of different grades of animals slaughtered for export as reported by brokers
+To further gauge the relative importance of the various quality attributes used in the selection of livestock for sale 
+to chilled meat exporters, the various marketing agents were asked to rank them, with the most important one 
+designated 1. The order of ranking of the different attributes was consistent across value chain actors, and in their 
+application across species. The set of attributes that were highly ranked included sex, age, weight and body condition 
+(Table 7). Breed and conformation tend to be of little importance in the grading system, as demonstrated by their low 
+ranking. 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Camel 
+Goat
+Sheep
+Species
+USD
+Grade 1
+Grade 2
+Grade 3
+=== PAGE 28 ===
+17
+The Somali chilled meat value chain
+Table 7. Ranking of different quality attributes considered in the selection of livestock marketed to chilled meat exporters*
+Value chain actor
+ 
+Species
+Small-scale traders
+Broker
+Agents of exporters
+Exporters
+Age 
+Sheep
+3
+3
+2
+2
+Goats
+3
+3
+2
+2
+Cattle
+3
+2
+Camel
+3
+3
+3
+Weight 
+Sheep
+3
+3
+3
+3
+Goats
+3
+3
+3
+3
+Cattle
+3
+4
+Camel
+3
+2
+2
+Breed 
+Sheep
+6
+4
+6
+6
+Goats
+6
+4
+6
+6
+Cattle
+6
+5
+Camel
+6
+5
+6
+Body 
+condition
+Sheep
+3
+2
+1
+3
+Goats
+3
+3
+1
+3
+Cattle
+4
+3
+Camel
+4
+4
+4
+Sex
+Sheep
+1
+1
+1
+1
+Goats
+1
+1
+1
+1
+Cattle
+1
+3
+Camel
+1
+1
+1
+Conformation
+Sheep
+6
+4
+4
+6
+Goats
+6
+4
+5
+6
+Cattle
+6
+6
+Camel
+5
+5
+5
+Awareness of quality and safety requirements in export countries
+Value chain actors were asked to describe the quality and safety/health preferences and/or requirements prevailing in 
+countries10 to which meat from Somalia is exported. The description of the quality and safety preferences in export 
+countries by small-scale traders, brokers and agents of exporters closely matched that of exporters (Table 8). This 
+similarity in the descriptions of quality requirements across different types of marketing agents suggests efficient 
+transmission of this type of information along the value chain. As for exporters, all small-scale traders, brokers and 
+agents of exporters were well aware that in the countries to which meat from Somalia is commonly exported, only 
+chilled carcasses of male animals are exported and that a certification for Halal slaughter is mandatory. Some countries 
+such as Saudi Arabia and also some importing agents (regardless of country) accept import of male carcasses only. 
+Importers may inspect carcasses (requiring, for example, that the testicles are left on the carcass) to confirm that the 
+meat is solely from male animals. In addition, Somalia itself has a long-standing prohibition on export of female animals.
+�����������������������������������������������S���������������O����U���S����������������������������������������G�����������������������������������������
+. Countries that import chilled carcasses from Somalia include Oman, UAE, Saudi Arabia (camel meat only) and other Gulf states. It is notable that during the 
+study period Saudi Arabia maintained a ban on imports of livestock and chilled meat products from Somalia due to Rift Valley Fever. However, camel meat from 
+Somalia was exempted, perhaps because imports from other countries were insufficient to meet local (Saudi) demand.
+=== PAGE 29 ===
+18
+The Somali chilled meat value chain
+Table 8. Quality attributes required*—Perceptions of various value chain actors
+ 
+Destination country 
+Oman
+Saudi Arabia
+United Arab Emirates
+Gulf /Arab countries
+Livestock species 
+Sheep
+Goat
+Cattle
+Camel
+Sheep
+Camel
+Sheep
+Goat
+Cattle
+Camel Sheep Goat
+Camel
+Preference for livestock 
+species (mean rank)
+Small-scale traders 
+2.1 (0.5)
+1.0 (0)
+2.3 (1.2)
+4
+–
+1.0 (0)
+1.9 (0.2) 1.1 (0.2)
+3.0 (1)
+Brokers 
+2 (0)
+1(0)
+–
+–
+–
+1 (–)
+2 (0)
+1 (0)
+–
+2 (–)
+1 (–)
+1 (–)
+Agents of exporters 
+2.0 (–)
+2.0 (–)
+1.3 (0.5) 1.0 (–)
+Exporters 
+2 (0)
+1 (0)
+2 (0)
+1 (0)
+3 (–)
+Age of slaughter
+Small-scale 
+traders  
+mean
+2.0 (0.3)
+2.1 (0.4)
+2.5 (0.9)
+2.8 (0.4)
+2.3 (0.4)
+1.4 (0.4) 1.4 (0.4)
+2.8 (1.0)
+min
+1.2
+1.5
+2.0
+2.5
+2.0
+0.8
+0.8
+2
+max
+2.5
+3
+3.5
+3.0
+3.0
+2.0
+2.5
+4
+Brokers 
+mean
+1.8 (0.3)
+2 (0.5)
+2 (–)
+2 (–)
+1.5 (0.4) 1.5 (0.5)
+2 (–)
+1 (–)
+3 (–)
+min
+1.5
+1.5
+2.0
+2.0
+1.0
+1.0
+2.0
+1.0
+3.0
+max
+2.0
+3.0
+2.0
+2.0
+2.0
+2.0
+2.0
+1.0
+3.0
+Agents of 
+exporters  
+mean
+2 (–)
+2 (–)
+1.2 (0.1) 1 (–)
+min
+2.0
+2.0
+1.0
+1.0
+max
+2.0
+2.0
+1.3
+1.0
+Exporters 
+mean
+1.8 (0.3)
+1.7 (0.8)
+1.3 (0.7) 1.0 (0.4)
+2 (–)
+2 (–)
+min
+1.5
+1.0
+0.3
+0.3
+2.0
+2.0
+max
+2.0
+2.5
+2.0
+1.5
+2.0
+2.0
+Dressing weight (kg) 
+Small-scale 
+traders  
+mean
+12.6 (4.0) 12.6 (4.0) 86.7 (15.3) 110 (14.1)
+88.6 (9.0)
+9.2 (1.5) 8.7 (2.0)
+85 (18.0)
+min
+8.5
+8.5
+70.0
+100.0
+80.0
+7.5
+7.0
+65.0
+max
+25.0
+25.0
+100.0
+120.0
+100.0
+15.0
+16.5
+100.0
+Brokers
+mean
+10.2 (4.1) 11.5 (4.5)
+110 (–)
+9.3 (1.8) 7.9 (0.7)
+10 (–) 9 (–)
+80 (–)
+min
+8.0
+7.0
+110.0
+8.0
+7.0
+10.0
+9.0
+80.0
+max
+17.5
+17.5
+110.0
+13.0
+9.0
+10.0
+9.0
+80.0
+Agents of 
+exporters 
+mean
+15 (–)
+15 (–)
+7.8 (1.2) 9 (–)
+min
+15.0
+15.0
+6.5
+9.0
+max
+15.0
+15.0
+9.0
+9.0
+Exporters
+mean
+9.5 (0.7)
+10.3 (1.5)
+7.6 (2.4) 7.2 (2.2)
+45 (–)
+95 (–)
+min
+9.0
+9.0
+3.8
+3.8
+45.0
+95.0
+max
+10.0
+12.0
+10.0
+10.0
+45.0
+95.0
+Sex of the animal (% 
+male) 
+Small-scale traders 
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+Brokers
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+Agents of exporters 
+100.0
+100.0
+100.0
+100.0
+Exporters
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+Halal slaughter 
+certificate (% yes) 
+Small-scale traders 
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+Brokers 
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+Agents of exporters 
+100.0
+100.0
+100.0
+100.0
+Exporters 
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+=== PAGE 30 ===
+19
+The Somali chilled meat value chain
+Goats were ranked by all value chain actors as the most preferred species in Oman, UAE and other Gulf states. Sheep 
+were commonly ranked second and cattle third. The perceived order of preference of species for meat in different 
+countries is reasonably constant across the different value chain actors, which further indicates effective transmission 
+of information (in this case, about demand) along the value chain. All the various value chain actors reported that the 
+preference for sheep and goats in Oman is inclined towards relatively older (1–3 years) and heavier (7–25 kg dressed 
+weight) animals than that in UAE (on average 0.3–2.5 years old and weighing 4–17 kg dressed weight).11 Owing to 
+small numbers of observations, statistical tests of similarity in actors’ preferred attributes were not always possible. 
+However, for sheep and goat in Oman and UAE, both the preferred age and weight as described by small-scale traders 
+were significantly not different from the values reported by brokers.
+Foreign trade regulations of many countries require meat exporters and/or importers to produce a number of 
+health and administrative certificates before their products are allowed to cross an international frontier.12 All of the 
+surveyed exporters were well informed about the requirement for these documents, whereas just a small minority of 
+the small-scale traders (up to 32%), brokers (just 1 out of the 18 interviewed) and agents of exporters (only 1 of the 3 
+persons interviewed) did so. 
+It is possible that exporters do not pass this information to the other value chain actors, or that the latter do not seek 
+that information from the former since it is of little importance to agents whose operations are restricted to activities 
+within Somalia. The majority of exporters to the UAE indicated that many health and safety requirements have 
+been introduced only in the last four years, and that enforcement has become stricter. There are therefore strong 
+indications that a direct study of importing countries’ preferences and regulatory systems is needed.
+Targeted attributes when buying animals by various marketing agents
+Information was collected about quality preferences throughout the chain during purchase of slaughter animals for 
+chilled meat export. A clear result is that preferred attributes in slaughter animals being purchased closely matched 
+the perceived quality preferences/requirements in the countries to which the chilled meat is exported. Attributes 
+that attracted a lot of interest from the value chain actors include sex of animal, age, weight and body condition. 
+Only male animals were purchased to be slaughtered for export in line with the claim that some importers in the 
+Middle East accept carcasses of male animals only and also the long standing ban on export of female animals in 
+Somalia itself. Likewise, the preferred age and weight of slaughter animals throughout the chain fall closely within the 
+ranges described as the most preferred in the export countries (Table 8). Sheep and goats of age 1–2 years weighing 
+7–10 kg and cattle and camels of age 2–3 years weighing 100–125 kg for cattle and 75–100 kg for camel were the 
+most preferred (Tables 9 and 10). On the basis of body condition, grade 1 and 2 animals were the most frequently 
+preferred across species. The age of an animal, its weight and condition were, most frequently, subjectively assessed 
+by eye. Inspection of teeth to assess age, manual hefting of small ruminants to assess weight, and examination of fill-
+out of specific anatomical parts to assess condition were also reported as common practice. The reported preferred 
+quality attributes were very similar across the different types of market agents. Breed and body conformation were 
+not frequently mentioned as important considerations when purchasing animals slaughtered for meat export. 
+11. The observed wide weight ranges are likely to reflect differentiated markets in those countries, serving home consumption, restaurants, catering etc.
+12. These documents include certificates of origin, official health certificates (issued by a government or private veterinarian, or both), stamps on carcasses, 
+certificates concerned with ingredients and labelling, and municipalities’ certificates for slaughterhouses.
+=== PAGE 31 ===
+20
+The Somali chilled meat value chain
+Table 9. Percentage of marketing agents’ citing preference* for animals of different ages 
+Small-scale traders
+Brokers
+Agents of exporters
+Exporters
+Sheep
+Less than one year
+0
+0
+0
+17
+One year olds
+35
+40
+100
+33
+Over one year to 1.5 years 
+43
+33
+0
+17
+Over 1.5 year to 2 years 
+22
+27
+0
+17
+Over 2 years 
+0
+0
+0
+17
+Goats
+Less than one year
+0
+0
+0
+20
+One year olds
+37
+25
+33
+40
+Over one year to 1.5 years 
+51
+58
+67
+40
+Over 1.5 year to 2 years 
+9
+17
+0
+0
+Over 2 years 
+2
+0
+0
+0
+Cattle
+Less than one year
+0
+NA
+NA
+0
+One to two year olds
+75
+NA
+NA
+50
+Two to three year olds 
+25
+NA
+NA
+50
+Over three years 
+0
+NA
+NA
+0
+Camel
+Less than one year
+0
+0
+NA
+0
+One to two year olds
+86
+100
+NA
+0
+Two to three year olds 
+14
+0
+NA
+100
+Over three years 
+0
+0
+NA
+0
+*Preferred age of animals purchased.
+Table 10. Percentage of marketing agents’ citing preference for animals of different weight
+ 
+Small-scale 
+traders
+Brokers
+Agents of 
+exporters
+Exporters
+Sheep
+Up to 7 kg
+8
+9
+0
+33
+Over 7 to 10 kg
+64
+55
+0
+33
+Over 10 to 13 kg 
+14
+9
+0
+0
+Over 13 to 16 kg
+8
+9
+0
+0
+Over 16 kg
+6
+0
+100
+33
+Goats
+Up to 7 kg
+14
+21
+0
+60
+Over 7 to 10 kg
+64
+43
+0
+20
+Over 10 to 13 kg 
+2
+7
+0
+0
+Over 13 to 16 kg
+14
+14
+67
+0
+Over 16 kg
+5
+14
+33
+20
+Cattle
+Less than 50 kg
+0
+NA
+NA
+50
+50 to 75 kg
+33
+NA
+NA
+0
+Over 75 to 100 kg 
+0
+NA
+NA
+0
+Over 100 to 125 kg 
+67
+NA
+NA
+50
+Over 125 kg
+0
+NA
+NA
+0
+Camel
+Less than 50 kg
+0
+0
+NA
+0
+50 to 75 kg
+0
+0
+NA
+0
+Over 75 to 100 kg 
+100
+100
+NA
+100
+Over 100 kg 
+0
+0
+NA
+0
+Transaction arrangements
+Information generated about procurement arrangements (targeting method and timing of payments) between small-
+scale traders and their suppliers are presented in Table 11. It is apparent that livestock producers were the principal 
+source of slaughter stock to the small-scale traders surveyed. Overwhelmingly, traders paid for stock received on the 
+spot, in cash per head of live animals. Another notable result is the prevalence of brokers in transactions.
+=== PAGE 32 ===
+21
+The Somali chilled meat value chain
+Table 11. Transaction arrangements for chilled meat export between small-scale traders and their livestock suppliers
+Contractual arrangements
+Value chain actor from whom the small-scale 
+traders purchase
+Livestock producers
+Other small-scale traders
+Source of livestock (% yes)
+100
+71
+Relative importance based on quantity of 
+animals obtained in 2006 (average rank)
+1.2 (0.4)
+1.9 (0.5)
+Basis of payment (% yes) 
+Per head of live animal
+100
+100
+Per head of live animal weight
+0
+0
+Per carcass
+0
+0
+Per carcass weight
+0
+0
+Others
+0
+0
+Timing of the payment (% yes)
+Cash on spot
+98
+94
+When exporter accepts animals
+0
+0
+After carcass exported
+4
+8
+Other
+4
+3
+Relationship with suppliers (%)
+Regular 
+8
+32
+Not regular 
+92
+68
+Price determination (%)
+Bargaining through a broker
+100
+100
+Set beforehand
+0
+0
+Others
+0
+0
+Standard deviation in parentheses.
+For stock sales (Table 12), most (79%) small-scale traders sold their slaughter stock to exporters, with the remainder 
+selling to agents of exporters on a contract basis. Most exporters paid on the basis of carcass weight. Payment to 
+small-scale traders by exporters based on carcass weight not only served to reduce the risk to the exporter for 
+quantity of goods delivered but also explains why the weight of an animal was regarded importantly by the small-scale 
+traders when making their purchases of animals. If, when negotiating the purchase price, a trader overestimated the 
+weight of an animal by a big margin, the risk for making a loss when the animal was finally sold to the exporter became 
+high. On the other hand, all small-scale traders who sold animals to agents of exporters were paid on per head basis 
+(recall that even for agents of exporters, weight of an animal was an important attribute when purchasing animals). 
+This dichotomy in sales procedure requires further study as it (i) may identify the role in the value chain for fattening 
+and finishing operations and (ii) may reflect the inability of sellers to guess at weights, and hence require buyers to 
+use per heard pricing. Alternatively, and with further development implications, sales behaviour may revolve around 
+numbers rather than market value: specifically in response to droughts or cash needs at any given time. 
+In contrast to the irregular business relationship that small-scale traders had with their slaughter stock suppliers, all 
+traders reported having regular business relationships with the buyers of their slaughter stock, of duration averaging 
+over 8 years in the case of exporters, and 3.5 years for agents of exporters. 
+Seasonality of livestock sales by small-scale traders
+Examination of weekly purchases of slaughter stock (Table 13) reveals no clear seasonal patterns. A different pattern 
+might be observed for live animal export, in line with religious festivals (note that Ramadan features the highest 
+volumes in all cases).
+=== PAGE 33 ===
+22
+The Somali chilled meat value chain
+Table 12. Transaction arrangements between small-scale traders and buyers of slaughter stock 
+Contractual arrangements
+Exporters
+Agents of exporters
+Buyers (% yes)
+79
+21
+Basis of payment (%)
+Per head of live animal
+11
+100
+Per carcass 
+3
+0
+Per carcass weight 
+87
+0
+Others
+0
+0
+Timing of the payment (%)
+Cash on spot
+34
+100
+After animals are accepted by exporter 
+5
+10
+After carcasses are sold 
+21
+30
+Others
+44
+50
+Dominant type of business relationship (%) 
+Regular
+100
+100
+Length of business relationship (years)
+8.2 (3.3)
+3.5 (0.4)
+Livestock species supplied (% of supplying respondents)
+Sheep 
+82
+70
+Goats
+89
+90
+Camels
+18
+0
+Cattle
+5
+0
+Buying price determination (%)
+Bargaining through a broker
+8
+100
+Determined by seller beforehand
+89
+0
+Standard deviation in parentheses.
+Table 13. The effect of seasons and religious festivals on the sale of livestock by small-scale traders
+Season/festival
+Weekly average number of slaughter stock (heads)
+Sheep
+Goats
+Camels
+Cattle
+Long dry season (Jiilaal): Jan–March
+32.5 (23.8)
+355.6 (213.5)
+33.4 (20.9)
+35.0 (21.2)
+Long rainy season (Gu): April–June
+38.3 (64.5)
+320.0 (200.5)
+29.0 (19.9)
+32.5 (24.7)
+Short dry season (Xagaa): July–August
+30.9 (23.4)
+341.3 (210.8)
+31 (22.6)
+35.0 (21.2)
+Short rainy season (Deyr): Sept–Dec
+38.0 (64.4)
+321.9 (196.4)
+30.4 (21.9)
+32.5 (24.7)
+Ramadan (Id al Fitr)
+50.3 (82.5)
+398.8 (250.2)
+37.0 (27.6)
+38.5 (30.4)
+Haji (Id al Ada)
+0
+18.8 (89.6)
+1.4 (3.8)
+0
+Maulid
+0
+0
+0
+0
+Standard deviation in parentheses.
+Access to market information on chilled meat export 
+Analysis of actors’ reported access to market information for chilled meat export13 is presented in Table 14). Access 
+to market information is seen to vary along the chain, and by type of information. All market actors claimed to 
+have access to information on prices, suppliers and availability of livestock, and over 80% of all market actors had 
+information on buyers, demand and availability and suitability of each species. Access to information on health and 
+safety requirements in export countries varied widely, with exporters claiming greater access to this information than 
+did small-scale traders and agents of exporters. Likewise, only exporters claimed to be very well aware of the prices 
+of chilled meat carcasses in the export countries, compared to just 33% of the agents of exporters, 13% of small-scale 
+traders and none of the brokers surveyed. This suggests poor/slow transmission of improved prices of carcasses in 
+export countries to value chain actors in Somalia. 
+13. Negassa et al. (2008) discuss the sources of market information for live animal export trade in Somalia.
+=== PAGE 34 ===
+23
+The Somali chilled meat value chain
+Table 14. Proportion of market actors involved in chilled meat export with access to market information
+Type of market information
+Access to information (% yes)
+Small-scale traders Brokers
+Agents of exporters Exporters
+Market price of livestock for slaughter for export
+100
+100
+100
+100
+Suppliers of livestock for slaughter for export
+100
+100
+100
+100
+Availability of livestock species for slaughter for export 100
+100
+100
+100
+Availability of suitable grades for slaughter for export
+100
+94
+100
+100
+Demand situation in export markets
+83
+82
+100
+100
+Health and safety requirements in export countries 
+33
+6
+33
+100
+Quality requirements in import countries 
+83
+76
+100
+100
+Prices of carcasses in import markets
+13
+0
+33
+100
+Marketing costs and returns
+Small-scale traders
+Table 15 presents the marketing costs, revenues and gross profits for the most recent batch of animals sold by small-
+scale traders to be slaughtered for export. As seen in the market actors subsection above, the greatest number of 
+small-scale traders dealt in sheep and goats, with rather fewer handling cattle and camels. For all species, the major 
+component of the variable costs was animal purchase cost, which accounted for more than 85% of the total variable 
+costs of the live animal transactions. The chief source of animals for the small-scale traders surveyed was producers. 
+It is important to note that the prices paid by small-scale traders to their suppliers include the part of marketing costs 
+borne by the suppliers. While data on marketing costs for producers was not collected during this study, in Kenya and 
+Ethiopia this has been estimated to be up to 25% and 10% of the prices received by the producers for small ruminants 
+and large stock, respectively (Barrett et al. 2006). 
+The other significant component of variable costs for small-scale traders was the transaction costs.14 These collectively 
+accounted for 8%, 4%, 7% and 3% of the variable costs of selling goats, sheep, camels and cattle (respectively). The 
+average variable costs incurred by individual traders were observed to vary widely, indicating a range of competitive 
+positions in the market. 
+On average, profit margins for the small-scale traders were low (USD 1/animal for sheep and goats, USD 4/head of 
+cattle, and USD 17/camel) suggesting competitive pressures at this stage of the value chain. The small margins for 
+the small-scale traders also appear commensurate with the main role that they perform, that is: buying and selling 
+of animals with little if any other type of value addition. The profit margins however varied widely,15 with minima 
+negative for both sheep and goats. Given the large volumes of slaughter animals sold by a small-scale trader each year 
+(on average over 5700 sheep and goats, 160 camels and about 40 heads of cattle), total returns to these traders was 
+projected to be high (on average USD 8770/trader in 2005 and USD 8675 in 2006). 
+A feature of Table 15’s results is that they vary significantly with lot size. Although no statistical test of association was 
+possible with the limited numbers of observations, this result has some intuitive support and is deserving of further 
+investigation. 
+14.  As estimated by respondents.
+15.  A plausible explanation of the observed high standard deviations in the survey data is the variation in the age and size of animals marketed. An interesting 
+extension to this work would be a comparison of gross margins calculated per tonne of meat exported, with that calculated per head of live animals, and per 
+tonne of live animals.
+=== PAGE 35 ===
+24
+The Somali chilled meat value chain
+Table 15. Marketing costs, revenues and gross profits for small-scale traders for the most recently completed live animal transactions for chilled meat export (December 2007 to January 
+2008)
+Goats
+Sheep
+Camels
+Cattle
+Mean
+Min
+Max
+Mean
+Min
+Max
+Mean
+Min
+Max
+Mean
+Min
+Max
+Lot size (number)
+211 (214)
+15
+905
+63 (153)
+2
+678
+23 (9)
+12
+32
+32 (12)
+22
+45
+Gross revenue/lot (USD)
+2986 (3140)
+315
+14380
+887 (2252)
+34
+10206
+3210 (1218)
+1218
+4234
+4461 (2245)
+2543
+6930
+Variable costs/lot (USD)
+Animal Purchases 
+2456 (2771)
+300
+13,750 
+763 (1937)
+33
+8775
+2490 (918)
+1154
+3209
+4061 (2128)
+2333
+6438
+Loading costs
+7 (11)
+0
+46
+2 (7)
+0
+30
+0 (0)
+0
+0
+0 (0)
+0
+0
+Offloading costs
+6 (9)
+0
+41
+1 (3)
+0
+13
+0 (0)
+0
+0
+0 (0)
+0
+0
+Seller search costs
+11 (12)
+0
+48
+3 (6)
+0
+30
+10 (7)
+3
+25
+8 (4)
+3
+10
+Broker fees 
+61 (83)
+0
+354
+18 (36)
+0
+152
+96 (44)
+45
+150
+81 (28)
+50
+102
+Market levies paid 
+102 (172)
+0
+905
+21 (59)
+0
+270
+115 (70)
+45
+231
+74 (52)
+30
+132
+Water and feed costs 
+17 (24)
+0
+136
+4 (8)
+0
+30
+38 (16)
+15
+68
+39 (25)
+20
+68
+Value of slaughter stock rejected
+19 (66)
+0
+413
+4 (15)
+0
+60
+0
+0
+0
+0
+0
+0
+Trekking/trucking/caretaker costs
+103 (164)
+0
+654
+9 (24)
+0
+107
+77 (85)
+16
+217
+59 (36)
+20
+91
+Total variable costs/lot (USD)
+2781 (3050)
+310
+14515
+823 (2020)
+33
+9097
+2826 (1055)
+1304
+3840
+4323 (2165)
+2463
+6699
+Gross profit/lot (USD)
+205 (315)
+-135
+1243
+64 (241)
+–28
+1109
+384 (225)
+119
+701
+138 (81)
+80
+231
+Total variable costs/head (USD)
+14 (3)
+7
+21
+13 (3)
+10
+19
+12.3 (18)
+109
+161
+130 (19)
+112
+149
+Gross profit/head (USD)
+1 (1)
+–1
+4
+1 (1)
+–1
+2
+0.17 (9)
+6
+35
+4 (1)
+4
+5
+Gross profit margin/lot per head (%)
+7 (7)
+–7
+23
+4 (7)
+–6
+16
+12
+5
+18
+3 (1)
+3
+3
+Number of observations
+41
+21
+7
+3
+Source: Survey data
+Standard deviation in parentheses
+=== PAGE 36 ===
+25
+The Somali chilled meat value chain
+Chilled meat exporters
+Tables 16–18 present a schedule of costs, revenues and margins (for the most recent completed transaction carried 
+out by the surveyed chilled meat exporters). Export destinations for chilled meat carcasses by the surveyed export 
+traders in Somalia included Oman and United Arab Emirates (UAE). Many (5) of the six exporters interviewed traded 
+in chilled sheep and goat meat, compared to just two each for camel meat and beef. One company exported all types 
+of chilled meat while the common pattern was for a company to export just one or two types of chilled meat. 
+Table 16. Marketing costs, revenues and gross profits/tonne from chilled goat meat export for recently completed transactions 
+(December 2007 to January 2008)
+  
+Exporter
+Average
+A*
+B
+C
+D
+E
+Export destination
+UAE
+UAE
+UAE, Oman
+UAE, Oman
+UAE, Oman
+Lot size (number)
+159.0
+2287.0
+1555.0
+1130.0
+1800.0
+1386.2
+Carcass weight produced (tonne)
+1.2
+18.0
+13.2
+8.5
+11.7
+10.5
+Revenue (USD)
+Revenue from sale of carcasses
+3442.5
+3420.6
+3548.1
+3215.1
+3500.0
+3437.5
+Revenue from sale of hides and skins
+145.0
+158.7
+88.6
+168.8
+169.2
+144.8
+Revenue from sale of offal
+51.7
+49.6
+40.0
+84.5
+29.9
+48.5
+Total revenue (USD)
+3639.2
+3628.8
+3676.7
+3468.4
+3699.1
+3622.4
+Variable costs (USD)
+Costs of procuring slaughter stock
+Purchase of slaughter stock
+1897.5
+1819.4
+1687.0
+1903.8
+2203.1
+1886.9
+Slaughter stock loading and unloading 
+45.00
+0.0
+0.0
+0.0
+0.0
+1.027
+Search costs
+0.0
+8.222
+2.348
+5.529
+0.0
+4.297
+Broker fees
+0.0
+0.0
+0.0
+0.1176
+0.0
+0.01901
+Market levies
+12.50
+0.0
+0.0
+0.1176
+0.0
+0.3042
+Feed and water costs
+14.17
+13.61
+53.03
+11.76
+0.0
+20.19
+Movement permits
+0.0
+0.0
+0.0
+23.53
+0.0
+3.802
+Subtotal
+1969.2
+1841.3
+1742.3
+1944.8
+2203.1
+1940.1
+Costs of meat processing and packaging 
+Value of rejected animals/carcasses
+0.0
+1.6
+3.3
+9.4
+0.0
+2.9
+Slaughter and flaying fees
+46.7
+0.0
+0.0
+0.0
+0.0
+1.1
+Certification costs
+8.3
+5.6
+7.6
+0.0
+4.7
+5.0
+Packaging costs
+50.0
+31.7
+44.3
+46.8
+62.8
+44.7
+Costs of exporting chilled meat
+Transport cost to the airport
+25.8
+20.9
+23.2
+24.7
+0.0
+17.5
+Airfreight fee
+1120.8
+1137.4
+996.2
+1191.1
+1,000.0
+1079.7
+Export levies
+49.2
+38.4
+43.9
+51.4
+76.9
+50.7
+Other official costs before exports
+0.0
+0.0
+0.0
+0.0
+15.4
+3.4
+Other unofficial costs before exports
+7.5
+8.2
+7.0
+6.1
+0.0
+5.7
+Import taxes
+25.8
+27.7
+23.2
+0.0
+10.7
+18.3
+Commission to importing country agent
+0.0
+29.2
+0.0
+0.0
+0.0
+10.0
+Other costs in importing countries
+104.2
+0.0
+92.7
+0.0
+0.0
+25.6
+Commission paid to agent 
+0.0
+0.0
+0.0
+33.3
+0.0
+5.4
+Subtotal
+1333.3
+1261.8
+1186.1
+1306.6
+1,103.0
+1216.4
+Total variable costs/lot (USD)
+3407.5
+3142.0
+2983.6
+3307.6
+3,373.6
+3221.1
+Gross profit/tonne (USD)
+231.7
+486.8
+693.1
+160.7
+325.6
+401.4
+Gross profit margin (%)
+6.4
+13.4
+18.9
+4.6
+8.8
+11.1
+Source: Survey data
+*Company A outsourced slaughter services and procured slaughter stock through agents of exporters while other companies used common slaughterhouses 
+on cost-sharing basis and procured slaughter stock directly from small-scale traders. The names of the companies are undisclosed for confidentiality.
+=== PAGE 37 ===
+26
+The Somali chilled meat value chain
+Table 17. Marketing costs, revenues and gross profits/tonne from chilled sheep meat exports for recently completed transac­
+tions (December 2007 to January 2008)
+ 
+Exporter
+Average
+A*
+B
+C
+D
+Export destination
+UAE
+UAE
+UAE, Oman
+UAE, Oman
+Lot size (number)
+10.0
+23.0
+50.0
+70.0
+38.3
+Carcass weight produced (tonne)
+0.1
+0.2
+0.5
+0.5
+0.3
+Revenue (USD)
+Revenue from sale of carcasses
+2880.0
+3560.0
+3200.0
+3456.0
+3329.2
+Revenue from sale of hides and skins
+10.0
+145.0
+82.0
+168.0
+119.2
+Revenue from sale of offal
+30.0
+25.0
+34.0
+84.0
+51.5
+Total revenue (USD)
+2920.0
+3730.0
+3316.0
+3708.0
+3500.0
+Variable costs (USD)
+Costs of procuring slaughter stock
+Purchase of slaughter stock
+1440.0
+1650.0
+1436.0
+2010.0
+1690.0
+Slaughter stock loading and unloading
+40.0
+0.0
+0.0
+0.0
+3.1
+Search costs
+0.0
+10.0
+2.0
+60.0
+25.4
+Broker fees
+0.0
+0.0
+0.0
+0.0
+0.0
+Market levies
+0.0
+0.0
+0.0
+0.0
+0.0
+Feed and water costs
+50.0
+25.0
+20.0
+0.0
+15.4
+Movement permits
+30.0
+0.0
+0.0
+0.0
+2.3
+Subtotal
+1560.0
+1685.0
+1458.0
+2070.0
+1736.2
+Costs of meat processing and packaging
+Value of rejected animals/carcasses
+0.0
+0.0
+0.0
+0.0
+0.0
+Slaughter and flaying fees
+40.0
+0.0
+0.0
+0.0
+3.1
+Certification costs
+20.0
+5.0
+24.0
+24.0
+20.8
+Packaging costs
+30.0
+30.0
+30.0
+38.0
+33.1
+Subtotal
+90.0
+35.0
+54.0
+62.0
+56.9
+Costs of exporting chilled meat
+Transport cost to the airport
+20.0
+20.0
+22.0
+22.0
+21.5
+Airfreight fee
+900.0
+1140.0
+900.0
+976.0
+966.2
+Export levies
+40.0
+40.0
+40.0
+242.0
+117.7
+Other official costs before exports
+0.0
+0.0
+0.0
+0.0
+0.0
+Other unofficial costs before exports
+10.0
+10.0
+6.0
+8.0
+7.7
+Commission to importing country agent
+0.0
+30.0
+0.0
+0.0
+4.6
+Other costs in importing countries
+80.0
+0.0
+84.0
+58.0
+60.8
+Commission paid to agent 
+0.0
+0.0
+0.0
+36.0
+13.8
+Subtotal
+1070.0
+1270.0
+1074.0
+1366.0
+1216.2
+Total variable costs/lot (USD)
+2720.0
+2990.0
+2586.0
+3498.0
+3009.2
+Gross profit/tonne (USD)
+200.0
+740.0
+730.0
+210.0
+490.8
+Gross profit margin (%)
+6.8
+19.8
+22.0
+5.7
+14.0
+Source: Survey data.
+* Company A outsourced slaughter services and procured slaughter stock through agents of exporters while other companies used common slaughterhouses 
+on cost-sharing basis and procured slaughter stock directly from small-scale traders. The names of the companies are undisclosed for confidentiality.
+=== PAGE 38 ===
+27
+The Somali chilled meat value chain
+Table 18. Marketing costs, revenues and gross profits/tonne from chilled beef and camel meat export for recently completed 
+transactions (December 2007 to January 2008)
+Export destination
+Camel meat
+Beef
+F
+C
+Average
+C
+Saudi Arabia
+UAE, Oman
+UAE, Oman
+Lot size (number)
+78.0
+4.0
+41.0
+30.0
+Carcass weight produced (tonne)
+7.0
+0.4
+3.7
+3.2
+Revenue (USD)
+Revenue from sale of carcasses
+3600.0
+3737.5
+3607.4
+3266.9
+Revenue from sale of hides and skins
+11.1
+10.0
+11.1
+46.9
+Revenue from sale of offal
+10.0
+10.0
+10.0
+8.4
+Total revenue (USD)
+3621.1
+3757.5
+3628.5
+3322.2
+Variable costs (USD)
+Costs of procuring slaughter stock
+Purchase of slaughter stock
+1555.6
+1395.0
+1546.9
+1308.8
+Slaughter stock loading and unloading
+0.0
+0.0
+0.0
+0.0
+Search costs
+0.0
+2.5
+0.1
+0.3
+Broker fees
+0.0
+0.0
+0.0
+0.0
+Market levies
+0.0
+0.0
+0.0
+0.0
+Feed and water costs
+0.0
+50.0
+2.7
+78.1
+Movement permits
+0.0
+0.0
+0.0
+0.0
+Subtotal
+1555.6
+1447.5
+1549.7
+1387.2
+Costs of meat processing and packaging 
+Value of rejected animals/carcasses
+0.0
+0.0
+0.0
+0.0
+Slaughter and flaying fees
+0.0
+0.0
+0.0
+0.0
+Certification costs
+1.4
+5.0
+1.6
+15.6
+Packaging costs
+55.7
+100.0
+58.1
+93.8
+Subtotal
+57.1
+105.0
+59.7
+109.4
+Costs of exporting chilled meat
+Transport cost to the airport
+171.4
+25.0
+163.5
+3.1
+Airfreight fee
+1053.0
+1050.0
+1052.8
+1000.0
+Export levies
+63.7
+45.0
+62.7
+5.6
+Other official costs before exports
+0.0
+0.0
+0.0
+0.0
+Other unofficial costs before exports
+0.0
+7.5
+0.4
+0.9
+Import taxes
+0.0
+25.0
+1.4
+3.1
+Commission to importing country agent
+102.9
+0.0
+97.3
+0.0
+Other costs in importing countries
+0.0
+97.5
+5.3
+12.2
+Commission paid to agent 
+0.0
+0.0
+0.0
+0.0
+Subtotal
+1391.0
+1250.0
+1383.4
+1025.0
+Total variable costs/lot (USD)
+3003.7
+2802.5
+2992.8
+2521.6
+Gross profit/tonne (USD)
+617.4
+955.0
+635.7
+800.6
+Gross profit margin (%)
+17.1
+25.4
+17.5
+24.1
+Source: Survey data
+*Company A outsourced slaughter services and procured slaughter stock through agents of exporters while other companies used common slaughterhouses 
+on cost-sharing basis and procured slaughter stock directly from small-scale traders. The names of the companies are undisclosed for confidentiality.
+Based on the total number of carcasses exported during the last four years, 5 of the 6 exporters were large, and 
+one was small. Two organizational forms of chilled meat export businesses appear, based on the ownership of 
+slaughterhouses: those that did not own slaughter facilities but outsourced slaughter services for a fee, and those that 
+owned slaughterhouses. Two main comments arise from the results:
+Exporters with slaughterhouses were only using a tiny fraction of their potential capacity, and possibly slaughter 
+• 
+for domestic market as well;
+There is substantial variation in quantities exported both across exporters and in different years, and the reasons 
+• 
+for these differences are not immediately clear.
+=== PAGE 39 ===
+28
+The Somali chilled meat value chain
+Meat carcasses represented 95% of the total revenue earned while hides, skins and offal accounted for 5%. Hides, 
+skins and offal were usually sold locally. Hides and skins are usually dried and later exported to the Middle East. Prices 
+received for meat ranged between USD 3267 for beef to USD 3607/t for camel meat. These prices compare well with 
+APEDA Agri-Exchange data16 which indicates that in 2007 imports of sheep and goat meat to Oman from Somalia 
+totalled 1532.8 t valued at USD 5,669,527 which implies an average price of USD 3718.4/t. However, the nature and 
+pattern of evident price variation across exporters requires further investigation.
+Three major variable cost items appear for chilled meat exporters, based on major stages in chilled meat production 
+and marketing: costs of procuring slaughter stock, meat processing and packaging costs, and export costs. Costs 
+associated with procurement of slaughter stock and associated transactions costs17 represented 60%, 58%, 52% and 
+55% of variable costs of chilled meat export for goats, sheep, camels and cattle (respectively). For all exporters, the 
+major component of the cost of procuring slaughter stock was purchase. 
+Costs of chilled meat processing and packaging included the value of rejected animals and/or carcasses, slaughter and 
+skinning fees, certification fees and packaging fees. These costs accounted for less than 5% of the total variable costs in 
+all cases. Costs of transporting chilled meat to the airport, air freight, export levies, official and informal costs, import 
+taxes and commission agents’ fees together accounted for 38%, 40%, 46% and 41% of the variable costs of chilled 
+meat export of goats, sheep, camels and cattle (respectively). The cost of airfreight was the major component of this 
+category of variable costs.
+Observed gross profits and gross profit margins per tonne for export of chilled camel meat and beef were much 
+higher than for export of chilled goat and sheep meat (Tables 18–20).
+4.3 Determinants of gross margins
+To determine the factors influencing the levels of gross margins realized by animal traders in the meat export value 
+chain in Somalia, OLS regression was used. Only gross margins from the last lot of shoats sold by small-scale traders 
+were subjected to the OLS regression analysis owing to insufficient number of observations for other types of 
+livestock, and other value chain actors. The gross margins/kg live weight of shoats sold were regressed against a set of 
+explanatory variables including buyer type, number of sheep and goats sold, lot species composition (% goats), form of 
+business ownership, age, years of experience and level of education of livestock trader.
+Table 19 presents the results of the OLS regression. The model accounted for 33% of the variability of the gross 
+margins among the surveyed small-scale traders and was significant at 5% level. The number of animals sold had a 
+positive significant effect on the level of gross margins suggesting economies of scale in the activity of marketing of 
+shoats slaughtered for export by the small-scale traders. Gross margins/kg also tended to be higher if the proportion 
+of goats in the lot was high. In addition, small-scale traders who sold animals directly to importers realized higher 
+returns (as opposed to selling to other market agents) suggesting that the small-scale traders benefited from reduced 
+marketing costs if the number of intermediaries between them and exporters is minimal.
+16.  http://agriexchange.apeda.gov.in/IntTrade/ImpCtryDetails.aspx?gcode=0402&ctryc=OMN&ctryn=Oman. 
+17.  Loading and unloading costs, search costs, broker fees, market levies, feed and water costs and movement permits.
+=== PAGE 40 ===
+29
+The Somali chilled meat value chain
+Table 19. Regression results on determinants of gross margin/kg live weight 
+Coefficient
+Std. error t
+P>t
+Constant
+–2.33***
+0.78
+–2.98
+0.01
+Percentage of goats in the herd
+1.91***
+0.64
+3.00
+0.01
+Number of animals
+0.00***
+0.00
+3.15
+0.01
+Selling directly to a meat exporter (1=Yes)
+0.25*
+0.14
+1.81
+0.08
+Level of education of trader
+0.00
+0.01
+–0.35
+0.73
+Age of trader 
+0.12
+0.10
+1.19
+0.25
+Experience
+0.00
+0.01
+–0.11
+0.91
+Form of business ownership ( sole proprietor)
+0.23
+0.15
+1.53
+0.14
+Form of business ownership (share company)
+0.25
+0.19
+1.30
+0.21
+Number of Observations
+31
+F(8,22)
+2.82
+Probability > F=0.03
+R2
+51%
+Adjusted R2
+33%
+Root MSE
+0.28141
+*, **, and *** indicate statistical significance at 1, 5 and 10 per cent levels, respectively.
+4.4	 Challenges faced by Somali chilled meat export value 
+chain actors
+An analysis of uncertainties faced by the value chain actors’ was carried out during the rapid appraisal. In addition, 
+during the formal survey, information was sought on the major constraints faced by the various types of marketing 
+agents and also brokers.
+Uncertainty in the chilled meat export value chain
+The rapid appraisal identified seasonal changes in supply of slaughter animals as a widely-recognized source of 
+uncertainty in the chilled meat export value chain. Reduced numbers of slaughter animals (as in the dry season) raises 
+unit costs due to high cost of animals themselves and also reduced slaughterhouse capacity utilization. In response, 
+some exporters reported mitigating strategies, one of which is to buy livestock during the wet season and feed them 
+through to slaughter in the dry season. Other exporters purchased animals from more distant areas, and still others 
+diversified into different types of chilled meat (sheep, goats, camels and cattle) or different business activities (such 
+as trading in non-livestock products) to keep the company running during periods of low volumes of chilled meat for 
+export. 
+Demand changes in importing countries were also discussed with value chain agents. Seasonal demand patterns 
+are usually attributed to the important Muslim festivals of Ramadan, Haji and Maulid, and to the reduced demand 
+associated with the hot months of April–September. Other uncertainties faced by actors in the chilled meat export 
+value chain include fluctuations in items of cost (freight and delivery), lack of security along the roads, vehicle 
+breakdowns, and illegal actions by authorities (arbitrary impounding of trucks, or levying of informal fees and taxes).
+From the profitability analysis, it appears that exporters placed particular emphasis on maintaining good relations 
+with their importer client, to the point of incurring periodic or occasional trading losses in order to maintain supplies 
+throughout the year, entailing the need to serve fluctuating demand. However, there appears to be a risk to all value 
+chain actors associated with opportunism on the part of importers was also noted, and is evidence of market power 
+amongst importers.
+=== PAGE 41 ===
+30
+The Somali chilled meat value chain
+4.5.	 Perceived constraints in the chilled meat export value 
+chain
+The two most important constraints perceived by chilled meat export value chain actors (Table 20) were high 
+domestic livestock prices and low demand in the importing countries. This observation is consistent with the results 
+on costs and returns for small-scale traders and chilled meat exporters. Moreover, the two identified constraints are 
+linked: high prices depress demand in the importing countries. Brokers reported that their most important constraints 
+were low demand in importing countries and poor quality animals, which is also likely to be a statement of cause-and-
+effect, as there is likely to be low demand for poor quality meat. It is not clear to what extent seasonal effects of both 
+supply and demand were considered by the value chain actors in responding to these questions. Significant numbers 
+of small-scale traders and brokers cited ‘other’ constraints on exports, further reflecting the variation amongst these 
+agents that was found to exist in regard to cost structure and transaction practice.18
+Table 20. Percentage of small-scale traders and brokers reporting the most important constraints to the export of live animals 
+and chilled meat
+Constraint
+Small-scale traders
+Brokers
+Most
+important
+2nd most 
+important
+3rd most 
+important
+Most 
+important
+2nd most 
+important
+3rd most 
+important
+High local prices
+38
+14.6
+10.4
+0
+0
+0
+Low demand in importing countries
+21
+18.8
+8.3
+22
+22
+0
+High taxes
+13
+6.3
+10.4
+0
+6
+6
+Poor quality animals
+6
+4.2
+8.3
+17
+6
+0
+Limited access to credit
+4
+6.3
+12.5
+0
+0
+0
+Unstable prices
+2
+25.0
+2.1
+11
+11
+0
+Markets lack infrastructure/facilities
+2
+4.2
+2.1
+0
+6
+11
+Delayed or non-payment
+0
+2.1
+0
+6
+0
+6
+No internationally recognized certification system
+0
+0
+4.2
+0
+0
+0
+Absence of grades and standards
+0
+0
+0
+0
+6
+0
+No system of dispute settlement
+0
+0
+0
+0
+6
+0
+Others
+13
+13
+21
+11
+16
+28
+Further up the value chain, responses adopted a more sophisticated tone. All agents of exporters indicated 
+low demand in importing countries as the most important constraint whereas high local prices and location 
+of slaughterhouses in very far off places were reported as constraints of secondary importance by a total 
+of about 65% of actors (Table 21). Two exporters indicated the lack of an internationally-recognized system of 
+certification as the primary constraint while the rest considered the main constraints to be low demand in importing 
+countries, high local prices, unstable prices and high taxes. 
+Table 21. Percentage of exporters and their agents reporting the most important constraints to the export of live animals and 
+chilled meat
+Constraint
+Agents of exporters
+Exporters
+Most
+important
+2nd most
+important
+3rd most
+important
+Most
+important
+2nd most
+important
+3rd most
+important
+Low demand in importing countries
+100
+0
+0
+17
+17
+0
+High local prices
+0
+33
+0
+17
+17
+17
+Slaughterhouse far away
+0
+33
+0
+0
+0
+0
+Markets lack infrastructure/facilities
+0
+0
+33
+0
+0
+17
+Unexpected export barns
+0
+0
+33
+0
+0
+0
+Unstable prices
+0
+0
+0
+17
+0
+17
+High taxes
+0
+0
+0
+17
+0
+0
+No internationally recognized certification system
+0
+0
+0
+33
+0
+0
+Limited access to credit
+0
+0
+0
+0
+17
+0
+Delayed or non-payment
+0
+0
+0
+0
+17
+0
+Lack of strong government to support trade
+0
+0
+0
+0
+17
+0
+Poor quality animals
+0
+0
+0
+0
+17
+18. See Table 13.
+=== PAGE 42 ===
+31
+The Somali chilled meat value chain
+4.6	 Market trends and agents’ future plans
+Agents’ perceptions of annual (year on year) changes in market volumes of animals are presented in Figure 4. The 
+explanations given for increases and declines encountered are presented in Tables 22 and 23, respectively. The 
+proportion of small-scale traders and agents of exporters reporting increased volumes of animals handled were 
+highest in 2005 and 2006. These years correspond to exporters’ reports (1 in 2005 and 2 in 2007) of increased 
+volumes of animals handled (Figure 4). During the same period, just a handful of the small-scale traders (4%) and 
+none of the agents of exporters reported a decline in the number of animals handled: a large number of exporters 
+(3–5) reported no change for that period. A decline in the number of animals handled was reported by exporters 
+in 2007, and this trend was also reported by most small-scale traders and all of the agents of exporters. This period 
+corresponds to import bans on Somali chilled meat (December 2006–December 2007).
+Table 22. Reasons for increases in volumes of animals handled
+ 
+Small-scale 
+traders (N=35)
+Brokers 
+(N=5)
+Agents of 
+exporters (N=3)
+Exporters 
+(N=2)
+Increased demand/lifting of import bans
+80
+60
+100
+50
+Availability of animals
+6
+0
+0
+0
+Profitability
+9
+0
+0
+0
+Scarcity of chilled meat
+6
+0
+0
+0
+Affordability of animals
+3
+0
+0
+0
+No exchange rate fluctuation
+3
+0
+0
+0
+Improved information flow
+3
+0
+0
+0
+Better security
+3
+0
+0
+0
+Preference for Somali animals
+0
+40
+0
+0
+Dubai market accessible
+0
+0
+0
+50
+Table 23. Reasons for declines in volumes of animals handled
+ 
+Small-scale 
+traders (N=41)
+Brokers 
+(N=12)
+Agents of 
+exporters (N=3)
+Exporters 
+(N=5)
+Export ban
+85
+58
+100
+80
+Insecurity
+10
+17
+0
+0
+Lack of freighter services
+5
+0
+0
+20
+Local currency appreciation
+5
+25
+0
+0
+Lack of demand for species other than goats
+0
+8
+0
+0
+Civil war
+0
+8
+0
+0
+Drought
+0
+17
+0
+0
+Competition from other slaughterhouses
+0
+0
+33
+0
+High freight cost
+0
+0
+0
+20
+Low prices
+0
+0
+0
+20
+Others
+5
+8
+0
+0
+Declines in volumes of slaughter animals handled (see Table 23) were most frequently attributed by all value chain 
+actors to import bans (often instituted due to outbreaks of transboundary diseases such as Rift Valley Fever), or to 
+related items (e.g. ‘accessibility of the Dubai market’). Subsequent lifting of these bans was the most frequently cited 
+reason for increases in volumes of animals handled (Table 22).
+=== PAGE 43 ===
+32
+The Somali chilled meat value chain
+Figure 4. Reported trends in volumes of animals handled by intermediaries dealing in animals slaughtered for export in Somalia
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+yr2004
+yr2005
+yr2006
+yr2007
+Since
+starting
+yr2004
+yr2005
+yr2006
+yr2007
+yr2004
+yr2005
+yr2006
+yr2007
+Small scale traders (N=48)
+Brokers
+(N=18)
+Agents of exporters (N=3)
+Exporters (N=6)
+Increased
+Declined
+No change
+A few value chain actors (10% of the small-scale traders, a single agent of exporter and also a single exporter) 
+reported having made some major expansions during the preceding 3 years (Table 24). For the future, the majority 
+of all value chain actors wished to expand their operations, mostly by scaling up current activities (50% of small-scale 
+traders; 2 of the 3 exporters surveyed); and processing by-products (2 of the 6 exporters surveyed). Constraints to 
+expansion cited frequently included the lack of financial capital (33–40% of those surveyed). 
+Table 24. Reported expansions and future plans (not upgrading per se)
+Small-scale 
+traders (% Yes)
+Agents of 
+exporters (% Yes)
+Exporters
+(% Yes)
+Major expansions in the previous 3 years
+10
+33
+17
+Nature of expansion Increase in number of animals bought
+2
+0
+0
+Expansion of catchments area
+8
+0
+0
+Bought a lorry
+0
+33
+0
+Export to many countries
+0
+0
+17
+Build a modern slaughterhouse
+0
+0
+17
+Planned future expansions
+52
+100
+67
+Nature of planned 
+expansion
+Scale up current activities
+50
+67
+0
+Venture into export business
+2
+0
+Venture into import
+0
+33
+0
+Further processing of meat/meat products 
+(sausages, hamburgers etc.)
+0
+0
+17
+Processing by-products e.g. bone and blood
+0
+0
+33
+Processing skins
+0
+0
+17
+Establishing farms to raise animals
+0
+0
+17
+Build a slaughterhouse
+0
+0
+17
+Factors constraining 
+expansion
+Capital/Financing
+40
+33
+33
+Low demand
+19
+67
+0
+Insecurity
+20
+0
+50
+Lack of a support agency
+0
+67
+0
+Shortage of available aircraft
+0
+0
+17
+=== PAGE 44 ===
+33
+The Somali chilled meat value chain
+5	 Conclusions and recommendations
+5.1	 Overview
+Livestock is a significant economic sector, source of livelihood, and generator of exports for the Somali. It has also 
+proven remarkably resilient during the country’s turbulent recent political history, and persistent despite externally-
+imposed trade bans. Export of meat and by-products, as opposed to live animals, offers the dual benefits of value 
+addition and avoidance of export restrictions due to animal disease. Chilled meat exports serve high-value markets, 
+and require a complex and multifunctional, and long, value chain for delivery. This study characterizes these value 
+chains so as to identify and inform the development of strategies to improve the efficiency of the Somali chilled meat 
+export value chain.
+The profile of the Somali chilled export meat value chain features producers, brokers, small-scale traders, agents of 
+exporters and exporters. These actors may operate in long chains, or shorter ones omitting one or more functions. 
+Small-scale traders play an assembly role, but many (80%) sell directly to exporters, while brokers operate throughout 
+the chain. To this list may be added importers resident in export destination countries, and other value chain actors 
+located abroad that were beyond the scope of this study.
+Expert consultation revealed that for most importing countries, Somali chilled meat exporters dealt with just a 
+small number of importers. The value chain is male-dominated. At processing and exporter stages, most firms are 
+partnerships. Small-scale traders have few assets, while agents of exporters have transport and communication 
+equipment. There is some evidence of considerable working capital employed by processors, but this topic requires 
+further study. Most actors handle sheep and goats, with far fewer handling cattle, and just a few dealing with camels. 
+A significant number of actors are engaged in businesses other than livestock, and this is likely to influence their 
+transaction behaviour. 
+Surveys revealed that a well-established live animal grading system is in use in the chilled export meat value chain, 
+focused on age, weight and body condition. The system is well known to actors at all chain stages and is consistently 
+applied to all species. Although able to be subjected to limited statistical analysis here, actors’ rankings of relative 
+importance of product and live animal attributes were also very consistent. Notably, breed and animal conformation 
+play minor roles. 
+Exporters revealed themselves to be very well aware of export market requirements. However this awareness 
+is not apparent amongst the other actors, beyond basic requirements (e.g. Halal slaughter). Importing countries’ 
+preferences for species (goats over other species in several countries) also appear to be well known. Other than 
+amongst exporters, knowledge of regulations and required documentation was poor. These indications of information 
+asymmetry constrain opportunities for value addition by value chain actors.
+=== PAGE 45 ===
+34
+The Somali chilled meat value chain
+Trading relationships are longstanding: averaging eight years between small-scale traders and exporters and over three 
+years between exporters and their agents. All actors describe their business relationships as ‘regular’. Several key 
+roles are apparent for brokers (stock assembly, information provision, guarantee of tenure and payment), and they 
+also serve to promote market access for the most marginalized of producers.
+Actors overwhelmingly claim to set their own prices prior to sale, and although cash-on-the-spot dominates 
+transactions with agents of exporters, exporters themselves operate delayed payment systems and the allocation of 
+the costs of this informal credit is not clear. Contrary to expectations, no clear seasonal patterns of sales volume 
+were revealed from surveys of the value chain actors. In particular, these were not associated with religious events. 
+However, most chain actors report fluctuations in product volume, and these reports were found to be very 
+consistent across value chain actors. Factors causing the fluctuations were also consistently cited: animal disease-
+related trade bans are seen to have played a central role. 
+Access to information is reported to be good for all actors, but apparently across a limited range of variables. 
+In particular, small-scale traders, brokers and agents of exporters all claim to have poor access to carcass price 
+information, and details of health and safety and quality requirements for the export markets. For the information 
+that is available, the study was not able to pass judgement on its quality (particularly objectivity and accuracy, and 
+timeliness).
+Examination of marketing margins prompted three main conclusions. First, variable costs in the value chain are 
+dominated by costs of livestock purchase, and transactions costs. Transaction costs largely comprise of search 
+costs (despite the prominence of brokers), payment to brokers and transport costs. Second, marketing margins are 
+generally low (3–12% of the sales price in the last completed transaction among small-scale traders and exporters) and 
+were actually revealed to have been negative for some of the surveyed agents (14% of the small-scale traders). Third, 
+the nature of costs differed amongst species to the extent that marketing margins (per tonne) are clearly higher for 
+camel and cattle than for sheep and goats. Overall, considerable variety was observed in profitability which suggests 
+a range in competitiveness amongst incumbent value chain actors. However, the distribution of profitability amongst 
+value chain actors, at the same or different stages of the chain, is likely to be influenced by spatial and temporal 
+variation, which was not studied here. Air transport of chilled meat and associated transaction costs are, as expected, 
+a significant cost item for exporters (some 35–46% of variable costs).
+The relatively low gross profit margins identified for small-scale traders (<7.5% of sale price for 55% of the small-scale 
+traders) bring into question their long-term viability. It is however important to note that these traders make up for 
+the small margins with the high rates of turnover (estimated to be 5344 goats, 531 sheep, 161 camels and 40 heads 
+of cattle per trader in 2006). Indeed, most of these traders intend to increase their scale of operation, and have also 
+been in business for some time, which implies that the small-scale is not necessarily transitional. Given the key role 
+of small-scale traders in the chilled meat value chain, further study of their performance and resilience is needed. 
+In particular, the dynamic adjustment path they would likely follow in expanding traded volumes, and availability of 
+working capital and services, are of interest in terms of both their own financial returns and the impacts on producers. 
+Competitive pressures for entry and exit would appear to be present, as evidenced by variation in profit margins 
+and comments during rapid appraisal, and the observation that numerous value chain actors are currently inactive. 
+However, it is also notable that actors are clearly prepared to sustain short-term losses (as evidenced by negative 
+margins) to remain in the chilled meat export business, for a variety of possible reasons identified in this study. These 
+include seasonal fluctuations in demand, long-lasting and clan-based trading relationships, and the small numbers 
+of importers in some export markets. Rapid appraisal interviews support the presence of long term incentives to 
+maintain commerce with a very limited number of contacts in the importing countries: this is indicative of market 
+power and limited entry in the importing countries.
+=== PAGE 46 ===
+35
+The Somali chilled meat value chain
+Unpredictable seasonal changes in supply of slaughter animals, which occasions low slaughterhouse capacity utilization, 
+were cited as a major problem/risk during the rapid appraisal. The low slaughter house capacity utilization in the light 
+of asset specificity of slaughter capacity may act as a deterrent to investment by chilled meat value chain actors. It is 
+notable that many such actors are engaged in other businesses, and so seek to spread risks and seek synergies (e.g. 
+with other livestock operations), while allocating costs across limited fixed assets. This strategy appears to be well 
+adapted to the observed persistence in the chilled meat trade, despite some negative gross profit margins. 
+Regression analysis indicates that, for small-scale traders, selling sheep and goats directly to chilled meat exporters 
+is associated (albeit at 10% levels of statistical significance) with higher levels of gross margins, than sales to other 
+chain configurations. Other positive influences on returns to small-scale traders included the proportion of goats in 
+the herd, and the number of animals sold. Profitable goat specialization reflects the reported consumer preference 
+in several chilled meat importing countries, and advantages from the number of animals sold (i.e. scale of operation) 
+indicate some economies of scale (in particular, many transaction costs are fixed in nature). It is notable that age and 
+experience, and form of business organization, were found not to be significantly associated with marketing margins. 
+These results have important implications for specialization within the value chain, for scale of operation, and for the 
+choice of channel.
+Survey questions centred on perceptions of uncertainty, and its effects, identified a role for alternative business forms 
+and relationships, and purchasing strategies. Variation in both supply and demand tends to be offset by strategies such 
+as purchasing out of season with retention on feed, or spatial diversification of purchases. Other mitigation strategies 
+were reported, including diversification of business outside livestock, as well as into numerous livestock species. 
+Exporters apparently place particular emphasis on maintenance of relations with importers, to the extent of operating 
+at a loss (at least in the short term) to maintain secure market access. It should be noted that these perceptions of 
+uncertainty may be poorly associated with the reality of variation in key variables in the export chilled meat value 
+chain, and further research is needed to identify and analyse these factors, and their impact on decisions.
+Most value chain participants identify low demand and high purchase prices as major constraints to export chilled 
+meat trade development. These two factors are inter-related and interpretation of this result is difficult. Moreover, 
+these stated perceptions have not been linked to behaviour by any analytical model: feed costs, for example, are an 
+intuitively-appealing constraint that can be linked to actors’ financial performance. A lack of market infrastructure was 
+also identified, as was the lack of an internationally recognized carcass certification system. Conditions in importing 
+countries, and indeed in other countries that may be served from importing hubs, were not addressed in this study. 
+Seasonal fluctuations, and interactions with imports from other countries (particularly low-cost suppliers) are all likely 
+to fashion demand in importing countries. It is however clear that one strategic approach that Somali market actors 
+have adopted in response, is the maintenance of long-term trading relationships at all costs.
+Although few surveyed actors had expanded operations in recent years, almost all planned to do so. Means of planned 
+expansion featured, in general, expanding current activities rather than via innovations and/or new investments. Actors 
+identified low demand and shortage of capital as the major constraints.. 
+5.2	 Value chain upgrading issues
+Factors constraining financial performance throughout the Somali export chilled meat value chain are reported to 
+include the high cost of animals, and high transaction costs. Limited evidence on trader margins suggests that these 
+are not excessive (i.e. no greater than transport costs) and several cases of negative margins were reported. Some 
+evidence supports scale and specialization as positive influences on trader margins. Preliminary evidence suggests that 
+price and quality grades are positively associated, yet per-animal transaction continue to dominate. Taken together, 
+these results suggest a significant role for value addition in contributing to profitability (and hence incomes) in the 
+value chain. This study did not consider producer incomes, but similar comments are likely to apply.
+=== PAGE 47 ===
+36
+The Somali chilled meat value chain
+Some prerequisite conditions for value addition through presentation for sale of animals of superior condition are 
+already in place (notably a working and widely-recognized grading system), but others are not. Specifically, value chain 
+actors’ apparently poor knowledge of demand in importing countries, and of administrative procedures in importing 
+countries, is likely to have obscured the signals that would enable value addition. 
+A cost item restricting exporters’ margin is the high costs of airfreight of chilled meat to export destinations. 
+Noticeably, this was not identified as a problem during raid appraisal. This can be addressed with efficiency-enhancing 
+changes such as improved capacity utilization, particularly by filling aircraft space more completely or by using 
+packaged products rather than (more bulky) carcasses, or by alternatives such as the sea freight, which is more widely 
+used by other chilled meat exporters. These alternatives need further investigation in the Somali context: particularly 
+the risks inherent in transporting product overland for sea freight. 
+Higher-valued product offers opportunities for increased margins throughout the value chain. This might be addressed 
+by de-boning and fat trimming as specific importers request, or by a focus on high value products through branding 
+and marketing: each featuring both investments and as-yet-unknown cost structures. In the longer term, appellation of 
+origin and registered trademarks supported by high quality disciplinary standards offers possible avenues for upgrading. 
+Although these options are not addressed directly in the current study, some prerequisite conditions were identified, 
+namely the existence of functioning grading systems and enduring linkages to importing actors.
+Beyond grading, certification according to product handling practice (e.g. HACCP-type systems) offers a standardized 
+and internationally-accepted approach to food safety concerns for exports and quality management as practiced in 
+retailer-dominated supply chains. As introduction of HACCP entails fixed costs rather than variable costs, it awaits 
+capital input and stronger ties to retailers (as opposed to importers).
+5.3	 Recommendations for the private sector
+A shift toward enhanced value-addition would require a new focus, throughout the value chain, on carcass and live animal 
+conformation, delivery scheduling, and application of specific technologies. Such a focus would need to be supported 
+by the live animal grading system in use, and the consistency with which quality is currently addressed by chain actors. 
+However, the lack of whole-chain knowledge of regulatory information suggests that the detail of retail-level procedural 
+and information requirements may not be well transmitted through the network of Somali chain actors.
+The limited information on slaughterhouse numbers, capacity and volumes processed indicates some underutilization 
+of capacity. Improved utilization of fixed assets might be achieved by an agreed rationalization of slaughter services 
+amongst providers and according to the needs of exporters, and joint effort by exporters in serving importers. This 
+would require sharing of information on volumes and market expectations. Fewer slaughterhouses would ease the 
+burden of implementation of new quality control and certification systems. It would also simplify procedures for 
+addressing importer concerns, as there would be fewer slaughterhouses to inspect. However, the regional and clan-
+specific distribution of meat industry assets and relationships, would present a barrier to such rationalization and 
+cooperation.
+The existing network of brokers offers an opportunity for whole-chain adoption of new transaction procedures 
+that would favour value addition on the one hand, and increased volumes on the other. Grading, contracting, supply 
+scheduling and pre-announced prices could be expanded or initiated through the broker network far more easily than 
+if each producer and trader had to be approached and coerced. The incentives offered to brokers by exporters (or via 
+their agents) might include additional hedge fees, or fixed retainer payments for the identification of suitable animals 
+and their diversion from competing uses into the chilled meat export value chain. Although this approach would 
+internalize some potential market failures, it would not address others that brokers’ current role corrects: specifically 
+the inclusion of marginal producers and the enhanced coordination of the assembly mechanism.
+=== PAGE 48 ===
+37
+The Somali chilled meat value chain
+5.4	 Policy recommendations
+Based on the characterization offered by this study some limited policy recommendations can be made, mostly 
+contingent on further research. Identified roles for government need special consideration in Somalia, where state 
+apparatus is very weak. This context necessitates, as an early recommendation, an industry identity, and a capacity for 
+industry self-governance and joint action. A key recommendation is that this identity be established and formalized, 
+and its operations defined.
+Certification of slaughter facilities as discussed above, can be promoted by government (perhaps local government) 
+in licensing and export approvals, although the specifications for any HACCP system would be agreed between the 
+facility management and the importers. Government action is also needed in identifying diseases of concern to specific 
+importing countries, and establishment of certification procedures to accommodate those concerns and ultimately 
+avoid repetition of trade bans on Somali chilled meat. 
+To the extent that niche markets can, in future, be established and served, then branding offers a value addition 
+alternative. Where such brands serve to identify products with indigenous Somali characteristics, then protection of 
+trademarks and perhaps local appellation will become necessary. WTO offers facility for such protection, to which 
+government will need to dedicate resources toward securing. 
+A key industry role would be sharing of information on export prices, perhaps by regular publication of chilled meat 
+trade statistics. This should be backed up by an investigation of import markets, extending to price–quality linkages, 
+carcass grades used, competitive behaviour amongst the small number of importers dealing with Somalia, seasonal 
+demand requirements, and the path of distribution followed by Somali chilled meat on arrival in the Gulf. Distribution 
+of price information would also serve as a benchmark by which producers and traders could judge brokers’ 
+performance, and so serve to improve their function in the value chain. Tactical decisions as to which information 
+is ‘public’ and which ‘private’ would be a fundamental basis for the industry body to be formed. A communication 
+process amongst the Somali exporters, slaughter providers, and Gulf State importers should be initiated, across a 
+range of topics (quality, safety, seasonal demand patterns).
+5.5	 Research needs
+The role of research, and the identity of appropriate research agencies, needs to be defined in association with the 
+information strategy of the (recommended) industry body. Ideally, externally-funded research would complement that 
+of industry-conducted information delivery, essentially filling gaps and providing analysis, while addressing public policy 
+concerns and opportunities. Topics recommended here would ideally be split along those lines of responsibility.
+A vital research issue is the volume of slaughter stock available that is suitable for the chilled export trade, and the 
+factors affecting its supply into the trade. Given agents’ widespread commitment to expansion by increased volumes, 
+then industry development would take one of two distinct paths: consolidation of chain actors at each chain stage 
+to best utilize the existing volume of stock; or diversion of stock from domestic uses or from herds maintained 
+by producers. The former path may well exclude those producers that are currently marginal to the system and 
+participate at high cost. The latter has far-reaching implications for domestic food supply and on-farm management. A 
+strategy featuring elements of both development paths may offer the best course. 
+Information is needed about price–quality relationships in import markets. This would be best addressed by further 
+studies in both domestic and import markets on relationships between prices and (i) grade-relevant attributes (size, 
+weight, age, fat cover) as well as (ii) quality and safety indicators (inspection certificates, HACCP-type certification, 
+packaging) and (iii) value addition steps (deboning, cutting to specification, branding and trademarks). This would serve 
+to evaluate and guide the existing live animal grading system.
+=== PAGE 49 ===
+38
+The Somali chilled meat value chain
+Costs throughout the value chain require further study, and particularly the influence on them of uncertainty and 
+variation in seasonal and spatial availability of animals and markets. Scale and specialization have been implicated in the 
+current study for their effects on trader margins, and this should be pursued further to identify incentives for value 
+addition.
+Alternative transaction arrangements should be researched. This would entail a participatory approach to specifying 
+existing practice, and identifying its functions and their suitability in the context of international trade in chilled meat 
+to high-value markets. Existing experience in vertical and horizontal joint action would be brought to bear, so as to 
+design pilot programmes. A unique element of this research would be to project new roles for traditional domestic 
+market actors such as brokers. 
+The distribution of benefits on the value chain remains of substantial policy interest. This study has taken the initial 
+steps of measuring profit margins throughout the chain, but has not addressed allocation of risk, asset specificity for 
+certain agents, nor the potential costs and benefits of joint and whole-chain action in addressing transaction costs 
+throughout the chain. The structure of the Somali export chilled meat value chain offers opportunities (such as 
+competing channels and the presence of brokers) to implement change in the context of improved information and 
+protection of existing interests. 
+Finally, a logical extension of the existing study is the development of formalized linkages between statements of 
+actors’ perceived constraints and risks, and a model of financial and development performance.
+=== PAGE 50 ===
+39
+The Somali chilled meat value chain
+References
+Avermaete, M. and Viaene, J. 2002. On innovation and meeting regulation the case of the Belgian food industry. 
+Paper presented at the DRUID summer conference on industrial dynamics of the new and old economy—Who is 
+embracing whom? Copenhagen/Elsinore 6–8 June 2002. 
+Barrett, C., Delamere, M. and Osterloh, S. 2006. Household-level livestock marketing behaviour among northern 
+Kenyan and southern Ethiopian pastoralists. In: McPeak, J.G. and Little, P.D. (eds), Pastoral livestock marketing in 
+eastern Africa: Research and policy challenges. Warwickshire: Intermediate Technology Publications. pp. 15–38.
+Boehlje, M. and Sonka, S. 1998. Structural realignment in agriculture: How do we analyse and understand it? University 
+of Illinois working paper. Chicago: University of Illinois.
+Dolan, C. and Humphrey, J. 2000. Governance and trade in fresh vegetables: The impact of UK supermarkets 
+on the African horticulture industry: In: Proceedings of conference of Institute of Developmental Studies, 
+University of Sussex. Brighton: IDS.
+FAO (Food and Agriculture Organization of the United Nations). 2008. FAOSTAT. Rome: FAO. (Available from 
+http://faostat.fao.org).
+FAO (Food and Agriculture Organization of the United Nations)/World Bank/EU (European Union). 2004. Towards a 
+livestock sector strategy. Report no. 04/001 IC–SOM. FAO/World Bank Cooperative Program. Rome: FAO.
+Farina, E. and Reardon, T. 2000. Agrifood grades and standards in the extended MERCOSUR: Conditioners and effects 
+in the agrifood system. American Journal of Agricultural Economics 82(5):1170–1176. 
+Frank, S. and Henderson, D. 1992. Transactions costs and determinants of vertical co-ordination in the US food 
+industries. American Journal of Agricultural Economics 74(4):941–950.
+Green, A.M., Barrett, C., Luseno, W. and McPeak, J. 2006. Livestock market organization and price distributions in 
+northern Kenya. In: McPeak, J.G. and Little, P.D. (eds), Pastoral livestock marketing in eastern Africa: Research and 
+policy challenges. Warwickshire: Intermediate Technology Publications. pp. 73–88.
+Hausman, W., Lee, H. and Subramanian, U. 2005. Global logistics indicators, supply chain metrics and bilateral trade 
+patterns. World Bank Policy Research Working Paper 3772. Washington, DC: World Bank.
+Helmberger, P.G. and Chavas, J. 1996. The economics of agricultural prices. Upper Saddle River: Prentice Hall.
+Hennessy, D. 1996. Information asymmetry as a reason for food industry vertical integration. American Journal 
+of Agricultural Economics 78(6):1034–1043.
+Hobbs, J.E., Kerr, W.A. and Klein, K.K. 1998. Case studies: Creating international competitiveness through supply 
+chain management: Danish pork. Supply Chain Management 3(2):68–78.
+Hummels, D. 2001. Time as a trade barrier. Working paper. Purdue University, Department of Economics. West 
+Lafayette: Purdue University.
+Jick, T. 1979. Mixing qualitative and quantitative methods: Triangulation in action. Administrative Science Quarterly 
+24(4):602–611.
+Kaplinsky, R. and Morris, M. 2001. A handbook for value chain research. Working paper prepared for the International 
+Development Research Centre. Brighton: Institute for Development Studies.
+Little, P.D. 1992. Traders, brokers, and market ‘crisis’ in southern Somalia. Africa 62(1):94–124.
+Little, P.D. 2003. Somalia: Economy without state. Oxford: James Currey.
+=== PAGE 51 ===
+40
+The Somali chilled meat value chain
+Negassa, A., Abdulle, M.H., Jabbar, M., Osman, I.O., Costagli, R., Aden, H.H. and Omore, A. 2008. Towards improving 
+livestock export marketing support services in Somalia: Survey findings and implications. ILRI Discussion Paper No. 
+13. Nairobi: International Livestock Research Institute. (Available from http://ilri.catalog.cgiar.org/dbtw-wpd/exec/
+dbtwpub.dll). 
+Mugunieri, G.L., Costagli, R., Hassan, M., Negassa, A. and Omore, A. 2008. A rapid appraisal of institutions supporting 
+livestock export trade in Somalia. ILRI Discussion Paper No. 14. Nairobi: International Livestock Research 
+Institute. (Available from http://ilri.catalog.cgiar.org/dbtw-wpd/exec/dbtwpub.dll). 
+Piggott, R., Griffith, G. and Nightingale, J. 2000. Market power in the Australian food chain: Towards a research 
+agenda. RIRDC Project No. UNE-67A. Kingston: Rural Industries R&D Corporation.
+Pingali, P., Khwaja, Y. and Meijer, M. 2005. Commercializing small farms: Reducing transaction costs. ESA Working 
+Paper No. 05-08. Agricultural and Development Economics Division. (Available from www.fao.org/es/esa). Rome: 
+FAO.
+Porter, M.E. 1980. Competitive strategy: Techniques for analyzing industries and competitors. New York: The Free 
+Press.
+Rich, K.M., Ross, R.B., Baker, A.D. and Negassa, A. 2011. Quantifying value chain analysis in the context of livestock 
+systems in developing countries. Food Policy 36(2):214–222. 
+Samatar, A. 1987. Merchant capital, international livestock trade and pastoral development in Somalia. Canadian 
+Journal of African Studies 21:355–374.
+Samatar, A. 1992. Social classes and economic restructuring in pastoral Africa: Somali notes. African Studies Review 
+35(1):101–127.
+Samatar, A., Salisbury, L. and Bascom, J. 1988. The political economy of livestock marketing in northern Somalia. 
+African Economic History 17:81–97.
+Shepherd, A. 1997. Market information services: Theory and practice. Rome: FAO. 
+Tomek, W. and Robinson, K. 1990. Agricultural product prices. 3rd edition. New York: Cornell University Press.
+UNCTAD (United Nations Conference on Trade and Development). 2000. Strategies for diversification and adding 
+value to food exports: A value chain perspective. Geneva: UNCTAD. (Available from www.underutilized-species.
+org/Documents/PUBLICATIONS/unctad.pdf). 
+UNEP (United Nations Environment Program). 2007. African population database documentation. A.2. Africa 
+population database—Summary Table. Nairobi: UNEP. (Available from http://na.unep.net/globalpop/africa/
+appendix.2.html).
+Wohlgenant, M.K. 2001. Marketing margins: Empirical analysis. Chapter 16. In: Gardner, B.L. and Rausser, G.C. (eds), 
+Handbook of agricultural economics: Marketing, distribution and consumers. Volume 1, Part 2. pp. 933–970. 
+Amsterdam: Elsevier.
+World Bank. 2008. Agriculture for development. World Bank Development Report. Washington, DC: World Bank.
+=== PAGE 52 ===
+CGIAR is a global agricultural research partnership for a food-secure future. Its science is carried 
+out by15 research centres that are members of the CGIAR Consortium in collaboration with 
+hundreds of partner organizations. cgiar.org
+The International Livestock Research Institute (ILRI) works to improve food security and reduce 
+poverty in developing countries through research for better and more sustainable use of livestock.
+ILRI is a member of the CGIAR Consortium, a global research partnership of 15 centres working
+with many partners for a food-secure future.  ILRI has two main campuses in East Africa and other 
+hubs in East, West and southern Africa and South, Southeast and East Asia. ilri.org  
+  
+ 
+ 
+ 
+ISBN 92–9146–287–X

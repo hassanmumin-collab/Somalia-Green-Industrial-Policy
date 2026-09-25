@@ -1,0 +1,1918 @@
+=== PAGE 1 ===
+Somalia’s National Adaptation 
+Plan (NAP) Framework
+February 2022
+Directorate of Environment and Climate Change (DoECC), 
+Office of the Prime Minister
+=== PAGE 2 ===
+© Federal Government of Somalia, 2022
+All rights for commercial/for profit reproduction or translation, in any form, reserved.
+Original text: English
+Cover photo: UN Photo/Stuart Price (CC BY-NC-ND 2.0)
+Somalia’s National Adaptation Plan (NAP) Framework was prepared with assistance from the NAP 
+Global Network via financial support from the Government of Canada. 
+The NAP Global Network was created in 2014 to support developing countries in advancing their 
+NAP processes, and help accelerate adaptation efforts around the world. To achieve this, the 
+Network facilitates South-South peer learning and exchange, supports national-level action on NAP 
+formulation and implementation, and generates, synthesizes, and shares knowledge. The Network’s 
+members include individual participants from more than 155 countries involved in developing and 
+implementing National Adaptation Plans, as well as 12 donor members. Financial support for the 
+Network has been provided by Austria, Canada, Germany, Ireland, the United Kingdom and the 
+United States. The Secretariat is hosted by the International Institute for Sustainable Development 
+(IISD). For more information, visit www.napglobalnetwork.org.
+This project is undertaken with the ﬁnancial support of:
+Ce projet a été réalisé avec l’appui ﬁnancier de :
+Secretariat hosted by:
+Secrétariat hébergé par :
+=== PAGE 3 ===
+iii
+Title
+Acknowledgements
+This NAP Framework has been developed to guide and advance Somalia’s NAP process in a 
+way that addresses and aligns the medium- and long-term adaptation needs of the country 
+in a coherent and coordinated manner. Through this process, guided by the vision, objectives, 
+principles and coherent next steps of the NAP Framework, the country will aim to maximize 
+the benefits of the recently launched NAP Readiness Project and other adaptation efforts to 
+increase Somalia’s resilience. 
+A wide range of individuals and institutions have participated in the development of this 
+National Adaptation Plan (NAP) Framework and I would like to recognize their efforts. These 
+include representatives from relevant federal government institutions, federal member states, 
+civil society, academia, the private sector and development partners. 
+The Federal Directorate of Environment and Climate Change is grateful to all stakeholders 
+who have provided inputs and comments to shape the country’s NAP process. We are 
+grateful to the NAP Global Network support team, hosted by the International Institute for 
+Sustainable Development (IISD), for the financial and technical support in the development of 
+the NAP Framework, and in particular would like to thank Fatuma Hussein, whose insights and 
+contributions were invaluable. We are also thankful to UNDP, UNEP and all other development 
+partners supporting the country’s NAP Process, and we call upon all stakeholders and partners 
+to support the implementation of the country’s NAP. 
+Let’s all work together in delivering the vision of the NAP for strategic, coherent and 
+coordinated interventions on climate action, and for the prosperity and resilience of our people 
+and great country. 
+Ahmed Yussuf Ahmed
+Director General, Directorate of Environment and Climate Change (DoECC), Somalia
+=== PAGE 4 ===
+iv
+Title
+Foreword 
+Somalia is highly vulnerable to climate change and variability. Climate change effects, 
+including frequent and intense droughts and floods, are wreaking havoc on the already fragile 
+country. Without effective and well-coordinated response measures, these effects are likely to 
+exacerbate existing vulnerabilities and reduce the people’s livelihood options, which in turn may 
+have negative impacts for stability and security in Somalia (Coning et al, 2021). This situation is 
+likely to worsen, as confirmed by the latest scientific reports from the Intergovernmental Panel 
+on Climate Change (IPCC).
+The Federal Government of Somalia and the country’s federal member states have taken 
+various measures to respond to the effects of climate change. The National Development Plan 
+(NDP-9) for 2020–2024 recognizes the threats that climate change poses to the country’s 
+development objectives and mainstreams climate change into the strategic interventions 
+planned for all vulnerable sectors of the economy to enhance resilience. Somalia has also 
+recently developed a National Climate Change Policy (2020) which offers further direction, 
+particularly on adaptation measures, social development and the mitigation of climate change 
+impacts, and which calls for mainstreaming climate change into the federal government, state, 
+regions and districts, as well as into local-level planning processes. In addition, the National 
+Disaster Management Policy aims to strengthen community resilience and preparedness 
+for disasters and emergencies. The country has also set up a Directorate of Environment 
+and Climate Change to coordinate and lead all matters relating to climate change in the 
+country. However, despite these steps, the country continues to face numerous gaps in policy, 
+institutional and financial capacities to effectively respond to climate change. 
+The National Adaptation Plan (NAP) process provides for a strategic approach by which the 
+Federal Government of Somalia can address climate change impacts in a more integrated and 
+coordinated way. The development of this NAP Framework is a milestone in the NAP process as 
+it will guide the development, coordination and implementation of policies, plans and strategies 
+that will help the country address its medium- and long-term adaptation needs, while aligning 
+these actions with the country’s development and its continued progress toward peace and 
+stability. The Framework promotes adaptation integration, alignment with development and 
+peacebuilding processes, inclusivity, transparency, good governance, institutional building and 
+gender-responsiveness in Somalia’s NAP process. 
+I hope that this Framework will guide our collective climate change adaptation agenda for a 
+prosperous and more climate-resilient Somalia. 
+H.E. Mahdi Mohammed Gulaid
+Deputy Prime Minister, Federal Government of Somalia
+=== PAGE 5 ===
+v
+Title
+Executive Summary
+Somalia is considered among the world’s most vulnerable countries to climate change. This 
+vulnerability stems from a combination of political, socioeconomic and geographic conditions. 
+The country has faced protracted conflicts in the last three decades leading to the collapse of 
+governance systems, massive environmental degradation and a high prevalence of poverty. The 
+country is also considered among the poorest countries of the world. Some 80 per cent of its 
+territory is arid and semi-arid lands (ASALs), and highly climate-dependent livestock production 
+and agriculture account for 70 per cent of the country’s livelihood. Recurrent extended droughts 
+and intermittent floods continue to undermine the resilience of the economy’s most vulnerable 
+sectors, including the agriculture, livestock, water, forestry, health and energy sectors. 
+In response to the challenges posed by climate change, the government of Somalia has 
+integrated climate change into its National Development Plan for the period of 2020 to 2024 
+and has developed a number of other climate-change-related programs and policies, such as 
+the National Adaptation Programme of Action (NAPA) 2013 and the National Climate Change 
+Policy (2020). Additionally, and consistent with UNFCCC decisions and guidelines, Somalia is 
+updating its Nationally Determined Contribution (NDC). The country has also recently initiated 
+its National Adaptation Plan (NAP) process through the implementation of Green Climate 
+Fund (GCF)-financed NAP Readiness Project, with which it hopes to strengthen capacities and 
+coordination for climate change adaptation planning and implementation in Somalia. 
+The purpose of this NAP Framework is to guide Somalia in developing, coordinating and 
+implementing various policies, plans and strategies, as well as legislation, that will help the 
+country address its medium- and long-term adaptation needs, while aligning these actions 
+with the country’s development and continued progress toward peace and stability. Specifically, 
+the objectives of the NAP Framework will be to clarify the approach, vision, guiding principles, 
+institutional framework and key themes for the Somalia NAP process. The framework aims 
+to align the NAP process with existing policies and strategies, including those regarding 
+peacebuilding, conflict and gender equality, and with adaptation research. The Framework 
+also aims to ensure that the NAP process does not contribute to the proliferation of planning 
+processes and related documents, but rather helps to build the momentum needed for its NAP 
+process and position the country to maximize the expected benefits of the GCF funding.
+The report was informed by a detailed desk review of various relevant documents, plans 
+and policies as well as international publications. Additionally, under the guidance of the 
+Directorate of Environment and Climate Change (DoECC), the framework was informed by 
+extensive stakeholder consultations both at the Federal and Member State levels. This includes 
+government representatives at both levels, private sector actors, international organizations, 
+civil society and academia.
+=== PAGE 6 ===
+vi
+Title
+Mandated by Somalia’s development agenda and Climate Change Policy (2020), the overall 
+goal of the Somalia NAP process is to reduce national and local vulnerabilities to the impacts 
+of climate change and build resilience of the country and its communities. Specifically, the NAP 
+process will aim to: 
+•	 define medium- and long-term climate adaptation actions and initiatives for 
+implementation; 
+•	 facilitate the integration of climate change adaptation, in a coherent manner, into 
+development planning processes and strategies; 
+•	 enhance coordination; and 
+•	 promote the mobilization of resources to respond to climate change adaptation needs of 
+Somalia. 
+The NAP process will be coordinated by Directorate of Environment and Climate Change 
+(DoECC) in the Office of the Prime Minister. The DoECC will develop and implement the NAP 
+using the coordination structures in place for both at technical and high level decision-making, 
+all with the participation of federal government, federal member states, private sector actors, 
+international partners, and civil society organizations. 
+Key themes for Somalia’s NAP process will include enhancing vertical integration, aligning 
+the NAP with Somalia’s National Development Plans and Somalia’s peacebuilding agenda, 
+instituting a whole-of-society approach, prioritizing resource mobilization for implementation, 
+ensuring good governance, and enhancing community-based adaptation. Key principles for the 
+NAP process will include ensuring that the NAP avoids duplication and is: 
+•	 country-driven and country-owned; 
+•	 aligned with national development and peacebuilding efforts; 
+•	 gender-responsive; 
+•	 conflict-sensitive; 
+•	 participatory, inclusive and transparent; 
+•	 guided by the best available scientific information, including traditional and Indigenous 
+knowledge; 
+•	 coordinated.
+The country’s fragile security situation, weak institutional and coordination arrangements, 
+and inadequate technical, technological and financial capacities remain the key impediments 
+to Somalia’s NAP Process. Enhanced support, capacity development, partnerships and 
+investment are required to realize the NAP vision. The NAP Framework identifies key elements 
+for financing the NAP process, including increasing resource mobilization from bilateral and 
+multilateral sources, enhancing private-sector engagement and investment in climate action, 
+and establishing a climate change fund to support adaptation actions in Somalia. Furthermore, 
+an effective monitoring and evaluation system for adaptation is a key component in the NAP 
+process. The NAP Readiness Project can play an instrumental role towards laying down a firm 
+basis for Somalia’s NAP process in line with this Framework.
+=== PAGE 7 ===
+vii
+Title
+Table of Contents
+1.0 Introduction......................................................................................................................................................................... 1
+1.1 Background............................................................................................................................................................................................1
+1.2 Current and Future Climate Change Trends...............................................................................................................3
+1.3 Objectives of the NAP Framework ....................................................................................................................................5
+1.4 Methodology.........................................................................................................................................................................................6
+2.0 Somalia’s National Adaptation Plan Process.....................................................................................................8
+2.1 Overview of the National Adaptation Plan Process ............................................................................................8
+2.2 Goals of the NAP Process..........................................................................................................................................................8
+2.3 Mandate for the NAP Process................................................................................................................................................9
+2.4 Status of the NAP Process in Somalia .......................................................................................................................10
+3.0 Linking the Nap Process to the Broader Policy Context ...........................................................................11
+3.1 Relevant Policy and Regulatory Frameworks and the Somalia NAP Process ...............................11
+3.3 GCF Readiness Proposal and Somalia NAP Process.........................................................................................17
+3.4 Linkage to Peacebuilding Initiatives .............................................................................................................................18
+3.5 Linkage with COVID-19 Preparedness and Response Plan .......................................................................19
+3.6 Added Value of the NAP Process in Relation to These Other Policy Documents......................19
+4.0 Approaches and Structure for the Nap Process ...........................................................................................21
+4.1 Context ................................................................................................................................................................................................. 21
+4.2 Specific Themes for the Somalia NAP Process.................................................................................................... 21
+4.3 Proposed Institutional Arrangements for the Somalia NAP Process..................................................24
+5.0 Guiding Principles for the NAP Process..............................................................................................................29
+Principle 1: Country-Driven and Country-Owned Process...................................................................................29
+Principle 2: Linkages with National Development and Peacebuilding Efforts .....................................29
+Principle 3: Gender-Responsiveness.......................................................................................................................................29
+Principle 4: Conflict-Sensitive....................................................................................................................................................30
+Principle 5: Participatory, Inclusive and Transparent................................................................................................30
+Principle 6: Guided by the Best Available Scientific Information and Traditional Knowledge.31
+Principle 7: Coordination and Avoiding Duplication................................................................................................... 31
+6.0 Monitoring, Evaluation, and Learning..................................................................................................................32
+6.1 Establishment of an Online National Adaptation Monitoring and Evaluation System .......32
+6.2 Selection of Suitable Indicators .......................................................................................................................................33
+6.3 Effective Climate Adaptation Coordination Structures ..............................................................................33
+6.4 Process for regular reporting and guidelines..........................................................................................................33
+7.0 Climate Finance Resource Mobilization.............................................................................................................. 34
+8.0 Next Steps and Milestones........................................................................................................................................36
+References ................................................................................................................................................................................41
+=== PAGE 8 ===
+viii
+Title
+Acronyms
+CSCC	
+Cross-Sectoral Committee on Climate Change
+DINA 	
+Drought Impact and Needs Assessment
+DoECC	
+Directorate of Environment and Climate Change
+DG	
+Director General
+FAO	
+Food and Agriculture Organization of the United Nations
+GCF	
+Green Climate Fund 
+IDP	
+internally displaced persons
+INC	
+Initial National Communication to the UN Climate Convention
+INDC	
+Intended Nationally Determined Contribution
+IPCC	
+Intergovernmental Panel on Climate Change 
+LDC	
+least-developed country 
+MoPIED	
+Ministry of Planning, Investment and Economic Development
+MoF	
+Ministry of Finance
+NAP	
+National Adaptation Plan
+NAPA	
+National Adaptation Programme of Action
+NCCC	
+National Climate Change Committee 
+NCCP	
+National Climate Change Policy
+NDC	
+Nationally Determined Contribution under the Paris Agreement
+NDP	
+National Development Plan
+NGO	
+non-governmental organization
+UN’s SDGs	
+United Nations’ Sustainable Development Goals
+UNDP	
+United Nations Development Programme
+UNFCCC	
+United Nations Framework Convention on Climate Change
+=== PAGE 9 ===
+ix
+Title
+Glossary
+Adaptation: Adjustment in natural or human systems in response to actual or expected climatic 
+stimuli or their effects which moderates harm or exploits beneficial opportunities (UNFCCC, 
+n.d.c). 
+Climate change: Change of climate which is attributed directly or indirectly to human activity 
+that alters the composition of the global atmosphere and which is in addition to natural 
+climate variability observed over comparable time periods (UNFCC, 1992).
+Climate finance: Local, national or international financing—drawn from public, private and 
+alternative sources of financing—that seeks to support mitigation and adaptation actions 
+that will address climate change (UNFCC, n.d.a).
+Gender: Roles, responsibilities, values and attitudes ascribed to women, men, boys and girls by 
+a given society at a given place and at a given time. Gender is socially constructed, which 
+means that a given society defines these roles, responsibilities, values and attitudes; they 
+are learned, can change, and are not natural (UNICEF Regional Office for South Asia, 2017).
+Gender mainstreaming: The process of assessing the implications for women and men of any 
+planned action, including legislation, policies and programs, in all areas and at all levels. 
+It is a strategy for making women’s as well as men’s concerns and experiences an integral 
+dimension of the design, implementation, monitoring and evaluation of policies and 
+programs in all political, economic and societal spheres so that women and men benefit 
+equally and inequality is not perpetuated. The ultimate goal is to achieve gender equality 
+(UN Social and Economic Council, 1992).
+Nationally Determined Contributions (NDCs): National climate plans highlighting climate 
+actions, including climate-related targets, policies and measures that governments aim 
+to implement in response to climate change and as a contribution to global climate action 
+under the Paris Agreement (UNFCCC, n.d.b).
+National Adaptation Plan (NAP) process: A strategic, iterative process that helps countries 
+conduct comprehensive medium- and long-term climate adaptation planning. It is a flexible 
+process that builds on the country’s existing adaptation activities and helps integrate 
+climate change into national decision-making (Hammill et al, 2019).
+Vulnerability: The degree to which a system is susceptible to, and unable to cope with, adverse 
+effects of climate change, including climate variability. Vulnerability is a function of the 
+character, magnitude, and rate of climate change and variation to which a system is 
+exposed, its sensitivity and its adaptive capacity (Parry et al, 2007).
+=== PAGE 10 ===
+1
+Title
+1.1 Background
+Somalia is one of the states in Africa with extreme vulnerability to climate change and 
+variability. Somalia’s arid and semiarid lands make up more than 80 per cent of the country’s 
+landmass and are characteristically prone to extreme weather conditions, including high mean 
+surface temperatures, periods of extended drought, highly erratic rainfall and strong winds. 
+The country’s economy is dependent on climate-sensitive sectors such as agriculture, water, 
+energy, wildlife and health, and climate change increases these sectors’ vulnerability. Climate 
+impacts, including those from droughts and floods, multiply existing threats to the attainment 
+of food and water security, productive livelihoods, health and human development capabilities 
+for the people of Somalia. For example, livestock and agriculture, which is the main livelihood 
+base, with more than half of the population primarily engaged in pastoralism, agropastoralism 
+and subsistence agriculture is significantly affected by climate change(World Bank & FAO, 
+2018). Furthermore, in recent times, unpredictable rainfall patterns, increasing temperatures 
+and natural disasters (mainly droughts and flash floods) have caused decreased production and 
+productivity in these sectors. This compounds an already difficult context: Somalia is already 
+considered a least-developed country (LDC), with nearly 69 per cent of its population living 
+below the international poverty line (Federal Government of Somalia, 2020b). 
+Somalia’s climate vulnerabilities are underpinned by the country’s prolonged conflict, insecurity, 
+institutional collapse and weak governance and capacity. Furthermore, gender and social 
+inequalities remain serious concerns. 
+Somalia has experienced over two decades of civil conflict, terrorism and instability, with the 
+result that the government has limited capacities, resources and institutions to effectively 
+respond to the current and forecasted impacts of climate change. Climate impacts, in turn, 
+exacerbate conflicts over natural resources and increase the challenges posed by large numbers 
+of internally displaced persons. 
+Deep cycles of internal conflicts emerging as a result of the collapse of the Siad Barre 
+government in January 1991 have undermined legitimate institutions and deepened levels of 
+fragmentation. Following a fragile, but positive, transition to peace in mid-2012, Somalia has 
+a full federal government in Mogadishu committed to inclusiveness, reconciliation and peace, 
+based on a provisional constitution. Furthermore, the federal government, with support from 
+its partners, has established regional governments officially consisting of six federal member 
+states: Somaliland, Puntland, Jubaland, Galmudug, Hirshabelle, Southwest and Banadir Regional 
+Administration(special region).
+1.0 Introduction
+=== PAGE 11 ===
+2
+Title
+Climate change impacts women, men, boys and girls differently, often to the detriment 
+of women and other vulnerable groups, and existing gender inequalities are likely to be 
+exacerbated by climate change (Huyer, 2016). According to Somalia’s National Adaptation 
+Programme of Action (NAPA) (Federal Government of Somalia, 2013), women and youth 
+are particularly vulnerable to climate change. For women, their role as primary caregivers 
+and providers of food and fuel makes them more vulnerable when flooding and droughts 
+occur. Drought compromises the hygiene of girls and women, as the little available water is 
+used for drinking and cooking. When nearby wells and water sources run dry, women—who 
+are overwhelmingly responsible for the provision of household water—have to travel longer 
+distances in search of water. Longer dry seasons mean that women work harder to feed and 
+care for their families. In both urban and rural areas, women have multiple demands in the 
+home, workplace and community, which leaves them with less time for active participation 
+in decision-making processes. Compounding these challenges, women in traditional Somali 
+communities are subject to cultural beliefs that deny them equal opportunities and rights. At 
+the same time, Somalia has a very young population, with over 80 per cent estimated to be 
+under the age of 35; unfortunately, the unemployment rate remains stuck at approximately 70 
+per cent (Federal Government of Somalia, 2020b). This makes women and youth more likely to 
+experience poverty, making it difficult for them to cope with and recover from climate change 
+impacts. 
+The government is now faced with the challenge of rebuilding state institutions in the midst 
+of recurrent and protracted conflict with the terrorist group al-Shabaab, a conflict which is 
+now concentrated mainly in the South. The conflict has fragmented the country, destroyed 
+legitimate institutions and created widespread vulnerability. Coupled with climate-related 
+disasters, this has undermined investment in key sectors such as energy, infrastructure and 
+social services, exacerbating the levels of poverty. In fact, the NDP recognizes climate change 
+disasters and conflict as key root causes of poverty in Somalia that should be addressed.
+In the last decade, Somalia has made great strides in terms of not only stability but also 
+institutional building, including the establishment of political, social, environmental and 
+economic systems that are showing great signs of progress, despite their continued fragility. 
+The country is gradually transitioning from insecurity and emergencies towards peace 
+and stability, paving the way for the development of long-term policies and strategies for 
+achieving sustainable development. This progress presents an opportunity to align the National 
+Adaptation Plan (NAP) process with the national development and peacebuilding efforts in the 
+country to ensure that climate action supports Somalia’s peacebuilding objectives and that the 
+shared drivers of both climate vulnerability and conflict start to be addressed. 
+The 8th National Development Plan (NDP) (2017–2019) and the subsequent 9th NDP (2020–
+2024) (Federal Government of Somalia, 2017 and 2020b) lay the foundation for plans and policy 
+developments aimed at achieving socio-economic transformation by taking a sustainable 
+and gender-sensitive approach. To address the climate change threat, the Somali government 
+has developed a number of policies, including NAPA 2013, Somalia’s Resilience and Recovery 
+Framework (RRF), the National Environment Policy and the National Climate Change Policy 
+2020 (Federal Government of Somalia, 2013, 2018c, 2019d, 2020a). The National Adaptation 
+Plan (NAP) process will now bring together Somalia’s adaptation and development agendas.
+=== PAGE 12 ===
+3
+Title
+The NAP process and the policies and frameworks that guide climate action in Somalia are 
+complemented by a number of ongoing climate change adaptation projects. The Green Climate 
+Fund (GCF)-financed National Adaptation Plan (NAP) Readiness Project, implemented through 
+the UNDP, will play an important role in strengthening national and state-level capacity and 
+coordination for climate change adaptation planning and implementation in Somalia. The 
+project is expected to contribute towards the implementation of the country’s adaptation 
+targets in the country’s Nationally Determined Contribution (NDC) and to be aligned with the 
+National Development Plan-9. The NAP project implementation is in its early stages, and to help 
+lay out a vision and approach to the NAP process, a NAP Framework is required. 
+1.2 Current and Future Climate Change Trends
+Somalia’s climate is generally tropical, hot and dry due to its geographical location near the 
+equator. Somalia’s coastline, the longest in Africa, contributes to temperature variations 
+between the south and north of the country. Much of the country is considered to be made 
+up of arid and semi-arid lands (ASALs), characterized by scarce erratic rains and extreme 
+temperatures. This has significant implications for both livestock and agricultural production, 
+the main sources of livelihood for the majority of the population. 
+Temperature
+Somalia has experienced significant variations in its climate during the last century, evidenced 
+by the country’s continuous uptick in its mean annual temperatures since 1991. In the last three 
+decades, maximum temperature increases were experienced in much of Somalia. Projections 
+indicate continued increases in average temperature in both the near and long term (Ogallo et 
+al, 2018). 
+The Greater Horn of Africa region will continue to warm throughout the 21st century, with an 
+increase in temperature of 3.1 °C by 2100 (Intergovernmental Panel on Climate Change, 2014). 
+Temperatures over Somalia are expected to increase at a rate of 0.3 to 0.5 °C per decade until 
+2050. This means that the mean temperature is projected to increase between 3 °C and 4 °C by 
+the end of the century. This will have significant implications for many critical sectors of Somalia’s 
+economy, including water, agriculture, livestock, fisheries, health and infrastructure, among others.
+Figure 1. Projected annual average temperature (2020–2076) 
+Source: World Bank Climate Knowledge Portal—Somalia
+=== PAGE 13 ===
+4
+Title
+Among other things, these climate-change-related temperature variations increase the risks of 
+faster breeding among disease-causing vectors and pests. Locusts, for example, have ravaged 
+Somalia’s vegetation over the past two years, destroying key crops such as sorghum and maize. 
+Climate change is also one of the main factors that can cause the extinction of certain species. 
+Climate change and the increased frequency of natural disasters have contributed to a mass 
+migration of wildlife from Somalia to neighboring countries, while the influx of invasive species 
+such as Prosopis juliflora, an evergreen shrub, has also constrained the productivity of both the 
+livestock and wildlife sectors.
+Rainfall
+Somalia has an average annual rainfall of 250 mm, which fluctuates across the country. In the 
+north, the conditions are very hot and arid, and the average annual rainfall is less than 200 
+mm, while the south-west region gets the most rain in a year, around 500 mm. Some regions 
+in Somalia receive less than 50 mm of precipitation per year (Federal Government of Somalia, 
+2021a). During the Xagaa, or long dry season, which runs from June to September, some regions 
+receive significantly less rainfall, resulting in drought incidences that often have a devasting 
+impact on livelihoods. The Gu season, characterized by long rains, usually occurs from April to 
+June, and is expected to feature increased flood incidences. The season’s peak occurs from April 
+to May. 
+Somalia’s annual rainfall is expected to increase within the next couple of decades, with mean 
+annual rainfall increasing by one per cent by 2030. Also, the seasonal rainfall variability over 
+the country will increase; this growing unpredictability will further affect major sectors such as 
+agriculture, livestock, fisheries, health and infrastructure, among others.
+The El Niño and La Niña phases of the El Niño/Southern Oscillation (ENSO) phenomenon1 are 
+closely linked to precipitation in East Africa. While the former can trigger flooding and drought, 
+the latter can trigger strong winds and cause more droughts (Eklöw & Krampe, 2019). As such, 
+Somalia is affected by both, and the effects can be devastating. 
+Somalia has witnessed increased cases of droughts and floods in the last few decades. In 1992, 
+a severe famine resulted in the death of 300,000 people (Federal Government of Somalia, 
+2018b).A pattern has emerged in the last two decades, with drought typically occurring every 
+three years; this includes the 2011 drought that resulted in the death of 250,000 people, the 
+majority of them women and children. Increased flooding has also been experienced, including 
+the 1997–1998 El Niño floods and the more recent flash floods in Belet-Weyne, Central Somalia, 
+which killed more than 20 people while displacing nearly half of the region’s population (Federal 
+Government of Somalia, 2018b).
+1  A recurring climate pattern involving changes in the temperature of waters in the central and eastern tropical Pacific 
+Ocean (https://www.weather.gov/mhx/ensowhat).
+=== PAGE 14 ===
+5
+Title
+Figure 2. Average rainfall distribution for each season 
+Source: Federal Government of Somalia, 2021
+1.3 Objectives of the NAP Framework 
+This National Adaptation Plan (NAP) Framework is designed to help guide the government of 
+Somalia in developing, coordinating and implementing the various policies, plans, strategies 
+and legislation that will help the country address its medium- and long-term adaptation needs, 
+while aligning these actions with the country’s development and continued progress toward 
+peace and stability. 
+Specifically, the objectives of the NAP Framework are to: 
+•	 Clarify Somalia’s approach to its NAP process. This will include an articulation of the 
+country’s vision of climate change adaptation, its adaptation objectives, the principles 
+that will guide adaptation in Somalia, roles and responsibilities within the national 
+government, and any priority actions to be undertaken. It will also provide a reference 
+point for bringing together various adaptation planning efforts from different sectors and 
+scales of decision-making.
+=== PAGE 15 ===
+6
+Title
+•	 Guide the government in formulating and implementing relevant policies and strategies 
+that respond to medium- and long-term adaptation priorities. 
+•	 Align the NAP process with existing policies and strategies , including those related to 
+peacebuilding, conflict and gender equality, and with adaptation research. 
+•	 Focus on specific themes that are particularly relevant or unique to the country’s context, 
+including gender-responsive adaptation planning and implementation. 
+The NAP Framework is designed to ensure that the NAP process in Somalia does not contribute 
+to the proliferation of planning processes and related documents. It will not only help the 
+government of Somalia build the momentum needed for its NAP process, as it initiates its Green 
+Climate Fund (GCF) NAP Readiness Programme project, but will also help position the country 
+to maximize the expected benefits coming from the GCF and other funding sources. 
+1.4 Methodology 
+The NAP Framework was developed under the direction and coordination of the Directorate of 
+Environment and Climate Change (DoECC), which lies within the Office of the Prime Minister 
+of the Federal Government of Somalia. The NAP Framework for Somalia takes into account the 
+country’s sectoral vulnerabilities, the gender dimensions of climate change, the peacebuilding 
+context and the impacts of climate change in Somalia. It builds on the ongoing work of NDC 
+revision, the GCF NAP Readiness Project, and other relevant projects and programs. 
+Below is an overview of the methodology used for the development of the Framework.
+1) DESK REVIEW 
+The NAP Framework was developed based on an extensive review of key climate-related 
+documents, including (Federal Government of Somalia, 2020b, 2021a, A?, 2013, 2020a, 2018b, 
+2018c, 2018d, GCF 2019): 
+•	 The National Development Plan-9 
+•	 The Nationally Determined Contribution – Adaptation Baseline 2020 
+•	 National Adaptation Programme of Action (NAPA) 
+•	 National Climate Change Policy 
+•	 Drought Impact Needs Assessment; 
+•	 Recovery and Resilience Framework 
+•	 Somali National Disaster Management Policy 
+•	 Somalia NAP GCF Readiness Proposal. 
+This review was complemented by a review of the draft National Gender Policy (Federal 
+Government of Somalia, 2018), the UN Sustainable Development Cooperation Framework 
+(2021–2025), national and UN peacebuilding reports, and sectoral and state policies and plans, 
+among others. Other relevant international reports and reports from countries in the region were 
+also reviewed.
+=== PAGE 16 ===
+7
+Title
+2) STAKEHOLDER CONSULTATIONS 
+Stakeholder consultations underpinned the whole NAP Framework development process. The 
+lead consultant worked under DoECC and with support from a local consultant to undertake 
+stakeholder consultations, including through FGDs, with the interviews providing inputs and 
+informing the draft. Key stakeholders consulted included representatives from government, 
+international partners, civil society and the private sector, with the interviews guided by a need 
+to ensure inclusivity. Consultations were held with key stakeholders in the ministry responsible 
+for the environment and climate change, as well as other relevant ministries such as the 
+Ministry of Women and Human Rights Development, to develop a detailed outline for the NAP 
+Framework. The draft NAP Framework was shared with stakeholders for feedback. Somalia’s 
+NAP focal point provided a list of relevant actors to speak with. 
+3) VALIDATION 
+A validation workshop was organized to present the draft NAP Framework to relevant 
+stakeholders and to gather feedback on the document. The validation meeting involved all key 
+NAP process stakeholders, including government departments and institutions (federal and 
+state), non-government organizations (local and international), private-sector representatives, 
+researchers and academics. Comments and inputs from the validation meeting were 
+incorporated into the draft, and a final and validated NAP Framework was submitted for final 
+government review and approval.
+=== PAGE 17 ===
+8
+Title
+2.0 Somalia’s National 
+Adaptation Plan Process
+2.1 Overview of the National Adaptation Plan Process 
+The National Adaptation Plan (NAP) process is a strategic, iterative process that helps 
+countries conduct comprehensive medium- and long-term climate adaptation planning. It is a 
+flexible process that builds on the country’s existing adaptation activities and helps integrate 
+climate change into national decision-making. 
+The NAP process was established under the UN Framework Convention on Climate Change 
+to enable developing countries, including least-developed countries (LDCs), to formulate and 
+implement NAPs (LDC Expert Group, 2012). Building on the National Adaptation Programme of 
+Action (NAPA)—which focused on short-term, urgent and immediate adaptation needs—the 
+NAP process is designed to offer LDC countries like Somalia an opportunity to take a more 
+considered approach, working towards transformational change in their capacity to address 
+adaptation, with a medium- to long-term approach to reducing vulnerability. This includes the 
+institutional arrangements and capacities that have been built, the awareness-raising efforts 
+that must be undertaken, and any assessments of vulnerabilities and adaptation priorities that 
+are required. It is an entirely country-owned process; there is no one way to develop a NAP, and 
+each country’s NAP will match and meet its unique context. This section highlights the goals, 
+mandates and status of Somalia’s NAP process. 
+2.2 Goals of the NAP Process
+The overall goal of Somalia’s NAP process is to reduce vulnerabilities to the impacts of climate 
+change and build the resilience of the country and its communities. Specifically, the NAP 
+process aims to: 
+•	 Define medium- and long-term climate adaptation actions and initiatives for 
+implementation by state and non-state actors.
+•	 Facilitate the integration of climate change adaptation, in a coherent manner, into 
+development planning processes and strategies, within all relevant sectors and at 
+different levels.
+•	 Enhance the coordination of climate change adaptation in the country.
+•	 Promote the mobilization of resources to respond to Somalia’s climate change adaptation 
+needs.
+=== PAGE 18 ===
+9
+Title
+2.3 Mandate for the NAP Process
+Somalia’s NAP process is clearly mandated in its development plans and objectives, given 
+that climate change has been identified as a core issue in the country’s development. This is 
+particularly clear in Somalia’s most recent National Development Plan (NDP-9), as well as its 
+National Climate Change Policy; these two documents, alongside other relevant climate-related 
+legislation and policy, explicitly call for the increased integration of Somalia’s development and 
+climate adaptation agendas. The NAP offers a crucial opportunity for bringing these together, 
+alongside continued local, regional and national efforts to build peace and stability. 
+The National Development Plan (NDP-9) for 2020–2024 provides for the country’s development 
+priorities for the next five years. Climate change resilience-building is a key theme of the NDP-
+9, and the plan recognizes the threats that climate change poses to the government meeting its 
+development objectives. Further, it recognizes the poor as the most vulnerable to the impacts 
+of climate change. The plan recommends strategic interventions across all vulnerable sectors 
+of the economy to enhance resilience, while also calling for emissions reductions. There is a 
+need for the NAP process to inform and complement the effective implementation of the 
+interventions described in the NDP-9 and subsequent NDPs to ensure the sustainable and 
+resilient development of Somalia. 
+Somalia’s National Climate Change Policy offers further strategic direction for the NAP 
+process, particularly on adaptation measures, social development and the mitigation of climate 
+change impacts. The policy captures the sectoral laws and strategies that form the legislative 
+foundation for specific activities that need to be evaluated for potential improvements in order 
+to enhance those activities’ ability to tackle climate change challenges and exploit emerging 
+opportunities. The policy calls for better coordination of climate change adaptation in the 
+country and for opportunities for cooperation and collaboration between the national and sub-
+national levels of government, as well as with development partners and with international and 
+regional institutions. The policy also argues for mainstreaming climate change into the federal 
+government, state, regions and districts, and into local-level planning processes, including 
+national development policies and plans and state development plans. 
+The Somali National Disaster Management Policy is another key foundational policy for the NAP, 
+as it aims to strengthen community resilience and preparedness for disasters and emergencies. 
+The policy seeks to provide a legislative framework for disaster management within government 
+institutions while also strengthening the coherence and coordination of humanitarian support 
+from international donor organizations. 
+This mandate extends down from the national level; besides the federal policies, the Somalia 
+NAP process is also guided by other sectoral and state policies and legal frameworks that 
+support the adaptation actions, including Somalia’s Integrated Water Resources Management 
+Strategy, the Puntland Five-Year Development Plan (2019–2024) and the National Energy Policy 
+(2018), among others.
+=== PAGE 19 ===
+10
+Title
+2.4 Status of the NAP Process in Somalia 
+Adapting to climate change is crucial in Somalia’s pursuit of sustainable development and 
+stability. To date, climate adaptation actions are implemented by sector ministries, federal 
+member states and CSOs, with support from development partners in Somalia. This work is 
+guided by the DoECC, which is based in the Office of the Prime Minister and is the overall 
+technical institution mandated to coordinate climate action and implement climate policy. 
+However, the DoECC’s role is hampered by a lack of technical, human and financial capacities 
+to effectively undertake its mandate. This has resulted in formalized and structured horizontal 
+or vertical coordination mechanisms for adaptation planning and actions at the federal level, 
+and undefined federal-state roles for climate change adaptation. This has led to a fragmented 
+response to humanitarian emergencies as well as weak linkages between immediate relief, 
+recovery and longer-term adaptation and development. 
+The NAP is to be designed and implemented to address these challenges. Somalia is now at 
+the initial phase of its NAP process, and it currently starting to implement its NAP Readiness 
+Project, which is funded by the Green Climate Fund (GCF) and will have the United Nations 
+Development Programme (UNDP) act as its implementing partner. The overall goal of the 
+Readiness Project is to strengthen national and state capacities and coordination for climate 
+change adaptation planning and implementation in Somalia. The project has three primary 
+expected outcomes, each of which are divided into anticipated sub-outcomes and outputs 
+to address the barriers to mainstreaming climate change adaptation in national systems. The 
+expected outcomes of the project are (Green Climate Fund, 2019): 
+•	 Enhanced national institutional coordination and capacity for adaptation planning. 
+•	 Strengthened capacity for climate change adaptation planning at the state level.
+•	 Strengthened financial planning for climate change adaptation. 
+Through its expected outputs and outcomes, the project aims to support the establishment of 
+a national climate change adaptation plan to serve as a baseline and to guide future climate 
+change adaptation policies and projects. The NAP report and process will identify Somalia’s 
+medium- and long-term adaptation needs and will be informed by the latest assessment and 
+reports. This NAP Framework, in laying out the NAP’s vision, guiding principles and approach, 
+among other things, is designed to inform the development of Somalia’s NAP process at the 
+outset of the Readiness Project.
+=== PAGE 20 ===
+11
+Title
+3.0 Linking the Nap Process to 
+the Broader Policy Context 
+Climate change is a key development challenge for Somalia. Climate change impacts, such as 
+severe and more intense floods, heat waves and droughts, continue to have devastating effects 
+on the lives and livelihoods of Somalis and on the wider economic development of the country; 
+this risks reversing the hard-gained though modest development and security milestones that 
+the country has achieved over last few years. It is crucial that Somalia’s adaptation planning 
+be integrated into its development planning and budgeting processes at both the federal and 
+member state levels and across sectors. This section aims to explore linkages between the 
+Somalia NAP process and the broader national development planning and policy discourse—
+including peacebuilding—with a view to identifying key entry points and the added value of the 
+NAP process in relation to the development documents.
+3.1 Relevant Policy and Regulatory Frameworks and the 
+Somalia NAP Process 
+NATIONAL DEVELOPMENT PLAN (NDP), 2020
+The NDP is Somalia’s development blueprint. It lays out the country’s key priorities for the 
+development period, usually for a period of five years. It is essential that the short- and 
+medium-term adaptation priorities of the NDP are reflected in the NAP process; this will help to 
+facilitate effective linkages (including implementation) with sectoral ministries, federal member 
+states and other development actors, in both their planning and budgeting processes. 
+The current plan is the NDP-9, which covers the period of 2020–2024. The NDP-9 identifies 
+climate change as one of the key root causes of poverty in Somalia; for development to 
+succeed, climate-proofing economic growth is crucial. As such, climate change resilience-= 
+building is a key theme of the NDP-9. The plan recognizes the country’s vulnerabilities to climate 
+change impacts, such as frequent and intense floods and droughts. It also notes that these can 
+exacerbate population displacements, conflicts and poverty, particularly in a context in which 
+they are increasing in their frequency and intensity. The plan recognizes the poor as the most 
+vulnerable to the impacts of climate change.
+Climate change is mainstreamed into the economic development pillar of the NDP, with an 
+emphasis on enhancing adaptation and building the climate change resilience of the agriculture 
+and livestock sector (mainstay of the economy and livelihoods). NDP-9 outlines priority 
+interventions in each of three pillars and in all vulnerable sectors of economy to both prevent 
+and respond to climate crisis and its effects. These include water management investments, 
+social protection and investment in renewable energy for Somalia. The NAP’s alignment with 
+this plan and its prioritized actions will be crucial to its success.
+=== PAGE 21 ===
+12
+Title
+THE NATIONAL ENVIRONMENT POLICY, 2019
+The National Environment Policy (NEP), approved by Cabinet, is a core document concerning the 
+sustainable management of natural resources for Somalia. It treats climate change and disaster 
+management as emerging environmental issues. In this policy document, the government seeks 
+to adopt mitigation and adaptation approaches to deal with climate change. 
+This policy recognizes that many of the natural disasters in Somalia, such as floods and 
+drought, are climate-related and that their negative impacts cut across all key sectors of the 
+economy. The NEP is a core document concerning the sustainable management of natural 
+resources for Somalia. It provides the necessary government policy regarding climate change in 
+the areas of biodiversity protection,  GHG emissions reduction, waste and clean technology. The 
+NEP acknowledges that Somalia has a limited adaptive capacity when it comes to the impacts 
+of climate change. The policy also emphasizes that country’s continued vulnerability to climate 
+change and the threat this poses to achieving long-term development goals should thus be 
+recognized. Further, the policy states that the government shall adopt various measures to 
+overcome the many challenges brought on by climate change. 
+NATIONAL CLIMATE CHANGE POLICY, 2020
+This overarching national climate change policy serves as the pillar for comprehensive 
+sectoral strategies and action plans. The policy offers a strategic direction, particularly on 
+adaptation measures, social development and the mitigation of climate change impacts. The 
+policy captures sectorial laws and strategies that form the legislative foundation for specific 
+activities that need to be evaluated in order to determine potential improvements that could 
+enhance their ability to tackle climate change challenges and exploit emerging opportunities. 
+The policy enables better coordination of climate change work in the country and provides 
+opportunities for cooperation and collaboration between the national and sub-national levels 
+of government as well as with development partners and with international and regional 
+institutions. The policy also stipulates the country’s vision and strategies that recognize the 
+importance of climate change and of international agreements and national commitments on 
+climate change.
+SOMALIA’S NATIONALLY DETERMINED CONTRIBUTION (NDC), 2021
+NDCs are climate change plans and contributions submitted by countries as part of their 
+commitment to the Paris Agreement, which Somalia ratified in 2016. Somalia submitted an 
+Intended Nationally Determined Contributions (INDC) in 2015, which included nationwide 
+sectoral mitigation and adaption measures. The document provides a brief overview of 
+Somalia’s climate and some economic drivers of vulnerability. The enhanced Nationally 
+Determined Contribution (2021–2030) submitted by Somalia in 2021 has comprehensive 
+adaptation and mitigation actions to be implemented by the country. The NAP will complement 
+Somalia’s NDC, outlining how the country intends to meet its medium- and long-term 
+adaptation priorities and reduce climate vulnerabilities. 
+SOMALI NATIONAL DISASTER MANAGEMENT POLICY, 2018 
+The Somali National Disaster Management Policy aims to strengthen community resilience 
+and preparedness for disasters and emergencies. The policy seeks to provide a legislative
+=== PAGE 22 ===
+13
+Title
+framework for disaster management within government institutions while also strengthening 
+the coherence and coordination of humanitarian support from international donor 
+organizations. The framework provides guidelines for incorporating disaster risk reduction into 
+the national development planning process, and will outline priority investments in disaster 
+preparedness, early warning, mitigation and recovery. This policy provides an entry point for 
+exploiting synergies between disaster risk reduction and climate change adaptation in terms 
+of institutional support and developing project pipelines; the NAP will build on the work of this 
+policy and on the lessons learned to date in its implementation.
+DROUGHT IMPACT NEEDS ASSESSMENT AND RECOVERY AND RESILIENCE FRAMEWORK, 
+2018 
+The Drought Impact Needs Assessment estimated the impacts of the 2016–17 drought 
+on Somalia and attempted to identify key adaptation needs. The assessment fed into the 
+development of a Recovery and Resilience Framework (RRF).
+The RRF will support Somalia’s progress from early drought recovery through to longer-term 
+resilience and disaster preparedness and is intended to enable the country to break the cycle of 
+vulnerability and humanitarian crisis caused by frequent climate-related shocks. The Framework 
+aims to facilitate a more efficient financial response by the Government of Somalia and its 
+development and humanitarian partners, primarily using current funding modalities and aid 
+coordination structures.
+The RRF aims to: 
+•	 strengthen the capacity of the government to support drought recovery and improve 
+disaster risk management; 
+•	 revitalize, strengthen and diversify economic livelihoods and key infrastructure; 
+•	 promote durable solutions for displacement-affected communities; 
+•	 enhance the sustainable management of natural resources and access to renewable 
+energy; and
+•	 improve primary service delivery in affected urban and peri-urban areas. 
+The RRF has prioritized the following sectors: agriculture, nutrition, education, transport, 
+environment, social protection, gender, governance, disaster management, and water, sanitation 
+and hygiene (WASH).
+NATIONAL VOLUNTARY LAND DEGRADATION NEUTRALITY TARGETS (LDN), 2020
+This document, developed under global initiative of the United Nations Convention to 
+Combat Desertification (UNCCD), recognizes land degradation caused by drought as a major 
+impediment to national economic development as it adversely affects livestock and agriculture, 
+which contributes heavily to its Gross Domestic Product (GDP). Some of the targets set under 
+the document include: 
+•	 achievement of LDN by 2030 as compared to baseline 2015 (no net loss) 
+•	 improvement of an additional 10 per cent of the territory by 2030
+=== PAGE 23 ===
+14
+Title
+•	 increase of national forest cover from 10.14 per cent (2015) to 10.20 per cent (2022) 
+and maintained at 30 per cent by 2030 through agroforestry and sustainable land 
+management 
+•	 reduced consumption of biomass energy by half 
+•	 reduced soil erosion 
+•	 reduced conversion of forests and wetlands into other uses 
+•	 restoration and increase of land productivity. 
+SOMALIA’S NATIONAL BIODIVERSITY STRATEGY AND ACTION PLAN (NBSAP), 2015 
+The NBSAP, developed under the Convention on Biological Diversity in 2015, has direct linkages 
+with biodiversity and climate change response in the country. The strategy aims to establish 
+understanding of drivers of biodiversity degradation, many of which are shared with climate 
+vulnerability, and to devise response measures. The strategy identifies gaps in capacities, policy 
+and resource mobilization and coordination for the effective management and monitoring of 
+biodiversity, and how these must be addressed. Complementing these response strategies 
+through the NAP will lead to shared benefits for climate resilience and biodiversity.
+NATIONAL ADAPTATION PROGRAMME OF ACTION (NAPA), 2013
+Somalia’s National Adaptation Programme for Actions on Climate Change (NAPAs) was 
+submitted to UNFCCC in April 2013. It was the first national-level document to identify 
+the urgent and immediate climate change adaptation needs of the most vulnerable groups 
+throughout Somalia. It provides the starting point from which climate change adaptation 
+can be mainstreamed into development plans as a critical strategy for attaining sustainable 
+development and poverty reduction (MDG, 2010). The NAPA acknowledges and addresses the 
+fact that climate change has and will continue to have wide-ranging impacts within and across 
+multiple sectors and that the knowledge and capacity to respond is lacking. The document 
+presents an analysis of institutional, financial, technological and informational barriers facing 
+climate action in Somalia. The NAPA has three main objectives: to build community awareness 
+on climate change, to increase monitoring and risk forecasting capacities, and to support the 
+adoption of government policies and strategies to improve resilience to climate risks among 
+vulnerable population groups (including women and children) and economic sectors. The NAP 
+intends to build on the legacy of this important document, extending its timeline beyond urgent 
+and immediate needs to medium- and long-term climate resilience.
+NATIONAL ENERGY POLICY (NEP), 2018 
+The overall objective of the NEP is to increase access to efficient, affordable and sustainable 
+energy for urban and rural communities in order for the private sector to thrive and for the 
+public sector to meet national energy demand in order to provide better essential services, 
+boost economic growth and reduce poverty. The policy promotes the widespread production, 
+use and storage of renewable energy through diversification, innovation, technical cooperation 
+and technology transfer as a way of reducing deforestation pressures for biomass energy 
+generation. It also promotes investment in modern, integrated and commercially viable models 
+of energy supply. The NAP’s alignment with the National Energy Policy is crucial for the 
+advancement of shared goals, such as reduced deforestation, but also given that the provision
+=== PAGE 24 ===
+15
+Title
+of reliable renewable energy will be a central component of Somalia’s development strategy 
+going forward. 
+SOMALIA NUTRITION STRATEGY, 2020–2025
+Somalia’s Nutrition Strategy was developed by the federal government’s Ministry of Health 
+and Human Services. The strategy aims to ensure the provision of quality nutrition services 
+to all people, with a specific focus on the most vulnerable, including women and children. It 
+targets the strengthening of local and national capacities of workers involved in the sector to 
+contribute to the overall enhancement of the quality of health service delivery in Somalia. The 
+Somalia Nutrition Strategy (2020–2025) is aligned with the NDP and other downstream policies 
+and strategies, and is designed to address the triple burden of malnutrition: the coexistence of 
+overnutrition, undernutrition and micronutrient deficiencies. It is also designed to contribute 
+to the achievement of the nutrition-related Sustainable Development Goals (SDGs), World 
+Health Assembly resolutions, and Global Nutrition Targets for 2025. Much work remains to be 
+done; the evidence points to a high continued malnutrition rates among children under five and 
+women, particularly during climate-change-related flash floods or extended drought periods, 
+both of which serve to undermine household food security. A key aspect of the NAP will be 
+ensuring food security in the face of a changing climate; alignment with the Nutrition Strategy 
+is therefore crucial.
+INTEGRATED WATER RESOURCES MANAGEMENT (IWRM) STRATEGY 
+This strategy is under development. It will co-ordinate integrated water management, guide the 
+creation of appropriate rates and standardize best practices.
+SOMALIA’S INITIAL NATIONAL COMMUNICATION (INC), 2018
+The INC, submitted to UNFCCC in 2018, highlights the country’s situational context with 
+respect to climate change and its steps towards the implementation of the UN Climate 
+Convention as well as proposed mitigation and adaptation strategies. The report indicates 
+that Somalia’s climate change actions aim to safeguard the environment, sustain the society 
+and support economic growth and sustainability for future generations. It also promotes a 
+comprehensive nationwide response to climate change actions, including adaptation, mitigation 
+and creating resilient communities. The report indicates overall gaps and constraints, including 
+the capacity, financial and technological challenges faced by the country in its efforts to 
+respond to climate change. 
+NATIONAL CAPACITY SELF-ASSESSMENT TOWARDS IMPLEMENTING RIO CONVENTIONS, 
+2017
+The National Capacity Self-Assessment outlines the key challenges Somalia faces in meeting 
+the commitments outlined in the Rio Convention. This document highlights some of the key 
+national-level capacity gaps for responding to the challenges of climate change, biodiversity 
+loss, ecosystem degradation and conflict and security.
+DRAFT NATIONAL ENVIRONMENT STRATEGY AND ACTION PLAN (NESAP), 2021
+The Federal Government of Somalia, with support from UNEP, has prepared a draft NESAP 
+whose main goal is to put in place mechanisms and measures to ensure the sustainable
+=== PAGE 25 ===
+16
+Title
+management and use of Somalia’s rich natural and environmental resources for the wellbeing 
+of the people and for the growth and development of the economy. The strategy has four 
+strategic objectives: strengthening governance, conducting assessments, implementing priority 
+interventions, and increasing public awareness and knowledge management for effective 
+environmental management and climate change response. Climate change is a key challenge 
+elaborated in the NESAP, and it recommends measures to assess climate change risks and key 
+adaptation measures to be implemented for the next five years. The NAP should be fully aligned 
+with and build on this risk assessment and identification of adaptation measures. 
+DRAFT CHARCOAL POLICY, 2020
+The draft Charcoal Policy aims to halt the export of charcoal from Somalia and to regulate 
+its domestic consumption in a sustainable manner in order to minimize the negative socio-
+economic and environmental impacts of domestic charcoal production, including deforestation. 
+The policy will also pave the way for promoting alternative energy sources by providing 
+alternative livelihoods to the charcoal value chain beneficiaries involved in the charcoal 
+production and trade. 
+DRAFT GENDER POLICY, 2020 
+Somalia’s draft gender policy aims to establish a framework to guide the process of developing 
+and implementing legislation, policies, and programs that will promote equal rights and 
+opportunities for women and men in all spheres of life. Specifically, the policy’s objectives are to 
+eliminate gender discrimination, reduce inequalities, increase women’s participation in decision-
+making, promote women’s empowerment, create awareness and positive culture change and 
+enhance the government’s accountability. The policy proposes priority interventions in the 
+sectors of economic empowerment, health, education and political participation. Responsibility 
+for undertaking these interventions lies with all actors, including government ministries, 
+directorates and agencies, local governments, the private sector and civil society. Promoting 
+gender equality will be a guiding principle for the NAP. 
+THE UNITED NATIONS SUSTAINABLE DEVELOPMENT COOPERATION FRAMEWORK, 2020
+The United Nations Sustainable Development Cooperation Framework (2021–2025) represents 
+the commitment of the Federal Government of Somalia and the United Nations to work 
+together to achieve peace, stability and prosperity for all Somalis in support of the 2030 
+Agenda for Sustainable Development and the Sustainable Development Goals.
+The Cooperation Framework reflects the commitment of the United Nations in Somalia to 
+advancing Somalia’s peace and development priorities and fully aligning its support to the 
+Somalia’s National Development Plan-9 in a spirit of partnership, cooperation, transparency 
+and mutual respect, in accordance with the 2017 New Partnership for Somalia. The Cooperation 
+Framework also serves as the United Nations’ accountability framework to the Federal 
+Government of Somalia and its people. The Cooperation Framework’s strategic priorities are 
+inclusive politics and reconciliation, security and rule of law, economic development and social 
+development. Recognizing that climate change impacts can exacerbate local and national 
+conflict drivers, and that stability and security will not be achieved without increased climate 
+resilience, climate change actions are mainstreamed in the strategic priorities of the framework, 
+particularly under security and rule of law, economic development and social development. The
+=== PAGE 26 ===
+17
+Title
+NAP, through a comprehensive and participatory identification and implementation of priority 
+climate actions, can help to address some of the shared vulnerabilities to both climate impacts 
+and conflict in Somalia. 
+UN GENDER EQUALITY STRATEGY, 2018–2020
+UN organizations play a key role in Somalia’s development. The UN Gender Equality Strategy 
+(2018–2020) provides a framework for planned, systematic and collective attention to gender 
+equality and women’s empowerment and action by the different UN entities in line with global 
+commitments and commitments in the diverse assistance and co-operation frameworks 
+to Somalia. The Strategy responds to the country’s current gender inequalities and related 
+developmental challenges, and articulates the centrality of gender mainstreaming in the 
+implementation of the assistance and cooperation frameworks of the UN. It also provides a 
+framework and guidance for the promotion and institutionalization of gender mainstreaming, 
+which will continue in the NAP process. It calls for a greater accountability for delivering 
+gender-related results, and offers practical tools and guidance on how to achieve this. The 
+implementation plan of this Strategy sets out in detail the actions, actors and timeframe for 
+realizing results and fulfilling the objectives and goals set forth in the Strategy.
+3.3 GCF Readiness Proposal and Somalia NAP Process
+NAP READINESS PROJECT 
+Somalia is implementing a National Adaptation Plan (NAP) Readiness Programme funded by the 
+GCF, with implementation support from UNDP. The overall goal of the project is to strengthen 
+national and state-level capacity and coordination for climate change adaptation planning and 
+implementation in Somalia. The project has three primary expected outcomes, each of which 
+are divided into expected sub-outcomes and outputs to address the barriers to mainstreaming 
+climate change adaptation in national systems. Through its outputs and outcomes, the projects 
+aim to support the establishment of a national climate change adaptation plan to serve as a 
+baseline and to guide future climate change adaptation policies and projects. The expected 
+outcomes of the project are: enhanced national institutional coordination and capacity for 
+adaptation planning, strengthened capacity for climate change adaptation planning at the 
+state level, and strengthened financial planning for climate change adaptation (Green Climate 
+Fund, 2019). The ultimate objective of the NAP Readiness Project is to develop to identify 
+medium- and long-term adaptation needs informed by the latest assessment and reports. The 
+NAP Readiness Project is currently in its initial planning phase, with the project management 
+team being established. 
+NATIONAL DESIGNATED AUTHORITY (NDA) READINESS PROJECT
+The government of Somalia is developing a second proposed Readiness Project for submission 
+to the GCF. It will be the first readiness request to the GCF outside of NAP Readiness Project. 
+The proposal is under development in close consultation with the Global Water Partnership 
+(GWP). Activities under this request will fill the urgent need for strengthening the National 
+Designated Authority (NDA) and with the development of a GCF Country Program, a climate
+=== PAGE 27 ===
+18
+Title
+finance policy and project pipeline for Somalia, and concept note. Key priorities to be elaborated 
+in the country program and project pipeline will include adaptation priorities and actions.
+3.4 Linkage to Peacebuilding Initiatives 
+The security situation in Somalia has improved in recent years, but remains fragile, and the 
+gains could be reversed if they are not consolidated. Climate change and its effects, including 
+droughts leading to water and pasture scarcity, are recognized as a significant cause of conflict 
+in Somalia’s nomadic pastoralist societies. Recurrent recent droughts and related environmental 
+shocks have contributed to increased poverty, displacement, biodiversity loss and, ultimately, 
+exacerbated conflict (Federal Government of Somalia, 2020b). To strengthen the sustainability 
+of both climate adaptation and peacebuilding efforts, it is essential that inclusive and gender-
+responsive climate action be integrated into peacebuilding and state-building efforts.
+Some of the key policies related to peacebuilding efforts in Somalia, and their links to climate 
+change and the NAP process, are described below. 
+NATIONAL RECONCILIATION FRAMEWORK (NRF) 
+The goal of the NRF is to contribute to a sense of sustained peace and stability by laying the 
+ground for genuine, comprehensive national reconciliation for the Somali people. It will do so 
+by restoring trust among different segments of the population and increasing confidence in 
+all levels of government institutions, resulting in peaceful coexistence, renewed relationships, 
+and social and economic recovery. Social reconciliation is a key pillar of the NRF, which aims 
+to address issues around disputed areas and lands by addressing the challenges of the past, 
+including a lack of trust, suspicion, clan rivalry, active conflicts, displacement, destruction of 
+traditional mechanisms, poor clan leadership, and the relationship between clan and state. 
+Adapting to climate change, through the NAP process, could provide a shared challenge around 
+which formerly conflictual parties can unite and build dialogue, trust and partnership. 
+NATIONAL STABILIZATION STRATEGY (NSS) 
+The overall goal of NSS is to improve stability in Somalia by delivering tangible results that 
+strengthen cohesion within communities and between communities and their government. 
+The purpose of the strategy is to support a combination of peacebuilding and state-building 
+interventions and to prevent violence through, among other efforts, engaging communities in 
+dialogue to address their legitimate grievances, developing confidence-building measures, and 
+expanding socio-economic opportunities to build resilient communities and reduce poverty. 
+The focus areas are community recovery, social reconciliation, local governance, and rule of law. 
+The inclusion of women, youth and other vulnerable or under-represented groups in stabilization 
+efforts is a core element of the strategy. The stabilization interventions are collectively intended 
+to remove conflict drivers that are exploited by al-Shabaab, and to develop more inclusive, 
+accountable and democratic structures. As with the NRF, a participatory, inclusive and gender-
+responsive NAP process could provide one means of achieving the objectives of the NSS.
+=== PAGE 28 ===
+19
+Title
+THE WADAJIR FRAMEWORK FOR LOCAL GOVERNANCE 
+This framework was adopted in November 2015, outlines a series of measures focusing on the 
+third tier of the government structure: the district level. The Wadajir Framework recognizes the 
+crucial functions performed by the elected and lowest level of government, while maintaining 
+sufficient coherence within the state and society structures. Decentralized governance 
+arrangements and service delivery are pivotal in building incremental trust between citizens and 
+federal, state and local government. Therefore, the implementation of the Wadajir Framework for 
+Local Governance will be an extension of the government’s bottom-up approach to political and 
+local security stabilization. Similarly, resilience-building will be impossible without the cooperation 
+and input of local governments; it is at this level that climate impacts are most felt, and most 
+effectively addressed. The lowest level of government will play an important role in Somalia’s 
+evolving governance arrangement and thus should be engaged fully in the NAP process.
+3.5 Linkage with COVID-19 Preparedness and Response Plan 
+The Somalia COVID-19 Country Preparedness and Response Plan (CPRP) is a joint effort by 
+UN agencies and cluster partners, including NGOs, to respond to the direct public health and 
+indirect immediate humanitarian and socio-economic consequences of COVID-19. The plan 
+does not include a program for “building back better.” The plan recognizes climate change as a 
+threat multiplier aggravating the already fragile situation, increasing threats to food security 
+and livelihoods and thus also increasing social tension and conflicts, including increases in 
+domestic violence, human rights violations, violence against vulnerable populations, and inter-, 
+intra-communal and clan violence. As the country undertakes recovery plans, it is essential that 
+climate change adaptation and resilience-building be incorporated into these planning and 
+budgeting processes. This can be included in all vulnerable sectors that are also of priority in 
+recovery efforts, including water, agriculture and livestock, energy and the informal sector.
+3.6 Added Value of the NAP Process in Relation to These 
+Other Policy Documents
+The NAP process can help to identify priority adaptation goals and translate them into action 
+to support the wider federal and federal member states’ development planning and policy 
+processes in Somalia. The NAP process 
+•	 highlights and provides focus on the importance of adaptation and resilience-building 
+actions in development; 
+•	 supports the integration of climate change adaptation into national and sub-national 
+level development planning and budgeting processes; 
+•	 enhances synergies between adaptation and mitigation actions for a low-carbon and 
+climate-resilient economy; 
+•	 enhances linkages between adaptation and peacebuilding efforts; and 
+•	 enhances the resilience of vulnerable populations to climate shocks through adaptation 
+and disaster risk reduction strategies.
+=== PAGE 29 ===
+20
+Title
+Furthermore, the NAP process can inform possible future iterations of the NDC adaptation 
+goals, and help align the NDC to broader sustainable development goals and Somalia’s other 
+international commitments, such as the Sendai Framework for Disaster Risk Reduction and 
+the Convention on Biological Diversity. The NAP process can also support the establishment 
+of coherent and strengthened governance structures at the national level, and, through linking 
+the NAP to other planning and policy processes, can prevent the duplication of efforts and 
+promote transparency, access to limited resources and efficient use of those resources. NAP 
+timelines, focused on the medium to long term, are well aligned with those of the NDP-9 and 
+other development and peacebuilding agendas, and the resources available to Somalia through 
+the NAP process can serve to further strengthen the capacities, institutions and governance 
+mechanisms needed to build lasting resilience and peace (Crawford & Church, 2020).
+=== PAGE 30 ===
+21
+Title
+4.0 Approaches and Structure 
+for the Nap Process 
+4.1 Context 
+Somalia is emerging from a series of protracted civil conflicts which have significantly hindered 
+the country’s natural resources management, climate change response and related governance 
+structures. While terrorism remains a critical threat in the south of the country, in the last 
+decade, there is reason for optimism; relative stability has returned to parts of the country, and 
+governance structures are improving, even if they are not yet as effective as the systems that 
+existed before the war. One of the more recently established institutions  is the DoECC, which is 
+responsible for managing, coordinating and supervising all matters relating to the environment 
+and climate change in Somalia. The DoECC continues to play a critical role in putting in place 
+the policies and legislative frameworks for addressing climate change in the country, and will 
+lead the NAP process.
+Under the Climate Change Policy, the federal government has to set up a climate change 
+coordination mechanism to mainstream climate action across the breadth of government. A 
+high level Coordination committee  is chaired by the Deputy Prime Minister and comprising 
+of the Ministers for planning and economic promotion, finance, humanitarian and disaster 
+management, fisheries and marine resources, agriculture, livestock and pasture, and power and 
+water. Actions across all vertical levels of government are to be coordinated at technical level by 
+an intergovernmental coordination mechanism involving state-level officials of the environment 
+and chaired by the Director-General of the Environment Directorate at the federal level. The 
+DoECC will spearhead the NAP process, with priorities emerging from the federal government 
+and member state stakeholders. 
+4.2 Specific Themes for the Somalia NAP Process
+Through consultation with affected stakeholders, a number of key issues and themes emerged 
+for Somalia’s NAP process. 
+4.2.1 Enhancing Vertical Integration
+Somalia’s federal government is based in Mogadishu, and governance is officially divided into 
+six semiautonomous federal member states and one special region, each of which in turn 
+are divided into districts. The federal member states are Southwest, Somaliland, Hirshabelle, 
+Jubbaland, Galmudug, Puntland, and the Banadir Regional Administration.The NAP process, led 
+by the federal government, has to make deliberate and strategic linkages between adaptation 
+planning, implementation, and monitoring and evaluation at the federal and federal member 
+state levels so that these activities can be aligned, informed and mutually supportive. Vertical
+=== PAGE 31 ===
+22
+Title
+integration between these levels of governance will enable sub-national authorities and local 
+organizations to access the information, resources (including finance) and capacity they need 
+to plan and implement adaptation. Additionally, this will facilitate the capturing of sub-national 
+adaptation processes, outcomes and learning, while ensuring that national-level results and 
+lessons are shared to inform sub-national planning and implementation (Dazé, Price-Kelly & 
+Rass, 2016). Clear coordination structures should be put into place that bring together federal 
+member states and federal government stakeholders through the planning and implementation 
+of adaptation actions. 
+4.2.2 Alignment with National Development Plans and Peacebuilding 
+Processes 
+There is a clear link between climate change, conflict and poverty in Somalia. Thus, the effective 
+mainstreaming of adaptation planning will require that adaptation priorities be aligned with 
+and integrated into National Development Planning, the Nationally Determined Contribution 
+(NDC) and peacebuilding processes. The priorities identified in the NAP and NDC should be 
+incorporated into the implementation process of the NDP-9, respective sector strategies 
+and plans, and peacebuilding initiatives. Similarly, the objectives and timelines of the NDP 
+and peacebuilding agendas should be reflected in the NAP. NDP-9 is already incorporating 
+climate change considerations, and is aiming to build on NDP-8’s inclusive national planning 
+process, which created widespread awareness about planning and therefore engendered 
+broad ownership. Somalia’s NAP process shares this aim and thus should aim to align with 
+the timelines of the subsequent NDP and sector plans to effectively inform these processes. 
+Furthermore, the NAP process should be aligned with other country-level processes to meet 
+the commitments Somalia has made under the 2030 Agenda, the Paris Agreement, National 
+Environment Action Planning and the Sendai Framework. This will increase coherence, efficiency 
+and effectiveness towards development outcomes that are resilient and sustainable.
+4.2.3 A Participatory, Inclusive, Whole-of-Society Approach
+Climate change impacts are felt by all; urban and rural populations, pastoralists, farmers 
+and businesspeople. As part of its NAP process, the government of Somalia will develop and 
+disseminate climate-sensitive information, particularly for adaptation, tailored for different 
+sectors and audiences. Recognizing that civil society organizations are active in planning and 
+undertaking responses to disasters, which are largely induced by climate change, the government 
+will encourage such organizations to take a long-term view of their interventions in order to 
+enhance their climate resilience. The government will also involve academia and the international 
+research community to help it analyze climate vulnerabilities and propose technologies and 
+approaches to minimize emissions and adapt to the challenges of climate change. 
+The private sector must also be a key partner. The private sector in Somalia is very vibrant and 
+continues to prosper despite decades of conflict. As a result, many traditional public goods and 
+services—including electricity, water, health and agriculture—are largely provided by the private 
+sector. These sectors are often responsive to new innovations and quick to adapt new, cost-
+effective technologies. In its NAP process, Somalia will prioritize creating awareness among the 
+private sector of the need to climate-proof their investments, and of the business opportunities 
+– including new goods and services – presented by the urgent need to adapt to climate change.
+=== PAGE 32 ===
+23
+Title
+4.2.4 Gender-Responsive NAP Process
+According to UNDP’s Gender in Somalia report, Somalia’s Gender Index stood at 0.776 (with 1 
+denoting complete gender inequality), placing Somalia at the fourth highest position globally 
+(UNDP Somalia, n.d.). The report further indicates that Somalia remains a highly unequal 
+society by income, gender and geographical location. Gender inequality and climate change 
+vulnerability are inextricably linked.
+Climate change and its devastating effects on all sectors of the economy in Somalia has 
+significant gender dimensions, as discussed. Women and youth, and especially those in rural 
+areas, are most affected due to their vulnerabilities, their reliance on livelihoods that are 
+dependent on natural resources affected by climate, their responsibilities toward their families, 
+and their role in safeguarding community survival. Women are on the frontline of confronting 
+the challenges posed by climate change to the livelihoods and the health of their families, 
+and yet they are often poorly equipped and under-resourced to respond to the challenge, and 
+are not adequately included in decision-making on climate action. Adding to the challenge, 
+conflicts have eroded many of the gains made in education, health care and employment prior 
+to the civil war, which has perpetuated and deepened gender inequality. 
+The government of Somalia is committed to mainstreaming gender equality across its 
+development and climate change policies and plans. It recognizes the critical need to actively 
+pursue the greater involvement of women, youth, people with disabilities and other marginalized 
+groups in the development and implementation of the NDP, the NAP and the NDC. This will 
+be pursued by recognizing and mainstreaming the different needs and concerns of men, 
+women and other groups, and ensuring effective and inclusive participation in planning and 
+implementation processes. This will be done by engaging with NGOs and women’s organizations 
+to strengthen their capacities to mobilize, participate and advocate for change; making 
+deliberate efforts to tailor information packaging and communication to diverse groups to 
+improve inclusion; and providing opportunities to participate in workshops and meetings and to 
+contribute perspectives that can influence greater inclusion and equality.
+4.2.5 Prioritizing Resource Mobilization for Implementation 
+Due to its fragility and widespread multidimensional poverty, Somalia continues to face serious 
+financial, technological and capacity constraints, each of which will hinder the implementation 
+of its NAP and NDC and will require significant financial support and investments from 
+international and domestic partners. Opportunities exist as well; adapting to climate change 
+will create jobs and will require new products and services that the private sector and other 
+partners can provide and profit from. However, significant resources will have to be mobilized to 
+move from adaptation planning to implementation. 
+The NAP process should prioritize mobilizing resources from a wide range of sources, including 
+through international public finance sources, to implement the identified adaptation and 
+climate resilient priority actions. Currently, the country is facing capacity constraints that 
+present challenges in understanding, navigating and accessing climate finance. Therefore, 
+there is need to enhance the country’s capacity to access international climate financing, 
+including the development of its NDC implementation roadmap, its GCF country program and
+=== PAGE 33 ===
+24
+Title
+a pipeline of realistic, bankable adaptation projects targeted for different potential climate 
+finance sources. Somalia must also enhance its access to both bilateral sources of support and 
+multilateral climate funds. 
+There is also a need to focus strategic efforts and engagements on the private sector in order 
+to leverage the potential of these entities to support a more resilient and green Somalia. 
+Somalia will require support to enhance the policy and regulatory environment needed to 
+attract international support and private-sector investment for its adaptation and climate 
+resilience development agenda. 
+4.2.6 Promotion of Good Governance and Strengthening National 
+Capacity 
+An important impediment to Somalia’s effective adaptation planning, implementation and 
+monitoring is weak governance and the lack of technical capacities among its ministries due 
+to a long period of instability and conflict. The NAP process should be guided by the need to 
+establish and fully operationalize strong, resilient governance structures and institutions that 
+can effectively plan for and implement climate adaptation. 
+4.2.7 Community-Based Adaptation 
+The women, men and children of local communities in Somalia, including farmers and 
+pastoralists, bear the brunt of climate change. It is essential that NAP process be community-
+centered, with local communities fully participating in defining and planning for adaptation 
+priorities that suit local situations. These communities must also be fully involved in the 
+implementation and monitoring of climate adaptation initiatives. Increased community 
+ownership in adaptation actions will enhance the implementation of these interventions and 
+the capacity of local communities to adapt to climate change and variability. To facilitate 
+this, deliberate efforts have to be made to unpack key concepts and policy frameworks, raise 
+awareness and build the capacities of local communities to understand and participate fully 
+and effectively in the NAP process. 
+4.3 Proposed Institutional Arrangements for the Somalia 
+NAP Process
+The National Climate Change Policy (2020), recently approved by the Somalia Cabinet, provides 
+the institutional arrangement required for climate action, including the Somalia NAP process. 
+These institutions, however, have extremely limited operational capacity and are not yet fitted 
+with the institutional frameworks and operational structures required for effective climate 
+change functions and coordination. The main entities established by the policy and their 
+possible role in the NAP process are described below. 
+DIRECTORATE OF ENVIRONMENT AND CLIMATE CHANGE 
+This directorate, situated in the Office of the Prime Minister, has the mandate to formulate 
+federal climate policies and coordinate climate change activities by federal institutions, federal 
+member states, local governments, international partners and other stakeholders. The office
+=== PAGE 34 ===
+25
+Title
+also serves as UNFCCC National Focal Point and the National Designated Authority (NDA) for 
+the Green Climate Fund. The office will take the lead in coordinating Somalia’s NAP process. 
+NATIONAL CLIMATE CHANGE COMMITTEE (NCCC) 
+The NCCC has the mandate for coordinating and supervising the implementation of the 
+climate change policy. The NCCC is a multi-stakeholder, high-level policy coordination 
+committee and is responsible for the overall coordination and supervision of climate change 
+activities in Somalia. It comprises the Prime Minister (or his designate), the Director General 
+of the Directorate of Environment and Climate Change, sectoral ministries, directors of 
+government agencies, member states’ ministers for environment, and representatives from the 
+private sector and civil society organizations. 
+FEDERAL GOVERNMENT SECTORAL MINISTRIES 
+The NCCP identifies key ministries which have an important role in climate change. These 
+are the federal ministries of Energy and Water Resources; Humanitarian Affairs and Disaster 
+Management; Agriculture; Fisheries and Marine Resources; Livestock; Natural Resources and 
+Petroleum; Public Works, Housing and Reconstruction; Ports and Marine Transport; Transport 
+and Civil Aviation; Post and Telecommunication; Health; and Education. These ministries 
+should aim to integrate climate change adaptation into sectoral budgets, strategies, plans and 
+projects. These ministries should work closely with the Directorate on the coordination of NAP 
+process for Somalia.
+FEDERAL MEMBER STATE GOVERNMENTS 
+The federal member states of Somaliland, Puntland, Galmudug, Southwest State, Jubbaland, 
+and Hirshabelle, and the special region of Benadir, are policy implementers in their respective 
+regions. These states have their own ministries responsible for climate change. The member 
+state governments integrate and mainstream climate change adaptation actions, interventions 
+and duties into their respective development plans, and they coordinate and implement 
+adaptation actions at state levels. Given their role in state and local adaptation action, 
+federal member state governments will be key partners in NAP planning, implementation and 
+monitoring and evaluation. 
+CROSS-SECTORAL COMMITTEE ON CLIMATE CHANGE (CSCCC) 
+The proposed CSCCC established by the policy will bring together line ministries, departments 
+and agencies which have roles in climate projects, and programs and in implementing related 
+activities. The CSCCC will be chaired by the DG of the Directorate of Environment and Climate 
+Change, with representatives ideally drawn from the DG level. The primary roles of the CSCCC 
+will be as follows (Federal Government of Somalia, 2020a): 
+•	 serve as a cross-sector forum for the exchange of ideas, including the provision of 
+updates on ongoing and planned climate change initiatives; 
+•	 coordinate and advise on the sector-specific and cross-sector implementation of 
+activities, and advise on monitoring and evaluation outcomes as well as future directions 
+of the NCCP; and 
+•	 address the cross-cutting and social aspects of climate change.
+=== PAGE 35 ===
+26
+Title
+CENTRE FOR CLIMATE CHANGE RESEARCH 
+A new Centre for Climate Change Research is to be established, primarily to: 
+•	 facilitate research on climate change; 
+•	 coordinate interdisciplinary research around climate change, mitigation and adaptation 
+and vulnerabilities and projections; 
+•	 disseminate research findings to all the stakeholders; and 
+•	 provide technical and policy relevant guidance to the Directorate and Sector Ministries. 
+NON-GOVERNMENTAL ACTORS AND CIVIL SOCIETY ORGANIZATIONS 
+In recognition of the important role that civil society plays in natural resource and 
+environmental governance in Somalia, the Government of Somalia supports mechanisms for 
+enhancing their role and participation in climate change governance. Currently, a wide range 
+of non-governmental organizations (NGOs) and civil society organizations (CSOs) are directly 
+and indirectly involved in environmental protection and climate-change-related issues in 
+Somalia. Some of these NGOs and CSOs implement specific climate change initiatives at the 
+community level, as well as engaging in climate change policy advocacy at the national and 
+international levels. It is important that the country develop a CSO Engagement Strategy to 
+facilitate effective and institutionalized mechanisms for CSO participation in climate change 
+processes.
+PRIVATE SECTOR 
+Somalia has a vibrant private sector which plays a key role in implementing climate change 
+adaptation actions. The government recognizes their role and thus should develop a private 
+sector engagement strategy to facilitate their effective engagement in the NAP process, 
+including the identification of key strategic actions, financing options and coordination 
+structures. 
+Figure 3 is a diagrammatic presentation of the institutional arrangements in the policy.
+=== PAGE 36 ===
+27
+Title
+Figure 3. Proposed institutional arrangement 
+Note: Arrow lines indicate reporting/information exchange.
+Source: National Climate Change Policy 2020
+In addition, the following key institutions have an important role in Somalia’s NAP process and 
+should be represented in all coordination structures, including at the high-level NCCC and at 
+the technical-level CSCCC established in the policy and described above. 
+MINISTRY OF PLANNING, INVESTMENT AND ECONOMIC DEVELOPMENT (MOPIED) 
+MoPIED is responsible for development planning and coordination of all development aid to 
+Somalia. The Ministry should support the mainstreaming of climate change adaptation into the 
+overall development planning processes. 
+Directorate of 
+Environment & 
+Climate Change
+Centre for 
+Climate Change 
+Research
+Centre for 
+Climate Change 
+Research
+Centre for 
+Climate Change 
+Research
+Sector Ministries
+Cabinet
+Member States
+Parliament
+Centre for 
+Climate Change 
+Research
+Centre for 
+Climate Change 
+Research
+=== PAGE 37 ===
+28
+Title
+MINISTRY OF HUMANITARIAN AFFAIRS AND DISASTER MANAGEMENT (MOHADM) 
+MoHADM is responsible for streamlining the government’s approach to addressing crises and 
+disasters, including preparing for and managing disasters and coordinating with humanitarian 
+organizations and donor agencies. There are strong linkages between climate change and 
+vulnerability to natural disasters in Somalia, and thus MoHADM has an important role to play in 
+the NAP process. 
+MINISTRY OF WOMEN AND HUMAN RIGHTS DEVELOPMENT (MOWHRD) 
+This ministry is responsible for reversing inequality and protecting the rights of women, children 
+and other disadvantaged groups of people, and for establishing social protection frameworks 
+for vulnerable groups. MoWHRD will play an important role as an entry point for gender-
+sensitive climate change adaptation planning and implementation. 
+MINISTRY OF FINANCE (MOF) 
+The Ministry of Finance serves as the coordinating body for international financial institutions 
+and should be involved in activities that aim to incorporate climate change adaptation 
+considerations into domestic budgeting processes. The MoF should be involved in activities 
+geared towards putting in place the enabling conditions for increased international support for 
+climate change adaptation projects and programs in the country. 
+DEVELOPMENT PARTNERS 
+Somalia receives significant resources from development partners for climate change 
+adaptation, humanitarian assistance and wider development. As such, development partners, 
+including multilateral organizations and bilateral partners, are important players in the NAP 
+process and should be represented where possible in the coordination mechanisms.
+=== PAGE 38 ===
+29
+Title
+5.0 Guiding Principles for the 
+NAP Process
+This chapter elaborates key guiding principles for Somalia’s NAP process. These principles 
+build on the principles established by the UNFCCC and are designed to specifically respond to 
+Somalia’s unique context. 
+Principle 1: Country-Driven and Country-Owned Process
+Somalia’s NAP process must facilitate country-owned, country-driven adaptation action that 
+responds to the country’s specific needs and situations. The country and its people must have 
+full ownership of the NAP process and the NAP process should seek to harness and build upon 
+national-level capacities to respond to the effects of climate change, with support from various 
+partners.
+Principle 2: Linkages with National Development and 
+Peacebuilding Efforts 
+Climate change and conflict are key developmental issues for Somalia; the NDP-9 considers 
+climate change and conflicts as root causes of poverty in the country. Both climate and 
+conflict vulnerability share common drivers in the country, and this vulnerability threatens to 
+reverse modest development gains. The Somalia NAP process will be guided by the principle 
+that climate change adaptation, development and peacebuilding planning and actions must 
+be aligned in order to most effectively address the shared drivers of vulnerability for Somalia, 
+and to set the country on a strong path of resilience, stability and peace. The NAP will seek 
+to enhance the coherence and integration of adaptation and development planning and 
+peacebuilding processes within the country. This includes efforts to climate-proof governance 
+and peacebuilding actions, and to design adaptation actions that are sensitive to the causes 
+and dynamics of local and national conflicts. The NAP process should also aim to align 
+with Somalia’s other relevant global commitments, including Agenda 2030 and the Sendai 
+Framework for Disaster Risk Reduction.
+Principle 3: Gender-Responsiveness
+Somalia’s NAP process will aim to promote gender-responsive climate adaptation planning, 
+implementation and monitoring across the country—that is, adaptation actions that actively 
+seek to promote gender equality. Climate change has differentiated impacts on women, men, 
+boys and girls in Somalia, with women, children and other vulnerable groups disproportionately 
+affected. Integrating a gender-responsive approach into the NAP process will help to ensure
+=== PAGE 39 ===
+30
+Title
+men’s and women’s equal participation in and influence on adaptation decision-making 
+processes and the implementation of adaptation activities. It will help to ensure that women’s 
+and men’s different adaptation needs and capacities are recognized and acted upon. It will 
+help to ensure gender-equitable access to financial resources and other benefits coming from 
+investments in adaptation (NAP Global Network, n.d.). And at the least, it can help to ensure 
+that the NAP process and the activities it entails will not exacerbate gender inequalities. This 
+leads to better adaptation and more resilient communities, as the wealth of knowledge of all 
+groups is effectively utilized. 
+Principle 4: Conflict-Sensitive
+Climate change and variability  are interlinked with conflict in Somalia. Increasing temperatures, 
+changes in rainfall patterns, and increasingly severe drought and flooding events have combined 
+to exacerbate many of the traditional drivers of conflict in Somalia, including poverty, resource 
+competition and inter-communal tensions and grievances. The burden often falls on the most 
+vulnerable, resource-dependent communities; conflicts among pastoralist groups, for example, 
+are expected to continue to rise as these groups increasingly struggle to find adequate water 
+and pasture. At the same time, the loss of climate-dependent livelihoods, particularly among 
+young people, increases the risks of violence as unemployed and poor youth are lured to armed 
+militia groups, exacerbating the already volatile situation of the country. These tensions could 
+potentially undermine development gains, impact ongoing conflict dynamics and disrupt fragile 
+peace processes. 
+It is therefore important that federal government and federal states integrate climate risks 
+and related adaptation responses into their security planning. Applying this principle means 
+recognizing the potential conflict effects of climate change, and designing adaptation actions 
+that actively seek to address these potential drivers of conflict. The adaptation actions 
+identified and prioritized in the NAP must also be designed in a conflict-sensitive manner; that 
+is, designed in such a way that they do not exacerbate tensions between or among communities 
+(through, for example, the unfair distribution of adaptation benefits). Rather, they should seek to 
+enhance peacebuilding opportunities where possible. This will require that they be designed with 
+a thorough understanding of the local and national conflict context and its actors, dynamics 
+and causes. 
+Principle 5: Participatory, Inclusive and Transparent
+Climate change affects all sectors, people and stakeholders in the country. It is therefore 
+crucial that Somalia’s NAP process be participatory, inclusive and transparent. Stakeholders 
+in the process should include the public (federal government institutions and federal member 
+state institutions) and private sectors, academia, civil society (Indigenous communities, NGOs 
+and more) and international cooperation organizations. The NAP process itself should be open, 
+communicative and accountable to all stakeholders in Somalia.
+Through this principle, all actors and their respective needs, interests and functions, should 
+be reflected in defining Somalia’s concrete, high-priority medium- and long-term adaptation
+=== PAGE 40 ===
+31
+Title
+actions. Such an approach will contribute to the implementation and reach of adaptation 
+actions by creating agreements and alliances between key stakeholders. Participation and 
+transparency will also contribute to enhanced coordination and ownership over adaptation 
+actions, and will help strengthen alignment with NDCs and other development plans. This will 
+also result in the consolidation and participation of different cooperation agencies, NGOs 
+and climate change projects to minimize duplication and identify financing opportunities for 
+different priority actions. 
+Principle 6: Guided by the Best Available Scientific 
+Information and Traditional Knowledge
+Successful adaptation not only depends on the active and sustained engagement of 
+stakeholders but also on the effective management of knowledge. Due to Somalia’s recent 
+history, there is a limited store of scientific knowledge and research specific to the country to 
+help characterize the likely impacts of climate change (Federal Government of Somalia, 2013). 
+The planning and implementation of adaptation actions is an iterative process that should be 
+continuously informed by the best available scientific information (international, regional and 
+national) on climate risks and vulnerability, recognizing that there will be uncertainties and 
+limitations. 
+Local communities have in-depth knowledge and experiences in coping with the effects 
+of climate change to inform planning and adaptation initiatives. This local and traditional 
+knowledge should complement existing and future scientific information to ensure that 
+measures to build disaster and climate resilience promote the replication of effective practices, 
+encourage autonomous innovation and, where appropriate, introduce external technology to 
+help address new or magnified challenges. Strategies and programs should be monitored and 
+evaluated to ensure that learning is captured and should be made publicly available to promote 
+efficiency and effectiveness. 
+Principle 7: Coordination and Avoiding Duplication
+Climate action to date in Somalia has been largely characterized by a lack of proper 
+coordination among actors at the federal and federal member state levels, often resulting in the 
+duplication of efforts and weak results. Through the promotion of effective coordination and 
+consultations, it is the country’s vision that the NAP process should aim to enhance existing 
+situations and result in a more coherent climate change response with the participation of all 
+stakeholders.
+=== PAGE 41 ===
+32
+Title
+6.0 Monitoring, Evaluation, 
+and Learning
+The regular progress monitoring and evaluation (M&E) of planned actions against their actual 
+outcomes is important for an effective and sustainable Somalia NAP process. M&E can help 
+practitioners determine if adaptation measures are achieving their aims, or have incurred 
+any unanticipated side effects. More specifically, effective M&E is important for producing 
+knowledge about the evolving adaptation context, needs and experiences and for reporting to 
+stakeholders on progress and results. M&E also makes it possible to check whether a policy, plan 
+or intervention is on track and, if not, to adjust the course of action accordingly (Price-Kelly et 
+al, 2015). M&E should inform the development and the design of adaptation policies, programs 
+and projects.
+Somalia has no national monitoring and evaluation system in place for adaptation. M&E is 
+mainly linked to specific projects under implementation. Therefore, establishing an M&E system 
+is an important step towards a successful NAP process. The country’s M&E systems should 
+support the generation of knowledge and information to support policy, promote sharing 
+experiences and lessons learned, assess progress against planned adaptation targets and 
+support the country’s reporting obligations under the UNFCCC and other international and 
+regional processes.
+As an essential step to building a climate change monitoring and evaluation system, the 
+country, with support from Global Water Partnership (GWP), has recently developed a prototype 
+online database platform on climate change, to be housed by DoECC. This will be accessible by 
+sector agencies, state-level agencies, and other government stakeholders as well as the public 
+to inform their respective climate change adaptation planning activities. The platform will also 
+consolidate information on projects relevant to climate change adaptation that have been 
+completed or are currently underway at all levels of government, including projects implemented 
+by national and subnational NGOs. It is expected that the NAP Readiness Project will support 
+the DoECC to build upon and further develop this tool to improve its functionality in tracking 
+climate action, climate finance and the sustainable development benefits of climate actions.
+The following are key elements of the monitoring and evaluation of the NAP process.
+6.1 Establishment of an Online National Adaptation 
+Monitoring and Evaluation System 
+The country will need to establish a simple, implementable online M&E system for adaptation. 
+Such a system will aim to capture the details of ongoing adaptation projects and initiatives 
+and the results achieved, including on enhancing the adaptative capacities and building the 
+resilience of society, the economy and the country’s ecosystems. The system should also be
+=== PAGE 42 ===
+33
+Title
+linked to the broader climate change tracking process and M&E of the NDP-9 and on national 
+progress towards gender equality and the achievement of the Sustainable Development Goals. 
+The system will provide a platform for reporting on and tracking adaptation actions across 
+the country by different actors. This needs to build on ongoing work under the Global Water 
+Partnership (GWP), through which a prototype online tool has been developed. The tool has to 
+be further refined to be fit for the purpose of the NAP process. 
+6.2 Selection of Suitable Indicators 
+An important aspect of the monitoring and evaluation of adaptation actions is to identify the 
+indicators that need to be monitored. These indicators should be developed early in the NAP 
+process, during the formation of a detailed adaptation plan, in order to ensure that the selected 
+indicators are appropriate for measuring progress toward Somalia’s adaptation goals and the 
+more specific progress on prioritized adaptation actions. Indicators should be linked to specific 
+actions or objectives. It is important that they be considered during the preparation of the NAP 
+and included as part of the plan. The indicators need to be achievable, realistic, time-bound 
+and gender-responsive. The indicators are sector-specific while linking to the climate change 
+challenge. The linkages to wider development and conflict management processes should be 
+considered, for example by looking at the impact of conflict on NAP implementation and of the 
+NAP on the conflict context (i.e. what is the impact of adaptation actions on peace and conflict 
+indicators). 
+6.3 Effective Climate Adaptation Coordination Structures 
+An effective M&E system relies heavily on effective M&E institutions, including those in charge 
+of coordination. The capacity of DoECC must be strengthened in order to manage the M&E 
+arrangements for the NAP process while building a coordination platform to ensure all key 
+players fully employ the system. The role of the NCCC in the M&E arrangements also needs to 
+be clarified in order to enable officials to participate in the committee in a meaningful way. It is 
+also important that M&E arrangements be established at the federal member state level, with 
+clear links to the national M&E system established.
+6.4 Process for regular reporting and guidelines
+The M&E system will be most effective if it is backed by a strong legal framework. Somalia will 
+need to develop legislation and regulations that require federal institutions, federal member 
+states and non-state actors to annually report on their adaptation activities. The Directorate 
+will need to further develop guidelines and templates to support effective reporting that feeds 
+into the national M&E system. Capacity-building and awareness will be required to support the 
+implementation and continual improvement of the M&E arrangements for the NAP process.
+=== PAGE 43 ===
+34
+Title
+7.0 Climate Finance Resource 
+Mobilization
+Somalia’s government structures are severely hindered by the lack of financial and human 
+resources to implement adaptation actions. The key focus of the limited national public budget 
+is on establishing and maintaining security and partly contributing to the payment of salaries of 
+government staff. Whenever there are climate-related disasters, such as flooding and droughts, 
+Somali-led entrepreneurs, diaspora members, religious scholars and the general public create ad 
+hoc committees, often supported by the government, to mobilize and coordinate funding to help 
+the disaster-affected communities in the country.
+Somalia receives significant resources from development partners for climate change action 
+and wider development projects. It is estimated that the country received US$2 billion in 
+official development assistance (ODA) annually in 2017 and 2018. Together, the European Union, 
+United Kingdom and Germany provided more than half of development aid in 2018 (US$454 
+million). The United States, the United Kingdom, the European Union and Germany were the 
+largest providers of humanitarian assistance, together providing 78% (US$883 million) of 
+total humanitarian aid in 2018 (Federal Government of Somalia, 2019a). The Aid Information 
+Management System (AIMS), launched in 2019, serves as a one-stop shop for information 
+related to foreign assistance in Somalia. 
+Somalia has a vibrant private sector, which plays an important role in the country’s response 
+to climate change in sectors such as energy, agriculture, transportation, building, water, and 
+disaster management and response. The private sector is largely unregulated and remains 
+faced with key challenges, such as lack of information and awareness of climate change and 
+the role they play in addressing it, a weak investment climate, continued insecurity, and lack 
+of competitive commercial financing. These challenges will have to be addressed in order to 
+mobilize further significant private-sector support for adaptation. 
+The NAP process requires a dedicated resource mobilization strategy built on the following:
+•	 Promoting enhanced access to climate finance from bilateral and multilateral channels, 
+including through:
+	°
+Developing clear adaptation strategic priorities for implementation under the NAP; 
+	°
+Promoting sustained capacity development for enhanced climate finance access 
+in the country for federal ministries, state government ministries and civil society 
+organizations;
+	°
+Developing budgeted, fit-for-purpose concept notes and proposals that reflect 
+adaptation priorities for submission to different development partners and funding 
+channels.
+=== PAGE 44 ===
+35
+Title
+•	 Promotion of private sector investment in adaptation actions through:
+	°
+Increasing awareness among the private sector of existing adaptation investment 
+opportunities and technologies;
+	°
+Developing a private-sector engagement strategy for the NAP and establishing 
+appropriate institutional arrangements for enhanced private-sector engagement; 
+	°
+Enhancing the investment climate for the private sector through the development 
+of supportive policy and legislative frameworks.
+•	 Establishment of an effective national climate change fund, with a clear window for 
+adaptation. The creation of a dedicated fund would be essential for Somalia to mobilize 
+the necessary resources to implement its NDC and NAP. This has a number of advantages, 
+relative to channeling resources through the budgetary process; the fund would have more 
+clarity of purpose, and would allow for the development of increased national expertise 
+and transparency on climate financing over time. Having a fully operational national-level 
+fund could also pave the way for similar state-level climate change funds, where member 
+states will be able to mobilize resources for the implementation of adaptation actions 
+within their jurisdictions. The fund’s structure and operation would be established through 
+consultative, inclusive processes and would be guided by Somalia’s specific context under 
+the UNDP’s NAP Readiness Project.
+Weak institutional arrangements for adaptation response remains an impediment to resource 
+mobilization and implementation of the country’s NAP. It is important that key partners support 
+the government in addressing its capacity bottlenecks, both at the federal level and member 
+state levels. The objective of institutional capacity development should be to promote: 
+•	 effective and efficient climate change governance arrangements with high-level oversight 
+and policy guidance; 
+•	 climate change mainstreaming across government; 
+•	 enforcement and compliance capability; 
+•	 state-level government involvement; and 
+•	 the provision of highly specialized technical experts. 
+It is also important that the key climate change coordination structures proposed in the climate 
+change policy be operationalized within the shortest time possible. Capacity development 
+measures should in part focus on how to fully mainstream climate change into development 
+(including peacebuilding) planning and budgetary processes as well as measures to improve the 
+operational and absorptive capacity of climate change funds through projects implemented by 
+the government and other players.
+=== PAGE 45 ===
+36
+Title
+8.0 Next Steps and Milestones
+Somalia’s NAP process is being initiated through the GCF-funded NAP Readiness Project, 
+which is in the early stages of implementation. Moving forward, the country will undertake 
+the following steps to advance the NAP process including as informed by the NAP Readiness 
+Project proposal. 
+NAP LAUNCH AND AWARENESS-RAISING 
+The government will develop information and outreach materials to familiarize government 
+stakeholders with the NAP process. Key among the actions will include holding launch 
+workshops and consultative meetings to raise awareness about the country’s NAP process. 
+This will facilitate the engagement of a wide range of stakeholders in the process. Stakeholders 
+to be engaged include federal-level government institutions, federal member states, private-
+sector actors, civil-society actors and academia, among others.
+STOCKTAKING 
+The government and its partners will work to take stock of available information on climate 
+change impacts, vulnerability and adaptation, and to assess any gaps and needs that must be 
+addressed in order to establish an enabling environment for the NAP process. This will involve 
+the collation of information on adaptation actions by different actors to identify the achieved 
+results, challenges, opportunities for upscaling and lessons learned.
+CAPACITY ASSESSMENT FOR THE NAP PROCESS
+Weak institutional arrangements for climate change response remain an impediment to the 
+NAP process. The first step towards addressing the capacity bottlenecks is the assessment 
+of the capacity needs of all relevant institutions, including the DoECC, relevant federal sector 
+ministries and institutions, and state-level departments responsible for climate change 
+matters. Capacity development measures should address any gaps, including capacities to 
+fully mainstream climate change adaptation into planning and budgetary processes as well as 
+measures to improve the operational and absorptive capacity of climate change funds through 
+projects implemented by the government and other players.
+ESTABLISHMENT OF EFFECTIVE CLIMATE CHANGE ADAPTATION COORDINATION 
+MECHANISMS 
+The DoECC will lead the NAP process in the country. However, the coordination mechanism in 
+place for adaptation planning needs to be strengthened. In order to ensure effective planning, 
+implementation and tracking of adaptation actions, the DoECC needs to have effective 
+operational structures to lead the NAP Process. The NAP Readiness Project will provide 
+interim arrangements at the DoECC to support in this role; these should be made permanent. 
+Additionally, technical and high-level adaptation steering committees should be established
+=== PAGE 46 ===
+37
+Title
+to lead the NAP process and help facilitate multisectoral coordination, with representation 
+from government agencies, NGOs, CSOs, state governments, development partners and the 
+private sector. State governments can nominate representatives. The steering committees 
+should be convened quarterly and should oversee and direct the process of compiling the 
+National Adaptation Plan. The steering committees will also be responsible for coordinating 
+with development partners to ensure that the NAP process is aligned with current and ongoing 
+initiatives and to identify points of entry and synergy. 
+CLARIFICATION AND FORMALIZATION OF THE ROLES OF FEDERAL, STATE AND DISTRICT 
+GOVERNMENTS AND ALIGN STATE PROCESSES
+To improve federal-state coordination on the formulation and implementation of policies, 
+strategies, plans, projects and programs related to climate change adaptation, the NAP 
+Readiness Project will support the establishment of a detailed framework of roles and 
+responsibilities for federal, state and district governments that is consistent with the 
+formalized division of powers in Somalia. DoECC will undertake a technical review of adaptation 
+governance arrangements in other federal states to identify best practices. Recommendations 
+will be presented at a national workshop for Federal Government of Somalia (FGS) and Federal 
+Member States (FMSs) stakeholders, where a draft framework for NAP coordination will be 
+agreed. The activity will also develop guidance for state-level governments to encourage the 
+alignment of state-level priorities with those of the FGS, as well as guidelines for promoting 
+consistency across states with respect to planning and coordination at the state level. 
+DEVELOPMENT OF THE NATIONAL ADAPTATION PLAN (NAP) 
+This action is planned under the NAP Readiness Project. This will focus preparation of a detailed 
+NAP document for Somalia that will include, among other aspects, vulnerability assessment, 
+identification of adaptation priorities, and draft adaptation concept notes tied to the priorities. 
+The document is also expected to support formalizing federal agencies’ institutional roles and 
+responsibilities with respect to climate change adaptation at the national level and clarify the 
+scope, objectives and timeline for the process. DoECC will receive technical support to conduct 
+an institutional review at the federal level, which will provide recommendations for establishing 
+the adaptation plan. The institutional review will examine laws, policies, strategies and other 
+relevant frameworks related to climate change adaptation and associated governance issues. 
+The review will build on recommendations of the National Climate Change Policy, National 
+Environment Policy, and Somalia’s First National Communication to the UNFCCC, among others 
+(Federal Government of Somalia, 2020a, 2019d, 2018). Subsequently, a national workshop will be 
+held with government and non-government stakeholders and development partner observers to 
+finalize a draft plan for climate change adaptation.
+ESTABLISHMENT OF A CLIMATE CHANGE ADAPTATION TRAINING PROGRAM 
+For an effective NAP process, there is need to develop and deliver a series of training modules 
+and supporting materials (e.g. instructional resources, workbooks, exercises) specifically geared 
+towards federal-level agency staff to create a common understanding of the challenges 
+of climate change across sectors. These materials will need to be developed in the Somali 
+language in collaboration with international experts and the university partners. The training 
+modules will be developed on a quarterly basis and used to equip this cohort over the life of the
+=== PAGE 47 ===
+38
+Title
+Readiness project, beginning with a basic level of climate change awareness and progressing 
+through more specific content to build the cohort’s skills. The training of trainers (ToT) should be 
+undertaken and academia should be engaged to enable the delivery of materials on an ongoing 
+basis beyond the NAP Readiness Project. 
+ESTABLISHMENT OF KNOWLEDGE MANAGEMENT AND INFORMATION SYSTEM FOR 
+CLIMATE CHANGE ADAPTATION 
+The government will aim to establish a platform to provide climate change information, 
+projections and other data, which will be accessible to sector agencies, state-level agencies 
+and other government stakeholders, as well as to the general public, to inform climate change 
+adaptation planning activities. The platform will also consolidate information on projects 
+related to climate change adaptation that have been completed or are currently underway at 
+all levels of government, including projects implemented by national and subnational NGOs, 
+to develop a database from which planning and implementation lessons can be drawn. The 
+starting point for developing this platform is the online information management system on 
+adaptation, developed as part of Global Water Partnership’s supported adaptation baseline 
+2021(Federal Government of Somalia 2021a). The online tool, to be hosted and managed by 
+DoECC, will provide relevant climate information to be used for adaptation planning. It is thus 
+essential that the NAP Readiness Project support the DoECC in building upon and further 
+developing this tool to improve its functionality in tracking climate action, climate finance and 
+the sustainable development benefits of climate actions. The project should also support the 
+training of relevant experts and departments in using the tool. The enhanced, robust, simple 
+and implementable tool should serve as a comprehensive domestic monitoring, reporting and 
+verification system for climate action in Somalia.
+ESTABLISHMENT OF GUIDELINES AND METHODOLOGY FOR VULNERABILITY ASSESSMENTS
+The DoECC will need to be provided with technical support to develop a standardized 
+methodology for conducting vulnerability assessments at the federal and state level. The 
+vulnerability assessments should cover the priority sectors identified by the FGS and FMS, 
+including land use, agriculture, water, food security, DRR, marine and coastal resources, health 
+and biodiversity. The decision on which sectors to concentrate the vulnerability assessments on 
+will require discussions between the federal and state governments. 
+DEVELOPMENT OF CLIMATE CHANGE LEGISLATION 
+Given the cross-cutting nature of climate change, comprehensive policy and legislation 
+frameworks are needed to guide the NAP process and establish the necessary institutional 
+structures at both the federal and member state levels. At the federal level, climate change 
+legislation is required in order to support implementation of the Climate Change Policy. To 
+promote the mainstreaming of climate actions across the country and facilitate the transition 
+from adaptation planning to implementation, there is need for strong climate change policies 
+and legislative frameworks at the state level. 
+UNDERTAKING OF MEASURES TO PROMOTE GENDER MAINSTREAMING
+In order to promote an inclusive and gender-responsive NAP process, an in-depth gender 
+analysis should be undertaken. This is the first step towards gender mainstreaming, through
+=== PAGE 48 ===
+39
+Title
+assessing the complexity of the climate change challenge and the different ways in which it 
+affects men and women, with the aim of refining and informing a NAP process that is gender-
+responsive and transformational in nature. The analysis should assess the extent to which 
+gender issues should be considered within the sectors, including from policy, legal, institutional 
+and implementation perspectives. Further, it should identify challenges for the empowerment 
+and participation of women and other vulnerable groups in climate change decision-making, 
+their contributions to sectoral adaptation targets, existing gaps in resources, and the 
+opportunities for policy articulation to strengthen the integration of gender equality into NAP 
+processes. Through the NAP Readiness Project, capacity strengthening support will be provided 
+through workshops. As well, the Ministry of Women and Human Rights Development (MoWHRD) 
+will be supported through the Project to develop a manual on gender integration into climate 
+change adaptation.
+ESTABLISHMENT OF PRIVATE-SECTOR ENGAGEMENT STRATEGY AND PLATFORM  
+The engagement of the private sector in climate change adaptation in Somalia is critical to the 
+effectiveness of the NAP process. The government should develop a private-sector engagement 
+strategy for its NAP, and establish a private-sector coordination platform to help increase the 
+engagement of these actors in the process. Both should be established through a consultative 
+process. The platform should support the coordination of climate adaptation actions by the 
+private sector and work to address barriers to private-sector investment in climate change 
+adaptation. 
+DEVELOPMENT OF RESOURCE MOBILIZATION STRATEGY 
+The NAP coordinating entity will need to spearhead the development of a NAP resource 
+mobilization strategy to implement the adaptation actions. The strategy will be developed 
+through a consultative process with relevant government stakeholders, private-sector actors, 
+civil society actors and development partners. 
+ESTABLISHMENT OF A CLIMATE FINANCE COORDINATION MECHANISM 
+A national-level working group will need to be established and convened to coordinate financial 
+planning for climate change adaptation. The working group will include representation from 
+the DoECC, the Ministry of Finance and the Ministry of Planning, Investment and Economic 
+Development, focal points for various climate funds, development partners, the private sector 
+and other stakeholders. The working group will receive technical support from an international 
+consultant specializing in climate change adaptation finance. The coordination mechanism 
+will include vertical coordination between the FMS and FGS, which will contribute to the 
+implementation of prioritized adaptation options. The NAP project will support establishment 
+and convening the working group semi-annually and capacity building workshops. Additionally, 
+to support climate finance tracking and coordination, the Ministry of Finance (MoF) will provide 
+technical support to develop a climate change adaptation budget-tagging procedure to 
+monitor existing and future expenditures on climate change. 
+DESIGN OF A SOMALIA CLIMATE FUND
+A National Climate Fund should be designed to serve as a mechanism through which climate 
+finance can be channeled to state governments to support the implementation of fundable
+=== PAGE 49 ===
+40
+Title
+adaptation priorities. The development process will include a review of existing funds in 
+other countries to identify best practices, enabling conditions and possible institutional 
+arrangements to manage and disburse the fund. Based on this review, a technical expert 
+will design a blueprint for a national-level fund with recommendations for institutional 
+arrangements, access procedures and trustees.
+ESTABLISHMENT OF MONITORING AND EVALUATION INDICATORS AND METHODOLOGIES 
+FOR CLIMATE CHANGE ADAPTATION 
+The NAP Readiness Project will provide technical support to the DoECC for developing a set 
+of indicators and methodologies for gathering data for monitoring the physical processes and 
+impacts of climate change, as well as for evaluating the progress of climate change adaptation 
+projects and programs. A baseline report will be prepared, highlighting a set of indicators for 
+tracking climate action. The Readiness Project should build on these indicators as the country 
+plans to establish robust NAP monitoring and evaluation processes. 
+INCORPORATION OF NAP INTO DEVELOPMENT PLANS AND PEACEBUILDING PROCESSES 
+Through close collaboration with responsible federal ministries and state-level governments, the 
+DoECC will aim to ensure that the NAP is integrated into both development and peacebuilding 
+processes, and that these processes are well reflected in the NAP. This will include ensuring 
+that climate adaptation priorities are incorporated into subsequent iterations of the country’s 
+National Development Plan and peacebuilding initiatives. It will also involve providing guidance 
+to federal member states to incorporate adaptation into development and peacebuilding plans.
+=== PAGE 50 ===
+41
+Title
+References 
+Coning, C. H., Grand, A. O., Karlsrud, J., Nortvedt, J., Yaw Tchie, A. E., Krampe, F. & Tarif, K. (2021). 
+Climate, peace and security fact sheet: Somalia. Norwegian Institute of International 
+Affairs. https://www.nupi.no/en/News/Climate-Peace-and-Security-Fact-Sheet-Somalia 
+Crawford, A. & Church, C. (2020). The NAP process and peacebuilding: Briefing note. 
+International Institute for Sustainable Development (IISD). https://www.iisd.org/publications/
+nap-process-peacebuilding 
+Dazé, A., Price-Kelly, H. & Rass, N. (2016). Vertical integration in National Adaptation Plan (NAP) 
+processes: A guidance note for linking national and sub-national adaptation processes. 
+International Institute for Sustainable Development (IISD). https://napglobalnetwork.org/wp-
+content/uploads/2016/11/Vertical-Integration-in-NAP-Processes-Guidance-Note.pdf 
+Eklöw, K., & Krampe, F. (2019). Climate-related security risks and peacebuilding in Somalia. 
+Stockholm International Peace Research Institute (SIPRI). https://www.sipri.org/
+publications/2019/sipri-policy-papers/climate-related-security-risks-and-peacebuilding-
+somalia 
+Federal Government of Somalia (2013). The National Adaptation Programme of Action Somalia 
+– 2013. 
+Federal Government of Somalia (2015a). Somalia’s Intended Nationally Determined 
+Contributions to the UNFCCC.
+Federal Government of Somalia (2015b). Somalia’s National Biodiversity Strategy and Action 
+Plan (NBSAP)
+Federal Government of Somalia(2015c) Wadajir Framework for Local Governance 
+Federal Government of Somalia (2017a). National Capacity Self-Assessment towards 
+implementing Rio Conventions
+Federal Government of Somalia (2017b). National Development Plan (NDP-8) (2017–2019).
+Federal Government of Somalia (2018a). The initial national communication for Somalia to the 
+United Nations Framework Convention on Climate Change. 
+Federal Government of Somalia (2018b). Somalia drought impact needs assessment report.
+Federal Government of Somalia (2018c). Somalia Recovery and Resilience Framework
+Federal Government of Somalia (2018d). Somali National Disaster Management Policy 
+Federal Government of Somalia (2018 e). draft National Gender Policy 
+Federal Government of Somalia (2018f). National Energy Policy  
+Federal Government of Somalia(2018g). Stabilization Strategy 2018-2020, Version 2.0 Updated 
+September 2018 Ministry of Interior, Federal Affairs and Reconciliation and Federal Member 
+States 
+Federal Government of Somalia (2019a). Aid flows in Somalia. http://mop.gov.so/wp-content/
+uploads/2019/07/Aid-Flows-in-Somalia-2019-ENGLISH.pdf
+Federal Government of Somalia (2019b). Draft Somalia livestock sector development strategy.
+=== PAGE 51 ===
+42
+Title
+Federal Government of Somalia (2019c). National irrigation policy 2019.
+Federal Government of Somalia (2019d) National Environment Policy 
+Federal Government of Somalia (2019e). National Reconciliation Framework (NRF) Ministry of 
+Interior, Federal Affairs and Reconciliation 
+Federal Government of Somalia (2020a). National climate change policy, 2020. 
+Federal Government of Somalia (2020b). National Development Plan (NDP-9) (2020–2024). 
+Federal Government of Somalia (2020c). Somalia’s Integrated Water Resources Management 
+Strategy 
+Federal Government of Somalia (2020d). National Voluntary Land Degradation Neutrality 
+Targets (LDN), 
+Federal Government of Somalia(2020e). Somalia Food and Nutrition Security Strategy
+Federal Government of Somalia (2020f). Draft Charcoal Policy
+Federal Government of Somalia (2020g). Draft Gender Policy
+Federal Government of Somalia (2021a). National adaptation baseline report 2020.
+Federal Government of Somalia (2021b). Somalia’s updated Nationally Determined 
+Contributions under the Paris Agreement to the UNFCCC.
+Federal Government of Somalia (2021) Draft National Environment Strategy and Action Plan 
+(NESAP)
+Green Climate Fund (GCF) (2019). Readiness proposal with United Nations Development 
+Programme (UNDP) for Somali Republic. https://www.greenclimate.fund/sites/default/files/
+document/readiness-proposals-somalia-undp-adaptation-planning_0.pdf 
+Hammill, A., Dazé, A. & Dekens, J. (2019). The NAP (National Adaptation Plan) process: 
+Frequently asked questions. NAP Global Network. https://napglobalnetwork.org/2019/12/
+the-national-adaptation-plan-nap-process-frequently-asked-questions/ 
+Huyer, S. (2016). Gender equality in national climate actions: Planning for gender-responsive 
+Nationally Determined Contributions. United Nations Development Programme (UNDP). 
+https://www.undp.org/publications/gender-equality-national-climate-action-planning-
+gender-responsive-nationally 
+Intergovernmental Panel on Climate Change (IPCC) (2014). Fifth assessment report. https://
+www.ipcc.ch/assessment-report/ar5/ 
+International Institute for Sustainable Development (IISD) (2016). Vertical integration in 
+National Adaptation Plan (NAP) processes: A guidance note for linking national and sub-
+national adaptations. https://napglobalnetwork.org/wp-content/uploads/2016/11/Vertical-
+Integration-in-NAP-Processes-Guidance-Note.pdf
+Least Developed Countries (LDC) Expert Group (LEG) (2012). National Adaptation Plans: 
+Technical guidelines for the national adaptation plan process. United Nations Framework 
+Convention on Climate Change (UNFCCC). https://www4.unfccc.int/sites/NAPC/Guidelines/
+Pages/Technical-guidelines.aspx 
+NAP Global Network (n.d.). Gender. https://napglobalnetwork.org/themes/gender/
+=== PAGE 52 ===
+43
+Title
+Ogallo, L. A., Omondi, P. O., Ouma, G., & Wayumba, G. (2018). Climate change projections and the 
+associated potential impacts for Somalia. American Journal of Climate Change 7(2): 153–
+170. DOI: 10.4236/ajcc.2018.72011. https://www.researchgate.net/publication/325201230_
+Climate_Change_Projections_and_the_Associated_Potential_Impacts_for_Somalia
+Parry, M. L., Canziani, O. F., Palutikof, J. P., van der Linden, P. J., & Hanson, C. E. (eds). (2007). 
+Climate change 2007: Impacts, adaptation and vulnerability. Contribution of Working Group 
+II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, 
+2007. Cambridge University Press. https://www.ipcc.ch/report/ar4/wg2/
+Price-Kelly, H., Hammill, A., Dekens, J., Leiter, T. & Olivier, J. (2015). Developing national 
+adaptation monitoring and evaluation systems: A guidebook. GIZ. International Institute 
+for Sustainable Development (IISD). https://www.iisd.org/publications/developing-national-
+adaptation-monitoring-and-evaluation-systems-guidebook 
+UNICEF Regional Office for South Asia (2017). Gender equality: Glossary of terms and concepts. 
+https://www.unicef.org/rosa/media/1761/file/Gender%20glossary%20of%20terms%20
+and%20concepts%20.pdf
+United Nations (1992). United Nations Framework Convention on Climate Change. 
+United Nations Development Programme (UNDP) Somalia (n.d.). Gender in Somalia: Brief. 
+https://www1.undp.org/content/dam/somalia/docs/Project_Documents/Womens_
+Empowerment/Gender%20in%20Somalia%20FINAL.pdf  
+United Nations Framework Convention on Climate Change (UNFCCC) (n.d.a). Introduction to 
+climate finance. https://unfccc.int/topics/climate-finance/the-big-picture/introduction-to-
+climate-finance
+United Nations Framework Convention on Climate Change (UNFCCC) (n.d.b). NDC spotlight. 
+https://unfccc.int/process/the-paris-agreement/nationally-determined-contributions/ndc-
+spotlight
+United Nations Framework Convention on Climate Change (UNFCCC) (n.d.c). What do 
+adaptation to climate change and climate resilience mean?
+United Nations Somalia (2020a). UN Sustainable Development Cooperation Framework (2021–
+2025)
+United Nations (2018). UN Somalia Gender Equality Strategy 2018-2020   https://somalia.
+un.org/sites/default/files/2019-09/un_somalia_gender_equality_strategy2_0.pdf
+United Nations Somalia (2020b). Somalia COVID-19 Country Preparedness and Response Plan 
+(CPRP)  
+World Bank Climate Knowledge Portal—Somalia  https://climateknowledgeportal.worldbank.org/
+country/somalia
+World Bank and the Food and Agriculture Organization of the United Nations (FAO) (2018). 
+Rebuilding resilient and Sustainable Agriculture in Somalia
+=== PAGE 53 ===
+

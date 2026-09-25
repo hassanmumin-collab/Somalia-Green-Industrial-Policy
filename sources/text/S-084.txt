@@ -1,0 +1,1737 @@
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Technical Report 
+Somalia: Surface Water and  
+Riverine Assessment  
+ 
+ 
+ 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+=== PAGE 2 ===
+ 
+ 
+© 2021 International Bank for Reconstruction and Development / The World Bank  
+1818 H Street NW  
+Washington DC 20433  
+Telephone: 202-473-1000  
+Internet: www.worldbank.org  
+ 
+This work is a product of the staff of the World Bank with external consultants. The findings, interpretations, and 
+conclusions expressed in this work do not necessarily reflect the views of the World Bank, its Board of Executive 
+Directors, or the governments they represent.  
+ 
+The World Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors, 
+denominations, and other information shown on any map in this work do not imply any judgment on the part of the 
+World Bank concerning the legal status of any territory or the endorsement or acceptance of such boundaries.  
+ 
+Rights and Permissions  
+ 
+The material in this work is subject to copyright. Because the World Bank encourages dissemination of its 
+knowledge, this work may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution 
+to this work is given. 
+ 
+Any 
+queries 
+on 
+rights 
+and 
+licenses, 
+including 
+subsidiary 
+rights, 
+should 
+be 
+addressed 
+to  
+World Bank Publications, The World Bank Group, 1818 H Street NW, Washington, DC 20433, USA;  
+fax: 202-522-2625; e-mail: pubrights@worldbank.org. 
+ 
+Cover photograph: Jubba river in Jamame. (Photo courtesy: Ahmed Mohamed Hassan, Director of 
+Hydrometeorology Department, Ministry of Energy and Water Resources, Federal Government of Somalia) 
+Administrative support: Joy Mildred Adhiambo Mboya and Meseret Tsegaw Chekole 
+Editorial support and design: Anjali Dar Sengupta
+=== PAGE 3 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Technical Report 
+Somalia: Surface Water  
+and Riverine Assessment 
+ 
+ 
+By: Klas Sandström 
+ 
+ 
+An accompanying report (of a suite of six reports) with 
+Economics of Water:  
+Digging for Data—Towards Understanding 
+Water as a Limiting or Enabling Factor for 
+Socioeconomic Growth in Somalia
+=== PAGE 4 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 4 of 29 
+ 
+Contents 
+Abbreviations and Acronyms ........................................................................ 5 
+Executive Summary ...................................................................................... 6 
+Introduction................................................................................................ 11 
+1 Jubba and Shabelle Basins ..................................................................... 13 
+2 A Water Balance Model ........................................................................... 14 
+2.1 Potential Upstream Basin Development in Ethiopia ............................................................ 14 
+2.2 Climate Change and Runoff.................................................................................................... 14 
+2.3 River Flow Probabilities .......................................................................................................... 14 
+2.3.1 Population Growth ...................................................................................................... 15 
+2.3.2 Water Allocation and Use ........................................................................................... 15 
+3 Four Scenarios and Four Water Balances ................................................ 17 
+3.1 A Baseline: The 1990s ............................................................................................................. 17 
+3.2 The Present: 2020 .................................................................................................................... 17 
+3.3 Modest Change: 2035 .............................................................................................................. 17 
+3.4 Major Change: 2050 ................................................................................................................. 17 
+4 Water Supply, Allocation, and Use ........................................................... 19 
+4.1 Summarized Flows of Water ................................................................................................... 19 
+4.2 Water Use and Flow Distribution ........................................................................................... 20 
+4.2.1 A Baseline: The 1990s ............................................................................................... 21 
+4.2.2 The Present: 2020 ...................................................................................................... 22 
+4.2.3 Modest Change: 2035 ................................................................................................ 23 
+4.2.4 Major Change: 2050 ................................................................................................... 24 
+5 Discussion .............................................................................................. 25 
+5.1 Runoff and Reliability .............................................................................................................. 25 
+5.2 Climate Change ........................................................................................................................ 26 
+5.3 Available Water ........................................................................................................................ 26 
+5.4 Investment Opportunities ....................................................................................................... 27 
+Bibliography ............................................................................................... 29
+=== PAGE 5 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 5 of 29 
+Abbreviations and Acronyms 
+FAO 
+Food and Agriculture Organization 
+FAOSTAT 
+Food and Agriculture Organization Corporate Statistical Database 
+Ha 
+Hectare 
+l/cap/day 
+Liter per capita per day 
+m3/ha/year 
+Cubic meter per hectare per year 
+MCM 
+Million Cubic Meters 
+MCM/yr 
+Million cubic meter per year 
+km2 
+Square kilometer 
+WASH 
+Water, Sanitation and Hygiene 
+WB 
+World Bank
+=== PAGE 6 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 6 of 29 
+Executive Summary 
+Surface Water in Somalia 
+The Jubba and Shabelle rivers are the only perennial rivers in Somalia. They both originate in 
+relatively high rainfall areas in upstream Ethiopia, where 90 percent of their flow is generated before 
+entering into Somalia. The Jubba flows all the way to, and enters into, the Indian Ocean, while Shabelle 
+river ends in an area close to Jubba river along the coastline. For most years, Shabelle river is a closed 
+basin, that is, all water is consumed within the basin limits, except during occasional years when very 
+wet conditions cause the river to overflow and enter into Jubba river and the ocean.  
+The flow in Luuq, close to where Jubba river enters Somalia, is about 5,900 MCM/yr (million cubic 
+meters per year). In the past as well as today, that volume is little reduced along the river’s flow towards 
+the ocean. The flow entering the 
+Indian Ocean is about 5,000 
+MCM/yr. The same figures for 
+Shabelle river are 2,400 MCM/yr 
+in Beledweyne, the entry point 
+into Somalia, and about 1,500 
+MCM/yr at the end point, an area 
+of alluvial deposits close to 
+Jubba river. It implies that the 
+Jubba flow is more than twice 
+that of the Shabelle, and only 
+reduced by less than 20 percent 
+from 
+evapotranspiration, 
+groundwater 
+recharge, 
+and 
+utilization. The Shabelle, on the 
+other hand, is almost halved by 
+the same processes before 
+drying up at the end.  
+Water use in the Jubba 
+basin is low (suitable land to irrigate is lacking), whereas the Shabelle basin contains extensive areas 
+suitable for irrigated agriculture. The Lower Shabelle is often referred to as the “bread basket of 
+Somalia”. However, with river infrastructure (dams, barrages, irrigation canals) in poor shape, due to 
+many years of conflict and lack of maintenance, food production (2021) is today far below past levels. 
+Water Supply 
+Climate change and upstream development in Ethiopia are likely to have major future effects on 
+downstream Somalia. The effects differ between the two rivers. Jubba river has a large and steady flow 
+and will not change much. There will be much water available for development throughout that basin. 
+However, Shabelle river faces major changes in coming decades. Given today’s predictions about 
+climate change, the total annual volume of water may not change much; if anything, it may increase 
+slightly (Tierney et al. 2015), but increased runoff variability may cause difficulties in downstream areas. 
+That can include the entire river to, both, dry up at irregular frequencies (as in 2016–2017) and a 
+reduced probability that minimum flow volumes are available at specific periods during the year. 
+Furthermore, if an existing Master Plan for development in upstream Ethiopia is implemented, the 
+downstream flow will be massively reduced and agriculture will change fundamentally.  
+The Shabelle river during dry season. (Photo courtesy: Ahmed Mohamed 
+Hassan)
+=== PAGE 7 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 7 of 29 
+Table 1 shows the flow in MCM/yr in five locations along the two rivers in Somalia. The flow is given 
+as a mean value and as minimum flows to be exceeded at three different time scales (as an example: 
+in Beledweyne, in the Shabelle, mean annual total is 2,460 MCM/yr, but only 473 MCM/yr will be 
+exceeded at 80 percent of the time. A level of 80 percent [or higher] is required for most crops to grow 
+well.1 Floods are likely to occur at 20 percent or less of the time when the flow exceeds 4,320 MCM/yr).2 
+Table 1. Annual Flow at Five Locations along Jubba and Shabelle in Somalia (in MCM/yr) 
+Jubba 
+Mean 
+20% 
+50% 
+80% 
+Shabelle 
+Mean 
+20% 
+50% 
+80% 
+Luuq 
+5,866 
+9,398 
+4,762 
+978 
+Beledweyne 
+2,460 
+4,320 
+1,892 
+473 
+Baardhere 
+6,086 
+9,618 
+4,888 
+1,135 
+BuloBurti 
+2,176 
+3,816 
+1,545 
+315 
+Marera 
+5,866 
+10,028 
+4,636 
+1,009 
+M. Weyne 
+2,050 
+3,942 
+1,671 
+410 
+Kaitoi 
+5,645 
+9,492 
+4,857 
+1,135 
+Afgoi 
+2,208 
+3,816 
+1,577 
+315 
+Jamame 
+5,298 
+9,240 
+4,478 
+851 
+Awdhegle 
+1,419 
+2,460 
+1,451 
+284 
+It should be noted that the above calculations represent long-term annual averages (monthly values 
+added together) for the period 1964–1989, that is, at a time when climate change was not yet marked 
+and water was used by a population that was much smaller than the one today. The above numbers 
+represent interannual variability in the range of +/-75 percent; inter-monthly variability exceeds +/-100 
+percent. 
+How water supply will develop in coming decades is difficult to predict, but assuming upstream 
+development in Ethiopia in combination with a drought year (reducing inflow by 30 percent), the 
+following numbers (in Table 2) on mean annual runoff for Luuq and Beledweyne may develop. The year 
+1990 is included as a baseline. 
+Table 2. Estimates for Mean Annual Runoff for Luuq and Beledweyne 
+Luuq/ 
+Beledweyne 
+1990 
+2020 
+2035 
+2050 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Baseline inflow  
+5,866 
+2,460 
+5,866 
+2,460 
+5,866 
+2,460 
+5,866 
+2,460 
+Ethiopia reduction 
+0 
+0 
+0 
+0 
+-885 
+(15%) 
+-840  
+(35%) 
+-1,180 
+(20%) 
+-1,920 
+(80%) 
+Climate change 
+reduction 
+0 
+0 
+-1,700 
+-700 
+-1500 
+-500 
+-1,400 
+-160 
+New net inflow 
+5,866 
+2,460 
+4,166 
+1,760 
+3,481 
+1,120 
+3,286 
+380 
+ 
+New net inflows’ values should be compared with the baseline inflow in Luuq and Beledweyne. For 
+example, the new net inflow in Beledweyne is 380 MCM/yr, as compared with the baseline inflow of 
+2,460 MCM/yr. The reduction is massive and, if happening, will have major implications on downstream 
+conditions in Shabelle. On top of this are the minimum assured flow concerns, reducing useful amounts 
+of water even further, as discussed above. 
+ 
+1 FAO Somalia, personal communication. 
+2 The total numbers for inflow in Luuq and Beledweyne are not stated exactly as 5,900 and 2,400 MCM/yr, 
+respectively, in this table. As two different sources of data, differing slightly, are used for this presentation, the 
+difference is kept where relevant.
+=== PAGE 8 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 8 of 29 
+In terms of water supply, are the risks and vulnerabilities to agriculture and livelihood systems 
+significant? As noted before, Jubba river will be little affected, but in Shabelle river climate change and 
+upstream development will potentially reduce required minimum amounts of water at given time 
+intervals and for areas in need of water. This will increase the risk of crop failure and how agriculture is 
+planned and practiced. There are many coping mechanisms for this, such as the construction of dams 
+to regulate runoff, improve water use efficiency, and to change from livelihood crops to cash crops. Still, 
+if the inflow of water is reduced to possibly 10–20 percent of today’s baseline flow, no coping 
+mechanism can manage the situation.       
+To what extent can the above supply figures be sustainable and support specific uses depends on 
+how much water is needed and for how long a period. Total annual amounts do not provide enough 
+information. The variability is so large that supply figures must be assessed in terms of specific needs.    
+The effect of climate change is also difficult to adequately assess and present. This report includes 
+a 30 percent reduction in streamflow in some calculations (see above), but how often that happens—
+for example, every second, third or fifth year—and those implications are not included. That requires a 
+full-scale hydrological model and considerable time and resources. 
+Water Demand and Need 
+The demand for water is huge in Somalia, but suppressed by the user’s ability to pay for costly 
+water or to collect it from faraway locations. The need for water—to grow more food, maintain better 
+hygiene, initiate businesses—is equally large. Both terms are linked to conditions existing in the two 
+river basins. These conditions are presented in Table 3 as a baseline (1990), the present time (2020), 
+and two future conditions (2035 and 2050). 
+Table 3. Basin Conditions 
+ 
+Basin Parameters 
+1990 
+2020 
+2035 
+2050 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Population (million) 
+0.9 
+1.6 
+2.1 
+3.5 
+3.1 
+5.2 
+3.9 
+6.5 
+Livestock (million) 
+4.1 
+6.7 
+4.0 
+6.7 
+6.1 
+10.2 
+7.7 
+12.8 
+Irrigated land 
+(1,000 ha) 
+46 
+62 
+15 
+50 
+25 
+80 
+25 
+32 
+Industry & services 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+Converting these conditions into needs for water depends on what level of human well-being is 
+desired as a basis for calculations. If the level chosen is subsistence lifestyles, relatively little water is 
+required per person per day for basic food and water, sanitation and hygiene (WASH) needs. However, 
+if higher levels of well-being are planned, more water is needed. In a dry and poor environment, the 
+need for water is typically much higher than the supply can offer in realistic terms. Table 4 presents 
+water needs that can be satisfied by available supply conditions in Jubba and Shabelle basins and 
+based on such living conditions that are found in a poor, dry environment.
+=== PAGE 9 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 9 of 29 
+Table 4. Water Needs Supplied in Jubba and Shabelle Basins 
+ 
+Basin Parameters  
+(MCM/yr) 
+1990 
+2020 
+2035 
+2050 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Household WASH 
+8 
+13 
+19 
+31 
+29 
+49 
+43 
+71 
+Livestock drinking 
+11 
+19 
+16 
+27 
+25 
+42 
+36 
+60 
+Irrigated agriculture 
+515 
+679 
+165 
+550 
+275 
+880 
+275 
+348 
+Industry & services 
+– 
+– 
+– 
+– 
+? 
+? 
+? 
+? 
+Environmental 
+flows 
+590 
+240 
+590 
+240 
+590 
+240 
+590 
+ 
+It is important to note that the above supplied water needs are based on long-term annual flows of 
+water. For specific dry season months or dry years, enough water is not necessarily available to satisfy 
+stated needs. As an example, for scenario 2050, there is not enough water available to irrigate all land 
+that is potentially available in the Shabelle basin for agriculture or to satisfy the needs of environmental 
+flows. 
+Resilience in Riverine Areas 
+Resilience in the two-river area in Southern Somalia should be based on some key conditions 
+(MoEWR 2021a): blue water agriculture delivers about 10 percent of all food consumed in Somalia. 
+This is a small share and will not change much in coming decades. The remaining food is derived from 
+green water agriculture (55 percent) and imports (35 percent). The share that imported food represents 
+is likely to increase in coming years. Altogether, this implies that blue water resilience is used to support 
+and supplement green water agriculture, livestock rearing, high-value uses, and possibly, over time, 
+urban industry and services. 
+Many opportunities exist in the Jubba basin to expand water use in irrigated agriculture—including 
+both subsistence farming and large-scale cash crop production for export—and for WASH needs and 
+urban industry and services to develop. Over the foreseeable future, there will be enough water to 
+support such activities. Baardhere Dam, once planned in upstream sections but never built, can emerge 
+as a potential investment opportunity to promote, for example, banana agriculture for export.  
+The risks in terms of climate change and upstream development in the Jubba basin are limited. The 
+main limitations to expanded water use are the lack of suitable land to irrigate and, potentially, 
+increasing temperatures due to climate change. That may be a serious future limiting factor in low-
+altitude agriculture. 
+On the other hand, the Shabelle basin is a very different context compared to the Jubba basin. 
+Resilience is a major issue in Shabelle development. It can be addressed in many ways, including 
+formulating rules and knowledge management about water allocation, rehabilitating river infrastructure 
+(and thus increasing food production by reducing flow variability by building dams and barrages), 
+increasing agriculture water use efficiency by introducing new farming systems), and promoting regional 
+development and win-win opportunities by linking Ethiopia’s and Somalia’s water plans together. Still, 
+the major risks—climate change and upstream development—loom high in Shabelle development. If 
+these come true, the future of the Shabelle will be very different compared to the past. But until that 
+happens, development must continue, albeit by an inclusion of risk in planning.
+=== PAGE 10 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 10 of 29 
+Support to Urban Development 
+Blue water, as found in the riverine areas of Southern Somalia, is a scarce commodity. Whenever 
+possible, it should be allocated to higher-value uses such as household consumption (WASH), cash 
+crops, intensive small-scale urban agriculture, stall-feeding of high-value livestock, industry, and urban 
+services. Urban development should have precedence over low-value rural use of water. Such water 
+use can be enhanced by improved farming systems, supplemental green-blue water applications, and 
+new crops. As long as that does not happen, however, urban needs should have priority. 
+ 
+Napier grass being collected in a commercial fodder farm in neighboring Kenya. (Photo courtesy: Wikimedia 
+Commons/Kamweti wa Mutu)3 
+The viability of developing and scaling up water-use efficient agriculture—both in urban and rural 
+areas—exists. It requires secure water supplies (in terms of both allocation rights and physical 
+variability), new knowledge and farming systems, and access to the food market. Investments in roads 
+and accessing agriculture information are key inputs into such systems. Given that a market demand 
+exists—much food is imported to urban areas and paid for in cash—opportunities surely exist as well. 
+To support livestock export by setting up a chain of feedlots—supported by nearby commercial fodder 
+farms (as in the picture above), which shows Napier grass being collected in Kenya)—that connect 
+countryside with coastline export ports is a high-value use of available blue water resources. 
+ 
+ 
+ 
+3 This photo is taken from: https://en.wikipedia.org/wiki/Cenchrus_purpureus
+=== PAGE 11 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 11 of 29 
+Introduction 
+This technical report4 analyses the impact of four parameters—upstream transboundary 
+investments, climate change, runoff variability, and sectoral demands—on downstream surface water 
+flow in the Jubba and Shabelle rivers in Somalia.  
+The Executive Summary presents an overview of the report. The different parameters are then 
+presented in greater detail in subsequent chapters. The report analyzes four different scenarios from 
+the past, present and future of Somalia: in the 1990s (before civil strife escalated); today (that is, 2020); 
+in 2035; and in 2050. 
+Upstream transboundary investments are judged to be the most important of the above four 
+parameters. The potential effect of basin investments in Ethiopia on downstream flow is huge—the 
+Shabelle river could dry up for long periods, in particular, in the lower parts where most irrigated 
+agriculture takes place (the Jubba river will be less affected). If such plans are implemented, and they 
+exist today as a Master Plan for the 
+Ethiopian sections 
+of upstream 
+Shabelle basin, the fundamentals for 
+investments in the Shabelle basin 
+will change. A similar game-changer 
+is also valid for potential changes in 
+runoff due to climate change. While 
+total rainfall amounts may remain the 
+same, or even increase slightly (WB 
+and FAO 2018), the variability is 
+predicted to increase and likely to 
+cause harm to downstream users. 
+This—very much demonstrated by 
+the dry Shabelle river in 2016 and 
+2017 (as in the photo at right) and in 
+everybody’s mind today—may have 
+huge impacts on today’s investment 
+plans. The scenarios presented 
+here, including two with upstream 
+development, may come true—or 
+not at all. Only the future will tell. 
+However, plans exist and efforts are ongoing to get teams from Ethiopia and Somalia together for 
+trust-building activities and to agree to meet and discuss shared water concerns. Such transboundary 
+issues are being promoted as regional development, win-win, and having shared benefits. A 
+ 
+4 This technical report is one of a suite of six supporting documents along with the ‘Economics of Water: 
+Digging for Data—Towards Understanding Water as a Limiting or Enabling Factor for Socioeconomic Growth 
+in Somalia’ report. The other five supporting documents comprise: (a) three technical reports (Somalia: An 
+Institutional Analysis Report; Somalia: Groundwater Assessment Technical Report; and Water+ in Somalia: A 
+Sectoral Analysis); (b) Somalia: Groundwater Quality Technical Note; and (c) a Summary Report. All the 
+reports can be accessed at: the Ministry of Energy and Water Resources’ website (https://moewr.gov.so) [the 
+reports will be available in 2022 as the site is currently under development]; the World Bank’s Water Global 
+Practice website (https://www.worldbank.org/en/topic/water); as well as the World Bank’s Somalia website 
+(https://www.worldbank.org/en/country/somalia). 
+The dry Shabelle river in 2016. (Photo courtesy: Ahmed Mohamed 
+Hassan)
+=== PAGE 12 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 12 of 29 
+downstream “right to water” perspective is discouraged, as it is unlikely to succeed given the very 
+asymmetric power conditions that exist in the basins (MoEWR 2021b). 
+A simple hydrological model was developed for this report in order to study the two rivers. It was 
+developed as a subcomponent to a larger national model assessing alternative water resources 
+management options and their linkages to water and food security, trade, and diaspora remittances. 
+The Jubba and Shabelle basins’ submodel uses annual data on rainfall and runoff, water and land use, 
+population dynamics, and livestock and environmental needs for water. Data are mainly derived from 
+four sources: Basnyat (2007), World Bank and the Food and Agriculture Organization (2018), 
+Michalscheck et al. (2016), and FAOSTAT5 (2020). Generally, data are of very varying quality, often of 
+questionable quality, and sometimes based on assumptions and guesstimates. In using the data, there 
+is often a need to simplify and use numbers that seem reasonable. 
+Given data quality, the generated results should be taken with some caution. Specific numbers are, 
+by default, not true; it is impossible to generate ‘true’ results, but scale issues and how different results 
+compare with each other are more likely correct. Similarly, the scenarios made for 2035 and 2050 are, 
+as all scenarios, merely projections of today into a future that we know little about. The scenarios should 
+be used for what they are worth, remembering that much will change between today and 2050.  
+ 
+ 
+ 
+5 The Food and Agriculture Organization Corporate Statistical Database.
+=== PAGE 13 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 13 of 29 
+1 Jubba and Shabelle Basins 
+The Jubba and Shabelle rivers are the only perennial rivers in Somalia, with 90 percent of their flow 
+originating from neighboring Ethiopia. The Jubba river has three main tributaries in its upper catchment 
+in Ethiopia: the Dawa, Genale and Weyb, all of which flow southeastwards. The Weyb and Genale unite 
+to form Jubba river just north of 
+Doolow in Ethiopia; the Dawa tributary 
+joins the Jubba in Doolow Town, just 
+after the Somalia-Ethiopia border. 
+The total length of Jubba river is 
+1,800 km, with a catchment area of 
+about 
+210,010 
+km2 
+(square 
+kilometers). 
+The 
+Shabelle 
+river 
+emerges on the eastern Ethiopian 
+highlands at an altitude of about 
+4,230 meters. It has two main 
+tributaries 
+in 
+the 
+Ethiopian 
+catchment: the Fanfan and Shabelle. 
+The flows of the Fanfan tributary are 
+intermittent, 
+and 
+only 
+join 
+the 
+Shabelle 
+during 
+high 
+rainfall 
+seasons. The river is 2,526 km long, 
+with a catchment area of 283,000 
+km2. Figure 1 shows the joint 
+catchment area, with the location of 
+river runoff gauging stations also 
+shown. Runoff in these stations is 
+given in Chapter 4. 
+The alluvial plains of the Jubba and Shabelle in Somalia have been described as the “breadbasket 
+of Somalia”. For many decades—or centuries—irrigated agriculture has been practiced along these 
+plains, producing food not only for local consumption but also for export. The waters of the two rivers 
+have also supported livestock rearing. Available records indicate that before the collapse of the former 
+Somali government in 1990, over 220,000 hectares (ha) of land along the flood plains were under either 
+controlled irrigation or recession farming. Maize, sesame, fruits, and vegetables were some of the crops 
+grown for local markets, while sugarcane and rice were grown for both local and foreign markets. A 
+major export product was bananas. A large dam, the Baardhere dam, was planned on the Jubba river 
+but it was never built following upstream Ethiopian concerns.  
+Today, however, the situation has changed. Irrigated agriculture along the lower Shabelle is 
+reduced. According to available information, not one of the large barrages (eight on Shabelle, one on 
+Jubba) is functioning. Due to the civil war and a lack of opportunities to maintain installations—not only 
+the barrages but also irrigation canals, locks, and irrigated lands—this system is not working well today. 
+The opportunities to rehabilitate and restore parts of the past production capacity exist, but that requires 
+major investments, cooperation between state and federal governments, and safe working conditions. 
+Figure 1. The Jubba and Shabelle Basins
+=== PAGE 14 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 14 of 29 
+2 A Water Balance Model 
+The model uses a set of linked excel spreadsheets. It is easy to use and can be adapted to new 
+conditions. All entry data and specific parameters are separated from calculations and thus easily 
+adapted to new knowledge and conditions. The model includes the following parameters.  
+2.1 Potential Upstream Basin Development in Ethiopia 
+In addition to already existing upstream river infrastructure and abstractions, the Ministry of Water 
+Resources in Ethiopia has developed a Master Plan (Ministry of Water Resources 2005) for upstream 
+river investments. Implementation is delayed, but the use of water in agriculture and in domestic and 
+livestock sectors is projected to increase in order to meet a growing population’s demand for water and 
+food (Michalscheck et al.2016). When this will happen, and how downstream flow will be affected, is 
+unknown. Still, several dams for hydropower generation are planned and, if implemented, would change 
+current flow patterns fundamentally.  
+Besides such nonconsumptive uses, the implementation of planned irrigated agriculture projects 
+entails potentially massive expansion of water use. The model takes this into account by reducing 
+downstream flow by 15 percent and 30 percent in 2035 for the Jubba and Shabelle, respectively, and 
+by 20 percent and 80 percent, respectively, in 2050.     
+2.2 Climate Change and Runoff 
+Rainfall is predicted to come down in heavier events and hence floods are likely to become more 
+frequent in the Jubba and Shabelle basins (Petersen and Gadain 2012). This is compatible with 
+predications indicating higher average rainfall in the Horn of Africa in coming decades (Tierney et al. 
+2015). Droughts are also likely to become more frequent, as an outcome of greater rainfall variability, 
+both seasonally and interannually (WB and FAO 2018).  
+In the model, runoff below Luuq (Jubba river) and Beledweyne (Shabelle river) can be reduced as 
+an outcome of droughts in the region. This can be done by setting a chosen percentage reduction (for 
+example, 10 percent) and a specific frequency of occurrence (for example, every fourth year). It directly 
+affects the availability of water below these points. 
+However, due to the irregular frequency of floods and drought, and time and data constraints, the 
+climate impact is not included in the main modeling work that delivers predictions of water availability. 
+In the tables presenting modeled results, this impact is set as zero. However, a climate effect—reducing 
+runoff by 30 percent from upstream—is included in summary results presented in the Executive 
+Summary. 
+Similarly, the rainfall-runoff coefficient, linked to land use and rainfall intensity, is also assumed to 
+not change over time. A full hydrological model would be required to assess that effect on downstream 
+runoff.  
+2.3 River Flow Probabilities 
+A flow probability is the percentage of time the flow will exceed a certain discharge volume (this is 
+useful in planning activities that require a minimum of water for a certain length of time). Decreasing 
+flows and their probability at 20 percent, 50 percent, and 80 percent are given for five locations in each 
+basin within Somalia. The probability is given for the annual total runoff (in a certain location) and, as 
+such, reflects both interannual variability and intraannual variability (between dry and wet seasons).
+=== PAGE 15 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 15 of 29 
+The latter, if assessed separately, implies an additional variation of +/-75 percent and +/-150 
+percent, respectively, on given long-term average (1964–1989) flow numbers. Furthermore, given that 
+the probability curves were developed based on runoff between 1964 and 1989, and that the occurrence 
+of droughts and floods have increased over time (Federal Directorate of Environment and Climate 
+Change 2020), the discharge likely to be exceeded at certain timeframes is probably lower today. The 
+general deterioration of flood control and river regulation infrastructure, including deposition of 
+sediments, has further increased water flow variability.  
+2.3.1 Population Growth 
+For all four periods studied (the 1990s, 2020, 2035, and 2050), population numbers are taken from 
+Worldometer (based on United Nations Population Division). Numbers refer to Somalia at large. 
+Southern Somalia is assessed to represent 43 percent of the population, with Jubba basin water 
+servicing 30 percent and the Shabelle 50 percent of this, and the remaining 20 percent depending on 
+groundwater in the in-between areas.     
+2.3.2 Water Allocation and Use 
+Four uses have been identified and modeled: household WASH, livestock (drinking only), irrigated 
+agriculture, and environmental flows. They are allocated in that specific order of priority. If water 
+becomes scarce, it is the last in priority that runs dry first.  
+Household WASH is based on the 
+number of people, level of urbanization, 
+and use as follows: urban poor (50 
+percent) 20 l/cap/day, urban non-poor 
+(50 percent) 40 l/cap/day, rural (all) 20 
+l/cap/day. Livestock, as a weighted 
+average of current animal types, 
+consume 4 MCM/1 million animals/year 
+(from the rivers) and include about 10 
+million in Southern Somalia (in total). 
+Numbers are set to grow in parallel with 
+population growth. 
+Actual irrigated agriculture water 
+use depends on whether water and 
+land is available, and if any of the two 
+limit the use. Irrigated agricultural water 
+use is based on 11,000 m3/ha/year 
+(Basnyat 2007). This figure, an average 
+of reported locations, is based on field 
+crop water requirements and irrigation 
+demand 
+calculated 
+using 
+CROPWATER, an FAO agriculture 
+water software. Environmental flows 
+are calculated as 10 percent of the 
+2020 inflow, thus being 590 MCM/yr 
+and 240 MCM/yr for the Jubba and 
+Shabelle, respectively (Basnyat 2007).         
+The dry Shabelle river in 2016. (Photo courtesy: Ahmed Mohamed 
+Hassan)
+=== PAGE 16 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 16 of 29 
+Based on the above, the model provides a simple water balance. Inflow from upstream Ethiopia is 
+reduced by any upstream development. The effects of climate change are not included in the tables 
+and graphs below as already discussed.   
+The received net inflow is reduced by household WASH, livestock, irrigated agriculture, and 
+environmental flow. This reduction is shared equally among all five sections of the two rivers (named 
+as below). For the Shabelle this may imply a too large use in the upstream part, as compared with the 
+downstream areas where large irrigated fields exist. This can be further studied.  
+The derived ocean runoff/excess is either entering the Indian Ocean (Jubba river) or feeding 
+groundwater along the basin or in the very end (in the case of the Shabelle).  
+Stated rainfall amount is calculated for the Somalia sections of the two basins. What falls within 
+irrigated land adds to food produced, otherwise it contributes to infiltrated green water and potential 
+rainfed agriculture and livestock feeding. This water is transpirated or evaporated back to the 
+atmosphere, except for 3 percent that recharges groundwater. Internal runoff that feed the two rivers is 
+not included in the model, due to lack of data. The amount can be substantial in places, but not 
+compared to full river flows. The scale differences between transpiration/evaporation and water 
+productively used in agriculture should also be noted. A small reduction in transpiration/evaporation can 
+enable a big increase in water productively used in agriculture. Improved land management can benefit 
+productive transpiration (that is, growing food) and produce 50–200 percent more food per land area 
+and given rainfall.        
+The tables in Chapter 4 present water flows as MCM/year (million m3 per year).  
+Converted into m3/second, the numbers turn much smaller—100 MCM/yr is equal to about  
+3 m3/second of river flow.
+=== PAGE 17 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 17 of 29 
+3 Four Scenarios and Four Water Balances 
+The four scenarios presented here include a baseline, present conditions, and two future conditions.  
+Data used in developing the four scenarios have been taken from Basnyat (2007) and Michalscheck 
+et al. (2016). In brief, the scenarios represent the following conditions.  
+3.1 A Baseline: The 1990s 
+This represents conditions before internal strife worsened in Somalia, when most people lived in 
+rural areas, the water flow in Jubba and Shebelle rivers followed well known and reliable patterns, and 
+all the (eight + one) barrages were in place and contributed to large-scale irrigated agriculture. This 
+amounted to about 45,000 ha and 60,000 ha, in the Jubba and Shabelle, respectively.  
+Basin populations for the Jubba and Shabelle were about 0.9 and 1.6 million, respectively. 
+Upstream Ethiopian use of upstream water was negligible.   
+3.2 The Present: 2020 
+Following many difficult years, urbanization is pronounced; the two rivers, and in particular the 
+Shabelle, show an increasingly variable and unreliable flow. The Shabelle basin irrigation system has 
+degraded and all barrages are dysfunctional. The irrigated area in the Jubba and Shabelle is 15,000 ha 
+and 50,000 ha, respectively (Shabelle possibly less).  
+Basin populations for the Jubba and Shabelle are 2.1 and 3.5 million, respectively. Ethiopian use 
+of upstream water is still negligible. 
+3.3 Modest Change: 2035 
+By this time, the population is larger and even more people are urbanized. River flows are even 
+further variable and unreliable, especially in Shabelle river, and farmers face difficulties in planning their 
+irrigation schedules.  
+The preconflict river infrastructure has been restored and expanded, and irrigated agriculture 
+production has increased to the largest area ever found in the Jubba and Shabelle: 25,000 ha and 
+80,000 ha, respectively. Inflow from upstream Ethiopia is reduced by 15 percent and 30 percent for the 
+Jubba and Shabelle, respectively, but as an outcome of upstream dams may also provide some 
+reduced variability, an effect benefitting downstream Somali farmers. 
+ The populations in the Jubba and Shabelle basins are 3.1 and 5.2 million, respectively.  
+3.4 Major Change: 2050 
+The two basins are now significantly altered, very much as an outcome of population growth and 
+upstream Ethiopian development. Urbanization, partly driven by an exodus from rural areas, is about 
+65 percent of the population, and river flows are very different compared with 50 years previously.  
+While irrigation infrastructure was restored and expanded in the 2030s, it cannot be fully utilized in 
+2050 due to a lack of water (in Shabelle river). Following large scale development in Ethiopia, inflow 
+has been reduced by 20 percent in the Jubba and 80 percent in the Shabelle, and merely 32,000 ha of 
+land can be irrigated in the Shabelle (57 percent less than in 2035).
+=== PAGE 18 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 18 of 29 
+Downstream flow is very low, in particular during dry and semi-dry months, probably implying a dry 
+river for extensive periods. Environmental flows and/or groundwater recharge have dried up.  
+Farmers in upstream locations may benefit from reduced inflow variability, as an outcome of 
+Ethiopian investments, and thus maintain functioning irrigation systems. However, downstream farmers 
+will suffer from changes that are likely to take place. This includes increased flow variability, likely to 
+cause many problems to downstream farmers. 
+The populations in the Jubba and Shabelle basins are 3.9 and 6.5 million, respectively.
+=== PAGE 19 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 19 of 29 
+4 Water Supply, Allocation, and Use 
+4.1 Summarized Flows of Water 
+Based on water supply, allocation, and use, the four scenarios outlined in Chapter 3 deliver annual 
+amounts as presented in Table 5. 
+Table 5. Four Water Balances in Jubba and Shabelle Rivers 
+Parameter/Basin 
+1990+ 
+2018 
+2035 
+2050 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Jubba 
+Shabelle 
+Total precipitation 
+(MCM/yr) 
+19,890 
+29,403 
+19,890 
+29,403 
+19,890 
+29,403 
+19,890 
+29,403 
+Gross runoff 2018 
+(MCM/yr) 
+5,900 
+2,400 
+5,900 
+2,400 
+5,900 
+2,400 
+5,900 
+2,400 
+Upstream diversion 
+reduction (MCM/yr) 
+0 
+0 
+0 
+0 
+885 
+840 
+1,180 
+1,920 
+New downstream flow 
+(MCM/yr) 
+5,900 
+2,400 
+5,900 
+2,400 
+5,015 
+1,560 
+4,720 
+480 
+Climate change 
+reduction (MCM/yr) 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+  
+Inflow Somalia (MCM/yr) 
+5,900 
+2,400 
+5,900 
+2,400 
+5,015 
+1,560 
+4,720 
+480 
+Household WASH use 
+(MCM/yr) 
+8 
+13 
+19 
+31 
+29 
+49 
+43 
+71 
+Livestock drinking 
+(MCM/yr) 
+11 
+19 
+16 
+27 
+25 
+42 
+36 
+60 
+Irrigated agriculture 
+(MCM/yr) 
+515 
+679 
+165 
+550 
+275 
+880 
+275 
+348 
+Environment (MCM/yr) 
+590 
+240 
+590 
+240 
+590 
+240 
+590 
+0 
+Ocean runoff/Excess 
+(MCM/yr) 
+4,776 
+1,449 
+5,110 
+1,552 
+4,096 
+350 
+4,096 
+0 
+  
+Rangeland transpiration 
+(MCM/yr) 
+5,788 
+8,556 
+5,788 
+8,556 
+5,788 
+8,556 
+5,788 
+8,556 
+Rangeland evaporation 
+(MCM/yr) 
+13,505 
+19,965 
+13,505 
+19,965 
+13,505 
+19,965 
+13,505 
+19,965 
+  
+Population (Million) 
+0.9 
+1.6 
+2.1 
+3.5 
+3.1 
+5.2 
+3.9 
+6.5 
+The parameter “Inflow Somalia” represents the amount of water per year that enters Somalia from 
+Ethiopia. It is derived from a baseline inflow of 2,400 MCM/yr (“Gross runoff” from Ethiopia) with 
+potential reductions in terms of upstream development and climate change effects (although, as noted 
+above, it is not applied here as data are not available about future potential effects of climate change). 
+All figures are based on people and livestock utilizing water derived from the rivers. People and livestock 
+in southern Somalia are assumed to be distributed as 30 percent in the Jubba basin, 50 percent in the 
+Shabelle basin, and 20 percent (depending on groundwater) in the in-between areas.
+=== PAGE 20 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 20 of 29 
+4.2 Water Use and Flow Distribution 
+Table 6 provides a baseline inflow of water in Luuq (Jubba river) and Beledweyne (Shabelle river) 
+and at four additional downstream stations in each basin. Calculations are based on data collected 
+between 1964 and 1989. Given that data are old, it is assumed that the flow distribution in each river 
+represents a “natural” state, with limited amounts of water diverted for agriculture or human 
+consumption. The reduced flow that occurs is due to evapotranspiration and groundwater recharge. 
+The four flow categories represent the (i) annual average flow; (ii) minimum flow exceeding 20 percent 
+time-wise; (iii) minimum flow exceeding 50 percent time-wise; and (iv) minimum flow exceeding 80 
+percent time-wise. This table remains the same for all four scenarios.  
+A distributed profile of water flow in the basins has been calculated for each scenario. It is based 
+on the above calculated “Inflow Somalia” and reduced by the four defined uses (WASH, livestock, 
+irrigated agriculture, environmental flow), being shared as 20 percent for each of the five sections in 
+each basin (names as below). As noted above, maybe this allocates too much water used in upstream 
+Shabelle sections, but until more is known about this, the distribution works well. 
+Table 6. Water Probabilities to Exceed Alternative Flow Durations in Five Locations in  
+Jubba and Shabelle River Basins 
+Jubba (m3/s) 
+Shabelle (m3/s) 
+  
+Mean 
+20% 
+50% 
+80% 
+  
+Mean 
+20% 
+50% 
+80% 
+Luuq 
+186 
+298 
+151 
+31 
+Beledweyne 
+78 
+137 
+60 
+15 
+Baardhere 
+193 
+305 
+155 
+36 
+BuloBurti 
+69 
+121 
+49 
+10 
+Marera 
+186 
+318 
+147 
+32 
+M. Weyne 
+65 
+125 
+53 
+13 
+Kaitoi 
+179 
+301 
+154 
+36 
+Afgoi 
+70 
+121 
+50 
+10 
+Jamame 
+168 
+293 
+142 
+27 
+Awdhegle 
+45 
+78 
+46 
+9 
+ 
+For each scenario, a table and two figures have been developed (below). The table shows the river flow 
+in the five locations in each river after the four types of uses have been deducted from the four types of 
+flows (Mean, 20 percent, 50 percent, and 80 percent). Deductions accumulate downstream. The figures 
+plot the four flows for each river. Do note the different y-scales. The Jubba flow is, at all times, much 
+larger than the Shabelle flow.
+=== PAGE 21 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 21 of 29 
+4.2.1 A Baseline: The 1990s 
+Table 7. Mean and Flow Durations for 1990 in Five Locations in Jubba and Shabelle River Basins  
+after Use Has Been Deducted 
+Reduced with uses along river. All negative values turned 0 (MCM/yr) 
+Jubba 
+Mean 
+20% 
+50% 
+80% 
+Shabelle 
+Mean 
+20% 
+50% 
+80% 
+Luuq 
+5,641 
+9,173 
+4,537 
+753 
+Beledweyne 
+2,270 
+4,130 
+1,702 
+283 
+Baardhere 
+5,637 
+9,169 
+4,438 
+686 
+BuloBurti 
+1,795 
+3,435 
+1,165 
+0 
+Marera 
+5,191 
+9,354 
+3,961 
+335 
+M. Weyne 
+1,479 
+3,371 
+1,101 
+0 
+Kaitoi 
+4,746 
+8,593 
+3,957 
+236 
+Afgoi 
+1,446 
+3,055 
+816 
+0 
+Jamame 
+4,174 
+8,116 
+3,354 
+0 
+Awdhegle 
+468 
+1,508 
+499 
+0 
+ 
+ 
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+MCM / year
+Figure 2. Jubba Flow Duration Curve, 
+1990s
+Mean runoff
+20%
+50%
+80%
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+MCM / year
+Figure 3. Shabelle Flow Duration Curve, 
+1990s
+Mean runoff
+20%
+50%
+80%
+=== PAGE 22 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 22 of 29 
+4.2.2 The Present: 2020 
+ 
+ 
+ 
+Table 8. Mean and Flow Durations for 2020 in Five Locations in Jubba and Shabelle River Basins  
+after Use Has Been Deducted 
+Reduced with uses along river. All negative values turned 0 (MCM/yr) 
+Jubba 
+Mean 
+20% 
+50% 
+80% 
+Shabelle 
+Mean 
+20% 
+50% 
+80% 
+Luuq 
+5,708 
+9,240 
+4,604 
+820 
+Beledweyne 
+2,290 
+4,151 
+1,723 
+304 
+Baardhere 
+5,771 
+9,303 
+4,572 
+819 
+BuloBurti 
+1,837 
+3,477 
+1,206 
+0 
+Marera 
+5,392 
+9,555 
+4,162 
+535 
+M. Weyne 
+1,541 
+3,433 
+1,163 
+0 
+Kaitoi 
+5,013 
+8,861 
+4,225 
+504 
+Afgoi 
+1,529 
+3,138 
+899 
+0 
+Jamame 
+4,509 
+8,451 
+3,689 
+62 
+Awdhegle 
+572 
+1,612 
+603 
+0 
+ 
+ 
+0
+1,000
+2,000
+3,000
+4,000
+MCM / year
+Figure 5. Shabelle Flow Duration Curve, 
+2020
+Mean runoff
+20%
+50%
+80%
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+Luuq
+Bardheere Marera
+Kaitoi
+Jamame
+MCM / year
+Figure 4. Jubba Flow Duration Curve, 
+2020
+Mean runoff
+20%
+50%
+80%
+=== PAGE 23 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 23 of 29 
+4.2.3 Modest Change: 2035 
+ 
+ 
+ 
+ 
+Table 9. Mean and Flow Durations for 2035 in Five Locations in Jubba and Shabelle River Basins  
+after Use Has Been Deducted 
+Reduced with uses along river. All negative values turned 0 (MCM/yr) 
+Jubba 
+Mean 
+20% 
+50% 
+80% 
+Shabelle 
+Mean 
+20% 
+50% 
+80% 
+Luuq 
+4,802 
+7,804 
+3,864 
+647 
+Beledweyne 
+1,357 
+2,566 
+988 
+65 
+Baardhere 
+4,806 
+7,808 
+3,787 
+597 
+BuloBurti 
+930 
+1,996 
+520 
+0 
+Marera 
+4,434 
+7,973 
+3,389 
+306 
+M. Weyne 
+606 
+1,836 
+360 
+0 
+Kaitoi 
+4,063 
+7,333 
+3,393 
+230 
+Afgoi 
+467 
+1,512 
+57 
+0 
+Jamame 
+3,584 
+6,935 
+2,887 
+0 
+Awdhegle 
+0 
+389 
+0 
+0 
+ 
+ 
+ 
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+MCM / year
+Figure  6. Jubba Flow Duration Curve, 
+2035
+Mean runoff
+20%
+50%
+80%
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+MCM / year
+Figure 7. Shabelle Flow Duration Curve, 
+2035
+Mean runoff
+20%
+50%
+80%
+=== PAGE 24 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 24 of 29 
+4.2.4 Major Change: 2050 
+ 
+ 
+Table 10. Mean and Flow Durations for 2050 in Five Locations in Jubba and Shabelle River Basins  
+after Use Has Been Deducted 
+Reduced with uses along river. All negative values turned 0 (MCM/yr) 
+Jubba 
+Mean 
+20% 
+50% 
+80% 
+Shabelle 
+Mean 
+20% 
+50% 
+80% 
+Luuq 
+4,504 
+7,329 
+3,621 
+593 
+Beledweyne 
+396 
+768 
+282 
+0 
+Baardhere 
+4,492 
+7,317 
+3,533 
+531 
+BuloBurti 
+243 
+571 
+117 
+0 
+Marera 
+4,126 
+7,456 
+3,142 
+241 
+M. Weyne 
+122 
+500 
+46 
+0 
+Kaitoi 
+3,761 
+6,839 
+3,130 
+153 
+Afgoi 
+58 
+379 
+0 
+0 
+Jamame 
+3,294 
+6,448 
+2,639 
+0 
+Awdhegle 
+0 
+12 
+0 
+0 
+ 
+ 
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+MCM / year
+Figure 9. Shabelle Flow Duration Curve, 
+2050
+Mean runoff
+20%
+50%
+80%
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+MCM / year
+Figure 8. Jubba Flow Duration Curve, 
+2050
+Mean runoff
+20%
+50%
+80%
+=== PAGE 25 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 25 of 29 
+5 Discussion 
+5.1 Runoff and Reliability 
+After assessing the tables and graphs in Chapter 4, it is clear that water flows decrease downstream 
+and that the opportunities to make use of water in the two basins differ. Three initial points to note are: 
+First, there is a natural reduction in flow in both basins due to evapotranspiration and groundwater 
+recharge. Second, the Jubba carries large volumes of water and this is likely to continue in the future 
+as well, irrespective of development in either Ethiopian or Somali sections of the basins. Third, the 
+Shabelle is at risk of drying up, not only during certain dry years, such as what happened in 2016–2017, 
+but also for extensive periods during each consecutive year. The effect increases with downstream 
+location.  
+As noted above, the different probabilities show the minimum amount of water available for a certain 
+percent of time. Based on literature reviewed (Basnyat 2007; Petersen and Gadain 2012), these 
+probabilities are most likely linked to a combination of interannual and intraannual flow variability (there 
+is both a huge flow variability from year to year and an equally huge flow variability between dry and 
+wet seasons).  
+This should be followed up to gain more information on flow variability, as that has an important 
+impact on planning future expanded irrigated agriculture.   
+Farmers in, for instance, BuloBurti in the Shabelle basin, would, in theory, be able to irrigate land 
+with 571 BCM of water per year in 2050 (summarizing all months). That water is the annual total of 
+monthly amounts being exceeded at 20 percent of the time, a very low amount of reliable supply. In 
+reality, that is not good enough for farming; farming requires much higher probabilities. In the case of 
+BuloBurti that would be 117 BCM/year at 50 percent duration, a higher reliability, but a smaller amount. 
+And developing agriculture based on 80 percent reliable supply cannot happen—such water does not 
+exist.  
+What a reasonable water probability for irrigated farming is can be discussed. It depends on crop 
+types, farming systems, installations such as dams and possibly access to groundwater, and the 
+general demand for food and work.  
+In order to supply water according to the traditional farming calendar, with water needs peaking in 
+June-July and November-December, and in a scenario post rains and with high flows for both gu and 
+deyr,6 irrigation requirements are: 75 percent as reliable flows for cereals and 90 percent for perennials.7 
+Such numbers would exclude BuloBurti from growing both cereals and perennials in 2050.  
+The figures given above are based on the period 1964–1989. The natural runoff today probably 
+differs compared with that period with additional wet and dry periods (although droughts and floods also 
+occurred a long time ago, reported from the ’50s and onwards). Today, as a consequence of changing 
+weather patterns and climate change, the variability has probably increased—while total annual 
+averages may remain the same—thus making it even more difficult to depend on runoff in the Shabelle 
+(Tierney et al. 2015).  
+ 
+6 The gu rains begin in April and last until June. Deyr rains are generally in October-November. 
+7 FAO Somalia, personal communication.
+=== PAGE 26 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 26 of 29 
+A conventional solution to the problem outlined above is to build a dam, catch all flows, and regulate 
+downstream runoff. As variability increases in the Shabelle, that would be a simple solution to a complex 
+problem. But a dam also has to take into account future Ethiopian upstream development, both in terms 
+of regulating the flow and diverting runoff into new farm areas. Such development is modeled in the two 
+future scenarios presented in  Chapter 4. 
+5.2 Climate Change 
+As noted earlier, detailed climate change effects on runoff are not included in the various scenarios 
+and their flow variability. To do that would require more information and a hydrological model to assess 
+the variability and its impacts downstream. In addition, the effect of climate change is irregular, maybe 
+turning one year out of five very dry and another 
+year very wet. Such effects are difficult to include 
+in regional development. An “average” flow does 
+not 
+adequately 
+describe 
+conditions 
+for 
+sustainable agriculture. 
+5.3 Available Water 
+In Jubba river, water is available at all times 
+for all uses. The only exception is possibly the 
+combination of a very dry year, a use that 
+requires access to much water at all times, and 
+in a future where some development has taken 
+place in upstream Ethiopia and people and 
+livestock populations in downstream Somali 
+sections 
+have 
+increased. 
+Otherwise, 
+investments requiring reasonable amounts of 
+water are feasible.  
+Shabelle river, however, is a different story. 
+Today (2020), water is available throughout the 
+basin, except at the very end and at 80 percent 
+flow duration (based on modeled results and 
+summarized annual data). Still, farming takes 
+place and can be expanded. More people and 
+livestock can get water for WASH and drinking 
+needs.  
+However, under conditions where climate 
+change has reduced inflow in Beledweyne by 30 
+percent, and 80 percent duration is required, 
+water supply cannot meet agricultural needs 
+(Figure 10). A similar drastic reduction is found all 
+along the basin until its end. 
+The environmental flow, also linked to 
+groundwater recharge, is gone, and the basin will 
+be dry for several months per year.      
+Figure 10. Shabelle River Flow  
+in 2020 with Climate Effect Included 
+Figure 11. Shabelle River Flow  
+in 2035 with Climate Effect included
+=== PAGE 27 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 27 of 29 
+The same conditions in 2035, and with new upstream Ethiopian river infrastructure in place, portray 
+an even more increasingly difficult and water scarce situation (Figure 11).  
+Long term average runoff in 2035 delivers enough water in Shabelle to sustain people and livestock, 
+but water is only available in the lower sections for a few months per year (that is, probably only in the 
+midst of the wet season). Otherwise the basin is likely to stay dry. 
+The 2035 flow pattern is further exacerbated in 2050, when the river probably runs dry for most of 
+the year. Irrigated farming is reduced, as compared with both 2020 and 2035, not because of land 
+scarcity, but due to water scarcity. A potential climate change effect on inflow from Ethiopia makes the 
+situation much more difficult to manage. 
+5.4 Investment Opportunities 
+Many investment opportunities exist linked to surface water in the two basins. They are outlined 
+here. However, before these are developed, the following studies should be carried out for both rivers: 
+• 
+An updated study on river flow. It should be based on a combination of past data and 
+hydrological modeling utilizing remote sensing data (including upstream basin sections in 
+Ethiopia)—including potential changes in runoff variability due to climate change—and deliver 
+flow duration curves for the full rivers.   
+• 
+A review of current agricultural water practices and seasonality. In coming decades, the 
+flow is likely to both decline and turn more variable (both interannual and intraannual). Shabelle 
+river is likely to turn dry for several months each year. How can irrigated agriculture cope with 
+such changes? What amount of water is required during certain months per year to maintain a 
+productive agricultural sector? Updated duration curves will support such an analysis.  
+• 
+Future climate smart, cash-crop agriculture. Agriculture in both the Shabelle and Jubba 
+basins has to adapt to reduced water availability, higher variability, a need to deliver decent 
+livelihood conditions to more people, and to generate export incomes to pay for imported basic 
+food requirements.      
+Investment opportunities include the following: 
+• 
+Build the Baardhere Dam and expand irrigated agriculture in the Jubba basin. About 120,000 
+ha of new land can be put under additional irrigation and, if used for banana cultivation, can 
+provide a much-needed export cash crop income.  
+• 
+Build a dam upstream of Beledweyne (or if better located, within Ethiopia) to generate reduced 
+variability and increased reliability of water in downstream irrigated agriculture.  
+• 
+A gradual commercializing of Jubba and Shabelle agriculture, from low value crops towards 
+higher-value export crops such as sesame, lime, and banana.   
+• 
+Develop supplemental irrigation schemes—that is, based on rainfed agriculture—which, during 
+certain key periods of plant growth, have an extra assured supply of blue river water and thus 
+could increase production. The productivity per volume of such added blue water can be huge.   
+• 
+Develop perennial livestock feed crops that utilize green water, but at times have blue river 
+water added (supplemental irrigation). It would form the basis for high-quality livestock export 
+(that is, well-fed, healthy livestock, selling at good prices).
+=== PAGE 28 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 28 of 29 
+• 
+Improve water use efficiency in irrigated Shabelle agriculture. Most likely, it can be turned many 
+times more productive, cutting water losses and improving production per volume of water 
+applied.  
+• 
+Given that much food is imported and commercial food markets exist in major cities, 
+investments that improve the connections between domestic food production and markets by 
+means of transport (roads), facilitators (traders), and market information (internet/smart 
+phones) can assist in promoting cash crop production.
+=== PAGE 29 ===
+Somalia: Surface Water and Riverine Assessment 
+ 
+Technical Report                                                                                                                    Page 29 of 29 
+Bibliography 
+Basnyat, D.B. 2007. Water Resources of Somalia. Technical Report No W-11. October. Nairobi, 
+Kenya: FAO SWALIM(GCP/SOM/045/EC). https://www.faoswalim.org/resources/site_files/W-
+11%20Water%20Resources%20of%20Somalia_0.pdf 
+FAO Aquastat. 2020. www.fao.org/faostat/en/ 
+Federal Directorate of Environment and Climate Change. 2020. Somalia National Climate Change 
+Policy. Federal Republic of Somalia. 
+Michalscheck, M., G. Petersen, and H. Gadain. 2016. “Impacts of rising water demands in the Juba 
+and Shabelle river basins on water availability in south Somalia.” Hydrological Sciences 
+Journal 61:10, 1877–1889, DOI: 10.1080/02626667.2015.1058944. 
+https://www.tandfonline.com/doi/pdf/10.1080/02626667.2015.1058944 
+Ministry of Water Resources. 2005. Ethiopia. Integrated Development Master Plan Study Project. 
+Final Phase III report. Phase III—MASTER References 82.  
+MoEWR (Ministry of Energy and Water Resources). 2021a. Somalia: Overview and Outcome of Five 
+Water Resources Management Options. Ministry of Energy and Water Resources, Federal 
+Government of Somalia 
+———. 2021b. Water Resources Strategy and Plan. Ministry of Energy and Water Resources, 
+Federal Government of Somalia. 
+Petersen, G., and H.M. Gadain. 2012. Water Demand Assessment for the Juba and Shabelle Rivers. 
+Technical Report No W-22. February. FAO-SWALIM (GCP/SOM/049/EC) Project, Nairobi, 
+Kenya. 
+https://www.faoswalim.org/resources/site_files/W%2022%20Water%20Demand%20Assessm
+ent_0.pdf 
+Tierney, J.E., C.C. Ummenhofer, and P.B. Demenocal. 2015. “Past and future rainfall in the Horn of 
+Africa.” Sci. Adv. 1 e1500682. 
+https://www.researchgate.net/publication/283851190_Past_and_future_rainfall_in_the_Horn_
+of_Africa 
+United Nations Population Division. 2020. World Population Prospect: The 2019 Revision. 
+https://www.un.org/development/desa/pd/ 
+WB and FAO (World Bank and Food and Agriculture Organization). 2018. Rebuilding Resilient and 
+Sustainable Agriculture in Somalia.  
+http://www.fao.org/family-farming/detail/en/c/1127280/ 
+Worldometer. 2020. https://www.worldometers.info/world-population/somalia-population/

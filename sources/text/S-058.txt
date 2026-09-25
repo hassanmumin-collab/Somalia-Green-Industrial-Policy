@@ -1,0 +1,10625 @@
+=== PAGE 1 ===
+Annual 
+Statistical 
+Bulletin
+June 2026
+=== PAGE 2 ===
+CENTRAL BANK OF SOMALIA
+June 2026
+Annual Statistical Bulletin
+©2026
+In the case of quotation, please refer to this 
+Publication as follow: -
+Central Bank of Somalia (CBS) Annual Statistical 
+Bulletin, June 2026
+Mogadishu – Somalia
+To request a complimentary copy of this report, an 
+electronic copy is available at www.centralbank.
+gov.so
+55 Corso Somalia
+P. O. Box 11
+Mogadishu, Somalia
++ (252) 1866131
++ (252) 1866151
++ (252) 1866152
+Fax: +2521241152
+Monetary, Financial and Regulatory Policy Group
+Research & Statistics Department
+Statistics Division
+info@centralbank.gov.so
+www.centralbank.gov.so
+@CBSsomalia
+Central Bank of Somalia
+=== PAGE 3 ===
+Annual Statistical Bulletin  |  June 2026
+i
+Central Bank of Somalia
+It is my distinct honor to present the Fifth Issue of the Central Bank of Somalia 
+(CBS) Statistical Bulletin. This publication is issued in accordance with the 
+provisions of Articles 5(h), 44, and 55 of the Central Bank of Somalia Act, Law No. 
+130 of April 2012. Under this Act, the CBS is mandated to serve as an economic 
+advisor to the Federal Government of Somalia (FGS), to inform the public and 
+relevant stakeholders of its policies, and to contribute to the development of sound 
+economic policymaking for the country.
+In fulfilling its responsibilities, the Central Bank of Somalia is committed to the 
+regular dissemination of data through this Statistical Bulletin, ensuring accessibility 
+for all relevant stakeholders. This edition presents data spanning the years 2022 
+to 2025, covering key macroeconomic sectors: Monetary, Government Finance, 
+Real, and External statistics. This Bulletin has been produced by the Statistics 
+Division of the Research and Statistics Department under the Monetary, Financial, 
+and Regulatory Policy Group of the Bank.
+The Central Bank of Somalia would like to take this opportunity to thank FGS 
+line ministries, departments, and agencies in providing the requisite data for the 
+production of this Bulletin.
+I hope all data stakeholders and end-users will find the content of this Bulletin 
+useful and informative. CBS welcomes any feedback on this Bulletin or on any of 
+its other publications.
+Should you have any comments or reactions, please contact the Central Bank of 
+Somalia.
+Mr. Abdirahman Mohamed Abdullahi
+Governor
+Foreword
+=== PAGE 4 ===
+Annual Statistical Bulletin  |  June 2026
+ii
+Central Bank of Somalia
+Table of Contents
+Foreword	
+i
+Introductory Notes	
+1
+1.0	
+Analytical Balance Sheet of the Monetary Survey	
+1
+2.0	
+Detailed Accounts of the Banking System	
+1
+3.0	
+International Trade And Finance	
+1
+4.0	
+Public Finance 	
+2
+5.0	
+General Economic Indicators	
+2
+6.0	
+Revision Policy	
+3
+1.0	
+Analytical Balance Sheet of the Monetary Survey	
+3
+1.1 	
+Central Bank Survey	
+3
+1.2 	
+Assets of Other Depository Corporations	
+5
+1.3 	
+Liabilities of Other Depository Corporations	
+6
+1.4 	
+Depository Corporations 	
+7
+2.0	
+Detailed Accounts of the Banking System	
+9
+2.1	
+Assets of Central Bank of Somalia  	
+9
+2.2	
+Liabilities and Reserves of Central Bank of Somalia	
+10
+2.3	
+ Consolidated Commercial Banks Balance Sheet	
+11
+2.4	
+ Consolidated Commercial Banks: Financing Assets	
+13
+2.5	
+ Financial Soundness Indicators (FSIs)	
+14
+2.6	
+National Payment System (NPS)	
+15
+3.0	
+International Trade and Finance	
+16
+3.1	
+Wokers’ Remmittances	
+16
+3.2	
+Somali Shilling Exchange Rates	
+17
+3.3	
+Balance of Payments 	
+19
+3.4	
+Foreign Trade Summary	
+20
+3.5	
+Major Imported Commodities by Value 	
+21
+3.6	
+Cements Imported Through Mogadishu Port 	
+22
+3.7	
+Imported Oil & Gas in Mogadishu Port	
+22
+3.8	
+Major Exported Goods by Value and Volume	
+23
+3.9	
+Top Trade Partners 	
+27
+4.0	
+Public Finance	
+29
+4.1	
+Revenue, Grants and Expenditure	
+29
+5.0	
+General Economic Indicators	
+30
+5.1	
+Gross Domestic Product at Current & Constant Prices	
+30
+5.2	
+Consumer Price Index 	
+31
+5.3	
+Prices: Cereal Prices for Some Selected Regions	
+32
+=== PAGE 5 ===
+Annual Statistical Bulletin  |  June 2026
+iii
+Central Bank of Somalia
+List of Tables
+Table 1.1  Central Bank Survey in Millions USD (2022-2025) 	
+3
+Table 1.2 Assets of Other Depository Corporations in Millions USD (2022-2025)	
+5
+Table 1.3 Liabilities of Other Depository Corporations in Millions USD (2022-2025)	
+6
+Table 1.4 Depository Corporations in Millions USD (2022-2025)	
+7
+Table 2.1 Assets (2022-2025)	
+9
+Table 2.2 Liabilities and Reserves (2022-2025)	
+10
+Table 2.3 Consolidated Commercial Banks in Millions USD (2022-2025)	
+11
+Table 2.4 Consolidated Commercial Banks: Financing Assets 000’ US Dollars (2022-2025)	
+13
+Table 2.5 Financial Soundness Indicators:  Percentages (2022-2025)	
+14
+Table 2.6 National Payments System Data, Value in ‘000 USD (2022-2025)	
+15
+Table 3.1 Workers’ Remittances in Millions USD (2022-2025) 	
+16
+Table 3.2 Somali Shilling Exchange Rates (2022-2025)	
+17
+Table 3.3 Balance of Payments in Bpm6 Format in Millions USD (2022-2025)	
+19
+Table  3.4 Merchandise Trade Summary (2022-2025)	
+20
+Table 3.5 Total Imports (Values in 000’ of US Dollar, 2022-2025)	
+21
+Table 3.6 Cements Imported (2022-2025)	
+22
+Table 3.7 Value and Volume of Oil & Gas Imports through Mogadishu Port (2022-2025)	
+22
+Table 3.8.1. Export: Livestock Heads and Values (2022-2025)	
+23
+Table 3.8.2 Animal Skin & Hides, and Fresh Meat, Volume and Value in Tons (2022-2025)    	
+25
+Table 3.8.3 Crops & Vegetable Oil Productions in Volume and Value (US Dollar, 2022-2025)	
+26
+Table 3.9 Top Trade Partners (Exports & Imports, 2022-2025)	
+27
+Table 4.1 Revenue, Grants and Expenditure in Millions USD (2022-2025)	
+29
+Table 4.2 Composition of Government Revenue in Millions USD (2022-2025)	
+29
+Table 4.3 Composition of Government Expenditure in Millions USD (2022-2025)	
+30
+Table 5.1 Gross Domestic Product at Current & Constant Prices (2022-2025)	
+30
+Table 5.2 Consumer Price Index (2022-2025)	
+31
+Table 5.3.1 Benadir (Mogadishu) US Dollar, 2023-2025	
+32
+Table 5.3.2 Middle Shabelle (Jowhar) US Dollar, 2023-2025	
+32
+Table 5.3.3 Bay (Baidoa) US Dollar, 2023-2025	
+33
+Table 5.3.4 Hiran (Beledweyne) US Dollar, 2023-2025	
+33
+Table 5.3.5 Lower Juba (Kismayo) US Dollar, 2023-2025	
+34
+=== PAGE 6 ===
+Annual Statistical Bulletin  |  June 2026
+iv
+Central Bank of Somalia
+=== PAGE 7 ===
+Annual Statistical Bulletin  |  June 2026
+1
+Central Bank of Somalia
+Introductory Notes
+1.0 Analytical Balance Sheet of the 
+Monetary Survey
+The banking system, from which the data presented 
+in this publication is obtained, consists of the 
+Central Bank of Somalia (CBS), thirteen domestic 
+commercial banks, and one foreign bank branch. 
+It is important to note that financial institutions 
+such as Mobile Money Operators, Insurance 
+Companies, and Microfinance Institutions are not 
+covered in the data for this edition, however, data 
+for these financial institutions will be reported 
+in subsequent releases.
+Tables 1.1 and 1.2 present the monthly analytical 
+balance sheets of the Central Bank of Somalia 
+(CBS) and Other Depository Corporations 
+(Commercial Banks).
+The Depository Corporation Survey (DCS) data 
+presented in Table 1.3 is derived by consolidating 
+data from both the Central Bank (Table 1.1) and 
+Commercial Banks (Table 1.2). These tables 
+provide summary information that facilitates 
+the preparation of comprehensive reports such 
+as the DCS. The consolidation also supports 
+effective cross-checking and validation of the 
+summary reports.
+2.0	Detailed Accounts of the Banking 
+System
+2.1	 Assets of Central Bank of Somalia
+Table 2.1 presents the monthly Assets of the 
+Central Bank of Somalia.
+2.2	 Liabilities And Reserves of Central Bank Of 
+Somalia
+Table 2.2 presents the monthly Liabilities and 
+Reserves of the Central Bank of Somalia.
+2.3	 Consolidated Commercial Banks Balance 
+Sheet
+Table 2.3 encompasses aggregated monthly 
+balance sheets of commercial banks. The 
+aggregation/consolidation process involves 
+summing the monthly balance sheet data of all 
+commercial banks operating in Somalia.
+2.4	 Consolidated Commercial Banks: Financing 
+Assets 
+Table 2.4 shows financing assets by instrument, 
+derived from the consolidated data of commercial 
+banks.
+2.5	 Financial Soundness Indicators (FSIS) 
+Table 2.5 presents percentages of the core 
+Financial Soundness Indicators including Capital 
+Adequacy, Asset Quality, Earnings & Profitability 
+and Liquidity. It also presents additional FSIs 
+and for Real Estate Markets (REM). 
+2.6	 National Payments System (NPS) 
+Table 2.6 depicts total National Payments System 
+data derived from the RTGS & ACH by monthly 
+volume and values. 
+3.0	International Trade And Finance
+3.1	 Workers’ Remittances
+Table 3.1 presents Workers’ Remittances, which 
+are current transfers sent for family maintenance 
+by migrants who are employed and reside in 
+other economies. A resident is defined as a 
+person who stays, or is expected to stay, in an 
+economy for one year or more excluding students, 
+patients, military personnel, diplomats assigned 
+to overseas embassies, and staff of international 
+organizations.
+3.2	 Somali Shilling Exchange Rates
+Table 3.2 presents the Somali Shilling (SOS) 
+exchange rates against the US Dollar (USD), 
+showing three key indicators: the Buying Rate, 
+the Selling Rate, and the Mid-Rate. The Buying 
+Rate reflects the rate at which US Dollars are 
+purchased using Somali Shillings, while the Selling 
+Rate represents the rate at which US Dollars are 
+sold in exchange for Somali Shillings. The Mid-
+Rate is the average of the buying and selling 
+rates and serves as a benchmark or indicative 
+rate. These rates illustrate the behavior of the 
+Somali Shilling in the foreign exchange market, 
+indicating general trends in currency valuation, 
+market stability, and monetary conditions over 
+time.
+=== PAGE 8 ===
+Annual Statistical Bulletin  |  June 2026
+2
+Central Bank of Somalia
+3.3	 Balance Of Payments
+The Balance of Payments Statement (Table 
+3.3) is obtained from various sources including 
+administrative data from the Central Bank of 
+Somalia (CBS), Ministry of Finance (MoF) and 
+the Somali National Bureau of Statistics (SNBS) 
+and surveys done by the bank. The statement 
+is in line with the International Monetary Fund’s 
+Balance of Payments Manual, Sixth Edition 
+(BPM6). The reserve assets section reports 
+changes that have occurred in reserve assets 
+within the reference period.
+3.4	 Foreign Trade Summary
+The foreign trade summary provides monthly 
+total imports (CIF), total exports (FOB), and 
+trade balance.
+3.5	 Major Imported Commodities By Value
+Table 3.5 presents the monthly value of major 
+imported commodities, classified by product 
+categories.
+3.6	 Cements Imported Through Mogadishu 
+Port
+Table 3.6 presents the monthly volume and value 
+of cement imported through Mogadishu Port.
+3.7	 Imported Oil In Mogadishu Port
+Table 3.7 presents data on the volume and value of 
+oil imports through Mogadishu Port, categorized 
+by type (Petrol, Jet A1, Diesel, LPG Gas).
+3.8	 Major Exported Goods By Value And 
+Volume
+Table 3.8.1 presents monthly data on livestock 
+exports, reported in terms of quantity (number 
+of heads) and corresponding export value in 
+U.S. Dollars.
+Table 3.8.2 shows monthly export data for 
+animal skin, and fresh meat, reported in terms 
+of volume in pieces and tons respectively and 
+corresponding export value in U.S. Dollars.
+Table 3.8.3 presents the export of selected 
+agricultural commodities namely sesame seed, 
+sesame oil, and dry lemon reported in terms of 
+volume and value in U.S. Dollars
+Table 3.9 lists Somalia’s main trade partners by 
+export destinations and import sources. It shows 
+where Somalia sells its key products and where 
+it imports most goods from, offering a snapshot 
+of the country’s major trade relationships and 
+its external economic engagement.
+4.0	Public Finance 
+4.1	 Government Revenue, Grants And 
+Expenditure
+Government revenue is classified as Tax or Non-
+Tax. Tax Revenue comprises Import Duty, Excise 
+Duty, Income Tax (including PAYE) and Value 
+Added Tax (VAT). Non-Tax Revenue comprises 
+Investment Income, Appropriations in Aid (AIA) 
+and Other Levies relating to Traffic, Land, Airport, 
+Licenses, Fines, and Forfeitures. Grants are Gift 
+Funds received by the Government from other 
+governments or international organizations. 
+Government expenditure is classified into two, 
+namely, Recurrent Expenditure and Development 
+Expenditure (Capital Expenditure). Recurrent 
+Expenditure refers to expenditures incurred 
+persistently (e.g., monthly). It consists of Domestic 
+and Foreign Payments, Wages and Salaries, 
+Pensions and Payments for Maintenance and 
+Operations. Development Expenditure refers to 
+the expenditure incurred on projects including 
+relevant salaries and wages.
+5.0	General Economic Indicators
+5.1	 Gross Domestic Product (Gdp): Current 
+And Constant Prices
+National Accounts Data are compiled by the 
+Somali National Bureau of Statistics (SNBS). 
+Annual GDP data are extracted from surveys 
+conducted by SNBS and other official data 
+producing agencies. The main data source for 
+compiling the 2024 National Accounts was the 
+2022 Somalia Integrated Household Budget 
+Survey, and administrative data received from 
+the institutions. 
+5.2	 Consumer Price Index
+ Data on Consumer Price Indices (CPIs) are 
+collected by the SNBS measuring the weighted 
+aggregate change in retail prices of goods and 
+services purchased by households in Somalia. 
+Based on the findings of the Somalia Integrated 
+Household Budget Survey (SIHBS) conducted in 
+2022, the CPI basket is classified into 13 categories
+=== PAGE 9 ===
+Annual Statistical Bulletin  |  June 2026
+3
+Central Bank of Somalia
+in conformity with the 2018 Classification of 
+Individual Consumption by Purpose (COICOP), and 
+re-weighted to reflect the change in consumption 
+patterns across the Federal Members States. 
+This new weight has been adopted by the SNBS 
+since January 2025.
+5.3	 Cereal Prices For Some Selected Regions
+Tables 5.3.1 to 5.3.5 present monthly retail prices 
+of selected cereal and staple food items across 
+five key regions in Somalia: Benadir, Middle 
+Shabelle, Bay, Hiran, and Lower Juba. The food 
+commodities covered include Cowpeas (1Kg), 
+Local Sesame Oil (1L), Red Sorghum (1Kg and 
+50Kg), and White Maize (1Kg and 50Kg).
+6.0	Revision Policy
+The provisional figures are revised in subsequent 
+editions of the Bank’s Statistical Bulletin.
+1.0	Analytical Balance Sheet of the Monetary Survey
+Table 1.1  Central Bank Survey in Millions USD (2022-2025) 
+Year 
+Month
+Net Foreign 
+Assets
+Net Domestic 
+Assets
+Net Domes-
+tic Claims
+Claims on 
+Central 
+Government 
+(Net)
+Claims on 
+Private 
+Sector
+Claims 
+on Other 
+Depository 
+Corpora-
+tions
+Other 
+Items Net
+2022
+January
+-197.5
+197.5
+283.4
+280.3
+0.2
+2.9
+-85.9
+February
+-204.4
+204.4
+289.0
+285.9
+0.2
+2.9
+-84.6
+March
+-189.5
+189.5
+275.8
+272.6
+0.2
+2.9
+-86.2
+April
+-203.6
+203.6
+294.6
+294.4
+0.2
+0.0
+-91.0
+May
+-206.9
+206.9
+297.1
+296.9
+0.2
+0.0
+-90.2
+June 
+-202.9
+202.9
+297.0
+296.7
+0.2
+0.0
+-94.1
+July
+-197.9
+197.9
+284.5
+284.2
+0.3
+0.0
+-86.6
+August
+-106.6
+106.6
+197.9
+194.7
+0.3
+2.9
+-91.3
+September
+-109.8
+158.7
+252.3
+249.1
+0.3
+2.9
+-93.6
+October
+-154.9
+170.4
+262.4
+259.2
+0.3
+2.9
+-92.1
+November
+-167.0
+185.4
+273.2
+270.0
+0.3
+2.9
+-87.9
+December
+-184.8
+208.3
+293.2
+290.2
+0.1
+2.9
+-84.9
+2023
+January
+-180.2
+210.3
+294.0
+291.0
+0.1
+2.9
+-83.6
+February
+-193.4
+216.9
+301.2
+298.0
+0.3
+2.9
+-84.3
+March 
+-208.7
+235.2
+317.1
+313.9
+0.3
+2.9
+-81.9
+April 
+-227.7
+244.2
+323.4
+320.1
+0.3
+2.9
+-79.1
+May 
+-218.6
+243.2
+334.2
+331.0
+0.3
+2.9
+-91.0
+June
+-189.7
+230.2
+319.9
+316.7
+0.3
+2.9
+-89.7
+July
+-206.9
+240.7
+330.6
+327.4
+0.3
+2.9
+-89.9
+August 
+-195.2
+222.6
+315.9
+312.7
+0.4
+2.9
+-93.3
+September
+-137.7
+171.5
+267.8
+264.5
+0.4
+2.9
+-96.3
+October
+-138.2
+170.6
+266.5
+263.2
+0.4
+2.9
+-96.0
+November
+-146.2
+174.8
+267.2
+263.9
+0.4
+2.9
+-92.4
+December
+193.3
+-156.5
+-80.5
+-83.7
+0.3
+2.9
+-76.0
+1.1 Central Bank Survey
+=== PAGE 10 ===
+Annual Statistical Bulletin  |  June 2026
+4
+Central Bank of Somalia
+Source: CBS, 2025
+2024
+January
+187.5
+-153.2
+-70.8
+-73.7
+0.1
+2.9
+-82.4
+February
+191.0
+-154.3
+-72.5
+-75.5
+0.1
+2.9
+-81.8
+March
+186.4
+-154.4
+-74.1
+-74.6
+0.1
+0.4
+-80.3
+April
+178.1
+-152.6
+-74.1
+-74.2
+0.1
+0.1
+-78.5
+May
+194.4
+-156.7
+-76.5
+-76.7
+0.1
+0.1
+-80.2
+June
+194.0
+-162.5
+-84.3
+-84.3
+0.1
+0.0
+-78.3
+July
+179.9
+-139.8
+-61.9
+-64.9
+0.1
+2.9
+-77.9
+August
+308.1
+-251.7
+-166.9
+-169.9
+0.1
+2.9
+-84.9
+September
+285.9
+-236.7
+-149.9
+-152.9
+0.1
+2.9
+-86.8
+October
+263.2
+-228.6
+-145.0
+-148.1
+0.1
+2.9
+-83.6
+November
+222.8
+-198.8
+-117.3
+-120.2
+0.0
+2.9
+-81.5
+December
+237.2
+-190.8
+-99.0
+-101.9
+0.0
+2.9
+-91.8
+2025
+January
+223.9
+-198.6
+-106.2
+-109.1
+0.0
+2.9
+-92.4
+February
+224.1
+-192.7
+-100.0
+-102.9
+0.0
+2.9
+-92.7
+March
+201.8
+-158.6
+-65.1
+-68.0
+0.0
+2.9
+-93.6
+April
+206.9
+-166.4
+-71.2
+-74.1
+0.0
+2.9
+-95.1
+May
+206.0
+-156.1
+-60.4
+-63.3
+0.0
+2.9
+-95.7
+June
+220.9
+-157.5
+-60.9
+-63.8
+0.0
+2.9
+-96.6
+July
+226.1
+-146.8
+-53.1
+-56.0
+0.0
+2.9
+-93.8
+August
+224.3
+-145.0
+-36.8
+-39.7
+0.0
+2.9
+-108.2
+September
+203.7
+-203.2
+-95.6
+-98.5
+0.0
+2.9
+-107.6
+October
+193.1
+-192.6
+-87.4
+-90.3
+0.0
+2.9
+-105.3
+November
+274.5
+-274.2
+-165.4
+-168.3
+0.0
+2.9
+-108.9
+December
+255.4
+-254.5
+-117.4
+-120.3
+0.0
+2.9
+-137.2
+Year 
+Month 
+Net Foreign 
+Assets
+Net Domestic 
+Assets
+Net Domes-
+tic Claims
+Claims on 
+Central 
+Government 
+(Net)
+Claims on 
+Private 
+Sector
+Claims 
+on Other 
+Depository 
+Corpora-
+tions
+Other 
+Items Net
+=== PAGE 11 ===
+Annual Statistical Bulletin  |  June 2026
+5
+Central Bank of Somalia
+Year 
+Month
+Net Foreign 
+Assets
+Net Domestic 
+Assets
+Net 
+Domestic 
+Claims
+Claims on 
+Private 
+Sector
+Of Which: 
+Private 
+Sector  
+Credit
+Claims on 
+Central 
+Bank
+Other 
+Items 
+Net
+2022
+January
+570.9
+132.1
+132.1
+131.2
+131.2
+26.3
+4.6
+February
+599.1
+131.3
+131.3
+130.5
+130.5
+29.5
+-12.3
+March 
+597.1
+139.9
+139.9
+139.0
+139.0
+35.8
+-1.5
+April 
+599.1
+148.0
+148.0
+147.0
+147.0
+37.4
+34.8
+May 
+625.3
+146.7
+146.7
+145.7
+145.7
+33.7
+-30.2
+June 
+625.2
+148.8
+148.8
+147.8
+147.8
+43.4
+5.0
+July 
+617.3
+152.3
+152.3
+151.3
+151.3
+35.7
+31.2
+August
+613.6
+155.6
+155.6
+154.5
+154.5
+42.2
+17.1
+September
+630.6
+161.8
+161.8
+160.7
+160.7
+69.3
+58.3
+October
+651.0
+159.7
+159.7
+158.7
+158.7
+34.7
+-32.7
+November
+658.2
+164.9
+164.9
+163.8
+163.8
+37.5
+3.8
+December
+679.4
+172.0
+172.0
+170.9
+170.9
+41.4
+49.1
+2023
+January
+609.9
+172.7
+172.7
+171.5
+171.5
+48.7
+86.3
+February
+556.4
+178.5
+178.5
+177.3
+177.3
+42.7
+135.6
+March
+569.0
+184.1
+184.1
+182.9
+182.9
+45.8
+133.6
+April
+599.4
+197.1
+197.1
+195.7
+195.7
+35.8
+116.5
+May
+618.0
+198.9
+198.9
+197.6
+197.6
+44.0
+58.9
+June
+574.5
+200.1
+200.1
+198.7
+198.7
+59.9
+47.5
+July
+602.7
+202.6
+202.6
+201.3
+201.3
+52.8
+57.2
+August
+605.8
+204.9
+204.9
+203.5
+203.5
+44.5
+66.4
+September
+706.8
+241.7
+241.7
+240.1
+240.1
+50.6
+3.5
+October
+724.8
+242.8
+242.8
+241.2
+241.2
+51.2
+0.7
+November
+732.5
+242.7
+242.7
+241.1
+241.1
+47.3
+11.8
+December
+774.9
+236.9
+236.9
+235.3
+235.3
+55.1
+50.7
+2024
+January
+770.3
+662.1
+616.2
+561.8
+429.0
+51.8
+45.9
+February
+751.9
+684.9
+625.6
+548.2
+426.7
+56.5
+59.3
+March
+792.2
+683.6
+638.1
+556.9
+411.8
+62.2
+45.4
+April
+847.9
+689.7
+631.6
+564.9
+419.4
+47.6
+58.1
+May
+831.6
+701.1
+641.8
+567.5
+421.6
+55.3
+59.2
+June
+868.5
+706.0
+675.8
+602.4
+454.9
+53.9
+30.2
+July
+868.5
+737.4
+684.4
+602.4
+451.3
+62.1
+52.9
+August
+859.6
+751.7
+708.4
+609.8
+461.8
+78.4
+43.4
+September
+892.4
+724.7
+712.6
+622.3
+469.7
+70.2
+12.1
+October
+899.7
+724.1
+728.2
+640.8
+499.7
+52.1
+-4.1
+November
+945.2
+681.4
+735.8
+650.4
+507.7
+49.9
+-54.4
+December
+941.8
+726.3
+751.7
+649.9
+499.5
+65.6
+-25.4
+Table 1.2 Assets of Other Depository Corporations in Millions USD (2022-2025)
+1.2 Assets of Other Depository Corporations
+=== PAGE 12 ===
+Annual Statistical Bulletin  |  June 2026
+6
+Central Bank of Somalia
+2025
+January
+959.6
+677.7
+723.5
+639.8
+489.6
+47.1
+-45.8
+February
+926.7
+697.1
+744.8
+654.7
+502.2
+53.1
+-47.7
+March
+932.9
+735.5
+782.3
+678.2
+521.9
+67.1
+-46.8
+April
+922.1
+753.4
+789.7
+688.3
+529.3
+64.4
+-36.4
+May
+969.8
+736.0
+789.9
+679.5
+521.2
+73.8
+-53.9
+June
+978.2
+764.9
+812.4
+689.1
+531.1
+86.3
+-47.5
+July
+971.2
+778.0
+822.9
+682.9
+521.3
+102.7
+-44.9
+August
+1,019.3
+772.4
+819.3
+695.0
+527.9
+100.2
+-46.9
+September
+1,056.4
+755.3
+835.1
+705.9
+538.9
+89.1
+-79.8
+October
+1,034.7
+767.7
+858.6
+722.6
+548.1
+96.3
+-90.9
+November
+1,048.9
+768.7
+843.5
+733.7
+561.3
+66.6
+-74.8
+December
+1,092.2
+820.7
+869.9
+740.6
+560.5
+89.7
+-49.2
+Year 
+Month
+Net Foreign 
+Assets
+Net Domestic 
+Assets
+Net Domestic 
+Claims
+Claims on 
+Private 
+Sector
+Of Which: 
+Private 
+Sector  
+Credit
+Claims on 
+Central 
+Bank
+Other 
+Items Net
+Source: CBS, 2025
+Table 1.3 Liabilities of Other Depository Corporations in Millions USD (2022-2025)
+Year 
+Month 
+Liabilities to the 
+Central Bank
+Liquid Liabilities
+Transferable 
+Deposits
+Other Deposits
+Non-Liquid Liabilities
+2022
+January 
+2.8 
+    924.5 
+875.6 
+ 48.8 
+2.8 
+February 
+2.8 
+    939.3 
+883.4 
+ 55.9 
+2.8 
+March  
+1.7 
+    974.9 
+911.7 
+ 63.2 
+1.7 
+April  
+28.3 
+    976.3 
+910.9 
+ 65.5 
+ 28.3 
+May  
+ -   
+    988.9 
+918.6 
+ 70.3 
+ -   
+June  
+ -   
+ 1,018.8 
+947.6 
+ 71.2 
+ -   
+July  
+ -   
+ 1,029.9 
+959.3 
+ 70.6 
+ -   
+August 
+1.4 
+ 1,039.6 
+967.1 
+ 72.5 
+1.4 
+September 
+       51.5 
+ 1,029.7 
+941.2 
+ 88.5 
+ 51.5 
+October 
+2.7 
+ 1,015.9 
+930.1 
+ 85.8 
+2.7 
+November 
+2.9 
+ 1,072.3 
+945.6 
+126.7 
+2.9 
+December 
+2.9 
+ 1,164.3 
+1,096.7 
+ 67.6 
+2.9 
+2023
+January
+6.6 
+ 1,134.0 
+1,064.8 
+ 69.2 
+6.6 
+February 
+2.9 
+ 1,139.2 
+1,068.0 
+ 71.2 
+2.9 
+March 
+2.9 
+ 1,171.3 
+1,090.4 
+ 80.9 
+2.9 
+April 
+2.9 
+ 1,171.4 
+1,090.7 
+ 80.7 
+2.9 
+May 
+2.9 
+ 1,147.4 
+1,064.8 
+ 82.7 
+2.9 
+June 
+2.9 
+ 1,113.0 
+1,029.3 
+ 83.7 
+2.9 
+July 
+2.9 
+ 1,146.6 
+1,060.8 
+ 85.8 
+2.9 
+August 
+2.9 
+ 1,155.7 
+1,067.7 
+ 88.1 
+2.9 
+September 
+2.9 
+ 1,296.9 
+1,207.9 
+ 89.0 
+2.9 
+October 
+3.9 
+ 1,314.2 
+1,226.8 
+ 87.4 
+3.9 
+November 
+3.9 
+ 1,344.4 
+1,251.2 
+ 93.2 
+3.9 
+December 
+3.9 
+ 1,431.3 
+1,335.5 
+ 95.8 
+3.9 
+1.3 Liabilities of Other Depository Corporations
+=== PAGE 13 ===
+Annual Statistical Bulletin  |  June 2026
+7
+Central Bank of Somalia
+Year 
+Month 
+Liabilities to the 
+Central Bank
+Liquid Liabilities
+Transferable 
+Deposits
+Other Deposits
+Non-Liquid Liabilities
+2024
+January 
+3.9 
+ 1,424.6 
+1,323.3 
+101.3 
+3.9 
+February 
+3.9 
+ 1,429.0 
+1,330.8 
+ 98.2 
+3.9 
+March 
+6.0 
+ 1,463.8 
+1,350.3 
+113.5 
+6.0 
+April 
+6.3 
+ 1,525.0 
+1,412.9 
+112.1 
+6.3 
+May 
+6.5 
+ 1,519.6 
+1,405.8 
+113.8 
+6.5 
+June 
+6.3 
+ 1,567.5 
+1,452.5 
+115.0 
+6.3 
+July 
+8.7 
+ 1,588.6 
+1,474.0 
+114.6 
+8.7 
+August 
+8.9 
+ 1,593.6 
+1,477.8 
+115.8 
+8.9 
+September 
+2.9 
+ 1,611.3 
+1,500.2 
+111.1 
+2.9 
+October 
+3.6 
+ 1,616.7 
+1,504.5 
+112.2 
+3.6 
+November 
+3.5 
+ 1,619.6 
+1,507.0 
+112.6 
+3.5 
+December 
+3.4 
+ 1,661.2 
+1,544.1 
+117.1 
+3.4 
+2025
+January
+3.4 
+ 1,630.4 
+1,511.2 
+119.1 
+3.4 
+February 
+3.4 
+ 1,616.9 
+1,498.1 
+118.8 
+3.4 
+March 
+3.4 
+ 1,661.6 
+1,529.4 
+132.2 
+3.4 
+April 
+3.4 
+ 1,668.7 
+1,541.6 
+127.1 
+3.4 
+May 
+3.4 
+ 1,696.0 
+1,570.2 
+125.8 
+6.4 
+June 
+3.4 
+ 1,736.4 
+1,608.2 
+128.3 
+3.4 
+July 
+3.3 
+ 1,742.7 
+1,611.9 
+130.7 
+3.3 
+August 
+3.3 
+ 1,785.1 
+1,653.8 
+131.3 
+3.3 
+September 
+3.3 
+ 1,805.0 
+1,677.0 
+128.0 
+3.3 
+October 
+3.2 
+ 1,796.0 
+1,665.5 
+130.5 
+3.2 
+November 
+3.2 
+ 1,811.1 
+1,680.1 
+131.0 
+3.2 
+December 
+6.8 
+ 1,899.4 
+1,765.0 
+134.4 
+6.8 
+Source: CBS, 2025
+Year 
+Month
+Net Foreign 
+Assets
+Net Domestic 
+Assets
+Net Domestic 
+Claims
+Claims on 
+Central 
+Government 
+(net)
+Claims on 
+Private Sector
+of which: 
+Private 
+Sector Credit
+Other Items 
+Net
+Broad Money
+2022
+January
+373.4
+551.1
+608.9
+280.3
+328.6
+225.5
+-57.8
+924.5
+February
+394.7
+544.6
+614.6
+285.9
+328.8
+224.2
+-70.0
+939.3
+March 
+407.6
+567.3
+619.7
+272.6
+347.1
+241.4
+-52.4
+974.9
+April 
+395.5
+580.8
+656.2
+294.4
+357.2
+248.0
+-75.4
+976.3
+May 
+418.4
+570.5
+657.2
+296.9
+353.5
+243.6
+-86.7
+988.9
+June 
+422.3
+596.4
+642.1
+296.7
+338.5
+250.0
+-45.7
+1018.8
+July 
+419.4
+610.5
+630.1
+284.2
+338.5
+252.5
+-19.7
+1029.9
+August
+507.0
+532.6
+564.5
+194.7
+362.4
+258.2
+-32.0
+1039.6
+September
+520.9
+509.3
+623.7
+249.1
+367.3
+271.5
+-114.4
+1030.2
+October
+496.1
+522.1
+627.8
+259.2
+361.5
+265.5
+-105.7
+1018.3
+November
+491.2
+583.5
+649.0
+270.0
+371.7
+274.2
+-65.4
+1074.7
+December
+494.7
+671.3
+690.5
+290.2
+393.3
+286.6
+-19.2
+1166.0
+Table 1.4 Depository Corporations in Millions USD (2022-2025)
+1.4 Depository Corporations
+=== PAGE 14 ===
+Annual Statistical Bulletin  |  June 2026
+8
+Central Bank of Somalia
+2023
+January
+429.7
+706.5
+693.3
+291.0
+383.9
+288.1
+13.2
+1136.2
+February
+363.1
+779.0
+708.6
+298.0
+391.6
+298.4
+70.4
+1142.0
+March 
+360.3
+814.1
+743.0
+313.9
+421.5
+310.5
+71.2
+1174.5
+April 
+371.7
+801.6
+745.9
+320.1
+418.4
+330.3
+55.7
+1173.3
+May 
+399.4
+750.2
+763.7
+331.0
+410.1
+338.5
+-13.5
+1149.6
+June 
+384.8
+730.5
+753.8
+316.7
+431.5
+343.0
+-23.4
+1115.3
+July 
+395.8
+753.4
+767.4
+327.4
+434.3
+347.2
+-14.0
+1149.2
+August
+410.5
+749.7
+757.9
+312.7
+439.7
+351.5
+-8.2
+1160.2
+September
+569.2
+736.0
+806.7
+264.5
+537.0
+423.9
+-70.7
+1305.2
+October
+586.6
+732.9
+808.9
+263.2
+540.2
+426.2
+-76.0
+1319.6
+November
+586.2
+763.8
+824.9
+263.9
+555.5
+426.2
+-61.0
+1350.1
+December
+968.2
+469.1
+475.0
+-83.7
+554.9
+425.5
+-5.9
+1437.3
+2024
+January
+957.8
+473.8
+490.7
+-73.7
+559.2
+426.4
+-16.9
+1431.6
+February
+942.9
+490.8
+493.7
+-75.5
+547.5
+426.0
+-2.9
+1433.7
+March 
+978.6
+490.8
+501.4
+-74.6
+554.4
+409.3
+-10.7
+1469.4
+April 
+1026.0
+503.8
+509.8
+-74.2
+562.5
+417.0
+-6.0
+1529.8
+May 
+1025.9
+497.7
+509.9
+-76.7
+567.2
+421.3
+-12.3
+1523.6
+June 
+1062.5
+507.6
+543.3
+-84.3
+606.1
+458.7
+-35.7
+1570.1
+July 
+1048.4
+542.2
+557.5
+-64.9
+600.9
+449.9
+-15.3
+1590.6
+August
+1167.7
+428.2
+460.2
+-169.9
+608.4
+460.4
+-32.0
+1595.9
+September
+1178.3
+435.2
+489.6
+-152.9
+620.1
+467.6
+-54.4
+1613.5
+October
+1162.9
+455.7
+528.2
+-148.1
+638.5
+497.4
+-72.5
+1618.6
+November
+1167.9
+453.4
+565.7
+-120.2
+648.1
+505.4
+-112.3
+1621.3
+December
+1179.0
+487.4
+584.1
+-101.9
+647.4
+497.0
+-96.7
+1666.4
+2025
+January
+1183.5
+449.8
+567.2
+-109.1
+637.5
+487.3
+-117.4
+1633.3
+February
+1150.8
+468.0
+588.8
+-102.9
+652.5
+500.0
+-120.8
+1618.8
+March 
+1134.7
+527.5
+647.2
+-68.0
+676.1
+519.8
+-119.8
+1662.2
+April 
+1129.1
+539.8
+651.2
+-74.1
+686.3
+527.3
+-111.3
+1668.9
+May 
+1175.7
+520.7
+652.7
+-63.3
+677.5
+519.2
+-132.1
+1696.4
+June 
+1199.2
+538.2
+662.3
+-63.8
+687.4
+529.4
+-124.1
+1737.3
+July 
+1197.3
+546.6
+664.3
+-56.0
+681.3
+519.7
+-117.7
+1744.0
+August
+1243.6
+543.2
+679.4
+-39.7
+696.1
+529.0
+-136.2
+1786.8
+September
+1260.1
+545.5
+647.5
+-98.5
+707.3
+540.3
+-102.0
+1805.6
+October
+1227.9
+568.6
+672.0
+-90.3
+723.6
+549.1
+-103.4
+1796.4
+November
+1323.5
+488.0
+608.7
+-168.3
+734.7
+562.3
+-120.7
+1811.4
+December
+1347.6
+552.6
+660.0
+-120.3
+741.7
+561.6
+-107.4
+1900.3
+Year 
+Month
+Net Foreign 
+Assets
+Net Domestic 
+Assets
+Net Domestic 
+Claims
+Claims on 
+Central 
+Government 
+(net)
+Claims on 
+Private Sector
+of which: 
+Private 
+Sector Credit
+Other Items 
+Net
+Broad Money
+Source: CBS, 2025
+=== PAGE 15 ===
+Annual Statistical Bulletin  |  June 2026
+9
+Central Bank of Somalia
+2.0	Detailed Accounts of the Banking System
+Table 2.1 Assets (2022-2025)
+Year 
+Month
+ Current Asset 
+Non-Current Assets
+Other Assets
+Total Asset
+2022
+January
+513,390,265 
+159,697,386 
+392,541,196 
+1,065,628,847 
+February
+506,823,549 
+159,930,437 
+392,514,095 
+1,059,268,081 
+March
+520,138,086 
+159,935,272 
+392,546,502 
+1,072,619,860 
+April
+497,898,166 
+160,096,535 
+392,595,971 
+1,050,590,671 
+May
+495,507,791 
+167,544,718 
+392,311,130 
+1,055,363,639 
+June
+496,785,163 
+167,556,643 
+412,013,942 
+1,076,355,749 
+July
+509,663,124 
+167,559,853 
+403,558,284 
+1,080,781,262 
+August
+600,904,752 
+167,568,498 
+403,167,804 
+1,171,641,054 
+September
+594,593,970 
+167,582,068 
+403,167,804 
+1,165,343,842 
+October
+550,879,627 
+167,584,438 
+403,758,266 
+1,122,222,332 
+November
+543,231,027 
+167,619,797 
+402,786,686 
+1,113,637,511 
+December
+528,599,203 
+167,891,377 
+413,022,572 
+1,109,513,152 
+2023 
+January
+536,974,876 
+167,957,497 
+413,508,756 
+1,118,441,129 
+February
+523,107,246 
+167,981,047 
+413,977,374 
+1,105,065,667 
+March
+508,941,690 
+168,229,087 
+412,416,723 
+1,089,587,501 
+April
+489,852,477 
+168,238,613 
+412,952,533 
+1,071,043,623 
+May
+495,371,757 
+168,679,169 
+420,887,775 
+1,084,938,701 
+June
+534,595,557 
+168,738,066 
+423,204,897 
+1,126,538,520 
+July
+519,291,294 
+168,888,495 
+423,204,897 
+1,111,384,686 
+August
+519,019,185 
+168,983,978 
+421,682,952 
+1,109,686,116 
+September
+575,396,063 
+169,348,978 
+422,331,508 
+1,167,076,549 
+October
+576,441,851 
+169,500,003 
+423,011,719 
+1,168,953,573 
+November
+569,027,162 
+169,577,673 
+420,668,889 
+1,159,273,725 
+December
+220,680,728 
+177,543,441 
+473,197,100 
+871,421,270 
+2024
+January
+226,927,073 
+177,583,612 
+474,037,947 
+878,548,632 
+February
+228,361,919 
+177,706,690 
+471,808,858 
+877,877,467 
+March
+222,782,601 
+177,891,974 
+472,651,665 
+873,326,239 
+April
+215,944,010 
+177,902,235 
+473,462,624 
+867,308,868 
+May
+229,833,703 
+177,918,694 
+481,872,886 
+889,625,283 
+June
+231,286,028 
+178,211,388 
+482,710,468 
+892,207,883 
+July
+220,262,410 
+177,540,027 
+483,565,252 
+881,367,688 
+August
+346,614,588 
+177,683,441 
+483,565,252 
+1,007,863,280 
+September
+322,159,356 
+177,773,646 
+482,202,786 
+982,135,788 
+October
+302,890,904 
+177,829,771 
+482,948,254 
+963,668,929 
+November
+264,518,109 
+177,895,272 
+482,948,254 
+925,361,635 
+December
+268,250,655 
+199,669,071 
+493,856,593 
+961,776,319 
+2.1	 Assets of Central Bank of Somalia
+=== PAGE 16 ===
+Annual Statistical Bulletin  |  June 2026
+10
+Central Bank of Somalia
+Source: CBS, 2025
+2025
+January
+256,326,365 
+ 199,742,671 
+493,856,593 
+ 949,925,628 
+February
+255,203,619 
+  199,742,671 
+492,813,081 
+947,759,371 
+March
+231,707,676 
+ 199,813,887 
+493,511,157 
+925,032,720 
+April
+233,601,223 
+    199,889,993 
+494,169,664 
+927,660,880 
+May
+231,156,485 
+ 199,922,495 
+492,639,624 
+923,718,604 
+June
+245,133,213 
+   200,059,137 
+493,282,856 
+938,475,205 
+July
+253,026,241 
+ 200,237,160 
+504,454,936 
+957,718,337 
+August
+248,538,180 
+    200,223,527 
+513,548,951 
+962,310,658 
+September
+228,419,541 
+200,393,151 
+514,211,854 
+943,024,546 
+October
+229,875,419 
+   202,317,773 
+514,885,988 
+947,079,180 
+November
+289,543,984 
+    202,326,483 
+513,447,122 
+1,005,317,589 
+December
+241,700,882 
+229,730,404 
+545,639,923 
+1,017,071,209
+Year 
+Month
+ Current Asset 
+Non-Current Assets
+Other Assets
+Total Asset
+2.2	 Liabilities and Reserves of Central Bank of Somalia
+  Table 2.2 Liabilities and Reserves (2022-2025)
+Year 
+Month
+Current Liabilities
+Non-Current 
+Liabilities
+Other Liabilities
+Reserves
+Total Liabilities & 
+Reserves
+2022
+January
+100,815,413 
+23,280,000 
+773,593,322 
+167,940,111 
+1,065,628,846 
+February
+94,415,653 
+23,280,000 
+773,483,688 
+168,088,740 
+1,059,268,081 
+March
+107,657,552 
+23,220,000 
+773,599,057 
+168,143,253 
+1,072,619,862 
+April
+85,863,852 
+23,220,000 
+773,665,821 
+167,840,999 
+1,050,590,671 
+May
+83,376,229 
+23,220,000 
+773,341,313 
+175,426,097 
+1,055,363,639 
+June
+84,622,436 
+23,220,000 
+793,201,275 
+175,312,036 
+1,076,355,748 
+July
+97,174,681 
+23,220,000 
+784,728,614 
+175,657,967 
+1,080,781,262 
+August
+186,658,962 
+23,220,000 
+784,601,559 
+177,160,533 
+1,171,641,055 
+September
+130,566,379 
+71,622,570 
+786,112,230 
+177,042,662 
+1,165,343,842 
+October
+122,179,213 
+36,333,660 
+786,584,988 
+177,124,471 
+1,122,222,332 
+November
+111,521,824 
+39,219,995 
+785,237,936 
+177,657,756 
+1,113,637,511 
+December
+91,646,610 
+45,084,842 
+795,924,128 
+176,857,573 
+1,109,513,152 
+2023
+January
+93,373,856 
+51,236,171 
+796,886,282 
+176,944,820 
+1,118,441,129 
+February
+86,486,290 
+43,977,547 
+797,814,669 
+176,787,161 
+1,105,065,667 
+March
+70,723,799 
+46,740,667 
+795,708,341 
+176,414,693 
+1,089,587,501 
+April
+62,047,363 
+37,902,529 
+795,068,036 
+176,025,695 
+1,071,043,623 
+May
+50,589,444 
+45,763,594 
+805,634,201 
+182,951,463 
+1,084,938,701 
+June
+73,430,980 
+61,556,938 
+808,485,812 
+183,064,790 
+1,126,538,520 
+July
+65,111,775 
+54,534,085 
+808,485,812 
+183,253,014 
+1,111,384,686 
+August
+71,530,212 
+49,256,007 
+805,789,642 
+183,110,255 
+1,109,686,116 
+September
+123,713,844 
+51,954,082 
+806,999,942 
+184,408,681 
+1,167,076,549 
+October
+122,749,688 
+53,345,548 
+808,268,606 
+184,589,732 
+1,168,953,573 
+November
+121,344,771 
+49,249,090 
+804,092,389 
+184,587,475 
+1,159,273,725 
+December
+120,604,475 
+57,151,260 
+504,884,955 
+188,780,580 
+871,421,270
+=== PAGE 17 ===
+Annual Statistical Bulletin  |  June 2026
+11
+Central Bank of Somalia
+Year 
+Month
+Current Liabilities
+Non-Current 
+Liabilities
+Other Liabilities
+Reserves
+Total Liabilities & 
+Reserves
+2024 
+January
+120,398,916 
+53,715,583 
+515,685,268 
+188,748,865 
+878,548,632 
+February
+118,624,556 
+58,358,283 
+512,184,978 
+188,709,650 
+877,877,467 
+March
+118,717,576 
+52,866,299 
+513,193,724 
+188,548,640 
+873,326,239 
+April
+117,793,607 
+47,093,205 
+514,167,002 
+188,255,055 
+867,308,868 
+May
+119,047,814 
+60,061,364 
+522,261,812 
+188,254,293 
+889,625,283 
+June
+125,448,291 
+55,270,190 
+523,224,525 
+188,264,877 
+892,207,883 
+July
+105,557,517 
+64,491,527 
+524,207,008 
+187,111,636 
+881,367,688 
+August
+210,690,044 
+83,365,883 
+524,207,008 
+189,600,346 
+1,007,863,281 
+September
+193,338,530 
+76,371,766 
+522,666,106 
+189,759,387 
+982,135,789 
+October
+188,366,668 
+62,077,065 
+523,524,365 
+189,700,831 
+963,668,929 
+November
+160,420,546 
+51,591,021 
+523,524,365 
+189,825,702 
+925,361,634 
+December
+146,043,872 
+70,534,355 
+534,270,717 
+210,927,376 
+961,776,320 
+2025
+January
+    152,351,470 
+51,793,433 
+534,270,717 
+211,510,009 
+949,925,629 
+February
+   144,811,642 
+58,986,061 
+533,100,594 
+210,861,075 
+947,759,372 
+March
+108,618,712 
+72,002,963 
+533,869,036 
+210,542,010 
+925,032,721 
+April
+112,973,986 
+69,823,182 
+534,595,412 
+210,268,300 
+927,660,880 
+May
+102,249,088 
+78,831,891 
+532,932,016 
+209,705,610 
+923,718,605 
+June
+103,417,365 
+91,915,675 
+533,640,629 
+209,501,536 
+938,475,205 
+July
+96,049,178 
+107,371,915 
+544,861,768 
+209,435,477 
+957,718,338 
+August
+90,402,286 
+106,946,877 
+553,787,804 
+211,173,691 
+962,310,659 
+September
+148,033,591 
+29,400,000 
+54,464,435 
+211,126,521 
+943,024,547 
+October
+149,744,514 
+29,400,000 
+555,152,532 
+212,782,134 
+947,079,180 
+November
+207,027,035 
+29,620,000 
+553,684,838 
+214,985,717 
+1,005,317,590 
+December
+160,017,351 
+29,620,000 
+585,840,356 
+241,593,503 
+1,017,071,209
+Source: CBS, 2025
+  Table 2.3 Consolidated Commercial Banks in Millions USD (2022-2025)
+Consolidated Assets
+Consolidated Liabilities and Owner’s Equity
+Year 
+Month
+Financing 
+Assets
+Investment 
+Assets
+Other 
+Assets
+Total 
+Assets
+Customer 
+Deposits
+Microf-
+inance 
+Loan
+Other Lia-
+bilities
+Total Lia-
+bilities
+Total 
+Sharehold-
+ers’ Equity
+Total 
+Liabilities 
+& Equity
+2022
+Jan
+225.3 
+184.0 
+79.9 
+1202.5 
+915.6 
+2.8 
+70.7 
+998.2 
+194.9 
+1202.5 
+Feb
+224.0 
+186.3 
+91.2 
+1254.0 
+918.4 
+2.8 
+95.3 
+1038.6 
+195.8 
+1254.0 
+March
+238.7 
+188.9 
+92.2 
+1256.8 
+951.3 
+4.1 
+66.4 
+1037.2 
+197.0 
+1256.8 
+April
+250.9 
+208.4 
+69.5 
+1254.0 
+950.2 
+28.3 
+48.6 
+1061.0 
+197.1 
+1254.0 
+May
+250.2 
+220.2 
+68.2 
+1304.1 
+988.9 
+0.0 
+82.4 
+1092.7 
+211.4 
+1304.1 
+June
+253.8 
+213.3 
+74.2 
+1326.2 
+1018.8 
+0.0 
+75.2 
+1114.3 
+212.0 
+1326.2 
+July
+259.7 
+213.1 
+85.7 
+1327.7 
+1029.9 
+0.0 
+64.9 
+1116.1 
+211.6 
+1327.7 
+Aug
+265.3 
+220.1 
+78.7 
+1342.9 
+1039.6 
+1.4 
+67.2 
+1130.2 
+212.6 
+1342.9 
+Sep
+275.9 
+221.3 
+79.8 
+1386.5 
+1029.7 
+2.5 
+102.3 
+1171.3 
+215.2 
+1386.5 
+Oct
+272.5 
+226.0 
+75.3 
+1376.0 
+1015.9 
+2.7 
+101.2 
+1161.4 
+214.6 
+1376.0 
+Nov
+281.2 
+229.8 
+94.8 
+1412.1 
+1072.3 
+2.9 
+99.0 
+1196.1 
+216.0 
+1412.1 
+Dec
+293.4 
+244.5 
+71.9 
+1462.5 
+1164.3 
+2.9 
+57.2 
+1247.4 
+215.1 
+1462.5 
+2.3	 Consolidated Commercial Banks Balance Sheet
+=== PAGE 18 ===
+Annual Statistical Bulletin  |  June 2026
+12
+Central Bank of Somalia
+Consolidated Assets
+Consolidated Liabilities and Owner’s Equity
+Year 
+Month
+Financing 
+Assets
+Investment 
+Assets
+Other 
+Assets
+Total As-
+sets
+Customer 
+Deposits
+Microfi-
+nance Loan
+Other Lia-
+bilities
+Total Liabil-
+ities
+Total 
+Sharehold-
+ers’ Equity
+Total 
+Liabilities & 
+Equity
+2023
+Jan
+294.4 
+245.6 
+113.5 
+1448.0 
+1134.0 
+6.6 
+68.4 
+1232.2 
+215.9 
+1448.0 
+Feb
+304.4 
+243.0 
+178.6 
+1458.1 
+1139.2 
+2.9 
+66.6 
+1241.4 
+216.6 
+1458.1 
+Mar
+314.0 
+239.0 
+188.3 
+1485.9 
+1171.3 
+2.9 
+62.9 
+1268.1 
+217.8 
+1485.9 
+Apr
+336.1 
+223.2 
+176.4 
+1496.5 
+1171.4 
+2.9 
+61.9 
+1278.4 
+218.1 
+1496.5 
+May
+339.2 
+223.9 
+120.7 
+1475.8 
+1147.4 
+2.9 
+62.1 
+1255.3 
+220.6 
+1475.8 
+Jun
+341.2 
+224.1 
+117.3 
+1439.6 
+1113.0 
+2.9 
+57.1 
+1218.5 
+221.1 
+1439.6 
+Jul
+345.5 
+225.8 
+118.6 
+1473.2 
+1146.3 
+2.9 
+58.0 
+1248.0 
+225.2 
+1473.2 
+Aug
+349.4 
+231.4 
+116.0 
+1479.5 
+1155.5 
+2.9 
+54.1 
+1253.1 
+226.4 
+1479.5 
+Sep
+412.2 
+266.5 
+123.9 
+1689.2 
+1296.8 
+2.9 
+80.7 
+1399.7 
+289.5 
+1689.2 
+Oct
+414.0 
+268.3 
+124.9 
+1706.7 
+1313.9 
+3.9 
+79.3 
+1417.3 
+289.4 
+1706.7 
+Nov
+413.9 
+285.1 
+93.8 
+1722.0 
+1344.2 
+3.9 
+58.5 
+1426.6 
+295.5 
+1722.0 
+Dec
+404.0 
+301.8 
+105.0 
+1795.5 
+1430.9 
+3.9 
+51.9 
+1506.1 
+289.4 
+1795.5 
+2024
+Jan
+408.7 
+304.2 
+102.8 
+1792.2 
+1424.4 
+3.9 
+56.0 
+1503.1 
+289.1 
+1792.2 
+Feb
+409.2 
+308.9 
+112.2 
+1777.6 
+1428.0 
+3.9 
+39.1 
+1488.6 
+289.0 
+1777.6 
+Mar
+392.1 
+336.0 
+89.9 
+1813.7 
+1463.3 
+6.0 
+35.2 
+1520.1 
+293.5 
+1813.7 
+Apr
+399.2 
+336.6 
+90.5 
+1868.3 
+1524.5 
+6.3 
+29.6 
+1577.8 
+290.5 
+1868.3 
+May
+396.7 
+342.3 
+96.3 
+1873.2 
+1518.2 
+6.5 
+35.0 
+1581.1 
+292.1 
+1873.2 
+Jun
+430.5 
+294.4 
+118.0 
+1904.0 
+1555.5 
+6.3 
+30.3 
+1609.4 
+294.6 
+1904.0 
+Jul
+426.4 
+294.6 
+146.0 
+1939.2 
+1572.5 
+8.7 
+36.2 
+1641.8 
+297.4 
+1939.2 
+Aug
+441.9 
+286.5 
+130.2 
+1943.9 
+1581.2 
+8.9 
+36.2 
+1646.1 
+297.8 
+1943.9 
+Sep
+445.5 
+299.2 
+115.8 
+1970.5 
+1598.6 
+2.9 
+47.2 
+1668.6 
+302.0 
+1970.5 
+Oct
+476.7 
+304.8 
+95.9 
+1971.9 
+1604.5 
+3.6 
+44.9 
+1670.0 
+302.0 
+1971.9 
+Nov
+483.5 
+308.3 
+53.7 
+1980.1 
+1608.3 
+3.5 
+47.0 
+1678.4 
+301.7 
+1980.1 
+Dec
+472.6 
+324.1 
+57.7 
+2020.2 
+1651.4 
+3.4 
+39.2 
+1715.6 
+304.6 
+2020.2 
+2025
+Jan
+472.3
+313.6
+41.3
+1982.7
+1621.1
+3.4
+38.9
+1675.6
+307.1
+1982.7
+Feb
+483.3
+318.9
+51.4
+1975.9
+1607.4
+3.4
+46.2
+1667.9
+307.9
+1975.9
+Mar
+490.5
+334.6
+61.4
+2020.7
+1651.3
+3.4
+40.7
+1710.2
+310.5
+2020.7
+Apr
+490.3
+345.4
+57.9
+2025.4
+1658.0
+3.4
+40.1
+1714.1
+311.4
+2025.4
+May
+498.8
+329.2
+49.9
+2060.9
+1685.4
+3.4
+42.5
+1747.8
+313.1
+2060.9
+Jun
+510.7
+327.8
+46.4
+2108.8
+1724.1
+3.4
+48.8
+1795.3
+313.5
+2108.8
+Jul
+515.1
+317.5
+47.5
+2114.5
+1549.7
+3.3
+47.1
+1799.3
+315.2
+2114.5
+Aug
+523.6
+325.3
+34.8
+2166.7
+1592.5
+3.3
+50.0
+1850.8
+315.9
+2166.7
+Sep
+534.9
+322.6
+31.9
+2191.0
+1612.0
+3.3
+56.5
+1869.2
+321.9
+2191.0
+Oct
+543.3
+329.9
+32.3
+2196.1
+1600.4
+3.2
+69.2
+1873.3
+322.8
+2196.1
+Nov
+544.6
+344.0
+35.6
+2205.3
+1615.1
+3.2
+56.4
+1880.9
+324.5
+2205.3
+Dec
+540.0
+359.5
+29.9
+2298.6
+1630.1
+6.8
+65.8
+1975.6
+322.9
+2298.6
+Source: CBS, 2025
+=== PAGE 19 ===
+Annual Statistical Bulletin  |  June 2026
+13
+Central Bank of Somalia
+Table 2.4 Consolidated Commercial Banks: Financing Assets 000’ US Dollars (2022-2025)
+Year
+Month
+Vehicle
+Construction 
+& Real estate
+Trade
+Agriculture
+Manufac-
+turing
+Tourism 
+Restaurant 
+and Hotels
+Communica-
+tion
+Energy, Wa-
+ter & Mining 
+Resource
+Financial 
+Service
+Education
+Personal
+Total Financ-
+ing 
+2022
+January
+20,149 
+72,408 
+77,830 
+3,694 
+2,093 
+2,177 
+2,327 
+9,872 
+10 
+2,165 
+32,553 
+225,277 
+February
+20,569 
+74,602 
+74,291 
+3,459 
+2,251 
+2,251 
+2,364 
+9,658 
+- 
+1,990 
+32,560 
+223,995 
+March
+21,480 
+77,022 
+78,332 
+3,523 
+2,832 
+3,479 
+2,439 
+10,018 
+- 
+2,043 
+37,410 
+238,578 
+April
+22,102 
+79,754 
+82,930 
+3,838 
+2,879 
+3,421 
+2,550 
+10,223 
+4,594 
+2,139 
+37,908 
+252,337 
+May
+21,025 
+79,136 
+81,511 
+4,066 
+2,822 
+3,346 
+2,527 
+10,015 
+6,823 
+2,286 
+36,603 
+250,161 
+June
+20,915 
+80,255 
+81,744 
+4,132 
+3,428 
+3,208 
+2,415 
+10,294 
+6,836 
+2,163 
+38,427 
+253,816 
+July
+22,113 
+85,184 
+81,523 
+4,226 
+3,550 
+3,322 
+2,665 
+11,032 
+7,436 
+2,152 
+36,483 
+259,687 
+August
+24,190 
+86,634 
+85,534 
+4,480 
+4,168 
+3,599 
+2,448 
+10,168 
+7,390 
+2,141 
+34,539 
+265,292 
+September
+24,279 
+89,896 
+89,654 
+4,698 
+4,479 
+3,941 
+2,584 
+9,737 
+7,421 
+2,113 
+37,140 
+275,913 
+October
+22,163 
+93,320 
+86,543 
+4,946 
+5,221 
+2,767 
+2,543 
+8,050 
+7,141 
+2,205 
+37,722 
+272,620 
+November
+24,413 
+95,541 
+89,329 
+5,196 
+5,044 
+2,705 
+2,640 
+9,327 
+7,253 
+2,180 
+37,638 
+281,266 
+December
+24,433 
+98,143 
+99,012 
+5,577 
+4,852 
+2,691 
+2,529 
+9,522 
+7,021 
+8,662 
+30,910 
+293,351 
+2023
+January
+25,770 
+99,779 
+85,825 
+5,663 
+5,243 
+2,670 
+2,539 
+9,244 
+6,757 
+2,067 
+48,893 
+294,448 
+February
+26,296 
+113,795 
+88,655 
+6,807 
+5,360 
+2,683 
+2,631 
+10,542 
+6,865 
+2,182 
+38,588 
+304,405 
+March
+24,801 
+116,504 
+90,613 
+5,386 
+4,033 
+3,343 
+855 
+10,070 
+6,757 
+2,948 
+48,711 
+314,019 
+April
+23,408 
+117,480 
+89,576 
+5,918 
+4,113 
+3,141 
+1,348 
+9,838 
+6,493 
+2,877 
+71,865 
+336,057 
+May
+24,314 
+114,056 
+92,280 
+5,503 
+3,620 
+3,877 
+2,716 
+10,195 
+4,917 
+2,988 
+74,685 
+339,151 
+June
+24,430 
+118,001 
+87,681 
+5,641 
+3,826 
+3,703 
+3,864 
+9,577 
+4,653 
+3,007 
+76,814 
+341,196 
+July
+16,901 
+117,718 
+92,592 
+6,048 
+5,518 
+4,746 
+4,479 
+8,319 
+4,731 
+2,856 
+81,626 
+345,535 
+August
+18,113 
+109,468 
+97,163 
+6,763 
+5,991 
+3,846 
+3,455 
+8,509 
+4,653 
+2,847 
+88,615 
+349,423 
+September
+23,215 
+150,118 
+112,281 
+7,593 
+5,487 
+4,131 
+4,591 
+8,208 
+4,389 
+2,758 
+89,401 
+412,173 
+October
+22,391 
+142,778 
+121,983 
+7,003 
+4,701 
+3,831 
+4,549 
+7,728 
+4,651 
+2,608 
+91,808 
+414,030 
+November
+17,841 
+143,881 
+125,585 
+7,320 
+5,046 
+3,773 
+4,247 
+7,603 
+4,641 
+2,381 
+91,552 
+413,870 
+December
+15,922 
+148,273 
+118,390 
+7,122 
+4,893 
+4,368 
+3,385 
+9,031 
+2,070 
+4,537 
+86,035 
+404,026 
+2024
+January
+17,590 
+114,295 
+97,915 
+8,135 
+4,616 
+4,181 
+3,554 
+8,914 
+4,355 
+2,411 
+142,779 
+408,746 
+February
+28,923 
+142,185 
+104,007 
+8,304 
+4,347 
+3,673 
+3,521 
+8,182 
+4,330 
+2,092 
+99,651 
+409,216 
+March
+18,362 
+123,608 
+126,646 
+9,405 
+4,597 
+3,529 
+3,679 
+8,396 
+4,283 
+2,026 
+87,578 
+392,111 
+April
+18,945 
+125,988 
+119,850 
+9,617 
+5,077 
+3,571 
+3,952 
+9,320 
+4,174 
+2,562 
+96,134 
+399,190 
+May
+18,470 
+123,188 
+132,699 
+10,674 
+5,449 
+3,575 
+3,866 
+9,722 
+1,971 
+2,551 
+84,508 
+396,671 
+June
+18,839 
+173,555 
+132,137 
+9,859 
+5,502 
+3,686 
+4,091 
+9,440 
+4,168 
+2,511 
+66,679 
+430,466 
+July
+18,994 
+179,104 
+145,593 
+7,965 
+4,838 
+3,916 
+3,001 
+11,503 
+3,767 
+2,787 
+44,904 
+426,374 
+August
+19,588 
+181,839 
+154,855 
+10,409 
+5,403 
+3,673 
+2,897 
+10,671 
+3,763 
+2,894 
+45,896 
+441,888 
+September
+19,344 
+171,628 
+161,808 
+9,578 
+5,536 
+4,073 
+3,563 
+10,504 
+4,514 
+2,894 
+52,063 
+445,504 
+October
+19,613 
+180,036 
+165,263 
+8,521 
+5,671 
+4,610 
+3,444 
+11,609 
+ 4,557  
+2,989 
+70,409 
+476,722 
+November
+21,333 
+178,603 
+174,442 
+8,810 
+5,208 
+4,317 
+3,805 
+12,071 
+ 4,605  
+3,095 
+67,169 
+483,459 
+December
+21,025 
+172,944 
+168,893 
+8,249 
+5,621 
+4,540 
+3,752 
+12,015 
+ 4,663  
+3,031 
+67,914 
+472,648 
+2025
+January
+20,405 
+169,429
+171,435
+8,183
+5,638
+4,484
+3,847
+11,963
+4,506
+3,012
+69,352
+472,253
+February
+21,062 
+173,690
+172,779
+8,741
+5,671
+4,606
+4,872
+14,469
+4,424
+3,023
+69,915
+483,251
+March
+20,613 
+174,424
+175,030
+8,898
+5,812
+4,929
+4,852
+14,835
+4,305
+3,138
+73,626
+490,462
+April
+16,438 
+192,633
+162,340
+9,549
+6,578
+4,586
+4,696
+14,322
+4,247
+3,135
+71,787
+490,311
+May
+17,689 
+181,611
+179,501
+9,926
+7,347
+4,220
+4,800
+13,952
+4,233
+3,017
+72,546
+498,842
+June
+16,768 
+180,303
+197,613
+9,470
+6,613
+4,135
+5,040
+13,331
+3,942
+2,976
+70,486
+510,677
+July
+15,974 
+186,511
+192,127
+9,163
+6,691
+4,386
+4,233
+12,900
+3,895
+3,123
+76,047
+515,050
+August
+ 16,252 
+187,617
+192,714
+9,439
+6,715
+5,199
+4,219
+14,530
+3,869
+3,291
+79,740
+523,587
+September
+17,619 
+189,187
+200,318
+10,000
+6,663
+5,262
+4,145
+14,432
+3,494
+3,195
+80,551
+534,865
+October
+17,617 
+194,330
+03,078
+10,449
+6,938
+5,213
+4,437
+13,890
+3,442
+3,169
+80,687
+543,250
+November
+17,642 
+193,732
+203,213
+11,020
+6,883
+5,536
+4,457
+13,347
+3,439
+3,139
+82,184
+544,592
+December
+16,293 
+193,376
+205,426
+11,890
+6,629
+5,432
+3,991
+13,268
+3,164
+3,035
+77,500
+540,005
+2.4	 Consolidated Commercial Banks: Financing Assets
+Source: CBS, 2025
+=== PAGE 20 ===
+Annual Statistical Bulletin  |  June 2026
+14
+Central Bank of Somalia
+Table 2.5 Financial Soundness Indicators:  Percentages (2022-2025)
+2.5	 Financial Soundness Indicators (FSIs)
+ 2022
+2023
+2024
+2025
+Core Indicators 
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Capital Adequacy (%) 
+  
+Regulatory capital to 
+risk-weighted assets 
+25.5
+26.1
+27.9
+24.6
+20.1
+21.8
+24.4
+23.7
+15.1
+13.9
+16.3
+18.8
+20.6
+17.6
+16.6
+15.3
+Tier 1 capital to risk-weighted 
+assets 
+25.5
+26.1
+27.9
+24.6
+20.1
+21.8
+24.4
+23.7
+15.0
+13.3
+15.1
+17.2
+19.1
+16.1
+15.4
+13.7
+Nonperforming loans net of 
+provisions to capital
+3.6
+3.9
+3.0
+2.6
+5.2
+6.4
+3.2
+1.7
+2.0
+3.2
+2.4
+2.4
+2.3
+3.7
+2.8
+2.6
+Common Equity Tier 1 capital 
+to risk-weighted assets
+25.5
+26.1
+27.9
+24.6
+20.1
+21.8
+24.4
+23.7
+15.0
+13.3
+15.1
+17.2
+19.1
+16.1
+15.4
+13.7
+Tier 1 capital to assets 
+14.3
+14.7
+16.7
+15.9
+13.5
+14.2
+16.0
+14.9
+14.0
+12.6
+12.2
+12.0
+12.8
+12.3
+12.7
+11.8
+Asset Quality (%) 
+Nonperforming loans to total 
+gross loans 
+3.4
+3.5
+3.0
+1.8
+3.7
+5.0
+3.1
+2.3
+2.6
+3.1
+2.8
+2.7
+2.8
+3.4
+2.9
+2.6
+Loan concentration by eco-
+nomic activity 
+89.8
+90.1
+90.6
+94.1
+78.6
+69.7
+69.3
+73.1
+80.5
+75.9
+77.5
+75.8
+74.4
+74.5
+73.1
+73.4
+Provisions for nonperforming 
+loans 
+28.5
+26.7
+28.2
+2.9
+21.9
+32.0
+40.3
+58.6
+55.3
+45.3
+54.5
+54.2
+55.4
+45.3
+52.4
+53.5
+Earnings & Profitability (%)
+Return on assets 
+1.0
+0.8
+1.7
+1.8
+0.4
+0.4
+0.6
+0.3
+0.5
+0.7
+0.6
+0.5
+0.7
+0.7
+0.7
+0.5
+Return on equity 
+6.9
+5.5
+11.5
+12.3
+2.8
+2.7
+3.9
+2.1
+3.5
+4.7
+4.2
+3.5
+4.7
+4.6
+5.2
+5.0
+Interest margin to gross 
+income 
+69.9
+72.8
+74.4
+73.3
+72.1
+72.6
+71.4
+66.3
+74.0
+73.1
+72.8
+72.0
+69.7
+71.1
+71.9
+73.2
+Noninterest expenses to 
+gross income 
+80.0
+83.1
+69.5
+69.9
+91.5
+91.7
+87.6
+93.5
+87.9
+84.5
+85.7
+89.2
+83.6
+84.1
+82.3
+88.8
+ Liquidity (%)
+Liquid assets to total assets 
+50.5
+51.6
+50.1
+48.5
+43.2
+45.9
+46.3
+49.3
+49.2
+50.1
+50.2
+51.6
+51.7
+52.1
+53.8
+54.1
+Liquid assets to short-term 
+liabilities 
+68.4
+70.6
+70.8
+63.4
+57.2
+61.3
+63.6
+65.1
+65.1
+65.3
+65.4
+66.7
+67.8
+67.8
+69.8
+70.1
+Liquidity Coverage Ratio 
+(LCR) 
+-
+-
+-
+-
+-
+-
+-
+-
+303.3
+360.6
+448.1
+413.2
+361.6
+416.6
+373.0
+317.1
+Additional FSIs for Deposit Takers (DTs) (%)
+Personnel expenses to nonin-
+terest expenses 
+40.0
+41.4
+42.5
+44.9
+38.7
+38.4
+38.7
+35.8
+37.9
+38.8
+38.8
+34.6
+41.4
+39.9
+39.5
+33.2
+Customer deposits to total 
+(no interbank) loans 
+408.6
+401.4
+373.1
+396.9
+373.0
+326.2
+314.6
+354.2
+373.2
+361.3
+358.8
+349.4
+336.7
+337.6
+301.4
+301.9
+Credit growth to private 
+sector 
+46.4
+18.8
+20.3
+28.2
+28.8
+36.3
+55.6
+46.3
+31.1
+32.6
+10.1
+16.8
+27.0
+16.7
+15.5
+13.0
+FSIs for Real Estate Markets (REMs) (%)
+Residential real estate loans 
+to total gross loans 
+13.6
+12.6
+13.2
+12.2
+17.5
+15.2
+10.7
+8.6
+8.6
+17.3
+14.4
+13.4
+13.2
+12.2
+12.4
+11.1
+Commercial real estate loans 
+to total gross loans 
+-
+-
+-
+-
+1.4
+1.7
+7.4
+7.4
+7.3
+7.3
+8.0
+7.8
+8.2
+11.5
+11.3
+11.3
+Source: CBS, 2025
+=== PAGE 21 ===
+Annual Statistical Bulletin  |  June 2026
+15
+Central Bank of Somalia
+Table 2.6 National Payments System Data, Value in ‘000 USD (2022-2025)
+2.6	 National Payments System (NPS)
+Year
+ Month
+RTGS
+ACH
+ 
+Total Number
+of Transactions
+ 
+Total Value of 
+Transactions
+Volume
+Value
+Volume
+Value
+2022
+January 
+1,129 
+ 36,544 
+  62,255 
+19,322 
+    63,384 
+55,866 
+February 
+   1,153 
+47,101 
+    73,161 
+28,048 
+    74,314 
+75,150 
+March 
+ 1,220 
+62,880 
+    74,949 
+27,533 
+        76,169 
+ 90,414 
+April 
+       1,193 
+104,438 
+74,685 
+28,643 
+  75,878 
+133,080 
+May 
+      1,132 
+ 75,361 
+69,284 
+28,192 
+        70,416 
+103,554 
+June 
+       1,104 
+  78,869 
+79,588 
+32,521 
+  80,692 
+111,390 
+July 
+       1,095 
+82,674 
+70,036 
+26,307 
+       71,131 
+108,980 
+August 
+       1,290 
+93,950 
+75,922 
+30,870 
+  77,212 
+124,819 
+September 
+       1,345 
+137,163 
+76,619 
+30,328 
+  77,964 
+167,491 
+October 
+       1,437 
+106,436 
+82,986 
+34,588 
+     84,423 
+141,024 
+November 
+       1,380 
+111,466 
+77,733 
+32,475 
+  79,113 
+143,940 
+December 
+       1,626 
+121,785 
+90,582 
+48,587 
+  92,208 
+170,372 
+ 2023
+January
+       1,547 
+72,101 
+67,092 
+19,038 
+      68,639 
+91,138 
+February 
+       1,749 
+98,975 
+79,383 
+31,564 
+  81,132 
+130,540 
+March 
+       1,789 
+100,006 
+80,744 
+31,865 
+  82,533 
+131,871 
+April 
+       1,649 
+98,385 
+75,295 
+27,589 
+  76,944 
+125,974 
+May 
+       1,567 
+84,577 
+82,295 
+31,924 
+  83,862 
+116,501 
+June 
+       1,525 
+75,666 
+80,492 
+31,651 
+       82,017 
+107,318 
+July 
+       1,866 
+136,517 
+93,151 
+39,304 
+  95,017 
+175,821 
+August 
+       2,004 
+125,384 
+79,649 
+32,184 
+  81,653 
+157,568 
+September 
+       1,692 
+142,873 
+82,693 
+30,628 
+  84,385 
+173,501 
+October 
+       1,954 
+112,247 
+117,577 
+44,453 
+ 119,531 
+156,700 
+November 
+       1,947 
+122,495 
+96,924 
+43,628 
+   98,871 
+166,123 
+December 
+       2,128 
+129,053 
+105,391 
+46,405 
+    107,519 
+175,458 
+ 2024
+ 
+January 
+       1,721 
+77,769 
+78,777 
+23,654 
+  80,498 
+101,423 
+February 
+       1,824 
+88,587 
+96,022 
+32,724 
+ 97,846 
+121,311 
+March 
+       2,041 
+127,611 
+116,652 
+44,703 
+118,693 
+172,315 
+April 
+       1,894 
+97,328 
+94,563 
+34,618 
+ 96,457 
+131,945 
+May 
+       1,999 
+112,052 
+110,415 
+45,098 
+112,414 
+157,150 
+June 
+      1,930 
+109,437 
+   96,396 
+56,527 
+       98,326 
+  165,964 
+July 
+2,498 
+121,508 
+  102,271 
+41,076 
+     104,769 
+    162,583 
+August 
+ 2,728 
+ 122,834 
+   121,824 
+48,596 
+        124,552 
+171,430 
+September 
+    2,411 
+105,061 
+   90,174 
+36,831 
+ 92,585 
+141,891 
+October 
+       2,664 
+132,015 
+116,707 
+48,337 
+119,371 
+180,352 
+November 
+       2,589 
+156,615 
+93,777 
+37,622 
+  96,366 
+194,236 
+December 
+     3,448 
+170,613 
+ 131,891 
+67,785 
+135,339 
+238,398
+=== PAGE 22 ===
+Annual Statistical Bulletin  |  June 2026
+16
+Central Bank of Somalia
+2025 
+ 
+ 
+January 
+    2,672 
+89,268 
+85,749 
+23,782 
+ 88,421 
+113,050 
+February 
+       2,748 
+116,923 
+119,608 
+49,129 
+122,356 
+166,052 
+March 
+       3,833 
+151,752 
+124,894 
+53,471 
+128,727 
+205,223 
+April 
+       2,870 
+101,606 
+93,511 
+34,540 
+  96,381 
+136,146 
+May 
+       3,486 
+189,799 
+121,924 
+50,921 
+125,410 
+240,720 
+June 
+       3,141 
+125,265 
+103,474 
+39,327 
+106,615 
+164,592 
+July 
+       3,653 
+157,760 
+116,158 
+49,940 
+119,811 
+207,700 
+August 
+       3,241 
+139,348 
+104,166 
+40,316 
+107,407 
+179,663 
+September 
+       2,985 
+159,483 
+118,935 
+51,845 
+        121,920 
+211,328 
+October 
+  3,229 
+127,656 
+ 128,028 
+52,236 
+131,257 
+179,892 
+November 
+   3,355 
+187,968 
+111,098 
+48,112 
+      114,453 
+     236,081 
+December 
+ 3,673 
+303,132 
+  142,720 
+78,718 
+146,393 
+   381,850
+Year
+ Month
+RTGS
+ACH
+ 
+Total Number
+of Transactions
+ 
+Total Value of 
+Transactions
+Volume
+Value
+Volume
+Value
+Source: CBS, 2025
+Table 3.1 Workers’ Remittances in Millions USD (2022-2025) 
+Total Inward Transfers (MTBs and Banks) In Millions USD
+Total Outward Transfers (MTBs and Bank) in Millions 
+USD
+Year
+Month
+Remittances
+Businesses
+Grants
+Other Swift 
+Transfers 
+TT
+Total
+Remittances
+Businesses
+Other Swift 
+Transfers 
+TT
+Total
+2022
+January
+177.87
+77.38
+46.17
+23.89
+325.30
+159.53
+253.38
+4.25
+417.16
+February
+158.46
+81.63
+54.56
+23.62
+318.27
+154.05
+252.02
+5.33
+411.40
+March
+209.21
+104.92
+84.16
+70.36
+468.65
+185.30
+387.68
+9.61
+582.59
+April
+210.32
+93.40
+67.87
+36.54
+408.14
+167.01
+280.94
+5.96
+453.90
+May
+170.47
+76.73
+75.30
+36.68
+359.19
+164.47
+274.69
+5.46
+444.63
+June
+179.57
+72.18
+73.33
+36.61
+361.69
+172.24
+269.58
+4.93
+446.75
+July
+183.62
+66.97
+83.44
+36.57
+370.60
+144.55
+260.14
+4.82
+409.51
+August
+185.09
+79.82
+88.76
+36.58
+390.25
+162.45
+279.17
+4.77
+446.39
+September
+168.27
+70.65
+76.10
+36.68
+351.70
+161.92
+277.17
+5.38
+444.47
+October
+154.15
+89.93
+93.53
+109.67
+447.28
+164.31
+355.44
+8.13
+527.88
+November
+170.07
+78.06
+84.42
+110.46
+443.02
+161.78
+341.57
+8.47
+511.82
+December
+183.76
+92.82
+116.00
+109.42
+502.01
+155.73
+343.47
+9.99
+509.19
+2023
+January
+199.54
+92.90
+105.43
+109.48
+507.36
+180.92
+365.12
+8.12
+554.16
+February
+151.19
+74.09
+68.19
+109.54
+403.00
+156.19
+317.96
+8.71
+482.86
+March
+211.60
+91.48
+119.38
+109.61
+532.07
+159.66
+366.54
+9.13
+535.33
+April
+190.52
+84.25
+106.19
+109.55
+490.52
+132.02
+348.38
+9.86
+490.26
+May
+176.78
+85.31
+90.56
+109.91
+462.58
+148.07
+365.75
+11.27
+525.09
+June
+181.18
+110.13
+51.92
+110.38
+453.62
+151.45
+309.04
+9.33
+469.82
+July
+184.01
+91.55
+86.83
+110.74
+473.12
+136.45
+357.72
+10.37
+504.55
+August
+175.10
+84.23
+96.93
+111.12
+467.38
+152.30
+346.37
+9.34
+508.01
+September
+170.80
+82.97
+66.42
+111.98
+432.16
+170.23
+320.47
+11.27
+501.97
+October
+171.58
+83.28
+89.77
+112.46
+457.09
+170.07
+363.03
+10.78
+543.87
+November
+176.63
+102.39
+92.18
+115.44
+486.64
+150.37
+352.26
+12.90
+515.53
+December
+192.36
+103.20
+94.78
+113.87
+504.21
+145.32
+327.80
+13.47
+486.58
+3.0 International Trade and Finance
+3.1	 Wokers’ Remmittances
+=== PAGE 23 ===
+Annual Statistical Bulletin  |  June 2026
+17
+Central Bank of Somalia
+Source: CBS, 2025
+Total Inward Transfers (MTBs and Banks) In Millions USD
+Total Outward Transfers (MTBs and Bank) in Millions 
+USD
+Year
+Month
+Remittances
+Businesses
+Grants
+Other Swift 
+Transfers 
+TT
+Total
+Remittances
+Businesses
+Other Swift 
+Transfers 
+TT
+Total
+2024
+January
+204.31
+176.32
+98.74
+13.52
+492.89
+155.62
+400.12
+12.08
+567.82
+February
+206.14
+184.69
+91.54
+13.79
+496.16
+156.49
+366.14
+12.74
+535.37
+March
+257.47
+200.63
+91.68
+14.24
+564.02
+153.33
+407.43
+13.18
+573.94
+April
+219.94
+205.46
+91.69
+14.54
+531.63
+138.67
+397.01
+16.37
+552.05
+May
+228.25
+204.94
+104.38
+14.82
+552.39
+131.50
+390.97
+13.93
+536.40
+June
+230.78
+204.47
+91.62
+15.20
+542.07
+121.76
+355.73
+17.40
+494.89
+July
+232.15
+209.18
+100.25
+16.29
+557.86
+138.29
+377.43
+17.47
+533.19
+August
+238.08
+198.71
+100.58
+16.10
+553.47
+138.09
+393.35
+14.12
+545.57
+September
+232.60
+184.13
+82.10
+16.62
+515.45
+136.90
+384.12
+16.42
+537.44
+October
+225.31
+197.35
+106.26
+17.43
+546.36
+138.52
+410.94
+17.35
+566.80
+November
+211.37
+184.09
+94.95
+18.27
+508.69
+107.85
+370.43
+17.32
+495.60
+December
+233.60
+205.89
+115.81
+17.65
+572.95
+122.05
+388.13
+17.07
+527.25
+2025
+January
+251.99
+195.34
+66.89
+15.67
+529.89
+137.84
+380.00
+14.43
+532.27
+February
+252.08
+193.82
+65.03
+16.22
+527.15
+122.63
+349.68
+14.67
+486.97
+March
+297.57
+226.04
+88.60
+16.40
+628.62
+125.10
+393.50
+15.23
+533.82
+April
+232.29
+205.03
+72.27
+15.89
+525.48
+122.11
+366.19
+14.07
+502.37
+May
+268.53
+233.81
+79.69
+18.01
+600.04
+164.08
+359.22
+12.39
+535.69
+June
+248.79
+202.54
+92.51
+18.48
+562.33
+131.52
+362.43
+12.80
+506.75
+July
+256.06
+209.37
+90.75
+16.90
+573.08
+162.92
+344.74
+14.45
+522.11
+August
+261.09
+187.82
+81.88
+15.92
+546.70
+159.63
+326.23
+11.66
+497.52
+September
+264.31
+210.89
+76.34
+17.05
+568.60
+189.76
+364.84
+11.10
+565.70
+October
+273.12
+173.40
+73.70
+24.86
+545.08
+168.82
+339.45
+9.59
+517.86
+November
+247.39
+195.07
+72.72
+33.79
+548.97
+166.84
+328.80
+10.88
+506.52
+December
+280.29
+220.65
+75.81
+52.96
+629.72
+153.51
+342.01
+11.95
+507.48
+Table 3.2 Somali Shilling Exchange Rates (2022-2025)
+3.2	 Somali Shilling Exchange Rates
+Year/Month
+Buying Rate
+Selling Rate
+Mid-Rate
+Year 
+Month
+(SOS/US$)
+(SOS/US$)
+(SOS/US$)
+2022
+January
+26,064.63
+26,073.89
+26,069.26
+February 
+25,344.58
+25,424.17
+25,384.38
+March
+26,022.22
+26,032.59
+26,027.41
+April 
+26,433.20
+26,551.20
+26,492.20
+May
+26,236.80
+26,526.80
+26,381.80
+June
+26,983.08
+26,993.08
+26,988.08
+July
+26,949.13
+27,002.17
+26,975.65
+August 
+27,056.41
+27,066.37
+27,061.39
+September
+27,059.40
+27,069.40
+27,064.40
+October 
+27,485.37
+27,529.44
+27,507.41
+November 
+28,013.08
+28,023.08
+28,018.08
+December
+28,014.62
+28,025.77
+28,020.19
+=== PAGE 24 ===
+Annual Statistical Bulletin  |  June 2026
+18
+Central Bank of Somalia
+2023
+January
+27,565.19
+27,643.15
+27,604.17
+February 
+26,082.50
+26,242.50
+26,162.50
+March
+26,229.62
+26,274.23
+26,251.92
+April 
+27,050.00
+27,060.00
+27,055.00
+May
+27,308.08
+27,318.08
+27,313.08
+June
+27,057.73
+27,067.73
+27,062.73
+July
+27,041.54
+27,051.54
+27,046.54
+August 
+27,044.07
+27,054.07
+27,049.07
+September
+27,066.00
+27,076.00
+27,071.00
+October 
+27,640.00
+27,820.00
+27,730.00
+November 
+28,032.31
+28,042.31
+28,037.31
+December
+28,024.23
+28,034.23
+28,029.23
+2024
+January
+28,032.59
+28,042.59
+28,037.59
+February 
+28,028.60
+28,038.60
+28,033.60
+March
+28,027.31
+28,037.31
+28,032.31
+April 
+28,022.31
+28,032.31
+28,027.31
+May
+28,029.63
+28,039.63
+28,034.63
+June
+28,017.27
+28,027.27
+28,022.27
+July
+28,037.69
+28,047.69
+28,042.69
+August 
+28,038.08
+28,048.08
+28,043.08
+September
+26,971.15
+26,981.15
+26,976.15
+October 
+28,086.11
+28,097.04
+28,091.57
+November 
+29,029.60
+29,039.60
+29,034.60
+December
+29,033.70
+29,042.59
+29,038.15
+2025
+January
+29,018.46 
+ 29,028.46 
+   29,023.46 
+February 
+ 28,611.67 
+ 29,037.92 
+   28,824.79 
+March
+ 29,160.37 
+ 28,762.96 
+   28,961.67 
+April 
+ 29,988.46 
+ 29,998.46 
+   29,993.46 
+May
+ 30,011.54 
+ 30,021.54 
+   30,016.54 
+June
+ 29,713.85 
+ 29,723.85 
+   29,718.85 
+July
+ 29,874.81 
+ 30,023.46 
+   29,949.13 
+August 
+ 30,012.31 
+ 30,027.31 
+   30,019.81 
+September
+ 30,034.42 
+ 30,048.27 
+   30,041.35 
+October 
+ 30,739.62 
+ 30,851.31 
+   30,795.46 
+November 
+ 31,686.92 
+ 30,924.96 
+   31,853.75 
+December
+ 32,032.96 
+ 32,053.52 
+   32,043.24
+Year/Month
+Buying Rate
+Selling Rate
+Mid-Rate
+Year 
+Month
+(SOS/US$)
+(SOS/US$)
+(SOS/US$)
+Source: CBS, 2025
+=== PAGE 25 ===
+Annual Statistical Bulletin  |  June 2026
+19
+Central Bank of Somalia
+Table 3.3 Balance of Payments in Bpm6 Format in Millions USD (2022-2025)
+3.3	 Balance of Payments 
+BPM6 Concept
+2022
+2023
+2024
+2025
+A. Current Account 
+-1,927
+-2,210
+-2,494
+-3,160
+Goods
+-4,308
+-4,793
+-4,995
+-5,563
+Goods: Exports FOB
+704
+1,009
+1,216
+1,261
+Goods: Imports FOB
+-5,614
+-6,121
+-6,652
+-7,297
+Services 
+-1,397
+-1,154
+-1,362
+-1,434
+Service: Credit
+679
+974
+1,361
+1,428
+Service: Debit
+-2,075
+-2,128
+-2,722
+-2,862
+Primary Income
+-88
+-85
+284
+228
+Primary Income: Credit
+132
+147
+481
+405
+Primary Income: Debit
+-220
+-233
+-197
+-177
+Secondary Income 
+3,866
+3,823
+3,578
+3,608
+Secondary Income, n.i.e.: Credit
+4,937
+4,846
+4,931
+5,088
+Secondary Income: Debit
+-1,071
+-1,023
+-1,353
+-1,480
+B. Capital Account, n.i.e
+443
+2,025
+1,826
+635
+Capital Account, n.i.e.: Credit
+443
+2,025
+1,826
+635
+Capital Account: Debit
+-
+-
+-
+-
+Net lending (+) / Net Borrowing (-) (Balance from Current and Capital Account) 
+-1,484
+-185
+-668
+-2,525
+C. Financial Account, n.i.e. 
+-451
+-1,871
+-2,008
+-436
+Net Lending (+) / Net Borrowing (-) (Balance from Financial Account) 
+451
+1,871
+2,008
+436
+Foreign Direct Investment
+-636
+-677
+-765
+-880
+Portfolio Investment 
+-
+-
+-
+-
+Financial Derivatives
+-
+-
+-
+-
+Other Investment 
+1,087
+2,548
+2,773
+1,316
+D. Net Errors and Omissions
+1,955
+2,123
+2,738
+3,001
+E. Overall Balance
+-20
+-67
+-62
+-40
+F. Reserves and Related Items
+20
+67
+62
+40
+Reserve Assets
+20
+67
+62
+40
+Exceptional Financing
+-
+-
+-
+-
+G. Memorandum Items:
+-
+-
+-
+-
+Nominal GDP
+10,301
+11,317
+12,348
+13,234
+External Public Debt
+4,440
+2,818
+1,515
+1,482
+Source: MoF, SNBS & CBS Estimates, 2025
+=== PAGE 26 ===
+Annual Statistical Bulletin  |  June 2026
+20
+Central Bank of Somalia
+Source: MoF with CBS Valuation & Adjustments, 2025
+Table  3.4 Merchandise Trade Summary (2022-2025)
+3.4	 Foreign Trade Summary
+Year 
+ Month 
+ Total Value of Exports  
+ Total Value of Imports 
+ Trade Balance 
+2022
+ January 
+43,581,688.08
+413,886,686.76
+-370,304,998.68
+ February 
+45,420,121.52
+394,751,806.77
+-349,331,685.25
+ March 
+52,729,333.60
+495,060,299.20
+-442,330,965.60
+ April
+49,838,579.13
+497,835,554.13
+-447,996,974.99
+ May 
+46,253,289.27
+586,992,912.16
+-540,739,622.89
+ June 
+140,285,056.96
+571,294,855.01
+-431,009,798.05
+ July
+55,582,305.80
+489,097,747.47
+-433,515,441.67
+ August
+37,858,666.33
+638,865,301.06
+-601,006,634.73
+ September 
+79,141,939.67
+583,411,525.82
+-504,269,586.15
+ October 
+39,835,739.33
+591,042,596.98
+-551,206,857.65
+ November
+48,217,595.67
+572,758,652.55
+-524,541,056.88
+ December
+65,300,596.00
+544,519,641.20
+-479,219,045.20
+2023
+ January 
+74,771,289.60
+601,574,856.55
+-526,803,566.95
+ February 
+71,246,280.40
+522,650,816.48
+-451,404,536.08
+ March 
+71,203,751.20
+519,478,163.92
+-448,274,412.72
+ April
+46,668,046.00
+629,711,058.85
+-583,043,012.85
+ May 
+111,579,462.13
+632,885,992.51
+-521,306,530.38
+ June 
+320,610,522.53
+500,391,878.96
+-179,781,356.43
+ July
+58,831,351.13
+674,608,904.08
+-615,777,552.95
+ August
+60,398,242.13
+586,071,077.55
+-525,672,835.42
+ September 
+44,175,847.60
+562,810,994.67
+-518,635,147.07
+ October 
+49,383,190.33
+582,177,997.37
+-532,794,807.04
+ November
+41,912,835.33
+584,498,187.67
+-542,585,352.34
+ December
+58,708,781.67
+558,602,532.86
+-499,893,751.19
+2024
+ January 
+88,897,845.61
+586,927,995.78
+-498,030,150.20
+ February 
+105,836,857.83
+681,026,934.54
+-575,190,076.70
+ March 
+102,672,538.53
+669,243,652.42
+-566,571,113.90
+ April
+96,161,492.90
+547,801,613.28
+-451,640,120.40
+ May 
+116,458,569.08
+624,574,285.79
+-508,115,716.70
+ June 
+217,928,986.19
+602,932,951.23
+-385,003,965.00
+ July
+69,398,837.73 
+690,584,302.82
+-621,185,465.09
+ August
+77,021,025.46
+703,303,926.06
+-626,282,900.60
+ September 
+91,234,326.38
+560,897,051.92
+-469,662,725.54
+ October 
+58,082,649.73
+774,567,392.89
+-716,484,743.20
+ November
+32,631,789.34
+712,836,627.18
+-680,204,837.80
+ December
+115,424,480.21
+748,163,252.23
+-632,738,772.00
+2025
+ January 
+72,634,825.94
+702,971,164.49
+-630,336,338.55
+ February 
+117,634,081.56
+791,973,185.97
+-674,339,104.41
+ March 
+96,774,731.71
+635,894,369.03
+-539,119,637.32
+ April
+100,103,554.16
+568,197,377.96
+-468,093,823.80
+ May 
+150,016,987.11
+613,907,453.86
+-463,890,466.75
+ June 
+140,715,340.34
+542,417,443.01
+-401,702,102.67
+ July
+54,939,589.11
+689,476,541.27
+-634,536,952.16
+ August
+81,739,847.54
+664,929,945.74
+-583,190,098.20
+ September 
+162,408,583.95
+645,286,631.86
+-482,878,047.91
+ October 
+75,437,171.01
+987,509,349.31
+-912,072,178.30
+ November
+126,205,500.07
+815,640,526.26
+-689,435,026.19
+ December
+81,923,789.09
+1,011,081,727.43
+-929,157,938.34
+=== PAGE 27 ===
+Annual Statistical Bulletin  |  June 2026
+21
+Central Bank of Somalia
+Source: MoF with CBS Valuation & Adjustments, 2025
+Table 3.5 Total Imports (Values in 000’ of US Dollar, 2022-2025)
+3.5	 Major Imported Commodities by Value 
+Year 
+ Month
+Oil
+Food
+Beverage & 
+Tobacco
+Electronics 
+& Electronic 
+Machine
+Construction
+Furniture
+Medical 
+Product
+2022
+January
+44,273
+110,996
+3,629
+10,073
+90,600
+4,886
+11,530
+February
+40,937
+110,399
+3,465
+7,109
+95,564
+2,320
+11,646
+March
+25,100
+151,766
+1,229
+13,937
+107,839
+5,812
+17,408
+April
+53,539
+174,068
+4,702
+9,861
+78,198
+5,250
+34,395
+May
+34,069
+209,395
+7,532
+9,845
+107,852
+3,551
+42,800
+June
+77,689
+234,714
+8,002
+8,693
+81,571
+2,283
+38,645
+July
+22,612
+149,786
+10,780
+10,791
+122,488
+5,260
+31,146
+August
+76,692
+174,053
+16,013
+8,899
+103,617
+6,429
+68,598
+September
+55,147
+185,986
+8,889
+8,763
+102,428
+6,416
+53,651
+October
+73,363
+275,326
+4,490
+6,402
+58,898
+5,942
+53,000
+November
+67,075
+209,449
+10,723
+9,525
+122,857
+3,606
+50,794
+December
+53,911
+176,807
+7,996
+17,941
+99,391
+4,755
+65,642
+2023
+January
+51,899
+175,789
+5,972
+15,246
+112,194
+21,524
+27,223
+February
+55,568
+122,465
+8,655
+16,218
+116,425
+10,066
+37,957
+March
+33,086
+174,854
+9,123
+15,875
+112,072
+7,392
+43,794
+April
+40,760
+210,241
+5,668
+12,682
+145,187
+7,417
+43,518
+May
+49,216
+149,215
+10,369
+15,790
+156,075
+14,342
+41,700
+June
+37,348
+126,054
+8,728
+11,886
+115,720
+9,388
+44,878
+July
+78,285
+178,583
+9,396
+11,310
+122,636
+11,791
+52,553
+August
+14,823
+224,592
+8,334
+18,811
+107,163
+13,130
+42,881
+September
+61,452
+154,692
+8,216
+9,147
+104,287
+9,464
+49,059
+October
+50,694
+173,729
+12,337
+11,308
+71,635
+16,291
+45,355
+November
+46,026
+153,287
+8,335
+11,098
+107,041
+11,635
+43,805
+December
+40,845
+159,019
+10,413
+9,336
+69,802
+11,263
+44,407
+2024
+January
+61,446
+186,634
+9,675
+12,466
+71,463
+15,224
+99,437
+February
+57,032
+225,676
+9,050
+19,167
+82,537
+19,959
+108,420
+March
+76,546
+244,256
+13,783
+26,081
+58,332
+19,047
+103,612
+April
+33,455
+229,046
+17,504
+8,735
+98,813
+7,815
+104,406
+May
+42,354
+214,951
+16,772
+16,405
+120,710
+15,078
+101,515
+June
+78,860
+174,313
+11,108
+16,581
+118,598
+14,170
+107,736
+July
+36,537
+207,420
+18,468
+19,628
+102,009
+22,604
+145,016
+August
+68,011
+219,955
+13,156
+14,443
+96,943
+15,452
+151,811
+September
+25,841
+173,471
+15,143
+11,266
+100,234
+17,716
+104,918
+October
+73,837
+196,420
+15,383
+27,516
+104,322
+8,400
+156,910
+November
+45,300
+225,335
+10,245
+18,780
+94,463
+13,398
+134,767
+December
+59,272
+220,238
+12,499
+21,218
+143,856
+5,492
+114,690
+2025
+January
+62,565 
+242,680 
+8,353 
+36,543 
+127,731 
+14,883 
+34,082 
+February
+84,308 
+150,672 
+5,159 
+18,207 
+85,827 
+8,455 
+272,716 
+March
+73,174 
+208,546 
+26,198 
+20,790 
+118,174 
+21,260 
+46,650 
+April
+39,579 
+236,690 
+12,985 
+11,360 
+129,058 
+8,209 
+99,786 
+May
+48,907 
+198,301 
+14,877 
+17,343 
+147,214 
+15,849 
+96,163 
+June
+64,307 
+163,275 
+10,770 
+15,467 
+126,146 
+12,874 
+89,869 
+July
+61,331 
+148,596 
+8,584 
+11,414 
+166,847 
+33,430 
+112,950 
+August
+49,710 
+126,187 
+7,413 
+7,807 
+169,121 
+20,759 
+149,924 
+September
+20,512 
+232,529 
+11,571 
+19,516 
+127,257 
+26,888 
+93,484 
+October
+37,916 
+233,668 
+6,254 
+17,721 
+111,049 
+23,304 
+102,169 
+November
+46,179 
+253,783 
+3,714 
+24,321 
+76,531 
+13,855 
+167,649 
+December
+87,965 
+279,320 
+4,875 
+41,710 
+128,929 
+28,229 
+179,394
+=== PAGE 28 ===
+Annual Statistical Bulletin  |  June 2026
+22
+Central Bank of Somalia
+Source: MoF with CBS Valuation & Adjustments, 2025
+Table 3.6 Cements Imported (2022-2025)
+Table 3.7 Value and Volume of Oil & Gas Imports through Mogadishu Port (2022-2025)
+3.6	 Cements Imported Through Mogadishu Port 
+3.7	 Imported Oil & Gas in Mogadishu Port
+ Year
+2022
+2023
+2024
+2025
+Monthly
+Volume 
+ Value 
+Volume 
+ Value 
+Volume 
+ Value 
+Volume 
+ Value 
+Jan
+1,274,273
+5,537,772
+1,433,780
+12,187,130
+507,200
+2,766,138
+891,000 
+3,670,920 
+Feb
+1,102,888
+4,207,750
+888,371
+7,551,154
+766,000
+4,199,890
+959,122 
+3,951,583
+Mar
+1,356,980
+7,239,911
+6,191,318
+17,031,137
+752,017
+1,893,411
+929,860
+4,301,852
+Apr
+-
+4,992,322
+1,385,066
+11,644,891
+550,300
+2,782,041
+986,700 
+4,045,470 
+May
+585,523
+4,430,657
+771,558
+6,542,257
+1,183,866
+6,035,402
+678,078 
+2,780,120 
+Jun
+985,525
+9,783,822
+350,000
+2,975,000
+1,089,319
+5,549,903
+1,234,580 
+5061778
+Jul
+184,420
+3,786,448
+1,286,264
+10,872,722
+1,089,319
+5,549,903
+2,926,300 
+12,056,356
+Aug
+1,155,940
+4,490,069
+-
+-
+720,000
+3,337,480
+1,170,000 
+4,820,400
+Sep
+1,641,820
+718,819
+-
+-
+1,827,641
+9,193,148
+930,000 
+3,831,600
+Oct
+978,436
+7,312,309
+1,660,321
+12,138,058
+1,510,000
+7,697,598
+1,566,760 
+6,455,051
+Nov
+1,947,162
+6,264,075
+1,727,095
+12,883,213
+1,596,200
+7,998,457
+1,522,560 
+6,272,947
+Dec
+360,660
+12,393,459
+653,720
+4,902,900
+1,222,360
+9,423,909
+1,000,000 
+4,120,000
+Total
+11,573,627
+71,157,411
+15,997,493
+98,657,945
+12,814,222
+66,427,280
+ 14,794,96
+61,368,077
+Petrol (MT) 
+ Jet A1 (MT)
+Diesel (MT)
+Gas (LPG)
+Year
+Month
+Volume 
+ Value 
+Volume 
+ Value 
+ Value 
+ Value 
+ Value 
+ Value 
+2022
+January
+-
+-
+1.00
+1,125
+25,253
+15,382,795
+10,189
+388,455
+February
+9,733
+6,320,610
+4,013
+4,514,668
+5,630
+3,429,665
+6,231
+526,102
+March
+-
+-
+-
+-
+13,429
+8,180,141
+8,092
+532,839
+April
+8,343
+7,521,317
+1,284
+750,856
+11,299
+9,457,724
+8,404
+578,807
+May
+-
+-
+-
+-
+10,610
+8,880,994
+6,816
+1,142,830
+June
+14,555
+13,120,881
+6,769
+10,573,031
+5,017
+4,199,811
+8,465
+160,536
+July
+2,171
+1,939,725
+5,115
+4,106,680
+7,078
+903,501
+August
+3,806
+3,399,947
+8,783
+14,844,385
+11,305
+9,076,044
+8,417
+606,834
+September
+10,500
+9,381,015
+15.00
+25,351
+12,690
+10,188,733
+5,464
+583,404
+October
+19,166
+18,414,068
+-
+-
+8,999
+7,786,108
+5,035
+625,776
+November
+451.00
+423,017
+27.00
+44,975
+27,397
+21,977,751
+12,394
+1,485,765
+December
+-
+-
+-
+-
+23,730
+19,036,037
+3,603
+405,132
+2023
+January
+5,844
+3,519,781
+3,520
+4,981,152
+12,798
+8,129,116
+10,106
+851,796
+February
+7,810
+5,093,597
+3,990
+6,107,325
+12,160
+8,361,251
+1,293
+72,717
+March
+8,200
+7,745,310
+2,065
+4,522,981
+700
+694,785
+5,489
+5,489
+April
+-
+-
+1,568
+2,432,548
+16,343
+9,978,729
+13,595
+1,487,493
+May
+5,010
+2,985,710
+4,355
+6,756,106
+10,312
+6,296,301
+1,487
+24,289
+June
+1,500
+930,000
+15,308
+9,965,508
+12,829
+1,300,873
+July
+8,615
+5,753,601
+6,664
+8,817,455
+24,236
+13,861,79
+4,348
+192,931
+August
+-
+-
+3.000
+5,102
+-
+-
+-
+September
+-
+-
+-
+-
+-
+-
+-
+-
+October
+-
+-
+-
+-
+16,583
+6,880,082
+1,508
+113,541
+November
+7,081
+3,702,158
+5,606
+3,379,352
+16,064
+7,498,243
+18,442
+1,408,800
+December
+13,557
+7,650,667
+3,436
+4,201,439
+-
+-
+14,935
+1,265,182
+=== PAGE 29 ===
+Annual Statistical Bulletin  |  June 2026
+23
+Central Bank of Somalia
+Petrol (MT) 
+ Jet A1 (MT)
+Diesel (MT)
+Gas (LPG)
+Year
+Month
+Volume 
+ Value 
+Volume 
+ Value 
+ Value 
+ Value 
+ Value 
+ Value 
+2024
+January
+5,302
+485,610
+5,364
+10,073,538
+12,117
+9,364,303
+20,657
+4,190,840
+February
+5,999
+4,973,351
+3,000
+5,633,970
+13,833
+10,690,14
+14,496
+1,471,013
+March
+8,491
+7,039,620
+7,189
+13,500,442
+10,071
+7,782,853
+23,637
+4,453,780
+April
+-
+-
+-
+-
+17,222
+13,339,47
+4,127
+100,611
+May
+4,000
+3,502,680
+-
+-
+14,398
+11,152,11
+4,939
+127,653
+June
+9,306
+8,148,650
+4,047
+7,607,760
+21,902
+16,964,25
+4,525
+111,379
+July
+4,000
+3,098,240
+4,000
+3,875,850
+12,748
+1,737,644
+August
+7,909
+6,974,536
+4,109
+7,763,668
+11,725
+9,081,468
+1,973
+51,102
+September
+-
+-
+-
+-
+8,407
+6,511,726
+16,695
+1,686,190
+October
+8,959
+7,458,306
+2,499
+4,486,379
+24,317
+18,572,72
+845.00
+23,012
+November
+4,500
+3,746,219
+3,607
+6,475,941
+7,020
+5,361,703
+14,580
+42,722
+December
+9,376
+7,805,375
+2,290
+4,111,504
+14,220
+10,864,02
+6,609
+175,881
+2025
+January
+11,799 
+9,982,337 
+1,425 
+2,497,847 
+11,353 
+8,022,942 
+5,397 
+411,698 
+February
+18,360 
+16,064,200 
+1,028 
+1,700,457 
+10,980 
+8,584,253 
+18,896 
+116,011 
+March
+7,490 
+6,129,291 
+12,572 
+23,148,486 
+6,362 
+4,467,672 
+16,968 
+296,297 
+April
+6,830 
+5,668,900 
+1,600 
+2,752,000 
+11,500 
+8,579,000 
+5,600 
+616,000 
+May
+4,587 
+3,807,210 
+5,480 
+9,425,600 
+8,900 
+6,639,400 
+9,800 
+284,200 
+June
+8,972 
+7,446,760 
+7,500 
+12,900,000 
+14,300 
+10,667,800 
+    2,000 
+64,000 
+July
+  - 
+  - 
+  - 
+  - 
+15,997 
+9,251,911 
+942 
+9,943 
+August
+  - 
+  - 
+2,850 
+4,095,945 
+11,010 
+6,367,664 
+6,738 
+71,051 
+September
+  - 
+  - 
+  - 
+  - 
+11,210 
+6,483,335 
+5,217 
+55,049 
+October
+14,063 
+11,953,125 
+2,004 
+2,136,878 
+6,066 
+1,438,424 
+278 
+ 6,525 
+November
+4,011 
+3,409,067 
+  - 
+  - 
+4,075 
+29,482 
+ 4,345 
+ 131,665 
+December
+11,477 
+9,755,025 
+2,495 
+3,007,410 
+6,058 
+2,565,714 
+ 11,247 
+3,076,677 
+Source: MoF with CBS Valuation & Adjustments, 2025
+Table 3.8.1. Export: Livestock Heads and Values (2022-2025)
+3.8	 Major Exported Goods by Value and Volume
+Volume of Livestock (Heads)
+Value of Livestock in USD 
+Year 
+ Month 
+ Camel 
+ Cattle 
+ Sheep/Goat 
+ Camel 
+ Cattle 
+ Sheep/Goat 
+2022
+January
+4,152
+23,002
+191,878
+4,284,864
+11,869,032
+17,729,527
+February
+7,029
+12,269
+207,977
+7,253,928
+6,330,804
+19,217,075
+March
+7,240
+17,699
+261,504
+7,471,680
+9,132,684
+24,162,970
+April
+2,838
+14,445
+324,483
+2,945,844
+7,678,962
+31,150,368
+May
+5,449
+10,251
+287,310
+5,656,062
+5,449,432
+27,581,760
+June
+15,899
+30,836
+1,018,622
+16,503,162
+16,392,418
+97,787,712
+July
+3,981
+19,226
+324,770
+3,821,760
+9,228,480
+31,177,920
+August
+5,382
+13,264
+193,053
+4,080,828
+6,360,756
+18,483,888
+September
+1,982
+81,962
+86,655
+1,902,720
+39,341,760
+8,318,880
+October
+11,930
+22,690
+107,863
+11,452,800
+10,891,200
+10,354,848
+November
+15,527
+28,765
+130,217
+14,951,520
+13,918,800
+12,503,232
+December
+11,025
+32,436
+167,694
+10,595,881
+16,295,411
+16,103,988
+3.8.1	 Export: Livestock
+=== PAGE 30 ===
+Annual Statistical Bulletin  |  June 2026
+24
+Central Bank of Somalia
+Source: MoF, FSNAU with CBS Valuation & Adjustments, 2025
+2023
+January
+13,613
+35,974
+351,930
+16,335,600
+17,267,520
+36,319,176
+February
+21,294
+40,132
+311,339
+25,552,800
+19,263,360
+32,130,185
+March
+14,996
+39,292
+413,044
+17,995,200
+18,860,160
+42,626,141
+April
+3,561
+34,682
+318,211
+4,273,200
+16,647,360
+32,839,375
+May
+26,967
+25,655
+819,542
+32,360,400
+12,314,400
+84,576,734
+June
+24,714
+53,733
+3,300,501
+29,656,800
+25,791,840
+340,611,703
+July
+33,755
+9,892
+221,512
+33,430,100
+6,273,344
+17,607,008
+August
+18,366
+20,048
+161,932
+10,733,429
+8,462,823
+13,033,288
+September
+8,451
+15,517
+201,264
+18,680,020
+10,369,392
+16,906,160
+October
+9,454
+16,383
+253,874
+9,643,080
+6,291,072
+22,848,660
+November
+15,912
+14,520
+185,061
+16,230,240
+5,575,680
+16,655,490
+December
+20,109
+21,214
+306,031
+20,511,180
+8,146,176
+27,542,790
+2024
+January
+19,318
+27,844
+354,453
+20,167,992
+12,696,864
+35,728,862
+February
+25,263
+30,518
+451,001
+26,374,572
+13,916,208
+45,460,901
+March
+21,648
+27,694
+440,046
+22,600,512
+12,628,464
+44,356,637
+April
+14,941
+19,512
+495,713
+16,136,280
+9,365,621
+52,347,295
+May
+10,154
+25,767
+652,988
+10,965,780
+12,368,045
+68,955,570
+June
+13,451
+31,434
+1,649,532
+14,526,540
+15,088,094
+174,190,540
+July
+21,568
+13,595
+260,208
+24,587,862
+6,525,504
+26,541,196
+August
+22,991
+18,108
+284,060
+20,642,892
+11,035,771
+28,974,130
+September
+22,040
+28,003
+308,727
+25,125,041
+13,441,632
+31,490,164
+October
+6,337
+25,283
+274,150
+6,767,916
+11,073,954
+26,976,360
+November
+10,748
+23,089
+349,580
+11,478,864
+10,112,982
+34,398,672
+December
+24,157
+20,845
+385,863
+25,799,676
+9,130,110
+37,968,919
+2025
+January
+   11,162 
+20,833 
+        301,780 
+  12,784,955 
+   10,074,839 
+32,230,104 
+February
+    34,047 
+29,190 
+        530,004 
+  38,997,434 
+   14,116,284 
+56,604,427 
+March
+    15,718 
+22,405 
+        474,325 
+  18,003,397 
+   10,835,058 
+50,657,910 
+April
+    13,676 
+ 1,598 
+        560,755 
+  15,918,864 
+        814,980 
+63,926,070 
+May
+    20,494 
+ 2,303 
+        929,550 
+  23,855,016 
+        664,530 
+105,968,700 
+June
+    14,624 
+ 2,678 
+        883,346 
+  17,022,336 
+        855,780 
+100,701,444 
+July
+      9,905 
+20,200 
+        309,662 
+   4,283,794 
+     8,272,498 
+16,972,752 
+August
+    11,188 
+29,485 
+        289,242 
+   6,663,679 
+   12,868,330 
+26,402,059 
+September
+      3,756 
+31,307 
+        276,799 
+  12,851,381 
+   24,817,493 
+50,918,257 
+October
+    12,884 
+24,479 
+        259,387 
+  12,368,785 
+   11,162,615 
+28,013,840 
+November
+    19,451 
+22,275 
+        362,939 
+  18,673,034 
+   10,157,500 
+39,197,367 
+December
+    26,108 
+15,256 
+        307,677
+  25,063,786 
+     6,956,873 
+33,229,099
+Volume of Livestock (Heads)
+Value of Livestock in USD 
+Year 
+ Month 
+ Camel 
+ Cattle 
+ Sheep/Goat 
+ Camel 
+ Cattle 
+ Sheep/Goat
+=== PAGE 31 ===
+Annual Statistical Bulletin  |  June 2026
+25
+Central Bank of Somalia
+Table 3.8.2 Animal Skin & Hides, and Fresh Meat, Volume and Value in Tons (2022-2025)    
+Skin & Hides
+Fresh Meat
+Year 
+ Month 
+Volume
+Value
+Volume
+Value
+2022
+Month
+Volume
+Value
+Volume
+Value
+January
+9,200
+616,500
+658
+427,375
+February
+11,600
+546,000
+991
+644,150
+March
+5,250
+577,500
+409
+265,525
+April
+7,060
+416,750
+164
+109,545
+May
+5,100
+268,500
+0
+0
+June
+8,800
+503,000
+897
+600,655
+July
+12,750
+670,000
+167
+1,082,250
+August
+16,860
+673,800
+491
+3,188,250
+September
+12,675
+771,000
+655
+4,255,875
+October
+14,500
+735,000
+404
+2,627,625
+November
+11,000
+662,000
+450
+2,923,375
+2023
+December
+12,605
+603,150
+487
+3,163,875
+January
+10,452
+-
+422
+-
+February
+7,208
+360,400
+488
+2,928,000
+March
+5,088
+314,400
+284
+1,704,000
+April
+3,292
+186,360
+-
+-
+May
+3,288
+98,640
+72
+468,000
+June
+1,976
+90,480
+214
+1,388,400
+July
+7,524
+308,920
+-
+-
+August
+6,768
+-
+-
+-
+September
+-
+-
+-
+-
+October
+5,464
+665,000
+136
+542,400
+November
+6,812
+726,200
+-
+-
+2024
+December
+6,080
+608,000
+-
+-
+January
+3,400
+1,997,500
+69
+296,700
+February
+2,012
+1,352,000
+72
+309,600
+March
+2,103
+1,712,000
+87
+374,100
+April
+1,080
+476,000
+18
+81,000
+May
+1,973
+1,829,000
+52
+234,000
+June
+770
+137,000
+35
+155,250
+July
+1,712
+544,000
+18
+81,375
+August
+1,650
+457,000
+91
+726,000
+September
+2,110
+411,000
+-
+-
+October
+2,242
+479,560
+91
+425,243
+November
+1,340
+327,800
+18
+82,770
+December
+2,792
+737,760
+92
+426,638
+3.8.2	 Export: Livestock Products
+=== PAGE 32 ===
+Annual Statistical Bulletin  |  June 2026
+26
+Central Bank of Somalia
+Source: MoF, with CBS Valuation & Adjustments, 2025
+Table 3.8.3 Crops & Vegetable Oil Productions in Volume and Value (US Dollar, 2022-2025)
+SESAME SEED (BAGS)
+SESEME OIL (LITTERS)
+DRY LEMON (BAGS)
+Year 
+ Month 
+Volume
+Value
+Volume
+Value
+Volume
+Value
+2022
+January
+15,727
+1,415,430
+3,050
+244,000
+13,068
+1,306,800
+February
+33,588
+3,022,920
+768
+61,440
+19,161
+1,916,100
+March
+51,050
+4,594,500
+1,230
+98,400
+9,768
+1,776,000
+April
+22,570
+2,031,300
+2,060
+164,800
+8,280
+828,000
+May
+63,549
+5,719,410
+3,159
+252,720
+6,210
+621,000
+June
+35,610
+3,204,900
+-
+-
+5,058
+505,800
+July
+6,120
+477,360
+1,537
+76,850
+1,380
+57,960
+August
+38,080
+2,970,240
+1,259
+62,950
+3,640
+152,880
+September
+50,510
+3,939,780
+1,605
+80,250
+7,080
+297,360
+October
+61,891
+5,570,190
+2,250
+135,000
+9,410
+376,400
+November
+11,780
+1,060,200
+1,700
+102,000
+73,625
+2,945,000
+December
+11,640
+1,047,600
+1,609
+96,540
+9,430
+377,200
+2023
+January
+-
+-
+450
+54,000
+13,570
+1,628,400
+February
+182
+24,570
+-
+-
+18,210
+2,185,200
+March
+-
+-
+1,499
+179,880
+17,250
+2,070,000
+April
+1,122
+100,980
+-
+-
+9,660
+1,207,500
+May
+860
+77,400
+1,259
+88,130
+12,270
+1,533,750
+June
+-
+-
+1,750
+131,250
+8,050
+1,006,250
+July
+1,800
+154,800
+2,959
+257,433
+12,420
+1,552,500
+August
+39,600
+3,405,600
+1,644
+143,028
+68,164
+8,520,500
+September
+-
+-
+-
+-
+-
+-
+October
+18,000
+1,530,000
+1,940
+271,600
+11,350
+964,750
+November
+680
+57,800
+1,000
+140,000
+12,190
+1,036,150
+December
+-
+-
+1,696
+237,440
+10,580
+899,300
+3.8.3	 Export: Crops and Vegetable Oil 
+2025
+January
+1,332
+605,880
+187
+1,193,920
+February
+1,100
+385,000
+1,654
+10,584,640
+March
+2,020
+222,200
+1,350
+675,000
+April
+1,145
+504,560
+19
+85,860
+May
+2,091
+1,938,740
+55
+248,040
+June
+816
+145,220
+37
+164,565
+July
+14,250
+562,748
+107
+888,307
+August
+59,250
+2,449,292
+34
+282,207
+September
+36,150
+1,438,133
+52
+435,191
+October
+45,050
+1,778,240
+47
+404,814
+November
+57,200
+243,079
+68
+454,946
+December
+33,550
+1,140,723
+88
+784,271
+Skin & Hides
+Fresh Meat
+Year 
+ Month 
+Volume
+Value
+Volume
+Value
+=== PAGE 33 ===
+Annual Statistical Bulletin  |  June 2026
+27
+Central Bank of Somalia
+SESAME SEED (BAGS)
+SESEME OIL (LITTERS)
+DRY LEMON (BAGS)
+Year 
+ Month 
+Volume
+Value
+Volume
+Value
+Volume
+Value
+2024
+January
+5,400
+567,000
+4,109
+357,483
+17,050
+1,636,800
+February
+11,160
+1,171,800
+1,600
+139,200
+8,730
+838,080
+March
+71,340
+7,490,700
+1,800
+156,600
+2,760
+264,960
+April
+64,240
+7,066,400
+4,629
+2,664,000
+1,380
+138,000
+May
+47,280
+5,200,800
+3,859
+347,310
+460
+46,000
+June
+62,620
+6,888,200
+3,500
+315,000
+2,760
+276,000
+July
+26,640
+2,930,400
+5,819
+535,348
+-
+-
+August
+18,360
+2,019,600
+3,308
+304,336
+9,200
+874,000
+September
+82,180
+9,039,800
+3,768
+346,656
+16,080
+1,527,600
+October
+38,410
+4,225,100
+4,379
+402,868
+31,035
+2,948,325
+November
+21,960
+2,415,600
+1,340
+123,280
+38,338
+3,642,110
+December
+13,100
+1,441,000
+900
+82,800
+17,250
+1,638,750
+2025
+January
+9,000
+990,000
+3,919
+1,410,840
+19,312
+1,853,952
+February
+5,860
+644,600
+2,500
+900,000
+11,030
+1,058,880
+March
+15,200
+1,672,000
+320
+115,200
+5,290
+507,840
+April
+68,737
+7,561,048
+4,953
+2,850,480
+1,477
+147,660
+May
+50,590
+5,564,856
+4,129
+371,622
+492
+49,220
+June
+67,003
+7,370,374
+3,745
+337,050
+2,953
+295,320
+July
+1,033,000
+3,690,909
+55,180
+262,878
+985,500
+1,760,596
+August
+984,000
+3,515,832
+85,180
+405,798
+331,250
+591,778
+September
+1,078,000
+3,851,694
+32,400
+154,354
+741,250
+1,324,243
+October
+360,000
+1,317,827
+68,360
+333,754
+2,455,900
+4,495,847
+November
+54,000
+35,621,046
+26,480
+93,317
+390,000
+73,804,110
+December
+18,000
+27,454
+49,738
+252,865
+423,500
+781,093
+Source: MoF, with CBS Valuation & Adjustments, 2025
+Table 3.9 Top Trade Partners (Exports & Imports, 2022-2025)
+3.9	 Top Trade Partners 
+Export: Top Ten Trade Partners 
+Import: Top Ten Trade Partners
+Year 
+Countries
+Trade Value (US$)
+Countries
+Trade Value (US$)
+2022
+United Arab Emirates
+170,861,758
+United Arab Emirates
+2,541,819,080
+Oman
+160,280,513
+China
+1,111,420,525
+Saudi Arabia
+137,985,549
+India
+966,309,755
+Nigeria
+39,730,839
+Türkiye
+409,487,094
+Bulgaria
+19,373,768
+Oman
+273,273,391
+Yemen
+18,469,715
+Kenya
+144,365,975
+India
+15,634,835
+Malaysia
+133,845,496
+Germany
+9,689,358
+Indonesia
+100,184,215
+Bahrain
+9,483,147
+United States
+93,388,128
+Qatar
+9,224,797
+Pakistan
+89,160,992
+=== PAGE 34 ===
+Annual Statistical Bulletin  |  June 2026
+28
+Central Bank of Somalia
+Source: IMF and UN-Comtrade with CBS Adjustments, 2025
+*Source Data for 2025 is only from the IMF.
+2023
+United Arab Emirates
+339,181,820
+United Arab Emirates
+2,841,000,000
+Saudi Arabia
+266,576,919
+China
+1,098,157,373
+Oman
+170,269,307
+India
+826,236,594
+Djibouti
+79,428,482
+Türkiye
+450,440,742
+India
+56,070,638
+Oman
+271,993,586
+Yemen
+17,033,172
+Brazil
+185,078,430
+Qatar
+12,442,645
+Kenya
+164,534,160
+Bahrain
+8,108,492
+Ethiopia
+150,686,307
+Japan
+7,612,553
+Malaysia
+129,132,415
+Germany
+6,600,564
+Indonesia
+102,893,626
+2024
+United Arab Emirates
+348,396,683
+United Arab Emirates
+2,972,000,000
+Saudi Arabia
+332,224,031
+China
+1,027,280,871
+Oman
+224,910,831
+India
+851,525,416
+India
+63,074,417
+Türkiye
+424,926,094
+Djibouti
+59,284,804
+Oman
+302,634,160
+Türkiye
+20,824,663
+Kenya
+173,581,023
+Qatar
+17,815,938
+Brazil
+163,337,966
+Bahrain
+15,179,186
+Egypt
+130,295,332
+Yemen
+14,391,127
+Malaysia
+103,447,990
+Japan
+6,533,416
+Pakistan
+93,672,610
+2025*
+United Arab Emirates
+ 372,760,920
+China
+1,085,577,557
+Saudi Arabia
+ 318,792,218
+India
+822,645,874
+Oman
+ 263,327,327
+Oman
+ 380,804,283 
+Djibouti
+ 51,238,954
+Türkiye,
+ 335,834,032
+India
+ 31,775,824
+Ethiopia
+ 277,103,049 
+Bahrain
+ 19,132,903
+Kenya
+ 151,133,458 
+Yemen
+ 13,379,584
+Brazil
+ 133,656,002 
+Egypt
+ 12,987,593 
+Malaysia
+ 119,350,935 
+Kuwait
+ 12,140,259
+Indonesia
+ 116,689,161
+Kenya
+ 4,724,517
+Egypt
+ 101,737,636
+Export: Top Ten Trade Partners 
+Import: Top Ten Trade Partners
+Year 
+Countries
+Trade Value (US$)
+Countries
+Trade Value (US$)
+=== PAGE 35 ===
+Annual Statistical Bulletin  |  June 2026
+29
+Central Bank of Somalia
+Source: MoF, 2025
+Table 4.1 Revenue, Grants and Expenditure in Millions USD (2022-2025)
+4.0	Public Finance
+REVENUE
+EXPENDITURE
+Fiscal 
+Year 
+Fiscal 
+Quarterly
+Revenue 
+Grants 
+Received 
+Revenue & 
+Grants Total
+Total 
+Recurrent 
+Expenditure
+Total Capital 
+Expenditure 
+Total 
+Expenditure
+DEFICIT (-) 
+SURLUS (+)
+2022
+Q1
+57.4
+20.5
+77.9
+92.8
+1.5
+94.3
+-16.4
+Q2
+58.4
+101.0
+159.4
+168.5
+2.7
+171.2
+-11.8
+Q3
+56.8
+160.2
+217
+153.6
+2.8
+156.4
+60.6
+Q4
+90.2
+177.5
+267.7
+303.3
+6.2
+309.5
+-41.8
+2023
+Q1
+64.9
+16.1
+81.0
+101.1
+1.0
+102.1
+-21.2
+Q2
+72.3
+16.4
+88.6
+116.6
+2.3
+118.9
+-30.3
+Q3
+95.2
+167.4
+262.6
+177.0
+7.7
+184.7
+77.9
+Q4
+97.1
+208.7
+305.8
+311.2
+3.4
+314.6
+-8.7
+2024
+Q1
+91.7
+26.7
+118.4
+125.2
+1.2
+126.4
+-8.0
+Q2
+89.3
+166.4
+255.7
+246.8
+2.3
+249.1
+6.6
+Q3
+86.6
+174.9
+261.4
+186.5
+8.6
+195.1
+66.3
+Q4
+101.7
+175.5
+277.2
+318.2
+16.4
+334.6
+-57.5
+2025
+Q1
+93.8
+65.1
+158.9
+171.0
+15.6
+186.5
+-27.6
+Q2
+85.6
+82.3
+167.9
+180.1
+12.4
+192.5
+-24.6
+Q3
+106.5
+91.2
+197.7
+201.6
+6.8
+208.4
+-10.7
+Q4
+118.4
+276.9
+395.3
+343.9
+39.8
+383.7
+11.6
+4.1	 Revenue, Grants and Expenditure
+Composition of Government Revenue in Millions of US dollar
+Fiscal Year 
+Domestic Revenue
+External Grants
+Tax revenue
+Non-tax rev-
+enue
+Total Revenue
+ Current-Bi-
+lateral
+ Current-Multi-
+lateral
+Total Grants
+2022
+Q1
+41.8
+15.6
+57.4
+-
+20.5
+20.5
+Q2
+39.9
+18.5
+58.4
+29.6
+71.4
+101
+Q3
+39.7
+17.1
+56.8
+7.5
+152.7
+160.2
+Q4
+60.4
+29.8
+90.2
+-
+177.5
+177.5
+2023
+Q1
+45.4
+19.5
+64.9
+-
+16.1
+16.1
+Q2
+50.8
+21.5
+72.3
+0.8
+15.6
+16.4
+Q3
+66.3
+28.9
+95.2
+-
+167.4
+167.4
+Q4
+62.1
+35
+97.1
+-
+208.7
+208.7
+2024
+Q1
+65.8
+25.9
+91.7
+5.6
+21.1
+26.7
+Q2
+62.7
+26.6
+89.3
+11.0
+155.4
+166.4
+Q3
+62.5
+24.1
+86.6
+10.3
+164.6
+174.9
+Q4
+76.0
+25.7
+101.7
+2.8
+172.7
+175.5
+2025
+Q1
+68.2 
+ 25.6 
+ 93.8 
+ 10.3 
+54.8 
+65.1 
+Q2
+63.5 
+22.1 
+  85.6 
+    2.8 
+  79.5 
+82.3 
+Q3
+ 73.9 
+ 32.6 
+ 106.5 
+  2.1 
+  89.1 
+91.2 
+Q4
+77.0
+41.4
+ 118.4
+  3.4
+  273.5
+276.9
+Table 4.2 Composition of Government Revenue in Millions USD (2022-2025)
+Source: MoF, 2025
+=== PAGE 36 ===
+Annual Statistical Bulletin  |  June 2026
+30
+Central Bank of Somalia
+Fiscal Year 
+Total Capital Expenditure       Recurrent   Expenditure
+Compen-
+sation of 
+employees
+Use of 
+goods and 
+services
+Interest 
+& Other 
+Charges
+Subsi-
+dies
+Grants
+Social Ben-
+efits
+Total Recur-
+rent Expen-
+diture
+Consumption of 
+fixed capital
+2022
+Q1
+61.50
+18.00
+1.60
+0.10
+11.60
+-
+92.80
+1.50
+Q2
+63.40
+27.50
+4.80
+1.00
+27.0
+44.80
+168.50
+2.70
+Q3
+62.20
+34.20
+1.80
+0.70
+44.8
+9.90
+153.60
+2.80
+Q4
+72.50
+61.00
+4.50
+3.20
+27.9
+134.2
+303.30
+6.20
+2023
+Q1
+64.20
+19.70
+1.80
+0.30
+12.2
+3.0
+101.10
+1.00
+Q2
+67.90
+30.200
+4.50
+0.50
+13.6
+-
+116.60
+2.30
+Q3
+73.20
+36.00
+3.40
+4.00
+42.3
+17.30
+177.00
+7.70
+Q4
+87.00
+51.70
+3.50
+0.60
+58.3
+110.2
+311.20
+3.40
+2024
+Q1
+80.60
+28.10
+0.90
+1.70
+13.9
+0.00
+125.20
+1.20
+Q2
+82.20
+44.00
+0.90
+1.50
+35.60
+82.60
+246.80
+2.30
+Q3
+84.70
+52.30
+1.10
+2.00
+37.30
+9.20
+186.50
+8.60
+Q4
+94.10
+80.10
+4.60
+3.70
+73.50
+62.10
+318.20
+16.40
+2025
+Q1
+90.52
+42.4
+1.09
+0.08
+25.2
+0
+171
+15.56
+Q2
+84.84
+45.4
+1.83
+0.91
+29.6
+0
+150.1
+12.44
+Q3
+91.54
+67.1
+2.43
+6.24
+32.7
+0
+201.6
+6.84
+Q4
+ 104.04
+99.0
+  2.78
+5.39
+92.3
+19.11
+343.9
+ 39.80
+Table 4.3 Composition of Government Expenditure in Millions USD (2022-2025)
+Source: MoF, 2025
+Source: SNBS, 2025
+Table 5.1 Gross Domestic Product at Current & Constant Prices (2022-2025)
+5.0		 General Economic Indicators
+GDP by Expenditure, Current Prices, Million US Dollar
+Current Prices, Percentage Shares
+Expenditure items
+2022
+2023
+2024
+2025
+2022
+2023
+2024
+2025
+Household Final Consumption
+12,683
+14,116
+15,210
+16,307
+123.1
+124.7
+123.2
+123.2
+Government Final Consumption
+857
+890
+1,051
+1,162
+8.3
+7.9
+8.5
+8.8
+Gross Fixed Capital Formation
+2,413
+2,576
+2,678
+2,960
+23.4
+22.8
+21.7
+22.4
+Exports Of Goods and Services
+1,804
+1,984
+2,532
+2,689
+17.5
+17.5
+20.5
+20.3
+of which:   Livestock
+558
+861
+951
+923
+5.4
+7.6
+7.7
+7.0
+Minus: Imports of Goods and Services
+7,456
+8,249
+9,124
+9,884
+72.4
+72.9
+73.9
+74.7
+GDP of Purchaser Price
+10,301
+11,317
+12,348
+13,234
+100.0
+100.0
+100.0
+100.0
+GDP per Capita, US Dollars
+671
+717
+761
+793
+Gross National Expenditure
+15,952
+17,582
+18,939
+20,430
+Gross National Income
+10,416
+11,232
+12,632
+13,462
+Gross national disposable income 
+15,742
+14,970
+6,495
+17,299
+GDP by Expenditure, Constant Prices, Million US Dollars
+Constant Prices, Percent Annual Changes
+Expenditure items
+2022
+2023
+2024
+2025
+2022
+2023
+2024
+2025
+Household final consumption
+12,683
+13,280
+13,802
+14,256
+4.7
+4.7
+3.9
+3.3
+Government final consumption
+856
+880
+1,021
+1,114
+11.9
+2.8
+16.0
+9.2
+Gross fixed capital formation
+2,413
+2,756
+2,801
+2,962
+31.5
+14.2
+1.7
+5.8
+Exports of goods and Services
+1,804
+2,046
+2,357
+2,372
+13.7
+13.4
+15.2
+0.7
+of which: livestock
+558
+1,023
+917
+823
+6.8
+83.2
+-     10.3
+-  10.3
+Minus: Imports of goods and services
+7,456
+8,230
+8,816
+9,197
+18.8
+10.4
+7.1
+4.3
+GDP at Purchasers' prices 
+10,300
+10,731
+11,164
+11,508
+2.8
+4.2
+4.0
+3.1
+Gross National Expenditure
+15,952
+16,915
+17,624
+18,333
+5.1	 Gross Domestic Product at Current & Constant Prices
+=== PAGE 37 ===
+Annual Statistical Bulletin  |  June 2026
+31
+Central Bank of Somalia
+Table 5.2 Consumer Price Index (2022-2025)
+Year/Months 
+CPI Total 
+FOOD AND NON-ALCOHOLIC 
+BEVERAGES
+ALCOHOLIC BEVERAGES, 
+TOBACCO AND NARCOTICS
+CLOTHING AND FOOTWEAR
+HOUSING, WATER, ELECTRIC-
+ITY, GAS AND OTHER FUELS
+FURNISHINGS, HOUSEHOLD 
+EQUIPMENT AND ROUTINE 
+HOUSEHOLD MAINTENANCE
+HEALTH  
+TRANSPORT 
+INFORMATION AND COMMU-
+NICATION
+RECREATION, SPORT AND 
+CULTURE
+EDUCATION SERVICES
+RESTAURANTS AND ACCOM-
+MODATION SERVICES
+INSURANCE AND FINANCIAL 
+SERVICES
+PERSONAL CARE, SOCIAL 
+PROTECTION AND MIS-
+CELLANEOUS GOODS AND 
+SERVICES
+CPI 
+Weight
+100
+45.00
+0.69
+8.25
+18.13
+3.89
+1.52
+8.25
+3.79
+0.43
+2.30
+3.19
+0.27
+4.28
+2022 t=0 
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+23-Jan 
+102.67
+104.39
+110.28
+100.37
+100.74
+103.48
+104.26
+99.80
+99.49
+102.50
+101.02
+101.87
+103.33
+103.65
+23-Feb 
+103.33
+105.27
+107.94
+100.46
+100.49
+105.67
+104.13
+100.03
+100.32
+99.39
+99.89
+101.94
+104.13
+108.09
+23-Mar 
+103.19
+105.25
+107.00
+100.25
+100.89
+105.27
+101.87
+99.83
+99.97
+100.83
+100.33
+101.95
+104.12
+105.73
+23-Apr 
+105.44
+108.80
+107.78
+105.83
+101.53
+104.29
+104.29
+99.92
+99.50
+99.37
+99.89
+101.98
+105.67
+106.04
+23-May 
+105.63
+107.22
+108.93
+101.63
+103.08
+104.35
+101.47
+111.35
+101.12
+102.29
+101.02
+101.93
+105.76
+107.04
+23-Jun 
+106.71
+107.53
+107.62
+107.87
+104.11
+105.56
+104.75
+111.26
+101.42
+99.06
+99.89
+102.10
+107.18
+110.22
+23-Jul 
+108.14
+109.98
+107.92
+106.05
+106.74
+108.05
+101.56
+111.21
+101.31
+102.14
+101.62
+102.83
+108.29
+108.03
+23-Aug 
+107.33
+108.75
+108.28
+104.85
+106.83
+106.10
+102.01
+111.28
+102.16
+98.73
+100.49
+102.23
+106.86
+106.72
+23-Sep 
+108.52
+110.13
+107.28
+105.76
+107.99
+108.13
+104.11
+111.48
+103.79
+98.41
+99.35
+101.83
+108.62
+109.35
+23-Oct 
+108.16
+109.06
+105.09
+105.38
+107.21
+108.58
+102.51
+111.45
+103.43
+98.98
+101.42
+106.74
+107.13
+112.70
+23-Nov 
+108.44
+110.66
+106.29
+105.24
+105.58
+106.29
+103.94
+111.66
+103.59
+98.85
+101.49
+107.65
+107.67
+108.93
+23-Dec 
+108.83
+110.49
+105.24
+107.38
+106.64
+106.73
+104.51
+111.70
+103.58
+98.84
+101.49
+108.59
+108.50
+109.89
+24-Jan 
+108.25
+109.38
+100.19
+105.31
+103.33
+112.08
+110.13
+111.17
+101.92
+96.03
+93.63
+108.75
+107.90
+125.14
+24-Feb 
+108.83
+109.06
+101.97
+106.15
+104.13
+115.97
+109.61
+111.33
+102.77
+96.07
+102.52
+109.79
+107.56
+127.80
+24-Mar 
+108.57
+108.96
+102.03
+108.43
+104.16
+112.92
+110.79
+111.25
+102.12
+96.76
+101.23
+108.86
+107.56
+122.38
+24-Apr 
+110.33
+111.20
+101.65
+110.99
+104.82
+114.05
+110.18
+111.51
+102.13
+99.28
+101.87
+109.79
+108.91
+128.62
+24-May 
+109.65
+110.32
+100.96
+109.75
+105.09
+114.09
+113.24
+111.46
+101.68
+96.45
+100.82
+111.20
+109.10
+123.08
+24-Jun 
+109.07
+108.70
+101.72
+110.96
+106.14
+114.16
+109.02
+110.85
+100.71
+99.93
+102.82
+111.86
+108.96
+122.34
+24-Jul 
+110.61
+110.46
+101.44
+108.29
+107.58
+115.09
+112.26
+121.25
+101.49
+96.61
+98.87
+110.82
+109.96
+119.23
+24-Aug 
+110.16
+110.66
+102.10
+108.20
+105.80
+114.93
+116.45
+121.17
+100.60
+91.45
+93.98
+110.61
+109.36
+116.17
+24-Sept 
+110.01
+109.44
+101.61
+108.55
+106.09
+113.16
+113.70
+119.52
+101.68
+96.11
+99.18
+111.82
+108.99
+124.96
+24-Oct 
+110.9
+109.82
+101.94
+108.96
+108.08
+113.23
+111.59
+123.28
+103.21
+95.35
+98.78
+111.05
+109.42
+125.95
+24-Nov 
+110.63
+109.82
+101.68
+110.50
+108.03
+113.68
+111.83
+120.74
+102.91
+99.07
+99.11
+111.00
+109.15
+121.05
+24-Dec 
+111.17
+110.99
+100.43
+110.55
+108.79
+112.55
+111.95
+121.02
+102.08
+98.85
+99.37
+110.14
+109.25
+119.72
+25-Jan 
+112.54
+112.20
+98.40
+113.69
+108.02
+113.56
+112.31
+124.62
+95.69
+100.75
+100.51
+115.52
+110.03
+128.18
+25-Feb 
+112.36
+112.01
+97.93
+114.35
+108.83
+113.59
+110.39
+120.82
+96.12
+102.39
+101.14
+116.55
+110.00
+128.08
+25-Mar 
+112.71
+112.46
+99.27
+115.28
+110.19
+113.85
+112.31
+120.14
+94.06
+102.70
+103.20
+111.57
+109.82
+128.47
+25-Apr 
+114.21
+113.27
+99.52
+116.53
+112.29
+115.97
+113.87
+123.91
+94.34
+103.22
+103.88
+116.08
+109.77
+130.38
+25-May 
+114.21
+114.69
+99.08
+115.05
+111.97
+116.15
+114.33
+121.33
+94.22
+103.97
+101.22
+107.25
+110.06
+131.63
+25-Jun 
+111.41
+110.22
+97.63
+112.39
+109.39
+113.57
+115.79
+119.00
+95.03
+105.49
+103.56
+110.27
+108.27
+132.43
+25-Jul 
+113.59
+111.25
+99.40
+114.09
+110.40
+115.21
+118.05
+127.35
+99.63
+102.04
+106.84
+112.69
+112.43
+138.85
+25-Aug 
+113.78
+112.49
+99.98
+113.63
+110.81
+116.17
+118.53
+125.60
+99.19
+101.49
+105.02
+112.74
+109.38
+133.17
+25-Sep 
+114.49
+114.99
+101.23
+113.08
+110.85
+117.30
+119.83
+118.79
+96.36
+102.79
+105.13
+116.35
+110.22
+134.66
+25-Oct 
+115.28
+115.56
+101.95
+114.14
+112.57
+118.57
+119.94
+118.85
+96.45
+103.06
+105.69
+117.71
+110.08
+135.25
+25-Nov 
+115.99
+116.44
+98.95
+112.78
+112.02
+113.63
+118.53
+122.27
+101.05
+102.53
+104.12
+128.06
+110.63
+135.20
+25-Dec 
+117.03
+118.58
+97.93
+114.92
+113.48
+116.04
+125.89
+116.27
+100.73
+101.57
+107.94
+126.54
+110.99
+132.74
+5.2	 Consumer Price Index 
+Source: SNBS, 2025
+=== PAGE 38 ===
+Annual Statistical Bulletin  |  June 2026
+32
+Central Bank of Somalia
+5.3	 Prices: Cereal Prices for Some Selected Regions
+Source: FSNAU/with CBS Price Adjustments of SOS to US Dollar, 2025
+Type of 
+Cereals
+Cowpeas 1kg
+Local Sesame Oil 1 liter
+Red Sorghum 1kg
+Red Sorghum 50kg
+White Maize 1kg
+White Maize 50kg
+Year/
+Month
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+Jan
+1.5
+1.0
+1.0
+4.1
+4.1
+3.2
+0.6
+0.5
+0.4
+24.4
+20.7
+20.1
+0.6
+0.5
+0.6
+24.7
+20.9
+21.7
+Feb
+1.6
+0.9
+1.1
+4.3
+4.2
+3.2
+0.6
+0.5
+0.5
+25.9
+21.2
+21.4
+0.5
+0.5
+0.6
+26.2
+20.3
+21.9
+Mar
+1.6
+0.9
+1.1
+4.2
+3.9
+3.1
+0.6
+0.5
+0.5
+26.3
+20.3
+21.2
+0.5
+0.5
+0.6
+25.1
+21.4
+22.4
+Apr
+1.5
+1.0
+1.1
+4.1
+3.7
+2.9
+0.6
+0.5
+0.4
+24.9
+22.3
+20.2
+0.5
+0.6
+0.6
+24.8
+21.4
+21.2
+May
+1.3
+1.0
+1.1
+3.9
+3.7
+2.9
+0.6
+0.5
+0.5
+24.0
+22.5
+19.9
+0.5
+0.6
+0.5
+23.3
+20.0
+19.9
+Jun
+1.2
+0.9
+1.1
+4.1
+3.7
+3.0
+0.5
+0.5
+0.5
+24.2
+22.5
+19.9
+0.5
+0.6
+0.5
+23.4
+21.3
+20.2
+Jul
+1.2
+0.9
+1.0
+3.9
+3.6
+2.6
+0.5
+0.5
+0.4
+24.0
+21.5
+19.3
+0.5
+0.6
+0.5
+22.8
+22.9
+20.0
+Aug
+1.0
+0.9
+0.8
+4.2
+3.5
+2.6
+0.5
+0.4
+0.4
+22.3
+16.8
+18.4
+0.4
+0.6
+0.5
+21.2
+24.1
+19.6
+Sep
+0.9
+1.0
+0.8
+3.9
+3.6
+2.6
+0.5
+0.4
+0.4
+21.8
+17.5
+18.6
+0.4
+0.6
+0.5
+17.9
+25.0
+20.0
+Oct
+0.9
+1.0
+0.7
+3.9
+3.3
+2.5
+0.5
+0.4
+0.4
+21.4
+15.9
+20.3
+0.4
+0.5
+0.5
+16.9
+22.5
+17.3
+Nov
+0.9
+1.0
+0.7
+3.9
+3.5
+2.4
+0.5
+0.4
+0.4
+19.5
+18.1
+19.3
+0.5
+0.6
+0.4
+17.5
+21.8
+16.3
+Dec
+1.0
+0.9
+0.8
+4.1
+3.0
+2.4
+0.5
+0.4
+0.4
+22.2
+19.3
+19.2
+0.5
+0.5
+0.4
+20.2
+18.7
+18.3
+Table 5.3.1 Benadir (Mogadishu) US Dollar, 2023-2025
+Type of 
+Cereals
+Cowpeas 1kg
+Local Sesame Oil 1 liter
+Red Sorghum 1kg
+Red Sorghum 50kg
+White Maize 1kg
+White Maize 50kg
+Year/
+Month
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+Jan
+1.4
+1.0
+1.0
+5.3
+3.0
+2.3
+0.8
+0.7
+0.6
+36.8
+35.1
+30.2
+0.3
+0.4
+0.3
+16.1
+17.8
+15.3
+Feb
+1.5
+1.0
+1.0
+5.0
+2.4
+2.4
+0.8
+0.6
+0.7
+36.8
+31.9
+31.9
+0.4
+0.3
+0.4
+16.5
+15.0
+16.3
+Mar
+1.4
+0.9
+1.0
+5.0
+2.4
+2.7
+0.7
+0.5
+0.6
+34.6
+26.1
+31.1
+0.3
+0.4
+0.4
+16.0
+20.3
+21.2
+Apr
+1.4
+0.9
+0.9
+4.6
+2.4
+2.6
+0.7
+0.6
+0.6
+34.0
+26.6
+30.8
+0.4
+0.4
+0.4
+17.6
+20.7
+22.1
+May
+1.4
+0.9
+0.9
+4.7
+2.4
+2.9
+0.7
+0.6
+0.6
+33.9
+28.8
+31.4
+0.3
+0.5
+0.4
+16.1
+25.2
+22.1
+Jun
+1.3
+0.9
+0.9
+3.4
+2.4
+3.1
+0.7
+0.6
+0.6
+32.4
+28.4
+31.5
+0.3
+0.5
+0.4
+15.3
+19.0
+18.5
+Jul
+1.3
+0.9
+0.8
+3.4
+2.4
+3.0
+0.7
+0.6
+0.6
+32.9
+28.3
+31.5
+0.3
+0.5
+0.4
+14.1
+22.1
+20.0
+Aug
+1.3
+0.8
+0.8
+3.3
+2.4
+3.0
+0.7
+0.6
+0.6
+32.6
+28.3
+31.5
+0.3
+0.6
+0.4
+13.9
+20.3
+19.7
+Sep
+1.3
+0.9
+0.8
+3.3
+2.5
+2.9
+0.7
+0.6
+0.6
+32.1
+29.5
+28.5
+0.3
+0.3
+0.3
+13.4
+15.6
+16.6
+Oct
+1.3
+0.8
+0.9
+3.3
+2.4
+2.9
+0.8
+0.6
+0.6
+37.0
+25.5
+28.7
+0.3
+0.3
+0.3
+13.3
+13.2
+16.4
+Nov
+1.4
+0.9
+0.9
+3.2
+2.3
+3.0
+0.7
+0.6
+0.8
+34.6
+27.4
+38.1
+0.3
+0.3
+0.4
+15.9
+14.5
+18.8
+Dec
+1.3
+1.0
+1.0
+3.4
+2.4
+2.8
+0.7
+0.6
+0.7
+35.5
+27.4
+36.8
+0.4
+0.3
+0.4
+16.8
+16.2
+22.0
+Table 5.3.2 Middle Shabelle (Jowhar) US Dollar, 2023-2025
+Source: FSNAU/with CBS Price Adjustments of SOS to US Dollar, 2025
+=== PAGE 39 ===
+Annual Statistical Bulletin  |  June 2026
+33
+Central Bank of Somalia
+Type of 
+Cereals
+Cowpeas 1kg
+Local Sesame Oil 1 liter
+Red Sorghum 1kg
+Red Sorghum 50kg
+White Maize 1kg
+White Maize 50kg
+Year/
+Month
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+Jan
+1.5
+0.7
+1.1
+4.4
+4.4
+4.2
+0.5
+0.5
+0.4
+22.7
+20.6
+16.4
+0.5
+0.6
+0.4
+26.3
+26.1
+18.7
+Feb
+1.3
+0.7
+1.2
+4.6
+4.4
+4.2
+0.4
+0.3
+0.3
+17.3
+16.4
+15.6
+0.5
+0.4
+0.4
+21.0
+20.4
+17.9
+Mar
+1.4
+0.7
+1.2
+4.6
+4.4
+4.3
+0.4
+0.3
+0.4
+16.3
+13.8
+15.5
+0.5
+0.4
+0.5
+18.1
+19.1
+19.0
+Apr
+1.6
+0.8
+1.2
+4.4
+4.5
+4.2
+0.4
+0.3
+0.3
+16.0
+12.3
+15.8
+0.5
+0.5
+0.4
+17.8
+23.2
+18.0
+May
+1.5
+0.9
+1.1
+4.5
+4.7
+4.0
+0.3
+0.3
+0.3
+14.5
+11.7
+13.5
+0.5
+0.5
+0.4
+16.0
+24.6
+16.9
+Jun
+1.3
+1.0
+1.0
+4.6
+4.6
+4.2
+0.3
+0.3
+0.3
+12.2
+13.8
+13.3
+0.5
+0.5
+0.4
+13.1
+24.5
+15.9
+Jul
+1.1
+0.9
+0.8
+4.6
+3.5
+4.1
+0.3
+0.3
+0.3
+11.2
+12.2
+12.2
+0.4
+0.5
+0.3
+11.5
+22.2
+14.5
+Aug
+0.9
+1.0
+0.7
+4.6
+4.4
+3.7
+0.3
+0.3
+0.2
+11.4
+10.6
+11.1
+0.4
+0.4
+0.3
+11.3
+16.5
+14.0
+Sep
+0.9
+1.1
+0.8
+4.6
+4.4
+3.6
+0.3
+0.3
+0.3
+12.0
+11.1
+10.9
+0.5
+0.4
+0.3
+11.5
+14.6
+13.9
+Oct
+0.9
+1.1
+0.8
+4.5
+4.2
+3.6
+0.3
+0.3
+0.3
+12.5
+13.5
+13.7
+0.5
+0.3
+0.3
+12.1
+15.8
+14.3
+Nov
+0.9
+1.1
+1.5
+4.5
+4.1
+3.5
+0.3
+0.3
+0.4
+13.7
+14.8
+18.2
+0.5
+0.4
+0.4
+13.6
+17.5
+18.1
+Dec
+0.8
+1.1
+1.2
+4.4
+4.2
+3.6
+0.5
+0.3
+0.5
+20.9
+14.7
+22.7
+0.6
+0.4
+0.5
+23.7
+17.4
+21.9
+Source: FSNAU/with CBS Price Adjustments of SOS to US Dollar, 2025
+Table 5.3.3 Bay (Baidoa) US Dollar, 2023-2025
+Source: FSNAU/with CBS Price Adjustments of SOS to US Dollar, 2025
+Table 5.3.4 Hiran (Beledweyne) US Dollar, 2023-2025
+Type of 
+Cereals
+Cowpeas 1kg
+Local Sesame Oil 1 liter
+Red Sorghum 1kg
+Red Sorghum 50kg
+White Maize 1kg
+White Maize 50kg
+Year/
+Month
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+Jan
+1.6
+1.2
+1.1
+4.3
+3.9
+2.6
+0.4
+0.6
+0.6
+18.1
+24.5
+24.1
+0.4
+0.6
+0.5
+24.0
+24.4
+20.9
+Feb
+1.7
+1.1
+1.2
+4.6
+3.3
+2.7
+0.4
+0.5
+0.5
+17.2
+21.0
+20.8
+0.4
+0.5
+0.5
+22.7
+22.3
+20.1
+Mar
+1.7
+1.0
+1.2
+4.5
+3.1
+2.7
+0.5
+0.4
+0.5
+21.0
+18.6
+20.7
+0.5
+0.5
+0.5
+23.1
+21.0
+18.7
+Apr
+1.6
+1.0
+1.2
+4.3
+2.9
+2.7
+0.4
+0.4
+0.5
+20.3
+18.6
+21.7
+0.4
+0.5
+0.5
+21.3
+21.9
+18.8
+May
+1.6
+1.0
+1.2
+4.3
+4.1
+2.7
+0.4
+0.7
+0.5
+19.0
+36.4
+22.5
+0.4
+0.5
+0.5
+18.7
+17.7
+20.3
+Jun
+1.6
+1.0
+1.1
+4.4
+2.7
+2.8
+0.5
+0.5
+0.5
+20.3
+19.6
+18.8
+0.5
+0.5
+0.5
+22.8
+20.5
+17.4
+Jul
+1.4
+1.1
+1.1
+4.3
+2.7
+2.7
+0.4
+0.5
+0.5
+18.5
+19.6
+22.4
+0.5
+0.5
+0.5
+21.3
+21.3
+20.0
+Aug
+1.3
+1.1
+1.2
+4.0
+2.8
+2.7
+0.5
+0.5
+0.5
+22.9
+21.1
+21.7
+0.5
+0.5
+0.5
+23.1
+22.5
+19.8
+Sep
+1.3
+1.1
+1.1
+3.9
+2.8
+2.8
+0.5
+0.5
+0.5
+22.9
+20.4
+23.3
+0.5
+0.6
+0.4
+23.3
+23.7
+19.5
+Oct
+1.1
+1.1
+1.1
+3.7
+2.6
+2.7
+-
+0.5
+0.4
+-
+22.8
+21.1
+0.5
+0.6
+0.4
+24.8
+23.9
+18.6
+Nov
+1.1
+1.1
+1.2
+3.6
+2.6
+2.5
+-
+0.6
+0.5
+-
+24.1
+22.0
+0.6
+0.5
+0.4
+27.6
+22.4
+19.5
+Dec
+1.2
+1.1
+1.2
+6.6
+2.6
+2.9
+0.6
+0.6
+0.5
+26.8
+24.1
+29.6
+0.6
+0.5
+0.4
+2.9
+22.5
+18.4
+=== PAGE 40 ===
+Annual Statistical Bulletin  |  June 2026
+34
+Central Bank of Somalia
+Source: FSNAU/with CBS Price Adjustments of SOS to US Dollar, 2025
+Table 5.3.5 Lower Juba (Kismayo) US Dollar, 2023-2025
+Type of 
+Cereals
+Cowpeas 1kg
+Local Sesame Oil 1 liter
+Red Sorghum 1kg
+Red Sorghum 50kg
+White Maize 1kg
+White Maize 50kg
+Year/
+Month
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+2023
+2024
+2025
+Jan
+1.5 
+1.3 
+1.2
+4.3 
+4.6 
+3.3
+0.4 
+0.4 
+0.4
+19.9 
+17.8 
+17.3
+0.5 
+0.5 
+0.5
+20.8 
+21.6 
+23.0
+Feb
+1.5 
+1.3 
+1.2
+4.8 
+4.6 
+3.4
+0.5 
+0.4 
+0.4
+21.0 
+17.8 
+18.7
+0.5 
+0.5 
+0.5
+21.5 
+21.5 
+23.2
+Mar
+1.3 
+1.3 
+1.2
+4.9 
+4.6 
+2.9
+0.4 
+0.4 
+0.4
+20.0 
+17.8 
+19.0
+0.5 
+0.5 
+0.5
+20.5 
+20.9 
+24.6
+Apr
+1.3 
+1.3 
+1.1
+4.8 
+4.7 
+2.9
+0.4 
+0.4 
+0.4
+19.4 
+18.2 
+18.3
+0.4 
+0.5 
+0.5
+19.6 
+21.8 
+24.3
+May
+1.4 
+1.3 
+1.2
+4.8 
+4.5 
+2.7
+0.4 
+0.4 
+-
+18.3 
+19.6 
+-
+0.4 
+0.5 
+0.6
+19.3 
+22.0 
+24.8
+Jun
+1.5 
+1.2 
+1.2
+4.9 
+4.5 
+2.2
+0.4 
+0.4 
+-
+18.5 
+19.6 
+-
+0.4 
+0.5 
+0.5
+19.5 
+21.8 
+22.6
+Jul
+1.5 
+1.2 
+1.1
+5.0 
+4.5 
+3.2
+0.4 
+0.5 
+ 
+18.5 
+16.0 
+ 
+0.4 
+0.4 
+0.5
+20.0 
+20.9 
+23.0
+Aug
+1.4 
+1.2 
+1.2
+5.0 
+4.1 
+2.6
+0.4 
+0.2 
+ -
+17.1 
+0.0 
+ -
+0.4 
+0.5 
+0.5
+19.2 
+23.9 
+22.9
+Sep
+1.2 
+1.4 
+1.5
+4.8 
+4.4 
+3.6
+0.3 
+0.4 
+ -
+16.6 
+17.9 
+ -
+0.4 
+0.5 
+0.6
+18.8 
+22.7 
+23.0
+Oct
+1.1 
+1.4 
+1.2
+4.5 
+4.2 
+3.2
+0.3 
+0.4 
+-
+16.3 
+20.5 
+-
+0.4 
+0.6 
+0.5
+18.4 
+23.5 
+19.9
+Nov
+1.2 
+1.4 
+1.0
+4.5 
+2.5 
+3.1
+0.5 
+0.4 
+-
+21.4 
+17.2 
+-
+0.5 
+0.5 
+0.5
+21.5 
+21.8 
+15.7
+Dec
+1.4 
+1.1 
+1.2
+4.7 
+3.0 
+3.0
+0.5 
+0.4 
+-
+21.0 
+17.2 
+-
+0.5 
+0.5 
+0.6
+22.5 
+22.2 
+23.6
+=== PAGE 41 ===
+CENTRAL BANK OF SOMALIA
+info@centralbank.gov.so
+www.centralbank.gov.so
+@CBSsomalia
+Central Bank of Somalia

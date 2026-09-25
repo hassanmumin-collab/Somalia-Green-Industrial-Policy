@@ -1,0 +1,65 @@
+Fact-check verdicts, batch 3 (C-0061 to C-0090), 2026-09-23. Notes: C-0064 confirmed as installed capacity (42 MW of 345 MW, p. 25); C-0082 currency is USD per p. 24 (5.17 + 6.33 = 11.50 US$ billion); C-0083/84 tariff year not stated, p. 36 gives an average of US$0.60/kWh; C-0079 LPG quantity not stated as annual or cumulative.
+
+C-0061: PASS
+
+C-0062: PASS
+
+C-0063: PASS
+
+C-0064: PASS
+
+C-0065: PASS
+
+C-0066: PASS
+
+C-0067: PASS
+
+C-0068: PASS
+
+C-0069: PASS
+
+C-0070: PASS
+
+C-0071: PASS
+
+C-0072: PASS
+
+C-0073: PASS
+
+C-0074: PASS
+
+C-0075: PASS
+
+C-0076: PASS
+
+C-0077: PASS
+
+C-0078: PASS
+
+C-0079: PASS
+
+C-0080: PASS
+
+C-0081: PASS
+
+C-0082: PASS
+
+C-0083: PASS
+
+C-0084: PASS
+
+C-0085: FAIL
+  Reason: The 71 percent is the share with Tier 1 or higher access (at least 4 hours a day), from preliminary 2025 MTF results (p. 37, footnote 11); about three-quarters have access in some form. Correction: 'Preliminary results from the 2025 Multi-Tier Framework survey show 71 percent of households with Tier 1 or higher electricity access (at least four hours a day); about three-quarters have access in some form.' Cite p. 37.
+
+C-0086: QUERY
+  Reason: 21 percent is the Tiers 3-5 share, which also requires affordability and other attributes, so it is not purely hours of supply; denominator (electrified households or all households) is ambiguous; results preliminary.
+
+C-0087: QUERY
+  Reason: 87 percent urban is Tier 1+ access from preliminary MTF results; statement should name the Tier 1+ definition and 'preliminary'.
+
+C-0088: QUERY
+  Reason: 43 percent rural is Tier 1+ access from preliminary MTF results; statement should name the Tier 1+ definition and 'preliminary'.
+
+C-0089: PASS
+
+C-0090: PASS

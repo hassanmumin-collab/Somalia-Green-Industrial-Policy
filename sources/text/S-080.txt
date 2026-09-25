@@ -1,0 +1,8024 @@
+=== PAGE 1 ===
+1
+AFRICA SOLAR
+OUTLOOK 2026
+A country-by-country review of the status
+of solar energy in Africa
+=== PAGE 2 ===
+www.jasolar.africa Q
+Stoge
+JAsoLAR
+Africa's No.
+Solar Modules Supplier
+JASOLAR
+JASOLAR I
+=== PAGE 3 ===
+3
+Table of Content
+01
+Words of gratitude
+02
+Getting the most out of this report
+03
+Analysis - solar in the world
+04
+Analysis - New information sources change 
+the picture for solar in Africa
+05
+Analysis - Africa fastest growing region in the 
+world in 2025
+06
+Analysis - storage supports the growth of 
+solar in Africa
+07
+Solar % in overall power generation
+08
+Analysis - Africa’s Solar Manufacturing 
+Moment: Building Industrial Capacity for a 
+Clean Energy Future 
+09
+Summary tables explained
+10
+Country comparison - Duties & Taxes
+11
+Country comparison - Electrification Rate & 
+Electricity Tariff
+12
+Country vignettes explained
+3
+=== PAGE 4 ===
+4
+Table of Content
+13
+Table of content - country links
+14
+Focus Article - JA Solar’s BESS Solution: 
+Enhancing Reliability and Efficiency for C&I 
+Microgrids
+15
+Focus Article - Efficient Capital Deployment 
+for C&I Solar Projects in Africa (Echosys 
+Invest)
+16
+Focus Article - Solar Power is reshaping 
+mining investment and operations in the DRC 
+(CrossBoundary Energy)
+17
+Focus Article - Africa's E-Mobility Revolution: 
+Kenya in the Driver's Seat (Intersolar Africa)
+18
+Focus Article – Key developments in South 
+Africa  2026 (SAPVIA)
+19
+Focus Article - Accelerating electricity access 
+in Zambia: Ascent Zambia and the shift 
+toward results-based electrification (ZARENA)
+20
+Thanks to peer reviewers
+21
+Thanks to AFSIA members
+22
+Meet the AFSIA team
+23
+AFSIA contacts
+4
+Husk Power
+=== PAGE 5 ===
+5
+It is with great pleasure that I present the sixth edition of the Africa Solar Outlook, 
+AFSIA’s flagship annual publication. In a sector where information is abundant but time 
+is limited, accessing reliable, relevant, and actionable insights remains a challenge for 
+many professionals. The Africa Solar Outlook is designed precisely to respond to this 
+need, offering a concise and pragmatic overview of the realities shaping the solar sector 
+across the African continent. At the same time, for readers wishing to explore specific 
+topics in greater depth, the report includes a curated selection of short articles 
+addressing key trends and developments influencing the industry. In this regard, the 
+Africa Solar Outlook continues to serve as a unique and valuable reference throughout 
+the year for anyone seeking to stay informed about solar markets in Africa.
+As with every edition, we remain fully aware that this report and the data it contains 
+are not flawless. Nevertheless, we are committed to continuously improving its 
+accuracy and depth through the systematic collection, validation, and cross-checking of 
+thousands of data points and information sources throughout the year. In a context 
+where official and verifiable data is often scarce, particularly across African markets, 
+this report draws on nearly a decade of dedicated research and data gathering. It is 
+today one of the most comprehensive and credible sources of solar market intelligence 
+available to our industry, and this achievement is the result of the sustained efforts of 
+many contributors.
+Words of gratitude
+AMMP
+=== PAGE 6 ===
+6
+Words of gratitude
+I would like to extend my sincere congratulations to Aline Uwimana for the 
+outstanding work delivered once again this year. Producing the Africa Solar 
+Outlook requires patience, rigor, and persistence, combining long periods of 
+independent research with extensive verification and validation processes. As 
+deadlines approach, this effort evolves into a collective undertaking involving 
+close collaboration with the wider AFSIA team and external partners. Over the 
+years, Aline has demonstrated exceptional ability in managing this complex 
+process, and this sixth edition further confirms her role in delivering one of the 
+industry’s most authoritative reference reports.
+I would also like to acknowledge Bill Mvumvaneza, who has continued to 
+strengthen our market intelligence efforts. His attention to detail and rapid 
+adaptation to the demanding timeline of this report have been instrumental, 
+and I am confident that his contribution will further enhance the quality and 
+scope of AFSIA’s analytical work going forward.
+This edition also reflects the invaluable contribution of our peer reviewers. A 
+growing network of experts generously dedicated their time to reviewing, 
+validating, and, where necessary, correcting country-level information. Their 
+commitment and professionalism play a crucial role in ensuring the credibility 
+and relevance of this publication, and I would like to express my sincere 
+appreciation for their support.
+Finally, I wish to express my deepest gratitude to our partners. Their generous 
+support enables us to uphold the high standards of quality and accessibility that 
+define the Africa Solar Outlook. Beyond supporting the publication, our partners 
+have also shared valuable insights into emerging trends and opportunities 
+shaping Africa’s solar industry. JA Solar, Echosys Invest, CrossBoundary Energy, 
+SAPVIA, Intersolar Africa, ZARENA : thank you for your continued commitment 
+to advancing solar energy across Africa alongside us.
+John van Zuylen
+CEO, AFSIA
+=== PAGE 7 ===
+7
+Solar energy in Africa holds significant social and economic potential and continues to 
+inspire professionals around the world. As a result, a growing volume of content is 
+published regularly on solar and renewable energy across the continent. However, 
+navigating this wealth of information or finding the time to review it all can often be 
+challenging.
+Each year, the Africa Solar Outlook report by AFSIA seeks to address this challenge by 
+offering a distinctive format and perspective on solar energy in Africa. The report is 
+structured around four core themes, which can be read as a single narrative or 
+consulted selectively depending on time constraints and areas of interest.
+First, the report presents a series of topical articles that reflect on the most significant 
+developments of the past year while highlighting key trends to monitor going forward. 
+These articles are not intended to serve as scientific analyses of the sector, but rather 
+to share observations based on the developments and patterns that stood out over the 
+course of the year. Where possible, these insights are supported by data drawn from 
+our projects database, which now includes 40,000+ projects at various stages of 
+development.
+Getting the most out 
+of this report
+Nextpower
+=== PAGE 8 ===
+8
+The Africa Solar Outlook also features a collection of concise country profiles covering 
+every nation on the continent. These vignettes allow readers to quickly extract critical 
+information throughout the year in response to specific needs. This section provides 
+fast access to verified and sourced data, helping readers understand the solar 
+landscape in individual countries and identify potential business opportunities.
+In addition, summary tables enable quick comparisons of country performance across 
+several key drivers shaping solar development in Africa.
+Finally, several AFSIA partners shares their perspectives through thought-provoking 
+opinion articles, drawing on years of hands-on experience in the field.
+The information presented in this report is based on publicly available sources as well 
+as numerous discussions with industry stakeholders. AFSIA recognizes that some solar 
+developments across Africa may not always be captured. Nevertheless, we firmly 
+believe that this report offers the most comprehensive overview of the solar sector on 
+the continent, underpinned by data collection efforts spanning more than a decade 
+and continuously cross-checked and updated on a daily basis.
+That said, even the most comprehensive report remains a snapshot in time, while the 
+solar industry continues to evolve rapidly. For access to continuously updated 
+information throughout the year, we encourage readers to consider becoming AFSIA 
+members. Membership provides access to our full suite of online platforms, including 
+the industry’s most extensive databases, updated daily. Members also benefit from 
+additional support services from the AFSIA team, including tailored research and 
+introductions to potential partners and clients. For further details on membership, 
+please feel free to contact our team to request a demo. Should you identify any 
+inaccuracies in this report, we would appreciate you reaching out to Aline, our 
+Market Intelligence Manager, so they can be addressed.
+This year, we are pleased to once again make the full report freely available, thanks 
+to the generous support of our partners. We strongly believe that transparent and 
+reliable information is essential to accelerating the growth of solar energy and 
+electricity access across Africa. Our conviction is that accurate information leads to 
+better 
+decision-making; 
+better 
+decision-making 
+enables 
+stronger 
+project 
+development; and stronger projects ultimately expand electricity access for millions 
+across the continent. We therefore hope this report contributes meaningfully to the 
+continued advancement of the solar industry in Africa. The support of our partners is 
+crucial in making this publication accessible to all, and we would like to extend our 
+sincere gratitude to them.
+=== PAGE 9 ===
+9
+The world had added between 544 and 660 GW of solar in 2025, once again 
+the most it has ever added in history
+Solar continues to grow at 
+impressive rate across the globe
+As mentioned in our previous reports, no official figures exist for global PV installations unfortunately. But a 
+comparison of various sources can help us identify a range of potential capacities and define a reasonably 
+acceptable figure for each year.  
+Here is an overview of the various sources we have taken into account:
+Organization
+2025 GW estimate
+Source
+Ember
+626
+link
+SolarPower Europe
+655
+link
+Bloomberg NEF
+655
+link
+IEA
+580 - 650
+link
+Rystad
+544
+link
+InfoLink
+660
+link
+Wood McKenzie
+577
+link
+Range / average
+544-660 / 618
+=== PAGE 10 ===
+10
+Installed capacity increased by 23% YoY
+In 2025, an estimated 618 GWp were added globally. This marks another record 
+year for solar capacity additions. As in previous years, it is remarkable to note 
+that the past year of solar installations has represented an addition of roughly 
+30% of all historically installed solar capacity. This has been the case for the past 
+5 years. As a result, the global total installed capacity has almost tripled since 
+2021 and almost quadrupled since 2020!
+Solar has once again experienced a solid growth in 2025, albeit lower than the 2 
+previous years. In 2025, the growth rate was 23% (618 GWp vs. 503 GWp), while 
+it is was 44% in 2024 (503 GWp vs. 350 GWp) and 46% in 2023 (350 GWp vs. 240 
+GWp).
+World
+Annual Installed
+Cumulative
+y-o-y Growth
+Growth vs History
+2016
+71.9
+300
+51%
+32%
+2017
+94.9
+395
+32%
+32%
+2018
+94.2
+489
+-1%
+24%
+2019
+101.3
+590
+8%
+21%
+2020
+126
+716
+24%
+21%
+2021
+191
+907
+52%
+27%
+2022
+240
+1,147
+26%
+26%
+2023
+350
+1,497
+46%
+31%
+2024
+503
+2,000
+44%
+34%
+2025
+618
+2,618
+23%
+31%
+=== PAGE 11 ===
+11
+Slower growth, but maybe on track on track to meet 2030 targets
+2025 may have seen a lower growth rate than in previous years, but the industry 
+remains on an exponential growth trajectory identified in previous reports.
+For many years, all industry experts have agreed that not enough was being 
+done to achieve the 2030 targets. However, 2025 may represent a turning point 
+as the exponential growth of renewables and solar in particular seems to 
+generate some divergent opinions about leading industry voices.
+In its most recent digital story called “Renewables Recap 2025: The Good, the 
+Bad and the Ugly” IRENA highlights that we are still falling short if the world is to 
+reach the 11.2 TW of renewables required by 2030. IRENA identifies that global 
+renewables are currently growing at an annual rate of 15%, and if this rate is 
+maintained over the next 4 years, that would take us to a total capacity of only 
+10.3 TW by 2030, leaving a gap of 0.9 TW. 
+41.6
+32.3
+30.1
+37
+39
+47.7
+71.9
+94.9
+94.2 101.3
+126
+191
+240
+350
+503
+618
+0
+100
+200
+300
+400
+500
+600
+700
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Global Annual Installed Capacity
+=== PAGE 12 ===
+12
+Slower growth, but maybe on track on track to meet 2030 targets
+On the other hand, energy think tank Ember’s analysis is a lot more positive 
+about our ability to reach the 2030 target. Based on capacity additions of the 
+last 3-5 years, Ember believes that there is a reasonable hope of meeting the 
+objective of tripling renewable capacity between 2023 and 2030. This growth of 
+solar, combined with the even steeper growth curve of storage, could 
+significantly redefine the global energy landscape. Ember specifically estimates 
+that global solar capacity will reach between 7 and 8 TWp by 2030. And if this is 
+achieved, it means solar power would represent 25% of all power generated by 
+2030. Given the growth of the most recent years, Ember calculated that it would 
+only require a modest 6% CAGR of solar over the period 2026-2030 to reach the 
+projected necessary installed capacity.
+But while 6% CAGR today sounds even more achievable than 1 year ago, some 
+major (non-solar) challenges remain. Adding significant solar capacities will have 
+a non-neglectable impact on power systems and grids. In many parts of the 
+world, these will require important upgrades to absorb all the solar power 
+expected to be added. BESS solutions can greatly soften this impact, but grid 
+upgrades are inevitable. These upgrades are relatively costly and lengthy and it 
+remains to be seen if they can be performed on time to meet target in various 
+parts of the globe.
+=== PAGE 13 ===
+13
+Renewables overtook coal in the global power generation mix for 
+the first time in 2025, solar’s domination further confirmed
+In yet another cutting-edge analysis in October 2025, energy think tank Ember 
+identified ground-breaking facts about global solar and wind performance. 
+During the first half of 2025, it appears that solar and wind have grown faster 
+than the global electricity demand. Over the first 6 months of 2025, solar and 
+wind have generated and additional 403 TWh of power (compared to same 
+period in 2024) while electricity demand has only grown by 369 TWh over the 
+same period of time. Solar and wind growth has therefore represented 109% of 
+the global electricity demand growth
+=== PAGE 14 ===
+14
+Renewables overtook coal in the global power generation mix for 
+the first time in 2025, solar’s domination further confirmed
+“We are seeing the first signs of a crucial turning point. Solar and wind are now 
+growing fast enough to meet the world’s growing appetite for electricity. This 
+marks the beginning of a shift where clean power is keeping pace with demand 
+growth. As costs of technologies continue to fall, now is the perfect moment to 
+embrace the economic, social and health benefits that come with increased solar, 
+wind and batteries.”
+More importantly, renewables also contributed more than coal to the global 
+energy mix for the first time ever in 2025 H1. Renewables grew by 363 TWh 
+(+7.7%) to reach 5,072 TWh, while coal generation fell by 31 TWh to 4,896 TWh. 
+As a result, renewables’ share of global electricity rose to 34.3% (from 32.7%), 
+while coal’s share fell to 33.1% (from 34.2%). This was made possible through a 
+strong rise in solar (+306 TWh) and to a lesser extent wind (+97 TWh) while 
+other renewables have slightly decreased. At the same time, coal also slightly 
+decreased by -0.6%. The immediate result that that CO2 emissions from the 
+power sector have not increased in this period. 
+Another noteworthy fact is that contrarily to popular belief, fossil generation fell 
+in China and India, but grew in the EU and the US. Ember estimates that the 
+decrease in India may be temporary, while in China it signals a more structural 
+shift in the power generation mix.
+As Małgorzata Wiatros-Motyka,  Senior Electricity 
+Analyst, Ember puts it
+=== PAGE 15 ===
+15
+What may be expected for the years to come?
+As highlighted in several AFSIA reports and events over the past 18 months, the 
+major change in the solar industry is driven by …  storage solutions. The new 
+technological developments and price points of storage solutions are pushing 
+back the boundaries of viable solar projects, almost totally deleting the 
+intermittent aspect of solar while remaining cost-competitive with other 
+traditional power generation technologies. Africa is now home to several 
+astonishing projects that were long considered as impossible (baseload PV+BESS 
+project at copper mine in DRC and 100 MWp/290MWh project in Mauritius at 
+$0.07/kWh). 
+This trend is unlikely to change and it is reasonable to believe that PV+BESS will 
+soon be the cheapest power generation option anywhere in the world.
+As a result, we may reasonably expect annual solar capacities to soon surpass 1 
+TWp/year.
+=== PAGE 16 ===
+16
+Thriving to provide the most 
+accurate data about solar in Africa
+Since its very early days, AFSIA has been focusing on data about solar in Africa as we believe that good 
+business and policy decisions can only be made based on good data. In more mature markets, 
+institutions are in place to collect correct and independent data, and make it available to the public and 
+professionals. However, in many African countries, such institutions are simply missing or do not yet 
+have the bandwidth to collect and report on solar. This is why AFSIA has humbly embarked on this 
+mission in 2019 with the hope to provide the clearest possible picture of the reality and evolution of 
+solar in Africa.
+But data collection, particularly for such a vast and diversified region as Africa, is a daunting and never-
+ending task. Since 2019, the AFSIA team has relentlessly been searching for and collecting every 
+available piece of information about solar projects of all types in Africa. This is what is called a “bottom-
+up” approach, in which we have collected information at the lowest possible level of detail and then 
+add each piece of information to build a global picture. 
+At the end of 2025, based on this bottom-up approach, we managed to identify and monitor 42,000+ 
+different projects individually. AFSIA believes this is the most-comprehensive dataset in the African 
+solar industry. The 2025 total represents an increase of approximately 40% more projects identified 
+compared to end of 2024. And from a capacity point of view, these projects represent a total of 296 
+GWp, out of which 23.4 GWp are in operation (26% increase of MWp in operation compared to 2024).
+=== PAGE 17 ===
+17
+Annual Installed (AFSIA)
+Unassigned to Year
+y-o-y Growth
+Total Cumulative
+2016
+1.0
+194%
+2.5
+2017
+0.9
+-11%
+3.4
+2018
+1.7
+89%
+5.1
+2019
+2.2
+31%
+7.3
+2020
+.2
+-45%
+8.5
+2021
+1.8
+47%
+10.3
+2022
+2.0
+14%
+12.4
+2023
+2.5
+25%
+14.9
+2024
+3.7
+46%
+18.6
+2025
+2.4
+2.4
+-36%
+23.4
+Growth vs History
+% of global capacity
+66%
+1.4%
+35%
+0.9%
+49%
+1.8%
+43%
+2.2%
+17%
+1.0%
+21%
+0.9%
+20%
+0.8%
+21%
+0.7%
+25%
+0.7%
+26%
+0.4%
+=== PAGE 18 ===
+18
+Africa Annual Installed Capacity
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Annual Installed (AFSIA)
+=== PAGE 19 ===
+19
+But for many years, AFSIA’s approach has had 1 major shortfall: our data is only 
+based on what we have been able to identify. And we have always been aware 
+that many projects, especially the smaller ones, were yet to be identified, and 
+hence were not captured in our database nor in the figures that we presented 
+every year. This approach, however limited and likely reducing the real size of 
+solar in Africa, was selected for lack of a better alternative at that point in time.
+This year however, a new and very interesting source of information has become 
+available thanks to energy think tank Ember. Ember has managed to collect solar 
+export data from China since 2017. These export figures are available month by 
+month and are labeled in USD value. By applying an evolutive average cost per 
+Wp, Ember was able to estimate how many MWp were shipped to any country 
+of the world, month by month, since 2017. China is of course not the only 
+country exporting solar, but it is arguably the most important one (representing 
+roughly 90% of the market). 
+Knowing what we don’t know
+Hence, the Chinese export figures provide a pretty accurate picture of how much 
+solar must be present in any given country with a relatively small margin of error. 
+This approach can then be considered as a “top-down”, as it provides the total 
+volume of solar in a specific country, but without providing the granular detail of 
+where nor for which use these panels are being installed.
+=== PAGE 20 ===
+20
+When cross-checking both this bottom-up and top-down approaches, albeit with their respective limitations, we manage to obtain a very different picture of solar in Africa 
+than what has been portrayed in the past. For many years, most industry analysts (including AFSIA) appear to have very much underestimated the scale of solar in Africa. 
+At the end of 2025, AFSIA has uniquely identified 23.4 GWp worth of operational projects in Africa. However, Chinese export data indicate that 58.1 GWp have been 
+exported to African nations since 2017. Extrapolating for export before 2017 (official data not available before 2017) adds another 10% of capacity, bringing the likely total 
+capacity installed in Africa to 63.9 GWp. This means that solar may in fact be 2.75x more prevalent in Africa than most professionals may believe (including AFSIA pre-
+2025)!
+New data fundamentally change the picture of solar in Africa
+imported (Ember)
+0.3
+0.3
+2.4
+0.5
+2.4
+1.2
+3.8
+2.8
+2.5
+3.0
+4.2
+9.3
+12.7
+16.1
+annual installed (AFSIA)
+0.0
+0.1
+0.0
+0.1
+1.0
+0.3
+1.0
+0.9
+1.7
+2.2
+1.2
+1.8
+2.0
+2.4
+unassigned to year (AFSIA)
+2.4
+unidentified C&I and resi
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.3
+2.1
+0.6
+1.3
+1.2
+2.1
+11.4
+annual installed
+0.0
+0.3
+0.0
+0.3
+2.4
+0.5
+2.4
+1.2
+3.8
+2.8
+2.5
+3.0
+4.2
+16.1
+total cumulative
+0.0
+0.3
+0.3
+0.7
+4.1
+4.9
+8.3
+9.5
+13.4
+16.2
+18.7
+21.7
+25.9
+63.9
+y-o-y growth
+1013%
+2%
+105%
+488%
+21%
+69%
+14%
+40%
+21%
+15%
+16%
+19%
+34%
+growth vs history
+833%
+0%
+74%
+346%
+12%
+49%
+14%
+40%
+21%
+15%
+16%
+19%
+34%
+% of global capacity
+0.0%
+0.8%
+0.0%
+0.7%
+6.2%
+1.0%
+3.3%
+1.3%
+4.1%
+2.8%
+2.0%
+1.6%
+1.7%
+2.6%
+=== PAGE 21 ===
+21
+Africa Annual Installed Capacity
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Annual Installed (AFSIA)
+Unassigned to year (AFSIA)
+Unidentified C&I
+These new figures illustrate that Africa, while still representing 
+a minor fraction of the global solar business, is actually 3 to 4 
+times more important than the narrative may have conveyed 
+over the years (from 0.7% to 2.6% of global capacity in 2023-
+2025).
+In a further section of this report, we will also highlight that 
+Africa is the region of the world with the fastest growth. It is 
+therefore not surprising that the major global manufacturers 
+have now set their eyes on Africa as the next growth market, 
+several of them even establishing manufacturing facilities on 
+the continent.
+=== PAGE 22 ===
+22
+Impact on weight of segments
+Taking this new volume into consideration, some assumptions must be made to 
+assign this additional solar capacity to specific countries and specific segments, 
+in order to give the most accurate possible picture of solar.
+Export data is luckily broken down by country, so it is easy to assign precise 
+volumes to each African country. 
+However, when it comes to the final use of these panels, and which segments 
+they are being used in, AFSIA made the following assumptions:
+•
+All utility-scale are documented officially, and no utility-scale project goes 
+below the radar. Hence, it is very unlikely that a utility-scale project would 
+be missing in the AFSIA database
+•
+Mini-grids are most often government-led programs, and these are also 
+documented officially. Hence it is very unlikely that mini-grid projects would 
+be missing in the AFSIA database.
+•
+SHS and PUE systems have been consistently reported on GOGLA over the 
+years, and it is assumed that the volumes mentioned are fairly accurate.
+=== PAGE 23 ===
+23
+Impact on weight of segments
+•
+Even if some mini-grids, SHS, and PUE applications may have been missed, 
+their overall weight in MWp compared to other solar applications (utility-
+scale, C&I and residential) is actually marginal and any reporting error 
+would actually not make for a big difference in the overall picture
+•
+All the “unidentified” solar must be found in the C&I an residential 
+segments
+•
+Based on numerous conversations and interviews with C&I and residential 
+installers across Africa, it is assumed that this unidentified capacity should 
+be split 85/15 between C&I and residential respectively to provide a fairly 
+accurate estimate
+As a result, you may expect to see some important changes in the country 
+vignettes in the second part of this report. Specifically, in the section “Total PV 
+installed”, the figures for operational C&I and residential installations will rise 
+sharply. For ease of understanding, a distinction will be made between the MWp 
+uniquely identified by AFSIA and those added through the unidentified imports.
+=== PAGE 24 ===
+24
+Despite the caveats identified earlier, the Chinese export data can help us identify global and regional trends. It can also help us compare Africa “apple to apple” with other 
+regions. And in 2025, this analysis identifies Africa as the globe’s fastest growing region for solar.
+Africa grows faster that any other region in 2025
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Grand Total
+China
+52,780
+44,260
+30,220
+48,750
+53,130
+87,410
+216,880
+277,170
+312,500
+1,123,100
+Africa
+1,199.5
+3,828.4
+2,845.8
+2,487.8
+3,025.1
+4,166.2
+9,255.5
+12,670.0
+14,794.3
+54,272.8
+Asia
+19,056.5
+22,413.1
+26,104.8
+33,138.1
+33,389.8
+29,088.7
+47,283.3
+60,575.9
+59,080.0
+330,130.0
+Europe
+2,528.9
+7,588.9
+23,160.1
+29,499.3
+43,280.3
+84,940.3
+101,433.4
+96,524.4
+84,324.4
+473,230.0
+Latin America and Caribbean
+4,140.4
+3,320.7
+2,964.1
+3,018.8
+4,026.2
+8,033.0
+13,788.8
+27,174.9
+21,939.5
+158,840.2
+Middle East
+1,970.2
+3,320.7
+2,964.1
+3,018.8
+4,026.2
+8,033.0
+13,788.8
+27,174.9
+21,939.5
+86,236.2
+North America
+2,289.3
+335.7
+982.2
+2,201.3
+654.8
+434.5
+629.1
+1,155.4
+1,216.2
+9,898.3
+Oceania
+2,036.6
+5,010.9
+4,644.8
+4,379.8
+4,908.8
+4,932.4
+7,431.2
+6,887.0
+6,224.4
+46,456.0
+Grand Total
+86,001.4
+96,161.4
+101,455.9
+133,370.8
+158,464.5
+243,167.1
+426,139.1
+514,406.3
+522,997.2
+2,282,163.5
+=== PAGE 25 ===
+25
+The above table presents a combination of solar installations in China as well as official Chinese PV export data to all regions of the world (excluding China of course) 
+between 2017 and 2025. Figures for 2025 are still estimates and/or partial as the latest official figures have not been published at the time of compiling this report. The 
+total indicates 2.3 TWp of solar, to which an approximate 10% should be added to account for panels produced in other countries than China, bringing the total to 2.5-2.6 
+TWp globally.
+Next to confirming that China hosts almost 50% of all global solar capacity, this table also helps us identify trends. The below table computes the annual growth rates per 
+region:
+Growth Rate
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+CAGR since 2021
+China
+-16%
+-32%
+61%
+9%
+65%
+148%
+28%
+13%
+56%
+Africa
+219%
+-26%
+-13%
+22%
+38%
+122%
+37%
+17%
+49%
+Asia
+18%
+16%
+27%
+1%
+-13%
+63%
+28%
+-2%
+15%
+Europe
+200%
+205%
+27%
+47%
+96%
+19%
+-5%
+-13%
+18%
+Latin America and Caribbean
+127%
+12%
+-6%
+61%
+51%
+22%
+10%
+-29%
+9%
+Middle East
+69%
+-11%
+2%
+33%
+100%
+72%
+97%
+-19%
+53%
+North America
+-85%
+193%
+124%
+-70%
+-34%
+45%
+84%
+5%
+17%
+Oceania
+146%
+-7%
+-6%
+12%
+0%
+51%
+-7%
+-10%
+6%
+Grand Total
+12%
+6%
+31%
+19%
+53%
+75%
+21%
+2%
+35%
+=== PAGE 26 ===
+26
+From this table, we can truly track the massive fluctuations of global growth 
+over the past few years. Europe experienced solid growth in the period 2018-
+2022, but this growth has now drastically reduced and the European solar 
+market even started to experience a negative growth recently. 
+Over the same period, North America has experienced alternate waves of strong 
+growth and shrinking and appears to be somewhat stable in 2025.
+But the most notable element from this table is undoubtedly the performance of 
+Africa. Between 2019 and 2022, Africa was positioned among the least growing 
+regions of the world. 2023 gave the continent a major boost, pushed by the 
+power crisis in South Africa, and brought the region to the 2nd fastest growing 
+region that year (+122%). This performance was then further sustained in 2024 
+and 2025, albeit with more moderate growth rates (+37% and +17% 
+respectively). And when zooming in on 2025, it appears that only 3 regions have 
+increased their imports compared to 2024: China, Africa and the Middle East. 
+And among those 3, Africa has grown the most with a 17% increase.
+Zooming out a little bit and widening the analysis over the entire post-COVID 
+period, Africa also performs extremely well with an honorable 3rd best 
+compounded growth rate, very closely behind China and the Middle East.
+Over the past decade, Africa has repetitively been presented as one of the least 
+attractive solar regions, representing a mere 0.5% to 1% of the market. But with 
+the latest info collected, this perception is quickly changing. First, it appears that 
+Africa represented a much bigger market share, but this simply was not properly 
+tracked and measured (and a lot still needs to be done to obtain accurate data). 
+But more importantly, Africa now appears to be experiencing one of the fastest 
+growths on the globe and therefore becoming a key market to tap into for all 
+types of industry stakeholders. The next few years will show is this growth is only 
+temporary or is based on strong foundations that make solar the unavoidable 
+way forward to electrify the African continent.
+John van Zuylen
+CEO, AFSIA
+=== PAGE 27 ===
+27
+In last year’s report we already identified how storage was experiencing a hockey stick growth curve in Africa, with 3, 10 and 11-fold annual increases. This growth was 
+mainly due to a sustained cost reduction, combined with technology improvements making the solutions more flexible and longer-lasting.
+Storage supports the growth of solar in Africa
+Pack
+Total
+Cell
+YoY %
+2017
+79
+266
+187
+2018
+61
+218
+157
+-18%
+2019
+57
+189
+132
+-13%
+2020
+42
+165
+123
+-13%
+2021
+36
+155
+119
+-6%
+2022
+34
+166
+132
+7%
+2023
+33
+144
+111
+-13%
+2024
+37
+115
+78
+-20%
+2025
+36
+112
+76
+-3%
+Real 2025 $/kWh
+CAGR = -10%
+=== PAGE 28 ===
+28
+This ever-decreasing price of storage has game-changing implications for a 
+region like Africa with a dire need for stable and baseload power. Indeed, solar 
+has for long been one of the cheapest and most versatile sources of power, but 
+its intermittency and the fact that it is produced only during the day have limited 
+its use in the African energy mix. 
+But at an affordable cost, storage can help solar overcome these limitations and 
+become the main contributor in the African power generation scene (more so 
+than in many other regions of the world, thanks to the excellent solar irradiation 
+of the continent). Energy think tank Ember provided an excellent demonstration 
+of this by analyzing the latest cost storage and identifying how much it would 
+cost to transform “daytime solar” to “fully dispatchable solar” thanks to storage. 
+The answer is “it costs just $33/MWh to transform daytime solar into 
+dispatchable solar”
+=== PAGE 29 ===
+29
+The analysis looked at such a scenario in Rajasthan, a sunny region of India, but 
+many countries in Africa enjoy similar solar irradiation.
+Based on this analysis, it now costs only $33/MWh to make solar dispatchable 
+(e.g: this is the cost of storing excess solar electricity and releasing it when 
+needed later during the evening, night or early morning).
+Adding the cost of generating the solar electricity in Rajasthan, evaluated at 
+$43/MWh, it brings around-the-clock solar energy at a total cost of only 
+$76/MWh, which is already competitive with other forms of firm generation in 
+many markets and for example cheaper than a new gas power plant, especially if 
+the country relies on expensive LNG imports.
+John van Zuylen
+CEO, AFSIA
+Cheap batteries do not just complement solar — they unlock 
+its full potential. Solar is no longer just cheap daytime 
+electricity; with storage, it becomes dispatchable, anytime 
+electricity. Together, solar and batteries are on track to meet 
+much of the world’s energy demand growth over the next 
+decade.
+The Ember study concludes:
+=== PAGE 30 ===
+30
+A similar analysis about the evolution of storage prices and its growing 
+attractiveness was conducted by AFSIA for one industry event dedicated to 
+storage in late 2025. In this case, AFSIA analyzed the attractiveness of PV+BESS 
+for C&I electricity consumers in Africa. And the cost/benefit evolution is self-
+explanatory.
+The graph above plots the ranges of electricity prices for C&I customers across 
+each African country (orange bars). The grey area identifies the cost range of 
+PV+BESS around 2021. At that time, PV+BESS was still significantly more 
+expensive than most grid tariffs, but also than diesel-generated electricity.
+=== PAGE 31 ===
+31
+Fast-forward to 2025, grid tariffs have not fundamentally changed in USD terms 
+(and if they have, they have increased). But solar generation combined with 
+storage has significantly decreased. Taking into this new cost of storage, the grey 
+range has moved down to somewhere between $0.07 and $0.20 (taking into 
+imperfect load curves and solar electricity consumption). At this price point, 
+PV+BESS has become extremely competitive with C&I grid prices, let alone diesel 
+generators, as depicted in the graph below:
+Moreover, the above graph does not even take into account grid outages which 
+would force the end-users to either use diesel generators or simply pause their 
+business activity (causing losses). In reality, PV+BESS may already be more 
+competitive than the grid in almost all African countries. And there all reason to 
+believe that this trend and the adoption of PV+BESS is going to accelerate over 
+the next few years, as grid prices are invariably increasing over time, while 
+PV+BESS continues its downward slope.
+=== PAGE 32 ===
+32
+JA Solar's BESS Solution: 
+Revolutionizing On/Off-Grid 
+C&I Microgrids
+In an era where energy reliability and sustainability are paramount for commercial and 
+industrial (C&I) operations, JA Solar Technology Co., Ltd. introduces its advanced Battery 
+Energy Storage System (BESS) solution tailored for on/off-grid C&I microgrids. This integrated 
+PV-storage-generator system addresses key pain points in energy management, offering a 
+robust framework for businesses facing unreliable power supplies. By combining solar 
+photovoltaic (PV) generation, energy storage, and backup generators, the solution ensures 
+seamless power delivery, cost savings, and environmental benefits.
+Digital Business Manager Africa, JA Solar
+Peter Wamalwa
+32
+=== PAGE 33 ===
+33
+The challenges in C&I energy landscapes are multifaceted. Unreliable grids and 
+frequent load-shedding lead to costly downtime, disrupting business operations 
+and productivity. Volatile electricity prices, coupled with the reliance on 
+polluting diesel backups, make cost control unpredictable and environmentally 
+harmful. Additionally, solar generation often mismatches demand patterns, 
+resulting in low self-consumption rates and high energy waste through 
+curtailment. These issues not only inflate operational expenses but also hinder 
+sustainable practices.
+JA Solar's BESS solution counters these challenges with innovative features. It 
+supports both AC and DC coupling, allowing multi-parallel Power Conversion 
+Systems (PCS) up to 3MW. This enables a seamless transition from grid-
+connected to island mode in ≤20ms using PQ/VF control modes, guaranteeing 
+uninterrupted supply to critical loads during grid failures. The site Energy 
+Management System (EMS) intelligently coordinates PV arrays, storage units, 
+and generators to optimize energy dispatch. This reduces diesel dependence 
+while maintaining continuous power for essential operations. Furthermore, the 
+system's black start capability facilitates autonomous power restoration and 
+energy reconstruction, ensuring quick recovery from outages.
+The benefits are tangible and multifaceted. The integrated PV-storage-generator 
+approach enhances power reliability and system stability, mitigating the impacts 
+of grid failures and load shedding. Energy storage enables peak-valley arbitrage, 
+allowing users to store low-cost energy during off-peak hours and use it during 
+high-demand periods, reducing electricity costs by 6%-12% and minimizing 
+reliance on expensive backup power. By regulating renewable energy 
+fluctuations, the system boosts self-consumption and curtails waste, promoting 
+efficient use of solar resources.
+Delving into the advantages, safety stands out as a core pillar. JA Solar 
+implements comprehensive cell screening with multi-dimensional battery cell 
+selection and testing protocols. Multi-layer protection integrates electrical, 
+structural, and explosion-proof safeguards, including a three-level fire protection 
+design. The company boasts zero safety incidents, underscoring a proven track 
+record of no accidents. For cost efficiency, the solution offers an integrated 
+control for PV-storage-generator systems that optimizes overall energy costs. It 
+features low auxiliary energy consumption, high system-wide efficiency, and a 
+modular design that streamlines operation and maintenance.
+=== PAGE 34 ===
+34
+Reliability is equally emphasized. The system supports seamless grid-
+connected/off-grid transitions and black-start capabilities. It exhibits strong 
+environmental adaptability and immunity to interference, aided by an isolated 
+transformer. JA Solar provides one-stop service and full lifecycle intelligent 
+operations and maintenance (O&M) support, ensuring long-term performance.
+The technical specifications highlight a range of models: JAP-100kW, JAP-150kW, 
+JAP-250kW, JAG-500kW, and JAG-1000kW. On the AC side, nominal powers 
+range from 100kW to 1000kW, with corresponding nominal currents from 144A 
+to 1445A. All models share a nominal voltage of 400V (3W+N+PE), a voltage 
+range of 320-460V, and a nominal frequency of 50/60Hz. Power factor is 
+adjustable from 1.0 leading to 1.0 lagging, with overload capacity at 110% long-
+term and 120% for 1 minute. On/off-grid switching is supported in 20ms, and 
+isolation transformers vary slightly: 270/400V for JAP-100kW, and 315/400V for 
+the others.
+PV integration is optional, with MPPT trackers numbering 2 for the smaller 
+models, up to 16 for JAG-1000kW. MPPT rated powers span 150kWp to 
+1200kWp. Batteries use 3.2V/280Ah LFP cells in configurations from 1P240S to 
+10P240S, with cluster counts from 1 to 10. Nominal energies range from 
+215kWh to 2150kWh, all with a max C-rate of 0.5P at 25°C.
+Basic parameters include IP54 protection level across all models. Maximum off-
+grid parallel quantities are 6 for most, dropping to 3 for JAG-1000kW. All operate 
+up to 2000m altitude (with derating above), use intelligent air cooling, and 
+support EMS communication via RS485 and TCP/IP. Fire suppression systems 
+employ Aerosol for smaller models and HFC-227ea for larger ones. Notably, the 
+number of MPPT trackers and battery clusters is customizable to suit specific 
+project needs.
+JA Solar's BESS solution exemplifies a forward-thinking approach to C&I 
+microgrids, blending reliability, efficiency, and safety. For inquiries, contact 
+africa@jasolar.com or visit www.jasolar.africa. This innovation not only stabilizes 
+energy supply but also drives economic and ecological advantages, positioning 
+businesses for a resilient future.
+=== PAGE 35 ===
+35
+Assessing national solar 
+performance on a 
+comparable basis
+In the solar sector, performance is most often assessed using absolute metrics: 
+higher installed capacity is equated with stronger performance. While useful, 
+this approach tends to produce a repetitive narrative that consistently highlights 
+the same large or more advanced markets. However, Africa is characterized by 
+significant diversity in country size, population, economic structure, and power-
+sector maturity. As a result, national starting points in the solar transition vary 
+widely, making comparisons based solely on installed megawatts inherently 
+limited.
+Axian Energy
+=== PAGE 36 ===
+36
+Assessing national solar performance on a comparable basis
+For the third consecutive year, the Africa Solar Outlook therefore applies a 
+complementary, relative framework to assess national solar performance. By 
+examining indicators such as installed capacity in relation to population, country 
+size, or existing power generation, this approach places solar development in its 
+proper national context. The resulting rankings differ markedly from those based 
+on absolute figures alone, offering greater visibility to countries that are 
+achieving tangible solar progress relative to their scale, while moderating the 
+prominence of larger markets whose performance may appear less significant 
+when viewed proportionally.
+We will look at 3 specific relative metrics:
+1.
+“Wp/capita” (already mentioned in 2025 report)
+2.
+“solar % in the overall generation mix” (already mentioned in 2025 report)
+=== PAGE 37 ===
+37
+Movement vs. 
+2024
++1
+-1
+-
+MWp 2025
+11673.05
+169.21
+Wp/Capita
+179.30
+174.44
+133.58
+Population 2025 
+(31 Dec)
+65,103,183
+1,266,740
+-
++8
+40.89
+903.46
+77.37
+72.96
+528,503
++12
+170.67
+66.10
+23.36
+133,903
+390.84
+3,122,815
+2,582,115
+12,382,923
+-
+125.16
+-1
+1216.30
+31.51
+38,598,310
+South Africa
+Seychelles
+Mauritius
+Namibia
+Cape Verde
+Tunisia
+Botswana
+Country
+Morocco
+-1
+-4
++2
+169.04
+28.93
+31.39
+28.26
+22.91
+5,385,601
+1,262,917
+-2
+392.67
+17.68
+22,206,135
+3369.38
+119,217,492
+378.31
+19,142,433
+-2
+19.76
+Mauritania
+Egypt
+Eswatini (formerly 
+Swaziland)
+Senegal
+Zambia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Ranking 
+2025
++14
+-3
++7
++4
+12.97
+30.38
+622.39
+14.56
+12.78
+12.21
+10.72
+890,771
+2,376,064
+58,071,206
+-1
+-4
+257.07
+27.70
+10.57
+9.71
+24,330,732
+-4
+461.68
+9.67
+208.97
+17,107,668
+419.79
+39,602,046
+47,734,166
+2,852,342
+-3
+10.60
+-2
+83.52
+8.50
+9,822,599
+Lesotho
+Zimbabwe
+Kenya
+Angola
+Burkina Faso
+The Gambia
+Algeria
+Comoros
+Togo
+-1
++1
++11
+43.61
+24.17
+7.78
+6.77
+6.63
+5,602,026
+3,643,677
+-3
+141.42
+6.29
+22,489,709
+172.95
+25,551,050
+56.86
+8,906,330
++6
+6.38
+Central African Republic
+Mali
+Eritrea
+Sierra Leone
+Malawi
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+14
+Wp/capita (AFSIA data)
+=== PAGE 38 ===
+38
+Movement vs. 
+2024
+-1
+-3
++5
+MWp 2025
+192.47
+59.36
+Wp/Capita
+5.44
+5.27
+4.82
+Population 2025 
+(31 Dec)
+35,375,189
+12,307,775
+-2
+-2
+154.99
+85.64
+4.29
+4.29
+36,113,746
++10
+190.75
+3.64
+1.28
+242,566
+11.62
+2,619,549
+52,446,879
+19,965,478
+-2
+4.44
++16
+75.65
+3.56
+21,271,325
+Ghana
+Sao Tome and Principe
+South Sudan
+Gabon
+Mozambique
+Somalia
+Sudan
+Country
+Chad
+-2
+-4
++2
+107.05
+82.16
+3.23
+3.23
+2.90
+33,119,151
+28,347,486
+-31
+3.15
+2.65
+1,191,463
+48.39
+14,986,592
+5.21
+1,960,823
++13
+2.66
+Madagascar
+Benin
+Niger
+Equatorial Guinea
+Djibouti
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+Ranking 
+2025
+-3
+-5
+-4
+-1
+35.83
+70.18
+488.41
+2.35
+2.32
+2.16
+2.04
+15,266,884
+30,247,871
+239,910,392
+-5
++6
+23.76
+9.47
+1.61
+1.26
+14,727,783
++1
+5.25
+0.91
+112.37
+52,050,973
+64.27
+33,091,726
+5,788,768
+7,497,050
+-3
+1.94
+-2
+12.52
+0.86
+14,554,811
+Cameroon
+Uganda
+Nigeria
+Cote d'Ivoire
+Rwanda
+Libya
+Liberia
+Guinea
+Burundi
+-5
+-5
+-4
+1.85
+38.05
+0.81
+0.70
+0.53
+2,273,118
+71,517,935
+-4
+40.05
+0.29
+137,130,638
+4.58
+6,558,560
+51.59
+114,565,332
++1
+0.45
+Guinea-Bissau
+Republic of the Congo
+Tanzania
+Democratic Republic of 
+the Congo
+Ethiopia
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+41
+Wp/capita (AFSIA data)
+=== PAGE 39 ===
+39
+In the Wp/capita ranking, we notice that
+•
+The Top 5 remains almost unchanged this year, with South Africa, 
+Seychelles, Mauritius, Namibia, and Cape Verde all retaining their positions 
+among the leading performers.
+•
+The cut-off rate for the Top 5 remains stable, standing at 77 Wp/capita, 
+unchanged from last year.
+•
+A shift at the top of the ranking is observed this year. South Africa takes the 
+number one position from Seychelles, driven by a significant increase in its 
+Wp/capita to 179 Wp/capita, up from 145 Wp/capita last year. Seychelles 
+remains close behind in second place with 174 Wp/capita.
+•
+Chad records the largest jump in this year’s ranking, climbing 16 positions, 
+mainly following the commissioning of the 50 MW solar power plant in 
+N’Djamena.
+•
+Other notable rising stars of 2025 include Comoros, Equatorial Guinea, and 
+Botswana, which moved up 14, 13, and 12 positions respectively.
+=== PAGE 40 ===
+40
+Movement vs. 
+2024
++3
+-1
+-1
+MWp 2025
+1462.84
+18159.05
+Wp/Capita
+468.44
+323.80
+278.93
+Population 2025 
+(31 Dec)
+3,122,815
+65,103,183
++9
++3
+2354.46
+165.15
+190.14
+138.61
+12,382,923
+-2
+58.89
+111.43
+43.36
+133,903
+317.21
+1,266,740
+528,503
+1,191,463
+-1
+250.41
+-1
+4254.30
+110.22
+38,598,310
+Namibia
+Seychelles
+South Africa
+Mauritius
+Tunisia
+Djibouti
+Cape Verde
+Country
+Morocco
++1
+-4
++8
+2052.31
+176.67
+107.21
+69.25
+68.42
+19,142,433
+2,582,115
+-5
+319.04
+59.24
+5,385,601
+8255.38
+119,217,492
+637.52
+9,822,599
++8
+64.90
+Senegal
+Egypt
+Botswana
+Togo
+Mauritania
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Ranking 
+2025
++3
++13
++5
+-6
+2467.68
+45.97
+908.67
+51.70
+51.60
+41.94
+40.92
+47,734,166
+890,771
+22,206,135
++4
++10
+558.97
+1016.99
+32.67
+28.16
+17,107,668
++12
+411.39
+27.45
+2435.39
+58,071,206
+98.70
+2,852,342
+14,986,592
+36,113,746
+-2
+34.60
++15
+827.18
+27.35
+30,247,871
+Comoros
+Kenya
+Zambia
+The Gambia
+Zimbabwe
+Mozambique
+Benin
+Algeria
+Cameroon
++4
++12
+-12
+948.47
+29.93
+26.81
+23.92
+23.70
+35,375,189
+1,262,917
++17
+1073.75
+20.47
+52,446,879
+87.17
+3,643,677
+127.25
+5,788,768
++23
+21.98
+Ghana
+Eritrea
+Eswatini (formerly 
+Swaziland)
+Liberia
+Sudan
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+14
+Wp/capita (AFSIA data adjusted using Chinese export data)
+=== PAGE 41 ===
+41
+Movement vs. 
+2024
++15
++13
++8
+MWp 2025
+4816.41
+301.83
+Wp/Capita
+20.08
+19.95
+19.77
+Population 2025 
+(31 Dec)
+239,910,392
+15,266,884
++16
+-7
+1317.05
+4.28
+18.42
+17.64
+71,517,935
+-16
+428.07
+17.59
+660.27
+33,091,726
+381.64
+19,965,478
+24,330,732
+242,566
+-
+19.12
+-1
+565.05
+17.06
+33,119,151
+Nigeria
+Cote d'Ivoire
+Guinea
+Somalia
+Tanzania
+Sao Tome and Principe
+Burkina Faso
+Country
+Madagascar
+-11
+-15
+-26
+428.95
+34.38
+16.79
+16.17
+14.47
+25,551,050
+2,376,064
+-25
+465.79
+11.76
+39,602,046
+90.61
+5,602,026
+323.42
+22,489,709
+-15
+14.38
+Mali
+Central African Republic
+Lesotho
+Malawi
+Angola
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+Ranking 
+2025
+-12
+-9
++11
+-5
+29.62
+232.65
+451.37
+11.31
+10.94
+9.85
+8.67
+2,619,549
+21,271,325
+52,050,973
++6
+-15
+13.21
+56.86
+6.74
+6.38
+1,960,823
+-8
+155.16
+5.47
+1128.59
+114,565,332
+59.47
+7,497,050
+28,347,486
+8,906,330
++8
+7.93
+-14
+67.36
+5.47
+12,307,775
+Chad
+Democratic Republic of 
+Congo
+Uganda
+Libya
+Equatorial Guinea
+Sierra Leone
+Niger
+Gabon
+South Sudan
+-4
+-6
+-11
+35.58
+45.76
+5.43
+3.89
+3.11
+6,558,560
+14,727,783
+-4
+184.05
+1.34
+137,130,638
+8.85
+2,273,118
+36.52
+14,554,811
+-6
+2.51
+Republic of Congo
+Guinea-Bissau
+Rwanda
+Burundi
+Ethiopia
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+41
+Wp/capita (AFSIA data adjusted using Chinese export data)
+=== PAGE 42 ===
+42
+Following the integration of the additional Chinese export data source to refine installed solar 
+capacity estimates, the Wp/capita ranking has been updated. This revised view leads to several 
+notable changes, which are:
+•
+The Top 5 sees a notable change this year, with Tunisia joining the group for the first time in 
+the past three years, alongside Namibia, Seychelles, South Africa, and Mauritius. This entry is 
+also largely driven by the commissioning of the 120 MWp Kairouan Solar PV plant
+•
+The cut-off rate for the Top 5 increases sharply in 2025, reaching 190 Wp/capita, compared to 
+77 Wp/capita last year, reflecting a higher overall level of identified installed capacity
+•
+A change at the top of the ranking is observed this year, with Namibia taking the number one 
+position, overtaking Seychelles, now ranked #2, while South Africa moves to #3
+•
+Outside the leading group, several countries record significant upward movements, with 
+Liberia, Sudan, and Tanzania emerging as the rising stars of 2025, climbing 23, 17, and 16 
+positions respectively
+Antaisolar
+=== PAGE 43 ===
+43
+Solar contribution in electricity mix
+The share of solar in the overall electricity mix remains a particularly relevant 
+metric, as installed solar capacity does not translate into electricity production in 
+the same way as other generation technologies such as hydro, coal, gas, or 
+nuclear. Comparing installed capacities across technologies therefore provides a 
+distorted picture of their respective contributions. For instance, while 1 MW of 
+hydropower can generate around 5,000 MWh of electricity per year depending 
+strongly on site-specific conditions, 1 MW of solar capacity in Africa produces on 
+average approximately 1,500 MWh annually, with significant variation from one 
+country to another. Expressing contributions in terms of electricity generated 
+(MWh or GWh), rather than installed megawatts, therefore allows for a more 
+meaningful like-for-like comparison.
+This indicator is also essential from a policy perspective. Many African 
+governments have publicly committed, often within the framework of their COP 
+engagements, to achieving a defined share of renewable energy and/or solar 
+within their national electricity mix. Without a clear estimate of how much 
+electricity solar actually produces in a given country, it is not possible to 
+meaningfully track progress toward these objectives.
+As in previous editions, this analysis relies on the comprehensive electricity 
+generation database of the African Energy Commission (AFREC), an institution of 
+the African Union, to assess overall national electricity figures. To reflect actual 
+electricity consumption more accurately, the methodology focuses on total 
+available electricity, rather than gross production alone. Total available electricity 
+is calculated by taking gross national electricity production, adding imported 
+electricity, and subtracting exported electricity. This approach ensures that 
+countries with significant cross-border electricity exchanges are assessed on the 
+basis of electricity effectively available for domestic use.
+For solar generation, AFSIA continues to rely on its latest database of installed 
+solar capacities in each country, combined with average national solar yield 
+assumptions to estimate annual solar electricity generation in GWh. In line with 
+the approach used for total available electricity, a corresponding adjustment is 
+applied in cases where solar-generated electricity is exported. Taken together, 
+these assumptions provide AFSIA’s best approximation of the share of solar in 
+national electricity consumption and allow for a consistent comparison of 
+relative performance across countries.
+=== PAGE 44 ===
+44
+Movement vs. 
+2024
+-
++36
++1
+Solar gene-ration 
+(GWh)
+70
+158
+Solar % in energy 
+mix
+37.3%
+36.7%
+32.4%
+Available 2023 
+GWh
+185
+489
+-2
+-4
+762
+296
+17.7%
+16.7%
+4,099
++13
+18
+16.5%
+148
+402
+82
+456
+110
+1,774
++5
+18.1%
++2
+95
+13.3%
+713
+Central African Republic
+Chad
+Somalia
+Sierra Leone
+Namibia
+Mauritania
+Comoros
+Country
+South Sudan
+-1
+-5
++2
+411
+22,762
+11.8%
+11.0%
+10.7%
+3,491
+203,483
+-6
+70
+10.5%
+659
+240
+2,162
+45
+421
++9
+10.6%
+Burkina Faso
+Malawi
+South Africa
+Eritrea
+Cape Verde
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Ranking 
+2025
++1
+-1
++1
+-6
+1,151
+152
+245
+8.8%
+8.5%
+7.6%
+7.5%
+13,116
+1,795
+3,265
++23
++20
+1,581
+324
+6.6%
+6.6%
+23,772
+-2
+40
+6.5%
+193
+2,525
+605
+8,334
+613
+4,695
+-6
+7.3%
+-6
+121
+6.1%
+1,978
+Niger
+Madagascar
+Mauritius
+Senegal
+Tunisia
+Botswana
+Seychelles
+Kenya
+Togo
+-5
+-2
+-
+56
+672
+5.9%
+4.9%
+4.2%
+952
+15,830
+-21
+42
+3.7%
+1,122
+2,250
+45,398
+18
+461
++3
+3.9%
+Lesotho
+Morocco
+Angola
+Burundi
+The Gambia
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+14
+Solar % in power generation mix (AFSIA data)
+=== PAGE 45 ===
+45
+Movement vs. 
+2024
++4
+-5
+-2
+Solar gene-ration 
+(GWh)
+366
+668
+Solar % in energy 
+mix
+3.4%
+3.4%
+3.3%
+Available 2023 
+GWh
+10,506
+23,660
+-9
+-6
+6,570
+174
+2.9%
+2.8%
+227,820
+-
+42
+2.6%
+303
+7,911
+63
+2,078
+1,631
+5,738
+-1
+3.0%
+-9
+31
+2.4%
+1,264
+Zimbabwe
+Mali
+Zambia
+Benin
+Egypt
+Uganda
+Eswatini (formerly 
+Swaziland)
+Country
+Rwanda
+-3
++4
+-3
+61
+757
+1.9%
+1.7%
+1.5%
+3,273
+49,052
+-1
+105
+1.2%
+9,038
+353
+20,345
+289
+27,021
+-8
+1.2%
+Guinea
+Sudan
+Nigeria
+Ghana
+Cameroon
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+Ranking 
+2025
+-4
+-6
+-
+-
+1
+3
+240
+1.1%
+0.9%
+0.9%
+0.8%
+118
+293
+17,191
++5
+-1
+5
+67
+0.7%
+0.5%
+825
++1
+85
+0.5%
+877
+93,186
+96
+12,787
+16,387
+11,538
+-
+0.7%
++4
+7
+0.4%
+1,580
+Guinea-Bissau
+Algeria
+Mozambique
+Cote d'Ivoire
+Djibouti
+Tanzania
+Democratic Republic of 
+the Congo
+Sao Tome and Principe
+Equatorial Guinea
+-2
+-4
+-2
+74
+6
+0.4%
+0.3%
+0.2%
+15,985
+2,785
+-
+18
+0.0%
+37,172
+7
+2,168
+15
+9,693
+-1
+0.2%
+Ethiopia
+Liberia
+Republic of the Congo
+Gabon
+Libya
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+41
+Solar % in power generation mix (AFSIA data)
+=== PAGE 46 ===
+46
+In this ranking we observe:
+•
+African countries continue to demonstrate strong performance in terms of 
+solar penetration in their electricity mix, with 23 countries now generating 
+5% or more of the electricity they consume from solar
+•
+The upper end of the ranking continues to deepen, with 7 countries already 
+exceeding 15% solar penetration, and 13 countries reaching more than 10% 
+of solar in their total electricity consumption
+•
+The Top 3 records notable changes this year, with the Central African 
+Republic retaining the leading position, albeit with a slight decrease in its 
+solar share, while Chad and Somalia emerge as newcomers, ranking 2nd 
+and 3rd respectively
+•
+The largest upward movement in this year’s ranking is observed in Chad. 
+Following the commissioning of a 50 MW solar plant in N’Djamena, the 
+country climbs 36 positions, securing 2nd place overall
+•
+Tunisia records the second biggest improvement of 2025, rising 23 positions 
+to reach 19th place, largely driven by the commissioning of the 120 MWp 
+Kairouan Solar PV plant
+•
+Other countries showing notable progress in this year’s ranking include 
+Comoros, Botswana, and Eritrea
+=== PAGE 47 ===
+47
+Movement vs. 
+2024
++3
++36
+-2
+Solar gene-ration 
+(GWh)
+706
+145
+Solar % in energy 
+mix
+144.4%
+112.9%
+77.5%
+Available 2023 
+GWh
+489
+185
++15
++10
+64
+924
+58.5%
+46.7%
+110
++10
+1,017
+40.3%
+454
+402
+2,853
+4,099
+2,525
+1,978
+-1
+66.4%
++4
+3,284
+39.4%
+8,334
+Somalia
+Chad
+Central African Republic
+Namibia
+Comoros
+Togo
+Madagascar
+Country
+Senegal
++12
++5
++40
+161
+281
+38.3%
+34.3%
+34.0%
+421
+825
++17
+535
+25.7%
+2,078
+4,505
+13,116
+558
+1,774
+-10
+31.5%
+Eritrea
+Kenya
+Djibouti
+Mauritania
+Benin
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Ranking 
+2025
+-9
+-7
++30
+-8
+550
+685
+82
+25.3%
+19.6%
+19.0%
+18.1%
+2,162
+3,491
+456
++3
+-7
+7,870
+35,410
+17.2%
+16.6%
+45,398
+-7
+287
+16.0%
+2,305
+11,538
+4,120
+23,772
+1,795
+203,483
++24
+17.3%
++11
+513
+15.7%
+3,273
+Burkina Faso
+Tanzania
+Sierra Leone
+Tunisia
+Morocco
+South Africa
+Niger
+Malawi
+Guinea
+-16
+-14
++10
+100
+7,465
+15.2%
+15.1%
+14.5%
+659
+49,052
++12
+1,241
+13.7%
+9,038
+108
+713
+460
+3,265
++15
+14.1%
+Cape Verde
+South Sudan
+Nigeria
+Mauritius
+Cameroon
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+14
+Solar % in power generation mix (AFSIA data adjusted using Chinese export data)
+=== PAGE 48 ===
+48
+Movement vs. 
+2024
+-22
+-10
+-1
+Solar gene-ration 
+(GWh)
+148
+53
+Solar % in energy 
+mix
+13.1%
+12.0%
+11.5%
+Available 2023 
+GWh
+1,122
+461
+-5
++8
+700
+1,986
+11.2%
+9.8%
+5,738
+-2
+978
+9.0%
+74
+613
+1,862
+16,387
+10,506
+20,345
++18
+11.3%
+-11
+751
+8.3%
+7,911
+The Gambia
+Seychelles
+Burundi
+Democratic Republic of 
+the Congo
+Uganda
+Sudan
+Zimbabwe
+Country
+Mali
++11
++9
++7
+178
+990
+8.2%
+7.7%
+7.2%
+2,168
+12,787
+-
+336
+6.8%
+4,695
+1,545
+23,660
+16,098
+227,820
+-16
+7.0%
+Liberia
+Zambia
+Cote d'Ivoire
+Egypt
+Botswana
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+Ranking 
+2025
+-23
+-11
++1
+-1
+64
+1,423
+4,689
+6.6%
+5.8%
+5.5%
+4.9%
+952
+27,021
+93,186
+-20
+-11
+59
+13
+4.7%
+4.5%
+1,264
+-11
+4
+3.8%
+1,576
+17,191
+745
+15,830
+118
+293
+-20
+4.7%
+-15
+43
+2.7%
+1,631
+Ghana
+Mozambique
+Algeria
+Angola
+Rwanda
+Guinea-Bissau
+Sao Tome and Principe
+Lesotho
+Eswatini (formerly 
+Swaziland)
+-2
+-1
++1
+340
+18
+1.9%
+1.5%
+1.1%
+15,985
+1,580
+-
+116
+0.3%
+37,172
+44
+2,785
+39
+9,693
+-1
+0.4%
+Ethiopia
+Republic of the Congo
+Equatorial Guinea
+Gabon
+Libya
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+41
+Solar % in power generation mix (AFSIA data adjusted using Chinese export data)
+=== PAGE 49 ===
+49
+Building on the updated capacity assessment introduced above with the 
+introduction of a new data source, the analysis of solar generation has also been 
+revisited, resulting in several notable shifts:
+•
+The composition of the top three changes significantly. While the Central 
+African Republic remains among the leading performers, it moves from first 
+to third place. Chad consolidates its strong position in second place, while 
+Somalia now takes the top spot, rising from third place under the previous 
+data set.
+•
+The overall level of solar penetration appears markedly higher, with 14 
+countries now exceeding the 25% threshold and 32 countries producing 
+more than 10% of their electricity from solar, highlighting a broader and 
+deeper contribution of solar across the continent.
+•
+Djibouti records the largest upward movement in the ranking, climbing 40 
+positions to reach 11th place. Chad follows as the second strongest mover, 
+advancing 36 spots to second place, supported by the commissioning of 
+GSU’s 50 MW solar plant in N’Djamena. Tunisia also posts a notable rise, 
+moving up 24 positions following the commissioning of its 120 MWp solar 
+power plant in Kairouan.
+• Additional upward shifts are observed in Tanzania, the Democratic Republic of 
+Congo, Benin, Mauritius, and Comoros, reflecting an involvement of solar in 
+their respective electricity mixes.
+•
+While reading you may have noticed Somalia and Chad show solar 
+penetration exceeding 100%. This is likely caused by two factors may be 
+taken into account: AFREC’s national electricity data may underestimate 
+total solar generation by accounting for the on-grid values and dismissing 
+the off-grid ones, while our estimates based on Chinese solar panel export 
+data could slightly overestimate the installed capacity, as not all recorded 
+exported panels may have been used solely for local electricity generation. 
+These figures should be interpreted as indicating very high solar 
+contribution, rather than literal excess production.
+=== PAGE 50 ===
+50
+Country Comparison Tables
+If you want to compare how countries perform in relation to their 
+neighbors, the summary tables are exactly what you need!
+They give a quick, easy-to-navigate overview of the key 
+information for each country about:
+•
+Electrification rate
+•
+Electricity tariffs
+•
+Import duties
+•
+VAT on import
+•
+VAT
+•
+Availability or absence of special policy (FiT, net-metering, 
+wheeling)
+=== PAGE 51 ===
+AFmGREEN
+Long term debt financing solutions
+for C&I and small Utility scale
+energy projects in Africa
+Proudly advised
+and managed by:
+ECHOSYS
+INVEST
+RGREEN
+INVEST
+www.echosys.co/
+afrigreen-debt-fund
+=== PAGE 52 ===
+52
+Efficient Capital Deployment for 
+C&I Solar Projects in Africa
+Africa’s commercial and industrial (C&I) solar market could save businesses billions in energy and 
+business interruption costs – yet its growth is still well below potential. While solar photovoltaic (PV) 
+systems offer undeniable cost advantages over diesel generators and grid electricity, the industry’s 
+growth is constrained by a critical challenge: access to affordable, timely capital. For project developers, 
+securing financing is not just about availability – it’s about aligning funding with the unique dynamics of 
+C&I clients and risks of African markets. Without tailored solutions, the potential of C&I solar to drive 
+economic and environmental progress across the continent will remain untapped.
+Managing Partner of Echosys Invest Advisor for 
+Afrigreen Debt Impact Fund
+Alexandre Gilles
+Managing Partner of Echosys Invest Advisor for 
+Afrigreen Debt Impact Fund
+Olivier Leruste
+52
+=== PAGE 53 ===
+53
+Timing Mismatch: Slow Decisions, Fast Execution
+C&I clients often take months – or even years – to commit to a solar project. Yet, 
+once a contract is signed, they demand rapid execution. This creates a funding 
+gap: developers need capital certainty the moment they commit to building, but 
+traditional financing processes are rarely agile enough to keep pace. For 
+example, two of Afrigreen’s clients, Odasco in Morocco and Empower in Nigeria, 
+secured commercial agreements with Orange Maroc and Justrite Ltd, 
+respectively, before even initiating debt funding discussions. The deciding factor 
+for these developers? The speed of due diligence and execution offered by 
+Afrigreen – a rare commodity in African financial markets.
+The Capital Challenge
+Long-Term Returns in Uncertain Markets
+Solar C&I projects promise attractive returns, but these materialize over 10 to 20 
+years – a long timeline considering the political and economic instability in many 
+African countries. Financial markets and private investors hesitate to commit to 
+long-term financing, leaving developers facing a mismatch between contract 
+tenors and terms of the financing sources.
+Market Size still Too Small
+Despite its potential, the C&I solar market in Africa remains fragmented and 
+relatively small. Major financial hubs like Lagos, Abidjan, Nairobi, and Casablanca 
+lack specialized financing products for solar projects. Instead, banks treat C&I 
+solar as a corporate lending exercise, demanding parent company guarantees or 
+collaterals – requirements that many local developers cannot meet.
+=== PAGE 54 ===
+54
+Availability and Timing: Funds When They Matter
+For C&I projects, capital certainty is non-negotiable. Developers must either 
+raise funds in advance or secure firm commitments from financial partners 
+before breaking ground. Delays in funding can derail projects, especially when 
+equipment lead times – often months for imports from Asia – are factored in.
+Some developers are turning to inventory financing and trade financing to pre-
+stock critical equipment like PV modules, inverters, and batteries. In 2025, 
+Afrigreen pioneered these solutions for players like SolarX and westa.solar, 
+reducing the lag between contract signature and project initiation.
+Size Matters: Flexible Financing for Modest Investments
+Most C&I projects range from a few hundred kilowatts to a few megawatts, 
+translating to investments of $1 million or less. Efficient capital deployment 
+requires financing mechanisms that can mobilize modest amounts repeatedly – 
+despite different clients / counterparties, scaling with the pace of business 
+development.
+Keys to Efficient Capital Deployment
+Reducing the Cost of Capital: The Power of Leverage
+Equity is expensive in Africa, with investors demanding double-digit returns to 
+offset perceived risks. To remain competitive and offer energy prices below 10 
+cts$/kWh, developers need debt financing at single-digit interest rates, with 
+leverage ratios of 70% or higher. This structure improves returns on investment 
+and avoids costly shareholder dilution.
+Currency Dilemma: USD vs. Local Currency Funding
+Developers face a tough choice. USD or EUR funding is cheaper and long-term 
+but can expose projects to foreign exchange risks when power purchase 
+agreements (PPAs) are denominated in local currency. This is a major issue in 
+countries like Nigeria and Egypt, where currency volatility has been extremely 
+challenging in recent years. Local currency funding is more expensive but 
+eliminates FX exposure, provided the cost is sustainable and revenues are 
+indexed to local inflation.
+Afrigreen’s local currency financing in Nigeria with Watt Renewables, 
+westa.solar, and Empower proved that such funding can work, enabling 
+developers to offer competitive energy prices without bearing FX risks.
+=== PAGE 55 ===
+55
+A Bright Future, If 
+Funded Right
+The C&I solar market in Africa is poised for growth – especially when associated 
+with storage - but its success hinges on one critical factor: efficient capital 
+deployment. By addressing the challenges of timing, cost, and currency, 
+stakeholders can harness the full potential of solar energy and make it one of 
+the pillars of Africa’s electricity networks. The tools and strategies exist – what’s 
+needed now is to implement them on a large scale.
+=== PAGE 56 ===
+56
+Country Comparison Tables
+/    Duties & Taxes
+Country
+Import Duties
+VAT on import
+VAT
+Algeria
+customs duty rate of 5% on products for the manufacture of solar panels
+customs duty rate of 5% on products 
+for the manufacture of solar panels 
+The standard VAT is 19% ,reduced to 9%
+The standard VAT is 19% ,reduced to 
+9%
+Angola
+Import duty rate ranges from 2 to 50%
+Import duty rate ranges from 2 to 50%
+The standard VAT rate applies at 14%
+The standard VAT rate applies at 14%
+Benin
+Duties for off-grid solar products range from 5-20%
+Duties for off-grid solar products range 
+from 5-20%
+VAT exemptions on solar equipment import
+VAT exemptions on solar equipment 
+import
+21% of VAT applies to off-grid solar products
+21% of VAT applies to off-grid solar 
+products
+Botswana
+Customs duty exemptions on imported solar technologies
+Customs duty exemptions on imported 
+solar technologies
+Zero-rated VAT on solar equipment
+Zero-rated VAT on solar equipment
+Burkina Faso
+Solar equipment is import duty-free
+Solar equipment is import duty-free
+No VAT on solar equipment
+No VAT on solar equipment
+Burundi
+Solar equipment is duty free, SHS components are taxed at 10%-35%
+Solar equipment is duty free, SHS 
+components are taxed at 10%-35% 
+Solar equipment is VAT-free and SHS components are taxed at 18%
+Solar equipment is VAT-free and SHS 
+components are taxed at 18% 
+Cameroon
+No custom duty on solar products
+No custom duty on solar products 
+No VAT on solar equipment
+No VAT on solar equipment 
+Cape Verde
+No import duties on equipment used to produce renewable energy
+No import duties on equipment used 
+to produce renewable energy
+Solar equipment import is VAT free
+Solar equipment import is VAT free 
+A 15.5% VAT rate is applied on solar water heaters
+A 15.5% VAT rate is applied on solar 
+water heaters
+=== PAGE 57 ===
+57
+Country Comparison Tables
+/    Duties & Taxes
+Central African Republic 
+(CAR)
+Customs duty ranges from 5% to 20%
+Customs duty ranges from 5% to 20%
+The standard VAT rate is 19%
+The standard VAT rate is 19%
+Chad
+Import duties are waived for solar energy products
+Import duties are waived for solar 
+energy products 
+Equipment for RE projects are VAT exempt
+Equipment for RE projects are VAT 
+exempt 
+Comoros
+Renewable equipment is exempt from both import duties and VAT
+Renewable equipment is exempt from 
+both import duties and VAT 
+Democratic Republic of 
+the Congo
+Import duty is waived on solar equipment
+Import duty is waived on solar 
+equipment 
+16% VAT applies to off-grid solar products
+16% VAT applies to off-grid solar 
+products 
+Djibouti
+Renewable energy equipment is import duty-free
+Renewable energy equipment is 
+import duty-free 
+The standard VAT rate on goods and services is 10%
+The standard VAT rate on goods and 
+services is 10%
+Egypt
+2% customs duty on equipment used for RE production
+2% customs duty on equipment used 
+for RE production
+5% VAT applies to solar plant equipment
+5% VAT applies to solar plant 
+equipment
+Equatorial Guinea
+Standard customs duty ranges from 5% to 30%
+Standard customs duty ranges from 5% 
+to 30%
+Prevailing VAT rate is 15%, with a reduced rate of 5%
+Prevailing VAT rate is 15%, with a reduced 
+rate of 5%
+Eritrea
+Solar panels and renewable energy equipment are duty-free
+Solar panels and renewable energy 
+equipment are duty-free 
+5-12% sales tax applies on goods and services
+5-12% sales tax applies on goods and 
+services 
+Country
+Import Duties
+VAT on import
+VAT
+Imported RE equipment is exempt from VAT
+Imported RE equipment is exempt from 
+VAT
+No VAT on imports of solar equipment
+No VAT on imports of solar equipment
+=== PAGE 58 ===
+58
+Country Comparison Tables
+/    Duties & Taxes
+Country
+Import Duties
+VAT on import
+VAT
+Eswatini (formerly 
+Swaziland)
+Solar panels are subject to a 0% import duty
+Solar panels are subject to a 0% import 
+duty
+VAT is 15% on most goods and services
+VAT is 15% on most goods and services
+Ethiopia
+Off-grid solar products are Import duty free
+Off-grid solar products are Import duty 
+free 
+VAT exemption on off-grid solar products
+VAT exemption on off-grid solar 
+products 
+Gabon
+Import duty exemptions for solar equipment
+Import duty exemptions for solar 
+equipment
+5% VAT on RE generation equipment
+5% VAT on RE generation equipment 
+Ghana
+Import tax exemption for solar and RE equipment
+Import tax exemption for solar and RE 
+equipment 
+Solar equipment is VAT exempt
+Solar equipment is VAT exempt 
+Guinea
+Import of solar panels is taxed at a 5% rate
+Import of solar panels is taxed at a 5% 
+rate 
+Equipment for production of RE is VAT exempt
+Equipment for production of RE is VAT 
+exempt 
+Guinea-Bissau
+Exempted import duty on RE equipment
+Exempted import duty on RE 
+equipment 
+The standard VAT is 19% , with a reduced rate of 10%
+The standard VAT is 19% , with a 
+reduced rate of 10%
+Ivory Coast/Cote d'Ivoire
+Renewable energy equipment is exempt from import duties
+Renewable energy equipment is 
+exempt from import duties 
+Equipment for production of solar energy is VAT exempt
+Equipment for production of solar 
+energy is VAT exempt 
+Kenya
+Solar products are exempt from import duty
+Solar products are exempt from import 
+duty 
+16% VAT is levied on solar products
+16% VAT is levied on solar products
+=== PAGE 59 ===
+59
+Country Comparison Tables
+/    Duties & Taxes
+Country
+Import Duties
+VAT on import
+VAT
+Lesotho
+Import duties range between 0-30%
+Import duties range between 0-30% 
+A reduced VAT rate of 5% applies on renewable energy equipment
+A reduced VAT rate of 5% applies on 
+renewable energy equipment 
+Liberia
+No import tariffs on off-grid solar products
+No import tariffs on off-grid solar 
+products 
+The new standard VAT is 18%
+The new standard VAT is 18% 
+Libya
+No general customs duties on imports; most goods pay a 5% service fee plus 0.5% minor import charges
+No general customs duties on imports; 
+most goods pay a 5% service fee plus 0.5% 
+minor import charges 
+Solar equipment is VAT-exempt
+Solar equipment is VAT-exempt 
+Madagascar
+Import duty waived for RE equipment (policy may change in 2026)
+Import duty waived for RE equipment 
+(policy may change in 2026)
+Solar equipment is VAT-exempt
+Solar equipment is VAT-exempt 
+Malawi
+Import duty exemption for solar products
+Import duty exemption for solar 
+products 
+Solar products are levied at a rate of 16.5%
+Solar products are levied at a rate of 
+16.5% 
+Mali
+Solar equipment is customs duty-free
+Solar equipment is customs duty-free
+Off-grid solar products are VAT-free
+Off-grid solar products are VAT-free
+Mauritania
+Customs duties and VAT exemption on import of equipment used for RE power generation
+Customs duties and VAT exemption on 
+import of equipment used for RE power 
+generation 
+Local goods are subject to a 16% VAT rate
+Local goods are subject to a 16% VAT 
+rate 
+Mauritius
+PV systems are exempted from customs duty
+PV systems are exempted from 
+customs duty 
+Most imported goods are subject to a 15% VAT
+Most imported goods are subject to a 
+15% VAT
+No VAT for renewable energy systems
+No VAT for renewable energy systems 
+Green hydrogen equipment imports are VAT-exempt
+Green hydrogen equipment imports 
+are VAT-exempt 
+No VAT on imported RE equipment
+No VAT on imported RE equipment
+=== PAGE 60 ===
+60
+Country Comparison Tables
+/    Duties & Taxes
+Country
+Import Duties
+VAT on import
+VAT
+Morocco
+Solar panels have a 10% import duty, rising to 25% in 2026
+Solar panels have a 10% import duty, 
+rising to 25% in 2026 
+A reduced VAT rate of 10% for solar 
+equipment 
+Mozambique
+7.5% import duty applies on solar products
+7.5% import duty applies on solar 
+products 
+The standard VAT is 16% , but solar panel 
+materials for rural electrification exempt until 
+the end of 2025 
+Namibia
+Import duties exemption on RE equipment
+Import duties exemption on RE 
+equipment 
+15% VAT is levied on most goods 
+Niger
+Import duty exemption for RE products
+Import duty exemption for RE products
+VAT exemption for RE products
+Nigeria
+5% Import duties and 5% VAT on imported solar components
+5% Import duties and 5% VAT on 
+imported solar components 
+Solar panels are VAT exempt 
+Republic of the Congo
+The SNE 2025 commits to fully exempting customs duties and VAT on imported RE equipment
+The SNE 2025 commits to fully 
+exempting customs duties and VAT on 
+imported RE equipment
+The standard VAT is 18.9%
+Rwanda
+No customs duty on solar equipment
+No customs duty on solar equipment 
+Solar equipment is VAT exempt 
+Sao Tome and Principe
+Solar components are exempt from customs duty
+Solar components are exempt from 
+customs duty
+The standard VAT is 15%, reduced to 
+7.5%
+=== PAGE 61 ===
+61
+Country Comparison Tables
+/    Duties & Taxes
+Country
+Import Duties
+VAT on import
+VAT
+Senegal
+3% duty on solar panels, 27% on batteries
+3% duty on solar panels, 27% on 
+batteries
+RE equipment are VAT exempt
+RE equipment are VAT exempt 
+Seychelles
+PV systems are duty-free
+PV systems are duty-free 
+Imported goods for RE generation are VAT free
+Imported goods for RE generation are 
+VAT free 
+Sierra Leone
+Duty-free import of renewable energy products
+Duty-free import of renewable energy 
+products 
+VAT exemption on a case-by-case basis for RE equipment
+VAT exemption on a case-by-case basis 
+for RE equipment 
+Somalia
+Solar equipment eligible for duty-free import
+Solar equipment eligible for duty-free 
+import
+The standard VAT is 5%
+The standard VAT is 5% 
+Somaliland
+100% exemption for solar panels
+100% exemption for solar panels 
+5% Standard VAT applies on goods and services
+5% Standard VAT applies on goods and 
+services 
+South Africa
+10% import duty on solar panels
+10% import duty on solar panels
+The standard VAT on imported solar panels is 15%
+The standard VAT on imported solar 
+panels is 15%
+VAT on solar panels range between 15-16%
+VAT on solar panels range between 15-
+16%
+South Sudan
+0%-25% duties on solar products
+0%-25% duties on solar products 
+Solar products are exempt from VAT
+Solar products are exempt from VAT 
+Sudan
+PV components exempt from import duties
+PV components exempt from 
+import duties 
+Zero VAT on PV system components
+Zero VAT on PV system components
+=== PAGE 62 ===
+62
+Country Comparison Tables
+/    Duties & Taxes
+Country
+Import Duties
+VAT on import
+VAT
+Tanzania
+Solar components are duty-free
+Solar components are duty-free 
+VAT exemption for solar components
+VAT exemption for solar components 
+The Gambia
+https://www.zhengbackpack.com/gam
+bia-import-tax/
+VAT free imports of specialized solar equipment
+VAT free imports of specialized solar 
+equipment 
+Import VAT is charged at a rate of 15%
+Import VAT is charged at a rate of 15% 
+Togo
+Non-CIZO licensees faces 5-20% of import duty
+Non-CIZO licensees faces 5-20% of 
+import duty 
+Solar products face a VAT rate of 18%
+Solar products face a VAT rate of 18% 
+Tunisia
+Import duty rate of 30% on solar panels
+Import duty rate of 30% on solar 
+panels 
+Standard VAT of 19%, with reduced rates of 13% and 7%
+Standard VAT of 19%, with reduced 
+rates of 13% and 7%
+Uganda
+No import duty on solar equipment
+No import duty on solar equipment 
+Zero VAT rate on solar equipment
+Zero VAT rate on solar equipment 
+Zambia
+Import duty exemption for solar PV products
+Import duty exemption for solar PV 
+products 
+Solar products are VAT-free
+Solar products are VAT-free 
+Zimbabwe
+Solar equipment is exempt from import duty
+Solar equipment is exempt from 
+import duty 
+A 15% VAT rate on solar equipment
+A 15% VAT rate on solar equipment
+=== PAGE 63 ===
+63
+Country Comparison Tables
+Country
+Electrification 
+Rate
+Electricity Tariffs
+Residential
+Commercial
+Industrial
+Source
+Algeria
+99%
+99%
+0.009 
+0.062 
+TO 
+0.009
+0.067 
+TO 
+0.005
+0.051 
+TO 
+Link
+Link 
+Angola
+46%
+46%
+0.004
+0.021 
+TO 
+0.011
+0.021
+TO 
+0.011
+0.018 
+TO 
+Link
+Link 
+Benin
+40%
+40%
+0.158
+0.266 
+TO 
+0.164
+0.295 
+TO 
+0.158
+0.270 
+TO 
+Link
+Link
+Botswana
+76.6%
+76.6%
+0.052
+0.109
+TO 
+0.086
+0.168 
+TO 
+0.092
+0.092 
+TO 
+Link
+Link
+Burkina Faso
+34.2%
+34.2%
+0.135
+0.297
+TO 
+0.097
+0.288
+TO 
+0.126 
+0.252 
+TO 
+Link
+Link
+Burundi
+12%
+12%
+0.028
+0.186
+TO 
+0.066
+0.136
+TO 
+0.066 
+0.136 
+TO 
+Link
+Link
+Cameroon
+74%
+74%
+0.090
+0.178
+TO 
+0.151
+0.178 
+TO 
+0.11 
+0.128 
+TO 
+Link
+Link
+Cape Verde
+96%
+96%
+0.286
+0.403 
+TO 
+0.252
+0.291
+TO 
+0.252 
+0.291 
+TO 
+Link
+Link
+Central African 
+Republic (CAR)
+15.7%
+15.7%
+0.104
+0.254 
+TO 
+0.049
+0.068 
+TO 
+0.049 
+0.068 
+TO 
+Link
+Link
+Chad
+12%
+12%
+0.153
+0.225
+TO 
+0.255
+0.255
+TO 
+0.255
+0.255
+TO 
+Link
+Link
+Comoros
+75%
+75%
+0.380
+0.380
+TO 
+0.270
+0.330 
+TO 
+0.270 
+0.330 
+TO 
+Link
+Link
+Electrification Rate & 
+Electricity Tariffs
+/
+=== PAGE 64 ===
+64
+Country Comparison Tables
+Country
+Electrification 
+Rate
+Electricity Tariffs
+Residential
+Commercial
+Industrial
+Source
+Electrification Rate & 
+Electricity Tariffs
+/ 
+Democratic Republic of 
+the Congo
+21%
+21%
+0.039
+0.087
+TO 
+0.095
+0.098
+TO 
+0.044
+0.057
+TO 
+Link
+Link 
+Djibouti
+65%
+65%
+0.150
+0.310
+TO 
+0.235
+0.375
+TO 
+0.185
+0.230 
+TO 
+Link
+Link 
+Egypt
+100%
+100%
+0.014
+0.048
+TO 
+0.018
+0.049 
+TO 
+0.034
+0.037 
+TO 
+Link
+Link
+Equatorial Guinea
+66.9%
+66.9%
+0.099
+0.099
+TO 
+0.126
+0.153
+TO 
+0.108
+0.126
+TO 
+Link
+Link
+Eritrea
+53%
+53%
+0.240
+0.240
+TO 
+0.240
+0.240
+TO 
+0.240 
+0.240 
+TO 
+Link
+Link
+Eswatini 
+(formerly 
+Swaziland)
+88%
+88%
+0.089
+0.328
+TO 
+0.177
+0.177
+TO 
+0.177
+0.177
+TO 
+Link
+Link
+Ethiopia
+55.4%
+55.4%
+0.005
+0.033
+TO 
+0.032
+0.032
+TO 
+0.016
+0.020
+TO 
+Link
+Link
+Gabon
+93%
+93%
+0.094
+0.2028
+TO 
+0.129
+0.162
+TO 
+0.129
+0.162
+TO 
+Link
+Link
+Ghana
+89%
+89%
+0.071
+0.212
+TO 
+0.113
+0.216
+TO 
+0.172
+0.452
+TO 
+Link
+Link
+Guinea
+53%
+53%
+0.012
+0.05
+TO 
+0.129
+0.306
+TO 
+0.201
+0.281
+TO 
+Link
+Link
+Guinea-Bissau
+33%
+33%
+0.230
+0.441
+TO 
+0.232
+0.29
+TO 
+0.184
+0.23
+TO 
+Link
+Link
+=== PAGE 65 ===
+65
+Country Comparison Tables
+Country
+Electrification 
+Rate
+Electricity Tariffs
+Residential
+Commercial
+Industrial
+Source
+Electrification Rate & 
+Electricity Tariffs
+/ 
+Ivory Coast/Cote 
+d'Ivoire
+71%
+71%
+0.046
+0.222
+TO 
+0.109
+0.235
+TO 
+0.106
+0.154
+TO 
+Link
+Link 
+Kenya
+75%
+75%
+0.095
+0.145
+TO 
+0.052
+0.148
+TO 
+0.044
+0.105
+TO 
+Link
+Link 
+Lesotho
+53%
+53%
+0.056
+0.125
+TO 
+0.02
+0.022 
+TO 
+0.02
+0.022 
+TO 
+Link
+Link
+Liberia
+32.7%
+32.7%
+0.150
+0.240
+TO 
+0.190
+0.220
+TO 
+0.190
+0.220
+TO 
+Link
+Link
+Libya
+73.2%
+73.2%
+0.004
+0.006
+TO 
+0.008
+0.012
+TO 
+0.006
+0.008
+TO 
+Link
+Link
+Madagascar
+36%
+36%
+0.151
+0.755
+TO 
+0.093
+0.376
+TO 
+0.070
+0.229
+TO 
+Link
+Malawi
+25.9%
+25.9%
+0.037
+0.09
+TO 
+0.125
+0.147
+TO 
+0.05
+0.163
+TO 
+Link
+Link
+Mali
+53%
+53%
+0.106
+0.275
+TO 
+0.139
+0.239
+TO 
+0.123
+0.239
+TO 
+Link
+Link
+Mauritania
+55%
+55%
+0.061
+0.148
+TO 
+0.148
+0.148
+TO 
+0.054
+0.148
+TO 
+Link
+Link
+Mauritius
+100%
+100%
+0.048
+0.193
+TO 
+0.065
+0.220
+TO 
+0.065
+0.119
+TO 
+Link
+Link
+Morocco
+100%
+100%
+0.099
+0.247
+TO 
+0.056
+0.226
+TO 
+0.057
+0.272
+TO 
+Link
+Link
+=== PAGE 66 ===
+66
+Country Comparison Tables
+Country
+Electrification 
+Rate
+Electricity Tariffs
+Residential
+Commercial
+Industrial
+Source
+Electrification Rate & 
+Electricity Tariffs
+/ 
+Mozambique
+40%
+40%
+0.096
+0.143
+TO 
+0.076
+0.076
+TO 
+0.075
+0.075
+TO 
+Link
+Link 
+Namibia
+59.4%
+59.4%
+0.08
+0.189
+TO 
+0.168
+0.273
+TO 
+0.052
+0.431
+TO 
+Link
+Link 
+Niger
+20.1%
+20.1%
+0.107
+0.246
+TO 
+0.173
+0.246
+TO 
+0.101
+0.246
+TO 
+Link
+Link
+Nigeria
+61.2%
+61.2%
+0.003
+0.145
+TO 
+0.031
+0.145
+TO 
+0.031
+0.145
+TO 
+Link
+Link
+Republic of the 
+Congo
+32%
+32%
+0.056
+0.088
+TO 
+0.052
+0.052
+TO 
+0.046
+0.046
+TO 
+Link
+Link
+Rwanda
+84.6%
+84.6%
+0.061
+0.255
+TO 
+0.076
+0.259
+TO 
+0.067
+0.121
+TO 
+Link
+Link
+Sao Tome and 
+Principe
+84%
+84%
+0.078
+0.18
+TO 
+0.18
+0.33
+TO 
+0.161
+0.161
+TO 
+Link
+Link
+Senegal
+84%
+84%
+0.164
+0.307
+TO 
+0.165
+0.447
+TO 
+0.129
+0.26
+TO 
+Link
+Link
+Seychelles
+100%
+100%
+0.128
+0.333
+TO 
+0.297
+0.436
+TO 
+0.296
+0.36
+TO 
+Link
+Link
+Sierra Leone
+36%
+36%
+0.105
+0.264
+TO 
+0.265
+0.276
+TO 
+0.248
+0.293
+TO 
+Link
+Link
+Somalia
+49%
+49%
+0.450
+1.00
+TO 
+0.450
+1.00
+TO 
+0.450
+1.00
+TO 
+Link
+Link
+=== PAGE 67 ===
+67
+Country Comparison Tables
+Country
+Electrification 
+Rate
+Electricity Tariffs
+Residential
+Commercial
+Industrial
+Source
+Electrification Rate & 
+Electricity Tariffs
+/ 
+Somaliland
+50.3%
+50.3%
+0.200
+0.500
+TO 
+0.200
+0.500
+TO 
+0.200
+0.500
+TO 
+Link
+Link 
+South Africa
+94.7%
+94.7%
+0.075
+0.498
+TO 
+0.063
+0.419
+TO 
+0.054
+0.388
+TO 
+Link
+Link 
+South Sudan
+15%
+15%
+0.271
+0.285
+TO 
+0.320
+0.320
+TO 
+0.348
+0.348
+TO 
+Link
+Link
+Sudan
+66%
+66%
+0.068
+0.128
+TO 
+0.077
+0.153
+TO 
+0.085
+0.085
+TO 
+Link
+Link
+Tanzania
+48.3%
+48.3%
+0.08
+0.10
+TO 
+0.08
+0.10
+TO 
+0.06
+0.08
+TO 
+Link
+Link
+The Gambia
+75%
+75%
+0.18
+0.188
+TO 
+0.194
+0.194
+TO 
+0.207
+0.207
+TO 
+Link
+Link
+Togo
+70%
+70%
+0.108
+0.261
+TO 
+0.133
+0.257
+TO 
+0.09
+0.22
+TO 
+Link
+Link
+Tunisia
+100%
+100%
+0.026
+0.119
+TO 
+0.055
+0.157
+TO 
+0.061
+0.1334
+TO 
+Link
+Link
+Uganda
+57%
+57%
+0.07
+0.212
+TO 
+0.078
+0.182
+TO 
+0.052
+0.12
+TO 
+Link
+Link
+Zambia
+54%
+54%
+0.032
+0.176
+TO 
+0.028
+0.117
+TO 
+0.028
+0.073
+TO 
+Link
+Link
+Zimbabwe
+62%
+62%
+0.05
+0.25
+TO 
+0.06
+0.23
+TO 
+0.06
+0.23
+TO 
+Link
+Link
+=== PAGE 68 ===
+68
+OBJECTIVES
+This section contains information on the objectives of a country to include 
+renewable energy in its energy mix. Targets are set for the next 5 years, 10 
+years or maybe more. These objectives are only the targets officially 
+announced by the country and do not constitute a guarantee of future 
+solar development. It may be interesting to compare these various 
+announcements with actual solar that has been developed a few years 
+later.
+ELECTRIFICATION RATE
+This shows the percentage of people in each country that has access to 
+the grid and/or electricity. It also highlights electrification rate objectives 
+in the near future. Please keep in mind that different countries count 
+“electrification” differently. In some countries it means “connected to the 
+grid”, in some other it means “has access to lighting, even through SHS”.
+POLICY / REGULATION
+Lists all applicable rules in terms of duties, taxes, exemptions, net-
+metering, wheeling, feed-in tariffs or any special government program that 
+supports or restricts the deployment of solar or renewables in general in a 
+country.
+Country Vignettes 
+Explained
+=== PAGE 69 ===
+69
+TOTAL PV INSTALLED
+Displays figures of the currently installed capacity as identified by AFSIA 
+for each solar segment. We only display figures of projects that have been 
+verified by AFSIA and are recorded as such in AFSIA projects database.
+NOTEWORTHY DEVELOPMENTS
+Identifies bigger projects/programs that are either under development, 
+construction, tendering or any other phase of development and which are 
+expected to significantly contribute to the solar opportunity in a given 
+country.
+CURRENT TARIFF GRID ELECTRICITY
+Represents the tariff charged to different types of consumers classified by 
+residential, commercial, and industrial depending on their electricity 
+consumption. This tariff provides the range between the minimum and the 
+maximum $/kWh charged per category in this country. The prices shown 
+are exclusive of VAT.
+Country Vignettes 
+Explained
+Key Institutions
+This section gives you direct links to the nation’s key electricity institutions including 
+the Ministry, the regulator, the national utility company and the rural electrification 
+agency if any.
+=== PAGE 70 ===
+70
+Table of Contents
+(Country links)
+Algeria
+Angola
+Benin
+Botswana
+Burkina Faso
+Burundi
+Cameroon
+Cape Verde
+Chad
+Comoros
+Central African Rebublic 
+(CAR)
+DR Congo
+Republic of the Congo
+Djibouti
+Egypt
+Equatorial Guinea
+Eritrea
+Eswatini
+Ethiopia
+Gabon
+Ghana
+Guinea
+Guinea-Bissau
+Ivory Coast
+Kenya
+Lesotho
+Liberia
+Libya
+Madagascar
+Malawi
+Mali
+Mauritania
+Mauritius
+Mozambique
+Namibia
+Niger
+Nigeria
+Rwanda
+Sao Tome and Principe
+Senegal
+Seychelles
+Sierra Leone
+Somalia
+South Africa
+South Sudan
+Sudan
+Tanzania
+The Gambia
+Togo
+Tunisia
+Uganda
+Zambia
+Zimbabwe
+Somaliland
+Morocco
+=== PAGE 71 ===
+71
+Algeria
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+363.00 MWp PV+
+ 25 MWe CSP
+11.57 MWp 
+1.95 MWp 
+23.06 MWp
+308.50 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.009
+$ 0.009
+$ 0.005
+MAX
+$ 0.062
+$ 0.067
+$ 0.051
+Noteworthy Developments
+• Sonelgaz re-launched the tender for three PV projects totaling 520 MW link 
+• 200 MW under construction at Gara Djebilet mining site link
+• Sonatrach and VNG AG to co-develop 50 MW green hydrogen plant link
+• The country is set to commission 400 MW solar under its 3,200 renewable 
+energy flagship program link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Add 22 GW of renewable energy capacity by 2030 link
+• Install 13.5 GW of solar PV and 2 GW of CSP by 2030 link
+• Reach 30% RE share in the energy mix, equating to 15 GW by 2035 link
+Policy / Regulation
+• Reduced customs duty rate of 5% on the products for the 
+manufacture of solar panels link 
+• The standard VAT is 19%, reduced to 9% link 
+• FiT applies to solar plants of 1 MW and above link 
+• No net metering policy in place link
+Electrification Rate
+• 99% of the population has access to electricity link 
+EMBER
+=== PAGE 72 ===
+72
+Angola
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+394.05 MWp 
+2.11 MWp 
+25.03 MWp 
+0 MWp
+22.64 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.004
+$ 0.011
+$ 0.011
+MAX
+$ 0.021
+$ 0.021
+$ 0.018
+Noteworthy Developments
+• EXIM Bank financing two 600 MW projects link 
+• AMEA Power developing a 150 MW solar project link 
+• Construction started on the 35 MWp Quilemba solar by TotalEnergies, 
+Sonangol and Greentech link 
+• Masdar developing the 150 MW Quipungo solar power project link
+• MCA developing 256 MW of solar in the Eastern province link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Boost renewable energy production to 73% of installed capacity (including 
+hydropower) by 2027 and 94% of installed capacity by 2050 link
+• Grow the electricity sector’s installed capacity to 10 GW by 2027 and 33 
+GW by 2050 link
+Policy / Regulation
+• Import duty rate ranges from 2 to 50% link 
+• The standard VAT rate applies at 14% link 
+• Net metering and FiT policies apply to projects with a capacity of 
+10 MW or more link 
+Electrification Rate
+• 46% of the population has access to electricity link 
+• 44% in urban and less than 10% in rural areas link
+EMBER
+=== PAGE 73 ===
+73
+Benin
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+27.25 MWp
+8.43 MWp 
+3.81 MWp 
+8.90 MWp
+61.05 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.158
+$ 0.164
+$ 0.158
+MAX
+$ 0.266
+$ 0.295
+$ 0.270
+Noteworthy Developments
+• Axian launched 4 solar projects totaling 50 MWac link 
+• EXIM Bank supporting the installation of 750 rooftop solar systems link
+• Govt developing a 300 MW solar plant and 100 MW rooftop solar at the 
+GDIZ link
+Key Electricity Institutions
+Ministry
+Regulator
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Reach 150 MW of solar power generation by 2026 link
+• Make renewable energy the main power source by 2030 link
+• Attain 30% of renewable energy share in the electricity mix by 
+2030 link
+Policy / Regulation
+• Duties for off-grid solar products range from 5–20% link 
+• 21% of VAT applies to off-grid solar products link 
+• VAT exemptions on solar equipment import link 
+• Net metering is prohibited link , FiT is not in place link
+Electrification Rate
+• Total electrification rate stands at 40% link 
+• Targets 100% of electricity access by 2030 link
+EMBER
+=== PAGE 74 ===
+74
+Botswana
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+150.10 MWp
+20.53 MWp 
+0.01 MWp 
+0.03 MWp
+21.14 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.052
+$ 0.086
+$ 0.092
+MAX
+$ 0.109
+$ 0.168
+$ 0.092
+Noteworthy Developments
+• AAAS Energy developing 250 MW+400 MWh data center campus link 
+• A 1.5 GW solar tender has been announced by the Government link 
+• Solarcentury developing a 100 MW Lotsane Solar link 
+• Government signed deal to develop a 500 MW solar PV project link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Boost RE to 50% of its mix by 2030 link
+• Install 200 MW of CSP by 2026 link
+• Add 8 GW of solar power by 2030 link
+Policy / Regulation
+• Customs duty relief for imported solar technologies link 
+• Zero-rated VAT on solar equipment link 
+• Feed-in Tariff is not yet in effect link , Net metering exists link
+• Permit required for C&I systems between 100 KW and 1 MW link
+Electrification Rate
+• 76.6% of the population is electrified link 
+• Universal electricity access targeted by 2030 link
+EMBER
+=== PAGE 75 ===
+75
+Burkina Faso
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+230.70 MWp
+19.87 MWp 
+1.15 MWp 
+5.35 MWp
+54.18 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.135
+$ 0.097
+$ 0.126
+MAX
+$ 0.297
+$ 0.288
+$ 0.252
+Noteworthy Developments
+• Gutami developing 150 MWp solar + 40 MWh BESS link 
+• Tenders have been reopened for the 75 MWp/75 MWh Konéan project and 
+the 45 MWp/45 MWh Kouritenga project link 
+• Agreement signed for the construction of the 50 MWp Komsilga Solar link 
+• SEFA backing the development of  18 MW Dedougou Solar plant link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Rural Electrification Agency
+Objectives
+• Achieve a 50% share of renewable energy in the national energy 
+mix by 2030 link
+• National solar target of approximately 1,000 MW of capacity by 
+2030 link
+Policy / Regulation
+• Solar equipment is import duty-free link 
+• No VAT for solar equipment link 
+• No FiT provision in place link 
+• No formal net metering mechanism currently exists link
+Electrification Rate
+• National access to electricity stands at 34.2% link 
+• Plans to achieve 90% of electricity access by 2030 link
+EMBER
+=== PAGE 76 ===
+76
+Burundi
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+8.67 MWp
+2.62 MWp 
+0.61 MWp 
+0.62 MWp
+3.99 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.028
+$ 0.066
+$ 0.066
+MAX
+$ 0.186
+$ 0.136
+$ 0.136
+Noteworthy Developments
+• Government committed to expand the 7.5 MW Mubuga solar link 
+• 65,000 homes to benefit from the Soleil-Nyakiriza off-grid project link 
+• SOLAR23 to power 316 health centers via Soleil-Nyakiriza Project link
+• Multiplex Partners to electrify 45 health centers and 256 schools 
+under Soleil-Nyakiriza
+Key Electricity Institutions
+Ministry
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• No national renewable energy targets were identified
+Policy / Regulation
+• Solar equipment is duty free, SHS components are taxed at 10%-35% link 
+• Solar equipment is VAT-free and SHS components are taxed at 18% link 
+• Authorization required for generation systems >500 kW link 
+• No net metering link and no FiT policies in place link
+Electrification Rate
+• 12% of the population is electrified link 
+• Targets universal electricity access by 2030 link
+EMBER
+=== PAGE 77 ===
+77
+Cameroon
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+37.37 MWp
+2.98 MWp 
+14.33 MWp 
+15.50 MWp
+122.48 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.090
+$ 0.151
+$ 0.110
+MAX
+$ 0.178
+$ 0.178
+$ 0.128
+Noteworthy Developments
+• Work started to expand Maroua and Guider solar plants to 64.4 MWp link 
+• The Govt. plans to deliver 6 solar mini-plants totaling 7.2 MWp link
+• 35 MW Dang solar Plant under development by Afreenergy link 
+• Government launched the construction on 87 new mini-grids, advancing its 
+goal to commission 1,000 rural solar plants link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Achieve 25% of renewable energy, excluding large hydro by 2035 link
+• Solar in the energy mix to reach 250 MW by 2030 link
+• Increase installed generation capacity to 3 GW, with 10% sourced 
+from RE by 2030 link
+• Connect an additional 8 million people to the grid by 2030 link
+Policy / Regulation
+• No custom duty on solar products link 
+• No VAT on solar equipment link 
+• IPPs requires licenses to generate electricity link 
+• Net metering and FiT policies in place link
+Electrification Rate
+• Total electrification rate stands at 74% link 
+• 94% in urban and 25% in rural areas link
+• Seeks to achieve 100% electricity access by 2030 link 
+EMBER
+=== PAGE 78 ===
+Nextracker is now
+NEXT
+POWER w
+Built to lead what's next.
+=== PAGE 79 ===
+79
+Cape Verde
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+39.82 MWp 
+0.78 MWp 
+0.29 MWp 
+0 MWp
+3.74 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.286
+$ 0.252
+$ 0.252
+MAX
+$ 0.403
+$ 0.291
+$ 0.291
+Noteworthy Developments
+• Palmarejo solar plant to be expanded to 10 MW link
+• Tender launched for 10 MW solar in Cidade da Praia link 
+• WinPower developing 26 MWh BESS across 3 islands link
+• Africa Investment Contracting developing a 15 MW solar plant link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Raise the share of renewable energy in the energy mix to 30% by 
+2026, 50% by 2030 and over 80% by 2040 link
+• Reach 100% of RE penetration by 2050 link
+• Achieve over 160 MW of new solar projects by 2030 link
+Policy / Regulation
+• No import duties on equipment used to produce renewable energy link 
+• Solar equipment import is VAT free link
+• A 15.5% VAT rate is applied on solar water heaters link 
+• Net metering available link , FiT in place link
+Electrification Rate
+• 96% of the population is electrified link 
+• Aims for universal electricity coverage by 2026 link
+EMBER
+=== PAGE 80 ===
+80
+Central African 
+Republic
+Total PV Installed
+• Utility-scale
+• C&I 
+• MG 
+• SHS
+• Residential
+40.00 MWp
+2.53 MWp 
+1.08 MWp 
+0 MWp
+7.67 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.104
+$ 0.049
+$ 0.049
+MAX
+$ 0.258
+$ 0.068
+$ 0.068
+Noteworthy Developments
+• Government launched a 60 MW solar plant to boost electricity supply link
+• World Bank supporting installation of 5 MGs totaling 10 MW link 
+• World Bank financing  15 MWp expansion for Danzi Solar Farm link 
+• Global South Utilities began 50 MW/10 MWh solar plant construction link 
+• Aptech Africa and MDERH to electrify 240 health centers, 240 schools, 80 
+administrative buildings and 10,200 solar streetlights
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Provide reliable electricity services to 1 million people by 2027 link
+• Expand renewable energy to promote a sustainable, climate-resilient 
+green economy by 2028 link
+Policy / Regulation
+• Customs duty ranges from 5% to 20% link 
+• The standard VAT rate is 19% link
+• A withholding tax rate of 15% link
+• No net metering and FiT available link 
+Electrification Rate
+• National electrification rate stands at 15.7% link 
+• Aims to increase the electricity access to 50% by 2030 link
+EMBER
+=== PAGE 81 ===
+81
+Chad
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+63.00 MWp
+1.19 MWp 
+11.31 MWp 
+0.15 MWp
+34.71 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.153
+$ 0.225
+$ 0.225
+MAX
+$ 0.225
+$ 0.225
+$ 0.225
+Noteworthy Developments
+• Axian Energy to develop 100 MW +  50 MWh project in N’Djamena link 
+• 60 MW Gaoui solar plant under development by AMEA Power link 
+• Elsewedy electric building the 36 MW D'jermaya solar link 
+• 120 MW is under development by Convalt Energy in N’Djamena link
+• 36 MW + 20 MWh project under construction by Release by Scatec in 
+Klessoum link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Achieve 30% of renewable energy in the mix by 2030 link
+• Deliver 886 MW of total new installed power capacity by 2030 link
+• Solar energy planned to contribute 520 MW of the overall capacity link
+Policy / Regulation
+• Import duties are waived for solar energy products link 
+• Equipment for RE projects is VAT exempt link 
+• Imported RE equipment are exempt from VAT link 
+• No established net metering policy link , no FiT link
+Electrification Rate
+• 12% of the population has access to electricity link 
+• Targeting 90% of electricity access by 2030 link
+EMBER
+=== PAGE 82 ===
+82
+Comoros
+Total PV Installed
+• Utility-scale
+• C&I 
+• MG 
+• SHS
+• Residential
+12.56 MWp
+0.21 MWp 
+0.18 MWp 
+0.03 MWp
+6.40 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.423
+$ 0.309
+$ 0.309
+MAX
+$ 0.423
+$ 0.377
+$ 0.377
+Noteworthy Developments
+• 5 MW Mitsamiouli solar under development by Innovent Group link 
+• Government plans to build 1 MW of solar in Mwali link 
+• World Bank supporting 3 solar PV plants of 9 MW Solar + 19 MWh 
+BESS link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Reach 45% of RE in the energy mix by 2030 link
+• Raise the RE share in the energy mix to 33 MW by 2030 link
+• Achieve 55% renewable electricity generation by 2033 link
+Policy / Regulation
+• Renewable energy equipment is exempt from both import duties 
+and VAT link 
+• No Feed-in Tariff (FIT) legislation in place link 
+• No formal net metering policy link
+Electrification Rate
+• 75% of the population is electrified link 
+• Plans to achieve universal electricity access by 2030 link
+EMBER
+=== PAGE 83 ===
+83
+Democratic 
+Republic Of 
+Congo
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+0 MWp
+29.34 MWp 
+12.84 MWp 
+9.42 MWp
+168.48 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.039
+$ 0.095
+$ 0.044
+MAX
+$ 0.087
+$ 0.098
+$ 0.057
+Noteworthy Developments
+• 233 MWp + 526 MWh Kamoa Copper plant under construction by CBE link 
+• Soleos Energy is building a 200 MW solar plant link 
+• AFC and SkyPower to develop 200 MW (Phase 1 of 1 GW) link
+• 100 MW solar plant under development by Gigawatt Global link
+• Sun Africa launched a 4000 MW renewable energy project link
+• Green World to add 200 MWp + 581 MWh storage at Kamoa Copper link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Mobilize USD 20 billion in private investment by 2030 for power 
+production, transport, distribution and renewable energies link
+• Raise the renewable energy capacity to 42.7 MW through solar, wind 
+and hydroelectric energy by 2030 link
+Policy / Regulation
+• Import duty is waived on solar equipment link 
+• No VAT on imports of solar equipment link 
+• 16% VAT applies to off-grid solar products link 
+• No net metering policy in place link
+• Feed-In Tariff currently unavailable link
+Electrification Rate
+• 21% of the population has access to electricity link 
+• Aims to reach 62% of electricity access by 2030 link
+EMBER
+=== PAGE 84 ===
+84
+Solar Power is reshaping 
+mining investment and 
+operations in the DRC
+Copper is at the center of the global energy transition. As the world shifts to electric 
+transportation, expands power grids, and builds more digital infrastructure, the need for 
+copper surges, and the mining sector is expanding with it. As the sector grows, so does the 
+need for reliable, affordable, and increasingly clean energy. But this has historically been a 
+challenge in regions like DRC, which form a vital part of the copper supply chain. In 2024, DRC 
+produced an impressive 3.3 million tonnes of copper, about 11% of the world’s total output.
+Project Development Director, CrossBoundary 
+Energy
+Gracia Munganga
+84
+=== PAGE 85 ===
+85
+To expand its mining footprint and increase investment, the DRC requires stable 
+electricity supply. The electricity deficit in the DRC is estimated at around 2.7 
+GW. Power outages, unreliable grids, and dependence on drought-prone 
+hydropower put mines in the region at risk of power outages. When supply 
+falters, these mines often turn to expensive diesel or heavy-fuel-oil generators to 
+continue production. This reliance not only increases costs but also leaves 
+operations exposed to volatile fuel prices and fragile supply chains.
+The good news is that solar PV and Battery Energy Storage Systems (BESS) are 
+changing the game. Solar power is now one of the cheapest energy sources 
+available. In Sub-Saharan Africa, solar module prices dropped from US$0.27 to 
+US$0.09 per watt between 2022 and 2024. Battery storage technology has also 
+seen dramatic price drops—down 97% since 1991, and 40% just between 2023 
+and 2024.
+These decreases in costs, accompanied by increasingly sophisticated technology, 
+have unlocked a game-changing advancement that can address one of mining 
+companies’ 
+largest 
+hesitations 
+toward renewables 
+like 
+solar power: 
+intermittency.
+A current example of this transformation is the establishment of a large-scale 
+solar PV/BESS facility at the Kamoa-Kakula Mining Complex, a project that is 
+redefining what’s possible with renewable energy in mining. The Kamoa-Kakula 
+Mining Complex is Africa’s largest copper mine. In late 2025, the mine received 
+about 110 MW additional A current example of this transformation is the 
+establishment of a large-scale solar PV/BESS facility at the Kamoa-Kakula Mining 
+Complex, a project that is redefining what’s possible with renewable energy in 
+mining. The Kamoa-Kakula Mining Complex is Africa’s largest copper mine. In 
+late 2025, the mine received about 110 MW additional electrical capacity, 
+mainly from a rehabilitated hydropower facility. But with plans to ramp up 
+production, its power needs are projected to soar to approximately 347 MW by 
+the end of 2028.
+The Kamoa-Kakula Solar/BESS Baseload Project is set to deliver a reliable, 30 
+MW baseload solution for the mine—24/7, dispatchable, and generated by the 
+sun.
+=== PAGE 86 ===
+86
+The project, currently under construction, will use a 233 MWp solar photovoltaic 
+(PV) plant, oversized to charge a massive 526 MWh battery storage facility. The 
+result is constant, dispatchable baseload power, available around the clock 
+without relying on the grid or fossil fuels.
+The mining company will buy this power directly from CrossBoundary Energy as 
+it would from a traditional utility, but with the benefit of on-site, green 
+electricity. This model is cost-effective and shields the mine from global energy 
+price volatility and supply chain vulnerabilities.
+There’s also a big environmental upside. By switching to this solar and battery 
+solution, the mining complex expects to cut its carbon footprint by roughly 
+78,750 tonnes per year, cementing its status as one of Africa’s lowest-carbon 
+copper producers.
+New solar innovations, like those deployed through Kamoa-Kakula Solar/BESS 
+Baseload Project, are proof that renewable baseload power isn’t just a vision for 
+the future—it is happening now. Falling renewables costs, the solar resources in 
+Africa, and advances in battery technology mean that mines can finally break 
+free from unreliable grids and expensive diesel.
+For investors, this shift is crucial. Mines with stable, affordable, and green energy 
+are more likely to attract sustained investment, deliver reliable returns, and 
+comply with increasing global environmental standards.
+As global copper demand accelerates, the DRC’s ability to secure clean, 
+affordable, and reliable power will define its future. The Kamoa-Kakula 
+Solar/BESS Baseload Project shows that with the right technology and 
+investment, renewable energy like solar PV can deliver the stability, cost savings, 
+and sustainability that modern mining demands.
+=== PAGE 87 ===
+87
+Republic Of 
+The Congo
+Total PV Installed
+• Utility-scale
+• C&I 
+• MG 
+• SHS
+• Residential
+0 MWp
+0.33 MWp 
+3.40 MWp 
+0.85 MWp
+4.69 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.056
+$ 0.052
+$ 0.046
+MAX
+$ 0.088
+$ 0.052
+$ 0.046
+Noteworthy Developments
+• 65 MW Ignie solar plant under development by Tinda energy link 
+• AMEA Power is developing a 50 MW solar project link 
+• Govt in partnership with Bboxx, plans to provide SHSs to 10,000 homes link
+• 257 mini-grids are being developed under the PEZor Rural Electrification 
+Program with UNDP support link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Renewable energy share to exceed 60% of installed capacity by 2035 link
+• Achieve 2,697 MW of renewable energy capacity by 2030 link
+• Increase the generation capacity to 1.5 GW by 2030 with a strong focus on 
+renewable sources link
+Policy / Regulation
+• The SNE 2025 commits to fully exempting customs duties and VAT 
+on imported RE equipment link 
+• The standard VAT is 18.9% link 
+• No net metering, no FiT available link 
+• WHT general rate stands at 20% link
+Electrification Rate
+• 32% of the population is electrified link 
+• 39% in urban and 1% in rural areas link
+• Aiming for an electrification rate of 81% by 2030 link
+EMBER
+=== PAGE 88 ===
+88
+Djibouti
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+0 MWp
+2.99 MWp 
+0.17 MWp 
+0 MWp
+24.48 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.150
+$ 0.235
+$ 0.185
+MAX
+$ 0.310
+$ 0.375
+$ 0.230
+Noteworthy Developments
+• AMEA Power constructing 25 MW Grand Bara solar project link 
+• Deal signed with Egypt to develop a 276.5 MW solar project link
+• Elsewedy to develop a 23 MW solar+storage plant in Doraleh port link
+• EIB supporting construction of 12 MW Doraleh desalination plant link
+• Qatar Charity building a solar-powered desalination plant in Dalaf to 
+supply safe water to 5,000 residents link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Achieve 100% of renewable energy in the electricity mix by 2035 link
+• Reduce national carbon emissions by 40% by 2030 link
+• Increase the energy generation and distribution of cleaner, more 
+affordable energy by 2027 link
+Policy / Regulation
+• Renewable energy equipment is import duty-free link 
+• The standard VAT rate on goods and services is 10% link 
+• The standard rate of the WHT is 15% link 
+• No net metering, no FiT link
+Electrification Rate
+• Total electrification rate stands at 65% link
+• Seeks to achieve universal access to electricity by 2030 link
+EMBER
+=== PAGE 89 ===
+89
+Egypt
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+2850.11 MWp PV + 
+20 MWe CSP
+394.25 MWp 
+0.14 MWp 
+4.89 MWp
+1074.18 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.014
+$ 0.018
+$ 0.034
+MAX
+$ 0.048
+$ 0.049
+$ 0.037
+Noteworthy Developments
+• Scatec constructing 1 GW solar + 200 MWh BESS Obelisk project link 
+• Scatec to build 1.1 GW and 200 MWh BESS solar plant  for Egyptalum link
+• Masdar developing 1.2 GW solar plants with 720 MWh storage link   
+• 3.1 GW green hydrogen project under development in South Sinai link
+• Construction of Abydos II (1 GW solar + 600 MWh storage) underway link 
+• ACO and IRSC signed deal to develop 75 MW of solar PV projects link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Increase renewable share to 42% by 2030 and 60% by 2040 link
+• Expand renewable energy capacity to 21 GW by 2030 link
+• Reach 31.6 GW of renewable capacity by 2035 link
+• Boost Solar's share in the electricity mix to over 26% by 2030, with 
+21.3% from PV and 5.52% from CSP link
+Policy / Regulation
+• 2% customs duty on equipment used for RE production link 
+• A 5% VAT applies to solar plant equipment link 
+• Functional net metering scheme link
+• FiT available for 20-50 MW solar projects link
+• Wheeling regulation in place link 
+Electrification Rate
+• The population has full electricity access link
+EMBER
+=== PAGE 90 ===
+90
+Equatorial 
+Guinea
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+0 MWp 
+0 MWp 
+5.14 MWp 
+0.07 MWp
+1.32 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.099
+$ 0.126
+$ 0.108
+MAX
+$ 0.099
+$ 0.153
+$ 0.126
+Noteworthy Developments
+• Atlas Renewable Energy is developing a 50 MW solar Power plant link 
+• The government is developing 20 MW solar via the Green 
+electrification project link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Reach 30% of renewable energy in the energy mix by 2030 link
+Policy / Regulation
+• Standard customs duty ranges from 5% to 30% link 
+• Prevailing VAT rate is 15%, with a reduced rate of 5% link 
+• Net metering policy still under development link 
+• No Feed-In Tariff Policy link
+Electrification Rate
+• 66.9% of the population has access to electricity link 
+• Target to raise the electricity access to 80% by 2030 link
+EMBER
+=== PAGE 91 ===
+91
+Eritrea
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+0 MWp
+7.90 MWp 
+2.25 MWp 
+0.03 MWp
+10.72 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.016
+$ 0.016
+$ 0.016
+MAX
+$ 0.016
+$ 0.016
+$ 0.016
+Noteworthy Developments
+• China Energy Group building the 25 MW+30 MWh Dekemhare solar link 
+• AfDB funding the rollout of mini-grids projects totaling 12 MW link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Renewable energy to contribute 20% of electricity by 2030 link
+• Deploy 50 MW of on-grid solar PV by 2030 link
+• Introduce 15 MW of hybrid mini-grid capacity by 2030 link
+Policy / Regulation
+• Solar panels and renewable energy equipment are duty-free link 
+• 5-12% sales tax applies on goods and services link 
+• No net metering scheme link , no FiT in place link
+Electrification Rate
+• The national electrification access rate stands at 53% link 
+• Coverage is at 76% in urban and 10% in rural areas link
+EMBER
+=== PAGE 92 ===
+92
+Eswatini
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+10.00 MWp
+10.83 MWp 
+0.07 MWp 
+0.03 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.089
+$ 0.177
+$ 0.177
+MAX
+$ 0.328
+$ 0.177
+$ 0.177
+Noteworthy Developments
+• ESERA-led solar IPP to deliver 75 MW solar PV supply program link
+• Frazium Energy building the 100 MW Edwaleni solar plant link 
+• ASCENT Eswatini to electrify 50,000 households with on and off-grid 
+systems link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Achieve 50% of renewable energy in the power mix by 2030 link
+• Reach a total centralized power capacity of 681 MW including 
+250 MW of solar PV and 165 MW of wind by 2034 link
+• Install 61 MW decentralized capacity by 2034 link 
+Policy / Regulation
+• Solar panels are subject to a 0% import duty link 
+• VAT is 15% on most goods and services link 
+• Net metering operates as net-billing under the SSEG framework link 
+• Feed-in Tariff is currently under consultation link
+Electrification Rate
+• Total electrification rate stands at 88% link 
+• Plans to reach universal electricity access by 2030 link
+EMBER
+=== PAGE 93 ===
+93
+Ethiopia
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+0 MWp
+2.52 MWp 
+10.94 MWp 
+26.59 MWp
+26.98 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.005
+$ 0.032
+$ 0.016
+MAX
+$ 0.033
+$ 0.032
+$ 0.020
+Noteworthy Developments
+• ISA and NTPC to develop 400 MW solar plant link 
+• Tender launched for 2 solar PV plants totaling 225 MW link 
+• HFSE initiative to solarize 300 remote clinics link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Add 6.4 GW of generation capacity by 2027 link
+• Expand renewable energy capacity to 13 GW by 2028 link
+• Achieve 100% electricity access from renewable energy sources by 2030 link
+• Increase its installed electricity generation capacity to 19 GW by 2030 link
+• Reach 25% non-hydro renewable energy generation by 2030 link
+Policy / Regulation
+• Off-grid solar products are Import duty free link 
+• VAT exemption on off-grid solar products link 
+• No Net metering link , no FiT in place link
+Electrification Rate
+• 55.4% of the population is electrified link 
+• Targets 96.2% urban and 72.3% rural access by 2030 link
+EMBER
+=== PAGE 94 ===
+94
+Gabon
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+11.00 MWp
+0.19 MWp 
+0.40 MWp 
+0.03 MWp
+4.28 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.094
+$ 0.129
+$ 0.129
+MAX
+$ 0.228
+$ 0.162
+$ 0.162
+Noteworthy Developments
+• The government is advancing a 50 MW solar project in Mounana link 
+• AMEA is developing a 50 MW solar power station in Oyem link 
+• Solen SA is building 109 MW solar in Ayémé link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Increase the renewable energy share in its electricity mix up to 
+80% by 2030 link
+Policy / Regulation
+• Import duty exemptions for solar equipment link 
+• 5% VAT on RE generation equipment link 
+• No FiT policy in place link , net metering available link
+• Solar projects requires necessary licenses from ARSE link
+Electrification Rate
+• 93% of the population has access to electricity link 
+• Targets for universal access to electricity by 2035 link
+EMBER
+=== PAGE 95 ===
+95
+Ghana
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+112.00 MWp
+67.69 MWp 
+2.55 MWp 
+2.38 MWp
+134.63 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.071
+$ 0.113
+$ 0.172
+MAX
+$ 0.212
+$ 0.216
+$ 0.452
+Noteworthy Developments
+• First Sky Group is planning a 200 MW solar plant link 
+• Govt to construct 35 MGs and provide 1,450 SHS link
+• BPA to expand Bui reservoir floating solar to 65 MW link
+• NCEP to deploy 4,000 rooftop solar systems totaling 137 MW link
+• SFI has started Phase I construction of the 200 MWp Norbert Anku 
+Solar Park link 
+Key Electricity Institutions
+Ministry
+Ministry
+Regulator
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Boost the renewable energy generation to 10% by 2030 link
+• Install 120 MW distributed renewable energy by 2030 link
+• Increase the solar PV capacity to 850 MW by 2030 link
+• Reach 50% of renewable energy generation by 2060 link
+Policy / Regulation
+• Import tax exemption for solar and RE equipment link 
+• Solar equipment is VAT exempt link 
+• Net metering and FiT policies are available link 
+• Licenses are needed to develop RE projects for private use link
+Electrification Rate
+• The national electrification access rate stands at 89% link 
+• Target of reaching 99% of electrification rate by 2030 link
+EMBER
+=== PAGE 96 ===
+GET IS 2026
+GHANA ENERGY TRANSITION
+& INVESTMENT SUMMIT
+21 st - 22nd October, 2026
+Kempinski Gold Coast Hotel, Accra Ghana
+Hosted by GCCE
+For registration & participation inquiry: +233-303-980 905 | events@cleanenergyghana.org I www.cleanenergyghana.org
+=== PAGE 97 ===
+97
+Guinea
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+0 MWp
+34.30 MWp 
+0.32 MWp 
+1.20 MWp
+42.30 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.012
+$ 0.129
+$ 0.201
+MAX
+$ 0.050
+$ 0.306
+$ 0.281
+Noteworthy Developments
+• ISA and NTPC planning a solar project of 800 MW link 
+• CleanPower generation developing 2*42 MW solar plants link
+• The government approved the construction of the 40 MW 
+Khoumagueli solar plant link 
+ 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Achieve a 30% renewable energy share in the energy mix by 2030 link
+• Raise the renewable energy share to 70% with the installation of 
+1,086 MW solar and 791 MW hydro energy by 2030 link
+Policy / Regulation
+• Import of solar panels is taxed at a 5% rate link 
+• Equipment for production of RE is VAT exempt link 
+• No net metering and FiT available link 
+Electrification Rate
+• 53% of the population is electrified link 
+• Aiming for universal electricity access by 2030 link
+EMBER
+=== PAGE 98 ===
+98
+Guinea Bissau
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+0 MWp
+0.45 MWp 
+1.13 MWp 
+0.27 MWp
+1.42 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.230
+$ 0.232
+$ 0.184
+MAX
+$ 0.441
+$ 0.290
+$ 0.230
+Noteworthy Developments
+• Plans are in place for several solar PV power projects, including a 20 
+MW plant in Bissau (Cumere) and 10 MW in Bafata projects link 
+• AIC Green Energy to develop a 10 MW solar plant link 
+• The government is developing mini-grids on the islands to supply 
+electricity to 1,200 households link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Scale up renewable energy to 75% of the generation mix by 2030 link
+• Reach 50% renewables in the national grid and 80% in isolated 
+systems by 2030 link
+• Raise the installed renewable energy capacity to 90 MW by 2030 link
+Policy / Regulation
+• Exempted import duty on RE equipment link 
+• The standard VAT is 19% , with a reduced rate of 10% link 
+• No net metering and FiT in place link 
+Electrification Rate
+• 33% of the population is electrified link 
+• Aims to raise the electricity access to 80% by 2030 link
+EMBER
+=== PAGE 99 ===
+99
+Ivory Coast/Cote 
+D’ivoire
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+37.50 MWp
+21.55 MWp 
+0.39 MWp 
+4.84 MWp
+97.19 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.046
+$ 0.109
+$ 0.106
+MAX
+$ 0.222
+$ 0.235
+$ 0.154
+Noteworthy Developments
+• Tender launched for two 100 MW solar + 33 MWh hybrid plants link
+• Tongon Solaire to build 52 MWp solar plant in M’Bengué link 
+• AMEA Power begun construction on the 50 MW Bondoukou project link
+• 20 MW Laboa Solar Plant under development by Infinity Power link
+• Gauff Engineering backing 400 mini-grids development nationwide link
+• Construction begun on 50 MW Kong Solar Plant link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Reach 45% renewable energy in the energy mix by 2030 link
+• Add 2,570 MW of new capacity under the 2026-2030 Emergency Energy 
+Plan, including 925 MW from solar link
+• Generate approximately 1,686 MW from solar power and other renewable 
+energy by 2040 link
+Policy / Regulation
+• Renewable energy equipment is exempt from import duties link 
+• Equipment for production of solar energy is VAT exempt link 
+• Feed-In Tariff Scheme not available link 
+• Net metering policy is in place link
+Electrification Rate
+• 71% of the population has access to electricity link 
+• Aims to achieve universal access by 2030 link
+EMBER
+=== PAGE 100 ===
+100
+Kenya
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+220.60 MWp
+283.36 MWp 
+44.66 MWp 
+70.58 MWp
+346.12 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.095
+$ 0.052
+$ 0.044
+MAX
+$ 0.145
+$ 0.148
+$ 0.105
+Noteworthy Developments
+• The government launched a tender for two 40 MW solar projects link 
+• AFD backing the 42.5 MW Seven Forks Solar Hybrid Project link 
+• 195 MW Kaptagat Solar under development by Tarita Green Energy link
+• 8 MW solar project in development in Lodwar link
+• KOSAP deploying 113 solar mini-grids and 343 stand-alone systems for 
+public facilities link
+• 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Achieve 100% of renewable electricity by 2030 link
+• Attain an installed capacity of 15,000 MW by 2030 link
+• Increasing renewable power generation to 5,952MW by 2030 link
+• Reach 807 MW of solar capacity by 2030 link
+• Expand the energy capacity to 100 GW by 2040 link
+Policy / Regulation
+• Solar products are exempt from import duty link 
+• 16% VAT is levied on solar products link 
+• Net Metering has been gazetted, but not yet implemented link
+• FiT applies to RE projects, except solar and wind projects link
+Electrification Rate
+• 75% of the population is electrified link 
+• Targeting universal electricity access by 2030 link
+EMBER
+=== PAGE 101 ===
+101
+Lesotho
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+30.00 MWp
+0.14 MWp 
+0.21 MWp 
+0.03 MWp
+0.58 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.056
+$ 0.020
+$ 0.020
+MAX
+$ 0.125
+$ 0.022
+$ 0.022
+Noteworthy Developments
+• 50 MW phase 2 Ramarothole solar park under development link 
+• 100 MW project  under development by Astra Energy link 
+• 10 mini-grids under development to provide electricity to 30,000 
+people and clinics with World Bank support link
+• Deploying 4,400 MGs connections and 3,402 SHS via the Renewable 
+Lesotho Programme link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Increase the share of renewable energy in fuel mix to 100% by 2030 link
+• Install 224 MW solar capacity by 2030 link
+• Deploy a 600 MWh Battery Energy Storage by 2030 link
+Policy / Regulation
+• Import duties range between 0-30% link 
+• A reduced VAT rate of 5% applies on renewable energy equipment link 
+• No net metering, no Feed-in Tariff link
+Electrification Rate
+• 53% of the population has access to electricity link 
+• Aspiring to achieve universal access by 2030 link
+EMBER
+=== PAGE 102 ===
+102
+Liberia
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+0 MWp
+3.64 MWp 
+0.05 MWp 
+0 MWp
+18.57 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.150
+$ 0.190
+$ 0.190
+MAX
+$ 0.240
+$ 0.220
+$ 0.220
+Noteworthy Developments
+• Tender launched for 70 MW solar projects with 60 MWh battery 
+storage across two sites link 
+• 24 MW/10 MWh storage project under development by Scatec link 
+• Mount Coffee 60 MW Solar Plant-Phase 1 under construction link 
+• BGFA supporting the development of 30 MGs across the country link
+• 250 MW solar project under development by Runda Solar link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Increase renewable energy share to at least 75% by 2030 link 
+• Bringing total installed capacity to 266MW, including 238MW of 
+renewable by 2030 link
+• 19% of total electricity to come from renewables excluding large 
+hydropower link
+• Deploy 60 MW of on-grid solar PV by 2030 link
+Policy / Regulation
+• No import tariffs on off-grid solar products link 
+• The new standard VAT is 18% link 
+• WHT Rate is averaged at 15 % link
+• New net metering policy in place link , No FiT available link 
+Electrification Rate
+• 32.7% of the population is electrified link 
+• Targeting 75% electricity access by 2030 link
+EMBER
+=== PAGE 103 ===
+103
+Libya
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+1.14 MWp
+0.33 MWp 
+0 MWp 
+0 MWp
+7.91 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.004
+$ 0.008
+$ 0.006
+MAX
+$ 0.006
+$ 0.012
+$ 0.008
+Noteworthy Developments
+• 500 MW Sadada project under development by TotalEnergies link 
+• AG Energy to develop a 200 MW solar plant in Ghadames link 
+• 1500 MW project under development by PowerChina and EDF link 
+• 99 MW solar plant under construction in Al Kufra link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Expand the share of renewable energy in the electricity mix to 19% in 
+the energy mix by 2030 with cumulative capacity of 2,600 MW link
+• Increase the contribution of renewable energy to 20% by 2035, with 
+a cumulative capacity of 4,000 MW link
+Policy / Regulation
+• No general customs duties on imports; most goods pay a 5% 
+service fee plus 0.5% minor import charges link 
+• There is no VAT in the country link 
+• No net metering link , Feed-in tariff applicable link
+Electrification Rate
+• Total electrification rate stands at 73.2% link 
+EMBER
+=== PAGE 104 ===
+104
+Madagascar
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+68.20 MWp
+26.84 MWp 
+7.88 MWp 
+4.13 MWp
+83.56 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.151
+$ 0.093
+$ 0.070
+MAX
+$ 0.755
+$ 0.376
+$ 0.229
+Noteworthy Developments
+• GSU secured agreements to develop a 50 MW solar plant and a 25 MWh 
+battery energy storage system (BESS) link 
+• Dera Energy building 32 MW solar projects across the country link 
+• Axian is developing a 20 MW solar project with 14 MWh of storage
+• Two solar PV projects totaling 210 MW are planned in Ihazolava and 
+Mahajanga link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Grow renewable energy capacity to 893 MW by 2030, with 
+5600 MW from solar by 2028 link
+• Increase the share of renewable energy to at least 85% by 2030, 
+including a 5% contribution from solar link
+Policy / Regulation
+• Import duty waived for RE equipment (policy may change in 2026) link 
+• No VAT on imported RE equipment link 
+• Solar equipment is VAT-exempt link 
+• No net metering policy in place link , FiT is available link
+Electrification Rate
+• 36% % of the population has access to electricity link 
+• Aims to raise electricity access to 80% by 2030 link
+EMBER
+=== PAGE 105 ===
+105
+Malawi
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+129.30 MWp
+4.29 MWp 
+0.49 MWp 
+7.34 MWp
+38.61 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.037
+$ 0.125
+$ 0.050
+MAX
+$ 0.090
+$ 0.147
+$ 0.163
+Noteworthy Developments
+• ISA and NTP plan to co-develop a 100 MW solar plant link 
+• 50 MW solar project under development by AMEA Power link 
+• EGENCO building 50 MW Salima solar park link
+• Voltalia is developing a 55 MW solar plant with a 10 MWh battery storage 
+system link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• 848 MW of additional generation capacity by 2030, with 
+714 MW from the private sector link
+• Expand the current renewable energy share from 90% to 96% 
+by 2030 link
+• Achieve 1.5 GW of power generation by 2030 link
+Policy / Regulation
+• Import duty exemption for solar products link 
+• Solar products are levied at a rate of 16.5% link 
+• Established net metering link, FiT scheme available link 
+Electrification Rate
+• 25.9% of the population is electrified link
+• 63% in urban areas and 19.7% in rural areas link  
+• Targets 70% electricity access by 2030 link
+EMBER
+=== PAGE 106 ===
+106
+Mali
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+51.05 MWp
+110.08 MWp 
+9.94 MWp 
+1.87 MWp
+49.12 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.106
+$ 0.139
+$ 0.123
+MAX
+$ 0.275
+$ 0.239
+$ 0.239
+Noteworthy Developments
+• A 50 MW solar project is under development by ISA and NTPC link 
+• Allied Gold launched a 32 MW solar + 30 MWh BESS project for it’s 
+Sadiola Mine link 
+• Novawind developing a 200 MW solar project link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Boost the renewable energy share in the power mix to 39% by 2030, and 
+add 1 GW of RE capacity link
+• Raise rural electrification to 66.64% by 2030 with off-grid systems link
+• Reach 60% renewable energy in the energy mix by 2040, excluding 
+medium and large hydro link
+Policy / Regulation
+• Solar equipment is customs duty-free link 
+• Off-grid solar products are VAT-free link 
+• Net metering available link
+• FiT has not yet been implemented link 
+Electrification Rate
+• 53% of the population has access to electricity link
+• Seeks to achieve 87% electricity access by 2030 link
+EMBER
+=== PAGE 107 ===
+107
+Mauritania
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+84.30 MWp
+48.63 MWp 
+0.05 MWp 
+0.07 MWp
+37.20 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.061
+$ 0.148
+$ 0.054
+MAX
+$ 0.148
+$ 0.148
+$ 0.148
+Noteworthy Developments
+• Iwa Green Energy to develop a 160 MW solar-wind hybrid project link
+• AFD and the EU support the electrification of 20 villages link  
+• GreenGo Energy plans a green hydrogen project with 6.3 GW of solar 
+capacity link 
+• The government secured a loan to develop 10 solar plants link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• 50% of electricity to be generated from renewable sources by 2030 link
+• Increase the renewable energy in the generation mix to 70% by 2030 link
+• Envisage achieving a 30% share of electricity generation from solar PV by 
+2030 link
+Policy / Regulation
+• Customs duties and VAT exemption on import of equipment used for RE 
+power generation link 
+• Local goods are subject to a 16% VAT rate link 
+• Net metering is in place, but no FiT policy link
+Electrification Rate
+• 55% of the population has access to electricity link 
+• Targeting universal electrification by 2030 link
+EMBER
+=== PAGE 108 ===
+inter
+solar
+I AFRICA
+connecting solar business
+FEB
+03-04
+2026
+SARIT EXPO CENTRE, NAIROBI KENYA
+EMPOWERING AFRICA:
+Innovations in Photovoltaics,
+Energy Storage and
+Renewable Energy Solutions
+JOIN US EVERY YEAR
+WHY ATTEND?
+A Connect with 100 leading exhibitors:
+including global key players — and gain
+insights from 50+ renowned speakers.
+Ill
+East Africa on the rise:
+tap into one of the fastest-growing renewable
+energy markets, driven by ambitious
+electrification and decarbonization goals.
+O
+Business-critical solutions:
+discover latest technologies and financing
+models designed for Africa's energy landscape.
+Intersolar advantage:
+leverage the trust and global reach
+of the world's leading exhibition series
+for the solar industry.
+www.intersolar.co.ke
+=== PAGE 109 ===
+109
+Africa's E-Mobility Revolution: 
+Kenya in the Driver's Seat
+Africa is witnessing a rapid transformation in transportation, with electric mobility (e-mobility) 
+emerging as a key solution to urbanization, air pollution, and energy security challenges. Across the 
+continent, electric vehicles (EVs) are being adopted at an accelerating pace, driven by government 
+support, entrepreneurial innovation, and rising consumer demand for cleaner and more affordable 
+transport.
+At the forefront of this transformation is Kenya, which has positioned itself as a hub for e-mobility 
+innovation in East Africa. The country’s rapid adoption of electric two- and three-wheelers, combined 
+with a dynamic startup ecosystem and supportive policies, has made Kenya a continental leader in 
+sustainable transport solutions.
+Managing Director, Solar Promotion International 
+GmbH
+Dr. Florian Wessendorf
+109
+Shutterstock
+=== PAGE 110 ===
+110
+The African e-mobility market is expanding quickly, projected to grow from $2.8 
+billion in 2023 to $7 billion by 2028. Investment in the sector is significant, with 
+African startups raising $2.21 billion in 2024 alone. Mobility-focused startups 
+have led the way, securing $178.6 million in the first quarter of the year.
+Regional trends show distinct patterns: East Africa, led by Kenya, focuses on 
+electrifying commercial vehicles, particularly two- and three-wheelers. Southern 
+Africa, primarily South Africa, emphasizes EV manufacturing but faces energy 
+infrastructure challenges. In West Africa, countries like Nigeria are forming 
+strategic partnerships for local EV assembly and industry development.
+Africa’s E-Mobility Market
+Kenya’s e-mobility growth is fueled by a renewable energy grid with over 90% of 
+power from renewables, strong government support, and a thriving startup 
+ecosystem. EV registrations soared from just 65 vehicles in 2018 to 4,047 by 
+2023.
+The two-wheeler segment, dominated by electric motorcycles or e-bodas 
+remains the driving force of Kenya’s e-mobility market. This is largely due to their 
+affordability and their crucial role in both urban and rural transport, providing a 
+reliable means of daily commuting for millions of Kenyans.
+Kenya’s E-Mobility Ecosystem
+=== PAGE 111 ===
+111
+Several innovative startups are leading this transformation. ARC Ride is 
+expanding its battery-swapping network with a $10 million financing facility, 
+aiming to deploy 600 cabinets and 25,000 batteries across the country. BasiGo is 
+scaling its electric bus operations in East Africa after raising $42 million in 2024, 
+while Spiro has partnered with US-based Ace Green Recycling to tackle the 
+critical issue of battery recycling. Meanwhile, Watu is contributing to Kenya’s e-
+bike boom, offering efficient and accessible solutions for urban mobility. 
+Together, these companies are creating a dynamic ecosystem that is shaping the 
+future of e-mobility in Kenya.
+Investment in Kenya’s e-mobility sector is driving critical infrastructure 
+development. The government plans to install 10,000 public charging stations by 
+2030, supported by a budget of 6 billion Kenyan shillings (~€39.5 million). The 
+rollout prioritizes major cities and transport corridors, with charging stations 
+planned every 25 kilometers along key motorways. Kenya Power has already 
+installed 45 fast-charging stations across six counties.
+Infrastructure and Investment
+Kenya’s E-Mobility Ecosystem
+=== PAGE 112 ===
+112
+Supportive government policies have been pivotal. The Draft National E-Mobility 
+Policy (March 2024) outlines Kenya’s vision to lead in Africa, promoting local 
+manufacturing, comprehensive charging infrastructure, and a sustainable 
+transport system. Fiscal incentives, including excise duty exemptions, reduced 
+import duties, and VAT exemptions on EVs, batteries, and charging equipment, 
+make adoption more affordable.
+The government also leads by example, with plans to electrify its vehicle fleet, 
+including police vehicles, at a rate of 1,000 vehicles per year. These measures 
+place Kenya alongside other progressive African countries, such as Ethiopia, 
+which banned non-electric vehicle imports in early 2024, and Rwanda, which has 
+pledged to electrify 20% of its bus fleet by 2030.
+Policy and Regulation
+Battery swapping has become a dominant solution for commercial two-
+wheelers, 
+helping 
+overcome 
+charging 
+infrastructure 
+limitations. 
+Local 
+manufacturing and assembly are expected to grow under government 
+incentives. Kenya’s high renewable energy share ensures that EV adoption 
+translates into genuine carbon reductions.
+Emerging Trends
+=== PAGE 113 ===
+113
+Conclusion
+Kenya’s e-mobility sector is at a pivotal moment. Forward-thinking policies, a 
+vibrant startup ecosystem, and strong investor interest have created fertile 
+ground for rapid growth. By electrifying its two-wheeler fleet, building a 
+robust 
+battery-swapping 
+network, 
+and 
+scaling 
+public 
+transport 
+electrification, Kenya offers a blueprint for sustainable urban mobility. Its 
+progress demonstrates that clean, affordable, and efficient transportation is 
+not only feasible but can also drive economic opportunity and 
+environmental sustainability across Africa.
+Shutterstock
+=== PAGE 114 ===
+114
+Mauritius
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+152.68 MWp
+14.50 MWp 
+0 MWp 
+0.03 MWp
+40.91 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.048
+$ 0.065
+$ 0.065
+MAX
+$ 0.193
+$ 0.220
+$ 0.119
+Noteworthy Developments
+• Qair secured funding for 60 MW solar link 
+• ISA and NTPC to develop 30 MW floating solar project link 
+• Ecoasis Energy constructing 2 MW solar in Moka City link
+• ADFD and IRENA supporting deployment of 10,000 rooftop PV systems 
+across the country link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Deploy an additional 100 MW of electricity generation capacity by 2026 link
+• Reach 40% share of renewable energy in the electricity mix by 2030 link
+• Raise the renewable energy share to 60% by 2035 link
+Policy / Regulation
+• PV Systems are exempted from Customs duty link 
+• No VAT for renewable energy systems link
+• 2 MW capacity cap for net metering link
+• Feed-in tariff policy exists link
+Electrification Rate
+• 100% of the population has access to electricity link 
+EMBER
+=== PAGE 115 ===
+115
+Morocco
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+353.86 MWp PV + 
+534 MWe CSP
+312.58 MWp 
+0 MWp 
+15.86 MWp
+598.39 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.099
+$ 0.056
+$ 0.057
+MAX
+$ 0.247
+$ 0.226
+$ 0.272
+Noteworthy Developments
+• Sound Energy and Gaia energy developing 270 MW of solar link 
+• ONEE launched a nationwide 1,600 MWh BESS project link 
+• Qair building a 48 MWp solar power plant in Tiznit link
+• GreenPower Morocco developing 10 plants totaling 587 MWp
+• ACWA Power to build Noor Midelt 2 & 3 with 400 MW solar and 602 
+MWh total storage link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Generate 52% of electricity from renewable sources by 2030 link
+• Solar energy to account for 20% of total electricity production by 2030 link
+• Reach 2.1 GW of combined solar PV and CSP capacity by 2030 link
+• Increase the share of renewable energy capacity to 80% by 2050 link
+Policy / Regulation
+• Solar panels have a 10% import duty, rising to 25% in 2026 link 
+• A reduced VAT rate of 10% for solar equipment link 
+• Net metering scheme is in place link , FiT is available link
+Electrification Rate
+• The entire population has access to electricity link 
+EMBER
+=== PAGE 116 ===
+116
+Mozambique
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+126.00 MWp
+20.69 MWp 
+3.75 MWp 
+4.55 MWp
+144.82 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.096
+$ 0.076
+$ 0.075
+MAX
+$ 0.143
+$ 0.076
+$ 0.075
+Noteworthy Developments
+• Hydroland is developing 100 MW floating solar project link 
+• 95 MW Chibuto solar Plant under development by Sal Energia link
+• GET. Invest Mozambique supporting two 48 MWp solar plants with 
+18 MWh storage each and a 120 MWh storage plant link
+• 400 MWac solar under development at Cahora Bassa Hydroelectric Plant 
+by HCB link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Generate 62% of its electricity from renewable energy by 2030 link
+• Install 1 GW of solar capacity by 2030 and 7.5 GW by 2050 link
+• Solar and wind to contribute 20% of the electricity mix by 2040, with 
+266 MW solar and 40 MW wind installed by 2030 link
+Policy / Regulation
+• 7.5% import duty applies on solar products link 
+• The standard VAT is 16% , but solar panel materials for rural 
+electrification exempt until the end of 2025 link 
+• Net metering available link , FiT available link 
+Electrification Rate
+• 40% of the population is electrified link 
+• Aspiring to achieve universal access by 2030 link
+EMBER
+=== PAGE 117 ===
+117
+Namibia
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+290.11 MWp
+70.47 MWp 
+0.26 MWp 
+0 MWp
+197.21 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.080
+$ 0.068
+$ 0.052
+MAX
+$ 0.189
+$ 0.273
+$ 0.431
+Noteworthy Developments
+• Govt approved 3 GW solar for Green hydrogen production link 
+• Nampower launched tender for 6*20 MW solar PV projects link 
+• Nampower begun construction of 100 MW Sores Gaib solar station link
+• Oshakati Premier Electric launched a 5 MW solar Plant link
+• Hopsol constructing phase 2 of the otjiwarongo solar Plant link 
+• The government launched the 25MW Khan Solar PV Plant link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Expand the renewable energy share from 30%  to 70% by 2030 link
+• Reach 900 MW of power capacity by 2030 link
+• Add 1 GW of solar capacity by 2030 link
+Policy / Regulation
+• Import duty exemption for renewable energy equipment link 
+• 15% VAT is levied on most goods link 
+• Wheeling framework is available link 
+• Net metering established link , FiT exists link
+Electrification Rate
+• 59.4% of the population has access to electricity link 
+• Aiming for 70% of electricity access by 2030 link
+EMBER
+=== PAGE 118 ===
+118
+Niger
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+55.90 MWp
+2.10 MWp 
+1.15 MWp 
+0 MWp
+15.48 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.107
+$ 0.173
+$ 0.101
+MAX
+$ 0.246
+$ 0.246
+$ 0.246
+Noteworthy Developments
+• NIGELEC launched tender for a 20 MW solar Plant in Maradi link 
+• ISA and NTPC developing a 50 MW solar plant link 
+• Investment being raised for three RE projects  totaling 298 MW link
+• Government partnering with AfDB to boost the energy sector, with a 
+focus on renewables link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Reach 30% of renewable energy generation by 2030 link
+• Install 50 MW of solar by 2026 and 240 MW by 2030 link
+Policy / Regulation
+• Import duties and VAT exemption for RE products link 
+• No net metering, FiT available link 
+• The WHT rate ranges between 2% and 20% link 
+Electrification Rate
+• Total electrification stands at 20.1% link 
+• Aspiring to achieve 60% access to power by 2030 link
+EMBER
+=== PAGE 119 ===
+119
+Nigeria
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+12.80 MWp 
+293.03 MWp 
+94.00 MWp 
+88.57 MWp
+703.01 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.003
+$ 0.031
+$ 0.031
+MAX
+$ 0.145
+$ 0.145
+$ 0.145
+Noteworthy Developments
+• Granville Energy and MESL signed MOU for 1 GW floating solar link 
+• Govt to develop 19 solar projects of 100 MW each across 19 states link 
+• 20 MW solar under development in Challawa Industrial Area link
+• Konexa secured funds for a 50 MW solar plant link
+• WeLight to deploy 400 MGs in the country link
+• Nine companies to roll out 1,350 MGs and 1.6 million SHS link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Reach 30% of renewable energy generation by 2030 link
+• Increase the RE share in the energy mix to 50% by 2030 link
+• Add 5 GW of renewable energy by 2030 link
+• Deploy a 277 GW power system by 2060 link
+Policy / Regulation
+• 5% Import duties and 5% VAT on imported solar components link 
+• Solar panels are VAT exempt link 
+• Net metering framework currently in draft link , FiT available link
+• Wheeling regulations in place for projects above 1 MW link
+Electrification Rate
+• 61.2% of the population is electrified link 
+• Planning for universal access by 2030 link
+EMBER
+=== PAGE 120 ===
+120
+Africa’s solar sector has expanded rapidly over the past decade, driven by declining technology 
+costs, rising electricity demand, and persistent supply gaps across national grids. While 
+deployment has accelerated, the continent has remained heavily dependent on imported 
+photovoltaic (PV) modules and components. In 2025, this dynamic began to shift more visibly. 
+A growing number of governments and private investors moved beyond solar installation 
+toward local manufacturing, positioning it as a strategic pillar of Africa’s energy transition and 
+industrial development agenda.
+For many years, Africa’s participation in the solar value chain was largely confined to project 
+development, installation, and operations. Manufacturing, particularly of PV modules and 
+cells, remained concentrated outside the continent. This reliance exposed African markets to 
+currency volatility, global supply-chain disruptions, and limited domestic value creation. 
+Recent announcements and investments, however, indicate a deliberate effort to anchor more 
+of the solar value chain locally.
+Africa’s Solar Manufacturing Moment: 
+Building Industrial Capacity for a Clean 
+Energy Future
+Axian Energy
+=== PAGE 121 ===
+121
+Nigeria has emerged as a focal point of this shift. In 2025, a major public-private 
+partnership was established to develop a 1 GW solar panel manufacturing 
+facility, reflecting a clear national ambition to reduce import dependence and 
+strengthen industrial capacity. The project combines public procurement 
+commitments with private sector expertise, ensuring both demand certainty and 
+technology transfer. By targeting progressive increases in local content over the 
+initial years of operation, the initiative aims to stimulate domestic supply chains 
+while supporting national electrification programs.
+Nigeria’s manufacturing push extends beyond a single project. Additional plans 
+announced during the year include a 1.2 GW solar module assembly plant linked 
+to off-grid and grid-connected generation initiatives, as well as the construction 
+of an 800 MW PV panel factory by a domestic manufacturer. Together, these 
+developments signal a coordinated effort to scale local production capacity, 
+create skilled employment, and position Nigeria as a regional hub for solar 
+manufacturing in West Africa.
+Southern Africa has also shown renewed interest in domestic production. 
+Zimbabwe announced plans to establish a local solar panel manufacturing plant 
+as part of a broader strategy to attract foreign investment into renewable energy 
+and clean technologies. While the project remains at an early stage, it reflects 
+growing recognition among policymakers that solar manufacturing can support 
+energy security while contributing to industrialization and export potential 
+within the region.
+In East Africa, manufacturing activity has taken a different but complementary 
+form. In Kenya, a large-scale manufacturing facility focused on solar-related 
+products and systems was inaugurated in 2025. While not yet producing 
+conventional PV panels, the facility represents an important step toward 
+localization of solar technology production and refurbishment. By shortening 
+supply chains and improving responsiveness to regional demand, such 
+investments support the fast-growing off-grid and distributed energy markets 
+that dominate much of East Africa’s solar landscape.
+=== PAGE 122 ===
+122
+North Africa has continued to leverage its industrial base and strategic location 
+to attract large-scale solar manufacturing investments. In Egypt, multiple 
+announcements in 2025 confirmed the development of integrated solar 
+manufacturing complexes combining cell and module production, with future 
+plans to localize upstream processes such as wafers and silicon components. 
+These projects are designed not only to serve domestic demand but also to 
+target export markets across Africa, the Middle East, and Europe, reinforcing 
+Egypt’s role as a manufacturing gateway.
+Ethiopia stands out for its progress in upstream manufacturing. In 2025, a solar 
+cell production facility commenced operations with plans to scale output 
+significantly in the coming years. This development positions Ethiopia among a 
+small group of African countries participating beyond module assembly, signaling 
+early movement toward deeper integration into the global solar value chain.
+Despite this momentum, challenges remain. African solar manufacturing largely 
+focuses on assembly rather than full vertical integration, where capital 
+requirements, energy intensity, and technological barriers are higher. Competing 
+with established global manufacturers on cost will require scale, policy 
+consistency, affordable finance, and reliable infrastructure. Nevertheless, local 
+manufacturing does not need to replace imports entirely to deliver value. Even 
+partial localization can improve supply-chain resilience, reduce foreign exchange 
+exposure, and retain more economic value within national economies.
+The developments of 2025 suggest that local solar manufacturing in Africa is 
+moving from ambition to implementation. By aligning energy policy with 
+industrial strategy and leveraging public-private partnerships, African countries 
+are laying the groundwork for a more resilient and inclusive solar economy. As 
+deployment continues to accelerate, manufacturing has the potential to become 
+a defining pillar of Africa’s clean energy future, powering not only electricity 
+systems, but also jobs, skills, and long-term economic growth.
+=== PAGE 123 ===
+123
+Rwanda
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+8.80 MWp 
+6.55 MWp 
+0.77 MWp 
+7.64 MWp
+4.44 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.061
+$ 0.076
+$ 0.067
+MAX
+$ 0.255
+$ 0.259
+$ 0.121
+Noteworthy Developments
+• Government launched a 60 MW PV+60 MWh of storage in Bugesera link 
+• Government exploring the development of a 30 MW solar power plant link 
+• MINIFRA announced plans to develop a 200 MW solar plant link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Reach 100% of renewable energy in the mix by 2050 link
+• 50 MW solar capacity to be added (2029–2035) link
+• Install 1.5 GW of new solar capacity by 2050 link
+Policy / Regulation
+• No customs duty on solar equipment link 
+• Solar equipment is VAT exempt link 
+• Net metering not yet formally established link , No FiT policy available link
+• Licensing not required for ≤100 kWp solar projects link
+Electrification Rate
+• 84.6% of population has  access to electricity link 
+• Targeting universal access by 2029 link
+EMBER
+=== PAGE 124 ===
+124
+Sao Tome & 
+Principe
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+1.09 MWp 
+0.19 MWp 
+0 MWp 
+0 MWp
+0.35 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.078
+$ 0.180
+$ 0.161
+MAX
+$ 0.180
+$ 0.330
+$ 0.161
+Noteworthy Developments
+• Release by Scatec signed deal for an 11 MW solar Plant link 
+• Site being prepared for a 20 MWp solar project in Água Casada link 
+• 3 MWp + 2-4 MWh project under development on principe island link
+• Officially joined the African Minigrid Program and pilot started link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Increase the solar PV capacity to 18 MWp by 2030 link
+• Raise the share of RE to 50% in the energy mix by 2035 link
+• Achieve 72% of its total installed electricity capacity from renewable 
+energy by 2050, including nearly 47 MW of solar PV link
+Policy / Regulation
+• Solar components are exempt from customs duty link 
+• The standard VAT is 15%, reduced to 7.5% link 
+• No net metering and FiT regulations available link 
+• The withholding tax rate ranges between 10-15% link
+Electrification Rate
+• Current electricity access rates stands at 84% link 
+• Aiming for universal access to electricity by 2030 link
+EMBER
+=== PAGE 125 ===
+125
+Senegal
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+307.50 MWp
+58.20 MWp 
+8.98 MWp 
+3.63 MWp
+293.67 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.164
+$ 0.165
+$ 0.129
+MAX
+$ 0.307
+$ 0.447
+$ 0.260
+Noteworthy Developments
+• 300 MW solar desalination plant in development by ACWA Power link 
+• SENELEC and CNTIC to develop 2*50 MW+90 MWh plants link 
+• Construction underway for the 60 MW + 72 MWh NEA Kolda project link
+• Infinity Power developing a 40 MW/160 MWh BESS project link
+• JUWI developing a 20 MW+11 MWh plant for Eramet Group link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Achieve 40% renewable energy in the energy mix by 2030 link
+• Install 50 MW of Concentrated Solar Power by 2030 link
+• Add 100 MW of solar PV by 2030 link
+• Bring electricity to 200,000 households, electrify 600 health clinics and 
+200 schools by 2030 link
+Policy / Regulation
+• 3% import duty for solar panels, 27% on batteries link 
+• RE equipment are VAT exempt link 
+• Net metering and FiT policies available link 
+• Mini-grids under 50 kW do not require a licence link
+Electrification Rate
+• 84% of the population has access to electricity link 
+• Targets universal access by 2029 link
+EMBER
+=== PAGE 126 ===
+126
+Seychelles
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+12.26 MWp
+6.64 MWp 
+4.30 MWp 
+0.16 MWp
+3.76 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.128
+$ 0.296
+$ 0.296
+MAX
+$ 0.333
+$ 0.360
+$ 0.360
+Noteworthy Developments
+• The government launched Seychelles Renewable Energy Acceleration 
+Program (REAP) to attract private investment and power a sustainable 
+future link 
+• Qair started the construction on the 5.8 MW Seysun Lagoon floating 
+solar project link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Increase the share of renewables to 25% by 2030 link
+• long-term goal of reaching 100% renewable energy by 2050 link
+Policy / Regulation
+• PV systems are duty-free link 
+• Imported goods for RE generation are VAT free link 
+• FiT policy not yet established link 
+• Net metering framework is in place link
+Electrification Rate
+• 100% of the population has access to electricity link 
+EMBER
+=== PAGE 127 ===
+127
+Sierra Leone
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+31.00 MWp 
+11.55 MWp 
+11.09 MWp 
+3.22 MWp
+49.21 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.105
+$ 0.265
+$ 0.248
+MAX
+$ 0.264
+$ 0.276
+$ 0.293
+Noteworthy Developments
+• Release by Scatec secured a 40 MW solar Project link 
+• World Bank to finance the 52 MWp + 21 MWh RESPITE project link 
+• Construction underway on the 15 MW Macoth Solar Plant link
+• A 23.8 MW+13.8 MWh hybrid plant under development by FG Gold 
+and CrossBoundary link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Raise the share of RE to 35% by 2030 link
+• Increase renewable energy share to 51% by 2050 link
+• Boost generation capacity to 1 GW by 2035, with 55% hydro, 30% thermal, 
+and 15% solar link
+• Reach 932 MW Solar PV deployment by 2040 and 1.97 GW by 2050 link
+Policy / Regulation
+• Duty-free import of renewable energy products link 
+• VAT exemption on a case-by-case basis for RE equipment link 
+• FiT not yet established link 
+• No net metering policy in place link
+Electrification Rate
+• Total electrification rate stands at 36% link
+• 21% in urban and 15% in rural areas link 
+• Targeting 78% of electricity coverage by 2030 link
+EMBER
+=== PAGE 128 ===
+128
+Somalia
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+64.40 MWp 
+11.13 MWp 
+2.18 MWp 
+7.93 MWp
+35.08 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.45
+$ 0.45
+$ 0.45
+MAX
+$ 1.00
+$ 1.00
+$ 1.00
+Noteworthy Developments
+• Gov’t t issued tenders for two projects totaling 67 MW + 196 MWh link 
+• MoEWR launched tender for a 10 MW + 20 MWh project link 
+• Tender has been launched for an 8 MW + 20 MWh project in Borama link
+• MoEWR issued a tender for solar + Storage at 28 education facilities link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Expand renewable capacity to 392 megawatts by 2030 link
+• A 30% rise in off-grid generation by 2030 link
+• Generate at least 50 % of the country’s energy from solar power 
+by 2028 link
+Policy / Regulation
+• Solar equipment eligible for duty-free import link 
+• The standard VAT is 5% link 
+• Feed-in Tariff (FiT) is not available link 
+• No net metering scheme in place link
+Electrification Rate
+• 49% of the population is electrified link 
+• 77% in urban and 31% in rural areas link
+EMBER
+=== PAGE 129 ===
+129
+Somaliland
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+19.88 MWp 
+2.87 MWp 
+8.35 MWp 
+10 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.200
+$ 0.200
+$ 0.200
+MAX
+$ 0.500
+$ 0.500
+$ 0.500
+Noteworthy Developments
+• The Government launched a tender for a 12 MWp + 36 MWh project link 
+• Tender launched for hybrid/off-grid solar PV + BESS installations at 29 
+education facilities in Sahil link 
+• The govt is developing solar systems + storage solutions for 150 health 
+centers and 215 educational facilities link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• 25% of national energy generation will come from renewable 
+sources by 2027 link
+• Achieve universal, affordable energy access by 2030, prioritizing 
+local and renewable sources link
+Policy / Regulation
+• 100% exemption for solar panels link 
+• 5% Standard VAT applies on goods and services link 
+• No net metering, No Feed-in Tariff link
+Electrification Rate
+• The overall electricity access rate is estimated at 50.3% link
+=== PAGE 130 ===
+130
+South Africa
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+3554.69 MWp PV + 
+600 MWe CSP 
+7014.46 MWp 
+1.30 MWp 
+0.74 MWp
+2265.98 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.075
+$ 0.063
+$ 0.054
+MAX
+$ 0.498
+$ 0.419
+$ 0.388
+Noteworthy Developments
+• 75 MW Du Plessis Dam Solar PV2 park under construction by Mulilo link
+• NOA closed financing of the 349 MW Khauta South project link 
+• Scatec won bid for the 846 MW solar Kroonstad PV Cluster link 
+• AMEA constructing the 120 MW klerksdorp solar plant link
+• Hive Hydrogen cleared to develop a 1,430 MW solar PV cluster for its 
+Coega Green Ammonia project link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Add 39 GW of renewable energy, with the IPP programme by 2030 link
+• Renewables are set to provide 41% of grid electricity by 2030 link
+• Reach 29.5 GW of new capacity, including 6 GW of solar, by 2030 link 
+• Expand generation capacity to 105 GW by 2039, including 25 GW of Solar 
+PV by 2039 link
+Policy / Regulation
+• 10% import duty on solar panels link 
+• The standard VAT on imported solar panels is 15% link 
+• VAT on solar panels range between 15-16% link  
+• FiT replaced by a competitive bidding process link 
+• Net metering exists link , wheeling available link
+Electrification Rate
+• Total electrification rate stands at 94.7% link 
+• Targets universal electricity access by 2030 link
+EMBER
+=== PAGE 131 ===
+SAPVIA AWARDS 2026
+Celebrating Excellence in
+South Africa's Solar PV Industry.
+Honouring the leaders shaping our clean energy future. From innovation and
+impact to skills and sustainability, the SAPVIA Awards recognise excellence
+2025
+Award
+Rollabo ation
+Part rship
+t Aw rd
+Sponsored by
+2025
+Awards
+Excsllencé
+Local
+anutact ing
+Supply ai
+Awa
+Sponsored by
+2025
+Awards
+Small-Scale
+embeddßd
+eneration
+(SSEG)
+staller
+o he Ye
+across the solar PV value chain.
+Core Categories
+• Utility-Scale & Solar
+• SSEG Installation Excellence
+• Local Manufacturing
+• R&D & Innovation
+Collaboration & Partnerships
+• Skills Development
+Socio-Economic Impact
+New for 2026
+Solar + Storage (BESS) Excellence
+Youth Leadership in Solar
+• Community Energy Impact
+• Just Transition Leadership
+2025
+wards
+Emp .rrnen
+Throug Skill
+Develo e
+Awa d
+Sponsored by
+CALL FOR NOMINATIONS OPENING SOON!
+Put forward the people, projects and organisations driving South Africa's solar revolution.
+For enquiries, nominations, and sponsorship opportunities: info@sapvia.co.za | +27 (0)1 1 568 8460/61
+www.sapvia.co.za
+pvIA
+South African Photovoltaic Industry Association
+=== PAGE 132 ===
+132
+key developments in South Africa 2026
+SAPVIA identifies two key developments for South Africa’s energy sector in 2026: the 
+operationalisation of the South African Wholesale Electricity Market (SAWEM) and the 
+accelerating deployment of Battery Energy Storage Systems (BESS). While SAWEM 
+restructures the commercial landscape for power trading, BESS offers the technical 
+versatility to firm up intermittent renewables across the entire grid.
+132
+Infraco
+The scheduled 1st of April 2026 launch of the SAWEM signifies a pivotal transition 
+from Eskom’s traditional single-buyer model to a competitive multi-party platform. 
+While the National Transmission Company South Africa (NTCSA) secured its Market 
+Operator license in late 2025, full operational autonomy remains subject to resolving 
+conflict-of-interest concerns regarding its status as an Eskom subsidiary. Beginning in 
+January 2026, the Electricity Market Advisory Forum (EMAF) will lead the technical 
+review of the Market Rules and Code. While SAWEM introduces vital new pathways 
+for energy trading and offtaker aggregation, its initial phase will be modest; legacy 
+bilateral PPAs will largely remain unchanged. Ultimately, the market’s success in 
+driving new capacity will hinge on its ability to provide the pricing transparency and 
+liquidity required for bankable merchant structures.
+SAWEM
+=== PAGE 133 ===
+133
+In our view and backed by our recent research and global and domestic 
+developments, the defining development for 2026 is the rapid scaling of BESS in 
+tandem with solar and other renewable energy projects. Driven by record-low 
+global capital costs, the investment case for BESS has fundamentally changed. As 
+of late 2025, utility-scale BESS costs hit a benchmark of $125/kWh, translating to 
+a levelised cost of just $65/MWh. This shift moves BESS from a niche 'premium' 
+solution to a mainstream, cost-competitive component across all market 
+segments.
+As an example: at utility scale, the Battery Energy Storage Independent Power 
+Producer Procurement Programme (BESIPPPP) is facilitating South Africa's 
+inaugural wave of utility-scale storage projects. Key projects like the Oasis 
+cluster (257 MW / 1,028 MWh) and the Mogobe BESS (103 MW / 412 MWh) are 
+on track for commercial operation by late 2026. 
+BESS
+These facilities will assume the critical grid services such as frequency 
+regulation, reserves, and congestion management that were traditionally the 
+sole domain of thermal power plants. Another project that is expected to reach 
+commercial operation in 2026 is the Mulilo Total Hydra Storage Project (216 
+MW solar / 497-500 MWh BESS), which is located near De Aar in the Northern 
+Cape, procured under the Risk Mitigation Independent Power Producer 
+Procurement Programme (RMIPPPP). This hybrid facility will provide 75 MW of 
+dispatchable power from 5 a.m. to 9: 30 p.m. daily, a 16.5-hour dispatch window 
+targeting peak demand periods. These projects demonstrate the momentum 
+shift from intermittent to dispatchable renewable energy supply with grid 
+ancillary services.
+=== PAGE 134 ===
+134
+Furthermore, solar-plus-BESS offers commercial and industrial (C&I) customers 
+near complete energy independence. By storing excess daytime power, 
+businesses can avoid expensive peak-hour tariffs, eliminate demand charges, 
+and remain operational during load shedding or power outages. Given the 
+current trajectory of Eskom's price hikes, shortened payback periods have made 
+the business case for storage increasingly undeniable and an essential 
+investment for 2026.
+BESS
+The South African grid has traditionally relied on massive thermal facilities 
+concentrated in Mpumalanga for both power and stability. However, BESS is 
+emerging as a critical game-changer by providing more than just energy, it 
+delivers firm capacity and essential grid ancillary services directly from the 
+provinces where renewable resources are most abundant. This geographical 
+diversification is vital for supporting national grid expansion. Therefore, BESS 
+elevates solar PV from a supplementary resource to a primary driver of a 
+modern energy landscape. For SAPVIA, the rise of these projects signals that the 
+renewable sector has achieved a new level of maturity, transitioning from 
+variable generation to dispatchable solutions that underpin long-term grid 
+stability.
+=== PAGE 135 ===
+135
+South Sudan
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+50.00 MWp
+9.27 MWp 
+0.09 MWp 
+0 MWp
+4.25 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.273
+$ 0.32
+$ 0.348
+MAX
+$ 0.285
+$ 0.32
+$ 0.348
+Noteworthy Developments
+• Construction underway for the 20 MW+35 MWh Nesithu Solar Plant link
+• EIF and FinnFund backing solar-hybrid installations across 413 telecom 
+sites link 
+ 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Install about 2,729.5 MW of renewable energy capacity by 2030, 
+with a particular focus on hydropower link
+• Deploy grid-connected solar PV to complement hydropower and 
+reduce reliance on diesel link
+Policy / Regulation
+• 0-25% Import duty applies on solar products link 
+• Solar products are VAT exempt link 
+• 4% withholding tax applies to solar products (Financial Act 2024/2025) link 
+• No net metering or feed-in tariff (FiT) policies are in place link
+Electrification Rate
+• 15% of the population has access to electricity link 
+• Plans to raise electricity access to 50% by 2030 link
+EMBER
+=== PAGE 136 ===
+136
+Sudan
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+10.00 MWp
+68.75 MWp 
+0 MWp 
+0 MWp
+143.22 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.068
+$ 0.077
+$ 0.085
+MAX
+$ 0.128
+$ 0.153
+$ 0.085
+Noteworthy Developments
+• The government plans to build a 100 MW solar farm in Dongola link 
+• MIMAH supporting the solarization of 100 Health facilities nationwide link 
+• Abu Dhabi Fund to finance deployment of 500 MW through multiple solar 
+project link
+• To deploy 500 RE systems through the ASCENT program link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Increase the share of renewables to 20% by 2035 link
+• Deploy 10 GW of renewable energy capacity by 2030, focusing on 
+solar, wind, and hydro sources link
+• Install 2,190 MW of grid-connected solar and 50 MW of solar thermal 
+energy by 2035 link
+Policy / Regulation
+• PV components exempt from import duties link 
+• Zero VAT on PV system components link 
+• No net metering, but FiT is available link 
+• A permit is required before starting a solar project link
+Electrification Rate
+• 66% of the population is electrified link
+EMBER
+=== PAGE 137 ===
+137
+Tanzania
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+6.00 MWp 
+17.56 MWp 
+2.39 MWp 
+12.09 MWp
+197.00 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.08
+$ 0.08
+$ 0.06
+MAX
+$ 0.10
+$ 0.10
+$ 0.08
+Noteworthy Developments
+• TANESCO launched a 100 MW EPC Tender link 
+• ZECO issued a tender for an 18 MW solar facility link 
+• AG Energies to begin construction of a 20 MWp solar plant link
+• Tender launched for a 40 MWh BESS project by ZESCO link
+• AFD backing Phase 1 of 150 MW Kishapu solar plant link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Achieve 75% renewable energy by 2030 link
+• Deploy 2,463 MW from solar, wind, gas, and geothermal by 2030 link
+• Reach 1340 MW of solar power in the generation mix by 2038 link
+Policy / Regulation
+• Solar components are duty-free link 
+• VAT exemption for solar components link 
+• Feed-in tariff applies to SPPS projects up to 10 MW link 
+• Net metering policy is available link
+Electrification Rate
+• 48.3% of the population has access to electricity link 
+• Aims to increase electricity connectivity to 75% by 2030 link
+EMBER
+=== PAGE 138 ===
+138
+The Gambia
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+23.00 MWp 
+4.46 MWp 
+0.24 MWp 
+0 MWp
+13.58 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.180
+$ 0.194
+$ 0.207
+MAX
+$ 0.188
+$ 0.194
+$ 0.207
+Noteworthy Developments
+• Tender issued for Soma’s first 50 MW of 150 MW solar link 
+• Camco backing a 25 MW solar plant led by Neo Themis link 
+• Africa Investment Contracting is building a 5 MW solar plant link
+• EU and EIB supporting the solarization of 1000 schools and 100 health 
+centers link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Generate 50% of its power supply from renewable energy by 2030 link
+• The government intends to build 13 solar PV farms totaling 250 MW by 
+2050 link
+Policy / Regulation
+• Solar panels are duty-free or with a 0% to 5% tariff link 
+• Import VAT is charged at a rate of 15% link 
+• Net metering applies to renewable energy  projects between 20-100 KW link
+• Feed-In Tariff system exists link 
+Electrification Rate
+• The national electrification rate stands at 75% link 
+• Aims for universal access by 2026 link
+EMBER
+=== PAGE 139 ===
+139
+Togo
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+70.00 MWp 
+6.49 MWp 
+0.99 MWp 
+6.04 MWp
+91.86 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.108
+$ 0.133
+$ 0.090
+MAX
+$ 0.261
+$ 0.257
+$ 0.220
+Noteworthy Developments
+• AfDB supporting the 62 MWp Sokode Solar plant link 
+• AFD and GEAPP backing the development of a 55 MW BESS Project link
+• TBEA begun the construction of the 25 MWp + 40 MWh Dapaong solar 
+plant link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Install 200 MW of renewable energy capacity by 2030 link
+• Renewables to account for 63% of installed capacity by 2030 link
+• Reach 50% of RE in the energy mix by 2030 link
+• Expand storage capacity to 156 MWh by 2030 link
+Policy / Regulation
+• Non-CIZO licensees faces 5-20% of import duty link 
+• Solar products face a VAT rate of 18% link 
+• Net metering is in place but not FiT link 
+Electrification Rate
+• 70% of the population has access to electricity link 
+• Electricity coverage is 90% in urban areas link
+• Aiming for universal access to electricity by 2030 link
+EMBER
+=== PAGE 140 ===
+140
+Tunisia
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+178.80 MWp 
+84.84 MWp 
+0 MWp 
+1.81 MWp
+234.71 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.026
+$ 0.055
+$ 0.061
+MAX
+$ 0.119
+$ 0.157
+$ 0.134
+Noteworthy Developments
+• Scatec developing the 120 MW Sidi Bouzid II solar plant, alongside two 
+60 MW projects currently under construction link 
+• Licenses granted to build solar projects totaling 500 MW link 
+• EBRD reviewing a loan for Quair's 100 MW Solar Plant link
+• Government launched tender for 2*100 MW solar plants link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Develop 1.7 GW of RE capacity by 2027 link
+• Generate 35% of electricity from RE by 2030, and 50% by 2035 link
+• Install 8.53 GW of RE capacity by 2035 link
+• Increase the solar capacity to 1.7 GW by 2030 link
+Policy / Regulation
+• Import duty rate of 30% on solar panels link 
+• The standard VAT is 19% , with reduced to 13% and 7% link 
+• Net metering exists link , FiT is available link
+Electrification Rate
+• Total electrification rate stands at 100% link
+EMBER
+=== PAGE 141 ===
+141
+Uganda
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+74.00 MWp 
+20.73 MWp 
+4.42 MWp 
+13.22 MWp
+65.44 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.070
+$ 0.078
+$ 0.052
+MAX
+$ 0.212
+$ 0.182
+$ 0.120
+Noteworthy Developments
+• TotalEnergies launched a tender for 2*20 MW solar plants link 
+• Energy America to develop 100 MWp+250 MWh of storage link 
+• 24 MWp project under construction by AMEA Power link
+• TotalEnergies developing 120 MW across six sites link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Add 3,200 MW renewable electricity generation capacity by 2030 link
+• ETP targets 94% biomass-to-renewables transition by 2030 link
+• Reach 52 GW by 2040 through renewable energy and nuclear link
+• Increase generation capacity to 15,420 MW by 2030 and 52,481 MW 
+by 2040 link
+Policy / Regulation
+• No import duty on solar equipment link 
+• Zero VAT rate on solar equipment link 
+• VAT free imports of specialized solar equipment link 
+• Net metering for systems up to 500 KW link , FiT exists link
+Electrification Rate
+• 57% of the population is electrified link 
+• Targets universal electricity access by by 2030 link
+EMBER
+=== PAGE 142 ===
+142
+Zambia
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+333.04 MWp 
+40.35 MWp 
+3.34 MWp 
+15.94 MWp
+124.11 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.032
+$ 0.028
+$ 0.028
+MAX
+$ 0.176
+$ 0.117
+$ 0.073
+Noteworthy Developments
+• Genvision to develop 300 MW + 800 MWh project link 
+• Amsons Group and Exergy Africa to develop 1000 MW solar link 
+• The govt launched construction of the 100 MW chirundu solar plant link
+• Maamba Energy is planning to add 100 MW to the national grid link
+• CEC reached financial close of 136 MWp itimpi II solar plant link 
+• Amsons and Exergy Africa to develop 1000 MW of solar link
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Enhance the share of non hydro renewable energy in the energy-
+generation mix to 33 % by 2030 link
+• Increase country’s installed generation capacity to 10,000 MW by 
+2030, primarily through renewable energy sources link
+• Develop 3,000 MW of solar capacity by 2030 link
+• At least 200 solar mini-grids operational by 2030 link
+Policy / Regulation
+• Import duty exemption for solar PV products link 
+• Solar products are VAT-free link 
+• FiT applies to projects of up to 20 MW link 
+• Net metering regulation is available link
+Electrification Rate
+• National electricity access has reached 53.6% link 
+• Access rates of 80.3% in urban and 34% in rural areas link
+• Aims to achieve universal access to electricity by 2030 link
+EMBER
+=== PAGE 143 ===
+ZAQENA
+ZANNA RENEWABu ENERGY ASSOCIATION
+ZARECON 2026
+POWERING ZAMBIA'S FUTURE:
+PIONEERING POLICY, INNOVATION, AND
+PARTNERSHIPS FOR ENERGY SECURITY
+25-26 March,2026
+9:00 AM 5:00 PM Daily
+Intercontinental Hotel,
+Lusaka, Zambia
+20+ Industry Experts
+Organised By
+ZAQENkV)
+GRC
+info@zarenayp.org
++260 950078841
+5747 Lunsemfwa Road,
+Kalundu
+www.zarenayp.org
+Strategic
+Partners
+EPO
+BELL MAC
+Supported By
+Ministry of
+Energy
+I-LS,YD9
+=== PAGE 144 ===
+144
+Zimbabwe
+Total PV Installed
+• Utility-scale 
+• C&I 
+• MG 
+• SHS
+• Residential
+66.86 MWp 
+139.45 MWp 
+1.58 MWp 
+1.08 MWp
+80.45 MWp
+Source
+AFSIA
+GOGLA
+Current Tariff Grid Electricity
+Source
+Residential
+Commercial
+Industrial
+MIN
+$ 0.05
+$ 0.06
+$ 0.06
+MAX
+$ 0.25
+$ 0.23
+$ 0.23
+Noteworthy Developments
+• Energywise developing 100 MW Runde River solar park link 
+• Infraco developing the 30 MW Vungu solar plant link 
+• Prospect Lithium Zimbabwe constructing 70 MW solar plant link
+• Afreximbank funding the 1 GW Kariba floating solar project link
+• Zimplats broke ground on its 2nd phase 45 MW solar plant link 
+Key Electricity Institutions
+Ministry
+Regulator
+Utility Company
+Rural Electrification Agency
+Objectives
+• Reach 2,640 MW of renewable energy capacity by 2030 link 
+• Add 1 575 MW of solar, 275 MW of bioenergy, 150 MW of small 
+hydropower, and 100 MW of wind link
+• 3.1M households electrified and 70% clean-cooking access by 2030 link 
+Policy / Regulation
+• Solar equipment is exempt from import duty link 
+• A 15% VAT rate on solar equipment link 
+• Net metering exists for systems up to 5 MW link , No FiT in place link 
+• License required for generation below 100 KW link
+Electrification Rate
+• National electricity access rate stands at 62% link 
+• Access rates of 83% in urban and 27% in rural areas link
+• Targets to attain universal electricity access by 2030 link
+EMBER
+=== PAGE 145 ===
+145
+Special Appreciation to Our Valued Peer Reviewers
+At the heart of AFSIA’s mission is the dedication to creating networks and 
+knowledge-sharing platforms that allow solar stakeholders to quickly connect 
+with partners and access vital information, supporting more effective and 
+efficient business decisions.
+AFSIA extends sincere gratitude to the outstanding experts across the continent 
+who generously contributed their time and knowledge to review and enhance 
+the information presented in this year’s report. Their insights have been 
+instrumental in ensuring accuracy and depth.
+We are proud to spotlight these distinguished individuals and warmly encourage 
+you to reach out to them directly for further expert guidance on specific 
+countries.
+Once again, thank you for your invaluable contributions. Your expertise is not 
+only essential to this report but also a cornerstone of AFSIA’s mission to advance 
+a sustainable future through solar energy.
+Adel Baba-Aissa
+Acumen - Investment Director
+Algeria
+Isabel Caravana
+Kotoil Energy - Project Director
+Angola
+Segbedji Favi
+Egnon Consulting – Project Manager
+Benin
+=== PAGE 146 ===
+146
+Laurene Oumba
+Aptech Africa – Sales & Marketing 
+Associate
+Central African Republic
+Marwa Mansour
+Egyptian Electricity Holding Company - Senior 
+Energy Conservation and Renewable Energy 
+Efficiency Improvement
+Egypt
+Farida Ahmed Karim
+UNDP Comoros - Project Manager, Africa 
+Minigrids Programme
+Comoros
+Ivie Ehanmo
+Electricity Lawyer - Founder
+Eritrea
+Heritier Bagonza
+GL Africa Energy (GLAE) ltd – Business 
+Development Manager
+Democratic Republic of Congo
+Rodney Carval
+Renewable Energy and Climate Change 
+consultant
+Eswatini (formerly Swaziland)
+Mikael Alemu
+10 Green Gigawatt for Ethiopia - CEO 
+and Founder 
+Ethiopia
+Herbert Friese
+Dutch & Co – General Manager
+Ghana
+Hamidou Drame
+Guilex Avocats – Partner Lawyer
+Guinea
+Robert Hanna
+African Sun Energy - Managing Director
+Botswana
+Franck Wanessomde Kabore
+Ministry of Energy, Mines and Quarries 
+– Energy Officer
+Burkina Faso
+Fabrice Hakizimana
+AVSI Foundation - Expert
+Burundi
+Mohamadu Saido Balde
+Ministry of Energy - Director of the 
+Department of Studies, Projects, Strategic 
+Planning and Statistics 
+Guinea-Bissau
+Arthur Oduor
+Central Electricals International Limited - 
+Business Development Manager 
+Kenya
+Abdourazak A. Kayad
+University of Djibouti - Associate Research 
+Professor
+Djibouti
+=== PAGE 147 ===
+147
+Aboubacar Maiga
+Africa GreenTec - Responsable 
+management and maintenance 
+Mali
+Bouchra Laarabi
+PSES Research Laboratory, ENS – Mohammed V 
+University - Researcher + freelance consultant
+Morocco
+Abdoullahi Diop
+ITIE Mauritania - Secretaire Permanent 
+Mauritania
+Helena Absalao Macune
+Amer – Executive Director
+Mozambique
+Omar Abdelhamid
+Gridtech Infrastructure - Business Development 
+Executive for MEA Region 
+Mauritius
+Kleopas Shitaleni
+HOPSOL Africa - Monitoring Engineer 
+Namibia
+Engr. Timothy Shekarau
+DARES - Project Management Unit Nigeria 
+Electrification Project (NEP) – REA - Senior Technical 
+Design Specialist (PI & SI)
+Nigeria
+Saint-Cyr Sessegnon
+SANY Group – Senior Key Account 
+Manager
+Republic of the Congo
+Eder Munyampenda
+Sawa Energy – Country Manager
+Rwanda
+Steven Payma
+Rural and Renewable Energy Agency - 
+Business Development Specialist
+Liberia
+Dr. Basim Belgasim
+Libyan Authority for Scientific Research 
+(LASR) - Renewable energy consultant
+Libya
+Carlos Miro
+GIZ – Chef de projet PERER
+Madagascar
+Admore Chiumia
+Green Impact Technologies - CEO
+Malawi
+Gabriel Lima Maquengo
+Ministry of Infrastructure​ and Natural 
+Resources​ - Director of Energy
+Sao Tome and Principe
+Pierre Seyni THIAW
+Enda energie – Chef de projet
+Senegal
+=== PAGE 148 ===
+148
+Dr. Mohamed Alhaj
+Terra Energy – Founder & Managing 
+Director
+South Sudan
+Prof. Yao Azoumah
+KYA-Energy Group – CEO & Founder
+Togo
+Greyson Onesmo Metili
+Ignite Energy Access – Head of Africa 
+Operations
+Tanzania
+Ghada Ammari
+Hopewind - Senior Business 
+Development Manager 
+Tunisia
+Ansumana Touray
+TEC Group Gambia - Founder
+The Gambia
+Andrew Festo Kasule
+Grips Energy - Regional Sales Manager 
+East Africa 
+Uganda
+Dr. Chilala Kakoma-Bowa
+ZARENA – Strategy & Implementation 
+Lead
+Zambia
+Terence Chambati
+Grid Africa – Country Ahead
+Zimbabwe
+Shanna Carola
+Public Utilities Corporation -Maintenance 
+Engineer 
+Seychelles
+Mohamed Alhaji Munu
+Sierra Power Renewable Energy (SL) 
+Limited - CEO
+Sierra Leone
+Eng. Sharmaarke Mustafe
+Somaliland Ministry of Energy and Minerals 
+- Deputy Director of Energy
+Somaliland
+Rethabile Melamu
+SAPVIA - CEO
+South Africa
+Amna Haroon
+Faas Energy – Managing Director
+Sudan
+=== PAGE 149 ===
+149
+Thanks to AFSIA Members
+=== PAGE 150 ===
+150
+Team updates
+Presenting the team and new members
+John
+CEO
+Josée
+Community 
+Manager
+Aline
+ Market Intelligence 
+Manager
+Christian
+ Community 
+Management 
+Associate
+Salim
+Events 
+Manager
+Bill
+ Market 
+Intelligence 
+Associate
+Rhoda
+Community 
+Management 
+Associate 
+Merci
+Digital Comms 
+Associate 
+Emery
+Finance 
+Manager
+Benjamin
+Director of
+Operations
+Rachel
+Executive 
+Assistant
+Natasha
+Events 
+Associate 
+Shania
+ Market 
+Intelligence 
+Associate
+Sinazo
+ Partnership 
+Manager
+=== PAGE 151 ===
+151
+Contact Us
+© A F S I A . A L L R I G H T S R E S E R V E D
+Mail
+info@afsiasolar.com
+Website
+www.afsiasolar.com
+Address
+23Q6+V3G, 13 KN 77 St, 
+Kigali Rwanda

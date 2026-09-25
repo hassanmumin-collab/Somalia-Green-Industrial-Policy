@@ -1,0 +1,19 @@
+Representative Household Populations,Code,Number (1000s of people),Share
+All households,h_ALL,"120,813.00000000",100.00000000
+Quintile 1,h_Q1,"24,287.61287912",20.10347635
+Quintile 2,h_Q2,"24,173.77790896",20.00925224
+Quintile 3,h_Q3,"24,277.60330202",20.09519116
+Quintile 4,h_Q4,"24,146.32142532",19.98652581
+Quintile 5,h_Q5,"23,927.68448459",19.80555444
+Rural households,h_RUR,"97,448.95140482",80.66098136
+Rural quintile 1,h_rur1,"20,759.46431913",17.18313784
+Rural quintile 2,h_rur2,"20,811.22429702",17.22598089
+Rural quintile 3,h_rur3,"21,858.34960571",18.09271321
+Rural quintile 4,h_rur4,"19,324.99522250",15.99579120
+Rural quintile 5,h_rur5,"14,694.91796046",12.16335822
+Urban households,h_URB,"23,364.04859518",19.33901864
+Urban quintile 1,h_urb1,"3,528.14855998",2.92033851
+Urban quintile 2,h_urb2,"3,362.55361194",2.78327135
+Urban quintile 3,h_urb3,"2,419.25369631",2.00247796
+Urban quintile 4,h_urb4,"4,821.32620282",3.99073461
+Urban quintile 5,h_urb5,"9,232.76652412",7.64219622

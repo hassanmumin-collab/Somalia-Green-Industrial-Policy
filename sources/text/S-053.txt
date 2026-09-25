@@ -1,0 +1,1549 @@
+=== PAGE 1 ===
+September 2024
+Harnessing Somalia's Blue Economy: 
+Pathways to Sustainable Prosperity
+NATIONAL ECONOMIC COUNCIL (NEC) of SOMALIA
+SEPTEMBER 2024
+=== PAGE 2 ===
+NATIONAL ECONOMIC COUNCIL (NEC) of SOMALIA
+Harnessing Somalia's Blue Economy: 
+Pathways to Sustainable Prosperity
+By:
+Abdul-Aziz Iddrisu
+Senior Economist, World Bank’s Chief Economist of Government (CEoG) Fellowship;
+African Center for Economic Transformation, Ghana,
+&
+National Economic Council (NEC), Somalia.
+September 2024
+=== PAGE 3 ===
+Contents
+Foreword ................................................................................................................................................iv
+Acknowledgement ...................................................................................................................................v
+Executive Summary................................................................................................................................vi
+1. Introduction........................................................................................................................................ 1
+2. The State of Affairs............................................................................................................................. 2
+2.1 The ports/marine sector .............................................................................................................................................. 2
+2.2 	 The Fisheries sector................................................................................................................................................... 4
+2.3 	 Oil and gas.................................................................................................................................................................... 4
+2.4 	 Wind energy................................................................................................................................................................. 5
+3.	
+Turning the Tide and Picking up Lessons from Other Countries....................................................... 6
+3.1 	 The ports/marine sector........................................................................................................................................... 6
+3.2 	 The Fisheries sector................................................................................................................................................... 9
+3.3 	 Oil and gas sector....................................................................................................................................................... 9
+3.4 	 Wind energy................................................................................................................................................................. 9
+4.	
+The Cost Implications, Financing, and the Projected Revenues..................................................... 10
+4.1 	 Costs...........................................................................................................................................................................10
+4.2 	 Financing the face lift of the ports/marine sector, the road networks and the fisheries sector..............13
+4.3 	 Projected Revenues from the blue economy......................................................................................................14
+5. The risk issues.................................................................................................................................. 15
+6. Conclusion........................................................................................................................................ 15
+About National Economic Council ......................................................................................................... 17
+Endnotes............................................................................................................................................... 18
+=== PAGE 4 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+iv
+September 2024
+Foreword 
+With the longest coastline in mainland Africa, Somalia is not only strategically located but has enormous 
+blue economy potential. The enormity of the resource endowments and the advantages of the strategic 
+location have not counted all these years. The potential to connect Africa to the rest of the world and 
+become a logistics hub; the renewable energy potential from the tidal waves and wind; the fibre optic 
+capability; the endowment of fish and the potential for value additions along the chain; the potential 
+for resorts and recreational facilities to boost tourism; and the numerous ocean resources available to 
+Somalia remain substantially untapped. Making these advantages count for Somalia is crucial as the 
+country looks to build a robust and prosperous economy for all Somalis.
+Hassan Adam Hosow  
+Chief Economic Advisor to the President of Somalia 
+Executive Director, National Economic Council
+=== PAGE 5 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+September 2024
+v
+Acknowledgement 
+This paper received inputs from Mohamed Abdurrahman Mohamed who is the Director of Presidential 
+Initiatives and Flagship Programs Department & the Centennial Vision 2060 Coordinator at 
+National Economic Council of Somalia. The paper was thoroughly reviewed by Hassan Hosow, the 
+Executive Director of the National Economic Council (NEC) and the Economic Advisor to the President 
+of Somalia.
+=== PAGE 6 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+vi
+September 2024
+Executive Summary
+Somalia has the longest coastline in mainland Africa, covering 3,333 km and strategically positioned 
+along major shipping routes such as the Sue Canal, Gulf of Aden, the Indian Ocean and the Red Sea 
+where about 80 percent of the international maritime trade is channelled. Such a strategic location 
+makes Somalia the natural trade route for other countries (particularly its neighbors) for inland transits 
+and transhipments. The length and the strategic location of the coastline, as well as the abundance 
+of blue economy resources are crucial for the transformation of the Somali economy, provided these 
+resources are harnessed. Somalia has not been able to make these resources and locational advantage 
+count, as infrastructure and policies required to harness these resources have been lacking. As Somalia 
+looks to transform its economy through a long-term development blueprint, the blue economy potential 
+is one of the priority areas for consideration. This policy paper therefore explores the strategic coastal 
+position of Somalia and proposes measures to develop it into a continental logistics hub. By leveraging 
+its geographic advantage, Somalia can enhance regional connectivity, boost trade volumes, attract 
+investment, and stimulate economic growth. The paper also outlines how Somalia could leverage its 
+coast to develop other sectors such as fisheries, oil & gas, and wind energy. The paper outlines key 
+policy recommendations to establish the necessary infrastructure, facilitate trade, promote private 
+sector engagement, and ensure sustainable development. It emphasizes the importance of collaboration 
+among government entities, private sector stakeholders, and international partners to unlock Somalia’s 
+potential along its coast.
+=== PAGE 7 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+September 2024
+1
+1. Introduction
+Somalia’s coastline stretches 3,333 kilometres, 
+making it the longest in Africa and with great 
+potential to establish one of the largest blue 
+economies in Africa and beyond. With the longest 
+coastline in Africa, Somalia has the potential to 
+establish itself as the major logistic hub in the 
+world. Beyond the length, Somalia’s coastline is 
+strategically positioned along major shipping routes 
+such as the Sues Canal, Gulf of Aden, the Indian 
+Ocean and the Red Sea where about 80 percent 
+of the international maritime trade is channelled. 
+Such a strategic location makes Somalia the natural 
+trade route for other countries (particularly its 
+neighbors) for inland transits and transhipments. 
+This presents the country with the opportunity 
+to harness port operations and position it as one 
+of the most vibrant logistic hubs in the world. 
+Another opportunity is the importation of goods 
+into Somalia and then packaged for re-export to 
+countries closer to Somalia such as Kenya and 
+Ethiopia. The country has four key operational ports 
+at Mogadishu, Berbera, Bosaaso, and Kismayo, of 
+which three (Mogadishu, Kismayo and Berbera) 
+are deep water1. 
+Somalia can also leverage the sea to develop 
+capacity in telecom and digital infrastructure by 
+laying submarine cables to help provide world 
+class connectivity locally and abroad. With the 
+gift of the longest coastal, Somalia can exploit 
+capabilities in fibre optic technology (through 
+submarine cables) and become one of the major 
+global players in the distribution of international 
+bandwidth and fast internet connectivity, particularly 
+to the neighboring landlocked Ethiopia. Somalia’s 
+export is largely dominated by livestock, implying 
+substantial concentration risk. Meanwhile, the 
+country has the opportunity for export diversification 
+by exploiting the fisheries potentials with its longest 
+coastline. The fisheries sector would also provide 
+the added nutrition apart from meat.  Somalia’s 
+coastline could help with renewable energy and 
+power, given that the country is currently battling 
+expensive, inefficient, and unreliable supply of 
+power. There is the potential for wind energy in 
+Somalia, given the offshore wind which is at 8 
+metres per second (the continent’s highest). The 
+country’s longest coastline also allows the tourism 
+sector to develop through recreational facilities 
+and resorts along the coast. This would help 
+contribute significantly to the diversification of 
+the Somali economy from the current reliance on 
+agriculture and create jobs for the youth. There is 
+also the potential for oil and gas exploration from 
+the country’s coastline. However, establishing a 
+vibrant blue economy and turning Somalia into 
+a logistics hub requires enormous investment in 
+hard and soft infrastructure, capacity building, 
+governance, and regulatory reforms. 
+The objective of this policy paper is to provide a 
+comprehensive account of how Somalia can harness 
+the potential of its blue economy. Specifically, the 
+policy paper aims to provide the current situation 
+of sectors of the blue economy potentials such as 
+the ports, fisheries, wind energy, and oil and gas. 
+Given the sparse information on the various blue 
+economy sectors such as tourism, oil and gas, 
+renewable energy (wind power), and fibre optic 
+capabilities, this policy paper is heavy on ports 
+and to some extent fisheries, oil & gas, and wind 
+energy. Section 2 considers the current situation 
+of the various blue economy sectors, especially the 
+nature of infrastructure required. Section 3 looks 
+at the ways of turning the tides and picking up 
+lessons from other countries. Section 4 evaluates 
+the cost of turning the corner, the financing sources 
+and mechanisms, and the projected revenues from 
+the blue economy sectors. Section 5 looks at the 
+possible risk factors and section 6 concludes.  
+1
+Introduction
+=== PAGE 8 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+2
+September 2024
+2. The State of Affairs
+2.1 The ports/marine sector 
+In spite of the length of Somalia’s coastline, there 
+are only 3 deep water ports in the country, partly 
+because the country’s coast lacks adequate roads 
+connecting the ports to inlands for the purposes of 
+carting cargos from the ports to their destinations 
+inland. Around just 13 percent of all roads in 
+Somalia (2,860km out of 21,830km) have been 
+paved and even the paved roads are in bad shape, 
+exacerbated by poor maintenance culture, climate 
+change, and the protracted conflict.  In addition to 
+the few operational and deep-water ports, the traffic 
+volumes are skewed to Mogadishu and Berbera 
+ports, with relative inactivity in the rest. The port at 
+Mogadishu is estimated to handle about 949,506 
+tons annually whiles Berbera handles 711,864 tons 
+annually. Meanwhile, Kismayo, which is another 
+deep-water port, handles just 4,556 tons.  Worse 
+still, there is substantial excess capacities at 
+Berbera and Mogadishu ports in spite of the fact 
+that these ports handle most of the volumes in 
+Somalia. For instance, whereas the berth days 
+available at the country’s ports is 4,380, only about 
+872 berth days are required for the current level 
+of traffic volumes, representing 19.91 percent or 
+approximately 20 percent. At Mogadishu port, 
+for instance, the estimated capacity is 2 million 
+tons per annum but only about 949,506 tons are 
+currently handled2. 
+The level of development and infrastructure at 
+the country’s ports are very low. The Mogadishu 
+port, which is the country’s most active port, 
+suffers from inadequate equipment. The port 
+has no breakwater, thereby hindering operations 
+during the wet season. The lack of equipment has 
+meant that vessels rely on their own cranes for the 
+purpose of unloading cargos. At Bosaaso port in 
+Puntland, there is only one berth which can only 
+take one ship at any point in time. The situations 
+2 The State of Affairs
+at Kismayo and Berbera are not different. The poor 
+infrastructure at the country’s ports, especially 
+the Berbera port, has come at a cost to Somalia. 
+For instance, on the country’s western border is 
+Ethiopia, which is landlocked, and provides an 
+enormous opportunity for Somalia to serve as the 
+route for trade to and from Ethiopia. Sadly, around 
+90 percent of Ethiopia’s import and export volumes 
+are channelled through the ports of Djibouti, with 
+Somalia attracting a paltry 10 percent (related 
+to the export of livestock) through Berbera due 
+to the poor infrastructure at Somalia’s ports. 
+Available estimates indicate that Ethiopia pays 
+to Djibouti, on daily basis, 2 million USD for the 
+transit of goods through the latter3. Although the 
+poor infrastructure narrative is changing with Al 
+Bayrak and DP World taking over the operations 
+of Mogadishu and Berbera ports respectively, the 
+substantial infrastructure deficit remains a major 
+challenge. 
+Another challenge with Somalia’s ports is the issue 
+of connectivity. Beyond the strategic location lies 
+the need to work on the connectivity and integration 
+of the country’s ports with the rest of the world. 
+Somalia’s score on UNCTAD’s Liner Shipping 
+Connectivity Index was just 9.8 as at the end of 
+second quarter of 20234 indicating the very low level 
+of integration of Somalia into global liner shipping 
+networks. A county's accessibility to international 
+markets and the nature of traffic volumes it attracts 
+hinges to a greater extent on the connectivity of 
+its transport, particularly relating to shipments 
+of goods in export and import transactions. The 
+performance is even worse at the port level as 
+Berbera, Kismayo, and Mogadishu ports scored 
+7.2, 6.8, and 7.9 respectively on UNCTAD’s Port 
+Liner Shipping Connectivity Index at the end of 
+the second quarter of 2023. For Bosaaso port, the 
+most recent data is for the first quarter of 2022 
+where the port scored 2.6 on UNCTAD’s Port Liner
+=== PAGE 9 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+September 2024
+3
+Shipping Connectivity Index and had been so since 
+the first quarter of 2021.5 
+Moreover, the operational performance of Somali 
+ports is weak. The deficiency in institutional capacity 
+across all the custom administrations in Somalia 
+affects policymaking and operational performance. 
+The ports continue to be characterized by slow 
+handling and processing. At Berbera port for instance, 
+the recorded hourly container moves are 6 relative 
+to the standard 25 recorded at modern and efficient 
+ports. The poor operational performance is also 
+attributable to a lack of inadequate equipment at the 
+country’s ports and the fact that the government is 
+involved in the management of some of the ports, 
+with the baggage of a myriad of unionised and 
+overstaffed workforce who are less efficient. For 
+instance, whereas modern ports are mostly capital-
+intensive and technology-driven, Somalia’s ports 
+are heavily over staffed, with about 5,000 workers 
+at Mogadishu alone and another 2,000 at Berbera. 
+The lack of jobs in the country is the major reason 
+for the overstaffing at the ports.  Furthermore, as 
+the Somali government rakes in most of its revenue 
+from international trade (in the form of taxes, fees 
+and custom duties), there has been reliance on 
+revenues from the ports, thereby exerting upward 
+pressure on port charges in Somalia6. 
+Unsurprisingly, Somalia’s Logistics Performance 
+Index (LPI)7 score in 2023 is 2, placing it at the 
+137th position out of the 139 countries surveyed 
+globally according to the World Bank data. In the 
+2023 rankings, Somalia is ahead of only Afghanistan 
+and Libya. The country’s LPI score of 2 in 2023 
+represents a decline from 2.21 in 2018 when it 
+ranked 144th out of the 160 countries surveyed in 
+that year. Somalia’s LPI score has been unstable 
+since 2014 when it scored 1.77 and ranked 160th 
+country (the bottom) out of the 160 countries 
+surveyed. There was a decline in the country’s 
+score in 2016, registering a score of 1.75 and 
+ranking 158th out of the 160 countries surveyed. 
+The year 2018 saw a rebound to 2.21 in the LPI 
+score (ranking 144th country out of 160 countries) 
+but declined to 2 in 2023. 
+The LPI score is a composite of other indicators 
+such as customs score, infrastructure score, 
+international shipment score, logistics competence 
+score, tracking & tracing score, and timeliness 
+score. The performance of Somalia in the scores 
+and rankings of these subcomponents is telling. 
+Table 1 summarizes the performance of Somalia 
+in these subcomponents:
+Table 1: Somali’s performance on subcomponents of LPI
+ 
+2023
+2018
+2016
+Score
+Rank
+Score
+Rank
+Score
+Rank
+Customs score
+1.5
+139th out of 139 
+countries
+2
+145th out of 160 
+countries
+1.29
+159th out of 160 
+countries
+Infrastructure 
+score
+1.9
+132nd out of 139 
+countries
+1.81
+157th out of 160 
+countries
+1.57
+156th out of 160 
+countries
+International 
+shipment score
+2.4
+111th out of 139 
+countries
+2.61
+100th out of 160 
+countries
+1.86
+157th out of 160 
+countries
+Logistics 
+competence score
+1.8
+139th out of 139 
+countries
+2.3
+121st out of 160 
+countries
+1.85
+156th out of 160 
+countries
+Tracking and 
+Tracing score
+1.8
+136th out of 139 
+countries
+2.23
+140th out of 160 
+countries
+1.51
+160th out of 160 
+countries
+Timeliness score
+2.3
+133rd out of 139 
+countries
+2.2
+157th out of 160 
+countries
+2.35
+152nd out of 160 
+countries
+Note: The customs score captures the efficiency of the processes for clearance at a country’s border control institutions and customs. It 
+looks at how fast, predictable, and simple the processes and formalities for clearance are. The infrastructure score captures the quality of 
+infrastructure related to transport and trade. Essentially, the score looks at infrastructure on information technology, roads, railroads, and 
+ports. The international shipment score captures the extent of ease of making shipments which are also competitively priced. The logistics 
+competence score captures the quality and competence of logistics services provided by institutions and entities such as customs brokers and 
+transport operators. The tracking and tracing score measures the capacity to trace and track consignments. The timeliness score measures 
+how quick shipments get to their destinations as scheduled.
+=== PAGE 10 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+4
+September 2024
+Similarly, the container shipping indicators as of the 
+second quarter of 2022 shows the following: the 
+number of services provided at the Somali ports 
+is 9; there are no alliances; the number of partner 
+countries (indicating maritime connectivity) is 14; 
+and the average (mean) turnaround time at the ports 
+was 1.2 days. This compares unfavourably with 
+Djibouti, one of Somalia’s competitors in terms of 
+exports and imports of landlocked Ethiopia. Djibouti 
+ports provide 13 services as against 9 in Somalia; 
+Djibouti has 1 alliance whereas Somalia has none; 
+Djibouti has 24 partner countries (measuring 
+maritime connectivity) whereas Somalia has 14; 
+and the mean turnaround time at Djibouti ports 
+is 0.8 days compared to 1.2 days in Somalia. 
+Unsurprisingly, Djibouti bags 90 percent of Ethiopia’s 
+trade volumes. 
+Clearly, a lot must be done to turn Somalia’s ports 
+into global logistics hub. The level of development 
+and infrastructure certainly reflect in these rankings 
+and dent the attractiveness of Somali ports to the 
+rest of the world. 
+2.2 	 The Fisheries sector
+The potential of Somalia’s fisheries sector is 
+enormous, considering the endowment of fish 
+species such as tuna, sharks, billfishes, anchovies, 
+rays, seabream, mackerel, emperors, and a host 
+of other species across an area of about 830,390 
+km2 within Somalia’s Economic Exclusion Zone8. 
+Additionally, fishing in Somalia can be done offshore 
+and onshore, with substantial potential in both 
+streams. The annual potential contribution of the 
+sector is projected to range between USD 350 
+million and USD 950 million9. This potential, however, 
+remains unrealised as the sector is substantially 
+under-developed. The lack of cold-chains, landing 
+sites, jetties, and infrastructure for processing of 
+fishes largely hinder the growth of the fisheries 
+sector. There is also the problem of post-harvest 
+losses. The poor infrastructure and the lack of 
+access to local and foreign markets inhibit the 
+growth of the sector and the attractiveness of the 
+sector to private investors10. 
+Moreover, what is holding back the potential of 
+the fisheries sector include poor governance and 
+regulatory frameworks; poor coordination between 
+fisheries ministries at the FGS and FMS levels; 
+and poor surveillance. The lack of a robust legal 
+framework for the fisheries sector has meant 
+that foreign-owned vessels continue to engage 
+in widespread illegal fishing which endangers the 
+sustainability of the country’s marine resources and 
+destroying the marine ecosystem and environment. 
+These vessels, involved in illegal fishing, also engage 
+in abuse of labour, smuggling, and trafficking11. 
+The illegal fishing is estimated to be in excess of 
+USD 300 million12. Somalia also benefits little from 
+the activities of numerous industrial vessels in the 
+country’s marine space. In addition to the little 
+benefits from the activities of both the industrial 
+and foreign-owned vessels engaged in illegal 
+fishing, the country’s future economic prospects 
+is in jeopardy, given the massive depletion of 
+its marine resources. Meanwhile, these natural 
+resources are key to the economic renaissance 
+and job creation. The country’s effort to reclaim 
+and manage these resources as well as stem the 
+tide of depletion is inhibited by the poor common 
+governance framework coordination between the 
+FMS and the FGS. There is lack of capacity to 
+regulate and monitor the illegal fishing along the 
+coast and the offshore area13. 
+2.3 	 Oil and gas
+Somalia’s endowment includes oil and gas which 
+have largely not been tapped. The country is 
+estimated to have about 206 oil blocks covering 
+an area of 173,000 kilometres and with oil reserves 
+equivalent to about 110 billion barrels, making the 
+country the sixth in terms of oil reserve endowment 
+in the world14. In 2022, Coastline Exploration (a 
+US-based firm) reached an agreement with the 
+FGS for the exploration of 7 offshore blocks over 
+an area of 35,000km2, which saw the former 
+pay the latter USD 7 million for the 7 blocks. 
+From the 7 offshore blocks alone, the company 
+is expecting to drill out barrels of oil running into 
+tens of billions. Other exploration companies such 
+as Shell and ExxonMobil are contemplating an 
+entry into Somalia’s promising oil sector15. The 
+burgeoning oil sector in Somalia provides enormous 
+opportunities for the country’s economy and its
+=== PAGE 11 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+September 2024
+5
+citizens. The country needs to ensure greater 
+participation of local content (local businesses 
+and citizens in the value chain) in the sector. There 
+needs also to be proper mechanisms to ensure 
+that Somalia benefits significantly from its oil. 
+2.4 	 Wind energy
+The private sector is at the heart of power generation 
+and supply, following the collapse of central 
+government in 1991. The sector generates a little 
+above 100 megawatts, fraught with inefficiencies 
+as it depends on the use of diesel generators to 
+generate power. As a result, power generation in 
+the country is beset with technical and commercial 
+losses, estimated to be around 35 percent of power 
+generated. In addition to technical and commercial 
+losses, the sector also suffers transmission losses 
+of up to 40 percent. The inefficiencies are borne 
+by consumers, as electricity cost is estimated 
+to range between USD 0.6 and USD 1 for every 
+kilowatt relative to Horn of Africa’s average which 
+is estimated to be USD 0.2 for every kilowatt. 
+Meanwhile, this is a country endowed with offshore 
+wind in excess of 8 meters per second and potential 
+capacity ranging between 30,000 megawatts and 
+45,000 megawatts which puts Somalia amongst 
+Africa’s highest in terms of speed of tidal waves 
+and therefore a potential for wind energy to power 
+industrialisation and economic renaissance.
+=== PAGE 12 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+6
+September 2024
+3.	
+Turning the Tide and Picking up Lessons from 
+Other Countries
+3.1 	 The ports/marine sector
+Somalia’s longest coastline and the proximity to 
+markets in the GCC countries, Asia and the Middle 
+East is not a guarantee that the country would 
+be the preferred trade route for neighbouring 
+countries and Africa at large. The fact that the 
+country attracts only 10 percent of Ethiopia’s trade 
+volumes, the operations below capacities at the 
+various ports, the relative inactivity at some of the 
+ports, and the apparent poor performance on LPI 
+and other connectivity indices are clear evidence 
+of the fact that the potential that the coastline and 
+its strategic proximity to global markets present, 
+require concerted efforts to actualize them. This 
+section presents the necessary steps Somalia would 
+need to take to turn the tide of underperformance 
+and the lack of exploitation of the full potential of 
+the country’s maritime ecosystem. 
+3.1.1 	 The need to construct new ports
+Given the length of Somalia’s coastline, the fact 
+that the country has only four operational ports, 
+of which three are deep water, is underwhelming. 
+There is a need to situate deep water and active 
+ports along the coast. The reconstruction of a port 
+at Garacad is underway to add to the active and 
+operational ports in Somalia. The reconstruction 
+project, which is in three phases, is estimated 
+to cost USD 180 million upon completion and is 
+funded exclusively by the country’s private sector. 
+The first phase, estimated at a cost of USD 40 
+million, has been completed. The Garacad port, 
+when completed, would be capable of handling 
+about 3.5 million tons annually and can concurrently 
+take about 4 cargo ships of up to 30,000 DWT. The 
+location of the port is strategic, as its distance to 
+the border with Ethiopia is within 303 kilometers. 
+The reconstruction of this port should help lower 
+land transport cost across parts of central Somalia. 
+The port would also provide connectivity advantage 
+to Ethiopia via Galkayo and Galdogob. However, 
+the government would have to construct a road 
+from Garacad to Galkayo and Galdogob. 
+3.1.2 	 The need to construct new roads and 
+improve existing roads linking the ports 
+and inlands
+One of the factors for which Somali ports have not 
+attracted the needed traffic volumes is the lack 
+of roads (paved and unpaved) linking the major 
+ports to inlands. At the moment, the country’s 
+main port at Mogadishu links up with the inland 
+through the 1,400km road from Mogadishu to 
+Berbera. There is another 520km road that connects 
+Mogadishu and Dolo through Baidoa. The Bosaaso 
+port connects to the inland through the north-south 
+major highway which starts from Mogadishu and 
+links through Garowe and Galkayo16. Not only are 
+these roads not enough but given the potential of 
+the Mogadishu port in particular, the greater portions 
+of these roads are in a bad state. Establishing 
+a world class logistics hub in Somalia requires 
+first class roads (fixing the existing roads and 
+constructing new ones) from the ports to many 
+parts of Somalia to enable transit through the 
+country to neighbouring countries. It also allows 
+goods to be shipped to Somalia for packaging and 
+onward distribution to various States in Somalia 
+and neighbouring countries. Such avenues then 
+open up the warehousing businesses and related 
+value chain along the coast. 
+3.1.3 	 Working on infrastructure and development
+To actualize the potential of Somalia as logistics 
+hub, significant investment in infrastructure (hard 
+and soft) at the country’s ports is required. As 
+3
+Turning the Tide and Picking up 
+Lessons from Other Countries
+=== PAGE 13 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+September 2024
+7
+development levels at the country’s ports is currently 
+low, the traffic volumes at the ports are equally on the 
+low side. There is the need to invest in infrastructure 
+such as cranes, breakwater, warehousing facilities, 
+weigh bridges, office equipment, inspection yards, 
+barge berths, multi-purpose berths (particularly at 
+Barawe), improvement in Mogadishu terminal’s oil 
+facilities, construction of meat processing factories 
+at the ports (especially Berbera and Bosaaso ports), 
+workshops, general cargo, reefer yard areas, empty 
+container handlers, reach stackers, offices for 
+staff, and a host of other modern infrastructure. 
+The country also needs to improve on the ICT 
+infrastructure at the ports. In addition to reducing 
+clearing times and the associated transaction 
+costs, improvement in ICT infrastructure is also 
+crucial in facilitating uniform and consistent 
+application of customs procedures and laws on 
+goods. The digitalisation of the processes also 
+ensures transparency in revenue collections and 
+improvement in revenue. 
+Investment in infrastructure must be systematic 
+and over time. Singapore developed into one 
+of the world’s renowned logistics hubs through 
+phenomenal levels of investments in top-notched 
+infrastructure and processes over time. In spite of 
+the levels of investments already made, Singapore 
+is currently building the ‘Next Generation Port 
+2030’, which, when completed, would make the 
+Singapore port the world’s biggest integrated port, 
+as it is billed to handle about 65 million containers. 
+The country is also considering the technology of 
+deploying automated guided cars without drivers 
+and are determined to ride on smart sensors for 
+the detection of irregularities in shipping such as 
+piracy and the prediction of traffic-prone spots 
+using data analytics. In 1989, Singapore unveiled 
+a national single window, the first in the world, 
+which rationalised and digitized processes for 
+the approval of trade permits with the view to 
+ease and simplify trade. The window had most 
+government institutions in Singapore aboard, with 
+a paradigm shift to trade facilitation from trade 
+control. The window has made it possible for the 
+electronic processing of permit approvals in a 
+matter of minutes. The country is also working 
+to augment the window to allow for integration 
+of several business-to-business dealings onto the 
+single digital platform17.
+Apart from the story of Singapore, Somalia’s 
+neighbour Ethiopia has established itself as one 
+of the greatest aviation hubs in Africa, thanks to 
+substantial investments in infrastructure. The 
+Ethiopian Airlines, in addition to the enormous 
+investment already made to achieve the current 
+status is investing USD 5 billion to develop the 
+Bole International Airport in Addis Ababa, as the 
+airport is currently struggling to cope with the 
+increasing traffic. The rise in traffic volumes has 
+been phenomenal, reaching 7 million passengers 
+in 2014 from less than 1 million passengers in 
+less than a decade prior18. The International Air 
+Transport Association (IATA) projects that the 
+air transport sector in Ethiopia will have traffic 
+volumes of 23.5 million passengers, contribute 
+USD 13.5 billion to GDP, and create about 2 million 
+jobs by 2037 according to the current trends. 
+They also forecast that even in a worst case 
+scenario, the passenger traffic will be 20.1 billion 
+people, contribute USD 11.6 billion to the GDP, 
+and create 1.7 million jobs by 2037. In the best 
+case scenario, the traffic volumes could be 25.9 
+million passengers, contribute USD 14.9 billion 
+to GDP, and create 2.2 million jobs in Ethiopia by 
+203719. Ethiopian Airlines is also establishing a 
+new terminal at Bole International Airport with the 
+state of the art infrastructure. The new terminal 
+boasts of e-gate facilities, 10 self-bag drops, 30 
+self-check-in kiosks, 16 immigration counters, 60 
+check-in counters, 3 and 10 contact and remote 
+contact gates respectively20. 
+Such levels of investments in infrastructure are sure 
+to the way to keep developing and establishing the 
+East African country as a colossus in the world’s 
+aviation space. It provides sufficient motivation for 
+Somalia to invest in the required infrastructure to 
+develop its ports into global maritime giants. That 
+is possible, given Somalia’s proximity to markets in 
+Asia, the Gulf region, and the Middle East. Indeed, 
+Ethiopia exploited a similar proximity advantage by 
+establishing a strong aviation sector that connects 
+Africa to Asia, the Middle East, the Gulf countries, 
+and parts of Europe and the Americas.
+=== PAGE 14 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+8
+September 2024
+3.1.4 	 Dealing with connectivity
+For a vibrant logistics hub, connectivity is crucial. 
+At the moment, the Berbera Addis Ababa corridor 
+is the gateway to Somalia’s connectivity to the 
+rest of Africa. The north of Somalia links to Sudan 
+through Addis Ababa whiles the south of Somalia 
+links to Mombasa through Addis Ababa. There is 
+also 1,450km corridor to link Ethiopia’s eastern part 
+to the trade corridors with Berbera. Another route 
+is the link from Somalia to Kenya. This corridor is 
+from Kismayo port to Liboi which shares border 
+with Kenya. This route is estimated to be 750km 
+long but the part from Kismayo to Liboi (up to the 
+border with Kenya) is 220km long. The focus, in 
+terms of development should therefore be on the 
+220km portion of the corridor up to the border with 
+Kenya. The Mogadishu – Beled Hawo – Nairobi 
+route is also estimated to be 1,490km long. However, 
+the part that falls within the territories of Somalia 
+is 530km road from Mogadishu through Baidoa 
+to Dollow and Beled Hawo21. 
+There is the need to develop these corridors, 
+particularly the portions which fall within the 
+territories of Somalia, to facilitate trade through 
+Somalia. The country can also explore the possibility 
+of becoming the transit point for trade to and from 
+Uganda and Kenya by looking at the Kismayo to 
+Kampala and Nairobi route. Naturally, the connecting 
+route from Somalia to other African countries may 
+be cost prohibitive, given the distance by land. 
+However, the greater benefit or trump card for 
+Somalia is that it is much closer to ports in Asia 
+and the Middle East. Removing multiple and illegal 
+checkpoints on the roads, working on processing 
+times at customs checkpoints, and the logistics 
+fees would make Somalia a very attractive route 
+for trade. As Somalia is part of trade blocs such 
+as the Common Market for Eastern and Southern 
+Africa (COMESA) and the East African Community 
+(EAC), developing greater connectivity with member 
+states of these trade blocs is crucial to enable the 
+country capture substantial trade volumes within 
+these trade blocs and beyond. 
+The experiences of Singapore, Panama, and 
+Ethiopia are crucial for Somalia. By virtue of its 
+size, Singapore naturally has relatively small 
+domestic market. However, the building of a web 
+of connectivity with the rest of the world has 
+turned Singapore into one of the preferred logistics 
+hubs in the world. To boost connectivity in the 
+aviation space to build synergies with the ports, 
+the country secured 130 Air Services Agreement 
+with different countries. Similar connectivity web 
+was created in the maritime space as the country 
+engaged a number of shipping lines to establish 
+one of the busiest maritime transport system. 
+To engender greater accessibility to other global 
+markets, Singapore secured over 30 Free Trade 
+Agreements with other countries. This impressive 
+levels of connectivity endeared Singapore to many 
+companies in the maritime and logistics business 
+to locate their operation in Singapore to benefit 
+from the established connectivity and the added 
+advantage of getting their consignments delivered 
+on time22. The game changer for Panama has 
+been the extensive connectivity to a number of 
+countries. Panama is connected to 1,700 ports and 
+144 maritime routes. The country has established 
+Free Trade Zones, with over 3,000 companies that 
+enjoy tax waiver on imports and exports. There is 
+also warehousing facilities at the port and transit 
+time is not even up to an hour23. Ethiopia exploited 
+their proximity to Asia, Middle East, and Europe 
+and developed their aviation sector as a route 
+to link Africa to these continents. The airline has 
+also developed the capacity to connect Africa to 
+the Americas. 
+3.1.5	
+Working on operational performance and 
+efficiency of processes at the ports
+Deficiency in institutional capacity across all 
+the customs administrations in Somalia affects 
+policymaking and operational performance. This 
+calls for capacity building efforts for the various 
+levels of staff across the custom administration. 
+There is a need to establish modernised 
+authorities at the various ports in Somalia. The 
+fact that most of Somalia’s borders do not have 
+customs administration due to lack of resources, 
+infrastructure and qualified personnel makes illicit 
+trade thrive. With modernised and efficient customs 
+administration at each border, transparency and 
+accountability are enhanced in revenue collection 
+and promote efficiency in customs procedures
+=== PAGE 15 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+September 2024
+9
+which go a long way to lower transaction costs for 
+players in international trade and make Somalia a 
+competitive and attractive route. 
+The current laws relating to customs have not been 
+updated in a long while. They need to improve in 
+dealing with a myriad of customs-related matters, 
+particularly on operations such as transit, duty 
+drawbacks, warehousing, and refunds amongst 
+others. Enacting regulations reflective of modern 
+customs operations is crucial in ensuring efficiency 
+and effectiveness at borders and not necessarily 
+deterring the legitimate flow of trade volumes. 
+Such regulations embrace good customs controls 
+and the need to engender facilitation of trade24. 
+The customs tariff regime is complex and would 
+have to be revisited. There is a lack of clarity for 
+traders in distinguishing between costs related 
+purely to port services and those related to inland 
+revenues. Moreover, Somalia uses a reference 
+prices regime (with no bearing on the exact real 
+value of goods) when the world has long embraced 
+the concept of transactional value. The country, 
+in some cases, specify fixed customs duties 
+(irrespective of the value, features, and the quality 
+of the goods) which implies certain goods could 
+be substantially under levied and occasion loss of 
+revenues. Custom duties should be informed by the 
+features of the product, the value and the quality of 
+the product. There is the need for harmonization of 
+customs processes and regimes at all the ports in 
+Somalia. This helps to have common tariffs duty 
+rates across the ports. This helps to also do away 
+with multiple taxation at the FGS and FMS levels25. 
+3.2 	 The Fisheries sector
+The potential of Somalia’s fisheries sector can be 
+realised with the right investments in cold chains, 
+landing sites, jetties, and other infrastructure for 
+the processing of fish. The processing of fish adds 
+value and creates another layer of job opportunities 
+for Somalis. The processing facilities also help to 
+cure the perennial post-harvest losses suffered by 
+the players in the sector. 
+There is a need to build the necessary legal 
+frameworks, build strong institutions, enact fisheries 
+law, and develop sharing frameworks for revenues 
+between FGS and FMS. The improvement in 
+governance structures would help deal with illegal 
+and undocumented fishing which continues to 
+plague the sector. In addition to the governance 
+structures, there would be the need to invest in 
+surveillance and monitoring to be able to root 
+out illegal and undocumented fishing in Somalia. 
+Importantly, Somalia would need to establish 
+strong coordination between the FGS and the 
+FMS not only on revenue-sharing mechanisms 
+but also dealing with licensing issues for fishing 
+vessels. This would go a long way to streamline 
+operations in the sector. Streamlining operations and 
+coordination also requires that some investments 
+are made in human and institutional capacity 
+building which is currently lacking. To motivate 
+private sector involvement, there is the need to 
+work on accessibility to domestic and external 
+markets, particularly for landlocked countries. 
+3.3 	 Oil and gas sector
+This is an emerging sector and Somalia would 
+have to put in place the regulatory framework to 
+ensure the country is not exploited by oil exploration 
+companies. The country would have to ensure 
+maximum benefits from the exploration of its oil. 
+The local content issue is very crucial to avert 
+agitations by citizens. 
+3.4 	 Wind energy
+The use of diesel generators, along with the 
+inefficiencies and costs, could make the power 
+sector one of the nemesis of industrialisation and 
+economic renaissance agenda. With endowment 
+of tidal waves in excess of 8 meters per second, 
+Somalia could turn the tide by investing in wind 
+energy which could prove to be less expensive and 
+more efficient. The private sector is already at the 
+heart of the power sector and government would 
+need to streamline the operations of these private 
+companies and provide conducive environment.
+=== PAGE 16 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+10
+September 2024
+4.	
+The Cost Implications, Financing, and the 
+Projected Revenues
+4.1 	 Costs
+Ports/Marine sector
+In 2016, the African Development Bank (AfDB), in 
+transport needs assessment on Somalia, provided 
+estimates for a number of priority projects ranging 
+from port construction, berth construction, road 
+construction and rehabilitation, aviation sector 
+projects, and a host of others. This section adapts 
+some of these estimates by adjusting for inflation. 
+Given that the estimates were given in United 
+States dollars, the adjustment is done using the 
+inflation rate in the United States. In 2016 when 
+the AfDB provided the estimates, the inflation rate 
+was 1.26 percent in the United States according 
+to the World Bank’s World Development Indicators 
+(WDI) database. With IMF projecting inflation to 
+average 3.8 percent in the US in 2023, it is safe to 
+adjust the estimates using the percentage increase 
+between the inflation rate in 2023 and the rate in 
+2016. Indeed, taking the average of the annual 
+inflation rates between 2016 and the forecasted 
+rate for 2023 yields about 3.2 percent (that is 1.26%, 
+2.13%, 2.44%, 1.81%, 1.23%, 4.7%, 8% and 3.8% in 
+2016, 2017, 2018, 2019, 2020, 2021, 2022 and 
+2023 respectively according to WDI data) which 
+is not too far from the 3.8 percent that is used. 
+4
+The Cost Implications, Financing, 
+and the Projected Revenues
+From 1.26 percent in 2016 to 3.8 percent in 2023 
+means prices have, on the average, tripled over 
+the period. This warrants tripling of the estimates 
+made by the AfDB in 2016 for the purposes of 
+current estimates. 
+Construction of additional port(s), berths, and 
+related infrastructure
+The construction of a port at Garacad in Puntland 
+is underway. There is also the need for berths, 
+information technology, and related infrastructure. 
+The construction of a berth, estimated to cost 
+around USD 20 million as of 2016 could now cost 
+around USD 60 million. Constructing at least two 
+new berths at several roadstead port sites (at least 
+4) and at Barawe brings the total to 10 and the 
+estimated cost to USD 600 million. The construction 
+of a port at Garacad is estimated to cost USD 180 
+million. The improvement in Mogadishu terminal’s 
+oil import facilities and the investment in meat 
+processing factories at Berbera and Bosaaso are 
+estimated to cost about USD 60 million and USD 
+180 million respectively. Meanwhile, the port charges 
+harmonisation and the investment in information 
+systems at the ports are estimated to cost USD 
+1.5 million each. Table 2 below gives a summary 
+of the estimated costs:
+Turning the tide will not come cheap. Building additional ports, investing in world-class infrastructure 
+(hard and soft), building institutional and human capacities, and enacting the regulatory framework 
+would require substantial funding. However, that should not deter Somalia as the accompanying benefits 
+of exploiting the potential of the country’s blue economy far outweigh the costs in a number of ways 
+(contribution to GDP, job creation, poverty alleviation, diversification of the economy, and the integration 
+of the Somali economy into the global market space). Importantly, the cost would not be incurred 
+overnight. As countries such as Singapore and Ethiopia have demonstrated, such colossal investments 
+are made over time. With the right planning and commitment, Somalia can turn around its economy's 
+fortunes by exacting its coastline's potential. This section presents the estimated costs of investments 
+in infrastructure, the financing plan and the projected revenues.
+=== PAGE 17 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+September 2024
+11
+Table 2: Cost estimates for port and related infrastructure as of 2023
+Project
+Cost elements
+Costs (USD million)
+Construction of a port at Garacad.
+Construction and associated 
+infrastructure and feasibility study
+180
+Construction of barge berths at 
+about 4 roadstead port sites
+Identification of preferred sites and 
+technical and economic feasibility 
+studies.
+Construction of 4 berths
+0.75 (feasibility studies)
+240 (actual construction)
+Construction of 2 multi-purpose 
+berths at Barawe
+Technical and economic feasibility 
+study.
+Construction
+0.75
+60
+Upgrading of the oil import facilities 
+at Mogadishu terminal.
+Technical and economic feasibility 
+study.
+Upgrading of oil import facilities
+0.75
+ 
+60
+Investment in port-based meat 
+processing factories (at Berbera and 
+Bosaaso)
+Estimated costs of investment per 
+meat processing plant.
+Feasibility study
+180
+ 
+0.60
+Harmonisation of the role of port 
+charges as a source of revenues to 
+government
+Overhaul and harmonisation of port 
+tariffs and ground rules for their use 
+1.50
+Port information system
+Estimated costs of information 
+system
+1.50
+TOTAL
+725.85
+Source: estimates adapted from AfDB’s transport sector needs assessment report
+Construction and rehabilitation of roads to aid connectivity
+To enhance connectivity with the rest of Africa and beyond, several major roads require fixing and new 
+roads are needed in some instances. The estimated cost for the pavement and rehabilitation of paved 
+roads for the purposes of enhancing connectivity is USD 2,739.36 million as presented in Table 3 below:
+=== PAGE 18 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+12
+September 2024
+Table 3: Cost estimates for roads as of 2023
+Road
+Length (km)
+Nature of project
+Cost (USD 
+million)
+Mogadishu – Afgoye – Baidoa – 
+Beled Hawo (Kenya border)
+520
+Requires pavement with Triple 
+Surface Treatment (TST)
+687
+Mogadishu – Beledweyne – 
+Galkayo 
+704
+Rehabilitation of paved road with 
+TST
+459.36
+Kismayo – Merca – Mogadishu
+483
+Rehabilitation of paved road with 
+TST
+315
+Kismayo – Liboi (Kenya border)
+220
+Requires pavement with TST
+291
+Bosaaso – Garowe 
+410
+Rehabilitation of paved road with 
+TST
+267
+Galkayo – Garowe 
+240
+Rehabilitation of paved road with 
+TST
+156
+Garowe – Lasanod 
+130
+Rehabilitation of paved road with 
+TST
+84
+Galkayo – Garacad 
+210
+Requires pavement with TST
+168
+Galkayo – Galdogob 
+60
+Requires pavement with TST
+48
+Emergency maintenance
+2,977 (total of 
+above listed 
+roads)
+Filling of potholes/resurfacing to 
+make the roads traffic worthy until 
+the start of complete construction 
+works
+30
+Routine maintenance upon 
+stage-wise completion
+2,977
+Routine maintenance of all main 
+roads after completion up to 10 
+years
+54
+2,977
+Detailed design and construction 
+supervision of main roads
+138
+2,977
+Establishment of Project 
+Management Units
+42
+TOTAL
+2,739.36
+Source: estimates adapted from AfDB’s transport sector needs assessment report
+The fisheries sector
+There is sparse data to make any meaningful cost estimates and projections. The government's key 
+focus in this sector is to develop strong regulatory frameworks, establish proper coordination with 
+the FMS, devise equitable revenue sharing schemes, build human and institutional capacity, invest in 
+infrastructure such as landing sites and jetties and improve monitoring and surveillance. These might 
+not require the level of investments observed under the port/marine sector.
+=== PAGE 19 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+September 2024
+13
+4.2 	 Financing the face lift of the ports/
+marine sector, the road networks and 
+the fisheries sector
+The ports/marine sector
+The estimated cost of USD 725.85 million and USD 
+2,739.36 million for the ports and roads sectors 
+respectively look daunting, given Somalia’s finances 
+and the nature of fiscal space it is working with. 
+In particular, the fact that aid will fall off upon 
+reaching HIPC Completion Point would make it 
+even more onerous as the country would have 
+to turn to concessional borrowing while avoiding 
+debt accumulation. Luckily, the estimated costs are 
+not entirely required in a year. With the necessary 
+financial planning and support from the international 
+community, Somalia can deliver a robust blue 
+economy that would spur on economic renaissance. 
+For these capital projects in particular, Somalia 
+would have to engage multilateral institutions 
+and donor agencies to support the financing of 
+these projects. Budgetary allocation might not be 
+feasible in the immediate term or perhaps over the 
+next three years and therefore some engagements 
+with multilateral organisations is crucial. 
+In addition, Somalia would have to learn from 
+the experience of Singapore by engaging the 
+private sector to invest in the logistics sector and 
+the entire blue economy sectors. Investment in 
+Somalia’s ports in terms of infrastructure should 
+be driven by the private sector, given the enormity 
+of investment required vis-à-vis the country’s 
+constrained fiscal space, and the concessional 
+borrowing arrangements after the HIPC Completion 
+Point. The exclusive financing of the Garacad 
+port by the private sector is a bold statement 
+of the capabilities of the Somali private sector 
+which the government would have to harness. 
+Additionally, the model involving Al Bayrak and 
+the Ports Authority as well as the involvement of 
+DP World at Berbera port should be encouraged 
+and strengthened. The government can focus 
+on building and strengthening institutions at 
+the seaports and instituting the right regulatory 
+frameworks and regimes while allowing the private 
+sector to manage the operations of these ports. 
+In Singapore, the government has worked at 
+getting the buy-in of the private sector in terms of 
+investment in the logistics sector. This has been 
+achieved through government’s deliberate policies 
+on making investment conducive in the country and 
+making the business environment very attractive. 
+As a result, Singapore is home to the regional 
+and global operations of 20 of the world’s 25 
+largest logistics companies. In addition to elevating 
+Singapore’s status as a global logistics hub, the 
+presence of these companies is a major boost for 
+technology and best practices transfer to domestic 
+companies in the logistics value chain. Several 
+privately owned companies have also occasioned 
+healthy competition and engendered efficiency in 
+the sector. The government has also ensured close 
+consultations with the private sector regarding 
+the nature of infrastructure required by private 
+companies to facilitate business transactions. This 
+has ensured that businesses make inputs and are 
+motivated to make investments in complementary 
+infrastructure to supplement those made by the 
+government. In addition to consultation, problems 
+are equally addressed with the private sector26. 
+Such a strong partnership with the private sector 
+delivers business harmony and ensures long term 
+commitment by the private sector for the mutual 
+benefits of the state and the private sector. 
+Somalia would have to put in place deliberate 
+policies which make the logistics sector more 
+attractive to the private sector. The private sector 
+participation helps to uplift infrastructure and 
+efficiency at the ports. Berbera port has been 
+under the management of DP World since 2017. 
+With the coming on board of DP World, cargo 
+volumes are estimated to have increased by 
+35 percent and another 300 percent increase 
+in vessel productivity. The deployment of the 
+digital systems and capacity building of staff by 
+DP World has led to a reduction in vessel waiting 
+times to hours from days. Upon taking over the 
+operations, there has been expansion works. The 
+first phase of the expansion saw an extension that 
+can accommodate containers with 400 metre 
+extra quay that can handle a maximum of 400 
+metre LOA vessels measuring 8 metres high and
+=== PAGE 20 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+14
+September 2024
+24 metres wide. The container terminal also has a 
+capacity of 500,000 twenty-foot equivalent units. 
+The expanded terminal now has a service centre 
+providing one-stop services. The service centre is 
+resourced with modern fibre optic network and the 
+operation are fully computerized. The terminal has 
+250 CCTV cameras installed with accompanying 
+control room where the CCTV system is monitored 
+from. The other capabilities include billing, cargo 
+tracking, payment, finance, and maintenance. Prior 
+to DP World taking over the operations, there were 
+no cranes but now they have 6 cranes. There are 
+also two warehouses, 6 empty container handlers, 
+and 9 reach stackers27.
+In December 2022, the government of Puntland 
+and DP World reached an agreement to construct 
+and upgrade the Bosaaso port. The construction 
+project was billed to begin in 2023 and last for a 
+period of 12 months. The project is expected to 
+develop a new quay of 150 metres and renovate 
+the existing quay which measures 215 metres. 
+There will be a new container yard measuring 
+3000 square metres, and a new container stripping 
+yard measuring 4000 square metres28. Similarly, 
+AI Bayrak is operating the Mogadishu port under 
+a lease agreement over a 20-year period from 
+September 2014. The presence of Al Bayrak has 
+led to improvement in the quality of infrastructure, 
+and capacity building for local staff. Such private 
+sector involvements are key to taking some fiscal 
+pressure off the books of the central government 
+and must be explored. 
+The fisheries sector
+As indicated earlier, the nature of financing 
+required for the fisheries sector is for regulatory 
+and governance fortification. The role of private 
+investors is crucial for this sector. The government 
+must establish the conducive environment to 
+attract the private sector.
+4.3 	 Projected Revenues from the blue 
+economy
+Ports/Marine sector
+The expected revenues from harnessing the 
+country’s blue economy are enormous. For the 
+ports and the logistics sector alone, the potential 
+is phenomenal as the country’s domestic revenue 
+sources are heavy on the international trade. By 
+developing the ports and the logistics sector in 
+particular, the contribution of revenues from trade 
+would be phenomenal. On the back of poor roads, 
+low levels of development of ports and lack of 
+equipment at these ports, 90 percent of Ethiopia’s 
+trade is routed through Djibouti, translating into 
+USD 2 million revenues to Djibouti on daily basis 
+as of 2016. Only 10 percent of Ethiopia’s trade 
+was channelled through Somalia, implying that 
+Somalia was receiving at least USD 222,222.2 
+daily. By extension, the total daily revenues made 
+by Djibouti and Somalia combined as of 2016 was 
+USD 2,222,222.2 from Ethiopia’s trade. With tripling 
+of prices, given the inflation rate, that comes to 
+about USD 6.67 million when adjusted for inflation. 
+With the right infrastructure and well-developed 
+ports, Somalia can wrestle for a greater proportion 
+of Ethiopia’s trade flows, especially because of its 
+proximity to Ethiopia and markets in Asia, Gulf 
+region and the Middle East. It is projected that 
+Somalia could bag about 80 percent of Ethiopia’s 
+trade, implying 80 percent of USD 6.67 million on 
+daily basis (working out to about USD 5.34 million 
+daily). On annual basis, Somalia could earn about 
+USD 1,949.1 million from trade with Ethiopia alone 
+and through just Berbera port.
+Meanwhile, Berbera port handles less volumes 
+compared to Mogadishu. At an estimated 2 
+million tons across the 4 operational Somali 
+ports, Mogadishu handles almost half (949,506 
+tons) whiles Berbera port handles about 711,864 
+tons. Goods imported through the Mogadishu 
+port are largely cement and food whiles export 
+is mostly livestock and fruit. Given the booming 
+construction sector in Somalia, the Mogadishu 
+port holds promise for increased import of cement 
+for rebuilding Somalia. With relative inelastic 
+demand for food, not only in Somalia but many 
+parts of developing economies, an improvement 
+in the Mogadishu port should see more imports of 
+food by neighbouring countries through Somalia’s 
+Mogadishu port. Livestock export remains Somalia’s 
+major economic lever and aspects of it would 
+continue to be channelled through Mogadishu. On
+=== PAGE 21 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+September 2024
+15
+the basis of the ratios of the volumes of traffic at 
+Mogadishu and Berbera, an assumption is made 
+that the revenues to be earned at Mogadishu port 
+should be about 1.3 folds more than is projected to 
+be earned at Berbera. This brings projected revenues 
+at Mogadishu to USD 2,534.61 million annually. On 
+the basis of this assumption, the traffic volumes 
+at Berbera oil terminal and Kismayo port should 
+bring in revenues of about USD 766.65 million 
+and USD 12.48 million respectively every year. For 
+Bosaaso, data is not readily available to facilitate 
+projections. However, assuming the same traffic 
+volumes as Kismayo, Bosaaso port is expected 
+to rake in USD 12.48 million annually. In view of 
+the fact that the Kenyan trade and trade from EAC 
+and COMESA member states are expected to be 
+targeted following the development of ports in 
+Somalia, the assumption is to project about half 
+of the current trade levels in the short to medium 
+term. The revenue projections are presented in 
+the Table 4 below:
+Table 4: Revenue projections
+Ports
+Projected annual revenues 
+from existing trade partners 
+after the investments and 
+face lift
+(USD million)
+Additional revenues from 
+exploring trade with Kenya 
+and other EAC and COMESA 
+members
+(USD million)
+Combined revenues
+(USD million)
+Mogadishu
+2,534.61
+1,267.305
+3,801.915
+Berbera
+1,949.1
+974.55
+2,923.65
+Kismayo
+12.48
+6.24
+18.72
+Bosaaso
+12.48
+6.24
+18.72
+Berbera oil terminal
+766.65
+383.33
+1,149.975
+Garacad (new port)
+-
+400
+400
+TOTAL
+5,275.32
+3,037.66
+8,312.98
+The Fisheries sector
+The sector is estimated to have the potential of 
+contributing up to USD 950 million to the Somali 
+economy if properly harnessed. 
+5. The risk issues
+The perceived and apparent security challenges in 
+Somalia constitute a major risk to the exploitation 
+of the potential of the country’s blue economy. In 
+particular, the need to attract crucial private sector 
+investment is heavily dependent on the security 
+situation in Somalia.
+The control and revenue-sharing modalities between 
+the Federal Government of Somalia (FGS) and the 
+Federal Member States (FMS) is crucial for the 
+success of the revamping of the blue economy.
+The estimates of costs and revenues may not be 
+realistic. Nevertheless, it provides a gap for more 
+accurate estimates if the data becomes available. 
+6. Conclusion
+This policy paper provides a comprehensive 
+roadmap for unlocking Somalia's potential as a 
+continental logistics hub and in developing other 
+blue economy sectors such as fisheries, oil & 
+gas, and wind energy. It highlights the need for 
+investment in infrastructure, trade facilitation, private 
+sector engagement, skills development, regional 
+cooperation, sustainability, and risk management. 
+By implementing these recommendations, Somalia 
+can harness its strategic coastal position to foster 
+economic development and become a vital player 
+in regional and international trade.
+=== PAGE 22 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+16
+September 2024
+The various sectors of Somalia’s blue economy 
+hold promise for economic recovery and buoyancy 
+in the medium to long term. The job creation 
+prospects, economic growth, and sustainable 
+development potential are immense. Exploiting 
+these potentials require concrete steps by the 
+Somali government. These steps are contained 
+in the following recommendations:
+•	 The government should consider situating deep 
+water ports along the coast. Given the length 
+of the country’s coastline, having only 3 deep 
+water ports is not enough to realise the potential 
+of the country’s logistics sector. 
+•	 The deplorable roads in Somalia requires fixing to 
+aid connectivity of the country’s ports to inland 
+and the rest of Africa and beyond. 
+•	 There is the need to invest in infrastructure 
+across the blue economy sectors such as ports, 
+oil & gas, fisheries, and wind energy. 
+•	 Capacity building programme for various levels 
+of staff across the custom administration is 
+recommended. There is also a need to establish 
+modernised authorities at the various ports in 
+Somalia. 
+•	 The customs tariff regime requires review and 
+harmonization as the current regime lacks 
+clarity for traders in distinguishing between 
+costs related purely to port services and those 
+related to inland revenues.
+•	 There is a need to build the necessary legal 
+frameworks, build strong institutions, enact 
+fisheries law, and develop sharing frameworks 
+for revenues between FGS and FMS. The 
+improvement in governance structures would 
+help deal with illegal and undocumented fishing. 
+In addition to the governance structures, there 
+is also a need to invest in surveillance and 
+monitoring to be able to root out illegal and 
+undocumented fishing in Somalia. 
+•	 To motivate private sector involvement, there is 
+the need to work on accessibility to domestic 
+and external markets, particularly for landlocked 
+countries. 
+•	 The oil and gas sector is an emerging one. The 
+government would have to put in place the 
+regulatory framework to ensure the country 
+is not exploited by oil exploration companies. 
+The country would have to ensure maximum 
+benefits from the exploration of its oil. The local 
+content issue is very crucial to avert agitations 
+by citizens. 
+•	 With endowment of tidal waves in excess of 
+8 meters per second, Somalia should invest 
+in wind energy to curtail the cost-prohibitive 
+and inefficient power general and supply in the 
+country.
+•	 Somalia would have to court the participation 
+of the private sector in unlocking the potential 
+of the blue economy sectors. The enormity 
+of investment required vis-à-vis the country’s 
+constrained fiscal space, means private sector 
+investment is crucial. This can happen with 
+the right business environment created by the 
+government.
+•	 The need to attract crucial private sector 
+investment is heavily dependent on the security 
+situation in Somalia. The government should work 
+at providing a safe environment for businesses 
+to thrive.
+•	 The control and revenue-sharing modalities 
+between the Federal Government of Somalia 
+(FGS) and the Federal Member States (FMS) 
+is crucial for the success of the revamping of 
+the blue economy.
+=== PAGE 23 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+September 2024
+17
+About National Economic Council 
+The National Economic Council (NEC) was established by the Federal Republic of Somalia in 2018 and 
+restructured in November 2022 through a presidential decree. The NEC advisory arm is a vital component 
+of the Office of the President and provides advisory services on economic and related policy matters.
+The NEC is chaired by the President of the Federal Republic of Somalia (FRS), with the Prime Minister 
+serving as deputy. Membership of the Council the economic sub-committee of the Cabinet of the FGS, 
+the Governor of the Central Bank of Somalia, Federal Member States, and nine (9) National Economic 
+Advisors (NEAs). The NEAs support the national leadership evidence-based research and advisory 
+services on the nation's socioeconomic issues. The NEAs and other NEC staff form the technical arm 
+of the NEC.
+Since its establishment, the NEC has provided proactive policy recommendations that have shaped 
+public debates on different policy options (scenarios). Its activities and publications have also played a 
+significant role in fostering discussions on policy choices and have opened up areas previously limited 
+to specific institutions. As a result, a community of professionals has emerged, engaging in discussions 
+on policy issues and advocating for changes in their respective sectors.
+=== PAGE 24 ===
+Harnessing Somalia's Blue Economy: Pathways to Sustainable Prosperity
+18
+September 2024
+Endnotes
+1	
+AfDB (2016) Somalia Transport Sector Needs Assessment and Investment Programme.
+2	
+ibid
+3	
+ibid
+4	
+https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=92
+5	
+https://unctadstat.unctad.org/wds/TableViewer/tableView.aspx?ReportId=170026
+6	
+AfDB (2016) Somalia Transport Sector Needs Assessment and Investment Programme.
+7	
+https://lpi.worldbank.org/international/global
+8	
+Middlebrook, P., Tadaa, A., and Siad, H.M. (2022) Somalia blue economy assessment, 
+taxonomy, and investment framework. National Economic Council of Somalia.
+9	
+ibid
+10	 AfDB (2016) Somalia Transport Sector Needs Assessment and Investment Programme.
+11	 ibid
+12	 Middlebrook, P., Tadaa, A., and Siad, H.M. (2022) Somalia blue economy assessment, 
+taxonomy, and investment framework. National Economic Council of Somalia.
+13	 AfDB (2016) Somalia Transport Sector Needs Assessment and Investment Programme.
+14	 ibid
+15	 https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/
+oil/050923-coastline-exploration-leads-new-charge-on-somalia-oil-and-gas
+16	 AfDB (2016) Somalia Transport Sector Needs Assessment and Investment Programme.
+17	 https://blogs.worldbank.org/transport/three-factors-have-made-singapore-global-logis-
+tics-hub
+18	 https://internationalfinance.com/how-did-ethiopian-airlines-make-it-happen/
+19	 IATA (n.d.) The importance of air transport to Ethiopia.
+20	 https://internationalfinance.com/how-did-ethiopian-airlines-make-it-happen/
+21	 AfDB (2016) Somalia Transport Sector Needs Assessment and Investment Programme.
+22	 https://blogs.worldbank.org/transport/three-factors-have-made-singapore-global-logis-
+tics-hub
+23	 https://propanama.gob.pa/en/post/6
+24	 AfDB (2016) Somalia Transport Sector Needs Assessment and Investment Programme.
+25	 ibid
+26	 https://blogs.worldbank.org/transport/three-factors-have-made-singapore-global-logis-
+tics-hub
+27	 https://www.dpworld.com/berbera
+28	 https://www.dpworld.com/news/releases/dp-world-and-puntland-government-sign-con-
+struction-agreement-to-upgrade-port-of-bosaso/
+=== PAGE 25 ===
+

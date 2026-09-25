@@ -1,0 +1,2603 @@
+=== PAGE 1 ===
+1 
+ESIA Regulations 2024 
+ 
+ 
+ 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+MINISTRY OF ENVIRONMENT AND CLIMATE CHANGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ENVIRONMENTAL AND SOCIAL IMPACT ASSESSMENT AND AUDIT 
+REGULATIONS (ESIA) 2024
+=== PAGE 2 ===
+2 
+ESIA Regulations 2024 
+ 
+ARRANGEMENT OF REGULATIONS 
+PART I: PRELIMINARY PROVISIONS 
+1. Acronyms and Abbreviations 
+2. Citation 
+3. Interpretation 
+4. Application of these Regulations 
+5. Purpose of Environmental and Social Impact Assessment Regulations 
+6. Cost of Environmental and Social Impact Assessment 
+7. Responsibilities 
+ 
+PART II: PROJECT BRIEF 
+ 
+8. Development of Project Brief and Term of Reference 
+9. Request for comments on the project Brief 
+10. Record of decision on the Project Brief 
+PART III: ENVIRONMENTAL AND SOCIAL IMPACT ASSESSMENT STUDY 
+ 
+11. Scoping and formulation of terms of reference for Environmental and Social Impact 
+study 
+12. Team of experts to undertake Environmental and Social Impact Assessment study 
+13. Developing Environmental and Social Impact Assessment study report. 
+14. Public participation 
+15. Submission of an Environmental and Social Impact Assessment study report 
+16. Review of the Environmental and Social Impact Study 
+17. Invitation of comments from the general public 
+18. Review of comments from the general public 
+19. Basis of Decision making of the Environmental and Social Impact Assessment licence 
+20. Decision of the Ministry 
+21. Conditions of approval of a project 
+22. Cancellation of approval 
+PART IV - STRATEGIC ENVIRONMENTAL AND SOCIAL ASSESSMENT (SESA) 
+ 
+23. Strategic Environmental and Social Assessment (SESA) Study 
+24. Submission of the Policy, Plan or Programme brief by the Proponent 
+25. submission and approval of the scoping report 
+26. Development of a Strategic Environmental and Social Assessment report 
+27. Consultation and Public Participation 
+28. Submission of draft Strategic Environmental and Social Assessment report 
+29. Invitation of comments on the draft Strategic Environment and Social Assessment 
+report 
+30. Incorporation of comments in the draft Strategic Environmental and Social Assessment 
+report 
+31. Submission of the final Strategic Environmental and Social Assessment Report 
+32. Record of Decision on Strategic Environmental and Social Assessment study 
+33. Monitoring and Evaluation of Policy, Plan or Programme
+=== PAGE 3 ===
+3 
+ESIA Regulations 2024 
+ 
+ 
+PART V: ENVIRONMENTAL AND SOCIAL AUDIT 
+34. Environmental and Social Auditors 
+35. Fundamental principles of Environmental and Social Audit 
+36. Environmental and Social Audits 
+37. Preparation of Environmental and Social Audit report. 
+38. Undertaking Environmental and Social Impact Audit 
+39. Submission of Environmental and Social Audit report 
+40. Control Environmental and Social Audit 
+41. Post Audit Order 
+42. Inspection 
+43. Environmental and Social Monitoring by the Federal Level Taskforce 
+44. Monitoring Report 
+ 
+PART VI: GENERAL PROVISIONS 
+ 
+45. Transboundary ESIA issues 
+46. Access to Information and Issues of Confidentiality 
+47. Registration of Environmental and Social Impact Assessment Experts 
+48. Environmental and Social Assessment Expert Licence 
+49. Code of Conduct for ESIA Experts 
+50. Effect of approval or rejection of project. 
+51. Offences. 
+52. Appeals 
+53. Registers 
+54. Roles of MOECC and FMS Ministries of Environment in enforcing the regulations 
+55. Transfer or delegation of functions 
+ 
+ 
+SCHEDULES 
+FIRST SCHEDULE: APPLICABLE PROJECTS 
+Project Type A: Projects requiring Full Environmental and Social Impact Assessment Study 
+Project Type B: Medium and Small Risk projects requiring Project Brief 
+ 
+ 
+SECOND SCHEDULE:ESIA FORMS 
+Form 1: Application for Environmental Impact Assessment Licence 
+Form 2: Environmental Impact Assessment Licence 
+Form 3: Application for licence to practice as an Environmental and Social Assessment 
+expert 
+Form 4: Certificate of practice of an Environmental and Social Assessment expert 
+Form 5: Certificate of Environmental and Social Compliance
+=== PAGE 4 ===
+4 
+ESIA Regulations 2024 
+ 
+Form 6: Notice to the public to submit comments on an Environmental and Social 
+Assessment Study Report 
+ 
+THIRD SCHEDULE: GENERAL ESIA GUIDELINES 
+Project Brief Template 
+Terms of reference for Environmental and Social Impact Assessment (ESIA) Study 
+Content of Environmental and Social Impact Assessment (ESIA) Study 
+Content of Strategic Environmental and Social Assessment 
+Content of an Environmental and Social Audit Report 
+ 
+ 
+FOURTH SCHEDULE: ENVIRONMENTAL IMPACTS ASSESSMENT EXPERTS 
+Qualifications for Environmental and Social Assessment Experts 
+Code of Conduct of Practitioners Registered under the Act 
+Form 7: Register of Environmental and Social Impact Assessments/Audits experts
+=== PAGE 5 ===
+5 
+ESIA Regulations 2024 
+ 
+PART I: PRELIMINARY PROVISIONS 
+ 
+ 
+ACRONYMS AND ABBREVIATIONS 
+ 
+AIA: 
+Archaeological Impact Assessment 
+MOECC: Ministry of Environment and Climate Change 
+ESIA: 
+Environmental and Social Impact Assessment 
+EA: 
+Environmental Audit 
+ESMP: 
+Environmental And Social Management Plan 
+FGS: 
+Federal Government Of Somalia 
+FMS: 
+Federal Member State 
+M& E: 
+Monitoring and Evaluation 
+MW: 
+Megawatt 
+SESA: 
+Strategic Environmental and Social Impact Assessment 
+ToRs: 
+Terms of Reference 
+ 
+1. Citation 
+ 
+These Regulations may be cited as the Environmental and Social Impact Assessment 
+Regulations, 2024 
+2. Interpretation 
+ 
+In these Regulations, unless the context otherwise requires: 
+ 
+“Act” means the Environment Protection and Management Act 2024; 
+ 
+“Analysis” means the testing or examination of any matter, substance or process for the 
+purpose of determining its composition or qualities or its effect on any segment of the 
+environment or examination of emissions or recording of noise or sub-sonic vibrations to 
+determine the level or other characteristics of the noise or sub-sonic vibration or its effect on 
+any segments of the environment; 
+ 
+“Alternative” means different means of meeting the general purpose and requirements of an 
+activity, which may include: location, type of activity, design/layout, technology, activities, 
+materials etc; 
+ 
+“Ministry’’ means the Ministry of Environment and Climate Change of the Federal Republic 
+of Somalia; 
+ 
+“Environmental and Social Impact Assessment study report" means the report produced 
+at the end of the environmental and social impact assessment study process under section 56 
+of the Act and these Regulations; 
+ 
+"Environmental Management" includes the protection, conservation and sustainable use of 
+the various elements or components of the environment;
+=== PAGE 6 ===
+6 
+ESIA Regulations 2024 
+ 
+"Environmental and Social Management Plan" means all details of project activities, 
+impacts, mitigation measures, time schedule, costs, responsibilities and commitments 
+proposed to minimize environmental and social impacts of all phases of a project; 
+ 
+"Lead Agency" means any Government ministry, department, or parastatal or in which any 
+law vests functions of control or management of the environment and social issues. 
+ 
+"Mitigation 
+Measures" 
+include 
+engineering 
+works, 
+technological 
+improvements, 
+management and ways and means of minimizing negative aspects, which may include socio- 
+economic and cultural losses suffered by communities and individuals, whilst enhancing 
+positive aspects of the project; 
+ 
+“No-project Option” means the alternative of not implementing the project or activity; 
+ 
+“Programme” means a coherent, organized agenda or schedule of commitments, proposals, 
+instruments, and /or activities that elaborate and implement policy” 
+ 
+“Precautionary Principle” is the principle that where there are threats of damage to the 
+environment, whether serious or irreversible, lack of full scientific certainty shall not be used 
+as a reason for postponing cost-effective measures to prevent environmental degradation; 
+ 
+"Project" means site specific activity or undertaking, including those arising from policies, 
+plans and programmes which may have an impact on the environment; 
+ 
+"Proponent" means a person proposing or executing a project, programme or an undertaking 
+specified in the First Schedule of these regulations; 
+ 
+“Record” includes any correspondence, memorandum, book, plan, map, drawing, diagram, 
+pictorial or graphic work, photograph, film, microform, sound recording, videotape, machine 
+readable record, and other documentary material, regardless of physical form or 
+characteristic, and any copy thereof; 
+ 
+"Review" means a process of checking the adequacy of an environmental and social impact 
+assessment study to ensure that it meets the legal requirements and ensure wide acceptance of 
+the environmental and social impact study findings; 
+ 
+“Screening” means the first stage of the environmental and social assessment process, and is 
+used to determine which projects, policies, plans or programmes need to be subjected to 
+environmental and social assessment scrutiny that is required; 
+ 
+“Screening Report” means a report that summarizes the results of a screening; 
+ 
+"Social Analysis" means assessing or estimating in advance the social consequences from 
+specific policy actions or project development including social justice and equity, social 
+uncertainty, social cohesion, social networks and interactions, social status and gender 
+desegregation;
+=== PAGE 7 ===
+7 
+ESIA Regulations 2024 
+ 
+"Strategic Environmental and Social Assessment" means a range of analytical and 
+participatory approaches that aim to integrate environmental and social considerations into 
+policies, plans, and programs and evaluate the inter-linkages with economic and social 
+considerations. 
+ 
+“Sustainable Development” means development that meets the needs of the present, 
+without compromising the ability of future generations to meet their own needs; 
+ 
+"Trans-boundary Impacts" means impacts beyond the Somali borders; 
+ 
+3. Application 
+ 
+1) These regulations shall apply- 
+ 
+a) to all projects included in Article 57 to the Act; 
+b) to all projects included in First Schedule to these Regulations; 
+c) to any major repairs, extensions, alterations or non- routine maintenance or any 
+existing project which is included in Article 57 the Act and these regulations. 
+ 
+2) No proponent shall implement a project for which approval is required under the 
+Environmental Management Act and under these regulations unless the environmental and 
+social impact assessment has been concluded in accordance with these regulations. 
+ 
+3) An inspector may at all reasonable times, enter on any land, premises, or other facilities to 
+determine whether a project has complied with the requirements for environmental and social 
+impact assessment under the Act. 
+ 
+4. Purpose of Environmental and Social Impact Assessment Regulations 
+ 
+The purpose of these Regulations is to regulate the procedure and criteria as contemplated in 
+Article 8 of the Act relating to the preparation, evaluation, submission, processing and 
+consideration of, and decision on, applications for environmental authorisations for the 
+commencement of activities, subjected to environmental and social impact assessment, in 
+order to avoid or mitigate detrimental impacts on the environment and society, and to 
+optimise positive impacts, and for matters pertaining thereto. 
+ 
+5. Cost of Environmental and Social Impact Assessments 
+ 
+(1) The application and processing fee, the study and cost of consulting the public and 
+providing documents required during the study, review and any other stage of the 
+Environmental and Social Impact Assessment process shall be borne by the developer. 
+ 
+(2) The Ministry and Federal Member States Ministry of Environment may at the expense of 
+the developer, carry out studies that are outside of its public service role to complement the 
+study, or generate information and data.
+=== PAGE 8 ===
+8 
+ESIA Regulations 2024 
+ 
+6. Responsibilities 
+ 
+The Ministry of Environment and Climate Change- (the Ministry) shall co-ordinate, 
+administer and supervise the Environment and Social Impact Assessment and Audit 
+processes for high risk and transboundary projects and in particular- 
+ 
+a) carry out the screening of proposed project; 
+b) decide on the appropriate means of public information and participation; 
+c) co-ordinate public hearings where required; 
+d) grant environmental and social impact Assessment approval or reject project; 
+e) carry out periodic audits of approved high-risk project; and advise the developer on 
+remedial measures in cases of non-compliance with previously determined measures; 
+ 
+Federal Member States Ministry of Environment shall co-ordinate, administer and 
+supervise ESIA and audit process at the State level and in particular- 
+ 
+(a) Receive project briefs for low and medium risk projects 
+(b) co-ordinate public hearings where required 
+(c) Grant approval or reject project briefs that do not meet the standards 
+(d) Decide if a proposed project needs a full ESIA study not a project brief due to its 
+impact on the environment 
+ 
+The Lead Agency shall co-operate with the Authority in the Environment and Social Impact 
+Assessment process (Federal and State levels) and shall in particular be responsible to- 
+ 
+a) inform a developer on the requirement for an Environmental and Social Impact 
+Assessment to be conducted; 
+b) guide the developer on providing the appropriate information for the execution of the 
+screening process; and 
+c) refuse permission for the carrying out of any project prior to the granting of ESIA 
+approval through the Authority. 
+Developer shall- 
+ 
+a) provide the appropriate information as is required for the initial screening of the proposed 
+project; 
+b) attend the scoping meeting; 
+c) provide documents for official and public scrutiny; 
+d) provide, at any stage of the project, for early public information according to the advice 
+of the Authority on the appropriate means take the required arrangement for public 
+consultation;
+=== PAGE 9 ===
+9 
+ESIA Regulations 2024 
+ 
+Environmental and Social Impact Assessment Taskforce 
+ 
+The Ministry shall annually establish Federal level Environmental and Social Impact 
+Assessment Taskforce. The taskforce will have representation from relevant government 
+institutions, civil society organisations and private sector. 
+ 
+The Federal level Environmental Impact Assessment taskforce on Environmental and 
+Social Impact Assessment shall advise the Ministry on technical issues relating to the 
+carrying out of environmental and impact assessments as required under the Act, and other 
+relevant laws, and its specific shall include: 
+ 
+a) reviewing and advising on the implementation procedures for environmental and social 
+impact assessment and making recommendations to the Ministry; 
+b) reviewing and recommending guidelines to be issued by the Ministry to developers; 
+c) reviewing and advising on the environmental and social impact studies, and audit reports; 
+d) considering potential conflicts that might arise through competing requirements for 
+environmental resources; 
+e) recommending priority environmental and social controls, and management measures to 
+be put in place during implementation of proposed projects; 
+f) advising on harmonization of environmental and social impact assessment policy with 
+sectoral policies on natural resources and environment; 
+g) advising and recommending mechanisms for ensuring effective communication of 
+environmental and social concerns associated with development projects in order to 
+promote multi-sectoral and public participation in implementation of environmental 
+policy; 
+h) participating in public hearing related to adoption or modification of Somalia’s 
+environmental and social impact assessment process; and advising The Authority on any 
+other issues related to environmental impact assessments 
+i) The taskforce shall prepare and submit to the Ministry annual reports on its activities. 
+j) The meetings of the Taskforce, which shall be held whenever necessary, shall be arranged 
+in consultation with and facilitated by the Ministry. 
+k) The taskforce may co-opt any member of the staff of the Ministry or any other person 
+whom the taskforce deems necessary for its proper functioning. 
+ 
+ 
+FMS may establish an Environmental and Social Impact Assessment committee to 
+support its responsibilities of the clearing Project briefs and providing necessary 
+recommendations or conditions for implementation of low/medium risk projects under these 
+regulations. 
+ 
+ 
+PART II - THE PROJECT BRIEF 
+ 
+7. Development and submission of Project brief
+=== PAGE 10 ===
+10 
+ESIA Regulations 2024 
+ 
+(1) Every proponent undertaking a project listed in Type B being low risk and medium risk 
+projects of the First Schedule of these regulations shall prepare a project brief and submit to 
+the FMS Minister in charge of environment. The Project brief template under the Third 
+Schedule to these regulations shall be used. 
+ 
+(2) In preparing a project brief, the proponent shall hold at least one public meeting with the 
+affected parties and communities including the women, youth, persons with disability and 
+other vulnerable groups to explain the project, its social, economic and environmental 
+impacts, and to receive oral or written comments on the proposed project and shall attach 
+evidence of such public participation in the project report through signed attendance register, 
+minutes and photographs. A notice of the meeting shall be communicated at least seven (7) 
+days before the actual meeting date; 
+ 
+(3) A project brief shall be prepared by an environmental and social assessment expert(s) 
+registered as such under these Regulations. 
+ 
+(4) An application for an environmental and social impact assessment licence shall be in 
+Form 1 as set out in the Second Schedule to these Regulations and the applicant shall submit 
+to the Authority the application together with at least three (3) printed copies and an 
+electronic copy of the Project brief or as the Authority may prescribe from time to time. 
+ 
+8. Request for comments on the project Brief 
+ 
+(1) Where the project brief confirms to the requirements of Regulations, the State Minister 
+shall within five (5) days upon receipt of the project report, dispatch a copy of the project 
+brief to the following in order to receive written comments within fourteen (14) days working 
+counting from the day of receipt of the project report.; 
+ 
+a) Each of the relevant State Lead Agencies; 
+b) Relevant Environmental and Social Impact Assessment committee where 
+applicable. 
+ 
+(2) On receipt of the comments referred to in sub-Regulation 9 (1) above or where no 
+comments have been received by the end of the period of twenty-one (21) days from the date 
+of receipt of the project report, the State Minister shall proceed to determine the project brief. 
+ 
+9. Record of decision on the Project brief 
+(l) On determination of the project brief, the decision of the State Minister, together with the 
+reasons thereof, shall be communicated to the proponent within thirty (30) days of the 
+submission of the project brief. 
+(2) The Authority shall screen the Project brief guided by screening criteria set out in the 
+Third Schedule to these Regulations. 
+(3) After screening under regulations, the State Minister shall issue a formal communication 
+indicating whether the proposed project:
+=== PAGE 11 ===
+11 
+ESIA Regulations 2024 
+ 
+a) requires the submission of an Environmental and Social Impact Study (under Part III 
+of these regulations) and as such refer such project to the Ministry; 
+b) requires the submission of additional information; 
+c) is approved and licence issued; where the Project will have no significant impact on 
+the environment, or that the project brief discloses sufficient mitigation measures 
+d) is rejected- If the State Minister finds that the project will have a significant 
+irreversible environmental and social impacts or there is non-conformity with existing 
+policy or laws and proponent is expected to consider other suitable alternatives. 
+ 
+(4) A proponent, who is dissatisfied with the State Minister’s decision to reject the 
+application for a project brief, may within forty-five (45) days of the State Minister’s decision 
+appeal against the decision in line with sub-regulation 51. 
+ 
+ 
+PART III: ENVIRONMENTAL AND SOCIAL IMPACT ASSESSMENT STUDY 
+ 
+ 
+10. Scoping and formulation of terms of reference for Environmental and Social 
+Impact Study 
+ 
+(1) An Environmental and Social Impact Assessment Study shall be conducted for all high- 
+risk projects listed under Project type ‘A’ under the First Schedule of the regulations. 
+ 
+(2) The proponent shall engage a ESIA Expert team to undertake ESIA including scoping 
+report and terms of reference developed in consultation with the Ministry prior to 
+commencement of the ESIA. 
+ 
+(3) A scoping report shall spell out the scope or extent of the Environmental Social Impact 
+study to be carried out by the developer, and shall include a draft term of reference, which 
+shall indicate the essential issues to be addressed in the environmental and social impact 
+study report. 
+ 
+(4) The terms of reference for the Environmental and Social Impact Assessment Study 
+referred to above shall be at minimum be in accordance with the criteria set out in Third 
+Schedule to these Regulations. 
+ 
+11. Team of experts to undertake Environmental and Social Impact Assessment 
+study 
+ 
+(1) A proponent shall, upon approval of the scoping report and the Terms of Reference, 
+constitute a competent team of registered environmental and social assessment experts 
+authorized in accordance with the Regulations set out in the Fifth Schedule to undertake the 
+ESIA. 
+ 
+(2) Every Environmental and Social Impact Assessment study shall be supervised by a lead 
+expert registered in accordance with the criteria specified in the Fifth Schedule to these
+=== PAGE 12 ===
+12 
+ESIA Regulations 2024 
+ 
+Regulations. 
+ 
+(3) A person undertaking an ESIA study shall conduct themselves in accordance with the 
+code of practice as contained in the Fifth Schedule to these Regulations. 
+ 
+12. Developing Environmental and Social Impact Assessment study report. 
+ 
+(1) An ESIA study report prepared under these Regulations shall take into account inter alia 
+environmental, social, cultural, economic, legal, safety and health consideration. 
+ 
+(2) The content of the Environmental and Social Impact Assessment study report should 
+minimum comply with the ESIA contents set out in the Third Schedule to these Regulations. 
+ 
+13. Public participation 
+ 
+(1) During the process of conducting the Environmental and Social Impact Assessment study, 
+the proponent shall, seek the views of persons who may be affected by the project by: 
+ 
+(a) holding at least three (3) public meeting or such number as determined in the approved 
+terms of reference under these regulations, with the affected parties and communities 
+including the youth, persons with disability and other vulnerable groups in a venue 
+convenient and accessible, and a language understandable by the various stakeholders to 
+explain the project and its effects and to receive their oral or written comments; 
+ 
+(b) ensuring that appropriate notices indicating the dates, times and venues of the meetings, 
+are publicized to the affected communities and the other concerned parties at least fourteen 
+(14) days prior to the meetings referred to in (a) above. 
+ 
+(c) Posting posters in strategic public places and in the vicinity of the site of the proposed 
+project informing the affected parties and communities of the proposed project. 
+ 
+(d) Ensuring that the reports of the public meetings are annexed to Environmental and Social 
+Impact Assessment study report. 
+ 
+14. Submission of the Environmental and Social Impact Study 
+(1) The project proponent shall submit five (5) copies of the draft environmental and social 
+impact study to the Ministry for initial internal review to ascertain whether it is suitable 
+for wider public review. 
+ 
+15. Review of the Environmental and Social Impact Study 
+ 
+(1) The Ministry shall review the draft environmental and social impact study and provide 
+the project proponent with written comments within thirty (30) days of its receipt. 
+ 
+(2) If after review of the draft environmental social impact study and the Ministry is satisfied 
+that it is complete, the proponent shall be notified in writing within thirty (30) days of its 
+receipt. 
+ 
+(3) Where the Environmental and Social Impact Assessment study report is found to be
+=== PAGE 13 ===
+13 
+ESIA Regulations 2024 
+ 
+inadequate, the Ministry shall return it to the proponent for revision, taking into consideration 
+the comments and objections of the Ministry. 
+ 
+16. Invitation of comments from the General Public 
+ 
+(1) The project proponent shall invite the public to make their views on the draft 
+environmental and social impact study in writing within twenty (20) working days of 
+receiving notification of approval from the Ministry. 
+ 
+(2) The project proponent’s invitation to the public shall be undertaken through a platform 
+with a national circulation and coverage especially a newspaper and radio station in 
+accordance with timeline stipulated by the Ministry. 
+ 
+(3) The project proponent’s invitation to the public shall indicate: the type of the project and 
+location; potential adverse impacts, potential positive impacts of the project; the proposed 
+mitigation strategies put in place to respond to the adverse impacts; and the review period and 
+centres. The notice under this sub-Regulation shall be in the format prescribed in Form 6 set 
+out in the Second Schedule to these Regulations. 
+ 
+17. Review of comments from the general public 
+ 
+(1) The Ministry shall within twenty (20) working days of receiving the comments of the 
+public send copies of the draft environmental social impact study and the comments made 
+thereon by the general public to each member of the Environmental and Social Impact 
+Assessment taskforce for them to review and comment on. 
+ 
+(2) The Environmental Impact Assessment Taskforce shall convene within twenty (20) 
+working days of receiving the draft statement and all the comments received under the 
+regulations and make a decision. 
+ 
+18. Basis of decision making of Environmental and Social Impact Assessment Study 
+license 
+ 
+(1) In making a decision regarding an environmental and social impact study under these 
+regulations, the Ministry shall take into account- 
+ 
+a) the validity of the predictions made in the environmental and social impact study 
+b) views from public made under these regulations; 
+c) analysis of the socio-economic and cultural impacts of the project; 
+d) the adequacy of the proposed mitigating strategies and the environment and social 
+management plan; and 
+e) other aspects deemed crucial and relevant to the project by the Ministry 
+(2) The Ministry shall make a decision under this regulation within thirty (30) working days 
+from the date on which the study was submitted.
+=== PAGE 14 ===
+14 
+ESIA Regulations 2024 
+ 
+19. Decision of the Ministry 
+ 
+(1) The Ministry in taking into account the whole review process may- 
+ 
+a) approve the project; grant provisional approval based on evidence provided; 
+b) require that the project be redesigned including that different technology or an 
+alternative site be chosen; 
+c) refer back the project or part thereof to the developer where there is insufficient 
+information for further study or submission of additional information, including an 
+environment and social management and monitoring plan as may be required to 
+enable the Ministry make a decision; and 
+d) reject the project. 
+ 
+(2) A decision of the Ministry under this regulation and reasons shall be communicated to the 
+project proponent within fourteen (14) working days of the decision. 
+ 
+20. Conditions of approval of a project 
+ 
+In making decision to approve the project, the Ministry in consultation with the Federal level 
+taskforce shall- 
+ 
+(a) give approval subject to such conditions it deems necessary; 
+(b) state the period for which the approval shall remain valid; 
+(c) issue a licence of approval of the project in the form contained in the Form 2 in the 
+Second Schedule of these regulations. 
+ 
+22. Cancellation of approval 
+ 
+(1) At any time after the issuance of a certificate of approval of the project, the Ministry may 
+revoke the approval where- 
+ 
+a) there is non- compliance with the conditions set out in the licence of environmental and 
+social approval; 
+b) where there is a substantial modification of the project implementation or operation 
+which may lead to adverse environmental impacts; 
+c) where there is a substantive undesirable effect not contemplated in the approval. 
+ 
+(2) A revocation under sub-regulation 21(1) shall lead to the automatic- 
+ 
+(a) waive the claim and continue with assessment and review process under these Regulation; 
+or 
+ 
+(b) withdrawal, the information submitted for the assessment and cancel the review process 
+under these Regulations.
+=== PAGE 15 ===
+15 
+ESIA Regulations 2024 
+ 
+PART IV: STRATEGIC ENVIRONMENTAL AND SOCIAL ASSESSMENT 
+ 
+23. Strategic Environmental and Social Assessment (SESA) Study 
+(1) The Ministry shall determine the need for a Strategic Environmental and social 
+Assessment to take into consideration environmental and social concerns in the Policy, Plans 
+or Programmes and evaluate their interlinkages with economic and social consideration. 
+(2) The Strategic Environmental and Social Assessment objectives shall be to: 
+a) To provide informed and integrated decision-making by identifying proposed action’s 
+environmental effects, considering best practical alternatives and identifying 
+appropriate mitigation measures including the do-nothing option to safeguard the 
+environment from any harm. 
+b) To contribute to environmentally sustainable development by: anticipating and 
+preventing environmental impacts at source, early warning of on risks and putting in 
+place environmental safeguards based on sustainable development principles 
+c) to enhance the consistency of a Policy, Programme and Plan across different sectors, 
+and when relevant, make explicit the trade-offs or alignments made between different 
+sectoral objectives 
+d) contributes to enactment of policies and programmes meeting obligations under 
+international environmental agreements 
+e) instituting environmental accountability in sector-specific agencies thus mitigating 
+adverse environmental impacts from different sectors. 
+f) ensure consideration for critical environmental principles including public 
+participation, intergenerational and intra-generational equity, precautionary principles 
+and the polluter pays principle in the development of policies, regulations and plans 
+for sustainable development. 
+g) To contribute to greater transparency and openness in decision-making through multi- 
+stakeholder engagement throughout the process. 
+(3) The steps involved in Strategic Environmental Social Assessment (SESA) are: 
+a) Screening (determining need for SESA or not) 
+b) Scoping (determining the range of environmental and social issues to be covered by 
+the SESA 
+c) The preparation of draft Strategic Environmental and Social Report 
+d) The carrying out of consultations and getting public comment on the draft SESA 
+report. 
+e) The integration of environmental considerations into the Plan or Programme 
+f) The publication of information on the decision (SESA Statement) 
+ 
+24. Submission of the Policy, Plan or Programme brief by the Proponent 
+(1) SESA should be undertaken by proponent of a policy, plan or programme providing 
+relevant information for formulation of proposals and decision making by the Ministry. 
+(2) The Ministry shall within seven (7) days communicate the screening results to the 
+proponent 
+(3) outcomes of screening:
+=== PAGE 16 ===
+16 
+ESIA Regulations 2024 
+ 
+(a) full or comprehensive SESA required 
+(b) further study required to determine need for SESA 
+(c) SESA not required 
+ 
+25. Submission and approval of the scoping report 
+(1) The Ministry shall advice the proponent of the policy, plan or programme to undertake a 
+scoping study with aim of defining thematic and geographic scope upon concluding that a 
+Strategic Environmental Assessment under Regulation 23 is needed. 
+(2) The proponent of the Policy, Plan or Programme shall select a lead environmental and 
+social assessment expert(s) or firm of experts licensed by the Ministry to do the scoping 
+study. 
+(3) The proponent of the Policy, Plan or Programme shall prepare the scoping report and 
+submit at least  three (3) copies to the Ministry for approval, 
+(4)  The Ministry shall review the submitted scoping report and avail a Record of Decision to 
+either approve it or request for additional information within a period of twenty-one (21) 
+working days from the date of submission of the scoping report. 
+ 
+26. Development of a Strategic Environmental and Social Assessment report 
+(1) The proponent of the Policy, Plan or Programme shall through environmental and social 
+assessment experts conduct the study and prepare a draft Strategic Environmental and Social 
+Assessment report upon approval of the scoping report by the Ministry. The content of the 
+Strategic Environmental and Social Assessment shall provide with the following contents: 
+(1) Description of the plan, identify relationship with other relevant plans and programme 
+(2) Description of the current environmental and social conditions, issues and how they 
+would evolve without the plan 
+(3) Objectives, purpose and rationale 
+(4) Alternative options or activities for Policy, Plan or Programme; and implementation 
+plan and timescale 
+(5) integration of climate change vulnerability assessment, priority adaptation and 
+mitigation actions 
+(6) Identification of likely significant effects of the proposed plans or programme 
+(7) Mitigation of likely significant effects from the proposed plans or programme 
+(8) Monitoring of likely significant effects from the proposed plans or programme 
+(9) Non-technical summary briefly describing the study and its outcomes. 
+ 
+27. Consultation and Public Participation 
+(1) The proponents of the policy, plan or programme shall consult relevant State 
+government(s), lead agencies, key stakeholders and members of the public during the 
+entire SESA process. 
+(2) Consultation and public participation should occur iteratively throughout SESA process, 
+most importantly during screening, scoping and decision-making. 
+(3) ensure meeting notice is sent out at least fourteen (14) working days prior to the meeting 
+and that the venue, date and time of the meeting is convenient for all.
+=== PAGE 17 ===
+17 
+ESIA Regulations 2024 
+ 
+(4) Hold at least three (3) public meetings with the relevant stakeholders and communities for 
+the purpose of understanding proponent’s Policy, Plan or Programme and its impact, and 
+to receive their comments in both oral and written form. 
+ 
+28. Submission of draft Strategic Environmental and Social Assessment report 
+(1) The Policy, Plan or Programme proponent shall submit to the Ministry at least five (5) 
+printed copies or as prescribed by the Ministry from time to time and one (1) electronic 
+copy of the draft Strategic Environmental Assessment report accompanied by a 
+submission Form 1 set out in Third Schedule of these Regulations 
+(2) The Ministry shall within fourteen (14) working days from the date of submission of the 
+draft report conduct an internal review process to determine adequacy of the draft report. 
+ 
+ 
+29. Invitation of comments on draft Strategic Environment and social Assessment 
+report 
+ 
+(1) The Ministry shall within seven (7) days of determination of adequacy under Regulation 
+38, dispatch copies of the draft report to the relevant State Environment Ministryand State 
+level ESIA committees, Federal level ESIA committee where applicable, lead agencies and 
+other stakeholders for their comments. 
+(2) Upon receiving the draft report, the State Environment Ministry and State level ESIA 
+committees, Federal level ESIA taskforce, lead agencies and other stakeholders shall review 
+it and submit their comments within forty-five (45) days or such other period as the Ministry 
+may specify 
+(3) The Ministry shall within seven (7) days of determination of adequacy, at the expense of 
+the Policy, Plan or Programme proponent– 
+a) publish a notice on the draft Strategic Environmental Assessment report for the 
+Policy, Plan or Programme each one week apart in two newspapers of nationwide 
+circulation and in the Gazette and radio broadcasting nationwide at least once a week 
+for two consecutive weeks inviting the public and other relevant stakeholders to 
+submit written and oral comments respectively 
+b) The Ministry shall publish a copy of the draft Strategic Environmental Assessment 
+report in the Ministry website throughout the public participation process 
+c) The public may submit their comments to the Ministry within forty-five (45) days 
+from the date of the first publication of the notice inviting comments from the public 
+ 
+30. Incorporation of comments in the draft Strategic Environmental and social 
+Assessment report 
+(1) Upon receipt and reviewing the comments from relevant State Environment Ministry, 
+State level ESIA committees and Federal level ESIA taskforce, lead agencies, members 
+of the public and other stakeholders, The Ministry shall upon analysing send the
+=== PAGE 18 ===
+18 
+ESIA Regulations 2024 
+ 
+comments to the proponent of the policy, plan or programme for the purpose of 
+incorporating them in the draft SEA report. 
+(2) Comments from relevant State Environment Ministry, State level ESIA committees and 
+Federal level ESIA taskforce, lead agencies, members of the public and other 
+stakeholders shall be incorporated by the policy, plan or programme proponent within 
+sixty (60) days from the date of request by the Ministry and submit three (3) printed 
+copies and one (1) electronic copy of the revised draft Strategic Environmental 
+Assessment report to the Ministry. 
+(3) Upon receipt and verification of the revised draft Strategic Environmental Assessment 
+report, The Ministry in consultation with the proponent of the policy, plan or programme 
+organize a validation workshop(s) within thirty (30) days involving all stakeholders for 
+the purpose of validating the content and adequacy of the revised draft Strategic 
+Environmental and social Assessment report. 
+ 
+31. Submission of the final Strategic Environmental and Social Assessment Report 
+(1) Upon incorporation of all the comments, the proponent of the policy, Plan, or Programme 
+shall endorse the final Strategic Environmental and social Assessment report and submit five 
+(5) printed copies of the final Strategic Environmental and Social Assessment report or as 
+deemed by the Ministry from time to time and one (1) electronic copy together with a duly 
+completed Form 1 set out in the Second Schedule to these Regulations. 
+ 
+32. Record of Decision on Strategic Environmental and Social Assessment report 
+(1) Upon review of the final Strategic Environmental and social Assessment report, the 
+Ministry shall give a Record of Decision for a Plan or Programme within thirty (30) days 
+from the date of submission of the final Strategic Environmental and social Assessment 
+report under this Regulations 
+(2) In the case the record of decision for a Plan or Programme is an approval, the Ministry 
+shall issue to the proponent of the Plan or Programme an approval with conditions 
+(3) In the case the submitted final Strategic Environmental and social Assessment report is 
+declared unsatisfactory, the Ministry shall issue a written notice of deficiency requiring 
+the proponents of the plan and programme to comply with the Ministry recommendations. 
+(4) For Policy, the Ministry shall prepare a briefing note within thirty (30) days and submit to 
+the Office of the Prime Minister, Federal Government of Somalia 
+(5) The contents of briefing note shall include the following amongst others: 
+a) Policy title and proponent; 
+b) brief introduction of the Policy; 
+c) Policy objectives and justification; 
+d) SESA process brief; 
+e) key ecological, social, economic and cultural issues and impacts; 
+f) favourable alternative(s); 
+g) ranking of other alternatives; 
+h) trade-offs, resettlement and compensation 
+i) conclusion and recommendations of the policy
+=== PAGE 19 ===
+19 
+ESIA Regulations 2024 
+ 
+(6) The Office of the Prime Minister responsible for the Policy shall table it for Cabinet 
+approval. 
+ 
+33. Monitoring and evaluation of Policy, Plan or Programme 
+(1) Monitoring and Evaluation(M&E) improves the links between policy interventions and 
+their outcomes & impact, enhances accountability and policies’ efficiency and 
+effectiveness in addressing environmental, social, economic and cultural issues. 
+(2) The proponent of the Policy, Plan or Programme shall be responsible for all M&E issues 
+and submit M&E reports to the Ministry every twelve months (12) or as deemed 
+necessary by the Ministry from time to time. The Ministry shall formally evaluate the 
+results of the M&E within thirty-six months (36) or as may be deemed necessary by the 
+Ministry from time to time depending on the context of the Policy, Plan or Programme. 
+(3) The Ministry shall undertake oversight over the monitoring and evaluation of the Policy 
+with technical support from ESIA Federal Level-Taskforce and Federal Member States- 
+Ministry of Environment and State Level ESIA-committee where necessary. 
+ 
+ 
+PART V:   ENVIRONMENTAL AND SOCIAL AUDIT 
+34. Environmental and Social Auditors 
+A person shall not carry out an environmental and social audit unless that person has been 
+duly certified and registered in accordance with the Section 46 of the Environment 
+Management (Environment and Social Impact Assessment) Regulations, 2024. 
+35. Fundamental principles of environmental and social audit 
+1. Undertaking Environmental and Social Audit shall be based on the principles that: 
+a) It is conducted by an individual or firm certified and registered under the Environmental 
+and Social (Impact Assessment and Audit) Regulations, 2024 and be performed in a 
+professional manner. 
+b) Project proponent is obligated to maintain and preserve a harmonious balance between the 
+ability of the environment to support activities and sustainable development 
+36. Environmental and Social Audits 
+1. All projects or entities that are likely to have adverse environmental and social impacts 
+shall be subject to environmental and social audits study based on the Ministry guidelines. 
+2. The project proponent shall undertake an initial environmental and social audit within a 
+timeline of not less than one (1) year and not more than three (3) years after completion or 
+start of the project. 
+3. The proponent shall undertake the audit based on risk assessment. Low risk projects under 
+Project type B of the First Schedule to be performed every three (3) years, high risk projects 
+under the Projects Type A of the first Schedule to be performed every twelve (12) months. If
+=== PAGE 20 ===
+20 
+ESIA Regulations 2024 
+ 
+the project life is shorter than the aforementioned timeline, the audit may be required sooner. 
+The Ministry may require other audits subsequent to the initial audit if deemed necessary. 
+4. The initial environmental and social audit shall be carried out by a qualified and authorized 
+Environmental and Social Impact Assessment (ESIA) and Audit expert approved by the 
+Ministry. 
+5. The prescribed environmental and Social audit shall be undertaken based on the approved 
+terms of reference by the Ministry. 
+37. Preparation of environmental and social audit report. 
+(1) An environmental and social audit report shall be prepared under the general direction of 
+an environmental and social auditor who shall head a team of auditors. 
+(2) Any changes in the scope of work during the preparation of the environmental and audit 
+report shall be agreed upon by the parties to the environmental and social audit. 
+ 
+ 
+38. Undertaking Environmental and Social Impact Audit 
+(1) Undertaking an environmental and social audit shall involve use of questionnaires, visits 
+to the environmental sites and test analysis and in the manner specified in this Regulation. 
+The content of Environmental and Social Audit Report should minimum comply with the 
+criteria set out in the Fourth Schedule to these Regulations. 
+(2). The environmental and social auditor shall: 
+a) 
+Take into consideration describing the project first 
+b) 
+Indicate project objective 
+c) 
+Scope and audit criteria 
+d) 
+Be in compliance with national and international environmental law and 
+regulatory frameworks on health and safety and sustainable use of natural 
+resources. 
+e) 
+Verify the project developer’s level of compliance with the requirements set in 
+the environmental and social management plan. 
+f) 
+evaluate the developer’s awareness, knowledge and responsibility for the 
+application of relevant legislations. 
+g) 
+review documentation of existing project related to all infrastructural facilities 
+and design for the purpose of safeguarding the environment against any harm 
+h) 
+examine monitoring programs, parameters, and procedures in place for control 
+and corrective actions in case of emergencies; 
+i) 
+examine records of incidents and accidents and the likelihood of future 
+occurrence of the incidents and accidents; 
+j) 
+integrate climate change vulnerability assessment, priority mitigation and 
+adaptation actions; 
+k) 
+inspect all buildings, premises and yards in which manufacturing, testing and 
+transportation takes place within and without the project area, as well as areas
+=== PAGE 21 ===
+21 
+ESIA Regulations 2024 
+ 
+where goods are stored and disposed of and give a record of all significant 
+environmental and social risks associated with such activities; 
+l) 
+examine and get views from project team, local communities, vulnerable 
+groups in the project area and other potentially affected people on health and 
+safety issues from the project. 
+m) 
+Assess health and environmental concerns of past and ongoing activities. 
+(3) The environmental and social audit report shall have the following structure: 
+(a) executive summary; 
+(b) project’s current status information; 
+(c) audit objectives and scope; 
+(d) audit protocol, criteria and methodology used; 
+(e) findings and observations; 
+(f) description of key issues including the discovered project strengths and 
+weaknesses; 
+(g) recommended actions; 
+(h) conclusions; 
+(i) list of documents used or cited as references; and 
+(j) appendices (photographs, future Plan of Action, consultancy and the list of 
+stakeholders consulted. 
+(4) Environmental and social audit report shall be signed by each of the individual persons 
+who conducted the environmental and social audit. 
+(5) upon completion of an environmental and social audit study report, the proponent shall 
+submit at least five (5) printed copies or as the Ministry may authorize from time to time and 
+an electronic copy of the report to the Ministry in the stated format. 
+(6) upon receipt of the environmental and social audit report, the Ministry shall within seven 
+(7) days dispatch a copy of the report to: 
+(a) the relevant State Government; 
+(b) each of the relevant lead agencies; 
+(c) Federal task force and State level ESIA and audit Committee; 
+(d) Where more than one State is involved, to the relevant State Government and local 
+environmental management units for their written comments to be submitted to the 
+Ministry within fourteen (14) days from the date of receipt of the audit report from the 
+Ministry. 
+(6). On receipt of comments or where no comments have been received by the end of the 
+period of twenty-one (21) days from the date of receipt of the audit report, the Ministry will 
+proceed to evaluate the audit report. 
+(7). Once the Ministry is satisfied that the project operations complied with the 
+Environmental and social Management Plan and there were no adverse environmental and 
+social impacts, the Ministry shall annually issue a Certificate of Environmental and social
+=== PAGE 22 ===
+22 
+ESIA Regulations 2024 
+ 
+Compliance in Form Five (5) set out in the Second Schedule of these Regulations within 
+forty-five (45) days from the date of receipt of the audit report. 
+39. Submission of environmental and social audit report 
+An environmental and social audit report shall be submitted to the owner or operator of the 
+facility within fourteen days after the completion of the audit. 
+40. Control Environmental and Social Audit 
+(1) Control environmental and social audit study shall be carried out by Ministry whenever it 
+considers necessary to check the project compliance with the Environmental and Social 
+Management Plan. This can also be necessitated after successful written or oral petition by a 
+member of the public to undertake an audit. 
+(2) The control environmental and social audit shall confirm that the project is adhering to the 
+set Environmental and social Management Plan and verify its adequacy in mitigating adverse 
+environmental impacts. 
+(3) A control environmental and social audit shall be conducted by environmental and social 
+inspectors 
+41. Post Audit Order 
+(1) The Environmental and Social Impact Assessment Taskforce may issue an improvement 
+order for the carrying out of corrective measures for mitigating the environmental 
+degradations revealed during any audit study. 
+42. Inspection 
+(1) An environmental inspector empowered by the Act may, at reasonable times, enter on 
+any land, premises or facility of a project for the purposes of inspection, to examine records 
+and to make enquiries on the project.An environmental inspector may conduct or cause to be 
+conducted an enforcement environmental and social audit on any facility where there is 
+reasonable cause to believe that— 
+(a) the activities being carried out at the facility violate or are likely to violate the Act 
+or Regulations made under the Act; 
+(b) the activities being conducted at the facility are likely to cause immediate danger 
+and harm to human health, or have undesirable and irreversible damage to the 
+environment; 
+(c) a violation of any other law relating to the environment, other than one referred to 
+in paragraph (a), is taking place. 
+(2) An environmental inspector shall— 
+a) in the case of sub regulation (41) (a) or (b), serve the operator or owner of the facility 
+with 
+notice in writing, at least forty-eight hours before conducting the 
+environmental and social audit; 
+b) in the case of sub regulation (41)(c), serve the operator or owner of the facility with a 
+notice in writing, requiring the operator or owner of the facility to carry out an 
+environmental and social audit within a period determined by the inspector.
+=== PAGE 23 ===
+23 
+ESIA Regulations 2024 
+ 
+(3) A person who refuses to answer questions, refuses to avail documents or refuses to give 
+other information legitimately sought by the environmental inspector commits an offence as 
+prescribed in the Act. 
+ 
+43. Environmental and Social Monitoring by the Federal Level Taskforce 
+ 
+(1) The Federal level taskforce shall in consultation with the Ministry, State governments and 
+Federal Member States Level-Environmental Committees or other relevant bodies: 
+a) monitor environmental and social phenomena with a view to making an assessment of 
+possible changes in the natural environment and their likely impacts; 
+b) monitor the operations of any industry, project or activity with a view to determining 
+its immediate and long-term effect on the environment; 
+c) except where a baseline survey has been carried out, cause the proponent to carry out 
+a baseline survey to identify basic environmental and social parameters in the project 
+area before implementation; 
+d) determine the parameters and measurable indicators to be used in monitoring of 
+projects; and 
+e) conduct measurement of environmental changes that have occurred during project 
+implementation. 
+(2) The Federal level taskforce shall, in consultation with the Ministry, State governments 
+and Federal Member States Level-Environmental Committees or other relevant bodies- 
+monitor ongoing projects on a continuous basis in line with the guidelines. 
+(3) The Federal level taskforce shall, upon detection of non-compliance with the conditions 
+of approval of an environmental and social impact study certificate immediately, institute 
+remedial action. 
+ 
+44.Monitoring Report 
+ 
+(1) After undertaking monitoring under regulation 42, the technical committee shall submit a 
+monitoring report to the Ministry. The report shall include the following: 
+(a) the name and physical address of project proponent; 
+(b) the proposed project name; 
+(c) date of implementation of the proposed project; 
+(d) the date of the last monitoring report, including the report findings, action taken 
+and its result; 
+(e) details of the environmental parameters to be monitored as stipulated in the 
+Environmental Management Plan; 
+(f) results of the actual monitoring exercise; 
+(g) new actions to be implemented including the criteria for the next evaluation; and 
+(h) a non-technical summary of findings, conclusions and recommendations. 
+ 
+(2) An environmental inspector may enter upon any land or premises for the purposes of 
+monitoring the effects of any activities carried out on that land or premises upon the 
+environment.
+=== PAGE 24 ===
+24 
+ESIA Regulations 2024 
+ 
+ 
+ 
+ 
+PART VI – GENERAL PROVISIONS 
+ 
+ 
+45. Transboundary ESIA issues 
+(1) Where a project is anticipated to have a transboundary impact, the proponent shall, in 
+consultation with the Ministry ensure that appropriate mitigation measures are put in 
+place to avoid any adverse impacts considering any existing treaties and agreements 
+between Somalia and the other States. 
+ 
+(2) Where an activity is likely to have an impact outside Somalia’s borders, the scoping 
+should reflect this by identifying and consulting interested and affected parties in the 
+neighbouring countries. The assistance of Ministry of Environment and Climate Change 
+(MOECC)may be sought to make contact with counterparts in the neighbouring 
+countries; 
+ 
+(3) While public consultations in the manner prescribed in the Environmental Management 
+Act may not be feasible in the affected countries, it may be possible to obtain their input 
+via the counterparts of MOECC in those countries. In view of this an open reporting 
+system through the MOECC may be helpful; 
+ 
+(4) Ensure that concerns raised by the affected country are adequately addressed in the 
+(5) consequent ToR; and; 
+ 
+(6) Seek and obtain all relevant information from the affected countries. The MOECC may 
+(7) be helpful in this exercise. 
+ 
+46. Access to Information and Issues of Confidentiality 
+(1) Information or documents submitted to the Ministry by any person in connection with 
+Part II, Part III, Part IV and Part V of these Regulations together with the Ministry’s 
+decisions and the reasons thereof shall be made available to the public in MOECC 
+website and both local print and electronic media in accordance with the relevant 
+legislation and on such other terms and conditions as the Ministry may prescribe. 
+(2) A person submitting information to the Ministry may apply to the Ministry and indicate 
+specific issues of confidentiality in the report to be excluded from the information or parts 
+thereof from being made available to the public on the basis of commercial 
+confidentiality or in the interest of national security. 
+(3) Provided that this information shall remain available to the Ministry, and the Ministry 
+shall take all measures to maintain confidentiality of the information and shall not copy, 
+circulate, publish or disclose such information. 
+ 
+ 
+47. Registration of Environmental and social impact Assessment (ESIA) experts.
+=== PAGE 25 ===
+25 
+ESIA Regulations 2024 
+ 
+(1) A person who applies to be registered as a practitioner (Lead Expert, Associate Expert or 
+Firm of Experts) in accordance with these Regulations shall comply with the qualification 
+requirements and code of conduct as set out in Fourth Schedule to these Regulations. 
+ 
+(2) An application for registration as a practitioner shall be in Form 3 set out in Second 
+Schedule to these Regulations. 
+ 
+(3) An application under this regulation shall be accompanied by a registration fee as 
+specified in Fourth Schedule to these Regulations. 
+ 
+48. Environmental and Social Assessment Expert Licence. 
+ 
+(1) Environmental and social assessment expert Licence referred to shall be in accordance 
+with Form 1 set out in Schedule 2 to these Regulations and shall be issued subject to payment 
+of a fee specified by the Ministry from time to time. 
+49. Code of Conduct for ESIA Experts 
+ 
+(1) An Environmental Assessment Experts shall act professionally, accurately, fairly and in 
+an unbiased manner in undertaking his work. 
+(2) Environmental and Social Assessment Experts certified and licenced in accordance with 
+the provision of relevant Regulations, may establish professional association to support 
+professional development including as appropriate implementation of the ESIA Code of 
+Practice in the Fourth Schedule of these Regulations. 
+ 
+50. Effect of approval or rejection of project. 
+ 
+(1) No civil or criminal liability, in respect of an approval of a project or consequence 
+resulting from an approved project, shall be incurred by the Ministry or any person acting on 
+his behalf, by reason of the approval, rejection or denial or any conditions attached to the 
+approval. 
+(2) The fact that an approval is made in respect of an Environmental and Social Impact 
+Assessment (ESIA) shall afford no defence to any civil action or to a criminal prosecution 
+under any enactment concerning the project or the manner it is operated or managed. 
+ 
+51. Offences. 
+(1) Notwithstanding any licence, permit or approval granted under any enactment, any person 
+who commences, proceeds with, carries out, execute or the conduct of any project without 
+approval from the Ministry under these regulations, commits an offence and on conviction is 
+liable to a penalty prescribed under the section. 
+(2) Any person who - 
+(a) fails to prepare and submit a project brief/ESIA to the Federal Member State (FMS) 
+Environment Ministry or Ministry contrary to these Regulations
+=== PAGE 26 ===
+26 
+ESIA Regulations 2024 
+ 
+(b) fails to prepare and submit an Environmental and Social Impact Study Report 
+contrary to these Regulations 
+(c) is in breach of any condition of licence of Project Brief/ environmental and social 
+impact assessment 
+ 
+ 
+52. Appeals 
+ 
+(1) Any person who is aggrieved by- 
+ 
+(a) 
+a refusal to grant a licence or a refusal to transfer a licence 
+under these Regulations; 
+(b) 
+the imposition of any condition, limitation or restriction on a 
+licence; 
+(c) 
+the revocation, suspension or variation of a licence issued under 
+these Regulations; 
+(d) 
+the imposition of any environmental restoration order or 
+environmental improvement order on the project by the 
+Ministry; or 
+(e) 
+the approval or reinstatement by the Ministry of an 
+environmental impact assessment licence; 
+(f) 
+A refusal to grant an approval for a Plan or Programme or the 
+imposition of any condition, limitation or restriction on an 
+approval 
+ 
+may within sixty (60) days after the date of the decision against which he or she is 
+dissatisfied, appeal to the Federal level ESIA and Audit task force 
+ 
+(2) A person aggrieved by a decision may within thirty (30) days of such a decision or order, 
+appeal against such decision and present their case to the Federal level ESIA and Audit 
+task force 
+(3) The fact that approval is given in respect of an environmental impact assessment shall not 
+be a defence to any civil action or to a criminal prosecution under any enactment. 
+ 
+53. Registers 
+(1) The Ministry shall maintain the following registers - 
+a) a register of all environmental and social impact assessment licence issued under 
+these Regulations; 
+b) a register of environmental and social impact statements, environmental audits and 
+monitoring reports; 
+c) a register of approvals of applications seeking exclusion of proprietary information 
+from public access.
+=== PAGE 27 ===
+27 
+ESIA Regulations 2024 
+ 
+d) a register of all individual ESIA experts or firms of experts duly authorized to conduct 
+or prepare environmental audits and a register of environmental and social audit 
+reports. 
+e) documentation of all accredited training institutions offering certificates to undertake 
+ESIA 
+f) The registers shall be publicly available registers maintained by the Ministry for 
+examination by anyone under the terms set by the Ministry. 
+ 
+ 
+54. Roles of the Ministry and FMS Ministries of Environment in enforcing the 
+regulations 
+ 
+ 
+a) 
+The Ministry shall lead the Environmental and Social Assessments for policies, 
+programs and strategies at the Federal Government of Somalia level 
+b) 
+The Ministry to lead the Environmental and Social Impact Assessments of all 
+category A (high risk) level projects and trans-boundary (between Somalia and neighbouring 
+countries) issues. Geographically appropriate FMS to also be involved in the process. 
+c) 
+FMS Ministries of Environment to receive project briefs for category B (medium and 
+small risk) projects within the State. 
+ 
+ 
+55. Transfer or delegation of functions 
+(1) The Ministry may transfer or delegate functions to any local government body or sector 
+Ministry, the performance of any of the functions or duties of the Ministry under these 
+regulations.
+=== PAGE 28 ===
+28 
+ESIA Regulations 2024 
+ 
+ 
+ 
+ 
+ 
+FIRST SCHEDULE: APPLICABLE PROJECTS 
+ 
+Project Type A – High Risk Projects 
+Projects Requiring Full Environmental and Social Impact Assessment Study 
+GENERAL 
+ 
+ Major change in land use 
+ Any national or state development plan 
+ Conversation of greenbelts, agricultural lands and Buffer Zones of over 20 ha in urban 
+area 
+ Major structures within 150 metres of the high-water mark 
+ 
+AGRICULTURE 
+ 
+ Large scale cultivation (≥ 100 Ha); 
+ Water resources development projects; (i) Dams; command area ≥300 Ha;(ii) Water 
+supply; command area ≥500 Ha; (iii)Flood control; command area ≥500 Ha; 
+ Irrigation, drainage; command area ≥500 Ha; 
+ Large scale mono-culture (cash and food crops) ≥100 Ha; 
+ Floriculture; ≥5 Ha; and 
+ In case of any project necessitating the resettlement of communities, please attach the 
+Resettlement Plan. 
+LIVESTOCK AND RANGE MANAGEMENT 
+ 
+ Large Scale Livestock movement; ≥5000 cattle; and 
+ Intensive livestock rearing units; ≥1,000 herd. 
+FORESTRY 
+ 
+ Timber logging; ≥5Ha; 
+ Processing/ treatment of timber with chemicals; 
+ Construction of road inside the forest reserve (All projects (irrespective of road size in 
+kilometre); 
+ Conversion of forest land for other uses. 
+ Introduction of alien tree species and development of forest plantation; and elective 
+removal of single tree species. 
+ 
+FISHERIES 
+ 
+ Large scale fish farming including prawn farming; 
+ Industrial fish processing and storage ≥50 tonnes per day; and
+=== PAGE 29 ===
+29 
+ESIA Regulations 2024 
+ 
+ 
+ 
+ 
+ 
+WILDLIFE PROJECTS 
+ 
+ Reintroduction or translocation of new species; 
+ Wildlife ranching and farming; and 
+ Creation of new sanctuaries or zoos or orphanages. 
+TOURISM AND RECREATIONAL DEVELOPMENT 
+ 
+ Construction of resort facilities or hotels along the shorelines of lakes, river, islands and 
+Ocean 
+ Hill top resort or hotel development; and 
+ Development of tourism or recreational facilities in protected and adjacent areas (national 
+parks, marine parks, forestry reserves etc.) on islands and in surrounding waters. 
+ENERGY 
+ 
+ Transmission of Electricity; 
+ Production of Natural Gas; 
+ Thermal Power development; capacity ≥50 MW; 
+ Hydro-electric power development; capacity ≥ 50 MW; 
+ Nuclear power development; and 
+ Development of other large scale renewable sources of energy 
+ Off-shore Wind projects; 
+PETROLEUM 
+ 
+ Oil & gas field exploration and development; 
+ Construction of offshore and onshore pipelines; 
+ Construction of oil and gas separation, processing, handling and storage facilities; 
+ Construction of oil refineries; and 
+ Transportation of petroleum products through pipelines. 
+ 
+TRANSPORT AND INFRASTRUCTURE 
+ 
+ Construction and/or expansion of trunk roads; 
+ Construction and/or expansion of airports and airstrips and their ancillary facilities; 
+ Construction and/or expansion of existing railway lines; and 
+ Construction and/or expansion of ports and harbors. 
+FOOD & BEVERAGE INDUSTRIES 
+ Tobacco processing; and 
+ Sugar factories. 
+TEXTILE INDUSTRY 
+ Cotton and Synthetic fibers; integrated textile mills (knitting, weaving, dying and 
+fabric production). 
+ 
+LEATHER INDUSTRY
+=== PAGE 30 ===
+30 
+ESIA Regulations 2024 
+ 
+ Tanneries; All integrated plants. 
+WOOD, PULP & PAPER INDUSTRY 
+ 
+ Pulp and paper manufacturing (except waste paper). 
+ 
+ 
+BUILDING & CIVIL ENGINEERING INDUSTRY 
+ 
+ Industrial parks and housing estate; and 
+ Developments on beach fronts. 
+ 
+CHEMICALINDUSTRIES 
+ 
+ Manufacture and storage of pesticide or other hazardous and / or toxic chemicals; 
+ Manufacture of pharmaceutical products (Technical); 
+ Production of paints vanishes; 
+ Soap and detergent plants; and 
+ Manufacture of fertilizers. 
+ 
+EXTRACTIVE INDUSTRY 
+ 
+ Extraction and purification of natural gas (if this is being done within the refinery along 
+with primary and secondary products); and 
+ Mining (Large and medium scale mines). 
+ 
+NON-METALLIC INDUSTRY (PRODUCTS) 
+ 
+ Cement Manufacturing 
+METAL AND ENGINEERING INDUSTRY 
+ 
+ Manufacture of non - ferrous products 
+ (b)Manufacturing of iron and steel 
+ELECTRICAL AND ELECTRONICS INDUSTRIES 
+ 
+ Battery manufacturing and recycling 
+ 
+WASTE TREATMENT AND DISPOSAL 
+ 
+ Toxic and Hazardous waste: 
+. Construction of Incineration plants; 
+. Construction of recovery plant; 
+. Construction of waste water treatment plant; 
+. Construction of secure landfills facility; and 
+. Construction of storage (temporary) facility. 
+ 
+ 
+ municipal solid waste:
+=== PAGE 31 ===
+31 
+ESIA Regulations 2024 
+ 
+. 
+Construction of Municipal Solid Waste landfill facility 
+. 
+Municipal sewage: 
+. 
+Construction of sewage sewer system 
+ 
+WATER SUPPLY 
+ 
+ Canalization of water courses; 
+ Diversion of normal flow of water; 
+ Water transfers scheme; 
+ Abstraction and/or utilization of ground and surface water for bulk supply; and 
+ Water treatment plants. 
+ Dam 
+ 
+LAND DEVELOPMENT PLANNING, LAND RECLAMATION, HOUSING AND 
+HUMAN SETTLEMENTS 
+ 
+ land acquired for resettlement 
+ establishment of refugee camps 
+ land reclamation including land under water bodies; and 
+ dredging of bars, groynes, promenades, dykes and estuaries. 
+ 
+ 
+ 
+Projects Type B: Medium and Small Risk projects 
+Project briefs required 
+List of small-scale activities and enterprises that require registration but shall not require 
+Environmental and Social Impact Assessment Study. Further, the projects shall not require 
+screening and scoping, rather, the Project Brief shall be examined and issued with an 
+Environmental Impact Assessment Licence. 
+ 
+AGRICULTURE 
+ 
+ large Scale cultivation (<50 to 10 Ha); (b) water resources development projects: 
+ water supply (command area (<200 to <50 Ha; (ii) flood control (command 
+area(<200to<50Ha); (iii) irrigation, drainage (command area (<200 to <50 
+ Ha); and(c) large scale mono-culture (cash and food crops) (<50 Ha). 
+ floriculture (<2 Ha). 
+LIVESTOCK AND RANGE MANAGEMENT 
+ 
+ large Scale Livestock movement (< 1000 to <500 cattle); and 
+ intensive livestock rearing units (< 500 to < 100 herd. 
+ 
+ 
+FORESTRY 
+ Selective removal of single tree species Ministry of Natural Resources (<100 tree species).
+=== PAGE 32 ===
+32 
+ESIA Regulations 2024 
+ 
+FISHERIES 
+ Industrial fish processing and storage (<10 tonnes per day) 
+ 
+TOURISM AND RECREATIONAL DEVELOPMENT 
+ Camping activities 
+ 
+FOOD & BEVERAGE INDUSTRIES 
+ slaughter houses / abattoirs (All projects when number of animals slaughtered are <10 per 
+day); 
+ tobacco processing; and 
+ canned fruits and sauces. 
+ 
+ 
+TEXTILE INDUSTRY 
+ Cotton & Synthetic fibers (All stand-alone knitting and weaving units). 
+ 
+BUILDING & CIVIL ENGINEERING INDUSTRY 
+ Schools, dispensaries, health-centres: 
+ dispensaries and health-centres; and 
+ all School projects (l <360 students). 
+ Boreholes 
+ Small dams 
+METAL AND ENGINEERING INDUSTRY 
+ 
+ Garages 
+ELECTRICAL AND ELECTRONICS INDUSTRIES 
+ 
+ Installation and expansion of communication towers. 
+WASTE TREATMENT AND DISPOSAL 
+ 
+ municipal Solid Waste; 
+ construction of composting plant; 
+ municipal Sewage; and 
+ night soil collection and treatment. 
+ 
+PETROLEUM SECTOR PROJECTS 
+ 
+ Small Service stations/fuel stations 
+ Small LPG plants 
+ Commercial dispensing facilities
+=== PAGE 33 ===
+33 
+ESIA Regulations 2024 
+ 
+ 
+ 
+ 
+ 
+SECOND SCHEDULE: ESIA FORMS 
+FORM 1: APPLICATION 
+Application Reference No.: .......................... 
+ 
+THE ENVIRONMENT MANAGEMENT ACT 
+ 
+APPLICATION FOR ENVIRONMENTAL AND SOCIAL/STRATEGIC IMPACT 
+ASSESSMENT LICENCE 
+ 
+PART A: DETAILS OF PROPONENT 
+ 
+Al: 
+Name 
+of 
+proponent 
+(Person 
+or 
+Firm): 
+................................................. 
+…………………….. 
+ 
+A2: Postal Address: ................................................................................................................... 
+ 
+A3: 
+Name 
+of 
+contact 
+person: 
+....................................................................................................... 
+ 
+A4: 
+Telephone 
+No.: 
+..................................................................................................................... 
+ 
+A5: 
+E-mail 
+Address: 
+.................................................................................................................... 
+ 
+PART B: DETAILS OF THE PROJECT/POLICY 
+ 
+B1: 
+Title 
+of 
+the 
+proposed 
+policy/project: 
+...................................................................................... 
+ 
+...................................................................................................................................................... 
+ 
+B2: Objectives and the scope of the project/Strategic: ………………………………………. 
+ 
+.................................................................................................................................................. 
+ 
+B3: Brief description of the activities:…………………………………………………………. 
+ 
+.....................................................................................................................................................
+=== PAGE 34 ===
+34 
+ESIA Regulations 2024 
+ 
+B4: Location of the proposed project (L.R. No., area, State and GPS Coordinates) 
+ 
+...................................................................................................................................................... 
+ 
+PART C: DECLARATION BY THE PROPONENT/REPRESENTATIVE 
+ 
+I hereby certify that the particulars given above are correct and true to the best of my 
+knowledge 
+ 
+Name: ................................................... Position: ....................................................................... 
+ 
+Signature: 
+..........................On 
+behalf 
+of: 
+..................................................................................... Date: .............................. (Firm name 
+and seal): 
+ 
+PART D: DETAILS OF ENVIRONMENTAL ASSESSMENT EXPERT  
+ 
+Name (individual /firm): ............................................................................ 
+ 
+Certificate of registration No....................................................................... 
+ 
+Environmental Assessment Practicing Licence No.: .............................................. 
+ 
+Postal Address: ..................................................Tel: ............................... 
+ 
+Email address: ....................................................... 
+ 
+Position: ................................................Signature: ...................................Date: ..................... 
+ 
+PART E: FOR OFFICAL USE 
+ 
+Approved 
+Not Approved: 
+ 
+Comments: 
+.................................................................................................................................... 
+.................................................................................................................................................... 
+Name of officer......................................................Designation.................................................. 
+ 
+Sign......................................................................Date................................................................ 
+ 
+Any person who fraudulently makes a false statement in a report or alters the project report 
+commits an offence under these Regulations
+=== PAGE 35 ===
+35 
+ESIA Regulations 2024 
+ 
+Important Notes: Please submit the following: (a) Three duly filled copies of this form;(b) 3 
+copies of the Project Brief/ESIA report: (c) an electronic copy of the report 
+ 
+To The Director-General, MOECC, Mogadishu, Somalia. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORM 2: ESIA LICENSE 
+ 
+Licence No.: ..................................... 
+ 
+Application Reference No.: ..................... 
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+ 
+THE ENVIRONMENTAL MANAGEMENT ACT 
+ENVIRONMENTAL AND SOCIAL IMPACT ASSESSMENT LICENCE 
+This is to certify that the Project Brief / Environmental and Social Impact Assessment Study 
+Report...................................................................received from ..................................... (name 
+of individual/firm) of.......................................................... (Address) submitted to the 
+Ministry of Environment and Climate Change in accordance with the Environmental 
+Management    (Environmental    and    Social    Impact    Assessment)    Regulations    2024 
+regarding..............................................................................................................      (Title      of 
+project) whose objective is to carry…………………………………………………………… 
+……….......................................................................................................................................... 
+...................................................................................................................................................... 
+.....(briefly describe purpose) located at……………………………………………………… 
+(locality and State) has been reviewed and a licence is hereby issued for implementation of 
+the project, subject to the attached conditions. 
+Dated this..........day of........................... 20....... 
+Signature ..................................................... (Seal)
+=== PAGE 36 ===
+36 
+ESIA Regulations 2024 
+ 
+Director General;Ministry ofEnvironment and Climate Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORM 3: ESIA EXPERT APPLICATION 
+ 
+Application Reference No. ............... (For official use) 
+THE ENVIRONMENTAL MANAGEMENT ACT 2024 
+APPLICATION FOR LICENCE TO PRACTICE AS AN ENVIRONMENTAL AND 
+SOCIAL ASSESSMENT EXPERT 
+PART A: DETAILS OF APPLICANT 
+Al: 
+Name 
+of 
+applicant 
+(Individual 
+or 
+Firm): 
+................................................................................ 
+ 
+A2: Nationality: ........................................................................................................................... 
+ 
+A3: If Firm: Local Foreign…………………………………………………………………… 
+ 
+A4: Business /company Registration No. (where applicable): .................................................... 
+ 
+A5: 
+Postal 
+Address: 
+......................................................................................................................
+=== PAGE 37 ===
+37 
+ESIA Regulations 2024 
+ 
+A6: Telephone No.: ..................................................................................................................... 
+ 
+A7: E-mail: .................................................................................................................................. 
+ 
+A8: 
+Applicant’s 
+academic/professional 
+qualifications: 
+.................................................................. .................................................................................. 
+ 
+A9: List of professionals, their academic/professional qualifications and their nationalities 
+(where 
+applicable): 
+..................................................................................................................................................... 
+ 
+A10: 
+Field 
+of 
+Expertise 
+................................................................................................................ 
+ 
+A11: Experience in Environmental and Social Impact Assessment related activities (Table): 
+...................................................................................................................................................... 
+ 
+A12: Environmental Professional body membership no……………………………………… 
+ 
+A 14: Application for licence to practice as (Tick where applicable): 
+Lead Expert;  
+ 
+Associate Expert; 
+Firm; 
+ 
+ 
+ 
+ 
+PART B: DECLARATION BY APPLICANT 
+ 
+I hereby certify that the particulars given above are correct and true to the best of my 
+knowledge 
+and 
+belief……………………………………………………………………………………… 
+ 
+Full name in block letters.......................................................Signature of applicant .................. 
+ 
+Date.........................On behalf of .............................................................................. Position 
+ 
+Firm Name and seal 
+ 
+PART C: FOR OFFICIAL USE 
+Approved 
+Not approved 
+Comments..................................................................................................................................... 
+...................................................................................................................................................... 
+ 
+Name.........................................................Designation................................................................ 
+....
+=== PAGE 38 ===
+38 
+ESIA Regulations 2024 
+ 
+Sign............................................................ 
+Date............................................................................. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORM 4: CERTIFICATE OF PRACTICE 
+ 
+Application Reference No: .......................................... 
+ 
+Registration No: .......................................................... 
+ 
+ 
+THE ENVIRONMENTAL MANAGEMENT ACT 
+CERTIFICATE OF PRACTICE OF AN ENVIRONMENTAL AND SOCIAL 
+ASSESSMENT EXPERT 
+ 
+This 
+is 
+to 
+certify 
+that 
+M/S 
+.............................................................................. 
+of........................... 
+(address) 
+………………………………………………………………………………………...has 
+fulfilled the requirement of certification to practice in in accordance with the provisions of 
+the Environment Management Act 2024, and is authorized to practice in the capacity of 
+a.................................................................................................................................................... 
+ 
+The certificate is valid from ……………………………………….to………………………..
+=== PAGE 39 ===
+39 
+ESIA Regulations 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dated this..........day of......................... 20.... Signature............................................................ 
+ 
+(Seal) Director-General, Ministry of Environment and Climate Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORM 5: COMPLIANCE CERTIFICATE 
+ 
+Application Reference No.: ………………………… 
+ 
+Certificate No.: ……………………………… 
+ 
+THE ENVIRONMENTAL MANAGEMENT ACT, 2024 
+CERTICATE OF ENVIRONMENTAL AND SOCIAL COMPLIANCE 
+Application File Reference Number: ………………………………..……………………. 
+ 
+Date: ……………………………………………….……….………………………………. 
+ 
+Address: ………………………………………………..………………………..…………… 
+ 
+Proponent (operator): ………………………………………………………………................. 
+ 
+The Ministry of Environment and Climate Change (MOECC) has reviewed the report and 
+found it to have complied with the requirements of the Environmental Management 
+(Strategic Assessment, Environment and Social Assessment) Regulations, 20.       and hereby 
+issues   you   with   a   Certificate   of   Environmental   Compliance   for   a   period   of 
+................................................................commencing from ......................... to ……………….
+=== PAGE 40 ===
+40 
+ESIA Regulations 2024 
+ 
+ 
+Dated 
+this…………………………………. 
+day 
+of……………………. 
+20……………………. 
+ 
+ 
+Signature………………………………………………………………… 
+(Seal) 
+ 
+Director-General, 
+Ministry of Environment and Climate Change 
+Conditions of the Certificate 
+(1) Ensure compliance with the Environmental Management Plan as proposed in the 
+Audit Report. 
+(2) MOECC retains the power to revoke or cancel this Certificate in the event of non- 
+compliance with any requirements under the Environmental Management act and its 
+Regulations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORM 6: PUBLIC COMMENTS NOTICE 
+ 
+THE ENVIRONMENTAL MANAGEMENT ACT,2024 
+ 
+NOTICE TO THE PUBLIC TO SUBMIT COMMENTS ON ENVIRONMENTAL 
+AND SOCIAL IMPACT ASSESSMENT REPORT 
+ 
+Pursuant to Regulation 14 of the Environmental Management Act (Environment and Social 
+Impact Assessment) Regulations, 2024, the Ministry of Environment and Climate Change 
+(MOECC) has received an Environmental and Social Impact Assessment Report for the 
+implementation 
+of 
+the 
+proposed 
+project……………………………………………………………………………… 
+………………………………………………………………………………………………….. 
+(brief 
+description 
+of 
+project……………………………….………………………………………at 
+....................................................................... (locality) of District. The said project anticipates 
+the 
+following 
+impacts………………………………………………………………………………… 
+…………………………………………………………………………………………………. 
+… 
+………………………………………………………………………………………….……… 
+… 
+……………………………………….………………… (describe anticipated   impacts   and
+=== PAGE 41 ===
+41 
+ESIA Regulations 2024 
+ 
+proposed mitigation measures). 
+ 
+The full report of the proposed project may be inspected during working hours at: 
+ 
+(a) The MOECC Headquarters; 
+(c) MOECC State level offices, where applicable; 
+(d) MOECC website: http://www.moecc.gov.so/ 
+ 
+ 
+ 
+MOECC invites members of the public to submit written comments within 30 days of the 
+date of publication of this notice to the: 
+ 
+(a) Director-General, MOECC 
+(b) FMS offices 
+ 
+Dated this…………day of………………….20…………………… 
+ 
+Signature…………………………………………………………… 
+ 
+Director –General- 
+Ministry of Environment and Climate Change 
+ 
+ 
+ 
+THIRD SCHEDULE: GENERAL ESIA GUIDELINES 
+ 
+Made under Regulation 8 (1) 
+PROJECT BRIEF TEMPLATE 
+FEDERAL MEMBER STATE 
+Ministry of Environment and Climate Change 
+ 
+ 
+All Correspondence to be addressed to the Minister 
+ 
+REF: FMS/ .................. 
+RECEIPT No . . . . . . . . . . . . . . .. DATE ............... 
+ 
+ 
+ 
+1. Project Brief and Terms of references 
+Instructions for completing the project brief:
+=== PAGE 42 ===
+42 
+ESIA Regulations 2024 
+ 
+All small and medium scale projects within Federal Member States shall require submission 
+of a Project Brief to the Ministry of Environment at State Level. 
+ 
+Please note that all sections of the form must be completed and additional information about 
+the project should be attached to the form where the space provided is not sufficient 
+(alterations of the form shall not be permitted). 
+Any person who provides false information in the project brief fraudulently is liable to a 
+penaltyunder section 50 of the Act.To ensure that the implementation of planned activity is 
+not delayed, the project brief should be submitted at the time when a project concept is being 
+considered or at the pre-feasibility stage of the project cycle. 
+Please note that where it is determined by the competent authority that an environmental 
+assessment study is required, the details and certificate of practice of the practitioners whom 
+the developer intends to deploy, shall be submitted to the competent authority by the 
+developer prior to undertaking the environmental impact assessment 
+ 
+SECTION A: 
+Applicant details 
+Name of project: 
+Estimated project cost: 
+Project proponent: 
+Contact person: 
+Postal address: 
+Physical address: 
+Telephone no: 
+E-mail address: 
+Project location: (Location map should be attached) 
+SECTION B: 
+1. Project details: 
+a. Provide a brief description of the project 
+b. What is the physical scale or the size of the development? 
+c. What is the anticipated lifespan of the project within the foreseeable or predicted 
+future? 
+ 
+2. Project processes: (Attach project flow diagram and photos where applicable.) 
+a. What are the materials that the activity shall use, including both construction 
+materials and inputs? 
+b. What are the possible products and by-products including waste generation of the 
+activity? 
+ 
+3. Planning issues: 
+a. Has land been allocated for the proposed project? 
+(Attach supporting documents where applicable)
+=== PAGE 43 ===
+43 
+ESIA Regulations 2024 
+ 
+b. What is the current land use of the area or site for the proposed project? 
+c. Will the proposed development require a change in land use?.......................... 
+d. Are the following services available in the area where the development is to be 
+located? 
+ 
+ 
+Roads 
+....................................................................... 
+............ 
+(specif 
+y) 
+Water 
+.......................................................................... 
+......... 
+(specif 
+y) 
+Power 
+.......................................................................... 
+........ 
+(specif 
+y) 
+Telecommunications 
+..................................................................... 
+(specif 
+y) 
+Sewerage system 
+......................................... 
+••• 
+(specify) 
+Waste management system .... 
+0 . 0 
+................................................. 
+... .. 
+0 
+. 
+0 
+..................... 0. 0 
+........... 
+00• 
+••0 
+0•• 
+(specify) 
+ 
+Other .................................................................................................................... (specify) 
+ 
+ 
+e. 
+Will the development result in displacement of people or property? 
+ 
+If yes, how many people or number of households will be affected? 
+ 
+f. 
+What is the (approximate) distance of the proposed site from the following 
+land uses - 
+i. 
+residential ....................................................................................... 
+ii. 
+industrial .......................................................................................... 
+iii 
+commercial .......................................................................................... 
+. 
+iv. 
+agricultural (arable/pastoral) ............................................................... 
+v. 
+civic & community (e.g mosque, school, park, etc) 
+................................ 
+ 
+g. Is the project located within or near any of the following areas? Specify the distance. 
+ 
+Area 
+Yes No 
+Approximate
+=== PAGE 44 ===
+44 
+ESIA Regulations 2024 
+ 
+distance 
+National park/game reserve/ 
+Wildlife management area 
+Wetland (river, stream, dam, pans or any 
+other 
+areas with open surface water (whether 
+seasonal or perennial) 
+Flood plains 
+Important breeding areas for fauna 
+Areas containing rare or endangered flora 
+and fauna 
+Important archaeological, historical, religious 
+or cultural sites 
+Areas protected under legislation 
+Hilly areas 
+ 
+SECTIONC: 
+1. Outline the possible impacts of the project on the environment (biophysical and socio- 
+economic) in terms of: 
+a. Negative impacts 
+ 
+ 
+ 
+ 
+b. Positive impacts 
+ 
+ 
+ 
+ 
+c. What measures will be undertaken to address the negative impacts? 
+ 
+ 
+ 
+ 
+d. Provide any additional information that may assist in the evaluation of the application.
+=== PAGE 45 ===
+45 
+ESIA Regulations 2024 
+ 
+SECTION D: 
+I ............................................................. certify that the information provided is to the best of 
+my knowledge true and correct. 
+Signed:   
+ 
+Date:   
+ 
+ 
+ 
+ 
+ 
+Made under Regulation 11 (4) 
+TERMS OF REFERENCE FOR ESIA STUDY 
+The Terms of Reference (ToRs) define all issues or the scope of work on which the ESIA 
+study will focus. The information provided below should only be used as a guide since 
+projects, their status in the project cycle, and proponent needs vary widely and, thus, ToR 
+contents varies. 
+ 
+The ToRs should also summarise the general scope of the environmental assessment and 
+discuss its timing in relation to the processes of project preparation, design and 
+implementation. The boundaries for the study area for the assessment should also be 
+specified. 
+ 
+A description of all the tasks to be performed in the ESIA study should be provided and 
+should, at a minimum, include: 
+ 
+ Policy and regulatory framework 
+ Description of the environment- The description of the environmental baseline should 
+include: 
+ Physical environment: 
+ Biological environment: 
+ Socio-cultural environment (both present and projected where appropriate) 
+ Public consultation: The ToRs should require that a consultation programme be 
+clearly presented in the ESIA report 
+ Analysis of alternatives to the proposed project 
+ Prediction and assessment of the potential impacts for the proposed project: 
+ Presentation of mitigation measures: The ToRs should indicate that the consulting 
+team will recommend feasible and cost-effective measures to prevent or reduce 
+significant negative impacts to acceptable levels and enhance positive impacts.   
+ Development of an environmental and social management plan: The ToRs should 
+indicate the structure to be used for the ESMP, which should normally incorporate 
+any necessary monitoring and the identification of institutions responsible for
+=== PAGE 46 ===
+46 
+ESIA Regulations 2024 
+ 
+implementing the monitoring program. The ESMP should also contain a plan for 
+decommissioning of the project. 
+ Archaeological Impact Assessment (AlA) 
+ Report: The environmental assessment report should be concise and limited to 
+significant environmental issues. This section should describe the structure that will 
+be used for the report. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Made under Regulation 13 (2) 
+ 
+CONTENT OF ENVIRONMENTAL AND SOCIAL IMPACT ASSESSMENT(ESIA) 
+STUDY 
+The aim of the regulations is to provide basic and minimum information that ESIA Study 
+report should contain. ESIA report contain information required by the Act.   The structure 
+and content of the ESIA should therefore at the minimum contain the following: 
+ 
+1. Details of project proponents and ESIA consulting team: This information could 
+include name, postal addresses, telephone number(s), telefax, email indicated on the 
+first page of the report. 
+2. Executive summary: A concise summary of the report, briefly describing the project, 
+location, proponent, the methodology used during the study, expected impacts, 
+management measures as well as recommendations and conclusions. 
+3. Introduction: The introduction should provide a discussion of the nature of the project 
+proposed, its location, and if the project is part of a larger proposal. It should outline 
+the background to the project and the reasons or necessity of it. 
+4. Policy, legal and administrative framework: This section should identify and discuss 
+in detail the relevance of the policies, legislation, regulations, plans, guidelines as well 
+as planning and implementation approvals which have a bearing on the proposed 
+project. 
+5. Description of the project: Information on the description of the project should 
+include but not be limited to the following- 
+o Purpose of project; 
+o The status of the project in the project cycle: pre-feasibility, feasibility, 
+detailed engineering and design, implementation (construction), operational, 
+decommissioning; 
+o Location of proposed project on a map; 
+o Preliminary design (if available), infrastructural requirements and size of the 
+development;
+=== PAGE 47 ===
+47 
+ESIA Regulations 2024 
+ 
+o Anticipated duration of construction, operation, close down; 
+o Proposed transport and access arrangements; 
+o Overall operation of processes involved; 
+o Type and quantity of resources used; and 
+o Estimated type, quantity, composition, strength of residues or emissions; and 
+processes for the containment, treatment and disposal of wastes. 
+6. Description of baseline environment: The ESIA should provide an appraisal of 
+dimensions of the study area and descriptions of relevant physical, biological and 
+socio-economic conditions as this is important for future monitoring and auditing. 
+7. Public consultation: This section should discuss the objectives, methods and results of 
+public consultations undertaken during the scoping exercise. Where applicable, the 
+methodology utilised for further consultation of during the ESIA, and outcomes of the 
+consultations should also be discussed. A record of all stakeholders consulted as well 
+as the minutes of the consultation meeting(s) should be annexed to the report. 
+ 
+8. Identification and assessment of environmental impacts: This is a crucial part of the EIA 
+process and forms the basis for any mitigation or enhancement action. This should 
+include a description of the impacts for all the project phases that is, pre-construction, 
+construction, operational and decommissioning phases. The description often captures 
+the characteristics of the impacts which include – 
+ 
+ Positive and negative environmental and social impacts 
+ Direct and indirect: Direct impacts are created directly by a project action eg 
+displacement of people caused by the project. Direct impacts are more easily 
+identifiable and quantifiable than indirect impacts; 
+ Long term and short term: during the construction phase of the project (short 
+term), others persist to the operational phase (medium term) and others linger on 
+long after the project has been decommissioned (long term); 
+ Recurring and non-recurring: some impacts occur repeatedly in space and time, 
+while others occur only once; 
+ Regional and local: Some impacts cover large areas whilst others are restricted to 
+a small area; 
+ Cumulative and non-cumulative: Cumulative impacts result when impacts from 
+one activity combine with those from another activity to produce a greater impact 
+or a different impact. Non-cumulative impacts do not accumulate in space and in 
+time; and; 
+ Reversible and irreversible impacts. 
+9. Considerations for transboundary impacts – where the environmental and social 
+impacts of a project may be realised across international boundaries – The assessment 
+should therefore include impacts beyond the boundary of Somalia 
+10. Analysis of alternatives: Proposed investment design, site, technology and operational 
+alternatives should be compared systematically in terms of their potential impacts, 
+capital and recurrent costs, suitability under local conditions and institutional, training 
+and monitoring requirements. To the extent possible, for each of the alternatives
+=== PAGE 48 ===
+48 
+ESIA Regulations 2024 
+ 
+(including the 'no action alternative'), the environmental and costs and benefits should 
+be quantified and economic values attached where feasible. Alternatives can be 
+grouped into demand alternatives, activities alternatives, location alternatives, process 
+alternatives, input alternatives among others. 
+11. Mitigation measures: Mitigation is the development of practical measures to reduce 
+adverse impacts on the environment, or to enhance the beneficial aspects of an action. 
+a) find ways of implementing projects with minimum environmental costs; 
+b) minimise or eliminate negative impacts; enhance the benefits of a proposal; and 
+c) protect the public and individual rights to compensation. 
+d) Feasible and cost-effective measures which will reduce potential significant 
+environmental and social impacts to acceptable levels should be proposed 
+including capital and recurrent costs, and institutional and training requirements of 
+those measures estimated. 
+e) Elements of mitigation 
+f) Rehabilitation-this refers to rectifying adverse impacts by repairing or enhancing 
+the affected resources; 
+g) Restoration-this is an extreme form of rehabilitation and typically requires an 
+extensive engineering of a selected resource to achieve what might be considered 
+original state. 
+h) Compensation-this refers to the awarding of financial or material benefits to 
+people affected by the project (especially those who have lost their homes and 
+livelihoods). 
+12. Archaeological Impact Assessment: A summary of the findings and recommendations 
+of the Archaeological Impact Assessment should be discussed. Reference should be 
+made to the detailed findings and recommendations which should form part of the 
+appendices. 
+13. Environmental and Social Management Plan (ESMP): EMP allocates responsibilities, 
+resources and attaches time frames. An important component of the EMP is the 
+monitoring programme to assess progress in the implementation of mitigation 
+measures and compliance of the project to regulations and standards. It is also 
+necessary to have a decommissioning (Remediation and rehabilitation) programme 
+for projects. The applicant should address impacts related to the decommissioning 
+phase and a plan for addressing such impacts should be incorporated into the ESMP. 
+The ESMP consist of the following components - 
+ impact mitigation plan; 
+ monitoring programme; 
+ decommissioning programme. 
+14. Conclusions and recommendations: Appropriate conclusions should be drawn from 
+the report. It is important to have these conclusions summarised in a series of brief 
+statements referring to relevant sections of the ESIA Report. This conclusion should 
+focus on the methodology, significant impacts, the measures proposed to avoid or 
+mitigate them and the impact management proposals for project implementation. This 
+section should also contain recommendations to the project
+=== PAGE 49 ===
+49 
+ESIA Regulations 2024 
+ 
+15. References: The report should have a list of references used in the study. 
+16. Appendices: Appendices contain information not directly useful in the text of a report 
+but needed for reference or detailed review by technical expects. The list of 
+appendices should include- 
+a) terms of reference for the study; 
+b) sources of data and information; 
+c) all individuals and agencies consulted for specialist information or knowledge 
+used in the report referred to in the text; written opinions received from outside 
+specialists; 
+d) field data collection programmes completed during the ESIA study; 
+e) findings of the Archaeological Impact Assessment; 
+f) detailed data reduced for use in the main body of the report; detailed technical 
+analysis of particular impacts (for example, pollution dispersal, soil erosion, 
+demands for social services); detailed location plan and technical maps, designs, 
+drawings, photographs, flow diagrams, etc.; 
+g) summary of the programme for consulting the public in project planning and 
+assessment, plus a complete record of all parties (stakeholders) consulted and 
+minutes of the meetings; 
+h) names, curriculum vitae and roles of the team members who carried out the study; 
+andany other relevant information 
+NB: The detail of information is expected to vary with proposed management actions, 
+complexity and likely impacts which come with different projects in different sectors 
+ 
+ 
+ 
+ 
+ 
+ 
+FOURTH SCHEDULE: ESIA EXPERTS 
+ 
+(Made under Regulations 47 (1) 
+ 
+QUALIFICATIONS FOR ENVIRONMENTAL AND SOCIAL ASSESSMENT AND 
+AUDITS EXPERTS 
+Local and foreign environmental assessment individuals and firms of experts wishing to 
+undertake Strategic Environmental Assessment, Environmental and Social 
+Impact 
+Assessment and/or environmental audit activities in Somalia shall register as experts with the 
+Ministry. 
+Upon meeting the qualifications set out below for both local and non-local Lead Expert, 
+Associate Expert and Firm of Experts, the application fees for registration and issuance of the 
+ESIA license fees in Somalia shall be paid to the Ministry of Finance with the procedural 
+approval of Ministry under these regulations. 
+ 
+ 
+ 
+The following shall be the criteria for registration of experts:
+=== PAGE 50 ===
+50 
+ESIA Regulations 2024 
+ 
+A Lead Expert 
+A Lead Expert must have attained the following qualifications: 
+Minimum of Master’s Degree or equivalent in any relevant field as set ESIA or 
+environmental audit from an accredited institution in accordance with requirements, with at 
+least five (5) years practical experience in environmental assessment related activities 
+including work experience, consultancy, training and research. 
+Registration fees for locals as a Lead Expert: Forty dollars ($40) 
+Registration fees for non-locals as a Lead Expert: Hundred dollars ($100) 
+ 
+ 
+B. Associate Expert 
+An Associate Expert must have attained the following qualifications: 
+A Bachelor’s Degree or equivalent in any relevant field as set out in Section D or a diploma 
+in any relevant field in addition to approved training in environmental and social assessment/ 
+audit from an accredited institution. 
+Registration fees for locals as an Associate Expert: Thirty dollars ($30) 
+Registration fees for non-locals as an Associate Expert: Seventy dollars ($70) 
+ 
+ 
+C. Firm of Experts 
+A firm of experts must meet the following conditions: 
+Must be registered in Somalia to offer environmental and social assessment expertise. 
+Must submit to the Ministry a firm profile indicating capacity of its directors, partners and 
+associates to undertake environmental assessment and audit studies. 
+ A Lead Expert who must be registered by the Ministry and must have a current 
+practicing licence. 
+ Foreign firms must demonstrate the contribution of local expertise. 
+Registration fees for firm of Experts-locals: Sixty dollars ($60) 
+ 
+Registration fees for firm of Experts- non-locals: one hundred and eighty dollars ($180) 
+ 
+ 
+ 
+D. Application for Renewal of Practicing Licence 
+ 
+Upon registration, all Experts shall apply for practicing Licence which should be renewed 
+annually. 
+ 
+Requirements for renewal of Licence: 
+ 
+-Payment receipts for the prescribed fees.
+=== PAGE 51 ===
+51 
+ESIA Regulations 2024 
+ 
+-A copy of licence of the previous year or a copy of the certificate of registration. 
+ 
+Licence renewal Fees - SOMALIA 
+ 
+Category 
+Locals 
+Non-locals 
+Associate Expert 
+$40 
+$100 
+Lead Expert 
+$50 
+$200 
+Firm of Experts 
+$240 
+$720 
+ 
+ 
+ 
+The Ministry shall acknowledge receipt of duly filled applications within fourteen (14) days. 
+Thereafter, issue Environmental Impact Assessment (EIA) licenses within 45-90 days as 
+stipulated in the Environmental Management Act. 
+ 
+ 
+Customer Obligation 
+ 
+Proponents are advised to apply for an EIA license at least ninety (90) days before project 
+commencement to allow adequate time for undertaking EIA review process. 
+Proponents are required to pay the prescribed fees on time 
+Proponents are required to provide all relevant support documents with no delay 
+The EIA experts doing the reports are expected to perform their duties with utmost 
+professionalism including providing accurate information on the proposed project. 
+ 
+ 
+ 
+ 
+ 
+E. Relevant Field of Expertise 
+Environmental Studies, Biological Sciences, Chemistry, Engineering (Civil, Agricultural, 
+Water, Process/Chemical), Geography, Earth Sciences, Biophysical Sciences, Natural 
+Sciences, Environmental Socio-Cultural Studies, Environmental Law or any other field 
+approved by the Authority on the recommendation of a Professional Body or the 
+Environmental Expert Advisory 
+ 
+VETTING. 
+ 
+Upon application, the applicant may be invited in person for an interview and screening by 
+the Registration Panel. 
+ 
+CONTINUING PROFESSIONAL DEVELOPMENT 
+ 
+Every Environmental and Social Assessment Expert shall each year attend at least one 
+relevant seminar organized by the recognized Environmental Professional Association in
+=== PAGE 52 ===
+52 
+ESIA Regulations 2024 
+ 
+consultation with the Ministry for the purposes of improving the professional expertise of its 
+members. 
+ 
+ 
+ 
+ 
+(Made under Regulations 49 (2) 
+ 
+CODE OF CONDUCT OF PRACTITIONERS REGISTERED UNDER THE ACT 
+ 
+Environmental Assessment experts shall carry  out their professional activities, as far as 
+possible, in accordance with emerging principles of sustainable development, the highest 
+standards of environmental conservation and quality, and in compliance with the letter and 
+intent of relevant environmental legislation.  
+ 
+i. 
+Environmental Assessment experts shall at all times place the integrity of the 
+environment, including conservation and sustainable use of the biophysical 
+environment and the social welfare, health and safety aspects of the socio-economic 
+environment, above any commitment to sectional or private interests.  
+ii. 
+Environmental Assessment experts shall ensure the incorporation of environmental 
+considerations from the earliest stages of project conception or policy development. 
+iii. 
+Environmental Assessment Experts shall not conduct professional activities in a 
+manner involving dishonesty, fraud, deceit, misrepresentation or bias.  
+iv. 
+Environmental Assessment Experts will clearly differentiate between facts and 
+opinions in their work 
+v. 
+Environmental Assessment Experts will, to the best of their ability, keep informed of 
+advances in environmental assessment practice, and will integrate such knowledge 
+into their professional activities. 
+vi. 
+Environmental Assessment Experts will inform a prospective client of any 
+professional or personal interests which may impair the objectivity of their work. 
+vii. 
+Environmental Assessment Experts will not seek employment, grants or gain, or 
+attempt to injure the reputation or opportunities for employment of another 
+environmental assessment practitioner by false, biased or undocumented claims or 
+accusations, by any other malicious action, or by offers of gifts or favours 
+viii. 
+Environmental Assessment Experts will, to the best of their ability, use the best 
+available information. 
+ix. 
+Environmental Assessment Experts should take responsibility for the findings of the 
+environmental assessment. (However, the Environmental Assessment Practitioners 
+cannot be held responsible for decisions made by other parties, purportedly based on 
+the findings of the environmental assessment). 
+x. 
+Environmental Assessment Experts must only undertake particular environmental and 
+social assessment work in apposition of responsible charge where they have the 
+relevant expertise and experience to undertake that work competently. 
+xi. 
+Environmental Assessment Experts shall not advertise their professional services in a
+=== PAGE 53 ===
+53 
+ESIA Regulations 2024 
+ 
+ 
+ 
+ 
+ 
+self-laudatory manner that may discredit the profession. 
+xii. 
+Environmental assessment practitioners shall not misrepresent or allow or permit 
+misrepresentation of their own or their associates' academic or professional 
+qualifications, or exaggerate their degree of responsibility for any work of a 
+professional nature. When requested to submit tender proposals, Environmental 
+Assessment Experts shall structure any offer in such a way as to enable them to 
+discharge their responsibilities to the client in every respect. 
+xiii. 
+Environmental Assessment Experts shall not review for a particular client the work of 
+ 
+No 
+Name of 
+Expert 
+Registration 
+No. 
+Annual 
+Practicing 
+Licence No. 
+Contact Address 
+Telephone No. 
+Email address 
+Area 
+of 
+specialization 
+Experience 
+Practicing 
+Status 
+ 
+ 
+another Environmental Assessment Experts except with the prior knowledge of such 
+person and affording such person reasonable opportunity to submit comments on the 
+findings of the review. 
+xiv. 
+Environmental Assessment Experts shall comply with the objectives of the ESIA 
+professional body 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORM 7 
+ 
+REGISTER OF ENVIRONMENTAL AND SOCIAL ASSESSMENT EXPERTS
+=== PAGE 54 ===
+54 
+ESIA Regulations 2024

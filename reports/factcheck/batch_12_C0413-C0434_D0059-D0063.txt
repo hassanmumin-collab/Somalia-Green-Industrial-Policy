@@ -1,0 +1,86 @@
+Independent fact-check, 2026-09-24, claims C-0413 to C-0434 and D-0059 to D-0063.
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0413: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0414: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0415: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0416: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. OCR page 90 rendered and read; 1994 historical price, not current.
+
+C-0418: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Single laboratory sample (Oman); B. carterii composition differs.
+
+C-0419: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0420: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0421: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. 'often imported from Kenya' refers to feared low-quality influx; p.15 says Jikokoa produced mainly in Kenya; fair reading.
+
+C-0422: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Third-party figure (Gold Standard project, via Ecologi website) cited by the TNA.
+
+C-0423: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Listed as adaptation action; 2021 NDC superseded by NDC 3.0.
+
+C-0424: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Table 2d covers FGS and five FMS (excludes Somaliland); preliminary, cash basis.
+
+C-0425: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0426: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0427: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0428: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0429: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0430: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0431: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0432: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0433: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0434: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. 2024 Est.; page does not state Somaliland coverage.
+
+D-0060: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Inputs rounded to whole KSh billion; ratio uncertain by about 0.01.
+
+D-0061: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. Same rounding caveat as D-0060.
+
+D-0062: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct. FAOSTAT weights are for animals slaughtered in Somalia; read as 2025 volumes, not a fixed annual rate.
+
+D-0063: PASS
+  Reason: Quote or formula confirmed at the cited source and page; statement, basis, period, measure, scope and currency correct.
+
+C-0417: FAIL
+  Reason: Statement dropped the source's hedges ('could be developed', 'the possibility of'); passage also covers opopanax.
+  Correction: "FAO judged that value-added processing of frankincense and myrrh in the country of origin could be developed and offers the possibility of modest foreign-exchange gains, since tradable volumes of oil or extract would be small but high in value."
+
+D-0059: QUERY
+  Reason: Arithmetic correct (0.0317). Scope mismatch undisclosed: numerator FGS plus five FMS, excludes Somaliland, preliminary, cash basis, may include export duties; denominator national BoP estimate f.o.b. while duties are on c.i.f. Reword as indicative with caveats.
+
+Summary: 25 pass, 1 fail, 1 query.

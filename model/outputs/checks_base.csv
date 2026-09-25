@@ -1,0 +1,205 @@
+check,item,model,reference,passed
+national equals sum of clusters,volume 2028,2892581.25,2892581.25,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,gross_output 2028,31333620.0,31333620.0,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,value_added 2028,7480044.0,7480044.0,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,indirect_va 2028,7065207.6,7065207.6,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,induced_va 2028,2165745.1830882356,2165745.1830882356,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,total_va 2028,16710996.783088237,16710996.783088235,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,household_income 2028,10026598.06985294,10026598.06985294,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,import_substitution 2028,12357780.0,12357780.0,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,exports 2028,17879100.0,17879100.0,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,imported_inputs 2028,7228347.0,7228347.0,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,forgone_exports 2028,4060260.0,4060260.0,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,net_fx 2028,18948273.0,18948273.0,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,jobs 2028,2675.52,2675.52,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,investment 2028,50280000.0,50280000.0,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,capital_goods_imports 2028,35196000.0,35196000.0,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,tax_gross 2028,467907.9099264706,467907.9099264706,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,customs_forgone 2028,395448.96,395448.96,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,tax_revenue 2028,72458.94992647058,72458.9499264706,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,net_fx 2028,18948273.0,18948273.0,True
+value added does not exceed gross output,2028,7480044.0,31333620.0,True
+national equals sum of clusters,volume 2029,9641937.5,9641937.5,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,gross_output 2029,104445400.0,104445400.0,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,value_added 2029,24933480.0,24933480.0,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,indirect_va 2029,23550692.0,23550692.0,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,induced_va 2029,7219150.6102941185,7219150.6102941185,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,total_va 2029,55703322.61029412,55703322.61029412,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,household_income 2029,33421993.566176467,33421993.56617647,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,import_substitution 2029,41192600.0,41192600.0,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,exports 2029,59597000.0,59597000.0,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,imported_inputs 2029,24094490.0,24094490.0,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,forgone_exports 2029,13534200.0,13534200.0,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,net_fx 2029,63160910.0,63160910.0,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,jobs 2029,6242.88,6242.88,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,investment 2029,67040000.0,67040000.0,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,capital_goods_imports 2029,46928000.0,46927999.99999999,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,tax_gross 2029,1559693.0330882354,1559693.0330882354,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,customs_forgone 2029,1318163.2000000002,1318163.2000000002,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,tax_revenue 2029,241529.83308823538,241529.83308823535,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,net_fx 2029,63160910.0,63160910.0,True
+value added does not exceed gross output,2029,24933480.0,104445400.0,True
+national equals sum of clusters,volume 2030,18319681.25,18319681.25,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,gross_output 2030,198446260.0,198446260.0,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,value_added 2030,47373612.0,47373612.0,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,indirect_va 2030,44746314.8,44746314.8,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,induced_va 2030,13716386.159558825,13716386.159558825,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,total_va 2030,105836312.95955883,105836312.95955881,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,household_income 2030,63501787.7757353,63501787.77573529,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,import_substitution 2030,78265940.0,78265940.0,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,exports 2030,113234300.0,113234300.0,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,imported_inputs 2030,45779531.0,45779531.0,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,forgone_exports 2030,25714980.0,25714980.0,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,net_fx 2030,120005729.0,120005729.0,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,jobs 2030,10702.08,10702.08,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,investment 2030,83800000.0,83800000.0,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,capital_goods_imports 2030,58660000.0,58660000.0,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,tax_gross 2030,2963416.762867647,2963416.762867647,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,customs_forgone 2030,2504510.08,2504510.08,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,tax_revenue 2030,458906.68286764727,458906.6828676474,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,net_fx 2030,120005729.0,120005729.0,True
+value added does not exceed gross output,2030,47373612.0,198446260.0,True
+national equals sum of clusters,volume 2031,26997425.0,26997425.0,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,gross_output 2031,292447120.0,292447120.0,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,value_added 2031,69813744.0,69813744.0,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,indirect_va 2031,65941937.599999994,65941937.599999994,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,induced_va 2031,20213621.708823532,20213621.708823532,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,total_va 2031,155969303.30882353,155969303.30882353,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,household_income 2031,93581581.9852941,93581581.9852941,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,import_substitution 2031,115339280.0,115339280.0,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,exports 2031,166871600.0,166871600.0,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,imported_inputs 2031,67464572.0,67464572.0,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,forgone_exports 2031,37895760.0,37895760.0,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,net_fx 2031,176850548.0,176850548.0,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,jobs 2031,14269.44,14269.44,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,investment 2031,67040000.00000003,67040000.00000003,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,capital_goods_imports 2031,46928000.000000015,46928000.000000015,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,tax_gross 2031,4367140.492647059,4367140.492647059,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,customs_forgone 2031,3690856.96,3690856.9600000004,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,tax_revenue 2031,676283.5326470593,676283.5326470593,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,net_fx 2031,176850548.0,176850548.0,True
+value added does not exceed gross output,2031,69813744.0,292447120.0,True
+national equals sum of clusters,volume 2032,34710975.0,34710975.0,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,gross_output 2032,376003440.0,376003440.0,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,value_added 2032,89760528.0,89760528.0,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,indirect_va 2032,84782491.2,84782491.2,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,induced_va 2032,25988942.197058827,25988942.197058827,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,total_va 2032,200531961.3970588,200531961.3970588,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,household_income 2032,120319176.83823529,120319176.83823529,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,import_substitution 2032,148293360.0,148293360.0,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,exports 2032,214549200.0,214549200.0,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,imported_inputs 2032,86740164.0,86740164.0,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,forgone_exports 2032,48723120.0,48723120.0,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,net_fx 2032,227379276.0,227379276.0,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,jobs 2032,17836.8,17836.8,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,investment 2032,67039999.999999985,67039999.999999985,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,capital_goods_imports 2032,46927999.999999985,46927999.999999985,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,tax_gross 2032,5614894.919117647,5614894.919117647,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,customs_forgone 2032,4745387.52,4745387.5200000005,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,tax_revenue 2032,869507.3991176471,869507.3991176472,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+national equals sum of clusters,net_fx 2032,227379276.0,227379276.0,True
+value added does not exceed gross output,2032,89760528.0,376003440.0,True
+domestic sales of soap within current imports,"2032: soap imports 2023, lower bound (D-0018)",10800000.0,20900000.0,True
+domestic sales of diapers within current imports,"2032: HS 9619 imports 2023, lower bound (D-0021)",8497440.0,29100000.0,True
+domestic sales of garments within current imports,"2032: apparel imports 2023, lower bound (D-0023)",34560000.0,134800000.0,True
+domestic sales of flour within current imports,2032: wheat flour imports 2024 (C-0142),46080000.0,133564000.0,True
+domestic sales of dairy within current imports,2032: whole milk powder imports 2024 (C-0139),12597120.0,200000000.0,True
+domestic sales of sesame_oil within current imports,"2032: palm oil and vegetable oil imports 2024 (C-0148, C-0149)",2381400.0,237218930.0,True
+sesame seed needed within production estimate,2032 against C-0127,18900.0,16543.0,False
+sesame seed needed within production estimate,2032 against C-0157,18900.0,50000.0,True
+fish processed within estimated domestic catch,2032 against C-0153,32400.0,50000.0,True
+"chilled meat within a quarter of cattle and camel offtake (slaughter plus live exports, carcass weight)","2032 against C-0411, C-0412, C-0055, C-0056",20250.0,162240.962,True
+chilled meat exports within a fifth of GCC chilled beef imports (tonnes),2032 against D-0063,19237.5,156599.0,True
+animals diverted from live export within current live cattle and camel exports (carcass weight),2032 against D-0062,8100.0,56789.0,True
+aromatics output value within pre-drought frankincense production value,2032 against C-0413,9072000.0,80000000.0,True
+fish processed within NTP 2029 fish production target,2032 against C-0180,32400.0,240000.0,True

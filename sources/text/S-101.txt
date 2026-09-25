@@ -1,0 +1,7507 @@
+=== PAGE 1 ===
+CLEAN DEVELOPMENT MECHANISM 
+ 
+ 
+CDM-MP96-A03 
+  
+Information note 
+Development of default values for fraction 
+of non-renewable biomass 
+Version 02.0
+=== PAGE 2 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+ 
+COVER NOTE 
+1. 
+Procedural background 
+1. 
+The Executive Board of the clean development mechanism (CDM) (hereinafter referred to 
+as the Board), at its 116th meeting, considered the information on development of accurate 
+and reliable region-specific default values for fraction of non-renewable biomass (fNRB) 
+that can be applied in methodologies for clean cooking and requested the MP to develop 
+subnational/regional values of fNRB, building on scientific studies and engaging external 
+experts. The Board highlighted that such default values should be consistent with the 
+methods contained in "TOOL30 Calculation of the fraction of non-renewable biomass" 
+(hereinafter referred to as TOOL30). In this regard, the Board requested the 
+Methodologies Panel (MP) to prepare a concept note based on the work undertaken for 
+consideration by the Board at a future meeting. The Board further requested the MP to 
+propose a revision to TOOL30 and/or related methodologies/tools if there is a need to 
+further clarify and/or revise elements of TOOL30 or related methodologies/tools, in light of 
+the work undertaken on default values. 
+2. 
+The MP launched a call for stakeholder inputs on the info note: Default values for fraction 
+of non-renewable biomass (fNRB)”, as contained in MP 92 Annex 7 from 13 October 2023 
+to 31 January 2024. 
+3. 
+At its 122nd meeting (EB 122 meeting report, para, 23), the Board took note of the 
+information note on “Stakeholder inputs on the review of clean cooking methodologies 
+including estimation of fNRB values”, as contained in annex 4 to the MP 94 meeting report 
+and requested the MP to continue to consider the issue and make a recommendation at 
+its next meeting for the consideration of the Board. 
+4. 
+The MP launched a call for stakeholder inputs on the updated revised report from the 
+experts on the "Default values for fraction of non-renewable biomass (fNRB)" from 21 June 
+to 9 August 2024. 
+5. 
+At its 123rd meeting (EB123 meeting report, para. 28), the Board took note of the 
+information note on “Stakeholder inputs on the review of clean cooking methodologies 
+including estimation of fNRB values”, as contained in annex 4 to the MP 95 meeting report 
+and requested the MP to continue to consider the issues and make a recommendation for 
+the consideration of the Board at its next meeting. 
+2. 
+Purpose 
+6. 
+The purpose of this information note is to address the mandate provided at EB116 (i.e. 
+develop subnational, national, regional and global default values of fNRB) and provide a 
+recommendation to the Board on the default values of fNRB and TOOL 33: Default values 
+for common parameters” (hereinafter referred to as TOOL33).
+=== PAGE 3 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+ 
+3. 
+Key issues and proposed solutions 
+7. 
+CDM programmes of activities (PoAs) have a high share of efficient cookstove projects 
+which reduce consumption of non-renewable biomass. The fNRB, as opposed to what can 
+be sustainably harvested, is one of the key parameters for calculating emission reduction 
+in the methodologies for efficient cookstoves such as “AMS‐II.G. Energy efficiency 
+measures in thermal applications of non‐renewable biomass”, along with other parameters 
+such as the annual consumption of woody biomass and efficiency of devices. 
+8. 
+In accordance with TOOL30 for estimating fNRB, project participants currently have three 
+options when determining fNRB values: (a) Using a default value of 0.3; (b) Using pre‐
+approved default country‐specific values, known as the standardized baselines, where 
+available; or (c) Calculating project specific fNRB values using TOOL30. 
+9. 
+The current default value of 0.3 that can be applied globally was adopted by the Board at 
+its 97th meeting as a conservative default, taking into account literature available at that 
+time1. 
+10. 
+Over time, it became apparent that this universal default value of 0.3 has seldom been 
+applied in CDM projects and PoAs. Instead, most projects used either of the other two 
+options which yielded much higher and therefore less conservative values of the fNRB. In 
+addition, the data used to establish that default value, by now over a decade old, are likely 
+to be outdated as well as some of the data is based on very limited study and anecdotal 
+reporting. 
+11. 
+In that context, the EB116 requested the MP to develop subnational/regional values of 
+fNRB. External experts have been engaged to assist the work of the MP on this matter. 
+The report of the external experts is available in Appendix 3 to this document. 
+4. 
+Impacts 
+12. 
+The sub-national, national, regional and global default values of fNRB will ensure the 
+reliability of calculating emission reductions, reduce transaction cost and facilitate the 
+implementation of CDM project activities and PoAs in the household cookstove or water 
+purification sector. 
+5. 
+Subsequent work and timelines 
+13. 
+Based on the mandate received from the Board, the MP will undertake further work. 
+6. 
+Recommendations to the Board 
+14. 
+The MP recommends that the Board approve the default sub-national, national, regional 
+and global default values of fNRB for the countries respectively shown in Table 1 of 
+Appendix 1, Table 2 and Table 3 of Appendix 2. The MP agreed to include these default 
+values in TOOL33. the updated version of TOOL 332. National values may be used if it 
+can be justified that the project activity has an impact on fuelwood harvesting all over the 
+ 
+1 For example, Bailis, R.; Drigo, R.; Ghilardi, A. & Masera, O. (2015). The carbon footprint of traditional 
+woodfuels. Nature Climate Change, 5(3), pp. 266–272. This paper estimated that global fNRB value was 
+27 to 34 per cent, with large geographic variations. 
+2 Refer to Annex 4 of MP 96 meeting report.
+=== PAGE 4 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+ 
+host country. Where national/sub-national values are not listed in the aforementioned 
+tables, the project participant may use the relevant regional value in Table 1 of the 
+Appendix 2. 
+15. 
+Use of the sub-national values are recommended in principle, unless the applied 
+methodology/ies specifies the level (e.g. national). In addition, where sub-national values 
+are not listed, the national value may be used. In cases where neither the sub-national or 
+national values are listed, the regional value may be used. 
+16. 
+The choice between the national or sub-national level for the fNRB shall be selected 
+depending on the geographical boundary of the project activity. The final choice for the 
+relevant fNRB value may be made at the issuance stage once the area of implementation 
+of the project activity can be observed. 
+17. 
+The MP recommends the discontinuation of TOOL 30 with effect from 1 Jan 2026. 
+18. 
+The MP will update the relevant methodologies where the fNRB values are referred to. 
+19. 
+The MP is also of the view that the modelling fuelwood savings scenarios (MoFuSS) model 
+could be used by the Project Participants to define the appropriate geographic area around 
+the project site to develop a project specific fNRB. The MoFuSS model is open access 
+and accessible to public. 
+20. 
+The MP seeks further mandate to 
+(a) 
+Undertake additional work on the calculation of fNRB using the marginal approach; 
+the fNRB values estimated so far determines the share of the current fuelwood 
+harvest taking place in elemental areas (pixels) where overharvesting can be 
+observed. The marginal fNRB value reflects the fact that reduction of fuelwood 
+harvest triggered by a project activity does not uniformly impact the harvesting 
+activity in each elemental area uniformly and therefore results in a different fNRB 
+for the reduced amount of fuelwood due to the implementation of the project 
+activity. MoFuSS can be used to provide some information on this issue; 
+(b) 
+Explore further the data on the calculation of urban fNRB and the localisation of 
+wood harvesting for charcoal production supplying the urban areas; and 
+(c) 
+Assess the optimal geographical disaggregation for the estimation of fNRB values 
+taking into account e.g. the uncertainty level of estimates at different geographical 
+levels and fuelwood and charcoal flows between different sub-national jurisdictions 
+or across national borders. 
+21. 
+The MP noted that the availability of data on demand for woodfuel and on the growth rates 
+of forests is limited, which adds to the uncertainty of the fNRB values. The MP would like 
+to request the Board to make a call to other agencies and entities to enhance their efforts 
+to collect such data.
+=== PAGE 5 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+ 
+5 of 70 
+TABLE OF CONTENTS 
+ 
+Page 
+1. 
+PROCEDURAL BACKGROUND ...............................................................................  
+6 
+2. 
+PURPOSE ..................................................................................................................  
+6 
+3. 
+KEY ISSUES AND PROPOSED SOLUTIONS .........................................................  
+6 
+3.1. 
+Existing approach to calculate fNRB ..............................................................  
+6 
+3.2. 
+Key changes between the report submitted in October 2023 and the 
+current report ..................................................................................................  
+7 
+3.3. 
+Approach to develop new default values of fNRB .........................................  
+8 
+3.3.1. 
+Key assumptions in MoFuSS Estimation of woody biomass 
+supply and accessibility ................................................................  
+9 
+3.3.2. 
+Estimation of current and projected demand for woodfuel ...........  
+11 
+3.3.3. 
+Other considerations .....................................................................  
+12 
+3.4. 
+Results of fNRB values ..................................................................................  
+13 
+4. 
+IMPACTS ....................................................................................................................  
+20 
+5. 
+RECOMMENDATIONS TO THE BOARD .................................................................  
+20 
+APPENDIX 1. 
+SUB-NATIONAL FNRB VALUES ............................................................  
+22 
+APPENDIX 2. 
+VALUES FOR FRACTION OF NON-RENEWABLE BIOMASS-
+REGIONAL AND NATIONAL VALUES...................................................  
+67 
+APPENDIX 3. 
+REPORT FROM EXTERNAL EXPERTS, JUNE 2024 ............................  
+70
+=== PAGE 6 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+6 of 70 
+1. 
+Procedural background 
+1. 
+The Executive Board of the clean development mechanism (CDM) (hereinafter referred to 
+as the Board), at its 116th meeting, considered the information on development of accurate 
+and reliable region-specific default values for fraction of non-renewable biomass (fNRB) 
+that can be applied in methodologies for clean cooking and requested the MP to develop 
+subnational/regional values of fNRB, building on scientific studies and engaging external 
+experts. The Board highlighted that such default values should be consistent with the 
+methods contained in "TOOL30 Calculation of the fraction of non-renewable biomass" 
+(hereinafter referred to as TOOL30). In this regard, the Board requested the 
+Methodologies Panel (MP) to prepare a concept note based on the work undertaken for 
+consideration by the Board at a future meeting. The Board further requested the MP to 
+propose a revision to TOOL30 and/or related methodologies/tools if there is a need to 
+further clarify and/or revise elements of TOOL30 or related methodologies/tools, in light of 
+the work undertaken on default values. 
+2. 
+The MP launched a call for stakeholder inputs on the info note: Default values for fraction 
+of non-renewable biomass (fNRB)”, as contained in MP 92 Annex 7 from 13 October 2023 
+to 31 January 2024. 
+3. 
+At its 122nd meeting (EB 122 meeting report, para, 23), the Board took note of the 
+information note on “Stakeholder inputs on the review of clean cooking methodologies 
+including estimation of fNRB values”, as contained in annex 4 to the MP 94 meeting report 
+and requested the MP to continue to consider the issue and make a recommendation at 
+its next meeting for the consideration of the Board. 
+4. 
+The MP launched a call for stakeholder inputs on the updated revised report from the 
+experts on the "Default values for fraction of non-renewable biomass (fNRB)" from 21 June 
+to 9 August 2024. 
+5. 
+At its 123rd meeting (EB123 meeting report, para. 28), the Board took note of the 
+information note on “Stakeholder inputs on the review of clean cooking methodologies 
+including estimation of fNRB values”, as contained in annex 4 to the MP 95 meeting report 
+and requested the MP to continue to consider the issues and make a recommendation for 
+the consideration of the Board at its next meeting. 
+2. 
+Purpose 
+6. 
+The purpose of this information note is to address the mandate provided at EB116 (i.e. 
+develop subnational, national, regional, global default values of fNRB) and provide a 
+recommendation to the Board on the default values of fNRB and TOOL 30. 
+3. 
+Key issues and proposed solutions 
+3.1. 
+Existing approach to calculate fNRB 
+7. 
+CDM programmes of activities (PoAs) have a high share of efficient cookstove projects 
+which reduce consumption of non-renewable biomass. The fNRB, as opposed to what can 
+be sustainably harvested, is one of the key parameters for calculating emission reduction 
+in the methodologies for efficient cookstoves such as “AMS‐II.G. Energy efficiency
+=== PAGE 7 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+7 of 70 
+measures in thermal applications of non‐renewable biomass”, along with other parameters 
+such as the annual consumption of woody biomass and efficiency of devices. 
+8. 
+In accordance with TOOL30 for estimating fNRB, project participants currently have three 
+options when determining fNRB values: (a) Using a default value of 0.3; (b) Using pre‐
+approved default country‐specific values, known as the standardized baselines, where 
+available; or (c) Calculating project specific fNRB values using TOOL30. 
+9. 
+The current default value of 0.3 that can be applied globally was adopted by the Board at 
+its 97th meeting as a conservative default, taking into account literature available at that 
+time1. 
+10. 
+Over time, it became apparent that this universal default value of 0.3 has seldom been 
+applied in CDM projects and PoAs. Instead, most projects used either of the other two 
+options which yielded much higher and therefore less conservative values of the fNRB. In 
+addition, the data used to establish that default value, by now over a decade old, are likely 
+to be outdated as well as some of the data is based on very limited study and anecdotal 
+reporting. 
+11. 
+In that context, the EB116 requested the MP to develop subnational/regional values of 
+fNRB. External experts have been engaged to assist the work of the MP on this matter. 
+The draft report of the external experts is available in Appendix 3 of this document. 
+12. 
+The sections below describe the approach used by the external experts to develop new 
+default values of fNRB. 
+3.2. 
+Key changes between the report submitted in October 2023 and the current 
+report 
+13. 
+After the preliminary fNRB results for Sub-Saharan Africa were submitted to the Board in 
+October 2023, several key assumptions were changed in response to stakeholders’ 
+inputs. In addition, the scope of the assessment was expanded to encompass the entire 
+Global South. These changes required the use of different input datasets and several 
+modifications to the model itself. 
+14. 
+For clarity, the most critical modifications and new datasets recently introduced, ranked 
+by their impact on the differences between the new results and those presented in October 
+2023 for Sub-Saharan Africa are as follows: 
+a) 
+Population 
+maps: 
+Transitioned 
+from 
+HSRL 
+to 
+WorldPop 
+(https://www.worldpop.org) to include countries not covered by HSRL, such as 
+China and others in Asia and Africa; 
+b) 
+Revegetation Growth Curves: The submodule for generating revegetation growth 
+curves was completely recoded. In the previous approach, growth functions were 
+estimated based on the IPCC’s biomass stock estimations. A few issues were 
+identified e.g. in very arid areas, it was found that available biomass was less than 
+the model’s minimum harvestable threshold (1 tonne/ha for charcoal production 
+ 
+1 For example, Bailis, R.; Drigo, R.; Ghilardi, A. & Masera, O. (2015). The carbon footprint of traditional 
+woodfuels. Nature Climate Change, 5(3), pp. 266–272. This paper estimated that global fNRB value was 
+27 to 34 per cent, with large geographic variations.
+=== PAGE 8 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+8 of 70 
+and 0.1 tonne/ha for gathered fuelwood), which caused the model to output 
+physically impossible negative harvest and fNRB values in a small number of 
+pixels2/elemental areas. This was corrected to avoid those outputs; 
+c) 
+Sub-region trade in Sub-Saharan Africa: The information from reviews of 
+international fuelwood trading in Sub-Saharan Africa was used to redefine the 
+boundaries across which trading can take place; 
+d) 
+Woodfuel consumption: All fuelwood and charcoal demand figures have been 
+thoroughly reviewed in response to stakeholder inputs. 
+3.3. 
+Approach to develop new default values of fNRB 
+15. 
+The assessment of fNRB values was conducted using the latest available data on woody 
+biomass supply and demand with the Geographic Information System (GIS) based model 
+called modelling fuelwood savings scenarios (MoFuSS). The model relies on the same 
+basic concepts used by the Woodfuels Integrated Supply/Demand Overview Mapping 
+(WISDOM) methodology, used to derive the results on which the current default value of 
+0.3 is based, with several key differences. Where WISDOM uses a snapshot in time, the 
+MoFuSS model runs simulations, which allow users to compare intervention (i.e actions 
+to reduce extraction on non-renewable biomass such as through efficient cook stove 
+projects) and non-intervention scenarios that incorporate dynamic variables such as 
+population growth, urbanization, and land cover change. 
+16. 
+In the first phase of the assessment, the model was run for 43 countries in Sub-Saharan 
+Africa. These countries/regions were selected as they account for the large majority of 
+CDM projects and PoAs in the pipeline. Subject to guidance from the Board, work will 
+continue to be conducted for the remaining countries/regions in the world; with the 
+possibility of further updates given new global datasets and assumptions become 
+available in the coming years. 
+17. 
+There are similarities and differences in the approach used in the assessment and the 
+approach defined in TOOL30. For example: 
+(a) 
+While TOOL30 defines biomass consumption on a jurisdictional basis (e.g. 
+districts, counties, or countries), the model used in the assessment calculates it at 
+pixel level (tonnes of dry biomass per hectare or km2) and then uses this data to 
+derive results at larger aggregation levels; 
+(b) 
+Both TOOL30 and the MoFuSS use biomass growth parameters such as Mean 
+Annual Increment (MAI) and Current Annual Increment (CAI) respectively, to 
+define long-term average wood growth. In case of TOOL30 biomass growth 
+parameters are applied to the entire land cover categories regardless of their 
+standing stock. In contrast, the new model relies on growth functions, which are 
+specific to land cover type and ecological zone and vary with current stock levels. 
+The model applies these functions at the pixel level, so that every pixel has a 
+unique woody biomass production function. Therefore, it is expected that the model 
+simulates biomass harvest and regrowth after harvest more realistically; 
+ 
+2 Pixels are the smallest unit of a digital image or display. In relation to elemental areas, a pixel represents 
+a discrete elemental area on a screen or sensor, where each pixel carries a single colour or intensity 
+value.
+=== PAGE 9 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+9 of 70 
+(c) 
+TOOL30 only considers accessibility in the sense that it removes protected areas 
+from consideration of biomass supply. MoFuSS also accounts for protected areas 
+but goes further by considering physical accessibility based on topographical 
+features and the effort that woodfuel users must expend to access sources of 
+woody biomass. 
+18. 
+There are multiple ways to use the changes in biomass simulated by MoFuSS to estimate 
+fNRB. In this assessment, fNRB has been estimated within a given administrative 
+boundary by identifying pixels within the boundary that experience biomass losses during 
+a specific timespan. This wood loss is defined as non-renewable biomass or NRB. To 
+estimate fNRB, the sum of losses occurring within the administrative boundary of interest 
+is divided by the total biomass harvest within that same boundary. Please refer to the 
+supplementary material of Ghilardi et al 20163 for a detailed description of how harvest 
+events and natural regrowth of woody biomass interact in MoFuSS over space and time 
+to render pixel-based results of NRB. 
+19. 
+In this assessment, the following steps were taken to develop fNRB values: 
+(a) 
+Create maps of woody biomass use from 2010 to 2030, using population 
+distribution maps, and woodfuel demand scenarios; 
+(b) 
+Create maps depicting where the woody biomass from the previous step is 
+coming from (i.e., where it is being harvested and/or collected in each year), using 
+accessibility functions that integrate recent globally harmonized maps of land 
+cover, biomass/carbon stocks, roads, rivers, elevation, and protected areas; this is 
+calculated for each and every single place using biomass; 
+(c) 
+Create maps of the potential regrowth and/or replenishment of woody 
+biomass in natural and anthropic ecosystems respectively, after being harvested 
+for fuelwood or charcoal; 
+(d) 
+Generate maps of woody biomass harvest, NRB, and fNRB between 2010 and 
+2030, at both the pixel and administrative level. 
+3.3.1. Key assumptions in MoFuSS Estimation of woody biomass supply and accessibility 
+20. 
+The MoFuSS relies on several dozen parameters to model land cover change associated 
+with woodfuel harvesting. The main assumptions that MoFuSS uses to estimate non-
+renewable biomass demand in a given locality are listed below. Full details of the following 
+parameters are in the Appendix 3: 
+(a) 
+Biomass stocks: This data informs how much biomass exists in a pixel in the initial 
+year of the simulation, which contributes to the available supply for harvesting and 
+the potential for future growth. There are several global maps of above-ground 
+biomass (AGB) available. Further details are provided in the Appendix 3 (Para 23); 
+ 
+3 https://docs.google.com/document/d/140duZZaBIUuCG7nvgHwsdw7Wkm2Nce7cenEpEHEvgqI/edit
+=== PAGE 10 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+10 of 70 
+(b) 
+Biomass growth functions: These functions rely on two important parameters: 
+annual growth rate and maximum stock within each pixel.4 We use the following 
+logistic (sigmoidal) growth function to simulate woody biomass growth in each pixel 
+and land-cover type; 
+𝐴𝐺𝐵(𝑡+1)𝑖,𝑗= 𝐴𝐺𝐵(𝑡)𝑖,𝑗+ 𝐴𝐺𝐵(𝑡)𝑖,𝑗⋅𝑟𝑚𝑎𝑥,𝑗⋅(1 −
+𝐴𝐺𝐵(𝑡)𝑖,𝑗
+𝐾𝑗
+) 
+Where: 
+○ 
+i and j are indices for pixel i in land cover type j 
+○ 
+ABG(t)i,j or ABG(t+1)i,j aboveground wood biomass in pixel i and land cover j 
+at time t or t+1 
+○ 
+rmax,j is the slope at the inflection point of the sigmoidal growth function, 
+which determines the maximum growth rate of woody biomass in each 
+land-cover type j 5 
+○ 
+Kj is the maximum woody biomass in land-cover type j (or “carrying 
+capacity”); 
+(c) 
+Biomass consumption Both current and future biomass consumption are 
+contributors to fNRB. Spatially modeling the impacts of biomass consumption 
+requires estimates of the quantity consumed and the location of consumers. To 
+estimate the quantity of wood and charcoal consumed, two simple parameters are 
+taken into consideration: the number of users and the amount per user. The 
+number of wood and charcoal users is based on WHO’s recently updated “Global 
+Household Energy Model”, which projects the number and percentage of people 
+using primary household cooking fuels in rural and urban areas of low- and middle-
+income countries.6 By not accounting for stacking, uncertainty in woodfuel demand 
+may be introduced. However, it is unclear whether this leads to underestimates or 
+overestimates. For example, a fraction of the people counted as “primary charcoal 
+users” may actually cook some of their meals with LPG or fuelwood and use less 
+charcoal than people counted as “primary charcoal users” who do not stack with 
+other fuels. In that case, the charcoal consumption could be overestimated. By the 
+same token, a fraction of the people counted as “primary LPG users” may cook 
+with some of their meals with charcoal and use less LPG than people counted as 
+“primary LPG users” who do not stack with other fuels. This could lead to an 
+underestimation of charcoal consumption. The same applies to other categories of 
+primary fuel users. There is very little reliable data on fuel consumption among fuel-
+stacking households; 
+(d) 
+Residential, commercial and industrial woodfuel consumption. 
+21. 
+Biomass stocks data tells us how much biomass exists in a pixel in the initial year of the 
+simulation, which contributes to the available supply for harvesting and the potential for 
+ 
+4 Pixel size can vary, but models are generally limited by the lowest resolution input file. For our regional 
+or global model, we use 1km x 1km pixels. However, for sub-national or project-scale models we could 
+use higher resolutions like 100m or 30m. 
+5 Note, rmax is not a direct estimate of the maximum growth rate. Rather, it is a parameter proportional to 
+the maximum growth rate such that maximum growth equals the product [¼ rmax K]. 
+6 Urban woodfuel users rely primarily on commercially supplied fuelwood and charcoal, which is usually 
+transported by road from distant rural areas. Rural users generally gather wood from nearby. These 
+different harvesting practices result in different geographic patterns of impacts, which we model using 
+different algorithms.
+=== PAGE 11 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+11 of 70 
+future growth. Among the several global maps of above-ground biomass available that 
+could be used in the model, the dataset provided by the World Conservation Monitoring 
+Centre (WCMC) was used. The map shows above- and below-ground carbon stocks in 
+tonnes per hectare from 2010 and the resolution is 300m. 
+22. 
+The biomass growth functions rely on two important parameters: annual growth rate and 
+maximum stock within each pixel. The specific growth functions were used to simulate 
+woody biomass growth in each pixel by land-cover type and ecological zone. 
+23. 
+The model focuses on stocks and growth rates of above-ground biomass, the main carbon 
+pool on which woodfuel users depend. However, other pools of terrestrial carbon like soil 
+organic carbon (SOC) and dead organic matter (DOM) may be affected by woodfuel 
+harvesting, particularly if harvesting leads to forest degradation or deforestation. The 
+model does not account for changes in SOC and only addresses DOM indirectly. 
+3.3.2. Estimation of current and projected demand for woodfuel 
+24. 
+Both current and future biomass consumption are contributors to fNRB. Spatial modelling 
+of the impacts of biomass consumption requires the estimates of the quantity consumed 
+and the location of consumers. To estimate the quantity of fuelwood and charcoal 
+consumed, the model relied on two simple parameters: the number of users and the 
+amount per user. The number of fuelwood and charcoal users is based on WHO’s 
+recently updated “Global Household Energy Model”, which projects the number and 
+percentage of people using primary household cooking fuels in rural and urban areas of 
+low- and middle-income countries.7 
+25. 
+The model focuses primarily on residential woodfuel demand. In some countries, wood 
+may be consumed by formal and cottage industries as well as commercial establishments. 
+The model does not include these sources of demand for several reasons: first, because 
+there is no reliable data for the use of wood by cottage industries and informal such as 
+brickmaking, fish smoking, beer brewing; second, while FAO publishes data on industrial 
+roundwood production, in most countries in sub-Saharan Africa, this accounts for less than 
+10% of the overall wood harvest. 
+26. 
+The MoFuSS model focuses primarily on residential woodfuel demand. In some countries, 
+there may be industrial or commercial use of wood that affects tree cover. In earlier 
+versions of MoFuSS, that data was omitted because of a lack of reliable data that would 
+allow mapping of demand in the same way that residential demand is mapped (described 
+below). However, in response to public comments, non-residential woodfuel demand from 
+commercial entities like hotels and restaurants, public institutions like schools, prisons, 
+and military barracks, and cottage industries like brick burning, ceramics, beer brewing, 
+and fish smoking among others were reviewed. To include these sources of demand, 
+limited literature review was undertaken that focused on sub-Saharan Africa. 
+27. 
+Accessibility to woody biomass was also accounted for by defining “friction” maps that 
+represent the effort that wood consumers must expend to travel to a given supply area. 
+These maps are derived by integrating road and river networks, land cover characteristics, 
+elevation, and protected areas. 
+ 
+7 World Health Organization. “Household Air Pollution Data.” Air pollution data portal, 2021. 
+https://www.who.int/data/gho/data/themes/air-pollution/household-air-pollution.
+=== PAGE 12 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+12 of 70 
+3.3.3. Other considerations 
+28. 
+Use of deforestation by-products: There are very few studies that have measured the 
+share of woody biomass cleared for agriculture that is used as firewood or charcoal. In 
+this assessment, it is assumed that 70% of the woody by-products of land clearance is 
+accessible in a given year, but that it is only available that year. This assumption has a 
+small impact on the overall results but may have a significant impact on fNRB estimations 
+being conservative in locations that experience high rates of tree cover loss in densely 
+populated areas. When running the model for this study, this function was not activated 
+because the algorithms used were not effective across very large regions. 
+Most countries included in this analysis experience some annual loss of tree cover, which 
+may contribute to long-term deforestation. These losses are identified by tracking annual 
+changes in canopy cover using remotely sensed data. Tree removals identified by 
+remotely-sensed changes in canopy cover are typically caused by land clearance for 
+large-and small-scale agricultural expansion rather than woodfuel harvesting. However, in 
+some situations, the by-products of land clearance are used for firewood or charcoal 
+production. When this occurs, the harvested biomass is non-renewable because land-
+clearance for agriculture makes it difficult for trees to regenerate; however, the biomass 
+does not contribute to (f)NRB because the trees would have been removed regardless of 
+woodfuel demand. Thus some fraction of demand might be satisfied with non-renewable 
+biomass that does not contribute to fNRB. The MoFuSS model includes an optional 
+module that simulates these processes and adjusts fNRB results accordingly. However, 
+for this assessment, this feature was not used due to a variety of reasons, which are 
+explained in the experts’ report8. 
+29. 
+Treatment of Protected Areas: Protected areas add some uncertainty because they often 
+contain large stocks of biomass, but the extent to which the biomass is accessible for use 
+as woodfuel is unclear. Some protected areas are completely inaccessible, others may be 
+used for low-level extractive activities like collecting wood for household use, and still 
+others might be legally inaccessible, but easily exploited due to poor enforcement. In this 
+assessment, it was considered that all protected areas are equally difficult (but not 
+impossible) to access for both self-collection and commercial extraction. This was 
+accomplished by increasing the “friction” or effort required to travel within the boundaries 
+of protected areas relative to unprotected areas with similar terrain. For this assessment, 
+friction was set at 90%, which means that the likelihood of wood harvesting within 
+protected areas was only 10% that of unprotected areas with similar terrain. 
+30. 
+National boundaries and trade: The sustainability of woodfuel consumption within national 
+boundaries can be affected by transboundary trade. For example, if woodfuel is imported 
+to Country A from neighbouring Country B, it relieves pressure on domestic sources of 
+woody biomass in Country A, but increases pressure on domestic sources of woody 
+biomass in Country B. The MoFuSS model can accommodate transnational trade; 
+however, it is difficult to model because there is no reliable data to verify the results. In 
+addition, for this analysis, Africa was divided into four sub-regions (East, Central, Southern 
+and West) to reduce the computing time necessary for each modelling run. Thus, while 
+transborder trade could occur between countries within each region, it could not occur 
+between countries in separate regions, even if they share a common border such as Chad 
+and Niger or Cameroon and Nigeria, because they were modelled separately. Modelling 
+the entire SSA region in one simulation will be carried out in the near future. For example, 
+ 
+8 https://cdm.unfccc.int/public_inputs/2024/202406/index.html.
+=== PAGE 13 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+13 of 70 
+if Country-A has a major source of demand like a large urban center close to its border 
+with Country-B, then it is possible that Country-A imports charcoal from Country-B. If that 
+occurs, then Country-A’s woodfuel supply-demand balance could be affected favorably 
+because those imports would reduce pressure on A’s own resources. By the same token, 
+Country-B’s balance would be affected negatively by the additional removals. 
+31. 
+In theory, MoFuSS can accommodate transnational trade; however, this is difficult in 
+practice because there is no reliable data quantifying the magnitude of the trade. FAO’s 
+forest statistics database  includes woodfuel imports and exports, but the accuracy of this 
+data is unclear and there is no information about trading partners 
+32. 
+In this analysis, separate regional models with semi-permeable national borders have 
+been run, resulting in some international flow of woodfuels within each region, but no flows 
+between regions. Within regions, crossing borders adds “friction” or travel time for wood 
+suppliers, making it more costly, but not impossible, for people to access wood in 
+neighboring countries. The final model includes a mix of individual countries and countries 
+clustered together to accommodate trade, where it is suspected to be a significant fraction 
+of overall woodfuel consumption. 
+3.4. 
+Results of fNRB values 
+33. 
+fNRB is defined at the pixel level for a given time period as: 
+𝑓𝑁𝑅𝐵(𝑡=𝑛),𝑗= 𝑁𝑅𝐵(𝑡=𝑛),𝑗
+𝐻𝑗
+ 
+Equation (1) 
+Where: 
+𝑓𝑁𝑅𝐵(𝑡=𝑛),𝑗 
+= 
+Fraction of non-renewable biomass (fraction or %) in pixel j during the 
+simulation period of “n” years 
+𝑁𝑅𝐵𝑗 
+= 
+Quantity of non-renewable biomass harvested in pixel j during the 
+simulation period of “n” years  
+𝐻𝑗 
+= 
+Total consumption of woody biomass in pixel j during the simulation 
+period of “n” years 
+And 
+𝑁𝑅𝐵𝑡=𝑛,𝑗= {
+0 𝑖𝑓 𝐴𝐺𝐵𝑡=𝑛,𝑗≥𝐴𝐺𝐵𝑡=0,𝑗
+𝐴𝐺𝐵𝑡=𝑛,𝑗−𝐴𝐺𝐵𝑡=0,𝑗 𝑖𝑓 𝐴𝐺𝐵𝑡=𝑛,𝑗< 𝐴𝐺𝐵𝑡=0,𝑗 
+Equation (2) 
+Where: 
+𝐴𝐺𝐵𝑡=0,𝑗 
+= 
+Above ground woody biomass in pixel j in the initial year of interest 
+𝐴𝐺𝐵𝑡=𝑛,𝑗 
+= 
+Above ground woody biomass in pixel j in the final year of interest 
+34. 
+The model simulates the supply and demand for the period 2010 – 2050. This is used to 
+estimate the fNRB values, which can be defined for the entire simulation, or divided into 
+smaller time periods. This experts’ report (in Appendix 3) presents the fNRB results for the 
+period 2020 – 2030 only. 
+35. 
+To be applied in projects or programmes of activity, fNRB must be aggregated from pixel-
+based values to a geographic area that is appropriate for the scale of the intervention,
+=== PAGE 14 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+14 of 70 
+which may be national or sub-national. To do this, the model aggregates NRB in each 
+pixel during the simulation period and divides that by total consumption during the same 
+time period within the same boundary. 
+𝑓𝑁𝑅𝐵(𝑡=𝑛),𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑎𝑟𝑒𝑎= ∑𝑁𝑅𝐵(𝑡=𝑛),𝑗
+𝑗
+∑𝐻𝑗
+𝑗
+⁄
+ 
+Equation (3) 
+36. 
+Figures 1, 2 and 3 below illustrate spatial averages of fNRB by national and sub-national 
+administrative boundaries. These results are mathematically derived from spatial raster 
+maps of woody biomass harvesting that leads to loss of tree cover. (the first administrative 
+level and the second administrative level) boundaries for 43 countries in Sub-Saharan 
+Africa. Appendix 2 shows a summary of results at the national level. 
+37. 
+The global, regional and national average values of fNRB are included here for illustrative 
+purposes. The MP considers that the sub-national values are more appropriate to assess 
+project-level impacts. These values are valid till 31 December 2030. 
+38. 
+The global average fNRB of the 75 countries included in the assessment is 32% ± 18% 
+(spatial mean ± standard deviation). 
+39. 
+Regionally, Sub-Saharan Africa (SSA) has the highest fNRB, at 39% ± 17%, followed by 
+Latin America and Asia, with 33% ± 14% and 17% ± 21% respectively. To estimate this 
+variation, 30 scenarios were run by varying the value of Rmax. These Rmax values were 
+derived from IPCC 2019 information. It needs to be noted that the information used in 
+IPCC has high uncertainty which is reflected in the standard deviations in the fNRB values. 
+Table 1. 
+Regional fNRB values 
+Region 
+fNRB (%) 
+Asia 
+17 
+Latin America 
+33 
+Sub-Saharan Africa 
+39 
+40. 
+At the national level, most of the fNRB values range between 1% and 70%, with the 
+interquartile range (25%-75%) falling between 21% and 40%. The highest national fNRB 
+estimates occur in semi-arid countries in the Sahel, followed by several countries in East 
+and Southern Africa and East Asia. 
+Table 2 
+National NRB values 
+Country 
+fNRB (%) 
+Afghanistan 
+10 
+Angola 
+27 
+Armenia 
+1 
+Azerbaijan 
+1 
+Bangladesh 
+39 
+Benin 
+34 
+Bhutan 
+30 
+Plurinational State of Bolivia 
+14
+=== PAGE 15 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+15 of 70 
+Country 
+fNRB (%) 
+Botswana 
+35 
+Brazil 
+13 
+Burkina Faso 
+36 
+Burundi 
+35 
+Côte d'Ivoire 
+19 
+Cambodia 
+20 
+Cameroon 
+38 
+Central African Republic 
+42 
+Chad 
+37 
+China 
+10 
+Colombia 
+7 
+Costa Rica 
+10 
+Democratic Republic of the Congo 
+42 
+Djibouti 
+1 
+Dominican Republic 
+43 
+Ecuador 
+28 
+Equatorial Guinea 
+31 
+Eritrea 
+30 
+Eswatini 
+16 
+Ethiopia 
+33 
+Gabon 
+18 
+Gambia 
+55 
+Georgia 
+1 
+Ghana 
+35 
+Guatemala 
+41 
+Guinea 
+37 
+Guinea-Bissau 
+34 
+Guyana 
+0 
+Haiti 
+59 
+Honduras 
+33 
+India 
+7 
+Indonesia 
+9 
+Islamic Republic of Iran 
+5 
+Iraq 
+1 
+Jamaica 
+38 
+Jordan 
+1 
+Kazakhstan 
+7 
+Kenya 
+29 
+Kyrgyzstan 
+25 
+Lao People’s Democratic Republic 
+47 
+Liberia 
+40 
+Mexico 
+30
+=== PAGE 16 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+16 of 70 
+Country 
+fNRB (%) 
+Madagascar 
+36 
+Malawi 
+48 
+Malaysia 
+39 
+Mali 
+45 
+Mauritania 
+65 
+Mongolia 
+12 
+Mozambique 
+38 
+Myanmar 
+36 
+Namibia 
+28 
+Nepal 
+45 
+Nicaragua 
+26 
+Niger 
+61 
+Nigeria 
+38 
+Pakistan 
+8 
+Panama 
+21 
+Papua New Guinea 
+8 
+Peru 
+4 
+Philippines 
+55 
+Republic of the Congo 
+16 
+Rwanda 
+33 
+Senegal 
+61 
+Sierra Leone 
+41 
+Somalia 
+64 
+South Africa 
+18 
+South Sudan 
+35 
+Sri Lanka 
+45 
+Sudan 
+50 
+Syrian Arab Republic 
+3 
+Tajikistan 
+19 
+United Republic of Tanzania 
+51 
+Thailand 
+20 
+Timor-Leste 
+39 
+Togo 
+46 
+Türkiye 
+13 
+Turkmenistan 
+0 
+Uganda 
+39 
+Uzbekistan 
+15 
+Viet Nam 
+36 
+Zambia 
+40 
+Zimbabwe 
+21 
+41. 
+The full list of sub-national fNRB values is included in Appendix 1. A few examples of sub-
+national values are listed below to showcase the range.
+=== PAGE 17 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+17 of 70 
+Table 3 
+Sub-national values9 
+Country 
+Sub-national 
+fNRB % 
+Burundi 
+Bujumbura Mairie 
+14 
+Burundi 
+Bujumbura Rural 
+38 
+Burundi 
+Bururi 
+38 
+Burundi 
+Cankuzo 
+35 
+Burundi 
+Cibitoke 
+35 
+Burundi 
+Gitega 
+31 
+Burundi 
+Karuzi 
+35 
+Burundi 
+Kayanza 
+31 
+Burundi 
+Kirundo 
+29 
+Burundi 
+Makamba 
+39 
+Burundi 
+Muramvya 
+31 
+Burundi 
+Muyinga 
+36 
+Burundi 
+Mwaro 
+31 
+Burundi 
+Ngozi 
+37 
+Burundi 
+Rutana 
+38 
+Burundi 
+Ruyigi 
+42 
+Cambodia 
+Bântéay Méanchey 
+11 
+Cambodia 
+Batdâmbâng 
+15 
+Cambodia 
+Kâmpóng Cham 
+14 
+Cambodia 
+Kâmpóng Chhnang 
+13 
+Cambodia 
+Kâmpóng Spœ 
+16 
+Cambodia 
+Kâmpóng Thum 
+20 
+Cambodia 
+Kâmpôt 
+17 
+Cambodia 
+Kândal 
+10 
+Cambodia 
+Kaôh Kong 
+41 
+Cambodia 
+Kep 
+10 
+Cambodia 
+Krâchéh 
+27 
+Cambodia 
+Krong Pailin 
+23 
+Cambodia 
+Krong Preah Sihanouk 
+33 
+ 
+9 These are few examples of sub-national values. The full list of sub-national values is in the Appendix 1. 
+Where sub-national values are not available for a particular country, project participants may refer to the 
+relevant regional values in Appendix 2.
+=== PAGE 18 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+18 of 70 
+Country 
+Sub-national 
+fNRB % 
+Cambodia 
+Môndól Kiri 
+40 
+Cambodia 
+Otdar Mean Chey 
+17 
+Cambodia 
+Phnom Penh 
+6 
+Cambodia 
+Pouthisat 
+19 
+Cambodia 
+Preah Vihéar 
+29 
+Cambodia 
+Prey Vêng 
+14 
+Cambodia 
+Rôtânôkiri 
+38 
+Cambodia 
+Siemréab 
+17 
+Cambodia 
+Stœng Trêng 
+31 
+Cambodia 
+Svay Rieng 
+34 
+Cambodia 
+Takêv 
+11 
+Cambodia 
+Tbong Khmum 
+24 
+42. 
+To estimate urban fNRB, it has been assumed that woodfuels consumed in towns and 
+cities are harvested and transported from the rural areas. As they are exploited 
+commercially, urban fuelwood and charcoal tend to have higher impact than wood 
+harvested for subsistence use by rural households. To account for this, the experts carried 
+out a simple statistical analysis that considered a weighted average of the rural 
+administrative units with higher fNRB. This resulted in urban fNRB values that are several 
+percentage points higher than the national average. For example, it was estimated that 
+Sierra Leone’s national fNRB is 40% ± 15%. fRNRB in its four main administrative units 
+ranges from 36% to 50%, and the fNRB in Freetown and other urban centers was 
+calculated to be 42% ± 15%. The MP, while acknowledging the work undertaken by the 
+experts, considers further analysis needs to be undertaken to assess the urban fNRB 
+values before it recommends the urban fNRB values to the Board. 
+43. 
+The experts’ determine also uncertainty levels for the fNRB estimates. 30 scenarios were 
+run for that purpose by varying the values of Rmax defining the shape of the growth curves 
+in the different ecological zones. These Rmax values were derived from IPCC 2019 
+information. It needs to be noted that the information provided by IPCC has high 
+uncertainty (standard deviation similar to the average value) which results in high 
+uncertainty for fNRB estimates. The panel is of the view that these uncertainty levels, due 
+to the lack of detailed information about basic parameters like the growth rate of various 
+forest types would be difficult to apply to conservatively adjust the fNRB central values 
+calculated with the model.
+=== PAGE 19 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+19 of 70 
+Figure 1. 
+National fNRB values at the country level averaged for the period 2020-2030 (new figure 
+below replacing the previous figure) 
+Figure 2. 
+fNRB values at the first administrative level for the period 2020-2030 (new figure below 
+replacing the previous figure)
+=== PAGE 20 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+20 of 70 
+Figure 3. 
+fNRB values at the second administrative level for the period 2020-2030  
+(new figure below replacing the previous figure) 
+ 
+44. 
+By examining the maps above, it is clear that there is spatial variation across all world 
+regions mostly in Africa. For example, Southern Africa has lower fNRB than the other sub-
+regions. There is also variation across countries within sub-regions, and within countries 
+at sub-national levels. There are many factors that could drive this variation, including 
+infrastructure and accessibility, population density, tree cover at the start of the simulation, 
+and woodfuel demand trajectories predicted by WHO’s database. All of the causes of 
+spatial variation are not covered in this report. However, some differences are likely driven 
+by a few key variables. For example, the lower fNRB outcomes in Southern African 
+countries are very likely due to lower demand relative to supply than in other sub-regions. 
+In the case of South Africa and Kenya, both countries have populations of over 50 million 
+people, and both have substantial areas of arid or semi-arid land with little or no tree cover. 
+The WHO estimates that in 2020, roughly 5 million people in South Africa used woodfuels 
+as their primary cooking fuel. In contrast, in Kenya (less than half the size of South Africa), 
+over 40 million people used woodfuels as their primary cooking fuel. 
+4. 
+Impacts 
+45. 
+National/sub-national values of fNRB will ensure the reliability of calculating emission 
+reductions, reduce transaction cost and facilitate the implementation of CDM project 
+activities and PoAs in the household cookstove or water purification sector. 
+5. 
+Recommendations to the Board 
+46. 
+The MP recommends that the Board approve the default sub-national, national and 
+regional values of fNRB for the countries respectively shown in Table 1 of Appendix 1, 
+Table 2 and Table 3 of Appendix 2 and also included in the updated version of TOOL 33- 
+Default values for common parameters10. National values may be used if it can be justified 
+that the project activity has an impact on fuelwood harvesting all over the host country. 
+ 
+10 Refer to Annex 4 of MP 96 meeting report.
+=== PAGE 21 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+21 of 70 
+Where national/sub-national values are not listed in the aforementioned tables, the project 
+participant may use the relevant regional value in Table 1 of the Appendix 2. 
+47. 
+Use of the sub-national values are recommended in principle, unless the applied 
+methodology/ies specifies the level (e.g. national). In addition, where sub-national values 
+are not listed, the national value may be used. In cases where neither the sub-national or 
+national values are listed, the regional value may be used. 
+48. 
+The choice between the national or sub-national level for the fNRB shall be selected 
+depending on the geographical boundary of the project activity. The final choice for the 
+relevant fNRB value may be made at the issuance stage once the area of implementation 
+of the project activity can be observed. 
+49. 
+The MP recommends the discontinuation of TOOL 30 with effect from 1 Jan 2026. 
+50. 
+The MP will update the relevant methodologies where the fNRB values are referred to. 
+51. 
+The MP is also of the view that the MoFuSS model could be used by the Project 
+Participants to define the appropriate geographic area around the project site to develop 
+a project specific fNRB. The MoFuSS model is open access and accessible to public. 
+52. 
+The MP seeks further mandate to 
+(a) 
+Undertake additional work on the calculation of fNRB using the marginal approach; 
+the fNRB values estimated so far determines the share of the current fuelwood 
+harvest taking place in elemental areas (pixels) where overharvesting can be 
+observed. The marginal fNRB value reflects the fact that reduction of fuelwood 
+harvest triggered by a project activity does not uniformly impact the harvesting 
+activity in each elemental area uniformly and therefore results in a different fNRB 
+for the reduced amount of fuelwood due to the implementation of the project 
+activity. MoFuSS can be used to provide some information on this issue; 
+(b) 
+Explore further the data on the calculation of urban fNRB and the localisation of 
+wood harvesting for charcoal production supplying the urban areas; and 
+(c) 
+Assess the optimal geographical disaggregation for the estimation of fNRB values 
+taking into account e.g. the uncertainty level of estimates at different geographical 
+levels and fuelwood and charcoal flows between different sub-national jurisdictions 
+or across national borders. 
+53. 
+The MP noted that the availability of data on demand for woodfuel and on the growth rates 
+of forests is limited, which adds to the uncertainty of the fNRB values. The MP would like 
+to request the Board to make a call to other agencies and entities to enhance their efforts 
+to collect such data.
+=== PAGE 22 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+22 of 70 
+Appendix 1. Sub-national fNRB values 
+Table 1  
+Default sub-national fNRB values11 
+Country 
+Sub-national 
+fNRB (%) 
+Afghanistan 
+Badakhshan 
+33 
+Afghanistan 
+Badghis 
+26 
+Afghanistan 
+Baghlan 
+12 
+Afghanistan 
+Balkh 
+1 
+Afghanistan 
+Bamyan 
+46 
+Afghanistan 
+Daykundi 
+44 
+Afghanistan 
+Farah 
+3 
+Afghanistan 
+Faryab 
+5 
+Afghanistan 
+Ghazni 
+11 
+Afghanistan 
+Ghor 
+51 
+Afghanistan 
+Hilmand 
+3 
+Afghanistan 
+Hirat 
+4 
+Afghanistan 
+Jawzjan 
+1 
+Afghanistan 
+Kabul 
+1 
+Afghanistan 
+Kandahar 
+1 
+Afghanistan 
+Kapisa 
+3 
+Afghanistan 
+Khost 
+8 
+Afghanistan 
+Kunar 
+34 
+Afghanistan 
+Kunduz 
+0 
+Afghanistan 
+Laghman 
+11 
+Afghanistan 
+Logar 
+0 
+Afghanistan 
+Nangarhar 
+3 
+Afghanistan 
+Nimroz 
+0 
+Afghanistan 
+Nuristan 
+36 
+Afghanistan 
+Paktika 
+3 
+Afghanistan 
+Paktya 
+6 
+Afghanistan 
+Panjshir 
+21 
+Afghanistan 
+Parwan 
+7 
+Afghanistan 
+Samangan 
+20 
+Afghanistan 
+Sari Pul 
+24 
+Afghanistan 
+Takhar 
+2 
+Afghanistan 
+Uruzgan 
+26 
+Afghanistan 
+Wardak 
+13 
+Afghanistan 
+Zabul 
+11 
+Angola 
+Bengo 
+26 
+ 
+11 Source: MoFuSS global simulations 1km 2010-2050 Values for 2020-2030 summary_adm0_fr.csv.
+=== PAGE 23 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+23 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Angola 
+Benguela 
+28 
+Angola 
+Bié 
+28 
+Angola 
+Cabinda 
+30 
+Angola 
+Cuando Cubango 
+25 
+Angola 
+Cuanza Norte 
+28 
+Angola 
+Cuanza Sul 
+30 
+Angola 
+Cunene 
+20 
+Angola 
+Huambo 
+25 
+Angola 
+Huíla 
+22 
+Angola 
+Luanda 
+23 
+Angola 
+Lunda Norte 
+30 
+Angola 
+Lunda Sul 
+34 
+Angola 
+Malanje 
+31 
+Angola 
+Moxico 
+36 
+Angola 
+Namibe 
+26 
+Angola 
+Uíge 
+28 
+Angola 
+Zaire 
+22 
+Armenia 
+Aragatsotn 
+0 
+Armenia 
+Ararat 
+0 
+Armenia 
+Armavir 
+0 
+Armenia 
+Erevan 
+0 
+Armenia 
+Gegharkunik 
+0 
+Armenia 
+Kotayk 
+0 
+Armenia 
+Lori 
+1 
+Armenia 
+Shirak 
+0 
+Armenia 
+Syunik 
+1 
+Armenia 
+Tavush 
+4 
+Armenia 
+Vayots Dzor 
+0 
+Azerbaijan 
+Absheron 
+0 
+Azerbaijan 
+Aran 
+0 
+Azerbaijan 
+Daglig-Shirvan 
+1 
+Azerbaijan 
+Ganja-Qazakh 
+1 
+Azerbaijan 
+Kalbajar-Lachin 
+7 
+Azerbaijan 
+Lankaran 
+3 
+Azerbaijan 
+Nakhchivan 
+0 
+Azerbaijan 
+Quba-Khachmaz 
+2 
+Azerbaijan 
+Shaki-Zaqatala 
+4 
+Azerbaijan 
+Yukhari-Karabakh 
+2 
+Bangladesh 
+Barisal 
+46 
+Bangladesh 
+Chittagong 
+72 
+Bangladesh 
+Dhaka 
+0 
+Bangladesh 
+Khulna 
+40
+=== PAGE 24 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+24 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Bangladesh 
+Mymensingh 
+2 
+Bangladesh 
+Rajshahi 
+0 
+Bangladesh 
+Rangpur 
+1 
+Bangladesh 
+Sylhet 
+21 
+Benin 
+Alibori 
+25 
+Benin 
+Atakora 
+32 
+Benin 
+Atlantique 
+30 
+Benin 
+Borgou 
+31 
+Benin 
+Collines 
+43 
+Benin 
+Donga 
+37 
+Benin 
+Kouffo 
+28 
+Benin 
+Littoral 
+0 
+Benin 
+Mono 
+28 
+Benin 
+Ouémé 
+30 
+Benin 
+Plateau 
+39 
+Benin 
+Zou 
+34 
+Bhutan 
+Bumthang 
+33 
+Bhutan 
+Chhukha 
+33 
+Bhutan 
+Dagana 
+32 
+Bhutan 
+Gasa 
+16 
+Bhutan 
+Haa 
+24 
+Bhutan 
+Lhuentse 
+30 
+Bhutan 
+Monggar 
+34 
+Bhutan 
+Paro 
+26 
+Bhutan 
+Pema Gatshel 
+37 
+Bhutan 
+Punakha 
+28 
+Bhutan 
+Samdrup Jongkhar 
+37 
+Bhutan 
+Samtse 
+31 
+Bhutan 
+Sarpang 
+34 
+Bhutan 
+Thimphu 
+25 
+Bhutan 
+Trashi Yangtse 
+28 
+Bhutan 
+Trashigang 
+30 
+Bhutan 
+Trongsa 
+32 
+Bhutan 
+Tsirang 
+36 
+Bhutan 
+Wangdue Phodrang 
+28 
+Bhutan 
+Zhemgang 
+39 
+Botswana 
+Central 
+27 
+Botswana 
+Chobe 
+19 
+Botswana 
+Francistown 
+10 
+Botswana 
+Gaborone 
+18 
+Botswana 
+Ghanzi 
+50 
+Botswana 
+Jwaneng 
+25
+=== PAGE 25 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+25 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Botswana 
+Kgalagadi 
+49 
+Botswana 
+Kgatleng 
+43 
+Botswana 
+Kweneng 
+44 
+Botswana 
+Lobatse 
+7 
+Botswana 
+North-East 
+18 
+Botswana 
+North-West 
+24 
+Botswana 
+Selibe Phikwe 
+10 
+Botswana 
+South-East 
+41 
+Botswana 
+Southern 
+45 
+Botswana 
+Sowa 
+9 
+Burkina Faso 
+Boucle du Mouhoun 
+28 
+Burkina Faso 
+Cascades 
+26 
+Burkina Faso 
+Centre 
+30 
+Burkina Faso 
+Centre-Est 
+29 
+Burkina Faso 
+Centre-Nord 
+55 
+Burkina Faso 
+Centre-Ouest 
+28 
+Burkina Faso 
+Centre-Sud 
+29 
+Burkina Faso 
+Est 
+35 
+Burkina Faso 
+Haut-Bassins 
+25 
+Burkina Faso 
+Nord 
+47 
+Burkina Faso 
+Plateau-Central 
+33 
+Burkina Faso 
+Sahel 
+63 
+Burkina Faso 
+Sud-Ouest 
+26 
+Burundi 
+Bubanza 
+37 
+Burundi 
+Bujumbura Mairie 
+14 
+Burundi 
+Bujumbura Rural 
+38 
+Burundi 
+Bururi 
+38 
+Burundi 
+Cankuzo 
+35 
+Burundi 
+Cibitoke 
+35 
+Burundi 
+Gitega 
+31 
+Burundi 
+Karuzi 
+35 
+Burundi 
+Kayanza 
+31 
+Burundi 
+Kirundo 
+29 
+Burundi 
+Makamba 
+39 
+Burundi 
+Muramvya 
+31 
+Burundi 
+Muyinga 
+36 
+Burundi 
+Mwaro 
+31 
+Burundi 
+Ngozi 
+37 
+Burundi 
+Rutana 
+38 
+Burundi 
+Ruyigi 
+42 
+Brazil 
+Acre 
+14 
+Brazil 
+Alagoas 
+9
+=== PAGE 26 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+26 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Brazil 
+Amapá 
+15 
+Brazil 
+Amazonas 
+17 
+Brazil 
+Bahia 
+12 
+Brazil 
+Ceará 
+11 
+Brazil 
+Distrito Federal 
+3 
+Brazil 
+Espírito Santo 
+12 
+Brazil 
+Goiás 
+8 
+Brazil 
+Maranhão 
+15 
+Brazil 
+Mato Grosso 
+12 
+Brazil 
+Mato Grosso do Sul 
+10 
+Brazil 
+Minas Gerais 
+13 
+Brazil 
+Pará 
+16 
+Brazil 
+Paraíba 
+11 
+Brazil 
+Paraná 
+17 
+Brazil 
+Pernambuco 
+11 
+Brazil 
+Piauí 
+13 
+Brazil 
+Rio de Janeiro 
+13 
+Brazil 
+Rio Grande do Norte 
+11 
+Brazil 
+Rio Grande do Sul 
+17 
+Brazil 
+Rondônia 
+12 
+Brazil 
+Roraima 
+18 
+Brazil 
+Santa Catarina 
+21 
+Brazil 
+São Paulo 
+11 
+Brazil 
+Sergipe 
+9 
+Brazil 
+Tocantins 
+10 
+Cambodia 
+Bântéay Méanchey 
+11 
+Cambodia 
+Batdâmbâng 
+15 
+Cambodia 
+Kâmpóng Cham 
+14 
+Cambodia 
+Kâmpóng Chhnang 
+13 
+Cambodia 
+Kâmpóng Spœ 
+16 
+Cambodia 
+Kâmpóng Thum 
+20 
+Cambodia 
+Kâmpôt 
+17 
+Cambodia 
+Kândal 
+10 
+Cambodia 
+Kaôh Kong 
+41 
+Cambodia 
+Kep 
+10 
+Cambodia 
+Krâchéh 
+27 
+Cambodia 
+Krong Pailin 
+23 
+Cambodia 
+Krong Preah Sihanouk 
+33 
+Cambodia 
+Môndól Kiri 
+40 
+Cambodia 
+Otdar Mean Chey 
+17 
+Cambodia 
+Phnom Penh 
+6 
+Cambodia 
+Pouthisat 
+19
+=== PAGE 27 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+27 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Cambodia 
+Preah Vihéar 
+29 
+Cambodia 
+Prey Vêng 
+14 
+Cambodia 
+Rôtânôkiri 
+38 
+Cambodia 
+Siemréab 
+17 
+Cambodia 
+Stœng Trêng 
+31 
+Cambodia 
+Svay Rieng 
+34 
+Cambodia 
+Takêv 
+11 
+Cambodia 
+Tbong Khmum 
+24 
+Cameroon 
+Adamaoua 
+40 
+Cameroon 
+Centre 
+43 
+Cameroon 
+Est 
+43 
+Cameroon 
+Extrême-Nord 
+33 
+Cameroon 
+Littoral 
+44 
+Cameroon 
+Nord 
+32 
+Cameroon 
+Nord-Ouest 
+26 
+Cameroon 
+Ouest 
+26 
+Cameroon 
+Sud 
+45 
+Cameroon 
+Sud-Ouest 
+45 
+Central African Republic 
+Bamingui-Bangoran 
+40 
+Central African Republic 
+Bangui 
+25 
+Central African Republic 
+Basse-Kotto 
+26 
+Central African Republic 
+Haut-Mbomou 
+51 
+Central African Republic 
+Haute-Kotto 
+52 
+Central African Republic 
+Kémo 
+45 
+Central African Republic 
+Lobaye 
+39 
+Central African Republic 
+Mambéré-Kadéï 
+43 
+Central African Republic 
+Mbomou 
+41 
+Central African Republic 
+Nana-Grébizi 
+48 
+Central African Republic 
+Nana-Mambéré 
+47 
+Central African Republic 
+Ombella-M'Poko 
+39 
+Central African Republic 
+Ouaka 
+35 
+Central African Republic 
+Ouham 
+47 
+Central African Republic 
+Ouham-Pendé 
+45 
+Central African Republic 
+Sangha-Mbaéré 
+42 
+Central African Republic 
+Vakaga 
+25 
+Chad 
+Barh el Ghazel 
+59 
+Chad 
+Batha 
+62 
+Chad 
+Borkou 
+0 
+Chad 
+Chari-Baguirmi 
+33 
+Chad 
+Ennedi Est 
+0 
+Chad 
+Ennedi Ouest 
+1 
+Chad 
+Guéra 
+28
+=== PAGE 28 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+28 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Chad 
+Hadjer-Lamis 
+62 
+Chad 
+Kanem 
+56 
+Chad 
+Lac 
+65 
+Chad 
+Logone Occidental 
+27 
+Chad 
+Logone Oriental 
+28 
+Chad 
+Mandoul 
+26 
+Chad 
+Mayo-Kebbi Est 
+21 
+Chad 
+Mayo-Kebbi Ouest 
+22 
+Chad 
+Moyen-Chari 
+21 
+Chad 
+Ouaddaï 
+65 
+Chad 
+Salamat 
+17 
+Chad 
+Sila 
+39 
+Chad 
+Tandjilé 
+21 
+Chad 
+Tibesti 
+0 
+Chad 
+Ville de N'Djamena 
+30 
+Chad 
+Wadi Fira 
+51 
+China 
+Anhui 
+12 
+China 
+Beijing 
+13 
+China 
+Chongqing 
+6 
+China 
+Fujian 
+12 
+China 
+Gansu 
+5 
+China 
+Guangdong 
+9 
+China 
+Guangxi 
+6 
+China 
+Guizhou 
+7 
+China 
+Hainan 
+12 
+China 
+Hebei 
+12 
+China 
+Heilongjiang 
+6 
+China 
+Henan 
+15 
+China 
+Hong Kong 
+11 
+China 
+Hubei 
+11 
+China 
+Hunan 
+9 
+China 
+Jiangsu 
+10 
+China 
+Jiangxi 
+11 
+China 
+Jilin 
+6 
+China 
+Liaoning 
+10 
+China 
+Macau 
+6 
+China 
+Nei Mongol 
+5 
+China 
+Ningxia Hui 
+5 
+China 
+Qinghai 
+1 
+China 
+Shaanxi 
+15 
+China 
+Shandong 
+15 
+China 
+Shanghai 
+7
+=== PAGE 29 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+29 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+China 
+Shanxi 
+13 
+China 
+Sichuan 
+7 
+China 
+Tianjin 
+6 
+China 
+Xinjiang Uygur 
+0 
+China 
+Xinjiang Uygur 
+0 
+China 
+Xinjiang Uygur 
+0 
+China 
+Xizang 
+1 
+China 
+Xizang 
+0 
+China 
+Xizang 
+0 
+China 
+Yunnan 
+10 
+China 
+Zhejiang 
+12 
+Costa Rica 
+Alajuela 
+9 
+Costa Rica 
+Cartago 
+15 
+Costa Rica 
+Guanacaste 
+8 
+Costa Rica 
+Heredia 
+13 
+Costa Rica 
+Limón 
+12 
+Costa Rica 
+Puntarenas 
+12 
+Costa Rica 
+San José 
+10 
+Colombia 
+Amazonas 
+7 
+Colombia 
+Antioquia 
+10 
+Colombia 
+Arauca 
+7 
+Colombia 
+AtlÃ¡ntico 
+3 
+Colombia 
+Bogota 
+3 
+Colombia 
+BolÃ-var 
+5 
+Colombia 
+BoyacÃ¡ 
+7 
+Colombia 
+Caldas 
+10 
+Colombia 
+CaquetÃ¡ 
+9 
+Colombia 
+CaquetÃ¡ 
+3 
+Colombia 
+Casanare 
+9 
+Colombia 
+Cauca 
+4 
+Colombia 
+Cesar 
+14 
+Colombia 
+Choca 
+2 
+Colombia 
+Cardoba 
+7 
+Colombia 
+Cundinamarca 
+7 
+Colombia 
+Guaina 
+9 
+Colombia 
+Guaviare 
+8 
+Colombia 
+Huila 
+4 
+Colombia 
+La Guajira 
+2 
+Colombia 
+Magdalena 
+2 
+Colombia 
+Meta 
+5 
+Colombia 
+Nariato 
+9 
+Colombia 
+Norte de Santader 
+10
+=== PAGE 30 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+30 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Colombia 
+Putumayo 
+12 
+Colombia 
+Quinda 
+8 
+Colombia 
+Risaralda 
+12 
+Colombia 
+San Adra  
+8 
+Colombia 
+Santander 
+9 
+Colombia 
+Sucre 
+1 
+Colombia 
+Tolima 
+6 
+Colombia 
+Valle del Cauca 
+7 
+Colombia 
+Vaupa 
+7 
+Colombia 
+Vichada 
+3 
+Congo 
+Bouenza 
+13 
+Congo 
+Brazzaville 
+4 
+Congo 
+Cuvette 
+16 
+Congo 
+Cuvette-Ouest 
+18 
+Congo 
+Kouilou 
+22 
+Congo 
+Lékoumou 
+21 
+Congo 
+Likouala 
+24 
+Congo 
+Niari 
+16 
+Congo 
+Plateaux 
+11 
+Congo 
+Pointe Noire 
+0 
+Congo 
+Pool 
+9 
+Congo 
+Sangha 
+24 
+Côte d'Ivoire 
+Abidjan 
+14 
+Côte d'Ivoire 
+Bas-Sassandra 
+18 
+Côte d'Ivoire 
+Comoé 
+17 
+Côte d'Ivoire 
+Denguélé 
+19 
+Côte d'Ivoire 
+Gôh-Djiboua 
+19 
+Côte d'Ivoire 
+Lacs 
+18 
+Côte d'Ivoire 
+Lagunes 
+19 
+Côte d'Ivoire 
+Montagnes 
+23 
+Côte d'Ivoire 
+Sassandra-Marahoué 
+20 
+Côte d'Ivoire 
+Savanes 
+19 
+Côte d'Ivoire 
+Vallée du Bandama 
+19 
+Côte d'Ivoire 
+Woroba 
+19 
+Côte d'Ivoire 
+Yamoussoukro 
+19 
+Côte d'Ivoire 
+Zanzan 
+17 
+Democratic Republic of the Congo 
+Bas-Uele 
+49 
+Democratic Republic of the Congo 
+Équateur 
+50 
+Democratic Republic of the Congo 
+Haut-Katanga 
+49 
+Democratic Republic of the Congo 
+Haut-Lomami 
+37 
+Democratic Republic of the Congo 
+Haut-Uele 
+43 
+Democratic Republic of the Congo 
+Ituri 
+41
+=== PAGE 31 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+31 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Democratic Republic of the Congo 
+Kasaï 
+39 
+Democratic Republic of the Congo 
+Kasaï-Central 
+36 
+Democratic Republic of the Congo 
+Kasaï-Oriental 
+34 
+Democratic Republic of the Congo 
+Kinshasa 
+26 
+Democratic Republic of the Congo 
+Kongo-Central 
+27 
+Democratic Republic of the Congo 
+Kwango 
+34 
+Democratic Republic of the Congo 
+Kwilu 
+32 
+Democratic Republic of the Congo 
+Lomami 
+28 
+Democratic Republic of the Congo 
+Lualaba 
+44 
+Democratic Republic of the Congo 
+Mai-Ndombe 
+43 
+Democratic Republic of the Congo 
+Maniema 
+44 
+Democratic Republic of the Congo 
+Mongala 
+47 
+Democratic Republic of the Congo 
+Nord-Kivu 
+42 
+Democratic Republic of the Congo 
+Nord-Ubangi 
+37 
+Democratic Republic of the Congo 
+Sankuru 
+46 
+Democratic Republic of the Congo 
+Sud-Kivu 
+42 
+Democratic Republic of the Congo 
+Sud-Ubangi 
+39 
+Democratic Republic of the Congo 
+Tanganyika 
+39 
+Democratic Republic of the Congo 
+Tshopo 
+50 
+Democratic Republic of the Congo 
+Tshuapa 
+51 
+Djibouti 
+Ali Sabieh 
+0 
+Djibouti 
+Arta 
+0 
+Djibouti 
+Dikhil 
+1 
+Djibouti 
+Djiboutii 
+0 
+Djibouti 
+Obock 
+0 
+Djibouti 
+Tadjoura 
+3 
+Dominican Republic 
+Azua 
+46 
+Dominican Republic 
+Bahoruco 
+46 
+Dominican Republic 
+Barahona 
+46 
+Dominican Republic 
+Dajabón 
+62 
+Dominican Republic 
+Distrito Nacional 
+11 
+Dominican Republic 
+Duarte 
+31 
+Dominican Republic 
+El Seybo 
+13 
+Dominican Republic 
+Espaillat 
+34 
+Dominican Republic 
+Hato Mayor 
+23 
+Dominican Republic 
+Independencia 
+59 
+Dominican Republic 
+La Altagracia 
+11 
+Dominican Republic 
+La Estrelleta 
+56 
+Dominican Republic 
+La Romana 
+17 
+Dominican Republic 
+La Vega 
+52 
+Dominican Republic 
+María Trinidad Sánchez 
+26 
+Dominican Republic 
+Monseñor Nouel 
+41
+=== PAGE 32 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+32 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Dominican Republic 
+Monte Cristi 
+50 
+Dominican Republic 
+Monte Plata 
+34 
+Dominican Republic 
+Pedernales 
+47 
+Dominican Republic 
+Peravia 
+37 
+Dominican Republic 
+Puerto Plata 
+45 
+Dominican Republic 
+Salcedo 
+33 
+Dominican Republic 
+Samaná 
+4 
+Dominican Republic 
+San Cristóbal 
+38 
+Dominican Republic 
+San José de Ocoa 
+39 
+Dominican Republic 
+San Juan 
+48 
+Dominican Republic 
+San Pedro de Macorís 
+28 
+Dominican Republic 
+Sánchez Ramírez 
+35 
+Dominican Republic 
+Santiago 
+46 
+Dominican Republic 
+Santiago Rodríguez 
+47 
+Dominican Republic 
+Santo Domingo 
+39 
+Dominican Republic 
+Valverde 
+50 
+Ecuador 
+Azuay 
+29 
+Ecuador 
+Bolivar 
+33 
+Ecuador 
+Cañar 
+30 
+Ecuador 
+Carchi 
+34 
+Ecuador 
+Chimborazo 
+29 
+Ecuador 
+Cotopaxi 
+32 
+Ecuador 
+El Oro 
+21 
+Ecuador 
+Esmeraldas 
+29 
+Ecuador 
+Galápagos 
+18 
+Ecuador 
+Guayas 
+21 
+Ecuador 
+Imbabura 
+34 
+Ecuador 
+Loja 
+18 
+Ecuador 
+Los Rios 
+25 
+Ecuador 
+Manabi 
+23 
+Ecuador 
+Morona Santiago 
+45 
+Ecuador 
+Napo 
+39 
+Ecuador 
+Orellana 
+36 
+Ecuador 
+Pastaza 
+43 
+Ecuador 
+Pichincha 
+31 
+Ecuador 
+Santa Elena 
+21 
+Ecuador 
+Santo Domingo de los Tsachilas 
+33 
+Ecuador 
+Sucumbios 
+38 
+Ecuador 
+Tungurahua 
+31 
+Ecuador 
+Zamora Chinchipe 
+34 
+Equatorial Guinea 
+Annobón 
+0 
+Equatorial Guinea 
+Bioko Norte 
+26
+=== PAGE 33 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+33 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Equatorial Guinea 
+Bioko Sur 
+31 
+Equatorial Guinea 
+Centro Sur 
+32 
+Equatorial Guinea 
+Kié-Ntem 
+29 
+Equatorial Guinea 
+Litoral 
+32 
+Equatorial Guinea 
+Wele-Nzas 
+31 
+Eritrea 
+Anseba 
+24 
+Eritrea 
+Debub 
+18 
+Eritrea 
+Debubawi Keyih Bahri 
+3 
+Eritrea 
+Gash Barka 
+53 
+Eritrea 
+Maekel 
+15 
+Eritrea 
+Semenawi Keyih Bahri 
+18 
+Eswatini 
+Hhohho 
+17 
+Eswatini 
+Lubombo 
+14 
+Eswatini 
+Manzini 
+17 
+Eswatini 
+Shiselweni 
+16 
+Ethiopia 
+Afar 
+50 
+Ethiopia 
+Amhara 
+23 
+Ethiopia 
+Benshangul-Gumaz 
+29 
+Ethiopia 
+Dire Dawa 
+19 
+Ethiopia 
+Gambela Peoples 
+40 
+Ethiopia 
+Harari People 
+18 
+Ethiopia 
+Oromia 
+30 
+Ethiopia 
+Somali 
+56 
+Ethiopia 
+Southern Nations Nationalities 
+29 
+Ethiopia 
+Tigray 
+29 
+Gabon 
+Addis Ababa 
+9 
+Gabon 
+Haut-Ogooué 
+17 
+Gabon 
+Moyen-Ogooué 
+14 
+Gabon 
+Ngounié 
+16 
+Gabon 
+Nyanga 
+15 
+Gabon 
+Ogooué-Ivindo 
+18 
+Gabon 
+Ogooué-Lolo 
+18 
+Gabon 
+Ogooué-Maritime 
+13 
+Gabon 
+Wouleu-Ntem 
+24 
+Georgia 
+Abkhazia 
+2 
+Georgia 
+Ajaria 
+1 
+Georgia 
+Guria 
+1 
+Georgia 
+Imereti 
+1 
+Georgia 
+Kakheti 
+0 
+Georgia 
+Kvemo Kartli 
+1 
+Georgia 
+Mtskheta-Mtianeti 
+1 
+Georgia 
+Racha-Lechkhumi-Kvemo Svaneti 
+0
+=== PAGE 34 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+34 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Georgia 
+Samegrelo-Zemo Svaneti 
+0 
+Georgia 
+Samtskhe-Javakheti 
+0 
+Georgia 
+Shida Kartli 
+0 
+Georgia 
+Tbilisi 
+4 
+Ghana 
+Ahafo 
+34 
+Ghana 
+Ashanti 
+37 
+Ghana 
+Bono 
+30 
+Ghana 
+Bono East 
+39 
+Ghana 
+Central 
+33 
+Ghana 
+Eastern 
+36 
+Ghana 
+Greater Accra 
+28 
+Ghana 
+North East 
+36 
+Ghana 
+Northern 
+41 
+Ghana 
+Oti 
+32 
+Ghana 
+Savannah 
+33 
+Ghana 
+Upper East 
+30 
+Ghana 
+Upper West 
+27 
+Ghana 
+Volta 
+33 
+Ghana 
+Western 
+32 
+Ghana 
+Western North 
+31 
+Gambia 
+Banjul 
+39 
+Gambia 
+Lower River 
+60 
+Gambia 
+Maccarthy Island 
+50 
+Gambia 
+North Bank 
+64 
+Gambia 
+Upper River 
+48 
+Gambia 
+Western 
+59 
+Guatemala 
+Alta Verapaz 
+30 
+Guatemala 
+Baja Verapaz 
+31 
+Guatemala 
+Chimaltenango 
+52 
+Guatemala 
+Chiquimula 
+33 
+Guatemala 
+El Progreso 
+39 
+Guatemala 
+Escuintla 
+30 
+Guatemala 
+Guatemala 
+36 
+Guatemala 
+Huehuetenango 
+42 
+Guatemala 
+Izabal 
+31 
+Guatemala 
+Jalapa 
+35 
+Guatemala 
+Jutiapa 
+35 
+Guatemala 
+Petén 
+28 
+Guatemala 
+Quezaltenango 
+47 
+Guatemala 
+Quiché 
+45 
+Guatemala 
+Retalhuleu 
+36 
+Guatemala 
+Sacatepéquez 
+56
+=== PAGE 35 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+35 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Guatemala 
+San Marcos 
+47 
+Guatemala 
+Santa Rosa 
+32 
+Guatemala 
+Sololá 
+54 
+Guatemala 
+Suchitepéquez 
+33 
+Guatemala 
+Totonicapán 
+62 
+Guatemala 
+Zacapa 
+36 
+Guinea 
+Boké 
+32 
+Guinea 
+Conakry 
+42 
+Guinea 
+Faranah 
+41 
+Guinea 
+Kankan 
+39 
+Guinea 
+Kindia 
+28 
+Guinea 
+Labé 
+42 
+Guinea 
+Mamou 
+38 
+Guinea 
+Nzérékoré 
+37 
+Guinea-Bissau 
+Bafatá 
+33 
+Guinea-Bissau 
+Biombo 
+35 
+Guinea-Bissau 
+Bissau 
+18 
+Guinea-Bissau 
+Bolama 
+23 
+Guinea-Bissau 
+Cacheu 
+34 
+Guinea-Bissau 
+Gabú 
+38 
+Guinea-Bissau 
+Oio 
+36 
+Guinea-Bissau 
+Quinara 
+23 
+Guinea-Bissau 
+Tombali 
+28 
+Guyana 
+Barima-Waini 
+0 
+Guyana 
+Cuyuni-Mazaruni 
+0 
+Guyana 
+Demerara-Mahaica 
+0 
+Guyana 
+East Berbice-Corentyne 
+0 
+Guyana 
+Essequibo Islands-West Demerara 
+0 
+Guyana 
+Mahaica-Berbice 
+0 
+Guyana 
+Pomeroon-Supenaam 
+0 
+Guyana 
+Potaro-Siparuni 
+0 
+Guyana 
+Upper Demerara-Berbice 
+0 
+Guyana 
+Upper Takutu-Upper Essequibo 
+0 
+Haiti 
+Centre 
+61 
+Haiti 
+Grand'Anse 
+65 
+Haiti 
+L'Artibonite 
+43 
+Haiti 
+Nippes 
+69 
+Haiti 
+Nord 
+71 
+Haiti 
+Nord-Est 
+64 
+Haiti 
+Nord-Ouest 
+63 
+Haiti 
+Ouest 
+25 
+Haiti 
+Sud 
+61
+=== PAGE 36 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+36 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Haiti 
+Sud-Est 
+66 
+Honduras 
+Atlántida 
+34 
+Honduras 
+Choluteca 
+31 
+Honduras 
+Colón 
+30 
+Honduras 
+Comayagua 
+34 
+Honduras 
+Copán 
+31 
+Honduras 
+Cortés 
+32 
+Honduras 
+El Paraíso 
+31 
+Honduras 
+Francisco Morazán 
+34 
+Honduras 
+Gracias a Dios 
+26 
+Honduras 
+Intibucá 
+36 
+Honduras 
+Islas de la Bahía 
+33 
+Honduras 
+La Paz 
+35 
+Honduras 
+Lempira 
+33 
+Honduras 
+Ocotepeque 
+34 
+Honduras 
+Olancho 
+32 
+Honduras 
+Santa Bárbara 
+34 
+Honduras 
+Valle 
+31 
+Honduras 
+Yoro 
+35 
+India 
+Andaman and Nicobar 
+28 
+India 
+Andhra Pradesh 
+6 
+India 
+Arunachal Pradesh 
+27 
+India 
+Arunachal Pradesh 
+28 
+India 
+Assam 
+24 
+India 
+Bihar 
+5 
+India 
+Chandigarh 
+2 
+India 
+Chhattisgarh 
+12 
+India 
+Dadra and Nagar Haveli 
+19 
+India 
+Daman and Diu 
+4 
+India 
+Goa 
+33 
+India 
+Gujarat 
+1 
+India 
+Haryana 
+0 
+India 
+Himachal Pradesh 
+17 
+India 
+Himachal Pradesh 
+0 
+India 
+Himachal Pradesh 
+0 
+India 
+Jammu and Kashmir 
+10 
+India 
+Jharkhand 
+16 
+India 
+Karnataka 
+5 
+India 
+Kerala 
+34 
+India 
+Lakshadweep 
+0 
+India 
+Madhya Pradesh 
+4 
+India 
+Maharashtra 
+4
+=== PAGE 37 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+37 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+India 
+Manipur 
+25 
+India 
+Meghalaya 
+28 
+India 
+Mizoram 
+31 
+India 
+Nagaland 
+27 
+India 
+NCT of Delhi 
+0 
+India 
+Odisha 
+19 
+India 
+Puducherry 
+13 
+India 
+Punjab 
+1 
+India 
+Rajasthan 
+0 
+India 
+Sikkim 
+23 
+India 
+Tamil Nadu 
+6 
+India 
+Telangana 
+2 
+India 
+Tripura 
+22 
+India 
+Uttar Pradesh 
+2 
+India 
+Uttarakhand 
+23 
+India 
+Uttarakhand 
+0 
+India 
+Uttarakhand 
+0 
+India 
+West Bengal 
+15 
+Indonesia 
+Aceh 
+10 
+Indonesia 
+Bali 
+6 
+Indonesia 
+Bangka Belitung 
+11 
+Indonesia 
+Banten 
+9 
+Indonesia 
+Bengkulu 
+11 
+Indonesia 
+Gorontalo 
+8 
+Indonesia 
+Jakarta Raya 
+0 
+Indonesia 
+Jambi 
+12 
+Indonesia 
+Jawa Barat 
+9 
+Indonesia 
+Jawa Tengah 
+8 
+Indonesia 
+Jawa Timur 
+8 
+Indonesia 
+Kalimantan Barat 
+11 
+Indonesia 
+Kalimantan Selatan 
+9 
+Indonesia 
+Kalimantan Tengah 
+12 
+Indonesia 
+Kalimantan Timur 
+11 
+Indonesia 
+Kalimantan Utara 
+12 
+Indonesia 
+Kepulauan Riau 
+8 
+Indonesia 
+Lampung 
+7 
+Indonesia 
+Maluku 
+12 
+Indonesia 
+Maluku Utara 
+12 
+Indonesia 
+Nusa Tenggara Barat 
+6 
+Indonesia 
+Nusa Tenggara Timur 
+3 
+Indonesia 
+Papua 
+10 
+Indonesia 
+Papua Barat 
+12
+=== PAGE 38 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+38 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Indonesia 
+Riau 
+12 
+Indonesia 
+Sulawesi Barat 
+11 
+Indonesia 
+Sulawesi Selatan 
+7 
+Indonesia 
+Sulawesi Tengah 
+11 
+Indonesia 
+Sulawesi Tenggara 
+10 
+Indonesia 
+Sulawesi Utara 
+11 
+Indonesia 
+Sumatera Barat 
+11 
+Indonesia 
+Sumatera Selatan 
+10 
+Indonesia 
+Sumatera Utara 
+10 
+Indonesia 
+Yogyakarta 
+7 
+Islamic Republic of Iran 
+Alborz 
+8 
+Islamic Republic of Iran 
+Ardebil 
+9 
+Islamic Republic of Iran 
+Bushehr 
+0 
+Islamic Republic of Iran 
+Chahar Mahall and Bakhtiari 
+8 
+Islamic Republic of Iran 
+East Azarbaijan 
+9 
+Islamic Republic of Iran 
+Esfahan 
+2 
+Islamic Republic of Iran 
+Fars 
+1 
+Islamic Republic of Iran 
+Gilan 
+18 
+Islamic Republic of Iran 
+Golestan 
+7 
+Islamic Republic of Iran 
+Hamadan 
+10 
+Islamic Republic of Iran 
+Hormozgan 
+0 
+Islamic Republic of Iran 
+Ilam 
+3 
+Islamic Republic of Iran 
+Kerman 
+1 
+Islamic Republic of Iran 
+Kermanshah 
+7 
+Islamic Republic of Iran 
+Khuzestan 
+1 
+Islamic Republic of Iran 
+Kohgiluyeh and Buyer Ahmad 
+2 
+Islamic Republic of Iran 
+Kordestan 
+10 
+Islamic Republic of Iran 
+Lorestan 
+8 
+Islamic Republic of Iran 
+Markazi 
+9 
+Islamic Republic of Iran 
+Mazandaran 
+18 
+Islamic Republic of Iran 
+North Khorasan 
+6 
+Islamic Republic of Iran 
+Qazvin 
+10 
+Islamic Republic of Iran 
+Qom 
+2 
+Islamic Republic of Iran 
+Razavi Khorasan 
+4 
+Islamic Republic of Iran 
+Semnan 
+2 
+Islamic Republic of Iran 
+Sistan and Baluchestan 
+0 
+Islamic Republic of Iran 
+South Khorasan 
+0 
+Islamic Republic of Iran 
+Tehran 
+5 
+Islamic Republic of Iran 
+West Azarbaijan 
+9 
+Islamic Republic of Iran 
+Yazd 
+0 
+Islamic Republic of Iran 
+Zanjan 
+11 
+Iraq 
+Al-Anbar 
+0
+=== PAGE 39 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+39 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Iraq 
+Al-Basrah 
+0 
+Iraq 
+Al-Muthannia 
+0 
+Iraq 
+Al-Qadisiyah 
+0 
+Iraq 
+An-Najaf 
+0 
+Iraq 
+Arbil 
+2 
+Iraq 
+As-Sulaymaniyah 
+2 
+Iraq 
+At-Ta'mim 
+1 
+Iraq 
+Babil 
+0 
+Iraq 
+Baghdad 
+0 
+Iraq 
+Dhi-Qar 
+0 
+Iraq 
+Dihok 
+6 
+Iraq 
+Diyala 
+1 
+Iraq 
+Karbala' 
+0 
+Iraq 
+Maysan 
+0 
+Iraq 
+Ninawa 
+1 
+Iraq 
+Sala ad-Din 
+0 
+Iraq 
+Wasit 
+0 
+Jamaica 
+Clarendon 
+34 
+Jamaica 
+Hanover 
+39 
+Jamaica 
+Kingston 
+41 
+Jamaica 
+Manchester 
+35 
+Jamaica 
+Portland 
+47 
+Jamaica 
+Saint Andrew 
+44 
+Jamaica 
+Saint Ann 
+38 
+Jamaica 
+Saint Catherine 
+39 
+Jamaica 
+Saint Elizabeth 
+34 
+Jamaica 
+Saint James 
+38 
+Jamaica 
+Saint Mary 
+43 
+Jamaica 
+Saint Thomas 
+44 
+Jamaica 
+Trelawny 
+39 
+Jamaica 
+Westmoreland 
+34 
+Jordan 
+Ajlun 
+8 
+Jordan 
+Amman 
+1 
+Jordan 
+Aqaba 
+0 
+Jordan 
+Balqa 
+1 
+Jordan 
+Irbid 
+1 
+Jordan 
+Jarash 
+8 
+Jordan 
+Karak 
+0 
+Jordan 
+Ma`an 
+0 
+Jordan 
+Madaba 
+2 
+Jordan 
+Mafraq 
+0 
+Jordan 
+Tafilah 
+0
+=== PAGE 40 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+40 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Jordan 
+Zarqa 
+0 
+Kazakhstan 
+Almaty 
+17 
+Kazakhstan 
+Aqmola 
+0 
+Kazakhstan 
+Aqtöbe 
+0 
+Kazakhstan 
+Atyrau 
+0 
+Kazakhstan 
+East Kazakhstan 
+7 
+Kazakhstan 
+Mangghystau 
+0 
+Kazakhstan 
+North Kazakhstan 
+11 
+Kazakhstan 
+Pavlodar 
+0 
+Kazakhstan 
+Qaraghandy 
+0 
+Kazakhstan 
+Qostanay 
+1 
+Kazakhstan 
+Qyzylorda 
+0 
+Kazakhstan 
+South Kazakhstan 
+8 
+Kazakhstan 
+West Kazakhstan 
+0 
+Kazakhstan 
+Zhambyl 
+8 
+Kenya 
+Baringo 
+21 
+Kenya 
+Bomet 
+26 
+Kenya 
+Bungoma 
+22 
+Kenya 
+Busia 
+18 
+Kenya 
+Elgeyo-Marakwet 
+22 
+Kenya 
+Embu 
+34 
+Kenya 
+Garissa 
+47 
+Kenya 
+Homa Bay 
+19 
+Kenya 
+Isiolo 
+46 
+Kenya 
+Kajiado 
+30 
+Kenya 
+Kakamega 
+21 
+Kenya 
+Kericho 
+23 
+Kenya 
+Kiambu 
+23 
+Kenya 
+Kilifi 
+22 
+Kenya 
+Kirinyaga 
+26 
+Kenya 
+Kisii 
+20 
+Kenya 
+Kisumu 
+26 
+Kenya 
+Kitui 
+45 
+Kenya 
+Kwale 
+20 
+Kenya 
+Laikipia 
+17 
+Kenya 
+Lamu 
+20 
+Kenya 
+Machakos 
+25 
+Kenya 
+Makueni 
+34 
+Kenya 
+Mandera 
+50 
+Kenya 
+Marsabit 
+46 
+Kenya 
+Meru 
+27 
+Kenya 
+Migori 
+22
+=== PAGE 41 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+41 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Kenya 
+Mombasa 
+13 
+Kenya 
+Murang'a 
+25 
+Kenya 
+Nairobi 
+11 
+Kenya 
+Nakuru 
+21 
+Kenya 
+Nandi 
+24 
+Kenya 
+Narok 
+22 
+Kenya 
+Nyamira 
+21 
+Kenya 
+Nyandarua 
+21 
+Kenya 
+Nyeri 
+25 
+Kenya 
+Samburu 
+24 
+Kenya 
+Siaya 
+22 
+Kenya 
+Taita Taveta 
+49 
+Kenya 
+Tana River 
+42 
+Kenya 
+Tharaka-Nithi 
+49 
+Kenya 
+Trans Nzoia 
+20 
+Kenya 
+Turkana 
+42 
+Kenya 
+Uasin Gishu 
+21 
+Kenya 
+Vihiga 
+20 
+Kenya 
+Wajir 
+50 
+Kenya 
+West Pokot 
+22 
+Kyrgyzstan 
+Batken 
+34 
+Kyrgyzstan 
+Biškek 
+2 
+Kyrgyzstan 
+Chüy 
+15 
+Kyrgyzstan 
+Jalal-Abad 
+30 
+Kyrgyzstan 
+Naryn 
+19 
+Kyrgyzstan 
+Osh 
+30 
+Kyrgyzstan 
+Osh city 
+4 
+Kyrgyzstan 
+Talas 
+22 
+Kyrgyzstan 
+Ysyk-Köl 
+16 
+Lao People’s Democratic Republic 
+Attapu 
+54 
+Lao People’s Democratic Republic 
+Bokeo 
+48 
+Lao People’s Democratic Republic 
+Bolikhamxai 
+50 
+Lao People’s Democratic Republic 
+Champasak 
+46 
+Lao People’s Democratic Republic 
+Houaphan 
+56 
+Lao People’s Democratic Republic 
+Khammouan 
+49 
+Lao People’s Democratic Republic 
+Louang Namtha 
+55 
+Lao People’s Democratic Republic 
+Louangphrabang 
+47 
+Lao People’s Democratic Republic 
+Oudômxai 
+53 
+Lao People’s Democratic Republic 
+Phôngsali 
+53 
+Lao People’s Democratic Republic 
+Saravan 
+40 
+Lao People’s Democratic Republic 
+Savannakhét 
+37 
+Lao People’s Democratic Republic 
+Vientiane 
+45
+=== PAGE 42 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+42 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Lao People’s Democratic Republic 
+Vientiane [prefecture] 
+45 
+Lao People’s Democratic Republic 
+Xaignabouri 
+46 
+Lao People’s Democratic Republic 
+Xaisômboun 
+55 
+Lao People’s Democratic Republic 
+Xékong 
+54 
+Lao People’s Democratic Republic 
+Xiangkhoang 
+54 
+Liberia 
+Bomi 
+41 
+Liberia 
+Bong 
+40 
+Liberia 
+Gbapolu 
+41 
+Liberia 
+Grand Bassa 
+40 
+Liberia 
+Grand Cape Mount 
+40 
+Liberia 
+Grand Gedeh 
+40 
+Liberia 
+Grand Kru 
+37 
+Liberia 
+Lofa 
+42 
+Liberia 
+Margibi 
+37 
+Liberia 
+Maryland 
+34 
+Liberia 
+Montserrado 
+39 
+Liberia 
+Nimba 
+39 
+Liberia 
+River Gee 
+39 
+Liberia 
+Rivercess 
+41 
+Liberia 
+Sinoe 
+40 
+Madagascar 
+Antananarivo 
+26 
+Madagascar 
+Antsiranana 
+32 
+Madagascar 
+Fianarantsoa 
+32 
+Madagascar 
+Mahajanga 
+33 
+Madagascar 
+Toamasina 
+36 
+Madagascar 
+Toliary 
+54 
+Malawi 
+Balaka 
+62 
+Malawi 
+Blantyre 
+55 
+Malawi 
+Chikwawa 
+38 
+Malawi 
+Chiradzulu 
+49 
+Malawi 
+Chitipa 
+35 
+Malawi 
+Dedza 
+49 
+Malawi 
+Dowa 
+61 
+Malawi 
+Karonga 
+43 
+Malawi 
+Kasungu 
+55 
+Malawi 
+Likoma 
+0 
+Malawi 
+Lilongwe 
+55 
+Malawi 
+Machinga 
+46 
+Malawi 
+Mangochi 
+45 
+Malawi 
+Mchinji 
+60 
+Malawi 
+Mulanje 
+36 
+Malawi 
+Mwanza 
+52
+=== PAGE 43 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+43 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Malawi 
+Mzimba 
+45 
+Malawi 
+Neno 
+53 
+Malawi 
+Nkhata Bay 
+56 
+Malawi 
+Nkhotakota 
+54 
+Malawi 
+Nsanje 
+33 
+Malawi 
+Ntcheu 
+54 
+Malawi 
+Ntchisi 
+52 
+Malawi 
+Phalombe 
+39 
+Malawi 
+Rumphi 
+41 
+Malawi 
+Salima 
+56 
+Malawi 
+Thyolo 
+40 
+Malawi 
+Zomba 
+49 
+Malaysia 
+Johor 
+38 
+Malaysia 
+Kedah 
+32 
+Malaysia 
+Kelantan 
+35 
+Malaysia 
+Kuala Lumpur 
+0 
+Malaysia 
+Labuan 
+19 
+Malaysia 
+Melaka 
+29 
+Malaysia 
+Negeri Sembilan 
+39 
+Malaysia 
+Pahang 
+47 
+Malaysia 
+Perak 
+40 
+Malaysia 
+Perlis 
+18 
+Malaysia 
+Pulau Pinang 
+12 
+Malaysia 
+Putrajaya 
+3 
+Malaysia 
+Sabah 
+47 
+Malaysia 
+Sarawak 
+46 
+Malaysia 
+Selangor 
+29 
+Malaysia 
+Trengganu 
+44 
+Mali 
+Bamako 
+4 
+Mali 
+Gao 
+28 
+Mali 
+Kayes 
+39 
+Mali 
+Kidal 
+1 
+Mali 
+Koulikoro 
+45 
+Mali 
+Mopti 
+70 
+Mali 
+Ségou 
+46 
+Mali 
+Sikasso 
+35 
+Mali 
+Timbuktu 
+54 
+Mauritania 
+Adrar 
+0 
+Mauritania 
+Assaba 
+67 
+Mauritania 
+Brakna 
+54 
+Mauritania 
+Dakhlet Nouadhibou 
+0 
+Mauritania 
+Gorgol 
+66
+=== PAGE 44 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+44 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Mauritania 
+Guidimaka 
+71 
+Mauritania 
+Hodh ech Chargui 
+67 
+Mauritania 
+Hodh el Gharbi 
+69 
+Mauritania 
+Inchiri 
+0 
+Mauritania 
+Nouakchott 
+0 
+Mauritania 
+Tagant 
+29 
+Mauritania 
+Tiris Zemmour 
+0 
+Mauritania 
+Trarza 
+64 
+Mexico 
+Aguascalientes 
+19 
+Mexico 
+Baja California 
+15 
+Mexico 
+Baja California Sur 
+5 
+Mexico 
+Campeche 
+40 
+Mexico 
+Chiapas 
+34 
+Mexico 
+Chihuahua 
+21 
+Mexico 
+Coahuila 
+13 
+Mexico 
+Colima 
+32 
+Mexico 
+Distrito Federal 
+27 
+Mexico 
+Durango 
+27 
+Mexico 
+Guanajuato 
+17 
+Mexico 
+Guerrero 
+39 
+Mexico 
+Hidalgo 
+32 
+Mexico 
+Jalisco 
+27 
+Mexico 
+México 
+36 
+Mexico 
+Michoacán 
+34 
+Mexico 
+Morelos 
+31 
+Mexico 
+Nayarit 
+35 
+Mexico 
+Nuevo León 
+22 
+Mexico 
+Oaxaca 
+38 
+Mexico 
+Puebla 
+33 
+Mexico 
+Querétaro 
+25 
+Mexico 
+Quintana Roo 
+45 
+Mexico 
+San Luis Potosí 
+31 
+Mexico 
+Sinaloa 
+22 
+Mexico 
+Sonora 
+14 
+Mexico 
+Tabasco 
+29 
+Mexico 
+Tamaulipas 
+29 
+Mexico 
+Tlaxcala 
+35 
+Mexico 
+Veracruz 
+36 
+Mexico 
+Yucatán 
+30 
+Mexico 
+Zacatecas 
+19 
+Mongolia 
+Arhangay 
+9 
+Mongolia 
+Bayan-Ölgiy 
+10
+=== PAGE 45 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+45 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Mongolia 
+Bayanhongor 
+9 
+Mongolia 
+Bulgan 
+10 
+Mongolia 
+Darhan-Uul 
+0 
+Mongolia 
+Dornod 
+1 
+Mongolia 
+Dornogovi 
+0 
+Mongolia 
+Dundgovi 
+0 
+Mongolia 
+Dzavhan 
+12 
+Mongolia 
+Govi-Altay 
+5 
+Mongolia 
+Govisümber 
+0 
+Mongolia 
+Hentiy 
+15 
+Mongolia 
+Hovd 
+5 
+Mongolia 
+Hövsgöl 
+15 
+Mongolia 
+Ömnögovi 
+0 
+Mongolia 
+Orhon 
+13 
+Mongolia 
+Övörhangay 
+8 
+Mongolia 
+Selenge 
+7 
+Mongolia 
+Sühbaatar 
+0 
+Mongolia 
+Töv 
+17 
+Mongolia 
+Ulaanbaatar 
+28 
+Mongolia 
+Uvs 
+6 
+Myanmar 
+Ayeyarwady 
+33 
+Myanmar 
+Bago 
+33 
+Myanmar 
+Chin 
+36 
+Myanmar 
+Kachin 
+49 
+Myanmar 
+Kayah 
+32 
+Myanmar 
+Kayin 
+36 
+Myanmar 
+Magway 
+26 
+Myanmar 
+Mandalay 
+33 
+Myanmar 
+Mon 
+34 
+Myanmar 
+Naypyitaw 
+37 
+Myanmar 
+Rakhine 
+32 
+Myanmar 
+Sagaing 
+35 
+Myanmar 
+Shan 
+41 
+Myanmar 
+Tanintharyi 
+40 
+Myanmar 
+Yangon 
+25 
+Mozambique 
+Cabo Delgado 
+43 
+Mozambique 
+Gaza 
+29 
+Mozambique 
+Inhambane 
+33 
+Mozambique 
+Manica 
+33 
+Mozambique 
+Maputo 
+36 
+Mozambique 
+Maputo City 
+34 
+Mozambique 
+Nampula 
+39
+=== PAGE 46 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+46 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Mozambique 
+Nassa 
+46 
+Mozambique 
+Sofala 
+36 
+Mozambique 
+Tete 
+38 
+Mozambique 
+Zambezia 
+38 
+Namibia 
+!Karas 
+15 
+Namibia 
+Erongo 
+41 
+Namibia 
+Hardap 
+43 
+Namibia 
+Kavango 
+23 
+Namibia 
+Khomas 
+33 
+Namibia 
+Kunene 
+31 
+Namibia 
+Ohangwena 
+16 
+Namibia 
+Omaheke 
+53 
+Namibia 
+Omusati 
+18 
+Namibia 
+Oshana 
+18 
+Namibia 
+Oshikoto 
+20 
+Namibia 
+Otjozondjupa 
+46 
+Namibia 
+Zambezi 
+17 
+Nepal 
+Central 
+45 
+Nepal 
+East 
+43 
+Nepal 
+Far-Western 
+45 
+Nepal 
+Mid-Western 
+47 
+Nepal 
+West 
+47 
+Nicaragua 
+Atlántico Norte 
+27 
+Nicaragua 
+Atlántico Sur 
+19 
+Nicaragua 
+Boaco 
+24 
+Nicaragua 
+Carazo 
+32 
+Nicaragua 
+Chinandega 
+23 
+Nicaragua 
+Chontales 
+20 
+Nicaragua 
+Estelí 
+25 
+Nicaragua 
+Granada 
+31 
+Nicaragua 
+Jinotega 
+26 
+Nicaragua 
+Lago Nicaragua 
+17 
+Nicaragua 
+León 
+26 
+Nicaragua 
+Madriz 
+29 
+Nicaragua 
+Managua 
+27 
+Nicaragua 
+Masaya 
+37 
+Nicaragua 
+Matagalpa 
+25 
+Nicaragua 
+Nueva Segovia 
+28 
+Nicaragua 
+Río San Juan 
+20 
+Nicaragua 
+Rivas 
+28 
+Niger 
+Agadez 
+10 
+Niger 
+Diffa 
+65
+=== PAGE 47 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+47 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Niger 
+Dosso 
+64 
+Niger 
+Maradi 
+76 
+Niger 
+Niamey 
+6 
+Niger 
+Tahoua 
+70 
+Niger 
+Tillabéry 
+53 
+Niger 
+Zinder 
+66 
+Nigeria 
+Abia 
+23 
+Nigeria 
+Adamawa 
+32 
+Nigeria 
+Akwa Ibom 
+28 
+Nigeria 
+Anambra 
+20 
+Nigeria 
+Bauchi 
+38 
+Nigeria 
+Bayelsa 
+40 
+Nigeria 
+Benue 
+35 
+Nigeria 
+Borno 
+54 
+Nigeria 
+Cross River 
+33 
+Nigeria 
+Delta 
+29 
+Nigeria 
+Ebonyi 
+19 
+Nigeria 
+Edo 
+30 
+Nigeria 
+Ekiti 
+34 
+Nigeria 
+Enugu 
+29 
+Nigeria 
+Federal Capital Territory 
+41 
+Nigeria 
+Gombe 
+36 
+Nigeria 
+Imo 
+23 
+Nigeria 
+Jigawa 
+53 
+Nigeria 
+Kaduna 
+44 
+Nigeria 
+Kano 
+34 
+Nigeria 
+Katsina 
+46 
+Nigeria 
+Kebbi 
+48 
+Nigeria 
+Kogi 
+38 
+Nigeria 
+Kwara 
+42 
+Nigeria 
+Lagos 
+25 
+Nigeria 
+Nasarawa 
+47 
+Nigeria 
+Niger 
+48 
+Nigeria 
+Ogun 
+28 
+Nigeria 
+Ondo 
+34 
+Nigeria 
+Osun 
+33 
+Nigeria 
+Oyo 
+25 
+Nigeria 
+Plateau 
+33 
+Nigeria 
+Rivers 
+30 
+Nigeria 
+Sokoto 
+59 
+Nigeria 
+Taraba 
+38 
+Nigeria 
+Yobe 
+67
+=== PAGE 48 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+48 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Nigeria 
+Zamfara 
+47 
+Pakistan 
+Azad Kashmir 
+44 
+Pakistan 
+Balochistan 
+1 
+Pakistan 
+Federally Administered Tribal Ar 
+13 
+Pakistan 
+Gilgit-Baltistan 
+39 
+Pakistan 
+Islamabad 
+6 
+Pakistan 
+Khyber-Pakhtunkhwa 
+22 
+Pakistan 
+Punjab 
+1 
+Pakistan 
+Sindh 
+0 
+Panama 
+Bocas del Toro 
+32 
+Panama 
+Chiriquí 
+21 
+Panama 
+Coclé 
+21 
+Panama 
+Colón 
+25 
+Panama 
+Darién 
+28 
+Panama 
+Emberá 
+38 
+Panama 
+Herrera 
+21 
+Panama 
+Kuna Yala 
+37 
+Panama 
+Los Santos 
+21 
+Panama 
+Ngöbe Buglé 
+27 
+Panama 
+Panamá 
+19 
+Panama 
+Panamá Oeste 
+20 
+Panama 
+Veraguas 
+20 
+Papua New Guinea 
+Bougainville 
+1 
+Papua New Guinea 
+Central 
+2 
+Papua New Guinea 
+Chimbu 
+0 
+Papua New Guinea 
+East New Britain 
+1 
+Papua New Guinea 
+East Sepik 
+18 
+Papua New Guinea 
+Eastern Highlands 
+0 
+Papua New Guinea 
+Enga 
+0 
+Papua New Guinea 
+Gulf 
+59 
+Papua New Guinea 
+Hela 
+0 
+Papua New Guinea 
+Jiwaka 
+0 
+Papua New Guinea 
+Madang 
+9 
+Papua New Guinea 
+Manus 
+3 
+Papua New Guinea 
+Milne Bay 
+1 
+Papua New Guinea 
+Morobe 
+4 
+Papua New Guinea 
+National Capital District 
+12 
+Papua New Guinea 
+New Ireland 
+3 
+Papua New Guinea 
+Oro 
+0 
+Papua New Guinea 
+Sandaun 
+4 
+Papua New Guinea 
+Southern Highlands 
+4 
+Papua New Guinea 
+West New Britain 
+1
+=== PAGE 49 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+49 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Papua New Guinea 
+Western 
+2 
+Papua New Guinea 
+Western Highlands 
+0 
+Peru 
+Amazonas 
+10 
+Peru 
+Ancash 
+2 
+Peru 
+Apurímac 
+1 
+Peru 
+Arequipa 
+1 
+Peru 
+Ayacucho 
+1 
+Peru 
+Cajamarca 
+5 
+Peru 
+Callao 
+0 
+Peru 
+Cusco 
+5 
+Peru 
+Huancavelica 
+1 
+Peru 
+Huánuco 
+2 
+Peru 
+Ica 
+0 
+Peru 
+Junín 
+5 
+Peru 
+La Libertad 
+2 
+Peru 
+Lambayeque 
+4 
+Peru 
+Lima 
+3 
+Peru 
+Lima Province 
+0 
+Peru 
+Loreto 
+9 
+Peru 
+Madre de Dios 
+4 
+Peru 
+Moquegua 
+1 
+Peru 
+Pasco 
+2 
+Peru 
+Piura 
+6 
+Peru 
+Puno 
+8 
+Peru 
+San Martín 
+7 
+Peru 
+Tacna 
+0 
+Peru 
+Tumbes 
+5 
+Peru 
+Ucayali 
+4 
+Philippines 
+Abra 
+63 
+Philippines 
+Agusan del Norte 
+49 
+Philippines 
+Agusan del Sur 
+49 
+Philippines 
+Aklan 
+53 
+Philippines 
+Albay 
+53 
+Philippines 
+Antique 
+48 
+Philippines 
+Apayao 
+55 
+Philippines 
+Aurora 
+57 
+Philippines 
+Basilan 
+49 
+Philippines 
+Bataan 
+70 
+Philippines 
+Batanes 
+48 
+Philippines 
+Batangas 
+70 
+Philippines 
+Benguet 
+64 
+Philippines 
+Biliran 
+49
+=== PAGE 50 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+50 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Philippines 
+Bohol 
+47 
+Philippines 
+Bukidnon 
+46 
+Philippines 
+Bulacan 
+50 
+Philippines 
+Cagayan 
+56 
+Philippines 
+Camarines Norte 
+55 
+Philippines 
+Camarines Sur 
+52 
+Philippines 
+Camiguin 
+49 
+Philippines 
+Capiz 
+52 
+Philippines 
+Catanduanes 
+49 
+Philippines 
+Cavite 
+41 
+Philippines 
+Cebu 
+49 
+Philippines 
+Compostela Valley 
+54 
+Philippines 
+Davao del Norte 
+51 
+Philippines 
+Davao del Sur 
+53 
+Philippines 
+Davao Oriental 
+52 
+Philippines 
+Dinagat Islands 
+49 
+Philippines 
+Eastern Samar 
+49 
+Philippines 
+Guimaras 
+46 
+Philippines 
+Ifugao 
+62 
+Philippines 
+Ilocos Norte 
+60 
+Philippines 
+Ilocos Sur 
+64 
+Philippines 
+Iloilo 
+53 
+Philippines 
+Isabela 
+55 
+Philippines 
+Kalinga 
+63 
+Philippines 
+La Union 
+71 
+Philippines 
+Laguna 
+57 
+Philippines 
+Lanao del Norte 
+49 
+Philippines 
+Lanao del Sur 
+54 
+Philippines 
+Leyte 
+49 
+Philippines 
+Maguindanao 
+47 
+Philippines 
+Marinduque 
+49 
+Philippines 
+Masbate 
+40 
+Philippines 
+Metropolitan Manila 
+0 
+Philippines 
+Misamis Occidental 
+52 
+Philippines 
+Misamis Oriental 
+46 
+Philippines 
+Mountain Province 
+63 
+Philippines 
+Negros Occidental 
+50 
+Philippines 
+Negros Oriental 
+46 
+Philippines 
+North Cotabato 
+50 
+Philippines 
+Northern Samar 
+49 
+Philippines 
+Nueva Ecija 
+58 
+Philippines 
+Nueva Vizcaya 
+61
+=== PAGE 51 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+51 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Philippines 
+Occidental Mindoro 
+49 
+Philippines 
+Oriental Mindoro 
+49 
+Philippines 
+Palawan 
+50 
+Philippines 
+Pampanga 
+28 
+Philippines 
+Pangasinan 
+60 
+Philippines 
+Quezon 
+62 
+Philippines 
+Quirino 
+59 
+Philippines 
+Rizal 
+59 
+Philippines 
+Romblon 
+49 
+Philippines 
+Samar 
+49 
+Philippines 
+Sarangani 
+42 
+Philippines 
+Siquijor 
+43 
+Philippines 
+Sorsogon 
+51 
+Philippines 
+South Cotabato 
+47 
+Philippines 
+Southern Leyte 
+50 
+Philippines 
+Sultan Kudarat 
+48 
+Philippines 
+Sulu 
+50 
+Philippines 
+Surigao del Norte 
+49 
+Philippines 
+Surigao del Sur 
+49 
+Philippines 
+Tarlac 
+65 
+Philippines 
+Tawi-Tawi 
+50 
+Philippines 
+Zambales 
+66 
+Philippines 
+Zamboanga del Norte 
+47 
+Philippines 
+Zamboanga del Sur 
+45 
+Philippines 
+Zamboanga Sibugay 
+51 
+Plurinational State of Bolivia 
+Beni 
+15 
+Plurinational State of Bolivia 
+Chuquisaca 
+9 
+Plurinational State of Bolivia 
+Cochabamba 
+21 
+Plurinational State of Bolivia 
+La Paz 
+18 
+Plurinational State of Bolivia 
+Oruro 
+10 
+Plurinational State of Bolivia 
+Pando 
+26 
+Plurinational State of Bolivia 
+Potosí 
+10 
+Plurinational State of Bolivia 
+Santa Cruz 
+11 
+Plurinational State of Bolivia 
+Tarija 
+11 
+Rwanda 
+Amajyaruguru 
+36 
+Rwanda 
+Amajyepfo 
+31 
+Rwanda 
+Iburasirazuba 
+35 
+Rwanda 
+Iburengerazuba 
+35 
+Rwanda 
+Umujyi wa Kigali 
+21 
+Senegal 
+Dakar 
+5 
+Senegal 
+Diourbel 
+12 
+Senegal 
+Fatick 
+59
+=== PAGE 52 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+52 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Senegal 
+Kaffrine 
+66 
+Senegal 
+Kaolack 
+65 
+Senegal 
+Kédougou 
+46 
+Senegal 
+Kolda 
+53 
+Senegal 
+Louga 
+87 
+Senegal 
+Matam 
+84 
+Senegal 
+Saint-Louis 
+87 
+Senegal 
+Sédhiou 
+55 
+Senegal 
+Tambacounda 
+52 
+Senegal 
+Thiès 
+45 
+Senegal 
+Ziguinchor 
+55 
+Sierra Leone 
+Eastern 
+52 
+Sierra Leone 
+Northern 
+37 
+Sierra Leone 
+Southern 
+39 
+Sierra Leone 
+Western 
+35 
+Somalia 
+Awdal 
+39 
+Somalia 
+Bakool 
+66 
+Somalia 
+Bari 
+14 
+Somalia 
+Bay 
+68 
+Somalia 
+Galguduud 
+62 
+Somalia 
+Gedo 
+66 
+Somalia 
+Hiiraan 
+64 
+Somalia 
+Jubbada Dhexe 
+68 
+Somalia 
+Jubbada Hoose 
+65 
+Somalia 
+Mudug 
+37 
+Somalia 
+Nugaal 
+44 
+Somalia 
+Sanaag 
+23 
+Somalia 
+Shabeellaha Dhexe 
+52 
+Somalia 
+Shabeellaha Hoose 
+71 
+Somalia 
+Sool 
+41 
+Somalia 
+Togdheer 
+53 
+Somalia 
+Banaadir 
+0 
+South Africa 
+Eastern Cape 
+21 
+South Africa 
+Free State 
+14 
+South Africa 
+Gauteng 
+10 
+South Africa 
+KwaZulu-Natal 
+19 
+South Africa 
+Limpopo 
+14 
+South Africa 
+Mpumalanga 
+15 
+South Africa 
+North West 
+23 
+South Africa 
+Northern Cape 
+28 
+South Africa 
+Western Cape 
+16 
+South Sudan 
+Central Equatoria 
+37
+=== PAGE 53 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+53 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+South Sudan 
+Eastern Equatoria 
+40 
+South Sudan 
+Jungoli 
+28 
+South Sudan 
+Lakes 
+34 
+South Sudan 
+North Bahr-al-Ghazal 
+25 
+South Sudan 
+Unity 
+23 
+South Sudan 
+Upper Nile 
+33 
+South Sudan 
+Warap 
+27 
+South Sudan 
+West Bahr-al-Ghazal 
+32 
+South Sudan 
+West Equatoria 
+37 
+Sri Lanka 
+Ampara 
+40 
+Sri Lanka 
+Anuradhapura 
+44 
+Sri Lanka 
+Badulla 
+43 
+Sri Lanka 
+Batticaloa 
+48 
+Sri Lanka 
+Colombo 
+36 
+Sri Lanka 
+Galle 
+46 
+Sri Lanka 
+Gampaha 
+49 
+Sri Lanka 
+Hambantota 
+28 
+Sri Lanka 
+Jaffna 
+25 
+Sri Lanka 
+Kalutara 
+45 
+Sri Lanka 
+Kandy 
+47 
+Sri Lanka 
+Kegalle 
+47 
+Sri Lanka 
+Kilinochchi 
+23 
+Sri Lanka 
+Kurunegala 
+48 
+Sri Lanka 
+Mannar 
+28 
+Sri Lanka 
+Matale 
+49 
+Sri Lanka 
+Matara 
+49 
+Sri Lanka 
+Moneragala 
+38 
+Sri Lanka 
+Mullaitivu 
+35 
+Sri Lanka 
+Nuwara Eliya 
+51 
+Sri Lanka 
+Polonnaruwa 
+45 
+Sri Lanka 
+Puttalam 
+41 
+Sri Lanka 
+Ratnapura 
+47 
+Sri Lanka 
+Trincomalee 
+48 
+Sri Lanka 
+Vavuniya 
+44 
+Sudan 
+Al Jazirah 
+65 
+Sudan 
+Al Qadarif 
+63 
+Sudan 
+Blue Nile 
+59 
+Sudan 
+Central Darfur 
+49 
+Sudan 
+East Darfur 
+53 
+Sudan 
+Kassala 
+46 
+Sudan 
+Khartoum 
+2 
+Sudan 
+North Darfur 
+53
+=== PAGE 54 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+54 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Sudan 
+North Kurdufan 
+54 
+Sudan 
+Northern 
+0 
+Sudan 
+Red Sea 
+2 
+Sudan 
+River Nile 
+7 
+Sudan 
+Sennar 
+67 
+Sudan 
+South Darfur 
+43 
+Sudan 
+South Kurdufan 
+54 
+Sudan 
+West Darfur 
+53 
+Sudan 
+West Kurdufan 
+53 
+Sudan 
+White Nile 
+65 
+Syrian Arab Republic 
+Al Ḥasakah 
+0 
+Syrian Arab Republic 
+Aleppo 
+2 
+Syrian Arab Republic 
+Ar Raqqah 
+0 
+Syrian Arab Republic 
+As Suwayda' 
+7 
+Syrian Arab Republic 
+Damascus 
+1 
+Syrian Arab Republic 
+Dar`a 
+2 
+Syrian Arab Republic 
+Dayr Az Zawr 
+1 
+Syrian Arab Republic 
+Hamah 
+3 
+Syrian Arab Republic 
+Hims 
+4 
+Syrian Arab Republic 
+Idlib 
+6 
+Syrian Arab Republic 
+Lattakia 
+13 
+Syrian Arab Republic 
+Quneitra 
+6 
+Syrian Arab Republic 
+Rif Dimashq 
+4 
+Syrian Arab Republic 
+Tartus 
+14 
+Tajikistan 
+Districts of Republican Subordin 
+26 
+Tajikistan 
+Dushanbe 
+7 
+Tajikistan 
+Gorno-Badakhshan 
+13 
+Tajikistan 
+Khatlon 
+12 
+Tajikistan 
+Sughd 
+28 
+Thailand 
+Amnat Charoen 
+13 
+Thailand 
+Ang Thong 
+17 
+Thailand 
+Bangkok Metropolis 
+15 
+Thailand 
+Bueng Kan 
+28 
+Thailand 
+Buri Ram 
+11 
+Thailand 
+Chachoengsao 
+17 
+Thailand 
+Chai Nat 
+10 
+Thailand 
+Chaiyaphum 
+16 
+Thailand 
+Chanthaburi 
+25 
+Thailand 
+Chiang Mai 
+36 
+Thailand 
+Chiang Rai 
+29 
+Thailand 
+Chon Buri 
+13 
+Thailand 
+Chumphon 
+33
+=== PAGE 55 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+55 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Thailand 
+Kalasin 
+15 
+Thailand 
+Kamphaeng Phet 
+15 
+Thailand 
+Kanchanaburi 
+21 
+Thailand 
+Khon Kaen 
+13 
+Thailand 
+Krabi 
+30 
+Thailand 
+Lampang 
+33 
+Thailand 
+Lamphun 
+33 
+Thailand 
+Loei 
+30 
+Thailand 
+Lop Buri 
+12 
+Thailand 
+Mae Hong Son 
+39 
+Thailand 
+Maha Sarakham 
+11 
+Thailand 
+Mukdahan 
+21 
+Thailand 
+Nakhon Nayok 
+25 
+Thailand 
+Nakhon Pathom 
+23 
+Thailand 
+Nakhon Phanom 
+36 
+Thailand 
+Nakhon Ratchasima 
+15 
+Thailand 
+Nakhon Sawan 
+11 
+Thailand 
+Nakhon Si Thammarat 
+27 
+Thailand 
+Nan 
+41 
+Thailand 
+Narathiwat 
+31 
+Thailand 
+Nong Bua Lam Phu 
+29 
+Thailand 
+Nong Khai 
+36 
+Thailand 
+Nonthaburi 
+24 
+Thailand 
+Pathum Thani 
+23 
+Thailand 
+Pattani 
+22 
+Thailand 
+Phangnga 
+36 
+Thailand 
+Phatthalung 
+23 
+Thailand 
+Phayao 
+31 
+Thailand 
+Phetchabun 
+20 
+Thailand 
+Phetchaburi 
+26 
+Thailand 
+Phichit 
+11 
+Thailand 
+Phitsanulok 
+21 
+Thailand 
+Phra Nakhon Si Ayutthaya 
+17 
+Thailand 
+Phrae 
+29 
+Thailand 
+Phuket 
+35 
+Thailand 
+Prachin Buri 
+23 
+Thailand 
+Prachuap Khiri Khan 
+32 
+Thailand 
+Ranong 
+37 
+Thailand 
+Ratchaburi 
+16 
+Thailand 
+Rayong 
+17 
+Thailand 
+Roi Et 
+11 
+Thailand 
+Sa Kaeo 
+17
+=== PAGE 56 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+56 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Thailand 
+Sakon Nakhon 
+27 
+Thailand 
+Samut Prakan 
+23 
+Thailand 
+Samut Sakhon 
+19 
+Thailand 
+Samut Songkhram 
+18 
+Thailand 
+Saraburi 
+16 
+Thailand 
+Satun 
+31 
+Thailand 
+Si Sa Ket 
+12 
+Thailand 
+Sing Buri 
+13 
+Thailand 
+Songkhla 
+26 
+Thailand 
+Sukhothai 
+16 
+Thailand 
+Suphan Buri 
+15 
+Thailand 
+Surat Thani 
+30 
+Thailand 
+Surin 
+10 
+Thailand 
+Tak 
+35 
+Thailand 
+Trang 
+30 
+Thailand 
+Trat 
+27 
+Thailand 
+Ubon Ratchathani 
+16 
+Thailand 
+Udon Thani 
+28 
+Thailand 
+Uthai Thani 
+17 
+Thailand 
+Uttaradit 
+28 
+Thailand 
+Yala 
+33 
+Thailand 
+Yasothon 
+12 
+Timor-Leste 
+Aileu 
+40 
+Timor-Leste 
+Ainaro 
+43 
+Timor-Leste 
+Ambeno 
+28 
+Timor-Leste 
+Baucau 
+34 
+Timor-Leste 
+Bobonaro 
+39 
+Timor-Leste 
+Covalima 
+43 
+Timor-Leste 
+Dili 
+24 
+Timor-Leste 
+Ermera 
+42 
+Timor-Leste 
+Lautém 
+40 
+Timor-Leste 
+Liquiçá 
+33 
+Timor-Leste 
+Manatuto 
+39 
+Timor-Leste 
+Manufahi 
+43 
+Timor-Leste 
+Viqueque 
+42 
+Togo 
+Centre 
+48 
+Togo 
+Kara 
+48 
+Togo 
+Maritime 
+39 
+Togo 
+Plateaux 
+45 
+Togo 
+Savanes 
+51 
+Türkiye 
+Adana 
+9 
+Türkiye 
+Adiyaman 
+9
+=== PAGE 57 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+57 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Türkiye 
+Afyon 
+10 
+Türkiye 
+Agri 
+11 
+Türkiye 
+Aksaray 
+6 
+Türkiye 
+Amasya 
+13 
+Türkiye 
+Ankara 
+13 
+Türkiye 
+Antalya 
+12 
+Türkiye 
+Ardahan 
+8 
+Türkiye 
+Artvin 
+18 
+Türkiye 
+Aydin 
+10 
+Türkiye 
+Balikesir 
+14 
+Türkiye 
+Bartın 
+28 
+Türkiye 
+Batman 
+4 
+Türkiye 
+Bayburt 
+11 
+Türkiye 
+Bilecik 
+20 
+Türkiye 
+Bingöl 
+12 
+Türkiye 
+Bitlis 
+9 
+Türkiye 
+Bolu 
+25 
+Türkiye 
+Burdur 
+15 
+Türkiye 
+Bursa 
+20 
+Türkiye 
+Çanakkale 
+15 
+Türkiye 
+Çankiri 
+13 
+Türkiye 
+Çorum 
+12 
+Türkiye 
+Denizli 
+15 
+Türkiye 
+Diyarbakir 
+4 
+Türkiye 
+Düzce 
+28 
+Türkiye 
+Edirne 
+7 
+Türkiye 
+Elazığ 
+11 
+Türkiye 
+Erzincan 
+11 
+Türkiye 
+Erzurum 
+11 
+Türkiye 
+Eskisehir 
+11 
+Türkiye 
+Gaziantep 
+6 
+Türkiye 
+Giresun 
+25 
+Türkiye 
+Gümüshane 
+13 
+Türkiye 
+Hakkari 
+12 
+Türkiye 
+Hatay 
+10 
+Türkiye 
+Iğdır 
+6 
+Türkiye 
+Isparta 
+12 
+Türkiye 
+Istanbul 
+23 
+Türkiye 
+Izmir 
+13 
+Türkiye 
+K Maras 
+11 
+Türkiye 
+Karabük 
+28 
+Türkiye 
+Karaman 
+9
+=== PAGE 58 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+58 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Türkiye 
+Kars 
+8 
+Türkiye 
+Kastamonu 
+24 
+Türkiye 
+Kayseri 
+12 
+Türkiye 
+Kilis 
+7 
+Türkiye 
+Kinkkale 
+9 
+Türkiye 
+Kirklareli 
+13 
+Türkiye 
+Kirsehir 
+9 
+Türkiye 
+Kocaeli 
+22 
+Türkiye 
+Konya 
+8 
+Türkiye 
+Kütahya 
+15 
+Türkiye 
+Malatya 
+11 
+Türkiye 
+Manisa 
+11 
+Türkiye 
+Mardin 
+4 
+Türkiye 
+Mersin 
+10 
+Türkiye 
+Mugla 
+11 
+Türkiye 
+Mus 
+10 
+Türkiye 
+Nevsehir 
+10 
+Türkiye 
+Nigde 
+11 
+Türkiye 
+Ordu 
+26 
+Türkiye 
+Osmaniye 
+13 
+Türkiye 
+Rize 
+32 
+Türkiye 
+Sakarya 
+23 
+Türkiye 
+Samsun 
+15 
+Türkiye 
+Sanliurfa 
+2 
+Türkiye 
+Siirt 
+8 
+Türkiye 
+Sinop 
+22 
+Türkiye 
+Sirnak 
+9 
+Türkiye 
+Sivas 
+12 
+Türkiye 
+Tekirdag 
+9 
+Türkiye 
+Tokat 
+15 
+Türkiye 
+Trabzon 
+25 
+Türkiye 
+Tunceli 
+11 
+Türkiye 
+Usak 
+10 
+Türkiye 
+Van 
+10 
+Türkiye 
+Yalova 
+27 
+Türkiye 
+Yozgat 
+9 
+Türkiye 
+Zinguldak 
+28 
+Turkmenistan 
+Ahal 
+0 
+Turkmenistan 
+Aşgabat 
+0 
+Turkmenistan 
+Balkan 
+1 
+Turkmenistan 
+Daşoguz 
+0 
+Turkmenistan 
+Lebap 
+1
+=== PAGE 59 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+59 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Turkmenistan 
+Mary 
+0 
+Uganda 
+Adjumani 
+48 
+Uganda 
+Apac 
+36 
+Uganda 
+Arua 
+42 
+Uganda 
+Bugiri 
+35 
+Uganda 
+Bundibugyo 
+46 
+Uganda 
+Bushenyi 
+37 
+Uganda 
+Busia 
+36 
+Uganda 
+Gulu 
+42 
+Uganda 
+Hoima 
+29 
+Uganda 
+Iganga 
+36 
+Uganda 
+Jinja 
+36 
+Uganda 
+Kabale 
+35 
+Uganda 
+Kabarole 
+40 
+Uganda 
+Kaberamaido 
+40 
+Uganda 
+Kalangala 
+11 
+Uganda 
+Kampala 
+0 
+Uganda 
+Kamuli 
+35 
+Uganda 
+Kamwenge 
+32 
+Uganda 
+Kanungu 
+35 
+Uganda 
+Kapchorwa 
+41 
+Uganda 
+Kasese 
+36 
+Uganda 
+Katakwi 
+65 
+Uganda 
+Kayunga 
+34 
+Uganda 
+Kibale 
+46 
+Uganda 
+Kiboga 
+34 
+Uganda 
+Kisoro 
+33 
+Uganda 
+Kitgum 
+57 
+Uganda 
+Kotido 
+40 
+Uganda 
+Kumi 
+52 
+Uganda 
+Kyenjojo 
+40 
+Uganda 
+Lake Albert 
+0 
+Uganda 
+Lake Victoria 
+41 
+Uganda 
+Lira 
+52 
+Uganda 
+Luwero 
+40 
+Uganda 
+Masaka 
+29 
+Uganda 
+Masindi 
+35 
+Uganda 
+Mayuge 
+34 
+Uganda 
+Mbale 
+31 
+Uganda 
+Mbarara 
+34 
+Uganda 
+Moroto 
+46 
+Uganda 
+Moyo 
+52
+=== PAGE 60 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+60 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Uganda 
+Mpigi 
+35 
+Uganda 
+Mubende 
+34 
+Uganda 
+Mukono 
+42 
+Uganda 
+Nakapiripirit 
+45 
+Uganda 
+Nakasongola 
+37 
+Uganda 
+Nebbi 
+44 
+Uganda 
+Ntungamo 
+34 
+Uganda 
+Pader 
+59 
+Uganda 
+Pallisa 
+36 
+Uganda 
+Rakai 
+33 
+Uganda 
+Rukungiri 
+37 
+Uganda 
+Sembabule 
+36 
+Uganda 
+Sironko 
+37 
+Uganda 
+Soroti 
+45 
+Uganda 
+Tororo 
+32 
+Uganda 
+Wakiso 
+35 
+Uganda 
+Yumbe 
+49 
+United Republic of Tanzania 
+Arusha 
+63 
+United Republic of Tanzania 
+Dar es Salaam 
+31 
+United Republic of Tanzania 
+Dodoma 
+71 
+United Republic of Tanzania 
+Geita 
+43 
+United Republic of Tanzania 
+Iringa 
+51 
+United Republic of Tanzania 
+Kagera 
+34 
+United Republic of Tanzania 
+Kaskazini Pemba 
+26 
+United Republic of Tanzania 
+Kaskazini Unguja 
+26 
+United Republic of Tanzania 
+Katavi 
+45 
+United Republic of Tanzania 
+Kigoma 
+49 
+United Republic of Tanzania 
+Kilimanjaro 
+67 
+United Republic of Tanzania 
+Kusini Pemba 
+25 
+United Republic of Tanzania 
+Kusini Unguja 
+34 
+United Republic of Tanzania 
+Lindi 
+43 
+United Republic of Tanzania 
+Manyara 
+70 
+United Republic of Tanzania 
+Mara 
+56 
+United Republic of Tanzania 
+Mbeya 
+41 
+United Republic of Tanzania 
+Mjini Magharibi 
+23 
+United Republic of Tanzania 
+Morogoro 
+42 
+United Republic of Tanzania 
+Mtwara 
+38 
+United Republic of Tanzania 
+Mwanza 
+41 
+United Republic of Tanzania 
+Njombe 
+34 
+United Republic of Tanzania 
+Pwani 
+53 
+United Republic of Tanzania 
+Rukwa 
+30 
+United Republic of Tanzania 
+Ruvuma 
+38
+=== PAGE 61 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+61 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+United Republic of Tanzania 
+Shinyanga 
+44 
+United Republic of Tanzania 
+Simiyu 
+71 
+United Republic of Tanzania 
+Singida 
+68 
+United Republic of Tanzania 
+Songwe 
+40 
+United Republic of Tanzania 
+Tabora 
+40 
+United Republic of Tanzania 
+Tanga 
+58 
+Uzbekistan 
+Andijon 
+27 
+Uzbekistan 
+Buxoro 
+0 
+Uzbekistan 
+Farg'ona 
+20 
+Uzbekistan 
+Jizzax 
+24 
+Uzbekistan 
+Namangan 
+25 
+Uzbekistan 
+Navoiy 
+15 
+Uzbekistan 
+Qaraqalpaqstan 
+0 
+Uzbekistan 
+Qashqadaryo 
+8 
+Uzbekistan 
+Samarqand' 
+22 
+Uzbekistan 
+Sirdaryo 
+5 
+Uzbekistan 
+Surxondaryo 
+7 
+Uzbekistan 
+Toshkent 
+19 
+Uzbekistan 
+Toshkent Shahri 
+0 
+Uzbekistan 
+Xorazm 
+0 
+Viet Nam 
+An Giang 
+15 
+Viet Nam 
+Bà Rịa - Vũng Tàu 
+34 
+Viet Nam 
+Bắc Giang 
+45 
+Viet Nam 
+Bắc Kạn 
+45 
+Viet Nam 
+Bạc Liêu 
+39 
+Viet Nam 
+Bắc Ninh 
+1 
+Viet Nam 
+Bến Tre 
+18 
+Viet Nam 
+Bình Định 
+43 
+Viet Nam 
+Bình Dương 
+35 
+Viet Nam 
+Bình Phước 
+39 
+Viet Nam 
+Bình Thuận 
+34 
+Viet Nam 
+Cà Mau 
+52 
+Viet Nam 
+Cần Thơ 
+20 
+Viet Nam 
+Cao Bằng 
+30 
+Viet Nam 
+Đà Nẵng 
+36 
+Viet Nam 
+Đắk Lắk 
+31 
+Viet Nam 
+Đắk Nông 
+35 
+Viet Nam 
+Điện Biên 
+41 
+Viet Nam 
+Đồng Nai 
+40 
+Viet Nam 
+Đồng Tháp 
+26 
+Viet Nam 
+Gia Lai 
+40 
+Viet Nam 
+Hà Giang 
+44
+=== PAGE 62 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+62 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Viet Nam 
+Hà Nam 
+33 
+Viet Nam 
+Hà Nội 
+22 
+Viet Nam 
+Hà Tĩnh 
+40 
+Viet Nam 
+Hải Dương 
+25 
+Viet Nam 
+Hải Phòng 
+11 
+Viet Nam 
+Hậu Giang 
+24 
+Viet Nam 
+Hồ Chí Minh 
+27 
+Viet Nam 
+Hoà Bình 
+43 
+Viet Nam 
+Hưng Yên 
+2 
+Viet Nam 
+Khánh Hòa 
+34 
+Viet Nam 
+Kiên Giang 
+27 
+Viet Nam 
+Kon Tum 
+46 
+Viet Nam 
+Lai Châu 
+44 
+Viet Nam 
+Lâm Đồng 
+39 
+Viet Nam 
+Lạng Sơn 
+43 
+Viet Nam 
+Lào Cai 
+44 
+Viet Nam 
+Long An 
+41 
+Viet Nam 
+Nam Định 
+10 
+Viet Nam 
+Nghệ An 
+43 
+Viet Nam 
+Ninh Bình 
+41 
+Viet Nam 
+Ninh Thuận 
+32 
+Viet Nam 
+Phú Thọ 
+44 
+Viet Nam 
+Phú Yên 
+33 
+Viet Nam 
+Quảng Bình 
+47 
+Viet Nam 
+Quảng Nam 
+43 
+Viet Nam 
+Quảng Ngãi 
+41 
+Viet Nam 
+Quảng Ninh 
+42 
+Viet Nam 
+Quảng Trị 
+39 
+Viet Nam 
+Sóc Trăng 
+18 
+Viet Nam 
+Sơn La 
+42 
+Viet Nam 
+Tây Ninh 
+32 
+Viet Nam 
+Thái Bình 
+6 
+Viet Nam 
+Thái Nguyên 
+46 
+Viet Nam 
+Thanh Hóa 
+42 
+Viet Nam 
+Thừa Thiên Huế 
+41 
+Viet Nam 
+Tiền Giang 
+22 
+Viet Nam 
+Trà Vinh 
+20 
+Viet Nam 
+Tuyên Quang 
+45 
+Viet Nam 
+Vĩnh Long 
+19 
+Viet Nam 
+Vĩnh Phúc 
+45 
+Viet Nam 
+Yên Bái 
+43 
+Zambia 
+Central 
+42
+=== PAGE 63 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+63 of 70 
+Country 
+Sub-national 
+fNRB (%) 
+Zambia 
+Copperbelt 
+52 
+Zambia 
+Eastern 
+34 
+Zambia 
+Luapula 
+44 
+Zambia 
+Lusaka 
+37 
+Zambia 
+Muchinga 
+38 
+Zambia 
+North-Western 
+55 
+Zambia 
+Northern 
+38 
+Zambia 
+Southern 
+30 
+Zambia 
+Western 
+38 
+Zimbabwe 
+Bulawayo 
+11 
+Zimbabwe 
+Harare 
+6 
+Zimbabwe 
+Manicaland 
+21 
+Zimbabwe 
+Mashonaland Central 
+22 
+Zimbabwe 
+Mashonaland East 
+21 
+Zimbabwe 
+Mashonaland West 
+21 
+Zimbabwe 
+Masvingo 
+21 
+Zimbabwe 
+Matabeleland North 
+21 
+Zimbabwe 
+Matabeleland South 
+20 
+Zimbabwe 
+Midlands 
+21 
+1. 
+Country-level 
+54. 
+s 1 below provides preliminary results of the fNRB values at the country level for 43 
+countries in Sub-Saharan Africa. 
+Table 4. 
+fNRB values at the country level for the period 2020-2030  
+ID 
+County 
+Subregion 
+NRB 
+(2020 - 2030) 
+Harvest 
+(2020 - 2030) 
+fNRB 
+(2020 - 2030) 
+1 
+Sao Tome and Principe 
+Middle Africa 
+0 
+26 
+1 
+2 
+Mauritius 
+Eastern Africa 
+1 
+20 
+6 
+3 
+South Africa 
+Southern Africa 
+1,939 
+24,662 
+8 
+4 
+Botswana 
+Southern Africa 
+198 
+2,316 
+9 
+5 
+Namibia 
+Southern Africa 
+287 
+2,799 
+10 
+6 
+Swaziland 
+Southern Africa 
+227 
+1,617 
+14 
+7 
+Comoros 
+Eastern Africa 
+30 
+183 
+16 
+8 
+Zimbabwe 
+Eastern Africa 
+10,261 
+55,465 
+18 
+9 
+Cote d'Ivoire 
+Western Africa 
+25,029 
+130,474 
+19 
+10 
+Chad 
+Middle Africa 
+14,101 
+74,540 
+19 
+11 
+Ghana 
+Western Africa 
+32,966 
+161,532 
+20
+=== PAGE 64 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+64 of 70 
+ID 
+County 
+Subregion 
+NRB 
+(2020 - 2030) 
+Harvest 
+(2020 - 2030) 
+fNRB 
+(2020 - 2030) 
+12 
+Madagascar 
+Eastern Africa 
+38,213 
+174,794 
+22 
+13 
+Liberia 
+Western Africa 
+9,612 
+42,372 
+23 
+14 
+Togo 
+Western Africa 
+9,559 
+40,834 
+23 
+15 
+Angola 
+Middle Africa 
+33,702 
+131,867 
+26 
+16 
+Burkina Faso 
+Western Africa 
+31,502 
+116,872 
+27 
+17 
+Republic of the Congo 
+Middle Africa 
+12,392 
+46,613 
+27 
+18 
+Eritrea 
+Eastern Africa 
+5,280 
+17,711 
+30 
+19 
+Sierra Leone 
+Western Africa 
+19,628 
+65,899 
+30 
+20 
+Gambia 
+Western Africa 
+2,523 
+7,811 
+32 
+21 
+Democratic Republic of the Congo 
+Middle Africa 
+223,304 
+694,673 
+32 
+22 
+Zambia 
+Eastern Africa 
+37,083 
+113,828 
+33 
+23 
+Mozambique 
+Eastern Africa 
+54,973 
+163,634 
+34 
+24 
+Benin 
+Western Africa 
+26,208 
+75,389 
+35 
+25 
+Cameroon 
+Middle Africa 
+36,066 
+100,829 
+36 
+26 
+Ethiopia 
+Eastern Africa 
+193,578 
+537,661 
+36 
+27 
+Mali 
+Western Africa 
+65,630 
+184,740 
+36 
+28 
+Central African Republic 
+Middle Africa 
+11,278 
+29,685 
+38 
+29 
+Uganda 
+Eastern Africa 
+108,732 
+288,867 
+38 
+30 
+Nigeria 
+Western Africa 
+267,522 
+678,337 
+39 
+31 
+Mauritania 
+Western Africa 
+8,778 
+21,918 
+40 
+32 
+Guinea-Bissau 
+Western Africa 
+5,942 
+14,138 
+42 
+33 
+Guinea 
+Western Africa 
+67,842 
+161,787 
+42 
+34 
+Gabon 
+Middle Africa 
+1,047 
+2,418 
+43 
+35 
+Kenya 
+Eastern Africa 
+151,363 
+333,772 
+45 
+36 
+Senegal 
+Western Africa 
+35,611 
+79,600 
+45 
+37 
+Malawi 
+Eastern Africa 
+36,703 
+77,770 
+47 
+38 
+Tanzania 
+Eastern Africa 
+140,579 
+299,239 
+47 
+39 
+Equatorial Guinea 
+Middle Africa 
+1,309 
+2,404 
+54 
+40 
+Rwanda 
+Eastern Africa 
+33,856 
+57,078 
+59 
+41 
+Burundi 
+Eastern Africa 
+36,862 
+61,111 
+60 
+42 
+Djibouti 
+Eastern Africa 
+871 
+1,420 
+61 
+43 
+Niger 
+Western Africa 
+52,821 
+85,663 
+62
+=== PAGE 65 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+65 of 70 
+2. 
+Subnational level (the first administrative level) 
+Tables 2 and 3 below provide preliminary results of the fNRB values at the subnational 
+level for the Republic of Congo and Mauritania respectively, both of which show high 
+variability. 
+Table 5. 
+fNRB values at the subnational level in the Republic of the Congo 
+First administrative level 
+NRB (kt) (2020 - 2030) 
+Harvest (kt) 
+(2020 - 2030) 
+fNRB  
+(2020 - 2030) 
+Bouenza 
+458 
+4447 
+7 
+Brazzaville 
+1 
+40 
+2 
+Cuvette-Ouest 
+270 
+1027 
+21 
+Cuvette 
+1176 
+3742 
+26 
+Kouilou 
+1647 
+3671 
+38 
+Lekoumou 
+2621 
+5275 
+42 
+Likouala 
+1064 
+2013 
+45 
+Niari 
+1854 
+5737 
+27 
+Plateaux 
+1199 
+7779 
+12 
+Pointe Noire 
+0 
+9 
+0 
+Pool 
+1814 
+12288 
+11 
+Sangha 
+287 
+583 
+41 
+National Total 
+12392 
+46613 
+27 
+Table 6. 
+fNRB values at the subnational level in Mauritania 
+First administrative level 
+NRB (kt) 
+(2020 - 2030) 
+Harvest (kt) 
+(2020 - 2030) 
+fNRB 
+(2020 - 2030) 
+Adrar 
+0 
+115 
+0 
+Assaba 
+245 
+2498 
+12 
+Brakna 
+1542 
+2969 
+41 
+Dakhlet Nouadhibou 
+0 
+8 
+0 
+Gorgol 
+1617 
+2822 
+50 
+Guidimaka 
+979 
+2215 
+43 
+Hodh ech Chargui 
+748 
+3269 
+20 
+Hodh el Gharbi 
+451 
+2743 
+14 
+Inchiri 
+0 
+42 
+0 
+Nouakchott 
+0 
+33 
+0 
+Tagant 
+4 
+193 
+2
+=== PAGE 66 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+66 of 70 
+First administrative level 
+NRB (kt) 
+(2020 - 2030) 
+Harvest (kt) 
+(2020 - 2030) 
+fNRB 
+(2020 - 2030) 
+Tiris Zemmour 
+0 
+44 
+0 
+Trarza 
+3192 
+4968 
+54 
+National Total 
+8778 
+21918 
+40
+=== PAGE 67 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+67 of 70 
+Appendix 2. Values for fraction of non-renewable biomass-
+Regional and National values 
+Table 1. 
+Regional fNRB values 
+Region 
+fNRB (%) 
+1. 
+Asia 
+17 
+2. 
+Latin America 
+33 
+3. 
+Sub-Saharan Africa 
+39 
+Table 2. 
+National12 fNRB values13  
+Country 
+fNRB (%) 
+Afghanistan 
+10 
+Angola 
+27 
+Armenia 
+1 
+Azerbaijan 
+1 
+Bangladesh 
+39 
+Benin 
+34 
+Bhutan 
+30 
+Plurinational State of Bolivia 
+14 
+Botswana 
+35 
+Brazil 
+13 
+Burkina Faso 
+36 
+Burundi 
+35 
+Côte d'Ivoire 
+19 
+Cambodia 
+20 
+Cameroon 
+38 
+Central African Republic 
+42 
+Chad 
+37 
+China 
+10 
+Colombia 
+7 
+Costa Rica 
+10 
+Democratic Republic of the Congo 
+42 
+Djibouti 
+1 
+Dominican Republic 
+43 
+Ecuador 
+28 
+Equatorial Guinea 
+31 
+Eritrea 
+30 
+ 
+12 Where national values are not available for a particular country, project participants may refer to the 
+relevant regional values in Table 2. 
+13 Source: MoFuSS global simulations 1km 2010-2050 File: 2020-2030 values summary_adm0_fr.csv.
+=== PAGE 68 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+68 of 70 
+Country 
+fNRB (%) 
+Eswatini 
+16 
+Ethiopia 
+33 
+Gabon 
+18 
+Gambia 
+55 
+Georgia 
+1 
+Ghana 
+35 
+Guatemala 
+41 
+Guinea 
+37 
+Guinea-Bissau 
+34 
+Guyana 
+0 
+Haiti 
+59 
+Honduras 
+33 
+India 
+7 
+Indonesia 
+9 
+Islamic Republic of Iran 
+5 
+Iraq 
+1 
+Jamaica 
+38 
+Jordan 
+1 
+Kazakhstan 
+7 
+Kenya 
+29 
+Kyrgyzstan 
+25 
+Lao People’s Democratic Republic 
+47 
+Liberia 
+40 
+Mexico 
+30 
+Madagascar 
+36 
+Malawi 
+48 
+Malaysia 
+39 
+Mali 
+45 
+Mauritania 
+65 
+Mongolia 
+12 
+Mozambique 
+38 
+Myanmar 
+36 
+Namibia 
+28 
+Nepal 
+45 
+Nicaragua 
+26 
+Niger 
+61 
+Nigeria 
+38 
+Pakistan 
+8 
+Panama 
+21 
+Papua New Guinea 
+8 
+Peru 
+4 
+Philippines 
+55
+=== PAGE 69 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+69 of 70 
+Country 
+fNRB (%) 
+Republic of the Congo 
+16 
+Rwanda 
+33 
+Senegal 
+61 
+Sierra Leone 
+41 
+Somalia 
+64 
+South Africa 
+18 
+South Sudan 
+35 
+Sri Lanka 
+45 
+Sudan 
+50 
+Syrian Arab Republic 
+3 
+Tajikistan 
+19 
+United Republic of Tanzania 
+51 
+Thailand 
+20 
+Timor-Leste 
+39 
+Togo 
+46 
+Türkiye 
+13 
+Turkmenistan 
+0 
+Uganda 
+39 
+Uzbekistan 
+15 
+Viet Nam 
+36 
+Zambia 
+40 
+Zimbabwe 
+21
+=== PAGE 70 ===
+CDM-MP96-A03 
+  
+Information note: Development of default values for fraction of non-renewable biomass 
+Version 02.0 
+70 of 70 
+Appendix 3. Report from external experts, June 2024 
+The external experts’ report “Default values for fraction of non-renewable biomass (fNRB)” is 
+available at https://cdm.unfccc.int/public_inputs/2024/202406/index.html. 
+- - - - - 
+Document information 
+Version 
+Date 
+Description 
+ 
+02.0 
+6 March 2025 
+MP 96, Annex 3 
+To be considered by the Board at EB 124.  
+This updated information note incorporates the feedback from the 
+Board at EB 120 and EB 123, and includes default subnational, 
+national, regional and global fNRB values.  
+01.0 
+06 October 2023 
+MP 92, Annex 7 
+To be considered by the Board at EB 120. 
+Decision Class: Regulatory  
+Document Type: Information note 
+Business Function: Methodology  
+Keywords: biomass, calculations, fraction of non-renewable biomass, wood products

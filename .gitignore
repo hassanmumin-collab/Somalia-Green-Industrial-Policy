@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+report/build/*
+!report/build/.gitkeep
+sources/raw/S-001_NTP-2025-2029.pdf
+# OCR page images: regenerate with tools/extract.py <ID> --force
+sources/text/*_pages/

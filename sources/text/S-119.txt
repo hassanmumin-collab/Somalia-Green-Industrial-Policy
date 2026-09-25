@@ -1,0 +1,215 @@
+=== PAGE 1 ===
+UC Berkeley
+Master of Climate Solutions
+A program of Rausser College of Natural Resources
+The MCS Playbook
+=== PAGE 2 ===
+Learning objectives
+1.
+Review high level climate solutions strategies
+2.
+Introduce our standard analysis "playbook" for climate solutions technologies
+3.
+Develop a list of "levers" we can pull to address climate solutions costs.
+4.
+Interpret a climate solutions scoping plan in the context of the MCS playbook
+Reading for this unit: 
+●
+CARB's 2022 Scoping Plan Executive Summary
+●
+Koomey and Monroe, Ch 2 (recommended)
+=== PAGE 3 ===
+●
+Take a systems-level perspective; 
+thinking on the margin wonʼt work
+●
+Ensure solutions align with a just 
+transition
+Climate solutions technology mindset 
+(review):
+=== PAGE 4 ===
+1.
+Electrify what you can
+2.
+Decarbonize supply 
+(electricity, low carbon fuels)
+3.
+Increase efficiency
+4.
+Remove carbon 
+5.
+Minimize non-fossil warming
+To support this: Configure 
+regulatory, financial, and media 
+systems to enable
+Climate solutions mindset (from Koomey 
+and Monroe)
+Electrify what 
+you can
+Decarbonize 
+supply
+Non-fossil
+=== PAGE 5 ===
+Step 1.
+Techno-economic analysis:
+a.
+Compute the technical potential of the climate solution in terms of avoided 
+CO2 emissions
+b.
+Determine the implied cost per ton of CO2 avoided by the climate solution
+c.
+Enumerate caveats to the technoeconomic analysis
+The MCS Technology Analysis PlaybookTM
+Step 2.
+Evaluate socio-political drivers and barriers:
+a.
+Stakeholder analysis
+b.
+Evaluate who could pay the cost, and how
+Step 3.
+In sum: What is the potential for speed and scale?
+a.
+What are the most important issues to address for the solution to work 
+quickly and at scale?
+b.
+What is your assessment of the potential for the solution to deliver 
+gigaton-scale emissions reductions?
+=== PAGE 6 ===
+Step 1a: Technical potential
+1.
+Define the incumbent technology and its market area
+2.
+Compute the CO2 emissions for the incumbent technology in the market 
+area
+3.
+Quantify the service delivered by the incumbent technology
+a.
+E.g. how much heating in buildings, vehicle miles traveled, metric tons of steel, electricity 
+generated…
+4.
+Compute the CO2 emissions for the climate solution to deliver the same 
+service in the same market area.
+This is where the 
+fun modeling is…
+=== PAGE 7 ===
+1a, Technical potential: Example questions
+These are pure energy accounting questions. Examples:
+●
+Demand side: How much energy does the carbon emitting 
+technology consume? How much zero carbon energy do we need 
+for its substitute?
+●
+Supply side: How big is the zero carbon energy resource, how 
+does it compare to what we need?
+How big are the efficiency penalties? Can they be overcome? 
+Examples:
+●
+Solar needs (inefficient) energy storage; may need to be curtailed
+●
+Rankine cycle in a nuclear generator is only ~40% efficient.
+=== PAGE 8 ===
+Step 1b: Implied cost per ton
+The challenge? Determine what units to use for costs and emissions
+Option 1: Costs and emissions for total market area
+Option 2: Costs and emissions per unit of stuff
+"Stuff" could be kWh, buildings, pounds of steel, airline flight miles, etc.
+Cost per 
+metric ton
+=
+Climate solution cost - status quo cost
+Status quo CO2 - Climate solution CO2
+=== PAGE 9 ===
+Step 1c: What are the techno-economic caveats?
+Example Q1: Is the supply chain able to 
+deliver inexpensively?
+Example Q2: Do we have the 
+materials?
+Example Q3: Is the solution ready for 
+production?
+Example Q4: Are there systemic issues 
+that must also be addressed?
+=== PAGE 10 ===
+Step 2a: Socio-political drivers and barriers
+●
+Who are the major stakeholders?
+●
+What do stakeholders stand to gain or lose from the solution? 
+●
+How does the solution enable (or disable) a just transition?
+●
+What power do the stakeholders have? 
+●
+What stakeholder coalitions are possible?
+=== PAGE 11 ===
+Step 2b: Who pays and how?
+●
+When we have an implied cost of carbon, how will society pay for it, and how 
+will that impact stakeholders?
+Two ways to think about this:
+●
+Private costs to the consumers and businesses that purchase and use the 
+technology solution. 
+●
+Total social cost to deploy the technology solution. 
+Why would social cost and private costs differ?
+●
+Governments could spend money to support solutions (we'll talk about that in 
+this class)
+●
+Societal externalities (we won't talk about that in this class)
+=== PAGE 12 ===
+Group activity: Ways to reduce the private cost of carbon 
+abatement
+(Results here.)
+=== PAGE 13 ===
+Duncan's summary: ways to offset climate solutions costs
+Reduce capex
+Investment Tax Credits (ITCs), Grants, Accelerated 
+Depreciation.
+Reduce opex
+Production Tax Credits (PTCs), Feed-in Tariffs (FITs), 
+Renewable Energy Certificates (RECs).
+Price carbon
+Carbon Taxes, Emissions Trading Schemes (Cap-and-Trade).
+Standards
+Renewable Portfolio Standards (RPS), EV Sales Mandates, 
+Energy Efficiency Standards.
+Subsidize R&D
+Government-funded National Labs, University Grants, 
+Innovation Prizes.
+De-risking
+Loan Guarantees, Direct Green Public Infrastructure 
+Spending, Advance Market Commitments (AMCs).
+=== PAGE 14 ===
+Step 3: In sum, evaluate potential for speed and scale
+1.
+What are the warts to a solution…what needs to improve?
+2.
+What is the size of the total addressable market? (How much carbon can the 
+solution save?)
+3.
+Does the solution have “voltage,” i.e. the power to beat the status quo? 
+Beware of confirmation bias as you evaluate the data to answer this question. 
+(Cribbed from John List's Speed and Scale book)
+4.
+Are people really willing to pay? Be skeptical. What are the realistic 
+opportunities to reduce private costs?
+=== PAGE 15 ===
+How much and in what ways do they discuss: 
+●
+Technical potential
+●
+Economic potential
+●
+Caveats, like materials availability and 
+tech.readiness?
+How do they evaluate social, political and business 
+opportunities?
+●
+Stakeholders;
+●
+Their interests, power, and role in a just transition 
+How do they address potential for speed and scale?
+Class discussion: California ARB
+=== PAGE 16 ===
+Quiz, and break

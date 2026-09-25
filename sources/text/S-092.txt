@@ -1,0 +1,3375 @@
+=== PAGE 1 ===
+ 
+ 
+Sub-Sector Mapping & Value Chain Analysis of the 
+Livestock Sub-Sector in Somalia 
+ 
+TECHNICAL REPORT 
+Mogadishu, January 2021 
+ 
+This technical report was conducted by UNIDO Somalia Programme team of experts, within the 
+framework of the “Agro-technology development for Economic Growth in South and Central Somalia” 
+project, implemented by UNIDO and funded by AICS/Italy.
+=== PAGE 2 ===
+ 
+ 
+2 | P a g e 
+ 
+Acronyms   
+ 
+ 
+1. 
+MoCI 
+Ministry of Commerce & Industry 
+2. 
+FGS 
+Federal Govt. of Somalia 
+3. 
+GDP 
+Gross Domestic Product 
+4. 
+FAO 
+Food & Agriculture Organization 
+5. 
+UNFPA 
+United Nations Population Fund 
+6. 
+FSAU 
+Food Security Assessment Unit 
+7. 
+IGAD 
+Inter-Governmental Authority for Development 
+8. 
+ICRC  
+International Committee  for Red Cross 
+9. 
+ILRI 
+International Livestock Research Institute 
+10. 
+MT 
+Metric Tonne 
+11. 
+USAID 
+United States Agency for International Development 
+12. 
+COOPI 
+Cooperazione Internazionale 
+13. 
+CEFA 
+European Committee for Training and Agriculture 
+14. 
+NGO 
+Non-Governmental Organization 
+15. 
+OEC 
+Observatory of Economic Complexity 
+16. 
+EU 
+European Union 
+17. 
+FSNAU 
+Food Security & Nutrition Analysis Unit 
+18. 
+FEWSNET 
+Famine Early Warning Systems Network
+=== PAGE 3 ===
+ 
+ 
+3 | P a g e 
+ 
+Bibliography 
+• The Contribution of Livestock to the Somali Economy- IGAD Centre for Pastoral Areas and 
+Livestock Development (ICPALD) 
+• Milk Value Chain analysis study in Dangorayo, Badhan and Bossaso districts in Nugal , 
+Sanaag and Bari regions in Puntland –Somalia - KAALO AID AND DEVELOPMENT 
+RGANIZATION UNDER THE RESTORE PROJECT. 
+• Feasibility Study in Preparation for the “Milk Matters Pilot Project” in Beledweyne and 
+Mataban Districts of Hiran Region, South Central Somalia- prepared by the HSED Group 
+Kenya 
+• An Investigation of constraints and opportunities in setting up hygiene standards in Somalia 
+meat export Industry. -   Dr. Massimo Castiello 
+• Burao slaughterhouse sets a milestone in the Somali meat industry- FAO 
+• Fusing formal and informal trading : Emerging practices in the Livestock value chains 
+between Kenya and Somalia- Danish Institute for International studies DIIS : Working Paper 
+2019:12 
+• SOMALIA Livestock Price Bulletin November 2019: FEWSNET 
+• Offal Consumption among the Somali Population in Boroma, Burao and Bossaso Towns- 
+KAPS 
+• Summary Report 2019 – Mogadishu Port Authority 
+• The indigenous farm genetic resources of Somalia: Preliminary phenotypic and genotypic 
+characterization of cattle, sheep and goats- ILRI PROJECT REPORT 
+• Somalia: MARKET FEASIBILITY STUDY: MOGADISHU May 2020- CWG Cash 
+Working Group 
+• Report on AnGR for Somaliland and Somalia – Dr Ahmed Nur , NC of AnGR for Somalia 
+• The Somali chilled meat value chain: Structure, operation, profitability and opportunities to 
+improve the competitiveness of Somalia’s chilled meat export trade- CGIAR 
+• Somali- Country Economic Memorandum Vol I – Rebuilding Resilient and Sustainable 
+Agriculture in Somalia - FAO  
+• Market Update – March 2018 – FSNAU 
+• 
+Website: https://www.fsnau.org/products/bulletins/market-data-update/archives 
+• 
+Website : https://shuraako.org/project-sector/agriculture 
+• Website- http://www.fao.org/faostat/en/#data 
+• Website-   https://www.selinawamucii.com/insights/market/somalia/ 
+• Website- https://oec.world/en/visualize/tree_map/hs92/export/som/show/2106/2017/
+=== PAGE 4 ===
+ 
+ 
+4 | P a g e 
+ 
+ 
+Contents 
+1. 
+Executive Summary ........................................................................................................................ 6 
+2. 
+Background .................................................................................................................................... 7 
+2.1 
+Project Background ........................................................................................................................... 7 
+2.2 
+Socio-economic profile of Somalia .................................................................................................... 7 
+2.3 
+Scope of the Study ............................................................................................................................ 9 
+2.4 
+Methodology/ Approach of the study .............................................................................................. 9 
+a. 
+Scoping visit to the field .................................................................................................................... 9 
+b. 
+Secondary Literature Review ............................................................................................................ 9 
+c. 
+Study Tools Development ............................................................................................................... 10 
+d. 
+Field research .................................................................................................................................. 10 
+e. 
+Analysis and report writing ............................................................................................................. 10 
+2.5 
+Scope & Limitation of the study ...................................................................................................... 10 
+3. 
+OVERVIEW OF LIVESTOCK SUB-SECTOR IN SOMALIA .................................................................. 11 
+3.1 
+Introduction .................................................................................................................................... 11 
+3.2 
+Types of Livestock ........................................................................................................................... 13 
+3.2.1 
+Livestock numbers and distribution: ....................................................................................... 13 
+3.2.2 
+Breeds of Livestock ................................................................................................................. 15 
+3.3 
+Livestock production system .......................................................................................................... 17 
+3.4 
+Livestock associated value chains ................................................................................................... 18 
+3.5 
+National policies and support agencies .......................................................................................... 18 
+4. 
+UNDERSTANDING OF LIVESTOCK REARING IN SOMALIAN CONTEXT .......................................... 20 
+4.1 
+Composition of animals reared ....................................................................................................... 20 
+4.2 
+Source of procurement of livestock for rearing .............................................................................. 21 
+4.3 
+Healthcare of livestock .................................................................................................................... 21 
+4.3.1 
+Types of healthcare measures ................................................................................................ 21 
+4.3.2 
+Incidence of death in livestock ................................................................................................ 22 
+4.4 
+Grazing methods ............................................................................................................................. 22 
+4.4.1 
+Type of grazing ........................................................................................................................ 22 
+4.4.2 
+Type of fodder ......................................................................................................................... 23 
+4.4.3 
+Grazing Responsibility ............................................................................................................. 23 
+4.5 
+Main purpose of rearing ................................................................................................................. 24
+=== PAGE 5 ===
+ 
+ 
+5 | P a g e 
+ 
+5. 
+Milk Sub-sector and its associated value chains .......................................................................... 25 
+5.1 
+Introduction .................................................................................................................................... 25 
+5.2 
+Estimate of milk demand and supply .............................................................................................. 26 
+5.3 
+Seasonal milk price fluctuation ....................................................................................................... 26 
+5.4 
+Various actors/ stake-holders ......................................................................................................... 27 
+5.5 
+Sub-sector map ............................................................................................................................... 29 
+ .................................................................................................................................................................... 29 
+5.6 
+VALUE CHAIN FRAMEWORK FOR FRUITS & VEGETABLES SUB-SECTOR .......................................... 30 
+5.7 
+Value addition in Camel Milk value chain ....................................................................................... 31 
+5.8 
+Milk processing ............................................................................................................................... 33 
+5.9 
+Milk handling and transportation ................................................................................................... 34 
+5.10 
+Governance ..................................................................................................................................... 36 
+5.11 
+Inter-firm cooperation .................................................................................................................... 37 
+5.11.1 
+Horizontal linkages .................................................................................................................. 37 
+5.11.2 
+Vertical linkages ...................................................................................................................... 37 
+5.12 
+Structure of labour market ............................................................................................................. 38 
+6. 
+Meat Sub-sector and its associated value chains ........................................................................ 39 
+6.1 
+Introduction .................................................................................................................................... 39 
+6.2 
+Estimate of domestic meat demand and supply ............................................................................. 40 
+6.3 
+Export market ................................................................................................................................. 41 
+6.4 
+Various actors/ stake-holders ......................................................................................................... 42 
+6.5 
+Sub-sector map ............................................................................................................................... 44 
+ .................................................................................................................................................................... 44 
+6.6 
+VALUE CHAIN FRAMEWORK FOR MEAT SUB-SECTOR .................................................................... 45 
+6.7 
+Value addition in Goat meat value chain ........................................................................................ 46 
+6.8 
+Meat processing .............................................................................................................................. 48 
+6.9 
+Governance ..................................................................................................................................... 50 
+6.10 
+Inter-firm cooperation .................................................................................................................... 51 
+6.10.1 
+Horizontal linkages .................................................................................................................. 51 
+6.10.2 
+Vertical linkages ...................................................................................................................... 51 
+6.11 
+Structure of labour market ............................................................................................................. 51 
+7. 
+FINDINGS & KEY ISSUES ............................................................................................................... 52 
+8. 
+RECOMMENDATION ON AREAS for SKILL SET UPGRADATION .................................................... 54
+=== PAGE 6 ===
+ 
+ 
+6 | P a g e 
+ 
+ 
+1. Executive Summary 
+Under the purview of Agro-Tech project that is being implemented by UNIDO in Central and South Somalia 
+regions, capacity building programs of the productive sector in these regions are being implemented. In order 
+to understand the sectoral situation in the Livestock sub-sector, a sub-sector analysis and value chain 
+mapping was conducted. This study primarily was conducted using primary data points and review of existing 
+secondary reports. The objective of the study is to allow UNIDO strategies on its initiatives for technology 
+up-gradation, promote investments, identify skill gaps and organize relevant skill enhancement trainings.  
+The report presented an overview of the Livestock sub-sector in Somalia and subsequent value chain analysis 
+of Milk and Meat processing. It presents the existing statistics on the sub-sector, the various breeds of 
+animals, the production system, various support agencies, mapping of the various stake-holders etc. The 
+report in addition analysed the primary data to substantiate or validate many of the secondary report 
+information. Based on these findings, skill need assessment was done and capacity building initiatives were 
+proposed.  
+It is very apparent and substantiated that Livestock production has been the backbone of the Somali 
+economy for many centuries. It is the most important source of food and income for the predominantly rural 
+population, accounting 55.03 % of the total population as of 2018 according to World Bank Report. 
+Agricultural exports are prominent component in the overall country’s total export and is valued to be $634 
+million, which is more than five times the value before the civil war, thanks to livestock exports, which rose 
+by a factor of almost 10 since the late 1980s. 
+While analysing the primary data, it reflects interesting combination of animals reared by a farmer. Livestock 
+farmers rearing camel tend to also do Shoat while Cattle rearers except few exceptions of goat rearing tend 
+to rear cattle as the sole animal. Most of the livestock rearers are practicing nomadic pastoralism with 
+improvised methods of stall feeding without any construction of assets. Though limited numbers ( 14%) of 
+the rearers did practice stall feeding or reared animals at a fixed location. It can be seen from the primary 
+data, most of the respondents have indicated that smaller animals like Goat and Sheep are reared and sold 
+as whole animal, while the primary reason for rearing Cattle and Camel is selling milk. 
+Somalia is primarily a milk producing nation or have substantial large milk sub-sector but if one talks about 
+the dairy sub-sector, it has a very poor dairy sub-sector. In-fact, it is a net importer of dairy products with 
+concentrated milk constitutes 4.7% of the total imports valuing 157 million US$ in 2018 (Source: OEC World). 
+Considerable amount of other dairy products like Butter and Cheese are also imported. The reason that can 
+be attributed to this trend is lack of processing facilities of milk and very weak cold chain and transportation 
+network that leads to huge spoilages. 
+Somalia’s livestock exports have been mainly live animals. In-fact, in the 60’s and 70’s, it comprised almost 
+70% of total Saudi Arabia’s import (Samatar et al. 1987). The main export destinations are mostly Middle East 
+countries including Saudi Arabaia, Yemen, UAE, Oman, Qatar etc. Exports are also reported both through 
+cross-border illegal trade or through legitimate channels to East African countries. In the last decade, a few 
+export standard slaughter-houses have been established in some parts of Somalia. Tied up with exporters, 
+these slaughter-house has been able to export chilled meat in carcass form.
+=== PAGE 7 ===
+ 
+ 
+7 | P a g e 
+ 
+2. Background 
+2.1 Project Background 
+ 
+The Agro-Tech project which is being implemented by UNIDO is providing assistance in the revival of 
+productive sectors in Central and South Somalia regions by establishing a network of three agro-technology 
+and enterprise development units to support Somali businesses in starting, rehabilitating and upgrading 
+agro-industrial operations, particularly by accessing to new technologies, markets, market-based skilled 
+labour and financing facilities.  
+Emphasis in the project implementation will also be provided in supporting the labour force responding to 
+the needs of the market with market based vocational and technical skills trainings to feed the growing needs 
+of the MSMES sector with skilled labour capable of making modern and better tools, and in installing, 
+operating, maintaining and repairing old and modern agriculture and agro-industrial equipment.  
+Furthermore, a credit facility to facilitate access to finance to project supported entrepreneurs is to be 
+established and deployed within the framework of the project.  
+Overall, the project will aim at increasing the potential for economic opportunities and job creation in the 
+agro-industrial sector of the Southern and Central regions of Somalia by focusing on four key actions:  
+i. Promoting agro-technology upgrading and entrepreneurship development;  
+ii. Delivering vocational and technical skill trainings to improve productivity of agro-industrial 
+tradesmen and micro-industries  
+iii. Facilitating access to technology, markets and finance; and  
+iv. Providing institutional support in the area of agro-technology transfer, investment promotion, 
+and entrepreneurship development.  
+ 
+In order to design the vocational training curriculum, the modules will be made based on skill gap analysis in 
+three of the intervention sub-sectors- Fruits & Vegetables, Livestock and Fishery. Hence, to have an 
+understanding of these three sub-sectors, a sub-sector mapping and value chain analysis is planned for each 
+of these three sub-sectors and provide recommendation in the areas of the value chains where the skill gap 
+analysis could look at. 
+This project has been funded by the Italian Cooperazione with FGS- Ministry of Commerce & Industry (MoCI) 
+as the line Ministry. 
+2.2 Socio-economic profile of Somalia 
+ 
+Facing decades’ civil war, Somalia has gradually stabilized its economy with institutions and systems being 
+built. The country is still fragile with highly dependent on aid and remittances, which is reflected when drought 
+or major economic upheavals occur.  As per the World Bank report the GDP of the country is growing at a 
+steady rate (2 to 3 %) since 2013 with an exception of 2017 when due to a slump, the GDP shrunk. The 2018, 
+nominal GDP for Somalia is 4.72 billion USD with per capita GDP is 332 USD, which is not even 1 USD a day. 
+The GDP estimate in Somalia is calculated using the expenditure method.  
+ 
+Item 
+Amount 
+Household final consumption expenditure 
+7,358 
+Government final consumption expenditure 
+531 
+Gross fixed capital formation 
+309
+=== PAGE 8 ===
+ 
+ 
+8 | P a g e 
+ 
+• 
+Private investment spending 
+• 
+Public investment spending 
+Net exports of goods and services 
+ 
+-3,478 
+Export: 1,224 
+Import: 4,702 
+  
+All figures in million USD 
+ 
+It can be seen that the substantial contribution to GDP is house-hold consumption and not government 
+expenditure or industrial production. The negative net exports shown above shows that the Imports is almost 
+the same of GDP, which indicates that the economy is highly import driven and is the main source for 
+fuelling the house-hold consumption. 
+An analysis of the import/export figures received from Mogadishu Port Authority (Fig. for year 2019). 
+The tables below provide a snapshot on import items. 
+ 
+Food Items 
+Building Mat 
+Other Items 
+• 
+Sugar 
+• 
+Rice 
+• 
+Flour 
+• 
+Pasta 
+• 
+Cooking Oil 
+• 
+Oatmeal 
+• 
+Milk powder 
+• 
+Tomato paste 
+• 
+Cement 
+• 
+Wood/Iron 
+• 
+Iron sheet 
+• 
+Tiles /plates 
+• 
+Painting 
+• 
+Garments 
+• 
+Electronics 
+• 
+Spare-parts 
+• 
+Drugs 
+• 
+Sanitary items 
+ 
+It can be seen from the above table that food import constitutes a significant amount which is further 
+substantiated by FAO-World Bank report that states Somalia faces chronic food crop deficit with own 
+production can only 22% of the per capita needs.  
+ 
+The limited exports that goes from Somalia is highly agriculture oriented with 93% share is from Agriculture 
+of which Livestock (Whole animal) presents 50% of the total. The other agriculture items are Sesame and dry 
+lemon which is exported. Most of the live animal is exported to Saudi Arabia- specially catering to Hajj visitors 
+and during Eid Al-Adha.  
+ 
+While, official remittances from the diaspora are estimated at about $1.4 billion a year, equivalent to about 
+23 percent of Somalia’s GDP (IMF 2017) and could be the major contributor to house-hold private 
+consumption that is the back-bone of Somalia’s GDP. About 3.4 million people—roughly 40 percent of the 
+population—depend on remittances for their daily needs, and about 80 percent of all new business ventures 
+are funded by remittances. The IMF figures for 2017 quotes that Somalia received foreign assistance as ODA 
+is 1.65 billion USD.  
+ 
+Somalia, being import depended country with minimal exports, the balance of payment is highly skewed with 
+trade deficit as mentioned in 2018 as 3478 million USD. This negative balance of payment is normally covered 
+through foreign remittances (almost 25% of GDP) and external grants classified as ODA (Overseas 
+Development Assistance). 
+47%
+39%
+14%
+Food Items
+Building materials
+Other Items
+=== PAGE 9 ===
+ 
+ 
+9 | P a g e 
+ 
+2.3 Scope of the Study 
+o Mapping of the existing Livestock sub-sector in Somalia. 
+o Analyse various value chains operating within the sub-sector. 
+§ 
+Production system 
+§ 
+Demand and Supply Analysis 
+§ 
+Value addition within the Chains 
+§ 
+Marketing Channels 
+§ 
+Actors/Sub-actors/Stake-holders 
+§ 
+Horizontal and Vertical Linkages/Relationship among the Actors 
+§ 
+Governance 
+§ 
+Inter-firm cooperation 
+o Recommendations in selected areas of the operating value chains on the probable areas of 
+skill set building.  
+2.4 Methodology/ Approach of the study 
+The methodology adopted was with twin pronged approach for conducting the studying which includes 
+primary information collection & analysis and secondary data analysis for achieving the overall objectives.   
+The assessment of the Livestock subsector and its value chains was conducted by UNIDO, using the following 
+steps:   
+• 
+Scoping visit to the field 
+• 
+Secondary literature review  
+• 
+Study tools development 
+• 
+Field research  
+• 
+Analysis and report preparation 
+Each of these activities is detailed below: 
+a. Scoping visit to the field 
+The first step taken by the research team was to acquaint themselves with the ground realities and 
+understand the broad parameters of the sub-sector operating in the country. The team interacted with 
+various experts, key informants of the sub-sector and prepared a preliminary report, which was shared with 
+the PMU.  
+This scoping visit helped the research team to have a preliminary idea about the various players in the value 
+chain. This was useful in designing the various questionnaires that were used to collect data from field. 
+b. Secondary Literature Review 
+Different secondary literature was collected and reviewed to develop a general idea on the sub-sector and 
+its associated value chains and the study area. Extensive web search was done to locate secondary 
+information that would be useful for analysis. The secondary literature was continuously referred throughout 
+the primary data collection as well as during analysis and report writing period. In addition, inputs from 
+expert opinions from various institutions have been collected and used in the study. 
+A list of prominent articles and documents that were referred to has been provided as part of the annex
+=== PAGE 10 ===
+ 
+ 
+10 | P a g e 
+ 
+c. Study Tools Development 
+As a part of the primary data collection, it was decided to have individual survey of the value chain actors.  
+The individual survey was conducted with livestock farmers, traders, processors. Separate sets of 
+questionnaire/ checklist were developed for each actor and used in the field research. 
+d. Field research 
+The field research component was conducted for a period of 30 days. During this period, individual interview 
+with livestock farmers, individual interviews with traders, individual interviews with key informants including 
+processors of milk and meat processors were conducted by team consisting of local expert and UNIDO local 
+staff.  
+The interaction with stakeholders focused upon tapping the knowledge base of the local stakeholders, the 
+status of livestock production in the country and also assesses their capacities for involvement in the activity.  
+The interactions and visits were supported by analysis of the secondary data related to livestock production 
+and trade, and also helped in forecast and estimation.  
+e. Analysis and report writing 
+All the data collected from individual interviews were then fed into MS Excel sheets from the hard copies of 
+the questionnaire. These data were then used to generate tables, which were analysed to find the situation 
+and the status of the value chain. These tables are then incorporated into the report, and the combination 
+of the data analyses of primary data and inferences from the secondary literature reviewed coupled with 
+opinion from key informants were the basis for the report. 
+2.5 Scope & Limitation of the study 
+Some of the limitations faced by the study team during its course of work is reported below: 
+• 
+The sample size for primary data has been selected mostly from Banadir and Juba-land, where 
+accessibility of the research team was high.  The input received from these samples along-with 
+secondary data has been extrapolated to generalise for the country, which might have overlooked 
+many local conditions prevalent in other regions. 
+• 
+The primary data collection has been through re-call methodology, which has the limitation due to 
+non-documentation of records as well as the fear of mixing of records pertaining to other crops. 
+• 
+Fruits and Vegetable cultivation and trading is a highly un-organized economic activity, hence the 
+authenticity of secondary data used is at times doubtful. 
+• 
+Somalia has come out of civil war only few years back. Many of the research Institutions as well as 
+Government entities for data collection are still in their infancy. Due to this situation, the availability 
+of secondary data was very difficult and limited. Even, whatever secondary data reported, the 
+authenticity is not beyond doubt.
+=== PAGE 11 ===
+ 
+ 
+11 | P a g e 
+ 
+ 
+ 
+3.  OVERVIEW OF LIVESTOCK SUB-SECTOR IN SOMALIA 
+3.1  Introduction 
+ 
+Somalia has been traditionally a pastoral society with livestock rearing a part and parcel of the 
+economy and society. Somalia’s terrain consists mainly of plateaus, plains and highlands with year 
+round hot climate with sporadic rainfall. This has resulted in arid and semi-arid lands where livestock 
+becomes a vital source of livelihoods.  
+ 
+Livestock production has been the backbone of the Somali economy for many centuries. It is the most 
+important source of food and income for the predominantly rural population, accounting 55.03 % of 
+the total population as of 2018 according to World Bank Report. Prior to the war, some 46% of the 
+total population were engaged in nomadic pastoralist and livestock accounted for 40% of the GDP 
+and 80% of all export earnings. 
+Livestock provides a source of income as well as food in form of meat and other animal products like 
+milk which is an integral part of food security. The pastoral communities get their calories from milk 
+and meat consumption and also supports the families through sales of animals for their cereal and 
+non-cereal foodstuffs.   
+ 
+According to a UNFPA report of 2014, estimated 26% of the Somalian population are classified as 
+nomads, for whom livestock sub-sector is the sole source for livelihoods. It is estimated that around 
+65% of the population (source: FAO) is some way or the other is dependent on livestock subsector 
+ 
+Roughly speaking, the share of the components in the GDP of the country is reflected below: 
+Figure 1: GDP of Somalia by sector of origin 
+ 
+Source: CIA World Fact Book 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agriculture
+Industry
+Services
+60.20%
+7.20%
+32.50%
+2013
+=== PAGE 12 ===
+ 
+ 
+12 | P a g e 
+ 
+ 
+Figure 2: Composition of Agriculture sub-components 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I , FAO and World Bank  
+Figure 3: Gross production value of livestock & crops in Somalia-2013-16 ( Million US$) 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I , FAO and World Bank  
+Agricultural exports are prominent component in the overall country’s total export and is valued to be $634 
+million, which is more than five times the value before the civil war, thanks to livestock exports, which rose 
+by a factor of almost 10 since the late 1980s. 
+Figure 4: Top export items in the Agriculture sector for the year 2015 ( In million US$) 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I, FAO and World Bank  
+ 
+83%
+17%
+Internal Composition of the share to the GDP ( 2013-16)  
+Livestock and Livestock products
+Crop production
+Livestock
+Staple food
+crops
+Fruits
+Vegetables
+Forestry
+3756
+136
+175
+46
+86
+L I V E A N I M A L S
+O I L S E E D S
+H I D E S & S K I N S
+C R U D E …
+V E G E T A B L E S …
+M E A T A N D …
+F I S H
+494
+34.3
+3.8
+20.7
+4.9
+9.6
+27.8
+=== PAGE 13 ===
+ 
+ 
+13 | P a g e 
+ 
+ 
+ 
+3.2  Types of Livestock 
+The country has the following livestock reared- Sheep, Goat, Camel, Cattle as the predominant animals while 
+poultry and piggery are also reported to be reared in smaller numbers.  
+3.2.1 Livestock numbers and distribution:   
+Various agencies have done census of animal population but these figures can be inter-related but do not 
+exactly match in absolute numbers. Nevertheless, we are presenting figures quoted by FSNAU which are for 
+year 2017 and are pre-drought figures.  
+Figure 5: Livestock population of Somalia in 2017 
+ 
+ 
+Source: FSNAU 
+Figure 6: Geographical distribution of Goats and Sheeps 
+ 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I, FAO and World Bank  
+ 
+ 
+ 
+ 
+ 
+0
+10
+20
+30
+Goats
+Sheeps
+Cattle
+Camel
+28.7
+13.6
+6.6
+3.9
+in millions
+11%
+9%
+14%
+26%
+15%
+24%
+Goat
+Juba River valley
+Inter-riverine regions
+Shabelle River valley
+North Eastern region
+North Central region
+North Western region
+12%
+4%
+12%
+27%
+24%
+21%
+Sheep
+Juba River valley
+Inter-riverine regions
+Shabelle River valley
+North Eastern region
+North Central region
+North Western region
+=== PAGE 14 ===
+ 
+ 
+14 | P a g e 
+ 
+ 
+ 
+ 
+Figure 7: Geographical distribution of Cattle 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I, FAO and World Bank  
+Figure 8: Geographical distribution of Camels 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I, FAO and World Bank  
+The goat and sheep population has more or less uniform presence across the country but has significant 
+presence in the North Eastern and North Central Region. The camel population has uniform presence across 
+the country. While the cattle population is mostly concentrated in the river valleys- Juba River valley, Inter-
+riverine regions and the Shabelle River valley. The above analysis is based on 2014 data.  
+ 
+Since the data available for Somali-land was for 2009, hence it was not used in the above analysis. The 
+absolute figures are presented below: 
+ 
+ 
+Goat 
+Sheep 
+Camel 
+Cattle 
+Somali-land 
+8,072,000 
+8,458,000 
+1,646,000 
+394,000 
+Source: Somaliland National Development Plan 2012–16 
+ 
+ 
+ 
+ 
+ 
+38%
+30%
+27%
+1%
+0% 4%
+Cattle
+Juba River valley
+Inter-riverine regions
+Shabelle River valley
+North Eastern region
+North Central region
+North Western region
+19%
+15%
+16%
+21%
+7%
+22%
+Camel
+Juba River valley
+Inter-riverine regions
+Shabelle River valley
+North Eastern region
+North Central region
+North Western region
+=== PAGE 15 ===
+ 
+ 
+15 | P a g e 
+ 
+ 
+ 
+ 
+3.2.2 Breeds of Livestock    
+ 
+• 
+Cattle: 
+ 
+The genetic resource or breed of cattle found in Somalia are mainly the East African Zebu type of 
+which the following breeds are recognized:  Somali Boran, Gasara , Dauara  and Surqo.   
+ 
+ 
+Somali Boran 
+It is a large animal with a typical mature height at 
+withers of 117–147 cm and 114–127 cm for adult 
+males and females respectively and mature weights 
+of 500–850 kg and 380–450 kg for adult male and 
+females 
+respectively. 
+The 
+coat 
+colour 
+is 
+predominantly white with black points and can also 
+be pigmented.  
+ 
+Gasara 
+It is a small animal, maximum weight of between 250 
+and 300 kg, the coat colour is lead-grey, dark grey, 
+dark red, pied or fawn with a white face, horns are 
+short and thin, the hump is very pronounced.  
+ 
+Dauara 
+The animals are small with a maximum weight of 
+between 280–320 kg, the coat colour is red or sandy 
+red sometimes with patches of black, the hump is 
+small, the horns are short and thin and they can be 
+loose or absent, the back slopes sharply upwards 
+raising the rump higher than the withers. 
+ 
+Surqo 
+The breed has is the same size as the Somali Boran 
+with a large body and short legs, the coat is white 
+coat, light brown and dark mahogany.  it has a 
+moderate thoracic to cervico-thoracic hump. The 
+breed is mainly used for meat and milk. 
+ 
+ 
+ 
+Courtesy: ILRI Project Report: Author Anne Muigai 
+• 
+Goats 
+ 
+The main types of goats found in Somalia, are the Long-eared Somali goat, the Short-eared Somali 
+goat and also to some extent Somali Arab goat.
+=== PAGE 16 ===
+ 
+ 
+16 | P a g e 
+ 
+ 
+ 
+ 
+ 
+Somali long-eared goat 
+The body is relatively large between 70 and 75 
+cm and weighs up to 42 kg in adult mature 
+males the facial profile is straight, the coat 
+colour is white and relatively shiny, the coat 
+hair is short and fine and 19% of the males 8% 
+of the females have been reported to be polled, 
+the ears can be horizontal or semi-pendulous.  
+ 
+Somali short-eared goat 
+It is a small goat with a height of 61–65 cm and 
+a body weight of 28–33 kg in mature males, the 
+coat colour is predominantly white and the hair 
+is short, the facial profile is straight and up-to 
+19% males and 8% females have been reported 
+as polled, the ears are horizontal or semi-
+pendulous. 
+ 
+Somali Arab goat 
+This goat is the smallest goat found in Somalia, with females averaging 65cm in height and 26 
+kg weight in mature males. It is dark or light brown in colour with long hair. The goat is prolific 
+with many twin and triplet births.  
+Courtesy: ILRI Project Report: Author Anne Muigai 
+• 
+Sheep 
+ 
+The most common form of breed in Somalia is Somali 
+Black head. The breed is characterized by a fat-rump 
+tail, a black head and the rest of the animal is white, 
+though the h ooves may be black, it has a strong 
+head with poll and nose pads of fat giving a convex 
+appearance to the head profile, the horns are 
+absent and the ears are moderately long, the 
+mature body weight of the males in Somalia is 
+between 35–45 kg. 
+ 
+ 
+Courtesy: ILRI Project Report: Author Anne Muigai 
+• 
+Camel 
+ 
+The breed of Camels available in Somalia are   one-
+humped Arabian camel (Camelus dromedarues). 
+The environment where these camels grows are 
+reflected in their body characteristics. For example, 
+the ones raised in the open grass-lands of Nugal 
+valley are short in height, while those in the 
+southern regions, where bushes predominate are 
+taller and heavier.  
+ 
+ 
+Courtesy:  Report on AnGR: Author Dr. Ahmed Hash I Nur
+=== PAGE 17 ===
+ 
+ 
+17 | P a g e 
+ 
+3.3  Livestock production system 
+ 
+The main livestock production system observed in Somalia can be categorised into three main 
+groups- nomadic pastoralists, agro-pastoralism and urban stall feeding. 
+ The nomadic pastoral system is confined to the drier areas of the coastal plains and mountain 
+valleys and the plateaus where the only source of feeding for the animals are the range-land 
+grazing. The livestock rearers move from one area to the area in search of grazing land. Typically, 
+the flock size in nomadic pastoral system is large to very large.   
+Figure 9: Grazing land and animal movement for grazing 
+ 
+ 
+Source: Somalia- Country Economic Memorandum – Vol I , FAO and World Bank
+=== PAGE 18 ===
+ 
+ 
+18 | P a g e 
+ 
+ 
+In the agro pastoral or mixed farming systems, mostly seen in the flood plain areas where fodder 
+is grown, integration of crop production and livestock production is seen. Some fodder is also 
+grown under irrigation in the river valleys and is based on flooding supplemented by mechanical 
+pumps in some river valleys. The flock size in agro-pastoral system is medium to small.  
+ 
+The third form is urban stall feeding system, where farmers mainly buys fodder and crop by-
+products as feed for their livestock. This is seen in Somalia due to large scale migration of rural 
+population to urban areas. The flock size is very small in this case.  
+ 
+Traditionally, Somalia was more of nomadic pastoral system but gradually it is being reducing 
+due to pastoral communities is in search for businesses, employment opportunities, security and 
+social amenities in the urban centres.  Nomadic pastoral production of camels is highly 
+vulnerable to recurring droughts and subsequent ethnic conflicts over water and pastures.  This 
+has contributed to forcing part of the pastoral communities to abandon the traditional nomadic 
+pastoral production  
+3.4 Livestock associated value chains 
+Livestock sub-sector in Somalia are primarily dominated by two value chains- Meat processing and 
+Milk. Both these major value chains have subsidiary value chains. The meat processing value chain 
+can be divided into subsidiary value chains. One catering to the domestic market while another is 
+chilled frozen carcass for exports. Livestock exports is a chain which effectively caters to the export 
+meat market. Similarly, the milk value chain has subsidiaries –one plain milk sells and while the 
+others are for traditional dairy products like Ghee or newly established dairy processing firms.  
+Other minor value chains noticed in the Livestock sub-sector is processing of raw hides and skins –
+primarily for exports and small chain on use of bones and tallows for producing jewelleries and 
+accessories.  
+3.5  National policies and support agencies  
+The Federal govt. Of Somalia revamped Veterinary code which existed since War period in 2016 
+and was approved by the parliament. Similarly, Somaliland adopted a revised national veterinary 
+code in 2008. Both codes include advances in veterinary legislation and reflect the guidelines of the 
+World Organization for Animal Health (OIE). 
+Under the code, number of acts were formulated, such as Meat Inspection Act which is also an 
+integral component of disease notification and related information, Emergency preparedness and 
+response (EPR) laws, regulations and guidelines, A Pesticides Act addressing veterinary, agricultural 
+and environmental concerns, A Veterinary Code of Ethics, Aquatic Animals and Products Act and 
+Regulations covering animal production/Zoo Technical Services and Agribusiness. 
+In accordance with provisions under this Code; of Somalia shall have a statutory body in collaboration 
+with veterinary doctors and technicians referred to as the National Veterinary Board. The Board shall 
+establish standards for training and registration of veterinary surgeons and other cadres of animal 
+health service providers and in collaboration with the ministry of livestock, forestry and range ensure 
+the functioning of the animal health services
+=== PAGE 19 ===
+ 
+ 
+19 | P a g e 
+ 
+The import rules include no animals or animal products shall be imported without a license issued in 
+writing by the Chief Veterinary Officer. Imported animals and animal products shall be accompanied 
+by a valid international veterinary certificate provided by the Veterinary Authority of the exporting 
+country.  
+It is prohibited the exportation of productive female animals, embryo, ova, and semen, hatching eggs 
+or wild animals specific for Somalia’s ecosystem or in danger of extinction. 
+The vehicular transportation of live animals has rules and restriction monitored by the livestock 
+Ministry in compliance with animal welfare standards. 
+The abattoirs / slaughter-house have inspections, where except in an emergency, livestock 
+slaughtered at a designated place, shall, prior to such slaughter, be inspected by an inspecting officer 
+in accordance with the code of practice.  After slaughter, the inspecting officer shall, if satisfied that 
+the carcasses are suitable for human consumption, shall attach a tag, or mark the carcasses as laid. 
+There is an official order which states that no roadside slaughter of animals or private slaughtering 
+of animals are allowed under the Municipality of Mogadishu. All animal slaughter for consumption 
+will need to be done in the Mogadishu Slaughter-house.  
+There number of agencies both government and non-governmental who are providing support 
+services to various livestock rearers. These agencies include the Federal and regional ministries of 
+livestock, FAO, NGOs such as ICRC, Coopi etc. In addition, there are six livestock professional 
+associations which are delivering animal health services. They deliver vaccinations, treatments, and 
+disease investigation and disease detection, generally with external funding. They also manage agro-
+vet stores and train community-based animal health workers on diagnosing and treating livestock 
+diseases, 
+In  the segment related to dairy products, weak or absence of institution related to policies, and 
+regulatory systems for dairy products supporting production, handling, storage, marketing, and 
+consumer awareness is noticed. Also, poor enforcement of milk quality standards is observed.
+=== PAGE 20 ===
+ 
+ 
+20 | P a g e 
+ 
+ 
+4. UNDERSTANDING OF LIVESTOCK REARING IN SOMALIAN CONTEXT 
+ 
+Primary interactions were held with various livestock farmers to understand the functional dynamics 
+involved in livestock rearing in Somalia. The data collected from the field is analysed to present an 
+understanding of the present practices followed in the sub-sector. All the contents in this chapter is 
+based on the primary data collected by the survey team and is not influenced by any secondary reports.  
+4.1 Composition of animals reared  
+       Figure 10: Spread of the type of animals reared 
+ 
+ 
+It can be seen from the above figure that goat rearing is the most common animal reared while cattle is 
+the least. 80% of the livestock farmers’ rears goat while 60% of them also does camel. Only 33% of the 
+farmers’ rear cattle, which may indicate that nomadic pastoral practices are more common.  
+Figure 11: Average holding of animals by the livestock farmers 
+ 
+From the above figure, it can be inferred that the cattle rearing seems to need a larger threshold numbers 
+for sustainability.  
+While analysing the primary data, it reflects interesting combination of animals reared by a farmer. 
+Livestock farmers rearing camel tend to also do Shoat while Cattle rearers except few exceptions of goat 
+rearing tend to rear cattle as the sole animal.  
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Sheep
+Goat
+Camel
+Cattle
+47%
+80%
+60%
+33%
+Sheep
+Goat
+Camel
+Cattle
+12
+20
+26
+35
+12
+20
+11
+30
+24
+55
+45
+50
+NOS. OF LIVESTOCK HOLDING PER REARER
+Mode
+Min
+Max
+=== PAGE 21 ===
+ 
+ 
+21 | P a g e 
+ 
+4.2  Source of procurement of livestock for rearing  
+Figure 12: Source of procurement of Livestock 
+ 
+It can be inferred from the above figure that primarily the livestock farmers either buys the animals for 
+rearing from the market or from the other rearers in the village. Only exception to some extent is for Camel 
+where the primary source is the market while only occasional purchases from other rearers.  
+4.3  Healthcare of livestock  
+4.3.1 Types of healthcare measures 
+Figure 13: Types of healthcare measures practiced by livestock rearers 
+ 
+Analysing the above figure, it is apparent the vaccination in cattle and camel is an uncommon practice 
+amongst the livestock farmers. The healthcare measures towards goats are the highest with 100% 
+vaccination and de-worming done. Of all the healthcare measures, the most common is de-worming, while 
+mineral/ vitamin feeding is the least prevalent activity among the livestock farmers.  
+While analysing the primary data collected from the livestock farmers, the frequency of vaccination done on 
+goats and sheep annually is 1-2 times. While de-worming in cattle, goat, sheep is 2-3 times annually, it is 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+PURCHASE  FROM 
+MARKET/ 
+PURCHASE  FROM 
+TRADERS AT 
+DOORSTEP
+PURCHASE/ GIFTED 
+FROM GOVT. OR 
+NGO
+PURCHASE  FROM 
+OTHER REARERS IN 
+THE VILLAGE
+Sheep
+Goat
+Camel
+Cattle
+0%
+20%
+40%
+60%
+80%
+100%
+VACCINATION
+DE-WORMING
+REGULAR HEALTH 
+CHECK-UP
+MINERAL / VITAMIN  
+FEEDING
+Goats
+Sheep
+Cattle
+Camel
+=== PAGE 22 ===
+ 
+ 
+22 | P a g e 
+ 
+reported that in case of camel it is 3-4 times. The livestock rearers does regular health check-ups for all the 
+types of animals and it is done once or twice a year.  
+4.3.2 Incidence of death in livestock 
+ 
+Figure 14: Annual incidence of death of animals in a rearing household 
+ 
+From the above figure, it can be inferred that maximum incidence of death happens with cattle rearers 
+followed by goat and camel.  
+4.4  Grazing methods 
+4.4.1 Type of grazing 
+ 
+Figure 15: Grazing methods used by the respondents 
+ 
+It can be inferred from the above figure that most of the livestock rearers are practicing nomadic pastoralism 
+with improvised methods of stall feeding without any construction of assets. Though limited numbers ( 14%) 
+of the rearers did practice stall feeding or reared animals at a fixed location.  
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Goat
+Sheep
+Cattle
+Camel
+Annual Incidence of death 
+Opening grazing
+Semi-Stall feeding
+Stall feeding
+100%
+100%
+14%
+=== PAGE 23 ===
+ 
+ 
+23 | P a g e 
+ 
+4.4.2 Type of fodder 
+ 
+Figure 16: Typical fodder eaten by reared animals 
+ 
+4.4.3 Grazing Responsibility 
+Figure 17: Animal grazing out responsibility 
+ 
+The grazing responsibility is primarily lies within the family, one or the other family member is responsible 
+to take out the animals for grazing, which clearly indicates that most of the rearers are nomadic pastoralist.  
+ 
+ 
+ 
+ 
+Goat
+Grass
+Shrub trees
+Sheep
+Grass
+Shrub trees
+Cattle
+Forest grass
+Hay
+Cereals/ 
+Maankaal
+Camel
+Forest Trees
+Hay
+0
+2
+4
+6
+8
+10
+12
+14
+Own family member
+Collective hiring of
+person who is
+responsible of taking
+the herd out
+Individual hiring of a
+person who is
+responsible of taking
+the herd out
+=== PAGE 24 ===
+ 
+ 
+24 | P a g e 
+ 
+4.5  Main purpose of rearing 
+Somalia, being a traditional pastoralist society, always reared animals for consumption of milk and meat. 
+With gradual modernization, rearing of animals have become a source of livelihood. In order to understand 
+the main purpose for rearing animals, primary data were collected and analysed. The figure presented below, 
+provides a snapshot. 
+Figure 18: Main purpose of animal rearing 
+ 
+ 
+Figure 19: Main purpose of rearing 
+ 
+It can be seen from the primary data, most of the respondents have indicated that smaller animals like Goat 
+and Sheep are reared and sold as whole animal, while the primary reason for rearing Cattle and Camel is 
+selling milk. 
+Most Imp.
+Important
+Not majorly
+important
+Not at all
+important
+0%
+18%
+82%
+0%
+0%
+45%
+27%
+27%
+36%
+55%
+9%
+0%
+GOAT REARING
+Selling Milk
+Selling Meat
+Selling whole animal
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+MOST IMP.
+IMPORTANT
+NOT MAJORLY 
+IMPORTANT
+NOT AT ALL 
+IMPORTANT
+0%
+0%
+50%
+50%
+0%
+25%
+50%
+25%
+25%
+50%
+25%
+0%
+Sheep rearing
+Selling Milk
+Selling Meat
+Selling whole animal
+0%
+20%
+40%
+60%
+80%
+100%
+Most Imp. Important
+Not
+majorly
+important
+Not at all
+important
+100%
+0%
+0%
+0%
+0%
+50%
+0%
+50%
+0%
+0%
+100%
+0%
+Cattle rearing
+Selling Milk
+Selling Meat
+Selling whole anim
+Most Imp.
+Important
+Not majorly
+important
+Not at all
+important
+100%
+0%
+0%
+0%
+0%
+50%
+13%
+25%
+0%
+0%
+75%
+25%
+CAMEL REARING
+Selling Milk
+Selling Meat
+Selling whole animal
+=== PAGE 25 ===
+ 
+ 
+25 | P a g e 
+ 
+5. Milk Sub-sector and its associated value chains 
+5.1 Introduction 
+ 
+The production and marketing of milk has been a traditional livelihood source for the pre-dominant agro-
+pastoral society of Somalia. It provides employment and income for large segment of the population and 
+particularly to the women-folk which provides them economic empowerment.  
+Fresh raw milk production in Somalia has seen a gradual increase since 1990s with slight decrease in the 
+period 2013-15 but with a major set-back in the year 2017.  In 2017, the country’s milk industry collapsed 
+when a devastating drought killed an estimated 6.4 million cows, camels and goats. Milk production 
+plummeted to only 25 percent of the previous year 
+Figure 20: Milk production year-wise 
+ 
+Source: FAOSTAT 
+As can be seen from the above figure that the maximum milk production comes from Camels and then Cows. 
+Camels being sturdy animals can survive and produce milk even in adverse conditions when there is shortage 
+of fodder. Camel milk has been culturally preferred milk compared to the other livestock.  
+While the above figures provide the annual production volume but there is a significant fluctuation during a 
+year, which is discussed later.  
+Somalia is primarily a milk producing nation or have substantial large milk sub-sector but if one talks about 
+the dairy sub-sector, it has a very poor dairy sub-sector. In-fact, it is a net importer of dairy products with 
+concentrated milk constitutes 4.7% of the total imports valuing 157 million US$ in 2018 (Source: OEC World). 
+Considerable amount of other dairy products like Butter and Cheese are also imported. The reason that can 
+be attributed to this trend is lack of processing facilities of milk and very weak cold chain and transportation 
+network that leads to huge spoilages.  
+ 
+ 
+ 
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+Raw milk production ( in Million Tons)
+Camel
+Cow
+Goat
+Sheep
+=== PAGE 26 ===
+ 
+ 
+26 | P a g e 
+ 
+5.2 Estimate of milk demand and supply 
+An analysis has been done to understand the demand and supply gap of milk in the coming years to devise 
+measures to reduce the gap.  
+Table 1: Estimated forecast for demand- supply gap  in milk 
+Year 
+Population  
+Annual average 
+milk 
+consumption / 
+capita ( in litres) 
+Estimated milk 
+demand ( in 
+million tonnes) 
+Annual milk 
+production 
+(in Million 
+Tonnes) 
+Estimated gap in 
+the demand and 
+supply ( in Million 
+Tonne) 
+2020 
+15893222 
+404.63 
+6.431 
+2.44 
+3.991 
+2021 
+16357304 
+416.8 
+6.818 
+2.52 
+4.298 
+2022 
+16834937 
+429.27 
+7.227 
+2.59 
+4.637 
+2023 
+17326518 
+442.15 
+7.661 
+2.67 
+4.991 
+Assumptions: 
+• 
+As per a study on 2015 -IGAD Centre for Pastoral Areas and Livestock Development, the milk 
+consumption averaged 329 litres per person in 2013. Taking an estimated annual growth of 
+3%, the estimated milk demand has been calculated. 
+• 
+As per FAOSTAT, the annual milk production in 2016 was 2.17 Million Tonnes. Taking an 
+estimated annual growth of 3%, the estimated milk supply has been calculated. 
+• 
+The population growth of Somalia has been taken as 2.92%, which was for the year 2019.  
+It can be seen from the above figure that there is a huge gap in the demand and supply, which probably is 
+the reason for large volume of import of dried milk powder/ skimmed milk etc. This needs to be closely 
+looked at for the reasons which attributes to it, even after the country being one of the largest livestock 
+rearer. Lack of cold chain and refrigerated transport vehicles results in loss of milk due to spoilage and uneven 
+distribution of milk geographically.  
+Secondly, the country being pastoral in resources, the rearers are maybe consuming a significant higher 
+volume of milk while the urbanites are probably not getting sufficient supply.  
+ 
+5.3 Seasonal milk price fluctuation 
+There is a difference between the volume of milk produced between seasons. In the dry season, the 
+production of milk falls drastically compared to the rainy season. According to a report published by HSED 
+Group, Kenya on “Milk Matters Feasibility Study” in South Central Somalia, on average the households 
+produced 4.48 litres of milk per day in the rainy seasons and 1.63 litres of milk per day. The low yield in dry 
+season Jilal can be attributed to lack of livestock pastures, lack of water, diseases and death in the dry 
+seasons.
+=== PAGE 27 ===
+ 
+ 
+27 | P a g e 
+ 
+Figure 21: Annual camel milk price in three regions. 
+ 
+Source: FSNAU 
+It can be inferred that there is milk price rise in the dry season across the regions which is definitely due to 
+lower supply but interestingly the jump in price is not very significant owing to the fact that households tend 
+to prioritise selling milk rather than consuming it during the dry season – Jilal – when production is low and 
+prices are high. This is due to the fact that rearing of livestock is the major source of livelihood for agro-
+pastoralist. 
+Another important finding from the above figure shows that the demand and supply of milk is contained 
+within region. There is probably no major transportation of milk between regions. It can be seen that the 
+price of milk in Jubaland is significantly less than Banadir region. The capital region of Somalia- Mogadishu 
+falls under Banadir region which is pre-dominantly an urban area with limited livestock rearers to supply 
+milk. This shows that due to lack of chilling lines and refrigerated transportation in the milk sub-sector, supply 
+of milk is still limited to a closer radius from the source of production.  
+5.4 Various actors/ stake-holders 
+Herders: They are the production centre of milk. Most of the case in Somalia, milk comes from the livestock 
+rearers located in the rural areas. On average, from the data of the survey respondents, a herder has 30 to 
+50 animals. And depending on the location, the composition of animals varies. These herders are mostly 
+agro-pastoralist and there is a tendency of nomadic movement for feeding of the animals.  
+Primary collector:  These collectors are located near to the herders to collect milk from individual house-
+holds. Mostly, the primary collectors are women known locally as Kaameley. One primary collector roughly 
+caters to 8 to 10 herder house-holds, which increases significantly during rainy season. The collected milk 
+from various herders are mixed together and transported to the urban centres (secondary milk collectors). 
+The primary collectors exchange the milk for cash, basic staples or other items, so they earn not only from 
+their mark-up on the milk, but also by selling goods. They also provide credit to the herders if needed, for 
+example during a lengthy dry season or period of economic hardship. 
+Secondary milk collectors: These are collectors in the urban centres who receive the milk from the primary 
+collectors. Known locally as Aanoley in Somali, the secondary milk collectors are based in markets in the 
+towns. They receive the milk sent each day and sell it directly or distribute it to market retailers. The next 
+day they send the empty jerry cans and a share of the money back to the primary collectors through the 
+0
+20000
+40000
+60000
+80000
+Jan-19
+Feb-19 Mar-19 Apr-19 May-19 Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19 Dec-19
+Jan-20
+Raw milk camel - SoS/ litre
+Jubaland
+Shabelle
+Banadir
+=== PAGE 28 ===
+ 
+ 
+28 | P a g e 
+ 
+same route Sometimes they also supply imported commodities to their primary collector partners. 
+Interestingly, these primary and secondary milk collectors form informal trading network.  
+Transport companies: These are the vital stake-holders in the whole milk value chain. The milk collector 
+networks hire these companies or individuals owning pick-up vans to transport milk from the primary milk 
+collectors in the rural areas to the secondary milk collectors in the urban centres. Their role becomes vital 
+since faster they transport the milk, less chances of milk getting fermented. The price of the milk fetched 
+depends on the quality of the milk-fresh or fermented. This becomes critical due to the fact that there is 
+absence of cold chain in the milk transportation to increase the shelf life.   
+Market retailers take the milk from the secondary collectors and sell it to consumers in the market. They 
+add their own mark-up to the price, and pay the secondary collectors at the end of each day. 
+In last 3-4 years, there are number of cattle farms are coming up near to the urban centres. These are rearing 
+mostly cows with stalled feeding. The milk collected are commercially sold to Institutions like hotels and 
+restaurants as well as few milk processing units that are being stabled in last few years. These farms are self-
+sufficient and have their own transportation as well as cooling facilities 
+The formal milk marketing cooperatives were promoted by various agencies for milk collection and sales in 
+some areas but is still very notional in operations. Though, some of the collectors have organized themselves 
+into informal milk marketing cooperatives comprising of close family or nearby herders who collectively sell 
+their milk at the nearest town.  
+.
+=== PAGE 29 ===
+ 
+ 
+29 | P a g e 
+ 
+5.5 Sub-sector map 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Secondary 
+Milk 
+Collector 
+Transport Company 
+Input seller: 
+• 
+Fodder 
+• 
+Milk Containers 
+ 
+Urban Consumers/ 
+Hotels & Restaurants 
+Livestock Herders 
+Traditional Milk 
+Processor 
+Local Consumer 
+Service provision: 
+• De-worming 
+• Vaccination 
+• Health consultation 
+Mechanized 
+Milk processors 
+Primary Milk 
+Collector 
+Support Agencies 
+• 
+Free Vaccination. 
+• 
+Free medicines 
+• 
+Training to Rearers 
+• 
+Advisory services 
+Market Retailer
+=== PAGE 30 ===
+ 
+ 
+30 | P a g e 
+ 
+5.6  VALUE CHAIN FRAMEWORK FOR MILK SUB-SECTOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FARM INPUT
+HERDER
+Primary Collector
+Transport 
+Company
+Secondary 
+Collector
+RETAILER
+CONSUMER
+FARM INPUT
+HERDER
+Primary 
+Collector
+Transport 
+Company
+Secondary 
+Collector
+Mechanized Milk 
+Processor
+RETAILER
+CONSUMER
+FARM INPUT
+HERDER
+Primary Collector
+Transport Company
+Secondary 
+Collector
+Traditional Milk 
+Processor
+CONSUMER
+SUPPLY 
+DEMAND 
+Advisory and training 
+support on best 
+Livestock practices 
+INPUTS/SERVICE PROVISION 
+Formal/ Informal Credit 
+availability 
+Government/Donor/NGO subsidized 
+veterinary-inputs supply 
+Input supplies- Feed, Milk 
+Containers, Packaging 
+material 
+ Service provision- Pick-up van for 
+transporting milk, electricity 
+supply for processing 
+ENABLING ENVIRONMENT 
+Infrastructure- Roads, transport, market 
+infrastructure mobile telephony etc.   
+Rules and regulations of 
+Markets
+=== PAGE 31 ===
+ 
+ 
+31 | P a g e 
+ 
+ 
+ 
+5.7  Value addition in Camel Milk value chain  
+ 
+ 
+ 
+ 
+0 days           
+ 
+450 day 
+740 day 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 day 
+   1 – 290 day 
+             Female Camel procured  
+ 
+ 
+Gestation period 
+ 
+ 
+ 
+ 
+ 
+               
+ 
+ 
+ 
+ 
+Lactation period 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Farmer selling to Retailer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retailer selling to consumer 
+ 
+ 
+ 
+ 
+ 
+ 
+Figures are from primary data 
+ 
+Procurement cost of female 
+camel 
+Cost of Camel – 700 $ 
+Income from Sales for the 
+farmer 
+1.5 $ X 290 X 5 = 2175 $ 
+Where 1.5 $ is per lt. price 
+290 is lactation days and 5 
+lt. is production per day 
+Operational expense of farmer 
+for 740 days 
+Medicine: 10$/ Camel 
+Labour: 16 $/ Camel 
+Other expense: 4 $/ Camel 
+Total: 30 $/ Camel 
+ 
+Income from Sales for the 
+retailer 
+2.5 $ X 290 X 5 = 3625 $ 
+Where 2.5 $ is per lt. 
+price 
+290 is lactation days and 
+5 lt. is production per 
+day 
+Cost of Sales to Retailer 
+• 
+Transportation cost including loading & un-loading within city limits = 200 $/Ton. –  0.2 / litre 
+• 
+Cost of milk from secondary collector: Assumed 20% from the rearer i.e. – 0.2 X 1.5 +1.5 = 1.8 $ per litre 
+• 
+Other taxes and commissions- Assumed 10% of the cost of milk = 0.1 X 1.8 $ = 0.18 $ per litre
+=== PAGE 32 ===
+ 
+ 
+32 | P a g e 
+ 
+ 
+ 
+Livestock farmer 
+Retail seller 
+ 
+• 
+The livestock rearer 
+procures camel –
+female 
+for 
+milk 
+production.  
+ 
+• 
+It is assumed that 
+the female will be 
+impregnated in 2 
+months and have a 
+pregnancy 
+period 
+of 13 months.  
+• 
+The cost will be 
+incurred 
+by 
+the 
+rearer on feed ( 
+most cases these 
+are grazed free), 
+medicine, 
+vaccination etc. 
+• 
+The 
+rearer 
+sells 
+milk 
+daily 
+to 
+primary 
+collector 
+for 
+290 
+days 
+( 
+lactation period) 
+• 
+The trader buys 
+daily 
+milk 
+from 
+various secondary 
+collector 
+on 
+average 5 litres per 
+day for the whole 
+lactation period of 
+290 days  
+• 
+Retailer transports 
+the milk to the 
+urban centre where 
+it will undertake 
+retail sale. 
+. 
+ 
+• 
+The retailer sells 
+directly or does 
+sub-retailing of the 
+produce 
+Gross value received on sales 
+2175 $ 
+Gross value received on sales 
+3625 $ 
+Cost of the procurement 
+700 $ 
+Cost of Procurement 
+2610 $ 
+Cost of rearing 
+30 $ 
+Cost of Sales 
+551 $ 
+Value added 
+1445 $ 
+Value added 
+464 $ 
+Time period 
+740 days 
+Time period 
+290  days
+=== PAGE 33 ===
+ 
+ 
+5.8  Milk processing 
+Milk processing in Somalia is very limited with few exceptions coming up after gradual stabilization in the 
+country but it is still very small with limited access to the market. One of the reason is under-developed milk 
+cold chain which affects not only the supply side but also storage for final sales. Various donor /international 
+agencies are making efforts to promote dairy processing plants in Somalia. According to USAID, it has 
+provided assistance to 160 dairy and fodder farmers and five dairy processing plants in Somalia.  
+As per the study, there are couple of units which are using mechanized milching tools which promotes less 
+contamination. Similarly, couple of units are processing milk using pasteurisers and producing dairy products 
+like Cheese and Yoghurt. Though, it is very apparent that if the milk supply chain is not strengthened through 
+chillers and refrigerated vehicles for transportation, these units will face productive inefficiencies. In 
+addition, the high cost of energy in Somalia is also major deterrent for the milk processing units.  
+The impact of the above situation is the large volume of imported skimmed milk and other milk products to 
+Somalia, even after being a pastoral society.  The figure below provides an understanding on the volume of 
+processed milk products coming into the country.  
+Figure 22: Imported milk products- Fig 1 
+ 
+Figure 23: Imported milk products - fig 2 
+ 
+Source: FAOSTAT 
+ 
+ 
+0
+2000
+4000
+6000
+8000
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Import milk products ( Tonne)
+Yoghurt-Concentrated
+Milk - Whole fresh cream
+Milk -Whole evaporated
+Milk-Skimmed Cow
+Milk - Skimmed dried
+0
+10000
+20000
+30000
+40000
+50000
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Imported milk whole- dried (Tonne)
+=== PAGE 34 ===
+ 
+ 
+34 | P a g e 
+ 
+ 
+Traditionally, Somalia has small scale milk processing where Clarified butter (Ghee) and Yoghurt are locally 
+produced. Many local producers buy milk from herders and collectors which are surplus due to non-
+availability of refrigerated storage and transportation. Interestingly, as seen in the figure below, Somalia used 
+to export Ghee (Clarified Butter) in significant volume but has gradually come down.  
+Figure 24: Clarified butter- Ghee export 
+ 
+Source: https://www.selinawamucii.com/ 
+ 
+5.9  Milk handling and transportation 
+As seen in the sub-sector mapping, the herders milk their animals twice a day and store in traditional 
+containers called Dhiil which they carry to the primary collectors. Other equipment used includes Koobos, 
+which are empty cooking oil tins, and plastic utensils, such as jugs, cups and jerry cans.  Normally, the herders 
+walk and carry the container to the collector. In order to keep the container clean, it is treated daily with 
+Charcoal. This practice gives a typical smoky taste to the milk.  
+The primary collector collects milk from various herders and consolidate the volume for transfer to the urban 
+centres. Normally, the transfer of milk from the primary collector to the retailer is through plastic cans. Use 
+of Stainless steel containers are hardly noticed. The transportation from the collection centre to the urban 
+centres are by pick-up vans without any refrigeration facility. Similarly, the milk for retail sales is done in 
+containers like used plastic cans, jugs, mugs etc.  
+0
+50
+100
+150
+200
+250
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Clarified butter- Export ( '000 US$)
+=== PAGE 35 ===
+ 
+ 
+35 | P a g e 
+ 
+Figure 25: Milk Containers 
+ 
+ 
+ 
+ 
+The traditional methods employed to clean milk equipment include using smoking equipment, immersing it 
+in hot water or using ash & sand to clean. The plastic containers cannot be easily disinfected and even simple 
+washing is difficult for most types of container. Milk preservation, just like milk container cleaning, is done 
+using traditional methods, including storage in cold water and boiling water, though boiling milk is the most 
+popular and widely practiced milk preservation method.   
+Another major drawback in the milk value chain is lack of proper retail out-lets for milk sales. Even in the 
+urban centres, it does not have proper shelters to sell milk by the retailers. The conditions around the milk 
+market are harsh which also affect the quality of milk due to strong afternoon heat and unhygienic conditions 
+including dust.   
+Overall, raw milk collection, transportation and marketing is characterised by lack of hygiene, contamination, 
+microbial growth due to un-clean containers, lack of cooling chains ( Chillers and refrigerated vans) , mixing 
+of different pools of milk etc. The sample of milk reaching the consumers has presence of Lanactococcus, 
+Leuconostoc, Lactobacillus, Enterococcus and Streptococcus. Due to this, a considerable volume of Milk gets 
+spoilt and fetches a 25% to 40% lower price compared to fresh milk. In order to reduce the milk 
+contamination, appropriate milk containers and rehabilitation of milk market shelters are recommended
+=== PAGE 36 ===
+ 
+ 
+36 | P a g e 
+ 
+Figure 26: Informal Market place 
+. 
+ 
+ 
+ 
+5.10 Governance 
+ 
+Value chains involve regular interactions between the various actors implying repetitiveness in their 
+relationships. Governance ensures that interactions between firms along a value chain exhibit some 
+reflection of order rather than being simply random. Value chains are governed when parameters requiring 
+product, process, and logistic qualification are set which have consequences up or down the value chain 
+encircling package of activities, actors, roles, and functions. 
+Governance can be categorised into the following types; legislature (making the rules), the executive 
+(implementing the rules) and the judiciary (monitoring the conformance to rules). This governance can be 
+exercised by parties internal to chain or external to chain.  
+As a part of the value chain analysis for the Milk sub-sector in Somalia, the chain governance was looked 
+into; 
+ 
+Exercised by parties internal to 
+chain 
+Exercised by parties external to 
+chain 
+Implications 
+Legislative 
+governance 
+• 
+Quality standards of the 
+milk 
+from 
+the 
+primary 
+collectors in the rural areas 
+are 
+governed 
+by 
+the 
+retailers who purchase from 
+them. Weak 
+• 
+Quality standards of the 
+milk from the retailers in the 
+urban market are governed 
+by the consumers who 
+purchase 
+from 
+them. 
+Medium 
+• 
+The price fixations of the 
+milk in the markets are 
+determined 
+based 
+on 
+demand – supply situation 
+in the market on the day of 
+transaction. Strong 
+• 
+Local 
+Authorities/ 
+Check 
+points fixes the taxes & 
+commissions to be collected 
+for the transactions taking 
+place and goods movement. 
+Medium 
+• 
+Local authorities’/ Livestock 
+Ministry 
+have 
+formulated 
+rules / quality norms for retail 
+traders of milk. Weak 
+• 
+ 
+• 
+Primary milk collectors/ 
+secondary milk collectors 
+have to be particular 
+about the quality of the 
+produce taken to the 
+market. 
+• 
+The price of milk to be 
+received by the Livestock 
+Farmers/ 
+primary 
+collectors/secondary 
+collector’s/retail 
+traders 
+depends not only on the 
+quality but also on the 
+demand 
+and 
+supply 
+situation which is beyond 
+the stakeholders control.
+=== PAGE 37 ===
+ 
+ 
+37 | P a g e 
+ 
+ 
+Exercised by parties internal to 
+chain 
+Exercised by parties external to 
+chain 
+Implications 
+Executive 
+governance 
+• 
+Commission and taxes fixed 
+by the market authority / 
+Check points are collected 
+by the commission agents/ 
+brokers from the traders 
+Medium   
+• 
+The agreed price of the milk 
+is paid by the buyers to the 
+producer/ trader directly. 
+Strong 
+• 
+ 
+• 
+The 
+local 
+agriculture/ 
+veterinary 
+department/ 
+NGOs/ humanitarian agencies 
+are 
+making 
+vaccines/ 
+medicines available to the 
+livestock 
+farmers 
+at 
+subsidized 
+rates 
+or 
+free. 
+Medium 
+• 
+Market committee providing 
+facilities for sellers of milk. 
+Weak 
+• 
+The trade transactions are 
+clearly defined by the 
+market forces and the 
+possibility of the livestock 
+farmer’s/ milk collectors 
+getting 
+cheated 
+is 
+minimal. 
+• 
+The benefits designed to 
+support livestock farmers 
+are 
+received 
+but 
+the 
+outreach of the support 
+needs to be analysed.  
+Judicial 
+governance 
+• 
+The quality conformation of 
+milk is checked by the 
+collectors/traders 
+while 
+procuring them.  Weak 
+ 
+• 
+The 
+local 
+authorities/ 
+veterinary 
+department 
+monitors the conformation of 
+milk quality sold in the 
+market.  Weak  
+• 
+Lax governance on quality 
+adherence of milk sold 
+exposes the consumers to 
+possible infections.  
+ 
+5.11  Inter-firm cooperation 
+Inter firm cooperation is defined as joint activities undertaken by the various stake-holders in the value chain. 
+Cooperation can be subdivided in horizontal linkages, i.e. cooperation among similar types of enterprises, 
+for example primary milk collectors, and vertical linkages, cooperation between enterprises at different 
+positions in the value chains, for example the primary milk collectors and secondary milk collectors. 
+Horizontal linkages refer thus in particular to the regular contacts and relationships between peer enterprises 
+within a specified area, more specifically, it refers to joint activities of such firms, i.e. joint purchases, joint 
+usage of equipment, joint contracts and joint learning 
+On the one hand, vertical linkages refer thus to contracting and subcontracting relationships between 
+enterprises of different types in terms of scale. 
+5.11.1 Horizontal linkages 
+Horizontal linkages, or the cooperation among similar types of stake-holders are present in some extent 
+amongst the primary milk collectors. Most of them are women and work in informal group to tide over 
+occasional working capital crunch through internal arrangements of cash contribution. Secondly, the group 
+of collectors negotiate with transporters for transporting the milk to secondary milk collectors in the urban 
+areas.   
+At the traders’ level, horizontal linkages are not apparent. The secondary collectors and retailers buying from 
+the primary collectors do not have any established inter-firm cooperation. 
+5.11.2 Vertical linkages 
+Interesting vertical linkages can be observed between the secondary milk collectors and the primary milk 
+collectors. The secondary milk collectors ensure that the transport going back to the rural areas carries other 
+commodities for the primary collectors as trading avenues between them. In some cases, the primary 
+collector provides credit to the secondary milk collectors.
+=== PAGE 38 ===
+ 
+ 
+38 | P a g e 
+ 
+5.12 Structure of labour market 
+The labour requirement in the milk sub-sector is limited, with most of the work is done by the value chain 
+actors themselves, whatever is required is mostly un-regulated whose work includes loading and unloading 
+of milk cans. There are standard rates for these functions, which needs to be paid by the user of the service. 
+Few dairy units are being established which is absorbing labour force in more organized manner.
+=== PAGE 39 ===
+ 
+ 
+39 | P a g e 
+ 
+6. Meat Sub-sector and its associated value chains 
+ 
+6.1 Introduction 
+Being an agro-pastoral society, traditionally meat and milk has been the major source of nutrient for the 
+population. Based on the animals reared in the area, the preference for meat of that animal has been 
+observed. Domestic meat production is geared towards local market need, which prefers fresh meat not 
+chilled or frozen. The export meat demand is catered through exports of live animals, which will be discussed 
+separately. The domestic meat production is through small slaughterhouses either operated by private 
+players or local authorities and are mostly un-hygienic.  
+The total meat production of the country is reflected below:  
+Figure 27: Annual meat production 
+ 
+ Source: FAOSTAT 
+According to the above figure, the maximum meat production comes from Cattle or beef followed by Camel. 
+Though combination of Goat and Sheep or Shoat meat will be highest. It was reported that consumer 
+preference for beef and camel is higher than Shoat which is also reflected in their prices. There is a gradual 
+increase in chicken meat consumption due to large scale imports. According to OEC. world, in the year 2018, 
+7.37 million US$ of poultry meat was imported to Somalia. As a consequence, commercial poultry farming is 
+on the rise, particularly in urban areas.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+2013
+2014
+2015
+2016
+2017
+2018
+Production volume various meats ( In tonne)
+Sheep
+Goat
+Poultry
+Cattle
+Camel
+=== PAGE 40 ===
+ 
+ 
+40 | P a g e 
+ 
+Figure 28: Price of Camel meat 
+ 
+ 
+Source: https://data.humdata.org/dataset/wfp-food-prices-for-somalia 
+ 
+It can be seen from the above figure that the price of Camel meat varies from region to region as well as for 
+seasons. This can be attributed to the fact that inter-region transportation of live animals or chilled meat is 
+significantly low. The regions having higher population of camels will have lower price and similarly in the 
+dry season, the price falls because many of the herders will sell animals since rearing them due to low fodder 
+availability increases the cost.  
+6.2 Estimate of domestic meat demand and supply 
+An analysis has been done to understand the demand and supply gap of meat in the domestic market in 
+the coming years to devise measures to reduce the gap.  
+Table 2: Estimated forecast for demand- supply gap  in meat-domestic 
+Year 
+Population  
+Annual average 
+meat 
+consumption / 
+capita ( in kg) 
+Estimated meat 
+demand ( in 
+million tonnes) 
+Annual meat 
+production 
+(in Million 
+Tonnes) 
+Estimated gap in 
+the demand and 
+supply ( in Million 
+Tonne) 
+2020 
+15893222 
+26.09 
+0.415 
+0.202 
+0.213 
+2021 
+16357304 
+26.90 
+0.440 
+0.208 
+0.232 
+2022 
+16834937 
+27.67 
+0.466 
+0.214 
+0.252 
+2023 
+17326518 
+28.50 
+0.494 
+0.220 
+0.274 
+Assumptions: 
+0
+50000
+100000
+150000
+200000
+250000
+300000
+350000
+400000
+Jan-19
+Feb-19
+Mar-19
+Apr-19
+May-19
+Jun-19
+Jul-19
+Aug-19
+Sep-19
+Oct-19
+Nov-19
+Dec-19
+Jan-20
+Feb-20
+Mar-20
+Price of Camel meat across regions (SoS/kg) 
+Awdal
+Bakool
+Bari
+Galgaduug
+Gedo
+Hiraan
+Shabelle Dhexe
+Nugaal
+Woqooyi Galbeed
+Togdheer
+Bay
+=== PAGE 41 ===
+ 
+ 
+41 | P a g e 
+ 
+• 
+As per a study on 2015 -IGAD Centre for Pastoral Areas and Livestock Development, the meat 
+consumption averaged 21.21 kg per person in 2013. Taking an estimated annual growth of 
+3%, the estimated meat demand has been calculated. 
+• 
+As per FAOSTAT, the annual meat production in 2018 was 188036 Tonnes. Taking an 
+estimated annual growth of 3%, the estimated meat supply has been calculated. 
+• 
+The population growth of Somalia has been taken as 2.92%, which was for the year 2019.  
+It can be seen from the above figure that there is a substantial gap in the demand and supply, which probably 
+is due to the reason that large volume of live animals is exported. In order to reduce the gap, productivity of 
+animals can be increased, more of stall feeding farms encouraged. In addition, if steps for improving the 
+infrastructure of supply chain and slaughter-house is made, a considerable shift towards chilled frozen meat 
+and value added items made from instead of live animal export. This will allow more animals in the country 
+for domestic meat demand while the foreign currency in-flow is compensated from higher margins of meat 
+exports. 
+6.3 Export market  
+Somalia’s livestock exports have been mainly live animals. In-fact, in the 60’s and 70’s, it comprised almost 
+70% of total Saudi Arabia’s import (Samatar et al. 1987). The main export destinations are mostly Middle East 
+countries including Saudi Arabaia, Yemen, UAE, Oman, Qatar etc. Exports are also reported both through 
+cross-border illegal trade or through legitimate channels to East African countries.  
+This large volume of live animals’ export is due to the fact that there is dearth of export standard slaughter-
+houses that can adhere to quality standards. Coupled with lack of supply chain infra-structure, the easiest 
+way of export is the live animal mode.  
+In the last decade, a few export standard slaughter-houses have been established in some parts of Somalia. 
+Tied up with exporters, these slaughter-house has been able to export chilled meat in carcass form. The figures 
+below provide snapshot of the export scenario of livestock in Somalia.  
+Figure 29: Export of live animals 
+ 
+Source: www.oec.world.com 
+0
+100
+200
+300
+400
+2015
+2016
+2017
+2018
+Export of live animals in million US$
+Sheeps & Goats
+Bovine
+Other Animals
+=== PAGE 42 ===
+ 
+ 
+42 | P a g e 
+ 
+Figure 30: Export figures of chilled frozen carcass 
+ 
+Source: www.oec.world.com 
+It can be inferred from the above figures that prominently it is the sheep and goats, followed by cattle are 
+exported in form of live animals or frozen carcass.  
+6.4 Various actors/ stake-holders 
+The various actors in the sub-sector has some sort of role in value addition. Though it has to be taken into 
+consideration that the value chain involved in the meat sub-sector is a combination of domestic meat 
+requirements and export of animal carcass and live animals.    
+The producers of the animals are rural pastoralist or farms that are rearing livestock. These producers are 
+selling mostly to small traders at market.   
+Figure 31: Sales channel of animals by producers ( inputs from livestock rearer sample) 
+ 
+These small scale traders are the primary collector of animals in the trading channel. These traders are 
+supplier of animals to the local butcher.  The local butcher is primarily the source of meat supply in the urban 
+market. Interestingly a segment of vendors, mostly women, source meat from the local butcher and vend in 
+the market as street vendors.   
+ 
+ 
+ 
+ 
+2015
+2016
+2017
+2018
+9.41
+3.21
+3.44
+2.5
+0.12
+0.043
+0.065
+0
+EXPORT OF CHILLED FROZEN CARCASS IN MILLION US$
+Sheep & Goat meat
+Frozen Bovine meat
+0%
+20%
+40%
+60%
+80%
+100%
+TO TRADERS AT FARM-
+GATE
+TO TRADERS AT MARKET
+EXPORTED TO OTHER 
+COUNTRY 
+TO SLAUGHTER-HOUSE/ 
+ABATTOIR FOR MEAT
+Goat
+Sheep
+Cattle
+Camel
+=== PAGE 43 ===
+ 
+ 
+43 | P a g e 
+ 
+ 
+The major value chain in the meat sub-sector is the export market – mostly of live animals and a small 
+segment of chilled meat export. The main player in this chain are Exporter’s. These exporter’s act as the final 
+link between the Somali livestock rearers and the importing countries. To procure animals, some exporters 
+operate through a dedicated network of agents of exporters who are usually from the same clan as the 
+exporter. They employ 3–4 full-time agents on average, as well as other part-time intermediaries. In the 
+export of chilled carcass, the exporters get the stock slaughtered in few designated slaughter-house and then 
+deliver chilled meat to importers in the Middle East.  
+In the whole sub-sector, an interesting player is present who plays the role of middlemen to the transactions. 
+Called as the brokers or Daalal. Brokers are market player and facilitate exchange between traders or 
+between traders. Brokers are not engaged in the physical handling and management of livestock, nor do they 
+assume ownership of animals. These brokers are found in all the markets and usually they live in the same 
+area, and belong to the same clan, as the producer–sellers and has societal recognition.  
+In addition to connecting buyers with sellers and acting as payment guarantors, they provide information on 
+volumes, quality and price of livestock: both the available supplies and the demand expressed by buyers. 
+Brokers also provide market security, in that they are active in enforcing purchase and sale agreements and 
+property rights, and resolution of conflicts. They charge a fee, generally a flat rate per animal (varying by 
+species), which is usually shared equally between buyer and seller. 
+The final main player in the sub-sector are the shipment or transportation agencies.  Most of the live animals 
+are exported through ports of Berbera, Bosaso, Mogadishu and Kisimayo. While live animals are exported 
+through ships, the chilled meat carcass are send through air-freight. Around three air-freight operators, all 
+Somali owned , with registered offices in Somalia are the main players.
+=== PAGE 44 ===
+ 
+ 
+44 | P a g e 
+ 
+6.5 Sub-sector map 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Local 
+Slaughter 
+House/ 
+Butcher 
+Consumer 
+Small Scale traders 
+Input seller: 
+• 
+Feed 
+• 
+Packaging 
+material 
+• 
+Slaughter-
+house 
+consumables 
+Export Markets UAE, 
+Saudi Arabia, Kuwait 
+etc.  
+Animal Producers 
+Agents 
+of 
+Exporter
+s
+Brokers 
+Service provision: 
+• Transportation of 
+animals 
+• Cleaning of 
+slaughter-house 
+Local Animal market 
+Support Agencies 
+• 
+Free vaccination. 
+• 
+Free de-worming 
+• 
+Advisory services 
+Retail urban animal market 
+Slaughter-house 
+Firms 
+Exporters 
+Street 
+Vendors
+=== PAGE 45 ===
+ 
+ 
+45 | P a g e 
+ 
+6.6 VALUE CHAIN FRAMEWORK FOR MEAT SUB-SECTOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FARM INPUT
+HERDER
+Small Scale 
+Trader
+BROKER
+Agents of 
+Exporters
+Slaughter-house
+EXPORTER
+Export Market
+FARM INPUT
+HERDER
+LOCAL ANIMAL MARKET
+BUTCHER
+CONSUMER
+FARM INPUT
+HERDER
+Small Scale Trader
+Retail Urban Animal 
+Market
+Local Slaughter-house 
+/ Butcher
+Street Vendor
+CONSUMER
+SUPPLY 
+DEMAND 
+Advisory and training 
+support on best 
+veterinary practices 
+INPUTS/SERVICE PROVISION 
+Formal/ Informal Credit 
+availability 
+Government/Donor/NGO 
+providing subsidized medicines 
+Input supplies- Feed, 
+Slaughter-house 
+consumables 
+ Service provision- Transport Co 
+for transportation of animals, 
+Agents to prepare export docs. 
+ENABLING ENVIRONMENT 
+Infrastructure- Roads, transport, market 
+infrastructure mobile telephony etc.   
+Rules and regulations of 
+Markets
+=== PAGE 46 ===
+ 
+ 
+46 | P a g e 
+ 
+ 
+ 
+6.7  Value addition in Goat meat value chain  
+ 
+ 
+ 
+ 
+ 
+0 Yr. 
+      2 months 
+ 8 months    2 Yr. 
+2 Yr.          2 Yr. 7 days   2 Yr. 7 days
+ 
+ 
+ 
+ 
+ 
+             12-month female doe for 
+ 
+ 
+ 
+Birth to a 
+       Rearing 
+Sold to local 
+Sold to local 
+               Sold to local Cons. 
+Rearing: 
+ 
+Impregnated      male goat which    
+ 
+ 
+trader  
+ abattoir/ butcher  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Is castrated 
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+Cost of Sales  
+• 
+Transportation cost including loading & un-loading city limits = 200 $/Ton. –  6.7 $ / goat, assuming 1 Ton carriage will accommodate 30 animals 
+• 
+Cost of goat for the butcher from retail trader: Assumed 20% margin more from the rearer price + cost of transportation per goat 
+• 
+Other taxes and commissions- Assumed 5% of the cost of goat = 0.05 X 66 $ = 3.3 $ per goat 
+Procurement cost for goat 
+rearer 
+30 $/goat 
+Operational expense of farmer for 
+2 years 
+Medicine:  3 $/ Goat 
+Labour: 8 $/ Goat 
+Other expense: 1.5 $/ Goat 
+Total: 12.5 $/ Goat 
+Procurement price 
+of local trader (35 kg 
+live weight goat) 
+55 $ /goat 
+Expense/ goat 
+before selling to 
+butcher includes 
+transportation + 
+taxes & 
+commission  
+10 $/goat 
+Amount received/ 
+goat 
+Meat- 17.5 $ X 5 $. = 
+87.5 $
+=== PAGE 47 ===
+ 
+ 
+47 | P a g e 
+ 
+ 
+Livestock farmer 
+Local trader 
+Butcher/ Abattoir 
+ 
+ 
+The 
+livestock 
+rearer procures 
+goat 
+–female 
+for  production 
+of goats.  
+ 
+It is assumed 
+that the female 
+will 
+be 
+impregnated in 2 
+months 
+and 
+have 
+a 
+pregnancy 
+period 
+of 
+6 
+months.  
+The cost will be 
+incurred by the 
+rearer on feed ( 
+most cases these 
+are grazed free), 
+medicine, 
+vaccination etc. 
+The 
+rearer 
+sells 
+male 
+castrated 
+goat to local 
+traders . The 
+average 
+weight 
+of 
+the goat will 
+be 35 kg. 
+The trader buys 
+the full grown 
+male goat from 
+rearer . 
+The 
+trader 
+transports the 
+goat 
+to 
+the 
+urban centre  
+. 
+ 
+The 
+trader 
+where it will 
+undertake 
+sale to local 
+abattoir 
+or 
+butcher. 
+The abattoir or 
+the 
+local 
+butcher 
+buys 
+the goat. 
+The goat is 
+slaughtered 
+for meat. 
+The average 
+meat coming 
+from a live 
+goat is 50%. 
+Hence, 35 kg 
+goat will give 
+17.5 kg of 
+meat.  
+The abattoir or 
+butcher 
+sells 
+directly or does 
+sub-retailing of 
+the meat. The 
+retail price per 
+kg will be 5 $.  
+Gross value received on sales 
+55 $ 
+Gross value received on sales 
+76 $ 
+Gross value received on sales 
+5 X 17.5 = 87.5 
+$ 
+Cost of the production 
+30 $ + 12.5 
+$ = 42.5 $ 
+Cost of Procurement 
+55 + 6.7 $= 
+61.7 $ 
+Cost of Procurement 
+ 76 $ 
+Cost of Sales 
+- 
+Cost of Sales 
+3.3 $ 
+Cost of Sales 
+- $ 
+Value added 
+12.5 $ 
+Value added 
+11 $ 
+Value added 
+11.5 $ 
+Time period 
+2 year 
+Time period 
+1 to 7 day 
+Time period 
+1 to 7 day 
+ 
+Procure
+Grow
+Sale
+Procure
+Transport
+Sale
+Procure
+Slaughter
+Sale
+=== PAGE 48 ===
+ 
+ 
+48 | P a g e 
+ 
+6.8  Meat processing 
+Meat processing in Somalia primarily can be attributed to slaughtering of animals by the local butcher 
+and catering to the urban and peri-urban market. These abattoirs are very crude and unhygienic with 
+little regulations followed. Traditionally, the Somalian society prefers   fresh meat to frozen, hence, 
+the local market is predominantly supplied by the local abattoirs or butchers. Interestingly, there are 
+street vendors mostly women, who procures from the local butcher and sells in the street markets.  
+Traditionally, Somalia’s livestock exports have mainly been in the form of live animals. These exports 
+mostly to Middle-east and East Africa are done by exporters. Information that was made available to 
+the study team is that there are around six such exporters. These exporters are also export chilled 
+animal carcass. The live animals are slaughtered in few operational abattoirs, which have international 
+standards followed. Prominent among them are – Mogadishu Slaughter-house and Mubarak 
+Slaughterhouse owned by Somali Meat Company, a consortium of exporters. Other slaughter-house 
+reported during the study include Maandeeq slaughterhouse in Hargeissa and H Foods export 
+slaughterhouse in Burao. Although Somalia currently exports chilled meat in carcass form, there is 
+likely to be potential for further value addition.  
+The meat exported from Somalia adheres to the following conditions- As for exporters, all small-scale 
+traders, brokers and only chilled carcasses of male animals are exported and that a certification for 
+Halal slaughter is mandatory. In addition, Somalia itself has a long-standing prohibition on export of 
+female animals. 
+Figure 32: Street vendors selling meat 
+Somali households produce 
+traditional home-cured (or 
+sun-dried) meat products, 
+such as mugmud and otka.
+=== PAGE 49 ===
+ 
+ 
+49 | P a g e 
+ 
+The Hides and Skins collected from slaughtering of animals are an important by-product in meat 
+processing. Currently, the figure below presents the production volume of hides and skins in the 
+country.  
+Figure 33: Annual production volume of hides and skins 
+ 
+ 
+Hides and Skins are either produced by pastoralists in villages where animals are slaughtered for home 
+consumption or at designated slaughter facilities and butchers. The hides and skins are collected by 
+small traders and then sold to wholesale traders who either export or sell them to few tanning units. 
+The study provided information on few tanneries across Somalia, which includes Berbera Tannery and 
+Jeronimo group tannery in Daar Budug, Bosaso Tannery, Burao Tannery, Phiss Tannery in Hargeisa. 
+Figure 34: Picture of Tannery and Abattoir in Somalia 
+The export volume of raw hides and skins are presented below: 
+Figure 35: Export quantities of raw hides and skins from Somalia 
+ 
+Source: https://www.selinawamucii.com/insights/market/somalia/raw-hides-skins/ 
+2014
+2015
+2016
+2017
+2018
+11188
+11178
+11104
+10974
+10864
+6118
+6165
+6123
+6119
+6102
+8682
+8481
+8181
+7774
+7535
+ANNUAL PRODUCTION VOLUME OF HIDES & SKINS IN TONNES
+Hides- Cattle
+Skins- Goats
+Skins- Sheeps
+0
+1000
+2000
+3000
+4000
+5000
+2014
+2015
+2016
+2017
+2018
+Raw hides and skins in tonnes
+=== PAGE 50 ===
+ 
+ 
+50 | P a g e 
+ 
+It is being reported that many of the export consignments are rejected due to quality issues and 
+vermin infestations. There is hardly any processing beyond sun-drying in these tanneries for the low 
+quality.  
+6.9 Governance 
+Value chains involve regular interactions between the various actors implying repetitiveness in their 
+relationships. Governance ensures that interactions between firms along a value chain exhibit some 
+reflection of order rather than being simply random. Value chains are governed when parameters 
+requiring product, process, and logistic qualification are set which have consequences up or down the 
+value chain encircling package of activities, actors, roles, and functions. 
+Governance can be categorised into the following types; legislature (making the rules), the executive 
+(implementing the rules) and the judiciary (monitoring the conformance to rules). This governance 
+can be exercised by parties internal to chain or external to chain.  
+As a part of the value chain analysis for the Meat sub-sector in Somalia, the chain governance was 
+looked into; 
+ 
+ 
+Exercised by parties internal to 
+chain 
+Exercised by parties external to 
+chain 
+Implications 
+Legislative 
+governance 
+• 
+Quality standards of the 
+meat of the slaughtered 
+animals from the abattoirs 
+are governed by the traders 
+who purchase from them. 
+Strong 
+• 
+The price fixations of the 
+meat in the markets are 
+determined 
+based 
+on 
+demand – supply situation 
+in the market on the day of 
+transaction. Strong 
+• 
+Brokers/ Check points fixes 
+the taxes & commissions to be 
+collected for the transactions 
+taking 
+place 
+and 
+goods 
+movement. Strong 
+• 
+Local authorities’/ Livestock 
+Ministry 
+have 
+formulated 
+rules for retail suppliers of 
+meat under the Meat Act. 
+Medium 
+• 
+Livestock 
+Ministry 
+has 
+formulated rules for exports- 
+Strong 
+• 
+Livestock 
+Farmers/ 
+butchers/abattoirs 
+have 
+to be particular about the 
+quality of the produce 
+taken to the market. 
+• 
+The price of the produce 
+to be received by the 
+Livestock 
+Farmers/ 
+butchers/abattoirs 
+depends not only on the 
+quality but also on the 
+demand 
+and 
+supply 
+situation which is beyond 
+the stakeholders control. 
+ 
+Executive 
+governance 
+• 
+Commission and taxes fixed 
+by the market authority / 
+Check points are collected 
+by the commission agents/ 
+brokers from the traders 
+and the rearers. Strong  
+• 
+The agreed price of the 
+livestock is paid by the 
+buyers to the producer/ 
+trader directly. Strong 
+• 
+The agreed price of the 
+slaughtered meat is paid by 
+the buyers to the abattoir/ 
+butcher directly. Strong 
+ 
+• 
+The 
+local 
+agriculture/ 
+veterinary 
+department/ 
+NGOs/ humanitarian agencies 
+are 
+making 
+vaccines/ 
+medicines available to the 
+livestock 
+farmers 
+at 
+subsidized 
+rates 
+or 
+free. 
+Medium 
+• 
+Market committee providing 
+facilities for sellers of meat. 
+Weak 
+• 
+The trade transactions are 
+clearly defined by the 
+market forces and the 
+possibility of the livestock 
+farmer getting cheated is 
+minimal. 
+• 
+The benefits designed to 
+support livestock farmers 
+are 
+received 
+but 
+the 
+outreach of the support 
+needs to be analysed.  
+Judicial 
+governance 
+• 
+The quality/ health status 
+conformation is checked by 
+the traders/abattoirs while 
+• 
+Livestock Ministry monitors 
+the conformation of export 
+criteria of live animals/ chilled 
+• 
+Lax governance on quality 
+adherence of meat sold 
+exposes the consumers to
+=== PAGE 51 ===
+ 
+ 
+51 | P a g e 
+ 
+ 
+Exercised by parties internal to 
+chain 
+Exercised by parties external to 
+chain 
+Implications 
+procuring 
+them 
+from 
+farmers/ 
+local 
+traders. 
+Strong 
+ 
+meat 
+by 
+the 
+exporters.  
+Medium  
+• 
+The 
+local 
+authorities/ 
+veterinary 
+department 
+enforce the restriction of 
+animal slaughtering, quality of 
+meat sold. Medium 
+ 
+possible 
+infections. 
+ineffective  
+ 
+6.10  Inter-firm cooperation 
+ 
+Inter firm cooperation is defined as joint activities undertaken by the various stake-holders in the value 
+chain. Cooperation can be subdivided in horizontal linkages, i.e. cooperation among similar types of 
+enterprises, for example Livestock rearers, retailers/brokers, abattoirs/butchers, and vertical linkages, 
+cooperation between enterprises at different positions in the value chains, for example the local 
+trader and livestock rearers. 
+Horizontal linkages refer thus in particular to the regular contacts and relationships between peer 
+enterprises within a specified area, more specifically, it refers to joint activities of such firms, i.e. joint 
+purchases, joint usage of equipment, joint contracts and joint learning 
+On the one hand, vertical linkages refer thus to contracting and subcontracting relationships between 
+enterprises of different types in terms of scale. 
+6.10.1 Horizontal linkages 
+Horizontal linkages, or the cooperation among similar types of stake-holders, are weak. In case of 
+livestock rearers recognized horizontal linkages are very minimal almost to the point of nil. Some cases 
+of inter-firm cooperation amongst them are observed in terms of sharing transport mode to carry the 
+produce to the market.   
+At the traders’ level too, horizontal linkages are not apparent. The retailers or wholesalers buying from 
+the farmers in the market do not have any established inter-firm cooperation. 
+It has been reported that some associations at the regional level for producers and traders have been 
+formed. Concrete steps of cooperation was not reported during the study.  
+6.10.2 Vertical linkages 
+In general terms, stake-holders in the value chain have rather weak vertical linkages. The major reason 
+behind it is the state of the sub-sector as such. It is much localised and mostly un-organized. The need 
+and advantage of building vertical linkages are still evolving and is in the dormant stage. 
+ 
+6.11  Structure of labour market 
+ 
+The markets have un-regulated established labour force, whose work includes loading and unloading 
+of animals, weighing of the animals, slaughtering of animals, cleaning of slaughtering premises etc. 
+There are standard rates for these functions, which needs to be paid by the user of the service. The 
+availability of this labour force is from areas near to the markets. This labour force is mostly 
+independent.
+=== PAGE 52 ===
+ 
+ 
+52 | P a g e 
+ 
+ 
+7. FINDINGS & KEY ISSUES  
+Livestock production has been the backbone of the Somali economy for many centuries. It is the 
+most important source of food and income for the predominantly rural population, accounting 
+55.03 % of the total population as of 2018 according to World Bank Report. Agricultural exports 
+are prominent component in the overall country’s total export and is valued to be $634 million, 
+which is more than five times the value before the civil war, thanks to livestock exports, which 
+rose by a factor of almost 10 since the late 1980s. 
+The goat and sheep population has more or less uniform presence across the country but has 
+significant presence in the North Eastern and North Central Region. The camel population has 
+uniform presence across the country. While the cattle population is mostly concentrated in the 
+river valleys- Juba River valley, Inter-riverine regions and the Shabelle River valley. The main 
+livestock production system observed in Somalia can be categorised into three main groups- 
+nomadic pastoralists, agro-pastoralism and urban stall feeding. 
+Livestock sub-sector in Somalia are primarily dominated by two value chains- Meat processing and 
+Milk. Both these major value chains have subsidiary value chains. The meat processing value chain 
+can be divided into subsidiary value chains. One catering to the domestic market while another is 
+chilled frozen carcass for exports. Livestock exports is a chain which effectively caters to the export 
+meat market. Similarly, the milk value chain has subsidiaries –one plain milk sells and while the 
+others are for traditional dairy products like Ghee or newly established dairy processing firms.  
+The Federal govt. Of Somalia revamped Veterinary code which existed since War period in 2016 
+and was approved by the parliament. Similarly, Somaliland adopted a revised national veterinary 
+code in 2008. Both codes include advances in veterinary legislation and reflect the guidelines of 
+the World Organization for Animal Health (OIE). The import rules include no animals or animal 
+products shall be imported without a license issued in writing by the Chief Veterinary Officer. 
+Imported animals and animal products shall be accompanied by a valid international veterinary 
+certificate provided by the Veterinary Authority of the exporting country. It is prohibited the 
+exportation of productive female animals, embryo, ova, and semen, hatching eggs or wild animals 
+specific for Somalia’s ecosystem or in danger of extinction. 
+While analysing the primary data, it reflects interesting combination of animals reared by a farmer. 
+Livestock farmers rearing camel tend to also do Shoat while Cattle rearers except few exceptions 
+of goat rearing tend to rear cattle as the sole animal. Most of the livestock rearers are practicing 
+nomadic pastoralism with improvised methods of stall feeding without any construction of assets. 
+Though limited numbers ( 14%) of the rearers did practice stall feeding or reared animals at a fixed 
+location. It can be seen from the primary data, most of the respondents have indicated that 
+smaller animals like Goat and Sheep are reared and sold as whole animal, while the primary reason 
+for rearing Cattle and Camel is selling milk. 
+Somalia is primarily a milk producing nation or have substantial large milk sub-sector but if one 
+talks about the dairy sub-sector, it has a very poor dairy sub-sector. In-fact, it is a net importer of 
+dairy products with concentrated milk constitutes 4.7% of the total imports valuing 157 million 
+US$ in 2018 (Source: OEC World). Considerable amount of other dairy products like Butter and
+=== PAGE 53 ===
+ 
+ 
+53 | P a g e 
+ 
+Cheese are also imported. The reason that can be attributed to this trend is lack of processing 
+facilities of milk and very weak cold chain and transportation network that leads to huge spoilages.  
+It can be inferred that there is milk price rise in the dry season across the regions which is definitely 
+due to lower supply but interestingly the jump in price is not very significant owing to the fact that 
+households tend to prioritise selling milk rather than consuming it during the dry season – Jilal – 
+when production is low and prices are high. This is due to the fact that rearing of livestock is the 
+major source of livelihood for agro-pastoralist. 
+Another important finding from the above figure shows that the demand and supply of milk is 
+contained within region. There is probably no major transportation of milk between regions. It 
+can be seen that the price of milk in Jubaland is significantly less than Banadir region. The capital 
+region of Somalia- Mogadishu falls under Banadir region which is pre-dominantly an urban area 
+with limited livestock rearers to supply milk. This shows that due to lack of chilling lines and 
+refrigerated transportation in the milk sub-sector, supply of milk is still limited to a closer radius 
+from the source of production. 
+Traditionally, Somalia has small scale milk processing where Clarified butter (Ghee) and Yoghurt 
+are locally produced. Many local producers buy milk from herders and collectors which are surplus 
+due to non-availability of refrigerated storage and transportation. Interestingly, as seen in the 
+figure below, Somalia used to export Ghee (Clarified Butter) in significant volume but has gradually 
+come down. 
+Normally, the transfer of milk from the primary collector to the retailer is through plastic cans. 
+Use of Stainless steel containers are hardly noticed. The transportation from the collection centre 
+to the urban centres are by pick-up vans without any refrigeration facility. Similarly, the milk for 
+retail sales is done in containers like used plastic cans, jugs, mugs etc. Another major drawback in 
+the milk value chain is lack of proper retail out-lets for milk sales. Even in the urban centres, it 
+does not have proper shelters to sell milk by the retailers. The conditions around the milk market 
+are harsh which also affect the quality of milk due to strong afternoon heat and unhygienic 
+conditions including dust. 
+According to the above figure, the maximum meat production comes from Cattle or beef followed 
+by Camel. Though combination of Goat and Sheep or Shoat meat will be highest. It was reported 
+that consumer preference for beef and camel is higher than Shoat which is also reflected in their 
+prices. 
+Somalia’s livestock exports have been mainly live animals. In-fact, in the 60’s and 70’s, it 
+comprised almost 70% of total Saudi Arabia’s import (Samatar et al. 1987). The main export 
+destinations are mostly Middle East countries including Saudi Arabaia, Yemen, UAE, Oman, Qatar 
+etc. Exports are also reported both through cross-border illegal trade or through legitimate 
+channels to East African countries. In the last decade, a few export standard slaughter-houses 
+have been established in some parts of Somalia. Tied up with exporters, these slaughter-house 
+has been able to export chilled meat in carcass form.
+=== PAGE 54 ===
+ 
+ 
+54 | P a g e 
+ 
+ 
+8. RECOMMENDATION ON AREAS for SKILL SET UPGRADATION 
+ 
+A) MILK PROCESSING 
+Milk collection & Handling 
+Areas of Skilling 
+Remarks 
+Hygiene to maintain while collecting milk and handling of 
+milk. 
+These training modules will be 
+targeted 
+at 
+the 
+primary 
+and 
+secondary milk collectors and will be 
+short duration course.  
+How to use Lactometer to understand quality parameters of 
+milk. 
+Process of cleaning milk containers  
+Storage of milk- steps to be followed 
+Milk processing including chilling and pasteurisation 
+Areas of Skilling 
+Remarks 
+Hygiene to maintain while collecting milk and handling of 
+milk. 
+These training modules will be 
+designed for creating skilled workers 
+in the field of milk processing. 
+Technique and knowledge on the process of chilling milk.  
+Technique and knowledge on pasteurization of milk. 
+Technique and knowledge on cleaning milk storage tanks, 
+chilling units, pasteurization unit, bottling/packaging unit.  
+  
+B) MEAT PROCESSING 
+Operation of slaughter-house 
+Areas of Skilling 
+Remarks 
+Process and procedure for receiving animals into, and 
+their movement around, the lairage facility. Regulatory 
+and official documentation  
+ 
+ 
+ 
+ 
+These training modules will be designed 
+for creating skilled workers in the field of 
+operating a slaughter-house. 
+Process and function in the slaughter process of 
+penning/restraint: 
+stunning, 
+shackling, 
+hoisting, 
+bleeding 
+and 
+safe 
+use 
+of 
+relevant 
+equipment/machinery 
+Requirements for safe, efficient and hygienic practices 
+in the bleeding of animals, religious slaughter as 
+practised by halal 
+Proper disposal of waste .

@@ -1,0 +1,1701 @@
+=== PAGE 1 ===
+Official Use Only
+$
+     Report No: RES01680
+RESTRUCTURING PAPER
+ON A
+PROPOSED PROJECT RESTRUCTURING
+OF
+SDR 12,454,486.18 
+ Somalia Urban Resilience Project - Phase II
+APPROVED ON 09-Dec-2019
+TO
+Federal Republic of Somalia
+XX, March, 2026
+Urban, Resilience and Land Global Practice
+Eastern And Southern Africa
+ 
+Regional Vice President:
+Ndiame Diop
+Regional Practice Director:
+Erik Magnus Fernstrom
+Division Director:
+Qimiao Fan
+Practice Manager:
+Abhas K. Jha
+Task Team Leader(s):
+Nandya Thalyta Yuwono, Benjamin Joseph 
+Kushner
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+=== PAGE 2 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Official Use Only
+ABBREVIATIONS AND ACRONYMS
+BRA
+Benadir Regional Administration 
+ESF
+Environmental and Social Framework
+M&E
+Monitoring and Evaluation
+MPWRH
+Ministry of Public Works, Reconstruction, and Housing
+PCU
+Project Coordination Unit
+PIU
+Project Implementation Unit
+STAIR2JOBS
+Somalia Transformational Access and Infrastructure Resilience for Sustainable Jobs Program 
+SURP-II
+Somalia Urban Resilience Project, Phase Two
+=== PAGE 3 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+i
+Official Use Only
+  
+@#&OPS~Doctype~OPS^dynamics@restrhybridbasicdata#doctemplate
+BASIC DATA
+Product Information 
+Operation ID
+Operation Name
+P170922
+ Somalia Urban Resilience Project - Phase II
+Product/Financing Instrument
+Geographical Identifier
+Investment Project Financing (IPF)
+Somalia, Federal Republic of
+Approval Date
+Current Closing Date
+09-Dec-2019
+31-Dec-2028
+Environmental and Social Risk Classification (ESRC)
+High
+Organizations
+Borrower
+Responsible Agency
+Federal Republic of Somalia
+Baidoa Municipality/South West State, 
+Beledweyne/Hirshabelle, Benadir Regional Administration, 
+Dhusamareb/Galmudug, Garowe Municipality/ Puntland, 
+Hargeisa Municipality/Somaliland, Kismayo 
+Municipality/Jubbaland, Ministry of Public Works, 
+Reconstruction and Housing 
+@#&OPS~Doctype~OPS^dynamics@restrhybridoperationstatus#doctemplate
+OPERATION STATUS
+Project Development Objective (DO) 
+Current Development Objective
+To strengthen public service delivery capacity of local governments, increase access to climate-resilient urban 
+infrastructure and services, and to provide immediate and effective response to an eligible crisis or emergency in 
+selected areas.
+=== PAGE 4 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+ii
+Official Use Only
+Disbursement Summary (in USD million)
+Source of Funds
+Net Commitment
+Disbursed
+Undisbursed
+% Disbursed
+IBRD
+--
+--
+--
+0
+IDA
+190.53
+91.41
+96.57
+47.98
+Grants
+93.50
+89.81
+1.34
+96.05
+Policy Waivers
+Does this restructuring trigger the need for any policy 
+waiver(s)?
+No
+@#&OPS Doctype OPS dynamics@restrhybridmpa#doctemplate
+@#&OPS Doctype OPS dynamics@restrhybridmpa#doctemplate
+=== PAGE 5 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Official Use Only
+TABLE OF CONTENTS
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING ........................................................................................1
+II. DESCRIPTION OF PROPOSED CHANGES ....................................................................................................................2
+III. PROPOSED CHANGES................................................................................................................................................3
+IV. DETAILED CHANGE(S) ...............................................................................................................................................3
+=== PAGE 6 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 1
+Official Use Only
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING
+A.  Background 
+1.
+This restructuring paper seeks Management approval for a Level 2 restructuring of the Somalia Urban Resilience 
+Project – Phase II (SURP-II, P170922). The restructuring is proposed at the request of the Federal Republic of Somalia, as 
+indicated in a Ministry of Finance letter dated March 5, 2026 (Ref: MOF/OM/0043/2026). The request comprises a US$17 
+million partial cancellation from the project.  
+Project Status
+2.
+The SURP-II, effective since February 2020, aims to strengthen local government service delivery capacity and 
+expand access to climate-resilient urban infrastructure. The project builds on nearly a decade of urban engagement in 
+Somalia, beginning in 2016 with the Somalia Urban Investment Planning Project (P150374) and followed by the SURP, 
+Phase I (P163857).  The current project closing date is December 2028.
+3.
+Implementation status. As of March 2026, cumulative disbursements amount to US$135 million, representing 61 
+percent of the total US$278.5 million grant. Progress toward achievement of the Project Development Objective and 
+Overall Implementation Progress are both rated Satisfactory, with most ratings remaining above Moderately Satisfactory 
+1over the past 12 months. Environmental and Social Framework (ESF) performance is rated Moderately Unsatisfactory; 
+however, this has not affected overall implementation progress, and corrective actions are being addressed within the 
+existing project management and oversight arrangements. Despite operating in a complex environment, the project is 
+being successfully implemented across seven strategic cities. Implementation arrangements comprise seven municipal 
+Project Implementation Units (PIUs), supported by a federal Project Coordination Unit (PCU) that provides technical 
+backstopping, coordination, and quality assurance, as well as inter-ministerial project steering committees at both the 
+state and federal levels that offer strategic guidance and oversight. The project remains fully compliant with all legal 
+covenants, including those related to financial management and audits.
+4.
+Achievements to date. To date, nearly 700,000 people have benefited from improved urban infrastructure, of 
+whom 51 percent of infrastructure beneficiaries are women, over 1 million received life-saving drought assistance, and 
+373,702 person-days of employment have been generated for 13,000 local workers. Civil works in most project cities are 
+expected to conclude by December 2025, with Hargeisa completed by the current project closing date.2  The United 
+Nations Office for Project Services is providing design and supervision across the six cities. Drought response activities, 
+including cash transfer, water and sanitation facilities, and temporary housing, land, and property have been successfully 
+completed in September 2024, providing life-saving assistance to more than 1 million people. SURP-II has already helped 
+better define intergovernmental functional roles and responsibilities related to urban services. With relatively strong 
+implementation arrangements and broad geographic coverage, SURP-II has further evolved to support cities on resilient 
+1 All RAPs were reopened and strengthened, with enhanced ESF assurance through independent audits, UNOPS supervision, refresher ESF/OHS trainings, and routine 
+monitoring, supported by an MIS-based GRM with case tracking and geo-referenced evidence.
+2 Baidoa and Garowe have each completed two civil works packages, while Kismayo has completed two packages and Mogadishu has implemented several quick-win 
+investments, with a combined value of US$32.8 million. Currently, two additional packages are under implementation in Baidoa, two in Kismayo, four in Mogadishu, 
+three in Beledweyne, and two in Dhusamareeb, with a total value of US$64.6 million and expected completion by September 2026. Preparation of major drainage 
+investments in Mogadishu and Garowe has been completed, with Garowe currently implementing 1.9 km of trunk drainage valued at US$5.8 million, and Mogadishu 
+ready to invite bids for a US$17 million trunk line, with an additional US$18.5 million expected under the MPA. Feasibility studies and detailed designs are ongoing in 
+Kismayo and Baidoa. Hargeisa joined Nagaad in 2025 under AF-4 and has completed an infrastructure needs assessment that identified priority investments. Terms of 
+reference have been prepared for the design of 45 km of roads and one bridge, with feasibility studies underway to confirm priority investments and inform 
+engineering designs for the US$20 million envelope by October 2025.
+=== PAGE 7 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 2
+Official Use Only
+service delivery beyond city roads, such as advancing city-wide flood risk management strategies and piloting durable 
+solutions to displacement and nature-based solutions. This demonstrates that SURP-II has succeeded in establishing a 
+holistic platform for urban service delivery at the municipal level. 
+B. Rationale
+5.
+The Restructuring Paper proposes the cancellation of US$17 million from the International Development 
+Association grant under Component 1 of the project, which was originally allocated to drainage works under the Banadir 
+Regional Administration (BRA). At the Government’s request, received on March 5, 2026, these funds may be reallocated 
+to the proposed Somalia Transformational Access and Infrastructure Resilience for Sustainable Jobs Program (STAIR2JOBS, 
+P513127). This reallocation would enable the pooling of resources with other available financing to support larger-scale 
+drainage investments in Mogadishu and a longer implementation timeline, thereby facilitating timely and effective 
+completion. As a result, the project’s total budget envelope will be reduced from US$278.5 million to US$261.5 million. 
+The proposed cancellation also requires the reallocation of  US$3.7 million in uncommitted funds from  Components 1 
+and 2 to Component 3 (Project Management) to address capacity gaps and support the scaled STAIR2JOBS investment 
+portfolio, by cost-sharing PIU functions for the STAIRS2JOBS delivery at PCU and Banadir PIU level,  along with 
+corresponding adjustments to the project’s results framework. 3 The restructuring does not trigger any policy or waivers. 
+The cancellation does not have any implications for the Environmental and Social Safeguards under the project.
+6.
+The proposed restructuring is justified by the technical complexity, scale, and sequencing requirements of the 
+Mogadishu trunk drainage system, which is designed as a large, integrated network to manage a 1-in-25-year flood 
+event under climate-informed scenarios. Detailed feasibility studies, engineering designs, and ESF requirements have 
+already been completed under SURP-II, providing a robust technical and safeguards foundation for scaled implementation. 
+The drainage solution involves an extensive main trunk and outlet system, expanded conveyance capacity, multiple flood 
+control structures, and nature-based solutions, all of which must function as a coherent system and be constructed over 
+a longer timeline to ensure hydraulic integrity and resilience under normal, high-tide, and worst-case sea-level conditions. 
+Fragmenting these investments under the current project constrains packaging and limits market interest, whereas 
+consolidating financing under a larger, longer-horizon program enables procurement of appropriately sized works that 
+better reflect the technical and risk profile of the infrastructure. This approach is expected to attract more qualified and 
+experienced bidders capable of delivering complex urban drainage systems at scale, improve competition and value for 
+money, and reduce implementation and performance risks while laying the foundation for future phases, including 
+real-time flood warning systems.
+II. DESCRIPTION OF PROPOSED CHANGES
+TABLE 1. SUMMARY OF PROPOSED CHANGES UNDER RESTRUCTURING 
+Activities
+Proposed Changes
+Component 1: Urban Infrastructure and Services 
+-
+Cancelation of US$17 million originally allocated for drainage investments in 
+Mogadishu 
+-
+Reallocate US$1.5 million to Component 3
+This component allocation will decrease from US$175 million to US$156.5 million.
+Component 2: Institutional Strengthening and 
+Analytics 
+-
+Reallocate US$2.4 million uncommitted balance to component 3. 
+This component allocation will decrease from US$4 million to US$1.6 million.
+3 Given the fluid FCV context and prevailing insecurity, the stabilization diagnostics (component 3) and investments (component 1) introduced under AF3 will be 
+dropped as they are not timely. This repurposing of funds remains within the project flexibility parameters.
+=== PAGE 8 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 3
+Official Use Only
+Activities
+Proposed Changes
+Component 3: Project Management and Capacity 
+Building 
+-
+Add US$3.9 million for additional project management resources 
+(reallocated from Components 1 and 2) to the BRA and PCU to support 
+effective management, coordination, and risk mitigation for the scaled 
+STAIRS2JOBS investment portfolio. 
+The project management costs for drainage investments under the STAIRS2JOBS 
+will be covered by SURP-II. The component allocation will increase from US$34.5 
+million to US$38.4 million.
+Component 4: Response to Urban Forced 
+Displacement 
+No changes.  
+Component 5: Contingent Emergency Response 
+No changes. 
+Changes to the Results Framework
+End targets for selected intermediate indicators have been revised to align with the 
+reduced scope of activities: 
+-
+Length of drainage infrastructure rehabilitated or constructed (km): Revised 
+to 13 km, down from 15 km
+-
+ Number of people benefiting from reduced flood risk due to improved 
+drainage infrastructure: Revised to 200,000, down from 300,000.
+@#&OPS~Doctype~OPS^dynamics@restrhybridsummarychanges#doctemplate
+Summary changes
+III. PROPOSED CHANGES
+Operation Information
+Proposed Changes
+Operation Information
+Proposed Changes
+Results
+Yes
+Loan Cancellations
+Yes
+Disbursements Estimates
+Yes
+Reallocations
+Yes
+Development Objective
+No
+Loan Closing Date Extension
+No
+Summary Description
+(Operation Abstract)
+No
+Financial Management
+No
+Legal Operational Policies
+No
+Procurement
+No
+MFD/PCE
+No
+Institutional Arrangement
+No
+Risks
+No
+Implementation Schedule
+No
+Legal Covenants
+No
+ 
+ 
+Conditions
+No
+ 
+ 
+Implementation Modalities
+No
+ 
+ 
+Disbursements Arrangements
+No
+ 
+ 
+DDO
+No
+ 
+ 
+Clients
+No
+ 
+ 
+Appraisal Summary
+No
+ 
+ 
+Components
+No
+ 
+ 
+@#&OPS~Doctype~OPS^dynamics@restrhybriddetailedchanges-disclose#doctemplate
+=== PAGE 9 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 4
+Official Use Only
+IV. DETAILED CHANGE(S)
+COSTS & FINANCING
+Private Capital Facilitation
+Is this an MFD-Enabling Project (MFD-EP)?
+Is this project Private Capital Enabling (PCE)?
+LOANS
+Cancellations
+Loan/Credit/
+Trust Fund
+Status
+Currency 
+Current 
+Amount
+Cancellation 
+Amount
+Value 
+Date of 
+Cancellation
+New 
+Amount
+Reason
+ for 
+Cancellati
+on
+IDA-D5310-
+001
+Disbursi
+ng
+XDR
+36,700,000.0
+0
+0.00
+36,700,000.00
+IDA-E0520-
+001
+Disbursi
+ng
+XDR
+14,900,000.0
+0
+0.00
+14,900,000.00
+IDA-E1490-
+001
+Disbursi
+ng
+XDR
+39,000,000.0
+0
+0.00
+39,000,000.00
+IDA-E3110-
+001
+Disbursi
+ng
+XDR
+30,200,000.0
+0
+12,454,486.1
+8
+05-Mar-2026
+17,745,513.82
+BORROWE
+R'S 
+REQUEST 
+FOR 
+COUNTRY 
+REASONS
+IDA-E4580-
+001
+Disbursi
+ng
+XDR
+18,900,000.0
+0
+0.00
+18,900,000.00
+TF-B1409-
+001
+Disbursi
+ng
+USD
+45,000,000.0
+0
+0.00
+45,000,000.00
+TF-B1519-
+001
+Disbursi
+ng
+USD
+17,000,000.0
+0
+0.00
+17,000,000.00
+TF-B8532-
+001
+Disbursi
+ng
+USD
+21,500,000.0
+0
+0.00
+21,500,000.00
+TF-C4364-
+001
+Disbursi
+ng
+USD
+10,000,000.0
+0
+0.00
+10,000,000.00
+=== PAGE 10 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 5
+Official Use Only
+Reallocations
+IDA-D5310-001
+Currency: XDR
+Cancellations (if any): 
+0.00
+New Allocation: 
+36,700,000.00
+ 
+ 
+ 
+ 
+ 
+Financing %
+(Type Total)
+Category 
+No.
+Expenditure 
+Category
+Current 
+Allocation
+Actuals + 
+Committed
+Proposed 
+Allocation
+Current
+Proposed
+1
+GD,WK,NCS,CS,OC&T
+R-Pt A1,A2,B&C;
+12,831,500.00
+1,539,424.06
+12,831,500.00
+100.00
+100.00
+2
+GD,WK,NCS,CS,OC&T
+R-Pt A3&C;
+9,188,500.00
+3,363,688.46
+9,188,500.00
+100.00
+100.00
+3
+Emergency Exp Pt E;
+0.00
+0.00
+0.00
+100.00
+100.00
+4
+Emerg 
+CT,G,W,N/CS,OC,T Pt 
+D;
+14,680,000.00
+14,659,120.16
+14,680,000.00
+100.00
+100.00
+ 
+Total
+36,700,000.00
+ 
+36,700,000.00
+ 
+ 
+IDA-E0520-001
+Currency: XDR
+Cancellations (if any): 
+0.00
+New Allocation: 
+14,900,000.00
+ 
+ 
+ 
+ 
+ 
+Financing %
+(Type Total)
+Category 
+No.
+Expenditure 
+Category
+Current 
+Allocation
+Actuals + 
+Committed
+Proposed 
+Allocation
+Current
+Proposed
+1
+G,W,N/CS,OC,TRptA.
+1, A.2,B,C;
+0.00
+0.00
+0.00
+100.00
+100.00
+2
+G,W,N/CS,OC,TR 
+pt 
+A.3,C;
+14,900,000.00
+0.00
+0.00
+100.00
+100.00
+3
+Emergency 
+Expenditures Pt D;
+0.00
+-2,687.89
+0.00
+100.00
+100.00
+ 
+Total
+14,900,000.00
+ 
+0.00
+ 
+ 
+IDA-E1490-001
+Currency: XDR
+Cancellations (if any): 
+0.00
+New Allocation: 
+39,000,000.00
+ 
+ 
+ 
+ 
+ 
+Financing %
+(Type Total)
+Category 
+No.
+Expenditure 
+Category
+Current 
+Allocation
+Actuals + 
+Committed
+Proposed 
+Allocation
+Current
+Proposed
+1
+G,W,N/CS,OC,TRptA.
+1, A.2,B,C;
+0.00
+0.00
+0.00
+100.00
+100.00
+2
+G,W,N/CS,OC,TR 
+pt 
+A.3, FMS C;
+3,900,000.00
+0.00
+3,085,920.16
+100.00
+100.00
+=== PAGE 11 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 6
+Official Use Only
+3
+Emergency 
+Expenditures Pt E;
+0.00
+0.00
+0.00
+100.00
+100.00
+4
+Emerg 
+cash 
+trfr,G,W,N/CS,OC,TR,
+Pt D;
+35,100,000.00
+35,914,079.84
+35,914,079.84
+100.00
+100.00
+ 
+Total
+39,000,000.00
+ 
+39,000,000.00
+ 
+ 
+IDA-E3110-001
+Currency: XDR
+Cancellations (if any): 
+12,454,486.18
+New Allocation: 
+17,745,513.82
+ 
+ 
+ 
+ 
+ 
+Financing %
+(Type Total)
+Category 
+No.
+Expenditure 
+Category
+Current 
+Allocation
+Actuals + 
+Committed
+Proposed 
+Allocation
+Current
+Proposed
+1
+G,W,N/CS,OC,TR 
+pt 
+A.1,A.2,B,C;
+755,000.00
+473,874.23
+755,000.00
+100.00
+100.00
+2
+G,W,N/CS,OC,TR 
+pt 
+A.3 FMS pt C;
+29,445,000.00
+8,115,081.88
+16,990,513.82
+100.00
+100.00
+3
+Emergency Exp Pt E;
+0.00
+0.00
+0.00
+100.00
+100.00
+4
+Emerg CT,G,W,N/CS, 
+OC,TR pt D;
+0.00
+0.00
+0.00
+100.00
+100.00
+5
+G,W,N/CS,OC,Tr 
+PtA.3g and SL Pt C;
+0.00
+0.00
+0.00
+100.00
+0.00
+6
+DISB-RRO CERP;
+0.00
+0.00
+0.00
+100.00
+0.00
+7
+DISB-RRO CATDDO;
+0.00
+0.00
+0.00
+100.00
+0.00
+ 
+Total
+30,200,000.00
+ 
+17,745,513.82
+ 
+ 
+IDA-E4580-001
+Currency: XDR
+Cancellations (if any): 
+0.00
+New Allocation: 
+18,900,000.00
+ 
+ 
+ 
+ 
+ 
+Financing %
+(Type Total)
+Category 
+No.
+Expenditure 
+Category
+Current 
+Allocation
+Actuals + 
+Committed
+Proposed 
+Allocation
+Current
+Proposed
+1
+G,W,N/CS,OC,TR 
+pt 
+A1,A2,B,C;
+4,914,000.00
+0.00
+0.00
+100.00
+0.00
+2
+G,W,N/CS,OC,TR 
+pt 
+A.3xA.3g FMS pt C;
+0.00
+0.00
+0.00
+100.00
+0.00
+3
+Emergency Exp Pt E;
+0.00
+0.00
+0.00
+100.00
+0.00
+4
+Emerg CT,G,W,N/CS, 
+OC,TR pt D;
+0.00
+0.00
+0.00
+100.00
+0.00
+5
+G,W,N/CS,OC,Tr 
+ptA3g & SL pt C;
+13,986,000.00
+0.00
+0.00
+100.00
+0.00
+=== PAGE 12 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 7
+Official Use Only
+6
+Elig Exps for CERP;
+0.00
+0.00
+0.00
+100.00
+0.00
+7
+Fin for CAT DDO;
+0.00
+0.00
+0.00
+100.00
+0.00
+ 
+Total
+18,900,000.00
+ 
+0.00
+ 
+ 
+TF-B1409-001
+Currency: USD
+Cancellations (if any): 
+0.00
+New Allocation: 
+45,000,000.00
+ 
+ 
+ 
+ 
+ 
+Financing %
+(Type Total)
+Category 
+No.
+Expenditure 
+Category
+Current 
+Allocation
+Actuals + 
+Committed
+Proposed 
+Allocation
+Current
+Proposed
+1
+GD,WK,NCS,CS,OC&T
+R-Pt A1,A2,B&C;
+8,000,000.00
+8,714,654.39
+8,714,654.39
+100.00
+100.00
+2
+GD,WK,NCS,CS,OC&T
+R-Pt A3&C;
+37,000,000.00
+35,249,524.85
+36,285,345.61
+100.00
+100.00
+3
+Emergncy 
+ExpendituresUnder-
+Pt D;
+0.00
+0.00
+0.00
+100.00
+100.00
+ 
+Total
+45,000,000.00
+ 
+45,000,000.00
+ 
+ 
+TF-B1519-001
+Currency: USD
+Cancellations (if any): 
+0.00
+New Allocation: 
+17,000,000.00
+ 
+ 
+ 
+ 
+ 
+Financing %
+(Type Total)
+Category 
+No.
+Expenditure 
+Category
+Current 
+Allocation
+Actuals + 
+Committed
+Proposed 
+Allocation
+Current
+Proposed
+1
+GD,WK,NCS,CS,OC&T
+R-Pt A1,A2,B&C;
+4,000,000.00
+3,938,513.62
+4,000,000.00
+0.00
+100.00
+2
+GD,WK,NCS,CS,OC&T
+R-Pt A3&C;
+13,000,000.00
+10,632,536.77
+13,000,000.00
+0.00
+100.00
+3
+Emergncy 
+ExpendituresUnder-
+Pt D;
+0.00
+0.00
+0.00
+100.00
+100.00
+ 
+Total
+17,000,000.00
+ 
+17,000,000.00
+ 
+ 
+TF-B8532-001
+Currency: USD
+Cancellations (if any): 
+0.00
+New Allocation: 
+21,500,000.00
+ 
+ 
+ 
+ 
+ 
+Financing %
+(Type Total)
+Category 
+No.
+Expenditure 
+Category
+Current 
+Allocation
+Actuals + 
+Committed
+Proposed 
+Allocation
+Current
+Proposed
+1
+G,W,N/CS,OC,TRptA.
+1, A.2,B,C;
+500,000.00
+0.00
+500,000.00
+100.00
+100.00
+=== PAGE 13 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 8
+Official Use Only
+2
+G,W,N/CS,OC,TR 
+pt 
+A.3, FMS C;
+21,000,000.00
+18,545,227.65
+21,000,000.00
+100.00
+100.00
+3
+Emergency 
+Expenditures Pt D;
+0.00
+0.00
+0.00
+100.00
+100.00
+ 
+Total
+21,500,000.00
+ 
+21,500,000.00
+ 
+ 
+TF-C4364-001
+Currency: USD
+Cancellations (if any): 
+0.00
+New Allocation: 
+10,000,000.00
+ 
+ 
+ 
+ 
+ 
+Financing %
+(Type Total)
+Category 
+No.
+Expenditure 
+Category
+Current 
+Allocation
+Actuals + 
+Committed
+Proposed 
+Allocation
+Current
+Proposed
+1
+G,W,N/CS,OC,TR 
+pt 
+A.1,A.2,B,C;
+0.00
+0.00
+0.00
+100.00
+100.00
+2
+G,W,N/CS,OC,TR 
+pt 
+A.3 FMS pt C;
+10,000,000.00
+9,955,631.17
+10,000,000.00
+100.00
+100.00
+3
+Emergency Exp Pt E;
+0.00
+0.00
+0.00
+100.00
+100.00
+4
+Emerg CT,G,W,N/CS, 
+OC,TR pt D;
+0.00
+0.00
+0.00
+100.00
+100.00
+ 
+Total
+10,000,000.00
+ 
+10,000,000.00
+ 
+ 
+DISBURSEMENTS 
+Operation Dates & Projection Details
+Reasons to change the full Disbursement date and/or the projection
+Restructuring
+Implementation Start Date
+Operation Closing Date
+09-Dec-2019
+31-Dec-2028
+Projected Date for Full Disbursement
+27-Apr-2029
+Expected Disbursements (in US $) (Absolute)
+Year
+Original Estimation at Preparation
+(Approval Package – 09 Dec 2019)
+Revised Estimation
+Actual 
+FY2020
+0.00
+750,000.00
+750,000.00
+FY2021
+0.00
+3,102,453.00
+3,102,451.07
+FY2022
+0.00
+14,000,000.00
+13,676,838.89
+FY2023
+2,290,000.00
+18,097,257.00
+18,097,257.59
+=== PAGE 14 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 9
+Official Use Only
+FY2024
+4,200,000.00
+64,424,320.00
+64,424,320.78
+FY2025
+6,420,000.00
+52,118,083.00
+52,118,083.94
+FY2026
+7,090,000.00
+55,000,000.00
+27,289,228.78
+FY2027
+0.00
+40,000,000.00
+0.00
+FY2028
+0.00
+20,000,000.00
+0.00
+FY2029
+0.00
+11,007,887.00
+0.00
+ENVIRONMENTAL & SOCIAL
+Environmental & Social Assessment
+According to the E/S Specialist are there changes proposed to the operation’s design that 
+would impact the Bank’s E&S assessment?”
+No
+=== PAGE 15 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 10
+Official Use Only
+RESULTS
+COUNTRY: Somalia, Federal Republic of
+ Somalia Urban Resilience Project - Phase II
+@#&OPS~Doctype~OPS^dynamics@restrannexpolicyandresult#doctemplate
+PDO Indicators by PDO Outcomes
+To support the construction of key urban infrastructure in targeted cities 
+Baseline 
+Actual (Previous)
+Actual (Current)
+Closing Period
+Indicator Name
+Result
+Month/Year
+Result
+Date
+Result
+Date
+Result
+Month/Year
+3,500.00
+Jul/2019
+698,869
+19-Nov-2025
+698,869
+09-Mar-2026
+1,200,000.00
+Dec/2028
+Revise People with improved access to 
+climate-resilient urban infrastructure 
+and services (% female, % IDPs, % 
+host communities) (Number)     
+Comments on achieving  targets
+A total of 698,869 (58%) people have gained improved access through completed subprojects (51% female, 13% 
+IDPs, 87% host communities). Breakdown by municipality: - Garowe: 56,441 (51% female, 11% IDPs, 89% host) - 
+Baidoa: 169,131 (53% female, 24% IDPs, 76% host) - Kismayo: 233,297 (51% female, 17% IDPs, 83% host) - - 
+Mogadishu: 240,000 (50% female, 5% IDPs, 95% host) 
+0.00
+Jul/2019
+100
+19-Nov-2025
+100
+09-Mar-2026
+90.00
+Dec/2028
+Revise Financed subprojects 
+functioning and delivering services 
+one year after completion. 
+(Percentage)     
+Comments on achieving  targets
+A total of 21 subprojects remain fully functional one year after completion. These include Garowe (7 roads and 1 
+bridge), Baidoa (5 roads), and Kismayo (7 roads and 1 drainage outfall). All continue to operate and deliver 
+services as intended. 
+0.00
+Jul/2019
+6
+19-Nov-2025
+7
+09-Mar-2026
+7.00
+Dec/2028
+Revise Municipalities with clean 
+financial project audits that continue 
+to remain eligible for the project 
+(Number)     
+Comments on achieving  targets
+All seven municipalities (Mogadishu, Garowe, Baidoa, Kismayo, Beledweyne, Dhusamareb, and Hargeisa) have 
+clean audits for FY2024 and remain eligible for continued project participation.
+0.00
+May/2022
+1,056,397
+19-Nov-2025
+1,056,397
+09-Mar-2026
+371,000.00
+Dec/2028
+Revise Number of beneficiaries 
+reached under the municipal drought 
+response (% women, IDPs) (Number) 
+(Number)     
+Comments on achieving  targets
+A total of 1,056,397 beneficiaries (63% women, 82% IDPs) were reached under the drought response activities. 
+AF1: 257,999 (62% women, 86% IDPs) - BRA: 155,852 (51% women, 87% IDPs) - Baidoa: 95,625 (40% women, 
+91% IDPs) - Garowe: 6,522 (94% women, 80% IDPs) AF2: 798,398 (64% women, 78% IDPs) - BRA: 397,488 (64%
+=== PAGE 16 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 11
+Official Use Only
+women, 93% IDPs) - Baidoa: 302,607 (66% women, 91% IDPs) - Garowe: 98,303 (61% women, 50% IDPs) - The 
+total achievement represents 285% of the original end target of 371,000. NB: Drought response completed on 
+30-Sep-2024 
+Intermediate Results Indicators by Components
+Contingent Emergency Response 
+Baseline 
+Actual (Previous)
+Actual (Current)
+Closing Period
+Indicator Name
+Result
+Month/Year
+Result
+Date
+Result
+Date
+Result
+Month/Year
+No
+Jun/2019
+No
+19-Nov-2025
+No
+09-Mar-2026
+Yes
+Dec/2028
+Specific Operation Manual developed 
+for crisis response (Yes/No)     
+Comments on achieving  targets
+Operations manual for crisis expected by the end of the project
+Urban Infrastructure and Services 
+Baseline 
+Actual (Previous)
+Actual (Current)
+Closing Period
+Indicator Name
+Result
+Month/Year
+Result
+Date
+Result
+Date
+Result
+Month/Year
+0.00
+Jun/2019
+345,142
+19-Nov-2025
+461,277
+09-Mar-2026
+440,000
+Dec/2028
+Revise Number of person days of 
+employment created (days, % female, 
+% IDPs, % host) (Number)     
+Comments on achieving  targets
+Cumulative 461,277 person days of employment (18% IDPs, 12% female) Breakdown by municipality: - Baidoa 
+67,580 (29% IDPs, 15% Female) - Garowe 123,645 (12% IDPs, 15% Female) - Kismayo 113,827 (32% IDPs, 9% 
+Female) - Mogadishu 108,754 (4% IDPs, 11% Female) - Dhusamareb 20,505 (18% IDPs, 16% Female) - 
+Beledweyne 26,966 (12% IDPs, 12% Female) 
+0.00
+Aug/2019
+1,001
+19-Nov-2025
+1,191
+09-Mar-2026
+600.00
+Dec/2028
+Revise Number of women engaged in 
+skilled and unskilled labor activities in 
+the project (disaggregated by skilled 
+and unskilled) (Number)     
+Comments on achieving  targets
+1,190 women, with 646 unskilled and 544 skilled)
+0.00
+Jun/2019
+39
+19-Nov-2025
+39
+09-Mar-2026
+90.00
+Dec/2028
+Revise Urban roads rehabilitated or 
+upgraded (Kilometers)     
+Comments on achieving  targets
+39 km completed (43%). Breakdown: Garowe 11.6 km, Baidoa 14.6 km, Kismayo 12.5 km, Mogadishu 0.23 km. 
+An additional 51 km is under construction, with most sections expected to be completed in 2026. 
+0.00
+Jun/2019
+45
+19-Nov-2025
+45
+09-Mar-2026
+90.00
+Dec/2028
+Revise Pedestrian walkways 
+constructed (Kilometers)     
+Comments on achieving  targets
+45 km completed (50%). Breakdown: Garowe 19 km, Baidoa 16.6 km, Kismayo 9.12 km. The remaining 51 km of 
+roads—each with walkways—are under construction and are also expected to be completed in 2026.
+=== PAGE 17 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 12
+Official Use Only
+0.00
+Jan/2020
+44
+19-Nov-2025
+3.70
+09-Mar-2026
+15.00
+Dec/2028
+Revise Percentage of women gaining 
+employment due to skills training 
+provided under the project. 
+(Percentage)     
+Comments on achieving  targets
+3.7% - 44 women gained employment following project-supported skills training — Garowe (26), Baidoa (11), 
+Kismayo (5), and Mogadishu (2). The decrease from 4.4% to 3.6% reflects a larger total number of women 
+engaged in project employment, which increased the denominator for this calculation.
+0.00
+Aug/2019
+0
+19-Nov-2025
+0
+09-Mar-2026
+80.00
+Dec/2028
+Revise Percentage of sampled 
+beneficiaries satisfied that 
+infrastructure met their needs 
+(number, % female, %IDPs) 
+(Percentage)     
+Comments on achieving  targets
+This indicator will be assessed at project end through an endline survey. However, the 2023 baseline survey in 
+Baidoa, Garowe, and Kismayo already showed high satisfaction with project selection: 92.5% of women, 87.9% 
+of men, 87% of IDPs, 
+0.00
+Dec/2019
+0
+19-Nov-2025
+0
+09-Mar-2026
+65.00
+Dec/2028
+Revise Percentage of women engaged 
+in the selected cities who consider 
+that their needs and priorities have 
+been taken into account in final 
+planning decisions and design. 
+(Percentage)     
+Comments on achieving  targets
+To be assessed at endline and compared with the extent to which respondents reported that women have a 
+voice in community decision making (assessed in baseline)
+0
+Nov/2023
+10.16
+19-Nov-2025
+10.16
+19-Nov-2025
+13
+Dec/2028
+Revise Length of drainage 
+infrastructure rehabilitated or 
+constructed (Kilometers)     
+Comments on achieving  targets
+10.163 km completed, including 9.423 km of rehabilitated trunk drainage in Mogadishu and 0.74 km of outfall in 
+Kismayo. .
+0
+Mar/2025
+114,000
+19-Nov-2025
+114,000
+09-Mar-2026
+200,000
+Dec/2028
+Revise Number of people benefiting 
+from reduced flood risk due to 
+improved drainage infrastructure (% 
+female, % IDPs, % host communities) 
+(Number)     
+Comments on achieving  targets
+114,000 people have benefited from completed drainage works in Mogadishu. Additional roadside drainage in 
+Garowe, Kismayo, and Baidoa also contributes to reduced flood risk. Consolidated estimates are being finalized 
+to avoid double counting. This indicator may also require target adjustment if Mogadishu drainage activities are 
+shifted to MPA. 
+Institutional Strengthening and Analytics 
+Baseline 
+Actual (Previous)
+Actual (Current)
+Closing Period
+Indicator Name
+Result
+Month/Year
+Result
+Date
+Result
+Date
+Result
+Month/Year
+0
+Jun/2019
+100
+19-Nov-2025
+100
+09-Mar-2026
+100
+Dec/2028
+Revise Percentage of Rehabilitated or 
+Upgraded Infrastructure maintained 
+under O&M Plans (Percentage)     
+Comments on achieving  targets
+All completed subprojects in Garowe, Baidoa, Kismayo, and Mogadishu are being maintained under basic O&M 
+services, such as cleaning and routine upkeep. Given the newness of the infrastructure, maintenance needs in 
+the first few years remain limited. Discussions are ongoing to assess additional O&M equipment requirements 
+and potential support.
+0.00
+Jun/2019
+10
+19-Nov-2025
+10
+09-Mar-2026
+12.00
+Dec/2028
+=== PAGE 18 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 13
+Official Use Only
+Revise Number of inter-governmental 
+forum discussions held between 
+federal/state/municipal levels 
+(Number)     
+Comments on achieving  targets
+Breakdown by municipality: Mogadishu 2, Garowe 4, Kismayo 2, Baidoa 2 
+0.00
+Jun/2019
+4
+19-Nov-2025
+4
+09-Mar-2026
+7.00
+Dec/2028
+Revise Number of municipalities with 
+improved O&M plans (Number)     
+Comments on achieving  targets
+All four municipalities who completed subprojects (Garowe, Kismayo, Baidoa, and Mogadishu) have developed/ 
+improved O&M plans. The value for this indicator remains tracked and assessed until it is confirmed that the 
+plans meet all requisite standards and are fully approved.
+Project Management and Capacity Building 
+Baseline 
+Actual (Previous)
+Actual (Current)
+Closing Period
+Indicator Name
+Result
+Month/Year
+Result
+Date
+Result
+Date
+Result
+Month/Year
+0.00
+Jun/2019
+141
+19-Nov-2025
+141
+09-Mar-2026
+200
+Dec/2028
+Number of project and municipal 
+staff formally trained on core 
+municipal functions (Number)     
+Comments on achieving  targets
+A total of 141 project and municipal staff have been trained on core municipal functions — Baidoa (23), 
+Beledweyne (19), Dhusamareeb (19), Garowe (23), Kismayo (24), Mogadishu (28), and Hargeisa (5). Recent 
+capacity-building activities included the GCA Urban Masterclass on Climate Resilience Adaptation and the 
+Somali Multi-Level Governance Training, conducted in July and May 2025, respectively. In addition, a RAP 
+Training was conducted for project staff, including members of the UNOPS supervision team. This represents 
+70.5% of the revised end target of 120. 
+0.00
+Jun/2019
+5,938
+19-Nov-2025
+8,389
+09-Mar-2026
+4,500.00
+Dec/2028
+Revise Participants in consultation 
+activities related to project 
+implementation (number, 
+disaggregated by percentage of 
+women, IDPs) (Number)     
+Comments on achieving  targets
+8,389 participants consulted (48% women, %IDPs) Disaggregation for total participants: - Garowe 853 (25% 
+IDPs, 60% Women) - Baidoa 710 (13% IDPs, 38% Women) - Kismayo 2957 (18% IDPs, 51% Women) - Mogadishu 
+2416 (9% IDPs, 53% Women) - Beledweyne 665 (12% IDPs, 17% Women) 
+0.00
+Jun/2019
+98
+19-Nov-2025
+98
+09-Mar-2026
+85.00
+Dec/2026
+Revise Percentage of grievances 
+addressed in the stipulated 
+timeframe. (Percentage)     
+Comments on achieving  targets
+98% of the total 485 grievances received have been addressed in the stipulated timeframe. Breakdown by 
+municipality (of grievances received): - Baidoa: 92% (#90) - Garowe: 96% (#134) - Kismayo: 100% (#61) - 
+Mogadishu: 99% (#145) - Beledweyne: 38% (#21) - Dhusamareb: 90% (#30) 
+Response to Urban Forced Displacement 
+Baseline 
+Actual (Previous)
+Actual (Current)
+Closing Period
+Indicator Name
+Result
+Month/Year
+Result
+Date
+Result
+Date
+Result
+Month/Year
+1,056,397
+19-Nov-2025
+1,056,397
+09-Mar-2026
+350,000
+Dec/2028
+=== PAGE 19 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 14
+Official Use Only
+Displaced people and people in host 
+communities provided with services 
+and livelihoods (Number of people) 
+CRI     
+Comments on achieving  targets
+Activities fully completed on September 2024
+792,298
+19-Nov-2025
+792,298
+09-Mar-2026
+245,000
+Dec/2028
+Displaced people and people 
+in host communities provided 
+with services and livelihoods – 
+Youth (Number of people) 
+CRI     
+Comments on achieving  targets
+An estimated 792,298 youth (75% of the total 1,056,397 beneficiaries) have been assisted under the municipal 
+drought response component. This estimate aligns with the Somalia Population Estimation Survey (2014), which 
+indicates that 75% of the population is under 30 years old.
+665,530
+19-Nov-2025
+665,530
+09-Mar-2026
+175,000
+Dec/2026
+Displaced people and people 
+in host communities provided 
+with services and livelihoods – 
+Female (Number of people) 
+CRI     
+Comments on achieving  targets
+665,530 women (63% of total beneficiaries) have been assisted with services and livelihoods under the 
+municipal drought response, including health and nutrition, WASH, Housing, Land, and Property (HLP) services, 
+and cash assistance.
+0.00
+Dec/2022
+92.60
+19-Nov-2025
+92.60
+09-Mar-2026
+70.00
+Dec/2028
+Percentage of sampled beneficiaries 
+who are satisfied that the municipal 
+drought response activities met their 
+needs (number, % female, %IDPs) 
+(Percentage) (Percentage)     
+Comments on achieving  targets
+Ths indicator was measured at the end of drought response activities in September 2024
+0.00
+Dec/2022
+163,054
+19-Nov-2025
+163,054
+09-Mar-2026
+350,000.00
+Dec/2028
+Number of beneficiaries benefitting 
+from cash assistance (number, % 
+women, % IDPs) (Number) 
+(Number)     
+Comments on achieving  targets
+This indicator was achieved at the end of activity in September 2024
+0.00
+Dec/2022
+452,148
+19-Nov-2025
+452,148
+09-Mar-2026
+178,467.00
+Dec/2028
+Number of individuals treated with 
+health and nutrition services 
+(number, % women, % IDPs) 
+(Number). (Number)     
+Comments on achieving  targets
+This indicator was achieved at the end of drought response activities
+0.00
+Dec/2022
+315,337
+19-Nov-2025
+315,337
+09-Mar-2026
+330,000.00
+Dec/2028
+Number of individuals benefitting 
+from WASH services and investments 
+(number, % women, % IDPs) 
+(Number). (Number)     
+Comments on achieving  targets
+This indicator was achieved by end of activity for emergency drought response
+0.00
+Dec/2022
+129,221
+19-Nov-2025
+129,221
+09-Mar-2026
+341,100.00
+Dec/2028
+Number of beneficiaries of HLP 
+services (number, % women, % IDPs) 
+(Number). (Number)     
+Comments on achieving  targets
+this indicator was achieved at the end of drought response activities
+=== PAGE 20 ===
+The World Bank
+ Somalia Urban Resilience Project - Phase II (P170922)
+Page 15
+Official Use Only
+0.00
+Dec/2022
+100
+19-Nov-2025
+100
+09-Mar-2026
+65.00
+Dec/2026
+Percentage of women engaged in the 
+selected cities who consider that 
+their needs and priorities have been 
+taken into account in final planning 
+decision and design of the drought 
+response (Percentage). 
+(Percentage)     
+Comments on achieving  targets
+This indicator was achieved at the end of drought response activities

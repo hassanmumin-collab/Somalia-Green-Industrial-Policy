@@ -1,0 +1,770 @@
+=== PAGE 1 ===
+ 
+Page 1 of 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEDERAL GOVERNMENT OF SOMALIA 
+ 
+MINISTRY OF AGRICULTURE AND IRRIGATION (MOAI) 
+ 
+ 
+Report 
+ 
+ 
+ 
+ 
+THE RIPPLE EFFECTS OF THE MIDDLE EAST CRISIS ON SOMALIA'S 
+FOOD SECURITY: RISING FOOD PRICES, INFLATION, AND 
+AGRICULTURAL VULNERABILITY 
+ 
+ 
+ 
+May 2026
+=== PAGE 2 ===
+ 
+Page 2 of 16 
+ 
+Contents 
+EXECUTIVE SUMMARY ........................................................................................................... 3 
+1. 
+INTRODUCTION ............................................................................................................... 4 
+2. 
+GLOBAL MARKET DISRUPTIONS AND THEIR TRANSMISSION TO SOMALIA .......... 6 
+3. 
+Impact on Irrigation Systems and Agricultural Infrastructure ............................................. 7 
+4. 
+Impact on Agricultural Input Supply Chains ....................................................................... 7 
+5. 
+Impacts on Humanitarian Operations ............................................................................... 11 
+6. 
+IMPACT ON AGRICULTURAL PRODUCTION ............................................................... 12 
+7. 
+HOUSEHOLD FOOD SECURITY AND LIVELIHOODS .................................................. 13 
+8. 
+IMPLICATIONS FOR NATIONAL FOOD SECURITY ..................................................... 14 
+9. 
+CONCLUSION .................................................................................................................. 15 
+10. 
+REFERENCES ............................................................................................................. 16
+=== PAGE 3 ===
+ 
+Page 3 of 16 
+EXECUTIVE SUMMARY 
+The escalation of geopolitical tensions and armed conflict in the Middle East since February 
+2026 has generated significant disruptions across global energy markets, maritime trade routes, 
+fertilizer supply chains, and food systems. Although Somalia is geographically distant from the 
+conflict zone, the country's heavy dependence on imported food, fuel, agricultural inputs, and 
+international trade routes has made it highly vulnerable to the resulting economic shocks. 
+The crisis has particularly affected maritime traffic through the Strait of Hormuz, one of the 
+world's most critical trade corridors, through which approximately one-quarter of global 
+seaborne oil trade and one-third of global fertilizer trade pass. Disruptions in this strategic 
+corridor have contributed to sharp increases in global oil prices, freight costs, insurance 
+premiums, and fertilizer prices. 
+ 
+For Somalia, these global developments have translated into rising domestic fuel prices, 
+increased transportation costs, higher food prices, inflationary pressures, and reduced purchasing 
+power among households. The impact is especially severe for poor urban consumers, 
+agropastoral communities, smallholder farmers, and internally displaced populations who 
+already face food security challenges resulting from climatic shocks and economic 
+vulnerabilities. 
+ 
+Evidence indicates that fuel prices in Somalia increased from approximately USD 0.60 per litre 
+before the crisis to approximately USD 1.50 per litre after the escalation of tensions, representing 
+an increase of more than 100 percent. Simultaneously, rising fertilizer costs threaten agricultural 
+production by limiting farmers' access to essential inputs during critical planting seasons. 
+The combined effects of higher food prices, reduced agricultural productivity, declining 
+purchasing power, and existing climatic stresses are increasing food security risks across 
+Somalia. These pressures may reverse recent gains in agricultural development and further 
+increase the number of households unable to afford a basic food basket. 
+This report assesses the pathways through which the Middle East crisis affects Somalia's food 
+security, agricultural production systems, livelihoods, and economic resilience and proposes 
+policy recommendations to mitigate these impacts.
+=== PAGE 4 ===
+ 
+Page 4 of 16 
+1. INTRODUCTION 
+ 
+The Middle East is one of the world's most strategically important regions for global energy production, 
+maritime trade, fertilizer exports, and international supply chains. The escalation of geopolitical tensions 
+and military conflict in early 2026 has generated significant disruptions across global markets, creating 
+economic shocks that extend far beyond the immediate conflict zone. 
+At the center of these disruptions is the Strait of Hormuz, a critical maritime chokepoint connecting the 
+Persian Gulf to international markets. The Strait facilitates approximately one-quarter of global seaborne 
+oil trade, substantial volumes of liquefied natural gas (LNG), and nearly one-third of global fertilizer 
+shipments. Disruptions to shipping traffic through this corridor have resulted in increased fuel prices, 
+higher freight costs, elevated insurance premiums, and reduced availability of agricultural inputs in many 
+parts of the world. 
+ 
+Global energy markets reacted rapidly to the crisis. International oil prices increased significantly as 
+concerns grew over supply disruptions and maritime security. At the same time, shipping companies 
+faced rising operational costs due to longer transit routes, increased security measures, and higher 
+insurance costs. These developments have created inflationary pressures across food, agriculture, 
+transport, and manufacturing sectors worldwide. 
+ 
+For Somalia, the implications are particularly severe. The Somali economy remains highly vulnerable to 
+external shocks due to its heavy dependence on imported food commodities, imported fuel, agricultural 
+inputs, and international trade routes. More than 90 percent of essential commodities consumed in 
+Somalia are imported, while domestic agricultural production continues to face recurrent challenges 
+associated with drought, floods, pests, limited irrigation infrastructure, and climate variability. 
+The transmission of the Middle East crisis into Somalia occurs through several interconnected channels. 
+First, rising global oil prices have led to a sharp increase in domestic fuel prices, increasing the cost of 
+transportation, irrigation, food distribution, electricity generation, and humanitarian operations. Second, 
+disruptions in fertilizer markets have increased the cost of agricultural inputs, reducing access for 
+smallholder farmers and threatening crop productivity. Third, higher freight charges and import costs 
+have contributed to rising prices of staple foods such as rice, wheat flour, sugar, and vegetable oils. 
+Finally, inflationary pressures have reduced household purchasing power, particularly among poor urban 
+households, pastoral communities, agropastoral populations, and internally displaced persons (IDPs). 
+These impacts are occurring against a backdrop of existing food security challenges in Somalia. 
+Consecutive below-average rainfall seasons, localized crop failures, declining livestock productivity, and 
+persistent poverty have already weakened the resilience of millions of households. The additional 
+economic pressures resulting from the Middle East crisis therefore risk exacerbating food insecurity, 
+increasing malnutrition, and undermining ongoing efforts to strengthen agricultural development and food 
+system resilience. 
+ 
+According to recent assessments, Somalia is among the countries most exposed to the indirect 
+consequences of the crisis due to its dependence on imported energy, food, and fertilizer supplies. 
+Emerging evidence suggests that the crisis could significantly increase the number of households unable 
+to afford a basic food basket while further constraining agricultural production and livelihood 
+opportunities. 
+ 
+This report examines the ripple effects of the Middle East crisis on Somalia's food security and 
+agricultural sector. It analyzes the pathways through which global geopolitical shocks are transmitted into 
+the Somali economy and assesses their implications for food prices, inflation, agricultural production, 
+household welfare, and national food security. The report also provides recommendations to strengthen 
+resilience, mitigate emerging risks, and support sustainable food systems development in Somalia.
+=== PAGE 5 ===
+MIDDLE EAST CRISIS (2026)
+DISRUPTION OF STRAIT OF HORMUZ
+—25% of global oil trade and —33% of global fertilizer trade pass through this route
+Higher
+Oil Prices
+Global oil prices rise
+due to supply risks
+and market uncertainty
+Higher
+Freight Costs
+Shipping routes disrupted,
+insurance premiums and
+freight rates increase
+SOMALIA
+Fertilizer
+Supply Disruptions
+Reduced availability and
+higher prices of fertilizer
+and agricultural inputs
+A highly import-dependent and climate-vulnerable country
+Higher
+Fuel Prices
+Fuel costs for transport,
+irrigation, electricity,
+and operations rise
+Higher
+Food Prices
+Cost of imported staples
+(rice, wheat, sugar, oils)
+increase
+00
+Higher
+Farm Input Costs
+Fertilizer and other
+agricultural inputs
+become more expensive
+Reduced
+Household
+Purchasing Power
+Inflation reduces incomes
+and ability of households
+to afford food
+REDUCED FOOD ACCESS
+Less food available and unaffordable for many households
+Lower input use and productivity
+REDUCED AGRICULTURAL PRODUCTION
+lead to reduced output
+More people unable to meet basic
+INCREASED FOOD INSECURITY
+food needs
+Higher poverty, malnutrition,
+INCREASED POVERTY & VULNERABILITY
+and social instability
+Page 5 of 16
+=== PAGE 6 ===
+ 
+Page 6 of 16 
+2. GLOBAL MARKET DISRUPTIONS AND THEIR TRANSMISSION TO 
+SOMALIA 
+The escalation of conflict in the Middle East during 2026 triggered a series of disruptions across global 
+energy, transport, fertilizer, and food markets. Because Somalia relies heavily on imported fuel, food 
+commodities, and agricultural inputs, the country is highly exposed to international market fluctuations. 
+Consequently, external shocks originating thousands of kilometers away are rapidly transmitted into 
+domestic markets through increases in fuel prices, freight costs, import prices, and inflation. 
+The principal transmission channels include: 
+1. Energy market disruptions;  
+2. Maritime transport and shipping costs;  
+3. Fertilizer market shocks;  
+4. Food import price increases;  
+5. Inflation and reduced purchasing power.  
+Together, these channels create significant pressure on agricultural production, food affordability, and 
+household welfare. 
+ 
+2.1 Energy Market Shock 
+ 
+Global Energy Market Disruptions 
+ 
+The Middle East plays a central role in global oil and gas production. The escalation of hostilities in early 
+2026 raised concerns over the security of oil exports transiting through the Strait of Hormuz, a strategic 
+maritime corridor responsible for approximately 25 percent of global seaborne oil trade. As uncertainty 
+increased, international energy markets reacted immediately, pushing Brent crude oil prices above USD 
+90 per barrel and generating substantial volatility across fuel markets.  
+ 
+According to UNCTAD, oil prices increased by approximately 27 percent within days of the escalation, 
+while natural gas prices rose by more than 70 percent, reflecting fears of supply disruptions and market 
+instability. 
+ 
+2.1.1 Transmission of Global Energy Shocks to Somalia's Agricultural Sector 
+ 
+Somalia imports virtually all of its petroleum products and therefore remains highly vulnerable to 
+fluctuations in global energy markets. As a net importer of fuel, the country acts as a price-taker, meaning 
+that increases in international oil prices are rapidly transmitted into domestic markets through higher fuel, 
+transportation, and logistics costs. 
+ 
+According to the Somalia National Bureau of Statistics (SNBS), domestic fuel prices increased from 
+approximately USD 0.60 per litre before the crisis to approximately USD 1.50 per litre following the 
+escalation of tensions in the Middle East, representing an increase of more than 100 percent. This sharp 
+rise in fuel prices has generated widespread economic impacts across all productive sectors, particularly 
+agriculture, where fuel is an essential input for production, irrigation, transportation, processing, and 
+marketing activities.  
+ 
+Impact on Crop Production Systems 
+The agricultural sector is among the most affected by rising fuel prices because modern crop production 
+depends heavily on energy-intensive operations. Increased fuel costs raise the overall cost of production 
+and reduce farmers' profitability, particularly among smallholder farmers who already face challenges 
+related to climate variability, limited access to inputs, and weak market infrastructure.
+=== PAGE 7 ===
+ 
+Page 7 of 16 
+Higher fuel prices affect crop production through: 
+• 
+Increased costs of land preparation using tractors and mechanized equipment;  
+• 
+Higher operating costs for irrigation pumps and water distribution systems;  
+• 
+Increased transportation costs for seeds, fertilizers, pesticides, and farm machinery;  
+• 
+Higher labour and service costs associated with agricultural operations;  
+• 
+Increased costs of harvesting, threshing, storage, and post-harvest handling.  
+The impact is particularly significant for Somalia's priority crops, including maize, sorghum, rice, 
+sesame, cowpea, banana, and horticultural crops, which require timely access to farm inputs and 
+market services throughout the production cycle. 
+ 
+3. Impact on Irrigation Systems and Agricultural Infrastructure 
+ 
+The riverine agricultural zones along the Shabelle and Juba Rivers, which serve as Somalia's principal 
+food-producing areas, are particularly vulnerable to fuel price increases. 
+Most irrigation schemes depend on: 
+• 
+Diesel-powered water pumps;  
+• 
+Fuel-operated generators;  
+• 
+Canal maintenance equipment;  
+• 
+Water lifting and distribution systems.  
+As fuel costs rise, the cost of irrigating farmland increases substantially, forcing many farmers to reduce 
+irrigated acreage, decrease watering frequency, or delay production activities. This can result in reduced 
+crop yields and lower overall agricultural output. 
+The crisis also affects the maintenance and rehabilitation of irrigation infrastructure. Rising transportation 
+and construction costs increase the expenses associated with: 
+• 
+Canal rehabilitation;  
+• 
+Water control structures;  
+• 
+Pumping stations;  
+• 
+Farm access roads;  
+• 
+Agricultural storage facilities.  
+Consequently, both public and private investments in irrigation development become more costly, 
+potentially slowing efforts to expand irrigated agriculture and strengthen food production systems. 
+ 
+4. Impact on Agricultural Input Supply Chains 
+Somalia relies heavily on imported agricultural inputs, including fertilizers, improved seeds, 
+agrochemicals, irrigation equipment, and spare parts. Higher fuel and shipping costs increase the cost of 
+importing these essential inputs and transporting them to farming communities. 
+The result is: 
+• 
+Reduced affordability of fertilizers and agrochemicals;  
+• 
+Increased costs of certified seeds;  
+• 
+Delays in input delivery during planting seasons;  
+• 
+Reduced adoption of improved agricultural technologies;  
+• 
+Lower productivity among smallholder farmers.  
+These challenges are particularly concerning because agricultural productivity in Somalia is already 
+constrained by limited input use and low mechanization levels. 
+Impact on Agricultural Commodity Marketing and Food Systems 
+Higher fuel prices also increase the cost of transporting food commodities from production areas to major 
+consumption centres. 
+Major Agricultural Trade Corridors
+=== PAGE 8 ===
+ 
+Page 8 of 16 
+Production Area Main Commodities 
+Destination Markets 
+Lower Shabelle 
+Maize, Banana, Vegetables 
+Mogadishu 
+Middle Shabelle Maize, Sesame, Vegetables 
+Mogadishu and Central Regions 
+Bay Region 
+Sorghum, Cowpea 
+Mogadishu and Southern Somalia 
+Lower Juba 
+Sesame, Fruits, Livestock Products Kismayo and National Markets 
+Gedo Region 
+Maize, Sorghum, Sesame 
+Southern and Central Markets 
+As transport costs increase, traders and wholesalers pass these additional expenses to consumers through 
+higher retail prices. Consequently, food becomes less affordable for urban households while farmers 
+receive lower profit margins due to increased marketing costs. 
+This creates a dual burden: 
+For Farmers 
+• 
+Higher production costs;  
+• 
+Reduced profitability;  
+• 
+Reduced investment in future production.  
+For Consumers 
+• 
+Higher food prices;  
+• 
+Reduced purchasing power;  
+• 
+Increased vulnerability to food insecurity.
+=== PAGE 9 ===
+Energy Shock Transmission to Crop Production
+and Food Systems in Somalia
+1. MIDDLE EAST CRISIS
+Conflict and instability disrupt
+global energy markets
+2. RISING GLOBAL OIL PRICES
+Increased uncertainty and risk
+drive oil prices up
+3. HIGHER FUEL PRICES IN SOMALIA
+Fuel price rises from about
+USD 0.60/1itre to USD 1.50/litre (+100%+)
+4A. LAND PREPARATION
+COSTS
+More fuel for tractors
+and machinery
+increases costs
+4B. IRRIGATION
+SYSTEM COSTS
+More fuel for water
+pumps and generators
+raises irrigation costs
+4C. FARM INPUT
+SUPPLY COSTS
+Transport of seeds,
+fertilizers and
+agrochemicals
+becomes more expensive
+5. HIGHER AGRICULTURAL PRODUCTION COSTS
+All on-farm and post-harvest costs increase
+6. REDUCED FARM PROFITABILITY
+Farmers earn less due to higher costs
+d) 7. LOWER CROP PRODUCTION & YIELDS
+Y Less area planted, lower productivity, lower output
+8. HIGHER FOOD PRICES IN MARKETS
+Higher transport and supply costs
+passed on to consumers
+9. INCREASED FOOD INSECURITY
+More people face hunger, malnutrition
+and vulnerability
+4D. TRANSPORT &
+MARKETING COSTS
+Higher fuel raises
+cost of transporting
+produce to markets
+KEY OUTCOME
+Greater food
+insecurity and
+poverty in Somalia
+Global shocks far away — Real impacts on Somali farms and families
+Page 9 of 16
+=== PAGE 10 ===
+ 
+Page 10 of 16 
+ 
+Figure 5. Impact of Rising Fuel Prices on Agricultural Production Costs in Somalia 
+(Index: Before Crisis = 100) 
+ 
+Irrigation Pumping           100  |    200 
+                           ████████░░░░░░░░░░░░ 
+                           ████████████████████ 
+ 
+Input Transportation        100  |    190 
+                           ████████░░░░░░░░░░░░ 
+                           ███████████████████░ 
+ 
+Tractor Operations           100  |    180 
+                           ████████░░░░░░░░░░░░ 
+                           ██████████████████░░ 
+ 
+Produce Transportation       100  |    175 
+                           ████████░░░░░░░░░░░░ 
+                           █████████████████░░░ 
+ 
+Post-Harvest Handling        100  |    160 
+                           ████████░░░░░░░░░░░░ 
+                           ████████████████░░░░ 
+ 
+Legend: 
+  Before Crisis (Index = 100) 
+  After Crisis 
+ 
+Data Table for Word/Excel 
+Component 
+Before Crisis After Crisis % Increase 
+Tractor Operations 
+100 
+180 
++80% 
+Irrigation Pumping 
+100 
+200 
++100% 
+Input Transportation 
+100 
+190 
++90% 
+Produce Transportation 100 
+175 
++75% 
+Post-Harvest Handling 100 
+160 
++60% 
+ 
+Key Message 
+The largest impact is observed in irrigation pumping, followed by input transportation and tractor 
+operations, reflecting the heavy dependence of Somalia's crop production systems on fuel-powered 
+machinery, water pumping systems, and transport services. Rising fuel prices therefore increase 
+production costs throughout the agricultural value chain, ultimately contributing to higher food prices and 
+increased food insecurity.
+=== PAGE 11 ===
+ 
+Page 11 of 16 
+5. Impacts on Humanitarian Operations 
+ 
+The Middle East crisis has significantly increased the operational costs of humanitarian agencies working 
+in Somalia. Rising fuel prices, higher freight charges, and supply chain disruptions have increased the 
+cost of delivering food assistance, agricultural support, nutrition services, and emergency relief to 
+vulnerable populations. 
+ 
+Key humanitarian actors affected include the World Food Programme (WFP), Food and Agriculture 
+Organization (FAO), UNICEF, International Organization for Migration (IOM), and major humanitarian 
+NGOs supporting food security, nutrition, livelihoods, and emergency response interventions across the 
+country. 
+ 
+Higher transportation and logistics costs have affected the movement of food commodities, agricultural 
+inputs, nutrition supplies, and humanitarian personnel, particularly in remote and hard-to-reach areas. The 
+World Food Programme (WFP) reports that rising fuel costs are increasing delivery expenses and 
+operational costs, potentially reducing the number of beneficiaries reached through humanitarian 
+assistance programmes. Furthermore, increased aviation fuel prices are placing additional pressure on the 
+United Nations Humanitarian Air Service (UNHAS), which provides critical access to inaccessible areas. 
+For FAO and agricultural partners, increased fuel and fertilizer costs have raised the cost of delivering 
+seeds, agricultural inputs, irrigation support, and livelihood recovery programmes. Similarly, UNICEF 
+and nutrition partners face higher costs in transporting therapeutic foods and essential nutrition supplies. 
+As humanitarian needs continue to increase due to rising food prices and declining purchasing power, 
+humanitarian agencies face a dual challenge of growing demand for assistance and increasing operational 
+costs. This may reduce programme coverage and place additional pressure on already constrained 
+humanitarian resources. 
+ 
+Table. Impact of the Middle East Crisis on Key Humanitarian Actors in Somalia 
+Humanitarian 
+Actor 
+Primary Area of 
+Intervention 
+Impact of the Middle East Crisis 
+Risk Level 
+  WFP 
+Food Assistance & 
+Logistics 
+Increased food procurement, transport, 
+warehousing, and delivery costs; potential 
+reduction in beneficiary coverage. 
+  High 
+  FAO 
+Agriculture & 
+Livelihoods 
+Higher costs of seeds, fertilizers, irrigation 
+support, and agricultural recovery programmes.   High 
+  UNICEF 
+Nutrition & Child 
+Protection 
+Increased transportation costs for therapeutic 
+foods, nutrition supplies, and health 
+commodities. 
+  
+Medium–
+High 
+  IOM 
+Displacement & 
+Emergency Response 
+Rising operational costs for emergency 
+assistance, transportation, and support to 
+displaced populations. 
+  
+Medium–
+High 
+  
+Humanitarian 
+NGOs 
+Multi-sector 
+Humanitarian 
+Assistance 
+Reduced operational efficiency due to increased 
+fuel, logistics, staffing, and supply chain costs. 
+  
+Medium–
+High 
+ 
+Legend 
+  High Impact – Significant increase in operational costs with direct implications for programme 
+coverage and service delivery.
+=== PAGE 12 ===
+ 
+Page 12 of 16 
+  Medium–High Impact – Noticeable increase in operational costs that may affect implementation 
+efficiency and beneficiary reach. 
+  Moderate Impact – Manageable impacts with limited disruption to programme delivery. 
+ 
+ 
+ 
+6. IMPACT ON AGRICULTURAL PRODUCTION 
+ 
+4.1 Rising Fertilizer Prices and Agricultural Input Constraints 
+The Persian Gulf region is one of the world's most important suppliers of agricultural fertilizers, 
+particularly nitrogen-based fertilizers such as urea and ammonia, as well as phosphate-based fertilizers 
+used to improve crop productivity. Disruptions to production facilities, shipping routes, and international 
+trade resulting from the Middle East crisis have significantly increased global fertilizer prices and reduced 
+market availability. 
+According to international trade assessments, approximately one-third of global seaborne fertilizer trade 
+passes through the Strait of Hormuz, making fertilizer markets highly sensitive to disruptions in the 
+region. Somalia is particularly vulnerable because a significant share of its fertilizer imports originate 
+from Gulf countries, while domestic fertilizer production remains extremely limited.  
+The increase in fertilizer prices comes at a time when Somali farmers are already facing multiple 
+challenges, including drought, erratic rainfall, limited irrigation infrastructure, pests, diseases, and 
+constrained access to agricultural finance. Higher fertilizer prices therefore risk reducing input use among 
+smallholder farmers, particularly those cultivating cereals and horticultural crops. 
+The resulting impacts may include: 
+• 
+Reduced fertilizer application rates;  
+• 
+Declining soil fertility and nutrient replenishment;  
+• 
+Lower crop productivity and yields;  
+• 
+Increased production costs per hectare;  
+• 
+Reduced farm profitability and household incomes;  
+• 
+Delayed planting decisions and reduced cultivated areas;  
+• 
+Reduced adoption of improved agricultural technologies;  
+• 
+Lower private sector investment in crop production.  
+The cumulative effect is likely to be a decline in agricultural output and a weakening of national food 
+production systems. 
+ 
+ 
+4.2 Crop Production Risks 
+The impact of rising fuel prices, fertilizer costs, transportation expenses, and supply chain disruptions is 
+expected to affect all major crop production systems in Somalia. 
+ 
+Cereal Crops 
+ 
+Maize and sorghum, which constitute the country's principal staple food crops, are particularly 
+vulnerable. Farmers may reduce the use of fertilizers and improved seeds due to higher costs, resulting in 
+lower yields and reduced market supplies. Reduced cereal production may further increase Somalia's 
+dependence on imported food commodities.
+=== PAGE 13 ===
+ 
+Page 13 of 16 
+Rice Production 
+Rice production systems, particularly in irrigated areas, face increased production costs due to higher fuel 
+requirements for water pumping, land preparation, and transportation. At the same time, imported rice 
+prices may increase, placing additional pressure on consumers. 
+ 
+Legumes and Oil Crops 
+Cowpea and sesame producers may experience reduced profitability due to increased input and 
+transportation costs. Higher marketing costs may reduce incentives for production and export activities. 
+ 
+Banana and Horticultural Production 
+Banana, fruit, and vegetable production systems are highly dependent on irrigation, transportation, and 
+post-harvest handling. Increased fuel costs directly affect water pumping, cold storage, packaging, and 
+transport to urban markets. As a result, consumers may face higher prices for nutritious foods, including 
+fruits and vegetables. 
+ 
+Irrigated Agriculture 
+The riverine agricultural zones of Lower Shabelle, Middle Shabelle, Lower Juba, and Hiraan are 
+particularly exposed due to their dependence on diesel-powered irrigation systems. Rising energy costs 
+may reduce irrigated acreage and limit the expansion of high-value crop production. 
+ 
+Crop 
+Main Risk 
+Maize 
+Reduced fertilizer use and lower yields 
+Sorghum 
+Increased production costs and reduced profitability 
+Rice 
+Higher irrigation and transport costs 
+Cowpea 
+Reduced market competitiveness 
+Sesame 
+Increased production and export costs 
+Banana 
+Higher irrigation and post-harvest costs 
+Horticulture Increased production, storage, and transport costs 
+ 
+7. HOUSEHOLD FOOD SECURITY AND LIVELIHOODS 
+The impacts of the Middle East crisis on food security are transmitted through the four internationally 
+recognized dimensions of food security: availability, access, utilization, and stability. 
+ 
+Food Availability 
+Food availability is affected through reduced domestic agricultural production, disruptions in food 
+imports, and higher costs of agricultural inputs. Reduced crop production may lower the volume of food 
+available in local markets, while supply chain disruptions may constrain food imports and market 
+supplies. 
+ 
+Food Access 
+Food access is likely to be the most immediate and visible impact. Rising food prices, transport costs, and 
+inflation reduce the purchasing power of households, particularly among low-income groups. Poor 
+households spend a large proportion of their income on food and are therefore highly sensitive to price 
+increases.
+=== PAGE 14 ===
+ 
+Page 14 of 16 
+Food Utilization 
+As food prices rise, households may adopt negative coping strategies, including reducing meal frequency, 
+consuming less diverse diets, and prioritizing cheaper foods with lower nutritional value. Such changes 
+can contribute to worsening nutritional outcomes, especially among children, pregnant women, and 
+vulnerable populations. 
+ 
+Food Stability 
+The crisis increases exposure to recurrent shocks and reduces the ability of households to recover from 
+economic and climatic stresses. Repeated droughts, floods, inflationary pressures, and market disruptions 
+can erode resilience and increase long-term vulnerability. 
+Recent assessments suggest that up to 2.5 million additional people in Somalia could become unable to 
+afford a basic food basket if current economic pressures persist.  
+The most vulnerable groups include: 
+• 
+Urban poor households;  
+• 
+Smallholder farmers;  
+• 
+Pastoral communities;  
+• 
+Agropastoral households;  
+• 
+Internally displaced persons (IDPs);  
+• 
+Women-headed households;  
+• 
+Casual labourers and informal workers. 
+ 
+8. IMPLICATIONS FOR NATIONAL FOOD SECURITY 
+The Middle East crisis is creating a convergence of economic, agricultural, and food security risks that 
+threaten national food systems. 
+The combined effects of: 
+• 
+Food inflation;  
+• 
+Reduced purchasing power;  
+• 
+Higher agricultural production costs;  
+• 
+Limited access to fertilizers and farm inputs;  
+• 
+Increased transportation and import costs;  
+• 
+Humanitarian supply chain disruptions;  
+• 
+Climate-related shocks;  
+are increasing pressure on both rural and urban households. 
+Without appropriate interventions, these pressures may contribute to: 
+• 
+Increased food insecurity;  
+• 
+Higher malnutrition rates;  
+• 
+Reduced agricultural productivity;  
+• 
+Increased poverty levels;  
+• 
+Greater dependence on humanitarian assistance;  
+• 
+Reduced national food system resilience.  
+The crisis therefore represents not only a humanitarian concern but also a strategic threat to agricultural 
+development, economic stability, and national food security objectives.
+=== PAGE 15 ===
+ 
+Page 15 of 16 
+9. CONCLUSION 
+The Middle East crisis demonstrates how global geopolitical events can rapidly affect food security and 
+agricultural systems in Somalia. Through its impacts on energy markets, fertilizer supply chains, 
+transportation costs, maritime trade, and inflation, the crisis has increased food prices, reduced purchasing 
+power, raised agricultural production costs, and heightened vulnerability among farming and pastoral 
+communities. 
+The crisis also highlights Somalia's structural dependence on imported food, fuel, fertilizers, and 
+agricultural inputs. Strengthening domestic production systems, expanding irrigation infrastructure, 
+improving access to agricultural inputs, and building resilient food systems are therefore essential for 
+reducing future vulnerability to external shocks. 
+As Somalia continues to pursue agricultural transformation and food security objectives, coordinated 
+action by government institutions, development partners, humanitarian agencies, research institutions, and 
+the private sector will be critical to mitigate current impacts and safeguard the livelihoods and food 
+security of millions of Somalis.
+=== PAGE 16 ===
+ 
+Page 16 of 16 
+10. 
+REFERENCES 
+Department of Crop Production and Food Security. (2026). The Ripple Effects of the Middle East Crisis 
+on Somalia's Food Security: Rising Food Prices, Inflation, and Agricultural Vulnerability. Ministry of 
+Agriculture & Irrigation (MoAI), Federal Government of Somalia, Mogadishu, Somalia. 
+ 
+Food and Agriculture Organization (FAO). (2026). Food Security and Agricultural Market Monitoring 
+Updates for Somalia. FAO Somalia, Mogadishu. 
+ 
+Somalia National Bureau of Statistics (SNBS). (2026). Somalia's Inflation Outlook: Intersections of 
+Global Oil Shocks, Import Dependence, and Climate Crises. Mogadishu, Somalia. 
+ 
+United Nations Conference on Trade and Development (UNCTAD). (2026). Strait of Hormuz 
+Disruptions: Implications for Global Trade and Development. Geneva, Switzerland. 
+ 
+World Food Programme (WFP). (2026). Food Security Under Pressure: How the Middle East Crisis is 
+Impacting Vulnerable Countries. Rome, Italy. 
+International Organization for Migration (IOM). (2026). Escalation in the Middle East and Beyond: 
+Mobility Report. Geneva, Switzerland. 
+ 
+Ministry of Agriculture & Irrigation (MoAI). (2026). Impacts of the 2026 Persian Gulf Conflict on 
+Somalia's Energy, Fertilizer and Food Security. Directorate of Crop Production and Food Security, 
+Mogadishu, Somalia. 
+ 
+Food Security and Nutrition Analysis Unit (FSNAU). (2026). Food Security Situation Analysis and 
+Market Updates for Somalia. Nairobi, Kenya. 
+Integrated Food Security Phase Classification (IPC). (2026). Somalia Acute Food Insecurity Analysis and 
+Projections. Mogadishu and Nairobi. 
+ 
+World Bank. (2026). Commodity Markets Outlook: Implications of Energy and Fertilizer Price Shocks on 
+Food Security. Washington, DC.

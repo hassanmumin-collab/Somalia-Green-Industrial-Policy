@@ -1,0 +1,65 @@
+Fact-check verdicts, batch 6 (C-0151 to C-0180), 2026-09-23. Notes: C-0161 mapping of 6,656,582 to sesame oils is from slide text order, no image check possible; C-0163 SIHBS covers 17 of 18 pre-war regions incl. Somaliland, excl. Middle Juba; C-0168 national fNRB shown 'for illustrative purposes', values valid to 31 December 2030; C-0169 Banaadir 0 must not be read as 'Mogadishu's fuel is renewable' (urban fNRB flagged for further work, para 20(b)); C-0172 the brief is internally loose (3 million households, 2021 NDC basis).
+
+C-0151: PASS
+
+C-0152: PASS
+
+C-0153: PASS
+
+C-0154: PASS
+
+C-0155: PASS
+
+C-0156: PASS
+
+C-0157: QUERY
+  Reason: 'Approximately 50,000 tons annually' is in the investment case's Current Market Overview for a Lower Juba programme with ~20,000 farmers; p. 14 frames it as programme year-1 production. May not be national production. Reword as the investment case's baseline, or find a Tier 1 figure.
+
+C-0158: QUERY
+  Reason: p. 13 gives USD 75 million/year at USD 1,500/ton, but p. 14 gives USD 50 million/year in years 1-2 and USD 75 million only in years 3-5; the deck is internally inconsistent. Decide whether to report USD 75 million or state the inconsistency.
+
+C-0159: PASS
+
+C-0160: PASS
+
+C-0161: PASS
+
+C-0162: QUERY
+  Reason: The NTP (S-002 p. 11) words the 7,900 L/day target as fresh milk through value-added processing, not total fresh milk production, and gives no 3,460 L baseline. Reword to processed milk and cite S-002 p. 11; keep the 3,460 baseline as FAO's figure only.
+
+C-0163: PASS
+
+C-0164: QUERY
+  Reason: Value correct but denominator unstated: Table 6.1 does not say population or households; p. 50 uses households. Add the denominator once confirmed.
+
+C-0165: PASS
+
+C-0166: PASS
+
+C-0167: PASS
+
+C-0168: PASS
+
+C-0169: PASS
+
+C-0170: PASS
+
+C-0171: PASS
+
+C-0172: PASS
+
+C-0173: PASS
+
+C-0174: PASS
+
+C-0175: PASS
+
+C-0176: PASS
+
+C-0177: PASS
+
+C-0178: PASS
+
+C-0179: PASS
+
+C-0180: PASS

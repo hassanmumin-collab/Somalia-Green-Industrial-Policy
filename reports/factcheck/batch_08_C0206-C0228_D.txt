@@ -1,0 +1,62 @@
+Fact-check verdicts, batch 8 (C-0206 to C-0228 and D-0001 to D-0005), 2026-09-23. Notes: C-0208 stored quote cut at 'pot' (complete to 'potential'); C-0209 2026 data partial to August 2026; C-0213 add 'at a 22 percent load factor'; C-0219 footnote 32 gives about 600,000 IDPs in Mogadishu.
+
+C-0206: PASS
+
+C-0207: PASS
+
+C-0208: PASS
+
+C-0209: PASS
+
+C-0210: PASS
+
+C-0211: PASS
+
+C-0212: PASS
+
+C-0213: PASS
+
+C-0214: FAIL
+  Reason: Next sentence on p. 34 gives distribution grids at 27 percent of CAPEX, more than batteries at 15 percent. Correction: 'Batteries accounted for about 15 percent of best-in-class mini grid capital costs, the largest share among generation components; distribution grids (poles and wires) accounted for 27 percent (ESMAP).'
+
+C-0215: PASS
+
+C-0216: PASS
+
+C-0217: PASS
+
+C-0218: PASS
+
+C-0219: PASS
+
+C-0220: PASS
+
+C-0221: PASS
+
+C-0222: FAIL
+  Reason: Revenues are those of the Federal Government of Somalia (FGS), not national. Correction: 'Federal Government of Somalia domestic revenues were 2.8 percent of GDP in 2023, up from 2.5 percent in 2022.'
+
+C-0223: PASS
+
+C-0224: FAIL
+  Reason: 29-45 percent applies to Somali-shilling-using areas; the Somaliland-shilling northwest was 8-14 percent. Correction: 'In January and February 2022, CPI in Somali-shilling-using areas (southern, central and northeast regions) was 29 to 45 percent above the 2017-2021 average for those months...; in the Somaliland-shilling-using northwest it was 8 to 14 percent above (FSNAU).'
+
+C-0225: FAIL
+  Reason: Source does not date the ~36,000 to 2025; chart sourced to the 2024 Africa GBS Benchmarking & Market Report in a March 2026 pack. Correction: 'According to the Kenya Investment Authority (2026, citing the 2024 Africa GBS Benchmarking & Market Report), about 36,000 people are currently employed in Kenya's GBS/BPO sector.' Period: 2024 reference year.
+
+C-0226: PASS
+
+C-0227: FAIL
+  Reason: Page does not name the Population Estimation Survey or say no census has been held since; inner page header reads 7th Edition Oct 2024 while cover says 8th Edition Oct 2025. Correction: 'NBS Facts & Figures gives Somalia's total estimated population in 2014 as 12,316,895.'
+
+C-0228: PASS
+
+D-0001: PASS
+
+D-0002: PASS
+
+D-0003: PASS
+
+D-0004: PASS
+
+D-0005: PASS

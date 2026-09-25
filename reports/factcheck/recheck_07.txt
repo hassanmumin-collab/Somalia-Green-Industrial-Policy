@@ -1,0 +1,19 @@
+Independent re-check, 2026-09-24, of C-0451, C-0452, C-0458, C-0480 and D-0070 after the batch_15 FAILs.
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0451: PASS
+  Reason: USD 1,764.83 rounds to about USD 1,765; display error removed.
+
+C-0452: PASS
+  Reason: 5.27 kg exact.
+
+C-0458: PASS
+  Reason: 41.654 kg, about 42 kg.
+
+C-0480: PASS
+  Reason: USD 4,815.79 rounds to about USD 4,816; no weight reported, none stated.
+
+D-0070: PASS
+  Reason: Eleven inputs sum to USD 10.957 million (11.0); eleven of twelve reporters, c.i.f., HS 1301 scope and understatement caveats all supported.
+
+Summary: 5 pass, 0 fail, 0 query.

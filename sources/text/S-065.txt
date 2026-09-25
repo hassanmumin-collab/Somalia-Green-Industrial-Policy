@@ -1,0 +1,3791 @@
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+ 
+Report No: PADHI01043 
+ 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+ 
+PROJECT APPRAISAL DOCUMENT 
+ 
+ON A 
+ 
+PROPOSED GRANT 
+ 
+IN THE AMOUNT OF SDR 72.6 MILLION  
+(US$95 MILLION EQUIVALENT) 
+ 
+AND CO-FINANCED BY 
+ 
+A GRANT FROM THE SOMALIA MULTI-PARTNER FUND 
+IN THE AMOUNT OF US$10 MILLION 
+ 
+TO THE 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+FOR A 
+ 
+SOMALIA PRODUCTIVE, RESILIENT, AND INCLUSIVE GROWTH (SPRING) PROJECT 
+ 
+ 
+APRIL 16, 2025 
+ 
+ 
+ 
+Finance, Competitiveness and Investment Global Practice 
+Eastern and Southern Africa Region 
+ 
+This document has a restricted distribution and may be used by recipients only in the performance of their official 
+duties. Its contents may not otherwise be disclosed without World Bank authorization. 
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+=== PAGE 2 ===
+ 
+ 
+ 
+CURRENCY EQUIVALENTS 
+ 
+(Exchange Rate Effective February 28, 2025) 
+ 
+Currency Unit  US$ 
+SDR 0.764 = US$1 
+US$1.309 = SDR 1 
+ 
+FISCAL YEAR 
+January 1 - December 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acting Regional Vice President: Amit Dar 
+Regional Practice Director: Hassan Zaman 
+Division Director: Qimiao Fan 
+Practice Manager: Alwaleed Fareed Alatabani 
+Task Team Leaders: Sameer Goyal, Milaine Rossanaly, Asta Bareisaite
+=== PAGE 3 ===
+ 
+ 
+ 
+ABBREVIATIONS AND ACRONYMS 
+ 
+AM 
+Accountability Mechanism 
+AML/CFT 
+Anti-Money Laundering/Countering the Financing of Terrorism 
+BDS 
+Business Development Services 
+BoS 
+Bank of Somaliland 
+CBR 
+Correspondent Banking Relationship 
+CBS 
+Central Bank of Somalia 
+CE 
+Citizen Engagement 
+CIS 
+Credit Information System 
+CPF 
+Country Partnership Framework 
+CPSD 
+Country Private Sector Diagnostic 
+CRI 
+Corporate Results Indicator 
+DA 
+Designated Account 
+DFIL 
+Disbursement and Financial Information Letter 
+DPA 
+Data Protection Authority 
+DRIVE 
+De-risking, Inclusion, and Value Enhancement of Pastoral Economies in the Horn of Africa 
+E&S 
+Environmental and Social 
+EAC 
+East African Community 
+EAFS 
+External Assistance Fiduciary Section 
+EBIT 
+Earnings before Interest and Taxes 
+EIRR 
+Economic Internal Rate of Return 
+e-KYC 
+Electronic-Know Your Customer 
+ESCP 
+Environmental and Social Commitment Plan 
+ESF 
+Environmental and Social Framework 
+ESRS 
+Environmental and Social Review Summary 
+FCV 
+Fragility, Conflict, and Violence 
+FGS 
+Federal Government of Somalia 
+FIF 
+Financial Intermediary Financing 
+FM 
+Financial Management 
+FMS 
+Federal Member State 
+FRC 
+Financial Reporting Center 
+FSC 
+Financial Stability Committee 
+FSI 
+Financial Soundness Indicator 
+GBV 
+Gender-Based Violence 
+GDP 
+Gross Domestic Product 
+GRM 
+Grievance Redress Mechanism 
+GRS 
+Grievance Redress Service 
+HLO 
+High-Level Objective 
+ICT 
+Information and Communication Technology 
+IFC 
+International Finance Cooperation 
+IFR 
+Interim Financial Report 
+IMF 
+International Monetary Fund
+=== PAGE 4 ===
+ 
+ 
+ 
+IPF 
+Investment Project Financing 
+IVA 
+Independent Verification Agent 
+KfW 
+Kreditanstalt für Wiederaufbau (Credit Institute for Reconstruction) 
+M&E 
+Monitoring and Evaluation 
+MDAs 
+Ministries, Departments, and Agencies 
+MFD 
+Maximizing Finance for Development 
+MFI 
+Microfinance Institution 
+MIS 
+Management Information System 
+MoCI 
+Ministry of Commerce and Industry 
+MoF 
+Ministry of Finance 
+MSMEs 
+Micro, Small, and Medium Enterprises 
+NIRA 
+National Identification and Registration Authority 
+NPL 
+Nonperforming Loan 
+NPS 
+National Payment System 
+NRA 
+National Risk Assessment 
+NTP I 
+National Transformation Plan I 
+OAG 
+Office of the Auditor General 
+OHS 
+Occupational Health and Safety 
+PA 
+Paris Alignment  
+PBC 
+Performance-Based Condition 
+PCE 
+Private Capital Enabling 
+PDO 
+Project Development Objective 
+PFI 
+Participating Financial Institution 
+PFM 
+Public Financial Management 
+PIU 
+Project Implementation Unit 
+POM 
+Project Operations Manual 
+PP 
+Procurement Plan 
+PPSD 
+Project Procurement Strategy for Development 
+PSC 
+Project Steering Committee 
+QPR 
+Quarterly Progress Report 
+RSM 
+Risk-Sharing Mechanism 
+SACCO 
+Savings and Credit Cooperative Society 
+SBRS 
+Somalia Business Registration System 
+SCALED-UP 
+Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift 
+Project 
+SCRP 
+Somalia Crisis Recovery Project 
+SDRB 
+Somali Development and Reconstruction Bank 
+SEAH 
+Sexual Exploitation and Abuse/Harassment 
+SEP 
+Stakeholder Engagement Plan 
+SG 
+Strategic Goal 
+SIPS 
+Somalia Instant Payment System 
+SMEs 
+Small and Medium Enterprises 
+SMPF 
+Somalia Multi-Partner Fund
+=== PAGE 5 ===
+ 
+ 
+ 
+SPRING 
+Somalia Productive, Resilient, and Inclusive Growth 
+STEP 
+Systematic Tracking of Exchanges in Procurement 
+TA 
+Technical Assistance 
+UNDP 
+United Nations Development Programme 
+WBG 
+World Bank Group
+=== PAGE 6 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+DATASHEET ........................................................................................................................... i 
+I. 
+STRATEGIC CONTEXT...................................................................................................... 1 
+A. Project Strategic Context ................................................................................................................... 1 
+B. Sectoral and Institutional Context ..................................................................................................... 2 
+II. PROJECT DESCRIPTION ................................................................................................... 5 
+A. Project Development Objective ........................................................................................................ 5 
+B. Theory of Change and PDO Indicators .............................................................................................. 5 
+C. Project Beneficiaries .......................................................................................................................... 6 
+D. Project Components .......................................................................................................................... 7 
+E. Role of Partners ................................................................................................................................ 14 
+F. Lessons Learned and Reflected in the Project Design ..................................................................... 14 
+III. PROJECT IMPLEMENTATION......................................................................................... 15 
+A. Institutional and Implementation Arrangements .......................................................................... 15 
+B. Results Monitoring, Evaluation, and Verification Arrangements .................................................. 17 
+C. Disbursement Arrangements ........................................................................................................... 17 
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 18 
+A. Technical, Economic and Financial Analysis.................................................................................... 18 
+B. Fiduciary ........................................................................................................................................... 22 
+C. Environmental, Social and Legal Operational Policies .................................................................... 23 
+V. KEY RISKS .................................................................................................................... 24 
+ANNEX 1. RESULTS FRAMEWORK ........................................................................................ 26 
+ANNEX 2. ADDITIONAL TABLES ........................................................................................... 40
+=== PAGE 7 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+i 
+ 
+ 
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate 
+DATASHEET 
+BASIC INFORMATION 
+Project 
+Beneficiary(ies) 
+Operation Name 
+Somalia 
+Somalia productive, resilient, and inclusive growth (SPRING) project 
+Operation ID 
+Financing Instrument 
+Environmental and Social Risk 
+Classification 
+ 
+P501662 
+Investment Project 
+Financing (IPF) 
+Substantial 
+ 
+ 
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate 
+Financing & Implementation Modalities 
+[  ] Multiphase Programmatic Approach (MPA) 
+[  ] Contingent Emergency Response Component (CERC) 
+[  ] Series of Projects (SOP) 
+[✓] Fragile State(s) 
+[✓] Performance-Based Conditions (PBCs) 
+[  ] Small State(s) 
+[✓] Financial Intermediaries (FI) 
+[  ] Fragile within a non-fragile Country 
+[  ] Project-Based Guarantee 
+[✓] Conflict 
+[  ] Deferred Drawdown 
+[  ] Responding to Natural or Man-made Disaster 
+[  ] Alternative Procurement Arrangements (APA) 
+[  ] Hands-on Expanded Implementation Support (HEIS) 
+Expected Approval Date 
+Expected Closing Date 
+07-May-2025 
+30-Jun-2030 
+Bank/IFC Collaboration 
+Joint Level 
+Yes 
+Complementary or Interdependent project requiring active coordination 
+Proposed Development Objective(s) 
+Promote private sector-led growth and job creation by improving the business-enabling environment, strengthening 
+the financial system, and enhancing access to finance 
+Components 
+Component Name 
+Cost (US$)
+=== PAGE 8 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ii 
+ 
+Comp. 1: Improving the enabling environment for the private sector 
+36,000,000.00 
+Comp. 2: Deepening financial sector reforms and strengthening institutional 
+capacity 
+37,500,000.00 
+Comp. 3: Enhancing access to finance and resilience for MSMEs 
+25,500,000.00 
+Comp. 4: Project Management  
+6,000,000.00 
+ @#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate 
+  
+Organizations 
+ 
+ Borrower:  
+ Federal Republic of Somalia 
+ Contact 
+Title 
+Telephone No. 
+Email 
+ Implementing Agency:  
+ Ministry of Finance 
+ Contact 
+Title 
+Telephone No. 
+Email 
+ Saleiman S.Umar 
+Director General 
++252 61 3959999 
+dg@mof.gov.so 
+ 
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate 
+PROJECT FINANCING DATA (US$, Millions) 
+Maximizing Finance for Development 
+Is this an MFD-Enabling Project (MFD-EP)?  
+Yes 
+Is this project Private Capital Enabling (PCE)? 
+Yes 
+ 
+SUMMARY 
+Total Operation Cost 
+105.00  
+Total Financing 
+105.00  
+of which IBRD/IDA 
+95.00 
+Financing Gap 
+0.00  
+DETAILS 
+World Bank Group Financing 
+   
+International Development Association (IDA) 
+95.00 
+IDA Grant 
+95.00
+=== PAGE 9 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+iii 
+ 
+Non-World Bank Group Financing 
+   
+Trust Funds 
+10.00 
+Somalia Multi-Partner Fund 
+10.00 
+IDA Resources (US$, Millions) 
+  
+Credit Amount 
+Grant Amount 
+SML Amount 
+Guarantee 
+Amount 
+Total Amount 
+National 
+Performance-Based 
+Allocations (PBA) 
+0.00 
+95.00 
+0.00 
+0.00 
+95.00 
+Total 
+0.00 
+95.00 
+0.00 
+0.00 
+95.00 
+ 
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate 
+Expected Disbursements (US$, Millions) 
+WB Fiscal 
+Year 
+2025 
+2026 
+2027 
+2028 
+2029 
+2030 
+2031 
+Annual 
+5.00 
+22.50 
+22.50 
+25.00 
+15.00 
+12.50 
+2.50 
+Cumulative 
+5.00 
+27.50 
+50.00 
+75.00 
+90.00 
+102.50 
+105.00 
+ 
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate 
+PRACTICE AREA(S) 
+Practice Area (Lead) 
+Contributing Practice Areas 
+Finance, Competitiveness and Innovation 
+Digital Development 
+CLIMATE 
+Climate Change and Disaster Screening 
+Yes, it has been screened and the results are discussed in the Operation Document 
+ 
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+=== PAGE 10 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+iv 
+ 
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT) 
+Risk Category 
+Rating 
+1. Political and Governance 
+⚫   High 
+2. Macroeconomic 
+⚫   High 
+3. Sector Strategies and Policies 
+⚫   Substantial 
+4. Technical Design of Project or Program 
+⚫   Substantial 
+5. Institutional Capacity for Implementation and Sustainability 
+⚫   Substantial 
+6. Fiduciary 
+⚫   Substantial 
+7. Environment and Social 
+⚫   Substantial 
+8. Stakeholders 
+⚫   Substantial 
+9. Overall 
+⚫   High 
+ 
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate 
+POLICY COMPLIANCE 
+Policy 
+Does the project depart from the CPF in content or in other significant respects? 
+[  ] Yes      [✓] No 
+ 
+Does the project require any waivers of Bank policies?  
+[  ] Yes      [✓] No 
+ 
+ENVIRONMENTAL AND SOCIAL 
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal 
+E & S Standards 
+Relevance 
+ESS 1: Assessment and Management of Environmental and Social Risks and 
+Impacts 
+Relevant 
+ESS 10: Stakeholder Engagement and Information Disclosure 
+Relevant 
+ESS 2: Labor and Working Conditions 
+Relevant 
+ESS 3: Resource Efficiency and Pollution Prevention and Management 
+Relevant 
+ESS 4: Community Health and Safety 
+Relevant
+=== PAGE 11 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+v 
+ 
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement 
+Not Currently Relevant 
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural 
+Resources 
+Not Currently Relevant 
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved 
+Traditional Local Communities 
+Not Currently Relevant 
+ESS 8: Cultural Heritage 
+Not Currently Relevant 
+ESS 9: Financial Intermediaries 
+Relevant 
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential 
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review 
+Summary (ESRS). 
+ 
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate 
+LEGAL 
+Legal Covenants 
+Sections and Description 
+i. Section I.A.1(a) of Schedule 2 to the Financing Agreement Establish not later than thirty (30) days after the Effective 
+Date, and thereafter maintain throughout the period of Project implementation, a Project steering committee (“Project 
+Steering Committee”): (i) chaired by the Director General of the Ministry of Finance, and comprised of Director General 
+of the Ministry of Commerce and Industry (MoCI), General Manager of CBS, Director of FRC, Director General of NIRA, 
+Chief Executive Officer of Gargaara and other stakeholders as set forth in the POM; and (ii) vested with such powers, 
+functions and competencies, acceptable to the Association and set forth in the POM, as shall be required to: (A) provide 
+support to the PIU addressing any obstacles to Project implementation; (B) provide policy direction and guidance to the 
+PIU for the carrying out of the Project; (C) promote inter-agencies and federal collaboration, coordination, and 
+cooperation for Project activities; and (D) review and approve the Annual Work Plans and Budgets and Project Reports.  
+ii. Section I.B.2(b)(ii) of Schedule 2 to the Financing Agreement Without limitation to the provisions of sub-paragraph (a) 
+immediately above, the Recipient shall: (ii) not later than ninety (90) days after the Effective Date, enter into a legal 
+agreement acceptable to the Association, with the MSME Financing Facility, setting out the respective roles and 
+responsibilities of the MoF and the MSME Financing Facility, as may be further provided in the POM.  
+iii. Section II.B.1(a) of Schedule 2 to the Financing Agreement Without limitation to the provisions of Part A of this 
+Section II, for purposes of implementation of the PBCs under Part 2.2(a)(ii) of Schedule 1 to this Agreement, the 
+Recipient shall: (a) not later than nine (9) months after the Effective Date, appoint and enter into a verification 
+agreement with a Verification Agency, under terms of reference satisfactory to the Association 
+ 
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate 
+Conditions 
+Type 
+Citation 
+Description 
+Financing Source 
+Effectiveness 
+Section 4.01 of Article IV of 
+the Financing Agreement  
+(a) the Recipient has 
+prepared and adopted the 
+Project Operations Manual 
+in form and substance 
+satisfactory to the 
+IBRD/IDA
+=== PAGE 12 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+vi 
+ 
+Association; and (b) the 
+SMPF Grant Agreement has 
+been duly executed and 
+delivered, and all 
+conditions precedent to its 
+effectiveness, or to the 
+right of the Recipient to 
+make withdrawals under it 
+(other than the 
+effectiveness of this 
+Agreement), have been 
+fulfilled.  
+Effectiveness 
+Section 4.01 of Article IV to 
+the Grant Agreement  
+(a) the Recipient has 
+prepared and adopted the 
+Project Operations Manual 
+in form and substance 
+satisfactory to the Bank; 
+and (b) the Financing 
+Agreement has been duly 
+executed and delivered, 
+and all conditions 
+precedent to its 
+effectiveness, or to the 
+right of the Recipient to 
+make withdrawals under it 
+(other than the 
+effectiveness of this 
+Agreement), have been 
+fulfilled.  
+Trust Funds 
+Disbursement 
+Section III.B.1(b) of 
+Schedule 2 to the Financing 
+Agreement 
+No withdrawal shall be 
+made under Category (2) 
+unless and until the 
+Recipient has put in place 
+as part of its legal regime, 
+(i) a national law governing 
+payment systems, and (ii) a 
+revised law governing the 
+CBS.  
+IBRD/IDA 
+Disbursement 
+Section III.B.1(c) of 
+Schedule 2 to the Financing 
+Agreement 
+No withdrawal shall be 
+made under Category (3) 
+unless and until Somaliland 
+has: (i) executed the 
+Somaliland Subsidiary 
+Agreement setting forth 
+IBRD/IDA
+=== PAGE 13 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+vii 
+ 
+implementation 
+arrangements for 
+Somaliland’s Respective 
+Activities under the Project 
+(including the flow of funds 
+out of the Financing 
+proceeds) and all 
+Somaliland’s internal 
+requirements for the 
+agreement to be binding 
+upon Somaliland in 
+accordance with its terms 
+have been duly 
+obtained/secured; (ii) 
+prepared and formally 
+adopted the Somaliland 
+Manual for its Respective 
+Activities under the Project; 
+(iii) established the 
+institutional arrangements 
+set forth in the foregoing 
+manual, as shall be 
+required for carrying out its 
+Respective Activities under 
+the Project, and (iv) 
+prepared, adopted and 
+disclosed its environmental 
+and social commitment 
+plan, including the 
+environmental & social risk 
+management documents; 
+in a manner and substance 
+satisfactory to the 
+Association. 
+Disbursement 
+Section III.B.1(d) of 
+Schedule 2 to the Financing 
+Agreement 
+No withdrawal shall be 
+made under Category (4) 
+with respect to each PBC, 
+as set forth in Schedule 3, 
+for which a withdrawal 
+request has been 
+submitted, until and unless 
+the Recipient has also 
+submitted: (i) evidence, in 
+form and substance 
+IBRD/IDA
+=== PAGE 14 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+viii 
+ 
+satisfactory to the 
+Association, of the Eligible 
+PBC Expenditures paid, as 
+presented in the IFR and 
+verified pursuant to the 
+POM; and (ii) supporting 
+documentation confirming 
+the Recipient’s 
+achievement of the 
+respective PBC(s) in form 
+and substance satisfactory 
+to the Association, as 
+further elaborated in 
+Schedule 3 and as set forth 
+in the Verification Protocol, 
+including, but not limited 
+to, a report issued by the 
+Verification Agent, 
+confirming the 
+achievement of the 
+respective PBC or PBCs and 
+the amount to be paid.
+=== PAGE 15 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 1  
+ 
+I. 
+STRATEGIC CONTEXT 
+ 
+A. Project Strategic Context 
+ 
+1. 
+The Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project aims to catalyze private sector-led 
+growth in Somalia by addressing systemic barriers and key binding constraints that most critically hinder economic 
+development. Building on the foundations laid by ongoing World Bank Group (WBG) analytical activities and World Bank-
+financed operations, the project seeks to address cross-cutting constraints that hamper private sector development in the 
+country. The engagement is particularly critical given Somalia’s urgent need for broad-based and resilient private-sector-
+led growth. While the country has made notable progress in normalizing political processes, rebuilding public institutions, 
+and implementing key reforms,1 their sustainability requires that more inclusive economic dividends are generated for 
+the Somali population, particularly in the current context of scarce opportunities and extreme vulnerability.2 Addressing 
+these challenges will require the private sector to play a pivotal role, particularly given the constrained fiscal space and 
+limited institutional capacity of the Federal Government of Somalia (FGS).3 However, the private sector remains 
+underdeveloped and unable to drive structural transformation due to a ‘missing middle’, low productivity, and minimal 
+economic integration. These challenges stem from institutional and regulatory weaknesses,4 underperformance in 
+enabling sectors (for example, financial services),5 and insufficient resilience across key value chains. 
+2. 
+Two mutually reinforcing interventions are essential for establishing a strong foundation for structural 
+transformation in the medium to long term. First, advancing legitimate, effective, and equitable formal institutional and 
+regulatory frameworks is critical. This requires prioritizing initiatives to strengthen the business-enabling environment, 
+including addressing legal, regulatory, and institutional gaps for private sector development; supporting trade integration 
+efforts; and scaling up digital ID enrollment to enhance service access and delivery. Second, diversifying Somalia’s 
+economy into higher-value-added activities and promoting quality jobs depend on stronger business enabling sector 
+reforms. In this regard, strengthening financial sector stability, efficiency, and inclusion is crucial. 
+3. 
+Since structural and regulatory reforms take time to generate economic growth and job creation in fragile 
+contexts such as Somalia, it is also critical to implement targeted value chain development interventions to avoid 
+backsliding. Focusing on sectors with potential for productivity gains—such as livestock, crops, and fisheries—can 
+stimulate economic opportunities, reduce poverty, and reinforce broader reforms. Additionally, this will foster trust and 
+collaboration among stakeholders, enabling collective action against predation and rent-seeking while strengthening 
+supply chains for higher-value-added activities. To this end, the operation will focus on derisking financing to expand 
+access to finance for micro, small, and medium enterprises (MSMEs), particularly in vulnerable sectors and for women-
+led businesses, while providing business development services (BDS) to lay the groundwork for resilient and inclusive 
+growth. 
+ 
+1 World Bank. 2024. “Somalia Country Private Sector Diagnostic.” World Bank Group.  
+2 Poverty is widespread and high with an estimated 54 percent of the Somali population living below the national poverty line of US$754 per person in 2022. Job 
+generation in the country is considerably low, and most economic activity is informal with the percentage of informal jobs in Somalia estimated to be above 91 percent. 
+Somali women are particularly disadvantaged, with gender gaps in employment and labor force, with participation rates of around 21 and 23 percent, respectively. 
+3 World Bank. 2021. “Domestic Resource Mobilization in Somalia.” Washington, DC; IMF (International Monetary Fund). 2023. Somalia: IMF Staff Report for the Sixth 
+Review Under the Extended Credit Facility. 
+4 In a context of institutional weakness, firms that lack social and political networks endure a more burdensome business environment. This is particularly so for women-
+owned businesses, which are generally excluded from existing political and clan-based networks because of the patriarchal structure of Somali society. 
+5 World Bank. 2022. “Collection of Policy Notes for the New Somali Government—Unlocking Somalia’s Potential to Stabilize, Grow and Prosper (English).” World Bank 
+Group, Washington, DC.
+=== PAGE 16 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 2  
+ 
+B. Sectoral and Institutional Context 
+ 
+4. 
+Somalia’s private and financial sectors remain central to the country’s economy. The private sector accounts for 
+an estimated 95 percent of total job creation in Somalia and has been the primary driver of economic growth,6 consistently 
+outpacing the average rates of Sub-Saharan Africa and fragility, conflict, and violence (FCV) affected countries since 2012.7 
+It also serves as the main provider of goods and services, including those traditionally delivered by the state. The country 
+holds immense potential for growth due to its abundant natural resources (for example, hydrocarbons, minerals, 
+renewable energy potential) as well as its strategic location as a potential gateway to international markets. Meanwhile, 
+the financial sector is playing an increasingly pivotal role in the economy. From 2018 to 2023, total assets and customer 
+deposits at commercial banks more than quadrupled,8 private transfers and remittances grew by 36 percent between 
+2019 and 2022, and mobile money usage expanded significantly, with 97 percent of surveyed households reporting access 
+to mobile money or wallets, according to the National Bureau of Statistics. 
+5. 
+Significant progress has been made through various World Bank engagements. Through the Somalia Country 
+Private Sector Diagnostic (CPSD, 607500), the Supporting Financial Inclusion and Private Sector-led Recovery in Somalia 
+(P179247), and the Somalia Capacity Advancement, Livelihoods and Entrepreneurship, through Digital Uplift 
+Project (SCALED-UP, P168115), the World Bank has supported the achievement of key milestones, including the 
+enactment of various business-enabling laws and regulations, significant capacity-building efforts at key institutions, the 
+rollout of the Somalia National Payment System (NPS), the introduction of the foundational digital ID system (with nearly 
+100,000 registrations completed), the deployment of the Somalia Business Registration System (SBRS) (with over 5,000 
+businesses registered), and the establishment of the Gargaara MSME financing facility (which has cumulatively disbursed 
+more than US$27 million to over 1,900 MSMEs). Complementary efforts, such as the Somalia Financial System Initiative 
+(P177665) and the Somalia Second Inclusive Growth Development Policy Operation (P179307), are advancing private 
+sector reforms and aligning financial institutions with global systems. Sector-specific projects, including the De-risking, 
+Inclusion, and Value Enhancement of Pastoral Economies in the Horn of Africa (DRIVE, P176517), the Somali Sustainable 
+Fisheries Development Project – Badmaal (P178032), and the Food Systems Resilience Program for Eastern and Southern 
+Africa (Phase 3) (P177816), are strengthening productive sectors, while the Somalia Crisis Recovery Project (SCRP, 
+P173315) is rebuilding infrastructure in flood- and drought-affected regions. Additional initiatives addressing gaps in 
+energy, transport, information and communication technology (ICT), education, and water are collectively driving 
+resilience and sustainable growth in Somalia. 
+6. 
+However, a range of challenges to private sector development remain unaddressed. Regulatory and institutional 
+frameworks for private sector development in Somalia are still underdeveloped and fragmented, posing significant 
+barriers to growth. The Somalia CPSD noted the need for “deepening reforms to establish legitimate, effective, and 
+equitable formal institutions and regulatory frameworks for private sector-led growth” as a key recommendation to unlock 
+private-sector-led growth in Somalia. Further efforts are needed to implement a unified and harmonized business 
+registration and licensing system across the country, building on the existing SBRS. Somalia also needs to take steps to 
+better align the country’s investment policy and promotion and public-private partnership frameworks with best practices. 
+In line with experiences from other FCV countries, institutional capacity building at key institutions for private sector 
+development remains a priority. 
+7. 
+Lack of access to finance also continues to be a major challenge for private sector development notwithstanding 
+recent advancements.9 While there are now more than 60 financial institutions providing basic services such as retail 
+banking, money transfers, mobile money, and insurance, banking penetration in Somalia remains low, with less than 10 
+ 
+6 World Bank. 2021. Somalia Country Economic Memorandum: Towards an Inclusive Jobs Agenda. Washington, DC: World Bank. 
+7 World Development Indicators, 2023. 
+8 Central Bank of Somalia data analysis, December 2023. 
+9 Financial sector development has been prioritized in the CPSD given its critical role for Somalia’s development.
+=== PAGE 17 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 3  
+ 
+percent adults holding accounts.10 Credit to the private sector, at under 5 percent of the gross domestic product (GDP) as 
+of December 2023,11 is constrained by banks’ risk aversion, collateral concerns, and preference for holding cash. As a 
+result, 77 percent of businesses report being credit constrained, with 95 percent of larger firms relying on internal funds.12 
+This situation is even worse for women-led enterprises, which not only identify access to finance more frequently as a 
+significant challenge but are also less likely to apply for or receive approval for loans from financial institutions. 
+8. 
+Financial sector oversight and infrastructure remain nascent, despite institutions such as the Central Bank of 
+Somalia (CBS) and the Financial Reporting Center (FRC) gradually building capacity. Key financial laws and regulations 
+remain pending, with related regulation and policies yet to be developed, thus leaving large oversight gaps. FRC also needs 
+stronger enforcement capacity to address financial integrity risks that limit integration with global systems and foreign 
+investment.13 Despite progress in the NPS, gaps in the interoperability of credit and debit transactions remain, and the 
+lack of credit reporting and derisking mechanisms continue to hinder lending. SCALED-UP supported the FRC completion 
+of the National Risk Assessment (NRA), as well as broader capacity-building efforts at FRC, yet the NRA action plan is yet 
+to be fully implemented, and capacity gaps at FRC remain. 
+9. 
+Gargaara, Somalia’s first apex MSME financing facility, was established by the FGS with the support of SCALED-
+UP in 2019. It has made significant strides toward reaching full financial and institutional sustainability, and the remaining 
+steps will be completed with the support planned under this project. As Gargaara continues to work towards full 
+operationalization of core functions, discussions continue within FGS regarding its capitalization and long-term 
+sustainability, including it having an institutional home in the recently revived Somali Development and Reconstruction 
+Bank (SDRB). In parallel, efforts are ongoing to strengthen Somalia’s broader development finance landscape with a focus 
+on supporting the National Transformation Plan I (NTP I) 2025–29, and efforts are underway to operationalize the SDRB. 
+However, expanding credit to priority sectors continues to remain constrained by weak governance, risk management, 
+and systems capacity of financial institutions, leading to their limited risk appetite to engage in these areas. 
+10. 
+Over the past years, CBS has made significant progress toward becoming a policy-oriented and functionally 
+organized institution, adopting a new organizational structure and making staffing development a core focus of 
+attention. Internal systems at the CBS have been overhauled and modernized, a full suite of internal policies, procedures, 
+and manuals have been developed, and internal controls were strengthened, leading to repeated achievement of a clean 
+external audit opinion. Outreach to Federal Member States (FMS) is also being enhanced, including through the 
+establishment of new CBS branch offices. The CBS board recently approved the CBS Strategy 2025–2029 that identifies 
+key reform priorities organized around the four strategic goals (SGs) of the new strategy: (a) SG1: Issue a viable national 
+currency and develop, implement, and continuously assess effective monetary and foreign exchange policies; (b) SG2: 
+Strengthen the financial system’s stability, effectiveness, and inclusiveness; (c) SG3: Enhance the financial market 
+infrastructure to ensure payment systems and services are safe and efficient; and (d) SG4: Promote good governance, 
+institutional resilience, and operational excellence. 
+11. 
+The Bank of Somaliland (BoS) was established in 1994 to operate as a Central Bank, and it is guided by the 
+Somaliland Constitution. The BoS manages monetary and foreign exchange policies and licenses, regulates, and 
+supervises operations of financial institutions in Somaliland. Its strategic plan for 2023–2025 focuses on maintaining and 
+promoting monetary stability, financial stability, and NPS stability. Though its central banking capacity has not been 
+recognized by the FGS and CBS, it continues to operate in that capacity in the absence of CBS presence in Somaliland. 
+Building consensus around key reforms and developing harmonized systems and standards—between the FGS and FMS 
+ 
+10 Compared to 39 percent in low-income countries and 55 percent in Sub-Saharan Africa. World Bank. 2022. “The Little Data Book on Financial Inclusion 2022.” World 
+Bank, Washington, DC. 
+11 International Monetary Fund. 2024. Staff Report for the First Review Under the Extended Credit Facility, and Requests for Modification of Performance Criteria. IMF 
+Country Report No. 24/158. 
+12 World Bank. Forthcoming. “Somalia Business Survey – Quantitative and Qualitative Report.”. 
+13 Federal Government of Somalia. 2022. “National Risk Assessment of Money Laundering and Terrorist Financing.”. While the NRA identified threats and vulnerabilities 
+and supported the development of a roadmap, the implementation has been slow.
+=== PAGE 18 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 4  
+ 
+and at the local level—is essential for a coordinated development of financial systems and regional economic development 
+and is, thus, being given high priority by all governments. 
+12. 
+Somalia’s private sector faces significant challenges, including due to a lack of climate resilience, which hampers 
+its ability to grow and contribute meaningfully to the economy. Somalia is one of the most vulnerable countries to climate 
+change globally. Approximately two-thirds of the country’s population reported having experienced at least one shock in 
+2021–2022 that severely affected their economic situation. This vulnerability is likely to worsen as the Somali climate is 
+expected to change, with increasing temperatures (estimated up to 3°C by the end of the century) as well as erratic and 
+extreme rainfalls. In those circumstances, Somali firms in key sectors such as agriculture, livestock, and fisheries face 
+considerable challenges. These sectors, which form the backbone of the Somali productive sector, are especially 
+vulnerable because they lack the infrastructure, financial support, and technological innovations needed to withstand 
+such shocks. MSMEs often operate with limited knowledge of, and access to, resources such as climate-resilient 
+technologies, early warning systems, or derisking options that could help them adapt to and mitigate the risks of 
+environmental disruptions. Moreover, weak infrastructure (for example, for water management) and fragmented 
+regulatory frameworks exacerbate the challenges for these enterprises, limiting their ability to adapt to climate change. 
+In the meantime, as noted in the Somalia CPSD, growth in these priority value chains is critical to bring short- to medium-
+term dividends in terms of creating inclusive jobs and reducing poverty. 
+13. 
+Women engaged in economic activities face disproportionate challenges in Somalia, especially since many are 
+engaged in climate-vulnerable subsistence production and are particularly affected by issues with limited access to 
+finance and access to markets/networks. Somalia’s overall Women, Business, and the Law14 score is 46.9 points out of 
+100, 23 points below the Sub-Saharan African average of 69.9 points. Key issues include the absence of legal protection 
+against gender-based discrimination in access to credit, no legislation prohibiting sexual harassment in the workplace, and 
+restrictions on women working at night and in certain industries. 
+14. 
+To address these challenges, the SPRING Project will focus on strengthening foundational building blocks critical 
+for private-sector-led equitable growth in Somalia. In alignment with the Somali Government’s prioritization of targeted 
+interventions to promote a more inclusive and sustainable economic growth trajectory, the project will implement several 
+reinforcing measures. To improve the enabling environment for the private sector, reforms will focus on strengthening 
+institutional and regulatory frameworks, as well as on expanding the rollout of the digital ID across Somalia to support 
+service delivery. To enhance financial sector stability, integrity, and access to financial services, the project will continue 
+support for financial sector reforms in Somalia. Lastly, to strengthen the resilience of MSME clusters in key economic 
+sectors, the operation will derisk financing to MSMEs, particularly in productive and climate-vulnerable sectors, through 
+risk-sharing mechanisms (RSMs) and other innovative products that maximize financing for development by mobilizing 
+private capital, while bolstering firms’ capacity to climate-proof their operations through BDS and targeted adaptation 
+interventions. The project includes dedicated support to improve women’s access to ID, business registration services, 
+and finance through specific measures under Components 1–3, thereby narrowing the gender gap in each area and 
+alleviating critical constraints on women’s economic activities, including entrepreneurship as enumerated in the gender 
+section of this document. 
+15. 
+In doing so, this project will contribute to the World Bank’s mission to end extreme poverty and boost shared 
+prosperity on a livable planet. The project is aligned with the WBG Country Partnership Framework (CPF) for the Federal 
+Republic of Somalia for the Period FY24–28 (Report Number 187254-SO), discussed by the Board of Executive Directors 
+on February 29, 2024. It contributes to the CPF High-Level Objective (HLO) 1: Inclusive, private sector-led job creation and 
+economic growth which aims to support productive small and medium enterprises (SMEs), enhance financial inclusion, 
+improve the business and investment climate, and invest in critical infrastructure, and HLO 3: Greater resilience to climatic 
+ 
+14 Women, Business, and the Law is an index structured around the economic decisions women make as they go through different stages of their working lives. It 
+measures eight indicator scores on a scale of 0–100, with 100 representing the best score overall.
+=== PAGE 19 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 5  
+ 
+and other shocks which aims to increase the resilience of urban and rural populations in the context of extreme 
+vulnerability to climate change, straining infrastructure, and persistent drought and floods undermining rural livelihoods 
+and food security. The project also contributes to the cross-cutting foundational HLO: Macroeconomic stability and 
+governance foundations, in particular Objective 0.1: Increase the effectiveness, transparency, and accountability of 
+institutions and Objective 1.1: Strengthen financial inclusion and growth. The project is also aligned with the 2023 
+Systematic Country Diagnostic Update,15 supporting in particular HLO 5: Enhanced Private Sector for Better Jobs and HLO 
+3: Improved Household Resilience to Shocks. It also directly contributes to Somalia’s NTP I 2025–2029 under the pillars of 
+Sustainable Economic Transformation and Environment and Climate Resilience which prioritize financial stability, 
+strengthening financial market infrastructure and enhancement of financial services for better financial inclusion. The 
+support to Somaliland will promote a more harmonized development of financial systems across the FGS and Somaliland. 
+II. 
+PROJECT DESCRIPTION 
+ 
+A. Project Development Objective 
+ 
+16. 
+The project development objective (PDO) is to promote private sector-led growth and job creation by improving 
+the business-enabling environment, strengthening the financial system, and enhancing access to finance.16 
+B. Theory of Change and PDO Indicators 
+ 
+17. 
+To achieve the PDO, the project promotes economic development by addressing critical constraints to Somalia’s 
+private sector development with a cumulative impact on the overall enhancement of economic activity and the promotion 
+of job creation. It strengthens the business-enabling environment, through improvements to regulatory and institutional 
+frameworks, and the rollout of a digital ID system to enable secure transactions and efficient service delivery. In parallel, 
+the project aims to enhance stability, oversight, and access to finance, through the implementation of financial sector 
+reforms, and the creation of an RSM to derisk financing to businesses. Relatedly, the project will support improvements 
+to firm performance, market access, and competitiveness as well as address firm vulnerability to external shocks through 
+the provision of BDS to MSMEs in key economic sectors. 
+ 
+15 World Bank. 2023. “Somalia Systematic Country Diagnostic Update: Accelerating the Building of Inclusive Institutions for Resilience and Jobs.” World Bank Group.  
+16 For the purposes of this project, private-sector-led growth means economic growth that is primarily driven by the private sector, and job creation means the broad 
+generation of new employment opportunities (including better jobs) linked to specific interventions under this project. Improving the business-enabling environment 
+is understood as positively changing the laws, policies, regulations, systems, and services that facilitate the conduct of private and financial sector activity in the country. 
+Strengthening the financial system means adopting new reforms and supporting the development of institutions for the financial sector, and enhancing access to 
+finance is understood as creating means for select businesses/priority segments to benefit from loans through credit enhancements.
+=== PAGE 20 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 6  
+ 
+Figure 1. Theory of Change 
+ 
+PDO Indicators 
+• 
+Number of new firms benefitting from reformed business registration requirements (of which are women-
+owned, percentage) (OI1) 
+• 
+People with digitally verifiable identification (number, of which are women) (OI2) 
+• 
+Number of new bank accounts opened (OI3) 
+• 
+Number of businesses accessing credit with the support of the RSM17 (OI4) 
+• 
+Number of jobs created through the RSM and BDS18 (OI5). 
+ 
+C. Project Beneficiaries 
+ 
+18. 
+The project is targeting Somali MSMEs and individuals (5,000,000 people, 26 percent of total population) as 
+direct beneficiaries benefitting from an improved business environment, increased access to financial services, and 
+enhanced access to services and jobs. Through a streamlined business-enabling environment and financial sector reforms, 
+the project aims to promote private sector development and resilience and enable job creation cumulatively. Key 
+ 
+17 This indicator is linked to the World Bank Corporate Results Indicator (CRI): People and businesses using financial services. 
+18 This indicator is linked to the World Bank CRI: New or better jobs.
+=== PAGE 21 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 7  
+ 
+institutions, such as the Ministry of Finance (MoF) and the CBS, will gain from capacity building and the strengthening of 
+institutional and regulatory frameworks. This holistic approach—combining business environment reforms, financial 
+infrastructure, derisking of access to finance to priority and vulnerable sectors, and measures to improve economic 
+resilience—will support more inclusive and sustainable economic development in the country. By addressing systemic 
+gaps and supporting MSMEs, the project ensures that Somalia’s private sector is well-positioned to capitalize on new 
+opportunities in a more sustainable manner. These improvements are expected to translate into increased revenues, 
+profits, and job creation, directly benefiting individuals through new and improved employment opportunities. 
+D. Project Components 
+ 
+19. 
+The US$105 million project will continue strengthening foundational building blocks critical for private-sector-
+led growth, enabling job creation cumulatively. The project includes four reinforcing components (Table 1). The project 
+design will leverage performance-based conditions (PBCs) to further incentivize reforms and results, as appropriate, and 
+follows the World Bank Guidance on Financial Intermediary Financing (FIF). The project will be funded by a US$95 million 
+equivalent IDA grant and a US$10 million grant from the Somalia Multi-Partner Fund (SMPF). 
+Table 1. Project Components Cost Breakdown (US$, million) 
+Components 
+International 
+Development 
+Association (IDA) Costs 
+Somalia Multi-
+Partner Fund 
+(SMPF) Costs 
+Total 
+Component 1: Improving the enabling environment for the private sector 
+32.0 
+4.0 
+36.0 
+Subcomponent 1.1: Strengthening institutional and regulatory 
+framework for the private sector 
+11.0 
+— 
+11.0 
+Subcomponent 1.2: Enhancing the Somali ID System 
+21.0 
+4.0 
+25.0 
+Component 2: Deepening financial sector reforms and strengthening 
+institutional capacity 
+31.5 
+6.0 
+37.5 
+Subcomponent 2.1: Operational and capacity-building support to 
+Gargaara 
+4.0 
+2.0 
+6.0 
+Subcomponent 2.2: Strengthening financial sector stability, integrity, 
+and infrastructurea 
+27.5 
+4.0 
+31.5 
+Component 3: Enhancing access to finance and resilience for MSMEs 
+25.5 
+— 
+25.5 
+Subcomponent 3.1: Derisking access to finance for MSMEs 
+14.5 
+— 
+14.5 
+Subcomponent 3.2: Enhancing MSMEs’ resilience 
+11.0 
+— 
+11.0 
+Component 4: Project Management 
+6.0 
+— 
+6.0 
+Total 
+95.0 
+10.0 
+105.0 
+Note: a. SMPF funding will not be used against PBCs. 
+Component 1: Improving the enabling environment for the private sector (US$36 million, of which US$32 million 
+equivalent IDA and US$4 million SMPF) 
+20. 
+This component will help address the key gaps in the business-enabling environment as well as strengthen 
+institutions and infrastructure to promote private sector-led growth in Somalia. 
+Subcomponent 1.1: Strengthening institutional and regulatory framework for the private sector (US$11 million 
+equivalent IDA) 
+21. 
+The subcomponent will address institutional and regulatory gaps that hinder business growth, efficiency, and 
+competition as well as market access, particularly for MSMEs and women-owned businesses. Building upon the legal
+=== PAGE 22 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 8  
+ 
+and regulatory reforms initiated under SCALED-UP, this subcomponent will support the Ministry of Commerce and 
+Industry (MoCI) to introduce new laws and regulations as well as review procedures to streamline the business licensing 
+and registration process. It will also harmonize, upgrade, and raise awareness of the online business registration and 
+licensing system, known as the SBRS, across federal institutions and FMS, both at the regional and municipal levels. Overall, 
+these reforms reduce administrative barriers, simplify procedures, expand the SBRS coverage, and make registration more 
+accessible, increasing the number of formally registered firms. These improvements are critical to help firms unlock access 
+to finance, improve business development support, and strengthen risk mitigation mechanisms, among others. This 
+subcomponent will also support activities aiming at facilitating the registration of women-owned businesses particularly 
+through the interventions focused on micro and small business-related reforms as well as awareness raising. Women-
+owned businesses in Somalia are often informal and have limited growth opportunities as a result. Additionally, the 
+subcomponent will build strategic capacity for private sector development by fostering effective public-private 
+cooperation to drive reforms. Finally, by aligning business regulatory reforms with trade-related legal, regulatory, and 
+capacity-building measures, the project will enhance competitiveness by connecting value chains and improving market 
+access through Somalia’s integration into regional and global markets. Such support may encompass activities to enable 
+full integration within the East African Community (EAC), as well as accession to the African Continental Free Trade Area 
+and the World Trade Organization. This would expand opportunities for businesses, contribute to their resilience and 
+reinforce Somalia’s participations in regional, continental, and international trade.  
+Subcomponent 1.2: Enhancing the Somali ID System (US$25 million, of which US$21 million equivalent IDA and US$4 
+million SMPF) 
+22. 
+This subcomponent will build on and scale up ongoing activities supported under SCALED-UP to further 
+strengthen Somalia’s foundational digital ID system.19 The ID system can serve as a true enabler for economic 
+opportunities and innovation in the private sector—facilitating the opening of bank accounts, accessing credit, introducing 
+digital financial services, promoting business registration, and making available verifiable educational credentials. For this 
+to happen, more people need to be registered in the system and more service providers need to be on-boarded to use 
+digital ID verification options offered by the ID system. To this end, the project will help provide an additional 5 million 
+people with unique and digitally verifiable IDs nationwide, free of charge, with a special focus on reaching women 
+beneficiaries to close the identification gender gap (in February 2025, 27 women were registered out of a hundred, as 
+compared to 73 men). It will also support maximizing the use of the ID for inclusive and efficient service delivery in the 
+private and public sectors, including to enable rapid response to climate shocks. The project will achieve these objectives 
+by financing the following: 
+• 
+Registration scale-up. Logistics expenditures and operational support necessary to expand ID registration across 
+Somalia, including temporary registration staff, equipment purchase, large-scale outreach and communication 
+campaigns, and the issuance of five million additional ID cards, as well as the continued deployment of effective 
+customer feedback and grievance redress mechanisms (GRMs). Targeted interventions will support greater 
+enrollment among vulnerable segments of the population (including women, internally displaced people, and rural 
+communities), building on the lessons learned from the initial registration approach. 
+• 
+Identity management system update and maintenance. An assessment of and, where required, updating of the 
+current identity management system, including for more effective de-duplication, enhanced data hosting, and the 
+development and/or integration of new modules, to enable more people-centric and secure identity management.20 
+ 
+19 The necessary legal and regulatory framework has been developed, and an inclusive implementation strategy has been elaborated, along with the building of core 
+capacity for the National Identification and Registration Authority (NIRA) and equipping of several registration centers (including mobile registration units) through 
+SCALED-UP support. 
+20 Including iris as an additional biometric modality may be considered if initial assessment supports its operational feasibility and cost-effectiveness is clarified in the 
+Somali context.
+=== PAGE 23 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 9  
+ 
+• 
+Integration of the ID with high-impact services. Continued development of digital identity verification services and 
+hands-on integration for high-impact services (such as telecommunications, banking [to enable electronic-Know Your 
+Customer (e-KYC)] and passport services) as well as for the unified social registry/social protection programs (to 
+ensure transparency and minimize leakages) with the objective of promoting efficiency and accountability in service 
+delivery. The integration of the digital ID with the unified social registry and social protection programs will, among 
+others, improve the FGS’s ability to better coordinate and expand social assistance programs, including to address 
+the impacts of climate change.21 The project will also support the FGS to achieve mutual recognition and 
+interoperability of Somalia’s national ID within the EAC and with other national IDs within the community, including 
+to leverage Somalia’s ID as a form of travel document within East Africa and facilitate Somalis’ ability to conduct 
+business abroad, thus enhancing mobility, facilitating cross-border trade, and contributing to regional integration. 
+• 
+Institutional development and capacity building for the National Identification and Registration Authority (NIRA). 
+Continued enhancements of policy and regulatory frameworks to support the inclusive and trusted registration and 
+identity management, capacity-building support to NIRA, and local and international stakeholder engagement to 
+build trust in and broad-based support for the ID system’s implementation. 
+23. 
+The scale-up of the foundational digital ID system via SPRING Project will be implemented in alignment with 
+Somalia’s digital guardrails, including the cybersecurity and data protection frameworks, institutions, and capabilities. 
+SCALED-UP has supported the creation of Somalia’s data protection capabilities through the development of the Data 
+Protection Law (adopted in March 2023), the creation of the Data Protection Authority (DPA) in 2024, and ongoing 
+operationalization and capacity building of the DPA since then. It has also supported the strengthening of Somalia’s 
+cybersecurity capabilities, including through ongoing support for the establishment of the country’s first Computer 
+Security Incident Response Team and the development of the related legal framework. The World Bank is also providing 
+support to the FGS for cybersecurity and data protection through the Eastern Africa Regional Digital Integration Project 
+(P176181) to strengthen local capacity to detect, respond to, and mitigate evolving cyber threats and cybercrimes; support 
+the implementation of the forthcoming cybersecurity legal and strategic frameworks; and enhance operationalization of 
+the DPA. 
+Component 2: Deepening financial sector reforms and strengthening institutional capacity (US$37.5 million, of which 
+US$31.5 million equivalent IDA and US$6 million SMPF) 
+24. 
+This component will focus on strengthening financial sector stability, integrity, and infrastructure, as well as 
+institutional capacity building to promote resilient private sector development and facilitate the economic transformation 
+of the country. 
+Subcomponent 2.1: Operational and capacity-building support to Gargaara (US$6 million, of which US$4 million 
+equivalent IDA and US$2 million SMPF) 
+25. 
+This subcomponent will address the key remaining capacity gaps at Gargaara building on activities supported 
+through SCALED-UP. Specifically the project will: (a) continue supporting Gargaara in completing the remaining 
+institutional-building steps toward achieving full operationalization of core functions, including enhanced appraisals of 
+participating financial institutions (PFIs) and advanced monitoring and evaluation (M&E, including for institutional 
+development plans of PFIs and expanded product offerings); (b) finance operating expenses for it to reach breakeven point 
+in terms of revenues and expenses (expected by 2027–2028); and (c) continue non-lending support programs for 
+participating banks and microfinance institutions (MFIs) to strengthen their institutional capabilities including targeted 
+training to support lending and other services and to reinforce the gender-inclusive and climate-informed approaches. 
+ 
+21 This measure can be achieved by offering simplified identity verification during onboarding and improved targeting through better data on the age(s) and geographic 
+distribution of potential beneficiaries, thus enabling the efficient delivery of shock-responsive cash transfers, especially for climate-change-related shocks.
+=== PAGE 24 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 10  
+ 
+The support to Gargaara will be closely coordinated with the BDS for SMEs and RSM program planned as part of the project 
+under Component 3.  
+Subcomponent 2.2: Strengthening financial sector stability, integrity, and infrastructure (US$31.5 million, of which 
+US$27.5 million equivalent IDA and US$4 million SMPF) 
+26. 
+This subcomponent will support the CBS, FRC, and BoS in strengthening the financial sector regulatory and 
+supervisory framework and its enforcement, developing and implementing sector-specific policies, and building related 
+institutional capacity and infrastructure. 
+(a) 
+CBS (US$25 million). This subcomponent will support the CBS in carrying out a program of reforms which closely 
+align with the CBS Strategy 2025–2029 and the Government’s approach to developing the financial sector and 
+markets in Somalia. While some of the activities will be channeled through input-based Investment Project Financing 
+(IPF), others are structured to be disbursed conditionally upon achievement of PBCs as provided in Table 2. 
+(i) 
+Strengthening financial sector oversight and policy implementation (US$14 million) 
+A. 
+Regulatory framework strengthening (US$3 million). Several critical financial sector laws and/or 
+amendments to existing laws are expected to be enacted in 2025. (1) The Financial Institutions law (new), 
+Insurance law (new), and the Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) 
+(amendments) law have already been approved by the Parliament. (2) The NPS (new) and Central Bank 
+(amendments) laws are also in late stages of clearance and expected to be enacted. The project will support 
+the CBS in upgrading and strengthening the related implementing guidelines and regulations, including for 
+the Targeted Financial Sanctions Act. 
+B. 
+Framework for depositor and consumer protection (US$1 million). Development of legal, regulatory, and 
+institutional frameworks for depositor protection and consumer protection will also be supported. 
+C. 
+Enhancing supervision capacity and market development framework (US$4 million). The project will support 
+strengthening of supervision of the financial sector and build CBS enforcement capacity. It will support the 
+development and implementation of frameworks and policies for financial market stability, depth, and 
+intermediation including through support for the development and implementation of the financial sector 
+roadmap, a framework for climate finance for financial institutions and related financial products and services, 
+and a financial inclusion strategy, with focus on enhancing access to affordable and secure financial services 
+(including digital) for underserved and unbanked populations as well as attention to gender. 
+D. 
+CBS institutional capacity (US$6 million). CBS will enhance the economic advisory function through 
+strengthening capabilities for related data collection and policy development. Capacity for foreign exchange 
+reserves management and efficient and secure future currency management operations will be supported to 
+enhance market operations. In particular, institutional capacity development support is envisaged to 
+strengthen coordination with FMS for more effective oversight and enhanced implementation of financial 
+sector reforms to promote a harmonized, stable, and inclusive financial sector across Somalia. In this regard, 
+support will be provided to State Bank of Puntland to improve its institutional efficiency and capacity, as well 
+as support financial inclusion efforts toward enhancing economic empowerment for people of Puntland and, 
+thus, contributing to its and Somalia’s economic development. 
+(ii) 
+Select financial sector and institutional reforms (US$6 million) 
+• 
+A PBC-linked approach will also be used to incentivize selected financial sector and institutional reforms. Going 
+beyond input-based investments and toward outcomes, the PBCs will be critical in accelerating these reforms, 
+including: (A) strengthening Somalia’s macroprudential framework; (B) improving financial sector data 
+collection, analysis, and transparency; (C) expanding oversight over the financial system; (D) establishing
+=== PAGE 25 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 11  
+ 
+effective regulations and institutional practices for consolidated supervision of banks and non-bank financial 
+institutions; and (E) incentivizing the development, approval, launch, and utilization of a Credit Information 
+System (CIS). 
+Table 2. CBS PBCs 
+PBC 
+Completion Verification/Evidence 
+Amount (US$, 
+million) 
+PBC 1: Macroprudential 
+framework strengthened 
+Macroprudential framework to monitor, assess, and mitigate systemic risks approved 
+by the CBS board and implementation plan operationalized 
+0.75 
+PBC 2: Financial sector 
+data collection, analysis 
+and transparency 
+improved 
+(a) Consolidated Financial Soundness Indicator (FSI) data is published on the CBS 
+website, with an expanded International Monetary Fund (IMF) FSI data coverage 
+(including all licensed banks), and (b) consolidated FSI data is published on the CBS 
+website, with expanded IMF FSI data coverage (including all licensed banks and other 
+licensed financial institutions). 
+1.00 
+PBC 3: Expanded 
+oversight of financial 
+system 
+(a) Regulation issued by CBS on Safeguarding of Mobile Money Funds, (b) regulation 
+issued by CBS relating to Savings and Credit Cooperative Societies (SACCOs), (c) at least 
+5 MFIs and 1 SACCO licensed by CBS, and (d) regular offsite supervision for all licensed 
+MFIs and SACCOs conducted and onsite examinations completed for at least 2 MFIs 
+and 1 SACCO. 
+1.25 
+PBC 4: Consolidated 
+supervision of banks and 
+non-bank financial 
+institutions 
+(a) Regulation to undertake consolidated supervision and financial reporting of 
+financial groups is issued by the CBS, (b) CBS has completed consolidated supervision 
+of at least 1 financial group (comprising 1 of the 4 largest banks in terms of total assets 
+at the end of previous calendar year), and (c) CBS has completed consolidated 
+supervision of at least 2 additional financial groups (comprising at least 1 additional 
+bank from the 4 largest banks in terms of total assets at the end of previous calendar 
+year). 
+2.00 
+PBC 5: Improved access 
+to financial services 
+through better risk 
+assessment of borrowers 
+(a) CIS framework developed and approved by the CBS Board, (b) CIS launched with at 
+least 4 banks connected and contributing to data collection, and (c) CIS being used by 
+at least 4 banks contributing and accessing credit information consistently over 3 
+months. 
+1.00 
+Note: Details on PBCs and the Verification Protocol are provided in annex 1 on the Results Framework. The first table (A1) in annex 2 
+contains a summary of the CBS program (including eligible expenditures for PBCs). 
+(iii) Enhancement of financial infrastructure (US$5 million) 
+• 
+Building on the support under SCALED-UP and in line with the NPS Law (expected in 2025), this subcomponent 
+will continue to enhance the safety, security, soundness, and resilience of the payment system and strengthen 
+related oversight. Specifically, payment cost efficiency will be improved while increasing speed and 
+maintaining security by supporting CBS to fully operationalize the Somalia Payment Switch, including the 
+Somalia Instant Payment System (SIPS) that will enable banks to connect their automated teller machines and 
+point-of-sale terminals to a single national network, making card payments interoperable and enabling the 
+implementation of the international bank account number and quick response code initiatives. The support 
+will also include enhancements to the oversight of the financial market infrastructure and related capacity; 
+strengthen and streamline the governance and operational framework for NPS to ensure efficiency and 
+interoperability; and support policies, practices, and procedures to promote resilient payment and settlement 
+systems and services. 
+(b) FRC (US$3 million). The project will continue to support the implementation of the NRA action plan (including any 
+updates to the NRA itself) as well as provide support for the implementation of the amended AML/CFT Law. Support 
+is also envisaged for the preparation and eventual implementation of National Terrorist Financing Risk Assessment
+=== PAGE 26 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 12  
+ 
+Action Plan, AML/CFT awareness strategy, and go-AML (Anti-Money Laundering System) customization, as well as 
+upgrades/enhancements to disaster recovery and secondary data systems. The project will also support FRC in 
+preparing for the Middle East and North Africa Financial Action Task Force mutual evaluation and related technical 
+reviews and follow-up actions. Support is also envisaged for enhancing FRC operational and oversight capacities 
+including through upgrading related ICT systems and expanding outreach to FMS. 
+(c) 
+BoS (US$3.5 million). The project will support the BoS in its efforts to enhance financial services and strengthen the 
+financial sector in Somaliland to be able to contribute to the broader economic development goals for the region. It 
+will support its efforts to improve financial inclusion and access to finance for MSMEs through the implementation 
+of the Somaliland Financial Inclusion Strategy 2025–2029 with focus on increasing access to formal financial services, 
+developing new products aligned with emerging market needs, and empowering individuals and entrepreneurs 
+through enhanced financial literacy and consumer protection. The project will also support the modernization and 
+strengthening of BoS capacity to guide and oversee financial sector development and financial institutions operating 
+in Somaliland, including through enhancements to the BoS financial infrastructure that would, among other things, 
+strengthen data exchange and cooperation with the initiatives led by the CBS, strengthen broader financial market 
+infrastructure, and improve integrated monitoring of the financial system. The project’s funds will also cover all BoS 
+support associated with project implementation costs. 
+Component 3: Enhancing access to finance and resilience for MSMEs (US$25.5 million equivalent IDA) 
+27. 
+Access to finance is a major constraint for Somali businesses, which SCALED-UP and development partners, such 
+as the Kreditanstalt für Wiederaufbau (KfW), are attempting to address through Gargaara for productive and priority 
+sectors such as renewable energy, health, and education. However, due to the perceived and actual risks associated with 
+the firms in productive and climate-critical and vulnerable sectors, MSMEs within these sectors are receiving a minimal 
+proportion of credits through the formal financial sector, despite improvements made through Gargaara’s wholesale 
+lending program. This component consists of mutually reinforcing interventions to improve the resilience of MSMEs in 
+those key priority sectors, through credit enhancements and capacity strengthening of MSMEs to improve their efficiency 
+and competitiveness. 
+Subcomponent 3.1: Derisking access to finance for MSMEs (US$14.5 million equivalent IDA) 
+28. 
+Learning from the pilot RSM being launched with Gargaara under SCALED-UP, the project will enhance the design 
+and scale up the RSM support by US$12.5 million to improve access to finance for MSMEs in high-priority underserved 
+productive sectors (for example, agriculture, livestock, and fisheries) as well as climate-critical and/or vulnerable sectors. 
+Often, these segments face challenges of collateral and/or finding a guarantor (for example, due to limited appetite to 
+support sectors directly vulnerable to climate shocks and due to lack of understanding of climate-adaptive products and 
+technologies). The RSM would help derisk shortfall in collateral and guarantor requirements and mobilize US$29 million 
+in commercial financing to key value chain MSMEs by PFIs. Key elements of the RSM include the following: 
+• 
+Operational model. Given the nascent stage of development of the Somali finance sector, the RSM is unlikely to 
+reach independent sustainability in the short term (given limited fee income and no investment earning options 
+even if capital was deployed) and could thus be operated by Gargaara for a fixed period with a clearly articulated 
+exit plan for winding down the RSM. A clearly defined credit enhancement and derisking purpose will also be 
+detailed for the targeted MSME segments. In designing this approach, building on lessons from the SCALED-UP 
+RSM pilot, efforts will be made to ensure a reasonable operational period for the program, along with a clear exit 
+plan to avoid market disruption. Firms in productive and climate-critical and vulnerable sectors account for the 
+largest share of employment in Somalia. Under SCALED-UP RSM pilot, financing did not reach them in levels 
+reflecting their share of the overall economy, due to a high-risk perception associated with them. The financing 
+gap prevalent in Somalia thus affects them more significantly than other firms. The focus on vulnerable firms and
+=== PAGE 27 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 13  
+ 
+women-owned enterprises that face similar challenges complements SCALED-UP RSM pilot and would attempt to 
+lessen these financing gaps.  
+• 
+Eligibility. The RSM will cover a portion of losses for eligible MSME loans originated by PFIs assessed under clear 
+eligibility criteria to participate in the RSM similar to those already in place under the Gargaara program. 
+• 
+Sector focus. The RSM will target MSMEs that operate or are linked to productive and climate-critical and 
+vulnerable sectors, especially those in agriculture, livestock, and fisheries. Women-owned enterprises, which are 
+generally more vulnerable, will also be priority targets. To this end, the RSM will offer greater coverage to women-
+owned/managed businesses to incentivize lending to them. Similar consideration may also be given to other 
+higher-priority segments when finalizing the details of the program in consultation with the key stakeholders. 
+• 
+Fees. The RSM will charge a notional service fee aligned with Somalia’s Islamic banking practices. 
+29. 
+The RSM fund will be complemented with funding (US$2 million) for enhancement and confirmation of RSM 
+model/design, related operations support, and market research. It will also support financial institutions and related 
+stakeholders in strengthening related capabilities, including new products and services development and related 
+awareness raising and outreach and capacity building for key participating institutions and stakeholders. This support is 
+anticipated to be delivered in coordination with the CBS and financial institutions (both public and private and the relevant 
+industry associations). This will re-enforce prior capacity building undertaken related to product development, risk 
+assessment, and portfolio management capabilities. 
+Subcomponent 3.2: Enhancing MSMEs’ resilience (US$11 million equivalent IDA) 
+30. 
+The subcomponent will aim to bolster firms’ resilience by providing BDS and targeted adaptation interventions to 
+two types of stakeholders: (a) MSMEs from the roster of firms that have already completed the standardized training and 
+advisory services provided under SCALED-UP or other relevant programs; and (b) productive and climate-critical and 
+vulnerable MSMEs as well as related cooperatives or associations that receive sector-specific technical assistance (TA) 
+through other ongoing World Bank-financed or development partner projects. By enhancing firms’ capacity to adapt to 
+market-perceived and actual risks, these interventions will help safeguard business continuity and productivity, thereby 
+protecting existing jobs and enabling the creation of new, more sustainable employment opportunities. BDS will be 
+tailored to small sub-cohorts of both types of stakeholders. The mode(s) of delivery of BDS will be confirmed during 
+implementation based on experience and lessons from the SCALED-UP supported BDS pilot to be launched in the second 
+quarter of 2025. A voucher-based model may be considered to provide relevant training to interested and eligible MSMEs, 
+and awareness-raising activities will be conducted to support the participation of women-owned businesses in the BDS 
+program. 
+Component 4: Project Management (US$6 million equivalent IDA) 
+31. 
+This component will support project implementation, which will be executed by the FGS using a single Project 
+Implementation Unit (PIU) anchored in the MoF in Mogadishu, leveraging the existing SCALED-UP PIU. The PIU will be 
+responsible for day-to-day project management (including fiduciary procedures, M&E, and the implementation of 
+Environmental and Social Framework [ESF] requirements) and will coordinate closely with the relevant entities supported 
+under the project. The PIU will also coordinate activities across the FGS, including FMS. The project will set up a single 
+Project Steering Committee (PSC) not later than 30 days after grant effectiveness. In addition, funding will be allocated to 
+establish a project-level GRM, and resources will be dedicated to ensuring a gender-sensitive project implementation. 
+Implementation arrangements for Somaliland are discussed in the project implementation section below.
+=== PAGE 28 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 14  
+ 
+E. Role of Partners 
+ 
+32. 
+Project implementation will be closely coordinated with development partners active in the private sector and 
+financial sector development space to ensure financing, capacity building, and policy alignment. SPRING Project 
+interventions will be closely coordinated and aligned with the International Finance Cooperation (IFC) and Multilateral 
+Investment Guarantee Agency activities aimed at improving the business environment and deepening financial sector 
+reforms in Somalia. The financial sector support under Component 2 will focus on areas not covered by the recently 
+launched African Development Bank-financed Somalia Financial Sector Development Project (P-SO-HZ0-001), which 
+provides capacity building to key institutions including CBS and FRC, and the extensive IMF program in Somalia. Other 
+activities, including the BDS, RSM, access to finance, and digital ID activities, will be coordinated with ongoing and planned 
+support by the United Nations entities (including the United Nations Development Programme [UNDP] and United Nations 
+Industrial Development Organization), national development agencies (for example, UK, USA, Sweden, and Germany), as 
+well as a wider range of SMPF partners. 
+F. Lessons Learned and Reflected in the Project Design 
+ 
+33. 
+SPRING Project will draw extensively from key lessons learned in previous World Bank engagements in Somalia 
+and other fragile contexts. 
+34. 
+One of the central lessons that will be considered is the importance of long-term state-building and institutional 
+capacity development, while balancing it with immediate crisis response. In fragile states such as Somalia, where low 
+institutional capacity poses significant challenges, progress is often nonlinear, particularly in establishing new public 
+institutions. Developing functional capabilities and ensuring adequate corporate governance for these institutions is 
+especially complex, as seen during the implementation of SCALED-UP, which required extensive TA and enhanced 
+supervision, including third-party monitoring, for entities such as Gargaara, National Communication Authority, DPA, and 
+NIRA. To address these challenges, the project will prioritize strengthening critical institutions such as the MoF and the 
+CBS to ensure fiscal sustainability and macroeconomic stability and continue capacity-building activities at other core 
+entities for private sector development in Somalia, including Gargaara and PFIs, while also focusing on targeted TA for 
+effective establishment of new institutions. Given Somalia’s limited fiscal capacity, it will be essential to carefully manage 
+new budgetary commitments as institutional sustainability has proved to be a challenge for other new institutions 
+supported by the World Bank-financed projects. 
+35. 
+A phased and iterative implementation approach will be applied to the project implementation. Comprehensive 
+reforms are difficult to achieve all at once in fragile environments, so the project will adopt a step-by-step approach. This 
+method ensures the flexibility needed to adapt to Somalia’s changing security and economic conditions, while enabling 
+the project to adjust based on real-time assessments. This approach mirrors the phased implementation strategies seen 
+in successful projects such as the SCRP and Somalia - Water for Agro-Pastoral Productivity and Resilience (P167826) 
+Project. At the same time, fragile contexts require balancing immediate crisis response with long-term institution building. 
+Flexibility is critical, as Somalia faces regular crises such as droughts, floods, and security disruptions. The project will 
+leverage existing delivery mechanisms to respond to crises without sacrificing the long-term goal of strengthening 
+institutional capacity. 
+36. 
+Substantial coordination and outreach efforts are required to ensure national projects such as SPRING Project 
+to reach beneficiaries across Somalia, including underserved segments of the population. One of the primary lessons 
+learned from SCALED-UP is that substantial coordination and outreach are critical to ensure national projects effectively 
+reach beneficiaries across Somalia. Successful implementation, such as extending the SBRS and CBS operations to FMS 
+and rolling out the digital ID system, require strengthened collaboration between the FGS and FMS. The SPRING Project 
+will finance enhanced coordination and outreach efforts, including targeted support for financial sector development in
+=== PAGE 29 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 15  
+ 
+Somaliland. SCALED-UP and other World Bank-financed projects in Somalia have also shown that enhanced and tailored 
+efforts are needed to reach women beneficiaries in the areas of access to finance, business registration, and ID registration 
+activities. 
+37. 
+The inclusion of BDS alongside financial support draws on lessons learned from projects such as SCALED-UP, 
+Zambia Agribusiness and Trade Project (P156492), and the Afghanistan Resilience Trust Fund (ARTF) - Microfinance 
+(P091264) Project. In fragile states, MSMEs often struggle with multiple constraints—limited access to finance, weak 
+market links, and operational inefficiencies. By integrating tailored BDS with financial support, the project will help MSMEs 
+overcome these barriers, particularly in high-potential sectors such as energy, agriculture, and livestock. Furthermore, the 
+project incorporates climate-smart practices, leveraging lessons from the Yemen Emergency Electricity Access Project 
+(P163777) and Indonesia Infrastructure Guarantee Fund Project (P118916) to improve MSMEs’ resilience to climate-
+related shocks, a key issue in Somalia. 
+38. 
+The design of the project’s digital ID component draws extensively from the World Bank’s Identification for 
+Development program and global best practices. There is strong commitment from NIRA and the FGS to align the ID 
+system with the 10 Principles on Identification for Sustainable Development, ensuring that it is inclusive, secure, and 
+responsive to user needs. The ID legislation and ID implementation strategy, developed in consultation with the FMS and 
+other stakeholders, provide for an inclusive registration approach, including witness-based identity verification for those 
+without any prior official documents and free-of-charge registration for those without the ability to pay. Special 
+registration policies and measures are being developed to facilitate registration for women and people with disabilities. 
+NIRA is implementing a customer feedback mechanism and additional system updates to streamline the registration 
+process. 
+39. 
+PBCs can be an effective tool incentivizing financial sector reforms, but pragmatic and context-adjusted 
+prioritization of PBCs is crucial. PBCs played an important role in incentivizing financial sector reforms under SCALED-UP. 
+However, PBCs still remain a relatively new instrument for the Somali counterparts, and the PBC design complexity under 
+SCALED-UP has resulted in some implementation delays. It has also become evident that aligning PBCs with activities 
+directly under the control of the implementing entities responsible for their fulfillment is essential. Furthermore, hiring of 
+an independent verification agent (IVA) to verify the completion of PBCs has experienced delays in developing the terms 
+of reference, issues in coordinating verifications with the client, and difficulties in renewing/extending contracts. 
+Leveraging these lessons learned from SCALED-UP, extensive consultations were conducted with the CBS to adjust the 
+scope of the PBCs and agree on timelines. The client now has experience managing the IVA contract and coordinating 
+verification visits when appropriate, which is expected to smoothen the implementation of PBCs. 
+40. 
+Risk mitigation is a central theme throughout the project design. Fragile environments such as Somalia’s require 
+a cautious, phased approach to project implementation. Ensuring transparency and accountability is also crucial. The 
+project will implement strict procurement and financial governance protocols, alongside independent audits and third-
+party verification mechanisms, ensuring that funds are managed responsibly, as was emphasized in SCALED-UP. 
+Leveraging World Bank Hands-on Expanded Implementation Support, bundling procurements, and building PIU’s 
+procurement capacity have also been proven to be effective in managing procurement-related risks, as evidenced through 
+SCALED-UP and other World Bank-financed projects in Somalia. 
+III. 
+PROJECT IMPLEMENTATION 
+ 
+A. Institutional and Implementation Arrangements 
+ 
+41. 
+The project will establish a layered and inclusive oversight structure to ensure effective coordination among 
+key government stakeholders. The MoF will serve as the implementing agency coordinating with other government
+=== PAGE 30 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 16  
+ 
+entities relevant for project implementation. A single PSC, chaired by the MoF and including representatives from MoCI, 
+CBS, FRC, NIRA, and other stakeholders, will be formed to provide policy guidance and monitor progress. The PSC will be 
+supported by a Secretariat led by the Director General of the MoF, ensuring smooth project oversight. 
+Figure 2. SPRING Project Implementation Arrangements 
+ 
+42. 
+Day-to-day implementation will be managed by a PIU housed within the MoF. The SCALED-UP PIU, established 
+under the MoF, has demonstrated satisfactory performance and possesses substantial experience with World Bank-
+financed projects. This PIU will take on the additional responsibility of managing SPRING Project and work closely with 
+focal points in key ministries, departments, and agencies (MDAs) to ensure that project activities are implemented 
+effectively, with attention to sequencing, stakeholder consultations, and engagement processes. The existing PIU’s 
+familiarity with World Bank fiduciary and ESF guidelines, along with its robust management information systems (MIS) 
+and M&E systems, will contribute to efficient execution of project activities. By leveraging these systems, the PIU will 
+ensure smooth coordination across the FGS and FMS. To facilitate readiness for implementation, the PIU will assist MDAs 
+and other institutions in setting up the required structures. The PIU’s responsibilities include providing TA to MDAs in 
+preparing priority investment programs, hiring consultants for specialized tasks, and ensuring that services delivered are 
+both high quality and cost efficient. The PIU will also validate project results through stakeholder consultations and, where 
+necessary, third-party verification. As a condition of grant effectiveness, a Project Operations Manual (POM), satisfactory 
+to IDA, will be prepared and adopted. This POM will outline managerial, financial, administrative, procurement, 
+environmental and social policies and procedures, providing a comprehensive guide for all project-related activities and 
+ensuring that the project operates according to the required standards and guidelines.  
+43. 
+This integrated approach will enable consistent support across FMS, tailored to its readiness and institutional 
+capacities. In addition to ensuring alignment among the various MDAs involved in the project, the PIU will proactively 
+manage communication with FMS stakeholders. This coordination will help ensure that all components of the project are 
+implemented in a synchronized and efficient manner across all FMS. 
+44. 
+The PIU team includes a project coordinator, a procurement specialist, and other key staff whose performance 
+has been satisfactory. The capacity of the existing staff will be continually strengthened. Additionally, the PIU will recruit 
+new staff members to address any emerging requirements and ensure the project’s smooth progress. 
+45. 
+Implementation in Somaliland will be coordinated through a separate PIU. This PIU is expected to be housed 
+within the MoF of Somaliland and will be in charge of enabling the implementation of the activities supported by this 
+project for the BoS. The External Assistance Fiduciary Section (EAFS) Unit, in consultation with the Office of Accountant
+=== PAGE 31 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 17  
+ 
+General and Director General of the MoF, will institute adequate controls in the management of funds allocated to 
+Somaliland. A related subsidiary agreement will be prepared accordingly following project approval. 
+B. Results Monitoring, Evaluation, and Verification Arrangements 
+46. 
+M&E will play a central role in the project’s implementation. The PIU will prepare and submit Quarterly Progress 
+Reports (QPRs) to the PSC and the World Bank, detailing project activities, financial disbursements, and compliance with 
+environmental and social (E&S) standards. These QPRs will form the basis for biannual project reviews to ensure progress 
+is on track and allow for timely adjustments if necessary. Independent third-party monitoring may also be leveraged to 
+further strengthen oversight, identify governance issues, and recommend corrective actions as needed. To verify the 
+completion of PBCs, a verification agency will be hired not later than nine months after grant effectiveness, under terms 
+of reference satisfactory to IDA. 
+47. 
+The PIU’s M&E team will manage the ongoing tracking and reporting of project results, systematically collecting 
+data and updating them in a centralized MIS to provide real-time access to critical project information. An M&E plan, 
+developed by the PIU, will outline the Theory of Change, data collection methodologies, and a timeline for tracking 
+outcomes, ensuring standardized indicators and data consistency across project components. For specific monitoring 
+activities, such as those related to digital ID services, the FGS will assign oversight responsibilities to relevant autonomous 
+entities. These entities will use tools (for example, satisfaction surveys and spot checks) to monitor service delivery and 
+gather feedback. Surveys and progress assessments may also be conducted to track project activities, such as digital ID 
+enrollment, job creation, and others. 
+C. Disbursement Arrangements 
+48. 
+The project will follow the transaction-based method of disbursement, which will include advances, 
+reimbursements, direct payments, and special commitments. An initial advance will be disbursed to the Designated 
+Account (DA) following the submission of a withdrawal application to the World Bank accompanied by a six-month cash 
+forecast. Subsequently, the project will draw down the proceeds of the grant following submission of an application for 
+withdrawal accompanied by statement of expenditures incurred. The respective MoF and other implementing agencies 
+will manage these processes in accordance with the World Bank’s procedures. Withdrawal applications will be submitted 
+via Client Connection, and disbursements will be made based on verified eligible expenditures. For PBCs, funds will be 
+released only after the achievement of specified outcomes and verification. 
+49. 
+The project proceeds from the IDA and SMPF will be channeled through three DAs, separately managed by the 
+FGS and Somaliland. Under the FGS, the DA-A will be used to manage the funds for all project components. Under 
+Somaliland authorities, the DA-B will be used to manage the funds earmarked for Somaliland activities. All deposits and 
+payments from these accounts will adhere to the provisions outlined in the Financing Agreement and Disbursement and 
+Financial Information Letters (DFILs). Authorized signatories will be designated to ensure compliance with the World Bank 
+disbursement procedures, and a GRM will be established to support transparent fund flows. Detailed disbursement 
+arrangements will be documented in the DFIL. Typical funds flow arrangements are highlighted in Figure 3.
+=== PAGE 32 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 18  
+ 
+Figure 3. Flow of Funds 
+ 
+IV. 
+PROJECT APPRAISAL SUMMARY 
+ 
+A. Technical, Economic and Financial Analysis 
+Economic and Financial Analysis 
+50. 
+A cost-benefit analysis has been conducted—and will continue to be refined—for activities with clearly 
+attributable and quantifiable benefits at the individual beneficiary level (Component 3). Under base case assumptions, 
+the combined economic internal rate of return (EIRR) for these activities is 15.4 percent, and their net present value is 
+US$1.2 million, with a discount rate of 14 percent.22 Costs and benefits for Subcomponents 3.1 and 3.2 were estimated 
+separately.  
+• 
+Subcomponent 3.1 analysis. The primary benefit of the RSM is the accessibility of capital to firms that were 
+previously un-bankable, facilitated by improved access to credit enabled by the derisking through the RSM. Average 
+interest rates and potential default rates are extrapolated from CBS data, and MSME yearly return over capital is 
+determined based on academic research on the topic. Risk mitigation benefits are not included in this analysis, as 
+they are assumed to be offset by potential costs associated with the default of loans covered under the RSM. 
+Operational costs are estimated using historical data from similar RSM approaches implemented in Somalia.23 
+Additional assumptions include a risk cover of 63 percent, leveraging at one time,24 and a gradual increase in 
+exposure. The expected turnover is 1.5 times over the five years in which the project will be under implementation. 
+An average size of loans guaranteed of US$25,000 is assumed based on lessons learned with Gargaara during the 
+implementation of SCALED-UP. The capital will be returned after that period given the difficulties of creating a 
+sustainable RSM in Somalia. Additionally, the analysis considers benefits from wages (less opportunity costs) of 
+ 
+22 The EIRR is calculated over a 20-year period, in line with standard practice. However, for Subcomponent 3.1 cash flows, the timeline is limited to the project duration 
+due to uncertainty regarding the RSM facility’s sustainability beyond project completion. 
+23 RSM operational costs assumed are US$250,000 per year. An expenditure of US$600,000 per year for TA support to help financial institutions develop related 
+capacities is also considered. 
+24 Risk cover assumption strikes a balance between encouraging financial institutions to lend and mitigating moral hazard. While leverage assumptions are optimistic in 
+an FCV country such as Somalia, it is supported by the substantial TA and capacity building which financial institutions are receiving from World Bank engagements in 
+Somalia.
+=== PAGE 33 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 19  
+ 
+new incremental workers25 directly employed by MSMEs due to the access to finance enabled by the RSM. Given 
+the scarcity of economic data in Somalia, these benefits are calculated using MSME and cluster information from 
+neighboring countries, which is then discounted to account for the FCV situation in Somalia.26 
+• 
+Subcomponent 3.2 analysis. Benefits are measured by evaluating the impact of enhancing the resilience of firms 
+due to the BDS provided.27 Specifically, the analysis considers the differential in profitability attributable to 
+reductions of revenue caused by climate disasters that are mitigated due to improved capacity from BDS28 and 
+wages (less opportunity costs) of new incremental workers directly employed by MSMEs due to their increased 
+capacity to be resilient.29 Job generation assumptions are the same as those used for Subcomponent 3.1, and 
+average salaries net of opportunity costs were extrapolated from consultations and relevant research papers. This 
+approach ensures that economic gains directly linked to improved climate resilience are considered, highlighting 
+both the stabilization of profits and the sustained ability to create and maintain jobs in the face of climate-related 
+challenges. 
+51. 
+The project is expected to produce benefits beyond the above analysis by improving the enabling environment 
+for private sector growth (Component 1). Interventions that streamline registration procedures for MSMEs can 
+significantly affect firm performance, and trade facilitation measures can have a substantial impact on export promotion. 
+Aligning domestic standards with international regulations is also critical to avoiding diseconomies of scale and the ability 
+to be competitive in local and global markets. Moreover, scaling up efforts to develop Somalia’s foundational digital ID 
+system is anticipated to create economic value by enabling more efficient service delivery for government agencies and 
+businesses and accelerating financial inclusion. In effect, unique identifiers can facilitate the participation of vulnerable 
+segments in the economy and support private sector growth by simplifying onboarding processes and reducing risks, 
+ultimately fostering broader economic and social inclusion. 
+52. 
+The deepening of financial sector reforms and the enhancement of institutional capacity will also bring 
+substantial benefits. Strengthening the resilience of financial institutions will reduce the likelihood of macro-fiscal 
+challenges being exacerbated by financial system stress. A well-functioning financial sector drives real economic activity 
+and accelerates economic growth by facilitating the flow of capital to individuals and entrepreneurs through reliable 
+financing channels, which has positive distributional effects. Preserving financial sector stability protects depositors’ 
+savings and ensures essential financial services for millions of low-income households, supporting broader economic 
+stability and growth. Additionally, AML/CFT activities will prevent integrity failures from undermining financial institutions’ 
+stability and increase financial flows toward Somalia.30 Strengthening foundational public financial institutions and 
+financial infrastructure will also generate significant long-term economic benefits and savings for the FGS and the private 
+sector—with payments infrastructure enhancements promoting financial inclusion, lowering transaction costs in informal 
+markets, and reducing risks associated with cash-based transactions. 
+ 
+25 This is considered in both the benefits and costs dimensions. Incremental profit after tax for firms is calculated based on the assumption of differential growth while 
+maintaining the same earnings before interest and taxes (EBIT) structure. Additional salary costs are therefore included in this calculation. The additional benefit from 
+incremental wages (less opportunity costs) does not represent an increase in salaries for existing workers but rather the difference between the wages that additional 
+workers earn at these firms and what they would earn as informal workers. 
+26 It is assumed that an additional unskilled job and an additional skilled job is generated for each US$5,700 and US$22,800, respectively, of revenue increase in the 
+firms financed by the RSM. 
+27 Average BDS cost of US$4,750 assumed based on lessons learned from similar programs by development partners and in SCALED-UP. 
+28 Given lessons learned from similar programs by development partners and in SCALED-UP, it was assumed that target MSMEs have an annual revenue of US$4,000 
+with an EBIT margin of 30 percent and annual sales growth (without the project) of 5 percent. Income tax rate assumptions are in line with the Somalia tax rate for the 
+tax bracket of the average MSME profile described. 
+29 While the economic and financial analysis focuses only on the creation of direct jobs through activities under Subcomponent 3.2, each component could generate a 
+wide range of indirect jobs. Given the scarcity of economic data in Somalia—including that of sectoral GDP and employment multipliers—a robust analysis in this front 
+was not possible. 
+30 IMF. 2023. “Background Paper II: AML/CFT Risk-Based Supervision of Banks.”
+=== PAGE 34 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 20  
+ 
+Summary of the FIF Assessment 
+53. 
+The FIF Assessment shows that the project is in line with the World Bank Guidance for FIF. The financial sector 
+has matured over the past years, and demand remains strong for a range of Sharia-compliant financial services. However, 
+there are significant challenges to expanding outreach and new products introduction. Macroeconomic stability is 
+vulnerable to external shocks, which put a strain on the capacity of key financial institutions. Formal bank penetration 
+remains low, with lending focused on nonproductive sectors. SCALED-UP has built a network of sound financial institutions 
+to provide credit, and the SPRING Project will use this to promote a risk-sharing facility to expand outreach. The World 
+Bank Sixteen Principles have been used to guide the development of the new facility, although time will be required to 
+fully develop internal controls, risk management, and claim management. Additional discussions beyond this project will 
+be needed to address challenges regarding the roles of the revived Somali Development and Reconstruction Bank and 
+Gargaara. 
+Alignment with Corporate Commitments 
+54. 
+Integrating climate and development is a pillar of the WBG’s Climate Change Action Plan. In this respect, the 
+project is aligned with the goals of the Paris Agreement (PA) on both mitigation and adaptation, contributing to Somalia’s 
+commitment to a low-emission, climate-resilient development pathway. By ratifying the Paris Climate Agreement, United 
+Nations Framework Convention on Climate Change, and Kyoto Protocol, Somalia has shown dedication and obligation to 
+the implementation of strategies to mitigate the effects of climate change and adopt a climate-resilient, sustainable 
+development pathway. Project interventions fall under universally recognized activities consistent with the Paris 
+Agreement’s adaptation and mitigation objectives and Somalia’s Nationally Determined Contribution 2021–2030, which 
+includes an ambitious target to reduce emissions by 30 percent by 2030, conditional on international support.31 PA will be 
+ensured through transaction-based assessments, with all activities—not just climate-related ones—meeting PA standards. 
+55. 
+The mitigation risks are reduced to a low level. Somalia’s CO2 emissions are, with 0.05 tons per capita, the third 
+lowest in the world, and its potential to meaningfully contribute to mitigate climate change is thus very low. Despite this, 
+increasing access to finance is unlikely to increase CO2 emissions significantly. The modalities of the project’s 
+implementation are expected to increase the climate change mitigation capacity of Somalia. Implementing agencies, 
+including Gargaara, will receive training to ensure the expertise required for PA. The project’s dedicated PIU will include 
+focal points for E&S aspects as well as climate change, and a member of the PSC will oversee compliance with PA standards. 
+With these measures, the project is aligned with the Common Principles for Climate Mitigation Finance Tracking, 
+specifically through building capacity in the M&E mechanisms to track, evaluate, and report on the management of 
+climate-related risks. This ensures that the project remains aligned with the goals of the Paris Agreement and the Common 
+Principles for Climate Mitigation Finance Tracking throughout its implementation and that it reduces mitigation risks to a 
+low level. 
+56. 
+The adaptation risks are reduced to an acceptable level. Overall, the main adaptation risks for Somalia stem from 
+droughts, floods, and extreme weather events. With a non-infrastructure-based approach, the project minimizes 
+geophysical risks while maximizing systemic resilience-building, reducing the adaptation risk. By leveraging a foundational 
+ID system, the project enables targeted social protection measures to cushion climate-related shocks, expand access to 
+financial services, and foster resilience to climate impacts and contribute to climate co-benefits. These efforts are 
+particularly crucial in a country facing recurrent droughts and floods that drive internal displacement and threaten 
+economic stability, which may be exacerbated by climate change.32 Since 2020, Somalia has experienced five consecutive 
+failed rainy seasons, adversely affecting 46 percent of the population, displacing over a million people, and causing an 
+estimated 46,000 deaths in 2022 alone. Major floods and droughts are extremely frequent and are the largest cause of 
+ 
+31 Federal Government of Somalia, “Updated Nationally Determined Contribution (NDC)”, July 2021. 
+32 Somalia Climate Risk Review, World Bank Group, 2023.
+=== PAGE 35 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 21  
+ 
+Somalia’s ever-increasing internal displacement crisis.33 Further, the project is screened for climate and disaster risk. 
+Screening for climate and disaster risks ensures alignment with Somalia’s broader climate and development priorities. By 
+enabling inclusive growth, lowering transaction costs, and facilitating efficient resource allocation, the project strengthens 
+Somalia’s institutional capacity to navigate climate-related risks and adapt to them. These efforts complement the 
+country’s economic and technical frameworks, fostering sustainable and climate-resilient development. To ensure 
+effective implementation and reduction of adaptation risks, robust checks and balances are integrated into the project’s 
+implementation arrangements. 
+57. 
+Gender. Gender inequality remains an entrenched issue in Somalia. The country has high levels of inequality, 
+ranking 164/166 on the UNDP Gender Inequality Index, and scores low on UNDP’s Gender Development Index 
+(0.769/1.100).34 In addition, in 2024, Somalia scored 32.5/100 on the legal component of the World Bank’s Women, 
+Business, and the Law Index, highlighting the significant gaps in the legal/regulatory frameworks to support women. 
+Women also continue to be excluded from economic activities. As of 2023, women’s labor force participation stood at 
+21.2 percent, compared to 47.3 percent for men, well below regional, income group, and global benchmarks. The SPRING 
+Project will address gender gaps by supporting women’s economic empowerment through several themes, such as: (a) 
+access to formal registration of businesses, (b) access to identification, (c) access to finance, and (d) vulnerability to shocks. 
+58. 
+Women and women-owned/managed businesses face a wide range of challenges that hamper their economic 
+empowerment. For instance, most women-owned businesses are informal, which restricts their ability to access services 
+to support their growth, such as formal finance. Several factors can explain this situation, including the fact that the 
+framework for business registration does not adequately cover them due to their small size. Access to identification for 
+women is also an issue, with only 27 percent of women registered in the recently launched digital ID system. The gap in 
+access to identification can be explained by structural barriers, traditional gender roles, and clan-based customs.35 In 
+addition, access to finance is also a roadblock as recent studies found that 87 percent of majority female-owned firms 
+faced credit constraints. Several demand- and supply-side constraints contribute to this issue, including limited access to 
+collateral, business formal documents, and guarantors, among others. Lastly, women-owned businesses are predominant 
+in the agriculture and livestock sectors, rendering them particularly vulnerable to shocks, specifically climate-related ones. 
+59. 
+The SPRING Project will include several activities to address those gender gaps. Specifically, the project will 
+improve business registration processes by simplifying requirements, broadening registration categories, and undertaking 
+related policy and administrative reforms to include micro-enterprises. The SPRING Project will also expand the footprint 
+for the digital ID registration and may consider other approaches, such as all-female registration units. In addition, the 
+project will facilitate access to finance by providing higher coverage to women-owned/managed businesses through the 
+RSM. It will also use various strategies to enable the uptake of BDS by women-owned/managed businesses to improve 
+their ability to access finance and/or enhance their resilience. Additional cross-themes efforts will be organized, such as 
+tailored information campaigns, workshops, and establishing partnerships with local civil society organizations. The results 
+framework includes indicators to monitor progress, such as the number of women with digitally verifiable identification 
+(target: 2,500,000). The gender analysis results chain is available in the second table (A2) in annex 2. 
+60. 
+Citizen engagement (CE) and social accountability will be promoted throughout the project cycle. In accordance 
+with the World Bank’s ESF, an Environmental and Social Review Summary (ESRS), an Environmental and Social 
+Commitment Plan (ESCP), and a Stakeholder Engagement Plan (SEP) have been prepared and disclosed. They identify 
+project stakeholders, means to ensure effective project communication, consultations with each stakeholder group, and 
+indicators to monitor its implementation. CE will be measured by assessing the ability of select institutions to address 
+ 
+33 Somalia Climate Risk Review, World Bank Group, 2023. 
+34 United Nations Development Programme, “Somalia: Gender Inequality Index.” (accessed February 2025); United Nations Development Programme, “Somali: 
+Gender Development Index” (accessed February 2025). 
+35 Syn, Juliette, and Laura Cunial. 2022. “Who Are You? Understanding the Linkages between Legal Identity and Housing, Land and Property Rights in Somalia.” 
+Norwegian Refugee Council.
+=== PAGE 36 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 22  
+ 
+beneficiaries’ requests for support and/or concerns. After a customer support request and/or grievance is resolved, the 
+feedback will be analyzed to identify areas for improvement, and efforts will be undertaken to conduct related upgrades 
+to systems and processes, thus enhancing project implementation. Those efforts will also include communicating 
+upgrades made to systems and processes to stakeholders based on internal reviews or their feedback. 
+61. 
+Maximizing Finance for Development (MFD)/Private Capital Enabling (PCE). The project is also aligned with the 
+WBG’s corporate objectives for MFD and has been tagged as PCE/MFD-enabling. In particular, Subcomponent 3.1 is 
+expected to enable US$29 million in commercial financing to underserved MSMEs in key value chains, through the 
+establishment of an RSM with a coverage of 60 percent and a turnover of 150 percent. Progress for this activity is captured 
+under Intermediate Results Indicator 17, which measures the amount of private capital enabled through the RSM. Most 
+activities in the project are also verified as MFD-enabling. More specifically, (a) Subcomponent 1.1 supports upstream 
+policy reforms to unlock private sector solutions through the removal of market distortions, (b) Subcomponent 1.2 will 
+enable additional access to finance through the continued development of digital identity verification services (for 
+example, e-KYC), and (c) Subcomponents 2.2 and 3.2 will address binding constraints for sustainable private sector 
+development through their interventions to strengthen financial sector stability/integrity and infrastructure and to 
+improve firm resilience. 
+B. Fiduciary 
+62. 
+Procurement. Procurement will be carried out in accordance with the World Bank’s Procurement Regulations for 
+IPF Borrowers, dated September 2023 (Procurement Regulations); the Guidelines on Preventing and Combating Fraud and 
+Corruption in Projects Financed by International Bank for Reconstruction and Development (IBRD) Loans and IDA Credits 
+and Grants, dated October 15, 2006 and revised in January 2011 and as of July 1, 2016; and the provisions stipulated in 
+the Financing Agreement. The PIU will ensure smooth procurement coordination across Somalia. The MoF prepared the 
+Project Procurement Strategy for Development (PPSD) along with the Procurement Plan (PP) for the first 18 months of 
+the project, with a focus on key procurement activities to select the optimum fit-for-purpose method and market 
+approach. The PPSD includes a summary on procurement risk, mitigation measures, an action plan, and procurement 
+implementation support and supervision plan (Contract Management Plan). The World Bank Systematic Tracking of 
+Exchanges in Procurement (STEP) tool will be used to prepare, clear, and update PPs and conduct all procurement 
+transactions for the implementing agency of the project. Staff of the SCALED-UP PIU, who will take on the additional 
+responsibility for SPRING Project, are already trained in using the STEP tool. 
+63. 
+Financial management (FM). The country’s Public Financial Management (PFM) legal framework is weak and 
+fragmented. The PFM accountability systems, supporting processes, and intergovernmental fiscal relations and 
+mechanisms between the FGS and FMS in the country are evolving and currently being supported through other World 
+Bank-funded operations. The project will retain a qualified FM specialist at the PIU supported by the team from the EAFS 
+in the Office of the Accountant General. Payment processing will be made through the Somali Financial Management 
+Information System, and periodic financial reports will be generated. The project will submit quarterly unaudited interim 
+financial reports (IFRs) to the World Bank within 45 days after the end of the quarter in line with the Financing Agreement. 
+The main fiduciary risks that are likely to affect the project include challenges of inadequate capacity, risk of delayed and 
+inaccurate financial and audit reports, and the risk of potential diversion of project resources. There are also wider 
+portfolio risks including AML/CFT risks and limited access to project sites. These risks will be mitigated through a series of 
+integrated approaches including strong collaboration with the EAFS and Office of the Accountant General to address 
+inadequate capacity at the PIU and ensure the timely submission of accurate IFRs to the World Bank. Ongoing capacity 
+support to the Office of the Auditor General (OAG) through engagement of a private audit firm to support the audit of 
+World Bank-financed projects in the portfolio will continue. The project will provide support for the implementation of 
+the amended AML/CFT Law (expected in 2025) to address AML/CFT risks. Fiduciary oversight will be enhanced through 
+regular internal audits conducted by the internal audit function in the MoF and annual external audits conducted by the 
+OAG with TA from a contracted private audit firm. The residual FM risk is therefore considered Substantial.
+=== PAGE 37 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 23  
+ 
+C. Environmental, Social and Legal Operational Policies 
+ 
+@#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate 
+Legal Operational Policies 
+Triggered? 
+Projects on International Waterways OP 7.50 
+No 
+Projects in Disputed Area OP 7.60 
+No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+64. 
+The main risks and impacts are associated with ID registration activities (Subcomponent 1.2), which will build on 
+ongoing activities for the development of the foundational digital ID system in Somalia, and the financial services to be 
+provided to MSMEs (Subcomponent 3.1). Environmental risk and impact are considered Moderate with construction or 
+rehabilitation works foreseen. Activities associated with environmental risks relate to data privacy, cybersecurity, and the 
+disposal of e-waste, including obsolete electronic devices used in activities like ID registration and payment systems. There 
+are also contextual occupational health and safety (OHS) risks to workers and the community during ID registration 
+exercises under Component 1. Potential risks include those under the risk-sharing platform if projects with environmental 
+footprints receive support, and potential downstream environmental and social risks associated with type 2 and 3 
+technical assistance (TA) activities under Component 1, which address regulatory and policy constraints. The social risk is 
+considered Substantial. The main risks include: (a) potential exclusion of disadvantaged and vulnerable groups in ID 
+registration services, financial product services, and training and capacity-building activities; (b) labor risks including OHS 
+and security risks, sexual harassment, and other forms of gender-based violence (GBV) that may occur during ID 
+registration activities and capacity-building activities, when seeking financial services, and during interaction of ministry 
+employees with contractors; (c) possible elite capture of project benefits; and (d) contextual FCV operational environment 
+that will potentially limit effective CE and trusted GRM and might exclude the hard-to-serve community members (such 
+as minorities, people with disabilities, widows, internally displaced persons, and pastoralists). The instruments prepared 
+include the ESCP which was disclosed on the World Bank external website on March 23, 2025, and the SEP which was 
+disclosed on the World Bank external website on March 4, 2025. On the government side, the ESCP was disclosed in-
+country on March 22, 2025, while the SEP was disclosed in-country on March 11, 2025. Stakeholder consultations were 
+held in-country on November 14, 2024, and were attended by various stakeholders including community members. The 
+GBV, sexual exploitation and abuse/harassment (SEAH), risk is rated substantial due to national ID registration including 
+contextual factors that exacerbate the GBV risks due to predominantly peri-urban and rural sites for ID registration and 
+weaker mitigation systems. To mitigate these risks, SEAH mitigation measures will be incorporated in the NIRA strategy 
+and relevant project documents. The Government will also prepare the Labor Management Procedures and e-waste 
+management plan and incorporate relevant E&S aspects. The project will build on the Environmental and Social 
+Management System developed for Gargaara to identify, assess, and manage environmental and social risks for the risk-
+sharing platform. For security risks, the existing system established under SCALED-UP will be upgraded according to the 
+latest risk-based guidance.  
+D. Grievance Redress Service 
+65. 
+Grievance redress. Communities and individuals who believe that they are adversely affected by a project 
+supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s 
+Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address 
+project-related concerns. Project affected communities and individuals may submit their complaint to the Bank’s 
+independent Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm 
+occurred, or could occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute Resolution
+=== PAGE 38 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 24  
+ 
+Service, which provides communities and borrowers with the opportunity to address complaints through dispute 
+resolution. Complaints may be submitted to the AM at any time after concerns have been brought directly to the attention 
+of Bank Management and after Management has been given an opportunity to respond. For information on how to submit 
+complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For information on how 
+to submit complaints to the Bank’s Accountability Mechanism, visit https://accountability.worldbank.org. 
+V. 
+KEY RISKS 
+ 
+Description of Risk 
+Mitigation Measure 
+Rating 
+Political and Governance 
+FGS continues to have limited operational capacity and 
+physical reach into the country, affected by the prevalence of 
+illicit groups such as Al-Shabaab. There are also risks 
+associated with continuing political contestation among 
+federal government institutions and between the FGS and the 
+FMS. Furthermore, corruption is prevalent at all levels in the 
+public and private sectors. 
+SPRING Project includes multipronged mitigation 
+measures into its design, including the 
+strengthening of FM systems and of core fiduciary 
+and contract management institutional capacities, 
+and a key coordination role to be played by the 
+PSC. 
+High 
+Macroeconomic 
+Despite steady improvements in the revenue collection in 
+recent years, the risk of economic shocks further damaging 
+the country’s already volatile economy is high. Economic 
+activity is likely to have significant risks related to insecurity in 
+Mogadishu and southern Somalia. Given the FGS’s limited 
+capacity to dampen economic disruptions, the risk of MSMEs 
+having to absorb their full impact is high. Revenue fluctuations 
+and the resulting potential increase of nonperforming loans 
+(NPLs) in the banking sector pose direct risks to project 
+implementation, particularly in enhancing access to finance. 
+Ongoing work under other World Bank-financed 
+projects will support increased revenue 
+mobilization and increase macroeconomic 
+stability. SPRING Project would also build on 
+activities currently implemented in other World 
+Bank-financed projects—for example, DRIVE and 
+SCALED-UP — to manage financial sector stability 
+risks. 
+High 
+Sector Strategies and Policies 
+Potential fragmentation of development partner support is a 
+risk. While project preparation reflects a highly consultative 
+process, it will be necessary to maintain dialogue with other 
+donors throughout project implementation. There is also a 
+substantial risk that the project may not be implemented in 
+the most effective and efficient manner, given political 
+economy challenges of anticompetitive practices by well-
+connected conglomerates, and complications with reform 
+implementation given the corruption, infrastructure 
+deficiencies, and other systemic challenges. 
+Targeted support to strengthen MDAs’ 
+institutional capacity to mitigate risks related to 
+efficient project implementation. Active 
+collaboration through development partners 
+engagement platforms will also be conducted to 
+mitigate risks related to fragmentation. 
+Substantial 
+Technical Design of Project or Program 
+SPRING’s reform agenda is ambitious, with multiple 
+components cutting across key institutions and regional 
+governments, while Somalia’s administrative and sectoral 
+institutions have limited ability to absorb resources and 
+human capital at a rapid pace, and the required intra- and 
+intergovernmental coordination is weak. 
+Reforms will be introduced gradually to ensure 
+government ownership and incremental capacity 
+building tailored to the context. Implementation 
+teams and TA will mitigate the complexity of risks. 
+Close monitoring of work plans by the PSC and 
+World Bank will be critical. 
+Substantial
+=== PAGE 39 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+Page 25  
+ 
+Description of Risk 
+Mitigation Measure 
+Rating 
+Institutional Capacity for Implementation and Sustainability 
+Despite substantial progress, the Government’s capacity and 
+resources remain limited. Recently established entities, such 
+as NIRA, will require additional support in coordination with 
+the MoF to ensure fiscal sustainability.  
+The PIU housed at the MoF has demonstrated the 
+ability to successfully implement the ongoing 
+SCALED-UP and DRIVE projects. SPRING Project 
+will support continued institutional capacity 
+building at key beneficiary MDAs. It will also 
+allocate resources to strengthen the PIU’s 
+capabilities in E&S practices and M&E, including 
+the use of an independent monitoring agent. 
+Project activities also consider appropriate 
+institutional mandates of new institutions, 
+adequate sources of funds to meet capital and 
+operational costs, and strong governance 
+arrangements for long-term sustainability. 
+Substantial 
+Fiduciary 
+ 
+ 
+Somalia’s accountability systems are still evolving. For 
+instance, there is a lack of key FM competencies and strong 
+internal controls, reliance on consultants, a weak and 
+fragmented country PFM legal framework, no correspondent 
+banking relationships (CBRs) for commercial banks, a 
+developing payment system infrastructure, and increasing 
+government use of digital financial services to facilitate local 
+payments—including from some World Bank-funded 
+activities. 
+The World Bank will continue to maximize 
+disbursements under the project directly to 
+vendors, minimize DA balances, conduct intensive 
+FM monitoring through reconciliation of project 
+and bank accounts and deployment of in-country 
+monitoring arrangements, and support capacity 
+building of national PFM oversight institutions. 
+Improving Somalia’s payment system 
+infrastructure, promoting CBRs, and 
+strengthening oversight of cross-border 
+transactions will also help mitigate these risks. 
+Substantial 
+Environment and Social 
+Key risks relate to exclusion from project benefits; labor risks 
+including OHS; sexual exploitation and abuse/sexual 
+harassment; all forms of GBV; security, safety, and well-being 
+of workers and project-affected communities; and insufficient 
+e-waste management. 
+Continued use of the experienced SCALED-UP PIU 
+will help mitigate these risks. To mitigate the PIU’s 
+limited experience with the ESF, SPRING Project 
+will support capacity building at the PIU and key 
+MDAs to establish clear protocols for E&S 
+monitoring and reporting and ensure effective 
+coordination mechanisms are in place. All E&S 
+commitments have been included in the ESCP and 
+there will be regular monitoring and reporting on 
+performance. 
+Substantial 
+Stakeholders 
+The current context in Somalia is characterized by the lack of 
+trust between key groups in society, and the accompanying 
+high levels of contestation. Opposition from stakeholders (civil 
+society, private sector organizations, other donors, and other 
+members of the public) is possible. If the vested interests of 
+respective parties are incompatible or where other 
+stakeholders cannot, or will not, accept a common position, 
+this can potentially have a negative impact on the 
+achievement of the PDO. 
+The project builds on continuous engagement 
+with all stakeholders and civil society. 
+Understanding the relative power and influence 
+of different stakeholders will help reconcile their 
+claims on the project. The project’s GRM would 
+help manage grievances from communities and 
+the private sector. 
+Substantial 
+Overall Program Risk 
+High
+=== PAGE 40 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+Page 26 
+ 
+ANNEX 1. RESULTS FRAMEWORK 
+ 
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate 
+ 
+PDO Indicators by PDO Outcomes 
+Baseline 
+Period 1 
+Period 2 
+Period 3 
+Period 4 
+Closing Period 
+Business enabling environment improved  
+Number of new firms benefitting from reformed business registration requirements (cumulative) (Number of businesses)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+300 
+1,500 
+3,000 
+4,500 
+5,500 
+➢of which are women-owned (Percentage)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+30 
+30 
+30 
+30 
+30 
+People with digitally verifiable identification (cumulative) (Number)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+500,000 
+1,500,000 
+3,000,000 
+4,000,000 
+5,000,000 
+➢of which are women (Number)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+250,000 
+750,000 
+1,500,000 
+2,000,000 
+2,500,000 
+Financial system strengthened  
+Number of new bank accounts opened (cumulative) (Number)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+50,000 
+100,000 
+180,000 
+270,000 
+400,000 
+Access to finance enhanced  
+Number of jobs created through the RSM and BDS (cumulative) (Number)  
+May/2025 
+Jun/2026 
+Dec/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+- 
+1,330 
+- 
+- 
+2,250 
+Number of businesses accessing credit with the support of the RSM (cumulative) (Number of businesses)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+150 
+400 
+600 
+900 
+1,100 
+Intermediate Indicators by Components
+=== PAGE 41 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+Page 27 
+ 
+Baseline 
+Period 1 
+Period 2 
+Period 3 
+Period 4 
+Closing Period 
+Comp. 1: Improving the enabling environment for the private sector  
+Number of new or amended laws and regulations improving the business enabling environment enacted (cumulative) (Number)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+1 
+2 
+5 
+8 
+11 
+Number of new public and private service providers using NIRA digital identity verification services (cumulative) (Number)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+2 
+4 
+6 
+8 
+10 
+Number of people whose identity is verified using the digital ID (annual) (Number)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+30,000 
+65,000 
+105,000 
+150,000 
+200,000 
+Percentage of customer support and grievance redress service requests addressed per year by NIRA (Percentage)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+80 
+90 
+100 
+100 
+100 
+Comp. 2: Deepening financial sector reforms and strengthening institutional capacity  
+Number of new loans for MSMEs provided by Gargaara (cumulative) (Number)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+500 
+1,000 
+1,750 
+2,500 
+3,000 
+Value of new disbursements to MSMEs by Gargaara (cumulative) (Amount(USD))  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+5,000,000 
+13,000,000 
+18,000,000 
+24,000,000 
+30,000,000 
+Number of regulations linked to new laws and policy guidance related to the financial sector issued (cumulative) (Number)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+2 
+5 
+8 
+11 
+15 
+Number of transactions processed through the SIPS (annual) (Number)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+3,300,000 
+4,500,000 
+6,000,000 
+7,000,000 
+10,000,000 
+Value of transactions through the SIPS (annual) (Amount(USD))  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+33,000,000 
+45,000,000 
+60,000,000 
+70,000,000 
+100,000,000 
+PBC 1: Macroprudential framework strengthened (Yes/No) PBC  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+No 
+No 
+No 
+Yes 
+Yes 
+Yes
+=== PAGE 42 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+Page 28 
+ 
+PBC 2: Financial sector data collection, analysis, and transparency improved (Yes/No) PBC  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+No 
+No 
+No 
+No 
+Yes 
+Yes 
+PBC 3: Expanded oversight of financial systems (Yes/No) PBC  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+No 
+No 
+No 
+No 
+No 
+Yes 
+PBC 4: Consolidated supervision of banks and non-bank financial institutions (Yes/No) PBC  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+No 
+No 
+No 
+No 
+No 
+Yes 
+PBC 5: Improved access to financial services through better risk assessment of borrowers (Yes/No) PBC  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+No 
+No 
+No 
+Yes 
+Yes 
+Yes 
+Comp. 3: Enhancing access to finance and resilience for MSMEs  
+Number of RSM-supported loans for women-owned/managed MSMEs (cumulative) (Number)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+45 
+120 
+180 
+270 
+330 
+Value of RSM-supported loans for women-owned/managed MSMEs (cumulative) (Amount(USD))  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+675,000 
+1,500,000 
+2,400,000 
+3,300,000 
+4,300,000 
+Amount of private capital enabled through the RSM (cumulative) (Amount(USD))  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+4,500,000 
+10,000,000 
+16,000,000 
+22,000,000 
+29,000,000 
+Number of MSMEs benefitting from BDS (cumulative) (Number of businesses)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+400 
+800 
+1,200 
+1,600 
+2,000 
+➢of which of women-owned/managed businesses (Percentage)  
+May/2025 
+Jun/2026 
+Jun/2027 
+Jun/2028 
+Jun/2029 
+Jun/2030 
+0 
+25 
+25 
+25 
+25 
+25 
+Comp. 4: Project Management  
+Performance-based Conditions (PBC) 
+Period 
+Period Definition
+=== PAGE 43 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+Page 29 
+ 
+Period 1 
+2025 
+Period 2 
+2026 
+Period 3 
+2027 
+Period 4 
+2028 
+Period 5 
+2029 
+Period 6 
+2030 
+Baseline 
+Period 1 
+Period 2 
+Period 3 
+Period 4 
+Period 5 
+Period 6 
+1:PBC 1: Macroprudential framework strengthened (Yes/No ) 
+No 
+Macroprudential 
+framework to 
+monitor, assess, and 
+mitigate systemic risks 
+approved by the CBS 
+Board and 
+implementation plan 
+operationalized 
+(Expected to be 
+completed by 
+December 2027) 
+0.00 
+0.00 
+0.00 
+750,000.00 
+0.00 
+0.00 
+0.00 
+PBC allocation 
+750,000.00 
+As a % of Total PBC Allocation  
+12.5% 
+2:PBC 2: Financial sector data collection, analysis, and transparency improved (Yes/No ) 
+No 
+Consolidated Financial 
+Soundness Indicator 
+Data (FSI) is published 
+on the CBS website, 
+with expanded IMF FSI 
+data coverage 
+(including all licensed 
+banks) (Expected to be 
+completed by August 
+2026) 
+Consolidated FSI data 
+is published on the 
+CBS website, with 
+expanded IMF FSI data 
+coverage (including all 
+licensed banks and 
+other licensed 
+financial institutions) 
+(Expected to be 
+completed by 
+December 2028) 
+0.00 
+0.00 
+500,000.00 
+0.00 
+500,000.00 
+0.00 
+0.00
+=== PAGE 44 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+Page 30 
+ 
+PBC allocation 
+1,000,000.00 
+As a % of Total PBC Allocation  
+16.67% 
+3:PBC 3: Expanded oversight of financial systems (Yes/No ) 
+No 
+Regulation issued by 
+CBS on Safeguarding 
+of Mobile Money 
+Funds (Expected to be 
+completed by 
+December 2026) 
+Regulation issued by 
+CBS relating to Savings 
+and Credit 
+Cooperative Societies 
+(SACCOs) (Expected to 
+be completed by 
+December 2027) 
+At least 5 
+microfinance 
+institutions (MFIs) and 
+1 SACCO licensed by 
+CBS (Expected to be 
+completed by 
+December 2028)  
+Regular offsite 
+supervision for all 
+licensed MFIs and 
+SACCOs conducted 
+and onsite 
+examinations 
+completed for at least 
+2 MFIs and 1 SACCOs 
+(Expected to be 
+completed by 
+December 2029) 
+0.00 
+0.00 
+400,000.00 
+350,000.00 
+250,000.00 
+250,000.00 
+0.00 
+PBC allocation 
+1,250,000.00 
+As a % of Total PBC Allocation  
+20.83% 
+4:PBC 4: Consolidated supervision of banks and non-bank financial institutions (Yes/No ) 
+No 
+Regulation to 
+undertake 
+consolidated 
+supervision and 
+financial reporting of 
+financial groups is 
+issued by the CBS 
+(Expected to be 
+completed by 
+December 2027) 
+CBS has completed 
+consolidated 
+supervision of at least 
+1 financial group 
+(comprising one of the 
+four largest banks in 
+terms of assets at the 
+end of previous 
+calendar year) 
+(Expected to be 
+completed by 
+December 2028) 
+CBS has completed 
+consolidated 
+supervision of at least 
+2 additional financial 
+groups (comprising at 
+least one additional 
+bank from the four 
+largest banks in terms 
+of assets at the end of 
+previous calendar 
+year) (Expected to be 
+completed by 
+December 2029) 
+0.00 
+0.00 
+0.00 
+1,000,000.00 
+500,000.00 
+500,000.00 
+0.00 
+PBC allocation 
+2,000,000.00 
+As a % of Total PBC Allocation  
+33.33% 
+5:PBC 5: Improved access to financial services through better risk assessment of borrowers (Yes/No ) 
+No 
+Credit Information 
+System (CIS) 
+framework developed 
+and approved by the 
+CIS launched with at 
+least 4 banks 
+connected and 
+contributing to data 
+CIS being used by at 
+least 4 banks 
+contributing and 
+accessing credit
+=== PAGE 45 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+Page 31 
+ 
+CBS board (Expected 
+to be completed by 
+December 2025) 
+collection (Expected to 
+be completed by 
+December 2026) 
+information 
+consistently over 3 
+months (Expected to 
+be completed by 
+December 2027) 
+0.00 
+250,000.00 
+500,000.00 
+250,000.00 
+0.00 
+0.00 
+0.00 
+PBC allocation 
+1,000,000.00 
+As a % of Total PBC Allocation  
+16.67%
+=== PAGE 46 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+ 
+Page 32 
+ 
+Monitoring and Evaluation Plan: PDO Indicators by PDO Outcomes 
+ 
+Business enabling environment improved 
+Number of new firms benefitting from reformed business registration requirements (% of which are women-owned) (cumulative)  
+Description 
+This indicator tracks the number of new firms that register on the SBRS online platform. 
+ 
+Once the new legal and regulatory framework for business registration and licensing is adopted, all the firms in the SBRS 
+can be assumed to benefit from reformed business registration and licensing requirements as they will need, at 
+minimum, to apply for new licenses through the SBRS every year. However, only new firms in the SBRS will be recorded 
+as part of this project. 
+ 
+The number of firms already in the SBRS is expected to be around 6,000 by May 2025.  
+Frequency 
+Quarterly 
+Data source 
+SBRS reports 
+Methodology for Data 
+Collection  
+The SBRS focal point will generate reports from the SBRS indicating the total number of firms in the SBRS. The data will 
+be gender disaggregated. 
+ 
+Determining the number of new firms in the SBRS will consist of subtracting the baseline (firms already in the SBRS 
+before the project starts) from the total number of firms in the SBRS. 
+ 
+MoCI will be in charge of determining the baseline for this indicator. It will also need to prevent double counting as other 
+World Bank-financed operations will be ongoing when the project starts (that is, SCALED-UP). 
+Responsibility for Data 
+Collection 
+MoCI 
+People with digitally verifiable identification (of which are women) (cumulative) 
+Description 
+This indicator tracks the number of new people who register in the foundational digital ID system. It does not include 
+people that registered under SCALED-UP. 
+ 
+It is estimated that approximately 175,000 people will be registered in the foundational ID system by May 2025. 
+Frequency 
+Quarterly 
+Data source 
+Digital ID system reports 
+Methodology for Data 
+Collection  
+NIRA will generate reports regarding the number of people registered in the digital ID system. The data will be gender 
+disaggregated. 
+ 
+Determining the number of new people registered in the digital ID system will consist of subtracting the baseline (people 
+already in the digital ID system) from the total number of people registered in the digital ID system. 
+ 
+NIRA will be in charge of determining the baseline for this indicator. It will also need to prevent double counting as other 
+World Bank-financed operations will be ongoing when the project starts (that is, SCALED-UP). 
+Responsibility for Data 
+Collection 
+NIRA 
+Financial system strengthened 
+Number of new bank accounts opened (cumulative) 
+Description 
+This indicator tracks the number of new bank accounts opened during the project’s implementation. 
+ 
+It is estimated that approximately 1,200,000 bank accounts will already be open by May 2025. 
+Frequency 
+Semiannually 
+Data source 
+CBS surveys 
+Methodology for Data 
+Collection  
+CBS will conduct periodic surveys to determine the number of new accounts opened during the project’s 
+implementation.
+=== PAGE 47 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+ 
+Page 33 
+ 
+Determining the number of new bank accounts opened will consist of subtracting the baseline (already existing bank 
+accounts) from the total number of bank accounts determined through the surveys. 
+ 
+CBS will be in charge of determining the baseline for this indicator.  
+Responsibility for Data 
+Collection 
+CBS 
+Access to finance enhanced 
+Number of businesses accessing credit with the support of the RSM (cumulative) 
+Description 
+This indicator is linked to the CRI: People and businesses using financial services. It specifically measures the number 
+businesses accessing credit with the support of the RSM. 
+Frequency 
+Quarterly 
+Data source 
+PFIs’ reports 
+Methodology for Data 
+Collection  
+PFIs are required to provide quarterly reports to the entity managing the RSM. These reports will need to clearly indicate 
+the number of businesses benefiting from loans through the RSM. 
+Responsibility for Data 
+Collection 
+Entity managing the RSM 
+Number of jobs created through the RSM and BDS (cumulative) 
+Description 
+This indicator is linked to the CRI: New or better jobs. It tracks the estimated number of new jobs created by firms 
+benefitting from loans through the RSM or BDS.  
+Frequency 
+Twice (midterm review and end of project) 
+Data source 
+Beneficiaries loan applications, BDS participation forms, and surveys 
+Methodology for Data 
+Collection  
+At the time of application/registration for an RSM-supported loan or BDS, firms will need to indicate on their 
+application/registration forms the number of employees they currently have and the number of employees they expect 
+to hire after receiving the services. 
+ 
+They will also be required to provide their contact information and consent to be contacted by the service providers for 
+this activity (for example, entity managing RSM, entity managing BDS, PFIs, BDS provider, PIU, and/or survey firm). 
+ 
+As the project nears the midterm review, the PIU will enable the hiring of a survey firm to follow up with the businesses 
+that benefitted from the services and determine the number of new jobs created. The same operation will be reiterated 
+toward the end of the project. 
+ 
+It is estimated that the project could generate 1,300 and 30 jobs through the RSM and BDS, respectively, by midterm 
+review and 1,750 and 500 jobs by the end of the project, respectively. 
+Responsibility for Data 
+Collection 
+PIU - in coordination with entities managing the RSM/BDS and service providers (for example, PFIs and BDS provider) 
+ 
+Monitoring and Evaluation Plan: Intermediate Results Indicators by Components 
+ 
+Component 1: Improving the enabling environment for the private sector 
+Number of new or amended laws and regulations improving the business enabling environment enacted (cumulative) 
+Description 
+This indicator tracks the number of laws and regulations improving the business-enabling environment enacted by the 
+Parliament (for laws) or approved by the Minister of Commerce and Industry (for regulations). MoCI expects to enact at 
+least 5 laws and 6 regulations (11 in total). 
+ 
+The laws and regulations expected to be enacted during the project are the Commercial Registration and Licensing Law 
+regulations, the National Insolvency Policy and Law (and its regulation), the Trust Law (and its regulation), the Arbitration 
+Law (and its regulation), the Trade Remedies Act (and its regulation), and the SMEs Policy and Act (and its regulation). 
+Additional or replacement laws and regulations may be considered as the project is implemented.  
+Frequency 
+Quarterly
+=== PAGE 48 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+ 
+Page 34 
+ 
+Data source 
+MoCI reports 
+Methodology for Data 
+Collection  
+MoCI will be responsible for tracking and providing regular updates about the development, steps taken toward 
+enactment, and implementation for the laws and regulations supported by the project. 
+Responsibility for Data 
+Collection 
+MoCI 
+Number of new public and private service providers using NIRA digital identity verification services (cumulative) 
+Description 
+This indicator tracks the number of new government agencies and private service providers (for example, banks) that use 
+NIRA’s identity verification service linked to the digital ID. 
+ 
+It is expected that at least two service providers will be using NIRA’s digital identity verification service by May 2025. 
+Frequency 
+Quarterly 
+Data source 
+Partnership agreements with entities using NIRA services 
+Methodology for Data 
+Collection  
+Access to NIRA identity verification services will be subject to signing of an agreement. Signing of the agreement will 
+serve as proof that the partnering entity has access to NIRA identity verification services. 
+ 
+Determining the number of new service providers will consist of subtracting the baseline (already existing partnerships) 
+from the total number of service providers with access to NIRA’s identity verification service. 
+ 
+NIRA will be in charge of determining the baseline for this indicator. It will also be required to report whether the entities 
+are actively using the system. 
+Responsibility for Data 
+Collection 
+NIRA 
+Number of people whose identity is verified using the digital ID (annual) 
+Description 
+This indicator tracks the number of people whose identity is verified using the digital ID at least once during the year. This 
+indicator only collects the number of unique users of the system. 
+ 
+It is expected that 1,056 people will have used the digital ID system to verify their identity by May 2025. 
+Frequency 
+Quarterly 
+Data source 
+Digital ID/identity verification system reports 
+Methodology for Data 
+Collection  
+NIRA will generate reports from the digital ID/identity verification system indicating the number of people whose identity 
+is verified at least once using the digital ID. 
+ 
+Reporting will occur on a quarterly basis, but the targets are annual and noncumulative. 
+Responsibility for Data 
+Collection 
+NIRA 
+Percentage of customer support and grievance redress service requests addressed per year by NIRA 
+Description 
+This indicator tracks the number of customer support and GRS requests addressed by NIRA. NIRA already benefits from a 
+GRS and will establish a customer support platform (for example, hot line). 
+Frequency 
+Quarterly 
+Data source 
+Customer service platform and GRS reports 
+Methodology for Data 
+Collection  
+NIRA will monitor and report the total number of requests addressed and the total number of requests received through 
+the two systems. Those two numbers will be used to compute the percentage for this composite indicator. 
+ 
+NIRA will also be required to periodically provide logs of those two systems displaying the numbers listed above to 
+demonstrate the accuracy of their reporting.  
+Responsibility for Data 
+Collection 
+NIRA 
+Component 2: Deepening financial sector reforms and strengthening institutional capacity 
+Number of new loans for MSMEs provided by Gargaara (cumulative) 
+Description 
+This indicator tracks the number of loans provided by PFIs using Gargaara’s funding. 
+Frequency 
+Quarterly 
+Data source 
+PFIs’ reports
+=== PAGE 49 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+ 
+Page 35 
+ 
+Methodology for Data 
+Collection  
+PFIs are required to provide detailed lending information to Gargaara. Those reports will specifically indicate the number 
+of loans provided to firms. 
+Responsibility for Data 
+Collection 
+Gargaara 
+Value of new disbursements to MSMEs by Gargaara (cumulative) (US$) 
+Description 
+This indicator tracks the value of disbursements provided by PFIs using Gargaara’s funding. 
+Frequency 
+Quarterly 
+Data source 
+PFIs’ reports 
+Methodology for Data 
+Collection  
+PFIs are required to provide detailed lending information to Gargaara. These reports will specifically indicate the value of 
+loans provided to firms. 
+Responsibility for Data 
+Collection 
+Gargaara 
+Number of regulations linked to new laws and policy guidance related to the financial sector issued (cumulative) 
+Description 
+This indicator tracks the number of regulations linked to new laws and policy guidance (including frameworks 
+development) related to the financial sector issued. 
+Frequency 
+Quarterly 
+Data source 
+CBS regulations, frameworks, and guidance notes repository 
+Methodology for Data 
+Collection  
+For this indicator, the issuance is determined when the regulations, framework, and guidance are approved by the 
+Central Bank Governor and published on the CBS website. CBS will be required to provide quarterly updates about the 
+development of key regulations, frameworks, and policy guidance as well as their issuance/publication and 
+implementation. 
+ 
+CBS is currently expecting to develop the following regulations, frameworks, and guidance during the project’s 
+implementation: 
+ 
+a) MFIs: 1. Licensing and Supervision Regulation; b) Takaful/Insurance Institutions: 2. Licensing Regulation, 3. AML/CFT 
+Regulation/Guideline, 4. Regulation on Financial Reporting, 5. Regulation on Capital Requirement, 6. Regulation on 
+Management of Takaful Funds; c) Foreign Exchange Bureaus: 7. Licensing and Operations Regulation; d) Payment 
+Services: 8. Licensing of Payment Service Providers, 9. Issuance of electronic money, 10. Safeguarding of Mobile Money 
+Funds, 11. Regulatory capital for different classes of operators and Payment Service Providers; e) Regulations on Banking 
+Supervision: 12. Significant Exposures; 13. Regulatory framework to undertake consolidated supervision issued by the 
+CBS requiring consolidated financial reporting; 14. Credit Reference Bureau Regulation; 15. Macroprudential framework 
+to monitor, assess, and mitigate systemic risks; f) Other Regulations: 16. SACCOs regulation, 17. Climate/Green Finance 
+Framework/Guidance; 18. Development Finance Business Regulation, 19. Consumer Protection Regulation/Guidelines. 
+Responsibility for Data 
+Collection 
+CBS 
+Number of transactions processed through the SIPS (annual) 
+Description 
+This indicator tracks the number of transactions through the SIPS. 
+Frequency 
+Quarterly 
+Data source 
+SIPS reports 
+Methodology for Data 
+Collection  
+CBS will be required to monitor the number of transactions through the SIPS and prepare reports providing such data. 
+ 
+Reporting will occur on a quarterly basis, but the targets are annual and noncumulative. 
+Responsibility for Data 
+Collection 
+CBS 
+Value of transactions through the SIPS (annual) (US$) 
+Description 
+This indicator tracks the value of transactions through the SIPS. 
+Frequency 
+Quarterly 
+Data source 
+SIPS reports 
+Methodology for Data 
+Collection  
+CBS will be required to monitor the value of transactions through the SIPS and prepare reports providing such data. 
+ 
+Reporting will occur on a quarterly basis, but the targets are annual and noncumulative.
+=== PAGE 50 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+ 
+Page 36 
+ 
+Responsibility for Data 
+Collection 
+CBS 
+PBC 1: Macroprudential framework strengthened  
+Description 
+This indicator tracks progress relating to the development of a macroprudential framework. 
+Frequency 
+Ad hoc 
+Data source 
+Verification protocol for PBC 
+Methodology for Data 
+Collection  
+Verification protocol for PBC 1. 
+ 
+CBS will hire an IVA to verify the completion of the PBC. While verifications will occur at intervals to be determined, CBS 
+will be required to provide quarterly updates on progress toward the completion of the PBC. 
+Responsibility for Data 
+Collection 
+CBS 
+PBC 2: Financial sector data collection, analysis and transparency improved  
+Description 
+This indicator tracks progress toward the collection, analysis, and publication of FSI data (including IMF FSI expanded 
+coverage) from all licensed financial institutions on the CBS website. 
+Frequency 
+Ad hoc 
+Data source 
+Verification protocol for PBC 
+Methodology for Data 
+Collection  
+Verification protocol for PBC 2 
+ 
+CBS will hire an IVA to verify the completion of the PBC. While verifications will occur at intervals to be determined, CBS 
+will be required to provide quarterly updates on progress toward the completion of the PBC. 
+Responsibility for Data 
+Collection 
+CBS 
+PBC 3: Expanded oversight of financial system 
+Description 
+This indicator tracks progress toward the development of regulations on safeguarding mobile money funds as well as 
+SACCOs. It also monitors the licensing of MFIs and SACCOs as well as their off-site and on-site supervision.  
+Frequency 
+Ad hoc 
+Data source 
+Verification protocol for PBC 
+Methodology for Data 
+Collection  
+Verification protocol for PBC 3 
+ 
+CBS will hire an IVA to verify the completion of the PBC. While verifications will occur at intervals to be determined, CBS 
+will be required to provide quarterly updates on progress toward the completion of the PBC. 
+Responsibility for Data 
+Collection 
+CBS 
+PBC 4: Consolidated supervision of banks and non-bank financial institutions 
+Description 
+This indicator tracks the development of a regulatory framework for financial institutions supervision and its 
+implementation. 
+Frequency 
+Ad hoc 
+Data source 
+Verification protocol for PBC 
+Methodology for Data 
+Collection  
+Verification protocol for PBC 4 
+ 
+CBS will hire an IVA to verify the completion of the PBC. While verifications will occur at intervals to be determined, CBS 
+will be required to provide quarterly updates on progress toward the completion of the PBC. 
+Responsibility for Data 
+Collection 
+CBS 
+PBC 5: Improved access to financial services through better risk assessment of borrowers 
+Description 
+This indicator tracks progress toward the launch of a CIS and its implementation. 
+Frequency 
+Ad hoc 
+Data source 
+Verification protocol for PBC 
+Methodology for Data 
+Collection  
+Verification protocol for PBC 5
+=== PAGE 51 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+ 
+Page 37 
+ 
+CBS will hire an IVA to verify the completion of the PBC. While verifications will occur at intervals to be determined, CBS 
+will be required to provide quarterly updates on progress toward the completion of the PBC. 
+Responsibility for Data 
+Collection 
+CBS 
+Component 3: Enhancing access to finance and resilience for MSMEs 
+Number of RSM-supported loans for women-owned/managed MSMEs (cumulative) 
+Description 
+This indicator tracks the number of loans enabled through the RSM to women-owned/managed MSMEs only. 
+Frequency 
+Quarterly 
+Data source 
+PFIs’ reports 
+Methodology for Data 
+Collection  
+PFIs will be required to provide quarterly reports to the entity managing the RSM. 
+ 
+These reports will specifically disaggregate the number of loans provided to firms by gender. 
+Responsibility for Data 
+Collection 
+Entity managing the RSM 
+Value of RSM-supported loans for women-owned/managed MSMEs (cumulative) (US$) 
+Description 
+This indicator tracks the value of loans enabled through the RSM to women-owned/managed MSMEs only. 
+Frequency 
+Quarterly 
+Data source 
+PFIs’ reports 
+Methodology for Data 
+Collection  
+PFIs will be required to provide quarterly reports to the entity managing the RSM. 
+ 
+These reports will specifically disaggregate the number of loans provided to firms by gender. 
+Responsibility for Data 
+Collection 
+Entity managing the RSM 
+Amount of private capital enabled through the RSM (cumulative) (US$) 
+Description 
+This indicator tracks the amount of private capital that the RSM would enable. It specifically tracks the value of the loans 
+derisked through the RSM.  
+Frequency 
+Quarterly 
+Data source 
+PFIs’ reports 
+Methodology for Data 
+Collection  
+PFIs will be required to provide quarterly reports to the entity managing the RSM. These reports will need to clearly 
+indicate the value of the loans derisked through the RSM.  
+Responsibility for Data 
+Collection 
+Entity managing the RSM 
+Number of new MSMEs benefitting from BDS (% of which of women-owned/managed businesses) (cumulative)  
+Description 
+This indicator tracks the number of MSMEs benefitting from BDS. 
+Frequency 
+Quarterly 
+Data source 
+BDS registration forms/training reports 
+Methodology for Data 
+Collection  
+The BDS provider will be required to maintain a list of all the MSMEs benefitting from the services (for example, 
+registration forms and training reports). The data will be gender disaggregated. In coordination with the entity managing 
+the BDS program and the PIU, it will be important to ensure that firms participating in phase 2 of the BDS program are 
+not double counted. 
+Responsibility for Data 
+Collection 
+BDS provider 
+ 
+Verification Protocol: Performance-Based Conditions 
+ 
+PBC 1: Macroprudential framework strengthened 
+Description 
+Macroprudential framework to monitor, assess, and mitigate systemic risks approved by the CBS board and 
+implementation plan operationalized. 
+Data source/ Agency 
+CBS 
+Verification Entity 
+IVA
+=== PAGE 52 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+ 
+Page 38 
+ 
+Procedure 
+The CBS will send to the IVA the CBS board-approved macroprudential framework to monitor, assess, and mitigate 
+systemic risks. It will also share the documents that prove that the framework was approved by the CBS board (or any 
+other decision document as agreed with the World Bank). Lastly, it will provide a copy of the terms of reference of the 
+Financial Stability Committee (FSC) and/or the overall standing policy committees approved by the CBS board as well as 
+evidence of the meetings of the FSC (or other committees as agreed with the World Bank) over a period of at least 3 
+months to demonstrate that the implementation plan is operationalized. Any addition documents/reports generated as 
+part of the macroprudential monitoring could be also provided for review. 
+PBC 2: Financial sector data collection, analysis and transparency improved 
+Description 
+a) Consolidated FSI data is published on the CBS website, with expanded IMF FSI data coverage (including all licensed 
+banks), and b) consolidated FSI data is published on the CBS website, with expanded IMF FSI data coverage (including all 
+licensed banks and other licensed financial institutions). 
+Data source/ Agency 
+CBS 
+Verification Entity 
+IVA 
+Procedure 
+The IVA will visit the CBS website to ensure that the consolidated FSI data is published for all licensed banks and other 
+licensed financial institutions. The IVA will note that part a) only focuses on all licensed banks and part b) focuses on all 
+licensed banks and other licensed financial institutions. The IVA will verify that the published consolidated FSI data 
+include at least 12 of the following key indicators: 
+ 
+A. Core FSIs for Deposit Takers (Commercial Banks): 1. Regulatory capital to risk-weighted assets, 2. Tier 1 capital to 
+risk-weighted assets, 3. NPLs net of provisions to capital, 4. NPLs net of provisions, 5. Total regulatory capital, 6. 
+Common Equity Tier 1 capital to risk-weighted assets, 7. Tier 1 capital to assets, 8. NPLs to total gross loans, 9. Provisions 
+to NPLs, 10. Return on assets, 11. Return on equity, 12. Profit margin to gross income, 13. Noninterest expenses to gross 
+income, 14. Liquid assets to total assets, and 15. Liquidity coverage ratio. 
+ 
+B. Other Financial Institutions: 16. Other Financial Corporations’ assets to total financial assets and 17. Other Financial 
+Corporations’ assets to GDP. 
+ 
+The IVA will be granted the right to verify any additional documents to ensure the accuracy of the consolidated FSI data 
+published on the CBS website and to check its alignment with the agreed FSI. 
+PBC 3: Expanded oversight of financial system 
+Description 
+a) Regulation issued on Safeguarding of Mobile Money Funds, b) regulation issued relating to SACCOs, c) at least 5 MFIs 
+and 1 SACCO licensed, and d) regular off-site supervision for all licensed MFIs and SACCOs conducted and on-site 
+examinations completed for at least 2 MFIs and 1 SACCO. 
+Data source/ Agency 
+CBS 
+Verification Entity 
+IVA 
+Procedure 
+The CBS will share the final drafts of the two regulations on Safeguarding of Mobile Money Funds and SACCOs with the 
+IVA. It will also share with the IVA the documents proving that the regulations have been approved by the CBS board (or 
+any other decision document as agreed with the World Bank) and have been issued. The IVA will also verify the CBS 
+website to ensure that the regulation is published. It will visit the CBS offices to physically verify the license certificates 
+of the five MFIs and one SACCO as well as the off-site and on-site supervision reports to confirm that these are 
+conducted on periodic / regular intervals (with off-site monitoring of data collected monthly and consolidated quarterly 
+and on-site risk-based supervision). It will also be granted the right to check the necessary records and attachments 
+(physical or electronic) to assess the thoroughness of the supervision activity. 
+PBC 4: Consolidated supervision of banks and non-bank financial institutions36 
+Description 
+a) Regulation to undertake consolidated supervision and financial reporting of financial groups is issued by the CBS, b) 
+CBS has completed consolidated supervision of at least 1 financial group (comprising 1 of the 4 largest banks in terms of 
+total assets at the end of previous calendar year), and c) CBS has completed consolidated supervision of at least 2 
+additional financial groups (comprising at least 1 additional bank from the 4 largest banks in terms of total assets at the 
+end of previous calendar year). 
+ 
+36 Consolidated supervision of a financial group or financial conglomerate means that regulators assess the risks and financial stability of the entire financial 
+group rather than just individual entities (banks, insurance, MFIs, and so on), to ensure the group is financially sound as a whole and does not pose systemic 
+risks to the financial system.
+=== PAGE 53 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+ 
+Page 39 
+ 
+Data source/ Agency 
+CBS 
+Verification Entity 
+IVA 
+Procedure 
+The CBS will share the final draft of the regulation for consolidated supervision and financial reporting of financial groups 
+with the IVA. It will also share any document proving that this regulation was approved by the CBS board (or any other 
+decision document as agreed with the World Bank). The IVA will visit the CBS website to ensure that the regulation is 
+published. It will also visit the CBS offices to physically verify the on-site supervision reports upon their completion. It 
+will also be granted the right to check the necessary records and attachments (physical or electronic) to assess the 
+thoroughness of the supervision activity. 
+PBC 5: Improved access to financial services through better risk assessment of borrowers 
+Description 
+(a) CIS framework developed and approved by the CBS board, (b) CIS launched with at least 4 banks connected and 
+contributing to data collection, and (c) CIS being used by at least 4 banks contributing and accessing credit information 
+consistently over 3 months. 
+Data source/ Agency 
+CBS 
+Verification Entity 
+IVA 
+Procedure 
+The CBS will share the final draft of the CIS framework with the IVA. It will also share the board resolution approving the 
+framework with the IVA (or any other decision document as agreed with the World Bank). It will also enable a technical 
+visit from the IVA to show the system’s functionalities and its integration with banks to confirm that the CIS is 
+launched/operational with 4 banks connected and contributing to data collection for the CIS. Furthermore, it will share 
+the consolidated reports of the 4 banks connected to the CIS spanning over 3 months summarizing the CIS-related 
+activity, information collection and exchanges (expected to include positive and negative information on customers), 
+and overall operational performance.
+=== PAGE 54 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+ 
+Page 40 
+ 
+ANNEX 2. ADDITIONAL TABLES  
+ 
+Table A1. Summary of the CBS program 
+Component 
+Subcomponent 
+Category 
+Activity 
+Program 
+Costs 
+($US) 
+IPF Input-
+Based 
+Financing 
+PBC-Based Financing 
+PBC Results 
+Contribution 
+(Procurable) 
+(Non-
+procurable) 
+PBC 1, 2, 
+3,4,5 
+2. Deepening 
+financial 
+sector 
+reforms and 
+strengthening 
+institutional 
+capacity 
+2.2 
+Strengthening 
+financial sector 
+stability, 
+integrity, and 
+infrastructure 
+Strengthening 
+financial sector 
+oversight and 
+policy 
+implementation 
+This category will cover 
+activities to support policy 
+developmenta  
+14,000,000 
+14,000,000 
+- 
+- 
+Incentivizing 
+financial sector 
+reforms 
+Economic Policy Outreachb 
+400,000 
+- 
+ 
+400,000 
+Hiring staff and consultantsc 
+1,500,000 
+- 
+1,000,000 
+500,000 
+Skills 
+development/certificationsd 
+1,150,000 
+- 
+- 
+1,150,000 
+Training 
+1,300,000 
+- 
+- 
+1,300,000 
+Study visitse 
+1,300,000 
+- 
+- 
+1,300,000 
+Software and licensesf 
+50,000 
+- 
+- 
+50,000 
+Policy Development and 
+Translation 
+900,000 
+- 
+- 
+900,000 
+Enhancement of 
+financial 
+infrastructure 
+This category will cover 
+activities to upgrade the 
+financial sector’s 
+infrastructuref   
+5,000,000 
+5,000,000 
+- 
+- 
+Total 
+25,600,000 
+19,000,000 
+1,000,000 
+5,600,000 
+ 
+Notes:  
+a The detailed activity package will be outlined in the project’s annual workplans in consultation with the World Bank. 
+b Economic policy outreach expenditures relate to the organization of the CBS Annual Conference on Economic Policies 2025-2030. The costs include event 
+management, publications, peer reviewers, best paper awards, travel expenses of event guests within Somalia and outside, and other incidental costs related to the 
+event. 
+c The CBS will also have expenditures related to the hiring of new and/or well-trained personnel. Salary costs as well as recruitment and onboarding expenses are 
+covered by staff hiring expenses. Other forms of expenses for a merit-based competitive selection process include job advertising, shortlisting, reference checks, 
+recruiting expenses. New hires will also need work tools, office supplies, software licenses, and other IT tools. 
+d Continued skill development is essential for CBS employees. As a result, the CBS ensures that staff members remain current on job-related best practices and new 
+technologies by enabling them to acquire professional certifications, Moreover, all initiatives for certification of skills will follow CBS's HR internal policy to ensure 
+relevance, fairness, and conformity with business objectives. Eligible expenses under this category will include training courses for certifications (Cisco Certified 
+Network Associate, Cisco Certified DevNet Professional, Certified Fraud Examiner, Certified Internal Auditor, Association of Chartered Certified Accountants, etc.), 
+seminars, and workshops meant to raise staff members' competencies and skills, including professional certifications. This activity also covers attendance to high-
+level conferences, knowledge-sharing events, and capacity-building initiatives, including those supported by development partners. Furthermore, considered 
+qualified are expenses related to online learning environments, coaching sessions, and tailored development initiatives appropriate for the corporate operational 
+needs. Costs for training materials, exam fees, travel expenses could also be included provided they complement the strategic goals of the CBS. 
+e Study visits foster knowledge sharing, capacity building, and exposure to best practices in relevant sectors, their cost is considered as eligible expenditure. These 
+study visits will adhere to CBS's HR internal policy to ensure relevance, openness, and match with organizational goals. Under this category, eligible expenses include 
+participants’ local transportation, airfare, lodging, and daily allowances. It also covers site visits, academic program registration fees, and meetings with key 
+businesses and partners. Furthermore, considered eligible are costs for translating services, learning materials, and documentation tools—should they be required. 
+f The CBS will also acquire software and related licenses necessary for the performance of its duties. At present, the CBS plans on acquiring software licenses for 
+Stata, Stat Transfer, and EViews. The CBS may also consider other software as necessary. Expenditures will also encompass related support services, enhancements, 
+and training courses required to maximize the value of these tools. Purchasing these software licenses will enable the CBS in providing high-quality research and 
+reporting, increasing data accuracy, and sharpening analytical skills.
+=== PAGE 55 ===
+ 
+The World Bank 
+ 
+Somalia Productive, Resilient, and Inclusive Growth (SPRING) Project (P501662) 
+ 
+ 
+ 
+ 
+Page 41 
+ 
+Table A2. Gender analysis results chain 
+Gender Gap 
+Analysis 
+Actions 
+Indicators 
+PDO Target 
+Access to 
+formal 
+registration 
+of businesses 
+Most women-owned 
+businesses are informal 
+and micro/small in size, 
+and the legal/regulatory 
+framework does not 
+facilitate their 
+registration. 
+Support dissemination of new 
+legal/regulatory framework to facilitate 
+the registration of micro/small 
+enterprises. 
+ 
+Develop information campaigns to raise 
+awareness of the SBRS for women-
+owned businesses. 
+Number of new firms 
+benefitting from reformed 
+business registration 
+requirements (% of which are 
+women-owned) (cumulative) 
+Yes 
+5,500 
+(30%) 
+Access to 
+identification 
+Women face issues with 
+obtaining identification 
+due to structural barriers, 
+traditional gender roles, 
+and clan-based customs. 
+Develop information campaigns to raise 
+awareness of the ID system for women. 
+ 
+Diversify the type of registration sites to 
+enable maximum coverage and facilitate 
+physical access (including partnerships 
+with financial institutions). 
+People with digitally 
+verifiable identification (of 
+which are women) 
+(cumulative) 
+Yes 
+5 
+million 
+(2.5 
+million) 
+Access to 
+finance 
+Women-owned/managed 
+businesses struggle with 
+accessing financing due to 
+financial institutions’ 
+perceptions of risk. 
+Establish an RSM to derisk loans of PFIs, 
+with increased coverage for women-
+owned/managed businesses. 
+ 
+Develop information campaigns to 
+support the uptake of loans by women-
+owned/managed businesses through 
+SPRING Project supported mechanisms. 
+Number of RSM-supported 
+loans for women-
+owned/managed MSMEs 
+(cumulative) 
+No 
+330 
+Value of RSM-supported 
+loans for women-
+owned/managed MSMEs 
+(US$, million) (cumulative) 
+No 
+4.3 
+Vulnerability 
+to shocks 
+Women-owned/managed 
+businesses in Somalia are 
+particularly vulnerable to 
+shocks. 
+Offer BDS to women-owned/managed 
+businesses to enhance their resilience, 
+specifically climate shocks. 
+ 
+Promote BDS to women-
+owned/managed businesses through 
+awareness-raising activities. 
+Number of MSMEs 
+benefitting from BDS (% of 
+which are women-
+owned/managed businesses) 
+(cumulative) 
+No 
+2,000 
+(25%)

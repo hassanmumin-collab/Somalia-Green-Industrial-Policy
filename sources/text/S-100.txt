@@ -1,0 +1,3643 @@
+=== PAGE 1 ===
+Updated fNRB Values for Woodfuel 
+Interventions 
+ 
+Adrian Ghilardi and Rob Bailis 
+Revised version, June 20, 2024
+=== PAGE 2 ===
+ 
+ii
+Table of Contents 
+Table of Contents ........................................................................................................................................... ii 
+1. 
+Executive Summary ............................................................................................................................... 1 
+1.1 
+Summary of results ........................................................................................................................ 1 
+1.2 
+Key changes between October 2023 and this report .................................................................... 2 
+1.3 
+How to interpret results ................................................................................................................ 2 
+1.4 
+Uncertainty .................................................................................................................................... 3 
+1.5 
+Validation and next steps .............................................................................................................. 3 
+2. 
+Introduction ........................................................................................................................................... 4 
+2.1  
+What is fNRB? ................................................................................................................................ 4 
+2.2 
+ How is fNRB used in carbon offset methodologies?..................................................................... 4 
+2.3  
+The first Global fNRB Assessment ................................................................................................. 5 
+2.4  
+Reassessing fNRB ........................................................................................................................... 5 
+2.4 
+ Key assumptions in MoFuSS ......................................................................................................... 6 
+2.5  
+Biomass stocks............................................................................................................................... 6 
+2.6 
+Biomass growth functions ............................................................................................................. 9 
+2.6.1 
+SOC .......................................................................................................................................... 11 
+2.6.2 
+DOM ........................................................................................................................................ 11 
+2.7 
+Biomass consumption ................................................................................................................. 11 
+2.8  
+Residential, commercial, and industrial woodfuel consumption ................................................ 12 
+2.9 
+ Accounting for non-energy wood demand and timber plantations ........................................... 13 
+2.11  Quantifying household woodfuel consumption .......................................................................... 14 
+2.12 
+Spatializing biomass harvesting ................................................................................................... 18 
+2.12.1 
+Pressure maps ......................................................................................................................... 18 
+2.12.2 
+Annual reassessments ............................................................................................................. 20 
+2.13 
+The relationship between woodfuel consumption and fNRB...................................................... 21 
+2.13.1  
+Tool30 ...................................................................................................................................... 21 
+2.14 
+Calculating fNRB .......................................................................................................................... 21 
+2.15 
+Biomass harvest and NRB in MoFuSS .......................................................................................... 22 
+2.15.1  
+Use of deforestation by-products ........................................................................................... 23 
+2.16 
+Global divisions ............................................................................................................................ 25 
+3. 
+Results ................................................................................................................................................. 26 
+3.1 
+Updated fNRB values for low- and middle-income countries ..................................................... 26
+=== PAGE 3 ===
+ 
+ 
+iii
+3.2 
+Uncertainty .................................................................................................................................. 11 
+3.3 
+Proposed changes to TOOL30 ..................................................................................................... 12 
+3.4 
+How sensitive are MoFuSS fNRB results to input parameters? ................................................... 12 
+3.5 
+Comparison with the previous pan-tropical WISDOM study ....................................................... 15 
+3.6 
+Changes between October 2023 and May 2024 ......................................................................... 17 
+3.6.1 
+Population maps ...................................................................................................................... 18 
+3.7 
+Addressing large differences between Oct 2023 and the current release .................................. 18 
+4. 
+Key background reading ...................................................................................................................... 20 
+5. 
+References cited .................................................................................................................................. 21 
+Appendix 1.  
+Accessing Code, datasets, and results ................................................................................. 24 
+Appendix 2.  
+Why was the deforestation module not used? ............................................................... 25 
+Appendix 3.  
+Responses to public comments ....................................................................................... 27
+=== PAGE 4 ===
+ 
+ 
+1 
+1. 
+ Executive Summary  
+1. 
+This executive summary outlines key findings from the MoFuSS model (Modeling Fuelwood Saving 
+Scenarios), applied to various countries in the Global South. It presents business-as-usual scenarios 
+extending to 2030, with a spatial resolution of 1km. MoFuSS is a peer-reviewed simulation model 
+initially developed to estimate CO2 emission reductions from traditional woodfuel harvest and use, 
+comparing business-as-usual with intervention scenarios. To ensure thoroughness, MoFuSS has 
+evolved into a sophisticated geospatial modeling tool, incorporating various land change drivers, 
+woodfuel demand sources, and end-user technologies. 
+2. 
+For this analysis, MoFuSS was simplified to estimate the fraction of Non-Renewable Biomass (fNRB) 
+across three hierarchical administrative levels in 75 countries of the Global South including 98% of the 
+global population using wood and charcoal as their primary cooking fuel. fNRB is a key metric used to 
+calculate carbon emission reductions from interventions that reduce demand for fuelwood or charcoal. 
+It is defined as the ratio of losses in aboveground woody Biomass (AGB) stocks over a specific period 
+to the total woodfuel (fuelwood plus charcoal) consumption in the same period.  
+1.1 
+Summary of results 
+3. 
+The global average fNRB of the 75 countries included in the assessment is 32% ± 18% (spatial mean ± 
+standard deviation). Regionally, Sub-Saharan Africa (SSA) has the highest fNRB, at 39% ± 17%, followed 
+by Latin America and Asia, with 33% ± 14% and 17% ± 21% respectively (             Table ES1).1  
+             Table ES1: Regional fNRB values 
+Region 
+fNRB 
+Std deviation 
+Asia 
+17% 
+22% 
+Latin America 
+33% 
+14% 
+Sub-Saharan Africa 
+39% 
+17% 
+Global 
+32% 
+18% 
+4. 
+At the national level, we find fNRB values ranging between 1% and 70%, with the interquartile range 
+(representing the middle half of national values), falling between 21% and 40%. The highest national 
+fNRB estimates occur in semi-arid countries in the Sahel, followed by several countries in East and 
+Southern Africa and East Asia. See Table 5 in the Results section for the full list of national fNRB 
+estimates. 
+5. 
+To estimate urban fNRB, we assume that woodfuels consumed in towns and cities are harvested and 
+transported from rural areas. As they are exploited commercially, urban fuelwood and charcoal tend 
+to have higher impact than wood harvested for subsistence use by rural households. To account for 
+this, we carry out a simple statistical analysis that takes a weighted average of the rural administrative 
+units with higher fNRB. This results in estimates of urban fNRB that are several percentage points 
+higher than the national average. For example, we estimate that Sierra Leone’s national fNRB is 40% ± 
+ 
+1 We present global and regional averages for illustrative purposes. National and sub-national values are more 
+appropriate to assess project-level impacts.
+=== PAGE 5 ===
+ 
+ 
+ 
+2 
+15%. fRNB in its four main administrative units ranges from 36 to 50, and we calculated that fNRB in 
+Freetown and other urban centers would be 42% ± 15%.  
+1.2 
+Key changes between October 2023 and this report 
+6. 
+After the preliminary fNRB results for Sub-Saharan Africa were submitted to the CDM in October 2023, 
+several key assumptions were changed in response to feedback from key stakeholders. In addition, the 
+scope of the assessment was expanded to encompass the entire Global South. These changes required 
+the use of different input datasets and several modifications to the model itself.  
+7. 
+For clarity, below we list the most critical modifications and new datasets recently introduced, ranked 
+by their impact on the differences between the new results and those presented in October 2023 for 
+Sub-Saharan Africa. 
+a) 
+Population maps: We transitioned from HSRL to WorldPop (https://www.worldpop.org/) to 
+include countries not covered by HSRL, such as China and others in Asia and Africa. 
+b) 
+Revegetation Growth Curves: The submodule for generating revegetation growth curves was 
+completely recoded. In the previous approach, we estimated growth functions from the IPCC’s 
+biomass stock estimations. However, we discovered that this led to growth rates that observed 
+standing stocks of biomass in two of the 680 land-cover categories. In addition, in very arid 
+areas, we found that available biomass was less than the model’s minimum harvestable 
+threshold (1 ton/ha for charcoal production and 0.1 ton/ha for gathered fuelwood), which 
+caused the model to output physically impossible negative harvest and fNRB values in a small 
+number of pixels. This was corrected to avoid those outputs.2 
+c) 
+Regional boundaries in Sub-Saharan Africa: We have redefined the regional boundaries in Sub-
+Saharan Africa based on recent reviews of international illegal woodfuel trade, and we have 
+increased the friction parameter for crossing international borders. 
+d) 
+Woodfuel consumption: All fuelwood and charcoal demand figures have been thoroughly 
+reviewed in response to public comments. 
+1.3 
+How to interpret results 
+8. 
+In geospatial analysis and modeling, the resolution of map layers being processed, and the time of 
+analysis are of paramount importance. Even though we are presenting results by administrative units, 
+as requested by CDM, all input, temporal, and output layers in MoFuSS are invariantly a rectangular 
+matrix of pixels, or so called “raster maps.” The size of each pixel or cell becomes important because 
+they represent features in the real world. In the present analysis, all input layers at 30, 90, 100, 300 
+and 500m were resampled using appropriate procedures into 1 km pixels.3  
+9. 
+Regarding temporal resolution, MoFuSS operates with annual increments from 2010 to 2050. The 
+summary results for the current decade (2020-2030) are provided as per the requirements of the CDM. 
+MoFuSS is a dynamic geospatial model, which means it reflects temporal changes in land use. For 
+ 
+2 Throughout the report we use “tons” as shorthand for “metric tons”. 
+3 Note, many landscape and climate models global coverage work at resolutions of 10 or 300 km per pixel.
+=== PAGE 6 ===
+ 
+ 
+ 
+3 
+instance, an area cleared for charcoal production in the first year is recorded as deforested during that 
+year but may experience regrowth in subsequent years. Employing decadal intervals to report data is 
+a conservative approach (towards higher values of fNRB) as revegetation can often extend beyond a 
+decade, particularly in regions where woodfuel demand is projected to decrease to zero by 2050. 
+1.4 
+Uncertainty  
+10. 
+Several of the input parameters are uncertain, which propagates through the analysis, affecting the 
+key outcomes. We demonstrate this uncertainty by running Monte Carlo simulations. In this 
+assessment, we focused on uncertainty in growth rates, which is the main driver of uncertainty in the 
+model. We report uncertainties as standard deviations of harvest, NRB, and fNRB resulting from 30 
+Monte Carlo model runs in which each run includes a randomly selected value of “rmax”, which is the 
+parameter that defines the shape of the biomass growth functions for a given ecological zone, from a 
+truncated normal distribution of potential values. 4 
+1.5 
+Validation and next steps 
+11. 
+Validating fNRB estimations on a global scale is not feasible, because it is difficult to attribute observed 
+changes in above ground biomass( AGB) to specific causes at such broad scales. However, it is possible 
+to validate assumptions at smaller scales by looking at past changes in tree cover in known woodfuel 
+extraction areas. It is also possible to use observed changes in tree cover to exclude unrealistically high 
+fNRB values by assuming all change is due to wood harvesting. Moreover, in extensive cookstove 
+projects that significantly decrease woodfuel demand, variations in AGB trends before and after the 
+intervention might eventually become detectable through remotely sensed data.  
+12. 
+All of these are potential paths to validate the results presented in this assessment. While validation 
+was not part of this assignment, the MoFuSS developers are planning to undertake a series of validation 
+studies in the coming year. The MoFuSS team is currently exploring collaborations with researchers 
+who develop high-resolution tree cover and tree growth maps including CTrees and Chloris Geospatial. 
+We anticipate initial results by mid-2025. 
+ 
+ 
+ 
+4 The distribution is truncated to avoid including negative growth rates, which are not possible.
+=== PAGE 7 ===
+ 
+ 
+ 
+4 
+2. 
+Introduction  
+13. 
+This report describes the development of new default values for the fraction of non-renewable biomass 
+(fNRB), which will be used to evaluate emissions reductions from interventions that displace 
+unsustainable consumption of fuelwood and/or charcoal.  
+2.1  
+What is fNRB? 
+14. 
+Wood can be considered a conditionally renewable resource [1]. Trees grow naturally in many 
+environmental conditions and if wood is harvested at or below the rate at which it naturally 
+regenerates, then harvesting is sustainable. However, if more wood is harvested than the landscape 
+can replace, as is often the case in low- and middle-income countries (LMICs) where people rely heavily 
+on fuelwood and charcoal, harvesting is not sustainable and tree cover will decline over time. This 
+causes landscape degradation and may also contribute to long-term deforestation. fNRB is a measure 
+of the relative amount of wood that is harvested above the landscape’s natural rate of regeneration.  
+15. 
+Interventions that support transitions to more efficient cooking practices can reduce forest 
+degradation — as well as climate-warming emissions — because trees that would have been harvested 
+if the intervention had not been introduced, remain standing. Likewise, any carbon that would have 
+been emitted as CO2 remains sequestered in those trees. Reliable estimates of fNRB ensure the 
+integrity of carbon emission reductions from clean cooking interventions because real emission 
+reductions are only attributable to the fraction of harvested wood that would not have regenerated 
+naturally. Higher values indicate that large percentages of wood harvest are non-renewable and 
+successful interventions can claim higher emission reductions. Conversely, lower values of fNRB 
+indicate that smaller percentages of wood harvest are non-renewable, and interventions can claim 
+fewer emission reductions. However, if projects rely on fNRB estimates that are higher than the actual 
+value, then they are claiming more emission reductions than their projects are achieving, which 
+damages mitigation efforts and risks the reputation of all clean cooking activities. 
+2.2 
+ How is fNRB used in carbon offset methodologies? 
+16. 
+fNRB has been integral to carbon offset methodologies for woodfuel interventions since the first 
+projects were developed in the late 2000s. However, the first methodologies relied on vague, semi-
+qualitative approaches to determine fNRB, which likely contributed to overestimates of the mitigation 
+potential of these activities. For example, the Clean Development Mechanism’s (CDM’s) first clean 
+cooking methodologies, released in 2008, required project developers to “determine the share of 
+renewable and non-renewable biomass” by assuming that renewable biomass originated on land 
+under formal management or land set aside for conservation purposes and that biomass coming from 
+other regions was non-renewable [2,3]. This dichotomous approach did not account for the many trees 
+that grow in areas that are not under formal management or set aside for conservation. Voluntary 
+methodologies adopted slightly more quantitative and prescriptive approaches to assess fNRB, but still 
+resulted in inaccurate estimations. For example, the Gold Standard’s “Methodology for Improved 
+Cook-stoves and Kitchen Regimes V.01” also released in 2008, suggested that project developers “Use 
+credible information sources, field surveys, or both, to ascertain the amount of woody biomass that is 
+re-generating each year” in the project area [4]. The methodology included a relatively simple equation 
+to estimate fNRB based on a number of parameters; however, it offered no guidance about what 
+information is “credible” or how to design field surveys to determine woody biomass regeneration 
+rates accurately. Woody biomass growth rates cannot be determined through traditional surveys. Field
+=== PAGE 8 ===
+ 
+ 
+ 
+5 
+assessments are quite difficult and require observation of multiple sites over many years, which is 
+beyond the capacity of most project developers. 
+17. 
+Over time, both CDM and voluntary methodologies were modified to remove some of the guesswork 
+that characterized the first methodologies. In 2017, the CDM released “TOOL30 - Calculation of the 
+fraction of non-renewable biomass”, which has since been modified several times [5]. The latest 
+version of TOOL30 suggests two ways to assess fNRB. The first option is to use 30% as a conservative 
+default value, which is based on the results of research designed by this team together with other 
+colleagues [6]. That research used the WISDOM model [7], which is explained in more detail below. 
+The second option calculates fNRB by using a similar approach as the Gold Standard’s 2008 
+methodology but removes some ambiguity by providing more guidelines and suggesting specific data 
+sources. In addition, if project developers use the second option, they are asked to compare their 
+estimates to “relevant scientific literature” and to “justify any differences”. However, it is not clear 
+whether this comparison has been enforced by verification bodies and whether it resulted in any 
+downward adjustments of fNRB claims. We propose changes to TOOL30 in the Results section below.  
+2.3  
+The first Global fNRB Assessment 
+18. 
+The 30% default value for fNRB recommended in TOOL30 was based on research published in 2015 
+using the WISDOM model [6]. WISDOM uses a snapshot in time to estimate imbalances in wood supply 
+and demand. In the 2015 study, together with colleagues, we constructed a pan-tropical model that 
+estimated sub-national fNRB values in 1st-level administrative units (e.g. provinces, states, etc.) in 90 
+countries. The model used global datasets for wood supply and demand which were the best available 
+at the time. The average fNRB across those 90 countries was roughly 30%, which inspired the 
+conservative default value recommended by TOOL30. However, results showed substantial geographic 
+variation in fNRB values, which raises doubts about the suitability of a single global default. In some 
+well-forested or sparsely populated areas, fNRB was considerably lower than 30%, while “hotspots” in 
+East Africa and South Asia had fNRB values exceeding 50%. The majority of sub-national areas had fNRB 
+values between 20 and 40%. Woodfuel projects registered at the time typically claimed between 80 
+and 100%, which has raised concerns about over-crediting and raised doubts about the value of carbon 
+credits from clean cooking [8]. 
+2.4  
+Reassessing fNRB 
+19. 
+The integrity of emissions reductions is considered paramount to a functioning carbon market. The 
+WISDOM-based analysis influenced clean cooking methodologies via TOOL30, but only as an option 
+that few if any project developers have used. Some large carbon offset buyers have used the 30% 
+global average from that assessment to set a cap on what future projects can claim. Other market 
+actors have called for more national or sub-national default values. Such values were published with 
+the 2015 WISDOM assessment. However, the input data used in that study are outdated and the key 
+assumptions used may no longer be applicable.  
+20. 
+To fill the need for new default values, CDM commissioned this research. The objective is to update 
+fNRB estimations using the latest available data on woody biomass supply and demand. This 
+assessment uses the MoFuSS model, which was developed by scientists from the National Autonomous 
+University of Mexico (UNAM) and Stockholm Environment Institute (SEI) [9,10]. MoFuSS relies on the 
+same basic concepts used by WISDOM, with several key differences. Where WISDOM uses a snapshot 
+in time, MoFuSS runs multi-year simulations, which allow users to compare intervention and non-
+intervention scenarios that incorporate dynamic variables like population growth, urbanization, and
+=== PAGE 9 ===
+ 
+ 
+ 
+6 
+land cover change. In addition, though it requires some expertise to run, MoFuSS is built with freely 
+available software using open-source code, making it transparent and accessible. We provide links to 
+the code and other key resources in Appendix 1. 
+21. 
+MoFuSS is a bottom-up spatial model that can be aggregated to any level, allowing for fNRB estimates 
+to be made for any administrative unit (districts, counties, states, provinces, etc.) as well as project-
+specific areas that cut across administrative boundaries. In addition, the model developed for this 
+project relies on harmonized global datasets that are regularly updated, which will make it easy to 
+periodically update the fNRB defaults. While these are clear advantages over previous approaches to 
+fNRB assessment, MoFuSS is a complex model, and specialized knowledge is required to understand 
+and interpret the input data, intermediate outputs, and final results. In the sections that follow, we 
+review the basic architecture of the model, key assumptions, and sources of data and results.  
+2.4 
+ Key assumptions in MoFuSS 
+22. 
+MoFuSS relies on several dozen parameters to model land cover change associated with woodfuel 
+harvesting. Here we list and briefly describe the main assumptions that MoFuSS uses to estimate non-
+renewable biomass demand in a given locality [See appendix 1 and 2 for a full description].  
+2.5  
+Biomass stocks  
+23. 
+This data tells us how much biomass exists in a pixel in the initial year of the simulation, which 
+contributes to the available supply for harvesting and the potential for future growth. There are several 
+global maps of above-ground biomass (AGB) available that we can use in the model including: 
+a) NASA Global Aboveground and Belowground Biomass - these maps show wood biomass carbon 
+density at 300m resolution for 2010. This data has undergone validation [11]. The Africa portion of 
+the dataset is derived from ALOS PALSAR data [12]. The data show moderately good agreement 
+with LiDAR-based observations (84% correlation) and with field data from 144 plots [12]. However, 
+the NASA dataset may underestimate standing biomass in semi-arid open-canopy landscapes.5  
+b) World Conservation Monitoring Centre - this map shows above- and below-ground wood carbon 
+stocks in tons per hectare for ~2010. The resolution is ~300m and the data has not undergone any 
+validation. 
+c) Woodwell Climate Research Center (formerly Woods Hole Research Center) - this map shows 
+woody biomass density for tropical countries at 500m resolution for ~2012.  
+d) GFW Live Woody AGB Density - this map shows aboveground wood biomass at ~30m resolution 
+for the year 2000 but only applies to areas with non-zero tree canopy cover (so many trees outside 
+forests may be unaccounted for). 
+e) GlobBiomass - this map shows above ground wood biomass expressed in oven-dry tons per hectare 
+at 100-150m resolution for 2010 
+ 
+5 Note this error would result in an upward bias in fNRB estimates.
+=== PAGE 10 ===
+ 
+ 
+ 
+7 
+24. 
+Note these datasets are all 10 or more years old. While this may miss some of the changes that have 
+occurred in the last decade, this is useful for our approach because we typically begin our simulations 
+using a base year ~10 years in the past and calibrate our models to observed changes that occurred 
+over leading up to 2010.  
+25. 
+The maps vary in year and uncertainty, as well as the heterogeneity of data quality (e.g. some maps 
+have been well-validated in moist tropical regions but have greater uncertainty in dry forest regions). 
+The choice of map will lead to different values of initial biomass stock, which can vary across different 
+land cover types and sub-national administrative areas. Figure 1 shows the distribution of biomass in 
+Kenyan shrublands and forests from two of the data sources: WCMC and GlobBiomass.
+=== PAGE 11 ===
+ 
+ 
+ 
+8 
+Figure 1: Box-and-whisker plot showing the distribution of AGB stocks in measured in tons of dry matter per 
+hectare 2010 in common Kenyan land cover types from two biomass maps (the dark line shows the median of 
+biomass density, the upper and lower edges of the box show the first and third quartile, the upper and lower 
+“whiskers” show the minimum and maximum values, and circles show statistical outliers). 
+ 
+ 
+26. 
+Land cover categories are taken from a vector dataset of land cover types that we layered with the 
+biomass raster data (note, that the vertical axes differ in magnitude). The distributions show 
+differences. In GlobBiomass, the median biomass density in shrubland is zero but ranges as high as 200 
+t/ha. In contrast, the median biomass in WCMC’s data is ~20 t/ha and only ranges up to 100 t/ha.  
+27. 
+For this assessment we use the NASA dataset for several reasons:  
+a) The data is from 2010, which coincides with our base year 
+b) The coverage extends beyond tropical regions and includes biomass of non-dominant land cover 
+types within each pixel 
+c) The dataset has undergone validation and includes pixel-level uncertainty estimates
+=== PAGE 12 ===
+ 
+ 
+ 
+9 
+28. 
+In addition, while concerns about uncertainty introduced by the selection of one biomass map over 
+another are warranted, we accommodate this uncertainty by running Monte Carlo simulations. These 
+simulations yield a distribution of fNRB values based on the variability of key input parameters 
+(described in detail below).  
+2.6 
+Biomass growth functions  
+29. 
+These functions rely on two important parameters: annual growth rate and maximum stock within 
+each pixel.6 We use the following logistic (sigmoidal) growth function to simulate woody biomass 
+growth in each pixel and land-cover type:  
+𝐴𝐺𝐵(𝑡+1)𝑖,𝑗= 𝐴𝐺𝐵(𝑡)𝑖,𝑗+ 𝐴𝐺𝐵(𝑡)𝑖,𝑗⋅𝑟𝑚𝑎𝑥,𝑗⋅(1 −
+𝐴𝐺𝐵(𝑡)𝑖,𝑗
+𝐾𝑗
+) 
+Where: 
+○ 
+i and j are indices for pixel i in land cover type j  
+○ 
+ABG(t)i,j or ABG(t+1)i,j aboveground wood biomass in pixel i and land cover j at time t or t+1 
+○ 
+rmax,j is the slope at the inflection point of the sigmoidal growth function, which determines the 
+maximum growth rate of woody biomass in each land-cover type j 7 
+○ 
+Kj is the maximum woody biomass in land-cover type j (or “carrying capacity”) 
+30. 
+The growth function we use is a generic logistic function that simulates tree growth under competition: 
+growth starts slowly, accelerates, and then slows again as trees crowd each other out until stocks reach 
+a maximum. Simulation outcomes are sensitive to both rmax and K. For rmax, we use growth rates from 
+the IPCC’s 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories [13]. 
+The IPCC guidelines provide region-specific woody biomass growth rates for different global ecological 
+zones (GEZ) [14] and land-use land cover (LULC) categories [15]. Data are provided across three age 
+categories: “< 20 years after disturbance or establishment”, “> 20 years after disturbance or 
+establishment”, and “primary” or mature stands. We select values of rmax that result in the slope at the 
+inflection point of the sigmoidal growth function to align more “< 20 years after disturbance or 
+establishment”, which are the most appropriate values to simulate the maximum growth rate, which 
+occurs at the inflection point of the growth function (Table 1). 
+31. 
+Our maximum biomass stock estimates “K” are derived from the NASA Global Aboveground and 
+Belowground Biomass dataset described above. To obtain a reasonable estimate of the maximum 
+potential woody biomass stocks in each region/GEZ/LULC category while avoiding outliers, we mapped 
+the NASA data by regions, GEZ, and LULC category and ran zonal statistics to obtain the mean values 
+of points falling within the top decile. Table 1 shows the values we derived of both rmax and K for each 
+GEZ and LULC category in the Africa region.  
+32. 
+Both rmax and K are sources of uncertainty in biomass supply. To accommodate this uncertainty, we use 
+variation in both parameters (defined by standard deviations shown in Table 1) to run Monte Carlo 
+simulations. This process is discussed in more detail below.  
+ 
+6 Pixel size can vary, but models are generally limited by the lowest resolution input file. For our regional or global 
+model, we use 1km x 1km pixels. However, for sub-national or project-scale models we could use higher resolutions like 
+100m or 30m.  
+7 Note, rmax is not a direct estimate of the maximum growth rate. Rather, it is a parameter proportional to the maximum 
+growth rate such that maximum growth equals the product [¼ rmax K]. Applying this to the top row in Table 1 yields a 
+maximum growth rate of ~3.8 oven-dry tons per hectare per year.
+=== PAGE 13 ===
+ 
+ 
+ 
+10
+33. 
+In addition, MoFuSS can simulate future tree cover loss that might be caused by drivers unrelated to 
+woodfuel demand, such as agricultural expansion, but we do not predict future degradation. In areas 
+that are not affected by future tree loss, the simulation allows trees to grow to their full potential 
+unless they are affected by woodfuel harvesting. We base fNRB in part on that growth potential. 
+However, those regions may be affected by factors that contribute to degradation, such as grazing, 
+smallholder farming, low-intensity selective logging, altered fire regimes, pests, genetic erosion, topsoil 
+sterilization, among others, and reduce tree growth even in the absence of woodfuel demand. In that 
+case, those regions will never reach Kj.  
+Table 1: A selection of values of K and rmax and standard deviations used in the global model 
+GEZ and MODIS land cover category 
+rmax 
+rmax st dev 
+K 
+K st dev 
+SSA_Tropical dry forest_Evergreen Needleleaf Forests 
+0.18 
+0.16 
+85 
+3 
+SSA_Tropical dry forest_Evergreen Broadleaf Forests 
+0.07 
+0.06 
+216 
+12 
+SSA_Tropical dry forest_Deciduous Broadleaf Forests 
+0.15 
+0.13 
+105 
+26 
+SSA_Tropical dry forest_Mixed Forests 
+0.13 
+0.12 
+117 
+12 
+SSA_Tropical dry forest_Closed Shrublands 
+0.24 
+0.22 
+65 
+7 
+SSA_Tropical dry forest_Open Shrublands 
+0.22 
+0.2 
+70 
+7 
+SSA_Tropical dry forest_Woody Savannas 
+0.12 
+0.1 
+134 
+25 
+SSA_Tropical dry forest_Savannas 
+0.2 
+0.18 
+77 
+9 
+SSA_Tropical dry forest_Grasslands 
+0.25 
+0.23 
+62 
+7 
+SSA_Tropical dry forest_Permanent Wetlands 
+0.13 
+0.12 
+119 
+25 
+SSA_Tropical dry forest_Croplands 
+0.31 
+0.27 
+51 
+7 
+SSA_Tropical dry forest_Cropland/Natural Vegetation Mosaics 
+0.31 
+0.27 
+51 
+7 
+SSA_Tropical shrubland_Evergreen Broadleaf Forests 
+0.02 
+0.02 
+148 
+18 
+SSA_Tropical shrubland_Deciduous Broadleaf Forests 
+0.02 
+0.02 
+169 
+12 
+SSA_Tropical shrubland_Mixed Forests 
+0.03 
+0.02 
+141 
+17 
+SSA_Tropical shrubland_Closed Shrublands 
+0.04 
+0.04 
+81 
+5 
+SSA_Tropical shrubland_Open Shrublands 
+0.06 
+0.05 
+59 
+11 
+SSA_Tropical shrubland_Woody Savannas 
+0.03 
+0.02 
+132 
+12 
+SSA_Tropical shrubland_Savannas 
+0.04 
+0.04 
+91 
+18 
+SSA_Tropical shrubland_Grasslands 
+0.05 
+0.05 
+71 
+7 
+SSA_Tropical shrubland_Permanent Wetlands 
+0.03 
+0.03 
+110 
+15 
+SSA_Tropical shrubland_Croplands 
+0.07 
+0.06 
+54 
+8 
+SSA_Tropical shrubland_Cropland/Natural Vegetation Mosaics 
+0.17 
+0.15 
+21 
+7 
+2.6 
+ Accounting for other carbon pools 
+34. 
+MoFuSS focuses on stocks and growth rates of AGB, the main carbon pool on which woodfuel users 
+depend. However, other pools of terrestrial carbon like soil organic carbon (SOC) and dead organic 
+matter (DOM) may be affected by woodfuel harvesting, particularly if harvesting leads to forest 
+degradation or deforestation. The current version of MoFuSS does not account for changes in SOC and 
+only addresses DOM indirectly, as explained below.
+=== PAGE 14 ===
+ 
+ 
+ 
+11
+2.6.1 
+SOC 
+35. 
+MoFuSS cannot accommodate SOC. While there are global maps of SOC, these are snapshots and do 
+not demonstrate changes over time [16]. Changes in SOC resulting from woodfuel harvesting are not 
+well documented and are beyond the scope of the model. In addition, to our knowledge, changes in 
+SOC have not been identified as a major source of concern about inaccuracies in assessing emission 
+reductions from woodfuel-based carbon offset projects. 
+2.6.2 
+DOM 
+36. 
+DOM consists of two sub-pools of organic matter: dead wood and leaf litter. We treat leaf litter in the 
+same way as SOC; we acknowledge that pools of leaf litter may be affected by woodfuel harvesting, 
+but estimating these changes is beyond the scope of the model. In contrast, dead wood forms a source 
+of fuelwood, and reliance on deadwood could relieve pressure from standing stocks of living trees. 
+However, accounting for the use of deadwood in the regional model is difficult for several reasons:  
+a) There is no guidance from the IPCC. The Tier 1 recommendation from the 2006 edition of the IPCC’s 
+“Good Practice Guidelines” is to assume that “dead wood and litter carbon stocks are in 
+equilibrium” [17 p. 4.20]. While it’s not clear if the assumption of equilibrium applies to areas 
+where people harvest woodfuel, it is likely valid for a “first-order” approximation. Most of the areas 
+from which people harvest woodfuel are continually harvested. While our modeling period 
+includes a starting year, woodfuel consumption predates our simulations. It’s unlikely that large 
+stocks of deadwood accumulated during one year, affecting the way people harvest from living 
+trees in subsequent years. An exception would be newly cleared land, which we can address (see 
+Comment 3 below).  
+b) Including deadwood as a distinct source of supply would be very difficult without extensive data 
+collection that is beyond the scope of this study. There are no default values readily available. Table 
+2.2 from the IPCC’s 2006 Guidelines includes default values for litter, but the section of the table 
+for deadwood is filled with “n.a.” for “not available” across all forest types. The IPCC’s 2019 
+“Refinement” provides no new information [18].  
+c) MoFuSS has an optional module that can accommodate pulses of dead wood that occur as a result 
+of land clearance. When that option is used, a fraction of the woody biomass that is cleared is 
+available for woodfuel consumers in the subsequent year. However, the land clearance option 
+relies on past patterns of land cover change to predict future tree clearance. This predictive 
+algorithm does not work well for multi-country models because there is too much variation in 
+factors driving tree loss. Therefore, the module was not used in this assessment.  
+2.7 
+Biomass consumption 
+37. 
+Both current and future biomass consumption are contributors to fNRB. Spatially modeling the impacts 
+of biomass consumption requires estimates of the quantity consumed and the location of consumers. 
+To estimate the quantity of wood and charcoal consumed, we rely on two simple parameters: the 
+number of users and the amount per user. The number of wood and charcoal users is based on WHO’s 
+recently updated “Global Household Energy Model”, which projects the number and percentage of
+=== PAGE 15 ===
+ 
+ 
+ 
+12
+people using primary household cooking fuels in rural and urban areas of low- and middle-income 
+countries.8 By not accounting for stacking, we may be introducing uncertainty in woodfuel demand. 
+However, it is unclear whether this leads to underestimates or overestimates. For example, a fraction 
+of the people counted as “primary charcoal users” may actually cook some of their meals with LPG or 
+fuelwood and use less charcoal than people counted as “primary charcoal users” who do not stack with 
+other fuels. In that case, we could be overestimating charcoal consumption. By the same token, a 
+fraction of the people counted as “primary LPG users” may cook with some of their meals with charcoal 
+and use less LPG than people counted as “primary LPG users” who do not stack with other fuels. This 
+could lead to an underestimation of charcoal consumption. The same applies to other categories of 
+primary fuel users. There is very little reliable data on fuel consumption among fuel-stacking 
+households. We would need to do detailed country-specific research to understand this better, which 
+was beyond the scope of this study. 
+38. 
+Figure 2 shows WHO projections for four African countries through 2050. Note the combined number 
+of wood and charcoal users in Kenya and Ethiopia is projected to peak before 2040, while consumption 
+in Nigeria and Malawi is projected to increase. We use these national projections disaggregated by 
+rural and urban regions for each country in the analysis. 
+2.8  
+Residential, commercial, and industrial woodfuel consumption 
+39. 
+The MoFuSS model focuses primarily on residential woodfuel demand. In some countries, there may 
+be industrial or commercial use of wood that affects tree cover. In earlier versions of MoFuSS, we 
+omitted that data because of a lack of reliable data that would allow us to map demand in the same 
+way that we map residential demand (described below). However, in response to public comments, 
+we attempt to account for non-residential woodfuel demand from commercial entities like hotels and 
+restaurants, public institutions like schools, prisons, and military barracks, and cottage industries like 
+brick burning, ceramics, beer brewing, and fish smoking among others. To include these sources of 
+demand, we did a limited literature review focused on sub-Saharan Africa.9 The results of this review 
+are shown in Table 2.  
+Table 2: Non-residential woodfuel consumption reported in four studies from East African countries   
+Country – year [ref] Units Rwanda - 2019 [19] Uganda - 2020 [20]b 
+Kenya - 2000 [21]c 
+Kenya - 2018 [22]d 
+Fuel 
+ 
+Wood 
+Charcoal 
+Wood 
+Charcoal 
+Wood 
+Charcoal 
+Wood 
+Charcoal 
+Public institutions a Mton 
+0.7 
+0.0 
+ 
+ 
+ 
+ 
+1.3 
+0.1 
+Restaurants / food 
+vendors 
+Mton 
+0.1 
+0.2 
+1.3 
+0.4 
+Tea drying 
+Mton 
+0.016 
+0.2 
+ 
+Tobacco curing 
+Mton 
+0.1 
+ 
+Brickmaking 
+Mton 
+0.22 
+0.1 
+ 
+Other industry 
+Mton 
+0.2 
+ 
+ 
+8 Urban woodfuel users rely primarily on commercially supplied fuelwood and charcoal, which is usually transported by 
+road from distant rural areas. Rural users generally gather wood from nearby. These different harvesting practices result 
+in different geographic patterns of impacts, which we model using different algorithms.  
+9 This project did not include sufficient time or budget to collect data from all regions.
+=== PAGE 16 ===
+ 
+ 
+ 
+13
+Total non-
+residential 
+Mton 
+1.0 
+0.2 
+0.5 
+0.3 
+1.8 
+0.4 
+1.3 
+0.1 
+Residential 
+Mton 
+6.0 
+0.3 
+15.2 
+2.4 
+15.9 
+2.3 
+9.6 
+2.0 
+Non-residential as 
+pct of residential 
+% 
+17% 
+59% 
+3.3% 
+11% 
+14% 
+3% 
+11% 
+19% 
+Table notes: 
+a. Public institutions include schools, restaurants, prisons, military barracks, and health clinics.  
+b. The analysis from Uganda includes tea factories, soap making, beverage preparation, sugar, bakeries, and 
+brick making. Industries include tea factories, soap industries, beverage industries, sugar industries, bakeries, 
+and brickmaking. However, the report does not disaggregate wood consumption by industry. 
+c. “Other industry” from Kenya’s 2000 survey includes dairy, jaggary, and fish smoking.  This study did not 
+include public institutions. 
+d. This report did not include commercial or industrial woodfuel consumption - only public institutions. 
+40. 
+From Table 2, it is apparent that non-residential woodfuel consumption is small but significant in the 
+four countries that were reviewed. While these four studies are not generalizable to other countries 
+and regions, in the absence of additional data, we use the results as general guidelines to adjust 
+woodfuel consumption throughout the assessment. To do so, we create fuelwood and charcoal 
+multipliers of 1.1 and 1.2 respectively, effectively increasing modeled fuelwood demand by 10% and 
+charcoal demand by 20% to account for non-residential uses. When carrying out detailed, country-
+specific studies, these multipliers can be adjusted based on data obtained from sources within each 
+country.     
+2.9 
+ Accounting for non-energy wood demand and timber plantations  
+41. 
+In addition to non-residential energy consumption, all countries consume wood for non-energy 
+applications like building materials and timber exports. Much of the supply of this form of industrial 
+wood originates from plantations, which are often managed sustainably. Moreover, plantations are 
+generally inaccessible to woodfuel consumers, so they do not form a part of the supply-demand 
+dynamic that we are modeling.  
+ 
+Figure 2: Estimated population of primary cooking fuel users for a selection of African countries from WHO’s Global HH 
+Energy Model (2010-2050) [23,24] 
+ 
+ 
+Millions of people
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2010
+2020
+2030
+2040
+2050
+Kenya
+Biomass
+Charcoal
+Kerosene
+Coal
+Gas
+Electricity
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+2010
+2020
+2030
+2040
+2050
+Ethiopia
+Biomass
+Charcoal
+Kerosene
+Coal
+Gas
+Electricity
+0
+50
+100
+150
+200
+250
+300
+350
+400
+2010
+2020
+2030
+2040
+2050
+Nigeria
+Biomass
+Charcoal
+Kerosene
+Coal
+Gas
+Electricity
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+2010
+2020
+2030
+2040
+2050
+Malawi
+Biomass
+Charcoal
+Kerosene
+Coal
+Gas
+Electricity
+=== PAGE 17 ===
+ 
+ 
+ 
+14
+42. 
+Nevertheless, this raises questions about how MoFuSS should treat tree plantations in assessing 
+biomass supply. If industrial plantations are effectively off-limits to woodfuel consumers, then they 
+could arguably be made more difficult to access, in the same way that MoFuSS makes protected areas 
+difficult to access. However, unlike protected areas, we do not have accurate maps of forest 
+plantations for most countries. There is a recent database of tree plantations, but it has very limited 
+coverage in sub-Saharan Africa [25]. Therefore, the regional MoFuSS model does not account for forest 
+plantations. This may raise some concerns about inaccuracies; however, any inaccuracies as a result of 
+ignoring plantations are likely minimal. For example, South Africa, which has a very mature forestry 
+industry, has a little over 2 million hectares of forest plantations, which is less than two percent of the 
+country’s total land area [25].  
+2.11  Quantifying household woodfuel consumption 
+43. 
+To estimate the quantity of fuelwood and charcoal consumed, we relied on a mix of CDM default values 
+and regionalized estimates from existing project documents, which were cross-referenced with data 
+from household surveys and field measurements. 
+44. 
+For fuelwood, CDM recommends a default of 400 kg (wet) per person per year for carbon offset 
+methodologies [26].  Our analysis expresses woody biomass in oven-dry terms. Cut, air-dried wood 
+varies in moisture content, but it is reasonable to assume that air-dried fuelwood has a 20% moisture 
+content (measured on a wet basis)10. Thus, the CDM’s default value of 400 kg (wet) represents about 
+320 kg of oven-dry wood per person. This is lower than most data suggest. For example, a review of 
+baseline wood consumption in CDM projects claimed in Project Design Documents (PDDs) conducted 
+by CDM indicates that registered projects observe higher consumption in most regions, particularly in 
+Latin America (Table 3 – middle columns). Estimating consumption based on global datasets also 
+results in higher per capita fuelwood use than the CDM default (Table 3 - right column). 
+Table 3: Average annual consumption of woody biomass per person  
+Region 
+N 
+Annual per capita consumption (kg) 
+  
+Regional average of UN 
+and DHS data (kg) 
+PDD value*  
+PDD adjusted to oven-
+dry weight  
+Sub-Saharan Africa 
+58 
+0.87 
+0.70 
+0.59 
+Latin America 
+6 
+1.11 
+0.89 
+1.10 
+East Asia 
+10 
+0.95 
+0.76 
+0.44 
+South Asia 
+35 
+0.4 
+0.32 
+0.57 
+Total 
+109 
+0.74 
+0.59 
+0.62 
+* Assuming the PDD value is given as “air-dry” wood 
+45. 
+Similarly, data from Kitchen Performance Tests submitted to this team by project developers also 
+indicates that annual wood consumption exceeds 400 kg per year in most project settings. In 
+acknowledgment of these disparities, the team adjusted wood consumption upwards. Regional values 
+are given in Table 4. 
+46. 
+Charcoal consumption is estimated by assuming households consume a similar quantity of “useful 
+energy” as those households that use fuelwood. This is a simple calculation using calorific values and 
+ 
+10 Wood moisture can be expressed on a wet- or dry-basis [see Section 5.1 of reference 27 for a full explanation].
+=== PAGE 18 ===
+ 
+ 
+ 
+15
+stove efficiencies of both fuelwood and charcoal.11 Regional charcoal consumption values are also 
+given in Table 4. These estimates also align with data provided by project developers.  
+Table 4: Regional per capita wood and charcoal consumption used for this assessment 
+Region 
+Fuelwood  
+(oven-dry tons/person-year) 
+Charcoal 
+(tons/person-year) 
+Sub-Saharan Africa 
+0.40 
+0.16 
+Latin America 
+1.10 
+0.18 
+East Asia 
+0.44 
+0.16 
+South Asia 
+0.40 
+0.25 
+Other regions 
+0.62 
+0.16 
+ 
+47. 
+To simulate the impacts of charcoal consumption in MoFuSS, we need to account for the wood that is 
+required to produce charcoal. To do this, we multiply the consumption from Table 4 by a conversion 
+factor. We use the FAO default of 6 units of wood per unit of charcoal [28].12   
+48. 
+The location of biomass users is also an important determinant of impacts. For example, people close 
+to an abundant source of wood will have a lower impact than people for whom nearby wood is scarce. 
+To estimate the location of woodfuel users, we developed the following three-step process:  
+ 
+ 
+11 These conversions assume wood stoves are 15% efficient, oven-dry wood has a calorific value of 18 MJ/kg, charcoal 
+stoves are 25% efficient, and charcoal has a calorific value of 27 MJ/kg. 
+12 The CDM default wood to charcoal conversion ratio was recently changed from 6:1 to  4:1 [26]; however we feel that 
+the new value is too conservative and not supported by data. For a review of charcoal conversion efficiency in traditional 
+kilns, see [29].
+=== PAGE 19 ===
+ 
+ 
+ 
+16
+Figure 3: WorldPop map showing population density deciles in Kenya 
+ 
+ 
+a) Step 1: Obtain spatial population distribution data. For this, we use population density maps 
+published by WorldPop, which has recent, freely available, high-resolution data for all countries 
+included in this study. Figure 3 shows an example of WorldPop data from Kenya.
+=== PAGE 20 ===
+ 
+ 
+ 
+17
+Figure 4: Rural and urban populations in Kenya based on population density from WorldPop 
+ 
+ 
+b) Step 2. Map fuel use among the population. For this, we use the WHO’s projections of populations 
+using different primary cooking fuels, disaggregated by urban and rural sub-populations. However, 
+WorldPop’s spatial data doesn’t differentiate between urban and rural areas. To make this 
+distinction, we define urban and rural areas by ranking all pixels from the WorldPop map by 
+population density in descending order and defining a cutoff such that the cumulative sum of pixels 
+in descending order equals UNDESA’s estimate of the country’s urban population in that base year 
+[30]. The pixels that add to the urban cut-off are defined as urban and the remaining pixels are 
+defined as rural. Figure 4 shows the results of applying this step to Kenya. Note, that this process 
+introduces a risk of classifying very high-density rural areas as urban but this is unlikely to have a 
+large impact on the results of the analysis. In addition, for MoFuSS simulations, we assume that 
+urban and rural areas remain fixed in space, but populations grow through the simulation period 
+according to UNDESA projections [30].13 
+ 
+13 This assumption is not necessarily accurate, but it is beyond the scope of this model to predict how urban areas will 
+change and grow over a 20- or 30-year period.
+=== PAGE 21 ===
+ 
+ 
+ 
+18
+c) Step 3. Create a map of wood and charcoal demand. Using the urban and rural population maps 
+defined in the previous step, we use WHO’s estimates of urban and rural fuel use to distribute 
+wood and charcoal demand throughout each country. Figure 5 shows a map of cumulative 
+woodfuel consumption between 2010 and 2050 for Kenya. 
+ 
+Figure 5: Woodfuel consumption between 2010 and 2050 measured in tons per km2 
+ 
+2.12 
+Spatializing biomass harvesting  
+49. 
+In the previous section, we described how biomass consumption scenarios were produced by 
+integrating several datasets. However, these results show where biomass is actually used, but not 
+necessarily harvested. Both WISDOM and previous versions of MoFuSS use some sort of accessibility 
+analysis whose description is beyond the current report [9]. However, there are two key innovations in 
+this version of MoFuSS:  
+2.12.1 Pressure maps 
+50. 
+Pressure maps show the likelihood of wood harvest across the landscape based on demand and 
+accessibility in populated areas. This analysis accounted for wood and charcoal demand across millions
+=== PAGE 22 ===
+ 
+ 
+ 
+19
+of populated pixels spread throughout the world. Figure 6 shows this for a region of Southern Africa. 
+The top part of Figure 6 shows pressure from commercially traded fuelwood and charcoal, and the 
+bottom shows pressure from demand for fuelwood collected by rural households for their own use. 
+Commercial supply is dependent on roads, which is clear from the upper map. In contrast, subsistence 
+collection is more diffuse and not as reliant on road networks. Using MoFuSS, we calculated pressure 
+maps for all populated points, which we use to create maps of biomass harvesting over the continent. 
+The underlying code that generates pressure maps is available on GitHub. For a detailed description of 
+how the pressure maps are created see Ghilardi et al. 2016 [9].  
+ 
+Figure 6: Pressure map to seed biomass harvesting locations to meet demand for charcoal and commercially 
+traded fuelwood (top) and fuelwood collected by rural households (bottom).
+=== PAGE 23 ===
+ 
+ 
+ 
+20
+2.12.2 Annual reassessments 
+51. 
+Pressure maps are dependent on demand. Our simulations account for population growth, 
+urbanization, and “business-as-usual” shifts in fuel choice over time, as forecast by WHO [23], which 
+result in changes in demand for both collected and marketed woodfuels. To accommodate these 
+changes, we generated hundreds of millions of accessibility maps needed to account for changing 
+population distribution using self-collected and commercial woodfuels across all world regions 
+between 2010 and 2030. This was accomplished by developing novel code in C++ and using high-
+performance computing. Figure 7 shows populated places in Haiti and the Dominican Republic. Each 
+dark point represents a 1 km pixel with people. The map of populated places is overlain on NASA’s AGB 
+map for the two countries.  
+ 
+Figure 7: Populated places in Haiti and the Dominican Republic overlain on an AGB map for both countries
+=== PAGE 24 ===
+ 
+ 
+ 
+21
+2.13 
+The relationship between woodfuel consumption and fNRB 
+2.13.1  Tool30 
+52. 
+Under the TOOL3014 methodology, fNRB increases with consumption. For example, if we combine 
+Equations 1 and 2 from TOOL30, then for a given land cover category, we get: 
+ 
+𝑓𝑁𝑅𝐵= (1 −
+𝑅𝐵
+𝐻) = (1 −
+𝑀𝐴𝐼
+𝐻) 
+Eq. 1 
+ 
+53. 
+This results in a relationship like the plot in Figure 8 (note the x-axis is logarithmic). 
+Figure 8: fNRB as a function of H (with H expressed as a % of MAI) 
+ 
+54. 
+However, in reality, MAI is not a constant. Rather it varies over time and with standing stock [31]. MAI 
+is affected by harvesting and can actually increase after a harvest event as a result of reduced 
+competition for light and nutrients. MoFuSS avoids using MAI and uses growth curves as explained 
+above. However, this makes it difficult to predict how the model responds to different harvest regimes 
+because the response depends on the growth function parameters discussed in the previous sections.  
+2.14 
+Calculating fNRB 
+55. 
+There are multiple ways to use the changes in biomass simulated by MoFuSS to estimate fNRB. In this 
+assessment, we estimate fNRB within a given administrative boundary by identifying pixels within the 
+boundary that experience biomass losses during a specific timespan. This wood loss is defined as non-
+renewable biomass or NRB. To estimate fNRB, we sum the losses occurring within the administrative 
+boundary of interest and divide that by the total biomass harvest within that same boundary. Please 
+refer to the supplementary material of Ghilardi et al 201615 [9] for a detailed description of how harvest 
+events and natural regrowth of woody biomass interact in MoFuSS over space and time to render pixel-
+based results of NRB.  
+ 
+14 https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-30-v4.0.pdf/history_view 
+15 https://docs.google.com/document/d/140duZZaBIUuCG7nvgHwsdw7Wkm2Nce7cenEpEHEvgqI/edit
+=== PAGE 25 ===
+ 
+ 
+ 
+22
+2.15 
+Biomass harvest and NRB in MoFuSS 
+56. 
+The spatial distribution of fuelwood harvesting and collecting sites is determined in part by their 
+proximity to demand centers, or places where woodfuels are actually used. The seeding of harvesting 
+sites during any time step is based on pressure maps, a stochastic component, and overall fuelwood 
+demand in populated areas, which, in this study, are represented by 3.3 million villages, towns, and 
+cities across sub-Saharan Africa, Latin America and Asia.  
+57. 
+The overall woodfuel demand for each time step is distributed in space as harvest events following 
+equation 2: 
+ 
+ 
+𝑝𝑓𝑤(𝑡)𝑗,𝑘= 𝑃𝑥(𝑡)𝑗,𝑘∗
+∑
+𝐶𝑖𝑘
+⬚
+𝑖
+−𝑑𝑓𝑘
+∑
+𝑃𝑥𝑗𝑘
+⬚
+𝑗
+(𝑡)
+  Eq. 2 
+Where: 
+pfw(t)j,k is the expected amount of fuelwood harvested (in tons of dry matter) in pixel “j” during time 
+period “t”; k is an index of fuelwood harvesters; MoFuSS accounts for two types of harvesting: self-
+collection of fuelwood and commercial harvesting of both marketed fuelwood and wood used to 
+make charcoal.  
+Px(t)k is the pressure index from the “inverse distance weight” or IDW algorithm [see 9] over pixels 
+affected by harvesting events during time step “t” by collectors “k”.  
+C is woodfuel consumption (in tons of dry matter) within each locality, village, or city “i” 
+df is the overall amount of fuelwood in the study area available as a by-product of deforestation 
+events driven by factors agricultural expansion or other factors. 
+58. 
+In the model, each time step is one iteration (one year in this analysis) and n-steps constitutes a 
+simulation. MoFuSS runs for any specified simulation period times the number of Monte Carlo runs 
+that are set, producing three main output parameters: a) the remaining AGB stock (growth minus 
+harvest at t = n), b) NRB calculated in pixels where decreases in AGB have occurred (Eq. 3), and c) fNRB, 
+calculated as the fraction of total fuelwood consumption that is non-renewable. These three basic 
+outputs are modeled: 1) within each iteration (mimicking a static supply-demand analysis); 2) within 
+each simulation period; and 3) for the entire set of Monte Carlo realizations for NRB and fNRB.  
+ 
+𝑁𝑅𝐵𝑡=𝑛,𝑗= {
+0 𝑖𝑓 𝐴𝐺𝐵𝑡=𝑛,𝑗≥𝐴𝐺𝐵𝑡=0,𝑗
+𝐴𝐺𝐵𝑡=𝑛,𝑗−𝐴𝐺𝐵𝑡=0,𝑗 𝑖𝑓 𝐴𝐺𝐵𝑡=𝑛,𝑗< 𝐴𝐺𝐵𝑡=0,𝑗 
+Eq. 3 
+ 
+59. 
+Where NRB(t=n) is the amount of wood harvested from pixel “j” that results in a net decrease in AGB 
+between time t = 0 and t = n (expressed in tons of dry matter). In this study, n may correspond to the 
+40 year period between 2010 and 2050, or it can be sub-divided into other time increments (e.g. 2020-
+2030, 2030-2040, etc). Each Monte Carlo realization generates a different value of NRB(t=n) by 
+repeating Eq. (3) in each run. NRB(t=n) is calculated at the pixel-level, meaning that it does not account 
+for any increment of AGB occurring in areas where AGB(t=n) ≥ AGB(t=0). In other words, NRB(t=n) is 
+not the net decrease of AGB over the accessible area. Instead, it accounts for losses of AGB only in the 
+set of pixels where a loss occurred.
+=== PAGE 26 ===
+ 
+ 
+ 
+23
+60. 
+Finally, the fNRB, the ratio of NRB to wood harvested is calculated as in Equation 4: 
+ 
+𝑓𝑁𝑅𝐵(𝑡=𝑛),𝑗=
+𝑁𝑅𝐵(𝑡=𝑛),𝑗
+𝐻𝑗
+ 
+Eq. 4 
+ 
+Where Hj is the sum of woody biomass harvest between year 1 and n in pixel “j”. 
+  
+61. 
+It is important to stress that to apply fNRB in projects or programmes of activity, fNRB must be 
+aggregated from pixel-based values to a geographic area that is appropriate for the scale of the 
+intervention, which may be national or sub-national. To do this, the model aggregates NRB from each 
+pixel within a project boundary or administrative area and divides that by total consumption during 
+the same time period within the same boundary. This calculation is shown in Equation 5:  
+ 
+𝑓𝑁𝑅𝐵(𝑡=𝑛),𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑎𝑟𝑒𝑎= ∑𝑁𝑅𝐵(𝑡=𝑛),𝑗
+𝑗
+∑𝐻𝑗
+𝑗
+⁄
+  
+ 
+Eq. 5 
+62. 
+Where “j” is a pixel in the “project area” and “project area” is shorthand for a country, sub-national 
+administrative boundary, or any project-specific geographic boundary. However, the boundary should 
+be selected such that the area includes all likely harvest areas used by the target woodfuel consuming 
+population.  
+2.15.1  Use of deforestation by-products 
+63. 
+Most countries included in this analysis experience some annual loss of tree cover, which may 
+contribute to long-term deforestation. These losses are identified by tracking annual changes in canopy 
+cover using remotely sensed data [32]. Tree removals identified by remotely-sensed changes in canopy 
+cover are typically caused by land clearance for large-and small-scale agricultural expansion rather than 
+woodfuel harvesting [33]. However, in some situations, the by-products of land clearance are used for 
+firewood or charcoal production [29,34]. When this occurs, the harvested biomass is non-renewable 
+because land-clearance for agriculture makes it difficult for trees to regenerate; however, the biomass 
+does not contribute to (f)NRB because the trees would have been removed regardless of woodfuel 
+demand. Thus some fraction of demand might be satisfied with non-renewable biomass that does not 
+contribute to fNRB. The MoFuSS model includes an optional module that simulates these processes 
+and adjusts fNRB results accordingly. However, for this assessment study we did not use this feature 
+off due to a variety of reasons, which are explained in the Technical Appendices below. 
+2.15.2 Treatment of Protected Areas 
+64. 
+Protected areas add some uncertainty because they often contain large stocks of biomass, but the 
+extent to which the biomass is accessible for use as woodfuel is unclear. Some protected areas are 
+completely inaccessible, others may be used for low-level extractive activities like collecting wood for 
+household use, and still others might be legally inaccessible, but easily exploited due to poor 
+enforcement. In this assessment, it was considered that all protected areas are equally difficult (but 
+not impossible) to access for both self-collection and commercial extraction. This was accomplished by 
+increasing the “friction” or effort required to travel within the boundaries of protected areas relative 
+to unprotected areas with similar terrain. For this assessment, friction was increased by 90%, which
+=== PAGE 27 ===
+ 
+ 
+ 
+24
+means that the likelihood of wood harvesting within protected areas was only 10% that of unprotected 
+areas with similar terrain. 
+2.15.3 National boundaries and trade 
+65. 
+The sustainability of woodfuel consumption within national boundaries can be affected by 
+transboundary trade. For example, if Country-A has a major source of demand like a large urban center 
+close to its border with Country-B, then it is possible that Country-A imports charcoal from Country-B. 
+If that occurs, then County-A’s woodfuel supply-demand balance could be affected favorably because 
+those imports would reduce pressure on A’s own resources. By the same token, Country-B’s balance 
+would be affected negatively by the additional removals.  
+66. 
+In theory, MoFuSS can accommodate transnational trade; however, this is difficult in practice because 
+there is no reliable data quantifying the magnitude of the trade. FAO’s forest statistics database [35] 
+includes woodfuel imports and exports, but the accuracy of this data is unclear and there is no 
+information about trading partners  
+67. 
+In this analysis, we have run separate regional models with semi-permeable national borders, resulting 
+in some international flow of woodfuels within each region, but no flows between regions.16 Within 
+regions, crossing borders adds “friction” or travel time for wood suppliers, making it more costly, but 
+not impossible, for people to access wood in neighboring countries. Our final model includes a mix of 
+individual countries and countries clustered together to accommodate trade where we suspect it forms 
+a significant fraction of overall woodfuel consumption. We explain this in more detail in the section on 
+global divisions below.  
+2.15.4 Prune factor 
+68. 
+There are some technical parameters related to spatial modeling that could also affect the outcome. 
+MoFuSS decides which pixels are harvested in each time step (one year in the global model), and how 
+much wood will be harvested, based on probability maps that integrate accessibility and woodfuels 
+demand. However, actual wood harvesting is not entirely based on well-defined probabilities. When 
+simulating annual wood harvesting by millions of people across a landscape represented by millions of 
+pixels, there are stochastic or random elements that also drive people’s decisions. To include this, we 
+make assumptions about stochasticity by introducing a so-called “prune factor”. This factor allows the 
+model to run from fully deterministic in which people select pixels to harvest completely based on 
+probability maps, to fully stochastic, in which people harvest from pixels in a completely random 
+manner regardless of each pixel’s accessibility.  
+69. 
+The “prune factor” ranges between 0 and 100% and determines the extent of the landscape that will 
+be visited by wood harvesters. Because this regional assessment is conducted at 1 km resolution, we 
+choose 100% because it is realistic to think that every square kilometer may be visited at least once 
+annually. However, for sub-national or project-level simulations, which could be modeled at 1 hectare 
+or 30 m resolution, it is unrealistic for every pixel to be visited every year and we would adjust the 
+prune rate to something less than 100%. 
+ 
+16 If accurate information on trade becomes available, we could tune our approach to align with the available data. 
+However, collecting our own data is beyond the scope of this assignment.
+=== PAGE 28 ===
+ 
+ 
+ 
+25
+2.15.5 Assigning fNRB to urban locations 
+70. 
+MoFuSS was designed to assess the impacts of woodfuel consumption at the site of harvest. The model 
+determines fNRB by considering the ratio of woodfuel harvesting to consumption within a specified 
+area. This works at a national level because harvest and consumption are fully contained within 
+national boundaries (assuming imports and exports are minimal). Wood harvest within urban areas is 
+minimal, and most woodfuel-using urban households buy wood or charcoal that is brought from rural 
+areas. Moreover, commercially harvested urban woodfuels tend to drive degradation more than 
+woodfuels harvested for subsistence use by rural households because commercial extraction is more 
+intense and spatially focused [36]. We estimate urban fNRB by assuming urban woodfuels originate 
+from high-fNRB administrative units in rural areas and define urban fNRB in each country as the 
+average of the upper 50% percentile of all rural administrative units.  
+71. 
+The resulting calculations yield urban fRNB values that exceed national averages by two to seven 
+percentage points (interquartile range) and are lower than the most impacted states, counties, or 
+provinces by two to nine percentage points (also an interquartile range). Urban fRNB estimates are 
+included in the full table of national results below.  
+2.16 
+Global divisions 
+72. 
+Originally, MoFuSS was developed for landscape-level analysis of individual interventions or clusters of 
+projects. This assessment requires a global model, which presents significant challenges. Adapting 
+MoFuSS for the global model involved integrating multiple countries with international borders that 
+allow some trade of woodfuels. Initially, we built versions of MoFuSS that modeled large regional blocs, 
+including several attempts to run models covering entire continents. However, it became apparent 
+that MoFuSS cannot realistically simulate trans-border trade across numerous countries 
+simultaneously without substantial recoding. With semi-porous borders between countries, MoFuSS 
+simulated trade volumes and directions that, even in the absence of empirical data, seemed unrealistic. 
+This is because, in MofuSS, woodfuel flows are determined primarily by pressure maps based on 
+physical accessibility. However, transborder woodfuel trade is often illicit, and its flow and volume are 
+influenced by many factors that are inherently difficult to model, particularly in the absence of any 
+data to use as calibration. 
+73. 
+As a result, to deliver this global assessment, we abandoned the attempt to model entire continents 
+or large clusters of countries. Instead, we opted to model small clusters of countries where we have 
+good evidence of transborder trade (for example, charcoal trade between Central African Republic, 
+Cameroon, and Nigeria [37]). In contrast, countries where we lack evidence of trade or where MoFuSS 
+produced unrealistic trade flows are isolated and woodfuels do not flow across their borders.  
+74. 
+This combined approach resulted in 50 regions (Figure 9) to optimize processing time. This regional 
+approach is particularly beneficial in cases where there is substantial evidence of significant charcoal 
+trade between countries for the cooking sector.
+=== PAGE 29 ===
+ 
+ 
+ 
+26
+Figure 9: Map showing 50 analyzed countries and country-clusters for the global MoFuSS assessment 
+ 
+3. 
+Results 
+75. 
+We would like to introduce the results section with some valuable and concise clarifications about how 
+MoFuSS works and generates results. 
+76. 
+First, MoFuSS produces a variety of results in various formats. The essential GIS-based results are 
+available in the long run in this Google Drive folder17. To make spatial results easily queryable without 
+the need for a Geographic Information System (GIS) software, we developed a prototype web-platform 
+where both vector and raster results can be accessed and consulted, please visit 
+www.mofuss.unam.mx, under Default Scenarios. 
+77. 
+Second, to demonstrate how the uncertainty in input parameters leads to variation in fNRB and other 
+outputs, MoFuSS can run multiple realizations. This technique, called Monte Carlo simulations, chooses 
+randomly from a distribution of input parameters. For more info about uncertainty in MoFuSS, please 
+see the section about sensitivity.  
+3.1 
+Updated fNRB values for low- and middle-income countries 
+78. 
+We ran MoFuSS for 50 countries and clusters of countries, resulting in a total of 75 national estimates 
+of fNRB. The raster-based analysis can be disaggregated to over 1,500 level-1 administrative units and 
+over 20,000 level-2 administrative units.  
+79. 
+Table 5 shows a summary of national woodfuel harvesting, NRB, and fNRB (calculated as described in 
+Equations 3-5 above). The table also includes standard deviations to provide an indication of 
+uncertainty in national estimates of each variable. Standard deviations are derived from variance of 
+NRB and fNRB resulting from each Monte Carlo simulation described in other sections of this report.  
+ 
+ 
+17 https://drive.google.com/drive/folders/1H6OqxALkgcuTzlLcCL32sqmEoB5LJGe5
+=== PAGE 30 ===
+ 
+ 
+ 
+27
+80. 
+Note, some of the results with low fRNB have large standard deviations and others are listed as “NA”. 
+The large standard deviations occur because it is a standard deviation of a ratio which is bounded 
+between zero and one. This makes the standard deviation sensitive to small changes in the 
+denominator of the ratio. In addition, the uncertainty of one key input parameter, rmax, is truncated to 
+avoid physically impossible results, which leads to upward biases in the MC distributions that are 
+especially apparent when the fRNB is small.  
+81. 
+The table also includes standard deviations for wood harvesting. Woodfuel demand is a fixed input so 
+that harvesting should not vary across Monte Carlo runs, leading to no variance. However, in some 
+Monte Carlo runs, variations in growth rate can result in small amounts of unmet demand or variation 
+in imports and exports, which lead to variation in national harvesting and small, non-zero standard 
+deviations. Figure 10 - 12 show regional maps of fNRB for 2020-2030 at the national level and 
+increasingly granular sub-national levels. For tabulated results at the first and second administrative 
+level please see the tables within the Google Drive folder18 shared above.  
+82. 
+Figure 10 - 12 illustrate spatial averages of fNRB by national and sub-national administrative 
+boundaries. As we explained above, these results are mathematically derived from spatial raster maps 
+of woody biomass harvesting that leads to loss of tree cover, which are shown in Figure 13 and 14 
+below.  
+ 
+ 
+18 https://drive.google.com/drive/folders/1H6OqxALkgcuTzlLcCL32sqmEoB5LJGe5
+=== PAGE 31 ===
+ 
+ 
+0 
+Table 5: National woodfuel harvests, NRB, and fNRB estimates for the period 2020 to 2030 and standard deviations 
+Region ISO3 
+Country 
+NRB 2020-
+2030 (oven-
+dry tons) 
+St Dev NRB 
+2020-2030 
+(oven-dry tons) 
+Harvest 2020-
+2030 (oven-dry 
+tons) 
+St Dev Harvest 
+2020-2030 19 
+(oven-dry tons) 
+fNRB 
+2020-2030 
+(%) 
+St Dev fNRB 
+2020-2030 
+(%) 
+Urban 
+fNRB (%) 
+St Dev 
+urban fNRB 
+(%) 
+ASIA 
+BGD 
+Bangladesh 
+97653620 
+17804924 
+249881477 
+60475851 
+39 
+30 
+61 
+30 
+ASIA 
+BTN 
+Bhutan 
+150125 
+39224 
+543231 
+0 
+28 
+26 
+34 
+37 
+ASIA 
+CHN 
+China 
+58634793 
+16579102 
+750258693 
+101248 
+8 
+28 
+10 
+48 
+ASIA 
+IND 
+India 
+83634440 
+21211343 
+1395575308 
+22994903 
+6 
+25 
+18 
+43 
+ASIA 
+IDN 
+Indonesia 
+2990619 
+3181724 
+64457333 
+11593 
+5 
+100 
+6 
+100 
+ASIA 
+MYS 
+Malaysia 
+329623 
+108843 
+972116 
+0 
+34 
+33 
+36 
+35 
+ASIA 
+MNG 
+Mongolia 
+398261 
+98429 
+3628687 
+0 
+11 
+25 
+15 
+30 
+ASIA 
+MMR 
+Myanmar 
+42806656 
+7220538 
+140559304 
+1647534 
+30 
+17 
+35 
+24 
+ASIA 
+NPL 
+Nepal 
+35798987 
+3173845 
+86615089 
+615417 
+41 
+9 
+44 
+9 
+ASIA 
+PAK 
+Pakistan 
+34693193 
+4433416 
+440506847 
+6215049 
+8 
+13 
+30 
+17 
+ASIA 
+PHL 
+Philippines 
+195244299 
+17693089 
+348830163 
+1313381 
+56 
+9 
+62 
+15 
+ASIA 
+KHM 
+Cambodia 
+8740064 
+2214571 
+45146093 
+3248465 
+19 
+26 
+27 
+33 
+ASIA 
+LAO 
+Laos 
+23670933 
+2210828 
+52111942 
+1845550 
+45 
+10 
+52 
+19 
+ASIA 
+THA 
+Thailand 
+21679959 
+9362737 
+117824700 
+1493120 
+18 
+43 
+26 
+37 
+ASIA 
+VNM 
+Vietnam 
+39986035 
+5017616 
+116113509 
+1926458 
+34 
+13 
+42 
+19 
+ASIA 
+LKA 
+Sri Lanka 
+24466771 
+4630868 
+58593803 
+35597 
+42 
+19 
+45 
+25 
+ASIA 
+TLS 
+Timor-Leste 
+1896947 
+428792 
+4790650 
+467 
+40 
+23 
+43 
+27 
+LATAM BOL 
+Bolivia 
+1506439 
+655179 
+12821635 
+1298 
+12 
+43 
+16 
+49 
+LATAM BRA 
+Brazil 
+16482391 
+4655580 
+127511095 
+0 
+13 
+28 
+19 
+48 
+LATAM CRI 
+Costa Rica 
+231671 
+130620 
+2173147 
+15561 
+11 
+56 
+14 
+58 
+LATAM GTM 
+Guatemala 
+39285599 
+3684718 
+93084686 
+743860 
+42 
+9 
+49 
+11 
+LATAM HND 
+Honduras 
+13729276 
+1782611 
+43143135 
+320696 
+32 
+13 
+34 
+19 
+LATAM NIC 
+Nicaragua 
+9811247 
+1567678 
+38638857 
+359801 
+25 
+16 
+30 
+21 
+ 
+19 Annual wood demand does not vary at the national level. However, harvesting varies between MC simulations in some countries as a result of variation in trade 
+between model runs. In addition, in some MC runs, woodfuel demand may not be fully met, leading to small changes in harvesting from one run to the next and non-
+zero standard deviation across 30 MC runs.
+=== PAGE 32 ===
+ 
+ 
+ 
+1 
+Region ISO3 
+Country 
+NRB 2020-
+2030 (oven-
+dry tons) 
+St Dev NRB 
+2020-2030 
+(oven-dry tons) 
+Harvest 2020-
+2030 (oven-dry 
+tons) 
+St Dev Harvest 
+2020-2030 19 
+(oven-dry tons) 
+fNRB 
+2020-2030 
+(%) 
+St Dev fNRB 
+2020-2030 
+(%) 
+Urban 
+fNRB (%) 
+St Dev 
+urban fNRB 
+(%) 
+LATAM PAN 
+Panama 
+763135 
+171426 
+3598781 
+44916 
+21 
+22 
+29 
+22 
+LATAM COL 
+Colombia 
+1439157 
+917893 
+21224269 
+2 
+7 
+64 
+8 
+80 
+LATAM DOM 
+Dominican 
+Republic 
+66572664 
+4087249 
+107081696 
+2743216 
+62 
+7 
+64 
+9 
+LATAM HTI 
+Haiti 
+33440650 
+1228503 
+47746513 
+2859165 
+70 
+7 
+75 
+11 
+LATAM GUY 
+Guyana 
+4 
+22 
+26551 
+0 
+0 
+100 
+ 
+100 
+LATAM JAM 
+Jamaica 
+3419055 
+540371 
+9367572 
+102 
+36 
+16 
+42 
+19 
+LATAM MEX 
+México 
+62558160 
+5623342 
+220629062 
+46530 
+28 
+9 
+33 
+15 
+LATAM ECU 
+Ecuador 
+2801391 
+529074 
+10721404 
+99935 
+26 
+19 
+36 
+24 
+SSA 
+BEN 
+Benin 
+34279020 
+5462658 
+105112761 
+96062 
+33 
+16 
+35 
+21 
+SSA 
+BFA 
+Burkina Faso 
+40514810 
+12704045 
+109623904 
+85615 
+37 
+31 
+49 
+37 
+SSA 
+BDI 
+Burundi 
+24350998 
+5843751 
+79674926 
+4580571 
+31 
+25 
+34 
+30 
+SSA 
+RWA 
+Rwanda 
+24504161 
+6080846 
+84402802 
+6499394 
+29 
+26 
+31 
+34 
+SSA 
+TCD 
+Chad 
+30941430 
+4682655 
+84846433 
+10071 
+36 
+15 
+47 
+21 
+SSA 
+CIV 
+Côte d'Ivoire 
+18267520 
+9211627 
+118044076 
+594 
+15 
+50 
+17 
+63 
+SSA 
+DJI 
+Djibouti 
+4954 
+1090 
+536263 
+9924 
+1 
+22 
+2 
+23 
+SSA 
+ERI 
+Eritrea 
+4659622 
+1193762 
+16644210 
+285641 
+28 
+26 
+32 
+39 
+SSA 
+ETH 
+Ethiopia 
+203522578 
+36293558 
+639993909 
+3770013 
+32 
+18 
+52 
+21 
+SSA 
+SOM 
+Somalia 
+165681007 
+24355041 
+276776173 
+2951897 
+60 
+15 
+62 
+18 
+SSA 
+GHA 
+Ghana 
+87611103 
+17021302 
+267322503 
+156133 
+33 
+19 
+35 
+25 
+SSA 
+KEN 
+Kenya 
+77159744 
+14934888 
+261373075 
+120021 
+30 
+19 
+38 
+32 
+SSA 
+MDG 
+Madagascar 
+85007898 
+14116954 
+250827121 
+10357 
+34 
+17 
+45 
+20 
+SSA 
+MOZ 
+Mozambique 
+139778627 
+15052824 
+368473606 
+4371910 
+38 
+11 
+41 
+14 
+SSA 
+MWI 
+Malawi 
+55150689 
+2860564 
+113221023 
+4244411 
+49 
+6 
+56 
+13 
+SSA 
+MLI 
+Mali 
+80102442 
+18166085 
+186573169 
+10201 
+43 
+23 
+49 
+26 
+SSA 
+MRT 
+Mauritania 
+16819290 
+3627369 
+26824316 
+14 
+63 
+22 
+65 
+27 
+SSA 
+NER 
+Niger 
+80469557 
+2150787 
+134007473 
+2539510 
+60 
+3 
+67 
+14 
+SSA 
+SDN 
+Sudan 
+64914838 
+11952289 
+133638215 
+2949876 
+49 
+19 
+57 
+20 
+SSA 
+SSD 
+South Sudan 
+40066348 
+7233017 
+120753013 
+2953175 
+33 
+18 
+36 
+18
+=== PAGE 33 ===
+ 
+ 
+ 
+2 
+Region ISO3 
+Country 
+NRB 2020-
+2030 (oven-
+dry tons) 
+St Dev NRB 
+2020-2030 
+(oven-dry tons) 
+Harvest 2020-
+2030 (oven-dry 
+tons) 
+St Dev Harvest 
+2020-2030 19 
+(oven-dry tons) 
+fNRB 
+2020-2030 
+(%) 
+St Dev fNRB 
+2020-2030 
+(%) 
+Urban 
+fNRB (%) 
+St Dev 
+urban fNRB 
+(%) 
+SSA 
+GMB 
+Gambia 
+11738422 
+1737534 
+20455561 
+795070 
+57 
+15 
+64 
+12 
+SSA 
+SEN 
+Senegal 
+103255441 
+11832351 
+163583594 
+1010111 
+63 
+11 
+75 
+17 
+SSA 
+BWA 
+Botswana 
+1105261 
+330674 
+3317946 
+23 
+33 
+30 
+36 
+35 
+SSA 
+NAM 
+Namibia 
+991873 
+223436 
+3966001 
+108 
+25 
+23 
+40 
+24 
+SSA 
+SWZ 
+Swaziland 
+323221 
+134165 
+2289039 
+15 
+14 
+42 
+15 
+40 
+SSA 
+ZAF 
+South Africa 
+4818293 
+1707506 
+31086472 
+106 
+15 
+35 
+18 
+42 
+SSA 
+TZA 
+Tanzania 
+296507400 
+20365040 
+583934445 
+223358 
+51 
+7 
+59 
+13 
+SSA 
+TGO 
+Togo 
+35723926 
+6146276 
+76484635 
+198845 
+47 
+17 
+50 
+20 
+SSA 
+UGA 
+Uganda 
+152197355 
+28848612 
+437365457 
+1109017 
+35 
+19 
+41 
+24 
+SSA 
+CAF 
+Central African 
+Republic 
+13518885 
+1824305 
+33634325 
+628443 
+40 
+14 
+44 
+17 
+SSA 
+CMR 
+Cameroon 
+55327096 
+12280626 
+143425627 
+1620956 
+39 
+22 
+45 
+30 
+SSA 
+NGA 
+Nigeria 
+350086901 
+41581567 
+898074955 
+2878149 
+39 
+12 
+44 
+18 
+SSA 
+GIN 
+Guinea 
+67442669 
+12887886 
+186219390 
+63755 
+36 
+19 
+39 
+22 
+SSA 
+GNB 
+Guinea-Bissau 
+3946542 
+889024 
+12168474 
+7817 
+32 
+23 
+34 
+25 
+SSA 
+LBR 
+Liberia 
+18423090 
+5935545 
+48901361 
+20654 
+38 
+32 
+40 
+34 
+SSA 
+SLE 
+Sierra Leone 
+33525658 
+5049893 
+83736427 
+77614 
+40 
+15 
+42 
+15 
+SSA 
+COG 
+Republic of the 
+Congo 
+4923191 
+2651483 
+27306555 
+1336 
+18 
+54 
+25 
+63 
+SSA 
+GAB 
+Gabon 
+356133 
+263720 
+1654636 
+901 
+22 
+74 
+25 
+75 
+SSA 
+GNQ 
+Equatorial 
+Guinea 
+441567 
+195214 
+1261261 
+419 
+35 
+44 
+37 
+47 
+SSA 
+ZMB 
+Zambia 
+92978499 
+11448781 
+243622526 
+19062 
+38 
+12 
+43 
+12 
+SSA 
+ZWE 
+Zimbabwe 
+12207335 
+5317595 
+62891875 
+1217 
+19 
+44 
+20 
+45
+=== PAGE 34 ===
+ 
+ 
+ 
+3 
+Figure 10: National fNRB values averaged over 2020-2030
+=== PAGE 35 ===
+ 
+ 
+ 
+4 
+Figure 11: fNRB at the 1st administrative level averaged over 2020-2030
+=== PAGE 36 ===
+ 
+ 
+ 
+5 
+Figure 12: fNRB at the 2nd administrative level averaged over 2020-2030
+=== PAGE 37 ===
+ 
+ 
+ 
+6 
+83. 
+By examining the maps in Figure 10 - 12 it is clear that there is spatial variation across all world regions. 
+For example, Southern Africa has lower fNRB than the other sub-regions. There is also variation across 
+countries within sub-regions, and within countries at sub-national levels. There are many factors that 
+could drive this variation, including infrastructure and accessibility, population density, tree cover at 
+the start of the simulation, and woodfuel demand trajectories predicted by WHO’s database. We 
+cannot explain all of the sources of spatial variation in this report. However, some differences are likely 
+driven by a few key variables. For example, the lower fNRB outcomes in Southern African countries are 
+very likely due to lower demand relative to supply than in other sub-regions. We can take South Africa 
+and Kenya to illustrate this point. Both countries have populations of over 50 million people, and both 
+have substantial areas of arid or semi-arid land with little or no tree cover. The WHO estimates that in 
+2020, roughly 5 million people in South Africa used woodfuels as their primary cooking fuel [23]. In 
+contrast, in Kenya, is only less half the size of S Africa, over 40 million people used woodfuels as their 
+primary cooking fuel.
+=== PAGE 38 ===
+ 
+ 
+ 
+7 
+Figure 13: NRB values for the period 2020-2030 (ktons dry matter per km2) 
+ 
+ 
+It is also instructive to zoom in for a more detailed view of the results. Figure 15 - 17 show unsustainable harvest (NRB), overall harvest, and fNRB in 
+the Gulf of Guinea region of West Africa.
+=== PAGE 39 ===
+ 
+ 
+ 
+8 
+Figure 14: Wood harvest for fuelwood and charcoal for the period 2020-2030 (ktons dry matter per km2)
+=== PAGE 40 ===
+ 
+ 
+ 
+9 
+Figure 15: NRB values for the period 2020-2030 - zoom over Gulf of Guinea (ktons dry matter per km2)
+=== PAGE 41 ===
+ 
+ 
+ 
+10
+Figure 16: Harvest for fuelwood and charcoal 2020-2030 - zoom over Gulf of Guinea (ktons dry matter per km2)
+=== PAGE 42 ===
+ 
+ 
+ 
+11
+Figure 17: fNRB values in each 1 km2 pixel for the period 2020-2030 - zoom over Gulf of Guinea 
+ 
+3.2 
+Uncertainty  
+84. 
+Several of the input parameters are uncertain, which propagates through the analysis, affecting the 
+key outcomes. We demonstrate this uncertainty by running Monte Carlo simulations. In this 
+assessment, we focused on uncertainty in growth rates, which is the main driver of uncertainty in the 
+model. We report uncertainties as standard deviations of harvest, NRB, and fNRB resulting from 30 
+Monte Carlo model runs in which each run includes a randomly selected value of “rmax”, the parameter 
+that defines the shape of the biomass growth functions for a given ecological zone, from a normal 
+distribution of potential values.  
+85. 
+Validating global simulation models with ground-based information is exceedingly difficult. If 
+comprehensive, observed datasets with global coverage were readily available, there would be 
+minimal need for simulations, except for projecting future scenarios. This presents a significant 
+challenge as it limits the direct verification of the models against observed real-world data. As discussed 
+in the following section, this is particularly true for woodfuel harvesting. While observed changes in 
+Aboveground Biomass (AGB) are increasingly available at fine resolutions, attributing specific causes to 
+these changes remains problematic. 
+86. 
+Despite the complexities inherent in simulating woodfuel harvest and regrowth, the majority of the 
+input maps and parameters used in the MoFuSS model are highly reliable. These inputs include well-
+validated layers such as population, biomass, land use cover, forest losses and gains, climate zones, 
+and topography, among others. These layers are used in many studies that extend far beyond wood 
+energy. Additionally, the displacement velocities of people walking and using vehicles have been 
+measured by the MoFuSS team using GPS tracking in Honduras, India, and Malawi, supplemented by
+=== PAGE 43 ===
+ 
+ 
+ 
+12
+Google Maps directions for longer highway distances. Moreover, AGB growth curves are derived from 
+the best available data, specifically the IPCC 2019 revised reports, and are meticulously calibrated at 
+the pixel level within the MoFuSS supply module. While a detailed list of all parameters, which currently 
+exceeds 200, is too extensive to include in this summary, it is important to emphasize our strong 
+confidence in the accuracy of the data incorporated into MoFuSS. 
+3.3 
+Proposed changes to TOOL30 
+87. 
+Tool 30 provides guidelines for calculating fNRB without using explicit spatial analyses. The calculation 
+requires project developers to have access to estimates of forest areas and forest productivity defined 
+by the “mean annual increment” or MAI. For forest areas, the tool suggests using data from a 2000 
+FAO publication [38]. However, this is both outdated and inadequate because it ignores trees outside 
+forests, which are important sources of woodfuel. If some version of TOOL30 is to be included in future 
+methodologies, we suggest using more recent sources of land cover data that also account for trees 
+outside forests. For example, the European Union’s EU’s flagship Copernicus programme provides free 
+and open global land cover maps through 2019 which include 12 categories of forested land as well as 
+shrubland, grassland, croplands, and other areas that are likely to include trees outside forests [39].  
+88. 
+For biomass growth rates, TOOL30 recommends using Table 4.9 from the IPCC’s 2019 Refinement to 
+the 2006 Guidelines for National Greenhouse Gas Inventories [18]. This is a more recent source of data, 
+which makes it more appropriate for current estimates. However, the data presented for each land-
+use and land-cover category includes up to three values that vary with the age of the forest area in 
+question. These growth rates can differ by up to a factor of 10. Project developers can obtain wildly 
+different fNRB values depending on which growth rates are used. As with forest and non-forest areas, 
+clearer guidance about the use of age-based MAI values is required if a version of TOOL30 is going to 
+be used in future methodologies. For example, the Copernicus data cited above could be integrated 
+with tree cover data from a source like Global Forest Watch [40] to create less ambiguous estimates of 
+growth rates. 
+3.4 
+How sensitive are MoFuSS fNRB results to input parameters? 
+89. 
+As we mentioned above, MoFuSS integrates sources of variations in input parameters. The model can 
+also compare outputs of simulations using the key assumptions, but different input datasets (e.g. 
+different land use cover maps). MoFuSS results are also sensitive to the spatial resolution, simulation 
+period, and degree of stochasticity in the harvest “seeding” mechanism. In this section, we explore 
+some of these sources of uncertainty using a small area lying on the border between Kenya and 
+Tanzania (Figure 18), selected to enable quick processing of multiple Monte-Carlo runs. 
+90. 
+We ran MoFuSS over the Area of Interest through five simulations, each using 30 Monte Carlo 
+realizations. We used the same global datasets as for the full regional assessment, but varied the 
+parameters listed in individually to demonstrate how each one affects over variability in outcomes. The 
+five simulations included:  
+(a) No variation in input parameters  
+(b) Varying in maximum AGB stocks (K) 
+(c) Varying in growth rates (rmax)  
+(d) Varying in the amount of prunable wood from Trees Outside Forests (TOF) 
+(e) Including stochasticity of harvest locations i.e. prune factor < 100%
+=== PAGE 44 ===
+ 
+ 
+ 
+13
+Figure 18: Case study to test for the sensitivity of woodfuel sustainability to input parameters variations 
+ 
+91. 
+Figure 19 shows temporal variations for the area of interest in the following key parameters (top to 
+bottom): AGB, NRB, fNRB and total wood harvest for the five configurations described above (moving 
+horizontally from a-e). It is apparent that results are most sensitive to parameters K (b) and rmax (c), 
+which represent the maximum AGB stock and the maximum natural regrowth rate respectively (Please 
+refer to in Table 1 for details).  
+92. 
+By comparing the magnitude of values and standard deviations in Table 1, it can be seen that both rmax-
+SD and KSD are uncertain. This is due to two factors: 1) natural variation across the landscape, or what 
+we can call “real variation”, and 2) errors in the AGB input layer. Regarding the first factor, we tried to 
+minimize natural variation in K by compartmentalizing the landscape following broad regions, 
+ecological zones, and land use cover; which resulted in 577 classes of K and rmax but some natural 
+variability in unavoidable. Regarding the second factor, we are planning to improve MoFuSS to better 
+accommodate the errors inherent in large spatial AGB maps; however, this is still a work in progress 
+and was not prepared for this assessment.
+=== PAGE 45 ===
+ 
+ 
+ 
+14
+Figure 19: Trajectories in aboveground biomass, NRB, fNRB, and woodfuel harvest for five MoFuSS settings, for 30 Monte Carlos runs (n=30) 
+ 
+Note: a) No variation in input parameters is allowed; b) variation in maximum AGB stocks (K); c) variation if growth rate (rmax); d) variation in the prunable wood from Trees Outside 
+Forests (TOF); e) stochasticity of harvest locations is turned on. 
+The red lines in represent the initial model run, which uses the main input parameters (r-max, K, etc). The gray lines represent the results of each Monte Carlo run, which are based on 
+random selections from the distribution of possible values for each parameter. These plots show the distribution of responses after 30 MC runs.
+=== PAGE 46 ===
+ 
+ 
+ 
+15
+93. 
+Finally, Figure 20 shows the spatial distribution of NRB’s standard deviation when allowing all 
+parameters to vary simultaneously. This last result goes beyond a sensitivity analysis but shows 
+something of potential interest to project developers, donors, or other stakeholders, the possibility to 
+depict where NRB and fNRB estimates are less certain and might deserve closer monitoring and 
+verification. 
+Figure 20: Standard deviation of 2020-2030 NRB after 30 Monte Carlo runs allowing all parameters to vary 
+simultaneously. 
+ 
+3.5 
+Comparison with the previous pan-tropical WISDOM study 
+94. 
+As mentioned in the Introduction, a previous assessment published 2015, using data from 2009, [6] 
+was the source of the 30% default value recommended by TOOL30. The difference between the 
+previous study, using the WISDOM model, and the current study, using MoFuSS, were described in the 
+Introduction. Here we compare biomass consumption and fNRB in the 75 countries that overlapped 
+between the two studies. Despite using different assumptions and data sources to estimate woodfuel
+=== PAGE 47 ===
+ 
+ 
+ 
+16
+demand, there is moderate correlation between annual woodfuel consumption (Figure 21 - top). 
+However, there is much lower correlation in fNRB derived from each study (Figure 21 - bottom). This 
+assessment found higher fNRB in roughly 2/3 of the 75 countries in common between the two studies 
+(countries lying below the dashed line in the lower plot of Figure 21).   
+95. 
+There are many factors that result in differences between the two assessments. In addition to 
+differences in woodfuel consumption illustrated in the top of Figure 21, MoFuSS uses more recent and 
+more accurate maps of population distribution, transportation infrastructure, AGB, and land cover 
+classifications.
+=== PAGE 48 ===
+ 
+ 
+ 
+17
+Figure 21: Scatter plot showing input woodfuel demand for MoFuSS and WISDOM (top – log scale) and national 
+fNRB values (bottom). The dashed lines show the line along which results would be equal. 
+ 
+ 
+ 
+3.6 
+Changes between October 2023 and May 2024 
+96. 
+After the preliminary release of fNRB results for Sub-Saharan Africa in October 2023, the CDM 
+requested comments from all interested parties. Overall, 51 submissions were received with nearly 
+300 individual comments. In response to these comments, several critical inputs and modeling 
+algorithms were revised. In addition, the analysis was expanded to encompass all countries with 
+AGO
+BGD
+BEN
+BOL
+BWA
+BRA
+BFA
+BDI
+KHM
+CMR
+CAF
+TCD
+CHN
+COL
+COG
+CRI
+CIV
+COD
+DOM
+ECU
+GNQ
+ERI
+ETH
+GAB
+GMB
+GHA
+GTM
+GIN
+GNB
+HTIHND
+IND
+IDN
+JAM
+KEN
+LAO
+LBR
+MDG
+MWI
+MLI
+MRT
+MEX
+MOZ
+MMR
+NAM
+NPL
+NIC
+NER
+NGA
+PAK
+PAN
+PER
+PHL
+RWA
+SEN
+SLE
+SOM
+ZAF
+LKA
+SDN
+SWZ
+THA
+TGO
+UGA
+TZA
+VNM
+ZMB
+ZWE
+R² = 0.485
+100
+1000
+10000
+100000
+100
+1000
+10000
+100000
+Wood varvest from WISDOM 2009 (kt / year)
+Average annual wood harvest from MoFuSS between 2020 and 2030 (kt / year)
+Correlation between wood consumption input to MoFuSS & 
+WISDOM 
+AGO
+BGD
+BEN
+BTN
+BOL
+BWA
+BRA
+BFA
+BDI
+KHM
+CMR
+CAF
+TCD
+CHN
+COL
+COG
+CRI
+CIV
+COD
+DOM
+ECU
+GNQ
+ERI
+ETH
+GAB
+GMB
+GHA
+GTM
+GIN
+GNB
+GUY
+HTI
+HND
+IND
+IDN
+JAM
+KEN
+LAO
+LBR
+MDG
+MWI
+MYS
+MLI
+MRT
+MEX
+MOZ
+MMR
+NAM
+NPL
+NIC
+NER
+NGA
+PAK
+PAN
+PER
+PHL
+RWA
+SEN
+SLE
+SOM
+ZAF
+LKA
+SDN
+SWZ
+THA
+TGO
+UGA
+TZA
+VNM
+ZMB
+ZWE
+R² = 0.0361
+0
+10
+20
+30
+40
+50
+60
+70
+80
+0
+10
+20
+30
+40
+50
+60
+70
+80
+fNRB WISDOM 2009
+fNRB MoFuSS 2020-2030 
+Correlation between fNRB derived from MoFuSS and WISDOM
+=== PAGE 49 ===
+ 
+ 
+ 
+18
+significant populations that rely on traditional biomass. This expansion forced several additional 
+modifications to the initial datasets and some model code. In this section, we briefly describe these 
+revisions in order of the magnitude of impact they have on the MoFuSS output.  
+3.6.1 
+Population maps 
+97. 
+The population dataset from Humanitarian Data Exchange (HDX) used in the previous analysis did not 
+include several countries of interest to the clean cooking community. To include these countries and 
+still use a single global dataset, the team transitioned from HDX to WorldPop. As a result, the number 
+and spatial distribution of the population and urban/rural regions, may have changed. While these 
+changes are not likely to have a large impact on results at the national level, they may lead to changes 
+in the spatial distribution of demand, leading to different results for sub-national administrative units.  
+3.6.2 
+Revegetation Growth Curves 
+98. 
+The MoFuSS submodule that generates revegetation growth curves was completely recoded based on 
+comments from stakeholders with technical expertise in this topic. This revision automates previously 
+disconnected code segments within MoFuSS, enhances transparency and reproducibility, and also 
+changed growth rates in some regions, leading to higher or lower fNRB values. 
+3.6.3 
+Regional boundaries in Sub-Saharan Africa 
+99. 
+Regional boundaries in Sub-Saharan Africa were revised and boundaries set for other regions. Originally 
+the team planned to remove all “hard” boundaries and allow woodfuels to flow between neighboring 
+countries. However, this led to very high trade volumes in some cases, which seemed unrealistic. To 
+avoid these anomalous results, the team compromised by dividing SSA and other regions into a mix of 
+individual countries and clusters of countries. Clusters were identified in part by recent analyses of 
+transnational woodfuel trade in SSA [37,41]. This allows trade within a given cluster of countries but 
+prevents trade between countries not included in that cluster. Hence, countries that were net 
+importers (or exporters) in the assessment presented in October may no longer be net importers (or 
+exporters) in the current study. This may result in higher (or lower) wood harvesting within a countries 
+border, leading to different fNRB. In addition, the team increased the friction parameter at 
+international borders within clusters of countries, which slightly reduced trade volumes. 
+3.6.4 
+Woodfuel consumption  
+100. 
+Based on public feedback, fuelwood consumption was revised. The preliminary SSA assessment 
+submitted in October 2023 used the CDM’s default of 400 kg per person-year of air-dried wood. For 
+SSA, this was adjusted to 400 kg oven-dry wood, which is equivalent to 500 kg air-dry wood. Wood 
+consumption in other regions was chosen based on data from CDM and other sources (Table 4). 
+101. 
+In addition, the team added estimates of non-residential wood consumption (explained above). These 
+adjustments resulted in increased wood harvest, which leads to higher fNRB with other variables held 
+constant. 
+3.7 
+Addressing large differences between Oct 2023 and the current release 
+102. 
+When comparing results the results of the current release to the results from 43 countries in sub-
+Saharan Africa released in October 2023, we see that the majority of the updated national fNRB
+=== PAGE 50 ===
+ 
+ 
+ 
+19
+estimates are within 10% of the previous assessment, and nearly two thirds are higher than previous 
+estimates. The increases in fNRB are primarily due to the inclusion of non-residential demand, which 
+led to higher wood consumption. However, several of the updated estimates are lower than the 
+previous assessment, and a few results differ substantially from the October results. While there is 
+insufficient space to explain every result that differs, in this section we consider several of the countries 
+with large differences to understand the underlying reasons.  
+3.7.1 
+Small Island States: São Tomé and Príncipe and Comoros 
+103. 
+Small islands are difficult to model within a broader global assessment at 1 km2 resolution. SSA includes 
+several small island states such as São Tomé and Príncipe and the Comoros Islands. In the October 
+2023 assessment, both countries were included in broader sub-regions: São Tomé and Príncipe with 
+Central/West Africa, and Comoros with East Africa. When we created pressure maps for the broader 
+regions, the small island countries were included which resulted in several inaccuracies that biased 
+fNRB downward. As a result, simulated wood harvesting was just 5-7% of forecast demand in each 
+country. With very little harvesting, there was minimal impact on tree cover and fNRB in each country 
+was very low. For the reassessment, both island states were isolated from the SSA mainland, which 
+removed the distortions. In addition, the updated population maps showed higher populations in both 
+countries. As a result, in the revised assessment, woodfuel demand in both countries was higher than 
+in the October 2023 assessment, and supplied entirely by domestic harvesting. These changes resulted 
+in much higher fNRB. Indeed, the latest results show that both São Tomé and Príncipe and Comoros 
+have the highest national fNRB of all the countries included in this assessment. However, we believe 
+that the high values are caused by the coarse resolution used in this assessment. For this reason, we 
+have  omitted these small islands from the results. Projects seeking to earn carbon credits from projects 
+in São Tomé and Príncipe and Comoros islands should implement a MoFuSS model at higher resolution.  
+3.7.2 
+Djibouti 
+104. 
+Djibouti is also a small country, though not an island. There, results changed dramatically in the 
+opposite direction. The October 2023 assessment found that Djibouti’s fNRB was 61%. In the latest 
+assessment, it is just 1%. Reasons for this are related to the way Djibouti is clustered with other 
+countries. For the recent assessment, Djibouti was clustered with neighboring countries of Ethiopia 
+Eritrea, and Somalia. These countries, though semi-arid, have significantly more tree cover than 
+Djibouti. In addition, charcoal comprises the majority of Djibouti’s woodfuel demand. Thus, MoFuSS 
+projected that with trade enabled, the majority of woodfuel is imported from neighboring countries, 
+leading to minimal domestic supply and very low fNRB.  
+3.7.3 
+Kenya 
+105. 
+While most national fNRB estimates in SSA increased between October 2023 and the current 
+assessment, our estimate of fNRB in Kenya decreased from 46% to 30%, with substantial sub-national 
+variation. The main reason for this difference is that in the October assessment, Kenya was included in 
+a region with other East African countries, including several countries with large and increasing 
+demand for woodfuel like Tanzania and Uganda. In contrast, woodfuel demand in Kenya is projected 
+to decline between now and 2030. However, the October assessment allowed trade of woodfuels 
+between each country and the model projected that Kenya’s wood harvest exceeded domestic 
+demand by 70%, while Uganda and Tanzania harvested 8% and 28% below their demand respectively. 
+Thus, in that simulation, Kenya was major exporter of woodfuels to Uganda and Tanzania. This seems
+=== PAGE 51 ===
+ 
+ 
+ 
+20
+highly unlikely. In fact, while quantitative data not available, anecdotal evidence and one qualitative 
+study [41] indicate that Kenya imports woodfuels from several of its East African neighbors.  
+ 
+106. 
+Our reassessment avoids this outward flow of woodfuel from Kenya by isolating the three East African 
+countries, preventing any trade. This may also be inaccurate; however, the team considered this the 
+most appropriate approach given our lack of quantitative information about woodfuel trade in the 
+region. As a result, even with the inclusion of non-residential woodfuel demand and increased per 
+capita residential consumption, the overall woodfuel harvest between 2020 and 2030 in the current 
+update is 22% lower than in the October analysis, resulting in lower fNRB. 
+4. 
+Key background reading 
+1. The following papers are downloadable from in this Google Drive folder (no permissions needed): 
+ 
+1. R Bailis, R Drigo, A Ghilardi, O Masera, The carbon footprint of traditional woodfuel, Nature Climate 
+Change, 2015, https://www.nature.com/articles/nclimate2491 
+ 
+This paper describes the 2015 global WISDOM model  
+  
+2. A Ghilardi, R Bailis, JF Mas, M Skutsch, et al. Spatiotemporal modeling of fuelwood environmental 
+impacts: Towards improved accounting for non-renewable biomass, Environmental Modelling & 
+Software, 2016 https://doi.org/10.1016/j.envsoft.2016.04.023 
+ 
+This paper describes the original MoFuSS model in detail. Some steps have changed, but the 
+underlying concepts are very similar to those described here.  
+  
+3. A Ghilardi, A Tarter, R Bailis, Potential environmental benefits from woodfuel transitions in Haiti: 
+Geospatial scenarios to 2027, Environmental Research Letters, 2018 
+https://iopscience.iop.org/article/10.1088/1748-9326/aaa846/meta (open access) 
+ 
+This paper describes an early application of the MoFuSS model. It demonstrates how comparing BAU 
+to alternate scenarios can result in an estimate of net biomass stock change and wrestling carbon 
+emission reductions. 
+  
+4. E Floess, A Grieshop, E Puzzolo, D Pope, N Leach, Scaling up gas and electric cooking in low-and 
+middle-income countries: climate threat or mitigation strategy with co-benefits? Environmental 
+Research Letters, 2023 
+https://scholar.google.com/scholar?oi=bibs&cluster=8368221658100548301&btnI=1&hl=en (open 
+access) 
+ 
+This paper doesn’t apply MoFuSS or other spatial techniques; however, it uses WHO fuel choice 
+projections to develop BAU scenarios that are used in a climate model.
+=== PAGE 52 ===
+ 
+ 
+ 
+21
+5. 
+References cited 
+[1] 
+ Openshaw K 1982 An Inventory of Biomass in Kenya: A Conditionally Renewable Resource (Stockholm, 
+Sweden: Beijer Institute, (Stockholm Environmental Institute)) 
+[2] 
+ CDM 2008 AMS-I.E: Switch from non-renewable biomass for thermal applications by the user (Version 
+1.0) (Bonn, Germany: CDM) 
+[3] 
+ CDM 2008 AMS-II.G: Energy efficiency measures in thermal applications of non-renewable biomass 
+(Version 1.0) (Bonn, Germany: CDM) 
+[4] 
+ The Gold Standard Foundation 2008 Indicative Programme, Baseline, and Monitoring Methodology for 
+Improved Cook-Stoves and Kitchen Regimes (Geneva: The Gold Standard Foundation) 
+[5] 
+ CDM 2022 Methodological TOOL30: Calculation of the fraction of non-renewable biomass (Version 
+04.0) Approved SSC methodologies 
+[6] 
+ Bailis R, Drigo R, Ghilardi A and Masera O 2015 The Carbon Footprint of Traditional Woodfuels Nature 
+Climate Change 5 266–72 
+[7] 
+ Drigo R Wisdom Woodfuel Integrated Supply/Demand Overview Mapping (WISDOM) 
+[8] 
+ Bailis R, Wang Y, Drigo R, Ghilardi A and Masera O 2017 Getting the numbers right: revisiting woodfuel 
+sustainability in the developing world Environmental Research Letters 12 115002 
+[9] 
+ Ghilardi A, Bailis R, Mas J-F, Skutsch M, Elvir J A, Quevedo A, Masera O, Dwivedi P, Drigo R and Vega E 
+2016 Spatiotemporal modeling of fuelwood environmental impacts: Towards improved accounting for 
+non-renewable biomass Environmental Modelling & Software 82 241–54 
+[10]  Ghilardi A, Tarter A and Bailis R 2018 Potential environmental benefits from woodfuel transitions in 
+Haiti: Geospatial scenarios to 2027 Environmental Research Letters 13 
+[11]  Spawn S A and Gibbs H K 2020 Global Aboveground and Belowground Biomass Carbon Density Maps 
+for the Year 2010 ORNL DAAC 
+[12]  Bouvet A, Mermoz S, Le Toan T, Villard L, Mathieu R, Naidoo L and Asner G P 2018 An above-ground 
+biomass map of African savannahs and woodlands at 25 m resolution derived from ALOS PALSAR 
+Remote Sensing of Environment 206 156–73 
+[13]  Eggleston S, Buendia L, Miwa K, Ngara T and Tanabe K 2019 2019 Refinement to the 2006 IPCC 
+Guidelines for National Greenhouse Gas Inventories Institute for Global Environmental Strategies, 
+Hayama, Japan 
+[14]  FAO 2013 Global Ecological Zones (second edition) FAO Map Catalog 
+[15]  Buchhorn M, Smets B, Bertels L, Roo B D, Lesiv M, Tsendbazar N-E, Herold M and Fritz S 2020 
+Copernicus Global Land Service: Land Cover 100m: collection 3: epoch 2017: Globe
+=== PAGE 53 ===
+ 
+ 
+ 
+22
+[16]  FAO 2019 GSOCmap1.5.0 Global Soil Organic Carbon Map V1.5 (GSOCmap) 
+[17]  IPCC 2006 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Volume 4 Agriculture, 
+Forestry and Other Land Use (Hayama, Kanagawa, Japan: Institute for Global Environmental Strategies 
+(IGES)) 
+[18]  IPCC 2006 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+(Hayama, Kanagawa, Japan: Institute for Global Environmental Strategies (IGES)) 
+[19]  MININFRA 2020 National Survey on Cooking Fuel Energy and Technologies in Households, Commercial 
+and Public Institutions in Rwanda (Kigali, Rwanda: Ministry of Infrastructure and Ministry of Finance) 
+[20]  MEMD 2021 NATIONAL FIREWOOD AND AGRO RESIDUE SURVEY FOR UGANDA 2020 (Kampala, 
+Uganda: Ministry of Energy and Mineral Development) 
+[21]  Ministry of Energy 2002 Study on Kenya’s Energy Demand, Supply and Policy Strategy for Households, 
+Small Scale Industries and Service Establishments: Final Report (Nairobi: KAMFOR Company Limited) 
+[22]  Ministry of Energy 2019 Kenya Cooking Sector Study: Assessment of the Supply and Demand of Cooking 
+Solutions at the Household Level (Nairobi, Kenya: Kenya Ministry of Energy and Clean Cooking 
+Association of Kenya) 
+[23]  Stoner O, Lewis J, Martínez I L, Gumy S, Economou T and Adair-Rohani H 2021 Household cooking fuel 
+estimates at global and country level for 1990 to 2030 - Supplemental Data Nat Commun 12 5793 
+[24]  World Health Organization 2021 Household air pollution data Air pollution data portal 
+[25]  Harris N, Goldman E and Gibbes S 2019 Spatial Database of Planted Trees (SDPT) Version 1.0. Global 
+Forest Watch Open Data Portal 
+[26]  CDM 2022 Methodological TOOL33: Default values for common parameters (Bonn, Germany: CDM) 
+[27]  FAO 2004 Unified bioenergy terminology (UBET) (Rome: FAO Forestry Department Wood Energy 
+Programme) 
+[28]  IPCC 1997 Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories: Reference Manual 
+(Oxford, UK: Blackwell Press) 
+[29]  Bailis R 2009 Modeling climate change mitigation from alternative methods of charcoal production in 
+Kenya Biomass and Bioenergy 33 1491–502 
+[30]  UNDESA 2018 World Urbanization Prospects: 2018 United Nations, Department of Economic and Social 
+Affairs - Population Dynamics 
+[31]  Smith D M, Larson B C, Kelty M J and Ashton P M S 1997 The Practice of Siviculture: Applied Forest 
+Ecology (New York: Wiley)
+=== PAGE 54 ===
+ 
+ 
+ 
+23
+[32]  Hansen M C, Potapov P V, Moore R, Hancher M, Turubanova S A, Tyukavina A, Thau D, Stehman S V, 
+Goetz S J, Loveland T R, Kommareddy A, Egorov A, Chini L, Justice C O and Townshend J R G 2013 High-
+Resolution Global Maps of 21st-Century Forest Cover Change Science 342 850–3 
+[33]  Hosonuma N, Herold M, Sy V D, Fries R S D, Brockhaus M, Louis Verchot, Arild Angelsen and Erika 
+Romijn 2012 An assessment of deforestation and forest degradation drivers in developing countries 
+Environmental Research Letters 7 044009 
+[34]  Munslow B, Katerere Y, Ferf A and O’Keefe P 2013 The Fuelwood Trap: A study of the SADCC region 
+(Taylor & Francis) 
+[35]  FAO Statistics Division 2023 FAOSTAT Forestry Production and Trade 
+[36]  Masera O R, Rob Bailis, Rudi Drigo, Adrian Ghilardi and Ilse Ruiz-Mercado 2015 Environmental Burden 
+of Traditional Bioenergy Use Annual Review of Environment and Resources 40 121–50 
+[37]  Sola P, Schure J, Gambo J, Awono A, Mwaanga B M, Moombe K B, Nlom J H, Hiol-Hiol F and Banda E 
+2021 Cross-border charcoal trade in selected east, central and southern African countries: A call for 
+regional dialogue (CIFOR) 
+[38]  FAO 2000 Global Forest Resources Assessment 2000 (Rome: UN Food and Agriculture Organization) 
+[39]  Buchhorn M, Smets B, Bertels L, Roo B D, Lesiv M, Tsendbazar N-E, Herold M and Fritz S 2020 
+Copernicus Global Land Service: Land Cover 100m: collection 3: epoch 2019: Globe 
+[40]  World Resources Institute 2023 Global Forest Watch - Interactive Map 
+[41]  Haysom S, McLaggan M, Kaka J, Modi L and Opala K 2021 Black Gold: The charcoal grey market in 
+Kenya, Uganda, and South Sudan
+=== PAGE 55 ===
+ 
+ 
+ 
+24
+Appendix 1.  
+Accessing Code, datasets, and results 
+MoFuSS main webpage 
+URL: https://www.mofuss.unam.mx 
+1. Description and usage: To make spatial results easily queryable without the need for a Geographic 
+Information System (GIS) software, we developed a web-platform where both vector and raster results 
+can be accessed and consulted. Please, visit the prototype visualization tool under Default Scenarios. 
+Results repository 
+URL: https://drive.google.com/drive/folders/1ZgC-upHUDNZt87fYlR77rpEc_IKT7Y2O?usp=drive_link 
+See also: https://is.gd/KLEZcC 
+Description and usage: This folder is linked to MoFuSS post processing codes and might be replenished or 
+modified when running new MoFuSS scenarios over different areas or for different time periods. Final results 
+aren’t erased and will remain here for the time being. However, while MoFuSS updates the folder content, 
+some files may take up to one or two minutes to “reappear”. If you believe a certain file is missing, please 
+wait for about 2 to 3 minutes and check back. Otherwise, please contact aghilardi@ciga.unam.mx and/or 
+rob.bailis@sei.org 
+Code repositories 
+URL: https://gitlab.com/mofuss/mofuss 
+Description and usage: MoFuSS is an open-source freeware in constant development. There is no restriction 
+to access the code. For the case that someone would like to collaborate within our GitLab project, please 
+email aghilardi@ciga.unam.mx or ask to be invited directly from your GitLab account. We are working to 
+improve the MoFuSS documentation, which can also be accessed in the same GitLab address.  
+Datasets repositories 
+URL:  
+https://code.earthengine.google.com/92c0e63070a94070cb62121141eba8b3  
+ 
+ MoFuSS does not use backup datasets. Instead, it employs GEE (Google Earth Engine) scripts to download 
+and preprocess all input datasets at any given resolution and for any area of interest. 
+Key references 
+URL: https://is.gd/9R9OjX
+=== PAGE 56 ===
+ 
+ 
+ 
+25
+Appendix 2.  
+Why was the deforestation module not used? 
+1. 
+As mentioned above, one of the main and innovative features of MoFuSS is the capacity to run an 
+underlying prospective model of forest losses and gains, which is validated with independent data and 
+allows to simulate future deforestation and gain events. For the cases of losses (i.e. deforestation), 
+these events translate into a sudden availability of wood at the event location, followed by a longer 
+term reduction of wood in the years to follow until natural regrowth takes over. With gains is just the 
+opposite, non harvestable pixels will become harvestable after a gain event predicted by the 
+prospective land change module. 
+ 
+2. 
+However, for this global study we disabled this feature for several reasons. First, it was very difficult to 
+calibrate a single model across large areas, leading to unacceptably low validation rates of just 10 or 
+20%. Second, landscape prospective models are intended to be used at a similar resolution as the input 
+data (30 m in this case). Aggregating 30m data to 1km results in inaccurate deforestation patterns 
+because the total amount of deforested area must be maintained regardless of resolution. At lower 
+resolutions, this “concentrates” deforestation into fewer areas because of the size of each pixel. Third, 
+the wood that becomes available from deforestation is only available for the year of the event and only 
+within a limited area. Last, the impacts of heavy deforestation on NRB and fNRB in heavily deforested 
+areas were minimal. For example, Table 6 shows results from a simulation using only Ghana.  
+Table 6: Comparison in NRB, harvest and fNRB values for Ghana assuming deforestation versus no deforestation 
+in the simulation period 2010-2050 
+ 
+Note: Results are shown for no variation in parameters except for the deforestation submodule turned on and 
+off. These results were not included into the sensitivity analysis as we believe they deserve a more detailed 
+treatment.
+=== PAGE 57 ===
+ 
+ 
+ 
+26
+Figure 22: Simulated deforestation patterns as predicted by MoFuSS for Ghana for years 2010 to 2019 at 1km resolution versus “observed” events for 2000-2019 at 
+30m resolution. MoFuSS patterns result unrealistic given the coarse resolution used in this study.
+ 
+Note: A proper comparison would require similar periods but falls beyond this report. Although deforested areas for similar time periods are roughly the same, 1km2 
+patterns are forced to be aggregated due to pixel resolution. Simulated deforestation in MoFuSS is expressed as the wood that becomes available after land is 
+cleared
+=== PAGE 58 ===
+ 
+ 
+ 
+27
+Appendix 3.  
+Responses to public comments 
+1. 
+As was mentioned previously, the CDM received 50 submissions from various stakeholders with nearly 
+300 individual comments, critiques and suggestions. After a detailed review, duplicate or closely 
+related submissions were combined into a TECHNICAL REPORT that synthesizes and paraphrases each 
+comment for easy readability and flow of information.20 The submissions were then grouped into 10 
+thematic categories:21 
+1. 
+General Comments 
+2. 
+Tool30: Revisions, Clarifications and Proposed Changes  
+3. 
+MoFuSS Model: Uncertainties and Complexity  
+4. 
+MoFuSS Model: Improvements and Suggestions 
+5. 
+Account for Non-Residential Wood Fuel Demand 
+6. 
+Wood Fuel Consumption Data  
+7. 
+Biomass Stock and Growth Functions  
+8. 
+Location-tailored fNRB Values and Demand Scenarios  
+9. 
+Review, Validation & Verification Processes  
+10. 
+Transition Timelines, Validity Period and Updating Process  
+ 
+2. 
+In this appendix, we review each thematic category and explain how the most salient comments were 
+addressed.  
+1.  
+General Comments 
+3. 
+This section contained a mix of comments, which we list below, with our response in parentheses (): 
+including: 
+• 
+several complaints that the CDM allowed insufficient time for the review and requests for 
+extension (these requests were granted)  
+• 
+request for trainings (this is possible, but outside the scope of this assignment) 
+• 
+requests for clarification on technical points like how to interpret “pixel-scale fNRB”, 
+“woodfuel-shed”, IDW algorithms (text was added to this report to clarify these details, 
+though these details are quite technical so we refer interested readers to the peer reviewed 
+scientific publications listed in the Section on “Key background reading”)  
+• 
+requests to allow the use of Tool30 as an alternate approach to estimating fNRB (addressed 
+in the next section) 
+• 
+include carbon sequestration in the methodology to assess emission reductions (this would 
+require an entirely different methodology than those currently used for woodfuel projects. 
+While this possible, it is beyond the scope of this assignment) 
+ 
+20 The Technical Report notes that during the review process, some information in the original submissions 
+may have been omitted or incorrectly interpreted. Readers are encouraged to consult the full compilation of 
+submissions to see the original comments.  
+21 The Technical Report listed an 11th category, “Current Work”, but that did not include any comments and is not 
+addressed in this Appendix.
+=== PAGE 59 ===
+ 
+ 
+ 
+28
+• 
+guidance to PDs on identifying the relevant “project area” (while this is important, we 
+consider this an issue that should be addressed by standards bodies, methodology 
+developers, and the methodology panel). 
+2.  
+Tool30: Revisions, Clarifications and Proposed Changes 
+4. 
+This section contained a mix of comments directed at Tool30 including: 
+• 
+Several comments noting the assertions made in the report that accompanied the October 
+2023 release of preliminary fNRB estimates for SSA concerning Tool30’s shortcomings were 
+inaccurate such as:  
+ 
+Comment 
+Response 
+the assertion that TOOL30 lacks 
+provisions for explicit spatial analyses 
+is inaccurate. In practice, the tool 
+allows for survey data to be used. 
+First, survey data is not inherently spatial. Second, 
+while Tool30 can, in theory, accommodate spatial 
+data, it does not encourage or even hint that such 
+data should be used. The words "map" or "spatial" 
+do not appear anywhere in the text of Tool30. In 
+this document, on p. 12, we state “Tool 30 provides 
+guidelines for calculating fNRB without using explicit 
+spatial analyses” and we believe this statement is 
+justified. 
+The claim that the tool recommends 
+using outdated 2000 FAO tree cover 
+data that overlooks trees outside of 
+forests that are harvested for 
+fuelwood is incorrect. The tool, in fact, 
+offers multiple sources for tree cover 
+data and mandates the use of the 
+most recent data. 
+The 2000 FAO GFRA is the only source of data on 
+forest area explicitly mentioned in Tool30 that 
+includes information about different forest cover 
+types. That information is needed to effectively 
+apply the IPCC’s 2019 Refinement to the 2006 IPCC 
+Guidelines for National Greenhouse Gas Inventories. 
+While other sources certainly could be used, none 
+are suggested in Tool30.  
+ 
+Moreover, while Tool30 states “The most recent 
+available data shall be used” in the very next 
+sentence, it states “the vintage of the above data 
+shall not be before year 2000”, which clears a path 
+for PDs to use the only source of data mentioned, 
+FAO’s 2000 GFRA. Hence, we stand by our assertion. 
+The claim made by the Information 
+Note (CDM-MP92-A07) that the CDM 
+TOOL30 solely addresses accessibility 
+by excluding protected areas from 
+biomass supply consideration is 
+inaccurate. The tool indeed 
+encompasses and provides guidelines 
+for defining geographically remote 
+areas, considering factors like 
+proximity to roads and rivers.  
+We agree with this statement - TOOL30 does 
+accommodate “geographically remote areas” and 
+suggests that PDs define these areas as anything 
+"beyond the average distance travelled to collect 
+fuelwood". We changed the description on p. 12. 
+However, this has no impact on the results of the 
+model.
+=== PAGE 60 ===
+ 
+ 
+ 
+29
+• 
+Other statements asked for clarification about the use of Tool30 for future projects including 
+an assertion that more recent land cover data and better guidance on age-based MAI would 
+result in more accurate fNRB estimates (we agree in theory, but identifying the most 
+appropriate set of parameters is challenging – we explain this in revised text on p. 12.) 
+• 
+Two submissions suggested that TOOL30 be disallowed rather than modified to result in 
+more conservative/accurate values (we agree, if there is no significant effort put into 
+developing better guidelines mentioned in the previous bullet point). 
+3. 
+MoFuSS Model: Uncertainties and Complexity 
+5. This section contained comments noting the complexity of the model and the number of variables 
+required. Some comments asked for clarification on key inputs and others suggested that the team adopt 
+different approaches. We summarize the most salient of these comments in the bullet points below. 
+3.1 
+Lack of accounting for soil carbon (SOM) and dead organic matter (DOM) 
+6. Including these carbon pools would make an already complicated model much more complex. It is well 
+beyond the scope of the assignment and would not have any impact on current carbon accounting for 
+woodfuel projects because none of the woodfuel methodologies include SOC or DOM. 
+3.2 
+Use more localized project-based data 
+7. Several suggestions requested that MoFuSS include differences in country consumption or use more 
+localized, project-base data to improve accuracy. MoFuSS is designed to use localized data; however, for 
+this assignment, CDM requested estimates of fNRB at a global scale. It was not practical or possible to 
+use local or project-specific data when modeling at this scale. 
+3.3 
+Wood-charcoal conversion factors  
+8. This and other sections asked for clarification of our sue of wood-charcoal conversion factors and how it 
+compares with relevant literature. We offer an explanation on p. 11 of this document and include a 
+citation to a peer-reviewed study of charcoal production. 
+3.4 
+Technical aspects of the model 
+9. There were several questions about specific aspects of the model code including whether we accounted 
+to potential collinearities of input variables and the models use of predicted data (specifically for 
+population and AGB). On the question about collinearity, we do account for collinearity of input variables. 
+There are multiple Dinamica scripts for the case of MODIS and Copernicus configurations respectively.22 
+However, collinearity is only relevant for regression analysis, which are not used in the large-scale 
+regional model presented here (as explained in Appendix 2). Therefore, concerns about collinearity do 
+ 
+22 Access the scripts at these links: 
+https://gitlab.com/mofuss/mofuss/-/blob/master/linwin/scripts/LULCC/LULCt1_c/5_Correlation_gain_win241.egoml 
+https://gitlab.com/mofuss/mofuss/-/blob/master/linwin/scripts/LULCC/LULCt1_c/5_Correlation_loss_win241.egoml 
+https://gitlab.com/mofuss/mofuss/-/blob/master/linwin/scripts/LULCC/LULCt2_c/5_Correlation_gain_win241.egoml 
+https://gitlab.com/mofuss/mofuss/-/blob/master/linwin/scripts/LULCC/LULCt2_c/5_Correlation_loss_win241.egoml
+=== PAGE 61 ===
+ 
+ 
+ 
+30
+not apply (though they can be addressed for any national or subnational MoFuSS model using 
+prospective landscape simulations).  
+ 
+10. On the question about the use of predicted data, we stress that our baseline populations, population 
+distributions, and AGB are taken from published and peer reviewed data sources. We predict the future 
+evolution of these variables – all forward-looking analyses require prediction – but the base years for 
+each variable are based on empirically measured, peer-reviewed sources of data.  
+3.5 
+Uncertainty 
+11. There were several questions about uncertainty in the model and its relationship to the 
+“conservativeness” of the assumptions. We have added a section to this report explaining how we 
+estimate uncertainty (see Table 5 and accompanying text). However, uncertainty and conservativeness 
+are not the same. Uncertainty can be quantified, while conservativeness is a subjective concept. We do 
+not provide an estimate of how conservative the default values are.  
+3.6 
+Differences with WISDOM results from 2015 
+12. One comment highlighted the large differences and poor correlation between the results of the 
+WISDOM-based analysis published in 2015 based on data from 2009 and the assessment released on 
+October 2023, which was presented in the October 2023 report. We updated that discussion including 
+the full national dataset (see Figure 21). The results still show poor correlation. There are several reasons 
+for this. While the underlying concepts of the WISDOM and MoFuSS models are similar, the input data 
+vary substantially. For example, as shown in Figure 21, our estimates of woodfuel consumption are only 
+moderately correlated with the estimates from the 2015 study. In addition, inputs for the supply module 
+such as AGB maps and growth rates differ substantially. When the work was for the 2015 study was 
+conducted, there were no publicly available maps of pan-tropical AGB.23 To estimate AGB, the WISDOM 
+model imputed it from qualitative land cover maps and regional ecological zones. MoFuSS relies on peer-
+reviewed satellite-based observations of AGB that vary from the AGB estimates use for MoFuSS. These 
+differences also result in different biomass growth rates, because those are derived from AGB stocks. 
+4. 
+MoFuSS Model: Improvements and Suggestions 
+13. Comments in this section ranged from concerns about stove/fuel stacking, openness of the model and 
+standardization of input data, accounting for sources of deforestation and land use change, future 
+changes in transportation networks, alternate sources of AGB data, national borders, and urban fNRB. 
+We discuss each of these points briefly below.  
+4.1 
+Stove/fuel stacking 
+14. Several comments raised concerns that our failure to account for stacking could lead to underestimates 
+of fNRB. The reason that stacking was not included in the model is that there is very little nationally 
+representative data so that the team had very little information to work with.  
+ 
+ 
+23 The maps of 2010 AGB used in this assessment were not published until 2018-2021.
+=== PAGE 62 ===
+ 
+ 
+ 
+31
+15. However, we stress that it is impossible to state a priori whether excluding stacking leads to 
+underestimates or overestimates of woodfuel demand. We calculate total woodfuel consumption by 
+multiplying the number of primary fuel users by per capita fuel consumption. The population of primary 
+fuel users includes both exclusive users and people who stack. Using urban Uganda in 2020 as an 
+example, our data looks like this: 
+• 
+4 million primary fuelwood users who use 0.4 oven-dry tons of wood per person/year 
+• 
+7 million primary charcoal users who use 0.16 tons of charcoal per person/year 
+• 
+0.1 million primary LPG user who use 50 kg of LPG per person/year 
+ 
+16. The charcoal group probably includes people who cook some of their meals with LPG or fuelwood and 
+use less than 0.16 tons of charcoal per year. This would result in overestimates of charcoal consumption 
+and fNRB. The LPG and fuelwood groups probably include some people who cook with charcoal and use 
+less than the stipulated amount of wood and LPG. They are not counted in our model, resulting in 
+overestimates of wood and LPG, and underestimates of charcoal consumption. We do not have enough 
+evidence to say decisively if the overestimate of charcoal consumption among the charcoal group 
+outweighs the underestimate of charcoal consumption in the wood and LPG group. This depends on the 
+relative size of the three groups and the extent to which one fuel displaces others.  
+ 
+17. We would need to do additional research and analyses to quantify this for any country, which was 
+beyond the scope of this assignment. In addition, the results from any one country would not necessarily 
+be generalizable to others.  
+4.2 
+Openness of the model and standardization of input data 
+18. One comment requested that we ensure that the model is open and any methodologies align with this 
+modelling approach but still allow projects to use their own inputs. Currently, the model is completely open 
+in that all software and code is freely available and can be run. with adjustments to key inputs like fuel 
+consumption. However, it is a complicated model and requires some knowledge of coding in the 
+appropriate languages (R, C++, and Dinamica-EGO). We are in the process of developing an open-access 
+cloud-based version of the model, which will allow anyone to run it for an area of interest (country, project 
+area, etc) and adjust parameters without needing to download software or understand the underlying 
+code. However, this is not part of the current assignment and is not yet fully-funded so the timeline of this 
+output is uncertain.  
+4.3 
+Accounting for sources of deforestation and land use change 
+19. At least one comment suggested that because we cannot use the MoFuSS module that simulates 
+agricultural expansion or other sources of deforestation when modeling at this scale, we should use an 
+adjustment factor to increase fNRB values as compensation. While we understand the motivation here, 
+this raises problems because very few countries are affected in the same way. Also, deforestation dynamics 
+often lead to lower fNRB values because a significant portion (40% by default in MoFuSS) of woody residues 
+from land clearing are used as woodfuel during the year. These residues do not contribute to NRB as they 
+originate from other drivers. In areas with ongoing deforestation, these residues can meet a substantial 
+part of the woodfuel demand. As woody biomass sources are being cleared, people will tend to walk/drive 
+farther, but this do not affect NRB neither.  
+4.4 
+Future changes in transportation networks and urban areas
+=== PAGE 63 ===
+ 
+ 
+ 
+32
+20. Several comments suggested we include future changes in roads and urban populations. For road 
+networks, this would require prospective modeling that is well beyond the scope of this study. In addition, 
+while the link between roads and deforestation in global hotspots like the Amazon region is well-
+established, the impact of roads and woodfuel-driven degradation is much more tenuous.  
+ 
+21. Other comments suggested that we adjust the spatial distribution of urban areas by coding rural areas as 
+urban when they pass the “urban threshold” of population density. While there is a certain logic to this, 
+we already account for growth in the size of the urban population by using UN urbanization forecasts. If 
+we also allowed rural areas to transition into urban, then we would be overestimating the total urban 
+population.  
+4.5 
+Alternate sources of AGB and biomass growth data 
+22. Several comments suggested we consider alternate sources of AGB and biomass growth data. Some 
+comments reflect a misunderstanding of what the model actually does. For example, one comment 
+“strongly” recommended that we use AGB growth rates from IPCC’s 2019 Refinement to the 2006 IPCC 
+Guidelines for National Greenhouse Gas Inventories specific to the respective age category and that we 
+source various forest age categories from the host countries. We have two responses to this. First, we do 
+use the IPCC’s data for rmax, but as we explain in the “2.6 
+Biomass growth functions” section, we 
+use the value assigned to young stands (< 20 years) as one parameter in a logistic function, which ensures 
+that the other values (> 20 years and “primary forests”) are also applied when the tree cover is at that 
+stage. However, the suggestion to use host country data to determine forest age categories, is simply 
+unrealistic. National forest inventories do not track stand ages except in managed plantations. In 
+unmanaged landscapes, disturbances are usually spatially heterogeneous leading to mixed-age stands. We 
+use AGB stock as a proxy for age, and assign growth rates based on stock, rather than age.  
+ 
+23. Other comments suggested we consider alternate sources of ABG including GEDI. We explored the use of 
+GEDI data and spoke with GEDI developers. Our interest in GEDI was not as a baseline AGB map, but as a 
+way to calibrate simulated AGB losses. After some exploration, we found GEDI is not ready for this 
+application but agreed to discuss future collaboration with the GEDI team.  
+ 
+24. The same commentor suggested that we calibrate and validate MoFuSS outcomes “against real AGB 
+estimates and patterns of deforestation”. This is beyond the scope of this CDM assignment, but we are 
+currently exploring collaborations with researchers who work with high resolution tree cover data. This work 
+is ongoing and we will make adjustments to the model based on the outcome of these analyses if necessary. 
+4.6 
+National borders 
+25. Several comments noted that the model should be rerun with all Sub-Saharan Africa in one unit to properly 
+account for cross-border trade. We had intended to do this; however, as we explain in the main body of 
+the report, this was not possible. The model simply could not handle the level of detail required to simulate 
+the wood harvesting demands from 3.3 million populated pixels ranging over 24 million square kilometers 
+of SSA. In addition, though the model is fully functional with small clusters of 3 or 4 countries, we 
+underestimated the degree to which we’d need to calibrate our assumptions about transborder trade. As 
+we explain in the main text, applying uniform “friction” at international boundaries to every border 
+resulted in some trade flows that seemed reasonable and others that did not, including some that
+=== PAGE 64 ===
+ 
+ 
+ 
+33
+contradicted observations on the ground. As a result, we decided to cluster some countries and keep 
+others isolated.  
+4.7 
+Urban fNRB 
+26. Please see the section “2.15.5 
+Assigning fNRB to urban locations” on p. 255 of the revised report.  
+5. 
+Account for Non-Residential Wood Fuel Demand 
+27. Comments in this section focused on the need to include non-residential sources of woodfuel 
+consumption. These sources include commercial entities like restaurants and hotels, educational and 
+government institutions, and cottage industries like brick burning, beer brewing, and agricultural 
+processing. These sources of woodfuel consumption were originally omitted because there is very little 
+reliable data covering most countries included in the analysis. However, this led to systematic 
+underestimates of national woodfuel consumption for many countries where non-residential sources can 
+be significant. This was addressed by considering data from a small number of studies and adjusting 
+fuelwood and charcoal consumption in all countries based on those data. This is fully explained in the 
+revised report on p. 12.  
+6.  
+Wood Fuel Consumption Data 
+28. Comments in this section focused on the CDM default value of annual per capita wood consumption in 
+SSA. Additional comments in this section included concerns thar the assumptions used to estimate wood 
+harvesting in protected areas were inaccurate and should rely on “proper survey data, assumptions about 
+friction be allowed to vary depending on factors like safety/rule of law, human development, or economic 
+growth, and a suggestion that the team consider generating different values of fNRB for firewood and 
+charcoal.  
+6.1 
+Annual per capita wood consumption 
+29. Nearly all commentors consider the CDM default of 0.4 tons per capita too low. Other comments included 
+requests to allow PDs to use data from their own surveys or KPTs, or collect nationally approved data from 
+host governments. Several commentors suggested that the MoFuSS team rely on “Host Country approved 
+DHS or Census data”.  This last comment, which was repeated several times, reflects a misunderstanding 
+of the data in those sources. DHS and censuses are excellent sources of nationally representative data 
+about primary fuel choice. The WHO uses these datasets to generate their time series forecasts, which are 
+used in MoFuSS. However, DHS and Census data have no information about the quantities of fuel 
+consumed.  
+ 
+30. We addressed these comments by increasing per capita consumption in SSA and applying different regional 
+defaults to other regions. See the discussion on p. 12 of the revised report. 
+ 
+ 
+  
+6.2 
+Wood harvesting in protected areas 
+31. While it is certainly true that access to protected areas for woodfuel extraction varies within and between 
+countries, implementing surveys to accurately capture this data in multiple countries is well beyond the 
+scope of the current assignment.
+=== PAGE 65 ===
+ 
+ 
+ 
+34
+6.3 
+Adjusting friction based on country-level social and political indicators 
+32. Friction maps represent the ease or difficulty with which wood harvesters move across the landscape. 
+While it is true that ease of physical movement can be corelated with governance, the magnitude and 
+direction of influence that things like rule-of-law and economic growth have on ease of movement is not 
+obvious and would need to be empirically determined. For example, does better governance impede or 
+ease movement? On one hand, better governance might ease access to wood for harvesting because 
+people follow rules and regulations and police do not demand bribes at forest boundaries and road 
+checkpoints. On the other hand, better governance might impede movement because rules governing tree 
+harvesting and charcoal transportation are fully enforced, making access and transport more difficult. 
+These are interesting questions, but unfortunately cannot be addressed within the scope of this 
+assignment. 
+6.4 
+Differing fNRB for firewood and charcoal 
+33. Several suggested doing separate analyses for fuelwood and charcoal. These comments also appeared in 
+other categories. We address all such comments here. While it is possible to carry out separate analyses 
+for wood and charcoal, MoFuSS assesses fNRB as the joint impact of fuelwood and charcoal harvesting 
+together, which is additive. Separating them into different models would result in lower fNRB estimates 
+for both fuel pathways.  
+ 
+34. We understand that these comments stem from a concern that our assessment is not capturing the larger 
+impacts that charcoal has relative to harvesting fuelwood. However, this is captured indirectly because the 
+default fuel consumption values we use assume that people cooking with charcoal harvest 2.4 times more 
+wood for their cooking needs than people using fuelwood. Therefore, charcoal interventions achieving a 
+given reduction in demand should achieve larger emission reductions than similarly designed fuelwood 
+interventions. 
+7. Biomass Stock and Growth Functions 
+35. Comments in this category focused on requests that the AGB maps undergo some validation and concerns 
+about overestimation of biomass regrowth as well as requests that for clarification of certain terms.  
+7.1 
+Validation of AGB maps  
+36. These comments noted that the AGB maps used in this assessment require validation and that the report 
+include information about the model’s ability to accurately predict future AGB. We have noted in the 
+revised report that the assessment used the NASA dataset, not WCMC as October 2023 report the 
+erroneously stated. The NASA dataset has undergone extensive validation, and its strengths and 
+weaknesses are well understood in the scientific community. We have included citations in the main text 
+so commentors can review the original sources themselves.  
+ 
+37. Comments also requested that we provide information about the model’s accuracy in predicting future 
+AGB values. While we understand the desire for predictive accuracy, it is difficult to compare MoFuSS 
+future projections to future changes in tree cover (the future hasn’t happened yet). However, it is possible 
+to run MofuSS over a past time period and compare the model’s predicted tree cover change to observed 
+tree cover change. However, the CDM terms of reference did not include time or budget for this validation
+=== PAGE 66 ===
+ 
+ 
+ 
+35
+exercise. The MoFuSS team intends to undertake such an exercise in the near future as soon as a funder 
+can be identified to cover the necessary work.  
+7.2 
+Overestimation of biomass regrowth 
+38. This comment referred to a section in the October 20203 report that noted if we used the IPCCs default 
+values for maximum stocks of woody AGB, our simulations could overestimate regrowth and 
+underestimate fNRB. However, we do not take that approach. Rather, we use NASA’s AGB maps to define 
+maximum woody tree cover based on ecological zone and LULC category as explained on pp.9-10 and 
+shown in Table 1.  
+7.3 
+Clarifying terms 
+39. Commentors requested that we clarify "maximum AGB stocks" and "growth rates (rmax)" and to indicate 
+whether our the AGB maps and equations used include all biomass or only woody biomass. We have 
+provided detailed descriptions of maximum AGB stocks (symbolized by “K”) and rmax in the report. In 
+addition, we have made it clear that AGB maps and equations refer only to woody biomass. 
+8. Location-tailored fNRB Values and Demand Scenarios 
+40. The comments in the category noted the need for clarity on national vs/ subnational fNRB defaults, 
+providing “ranged guidance” like an upper bound of fNRB that can be used, requests that the analysis be 
+extended to other world regions, and accuracy of fNRB values. There were also requests already noted in 
+previous sections that fNRB should be disaggregated to highlight differential impacts between fuelwood 
+and charcoal.  
+8.1 
+Clarity on national vs/ subnational fNRB defaults 
+41. Some of the comments focused on spatial variability of fNRB and the need for guidance on the use of 
+national vs. sub-national values. One comment suggested only allowing default values at one admin level, 
+to prevent developers from picking among the most advantageous values. Other comments suggested 
+allowing country authorities to decide their own default values, and one comment surprisingly suggested 
+using “Using a globally uniform fNRB default value”. We respond to these comments by stressing both the 
+previous and the current assessment included fNRB estimates at national and two sub-national 
+administrative levels. The report includes national values and sub-national values are available at links 
+provided in the main report. However, it is difficult to provide generalized guidance about which values are 
+most appropriate because it depends on the specific context. Some projects are highly localized and the 
+2nd admin level might be most appropriate. Others are national in scope and should account for fNRB in 
+most or all administrative units.  
+ 
+42. On the comment that country authorities decide their own default values, we recognize and respect the 
+that national sovereignty is paramount on these issues. However, we also caution that previous national 
+defaults were derived using unreliable methods and were unrealistically high. In addition, some 
+contradicted national data generated and published by the same government authorities. For example, 
+between 2012 and 2017, Uganda used a national default fRNB of 82%. However, in 2015, the Ugandan 
+Ministry of Energy and Mineral Development released a national Biomass Energy Strategy (BEST) in which  
+national woodfuel consumption was estimated to be 44 million tons/year while the sustainable accessible
+=== PAGE 67 ===
+ 
+ 
+ 
+36
+wood supply was estimated to be 26 million tons per year. This implies that by the Ugandan government’s 
+own estimates, consumption exceeded sustainable supply by approximately 18 million tons, resulting in a 
+national fNRB of 18/44 = 41%. Unfortunately, the assessment from the BEST had no bearing on the 
+“official” 82% default.  
+8.2 
+Ranged guidance 
+43. This comment asked for guidance on the upper bounds of fRNB that can be used understanding that there 
+is spatial variation around any given point. Each admin level that we report represents a spatial average of 
+fNRB within that boundary. Though we make pixel-based raster maps available for download, we advise 
+against using pixel-based values or taking spatial averages below the second admin level. Few projects 
+operate at such local scales and fNRB assessed at 1km resolution can be misleading when looking at small 
+localities because localized details are omitted.  
+8.3 
+Extension to other world regions 
+44. The October 2023 release focused on sub-Saharan Africa. All world regions where traditional woodfuels 
+are used are included in this updated assessment. 
+9. Review, Validation & Verification Processes 
+45. The comments in this category requested either validation of the key input data used, which was already 
+addressed in previous sections, or validation of the fNRB values generated through this assessment. Other 
+comments requested that fNRB be defined or adapted on a project-specific basis or generated using field-
+collected data “to enhance the precision of the results”. 
+9.1 
+Validation of fNRB values 
+46. As we noted in previous sections, validation was not included in the ToR for this assessment; however, the 
+MoFuSS development team is currently discussing ways to validate the key assumptions and results. If, 
+through this process, we discover substantial inconsistencies between observed impacts and impacts that 
+are projected by MoFuSS, then we will adjust the model. However, stakeholders should be aware that 
+validation might lead to downward, rather than upward adjustments in fNRB. In addition, the MoFuSS team 
+stresses that fNRB is not a directly observable quantity in the same sense that changes or degradation of 
+tree cover are directly observable. As such, are no “true” values of fNRB to against which MoFuSS results 
+can be compared. Instead, validation will entail comparing direct observations of changes or degradation 
+of tree cover and quantifying the possible role of woodfuel demand on those changes. In addition, we 
+should note that previous estimates of fNRB derived from Tool30 or other recommended methodologies 
+have not undergone any external validation. 
+9.2 
+Project-specific fNRBs and use of field data 
+47. There were numerous comments suggesting that methodologies allow PDs to estimate project-specific 
+fNRB values, potentially using field-data as inputs. As we explained in other sections of this response, 
+MoFUSS developers are working on a cloud-based version of MoFuSS that will allow PDs to develop their 
+own models using their own inputs, which could be based on government data or data derived from field 
+measurements.
+=== PAGE 68 ===
+ 
+ 
+ 
+37
+10. Transition Timelines, Validity Period and Updating Process 
+48. These comments focused largely on procedural issues like the timeline for completing the current 
+assessment, the period for which the new fNRB estimates will be valid, and a request for guidance on 
+transitioning from previous fNRB values to the current approach. These comments can not be addressed 
+by the MoFuSS developers and have been forwarded to the CDM MP.

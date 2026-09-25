@@ -1,0 +1,2411 @@
+=== PAGE 1 ===
+ 
+1 
+Mapping & Value Chain Analysis of the Fishery 
+Sub-Sector in Somalia 
+ 
+ 
+TECHNICAL REPORT 
+Mogadishu, January 2020 
+ 
+ 
+ 
+ 
+This technical report was conducted by UNIDO Somalia Programme team of experts, within the 
+framework of the “Agro-technology development for Economic Growth in South and Central 
+Somalia” project, implemented by UNIDO and funded by AICS/Italy.
+=== PAGE 2 ===
+ 
+2 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Acronyms   
+ 
+ 
+1. 
+ODA 
+Overseas Development Assistance 
+2. 
+MSME 
+Micro Small & Medium Enterprises 
+3. 
+GDP 
+Gross Domestic Product 
+4. 
+FAO 
+Food & Agriculture Organization 
+5. 
+EEZ 
+Exclusive Economic Zone 
+6. 
+IUU 
+Illegal Unreported Unregulated 
+7. 
+IOTC 
+Indian Ocean Tuna Commission 
+8. 
+IUCN 
+International Union for Conservation of Nature 
+9. 
+UNEP 
+United Nations Environment Programme 
+10. 
+MT 
+Metric Tonne 
+11. 
+MFMR 
+Ministry of Fisheries and Marine Resources 
+12. 
+VOA 
+Voice of America 
+13. 
+ICRC 
+International Committee of Red Cross 
+14. 
+NGO 
+Non-Governmental Organization 
+15. 
+OEC 
+Observatory of Economic Complexity 
+16. 
+IORA 
+Indian Ocean Rim Association 
+17. 
+FSNAU 
+Food Security & Nutrition Analysis Unit 
+18.  
+SATG 
+Somali Agricultural Technical Group
+=== PAGE 3 ===
+ 
+3 
+Table of Contents 
+1. 
+INTRODUCTION .................................................................................................................................. 4 
+1.1. 
+Project Background ............................................................................................................................................... 4 
+1.2. 
+Socio-economic profile of Somalia ......................................................................................................................... 4 
+1.3. 
+Scope of the Study ................................................................................................................................................. 6 
+1.4. 
+Methodology/ Approach of the study ................................................................................................................... 6 
+a. 
+Scoping visit to the field ........................................................................................................................................ 6 
+b. 
+Secondary Literature Review ................................................................................................................................ 6 
+c. 
+Study Tools Development ..................................................................................................................................... 7 
+d. 
+Field research ........................................................................................................................................................ 7 
+e. 
+Analysis and report writing ................................................................................................................................... 7 
+1.5. 
+Scope & Limitation of the study ............................................................................................................................. 7 
+2. 
+OVERVIEW OF FISHERY SUB-SECTOR IN SOMALIA ............................................................................... 8 
+2.1. 
+Introduction to Fishery Sub-sector ......................................................................................................................... 8 
+2.2. 
+Classification of Fishery in Somalia ........................................................................................................................ 9 
+2.2.1: Source of Fish ......................................................................................................................................................... 9 
+2.2.2: Nature of Fishery ................................................................................................................................................. 10 
+2.3. 
+Species of Fish Available ...................................................................................................................................... 10 
+2.4. 
+Estimated Catch & Potential ............................................................................................................................... 12 
+2.5. 
+Areas/ Regions of Fishing Activity ....................................................................................................................... 16 
+2.6. 
+Fishery Cooperative ............................................................................................................................................. 16 
+2.7. 
+ Sub-sector map ................................................................................................................................................... 18 
+3. 
+FISH PRODUCTION SYSTEM ................................................................................................................ 19 
+3.1. 
+Fish catch ............................................................................................................................................................. 19 
+3.2. 
+Fishing Method .................................................................................................................................................... 19 
+3.3. 
+Fish processing .................................................................................................................................................... 22 
+3.4. 
+Problems associated with the fishery supply chain ............................................................................................. 23 
+4. 
+FISH MARKETING SYSTEM .................................................................................................................. 25 
+4.1. 
+Classification of marketable products ................................................................................................................. 25 
+4.2. 
+Various actors in marketing and sales channel of whole fish .............................................................................. 27 
+4.3. 
+Various actors in marketing and sales channel of processed fish ....................................................................... 27 
+4.4. 
+Fish Trading Route ............................................................................................................................................... 28 
+4.4.1 Domestic Market .................................................................................................................................................. 28 
+4.4.2 
+Export Market ................................................................................................................................................ 31 
+5. 
+VALUE CHAIN ANALYSIS ..................................................................................................................... 33 
+5.1. Various actors and sub-actors ...................................................................................................................................... 33 
+5.2 Value Chain framework for Artisanal fishery value chain ............................................................................................. 35 
+5.3 
+Supply Chain in Fish value chain .......................................................................................................................... 38 
+5.4 Chain Governance ......................................................................................................................................................... 39 
+5.5 
+Inter-firm cooperation ......................................................................................................................................... 40 
+5.5.1 
+Horizontal linkages ................................................................................................................................... 40 
+5.5.2 
+Vertical linkages ........................................................................................................................................ 40 
+6 
+FINDINGS & KEY ISSUES ..................................................................................................................... 41 
+7 
+RECOMMENDATION ON AREAS FOR SKILL SET UPGRADATION .......................................................... 42 
+ANNEX 1 - BIBLIOGRAPHY ............................................................................................................................ 43
+=== PAGE 4 ===
+ 
+4 
+ 
+1. INTRODUCTION 
+1.1. Project Background 
+ 
+The Agro-Tech project which is being implemented by UNIDO is providing assistance in the revival 
+of productive sectors in Central and South Somalia regions by establishing a network of three 
+agro-technology and enterprise development units to support Somali businesses in starting, 
+rehabilitating and upgrading agro-industrial operations, particularly by accessing to new 
+technologies, markets, market-based skilled labour and financing facilities.  
+Emphasis in the project implementation will also be provided in supporting the labour force 
+responding to the needs of the market with market based vocational and technical skills trainings 
+to feed the growing needs of the MSMES sector with skilled labour capable of making modern 
+and better tools, and in installing, operating, maintaining and repairing old and modern 
+agriculture and agro-industrial equipment.  
+Furthermore, a credit facility to facilitate access to finance to project supported entrepreneurs is 
+to be established and deployed within the framework of the project.  
+Overall, the project will aim at increasing the potential for economic opportunities and job 
+creation in the agro-industrial sector of the Southern and Central regions of Somalia by focusing 
+on four key actions:  
+i. Promoting agro-technology upgrading and entrepreneurship development;  
+ii. Delivering vocational and technical skill trainings to improve productivity of agro-
+industrial tradesmen and micro-industries  
+iii. Facilitating access to technology, markets and finance; and  
+iv. Providing institutional support in the area of agro-technology transfer, investment 
+promotion, and entrepreneurship development.  
+ 
+In order to design the vocational training curriculum, the modules will be made based on skill gap 
+analysis in three of the intervention sub-sectors- Fruits & Vegetables, Livestock and Fishery. 
+Hence, to have an understanding of these three sub-sectors, a sub-sector mapping and value 
+chain analysis is planned for each of these three sub-sectors and provide recommendation in the 
+areas of the value chains where the skill gap analysis could look at. 
+ 
+This project has been funded by the Italian Cooperazione with FGS- Ministry of Commerce & 
+Industry (MoCI) as the line Ministry. 
+ 
+1.2. Socio-economic profile of Somalia 
+Facing decades’ civil war, Somalia has gradually stabilized its economy with institutions and systems 
+being built. The country is still fragile with highly dependent on aid and remittances, which is reflected 
+when drought or major economic upheavals occur.  As per the World Bank report the GDP of the country 
+is growing at a steady rate (2 to 3 %) since 2013 with an exception of 2017 when due to a slump, the 
+GDP shrunk. The 2018, nominal GDP for Somalia is 4.72 billion USD with per capita GDP is 332 USD, 
+which is not even 1 USD a day. The GDP estimate in Somalia is calculated using the expenditure method.  
+ 
+It can be seen that the substantial contribution to GDP is house-hold consumption and not government 
+expenditure or industrial production. The negative net exports shown above shows that the Imports is
+=== PAGE 5 ===
+ 
+5 
+almost the same of GDP, which indicates that the economy is highly import driven and is the main 
+source for fuelling the house-hold consumption. 
+ 
+An analysis of the import/export figures received from Mogadishu Port Authority (Fig. for year 2019). 
+The tables below provide a snapshot on import items. 
+ 
+Item 
+Amount 
+Household final consumption expenditure 
+7,358 
+Government final consumption expenditure 
+531 
+Gross fixed capital formation 
+• 
+Private investment spending 
+• 
+Public investment spending 
+309 
+Net exports of goods and services 
+ 
+-3,478 
+Export: 1,224 
+Import: 4,702 
+ 
+ 
+All figures in million USD 
+ 
+An analysis of the import/export figures received from Mogadishu Port Authority (Fig. for year 2019). 
+The tables below provide a snapshot on import items. 
+ 
+ 
+ 
+It can be seen from the above table that food import constitutes a significant amount which is further 
+substantiated by FAO-World Bank report that states Somalia faces chronic food crop deficit with own 
+production can only 22% of the per capita needs.  
+ 
+The limited exports that goes from Somalia is highly agriculture oriented with 93% share is from 
+Agriculture of which Livestock (Whole animal) presents 50% of the total. The other agriculture items are 
+Sesame and dry lemon which is exported. Most of the live animal is exported to Saudi Arabia- specially 
+catering to Hajj visitors and during Eid Al-Adha.  
+ 
+While, official remittances from the diaspora are estimated at about $1.4 billion a year, equivalent to 
+about 23 percent of Somalia’s GDP (IMF 2017) and could be the major contributor to house-hold private 
+consumption that is the back-bone of Somalia’s GDP. About 3.4 million people—roughly 40 percent of 
+the population—depend on remittances for their daily needs, and about 80 percent of all new business 
+ventures are funded by remittances. The IMF figures for 2017 quotes that Somalia received foreign 
+assistance as ODA is 1.65 billion USD.  
+ 
+Somalia, being import depended country with minimal exports, the balance of payment is highly skewed 
+with trade deficit as mentioned in 2018 as 3478 million USD. This negative balance of payment is 
+47%
+39%
+14%
+Food Items
+Building materials
+Other Items
+Food Items 
+Building Mat 
+Other Items 
+• 
+Sugar 
+• 
+Rice 
+• 
+Flour 
+• 
+Pasta 
+• 
+Cooking Oil 
+• 
+Oatmeal 
+• 
+Milk powder 
+• 
+Tomato paste 
+• 
+Cement 
+• 
+Wood/Iron 
+• 
+Iron sheet 
+• 
+Tiles /plates 
+• 
+Painting 
+• 
+Garments 
+• 
+Electronics 
+• 
+Spare-parts 
+• 
+Drugs 
+• 
+Sanitary items
+=== PAGE 6 ===
+ 
+6 
+normally covered through foreign remittances (almost 25% of GDP) and external grants classified as 
+ODA (Overseas Development Assistance). 
+1.3. Scope of the Study 
+o Mapping of the existing Fishery sub-sector in Somalia. 
+o Analyse various value chains operating within the sub-sector. 
+§ 
+Production system 
+§ 
+Demand and Supply Analysis 
+§ 
+Value addition within the Chains 
+§ 
+Marketing Channels 
+§ 
+Actors/Sub-actors/Stake-holders 
+§ 
+Horizontal and Vertical Linkages/Relationship among the Actors 
+§ 
+Governance 
+§ 
+Inter-firm cooperation 
+o Recommendations in selected areas of the operating value chains on the probable 
+areas of skill set building.  
+1.4. Methodology/ Approach of the study 
+The methodology adopted was with twin pronged approach for conducting the studying which includes 
+primary information collection & analysis and secondary data analysis for achieving the overall 
+objectives.   
+ 
+The assessment of the Fishery subsector and its value chains was conducted by UNIDO, using the 
+following steps:   
+• 
+Scoping visit to the field 
+• 
+Secondary literature review  
+• 
+Study tools development 
+• 
+Field research  
+• 
+Analysis and report preparation 
+ 
+Each of these activities is detailed below: 
+a. Scoping visit to the field 
+The first step taken by the research team was to acquaint themselves with the ground realities and 
+understand the broad parameters of the sub-sector operating in the country. The team interacted with 
+various experts, key informants of the sub-sector and prepared a preliminary report, which was shared 
+with the PMU.  
+ 
+This scoping visit helped the research team to have a preliminary idea about the various players in the 
+value chain. This was useful in designing the various questionnaires that were used to collect data from 
+field. 
+b. Secondary Literature Review 
+Different secondary literature was collected and reviewed to develop a general idea on the sub-sector 
+and its associated value chains and the study area. Extensive web search was done to locate secondary 
+information that would be useful for analysis. The secondary literature was continuously referred 
+throughout the primary data collection as well as during analysis and report writing period. In addition, 
+inputs from expert opinions from various institutions have been collected and used in the study.
+=== PAGE 7 ===
+ 
+7 
+A list of prominent articles and documents that were referred to has been provided as part of the annex 
+c. Study Tools Development 
+As a part of the primary data collection, it was decided to have individual survey of the value chain 
+actors.  The individual survey was conducted with fishermen, traders, processors. Separate sets of 
+questionnaire/ checklist were developed for each actor and used in the field research. 
+d. Field research 
+The field research component was conducted for a period of 30 days. During this period, individual 
+interview with fishermen, individual interviews with traders, individual interviews with key informants 
+including processors of fish were conducted by team consisting of local expert and UNIDO local staff.  
+ 
+The interaction with stakeholders focused upon tapping the knowledge base of the local stakeholders, 
+the status of fishery production in the country and also assesses their capacities for involvement in the 
+activity.  
+ 
+The interactions and visits were supported by analysis of the secondary data related to fishery 
+production and trade, and also helped in forecast and estimation.  
+e. Analysis and report writing 
+All the data collected from individual interviews were then fed into MS Excel sheets from the hard copies 
+of the questionnaire. These data were then used to generate tables, which were analyzed to find the 
+situation and the status of the value chain. These tables are then incorporated into the report, and the 
+combination of the data analyses of primary data and inferences from the secondary literature reviewed 
+coupled with opinion from key informants were the basis for the report. 
+1.5. Scope & Limitation of the study 
+Some of the limitations faced by the study team during its course of work is reported below: 
+• 
+The sample size for primary data has been selected mostly from Banadir and Juba-land, where 
+accessibility of the research team was high.  The input received from these samples along-with 
+secondary data has been extrapolated to generalise for the country, which might have 
+overlooked many local conditions prevalent in other regions. 
+• 
+The primary data collection has been through re-call methodology, which has the limitation due 
+to non-documentation of records as well as the fear of mixing of records pertaining to other 
+crops. 
+• 
+Artisanal Fishery production and trading is a highly un-organized economic activity, hence the 
+authenticity of secondary data used is at times doubtful. 
+• 
+Somalia has come out of civil war only few years back. Many of the research Institutions as well 
+as Government entities for data collection are still in their infancy. Due to this situation, the 
+availability of secondary data was very difficult and limited. Even, whatever secondary data 
+reported, the authenticity is not beyond doubt.
+=== PAGE 8 ===
+ 
+8 
+2. OVERVIEW OF FISHERY SUB-SECTOR IN SOMALIA 
+2.1. 
+ Introduction to Fishery Sub-sector  
+ 
+Somalia with a 3300 km long coast-line should have been in the fore-front of fish exploitation 
+in Africa. The country due to its long coast-line, has a large exclusive economic zone (EEZ) 
+estimated at 825,052–831,000 square kilometres. Unfortunately for years of instability and civil 
+war, the country has never developed its fishery sub-sector for contributing significantly to the 
+country’s GDP. According to FAO, the contribution of Fishery to the GDP ranges around 1%, 
+which indicates how under developed the sub-sector is.  The figure below provides a snapshot 
+of the geographical areas under fishing activities in Somalia.  
+Figure 1 : Snapshot of the fishing zones in Somalia 
+Source: Project Badweyn: Secure Fisheres 
+ 
+The Somali marine ecosystem, due to its narrow coastal shelf, except of the Puntland coast, 
+which makes limited bottom feeder fishes or the demersal types availability. The EEZ has 
+presence of large pelagic (highly migratory) species (such as tuna) to smaller pelagic fish, 
+crustaceans, and other reef species. 
+ 
+Commercial exploitation of fishing never took place primarily due to the fact that Somalians 
+are traditionally pastoralist with meat being the major source of protein. Fishing activity has
+=== PAGE 9 ===
+ 
+9 
+been practised by only limited group of communities that live in the coastal areas. As per SATG 
+group report, only about 0.3% of the population is dependent on fishing as livelihood option. 
+With per capita consumption of 3.1 kg (data as of 2009), fish consumption in Somalia is the 
+lowest amongst the all African nations. Negligible local market and years of civil war preventing 
+investment in the fishery sector has kept the sub-sector under-developed.  
+2.2. Classification of Fishery in Somalia  
+2.2.1: Source of Fish 
+ 
+Fishery in Somalia can be classified according to the geographical area of the fishing activities. 
+Primarily it can be categorized into three source: 
+ 
+Inland Fishery:  
+ 
+The In-land fishery in Somalia is mostly practised by the communities living near the banks of 
+two main rivers of Somalia- Juba and Shabelle. In addition, some wet-lands within the country 
+too see this practice. For generations, share-cropping communities in Somalia have fished the 
+lower reaches of southern Somalia’s two permanent rivers. The common species found are 
+Catfish, Tilapia, Mullidae etc. These fishes are highly valued locally and consumed by the local 
+populace since these areas has shortage of livestock due the tsetse fly infestation.  
+ 
+ 
+ 
+Coastal or Inshore Fishery: 
+ 
+Most of the Somalia’s EEZ is oceanic, because the continental shelf along its coastline is 
+relatively narrow. All the fishing activities within this narrow zone is called the In-shore fishery 
+where most of the catches are of the demersal variety. Many of the reef-associated, demersal 
+species found in the coastal areas are the grunt, emperor, grouper, goatfish, snapper, jack, 
+seabream, and lizardfish families. These fish are generally found close to shore, making them 
+easier to catch from small boats with artisanal gear like handlines and nets.  Species that
+=== PAGE 10 ===
+ 
+10 
+frequent reefs and inshore habitats, such as blacktip reef shark, thintail thresher shark, and 
+hammerhead sharks are other varieties found in this zone, which come to look for demersal 
+and pelagic varieties.  
+ 
+Off-shore Fishery: 
+ 
+Fishing activities conducted beyond 24 nautical miles from the coast can be classified as off-
+shore fishing. Commercially important species of large pelagic types, including tuna and tuna-
+like species, billfish, and sharks, are found in the offshore areas. Species that are caught in off-
+shore are migratory in nature and seasonal influences are very high on the type of species that 
+are caught.  
+2.2.2: Nature of Fishery 
+ 
+The classification of fishery in Somalia can be further categorized by the nature of fishing 
+activity. Primarily, it is divided into two types; Artisanal or traditional fishing and Commercial 
+fishing.  
+ 
+Artisanal or traditional fishing: 
+ 
+This is the fishing style involving the local traditional fishermen community, mostly residing in 
+the coastal areas – from Puntland to Kisimayo. Most of the Somalia’s artisanal fleet is made of 
+small wooden boats, mainly built locally from old designs and generally beach launched. In 
+recent years, the introduction of fibre-glass made boats can be observed amongst the fishing 
+community. The artisanal fishermen target coastal species using traps, spear, and nets and 
+normally remains within the coastal zone. The men-folk of these coastal fishing communities 
+carries out the fishing activity and fish processing. Women are involved in support activities 
+and occasionally in trading. The artisanal or the traditional fishing is still a subsistence activity 
+with only livelihood source for the fishermen community.  
+ 
+Commercial Fishing: 
+ 
+The fishing activity when done to economically and commercially to exploit the fish resources 
+available in the Somalian maritime area using mechanized fishing boats and equipment is 
+categorized as Commercial fishery. Interestingly, due to the country’s instability, most of the 
+commercial fishery can be termed as IUU activity. IUU or Illegal- Un-reported- Un-regulated. 
+These IUU activities are undertaken by many fishermen from neighbouring countries with 
+powerful trawlers and fishing in the off-shore areas. Since 2012, the Ministry of Fishery, gave 
+licenses to some foreign companies to fish in the off-shore areas. Recently, the government 
+has given license to 31 Chinese vessels to fish in the Somalian Off-shore areas.  
+ 
+2.3. Species of Fish Available  
+ 
+Primarily, the fish resources in Somalian Inshore and Off-shore area can be grouped into 
+following categories:
+=== PAGE 11 ===
+ 
+11 
+Large Pelagic Stocks: The large pelagic fish are mainly tunas and big mackerels such as yellowfin 
+tuna, bigeye tuna, long-tail tuna, bonito, skipjack tuna and Spanish mackerel. The quantum of 
+these species vary greatly in accordance to the season of the year. The availability peaks in 
+November and March but drastically falls during the South-West monsoon. The primary season 
+for Spanish mackerel is March–June, and for tunas it is October–November.  
+ 
+Small Pelagic Stocks The dominant species are the Indian oil sardine, rainbow sardine, scads, 
+chub mackerel, and horse mackerel. Anchovies belonging to this stock group also is found but 
+lesser in abundance.  
+ 
+Demersal Species: These stock of fishes found mostly in the coastal reef includes the following 
+varieties; Snappers, Groupers, Grunts, Sea breams, Goat fish, lizard fish etc. Several hundred 
+species are exploited of this group by artisanal fishermen. These species support a year round 
+fishery as they show limited migration patterns.  
+ 
+Elasmobranchs such as sharks and rays represent 40% of the artisanal catches. The principal 
+groups are hammerheads, blacktip sharks, thin tail sharks etc.  
+ 
+Large Crustaceans:  Most of the common lobsters caught by the artisanal fishermen are the 
+Spiny lobsters of the genus Panulirus.   
+ 
+Figure 2: Clock-wise- Yellow-fin Tuna, Spanish Mackeral, Snapper, Spiny lobster 
+ 
+ 
+Figure 3: Economically important fishes & invertebrates found in Somali waters
+=== PAGE 12 ===
+ 
+12 
+ 
+ 
+2.4. Estimated Catch & Potential 
+A detailed analysis of the estimated catch and the potential to tap has not yet been done 
+thoroughly by any agencies. Different measuring tools were designed and with many 
+regression models and forecast models were used to assess the estimates. The study report 
+presents some inputs from various secondary sources to provide some insights on the species
+=== PAGE 13 ===
+ 
+13 
+and the quantum of their landings. Since, a major component of off-shore fishing is through 
+illegal commercial boats, the figures of their catch is always a large approximation.  
+In the chapter on Fish production system, catch inputs from the fishermen respondents have 
+been reported but we are not still confident of extrapolating it for the whole country since 
+the sample size is not truly reflective of the population.  
+Since, there is not a clear line of demarcation where demersel and pelagic stocks donot 
+separate to be caught and similarly the artisanal and commercial fishing also donot have a 
+line of demarcation to separate in the ocean.  
+The study report from Project Badweyn- Secure Fisheries reveals the composition of the catch 
+in terms of source of catch.  
+ 
+Figure 4: Ratio of domestic to foreign catch of various fish species 
+ 
+ 
+A study conducted by Swedish University of Agricultural Sciences, Umea, analysed various 
+data from reports prepared by sources like IOTC, IUCN, FAO, Ogilvy, UNEP and many fishery 
+experts on fish landings/catch between 1950 to 2010 and has come up with an estimated 
+composition of the fish catch in Somalia.
+=== PAGE 14 ===
+ 
+14 
+ 
+Figure 5: Composition of Fish caught through commercial fishing 
+ 
+Figure 6: Composition of Sharks and Rays caught in Somalian waters
+=== PAGE 15 ===
+ 
+15 
+Figure 7: Composition of fish species caught ( excluding sharks & rays) through artisanal fishing 
+ 
+The catch landing data in Somalia has to be taken with a pinch since intensive assessments 
+have not been done. There are huge differences in the estimates provided by various 
+agencies. As per the report of Secure Fisheries Glazer. Et al (2015), approximate catch in the 
+year 2013 will be around 200,000 MT, out of which domestic catch will be around 50,000 MT.  
+Figure 8: Estimated catch by foreign vessels & Somalian vessel 1981-2013 
+ 
+Source: Secure Fisheries Glazer. Et al (2015)
+=== PAGE 16 ===
+ 
+16 
+According to an estimate from SATG group, who has undertaken extensive work in Somalia in 
+the field of fisheries, the shores of Somalia has potential of harvesting 380,000 MT to 500,000 
+MT of fish annually with the Eastern coast compared to Northern coast share 90% of it.  
+2.5. Areas/ Regions of Fishing Activity 
+The artisanal fishing community in Somalia is found across the coast from the top of the country 
+to the bottom. The main fishery areas can be divided into seven main zones, based on major 
+human settlement like: Kismayo, Mogadishu, Eil, Bargal, Bolimog, Las Korey and Berbera. Fisher 
+communities are largely made up of traditional fishermen, living in about 150 fishing villages 
+and towns along the coast from the Kenyan border to Djibouti. Somalia has 65 landing sites in 
+marine waters (MFMR 2017). Catches are landed each day in all 65 landing sites. 
+Through an FAO project, Somalia has started to registered fishermen and so far a total of 65,144 
+fishermen have been registered as of 2017. More than half of them are reported to own their 
+fishing boats. The extent of fishing activity region-wise can be analysed from the exercise 
+carried out by the Ministry of Fishery, Somalia to conduct the census on fishing boats. As per 
+the data, collected in 2015-16, the findings are listed below: 
+ 
+Region 
+No. of 
+boats 
+Interestingly, two traditional fishing societies exists in Somalia: The 
+Amarani and Bajuni. Their ancestral roots traces to the 
+Arabian/Persian peninsula and These groups trace their ancestry to 
+Arab and Persian settlers and India and is thought to have landed in 
+Somalia an over 1,000 years ago. The Amarani, are spread 
+throughout fishing communities in and near Brava, Mogadishu, 
+Merca, and inland Afgoye while the Bajuni are found throughout the 
+east African coast from Kismayo to as far south as Lamu, Kenya. 
+These groups look ethnically different from rest of the Somalis and 
+speak Swahili. 
+Somaliland 
+594 
+Puntland 
+1697 
+Galmudug 
+565 
+Hirshabelle 
+320 
+South-West 
+386 
+Jubaland 
+495 
+Benadir 
+243 
+The above figure provides a snapshot on the prevalence and scale of artisanal fishing in that 
+region. 
+2.6. Fishery Cooperative 
+Somalia has seen the cooperative movement since the early 1970s, during Siad Barre’s regime. 
+After a series of droughts ravaged the country’s grazing lands, the government actively 
+promoted the fishing sector. The Ministry of Fisheries and Marine Transport organized fishing 
+villages into approximately 21 cooperatives.  The cooperative structure provided fishing gear 
+and set prices for fish, giving fishers a more stable and viable financial stake. Gradually, due to 
+mismanagement, these cooperative started losing their relevance. In the prolonged civil war, 
+it lost its significance and closed down. Since 2012, many NGOs, FAO, Ministry of Fisheries, 
+Regional governments started aggregating fishermen and promoting cooperatives. It is 
+estimated that all the regions with their fisher settlements have fishery cooperatives. It is 
+estimated around 20 such cooperatives are fully functional and form a federation of fishing 
+cooperatives. Somalia have interestingly a Union of federation of cooperatives called Somalia 
+Union Cooperatives Movement (UDHIS) which has 8 cooperative federations as members.
+=== PAGE 17 ===
+ 
+17 
+Figure 9: Fishing Cooperative figures 
+ 
+ 
+ 
+It can be inferred that all the fishermen interviewed as respondents are members of the 
+fishing cooperatives indicating that the cooperatives presence is far out-reaching and can be 
+a major tool for aggregation and value addition. In addition, the size of these cooperatives are 
+big enough to play an influential role in the community.  
+As per the responses from the respondents; these cooperative plays the following role: 
+ 
+• Training or capacity building of its member fishermen. Maybe, many of the 
+international fishery support projects and NGOs leverage these Cooperatives to 
+provide training inputs.  
+• The Cooperative supports the fishermen who loses their boats at high sea and help 
+them to retrieve.  
+• The Cooperative arranges finances for the community members to procure equipment 
+/gears.  
+ 
+Y
+N
+10
+0
+MEMBERSHIP IN 
+COOPERATIVE
+MEDIAN
+150
+NO. OF MEMBERS IN THE 
+COOP.
+=== PAGE 18 ===
+ 
+18 
+2.7. Sub-sector map  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In-shore fishing 
+Export 
+Extension service 
+Traditional 
+processing 
+Artisanal Fishermen 
+Retail 
+market 
+Onshore market 
+Regional Market 
+Traders 
+Own 
+consumption 
+Hotels and 
+Restaurants 
+Fish processor 
+ 
+Off-shore fishing 
+Licensed 
+Commercial boats 
+IUU 
+Export Market 
+Retail 
+Traders 
+Exporters 
+Processors 
+Retail 
+market- local 
+Exporters 
+Retail market- local
+=== PAGE 19 ===
+ 
+ 
+19 
+ 
+ 
+3. FISH PRODUCTION SYSTEM  
+3.1. Fish catch  
+The respondents of the study indicated that fishing can be classified into two seasons (May 
+to Sep & Oct to April), where the species caught and their volumes varied. The findings 
+presented below indicates the annual median catch (in Kgs) for an individual fisher-person.  
+ 
+Figure 10: Annual fish catch - Artisanal fishermen 
+ 
+From the above chart, it can be easily inferred that Oct to April is the season where the fish 
+catch is the highest. The only exception is the volume of Mackerel caught. 
+3.2. Fishing Method 
+Though Somalia has 3200 km long coastline, fishery as industry has not been properly 
+developed with most of the fishery activity can be classified as artisanal with focus on 
+domestic consumption which too is not a very big market due to culinary habits of the 
+population.  
+Commercial fishery is gradually being promoted. Somalia has granted fishing licenses to 31 
+Chinese vessels to exploit tuna and tuna-like species off its coast in a bid to tap the sector for 
+economic growth. 
+Somalia granted fishing licenses to 31 Chinese vessels to exploit The vessels are associated 
+with the China Overseas Fisheries Association, a distant-water trawling group created in 
+2012 to promote the East Asian giant’s competitive fishing edge abroad. 
+Starting this month, The ships will be allowed to operate for a one-year period in Somali 
+waters, with the agreement stipulating an automatic renewal for an additional year. These 
+foreign fishing vessels will not be allowed within 24 nautical miles from the coast to safeguard 
+the traditional fisher-folk.  
+ 
+0
+500
+1000
+1500
+2000
+2500
+Mackerel
+Tuna
+Shark
+Rays
+Snappers
+Grunts
+Lobsters
+May to Sep 
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+Mackerel
+Tuna
+Shark
+Rays
+Snappers
+Grunts
+Lobsters
+1150
+2500
+2200
+1200
+2500
+3500
+210
+Oct to Apr
+=== PAGE 20 ===
+ 
+ 
+20 
+The focus on the fishing systems will be based on the artisanal or traditional form of fishery.  
+ 
+A) Boats used 
+The various type of boats used by the fishermen can be classified into following types:  
+• Volve- These are the largest boats used by the fishermen and is approximately 15-20 
+m in length. It is made of fibre-glass and carries five crew, one captain in the boat and 
+other fishermen to catch fish. 
+• Boat engine-  These are boats of 8-12 m in length and also is made of fibre-glass.  
+• Canoe (Houris) – These are the traditional boat used by the fishermen and is made of 
+wood. It is approximately 4-5 m long and carries two crew.  
+ 
+ 
+ 
+Courtesy: ICRC, VOA 
+The respondents were assessed on their boat availability; the following information was 
+available.
+=== PAGE 21 ===
+ 
+ 
+21 
+Figure 11: Per capita boat possession of the fishermen 
+ 
+ 
+The above chart infers that most of the fishermen are very artisanal with fleets on average 
+includes a Volve and a boat engine.  
+For the artisanal fleet, the number of fishermen and fishing vessels is largely unknown, 
+however, through an FAO project, Somalia has started to registered fishermen and so far a 
+total of 65,144 fishermen have been registered. More than half are reported to own their 
+fishing boats and 50% are members of fishing cooperatives.  
+ 
+B) Fishing gears/equipment 
+The fishing gears used by fishermen for catching fish depends on the type of boats used, depth 
+of sea where fishing is done, type of fish to catch. Normally, they use hand lines, gill nets and 
+longlines. Longlines are also used for shark, tuna and other big fish species such as king 
+mackerel, which are the most popular and most favoured species in the country, while 
+Gillnets are used as bottom-set nets for catching shark species.  
+ 
+In order to understand the fishing equipment used, the respondents (fishermen) were 
+queried on the various equipment used for fishing in their areas. The following findings are 
+reported:  
+ 
+ 
+C)  Fishing Schedule 
+The fishing activity is undertaken six days a week with the fishermen going out to the sea 
+around 4 A.M. and return back to the shore around 10 A.M. The average time the fishermen 
+VOLVE
+BOAT 
+ENGINE
+CANOE
+1.00
+1.00
+0.00
+0%
+1%
+34%
+63%
+2%
+Fishing equipment  used
+Cast net
+Gill net
+Trawling
+Hand line
+Long line
+=== PAGE 22 ===
+ 
+ 
+22 
+gives for catching fishes is around 3 to 4 hours in the trip. Normally, the fishermen venture 
+out to 25 to 30 miles from the shore to catch fish.  
+ 
+ 
+The above table provides an insight into few parameters in the fishing activity. On average 50 
+kg per boat is exposed to sun for nearly 4 hours. Since, the quality of the fish deteriorates due 
+to excessive and improper handling as well as exposure to sun, it can be seen that around 4 
+hours of exposure to outside atmosphere is reported.  90% of the respondents (Fishermen) 
+to the study mentioned that they carry ice-box to the sea, which indicates large scale 
+deterioration to the caught fish is minimized. 
+ 
+D) Ice availability and chill room availability 
+There are few ice-making plants spread mostly in the coastal areas. Though not specifically 
+producing for the fishery sub-sector, their location indicates that the primary customers are 
+the fishermen, traders and exporters. The availability of cold storage facilities is one of the 
+factors that is hampering the fish storage capacities. Some of the ice plants have chill rooms 
+and also some retailers have deep freezers to store. According to Secure Fisheries Glazer et 
+al (2015) report, figures quoted from 2010 show some Puntland settlements had ice plants 
+(in Las Koreh, Bosaso, Bargal, Ras Hafun, Bar Madobe, Bander Beyla, Durdura, Garad, and 
+Dhinowda) and cold storage facilities (in Las Koreh, Bosaso, Habo, and Bargal). These facilities 
+had chill-rooms and some had longer-term deep freezers. In addition, there were over 100 
+heavy-duty refrigerated trucks and mobile reefer units which were used mainly in the lobster 
+fishery. The exact operational units as of day, is not available to be reported. 
+ 
+3.3. Fish processing 
+Fish processing in Somalia can be classified into two broad groups. One is the traditional or 
+artisanal level of processing which basically is done with the objective of preserving fish and 
+to be eaten later. The other type is commercial processing, which is mostly mechanised and 
+targeted to cater to the export market. The number of units of the second type is limited and 
+the study estimates around 10 to 12 such units, with major concentration is in Puntland.  
+0.00
+20.00
+40.00
+60.00
+80.00
+100.00
+120.00
+140.00
+160.00
+Median
+catch/trip -
+kg
+Highest
+Catch/trip -
+kg
+Lowest
+Catch/trip -
+kg
+50.00
+150
+33
+0.00
+0.50
+1.00
+1.50
+2.00
+2.50
+3.00
+Exposure time in the
+boat (hr)
+Exposure time in the
+shore(hr)
+3.00
+1.00
+Fish Exposed to AtmosPhere
+=== PAGE 23 ===
+ 
+ 
+23 
+ 
+ 
+ 
+ 
+ 
+3.4. Problems associated with the fishery supply chain  
+The study tried to understand the various issues or problems from the other stake-holders in 
+the supply chain namely the traders and processors to the existing fishing production system. 
+The major issues reflected are shown in the figure below:  
+Traditional Processing
+Smoked fish: Also locally called haniid. It is salted and 
+smoked in a pit. Mostly Tuna and Sailfish are smoked. Has 
+local domestic market
+Dried and Salted fish: The fish is cleaned and gutted out. It is 
+then salted and dried in Sun. The activity is mostly done by 
+women and the product is sold in the domestic market
+Dried Shark fins: Along-with the shark meat, fins are dried. 
+The shark fins have an export market and is exported to far-
+east. 
+Commercial processing
+Fish Fillet: The processing mentioned here are the companies who 
+makes fillet from fish using hand tools or semi -automatic saws and 
+the product is either frozen or fresh depending on the market- local or 
+distant. 
+Frozen Fish: A limited number companies/ factories are present in 
+Somalia ( study estimates 4-5) , which uses IQF Blast freezing 
+techniques to pack frozen fish for exports.
+Tuna canning/Lobster tailing: The study estimates 2-3 cannery canning 
+tuna with domestic as well as local market. While mostly in puntland, 
+there are un-organized units processing lobster tailing and export.
+=== PAGE 24 ===
+ 
+ 
+24 
+ 
+ 
+It can be inferred from the above chart that the perception of the stake-holders in the fishing 
+production system is more related to infra-structure bottlenecks and comparatively less on 
+skilling parameters. This could be due to the existing situation where the fishing activity is still 
+traditional or artisanal without much value addition happening in terms of further processing 
+as well as consumption demand is still marginal.  
+ 
+In addition, interactions with various experts and stake-holders also reveals few more 
+bottlenecks that can play very critical role for further advancement of the fishery sub-sector. 
+  
+• The existing fishing jetties have infra-structure problems to dock in larger fishing 
+vessels as well as equipment for loading/unloading of Ice storages or transportation 
+of ice boxes out of the jetty. This will be bottle-necks for increased fishing activities as 
+well as adopting modern practices.  
+• Inadequate and irregular supply of ice-blocks to the fishermen, traders and processors 
+could become a major issue, if the promotion of fishery may lead to increased 
+requirements.  
+• Almost 2/3rd of the Somalian coast-line is exposed to strong ocean currents and very 
+few natural harbours. This provides limited cover to the fishing vessels during the 
+monsoon period. Kismayo, in Jubaland, is the only natural port; Mogadishu has only a 
+small naturally protected area at the old port, in addition to manmade cargo-oriented 
+commercial facilities 
+ 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Damage to fish while…
+Handling of fish
+Storage facility of fish in…
+Lack of jetty for fishing…
+Packing and Placing of…
+Cold chain availability for…
+Availability of cold…
+Availability of dry ice for…
+Lack of skilled workers in…
+0.125
+0.375
+0.875
+1
+0.875
+1
+0.5
+0
+0.125
+0.875
+0.625
+0
+0
+0.125
+0
+0.5
+1
+0.875
+0
+0
+0.125
+0
+0
+0
+0
+0
+0
+---
+Serious Problem
+Average Problem
+No Problem
+=== PAGE 25 ===
+ 
+ 
+25 
+4. FISH MARKETING SYSTEM 
+4.1. Classification of marketable products 
+The study reported that the fishery sub-sector in Somalia is pre-dominantly based on trading 
+of whole fish – fresh or frozen. Some processing or value addition is reported but it is very 
+basic and rudimentary. Some mechanised fish processing unit for making fillets, frozen whole 
+fish has come up in Puntland, Juba-land and Banadir regions. Interestingly, some of the 
+secondary study reports has mentioned the existence of canning unit but it has not been 
+reported by our respondents. One unit through secondary sources was identified, which cans 
+tuna fish in Puntland. 
+ 
+Whole Fish- fresh: 
+This the segment which is locally traded 
+in the markets and is focussed towards 
+house-hold consumption, consumption 
+in hotel and restaurant etc.  
+ 
+Whole Fish- Frozen: 
+This group of products can be further 
+classified into Chilled Fish and Frozen 
+Fish. The chilling of fish is done through 
+packing in ice box and is targeted to be 
+sold 
+at 
+the 
+regional 
+market 
+or 
+neighbouring countries for re-exports. 
+The frozen fish are the ones using 
+modern IQF technique of blast freezing ( 
+the secondary research has revealed few 
+factories in Puntland ) for exports to 
+countries far off like Oman, UAE etc.  
+ 
+Fish Fillet- Fresh and frozen: 
+The process of making fish fillet is mostly 
+traditional 
+handmade 
+or 
+semi-
+mechanized 
+in 
+some 
+commercial 
+factories. The target market is both 
+export and domestic ( particularly the 
+hotel and restaurants)
+=== PAGE 26 ===
+ 
+ 
+26 
+Cut Shark Fins:  
+The market is mostly exports. The cut 
+shark fins, most cases the dorsal fins are 
+either dried or frozen.  
+ 
+Smoked Fish: 
+Somali speciality made from tuna and 
+sailfish, which is salted and then smoked 
+in pits and sold locally and called Haniid. 
+ 
+ 
+Dried and Salted Fish: 
+The fishermen and traders when ice is 
+not available, sun dries after pickling the 
+fish with salt. The dried and salted fish 
+has both domestic and market in Kenya. 
+Mostly Shark meat has the largest 
+demand.    
+ 
+Lobsters: 
+The artisanal fishery fishes Spiny lobsters 
+in the narrow water and sold to traders 
+to be frozen and exported to the 
+neighbouring 
+countries, 
+while 
+commercial fishery catches two types of 
+deep sea lobsters and exports.
+=== PAGE 27 ===
+ 
+ 
+27 
+4.2. Various actors in marketing and sales channel of whole fish 
+The value chain of whole fish trading (both fresh and frozen) in the artisanal fishing category 
+has many sub-chains with various actors playing different roles. A synopsis of these sub-chains 
+is being presented below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.3. Various actors in marketing and sales channel of processed fish 
+The value chain of processed fish trading in the artisanal fishing category has many sub-chains 
+with various actors playing different roles. A synopsis of these sub-chains is being presented 
+below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Local Fishermen 
+Local Market 
+Fish Monger 
+Small Trader 
+Wholesaler 
+Consumer 
+Regional 
+Market 
+Hotels & 
+Restaurants 
+Consumer 
+• 
+Ice suppliers 
+• 
+Freezer truck operators 
+• 
+Fish market authority 
+• 
+Labourers for loading/ 
+unloading. 
+• 
+Trading boats to export 
+Processor of 
+frozen fish 
+Exporters 
+Retailer 
+Consumer 
+Local Fishermen 
+Sun Dried Fish 
+Exporters 
+Local market 
+Consumer 
+Smoking Fish 
+Consumer 
+Processor of Fish 
+Fillet/ lobster tailing 
+Consumer 
+• 
+Ice suppliers 
+• 
+Freezer truck operators 
+• 
+Fish market authority 
+• 
+Labourers for loading/ 
+unloading. 
+• 
+Trading boats to export 
+• 
+Packaging material supplier 
+Export 
+Trader
+=== PAGE 28 ===
+ 
+ 
+28 
+ 
+4.4. Fish Trading Route  
+The sales channel analysed in the previous section indicates that trading of fish and fish 
+products are either for the domestic consumption or the export market. In case of export 
+market, it can be roughly assumed that the channel depends on the end market of the 
+product. The figure below presents a rough snapshot on the trading routes of fish and fish 
+products in the country.  
+ 
+Figure 12: Fishing trade routes in Somalia 
+ 
+Couretsy: SecureFisheries 
+ 
+4.4.1 Domestic Market 
+The domestic consumption of fish is very limited in Somalia, and the major consumption 
+centres are in the coast. This is due to many reasons including cultural and also shortage of 
+freezer vehicles to take the fish into the hinterlands. The law and order situation where land 
+transportation to a large extent is weak in Somalia, so even freezer trucks availability is not 
+the immediate solution.  
+Many of the fishermen, being unable to transport the fresh fish due to lack of ice box and 
+transportation vehicle, converts fresh fish to either smoked fish (Haniid) or dried & salted fish.
+=== PAGE 29 ===
+ 
+ 
+29 
+The smoked fish is mostly for the domestic market while the dried one has markets in the 
+neighbouring country too.  
+ 
+To understand the place where fish as a commodity is exchanged, primarily it is in two places. 
+First of all, it is in the landing sites in the coast, where the fishermen bring the catch auction 
+it to the highest bidder (trader). The larger transaction takes place in designated markets 
+within the city/town limits where both wholesale and retail trading takes place.  
+The report provides below the major market area for fish trade in the major towns of Somalia.  
+ 
+Figure 13: Major fish markets in Somalia 
+ 
+The figure below provides an understanding of the price and cost of fish trading.  
+Figure 14: Selling price of the fishermen (USD/kg) 
+ 
+ 
+Figure 15: Cost reported by fishermen to trade in the market in Mogadishu 
+•BALADWEYNE
+• MOGADISHU
+• KISIMAYO
+• BOSSASO
+Nafis fish 
+market
+Alanley fish 
+market
+Kibora fish 
+market
+Dalxiis fish 
+market
+Dabageed 
+fish market
+Medina fish 
+market
+Hamarweyne 
+fish market
+Lido fish 
+market
+0
+0.5
+1
+1.5
+2
+2.5
+Spanish mackeral
+Tuna
+Snapper
+Sharks
+2
+1.5
+1.2
+2.5
+Selling price of fish by fishermen in Mogadishu 
+USD/kg
+=== PAGE 30 ===
+ 
+ 
+30 
+ 
+ 
+The figure below presents the various costs that a fish trader has to incur.  
+Figure 16: Prices reported by traders 
+Figure 17: Other cost related to fishing reported by traders 
+ 
+ 
+ 
+ 
+0
+0.05
+0.1
+0.15
+0.2
+Labour cost…
+Labour cost…
+Transportatio…
+Cost of ice (…
+Market…
+0.04
+0.08
+0.1
+0.17
+0.04
+0.03
+0.06
+0.075
+0.17
+0.03
+0.024
+0.048
+0.06
+0.17
+0.024
+0.05
+0.1
+0.125
+0.17
+0.05
+Cost incurred by a Fishermen in Mogadishu IF sold in 
+the market
+Spanish Mackeral
+Tuna
+Snapper
+Sharks
+0
+1
+2
+3
+4
+5
+Shark
+Snapper
+Tuna
+Demersal
+fish
+4
+2
+5
+3
+Price in Kisimayo market 
+USD/KG
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Spanish
+mackeral
+Tuna
+Shark
+Cartilage
+fish
+6.5
+4
+3
+3
+8
+6
+3
+5
+Price in mogadishu USD/Kg 
+Median
+Highest
+0
+0.2
+0.4
+0.6
+0.8
+1
+Transportation…
+Loading and…
+Market…
+0.5
+0.5
+1
+Other COST RELATED to 
+FISH TRADING -KISIMAYO  
+USD/KG
+0
+0.05
+0.1
+0.15
+0.2
+Transportation…
+Loading and…
+Market…
+0.1
+0.1
+0.2
+OTHER COST RELATED to 
+fish trading- mogadishu 
+usd/kg
+=== PAGE 31 ===
+ 
+ 
+31 
+The price reported by the processing units in both Mogadishu and Kisimayo 
+ 
+Figure 18: Reported cost price by the processors 
+ 
+ 
+4.4.2 Export Market 
+The actors involved in the export can be classified into organized registered exporters which 
+includes traders as well as processing units which are either canning, blast freezing of fish, 
+frozen fillet etc. while the second category are the ones who are either Somali citizen having 
+Yemeni boats or small traders in the South Somalia. These un-organized group transfers fresh 
+fish, dried & salted fish, shark fins, lobster & lobster tails to Yemen, Kenya and Ethiopia. These 
+are either consumed in the local market or re-exported.  
+ 
+The export figures for fish and fish products on Somalia has been taken from the website of 
+“Observatory of Economic Complexity (OEC)” and were analysed to find the following 
+findings.   
+ 
+The exports can be classified into four groups: 
+ 
+• 
+Non-fillet frozen fish 
+• 
+Non-fillet fresh fish 
+• 
+Processed fish (includes- dried & salted, shark fins, lobster tails, canned fish) 
+• 
+Fish fillet 
+ 
+ 
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Tuna
+Spanish
+Mackeral
+Shark
+7
+10
+9
+COST PRICE FOR PROCESSOR 
+IN MOGADISHU USD/KG
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+Shark
+Snapper
+Tuna
+COST PRICE FOR PROCESSOR IN 
+KISIMAYO USD/KG
+=== PAGE 32 ===
+ 
+ 
+32 
+Figure 19: Export figure of fish and fish products- Somalia 
+ 
+Courtesy: OEC 
+ 
+ 
+Figure 20: Export destinations for Somalian fish and fish products 
+ 
+Courtesy: OEC 
+ 
+It can be inferred from the above two figures that the value added products for exports is 
+still in the infancy stage with focus of exports is whole fish. It can lead to another conclusion 
+from the fig. 17, that maybe many of the whole fish is going to neighbouring countries or 
+the gulf countries where produce are processed and re-exported.  
+ 
+ 
+0
+2
+4
+6
+8
+10
+12
+Non-fillet frozen fish
+Non-fillet fresh fish
+Processed fish
+Fish fillet
+5.44
+0.75
+1.1
+0.246
+5.82
+0.18
+0.208
+1.06
+11.4
+0.32
+1.07
+0.36
+Export in Million US$
+2017
+2016
+2015
+Oman
+57%
+South Korea
+9%
+China
+3%
+Jordan
+12%
+Japan
+6%
+UAE
+1%
+Ethiopia
+1%
+Hongkong
+5%
+Yemen
+5%
+Egypt
+1%
+Country-wise percentage volume of exports (2015-17)
+Oman
+South Korea
+China
+Jordan
+Japan
+UAE
+Ethiopia
+Hongkong
+Yemen
+Egypt
+=== PAGE 33 ===
+ 
+ 
+33 
+ 
+5. VALUE CHAIN ANALYSIS 
+5.1. Various actors and sub-actors 
+ 
+ 
+ 
+ 
+•Owner of traditional boats with 5-6 labour 
+fishermen.
+•Fishes in the coastal area.
+•Sales the catch on-shore or carries it to the 
+local market
+•-
+Fishermen
+•Mostly the fishermen or small traders
+•Makes dried & salted fish and smoked fish
+•Targets mostly domestic consumption but
+some amount of dried and salted fish is
+exported
+•-
+Traditional 
+processor
+•These are mostly women from IDP camps
+who go from house to house selling fresh
+fish.
+•They buy mostly from the fishermen in the 
+shore. 
+Fish monger
+•These are local traders who procure fish
+from the shore from the fishermen and
+brings to the local market.
+•They sell to large wholesalers and also
+processors.
+Local Trader
+•They are large traders who buy from local traders
+in the fish market and supply to various players
+like in the regional market, exporters, and SME
+processors. Also, they are into exports too.
+•Mostly own freezer trucks and have access to
+chilling storages.
+Wholesaler
+•They can be categorised into following types- registered
+exporters -exporting frozen whole and fish fillet, dried
+shark fins, canned fish .
+•The second category are yemeni fishermen of Somalian
+origin in puntland who smuggle out fresh fish in boats
+with ice box and then re-exports.
+•A small group of traders pushing dried shark meat/fins,
+fresh fish to Kenyan market by road and boats from
+Kisimayo.
+Exporter
+•These are either roadside vendors selling
+fresh fish/ dried/ smoked fish, or have
+retail shop with freezers to store fresh fish
+or fillet or canned fish.
+•They buy mostly from traders.
+Retailer
+•The processors can be the fishermen or
+small traders who to preserve the fish
+makes dried and smoked fish.
+•Or they are SMEs who make fish fillet,
+canned
+fish,
+lobster
+tailing
+and
+blast
+freezing of fish.
+Processor
+=== PAGE 34 ===
+ 
+ 
+34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•Fishermen cooperative is an old
+concept
+in
+Somalia
+but
+became
+defunct during civil war. These coop.
+now platform for NGOs to provide
+training.
+•Some active coops arrange finance
+for members as well as help in
+locating missing boats.
+Fish Cooperative
+•There are number of ice making
+plants in the country producing ice
+for various commercial activities.
+•Dedicated
+production
+of
+ice
+for
+Fishery
+Industry
+has
+not
+been
+reported. Hence market fluctuation
+causes shortages of ice occassionally
+Ice plant
+•It is a very un-organized group, the
+technicians
+learning
+the
+skills
+through informal sources.
+•Are very critical for the fishermen
+during monsoon and storn period
+when boats and nets are regularly
+damaged.
+Boat/ Fishery tool 
+Repairers
+•Most
+of
+these transporters are un-
+organized pick-up van owners who help
+fishermen/ traders to transport the fish
+catch in ice boxes or sprinkling ice flakes
+on the fish.
+•Though
+most
+of
+the
+processors/
+exporters have freezer vans of their own,
+there are few private operators too.
+Transporters
+•The major transaction of fish takes
+place in designated markets.
+•There
+is
+market
+authority/
+commission
+agents
+who
+ensures
+smooth transactions takes place in a
+decent area and charges fee for the
+transactions.
+Market Regulators
+•These
+are
+un-organized
+wage
+labourers who provide service in
+loading
+/unloading
+fish
+and
+fish
+boxes.
+•These labourers are paid based on
+seasonal supply load.
+Labour - loading/ 
+unloading
+=== PAGE 35 ===
+ 
+ 
+35 
+ 
+ 
+5.2 Value Chain framework for Artisanal fishery value chain 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OCEAN FISH
+FISHERMEN
+TRADER
+CONSUMER
+OCEAN FISH
+FISHERMEN
+TRADER
+MARKET
+LARGE 
+TRADER
+PROCESSOR
+EXPORTER
+RETAILER
+CONSUMER
+SUPPLY 
+DEMAND
+Sippliers of ice 
+box, freezer, 
+boats and fishing 
+tools. 
+INPUTS/SERVICE PROVISION 
+Formal/ Informal 
+Credit availability 
+Boat and fishing tool 
+repairing services 
+Ice plants providing 
+Ice for freezing 
+Transport Services- 
+Including Freezer trucks 
+plus local Pick-ups 
+ENABLING ENVIRONMENT 
+Govt. Policies – National Fisheries Act, 
+Extension services: FAO, Min. of Fisheries, 
+CARE Somalia, ICRC, IORA, Fishing Coop. 
+etc. 
+Access to Inshore 
+fishing area and 
+maritime protection 
+Infrastructure- Fishing Jetty 
+Roads, Mobile money transfer 
+operators, mobile telephony etc  
+Rules and regulations of 
+Markets
+=== PAGE 36 ===
+ 
+ 
+36 
+Value addition in Fishing trading value chain (Calculated on primary data) 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fish caught by the 
+fishermen
+Fish taken by the fishermen 
+to market and sold
+Trader buys the fish from the 
+market & sales to processors
+A processor buys the fresh fish 
+to process
+Cost to the fishermen 
+Cost of Ice: 1 kg of fish needs 0.34 kg of ice. Cost 
+of 1 kg of ice is 0.5$, hence cost= 0.17 $ 
+Cost of loading/ unloading: If Tuna is sold at 2 $ 
+at the shore, the cost will be 4%, hence cost= 0.06$ 
+Transportation Cost= 5% of sales price, hence 
+cost=0.075$ 
+Market Commission=2% of sales price, hence 
+cost= 0.03 
+Total= 0.335$ 
+To catch 1 kg of Tuna, 
+Fishermen incurs labour 
+cost and cost of ice to bring 
+to the shore.  
+To carry 1 kg of Tuna to the 
+local 
+market 
+and 
+sell, 
+Fishermen incurs labour 
+cost for loading/ unloading 
+nd cost of ice and market 
+commission rate.  
+To buy 1 kg of Tuna from the 
+fishermen to the sell and place at 
+the processor’s factory. The 
+trader incurs labour cost for 
+loading/ unloading, cost of ice, 
+transportation cost and market 
+commission rate.  
+To process 1 kg of Tuna, 
+processor has the input cost 
+of 
+the 
+fish 
+and 
+other 
+processing cost.   
+Cost to the Trader 
+Cost of Ice: 1 kg of fish needs 0.34 kg of ice. Cost 
+of 1 kg of ice is 0.5$, hence cost= 0.17 $ 
+Cost of loading/ unloading: If Tuna is sold at 5 $, 
+the cost will be 4%, hence cost= 0.2 $ 
+Transportation Cost= 5% of cost price, hence 
+cost=0.25 $ 
+Market Commission=2% of cost price, hence cost= 
+0.1 
+Total= 0.55$ 
+Cost price of Tuna at the shore – Fishermen = 2 $/kg 
+Selling price of Tuna at the market- Fishermen= 5 $/kg 
+Other cost to the fishermen= 0.335$/ kg 
+Profit at the fishermen level= 2.665 $/kg 
+Cost price of Tuna to the trader = 5 $/kg 
+Selling price of Tuna to the processor - Trader= 7 $/kg 
+Other cost to the trader= 0.55$/ kg 
+Profit at the trader level= 1.45 $/kg
+=== PAGE 37 ===
+ 
+ 
+37 
+Value addition in fishery processing value chain- canned fish (Using secondary data sources) 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Processor procures fish and 
+processes to can tuna in can
+Distributor purchases from 
+the processors and sells to 
+wholesalers
+Wholesaler purchase from 
+distributor and sells to 
+retailer
+Retailer purchases from 
+wholesaler and sells to 
+consumer
+Cost to the Processor 
+ 
+Production Cost – 0.62 $ 
+Transportation cost- 0.02 $ 
+Sales Tax – 0.02 $ 
+Total Cost- 0.66 $ 
+Fish is procured by the processor 
+from wholesaler/traders of fish and 
+pays the transportation cost. The 
+total production cost includes the 
+raw 
+fish 
+cost 
+and 
+associated 
+transformation cost to canned tuna. 
+The processor is paying the sales 
+tax. 
+The distributor buys the 
+canned 
+tuna 
+from 
+the 
+factory. In addition to the 
+purchase price, it includes 
+overheads 
+like 
+labour, 
+transportation cost, utilities 
+etc. in its costing.  
+The wholesaler buys the canned 
+tuna from the distributor. In 
+addition to the purchase price, it 
+includes overheads like labour, 
+transportation cost, utilities etc. 
+in its costing.  
+ 
+The retailer buys the canned tuna 
+from the wholesaler. In addition 
+to the purchase price, it includes 
+overheads 
+like 
+labour, 
+transportation cost, utilities etc. 
+in its costing.  
+Cost to the Distributor 
+ 
+Purchase price = 0.83 $/ can 
+Overheads = 0.002 $ / can 
+ 
+ 
+Sell price to the distributor = 0.83 
+$/can 
+Profit margin = 0.17 $/can 
+Value added = 0.21 $ /can 
+Sell price to the wholesaler = 0.85 
+$/can 
+Profit margin = 0. 018 $/can 
+Value added = 0.02 $ /can 
+Cost to the Wholesaler 
+ 
+Purchase price = 0.85 $/ can 
+Overheads = 0.002 $ / can 
+ 
+ 
+Cost to the Retailer 
+ 
+Purchase price = 0.88 $/ can 
+Overheads = 0.312 $ / can 
+ 
+ 
+Sell price to the retailer = 0.88 
+$/can 
+Profit margin = 0. 028 $/can 
+Value added = 0.03 $ /can 
+Sell price to the Consumer = 
+1.250 $/can 
+Profit margin = 0. 058 $/can 
+Value added = 0.37 $ /can
+=== PAGE 38 ===
+ 
+ 
+38 
+5.3 Supply Chain in Fish value chain  
+ 
+ 
+ 
+Fishermen 
+Local 
+market 
+Local Consumer 
+Local 
+Trader 
+Fish Monger 
+Wholesaler 
+Retailer 
+Exporter 
+Hiring of local 
+pik-up van to 
+transport fish 
+Service units 
+providing repair of 
+boats and fishing 
+tools 
+Transport- 
+Freezer vans/ 
+Pik-up vans 
+Utilities for chiller 
+room, machinery, 
+freezer 
+Labour for 
+loading/ 
+unloading  
+Packaging 
+material 
+Ice supplied for 
+Ice Boxes 
+Suppliers of boats, 
+ice box, freezers, 
+fishing tools 
+Labour for 
+loading/ 
+unloading 
+Local Consumer/ 
+Hotels & 
+Restaurant 
+Local Consumer 
+Fish Processor
+=== PAGE 39 ===
+ 
+ 
+39 
+5.4 Chain Governance 
+Value chains involve regular interactions between the various actors implying repetitiveness 
+in their relationships. Governance ensures that interactions between firms along a value chain 
+exhibit some reflection of order rather than being simply random. Value chains are governed 
+when parameters requiring product, process, and logistic qualification are set which have 
+consequences up or down the value chain encircling package of activities, actors, roles, and 
+functions. 
+Governance can be categorised into the following types; legislature (making the rules), the 
+executive (implementing the rules) and the judiciary (monitoring the conformance to rules). 
+This governance can be exercised by parties internal to chain or external to chain.  
+As a part of the value chain analysis for the fishery sub-sector in Somalia, the chain 
+governance was looked into; 
+ 
+ 
+Exercised by parties internal 
+to chain 
+Exercised by parties external to chain 
+Legislative 
+governance 
+• The quality of the fish 
+supplied by the fishermen 
+are deciding factor for the 
+prices governed by the 
+traders who purchase from 
+them. 
+• Similarly, the processors 
+requirement decides the 
+pricing for the traders.  
+• Market committee fixes the 
+commission to be collected for the 
+transactions taking place in the 
+market. 
+• Demand by consumers for Tuna or 
+Shark fins prompts preference in 
+procurement of these items.  
+• Artisanal fishermen are not highly 
+regulated by the authorities. 
+• Authorities do not allow the 
+commercial fishermen to enter the 
+territories allotted to artisanal 
+fishermen. 
+Executive 
+governance 
+• The fishermen/ traders 
+themselves sort the fishes 
+according to buyer needs 
+before sales.   
+ 
+• Market committee ensures that the 
+commission on sales are paid on 
+time by the traders/ fishermen. 
+• The maritime guards enforce the 
+rules for commercial fishery 
+including reporting the catch and 
+avoidance of the territorial waters 
+dedicated to artisanal fishermen. 
+Judicial 
+governance 
+• The quality/ produce 
+conformation is checked by 
+the traders while procuring 
+them from the fishermen.  
+• Similarly, the fish processor 
+checks when procured for 
+the traders. 
+• Market committee monitors 
+whether the fishermen / local 
+traders are paid according to the 
+agreements. 
+• Fish and Fish products exported 
+legally needs to conform to 
+consumer standards of the 
+respective countries.
+=== PAGE 40 ===
+ 
+ 
+40 
+ 
+ 
+5.5 Inter-firm cooperation 
+Inter firm cooperation is defined as joint activities undertaken by the various stake-holders in 
+the value chain. Cooperation can be subdivided in horizontal linkages, i.e. cooperation among 
+similar types of enterprises, for example fishermen, and vertical linkages, cooperation 
+between enterprises at different positions in the value chains, for example the local traders 
+and fishermen. 
+Horizontal linkages refer thus in particular to the regular contacts and relationships between 
+peer enterprises within a specified area, more specifically, it refers to joint activities of such 
+firms, i.e. joint purchases, joint usage of equipment, joint contracts and joint learning 
+On the one hand, vertical linkages refer thus to contracting and subcontracting relationships 
+between enterprises of different types in terms of scale. 
+5.5.1 Horizontal linkages 
+Horizontal linkages, or the cooperation among similar types of stake-holders, are relatively 
+weak. In case of fishermen, the only perceived cooperation is being member of the local 
+fishery cooperative where joint training programs are conducted by some NGOs. Another 
+area of support received through the cooperatives is assistance to the fishermen to locate 
+boats during storms.  
+ 
+5.5.2 Vertical linkages 
+In general terms, stake-holders in the value chain have strong vertical linkages. The flow of 
+fish to the consumer either whole or processed goes through various stake-holders. The 
+trader will buy from the fishermen, the wholesaler buys from the trader and sells to retailers 
+or the exporters. The processors depending on the location and quantity buys from 
+wholesalers or the traders. All the major actors in the value chain are vertically linked. The 
+wholesaler or the large traders have prior contract of supply to the processors or the 
+exporters. While many hotels/restaurants have informal agreement of supply with the 
+fishermen.
+=== PAGE 41 ===
+ 
+ 
+41 
+ 
+6 FINDINGS & KEY ISSUES  
+ 
+The artisanal fishermen in Somalia is still practicing very traditional form of fishery with 
+obsolete tools and equipments. Most of the fishing boats are still old boats used 
+traditionally requiring frequent repairing. The introduction of new modern boats will also 
+simultaneously require building the capacities of the existing miro-entrepeneurs involved 
+in repairing boats. 
+ 
+ 
+Since, most of the fish catch is targeted towards domestic consumption, not much 
+importance is given towards handling of fish, placing the fish in ice box, packaging of fish 
+etc. The existing skilled work-force doing these activities are either not informed or lack the 
+capacity & knowledge to do those activities as best practices. These skill sets will play a very 
+important role , if the fishery sub-sector is promoted extensively , and investment towards 
+export market and processing materializes.  
+ 
+ 
+Traditional fish processing like sun-drying and smoked fish is prevalent since the fishing 
+community required to preserve and extend the shelf –life of caught fishes. With growing 
+demand of dried fish in the neighbouring countries as well as distant markets especially for 
+products like dried shark fins & lobster tails, a need for standardization of the processes 
+and efficient quality norms to be built in. In addition, fish drying also promotes women 
+empowerment since the activity is mostly done by women-folk in the community. Standard 
+operating procedures and capacity building will improve the situation.   
+ 
+ 
+ 
+After the end of the civil war, sensing the huge business opportunity in the fishery sub-
+sector, few private sector has invested and established mechanized fish processing units. 
+These units are primarily in increasing shelf-life of fish for export through IQF blast freezing 
+techniques, fish canning units, and semi-mechanised or manual fish fillet making. In the 
+coming years, more of these units will be established and it is expected that there will be 
+shortage of skilled work-force in these areas. With that perspective in mind, steps should 
+be taken towards building capacities of Somalian work-force to manage these mechanized 
+units.
+=== PAGE 42 ===
+ 
+ 
+42 
+7 RECOMMENDATION ON AREAS for SKILL SET UPGRADATION 
+A) FISH PRODUCTION 
+Extension Services 
+Areas of Skilling 
+Remarks 
+Techniques on improving the capacities of fish boat 
+repairers to provide services to boat men.  
+These training modules will be 
+targeted 
+at 
+the 
+micro 
+entrepreneurs 
+servicing 
+the 
+fishing boats.  
+Packaging, Storage and Transportation 
+Areas of Skilling 
+Remarks 
+Technique on how to store fish in ice box, deep freeze, 
+ice chiller to prevent damage in fish due to 
+inappropriate cooling.  
+These training modules will be 
+targeted at the workers working 
+with fishermen / traders as well 
+as fish processing units.  
+Handling, stacking of fish, loading, unloading to 
+minimize damage.   
+ 
+B) PROCESSING 
+Traditional artisanal processing 
+Areas of Skilling 
+Remarks 
+Technique of fish drying in Sun: 
+• 
+Removing of guts and cleaning of 
+fish. 
+• 
+Process of Sun drying 
+• 
+Packaging of sun dried fish 
+This training module is to be designed for 
+community of fisherwomen who is already 
+engaged in similar activities.  
+Mechanized Processing 
+Capacity building in the vocational 
+training 
+spectrum 
+for 
+mechanized 
+processing:   
+• 
+Use of machine to make fish fillet: 
+• 
+Storage of fish in chillers: 
+o Placing 
+o Temp. range based on species 
+o Period of storage 
+o Regular monitoring 
+• 
+IQF Blast freezing technique 
+• 
+Packaging for export destination. 
+• 
+Mechanized process of fish canning 
+Gradually, units will be coming up in Somalia, 
+in-fact few of them already in existence in 
+Puntland and Banadir, which will start 
+mechanized fillet making, IQF blast freezing 
+technique, canning etc. This training module 
+will be geared towards creating a skilled work-
+force that can be of high demand in coming 
+years.
+=== PAGE 43 ===
+ 
+ 
+43 
+Annex 1 - Bibliography 
+ 
+1. Somalia Knowledge Attitude & Practices Study (KAPS): Fish Consumption in Somalia, 
+Nov 2011 – Food Security & Nutrition Analysis Unit (FSNAU) 
+2. Securing Somali Fisheries – Secure Fisheries 
+3. Failed State: Reconstruction of Domestic Fisheries Catches in Somalia 1950 -2010 – 
+Swedish University of Agricultural Sciences – Umea 
+4. Mobility, Trust and Exchange: Somalia and Yemen’s cross border maritime economy- 
+Rift Valley Institute 
+5. Report SF/2011/11-Programme for the implementation of a Regional Fisheries 
+Strategy for the Eastern & Southern Africa & Indian Ocean region – Smart Fish 
+6. Feasibility Report on the Fisheries sector in Puntland – UNDP Somalia 
+7. Coastal Livelihoods in the republic of Somalia – The Agulhas and Somali current large 
+marine eco-systems (ASCLMS) project. 
+8. Assessment of the Status of the Artisanal Fisheries in Puntland through Value Chain 
+Analysis- VSF Suisse and UNDP Somalia 
+9. Fisheries in the ESA -10 Region: Profile and Trends Country Review 2014 Somalia- 
+Smart Fish 
+10. Somalia – Country Economic Memorundum Vol. I Rebuilding Resilient and Sustainable 
+Agriculture in Somalia - FAO 
+11. Somalia National Report to the Scientific Committee of the Indian Ocean Tuna 
+Commission, 2017 
+12. Improving the catch data collection system for Somali Fisheries: Project Kalluun- 
+Indian Ocean Tuna Commission 
+13. Website- http://www.fao.org/faostat/en/#data 
+14. Website-   https://www.selinawamucii.com/insights/market/somalia/ 
+15. Website- 
+https://oec.world/en/visualize/tree_map/hs92/export/som/show/2106/2017/

@@ -1,0 +1,2484 @@
+=== PAGE 1 ===
+Digging for Data
+Towards Understanding Water as a Limiting or 
+Enabling Factor for Socioeconomic Growth in Somalia
+SOMALIA: ECONOMICS OF WATER SUMMARY REPORT
+=== PAGE 2 ===
+
+=== PAGE 3 ===
+Digging for Data
+Towards Understanding Water as a Limiting or 
+Enabling Factor for Socioeconomic Growth in Somalia
+A summary report, along with a suite of six reports, 
+accompanying the ‘Somalia: Economics of Water’ Report
+By: Chantal Richey, Philip Schuler, and Shyam K.C.
+=== PAGE 4 ===
+© 2021 International Bank for Reconstruction and Development / The World Bank 
+1818 H Street NW 
+Washington DC 20433 
+Telephone: 202-473-1000 
+Internet: www.worldbank.org 
+This work is a product of the staff of the World Bank with external consultants. The findings, interpretations, and conclusions 
+expressed in this work do not necessarily reflect the views of the World Bank, its Board of Executive Directors, or the 
+governments they represent. 
+The World Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors, denominations, 
+and other information shown on any map in this work do not imply any judgment on the part of the World Bank concerning 
+the legal status of any territory or the endorsement or acceptance of such boundaries. 
+Rights and Permissions
+The material in this work is subject to copyright. Because the World Bank encourages dissemination of its knowledge, this 
+work may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is given.
+Any queries on rights and licenses, including subsidiary rights, should be addressed to World Bank Publications, The World 
+Bank Group, 1818 H Street NW, Washington, DC 20433, USA; fax: 202-522-2625; e-mail: pubrights@worldbank.org.
+Cover photograph: Collecting water in Dhoobleey, Lower Jubba. (Photo courtesy: Ahmed Mohamed Hassan, Director of 
+Hydrometeorology Department, Ministry of Energy and Water Resources, Federal Government of Somalia)
+Administrative support: Joy Mildred Adhiambo Mboya and Meseret Tsegaw Chekole
+Editorial support and design: Anjali Dar Sengupta
+=== PAGE 5 ===
+Abbreviations and Acronyms........................................................................................................................iv
+Acknowledgments................................................................................................................................................v
+Executive Summary............................................................................................................................................vi
+Introduction........................................................................................................................................................... 9
+1	 What are Somalia’s Water Resources? How are They Changing?......................................10
+2	 How Water is Used in Somalia and How This is Changing.....................................................14
+3	 How is Water Managed and Governed?........................................................................................... 21
+4	 What are the Investment Needs and Options?...........................................................................28
+5	 Recommendations Summary................................................................................................................31
+Bibliography........................................................................................................................................................ 40
+Contents
+=== PAGE 6 ===
+iv
+Abbreviations and Acronyms
+	
+AF	 Additional Financing (World Bank)
+	
+AfDB	 African Development Bank
+	
+BRA	 Benadir Regional Administration
+	
+CAPEX	 Capital Expenditure
+	
+ENSO	 El Niño Southern Oscillation
+	
+ET	 Evapotranspiration
+	
+FAO	 Food and Agriculture Organization
+	 FAOSTAT	 Food and Agriculture Organization 
+	
+	 Corporate Statistical Database
+	
+FCV	 Fragility, Conflict, and Violence
+	
+FSNAU	 Food Security and Nutrition Analysis Unit
+	
+FGS	 Federal Government of Somalia
+	
+FMS	 Federal Member State
+	
+GDP	 Gross Domestic Product
+	
+ha	 Hectare
+	
+IDP	 Internally Displaced Person
+	
+IMF	 International Monetary Fund
+	
+INGO	 International Nongovernmental Organization
+	
+km	 Kilometer
+	
+km2	 Square Kilometer
+	
+l/cap/day	 Liter Per Capita Per Day
+	
+l/s/km2	 Liter Per Second Per Square Kilometer
+	
+lcd	 Liter Per Capita Per Day
+	
+m3	 Cubic Meter
+	 m3/ha/year	 Cubic Meter Per Hectare Per Year
+	
+MCM	 Million Cubic Meter
+	
+MCM/yr	 Million Cubic Meter Per Year
+	 microS/cm	 Micro Siemens Per Centimeter
+	
+mm/d	 Millimeter Per Day
+	
+mm/yr	 Millimeter Per Year
+	
+MoEWR	 Ministry of Energy and Water Resources
+	
+MoWD	 Ministry of Water Development
+	
+NDP	 National Development Plan
+	
+NGO	 Nongovernmental Organization
+	
+NWRS	 National Water Resource 
+	
+	 Development Strategy
+	
+ODA	 Official Development Assistance
+	
+OPEX	 Operational Expenditure
+	
+PET	 Potential Evapotranspiration
+	
+PPP	 Public-Private Partnership
+	
+SWC	 Soil and Water Conservation
+	
+SRTM	 Shuttle Radar Topography Mission
+	
+SWALIM	 Somalia Water and Land Information 	
+	
+	 Management (FAO)
+	
+ToR	 Terms of Reference
+	
+UNICEF	 United Nations Children’s Fund
+	
+WALP	 World Bank-funded Water for 
+	
+	 Agro-Pastoralist Livelihood Pilot in Somalia
+	
+WASH	 Water, Sanitation, and Hygiene
+	
+WaPOR	 Water Productivity Open-Access Portal
+	
+	 (FAO)
+	
+WB	 World Bank
+	
+WBG	 World Bank Group
+	
+WDA	 Somali Water Development Agency
+	
+WDS	 Water Delivery System
+	
+WFP	 World Food Programme
+	
+WHO	 World Health Organization
+	
+WSC	 Water and Soil Conservation
+=== PAGE 7 ===
+v
+T
+his report has been developed and written through a participatory process involving a team of World Bank 
+staff comprising Chantal Richey (Senior Water and Sanitation Specialist), Philip Schuler (Lead Economist), 
+and Shyam K.C. (Senior Water Resource Management Specialist) under the guidance of Catherine Signe Tovey 
+(Practice Manager). The team was supported by consultants: Kerstin Danert, Gonzalo Delacámara, Leslie Joy 
+Alex, Albert Tuinhof, Jacobus Groen, and Klas Sandström. Nitin Jain provided valuable guidance in the initial 
+stages of the report development. The report benefitted from initial work undertaken in a first phase in early 2020, 
+‘Somalia: Economics of Water Phase One’.
+We also thank our colleagues and partners who have provided photographs to enrich the text in this report.
+The views and opinions expressed in this report are those of the authors and do not reflect the position of the 
+World Bank or those of the executive directors of the World Bank or the governments they represent. 
+Anjali Dar Sengupta provided editorial and design support. Thanks are also due to Meseret Tsegaw Chekole 
+and Joy Mildred Adhiambo Mboya for providing team assistant support.
+Acknowledgments
+=== PAGE 8 ===
+vi
+W
+ater insecurity in Somalia continues to 
+impact the lives of millions, inhibiting 
+economic and human development. 
+This report ‘Digging for Data: Towards Understand­
+ing Water as a Limiting or Enabling Factor for Socio­
+economic Growth in Somalia’, proposes ways to avert 
+future crises by introducing untapped opportunities 
+within the country. Six key messages emerged during 
+the study.
+Data are scarce. The report’s title was chosen 
+as ‘Digging for Data’ because finding data on water 
+in Somalia is almost as hard as digging for water in 
+arid lands. Data are extremely limited, and whilst this 
+study evolved to producing and analyzing far more 
+data than was ever imagined, it also highlighted the 
+need for ongoing studies. 
+A suite of technical studies was produced: a full 
+Synthesis Report, a Groundwater Assessment and 
+a Groundwater Quality Note, a Surface Water and 
+Riverine Assessment, an Institutional Analysis and 
+a Water Sectoral Analysis. They offer comprehen­
+sive water data for Somalia and can be downloaded 
+from: the World Bank’s Water Global Practice web­
+site (https://www.worldbank.org/en/topic/water); the 
+Bank’s Somalia website (https://www.worldbank.org/
+en/country/somalia); and, in 2022, from the Ministry 
+of Energy and Water Resources’ (MoEWR) website 
+(https://moewr.gov.so), currently under construction.
+Is Somalia a water-scarce country? Not exactly, 
+and the situation is not as hopeless as one would 
+imagine. Analysis of water availability and expected 
+use in 2030 at a national level shows that, except for 
+the Benadir region, long-term renewable groundwater 
+and surface runoff resources will be sufficient to meet 
+water demands (human, livestock, and agriculture) 
+without significantly affecting environmental flows—
+provided water is allocated to the most productive 
+needs and managed efficiently. This is particularly 
+important to overcome localized acute water scarcity 
+at the district level and chronic vulnerability to vari­
+able rainfall at the community and household level, 
+negatively affecting people’s health, education, and 
+long-term human development outcomes, particularly 
+for women and vulnerable groups. 
+Water insecurity creates economic and human 
+development challenges through complex, mul­
+tiple pathways (see figure on page viii). Water in­
+security in Somalia, including exposure to ever more 
+frequent floods and droughts, is amplified by envi­
+ronmental degradation and climate change, both of 
+which can make rainfall more erratic, while reducing 
+the ability of watersheds to naturally store, treat, and 
+slowly release water for productive use and human 
+consumption. The challenges of achieving Water for 
+All has been further exacerbated by the global eco­
+nomic fall-out of COVID-19, resulting in poor macro­
+Executive Summary
+=== PAGE 9 ===
+vii
+economic performance which has led to low domestic 
+revenue collection, capital expenditure, and compet­
+ing sectoral priorities in turn reducing water sector 
+spending. Sector financing constraints, combined 
+with rapidly growing needs fueled by forced displace­
+ment and urbanization, further strain the state’s ability 
+to maintain inclusive and sustainable water services, 
+amplifying social and gender inequalities. Breaking 
+this cycle means building resilience to economic and 
+climatic shocks through a more diverse and dynamic 
+urban economy and a more secure rural economy, 
+both of which need to be underpinned by affordable, 
+inclusive, and reliable water services, itself a key pil­
+lar for improving human capital development.
+Investing in water generates high returns. 
+Based on an analysis of recent rural water sector 
+projects in Somalia, this study highlights how US$1 
+million invested in rural water infrastructure and liveli­
+hood development activities is estimated to generate 
+a discounted return of US$5.85 million under base­
+line assumptions.1 This study sets out a broad suite of 
+potential investments for the short and medium terms 
+for rural, peri-urban, and urban areas which would 
+strengthen resilience at local levels, transform liveli­
+hoods and the economy, and enhance the availability 
+of data, information, and knowledge on water and its 
+links to Somalia’s economy and social development. 
+Reinvent the riverine breadbasket through 
+farmer-led irrigation. Much recent discussion has 
+revolved around the demise of the Jubba and Sha­
+belle riverine areas’ irrigation infrastructure which, in 
+years gone by, provided the water for Somalia’s ag­
+ricultural hub. Multiple reports and strategies discuss 
+the need to rehabilitate the aged and dilapidated in­
+frastructure. This study suggests a different path and 
+proposes that, whilst rehabilitation of existing infra­
+structure is viable in the long term, the quicker, and 
+cheaper, method of farmer-led irrigation development 
+should be embraced in the short to medium term. 
+Where water sources are available nearby, farmer-
+led irrigation costs one-fourth as much on average as 
+traditional irrigation and it is far easier to implement. 
+Understanding urban water supply and sani­
+tation is an urgent analytical priority. The study 
+found that the rural water sector is well understood 
+and supported, and existing projects are scalable 
+without much modification. The same cannot be said 
+for urban water supply and sanitation, however. In 
+the short term, analytical work should focus on un­
+derstanding water and sanitation service delivery to 
+households and firms in urban areas, unpacking the 
+roles of emerging water utilities, and determining ap­
+propriate governance mechanisms. This will help pro­
+vide services for growing urbanization and contribute 
+to bridging gaps between rural and urban economies.
+The final section of the study concludes with head­
+line recommendations and detailed projects for con­
+sideration in the short and medium term. The study 
+suggests that all water sector investments should be 
+prioritized based on the twin objectives of (a) their 
+potential to improve long-term water availability as 
+a critical contribution to water security and climate 
+change adaptation; and (b) the extent to which they 
+contribute towards wider socioeconomic develop­
+ment, reducing inequalities, and creating economic 
+and human development opportunities.
+In July 2021, the Federal Government of Soma­
+lia published the National Water Resources Strategy 
+(NWRS). A primary recommendation emerging from 
+this study relates to the institutional arrangements in 
+the water sector and it is an immediate foundational 
+necessity for water governance to be underpinned 
+by policy and legislative instruments. The NWRS in­
+cludes a roadmap of flagship projects, and the con­
+cluding section and tables in this report align to those.
+Executive Summary
+1. Somalia Water for Agro-Pastoral Productivity and Resilience 
+Project Economic Analysis.
+=== PAGE 10 ===
+viii
+Headline Messages
+Climate-Environment 
+Vulnerability
+Water security challenges are amplified by 
+environmental degradation and climate change. 
+Recurrent episodes of droughts and floods result 
+in consecutive cycles of economic shock and 
+recovery.
+Poor Macroeconomic 
+Performance
+Environmental and climate shocks, 
+import bans, and the global economic 
+fall-out of the COVID-19 pandemic 
+have resulted in a sluggish real GDP 
+per capita growth for Somalia. This 
+has been further dampened by the 
+recent downward trend in foreign direct 
+investments.
+Reduced Water Sector 
+Spending
+Minuscule domestic revenue collection 
+and capital expenditure, coupled with competing 
+sectoral priorities, has resulted in Somalia’s 
+water sector generally allocated only a small 
+share of domestic revenue.
+Increase in Inequality 
+Inadequate water security increases 
+inequality in the country and, subsequently, 
+the vulnerability of certain social groups.
+Human Capital 
+Impacts
+The lack of access to improved water supplies 
+has long-term impacts on Somalia’s human capital 
+across generations, affecting the health, skills, and 
+knowledge of its citizens. Expanding access to 
+improved water sources also has the potential to 
+increase women’s participation in education and in 
+the labor market.
+Secure Rural 
+Economy
+Efforts to diversify and strengthen 
+the urban economy may not achieve 
+their intended impacts if they are not 
+complemented by measures to secure 
+the rural economy against long term 
+environmental degradation and future 
+economic and climatic shocks.
+Need to Diversify 
+Urban Economy
+Somalia’s urban populations would benefit from 
+economic diversification. Urban investments could 
+generate large economic returns due to economies 
+of scale and scope.
+Forced Displacement + 
+Rapid Urbanization
+Forced displacement of rural populations as a result of economic and 
+climatic shocks and environmental degradation is one of Somalia’s 
+most prominent challenges.
+01
+04
+02
+03
+07
+06
+08
+05
+Executive Summary
+=== PAGE 11 ===
+9
+T
+he report presents a high-level summary of 
+research findings and policy recommenda­
+tions from the ‘Somalia Economics of Water: 
+Digging for Data’ study. The study’s objective was to 
+analyze key pathways through which the availability, 
+or lack, of water services can impact economic out­
+comes, resilience, and fragility in Somalia. 
+Three research questions were formulated: 
+•	 How much are water resources availability and 
+quality of access to water services limiting factors 
+for human and economic development in Somalia?
+•	 What are the socioeconomic impacts of underin­
+vestment as per consumptive water uses (with em­
+phasis on water services for rural and urban areas 
+and water for livestock and agriculture)?
+•	 How could water be better harnessed in the future?
+The ‘Somalia Economics of Water’ study was car­
+ried out under the Somalia Water Platform Program, 
+which is managed by the World Bank Water Global 
+Practice and financed by the Global Water and Sani­
+tation Program. The Platform was launched in 2019 
+to provide a mechanism for dialogue and coordina­
+tion on the water agenda with the World Bank Global 
+Practices, thereby informing the World Bank on wa­
+ter-related engagements. Initial outputs of the Water 
+Platform in Somalia included: (a) a sector note identi­
+fying challenges and opportunities for engagement in 
+the sector; (b) service delivery model development as 
+the water sector attempts to graduate from humani­
+tarian responses to country-led development; and 
+(c) a first analysis on the aspects of water economics 
+in Somalia. The study produced a full Synthesis Re­
+port, ‘The Economics of Water: Digging for Data: To­
+wards Understanding Water as a Limiting or Enabling 
+Factor for Socioeconomic Growth in Somalia’, and a 
+suite of complementing technical reports including a 
+Groundwater Assessment and Groundwater Quality 
+Note, a Surface Water and Riverine Assessment, an 
+Institutional Analysis, and a full Water Sector Analy­
+sis. The full Synthesis Report and suite of technical 
+studies are available on: the Ministry of Energy and 
+Water Resources’ (MoEWR) website (https://moewr.
+gov.so); the World Bank’s Water Global Practice 
+website (https://www.worldbank.org/en/topic/water); 
+and the World Bank’s Somalia website (https://www.
+worldbank.org/en/country/somalia).
+This summary report is organized as follows. Sec­
+tion 1 describes Somalia’s water resources and how 
+they are changing. Section 2 describes water us­
+age in Somalia—both currently and expected future 
+demand. Somalia’s complex and unique institutional 
+framework for managing water resources and provid­
+ing water to users are discussed in Section 3. Based 
+on the study’s analysis of available resources and fu­
+ture demand, Section 4 lists a range of potential op­
+tions for investing in water supply and management. 
+The summary concludes with recommendations for 
+investments, policy reforms, and additional research.
+Introduction
+=== PAGE 12 ===
+10
+T
+his section discusses Somalia’s water re­
+sources and analyzes how they are chang­
+ing with time. It further answers the question: 
+Is Somalia a water scarce country or not? Ground­
+water is the primary source of water in Somalia and 
+although sufficient water is available, on average, 
+across the entire country, water quality is often low. 
+The main groundwater quality issues are salinity, 
+fluoride, and bacteriological contamination. Salin­
+ity affects both the use of water for drinking and for 
+agriculture (Said 2021) while bacteriological contami­
+nation primarily affects the safe use of water for hu­
+man consumption; even though there are not many 
+systematic surveys, the studies that do exist report 
+the problem of bacteriological contamination of dug 
+wells, berkads, and hafirs (Berger 1985; EarthWater 
+1998; van Haren et al. 2017; WASH cluster Somalia 
+2017). Generally, there is significant spatial variation 
+in terms of water resources, and one finds water scar­
+cities when analyzing supply at the district and com­
+munity level. There is large temporal variation due to 
+seasonality, weather shocks, and long-term climate 
+change.
+1.1 Ground and Surface Water Sources
+The total freshwater resources available in Soma­
+lia comprise the total volume of water that is avail­
+able due to external flows, internal flows, runoff and 
+groundwater renewal generated by precipitation 
+within the territory. Internally produced renewable 
+water amounts to 7.8 cubic kilometers per year (km3/
+yr) (FAO 2014), and Somalia also receives exter­
+nally produced water from Ethiopia via transbound­
+ary aquifers and rivers and wadis.2 These externally 
+produced renewable water resources amount, in turn, 
+to 8.2 km3/yr. In other words, more than half of Soma­
+lia’s water resources are produced from beyond its 
+national borders (FAO 2014).
+There are two perennial rivers in the country, the 
+Shabelle and the Jubba, both of which enter the 
+country from Ethiopia, where the bulk of the river 
+catchments volumes are located. The Jubba flow is 
+more than twice that of Shabelle. The Jubba river flow 
+in Luuq, close to where it enters Somalia, is about 5.9 
+km3/yr, and that volume is hardly reduced along the 
+river flow towards the ocean at about 5 km3/yr. The 
+Jubba reduces by less than 20 percent from evapo­
+transpiration, groundwater recharge, and utilization. 
+In contrast, in Beledweyne district where the Shabelle 
+river enters Somalia, the river flow is 2.4 km3/yr, and 
+about 1.5 km3/yr at the end point, an area of alluvial 
+deposits, close to the Jubba river. In other words, 
+the Shabelle flow almost halves before recharging 
+groundwater within the basin. For most years, the 
+Shabelle river is a closed basin, with all water con­
+sumed within the basin, except in occasional years 
+SECTION 1
+What are Somalia’s 
+Water Resources? 
+How are They Changing?
+2. Wadis are valleys, ravines or canals that run mostly dry except 
+during the rainy season.
+=== PAGE 13 ===
+11
+when very wet conditions cause the river to overflow 
+and discharge in the Jubba river and the ocean. 
+Groundwater is Somalia’s largest natural water 
+supply source and provides the main storage me­
+dium. Springs are also found in many places, but 
+discharges are small and disappear downstream be­
+cause of water withdrawals, infiltration, and evapora­
+tion. Large parts of Middle and Northern Somalia are 
+underlain by low permeability sediments. However, 
+deeper aquifers like the Auradu limestones in North 
+Somalia or Quaternary sands are within drilling reach 
+at a depth of between 100–400 m.
+In addition, there are alluvial fills in basins such as 
+the Nugaal valley, in the north of the Hargeisa depres­
+sions. There are also fan deposits along mountain 
+ranges, alluvium along wadis and the Shabelle and 
+Jubba rivers and coastal dunes. The alluvial fills, fan 
+deposits, alluvium along the wadis, and two perennial 
+rivers as well as coastal dunes all contain groundwa­
+ter at shallow depths (<15 m). These are essentially 
+perched aquifer systems overlying the deep regional 
+aquifers. The combination of soft formation and shal­
+low groundwater make them ideal for groundwater 
+abstraction by means of shallow, manually-drilled 
+boreholes, and low-cost water lifting devices. 
+The crystalline basement rocks in the Bay region in 
+South Somalia and in the far north are not continuous 
+aquifers; shallow, machine-drilled boreholes (30 to 
+60 m) drilled into the bedrock in these fracture zones 
+may yield 0.25 to 1 l/s. The clay, siltstone, and gyp­
+sum deposits that cover large parts of Somalia such 
+as the Sool, Sanaag, and Toghdeer regions in the 
+North where the Taleh Formation overlies the Aura­
+du limestone are categorized here as nonproductive 
+formations; however, they could yield water (often 
+brackish exceeding the 3,500 microS/cm threshold).
+Over the last century, deep motorized boreholes 
+(50 to 400 m) have been drilled into limestone and 
+sandstone aquifers and thick alluvial sand deposits. 
+Generally, borehole depths increase from west to 
+east. Together with dug wells, they are the most fre­
+quent water points registered in Somalia. The aver­
+age number of users is 385 people and 3,200 animals 
+per borehole. Water from deep boreholes is more 
+suitable for urban and industrial water supply, while 
+cheaper systems that tap shallow aquifers, or water 
+in sand dams, are preferred for rural and small-town 
+water supply and livestock water. Also, water quality is 
+why groundwater is preferred for human consumption 
+over surface or polluted water in shallow dug wells.
+Ground and surface water resources are, howev­
+er, not distributed evenly across the country, due to 
+regional differences in climate. In the southern part 
+and the far northwest of the country, a hot semi-arid 
+climate and a tropical savannah climate exist (Ru­
+bel and Kottek 2010). Rainfall varies with the region, 
+ranging from 700 mm/yr in the south to less than 100 
+mm/yr in the northeast.
+Natural spring in Somaliland. (Photo courtesy: Stephen 
+D’Alessandro)
+Borehole drilling in Somaliland. (Photo courtesy: Ahmed 
+Mohamed Hassan)
+Water Resources
+=== PAGE 14 ===
+12
+1.2 Water Availability in the Face of 
+Short-Term Weather Shocks and 
+Long-Term Climate Change
+The availability of water is not constant over time 
+in Somalia. Seasonal rains and periodic droughts and 
+flooding determine short-term water availability, espe­
+cially in areas distant from the perennial rivers. Mean­
+while, climate change is changing long-term trends in 
+rainfall, temperature, and evaporation. These factors 
+create the need to store water over time and provide 
+a bridge during dry periods.
+First the annual cycle of rainy and dry periods cre­
+ates ephemeral rivers and seasonal water availability. 
+Rains are mainly confined to the gu season (mon­
+soon-like rains from March to June, often leading to 
+flash floods) and the deyr season (starting in late Sep­
+tember, ending in early December, and varying from 
+place to place across the country). Runoff in wadis or 
+toggas (seasonal rivers) persists for some hours to 
+several days after rainfall. Overland flow arises when 
+soils are waterlogged or water repellent or when rains 
+are intense, notably if daily rainfall exceeds 20 mm/d 
+(Basnyat 2007). This overland flow becomes concen­
+trated and accumulated in low-lying areas and wadis.
+In addition to annual rainfall seasonality, Somalia 
+is subject to periodic droughts and years with exces­
+sive rainfall. In Somalia, mild droughts are expected 
+to occur every three and two years for the gu and 
+deyr seasons, respectively; moderate droughts are 
+expected every 11 and 12 years; and severe droughts 
+Water Resources
+every 28 years, for both seasons; extreme drought 
+can be expected once every 37 and 110 years for the 
+gu and deyr seasons, respectively (Shilenje and On­
+goma 2014).
+There is hardly any natural surface water storage 
+in Somalia. Water can be diverted from temporary 
+streams into masonry reservoirs, such as berkads 
+(basin ponds) and hafirs or passively stored in wadi 
+sediments behind sand dams and underground dams. 
+Hafirs and berkads are typically fed by manageable 
+runoff from upstream catchments of 2–3 km2 (Bas­
+nyat 2007). During the dry season, reservoirs such 
+as open water surfaces, but also hafirs and berkads 
+may lose about 1 m of water from evaporation, which 
+is a substantial part of their storage volume given that 
+their depth is only a few meters.
+The reliability of berkads and hafirs is not very 
+high, as perceived by the respondents in the Somalia 
+Water and Land Information Management (SWALIM) 
+water points database. These systems fail to bridge 
+the dry season during moderate droughts. Also, many 
+shallow traditional dug wells, reaching only the up­
+per shallow groundwater, will run dry during droughts. 
+Boreholes that tap water which is well below the stat­
+ic groundwater, large sand dams, and underground 
+dams are meant to be the best options to cope with the 
+effects of moderate and severe drought. Sand dams 
+and other managed aquifer recharge techniques can 
+increase groundwater storage, which does not suffer 
+from such high evaporative losses.
+Climate change increases the need for improved 
+storage solutions. While total rainfall volumes may 
+remain the same, or even slightly increase (FAO and 
+WB 2018), the variability is expected to increase. 
+Rainfall is predicted to come down in heavier events, 
+hence floods are likely to become more frequent in 
+the Jubba and Shabelle basins (Petersen and Gadain 
+2012; Tierney et al. 2015). Droughts are also likely 
+to become more frequent as an outcome of greater 
+rainfall variability (FAO and WB 2018).
+ A sand dam in Somaliland. (Photo courtesy: Chantal 
+Richey)
+=== PAGE 15 ===
+13
+Variability and environmental shocks in Somalia 
+manifest themselves through the movement, migra­
+tion, and displacement of people, both as nomadic 
+pastoralists and as internally displaced peoples 
+(IDPs). Shocks to the rural economy push people into 
+peri-urban pockets of poverty as well as IDP settle­
+ments. Health impacts for rural households are also 
+significant due to the number of people with unim­
+proved services, with an estimated 2 million people, 
+or 22 percent, of the rural population currently relying 
+on water from unimproved sources.
+Water Resources
+Water scooping in Lower Shabelle. (Photo courtesy: Local 
+media, Jowhar)
+1.3 Social Consequences of Water Shocks
+Lives and livelihoods are shaped by Somalia’s 
+uncertain water supplies. Water-related shocks in 
+Somalia have contributed to poverty, displacement, 
+biodiversity loss, and conflict. Extensive floods also 
+result in significant crop losses and forced displace­
+ment and make roads inaccessible, which also affects 
+the transport and marketing of agricultural outputs 
+from unaffected areas; whereas droughts pose a risk 
+to agriculture, floods can cripple crop and livestock 
+production. Areas without alternative, decentralized 
+sources of water are likelier to be classified as being 
+food insecure when compared to those with ground­
+water resources.
+Recurrent drought and flood events have had se­
+vere humanitarian consequences. In the early 1990s, 
+300,000 people died from hunger because of multi-
+annual droughts. Due to floods in 1997 and 1998, 
+around 1,400 casualties were estimated and another 
+1 million were indirectly affected; more than 60,000 
+ha of crops and farmland were lost. It has been diffi­
+cult to develop resilience to these frequent extremes.
+=== PAGE 16 ===
+14
+SECTION 2
+How Water is Used in Somalia and 
+How This is Changing
+S
+ection 2 describes who uses water in Soma­
+lia and what water is used for. Understand­
+ing of water contributions to the economy, 
+from positions of sectoral outputs, international trade, 
+and human capital is deepened, and the economic 
+disruptions of the 2016–17 drought are presented. 
+Scenarios for medium and long term water demand 
+are touched upon, and the section concludes with 
+benchmarking WASH in Somalia against other coun­
+tries which contain arid and semi-arid zones, or which 
+are located in the Horn of Africa.
+2.1 Who Uses Water and 
+for What is Water Used?
+Inequality along income, gender, spatial, and other 
+dimensions is critical to understanding water usage 
+in Somalia. Inequalities in access to water supplies 
+and sanitation between rural and urban populations, 
+between IDP and non-IDP populations, and between 
+men and women in Somalia are striking. It’s notewor­
+thy, for example, that Somalia is the only country in 
+the world where there is a rural-urban gap of more 
+than 50 percentage points in access to a basic water 
+supplies (WHO and UNICEF 2019).
+A survey in Somaliland found that approximately 
+60 percent of households relied on adult women to 
+collect water (UNICEF 2011). Women who travel 
+away from their residences to obtain water can risk 
+their personal safety, with gender-based violence 
+high in rural and nomadic areas in the country (MoE­
+WR 2021).
+Urban areas have grown over the last decades, 
+increasing the demand for water by households and 
+businesses. It is estimated that approximately 54 
+percent of Somalia’s population now live in urban ar­
+eas (World Bank 2021a). In cities, piped networks, 
+point-source vendors at boreholes and dug wells, as 
+well as truckers and animal and human-drawn cart­
+ers deliver water to consumers. Large cities close to 
+drought-prone areas have also received waves of 
+IDPs that put pressure on scarce land and water re­
+sources. This is especially the case in regions with 
+large IDP settlements, where inequalities in water ac­
+cess by IDP and non-IDP populations are prevalent.
+Much-needed economic diversification in urban 
+Filling water in Saaxo Mudud, Central Somalia. (Photo 
+courtesy: Ahmed Mohamed Hassan)
+=== PAGE 17 ===
+15
+areas is limited by water availability. Urban invest­
+ments could generate large economic returns due to 
+economies of scale and scope. The Ninth National 
+Development Plan (NDP9) stresses the importance 
+of achieving economic growth through nontraditional 
+sectors, including by adding value to the livestock 
+and crop production sectors. Water availability in ur­
+ban areas is essential for agro-processing and live­
+stock value chain exploitation. In the case of cities 
+that rely on surface water from rivers, this will require 
+forward-looking investments in managing upstream 
+and downstream demand, variabilities in flow and wa­
+ter storage, including large scale infrastructure. In the 
+case of groundwater, some cities are already reach­
+ing the limits of groundwater availability, while others 
+still have considerable potential. 
+In rural areas, water sources tend to be used for 
+multiple purposes, including drinking, for domestic 
+use, and to water livestock. Traditionally, pastoral­
+ists moved themselves and their livestock to access 
+year-round pastures and water sources. While this 
+remains the case for some, migration to IDP settle­
+ments has become a complementary coping strategy, 
+as has family splitting. Movement of rural people to 
+IDP settlements tends to be a response to flood and 
+drought events but some IDPs remain in settlements.
+2.2 Water’s Contribution to the Economy
+Water (including its absence) contributes to eco­
+nomic output, international trade, human capital for­
+mation, and poverty in Somalia. It is not possible to 
+quantify these contributions—data on amounts of wa­
+ter consumed by different economic sectors do not 
+exist, and even supply-side gross domestic product 
+(GDP) statistics are not compiled at present, thus pre­
+venting one from estimating the contribution of water-
+intensive activities (for example, livestock production) 
+to Somalia’s GDP.3 Nevertheless, one can trace out 
+the channels through which water flows in the Somali 
+economy.
+2.2.1 Sectoral Output
+The economic contribution of water is seen most 
+clearly in livestock, agriculture, and forestry. Somalia 
+encompasses large areas suitable for livestock graz­
+ing, browsing, and fodder production; fertile alluvial 
+soils for staple cereals, oil seeds, legumes, and hor­
+ticulture crops; forests that provide prized gums and 
+resins, as well as charcoal for cooking. Over 1 million 
+agro-pastoral and nomadic households in Somalia 
+rely on farming and livestock for their livelihoods and 
+are, thus, particularly vulnerable to the impacts of me­
+teorological and hydrological droughts (FGS 2018).
+The waters of Somalia’s two perennial rivers have 
+supported livestock rearing, which historically was the 
+mainstay of the economy and the source of wealth for 
+A water truck in Garowe. (Photo courtesy: Ahmed 
+Mohamed Hassan)
+3. For examples of water resource accounting where data 
+do exist, see Glenn-Marie Lange and Rashid Hassan, The 
+Economics of Water Management in Southern Africa (Edward 
+Elgar Publishing, 2007); and Nicholas Kilimani, Jan van Heerden, 
+and Heinrich Bohlmann, “Water resource accounting for Uganda: 
+Use and policy relevancy,” Water Policy 18 (February 2016).
+Water Usage
+=== PAGE 18 ===
+16
+most households. The national goat and sheep herd 
+remains below its pre-civil war peak (FAOSTAT data 
+reported in FAO and WB 2018). Boosting livestock 
+production depends fundamentally on ensuring year-
+round availability of livestock feed. Policies or invest­
+ments into fodder production have potential to reap 
+considerable rewards, although there is need to bal­
+ance short terms gains with long term sustainability, 
+and to consider the contentious issue of land enclo­
+sures vis-à-vis open grazing.
+For many decades—or centuries—agriculture 
+has been practiced along floodplains of the Jubba 
+and Shabelle rivers, producing food for both local 
+consumption and export. Cereal production peaked 
+in 1989, however, and declined steadily during the 
+2010s, reflecting challenges of inadequate water and 
+transport infrastructure, persistent insecurity, weak 
+regulatory and enabling institutions, and severe en­
+vironmental degradation of rangelands and forested 
+areas (FAO and WB 2018). Nevertheless, there is 
+considerable potential to rebuild both subsistence 
+and commercial agricultural production, which would 
+support integration of rural and urban economies and 
+reduce food import dependency. This would require 
+improving soil and water conservation techniques in 
+areas of rainfed agriculture.4 Stone bunds, terraces, 
+and half-moons reduce overland runoff and ero­
+sion, promote infiltration, and increase soil moisture 
+content (Liniger and Critchley 2007). Irrigation can 
+expand crop production in areas with adequate sur­
+face water, as irrigation water demands of about 0.5 
+to 1 l/s/ha (50 to 100 l/s/km2) far exceed renewable 
+groundwater resources (0.03 to 0.63 l/s/km2).
+Water contributes to the economy through forestry, 
+although one must acknowledge that deforestation in 
+Somalia has been significant over the past 50 years, 
+with flood plain forests essentially gone (one of sev­
+eral factors contributing to the disruptions caused by 
+flooding). Given the ongoing unfortunate dependence 
+on charcoal as a source of energy, and importance of 
+forests in soil conservation, agroforestry is an impor­
+tant, and underexplored, subsector.
+2.2.2 International Trade
+Water is inextricably linked to the goods and ser­
+vices that Somalia trades with the rest of the world. 
+Animal, agricultural, and forestry products—all of 
+which rely heavily on Somalia’s water resources—
+have dominated recorded goods exports since the 
+country’s independence.5 Bananas and other fruit 
+and vegetables were the largest exports during the 
+1960s; sheep, goats, cattle, and camels became the 
+dominant exports starting in the 1970s and, at differ­
+ent times, sesame and other oil seeds, meat, and for­
+estry products (gums, resins, and charcoal) have av­
+eraged as much as 5–10 percent of recorded goods 
+exports (World Bank Group 2021b). There is scope to 
+Water Usage
+Irrigation channel in Jowhar being dredged. (Photo 
+courtesy: Ahmed Mohamed Hassan)
+4. Less than 5 percent of land in Somalia is considered suitable 
+for cultivation, of which over 75 percent is suitable for rainfed 
+agriculture, and the remaining 25 percent has potential for 
+irrigation (FAO and WB 2018).
+5. Data reported by Somalia’s trade partners to the United Nations 
+COMTRADE database show that these products accounted for 
+more than half—and usually more than 80 percent—of recorded 
+goods exported from Somalia each year between 1962 and 
+2018. As services exports are currently of similar magnitude as 
+goods exports, these products’ share of Somalia’s total exports 
+is smaller—the latest official national accounts statistics show 
+that livestock has accounted for 26 percent of total exports of 
+goods and services between 2018 and 2020 (National Bureau of 
+Statistics 2021). These statistics do not include Somalia’s informal 
+and other small-scale, cross-border exports to neighboring 
+countries in the Horn of Africa, which may exceed total recorded 
+flows and much of which is believed to be livestock (World Bank 
+2021b).
+=== PAGE 19 ===
+17
+increase exports of these products and by developing 
+agro-processing industries to increase the economic 
+value from their production—and thereby to increase 
+water’s contribution to the Somali economy (FAO and 
+WB 2018).
+Water usage is also reflected in trends in the com­
+position and level of Somalia’s imports. Displacement 
+of the rural population to the cities and the destruction 
+of irrigation systems caused by civil war, state frag­
+mentation, and climatic shocks fundamentally trans­
+formed the commodity composition of imports. Since 
+1990, food, beverages, and tobacco have accounted 
+for half of recorded goods imports, compared to 19 
+percent in the 1960s and 1970s, while the share rep­
+resented by capital goods and transport equipment 
+dropped to an average of 12 percent since 1990 from 
+40 percent before 1990 (World Bank 2021b). Total im­
+ports of goods and services now average around 80 
+percent of the GDP, as shown in Figure 1, compared 
+to between 20 and 40 percent during most of the pre-
+1990 period. Somalia’s large trade deficit is financed 
+largely by private remittances and official grants. As 
+Somalia continues its trajectory out of fragility and re­
+builds its economy, domestic food production should 
+again become competitive with imports.
+2.2.3 Human Capital
+Water that is safe, reliable water and readily acces­
+sible—located in or close to the home—is essential 
+for human health and, therefore, for labor productiv­
+ity and human capital development. In both rural and 
+urban areas of Somalia, diseases associated with 
+poor water leads to reduced labor productivity, but 
+the economic impacts are particularly acute in rural 
+areas, where communities are constantly battling 
+environmental and macroeconomic shocks instead 
+of building more productive and resilient economies. 
+Micronutrient deficiencies related to poor diets are 
+widespread in Somalia and have far-reaching, long-
+term health consequences, including high rates of 
+premature infant and maternal mortality and morbid­
+ity. Poor nutrition reduces labor productivity, with cas­
+cading impacts on income and poverty. It often leads 
+to illness, a serious problem for poor households, be­
+cause health costs can force them to tap savings, sell 
+assets or go into debt, inevitably pushing them further 
+into poverty.
+Water also contributes to education. Improving ac­
+cess to education for girls, keeping them in school, 
+and bringing them into secondary school education 
+can enhance their opportunities to join the labor 
+Water Usage
+Figure 1. Imports as a Share of GDP, 1962–2020
+Sources: World Development Indicators (1960–1990) and National Bureau of Standards (2012–20). No data are available for 1991–2011.
+Percentage of GDP
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+1960
+1965
+1970
+1975
+1980
+1962-76 avg: 24.1
+1977-84 avg: 68.7
+1985
+1990
+2010
+2015
+2020
+1985-90 avg: 30.8
+2012-20 avg: 80.5
+=== PAGE 20 ===
+18
+market and contribute to economic development, 
+and may also reduce Somali fertility rates. The wa­
+ter sector has an extremely important role to play to 
+keep girls in school by ensuring that suitable WASH 
+facilities are available, and that menstrual hygiene 
+management is catered for. Given the paucity of in­
+formation on education, including WASH in schools in 
+Somalia, as reflected in international comparisons, a 
+starting point is the collection of this data.
+2.2.4 The 2016–17 Drought 
+and Economic Disruptions
+Water’s contribution to Somalia’s economy is per­
+haps most evident when water is absent, as during 
+the drought of 2016–17. The Federal Government 
+of Somalia’s (FGS) post-disaster assessment (FGS 
+2018) estimated economic losses from the drought at 
+US$2.2 billion and damages at US$1.0 billion. Losses 
+and damages to irrigated and rainfed crops, livestock, 
+and fisheries accounted for 59 percent of all the ef­
+fects, while water and sanitation, environment, and 
+transport make up 38 percent. An estimated 6.4 mil­
+lion of the total livestock population was lost, equiva­
+lent to about US$350 million. The drought displaced 
+an additional 926,000 people to settlements in Moga­
+dishu and other cities. 
+The frequency of drought (and more recently flood) 
+episodes has repeatedly resulted in economic dam­
+ages and losses, which tend to be met with a reactive 
+disaster response. Managing drought and flood risks 
+comprehensively will help develop resilience.
+2.3 Scenarios for Medium- 
+and Long-Term Water Demand
+The ‘Economics of Water’ study developed a sim­
+ple hydrological model to study the basins of Soma­
+lia’s two perennial rivers. Comparing water demands 
+or needs in 2030 for rural and urban population and 
+livestock with the sustainably available water resourc­
+es shows that water needs are below these critical 
+values except for Benadir region around Mogadishu, 
+where the high urban water demand in combination 
+with a small and little water producing region makes 
+the scarcity ratio jump above the absolute water scar­
+city ratio of 100 percent. The model also indicates 
+that some locations in the Shabelle river basin would 
+be excluded from growing cereals and perennials 
+in 2050. Projected water demand numbers devel­
+oped under the ‘Somalia: Groundwater Assessment 
+Technical Report’ show that by 2030 water needs 
+will range geographically from 5 m3/yr in Bari district 
+to over 20 m3/yr in Gedo for livestock; urban water 
+needs will range from approximately 8 m3/yr in Middle 
+Shabelle to over 45 m3/yr in Benadir, and rural water 
+needs from approximately 10 m3/yr in Middle Jubba to 
+just under 30 m3/yr in Lower Shabelle. 
+Projections for 2035 show that long term average 
+runoff would deliver enough water in Shabelle to sus­
+tain people and livestock, but water would be only 
+available in the lower sections for a few months per 
+year (that is, probably only during the wet season). 
+Otherwise, the basin would be dry. By 2050, irrigated 
+farming would be reduced, as compared to both 2020 
+Water Usage
+Collecting water in Hudur Bakool. (Photo courtesy: Ahmed 
+Mohamed Hassan)
+=== PAGE 21 ===
+19
+and 2035, not because of land scarcity, but due to 
+water scarcity. A reduction in inflows due to climate 
+change, or with more water use upstream, is likely to 
+render the situation more difficult to manage. 
+This analysis is at a regional level. If the model­
+ing were carried out at district level, several districts 
+would most likely exceed the scarcity limits, and if 
+modeling were to consider the scale of settlements 
+and their direct surroundings, water scarcity is ex­
+pected in about 30 to 40 towns. 
+2.4 Benchmarking Comparisons of 
+Water and Sanitation Data
+Figures 2 and 3 (overleaf) benchmark Somalia 
+against the 28 African countries which contain arid 
+and semi-arid zones, or which are located in the Horn 
+of Africa. The WASH statistics are drawn from the 
+most recent Joint Monitoring Report (WHO and UNI­
+CEF 2021). 
+In terms of the main source of drinking water, 56 
+percent of Somalia’s population use at least a basic 
+service. This figure is within 6 percentage points of 
+all other countries in the Horn of Africa apart from 
+Djibouti (Figure 2a). The North African countries plus 
+Water Usage
+Mauritania, Nigeria, Senegal, and Mali have consid­
+erably higher figures, as do South Africa, Namibia, 
+and Botswana. Analysis of rural drinking water data 
+presented in Figure 2b shows that the proportion of 
+the population using limited source (requiring more 
+than 30 minutes of collection time), is particularly high 
+in Somalia at 37 percent, exceeded only by South Su­
+dan (42 percent) and Burkina Faso (39 percent). This 
+is illustrative of the rural-urban gap in water supplies. 
+At the national level, the use of basic sanitation in 
+Somalia, by 39 percent of the population, is higher 
+than most East and Southern Africa countries apart 
+from Djibouti, South Africa, and Botswana (Figure 
+3a). However, there is considerable variation be­
+tween countries overall. Comparing the use of basic 
+sanitation between rural and urban areas, Figure 3b 
+shows that there is a difference of 19 percentage 
+points between rural and urban Somalis, with rural 
+dwellers less likely to use at least basic sanitation. In 
+three countries (Mali, Mauritania, and Sudan), use of 
+at least basic sanitation is higher in rural than in urban 
+areas. However, the rural gap with respect to sanita­
+tion is larger than Somalia’s in most countries (apart 
+from Zimbabwe, Kenya, and Uganda).
+Staff of the Ministry of Environment, Agriculture, and Climate Change at a newly constructed water 
+trough in Xamxama, Puntland. (Photo courtesy: Chantal Richey)
+=== PAGE 22 ===
+20
+Water Usage
+Figure 3. Comparison of Select Sanitation Data between 
+African Countries Containing Arid Regions and the Horn of Africa
+(3b) Difference between rural and urban use of basic 
+sanitation in percentage points (+ shows higher 
+access in urban areas)
+(3a) Proportion of the total population using at least 
+basic sanitation (%)
+9
+97
+-17
+57
+Figure 2. Comparison of Select Drinking Water Data between 
+African Countries Containing Arid Regions and the Horn of Africa 
+(2b) Proportion of the rural population using a limited 
+source (takes more than 30 minutes) for their main 
+drinking water supply (%)
+(2a) Proportion of the total population using a main 
+drinking water supply that is at least basic (%)
+41
+99
+1
+42
+=== PAGE 23 ===
+21
+SECTION 3
+How is Water Managed 
+and Governed?
+A
+lthough the Somali water sector has, in 
+theory, many features of a comprehensive 
+multigovernance framework, in practice, 
+water service provision is minimally regulated and is 
+currently dominated by international partners, devel­
+opment financing institutions, the private sector, and 
+households themselves. This fragmented approach 
+to service delivery comes along with challenges, par­
+ticularly the coordination among the various actors, 
+which is inadequate. The failure to translate policies 
+(of which there are very few good quality ones) into 
+action has led to the partial neglect of many intrinsic 
+functions of a functional water governance frame­
+work—for instance, regulation of the quality of water 
+supply services, setting optimal tariffs and collection 
+of revenues, operation and maintenance of water ser­
+vices, and ensuring equity in service delivery. 
+3.1 Current Framework of 
+Laws and Policies
+The Xeer, Somalia’s traditional law system, is an 
+unwritten code of conduct that has governed its clan-
+based society over centuries. It includes provisions 
+that deal with the management of water, pastoral 
+land, forests, frankincense, and marine activity. The 
+Xeer has specific rules for water sharing and queu­
+ing, especially during times of water scarcity, and set­
+tling water-sharing disputes between hostile clans.6 
+In the latter half of the 2010s, after a prolonged 
+period of state collapse, Somalia started developing 
+the constitutional framework needed to anchor wa­
+ter sector institutions, thus establishing a rudimentary 
+multilevel water governance framework. Key legisla­
+tions are:
+•	 The Water Act of 2011 is the core legal instrument 
+of the Somali water sector. It made the Ministry of 
+Water Development (MoWD) the sole custodian 
+of the development and management of water 
+resources. However, due to legislative issues sur­
+rounding the law’s structure, as of early 2021, the 
+provisions of the Water Act are yet to be imple­
+mented. 
+•	 Somalia’s Provisional Constitution (2012) has spe­
+cific articles related to the usage and management 
+of water in Chapters 2 (Articles 25-1, 27-1), Chap­
+ter 3 (44, 45-1), and Chapter 5 (54(1a)). 
+In terms of policy landscape, the National Water 
+Resource Development Strategy (NWRS) of 2021 
+contains detailed directives to operationalize the wa­
+ter sector’s governance framework as laid out in the 
+Water Act of 2011. It is the latest effort by the govern­
+ment to modernize institutions and restore services. 
+The NWRS’s provisions contribute to the strategic 
+plan for activities required to address challenges in 
+the water sector in the short- and long-term.
+The Water, Sanitation and Hygiene (WASH) Sector 
+6. Somali Customary Law and Traditional Economy, Puntland 
+Development Research Center, 2003.
+=== PAGE 24 ===
+22
+Policy, 2019, encapsulates several policy measures 
+related to water service delivery—urban and rural 
+water supply, community-level water resource man­
+agement, and water quality. Somaliland, Puntland, 
+and Jubbaland have developed state-level water 
+policies and have made some progress towards their 
+implementation. The Livestock Sector Development 
+Strategy, the National Climate Change Policy, and the 
+National Adaptation Programme of Action directly or 
+indirectly have a bearing on the water sector. 
+3.2 Public Sector Institutions 
+and Capacity
+The public sector consists of the following minis­
+tries at the Federal Government of Somalia (FGS) 
+and Federal Member State (FMS) levels:
+•	 The Ministry of Energy and Water Resources 
+(MoEWR) is the federal ministry responsible for 
+the management of energy and water resources at 
+the federal level. Its mandate includes the formula­
+tion of policies and standard operating procedures, 
+monitoring and technical support of the FMS con­
+cerning the water and energy sectors; and the de­
+livery of sanitation services.7 Sanitation services 
+are not currently coordinated by the MoEWR due 
+to capacity constraints. 
+•	 The Department of Water, one of the many func­
+tional departments of the MoEWR, is responsible 
+for the planning, management, and regulation 
+of the water sector. It consists of four divisions: 
+(a) Water for Production; (b) Technical; (c) Water 
+Development; and (d) Water Supply.
+•	 Federal Member States: Each FMS—Puntland, 
+Galmudug, Hirshabelle, South West State, and 
+Jubbaland—has a Ministry of Energy and Water 
+Resources line ministry that implements policy and 
+performs a range of de facto functions related to 
+the implementation of water infrastructure devel­
+opment and rehabilitation projects.
+•	 In Somaliland, the Ministry of Water Resources 
+discharges functions similar to the MoEWR.
+Public spending on new water infrastructure and 
+responses to water-related climate shocks such as 
+drought and floods is limited. Insufficient revenue mo­
+bilization is one fundamental constraint. Total domes­
+tic revenue collected by the FGS, Somaliland, and 
+the five FMS was estimated at 10 percent of GDP in 
+2018—considerably lower than revenue mobilization 
+in neighboring countries or in other fragile and con­
+flict-affected states (World Bank Group 2020). Bud­
+get allocations to the water sector are minimal. The 
+federal MoEWR has consistently received less than 1 
+percent of the FGS budget since 2014 (Table 1). Vir­
+tually all its spending goes to salaries and other em­
+ployment costs. Given the severe budget constraints 
+as well as competing priorities of security and state-
+building, allocation of the FGS budget to all capital 
+investments is small—averaging only 3.5 percent of 
+Table 1. Key FGS Fiscal Indicators, 2014–20
+	
+2014	
+2015	
+2016	
+2017	
+2018	
+2019	
+2020
+FGS capital spending (US$ million)	
+$0.16	
+$2.29	
+$5.94	
+$6.35	
+$9.64	
+$13.93	
+$18.55
+Share of total FGS spending	
+0.11%	
+1.7%	
+3.5%	
+2.6%	
+3.4%	
+4.4%	
+3.7%
+Total MoEWR spending (US$ million)	
+$0.62 	
+$0.45 	
+$0.49 	
+$0.88 	
+$1.02 	
+$1.11 	
+$1.77 
+	
+o/w personnel costs (US$ million)	
+$0.51 	
+$0.38 	
+$0.45 	
+$0.82 	
+$0.98 	
+$1.07 	
+$1.09 
+MoEWR’s share of FGS spending	
+0.41%	
+0.33%	
+0.29%	
+0.36%	
+0.35%	
+0.35%	
+0.36%
+7. MoEWR website. Retrieved on February 22, 2021: https://
+moewr.gov.so/about-us/mandate/.
+Water Management
+Source: World Bank staff calculations using Ministry of Finance outturn data (www.mof.gov/fiscal).
+=== PAGE 25 ===
+23
+total FGS spending between 2014 and 2020—and 
+mostly financed by donors.
+Financial constraints also limit public sector staff­
+ing. The shortfall of adequately trained personnel 
+across all functional domains—technical, administra­
+tion, information technology and finance—across the 
+FMS water ministries was cited consistently by key 
+informants for this study. Limited financial resources 
+are a binding constraint to the recruitment and reten­
+tion of qualified personnel, further exacerbating the 
+public sector skill gap in the water governance frame­
+work. Key informants expressed their belief that the 
+skills gap in the public water sector is driven not by 
+the scarcity of qualified personnel in the country but 
+by the significant differences in salaries offered by 
+the public sector and private companies, nongovern­
+mental organizations (NGOs), and international or­
+ganizations. Competing for capable and experienced 
+personnel is a critical challenge for the Somali public 
+sector. 
+The infrastructure and equipment installed during 
+the eras before the Somali Civil War are dilapidated 
+and/or outdated because of neglect during the civil 
+war years. As such, present FMS water ministries 
+have limited infrastructure and equipment to carry 
+out their functions effectively. This extends to ministry 
+buildings, information technology infrastructure, lo­
+gistics infrastructure, and technical equipment.
+ The fragmented nature of the water sector, the 
+amorphous distinction of roles and responsibilities 
+concerning policies, and human resource capacity 
+constraints diminish the regulatory and coordinative 
+capacity of federal and state ministries. Thus, the 
+actions of various players in the Somalia water sec­
+tor are poorly regulated. The lack of coordination is 
+a barrier to the efficient use of available resources 
+and financing. The dilution of the role of state-level 
+water ministries is manifested in the absence of stan­
+dardization in the process of securing approvals for 
+the construction and operation of water resources 
+across the FMS. High monetary overheads associ­
+ated with monitoring and evaluation functions of FMS 
+water ministries are another obstacle to the efficient 
+discharge of its mandated roles and responsibilities.
+Though constitutional provisions mandate regu­
+lar meetings between federal and state-level minis­
+tries to coordinate water management issues, most 
+interactions are conducted on an ad hoc basis. The 
+irregularity of such multilevel meetings results in the 
+misalignment of priorities and needs assessments 
+between the two levels of government.
+The ‘Somalia Urbanization Review’ (World Bank 
+Group 2020) cites urban centers as Somalia’s most 
+powerful and promising anchors of future develop­
+ment. However, contested, fragmented, and ineffec­
+tive municipal governance is a key issue and the re­
+view recommends that immediate steps are taken to 
+clearly demarcate responsibilities between national, 
+state, and district or municipal authorities. This sce­
+nario plays out in the water sector, where service 
+delivery remains largely unmanaged by municipali­
+ties. Clan alliances also exist within cities, which can 
+weaken social cohesion and service delivery. Alas, 
+demographic data on Somali cities remain inade­
+quate and not all city boundaries are clear, presenting 
+challenges for infrastructure development planning. 
+The dilapidated state of irrigation infrastructure in the 
+riverine areas of Southern Somalia. (Photo courtesy: 
+Ahmed Mohamed Hassan)
+Water Management
+=== PAGE 26 ===
+24
+3.3 Water Services 
+These multiple levels of public sector institutions 
+are complemented by a vibrant private sector.8 Water 
+services across the country are delivered by public, 
+private, and international institutions, as well as by 
+households themselves, and are largely unregulated.
+Private operators play a critical role in service 
+delivery, filling gaps in the public provision of water 
+services. Private water providers fall into three broad 
+categories:
+(a)	 Aspiring water utilities, which are relatively so­
+phisticated private businesses that operate bore­
+holes and supply piped water connections to 
+large parts of many primary/secondary cities.9 
+(b)	 Small-scale providers, a fragmented network, 
+ranging from small businesses to individual en­
+trepreneurs, which serve smaller sections of ur­
+ban and peri-urban areas.
+(c)	 Private entities that provide water services in ter­
+ritories under the control of Al-Shabaab. There is 
+very limited information about the operations of 
+these businesses. 
+ Though many public-private partnerships (PPPs), 
+loosely defined, are in place between FMS ministries 
+and private providers, the limited oversight and moni­
+toring capacity of FMS’ MoEWR often precludes the 
+public dimension in such partnerships. Even though 
+the policy framework vests regulatory authority (con­
+cerning tariffs and operational standards) with the 
+FMS MoEWRs, their inchoate nature and limited ca­
+pacities prevent them from comprehensively exercis­
+ing their regulatory functions. The limited regulation 
+of the private water sector is frequently cited as the 
+main reason for high water prices across Somalia 
+(discussed in more detail below). While FMS MoE­
+WRs can keep track of relatively large quasi water 
+utilities and monitor the entry of new entrants in this 
+segment, the multitude of individual water entrepre­
+neurs in every FMS precludes their efficient tracking 
+and regulation.
+Village- and community-level water committees 
+play a central role in water resource management. 
+Often, they require extensive capacity-building be­
+fore they can independently manage the operations 
+of their respective water points. Key informant in­
+terviews touched upon plug-and-play type water re­
+source development projects, which often fail due to 
+the inability of the hastily trained water committees 
+to sustainably manage the operations of the respec­
+tive water point. Rent-seeking behavior on the part of 
+powerful community members in the water commit­
+tees, limited enforcement of the roles and responsi­
+bilities post-hand-over, and a lack of ongoing external 
+support for water committees leads to irregularities in 
+the revenue collection process.
+In addition, United Nations (UN) agencies, do­
+nors, international agencies and NGOs also play a 
+significant role. The international development com­
+munity has for many years provided Somalia with vi­
+tal humanitarian emergency support by establishing 
+Water Management
+A shallow well in Hudur Bakool. (Photo courtesy: Ahmed 
+Mohamed Hassan)
+8. This assessment is based on the principles of good water 
+governance defined in the AfDB’s Water Sector Governance 
+framework. These principles include equity, efficiency, 
+participation, decentralization, integration, transparency, and 
+accountability.
+9. Number of large operators: nine in Hirshabelle, three in 
+Jubbaland (excluding an undefined number in Lower Jubba 
+and Gedo regions), and three in Puntland. Although Galmudug 
+records having 31 operators, it is unlikely that all of these can be 
+classified as large operators.
+=== PAGE 27 ===
+25
+systems to fund, plan, and deliver assistance across 
+the country, often in parallel with the government’s 
+structures and efforts. The Somali WASH cluster is 
+a collaboration of local and international NGOs, gov­
+ernment departments, and UN agencies involved in 
+the WASH sector, and is led by the United Nations 
+Children’s Fund (UNICEF). The main objective of the 
+cluster is to strengthen the capacity for emergency 
+preparedness and disaster risk reduction through ef­
+ficient and transparent dissemination of data and in­
+formation. The cluster mechanism is appropriate for 
+humanitarian response coordination during and post 
+crises. With stability, however, sector oversight is the 
+remit of the MoEWR and the cluster system functions 
+should be taken over by government.
+With growing political confidence, security, and 
+stability in Somalia, there is a need for the support 
+that is provided by the UN and other international or­
+ganizations and NGOs, to transition from emergency 
+humanitarian support towards long-term program­
+matic support. The institutional arrangements that the 
+federal and state governments provide should be uti­
+lized during programmatic implementation to provide 
+oversight and coordination, and to promote national 
+ownership and long-lasting results within the water 
+and development sector.
+3.4 Gender Parity and Social Inclusion
+Gender issues in Somalia are multilayered and 
+complex. They are particularly relevant for the rural 
+water sector where at the community level, while one 
+or two positions are reserved for women in village 
+water committees, customary law and cultural norms 
+undermine women’s input into management and de­
+cision making. 
+As seen in other countries, when women are not in­
+cluded in the planning process, their concerns—such 
+as where a water source should be constructed—are 
+not usually considered (Khandker et al. 2020). Re­
+search in other countries also shows that the active 
+participation of women in local water supply manage­
+ment can support mobilizing finance and fee collec­
+tion and enhance sustainability (Lundqvist 1999; van 
+Wijk-Sijbesma 1998), while if they participate in water 
+user associations it can increase their social standing 
+(Khandker et al. 2020).
+Women have important roles to play in water man­
+agement and need to be very well supported. Though 
+women in Somalia are often consulted about the 
+community management of water resources, they 
+have been traditionally excluded from the final deci­
+sion-making process. While water committees may 
+reserve one to two perfunctory spots for women, in 
+the Xeer system, women are excluded from being 
+part of the committee of elders and are not allowed to 
+act as advocates for others.
+These gender disparities weaken effective water 
+governance in Somalia, and it is essential that re­
+forms to water governance and investments include 
+women. At the national level, gender inequality is 
+also evident in women’s low participation in leader­
+ship and decision-making roles. Although data on 
+women’s participation in Somalia water sector institu­
+tions are not available, anecdotal evidence indicates 
+that most decision makers are men, and that women 
+rarely play a central role in defining water policies, 
+programs, and laws. Women’s low participation in de­
+Water Management
+Rainwater harvesting in Puntland. (Photo courtesy: Ahmed 
+Mohamed Hassan)
+=== PAGE 28 ===
+26
+Water Management
+cision making is influenced by religious and cultural 
+factors, and also by a lack of training and education 
+opportunities in the water sector. An overwhelming 
+majority of female respondents who participated in a 
+2020 survey indicated that they want more opportuni­
+ties to participate in decision making (92 percent) and 
+indicated that they would have more access to a deci­
+sion maker if that person was a woman (86.6 percent) 
+(World Bank 2021c). 
+3.5 Water Prices and Market Regulation
+An analysis of water prices collected by the Food 
+and Agriculture Organization (FAO) at weekly inter­
+vals over five years between 2015 and 2019 reveals 
+two key issues. First, even though water prices across 
+Somalia are significantly higher than in surrounding 
+countries, there is substantial variation across re­
+gions within the country (Figure 4). While a spike in 
+prices in 2017 corresponds with the onset of drought 
+A wide variety of users gather at water points in Hudur Bakool. (Photos courtesy: Ahmed Mohamed Hassan)
+conditions, some regions, including Sool, witnessed 
+more drastic increases in prices. Second, while the 
+divergence in water prices across regions is also evi­
+dent in the plot of the weekly price of water (Figure 
+5), some regions, including Awdal, Waqooyi Galbeed, 
+and Togdheer seem to experience far lesser variation 
+in prices over time. 
+The ‘Somalia Economics of Water’ study’s analysis 
+of price trends may be suggestive but is hardly con­
+clusive. Deeper analysis is needed to inform policy 
+development and investment choices. This analysis 
+might look at the interplay between market struc­
+ture (number of suppliers, barriers to entry, and so 
+on), enterprise characteristics (ownership, size, cost 
+structure, capital stock), locational factors (proximity 
+to water resources, customers, conflict, and so on), 
+the regulatory environment, and seasonality.
+ The National Water Resources Strategy 2021–
+2025 (NWRS) proposes regulations of water pricing 
+and rules on competition to overcome economic inef­
+ficiencies that prevail in Somalia’s context of limited 
+water resources. Insecurity and poorly specified prop­
+erty rights discourage investment, keeping scale low 
+and unit prices high. The ‘aspiring utilities’ have mar­
+ket power and are able to charge prices well above 
+costs in the absence of any effective government reg­
+ulation. Since large-scale storage is largely nonexis­
+tent, weather shocks quickly become price shocks.
+=== PAGE 29 ===
+27
+Water Management
+Figure 4. Water Price by Region—
+Water Drum (200L): Average Annual Price (2015–2019)
+Source: FAO.
+Figure 5. Water Prices by Region— 
+Water Drum (200L): Weekly Prices (2015–2019)
+Source: Staff calculations using FAO data.
+=== PAGE 30 ===
+28
+4.1 Gaps between Demand and Supply
+The study estimates regional water demands in 
+2030 (Figure 6) and finds that, except for the Benadir 
+region, water needs are below sustainably available 
+water resources. However, water shortages still occur 
+in certain districts, or at places with highly concen­
+trated demand like towns or during drought. 
+In the Benadir region around Mogadishu, the high 
+urban water demand in combination with a low pro­
+duction means that water scarcity is very high. As 
+noted in Section 1, at the scale of settlements and 
+their direct surroundings, this study foresees water 
+scarcity for about 30 to 40 towns. While boreholes 
+are important for Somalia’s drinking water supplies, 
+high yielding boreholes are not abundant. This needs 
+to be considered in relation to urban development 
+and calls for diversification of water supply sources in 
+some localities.
+SECTION 4
+What are the Investment Needs 
+and Options?
+Figure 6. Sources of Projected Water Demand in 2030, by Region
+Source: World Bank, Somalia: Groundwater Assessment Technical Report (2020).
+million m3/yr
+Livestock
+Urban (2030, growth % 4.14, WB 2014)
+Rural (2030, growth % 1.79, WB 2014)
+=== PAGE 31 ===
+29
+The amount of water assumed as being used to­
+day for household purposes in Somalia is estimated 
+around 20 l/cap/day in rural areas and 40 in urban 
+areas. One should consider that these usage levels 
+reflect high poverty levels. Note further that water 
+needs are based on annual figures. For specific dry 
+season months or dry years, there will not necessar­
+ily be enough water available to meet needs. In such 
+cases, improving water storage or access to stored 
+water is essential. Dedicated water storage in shal­
+low sand aquifers can increase well capacities and 
+enhance climate resilience.
+The simple model developed by the study indi­
+cates that, in 2050, there will not be sufficient water 
+available to irrigate land that is potentially available in 
+Shabelle basin for agriculture. There is a need to con­
+sider water allocation, appropriate river infrastructure, 
+and improving water use efficiencies. There is also a 
+need to promote regional development and win-win 
+opportunities within the Horn of Africa.
+4.2 Available Options
+As described in earlier sections, groundwater is 
+the principal water resource available in Somalia, 
+and this section summarizes the pros and cons of 
+the main technologies used for water supply. A cost-
+effectiveness analysis, described in detail in the full 
+Synthesis Report, has been undertaken to show the 
+relative contribution of each one of these water sup­
+ply options to bridge the water gap, thus suggesting 
+some criteria for the prioritization of investments.
+Berkads are open-plastered cisterns dug in uncon­
+solidated soil or hewn in bedrock. Storage capacities 
+generally range from 150 to 500 m3. Hafirs, in turn, 
+are created behind dams on gently sloping terrain, 
+preferably on clayey soils to reduce infiltration losses. 
+Storage capacities of these water harvesting systems 
+range from 500 to 10,000 m3. Depending on rainfall, 
+berkads and hafirs store water for approximately 
+A berkad in Somaliland. (Photo courtesy: Chantal Richey)
+Investment Options
+=== PAGE 32 ===
+30
+two to five months after the end of the rainy season. 
+Evaporation is high in these reservoirs (potentially 
+1,500 to 2,500 mm/yr) and leads to large losses. Just 
+like the hand-dug wells, the berkads and hafirs are 
+bacteriologically polluted and not safe as sources for 
+drinking water supply. The estimated annual total cost 
+per water produced is US$1.51/m3.10
+Another more recent intervention are sand dams 
+and underground dams (subsurface dams) in combi­
+nation with collector drains and wells. Sand dams are 
+constructed in the alluvial beds of wadis (toggas/sea­
+sonal rivers). The storage capacities of the sand bod­
+ies behind these dams vary from 5,000 to 40,000 m3. 
+This volume is available for use during the dry sea­
+son (180 days) but is often augmented by recharge 
+through groundwater inflow from the surrounding 
+soils. The estimated annual total cost per water pro­
+duced is US$0.25/m3 with a handpump and US$0.52 
+with a motor pump.
+By its side, production capacities of hand-dug 
+wells, in alluvial unconsolidated sands in tectonic 
+depressions or along the wadis, is about 1 m3/hr or 
+5 m3/d depending on the type of pump. As the wells 
+depend on shallow groundwater the water levels fluc­
+tuate strongly both seasonally and interannually. At 
+the end of the dry season dug wells often run dry. 
+However, water in most open traditional dug wells is 
+compromised by the presence of pathogen microor­
+ganisms. Improved (lined and closed) dug wells with 
+handpumps provide better quality water. The estimat­
+ed annual total cost per water produced is US$0.72/
+m3 including a handpump and US$0.53 if a motor 
+pump is used.
+Subsurface dams and wadis provide important 
+shallow groundwater supplies and may have further 
+untapped potential. Better use of Somalia’s ground­
+water resources presents an opportunity to improve 
+resilience by relying on the buffering capacity offered 
+by considerable storage reserve volumes. However, 
+water quality does need to be considered, particularly 
+salinity, fluoride, and microbiological contamination.
+Groundwater use in Somalia could be further en­
+hanced in certain areas with the introduction of rela­
+tively cheap manual drilling. Manually-drilled wells 
+are a practical alternative for boreholes in alluvial 
+soils and soft rock formation with a depth up to 40 
+meters, are lower cost than machine-drilled wells, 
+and are also a good alternative for hand dug wells. 
+Furthermore, manual drilled boreholes can penetrate 
+deeper than excavated wells, and if properly sealed, 
+they provide better protection from surface contami­
+nation. The estimated annual total cost per water pro­
+duced is US$0.58 m3 with a handpump and US$0.46 
+with a motor pump.
+ Constructions such as sand dams and under­
+ground dams, already successfully applied under 
+the Biyoole project, should be continued. Recharge 
+ponds surrounded by shallow wells are also options 
+for further investigations. Apparently, they already ex­
+ist as van Haren et al. (2017) mention the presence 
+of hafirs on permeable subsurfaces in Somaliland, 
+where infiltrated water is captured by shallow wells. 
+The technology options presented above relate 
+predominantly to rural and peri-urban water supply. 
+Future analysis is required to build on options for ur­
+ban water supply and sanitation.
+10. Statistics on water production costs presented in this 
+subsection can be found in Table 8 of the full Synthesis Report.
+Investment Options
+An earth dam in Puntland. (Photo courtesy: Ahmed 
+Mohamed Hasan)
+=== PAGE 33 ===
+31
+SECTION 5
+Recommendations Summary
+W
+ater insecurity negatively impacts hu­
+man capital through multiple pathways 
+(Figure 7) and is a deterrent to econom­
+ic growth and social development. Conservation of 
+water resources and aquatic ecosystems alongside 
+environmental regeneration is a prerequisite to make 
+the gains of social and economic progress sustain­
+able. Investing in increasing improved access to wa­
+ter and sanitation is an essential driver of economic 
+growth and human development.
+The ‘Somalia Economics of Water’ study conclud­
+ed that all water sector investments should be priori­
+tized based on the twin objectives of (a) their poten­
+tial to improve long-term water availability as a critical 
+contribution to water security and climate change ad­
+aptation; and (b) the extent to which they contribute 
+towards wider socioeconomic development, reduce 
+inequalities, and create economic and human devel­
+opment opportunities. Somalia can use water access 
+to improve coping measures and build resilience for 
+rural communities through pathways which improve 
+subsistence agriculture, create more jobs, and sup­
+port urbanization.
+5.1 Priorities for Policy Reforms and 
+Institutional Strengthening
+In July 2021, the Federal Government of Somalia 
+(FGS) published the National Water Resources Strat­
+egy (NWRS). A first for Somalia, the NWRS describes 
+the critical economic and social importance of water 
+in Somali society. It identifies opportunities to use 
+access to water as a key stepping stone for socio­
+economic development as well as an entry point to 
+peace building. Managing Somalia’s water resources 
+requires a strategic national approach that involves 
+the engagement of key government actors, the pri­
+vate sector, civil society, as well as the support of a 
+range of international cooperating partners and de­
+velopment financing institutions. The NWRS provides 
+a suite of strategies, objectives, and actions for the 
+water sector for 2021–2025, although some of the 
+expected outcomes will only be realized in the lon­
+ger term. The NWRS targets to unlock key actions 
+and align with the Provisional Constitution (2012), 
+Sustainable Development Goals, and sectoral poli­
+cies and laws. The NDP9 will be the key driver for 
+the NWRS over the next five to 10 years. The vision 
+of the NWRS is: “Sustainable, equitable and secure 
+water for national unity, growth and well-being, for all 
+and in harmony with nature”. The NWRS includes a 
+roadmap that sets out flagship projects numerically 
+and the concluding tables in this report align to this 
+NWRS roadmap.
+With the finalization of the NWRS 2021, propos­
+ing and assignment of public sector responsibilities 
+for federal, state, and local governments as set out 
+in the governance frameworks should be expedited. 
+Institutional arrangements are pivotal to the success
+=== PAGE 34 ===
+32
+of any sectorwide reforms as they are the vehicles for 
+implementation of policies and strategies. Providing 
+clarity regarding mandates, roles, and responsibilities 
+is important to ensure effectiveness and efficiency. 
+This is particularly so when capacity and resources 
+are constrained. The Somalian institutional frame­
+work for water governance is evolving and, through 
+the development of the NWRS strategy, progress has 
+been made in gaining improved alignment between 
+the FGS and FMS ministries. Building on this will be 
+a process to formalize these arrangements, through 
+policy and legislative instruments.
+The reality of the need for continued external 
+funding of the water sector should not be a barrier 
+to strengthening long-term institutional and techni­
+cal capacity, and development programs should be 
+aligned with the NWRS and contribute to country 
+system strengthening. Flood and drought risk man­
+agement measures, both ex-post response and ex-
+ante flood prevention and mitigation measures, need 
+strengthening as well as coordination between the 
+MoEWR and the National Disaster Risk Manage­
+ment actors. There is a need to manage drought and 
+flood risks comprehensively in order to help develop 
+resilience. Considering floods as a resource and op­
+portunity should be encouraged, and Somalia should 
+continue to invest in pathways to harness floods such 
+as having sand and subsurface dams.
+Before any sustainable large investment infrastruc­
+ture is done, a policy intervention is needed relating 
+to the defining of a clear urban service delivery model 
+by the government, wherein the financing of large-
+scale urban water supply and sanitation infrastructure 
+is contingent on the development of a service delivery 
+model for urban water and sanitation supply. The si­
+multaneous development of an Urban Water Sector 
+Investment Plan is very important. This can comprise 
+a consolidation of a series of City Summary Invest­
+Recommendations
+A small-scale water vendor in Hargeisa, Somaliland. (Photo courtesy: Chantal Richey)
+=== PAGE 35 ===
+33
+Recommendations
+Figure 7. Water Insecurity Negatively Impacts Human Capital through Multiple Pathways
+Headline Messages
+Climate-Environment 
+Vulnerability
+Water security challenges are amplified by 
+environmental degradation and climate change. 
+Recurrent episodes of droughts and floods result 
+in consecutive cycles of economic shock and 
+recovery.
+Poor Macroeconomic 
+Performance
+Environmental and climate shocks, 
+import bans, and the global economic 
+fall-out of the COVID-19 pandemic 
+have resulted in a sluggish real GDP 
+per capita growth for Somalia. This 
+has been further dampened by the 
+recent downward trend in foreign direct 
+investments.
+Reduced Water Sector 
+Spending
+Minuscule domestic revenue collection 
+and capital expenditure, coupled with competing 
+sectoral priorities, has resulted in Somalia’s 
+water sector generally allocated only a small 
+share of domestic revenue.
+Increase in Inequality 
+Inadequate water security increases 
+inequality in the country and, subsequently, 
+the vulnerability of certain social groups.
+Human Capital 
+Impacts
+The lack of access to improved water supplies 
+has long-term impacts on Somalia’s human capital 
+across generations, affecting the health, skills, and 
+knowledge of its citizens. Expanding access to 
+improved water sources also has the potential to 
+increase women’s participation in education and in 
+the labor market.
+Secure Rural 
+Economy
+Efforts to diversify and strengthen 
+the urban economy may not achieve 
+their intended impacts if they are not 
+complemented by measures to secure 
+the rural economy against long term 
+environmental degradation and future 
+economic and climatic shocks.
+Need to Diversify 
+Urban Economy
+Somalia’s urban populations would benefit from 
+economic diversification. Urban investments could 
+generate large economic returns due to economies 
+of scale and scope.
+Forced Displacement + 
+Rapid Urbanization
+Forced displacement of rural populations as a result of economic and 
+climatic shocks and environmental degradation is one of Somalia’s 
+most prominent challenges.
+01
+04
+02
+03
+07
+06
+08
+05
+=== PAGE 36 ===
+34
+ment Plans. While there is an urgent need to ease the 
+burden on existing water delivery systems in urban 
+areas, efforts need to be mindful of the considerable 
+commercial interests by those currently filling the gap 
+in service provision.
+5.2 Priorities for Physical Investments 
+and Capacity Strengthening
+Investing in water generates high returns and this 
+study sets out a broad suite of potential investments 
+for the short and medium terms for rural, peri-urban, 
+and urban areas. Whilst domestic revenue mobiliza­
+tion and poor macroeconomic challenges persist, the 
+reduced national water sector spending will continue 
+to be a barrier for service delivery and the need for 
+external funding remains essential. There is a need 
+to channel external funding for service delivery in the 
+sector, including investing in water infrastructure proj­
+ects that can yield short-term returns. Such projects 
+must support capacity strengthening, sustainability, 
+and self-sufficiency. It is recommended that all invest­
+ments into infrastructure fully integrate components 
+related to building institutional and technical capacity 
+in the water sector and insofar as is possible, par­
+ticularly in rural Somalia, projects should be framed 
+around community-driven development principles 
+and sustainable land and water management.
+Investments in water infrastructure need to reduce 
+inequalities, for example, between different groups 
+such as IDP/non-IDP and different cities, and be­
+tween urban and rural. Where feasible, investments 
+should have the potential to expand access to water 
+for income-generating purposes and need to be pri­
+oritized mindful of sudden long-term changes to ur­
+ban populations that are likely to continue, such as 
+the migration of people from rural to peri-urban areas.
+When targeting investments, one should prioritize 
+areas with low household water consumption and 
+those that are particularly food insecure. Focus on 
+supporting existing household investments that en­
+able clean and reliable water supplies close to the 
+home, as this has greatest impact on raising water 
+consumption. Focus also on household sanitation 
+as a step towards citywide inclusive sanitation. Not­
+ing that education is one of the few assets that rural 
+people can take when they move, prioritize improving 
+WASH, including menstrual hygiene management in 
+schools, as support to the education sector will have 
+long-term returns.
+Long-term food security is paramount for the social 
+and economic development of Somalia. One must 
+safeguard and increase the production of both staple 
+foods and livestock fodder. Building resilience in ru­
+ral Somalia requires investments that can reduce the 
+impacts of droughts on nomadic and agro-pastoral 
+communities. Water and land management practices, 
+including soil conservation and flood management, 
+are essential elements of all projects. New projects 
+could emulate the Biyoole project model wherein 
+sustainable land management is promoted around 
+the construction of a water point. The securing of the 
+rural economy and building resilience will reduce the 
+forced displacement that comes with the repeated 
+shocks that Somalia experiences, and water access 
+is central in this resilience building. Finally, the live­
+stock sector would benefit from securing all-year fod­
+der, and there are gains to be made through water 
+investments throughout the livestock value chain.
+Livestock watering at a water point in Hudur Bakool. (Photo 
+courtesy: Ahmed Mohamed Hassan)
+Recommendations
+=== PAGE 37 ===
+35
+Expanding access to improved water sources and, 
+in particular, ensuring that sources are located close 
+to the home, will reduce the time that women need 
+to spend on water collection, freeing up their time 
+for other activities and reducing their vulnerability to 
+violence. Investment into girls’ education is extremely 
+important for the economic and human development 
+of the country, and WASH investments can play an 
+important part in enabling girls to remain in school. 
+Women have important roles to play in water man­
+agement, which need to be very well supported.
+5.3 Priorities for Filling 
+Information and Data Gaps
+Gaps in data and information prevent analysis of 
+how water scarcity constrains economic prospects for 
+households, firms, and the national economy. While 
+the ‘Somalia Economics of Water’ study produced 
+and analyzed an enormous amount of data, there re­
+mains much to be done. The points below discuss pri­
+orities for starting to fill the information and data gaps.
+Understanding the role of the urban periphery in 
+relation to why goods are not coming in from the hin­
+terlands and defining the constraints to this in relation 
+to water is, furthermore, important, as is also under­
+standing why Somalia is importing staple vegetables 
+such as onions and tomatoes from Ethiopia.
+While not a water sector issue directly, the expan­
+sion of enclosures creates conflict and threatens 
+traditional livestock migration. The livestock sector, 
+thus, also needs to be better understood and taken 
+into consideration.
+There is a need to ensure that investments priori­
+tize the legal, political, cultural, and practical aspects 
+of gender inequalities in Somalia as well as the col­
+lection of gender-disaggregated data. 
+It is also relevant to explore and introduce other 
+technologies that are not found in Somalia. Manual 
+well drilling is one of these technologies and the report 
+recommends following the tried and tested model in 
+FCV contexts: undertake an analytical study to under­
+stand the development potential for manual well drill­
+ing, if there is potential, then prepare and implement 
+a small scale pilot project operation and, if success­
+ful, take to scale in a large groundwater investment 
+project; areas for intervention should be the areas 
+without wadis and which are therefore unsuitable for 
+sand dams. Projects of this nature will, in time, pro­
+vide a network of emergency wells in drought-prone 
+areas providing rural safety nets.
+ An infrastructure assessment to understand the 
+current state of the existing irrigation infrastructure is 
+needed. This will determine if it is possible, and fea­
+sible, to rehabilitate or construct new irrigation infra­
+structure. A study of potential for spate irrigation can 
+be done at the same time. More important, however, 
+is the need to reinvent the riverine breadbasket and 
+a quick win in the short term will be the introduction 
+of farmer-led irrigation development (FLID) where the 
+costs of irrigation are four times less than traditional 
+irrigation and far easier to implement.
+Understanding urban water supply and sanita­
+tion is important. The ‘Somalia Economics of Water’ 
+study has dug deeply into rural water supply and fu­
+ture analytical work is required to position the sector 
+for advancements in urban water supply and sanita­
+tion. More information needs to be gathered on water 
+Box 1. Data Scarcity
+During the study, the paucity of published and 
+consolidated data led to the project having the added 
+benefit of becoming a producer and analyzer of data. 
+The lack of data was a major constraint throughout the 
+study, and data constraints affect many of the areas 
+and variables that would prove very insightful for an 
+economic assessment of how water scarcity impacts on 
+economic prospects, both at the macroeconomic and 
+microeconomic levels. Data constraints are described 
+in depth in Appendix 3 of the full report.
+Recommendations
+=== PAGE 38 ===
+36
+service delivery for human consumption in cities and 
+towns and for commercial and industrial users. Criti­
+cal in this is deepening understanding of large-scale 
+extraction and storage to facilitate the preparation of 
+urban investment in water supply. Unpacking the role 
+of water utilities is key and little is currently known 
+about the basics such as contracting modalities, fi­
+nancing sources, governing policies, and fiscal risks. 
+5.4 Short- and Medium-Term Projects
+Based on the premise of learning by doing and 
+a recognition that, in Somalia, tangible projects fa­
+cilitate intergovernmental coordination and sectoral 
+oversight, the tables below provide a list of invest­
+ment priorities based on the analysis undertaken 
+by this ‘Economics of Water’ study. The priorities 
+presented in Tables 2 and 3 correspond to the short 
+term (0–2 years) and medium term (0–5 years), re­
+spectively. The priorities are disaggregated by rural, 
+peri-urban, and urban; alignments with the particular 
+NWRS flagship projects are given.
+Table 2. List of Investment Priorities: Short Term (0–2 Years)
+Suggested Formulation	
+Timeframe	
+Focus	
+Alignment with
+	
+	
+	
+	
+	
+NWRS Flagship
+	
+	
+	
+	
+	
+Project #
+Strengthen resilience at the local level
+Investment in new small water systems/expansion, including 	
+Short	
+Rural	
+3, 7, 8, 10, 12
+innovations (for example, sand dams) coupled with appropriate
+governance and management arrangements 
+Build a network of emergency wells in vulnerable localities 	
+Short	
+Rural	
+8
+Provide technical assistance/co-funding for soil and 	
+Short	
+Rural	
+8, 7, 10
+water conservation techniques in selected areas
+Provide technical assistance/co-funding for private and 	
+Short	
+Rural	
+4
+community investments in water 
+Strengthen local community capacity (1): rehabilitation of 	
+Short	
+Rural	
+3, 7, 12
+watering facilities with support for the reestablishment and 
+strengthening of nomadic communities’ organization, 
+including conflict adjudication
+...continued on facing page
+Elevated tank in Aleybadey. (Photo courtesy: Ahmed 
+Mohamed Hassan)
+Recommendations
+=== PAGE 39 ===
+37
+Suggested Formulation	
+Timeframe	
+Focus	
+Alignment with
+	
+	
+	
+	
+	
+NWRS Flagship
+	
+	
+	
+	
+	
+Project #
+...continued from facing page
+Table 2. List of Investment Priorities: Short Term (0–2 Years)
+Improve data, information, and knowledge
+River flow assessments, based on a combination of 	
+Short	
+All	
+6, 7, 9, 11
+past data and hydrological modeling utilizing remote sensing 
+data (including upstream basin sections in Ethiopia)  
+Research studies/further diagnostics on:
+•	 Delivery models, sources and access for select urban areas 
+	
+as basis of taking decisions in future service delivery
+•	 Boosting year-round affordable good quality livestock feed
+•	 How to best support the promotion of water and soil 
+	
+conservation and water harvesting methods in drylands
+•	 How to support integrated land and water management 
+	
+practices, including soil conservation and flood management
+•	 Viable flood mitigation and drought resilience measures 
+	
+including forest stewardship
+•	 Climate-resilient water and sanitation technologies and 
+	
+management techniques
+These studies should be embedded in, and undertaken as part 	
+Short	
+All	
+5, 7, 8, 9, 10, 12
+of, investment operations
+Economic studies on sectoral water uses (mostly WSS, livestock, 	 Short	
+All	
+7, 9, 10, 12
+and agriculture) but also on new trends of energy conversion 
+efforts and incipient industrial development
+Assessment of the potential use of economic incentives for 	
+Short	
+All	
+5, 9
+sustainable water management (mainly pricing mechanisms, 
+risk management schemes, and cooperation-based instruments)
+Undertake an in-depth diagnostic of the existing water supply 	
+Short 	
+Urban	
+7, 9
+and sanitation facilities in capital and secondary cities. The 
+focus should be on clearly defined sources of water, and how to 
+collect, store, and deliver
+Urban Investment Plans (1): 	
+Short	
+Urban	
+3, 7, 9
+Deepen analysis of 23 most distressed towns in terms of water 
+resources towns to determine growth potential of, and 
+inequalities in, and define key urban water infrastructure 
+investment priorities 
+Urban Investment Plans (2): 	
+Short	
+Urban	
+3, 7, 9
+Prepare secondary city summary investment plans for 
+Galmudug, South West State, Hirshabelle, and Jubbaland
+Recommendations
+=== PAGE 40 ===
+38
+Suggested Formulation	
+Timeframe	
+Focus	
+Alignment with
+	
+	
+	
+	
+	
+NWRS Flagship
+	
+	
+	
+	
+	
+Project #
+Table 3. List of Potential Investments for the Medium Term (0–5 Years)
+...continued on facing page
+Recommendations
+Strengthen resilience at the local level
+Develop perennial livestock feed crops that utilize ‘green water’, 	
+Medium	
+Rural	
+7, 12
+but at times have blue river water added (supplemental irrigation). 
+This would form the basis for high-quality livestock export 
+(well-fed, healthy livestock, selling at good prices) 
+Introduce consultative, participatory approaches whereby water 	
+Medium	
+Rural	
+7, 12
+access helps livestock stakeholders through participatory 
+rangeland management and improves environmental 
+stewardship of rangelands, including their adaptation to an 
+increasingly threatening climate change
+Transforming livelihoods and the economy
+Large scale introduction of manual well drilling (training, local 	
+Medium	
+All	
+5, 9
+equipment production, private sector development) 
+Promote farmer-led irrigation development	
+Medium	
+Rural	
+10
+Provision of large volumes of water to enable the gradual 	
+Medium	
+Rural, 	
+7, 10
+commercialization of Jubba and Shabelle (river flow dependent)	
+	
+Peri-urban 
+agriculture, from low-value crops to higher-value crops
+Pilot locally based Natural Resources Management and 	
+Medium	
+Rural	
+8, 10, 11
+Water Resources Management including soil rehabilitation
+Connect urban and rural provision of water for households, which 	 Medium	
+Rural	
+7, 9
+may entail interventions and deeper assessments as per the 
+optimal scale for the provision of these services by specialized 
+water utilities or other operators (in cooperation with 
+community-based systems)
+Connect water supply and wastewater treatment, thus making the 	 Medium	
+Rural	
+9
+best out of the potential for reclaiming and reusing water
+In coastal towns, pilot mixed source water provision through 	
+Medium	
+Urban	
+9
+complementing fresh groundwater with desalination such as 
+reverse osmosis options
+=== PAGE 41 ===
+39
+Suggested Formulation	
+Timeframe	
+Focus	
+Alignment with
+	
+	
+	
+	
+	
+NWRS Flagship
+	
+	
+	
+	
+	
+Project #
+...continued from facing page
+Table 3. List of Potential Investments for the Medium Term (0–5 Years)
+Improve data, information and knowledge
+Deepen transboundary basin knowledge and understanding:	
+Medium	
+Rural	
+2, 3, 5, 6
+•	 Establish a basis for transboundary basin management
+•	 Undertake situation assessment and basin development 
+	
+scenario studies in the Jubba and Shabelle basins
+•	 Undertake situation assessment and basin development 
+	
+scenario studies in transboundary aquifers
+•	 Develop principles and policy for transboundary cooperation 
+	
+and basin management
+•	 Promote trust building activities towards transboundary basin 
+	
+management across the region
+A policy intervention is needed relating to the defining of a 	
+Medium	
+Urban	
+9
+clear urban service delivery model by government
+Urban Investment Plans (3):
+Develop an overarching Urban Water Sector Investment Plan	
+Medium	
+Urban	
+4, 9
+Recommendations
+=== PAGE 42 ===
+40
+Bibliography
+•	 Auerbach, Alan J., and L.J. Kotlikoff. 1987. Dy­
+namic Fiscal Policy. Cambridge, U.K.: Cambridge 
+University Press. 
+•	 Basnyat, D.B. 2007. Water Resources of Soma­
+lia. Technical Report No W-11. Nairobi, Kenya: 
+FAO SWALIM (GCP/SOM/045/EC). https://www.
+faoswalim.org/resources/site_files/W-11%20
+Water%20Resources%20of%20Somalia_0.pdf
+•	 Gaur M.K., and V.R. Squires. 2018. Geographic 
+Extent and Characteristics of the World’s Arid 
+Zones and Their Peoples. In M. Gaur, V. Squires, 
+eds., Climate Variability Impacts on Land Use and 
+Livelihoods in Drylands. Springer, Cham. https://
+doi.org/10.1007/978-3-319-56681-8_1
+•	 EarthWater. 1998. Pre-feasibility Geophysical in­
+vestigations. Garowe Town Water Supply. Punt­
+land State, Somalia.
+•	 FAO, AQUASTAT. 2014. Country profile Somalia. 
+Retrieved January 8, 2021, from http://www.fao.
+org/aquastat/en/countries-and-basins/country-
+profiles/country/SOM
+•	 FAO and WB (Food and Agriculture Organization 
+and the World Bank). 2018. Rebuilding Resilient 
+and Sustainable Agriculture in Somalia. Washing­
+ton, D.C. http://documents.worldbank.org/curated/
+en/803231522165074948/Volume-1-Overview 
+•	 FGS (Federal Government of Somalia). 2018. 
+Drought Impact and Needs Assessment. Mogadi­
+shu, Somalia.
+•	 Khandker V., V.P. Gandhi, and N. Johnson. 2020. 
+“Gender Perspective in Water Management: The 
+Involvement of Women in Participatory Water Insti­
+tutions of Eastern India”. Water 12(1):196. https://
+doi.org/10.3390/w12010196
+•	 Liniger, H., and W. Critchley. 2007. Where the land 
+is greener: Case-studies and analysis of soil and 
+water conservation initiatives worldwide. CTA/
+CDE/FAO/UNEP/WOCAT.
+•	 Louis Berger Inc. 1985. Comprehensive ground­
+water development, project 104. Final report Vol­
+ume II, Hydrology. Somali Democratic Republic, 
+Ministry of Minerals and Water resources, Water 
+Development Agency.
+•	 Lundqvist, J. 1999. Mainstreaming Gender in 
+Water Resources Management: Why and how. 
+Background Paper for the World Vision Process. 
+Accessed May 7, 2021. Available at http://www.
+pacificwater.org/userfiles/file/IWRM/Toolboxes/
+gender/MAINSTREAMING%20GENDER%20
+IN%20WATER%20RESOURCES.pdf
+•	 MoEWR. 2021. Water Resources Strategy and 
+Plan. Ministry of Energy and Water Resources, 
+Federal Government of Somalia.
+•	 National Bureau of Statistics. 2021. Somalia Gross 
+Domestic Product Report. Mogadishu, Somalia. 
+https://www.nbs.gov.so/gross-domestic-product-
+gdp/
+•	 Petersen, G., and H.M. Gadain. 2012. Water 
+Demand Assessment for the Juba and Sha­
+belle Rivers. Technical Report No W-22, FAO-
+SWALIM (GCP/SOM/049/EC) Project, Nairobi, 
+Kenya. https://www.faoswalim.org/resources/site_
+files/W%2022%20Water%20Demand%20Assess­
+ment_0.pdf
+•	 Rubel, F., and M. Kottek. 2010. “Observed and pro­
+jected climate shifts 1901–2100 depicted by world 
+maps of the Köppen-Geiger climate classification.” 
+Meteorologische Zeitschrift 19(2): 135–141.
+•	 Said, A.A., R. Yurtal, M. Cetin, and M.S. Gölpinar. 
+2021. “Evaluation of some groundwater quality pa­
+rameters using geostatistics in the urban coastal 
+aquifer of Bosaso plain, Somalia.” Journal of Agri­
+cultural Sciences. https://dergipark.org.tr/en/down­
+load/article-file/794340
+•	 Shilenje, Z.W., and V. Ongoma. 2014. “Observed 
+surface ozone trend in the year 2012 over Nairobi, 
+Kenya.” Atmósfera 27(4): 377–384.
+=== PAGE 43 ===
+41
+•	 Tierney, J.E., C.C. Ummenhofer, and P.B. de 
+Menocal. 2015. “Past and future rainfall in the 
+Horn of Africa.” Sci. Adv. 1, e1500682. https://www.
+researchgate.net/publication/283851190_Past_
+and_future_rainfall_in_the_Horn_of_Africa
+•	 UNICEF. 2011. MICS Somaliland, 2011.
+•	 van Haren, I., L. Bastidas, N. Limones, and M. Wi­
+jnen. 2017. Assessment of Water Resources for 
+Priority Areas in Somaliland. Final Report. Somalia 
+Drought Emergency Response. Water Partnership 
+Program, World Bank Group.
+•	 van Wijk-Sijbesma, C. 1998. Gender in Water Re­
+sources Management, Water Supply and Sanita­
+tion: Roles and Realities Revisited. International 
+Research Centre for Water and Sanitation. Delft, 
+The Netherlands.
+•	 WASH Cluster Somalia. Draft 2017. Minimum 
+WASH 
+Technical 
+Guidelines. 
+180502_wash_
+technical_guidelines_2017.pdf 
+(humanitarianre­
+sponse.info)
+•	 WHO and UNICEF. 2019. Progress on Drinking 
+Water, Sanitation and Hygiene: 2017 Update and 
+SDG Baseline. WHO & UNICEF, Joint Monitoring 
+Programme, Geneva and New York. 
+•	 ———. 2021. Estimates for drinking water, sanita­
+tion and hygiene services by country (2000–2020). 
+Updated July 2021. Accessed July 15, 2021. www.
+washdata.org 
+•	 World Bank. 2018. Somalia Drought Impact and 
+Needs Assessment. Volume II: Sector reports.
+•	 ———. 2021a. Somalia Urbanization Review: Fos­
+tering Cities as Anchors of Development. Wash­
+ington, D.C. https://openknowledge.worldbank.
+org/handle/10986/35059 
+•	 ———. 2021b. Horn of Africa Regional Econom­
+ic Memorandum: Overview Report. Washington, 
+D.C.
+•	 ———. 2021c. Gender Gaps in Somalia’s Water 
+Sector. Washington, D.C.
+•	 World 
+Bank 
+Group. 
+2020. 
+Domestic 
+Re­
+source Mobilization in Somalia. Washington, 
+D.C. 
+http://documents.worldbank.org/curated/
+en/644541596773094934/Domestic-Resource-
+Mobilization-in-Somalia 
+•	 ———. 2021a. Improving Access to Jobs for the 
+Poor and Vulnerable in Somalia. Washington, 
+D.C. 
+http://documents.worldbank.org/curated/
+en/540261609935995160/Improving-Access-to-
+Jobs-for-the-Poor-and-Vulnerable-in-Somalia 
+•	 ———. 2021b. Trade as and Engine of Growth in 
+Somalia: Constraints and Opportunities. Washing­
+ton, D.C.
+•	 ———. 2021c. Somalia Country Economic Mem­
+orandum: Towards an Inclusive Jobs Agenda. 
+Washington, 
+D.C. 
+http://documents.worldbank.
+org/curated/en/464291625747249500/Somalia-
+Economic-Memorandum-Towards-an-Inclusive-
+Jobs-Agenda
+Bibliography
+=== PAGE 44 ===
+
+=== PAGE 45 ===
+
+=== PAGE 46 ===
+Notes
+=== PAGE 47 ===
+
+=== PAGE 48 ===
+GWSP
+GLOBAL WATER
+SECURITY a SANITATION
+PARTNERSHIP
+THE WORLD BANK
+I WORLD BANKGROUP
+IBRD • IDA

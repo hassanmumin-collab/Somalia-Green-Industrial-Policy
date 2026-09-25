@@ -1,0 +1,28 @@
+Independent re-check, 2026-09-25, of C-0485 to C-0491 and C-0525 after batch_17 FAILs.
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0485: PASS
+  Reason: Corrected statement, period, measure and quote confirmed at the cited page.
+
+C-0486: PASS
+  Reason: Corrected statement, period, measure and quote confirmed at the cited page.
+
+C-0487: PASS
+  Reason: Corrected statement, period, measure and quote confirmed at the cited page.
+
+C-0488: PASS
+  Reason: Corrected statement, period, measure and quote confirmed at the cited page.
+
+C-0489: PASS
+  Reason: Corrected statement, period, measure and quote confirmed at the cited page.
+
+C-0490: PASS
+  Reason: Corrected statement, period, measure and quote confirmed at the cited page.
+
+C-0491: PASS
+  Reason: Corrected statement, period, measure and quote confirmed at the cited page.
+
+C-0525: PASS
+  Reason: Corrected statement, period, measure and quote confirmed at the cited page.
+
+Summary: 8 pass, 0 fail, 0 query.

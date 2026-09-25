@@ -1,0 +1,1273 @@
+=== PAGE 1 ===
+TYPE Original Research
+PUBLISHED 22 June 2026
+DOI 10.3389/frsus.2026.1812205
+OPEN ACCESS
+EDITED BY
+Mahendra Aryal,
+Tribhuvan University, Nepal
+REVIEWED BY
+Wael Salah Fahmi,
+Helwan University, Egypt
+Gemechu Shale Ogato,
+Ambo University, Ethiopia
+Rodrigo Florencio Da Silva,
+National Polytechnic Institute
+(IPN), Mexico
+*CORRESPONDENCE
+Anas Madar
+acmadar0@gmail.com
+RECEIVED 16 February 2026
+REVISED 29 April 2026
+ACCEPTED 30 April 2026
+PUBLISHED 22 June 2026
+CITATION
+Madar A, Geelle A and Osman S (2026)
+An assessment of municipal solid waste
+management practices and challenges in
+Mogadishu, Somalia.
+Front. Sustain. 7:1812205.
+doi: 10.3389/frsus.2026.1812205
+COPYRIGHT
+© 2026 Madar, Geelle and Osman. This
+is an open-access article distributed
+under the terms of the Creative
+Commons Attribution License (CC BY).
+The use, distribution or reproduction in
+other forums is permitted, provided the
+original author(s) and the copyright
+owner(s) are credited and that the
+original publication in this journal is
+cited, in accordance with accepted
+academic practice. No use, distribution
+or reproduction is permitted which does
+not comply with these terms.
+An assessment of municipal solid
+waste management practices and
+challenges in Mogadishu, Somalia
+Anas Madar1*, Abdirahman Geelle2 and Samira Osman3
+1Department of Agricultural and Environmental Science, Institute of Research and Innovation, Salaam
+University, Mogadishu, Somalia, 2Somali Civil Aviation Authority, Mogadishu, Somalia, 3Ministry of
+Education, Culture & Higher Education, Mogadishu, Somalia
+The present study aimed to assess municipal solid waste management practices
+and challenges in Mogadishu, Somalia. The speciﬁc research objectives were to
+examine the state of municipal solid waste management practices, challenges,
+and strategies for improving practices and promoting best practices. Data were
+collected using a mixed-methods cross-sectional design from 273 respondents
+including waste management workers and residents. The ﬁndings reveal that
+current practices are largely ineffective, with 49.1% of respondents rating
+services as “poor”; 46.2% of households currently resort to roadside dumping
+due to a lack of formal infrastructure. Signiﬁcant barriers include inadequate
+ﬁnancial resources, insufficient institutional capacity, technological deﬁciencies,
+and a lack of skilled personnel (58.3%). Practical recommendations include the
+implementation of “pay-as-you-throw” policies to ensure ﬁnancial sustainability,
+the establishment of small-scale community recycling hubs to reduce landﬁll
+pressure, and the formalization of private-sector partnerships through rigorous
+legislative oversight and standardized disposal sites.
+KEYWORDS
+attitudes, citizen perception, waste management, community practice, environment,
+municipal solid waste
+1 Introduction
+The issue of solid waste management has become a signiﬁcant challenge in many
+African cities, including Mogadishu, the capital of Somalia (Godfrey et al., 2019). The
+growing population, rapid urbanization, and economic development in these regions have
+contributed to the increasing generation of municipal solid waste, leading to signiﬁcant
+environmental and public health concerns (Assefa, 2017). According to estimates, in 2016
+the global community generated approximately 2.01 billion metric tons of municipal solid
+waste annually, with an average of 0.74 kilograms produced per person each day (Ram et al.,
+2021). However, at least 33% of this waste was not managed in an environmentally
+responsible manner, contributing an estimated 1.6 billion tons of carbon dioxide emissions,
+which account for roughly 5% of global greenhouse gas outputs (Shahab et al., 2022).
+In response, the Paris Agreement of 2017 involved over 80 nations commit to reducing
+emissions and improving waste management practices (Wang and Stanisavljevic, 2019).
+Solid waste is broadly deﬁned as unwanted or discarded materials and byproducts that
+are no longer needed by the original user (Omar et al., 2019). This includes a wide range
+of items, such as household garbage, institutional waste, street sweepings, construction
+Frontiers in Sustainability
+01
+frontiersin.org
+=== PAGE 2 ===
+Madar et al.
+10.3389/frsus.2026.1812205
+and demolition debris, and commercial waste, which are typically
+collected and managed by local authorities (Olukanni et al., 2020).
+Solid waste management (SWM) consists of various of strategies
+and practices for dealing with garbage at all stages of its
+life cycle, from generation throughout collection and disposal
+sites (Sinha et al., 2011). (Ajega and Genga, 2019). The primary
+objective of this research is to evaluate the existing framework
+of municipal solid waste management in Mogadishu to identify
+systemic gaps and propose sustainable interventions. Speciﬁcally,
+the study addresses current state, institutional, ﬁnancial, and
+technical challenges of municipal solid waste management. To
+better understand the factors inﬂuencing citizen participation in
+municipal solid waste management practices, this study adopts
+the Theory of Planned Behavior (TPB) proposed by Ajzen (1991).
+The TPB is a widely recognized social psychological model that
+links beliefs to behavior, suggesting that an individual’s intention
+to perform a given behavior is the most immediate determinant
+of that behavior (Hunter et al., 2019). Previous studies focused
+on general waste management; this research is the ﬁrst to apply
+the Theory of Planned Behavior (TPB) to Mogadishu’s speciﬁc
+socio-political context.
+2 Research methodology
+2.1 Study site
+Mogadishu is the capital and largest city of Somalia. The
+city is situated in the Banadir region which is made up
+of seventeen districts and the estimated population is 2.5
+million (AREA OF RETURN INFORMATION BROCHURE
+MOGADISHU, 2020). The city is the second-fastest growing
+globally, with an annual growth rate of 4% (Hassan et al.,
+2024). About 23% of this population are Internally Displaced
+People (IDP) who live in informal settlements, making access
+to basic sanitation and waste disposal facilities a problem
+in the city (Hassan et al., 2024). The study was carried out
+all 17 constituencies with (217,108) Households [Estimation,
+2014 (UNICEF Somalia, 2014)]. The target population was the
+waste management workers; Environmental Cleaning private
+Companies, Mogadishu subdivision (county) sanitation directors,
+dumping sites operator, Mogadishu Municipality legal advisors,
+Directorate of Environment of the Oﬃce of the Prime minister,
+environmental experts, health workers, and waste generators.
+2.2 Research design
+This study utilized a descriptive, mixed-methods cross-
+sectional survey design (Trochim and Donnelly, 2001) to assess the
+role of municipal solid waste management practices and challenges
+in Mogadishu (Umer et al., 2019). This approach allowed for the
+integration of quantitative data from questionnaires and qualitative
+insights from interviews to provide a comprehensive assessment
+of
+the
+waste
+management
+landscape
+(Goering and Streiner,
+1996).
+2.3 Data types and sources
+This study used primary data received from the targeted
+population
+through
+questionnaires,
+and
+interviews,
+while
+secondary data was obtained from earlier studies, publications,
+journals, and reports on solid waste management (Thomas, 2014).
+2.4 Sampling methods and procedures
+The purposive sampling technique was utilized for selecting
+specialized
+participants,
+leading
+to
+a
+distribution
+of
+384
+questionnaires. Of these, 273 were completed and returned,
+resulting in a robust 71.1% response rate. The target sample of
+384 was not fully reached—a shortfall attributed to unavoidable
+logistical challenges like participant unavailability, non-response
+attrition, or outright refusal.
+2.4.1 Pilot testing and qualitative detail
+The questionnaire (Sections A: Demographics, B: Practices, C:
+Barriers) was pilot-tested with 30 residents from a non-sampled
+district to ensure reliability (Cronbach’s alpha). Furthermore, 10
+semi-structured interviews were conducted with key informants,
+including
+district
+sanitation
+oﬃcers
+and
+private
+managers.
+Qualitative data were analyzed using thematic analysis to
+identify recurring themes such as infrastructure deﬁcits and
+ﬁnancial constraints.
+2.5 Methods of data analysis
+Quantitative data were edited, coded, and analyzed using SPSS
+and Excel to generate descriptive statistics, including frequencies
+and percentages. Qualitative data were analyzed using thematic
+analysis, where interview transcripts were categorized into themes
+such as “infrastructure gaps,” “legislative oversight,” and “behavioral
+barriers” to complement and triangulate the quantitative ﬁndings.
+2.6 Sample size
+To determine the sample size, the Krejcie and Morgan formula
+was used (Krejcie and Morgan, 1970). For a target population of
+217,108 households at a 95% conﬁdence level, the target sample
+was 384. While the ﬁnal achieved sample was 273 (response rate
+of 71.1%), this resulted in a margin of error of approximately 5.9%,
+which is slightly higher than the initial 5% target.
+The mathematical application of the formula was as follows:
+N = 217108
+n = N/ (1 + N (e2)) = 217108/ (1 + 217108(0.1)∧2)
+n = 384
+n = Sample size
+N = population size
+e = level of signiﬁcance
+Frontiers in Sustainability
+02
+frontiersin.org
+=== PAGE 3 ===
+Madar et al.
+10.3389/frsus.2026.1812205
+Map of Mogadishu, Somalia, illustrating the seventeen districts of the Benadir region. The map shows district boundaries and names, including Deynile, Hodan, and Karan, with major road networks and urban landmarks indicated. An inset highlights Mogadishu’s geographic position along the southern Somali coastline bordering the Indian Ocean, providing regional context for the study area.
+FIGURE 1
+Map of Mogadishu City, Banadir region. Figure created by the authors using open-source map data from OpenStreetMap (ODbL).
+P
+i
+e
+ chart
+ showing ge
+n
+d
+e
+r d
+ist
+rib
+uti
+on 
+amo
+ng 
+re
+spond
+ents.
+ Fifty
+-eight percen
+t are
+ m ale, represented by the orange segment. Forty-two percent are female, indicated by the blue segment. Both percentages are labeled.
+FIGURE 2
+Age distribution of respondents.
+3 Results and discussion
+3.1 Response rate
+Based on the primary data collection, the response rate was
+calculated. 273 of the 384 questionnaires were completed and
+returned, demonstrating a 71.1% response rate.
+This
+response
+rate
+was
+satisfactory.
+According
+to
+Mugenda and Mugenda
+(2003),
+a
+response
+rate
+of
+50%
+is
+adequate for analysis and reporting; 60% is good, and 70% is very
+good (Mugo et al., 2018).
+Figures 1, 2 indicates that the majority of respondents (35.5%)
+are in the age category 36–44 years, followed by 23.44% in
+the age category 27–35 years, and 20.5% in the 18–26 years
+category, with the fewest respondents in the 45 years and above
+category (Figure 3). Of these, 158 (58%) were male while 115
+(42%) were female. The highest number of respondents (91, 33.3%)
+held a diploma, followed by 26.7% with a certiﬁcate; and 24.5%
+Frontiers in Sustainability
+03
+frontiersin.org
+=== PAGE 4 ===
+Madar et al.
+10.3389/frsus.2026.1812205
+Bar chart showing percentage dist
+ribution across age
+ categories. Age 36-44 has the highest percentage near thirty-eight percent, followed by 27-35 and 18-26. Percentages decline for 45-53 and 54 plus.
+FIGURE 3
+Gender distribution of respondents.
+TABLE 1 Socio-demographic characteristics.
+Variable
+Category
+Frequency
+Percentage
+Age
+18–26
+56
+20.50
+27–35
+64
+23.44
+36–44
+97
+35.53
+45–53
+35
+12.82
+54 +
+21
+7.71
+Total
+273
+100.0
+Gender
+Female
+115
+42.0
+Male
+158
+58.0
+Total
+273
+100.0
+Level of education
+Master
+18
+6.6
+Bachelor degree
+28
+10.3
+Diploma
+91
+33.3
+Certiﬁcate
+73
+26.7
+Other
+63
+23.1
+Total
+273
+100.0
+Work experience
+0–2 years
+69
+25.3
+2–3 years
+96
+35.2
+4–5 years
+57
+20.8
+6–8 years
+32
+11.7
+9 + years
+19
+7.0
+Total
+273
+100.0
+other qualiﬁcations. 16.9% had a bachelor’s or master’s degree
+combined as the highest academic achievement (Table 1). For work
+experience, results indicate that 35.2% of respondents had 2–3
+years of work experience, followed by 25.3% with 0–2 years, 20.8%
+with 4–5 years, 11.7% with 6–8 years, and 7% with 9 + years
+of experience.
+The metrics clarifying current operational constraints and
+public perception values are displayed systematically in Table 2,
+with structural barriers further analyzed across variables in Table 3.
+A chi-square test was performed to examine the relationship
+between age and disposal behavior. Results showed that roadside
+dumping was signiﬁcantly more common among residents aged
+18–26 (67.9%) compared to those over 45 (38.1%), χ2(4, N =
+273) = 12.4, p = 0.015. Additionally, an ANOVA test indicated
+signiﬁcant diﬀerences in mean satisfaction ratings between districts
+(F = 3.12, p < 0.05).
+3.2 The state of municipal solid waste
+management practices in mogadishu
+This section presents ﬁndings from the study, which aimed to
+assess municipal solid waste management practices in Mogadishu.
+Solid waste management in Mogadishu is undeniably in a
+critical state, marked by a pervasive lack of proper infrastructure
+and eﬀective systems. The overwhelming majority of residents
+(49.1%) perceive solid waste management as “poor,” with an
+additional 20.9% rating it as fair. Qualitative insights reveal that
+this infrequency leads to “waste piling,” where residents feel forced
+to use roadside dumping (46.2%) as a survival mechanism This
+mirrors ﬁndings in Garowe, where household waste often exceeds
+1 kg per day, yet municipal services only reach a fraction of the
+population (Nour and Olusegun, 2024). This is further exacerbated
+by ineﬃcient collection systems, with most respondents (46.5%)
+reporting weekly waste collection, and a signiﬁcant portion (30–
+40%) of urban waste remaining uncollected, which directly impact
+less than half of the population. This aligns with broader trends
+cited by Wilson et al. (2013), who noted that 30–60% of urban solid
+waste in developing countries often goes uncollected, serving less
+than 50% of the population.
+The challenges extend to the very foundations of waste disposal,
+as a staggering 86.1% of respondents highlight the absence of
+essential facilities at disposal sites, including compaction, proper
+enclosures, and drainage. This severe deﬁciency in formal disposal
+infrastructure directly contributes to the prevalent household waste
+Frontiers in Sustainability
+04
+frontiersin.org
+=== PAGE 5 ===
+Madar et al.
+10.3389/frsus.2026.1812205
+TABLE 2 State of municipal solid waste management practices in Mogadishu.
+Variable
+Category
+Frequency
+Percentage
+Solid waste management rating
+Excellent
+14
+5.2
+Very good
+27
+9.8
+Good
+41
+15.0
+Fair
+57
+20.9
+Poor
+134
+49.1
+Total
+273
+100.0
+Solid waste collection
+Daily
+41
+15.0
+Once every3 days
+48
+17.6
+Once a week
+127
+46.5
+Twice a week
+57
+20.9
+Total
+273
+100.0
+Eﬀective mass media
+Radio
+131
+48.0
+Television
+39
+14.3
+Newspaper
+31
+11.4
+Social media
+72
+26.3
+Total
+273
+100.0
+Facilities at the disposal site
+Yes
+38
+13.9
+No
+235
+86.1
+Total
+273
+100.0
+Charge for waste collection
+Yes
+260
+95.2
+No
+13
+4.8
+Total
+273
+100.0
+Household waste disposal
+Dustbin
+25
+9.2
+Roadside
+126
+46.2
+Empty space ear the house
+93
+34.0
+Inside the house
+29
+10.6
+Total
+273
+100.0
+Current SWM practices
+Sweeping
+85
+31.1
+Collection service
+43
+15.8
+Transporting
+61
+22.3
+Burying and burning
+71
+26.0
+Recycling and reuse
+14
+4.8
+Total
+273
+100.0
+Eﬀectiveness of private waste collectors
+Yes
+80
+29.3
+No
+193
+70.7
+disposal practices, where nearly half of residents (46.6%) resort to
+dumping waste at roadsides, and another 34.0% use empty spaces
+near their homes. This is despite the fact that a vast majority (95.2%)
+of Mogadishu residents are charged for waste collection. This aligns
+with Ritter (2019) who noted that Mogadishu, with its two million
+people, produces about 2,500 tons of waste daily. This high fee does
+not translate into improved services, underscoring a signiﬁcant
+disconnect between payment and provision, and fostering negative
+attitudes toward the existing system, which undermines citizens’
+willingness to participate in proper waste management.
+While the community expresses a clear preference for more
+organized collection methods, such as dustbins (35.9%) and
+roadside containers (29.3%), these preferences, reﬂecting a desire
+for accessible infrastructure, are largely unmet. These observed
+behaviors, such as high rates of roadside dumping, align with
+the Theory of Planned Behavior’s assertion that low perceived
+behavioral control, coupled with potentially negative attitudes and
+weak subjective norms, leads to reduced intention and undesirable
+behaviors. Qualitative interviews with district staﬀrevealed that
+while 95.2% of respondents are charged for collection, the lack of
+standardized collection points forces residents to dump waste in
+“black spots” to avoid accumulating refuse at home. The World
+Bank website featured a statement, considered a historical baseline
+up to 2,000 that “it is common that 30–60% of all the urban solid
+Frontiers in Sustainability
+05
+frontiersin.org
+=== PAGE 6 ===
+Madar et al.
+10.3389/frsus.2026.1812205
+TABLE 3 Solid waste management practice challenges in Mogadishu (n=273).
+STATEMENT
+Responses (%)
+Mean
+Std. dev
+SDA
+DA
+NC
+A
+SA
+The collected domestic solid waste is dumped into the open dumping site
+12.1
+13.4
+10.2
+36.2
+28.1
+4.06
+0.81
+Mogadishu Municipality has allocated suﬃcient funds for the provision of
+eﬀective SWM services in the city
+28.6
+38.3
+8.7
+12.5
+11.9
+2.98
+0.74
+The personnel involved Mogadishu’s SWM services have suﬃcient qualiﬁcation
+and skills in the ﬁeld.
+18.4
+39.9
+20.4
+13.1
+8.2
+2.24
+0.98
+Waste operator companies have the necessary capacity, and equipment of SWM
+services in the city
+13.3
+35.1
+24.2
+17.5
+9.9
+2.02
+0.78
+Mogadishu Municipality does not provide clear sanitation rules and regulations
+7.1
+9.7
+30.6
+37.3
+15.3
+2.65
+0.73
+Mogadishu has suﬃcient landﬁlls used for Solid waste management
+25.8
+42.3
+15.3
+10.0
+6.6
+2.26
+1.35
+waste in developing countries is uncollected and less than 50%
+of the population is served” (Global Waste Management Outlook,
+2016).
+Eﬀorts to raise awareness through mass media, particularly
+radio (48.0%), oﬀer a promising avenue for communicating
+community expectations and shaping positive subjective norms
+regarding waste disposal. However, eﬀective communication must
+be coupled with tangible improvements in infrastructure and
+collection services to empower residents to adopt more responsible
+waste management practices and mitigate the severe health and
+environmental risks posed by the current situation (Olukanni et al.,
+2020). The fact that 86.1% of lack disposal facilities indicates
+extremely low Perceived behavioral control (PBC), as residents feel
+they lack the means to manage waste correctly even if they intend to
+(Guichard et al., 2023). UN-HABITAT (2012), which estimated that
+1,500 tons per day of solid waste are generated in the urban areas of
+Somalia, with uncontrolled disposal posing serious health risks and
+of abuse of the right to live in a healthy environment.
+Challenges identiﬁed include the widespread practice of
+dumping collected domestic solid waste in open yards (36.2%
+agreed, 28.1% strongly agreed). Respondents largely disagreed that
+Mogadishu Municipality allocates suﬃcient funds for eﬀective
+SWM, including reduction, recycling, and recovery programs. A
+signiﬁcant majority (58.3%) also indicated that SWM personnel
+lack necessary qualiﬁcations and skills.
+Additionally, more than 50% of respondents disagreed with the
+claim that waste operator companies have the necessary capacity
+and equipment. There is also a shortage of landﬁlls, with 42.3%
+disagreeing and 25.8% strongly disagreeing that Mogadishu has
+enough landﬁlls. Experts providing qualitative insights highlighted
+that the “open dumping” practiced in Mogadishu (supported
+by 64.3% agreement in the survey) can lead to signiﬁcant
+groundwater contamination risks (Kanmani and Gandhimathi,
+2013). Supportive material and informational conditions are
+crucial for a strong sense of performance ability in waste
+management (Guichard et al., 2023). Feedback from municipal
+directors highlighted that the lack of “designated disposal sites”
+often results in the use of unauthorized dumpsites near residential
+areas. Recent studies in Mogadishu’s Wadajir and Dharkeynley
+districts conﬁrm that these improper dumpsites are directly linked
+to health risks, including increased malaria transmission due to
+breeding sites for disease vectors, as a signiﬁcant association was
+TABLE 4 Sampling table.
+Participant
+group
+Sampling
+technique
+Achieved
+sample (n)
+Residents
+Systematic (Every 5th house)
+263
+Waste workers & experts
+Purposive
+10
+Total
+273
+found between improper waste disposal and malaria transmission
+(Mohamed et al., 2023a). Furthermore, a lack of waste management
+infrastructure in Banadir contributes to marine pollution, with over
+2,70,000 kg of plastic improperly managed daily in coastal regions
+(Mohamed et al., 2023b). Waste recycling is not a priority for most
+municipalities, often due to a lack of knowledge about recycling and
+associated opportunities (Soares and Fernandes, 2019).
+Applying the Theory of Planned Behavior clariﬁes the gap
+between resident intentions and actual practices in Mogadishu. As
+shown in Table 4, the high rate of roadside dumping (46.2%) is
+not merely a lack of awareness but a reﬂection of critically low
+Perceived Behavioral Control. When 86.1% of the population lacks
+access to proper facilities, the ‘control beliefs’ are dominated by
+external constraints rather than personal choice (Guichard et al.,
+2023; Table 5).
+Furthermore, the negative attitudes fostered by poor service
+delivery (49.1% ‘poor’ rating) undermine the perceived beneﬁt
+of complying with municipal regulations. However, the strong
+reliance on Radio (48.0%) for information provides a strategic
+‘subjective norm’ lever; by using radio to broadcast community-
+led successes and social expectations, the municipality can foster
+a sense of collective responsibility that may eventually improve
+behavioral intentions once the infrastructure gaps are addressed
+(Hunter et al., 2019; Olukanni et al., 2020).
+3.3 Strategies for proper solid waste
+management in mogadishu
+The respondents were further told to rate strategies for
+promoting public participation ﬁn solid waste management
+Frontiers in Sustainability
+06
+frontiersin.org
+=== PAGE 7 ===
+Madar et al.
+10.3389/frsus.2026.1812205
+TABLE 5 Mapping of Mogadishu SWM Findings to TPB Constructs.
+TPB Construct
+Key Research Finding
+Behavioral Implications
+Attitude
+49.1% of respondents rate current services as “poor” [Table 2].
+Negative evaluation of the service leads to low motivation to
+participate in formal systems or pay fees.
+Subjective Norms
+48.0% of residents identify Radio as the most eﬀective mass
+media [Table 2].
+Signiﬁcant potential exists to shape social norms and community
+expectations through targeted radio outreach.
+Perceived Behavioral Control
+86.1% of respondents report a lack of disposal facilities; 46.2%
+resort to roadside dumping [Table 2].
+Residents feel they lack the means to manage waste correctly, even if
+they intend to do so, due to structural barriers
+TABLE 6 Response rates.
+Categories of questionnaire
+Frequency
+Percentage
+Number returned
+273
+71.1
+Number not returned
+111
+28.9
+Total supplied
+384
+100.0
+practices in Mogadishu, feedbacks obtained were presented in
+Table 6 below.
+Respondents
+identiﬁed
+several
+strategies
+to
+promote
+public participation, aligning with TPB constructs feedbacks
+obtained
+for
+enhancing
+municipal
+performance
+parameters
+are
+presented
+in
+Table 7
+below.
+Weekly
+awareness-raising
+programs (36.2% agreed, 29.3% strongly agreed) are crucial
+for
+improving
+knowledge
+and
+attitudes,
+thereby
+fostering
+more favorable attitudes and strengthening positive subjective
+norms. Distributing necessary SWM facilities to households and
+markets (39.7% agreed, 8.6% strongly agreed) directly enhances
+perceived behavioral control (PBC) by providing the tools for
+proper waste collection, sorting, and disposal. Developing and
+properly implementing enhanced waste management regulations
+(30.4% agreed, 30.7% strongly agreed) also improves PBC by
+clarifying expectations and reinforcing subjective norms by
+establishing clear societal standards. Adapting ‘pay-as-you-throw’
+policies can inﬂuence attitudes toward waste generation and
+disposal by creating ﬁnancial incentives (Knickmeyer, 2019).
+Supporting small-scale recycling industries is also seen as a
+sustainable solution. These ﬁndings align with recent studies
+on
+“The
+Blue
+Economy”
+and
+urban resilience,
+suggesting
+that without legislative enforcement and “pay-as-you-throw”
+models (supported by 44.8% of respondents), the ﬁnancial
+gap in Mogadishu’s waste sector will continue to widen. This
+mirrors
+challenges
+seen
+in
+other
+rapidly
+urbanizing
+East
+African hubs like Nairobi, where informal settlements often
+outpace formal infrastructure (Santos et al., 2017). Principle,
+the Environmental Management Act, provides citizens with the
+right to a clean environment, and enabling them to understand
+their role in maintaining it and to compel polluters to pay for
+environmental damage.
+The
+ﬁndings
+align
+with
+broader
+trends
+in
+developing
+nations where rapid urbanization outpaces municipal capacity
+(Ahmad et al., 2025; Moni et al., 2024). The 58.3% skill gap in
+Mogadishu is a critical hurdle that prevents 3transition from “open
+dumping” to “integrated resource recovery” (Nour and Olusegun,
+2024). Like other African cities, Mogadishu struggles with a lack of
+community engagement and limited resources. To address this, the
+implementation of “4R” strategies (reduce, reuse, recycle, recover)
+supported by public-private partnerships is essential for long-term
+sustainability (Jacob and Luyiga, 2024).
+4 Limitation of the study
+1-This study has several limitations: the cross-sectional design
+prevents drawing causal inferences; the achieved sample (n = 273)
+was lower than the target (n = 384), increasing the margin of
+error to 5.9%; and the use of purposive sampling for experts may
+limit the generalizability of the qualitative ﬁndings to other regions
+in Mogadishu.
+2-Respondents might provide socially desirable answers rather
+than reﬂecting their true waste disposal habits.
+3-A lack of oﬃcial municipal records made it diﬃcult to
+compare primary ﬁndings with historical secondary data.
+5 Conclusion
+The study assessed the current challenges and strategies of
+solid waste management practices in Mogadishu municipality.
+The majority (49.1%) of respondents indicated poor solid waste
+management in Mogadishu. The study identiﬁed several key
+barriers to eﬀective municipal solid waste management in
+Mogadishu. These included a lack of capacity, facilities, and
+equipment among private waste collection ﬁrms for properly
+managing waste collection, transfer, and disposal. Additionally,
+personnel involved in solid waste management lacked the
+necessary qualiﬁcations and skills to eﬀectively carry out waste
+collection, transfer, and disposal operations. There was also a
+reported shortage of landﬁll infrastructure for solid waste disposal.
+Furthermore, respondents indicated that ﬁnancial allocation was
+inadequate to support eﬀective solid waste management services,
+including waste reduction, recycling, and recovery initiatives. The
+study concluded that the most eﬀective strategies for improving
+municipal
+solid
+waste
+management
+in
+Mogadishu
+include
+charging waste management fees to all community members;
+Frontiers in Sustainability
+07
+frontiersin.org
+=== PAGE 8 ===
+Madar et al.
+10.3389/frsus.2026.1812205
+TABLE 7 Strategies for Effective Solid Waste Management Practices in Mogadishu.
+STATEMENT
+Responses (%)
+Mean
+Std. dev
+SDA
+DA
+NC
+A
+SA
+Raising awareness programs to improve knowledge and attitude toward public
+participation in SWM in Mogadishu
+5.4
+9.3
+19.8
+36.2
+29.3
+3.03
+1.01
+Distribution necessary facilities of SWM to the households and markets reduces
+waste dumped to the undesignated areas.
+16.3
+21.1
+14.3
+39.7
+8.6
+2.08
+0.81
+Building enough sanitary landﬁlls enhances proper SWM and environmental
+protection in Mogadishu.
+3.5
+5.2
+8.7
+24.3
+58.3
+4.18
+1.26
+Adapting a pay as you throw policy and changing fees and tax on waste
+generators to create funds for SWM and reduce the amount of waste generated.
+17.4
+21.5
+16.3
+24.5
+20.3
+2.05
+0.51
+Developing waste management rules and regulations, and implementing them
+properly limit Solid waste in Mogadishu
+8.2
+19.2
+11.5
+30.4
+30.7
+3.52
+0.65
+Backing the small-scale recycling industries is a durable solution to waste
+management in Mogadishu.
+4.7
+11.5
+15.3
+48.2
+20.3
+2.47
+0.91
+conducting weekly public awareness campaigns by the Mogadishu
+municipality on public health, solid waste management, and
+environmental issues; developing and properly implementing
+enhanced
+waste
+management
+regulations;
+and
+supporting
+local ﬁrms to reduce waste while establishing standardized
+disposal sites.
+6 Recommendations
+Strengthen
+policy
+oversight
+to
+establish
+performance-
+based contracts for private cleaning companies to address
+the
+49.1%
+“poor”
+service
+rating
+currently
+reported
+by residents.
+Financial
+reforms
+to
+implement
+“Pay-As-You-Throw”
+models
+for
+the
+95.2%
+of
+households
+already
+paying
+for
+services,
+ensuring
+fees
+are
+tied
+to
+service
+quality
+and
+waste reduction.
+Infrastructure
+investment
+to
+develop
+decentralized
+community
+recycling
+hubs
+to
+eliminate
+the
+46.2%
+roadside dumping rate and the 86.1% shortage of proper
+disposal facilities.
+Targeted public awareness to launch radio-based education
+campaigns (preferred by 48.0% of participants).
+Capacity building to establish technical training programs
+to bridge the 58.3% skill gap identiﬁed among current waste
+management personnel.
+Environmental protection to transition from open dumping to
+sanitary landﬁlls to mitigate the impact of the 2,500 tons of daily
+waste currently polluting the coastline.
+Data availability statement
+The original contributions presented in the study are included
+in the article/supplementary material, further inquiries can be
+directed to the corresponding author.
+Ethics statement
+The studies involving humans were approved by National
+Commission on higher education. The studies were conducted
+in
+accordance
+with
+the
+local
+legislation
+and
+institutional
+requirements. The participants provided their written informed
+consent to participate in this study.
+Author contributions
+AM: Data curation, Methodology, Conceptualization, Formal
+analysis,
+Project
+administration,
+Validation,
+Visualization,
+Writing – original draft, Writing – review & editing. SO:
+Data
+curation,
+Methodology,
+Conceptualization,
+Validation,
+Visualization, Software, Writing – review & editing. AG: Data
+curation,
+Methodology,
+Conceptualization,
+Formal
+analysis,
+Validation, Visualization, Writing – review & editing.
+Funding
+The author(s) declared that ﬁnancial support was received for
+this work and/or its publication.
+Acknowledgments
+The author would like to express sincere appreciation to the
+administration of Social Aﬀairs and Awareness of Mogadishu
+Municipality and Benadir Region, especially the Sanitation
+Department, for its invaluable support and participation in this
+study. Special thanks are also extended to Salaam University for
+their contributions and aﬃliation with this research. Also, we
+appreciate the Nature Care Horn of Africa for their technical
+support and valuable guidance with this study. Furthermore, the
+Frontiers in Sustainability
+08
+frontiersin.org
+=== PAGE 9 ===
+Madar et al.
+10.3389/frsus.2026.1812205
+author is grateful to all other participants who contributed to
+this study.
+Conﬂict of interest
+The author declares that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+Generative AI statement
+The author(s) declared that generative AI was used in
+the creation of this manuscript. Declaration of Generative
+AI
+and
+AI-Assisted
+Technologies
+in
+the
+Writing
+Process
+Statement:
+During
+the
+preparation
+of
+this
+work,
+the
+author (Anas∗) used Artiﬁcial Intelligence (AI) for writing
+and
+language
+improvement in
+order
+to meet
+the
+quality
+language writing standards for publishing. After using this
+tool/service, the author reviewed and edited the content as
+needed and takes full responsibility for the content of the
+published article.
+Any alternative text (alt text) provided alongside ﬁgures
+in this article has been generated by Frontiers with the
+support of artiﬁcial intelligence and reasonable eﬀorts have
+been
+made
+to
+ensure
+accuracy,
+including
+review
+by
+the
+authors wherever possible. If you identify any issues, please
+contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their aﬃliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+References
+Ahmad, Z., Esposito, P., and Ali, M. (2025). The risk factors and problems of
+waste management in developing countries as hurdles. Qlantic J. Soc. Sci. 6:130.
+doi: 10.55737/qjss.vi-i.25298
+Ajega, P., and Genga, P. A. (2019). Strategy implementation practices on performance
+of solid waste disposal management in informal settlements in Nairobi, Kenya. Int. J.
+Curr. Aspects 3, 131–149. doi: 10.35942/ijcab.v3iIV.52
+Ajzen, I. (1991). The theory of planned behavior. Organ. Behav. Hum. Decis. Process.
+50, 179–211. doi: 10.1016/0749-5978(91)90020-T
+AREA OF RETURN INFORMATION BROCHURE MOGADISHU. (2020).
+Assefa, M. (2017). Solid waste generation rate and characterization study for
+Laga Tafo Laga Dadi Town, Oromia, Ethiopia. Int. J. Environ. Prot. Policy 5:84.
+doi: 10.11648/j.ijepp.20170506.11
+Global Waste Management Outlook, (2016). In United Nations eBooks. Nairobi:
+United Nations.
+Godfrey, L., Ahmed, M. T., Gebremedhin, K. G., Katima, J. H., Oelofse, S., Osibanjo,
+O., et al. (2019). “Solid waste management in Africa: governance failure or development
+opportunity?” in Regional Development in Africa, ed. N. Binns (London: IntechOpen),
+235–254. doi: 10.5772/intechopen.86974
+Goering,
+P.,
+and
+Streiner,
+D.
+L.
+(1996).
+Reconcilable
+diﬀerences:
+the
+marriage of qualitative and quantitative methods. Can. J. Psychiatry 41:491.
+doi: 10.1177/070674379604100804
+Guichard, E., Jouﬀre, S., Bouquet, C. A., and Autin, F. (2023). An integrative model
+of waste management: situational, normative, attitudinal and selfrelated determinants
+of household’s food waste separation intention and habits, and waste deposit at disposal
+centers.Available online at: https://hal.science/hal-04300161
+Hassan, H. O., Ayeta, E. G., Ibrahim, A. A., Omar, M. F., Abdi, S. M., Houmed, Y. K.,
+et al. (2024). The ﬁrst assessment of marine litter on Somalian coast: the case of Liido
+Beach, Mogadishu. Heliyon 10:e26593. doi: 10.1016/j.heliyon.2024.e26593
+Hunter, C. M., Williamson, D., Pearson, M., Saikawa, E., Gribble, M. O., and Kegler,
+M. C. (2019). Safe community gardening practices: focus groups with garden leaders in
+Atlanta, Georgia. Local Environ. 25:18. doi: 10.1080/13549839.2019.1688268
+Jacob, O., and Luyiga, S. (2024). Enhancing solid waste management practices
+in
+soroti
+municipality:
+a
+comprehensive
+study.
+IAA
+J.
+Appl.
+Sci.
+11:17.
+doi: 10.59298/IAAJAS/2024/112.17.34
+Kanmani, S., and Gandhimathi, R.. (2013). Investigation of physicochemical
+characteristics and heavy metal distribution proﬁle in groundwater system around the
+open dump site. Appl. Water Sci. 3:387. doi: 10.1007/s13201-013-0089-y
+Knickmeyer, D. (2019). Social factors inﬂuencing household waste separation: a
+literature review on good practices to improve the recycling performance of urban areas
+[Review of social factors inﬂuencing household waste separation: a literature review on
+good practices to improve the recycling performance of urban areas]. J. Clean. Prod.
+245:118605. doi: 10.1016/j.jclepro.2019.118605
+Krejcie, R. V., and Morgan, D. W. (1970). Determining sample size for research
+activities. Educ. Psychol. Meas. 30, 607–610. doi: 10.1177/001316447003000308
+Mohamed, D. A., Yousif, M. E. A., and Abdalla, A. I. (2023a). Environmental and health
+eﬀects of solid waste dumpsites in Wadajir District, Mogadishu, Somalia. World J. Adv.
+Res. Rev. 19:621. doi: 10.30574/wjarr.2023.19.3.1821
+Mohamed, M. H., Sharma, H. R., Ilic, P., Elmi, Y., and Adam, A. A. (2023b).
+Assessment of water handling practices in households and related health impacts: a case
+study in Deyniile District, Mogadishu, Somalia. BMC Public Health. (2025) 25:2368.
+doi: 10.1186/s12889-025-23595-2
+Moni, M. A., Magayiyana, Z., and andand Mngeni, A. (2024). Situation analysis of
+municipal solid waste management practices in mthatha central business District,
+South Africa. Environ. Earth Sci. Res. J. 11:84. doi: 10.18280/eesrj.110401
+Mugenda, O. M., and Mugenda, A. G. (2003). Research Methods: Quantitative and
+Qualitative Approaches. Nairobi: African Centre for Technology Studies (ACTS) Press.
+Mugo, D. M., S.M.A, M., and Waithaka, S. T.. (2018). Eﬀect of mobile
+communication services on performance of Saccos in Kenya. Eur. Sci. J. 14:46.
+doi: 10.19044/esj.2018.v14n30p46
+Nour, A. J., and Olusegun, O. I. (2024). Evaluation of solid waste produced in Garowe
+District Somalia. IDOSR J. Sci. Res. 9:33. doi: 10.59298/IDOSRJSR/2024/9.2.3348.100
+Olukanni, D. O., Pius-Imue, F. B., and Joseph, S. (2020). Public perception of
+solid waste management practices in Nigeria: Ogun State experience. Recycling 5:8.
+doi: 10.3390/recycling5020008
+Omar, A. A., Hossain, M., and Parvin, Mst. M. (2019). Study on knowledge, attitude and
+practices toward the solid waste management in Karan district, Mogadishu Somalia.
+Environ. Contam. Rev. 1:22. doi: 10.26480/ecr.02.2018.22.26
+Ram, C., Kumar, A., and Rani, P. (2021). Municipal solid waste management:
+a review of waste to energy (wte) approaches [review of municipal solid waste
+management: a review of waste to energy (wte) approaches]. BioResources 16:4275.
+doi: 10.15376/biores.16.2.Ram
+Ritter, J. (2019). Social-ecological resilience in the face of rapid urbanization: a case study
+of Mogadishu, Somalia (Master’s thesis). University of San Francisco, San Francisco,
+CA, United States.
+Santos, C., Fonseca, J., Aires, A., Coutinho, J., and Trindade, H. (2017). Eﬀect
+of
+diﬀerent
+rates
+of
+spent
+coﬀee
+grounds
+(SCG)
+on
+composting
+process,
+gaseous
+emissions
+and
+quality
+of
+end-product.
+Waste
+Manag.
+59,
+37–47.
+doi: 10.1016/j.wasman.2016.10.020
+Shahab, S., Anjum, M., and andand Umar, M. S. (2022). Deep learning applications in
+solid waste management: a deep literature review. Int. J. Adv. Comput. Sci. Appl. 13:347.
+doi: 10.14569/IJACSA.2022.0130347
+Sinha, N. K., Choudhary, B. K., Shree, S., Patel, R. B., and Singh, B. (2011). Solid waste
+management with emphasis on environmental aspect. AIP Conf. Proc. 1324, 213–218.
+doi: 10.1063/1.3669942
+Frontiers in Sustainability
+09
+frontiersin.org
+=== PAGE 10 ===
+Madar et al.
+10.3389/frsus.2026.1812205
+Soares, M. S., and Fernandes, L. F. R. (2019). Management of urban solid waste in
+municipalities monitored by the 17th Cia PM Ind MAT. Rev. Agrogeoambiental 11,
+129–146. doi: 10.18406/2316-1817v11n220191291
+Thomas, G. R. (2014). Research Methodology, Methods and Design. In Palgrave
+Macmillan eBooks. London: Palgrave Macmillan.
+Trochim, W. M. K., and Donnelly, J. P. (2001). The Research Methods Knowledge Base,
+2nd Edn. Available online at: https://socialresearchmethods.net/kb/ (Accessed May 12,
+2026).
+Umer,
+N.,
+Shimelis,
+G.,
+Ahmed,
+M.,
+and
+Sema,
+T.
+(2019).
+Solid
+waste
+generation rate and management practices in the case of Chiro Town, West
+Hararghe Zone, Ethiopia. Am. J. Environ. Prot. 8:87. doi: 10.11648/j.ajep.20190
+804.12
+UN-HABITAT (2012). Mogadishu: First Steps Towards Strategic Urban Planning.
+Nairobi: United Nations Human Settlements Programme; UN-HABITAT Digital
+Publication Library.
+UNICEF Somalia (2014). Somalia Country Oﬃce Annual Report 2014. Mogadishu:
+United Nations Children’s Fund; UNICEF Somalia Transparency and Reports Portal.
+Wang, H., and Stanisavljevic, N. (2019). “Waste management in transition:
+perspectives and solutions,” in Sustainable Cities and Communities, eds. W. Leal
+Filho, A. M. Azul, L. Brandli, P. G. Özuyar, and T. Wall (Cham: Springer), 1–12.
+doi: 10.1007/978-3-319-71061-7_31-1
+Wilson, D. C., Velis, C. A., and Rodic, L. (2013). Integrated sustainable waste
+management in developing countries. Proc. Inst. Civil Eng. Waste Resour. Manag. 166,
+52–68. doi: 10.1680/warm.12.00005
+Frontiers in Sustainability
+10
+frontiersin.org

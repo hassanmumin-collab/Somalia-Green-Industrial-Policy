@@ -1,0 +1,5435 @@
+=== PAGE 1 ===
+CENTRAL BANK OF SOMALIA
+ANNUAL 
+REPORT
+2025
+=== PAGE 2 ===
+CENTRAL BANK OF SOMALIA
+2025
+Annual Report
+info@centralbank.gov.so
+www.centralbank.gov.so
+@CBSsomalia
+@CBSsomalia
+@2025
+In the case of quotation, please refer to this
+Publication as follow: -
+Central Bank of Somalia (CBS) Annual report 2025:
+Mogadishu – Somalia
+To request a complimentary copy of this report, an 
+electronic copy is available at www.centralbank.
+gov.so
+55 Corso Somalia
+P. O. Box 11
+Mogadishu, Somalia
++ (252) 1866131
++ (252) 1866151
++ (252) 1866152
+Fax: +2521241152
+Research & Statistics Department
+Monetary, Financial & Regulatory Policy 
+Group
+Economic, Monetary, and Financial 
+Analysis Division
+=== PAGE 3 ===
+ANNUAL REPORT | 2025
+i
+Central Bank of Somalia
+=== PAGE 4 ===
+ANNUAL REPORT | 2025
+ii
+Central Bank of Somalia
+CBS BOARD OF DIRECTORS
+Mr Abdirahman M. Abdulahi
+GOVERNOR / CHAIRMAN
+Dr. Ali Yassin Sheikh Ali
+DEPUTY GOVERNOR 
+Prof. Hussein Ahmed 
+Warsame
+Member 
+Faysal Abdullahi Warsame 
+Member 
+Mrs. Hanifa Mohamed Ibrahim 
+Member 
+Dr. Aues Abo Scek
+Member
+Prof. Abdullahi Sh. Ali
+Member
+=== PAGE 5 ===
+ANNUAL REPORT | 2025
+iii
+Central Bank of Somalia
+SENIOR MANAGEMENT
+Mr Abdirahman M. Abdulahi
+Governor/Chairman 
+Mr. Mohamed Abdi 
+Mohamed
+General Manager of 
+Financial Administrative & 
+Support Services
+Mr. Ahmed Bahir 
+Hundubey 
+Executive Director 
+of Currency, Banking 
+Operations 
+Mr. Mohamed Mohamud Olow 
+Director, 
+Office of the Governor
+Mr. Mahdi Abdikarim Da’ud
+Executive Director of 
+Monetary, Financial, and 
+Regulatory Policy Group
+Mr. Hussein Shuaib Osman
+Chief Audit Executive,
+Internal Audit Office
+Dr. Ali Yassin Sheikh Ali
+Deputy Governor
+=== PAGE 6 ===
+ANNUAL REPORT | 2025
+iv
+Central Bank of Somalia
+LIST OF ACRONYMS
+AACB
+Association of African Central Banks 
+ACH
+Automated Clearing House 
+AML
+Anti Money Laundering 
+ASEAN
+Association of Southeast Asian Nations 
+CAR
+Capital Adequacy Ratio 
+CBA
+Currency Board Arrangement 
+AML/CFT
+Anti-Money Laundering and Counter Financing of 
+Terrorism 
+CIS
+Credit Information System 
+CPI
+Consumer Price Index 
+CR
+Collateral Registry 
+ECF
+Extended Credit Facility 
+EMDE
+Emerging Markets and Developing Economies 
+FAO
+Food and Agriculture Organization
+FDI
+Foreign Direct Investment 
+FGS
+Federal Government of Somalia 
+FIL
+Financial Institutions Law 
+FMS
+Federal Member States 
+FOB
+Free On Board
+FSNAU
+Food Security Nutrition Analysis Unit
+FX
+Foreign Exchange 
+GDP
+Gross Domestic Product 
+HIPC
+Heavily Indebted Poor Countries
+ID
+Identity Card
+IFC
+International Finance Corporation 
+IFRS
+International Financial Reporting Standards 
+IMF
+International Monetary Fund
+MDRI
+Multilateral Debt Relief Initiative
+=== PAGE 7 ===
+ANNUAL REPORT | 2025
+v
+Central Bank of Somalia
+MMO
+Mobile Money Operators
+MOF
+Ministry of Finance 
+MTB
+ Money Transfer Business 
+NGO
+Non-governmental Organizations 
+NPS
+National Payment System 
+NTP
+National Transformation Plan 
+QR
+QR Code
+RTGS
+Real Time Gross Settlement 
+SIPS
+Somalia Instant Payment System 
+SNBS
+Somali National Bureau of Statistics
+SOMQR
+Somalia QR Code
+SOS
+Somali Shilling 
+SPS
+Somalia Payment Switch
+SWIFT
+Society for Worldwide Interbank Financial 
+Telecommunication
+UAE
+United Arab Emirates 
+UNCTAD
+United Nations Conference on Trade and 
+Development 
+US
+United States 
+USD
+United States Dollars 
+WEO
+World Economic Outlook
+=== PAGE 8 ===
+ANNUAL REPORT | 2025
+vi
+Central Bank of Somalia
+Table of Contents
+CBS BOARD OF DIRECTORS	
+ii
+SENIOR MANAGEMENT	
+iii
+LIST OF ACRONYMS	
+iv
+WORLD ECONOMY	
+xii
+1.1	
+Global Trade	
+4
+1.2 
+Global Inflation and Commodity Prices  
+5
+1.3 	
+Global Financial Stability	
+6
+1.4	
+Implications for the Domestic Economy	
+7
+DOMESTIC ECONOMY	
+8
+2.1	
+Agriculture 	
+12
+2.2 
+Domestic Inflation 
+16
+2.3	
+Exchange Rate Developments	
+17
+PUBLIC FINANCE DEVELOPMENT	
+19
+3.1	
+Implementation of Fiscal Policy 	
+20
+3.2	
+Domestic Revenue and Grants 	
+21
+3.3	
+Government Expenditure	
+25
+3.4	
+Federal Member States	
+27
+EXTERNAL SECTOR	
+31
+4.1	
+Current Account	
+32
+4.1	
+External Public Debt Developments	
+36
+FINANCIAL SECTOR DEVELOPMENT	
+40
+5.1 	
+Banks	
+42
+5.2 	
+Remittances	
+47
+5.3 	
+National Payment System	
+49
+MONETARY POLICY DEVELOPMENTS	
+51
+CORPORATE GOVERNANCE AND BOARD OVERSIGHT	
+53
+7.1	
+Board of Directors	
+54
+7.2 	
+Board Meetings	
+55
+7.3 	
+Governance and Reform Roadmap	
+56
+7.4 	
+Progress and Achievements Under the CBS Strategic Framework	
+57
+Annex: Financial Statements	
+62
+=== PAGE 9 ===
+ANNUAL REPORT | 2025
+vii
+Central Bank of Somalia
+List of Tables
+List of Figures
+Table 1: Overview of the World Economic Outlook Projections (Percent change, unless noted otherwise)	
+3
+Table 2: Real Gross Domestic Product by Expenditure, in Millions of US Dollars, 2021-2025	
+11
+Table 3: Exchange Rate Trend (2020-2025)	
+18
+Table 4: Summary of Revenue and Expenditure 2020-2025 (In Millions of US Dollars)	
+21
+Table 5: Summary of FMS Revenue and Expenditure 2025 (In Millions of US Dollars) South	
+29
+Table 6: Balance of Payments, 2018-2025 (Millions of US Dollars)	
+34
+Table 7: Balance of Payment, 2018-2025 (Percent of GDP, unless otherwise indicated)	
+35
+Table 8: External Public Debt (2018-2025) In Millions of US Dollars	
+37
+Table 9: Annual Changes of External Public Debt (2018-2025) In Millions of US Dollars & Percent	
+37
+Table 10: Consolidated Balance Sheet for Commercial Banks in Millions of US Dollars (2021–2025)	
+42
+Table 11: Remittance Inflows in Millions of US Dollars (2021-2025) 
+47
+Table 12: National Payment System Report in Millions of US Dollars (2022-2025)	
+50
+Table 13: Board Members of the Central Bank of Somalia	
+55
+Figure 1: Global Real GDP Growth 2024-2026	
+1
+Figure 2: Global Trade Growth 2024-2026	
+4
+Figure 3: Global Inflation Rate 2024-2026 
+5
+Figure 4: Financial Conditions Indices (Standard deviations from the mean) 	
+6
+Figure 5: Real GDP and Growth Rate 2019-2026	
+10
+Figure 6: Total Value of Livestock Exports 2020-2025	
+14
+Figure 7: Total Head of Livestock Export 2020-2025 (In Millions of Heads)	
+14
+Figure 8: Total Value of Fishery Exports (2021-2025)	
+15
+Figure 9: Recent Trends in Domestic Inflation (Monthly) 2024–2025 (Percent) 
+16
+Figure 10: Exchange rate Movements in 2020-2025: Yearly Appreciation (-)/ Depreciation (+)	
+17
+Figure 11: Revenue and Grants 2025 (Actual Vs Budget)	
+22
+Figure 12: Total Domestic Revenue 2020-2025 (Percent of GDP)	
+22
+Figure 13: Domestic Revenue Performance (2020-2025)	
+23
+Figure 14: External Grant Trends and Composition (2020–2025)	
+24
+Figure 15: FGS Revenue Structure, 2020–2025	
+24
+Figure 16: The Performance of Government Fiscal Spending 2025 (Actual Vs Budgeted)	
+26
+Figure 17: FGS Expenditure Structure and Fiscal Balance, 2020–2025	
+26
+Figure 18: Federal Member States Revenue and Grants 2025	
+28
+Figure 19: Federal Member States Expenditure 2025	
+30
+Figure 20: External Debt Stock and Creditor Composition Trends (2018–2025)	
+37
+Figure 21: Annual Change in External Public Debt Stock (2018–2025)	
+38
+Figure 22: Composition of External Public Debt by Creditor Group (2018–2025)	
+39
+Figure 23: External Debt-to-GDP Ratio (2018–2025)	
+39
+Figure 24: Total Assets and Credit to private Sector (Percent of GDP)	
+43
+Figure 25: Consolidated Commercial Banks Data (Assets) (2021 – 2025)	
+43
+Figure 26: Consolidated Commercial Banks Data (Liabilities) (2021 – 2025)	
+44
+Figure 27: Commercial Banks’ Capital Adequacy Performance	
+45
+Figure 28: Liquidity Position of Commercial Banks	
+45
+Figure 29: Core Capital Strength of the Banking Sector	
+46
+Figure 30: Total Inward Transfers (2021-2025)	
+47
+Figure 31: Remittance Inflows by Source and Channel in 2025 
+48
+Figure 32: National Payment System (2022-2025)	
+50
+=== PAGE 10 ===
+ANNUAL REPORT | 2025
+viii
+Central Bank of Somalia
+Part II section (5) of the central bank of Somalia Act 2012 the 
+key mandate of the Central Bank of Somalia (CBS)
+The Bank shall:
+a)	 Formulate implement and be responsible for monetary policy and 
+implement the foreign exchange policy.
+b)	 Hold and manage the foreign exchange reserves of Somalia.
+c) License, regulate and supervise all banks and financial institutions 
+to foster the liquidity, solvency, and proper functioning of a stable 
+financial system.
+d)	 Formulate and implement such policies as to best promote the 
+establishment, regulation, and supervision of efficient and effective 
+payment, clearing and settlement systems.
+e)	 Where appropriate, administer payment, clearing and settlement 
+systems.
+f) 
+Act as banker and adviser to, and as fiscal agent for the government 
+and public entities.
+g)	 Act as sole issuer of legal tender Somali currency notes and coins; and
+h) Shall compile, analyze, and publish the monetary, financial, balance of 
+payments statistics and other statistics covering various sectors of 
+the national economy.
+=== PAGE 11 ===
+ANNUAL REPORT | 2025
+ix
+Central Bank of Somalia
+CBS Key Strategic Focus for 
+the Next Five Years
+ 
+(2025-2029)
+Vision
+Mission 
+Core Values 
+To be a resilient and trusted Central Bank that fosters 
+inclusive economic growth and ensures financial 
+system stability for a prosperous Somalia.
+To achieve our primary goals of ensuring price stability 
+and fostering a robust, modern, and sound financial 
+system, which can serve as an engine of economic 
+development.
+i.   Public Service and Orientation
+ii.  Ethical Standards
+iii. Team Dynamics
+=== PAGE 12 ===
+ANNUAL REPORT | 2025
+x
+Central Bank of Somalia
+GOVERNOR’S 
+MESSAGE
+It is my privilege to present the Central Bank of Somalia’s Annual Report 
+for 2025, a year of steady progress in strengthening the financial system, 
+advancing institutional reform, and supporting Somalia’s economic 
+development. Throughout the year, the Bank remained focused on its mandate 
+to safeguard financial stability, reinforce regulation and supervision, deepen 
+financial intermediation, and modernise the country’s financial infrastructure. 
+Somalia continued to implement its economic reform programme under the IMF-
+supported Extended Credit Facility. Reforms in public financial management and 
+institutional capacity helped preserve macroeconomic stability despite structural 
+constraints and external shocks. Real GDP growth is estimated at 3.1 per cent in 
+2025, while inflation stood at 3.7 percent.
+The banking sector continued to expand, with total assets reaching US$2.3 billion. 
+Capital adequacy and liquidity remained well above regulatory requirements, 
+reflecting the sector’s resilience. Remittance inflows also remained strong, 
+providing critical support to households, businesses, and the wider economy. 
+The year marked important progress in strengthening the legal and regulatory 
+foundations of Somalia’s financial sector. Parliament enacted the revised Financial 
+Institutions Law in May, establishing a comprehensive basis for regulating non-
+bank financial institutions. The CBS subsequently licensed the first seven Non-
+Deposit-Taking Microfinance Institutions, broadening access to formal financial 
+services for underserved households, women, young entrepreneurs, and small 
+businesses. Parliament also enacted the Insurance Law, enabling the development 
+and regulation of Sharia-compliant insurance services, including Takaful.
+Modernising financial infrastructure remained a central priority. The rollout of the 
+Somalia Instant Payment System introduced a real-time, interoperable platform for 
+retail payments, available 24 hours a day, seven days a week. This is an important 
+step towards a more efficient, inclusive, and digitally connected economy. 
+The Bank also partnered with the International Finance Corporation (IFC) to advance 
+the legal and regulatory framework for a Credit Information System and Collateral 
+Registry. These initiatives will strengthen credit risk assessment, expand access 
+to finance, and support private sector development.
+Preparations for the reintroduction of the Somali Shilling also advanced. Work 
+included reforms underpinning the proposed Currency Board Arrangement, 
+amendments to the Central Bank of Somalia Act currently before Parliament, and 
+the Board’s approval of reserve management regulations. These measures are 
+essential to ensuring that currency reform is credible, carefully sequenced, and 
+supported by strong institutional safeguards.
+=== PAGE 13 ===
+ANNUAL REPORT | 2025
+xi
+Central Bank of Somalia
+Looking ahead, the CBS will continue implementing its Strategic Plan 2025–2029, 
+with emphasis on institutional capability, financial stability, inclusion, and modern 
+payments, to support sustainable economic development. Our objective is to build 
+a resilient, transparent, and inclusive financial system that serves all Somalis and 
+supports the country’s long-term transformation. The progress achieved in 2025 
+provides a strong foundation for confidence, despite geopolitical uncertainty, 
+climate-related shocks, and volatility in global commodity markets.
+I thank our Board of Directors and staff for their commitment, and hard work. I 
+also extend my appreciation to regulated financial institutions and development 
+partners for their continued cooperation and support. Together, we are laying 
+the foundations for a stronger financial sector and a more prosperous future for 
+Somalia..
+Abdirahman M. Abdullahi
+Governor and Chairman of the Board
+Central Bank of Somalia
+=== PAGE 14 ===
+ANNUAL REPORT | 2025
+xii
+Central Bank of Somalia1
+WORLD 
+ECONOMY
+=== PAGE 15 ===
+ANNUAL REPORT | 2025
+1
+Central Bank of Somalia
+T
+he global economy remained resilient during 2025 despite 
+heightened uncertainty arising from trade policy shifts, 
+geopolitical tensions, and persistent structural challenges. 
+Economic activity was supported by easing inflationary pressures, 
+generally accommodating financial conditions, and continued 
+investment in technology and digital innovation. However, growth 
+remained below historical averages, reflecting weaker productivity 
+growth, elevated public debt levels, and increasing fragmentation in 
+global trade. During the year, major economies imposed higher tariffs, 
+prompting retaliatory trade measures that increased uncertainty in 
+global trade and investment. Although negotiations subsequently 
+reduced some trade restrictions, persistent risks of trade fragmentation 
+and supply chain disruptions continued to weigh on global economic 
+activity and the medium-term outlook.
+According to the IMF’s January 2026 World Economic Outlook (WEO) 
+Update, global growth is estimated at approximately 3.3 percent 
+in 2025 and is projected to remain resilient at 3.3 percent in 2026 
+and 3.2 percent in 2027. Inflation continued to decline across most 
+economies, although price pressures remained above target in some 
+advanced economies. Financial markets remained broadly stable, 
+supported by improving inflation dynamics and expectations of 
+gradual monetary policy normalization. Looking ahead, global growth 
+is expected to remain moderate, supported by technological innovation 
+and resilient private sector activity. Nevertheless, downside risks 
+persist, including renewed trade tensions, geopolitical uncertainties, 
+elevated sovereign debt vulnerabilities, and slower-than-expected 
+productivity growth. These developments underscore the importance 
+of sound macroeconomic policies and strengthened international 
+cooperation to support sustainable and inclusive global growth. 
+Figure 1: Global Real GDP Growth 2024-2026
+Source: IMF WEO, January 2026
+3.3
+1.8
+4.3
+3.3
+1.7
+4.4
+3.3
+1.8
+4.2
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+World
+Advanced Economies
+Emerging Market and Developing
+Economies
+Percentage Change
+2024
+2025
+2026
+=== PAGE 16 ===
+ANNUAL REPORT | 2025
+2
+Central Bank of Somalia
+Advanced economies (AEs) continue to exhibit relatively stable 
+growth, supported by resilient labor markets, technological investment, 
+particularly in artificial intelligence, and easing financial conditions. 
+In contrast, growth in emerging markets and developing economies 
+(EMDEs) remains more heterogeneous, constrained by tighter global 
+financing conditions, high debt burdens, and limited policy space. 
+Notably, a significant share of low-income countries is projected to 
+experience weaker per capita income growth compared to pre-pandemic 
+levels, highlighting a widening development gap. AEs are expected 
+to grow at 1.7 percent in 2025 and 1.8 percent in 2026, supported by 
+easing monetary policy, more accommodative financial conditions, 
+and fiscal support as the adverse effects of trade barriers gradually 
+diminish. In contrast, EMDEs are projected to sustain stronger 
+growth, exceeding 4.0 percent in both 2025 and 2026, underpinned 
+by improving financial conditions, resilient domestic demand, and 
+continued structural adjustments.
+African economies remained resilient in 2025, navigating a complex 
+global environment characterized by multiple external shocks, 
+geopolitical tensions, and structural challenges. Despite continued 
+exposure to global shocks, including commodity price volatility, tighter 
+financial conditions, climate-related risks, and ongoing geopolitical 
+tensions, the region maintained strong economic performance. 
+According to the African Economic Outlook 2026, real GDP growth in 
+Africa accelerated to an estimated 4.4 percent in 2025, compared to 
+3.5 percent in 2024, supported by improved agricultural production, 
+supportive macroeconomic policies, and relatively high commodity 
+prices. Growth was broad-based across the continent, with the 
+majority of African economies recording stronger performance than 
+in the previous year, underscoring the region’s resilience. Looking 
+ahead, growth is projected to moderate slightly to 4.2 percent in 2026 
+due to lingering geopolitical uncertainties and external headwinds, 
+before strengthening again in the medium term, reflecting Africa’s 
+continued role as one of the fastest-growing regions globally.
+East Africa remains the fastest-growing region, with growth projected 
+at 6.4 percent in 2025, supported by strong domestic demand and 
+expansion in the services sector. West and North Africa, with growth 
+rates of  4.7 percent and 4.1 percent respectively, have benefited from 
+increased extractive activity and improved services performance, 
+while Central Africa is estimated to grow by 3.9 percent, supported 
+by renewed investment in mining and infrastructure. In contrast, 
+Southern Africa continues to experience relatively slower growth 
+of 2.5 percent, reflecting structural constraints, including energy 
+shortages and weak external demand, before recovering to 4.4 
+percent in 2027.
+=== PAGE 17 ===
+ANNUAL REPORT | 2025
+3
+Central Bank of Somalia
+Table 1: Overview of the World Economic Outlook Projections (Percent change, unless noted otherwise)
+Source: IMF, January 2026
+Estimate
+Projections
+ 
+2024
+2025
+2026
+2027
+World Output 
+3.3
+3.3
+3.3
+3.2
+Advanced Economies
+1.8
+1.7
+1.8
+1.7
+United States 
+2.8
+2.1
+2.4
+2
+Euro Area 3/
+0.9
+1.4
+1.3
+1.4
+Germany
+–0.5
+0.2
+1.1
+1.5
+France
+1.1
+0.8
+1
+1.2
+Italy
+0.7
+0.5
+0.7
+0.7
+Spain
+3.5
+2.9
+2.3
+1.9
+Japan
+–0.2
+1.1
+0.7
+0.6
+United Kingdom
+1.1
+1.4
+1.3
+1.5
+Canada
+2
+1.6
+1.6
+1.9
+Other Advanced Economies 4/
+2.3
+1.8
+2
+2.1
+Emerging Market and Developing Economies
+4.3
+4.4
+4.2
+4.1
+Emerging and Developing Asia
+5.3
+5.4
+5
+4.8
+China
+5
+5
+4.5
+4
+India 5/
+6.5
+7.3
+6.4
+6.4
+Emerging and Developing Europe
+3.5
+2
+2.3
+2.4
+Russia
+4.3
+0.6
+0.8
+1
+Latin America and the Caribbean 
+2.4
+2.4
+2.2
+2.7
+Brazil
+3.4
+2.5
+1.6
+2.3
+Mexico
+1.4
+0.6
+1.5
+2.1
+Middle East and Central Asia
+2.7
+3.7
+3.9
+4
+Saudi Arabia 
+2.6
+4.3
+4.5
+3.6
+Sub-Saharan Africa 
+4.1
+4.4
+4.6
+4.6
+Nigeria
+4.1
+4.2
+4.4
+4.1
+South Africa
+0.5
+1.3
+1.4
+1.5
+Memorandum
+ 
+ 
+ 
+ 
+World Growth Based on Market Exchange Rates
+2.8
+2.8
+2.8
+2.6
+European Union
+1.2
+1.5
+1.5
+1.6
+ASEAN-5 6/
+4.6
+4.2
+4.2
+4.4
+Middle East and North Africa
+2.2
+3.4
+3.9
+4
+Emerging Market and Middle-Income Economies
+4.4
+4.3
+4.1
+4.1
+Low-Income Developing Countries
+4.2
+4.6
+5.1
+5.1
+World Trade Volume (goods and services) 7/
+3.6
+4.1
+2.6
+3.1
+Advanced Economies
+2
+3
+1.9
+2.4
+Emerging Market and Developing Economies
+6.3
+5.7
+3.6
+4.4
+Commodity Prices
+ 
+ 
+ 
+ 
+Oil 8/
+–1.8
+–14.2
+–8.5
+0.1
+Nonfuel (average based on world commodity import weights)
+3.7
+9.4
+7.5
+0.9
+World Consumer Prices 9/
+5.8
+4.1
+3.8
+3.4
+Advanced Economies 10/
+2.6
+2.5
+2.2
+2.1
+Emerging Market and Developing Economies 9/
+7.9
+5.2
+4.8
+4.3
+=== PAGE 18 ===
+ANNUAL REPORT | 2025
+4
+Central Bank of Somalia
+1.1	Global Trade
+Global trade in 2025 operated in a complex and evolving environment, 
+marked by heightened geopolitical tensions, rising trade barriers, 
+and persistent policy uncertainty. Despite these headwinds, the 
+global trading system demonstrated notable resilience, supported 
+by adaptive supply chains, front-loading of goods ahead of tariff 
+increases, and continued demand for technology-driven investment. 
+According to the IMF’s World Economic Outlook (January 2026), 
+World trade volume growth is estimated to have rebounded to 4.1 
+percent in 2025, but is projected to slow to 2.6 percent in 2026, 
+as the temporary boost from inventory accumulation fades and 
+the cumulative effects of tariffs and trade restrictions intensify. 
+The global trade environment has become increasingly shaped by 
+reconfigured supply chains, the regionalization of trade flows, and 
+strategic diversification away from traditional trading partners. 
+Moreover, trade performance remains uneven across regions and 
+income groups. While AEs have largely recovered and integrated 
+into shifting trade patterns, many EMDEs, particularly low-income 
+and fragile states, continue to face constrained export growth and 
+limited participation in global value chains. 
+Figure 2: Global Trade Growth 2024-2026
+Source: IMF WEO, January 2026
+Global trade volume growth is expected to follow a distinctly non-
+linear trajectory over the 2024-2026 period. In AEs, growth is expected 
+to rise from 2.0 to 3.0 percent, and continue resilience in EMDEs, 
+notwithstanding a slight moderation from 6.3 to 5.7 percent. AEs 
+are expected to be 1.9 percent, while EMDE growth declines more 
+sharply to 3.6 percent, suggesting a return toward more sustainable, 
+medium-term growth levels following the temporary rebound in 2025.
+3.6
+2
+6.3
+4.1
+3
+5.7
+2.6
+1.9
+3.6
+0
+1
+2
+3
+4
+5
+6
+7
+World
+Advanced Economies
+Emerging Market and Developing
+Economies
+Percentage Change
+2024
+2025
+2026F
+=== PAGE 19 ===
+ANNUAL REPORT | 2025
+5
+Central Bank of Somalia
+Figure 3: Global Inflation Rate 2024-2026
+Source: IMF WEO, January 2026
+1.2	Global Inflation and Commodity Prices 
+Global inflation continued its gradual moderation in 2025, reflecting 
+the combined effects of tighter monetary policies, easing supply 
+constraints, and declining energy prices following the post-pandemic 
+and geopolitical shocks. According to the IMF’s WEO report (January 
+2026), global headline inflation declined to 4.1 percent in 2025 and 
+is projected to fall further to 3.8 percent in 2026 and 3.4 percent in 
+2027, signaling a steady return toward central bank targets across 
+most economies. Despite this progress, inflation remains above 
+pre-pandemic averages in several economies, especially in EMDEs, 
+where structural constraints, currency depreciation, and food price 
+volatility continue to exert upward pressure. 
+This disinflation process, however, remains differentiated across 
+country groups. In AEs, inflation is expected to ease gradually amid 
+slowing economic activity and moderating external demand, declining 
+from 2.6 percent in 2024 to 2.5 percent in 2025, and further to 2.2 
+percent in 2026. In contrast, EMDEs continue to experience higher but 
+moderating inflation, with rates projected to fall from 7.9 percent in 
+2024 to 5.2 percent in 2025, and further to 4.8 percent in 2026. This 
+downward trajectory reflects improving supply conditions, tighter 
+macroeconomic policies, and a gradual rebalancing of labor markets, 
+particularly as wage growth moderates in export-oriented sectors. 
+Food price dynamics remain a key source of pressure and volatility. 
+According to the FAO Food Price Index, the index averaged 127.2 
+points in 2025, a 4.3 percent increase from 2024, driven primarily 
+by higher global prices of vegetable oils and dairy products, which 
+more than offset declines in cereals and sugar. 
+ 
+2.6
+2.5
+2.2
+7.9
+5.2
+4.8
+5.8
+4.1
+3.8
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+2024
+2025
+2026F
+Percentage Change
+Advanced Economies
+Emerging Market and Developing Economies
+World
+=== PAGE 20 ===
+ANNUAL REPORT | 2025
+6
+Central Bank of Somalia
+1.3 Global Financial Stability
+Global financial conditions in 2025 remained broadly stable, supported 
+by moderating inflation, easing monetary policy expectations in some 
+advanced economies, and continued liquidity in global markets. This 
+contributed to improved investor sentiment, strong equity market 
+performance, and generally steady access to financing for sovereigns 
+and corporates. However, this apparent stability conceals underlying 
+vulnerabilities in the global financial system.  According to the IMF’s 
+Global Financial Stability Report (October 2025), asset valuations 
+in certain markets appear stretched, with rising concentration risks, 
+particularly in equity markets. At the same time, global financial 
+vulnerabilities remain elevated, with high public and private debt levels 
+increasing exposure to interest rate shocks and refinancing risks, 
+especially in emerging market and developing economies. Despite 
+improved market sentiment, EMDEs continue to face tighter external 
+financing conditions, elevated borrowing costs, and exchange rate 
+volatility. Overall, the IMF highlights that while short-term financial 
+conditions have improved, risks of sudden market corrections and 
+renewed financial stress remain significant, requiring strong policy 
+frameworks and adequate buffers to preserve stability.
+Global macro-financial conditions are further shaped by high public 
+and private debt levels, especially in EMDEs, where debt has reached 
+multi-decade highs, increasing vulnerability to interest rate shocks 
+and capital flow reversals. In sovereign debt markets, rising bond 
+supply and elevated yields in advanced economies have contributed 
+to tighter financing conditions for frontier and emerging markets, 
+while widening spreads and exchange rate volatility continue to 
+expose structural weaknesses in these economies.
+Figure 4: Financial Conditions Indices (Standard deviations from the mean) 
+Source: IMF WEO, January 2026
+=== PAGE 21 ===
+ANNUAL REPORT | 2025
+7
+Central Bank of Somalia
+1.4	Implications for the Domestic Economy
+Notwithstanding persistent global headwinds including shifting 
+trade dynamics, geopolitical tensions, and lingering supply chain 
+disruptions, Somalia’s domestic economy demonstrated notable 
+resilience in 2025. As global inflation continued to ease, domestic 
+inflation remained relatively contained within single digits, supported by 
+lower global commodity prices and improved domestic food supplies. 
+Somalia’s key trading partners remained the United Arab Emirates 
+(UAE), Oman, Saudi Arabia, China, India, and Türkiye. Among these, 
+the UAE, Oman, and Saudi Arabia continued to serve as Somalia’s 
+principal export destinations, with their economies estimated to 
+have grown by 4.0 percent, 1.3 percent, and 4.3 percent, respectively.
+On the import side, China, India, and UAE remained Somalia’s largest 
+sources of goods. China’s growth held at 5.0 percent in 2025 before 
+moderating to 4.5 percent in 2026, while India’s growth eased to 7.3 
+percent in 2025 and is projected to slow further to 6.4 percent in 2026. 
+Despite these mixed external conditions, Somalia’s domestic economy 
+maintained strong momentum, with real GDP growth estimated at 
+3.1 percent in 2025 and projected to remain at a similar level in 2026. 
+This performance was underpinned by sustained reform efforts, 
+improved fiscal management, continued recovery in agriculture and 
+services, and resilient private consumption. Nevertheless, downside 
+risks remain elevated, including the potential for renewed drought 
+conditions, fragility in global trade corridors, particularly the Red Sea 
+route, and any tightening of global financial conditions that could 
+constrain access to external financing.
+=== PAGE 22 ===
+ANNUAL REPORT | 2025
+8
+Central Bank of Somalia2
+DOMESTIC 
+ECONOMY
+=== PAGE 23 ===
+ANNUAL REPORT | 2025
+9
+Central Bank of Somalia
+S
+omalia’s economy continued to expand in 2025, although 
+growth moderated compared with the strong performance 
+recorded in previous years. Real GDP growth is estimated at 3.1 
+percent in 2025, compared with 4.0 percent in 2024 and 4.2 percent 
+in 2023. According to International Monetary Fund (IMF) projections, 
+economic activity is expected to remain positive in 2026, although 
+real GDP growth is expected to moderate further to 2.6 percent. 
+The slowdown in growth reflects a combination of domestic and 
+external factors, including climate-related shocks, global economic 
+uncertainty, reduced international aid flows, tighter global financial 
+conditions, and structural constraints in key productive sectors. 
+Lower external assistance affected public expenditure, humanitarian 
+operations, and development programs, while persistent infrastructure 
+gaps and climate vulnerabilities continued to weigh on productive 
+capacity. Nevertheless, the Somalia economy demonstrated resilience, 
+supported by continued private sector activity, remittance inflows, 
+and growth in trade, telecommunications, financial services, and 
+other service-related sectors. Domestic demand remained a key 
+contributor to economic performance, with household consumption, 
+government expenditure, and fixed investment supporting output 
+growth. However, the large trade imbalance continued to constrain 
+economic expansion, with imports estimated at US$8,669.3 million 
+billion compared with exports of approximately US$1,260.53 million, 
+resulting in a trade gap of about US$7,408.8 million. Sustaining 
+economic growth will require continued macroeconomic reforms, 
+strengthened financial sector development, improved domestic 
+resource mobilization, and measures to promote private sector-led 
+growth and reduce dependence on external assistance.
+The financial sector also continued to expand, supported by ongoing 
+reforms aimed at strengthening financial stability, enhancing regulatory 
+oversight, and promoting financial inclusion. Continued inflows of 
+remittances from the Somali diaspora provided an important source 
+of household income and domestic demand, helping to cushion 
+the impact of reduced external aid and other economic shocks. 
+The reduction in donor assistance represented a notable challenge 
+during the year, as Somalia remains dependent on external support 
+for humanitarian, development, and institutional capacity-building 
+programs. Lower aid inflows placed pressure on public finances 
+and the financial sector’s intermediation role, thereby affecting the 
+implementation of development initiatives. Combined with recurring 
+climate shocks and a challenging global environment, these factors 
+contributed to slower economic growth relative to previous years. 
+However, continued reform efforts and the private sector’s resilience 
+helped sustain positive economic momentum. 
+The large trade 
+imbalance 
+continued 
+to constrain 
+economic 
+expansion, with 
+imports estimated 
+at US$8,669.3 
+million billion 
+compared 
+with exports of 
+approximately 
+US$1,260.53 
+million, resulting 
+in a trade gap of 
+about US$7,408.8 
+million.
+=== PAGE 24 ===
+ANNUAL REPORT | 2025
+10
+Central Bank of Somalia
+Figure 5: Real GDP and Growth Rate 2019-2026
+Source: SNBS, IMF, 2026 
+3.5%
+-2.7%
+3.5%
+2.8%
+4.2%
+4.0%
+3.1%
+2.6%
+-4.0%
+-3.0%
+-2.0%
+-1.0%
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+5.0%
+ -
+ 2,000
+ 4,000
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+ 14,000
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026F
+Real GDP
+Growth
+In Millions of US Dollars
+Percentage Change
+=== PAGE 25 ===
+ANNUAL REPORT | 2025
+11
+Central Bank of Somalia
+As domestic economic activity is estimated to have grown moderately, 
+macroeconomic performance remained stable in 2025. Inflationary 
+pressures increased moderately in 2025, with annual average inflation 
+rising to an estimated 3.7 percent in 2025 from 3.3 percent in 2024. 
+Fiscal performance remained broadly stable, with domestic revenue 
+mobilization strengthening, supported by ongoing tax administration 
+reforms. Domestic revenues reached US$404.2 million in 2025, while 
+expenditure management remained disciplined. The current account 
+deficit widened to 24 percent of GDP in 2025, from 20 percent in 
+2024, as exports declined and imports increased. The financial 
+sector continued to exhibit gradual deepening and resilience, with 
+private sector credit growing by 14 percent in 2025, albeit from a low 
+base. Banking sector indicators remained sound, characterized by 
+adequate capitalization, strong liquidity buffers, and non-performing 
+loans are 3 percent, reinforcing financial stability.
+The Federal Government of Somalia (FGS) has continued to advance 
+structural reforms across the financial and economic sectors in the 
+post-HIPC era, reinforcing macroeconomic stability and laying the 
+foundation for sustained growth. In the first quarter of 2025, the 
+FGS launched the National Transformation Plan (NTP) 2025-2029, 
+marking a decisive shift in the country’s development strategy. NTP 
+provides a comprehensive framework to drive inclusive economic 
+renewal, accelerate private sector-led growth, and strengthen core 
+state institutions. Anchored in Somalia’s Centennial Vision 2060, 
+the Plan aims to consolidate macroeconomic gains, reduce poverty, 
+diversify the productive base, and generate employment opportunities, 
+particularly for the country’s growing youth population.
+Inflationary 
+pressures 
+increased 
+moderately 
+in 2025, with 
+annual average 
+inflation rising to 
+an estimated 3.7 
+percent in 2025 
+from 3.3 percent 
+in 2024. 
+Table 2: Real Gross Domestic Product by Expenditure, in Millions of US Dollars, 2021-2025
+Source: SNBS, 2026
+Expenditure items
+2021
+2022
+2023
+2024
+2025
+Household Final Consumption
+12,111
+12,683
+13,280
+13,802
+14,256
+Government Final Consumption
+765
+856
+880
+1,021
+1,114
+Gross Fixed Capital Formation
+1,835
+2,413
+2,756
+2,801
+2,962
+Exports of Goods and Services
+1,587
+1,804
+2,046
+2,357
+2,372
+of which: Livestock
+523
+558
+1,023
+917
+823
+Minus: Imports of Goods and Services
+6,277
+7,456
+8,230
+8,816
+9,197
+GDP at Purchasers' Prices
+10,020
+10,300
+10,731
+11,164
+11,508
+Household final consumption remained the largest item in GDP at 
+124 percent of GDP in 2025, a level that shows how far imports fall 
+short of domestic demand. Real spending grew 3.3 percent, down 
+from 3.9 percent in 2024, as demand for imported non-food goods 
+cooled and lower aid flows trimmed household budgets. Remittances 
+from the diaspora underpinned the spending base and cushioned 
+the pull-back in donor support.
+=== PAGE 26 ===
+ANNUAL REPORT | 2025
+12
+Central Bank of Somalia
+Government final consumption accounted for close to 10 percent 
+of GDP in 2025 and grew 9.1 percent, up from 16 percent in 2024. 
+Higher employee compensation and larger purchases of goods and 
+services for intermediate use lifted the total. A small markup for 
+the return to capital, applied to sum-of-costs estimates. Stronger 
+revenue collection gave the government room to sustain service 
+delivery through the year.
+Gross fixed capital formation reached 26 percent of GDP in 2025 
+and grew 6 percent, a step up from 2 percent in 2024. Rising imports 
+of machinery and equipment led the gain, suggesting firms are 
+rebuilding productive capacity. Construction activity added further 
+support. Investment of this scale widens the capital base and lifts 
+demand for imported capital goods, which, in turn, feeds back into 
+the trade balance.
+Exports of goods and services accounted for around 21 percent 
+of GDP in 2025 and grew by only 1 percent. Drought cut livestock 
+exports, which fell 10 percent to US$823 million, though they held 
+about 73 percent of total goods exports. Stronger sales of crops, 
+meat, and fish offset most of the decline in livestock. The weight of 
+livestock in the export basket leaves foreign earnings exposed to 
+each rainfall season and to demand around the Hajj.
+Imports of goods and services accounted for 80 percent of GDP in 
+2025 and grew by 4 percent. Demand for food, the single largest 
+item, stayed broadly flat, while purchases of clothing, footwear, and 
+construction materials rose. The scale of imports confirms how much 
+Somalia relies on foreign supply to meet domestic consumption and 
+investment, and it keeps net trade the main brake on real GDP growth.
+2.1	Agriculture 
+The agriculture sector remains the backbone of Somalia’s domestic 
+economy, serving as a critical source of economic growth, exports, 
+employment, and food security, while underpinning rural livelihoods 
+across the country. Despite continued exposure to climate variability 
+and external shocks, the sector demonstrated moderate resilience, 
+supported by ongoing reforms, improved market linkages, and 
+sustained demand for agricultural exports. Erratic rainfall patterns 
+between late 2024 and 2025, characterized by alternating droughts 
+and flooding, continued to constrain agricultural productivity, 
+particularly in rain-fed areas, thereby limiting output growth and 
+contributing to persistent food supply pressures. Notably, below 
+average and failed rainfall during the Deyr season, coupled with 
+drought conditions, adversely affected agricultural production and 
+reduced Deyr crop output.
+Erratic rainfall 
+patterns 
+between late 
+2024 and 2025, 
+characterized 
+by alternating 
+droughts 
+and flooding, 
+continued 
+to constrain 
+agricultural 
+productivity, 
+particularly in 
+rain-fed areas, 
+thereby limiting 
+output growth 
+and contributing 
+to persistent 
+food supply 
+pressures.
+=== PAGE 27 ===
+ANNUAL REPORT | 2025
+13
+Central Bank of Somalia
+2.1.1	 Crop Production 
+Crop production showed significant seasonal divergence in 2025, 
+highlighting the agricultural sector’s high sensitivity to rainfall variability 
+and climate shocks. While the Gu season supported relatively favorable 
+production in some regions of the country, the Deyr season was markedly 
+poor, resulting in an overall mixed but weakened annual performance.
+According to the Food Security and Nutrition Analysis Unit (FSNAU), 
+during the 2025 Gu season, cereal production in southern regions was 
+estimated at approximately 129,400 metric tons. This represents about 
+14 percent above the long-term average (1995–2024), supported by 
+generally average to above-average rainfall, timely land preparation, 
+and expansion of cultivated areas. In riverine areas, particularly along 
+the Shabelle, low flooding conditions facilitated recessional farming, 
+further contributing to off-season production gains. However, this 
+positive performance was not uniform nationwide; northern regions 
+experienced near-total crop failure, with Gu production estimated at 
+only 830 tons, around 93 percent below average, due to prolonged dry 
+spells, pest infestations, and high input costs. In contrast, the 2025 
+Deyr season performed exceptionally poorly, significantly undermining 
+annual crop production. Cereal production in southern Somalia declined 
+to approximately 15,600 metric tons, including off-season harvests, 
+representing an 83 percent reduction from the long-term average 
+and the lowest Deyr output recorded since 1995. The collapse in 
+production was driven primarily by widespread rainfall failure, erratic 
+rainfall patterns, reduced access to agricultural inputs, and persistent 
+insecurity, which disrupted planting and harvesting activities.
+2.1.2	 Livestock Exports
+The livestock sector in Somalia has demonstrated notable resilience, 
+maintaining relatively stable production levels despite recurrent climate 
+shocks. According to the Federal Government of Somalia’s Livestock 
+Sector Development Strategy (MoLFR, 2020), the country hosts one of 
+the largest livestock populations in Africa, with an estimated 56 million 
+head, including camels, cattle, sheep, and goats. This underscores 
+the sector’s central role in supporting domestic livelihoods and its 
+significant contribution to export earnings.
+Livestock product exports comprising live animals, skins, and meat 
+have shown a generally upward trend over the past decade, with key 
+export destinations including Saudi Arabia, Oman, and the United 
+Arab Emirates. Export activity remains highly seasonal, largely driven 
+by demand associated with the Hajj pilgrimage and Eid al-Adha, 
+highlighting the sector’s dependence on regional market dynamics. 
+In 2025, livestock exports declined by 3 percent, from US$950.9 
+million in 2024 to US$922.9 million, reflecting short-term market and 
+supply constraints. The sector generated export earnings equivalent 
+to approximately 7 percent of GDP. Despite this decline, the sector 
+continues to dominate Somalia’s export structure, accounting for 
+approximately 73 percent of total goods exports in 2025.
+Cereal 
+production in 
+southern regions 
+was estimated 
+at approximately 
+129,400 metric 
+tons. This 
+represents about 
+14 percent 
+above the long-
+term average 
+(1995–2024)
+=== PAGE 28 ===
+ANNUAL REPORT | 2025
+14
+Central Bank of Somalia
+Figure 6: Total Value of Livestock Exports 2020-2025
+Figure 7: Total Head of Livestock Export 2020-2025 (In Millions of Heads)
+Source: MoF, FSNAU and CBS valuations and adjustments, 2025
+Source: FAO-FSNAU & CBS estimates and valuations, 2025
+Somalia’s livestock exports are primarily camels, cattle, sheep, and 
+goats. In 2025, total livestock export volumes exceeded 5.9 million 
+head, comprising more than 5.5 million head of sheep and goats, 
+followed by 222,010 head of cattle and 193,013 head of camels.
+0.1 
+0.0 
+0.1 
+0.2 
+0.2 
+0.2 
+0.3 
+0.2 
+0.3 
+0.3 
+0.3 
+0.2 
+2.9 
+4.0 
+3.3 
+6.8 
+5.9 
+5.5 
+3.3 
+4.2 
+3.7 
+7.4 
+6.4 
+5.9 
+ -
+ 1.0
+ 2.0
+ 3.0
+ 4.0
+ 5.0
+ 6.0
+ 7.0
+ 8.0
+2020
+2021
+2022
+2023
+2024
+2025
+ Camel
+ Cattle
+ Sheep & Goats
+Total
+402 
+523 
+558 
+861 
+951 
+923 
+-1%
+30%
+7%
+54%
+10%
+-3%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+ -
+ 100
+ 200
+ 300
+ 400
+ 500
+ 600
+ 700
+ 800
+ 900
+ 1,000
+2020
+2021
+2022
+2023
+2024
+2025
+Livestock Export Value
+Livestock Growth Rate
+In Millions of US Dollars
+Percentage Change
+=== PAGE 29 ===
+ANNUAL REPORT | 2025
+15
+Central Bank of Somalia
+Figure 8: Total Value of Fishery Exports (2021-2025)
+Source: MoF with CBS valuations and adjustments, 2025
+2.1.3	 Fishery Export 
+Somalia’s domestic fisheries sector has remained relatively 
+underdeveloped since the onset of the civil war in the early 1990s, 
+despite its substantial natural endowments. Nevertheless, the sector 
+continues to play a critical role in coastal economies by supporting 
+livelihoods, enhancing food security, and exports. Fisheries activities 
+comprising both small-scale artisanal operations and limited 
+industrial fishing supply fresh fish to domestic markets while also 
+contributing to export earnings. Somalia’s marine resources are 
+particularly significant given its extensive coastline of approximately 
+3,333 kilometers, the longest in mainland Africa, stretching from 
+the Gulf of Aden to the Indian Ocean along the Kenyan border. This 
+geographic advantage provides considerable untapped potential for 
+sector expansion and value chain development.
+In recent years, the sector has shown signs of gradual recovery and 
+export growth. Over the past five years, Somalia exported approximately 
+US$144.97 million worth of fish products, reflecting increasing 
+demand and underscoring the sector’s growing contribution to the 
+economy. In 2025 alone, fish exports reached over US$25.86 million. 
+34.8 
+51.3 
+15.0 
+18.0 
+25.9 
+ -
+ 10.0
+ 20.0
+ 30.0
+ 40.0
+ 50.0
+ 60.0
+2021
+2022
+2023
+2024
+2025
+In Millions of US Dollars
+=== PAGE 30 ===
+ANNUAL REPORT | 2025
+16
+Central Bank of Somalia
+2.2	Domestic Inflation
+Domestic inflation increased moderately in 2025 compared with 2024, 
+reflecting renewed price pressures in essential goods and services. 
+The annual average headline Consumer Price Index (CPI) inflation 
+rate rose to 3.7 percent in 2025, up from 3.3 percent in 2024, while 
+remaining within single-digit levels. Inflation accelerated throughout 
+the year, increasing from 4.0 percent in January to 5.3 percent in 
+December 2025, indicating increased price pressures during the 
+second half of the year.
+The increase in inflation was driven primarily by higher prices for food 
+and non-alcoholic beverages, housing, water, electricity, gas and other 
+fuels, health services, and restaurants and accommodation services. 
+Food inflation strengthened considerably during the year, reflecting 
+higher prices of staple foods resulting from domestic supply constraints, 
+continued reliance on imported food commodities, adverse weather 
+conditions affecting agricultural production, and higher transport and 
+distribution costs. Housing and utility prices also increased, largely 
+due to rising energy and utility costs, while higher operating and input 
+costs contributed to significant price increases in restaurants and 
+accommodation services. In contrast, lower inflation in transport 
+and continued price declines in information and communication 
+partially offset upward pressures in other expenditure categories. 
+Despite the moderate increase in headline inflation, Somalia’s inflation 
+rate remained well below the Association of African Central Banks 
+(AACB) convergence ceiling of 7 percent, indicating that overall price 
+stability was broadly maintained during 2025.
+Figure 9: Recent Trends in Domestic Inflation (Monthly) 2024–2025 (Percent)
+Source: SNBS, 2025
+5.4%
+5.3%
+5.2%
+4.6%
+3.8%
+2.2%
+2.3%
+2.6%
+1.4%
+2.5%
+2.0%
+2.2%
+4.0%
+3.2%
+3.8%
+3.5%
+4.2%
+2.1%
+2.7%
+3.3%
+4.1%
+4.0%
+4.8%
+5.3%
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+5.0%
+6.0%
+2024
+2025
+Inflation 
+accelerated 
+throughout the 
+year, increasing 
+from 4.0 percent 
+in January to 
+5.3 percent in 
+December 2025.
+=== PAGE 31 ===
+ANNUAL REPORT | 2025
+17
+Central Bank of Somalia
+2.3	Exchange Rate Developments
+The Somali shilling (SOS) depreciated against the US dollar in 2025. 
+The average exchange rate weakened by 7.1 percent to SOS30,103 per 
+USD from SOS28,118 in 2024, marking the highest rate of depreciation 
+in a decade. This trend was largely driven by increased demand for 
+US dollars across the economy, partly reflecting the growing use of 
+mobile money platforms, where US-dollar-denominated transactions 
+have become more favorable for purchasing goods and services. This 
+has reduced demand for the local currency in everyday transactions, 
+exerting additional pressure on the Somali shilling. Despite these 
+dynamics, this depreciation rate is in line with the Association of 
+African Central Banks (AACB) convergence criteria for depreciation/
+appreciation in the nominal exchange rate, which stipulate that the 
+depreciation/appreciation rate not exceed 10 percent.
+Figure 10: Exchange rate Movements in 2020-2025: Yearly Appreciation (-)/ Depreciation (+)
+Source: CBS, 2025
+The Central Bank of Somalia has not issued domestic currency since 
+1991, which has contributed to a largely dollarized economy. Currency 
+reform remains a key policy priority, and the Bank has made substantial 
+progress in implementing the key actions and benchmarks outlined 
+in its reform roadmap. A proposed currency board arrangement, 
+currently under parliamentary review as part of amendments to 
+the CBS Act, is intended to support the establishment of a stable 
+and credible national currency framework. In addition, the CBS is 
+preparing for the reintroduction of the Somali shilling (SOS), marking 
+an important step toward strengthening monetary sovereignty and 
+enhancing macroeconomic stability. The new currency is expected 
+ 
+ 
+25,761
+26,039
+26,833
+27,225
+28,118
+30,103
+2.8%
+1.1%
+3.0%
+1.5%
+3.3%
+7.1%
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+5.0%
+6.0%
+7.0%
+8.0%
+23,000
+24,000
+25,000
+26,000
+27,000
+28,000
+29,000
+30,000
+31,000
+2020
+2021
+2022
+2023
+2024
+2025
+Exchange rate: SOS per US Dollar
+Appreciation(-)/Depreciation(+)
+=== PAGE 32 ===
+ANNUAL REPORT | 2025
+18
+Central Bank of Somalia
+to play a key role in enhancing liquidity, particularly for small-value 
+transactions, improving the efficiency of everyday payments, and 
+promoting deeper financial intermediation.
+Furthermore, the reform is anticipated to promote greater financial 
+inclusion, especially among low-income and underserved populations 
+who remain outside the formal financial system, thereby contributing 
+to broader economic participation and resilience.
+Source: SNBS, 2025
+Table 3: Exchange Rate Trend (2020-2025)
+Year/Month
+2020
+2021
+2022
+2023
+2024
+2025
+Jan
+25,517
+26,186
+26,069
+27,604
+28,038
+29,023
+Feb
+25,077
+25,992
+25,384
+26,163
+28,034
+28,825
+Mar
+25,397
+26,015
+26,027
+26,252
+28,032
+28,962
+Apr
+25,979
+25,922
+26,492
+27,055
+28,027
+29,993
+May
+25,932
+26,020
+26,382
+27,313
+28,035
+30,017
+Jun
+25,903
+26,023
+26,988
+27,063
+28,022
+29,719
+Jul
+25,928
+26,014
+26,976
+27,047
+28,043
+29,949
+Aug
+25,720
+26,026
+27,061
+27,049
+28,043
+30,020
+Sep
+25,801
+26,033
+27,064
+27,071
+26,976
+30,041
+Oct
+25,957
+26,057
+27,507
+27,730
+28,092
+30,795
+Nov
+25,853
+26,090
+28,018
+28,037
+29,035
+31,854
+Dec
+26,070
+26,091
+28,020
+28,029
+29,038
+32,043
+Year Average
+25,761
+26,039
+26,833
+27,201
+28,118
+30,103
+Appr (-) Depr (+)
+2.8%
+1.1%
+3.0%
+1.4%
+3.4%
+7.1
+=== PAGE 33 ===
+ANNUAL REPORT | 2025
+19
+Central Bank of Somalia
+3
+PUBLIC FINANCE 
+DEVELOPMENT
+=== PAGE 34 ===
+ANNUAL REPORT | 2025
+20
+Central Bank of Somalia
+3.1	Implementation of Fiscal Policy 
+Fiscal developments in 2025 were characterized by moderate 
+revenue performance, constrained external financing, and contained 
+expenditure execution within the Federal Government of Somalia 
+(FGS) budget framework. Overall fiscal outcomes remained broadly 
+stable, though below budgetary projections, reflecting shortfalls in 
+external grants and persistent structural fiscal constraints.
+Total revenue and external grants increased slightly to US$920 
+million in 2025, compared to US$913 million in 2024, equivalent to 
+approximately 7 percent of GDP. However, performance remained 
+below the approved budget of US$1,332 million, corresponding to 
+an execution rate of 69 percent and a shortfall of US$412 million. 
+The deviation was mainly driven by lower-than-expected external 
+grant disbursements, which continue to represent a key source of 
+fiscal vulnerability.
+Domestic revenue performance remained relatively strong, supported 
+by ongoing improvements in tax administration and customs 
+modernization. These reforms contributed to sustained revenue 
+collection despite a challenging macroeconomic and external 
+environment. Nevertheless, external grants continued to dominate 
+total fiscal resources, underscoring the economy’s reliance on donor 
+financing.
+On the expenditure side, total spending reached US$971 million, 
+against a budget allocation of US$1,359 million, resulting in an 
+execution rate of 71 percent. Expenditure outturns were constrained 
+by financing limitations, particularly affecting capital spending, while 
+recurrent expenditure continued to absorb the bulk of fiscal resources. 
+This highlights the persistent imbalance between operational and 
+development-oriented spending.
+Consequently, the fiscal deficit recorded US$51 million, equivalent 
+to approximately 0.4 percent of GDP at market prices (US$13,234 
+million). Government expenditure accounted for 7.3 percent of GDP, 
+highlighting the public sector’s relatively small share of the overall 
+economy. Despite the moderate fiscal deficit, continued expenditure 
+on public administration and essential services supported domestic 
+economic activity. The fiscal structure continues to reflect strong 
+dependence on external support alongside gradual improvements 
+in domestic revenue mobilization.
+Total revenue 
+and external 
+grants increased 
+slightly to 
+US$920 
+million in 2025, 
+compared 
+to US$913 
+million in 2024, 
+equivalent to 
+approximately 7 
+of GDP in 2025.
+=== PAGE 35 ===
+ANNUAL REPORT | 2025
+21
+Central Bank of Somalia
+3.2	Domestic Revenue and Grants 
+In fiscal year 2025, Federal Government of Somalia (FGS) revenue 
+and grants totaled US$920 million against an approved budget of 
+US$1,332 million, resulting in a shortfall of US$412 million and a 
+budget execution rate of 69 percent. Compared to the 2024 outturn 
+of US$913 million, total revenue and grants increased slightly, 
+reflecting modest growth in overall resource mobilization. The overall 
+underperformance against the budget was mainly driven by lower-
+than-expected external grant disbursements, despite continued 
+improvements in domestic revenue collection.
+Source: MoF, 2025
+Table 4: Summary of Revenue and Expenditure 2020-2025 (In Millions of US Dollars)
+ 
+2020
+2021
+2022
+2023
+2024
+2025
+ 
+Actual
+Actual
+Actual
+Actual
+Actual
+Budget
+Actual
+ Total Revenue and Grants 
+497
+377
+722
+738
+913
+1,332
+920
+ Total Domestic Revenue 
+211
+230
+263
+329
+369
+430
+404.2
+ Tax revenue 
+140
+163
+182
+225
+267
+295
+283
+ Non-tax revenue 
+72
+67
+81
+105
+102
+135
+122
+ Total External Grants 
+286
+147
+459
+409
+543
+902
+516
+ Grants Bilateral 
+15
+3
+37
+1
+30
+170
+19
+  Grants Multilateral 
+271
+144
+422
+408
+514
+732
+497
+ Total Expenditure 
+485
+474
+731
+720
+905
+1,359
+971
+ Total Recurrent Expenditure 
+467
+458
+718
+706
+877
+1,179
+897
+ Compensation of employees 
+227
+250
+260
+292
+342
+370
+371
+ Use of goods and services 
+81
+106
+141
+138
+205
+392
+254
+ Social banalities 
+14
+15
+189
+131
+154
+77
+19
+ Interest & Other Charges 
+2
+1
+13
+13
+8
+14
+8
+ Subsidies 
+80
+46
+5
+5
+9
+13
+13
+ Grants 
+62
+40
+111
+126
+160
+240
+180
+ Other expenses 
+0
+0
+-
+-
+-
+73
+52
+ Total Capital Expenditure 
+19
+16
+13
+14
+29
+180
+75
+ Consumption of fixed capital 
+19
+16
+13
+14
+29
+180
+75
+ Financing Gap / Surplus (-) or (+) 
+12
+-97
+(9)
+18
+8
+(26)
+(51)
+=== PAGE 36 ===
+ANNUAL REPORT | 2025
+22
+Central Bank of Somalia
+Figure 11: Revenue and Grants 2025 (Actual Vs Budget)
+Source: MoF, 2025
+Domestic revenue reached US$404 million compared to a budget 
+target of US$430 million, achieving 94 percent of the target and 
+recording a shortfall of US$26 million. This represents a 9 percent 
+increase from US$369 million in 2024 and reflects sustained progress 
+in revenue administration, tax compliance, and policy reforms. Since 
+2020, domestic revenue has nearly doubled from US$211 million to 
+US$404 million. 
+Figure 12: Total Domestic Revenue 2020-2025 (Percent of GDP)
+Source: MoF, 2025
+2.2%
+2.3%
+2.6%
+3.1%
+3.3%
+3.5%
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+3.0%
+3.5%
+4.0%
+2020
+2021
+2022
+2023
+2024
+2025
+430
+295
+135
+902
+170
+732
+920
+404
+281
+123
+516
+19
+69%
+94%
+95%
+91%
+57%
+11%
+68%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+140%
+160%
+180%
+200%
+0
+200
+400
+600
+800
+1000
+1200
+1400
+ Total
+Revenue and
+Grants
+ Total
+Domestic
+Revenue
+ Tax revenue
+ Non-tax
+revenue
+ Total
+External
+Grants
+ Current -
+Grants
+Bilateral
+ Current -
+Grants -
+Multilateral
+In Millions of US Dollars
+Budget/Estimate
+YTD 2025
+ YTD % of Budget
+497
+1,332
+=== PAGE 37 ===
+ANNUAL REPORT | 2025
+23
+Central Bank of Somalia
+Figure 13: Domestic Revenue Performance (2020-2025)
+Source: MoF, 2025
+Tax revenue amounted to US$283 million, accounting for about 70 
+percent of domestic revenue and achieving 96 percent of its budget 
+target. Compared to US$267 million in 2024, tax revenue increased by 
+6 percent, reflecting continued improvements in tax administration 
+and compliance. Non-tax revenue reached US$122 million (90 percent 
+of budget target), representing 30 percent of domestic revenue. 
+Compared to US$102 million in 2024, non-tax revenue increased by 
+19 percent, driven by higher collections from administrative fees, 
+licenses, and other government service charges.
+External grants totaled US$516 million against a budget of US$902 
+million, resulting in an execution rate of 57 percent and a shortfall 
+of US$386 million. Compared to 2024, external grants declined by 5 
+percent, from US$543 million to US$516 million. Multilateral grants 
+remained the primary source of external financing, amounting to 
+US$497 million and accounting for 96 percent of total grants. Although 
+multilateral support declined slightly by 3 percent from 2024 levels, 
+it remained relatively stable. Bilateral grants, however, performed 
+significantly below expectations, reaching only US$19 million against 
+a budget of US$170 million, equivalent to an execution rate of 11 
+percent, and declining by 38 percent, from US$30 million in 2024.
+140
+163
+182
+225
+267
+283
+72
+67
+81
+105
+102
+122
+211
+230
+263
+329
+369
+404
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+2020
+2021
+2022
+2023
+2024
+2025
+In Millions of US Dollars
+ Tax revenue
+ Non-tax revenue
+ Total Domestic Revenue
+=== PAGE 38 ===
+ANNUAL REPORT | 2025
+24
+Central Bank of Somalia
+Figure 14: External Grant Trends and Composition (2020–2025)
+Source: MoF, 2025
+Figure 15 shows that, the revenue structure in 2025 remained largely 
+dependent on grant inflows, which accounted for the largest share 
+of total revenue, followed by tax revenue and non-tax revenue. The 
+increased contribution of tax revenue over the period indicates 
+progress in domestic revenue mobilization. 
+Figure 15: FGS Revenue Structure, 2020–2025
+Source: MoF, 2025
+15
+3
+37 
+1 
+30 
+19 
+271
+144
+422 
+408 
+514 
+497 
+286
+147
+459 
+409 
+543 
+516 
+0
+100
+200
+300
+400
+500
+600
+2020
+2021
+2022
+2023
+2024
+2025
+ Grants Bailateral
+  Grants Multilateral
+ Total External Grants
+140
+163
+182
+225
+267
+281
+72
+67
+81
+105
+102
+123
+15
+3
+37
+1
+30
+19
+271
+144
+422
+408
+514
+497
+ACTUAL 
+ACTUAL 
+ACT UAL
+ACTUAL
+ACTUAL
+ACTUAL 
+2 0 2 0
+2 0 2 1
+2 0 2 2
+2 0 2 3
+2 0 2 4
+2 0 2 5
+ Tax revenue
+ Non-tax revenue
+ Current - Grants Bilateral
+ Current - Grants - Multilateral
+In Millions of US Dollars
+In Millions of US Dollars
+=== PAGE 39 ===
+ANNUAL REPORT | 2025
+25
+Central Bank of Somalia
+3.3	Government Expenditure
+Total expenditure reached US$971 million against an approved 
+budget of US$1,359 million, resulting in a budget execution rate of 
+71 percent and an expenditure shortfall of US$387 million. Compared 
+with 2024, total spending increased by 7 percent, reflecting higher 
+recurrent and capital expenditures. The moderate execution rate 
+largely reflects financing constraints associated with lower-than-
+budgeted grant disbursements.
+Recurrent expenditure amounted to US$897 million, representing 
+76 percent of the annual budget allocation and accounting for 
+approximately 92 percent of total expenditure. Compared to 2024, 
+recurrent spending increased by 2 percent. Compensation of 
+employees remained the largest expenditure category, totaling US$371 
+million and fully executing the approved budget. Compensation of 
+employees expenditure increased by 9 percent compared with 2024, 
+reflecting continued government efforts to strengthen public-sector 
+service delivery and institutional capacity. Expenditure on goods and 
+services reached US$254 million, corresponding to 65 percent of 
+the budget allocation and a 24 percent increase compared with the 
+previous year. The growth reflects expanded operational spending 
+across government institutions, although execution remained below 
+planned levels. Social benefits recorded a sharp 88 percent decline 
+compared with 2024, indicating reduced fiscal space for social 
+protection programs. This reduction has potential implications for 
+household welfare and vulnerability, particularly amid inflationary 
+pressures and recurring climate-related shocks. The contraction in 
+this category suggests that social spending remains highly vulnerable 
+to fluctuations in external financing. Transfers to Federal Member 
+States amounted to approximately US$180 million in 2025, up from 
+US$160 million in 2024, a 12 percent year-on-year increase. Execution 
+reached 75 percent of the approved budget (US$239.5 million), 
+indicating moderate under-execution due to financing constraints.
+Capital expenditure amounted to US$75 million against a budget 
+allocation of US$180 million, resulting in an execution rate of 41 
+percent and a shortfall of US$105 million. Nevertheless, capital 
+spending increased significantly by 162 percent compared with 
+2024, reflecting greater investment in public infrastructure and 
+development projects despite financing constraints.
+The fiscal balance recorded a financing gap of US$51 million, compared 
+with a budgeted financing gap of US$26 million and a surplus of 
+US$8 million in 2024. The deterioration in the fiscal position reflects 
+the combined impact of lower-than-expected external grants and 
+rising recurrent expenditure pressures, particularly the wage bill and 
+operational costs. From a macro-fiscal perspective, this outcome 
+highlights the continued structural vulnerability of fiscal sustainability 
+to external financing conditions and the limited counter-cyclical 
+capacity of domestic revenue.
+Total revenue 
+and external 
+grants increased 
+slightly to 
+US$920 
+million in 2025, 
+compared 
+to US$913 
+million in 2024, 
+equivalent to 
+approximately 8 
+GDP in 2025.
+=== PAGE 40 ===
+ANNUAL REPORT | 2025
+26
+Central Bank of Somalia
+Figure 16: The Performance of Government Fiscal Spending 2025 (Actual Vs Budgeted)
+Figure 17: FGS Expenditure Structure and Fiscal Balance, 2020–2025
+Source: MoF, 2025
+Source: MoF, 2025
+1,359
+1179
+370
+392
+77
+240
+180
+971
+897
+371
+254
+19
+180
+75
+71%
+76%
+100%
+65%
+25%
+75%
+41%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+ Total
+Expenditure
+ Total Recurrent
+Expenditure
+ Compensation
+of employees
+ Use of goods
+and services
+ Social benifities
+ Grants
+ Total Capital
+Expenditure
+In Millions of US Dollars
+Budget
+Actual
+ YTD % of Budget
+-200
+0
+200
+400
+600
+800
+1000
+2020
+2021
+2022
+2023
+2024
+2025
+ Compensation of employees
+ Use of goods and services
+ Grants
+Social benefits
+ Total Capital Expenditure
+ Financing Gap / Surplus (-) or (+)
+In Millions of US Dollars
+=== PAGE 41 ===
+ANNUAL REPORT | 2025
+27
+Central Bank of Somalia
+3.4	Federal Member States
+3.4.1 Federal Member States Revenue Performance in 2025
+Among the Federal Member States (FMS), Puntland State recorded 
+the highest revenue outturn, with total revenue and grants reaching 
+US$119 million. Domestic revenue accounted for the majority of 
+Puntland’s state collections, totaling US$100 million, or approximately 
+84 percent of its total revenue base. Tax revenue totaled US$83 
+million, while non-tax revenue amounted to US$16 million. External 
+grants amounted to US$19 million, indicating a relatively limited but 
+stable contribution from external sources. Puntland’s performance 
+underscores its strong domestic revenue base and relatively lower 
+dependence on grants compared to other Federal Member States.
+Jubbaland State recorded total revenue and grants of US$70 million, 
+with domestic revenue contributing US$37 million. Tax revenue totaled 
+US$28 million, while non-tax revenue totaled US$9 million. External 
+grants totaled US$33 million, representing a significant share of 
+total revenue. This composition highlights a continued reliance on 
+external financing to support Jubbaland’s state fiscal operations.
+Southwest State generated total revenue and grants of US$26 million, 
+with domestic revenue of US$5 million. External grants of Southwest 
+State remained the primary source of financing, accounting for US$21 
+million. This structure reflects the Southwest’s limited domestic 
+revenue capacity and its high reliance on donor support.
+Galmudug State recorded total revenue and grants of US$33 million, 
+with domestic revenue amounting to US$11 million. External grants of 
+Galmudug state reached US$22 million, accounting for approximately 
+two-thirds of total revenue. This performance indicates moderate 
+progress in domestic revenue mobilization, although reliance on 
+grants remains significant.
+Hirshabelle state reported total revenue and grants of US$24 million, 
+with domestic revenue of US$8 million. External grants of Hirshabelle 
+state amounted to US$17 million, representing the dominant share 
+of total revenue. Despite a relatively small revenue base, Hirshabelle 
+State continues to rely heavily on external financing.
+Among the 
+Federal Member 
+States (FMS), 
+Puntland State 
+recorded the 
+highest revenue 
+outturn, with 
+total revenue 
+and grants 
+reaching 
+US$119 million.
+=== PAGE 42 ===
+ANNUAL REPORT | 2025
+28
+Central Bank of Somalia
+Figure 18: Federal Member States Revenue and Grants 2025
+Source: MoF, 2025
+3.4.2 Federal Member States Expenditure Performance in 2025
+In the fiscal year 2025, expenditure outcomes across the FMS 
+remained broadly aligned with available resources, with most states 
+maintaining balanced fiscal positions. Spending patterns continued 
+to be dominated by recurrent expenditure, while capital investment 
+remained limited across all federal member states. Puntland recorded 
+the highest expenditure level at US$118 million, closely aligned with 
+its total revenue, resulting in a fiscal surplus of US$1 million. Recurrent 
+expenditure in Puntland accounted for US$100 million, equivalent 
+to 85 percent of total spending, driven primarily by compensation of 
+employees (US$56 million) and goods and services (US$43 million). 
+Capital expenditure of Puntland reached US$18 million, representing 
+the largest investment envelope among the FMS. 
+Jubbaland state reported total expenditure of US$68 million, broadly 
+in line with its resource envelope, and recorded a small fiscal surplus 
+of US$1 million. Recurrent expenditure in Jubbaland State amounted 
+to US$64 million, equivalent to 94 percent of total spending, with 
+significant allocations to compensation of employees totaling US$41 
+million and goods and services totaling to US$18 million. Capital 
+expenditure remained limited at US$5 million, indicating constrained 
+investment capacity and a continued focus on operational spending.
+Southwest State maintained a relatively low expenditure level at US$25 
+million, generating a modest surplus of US$0.3 million. Recurrent 
+spending in Southwest State totaled US$23 million, equivalent to 
+92 percent of total spending. Capital expenditure remained minimal 
+at US$2 million, highlighting ongoing challenges in scaling up 
+development spending despite improved revenue performance.
+119
+100
+83
+16
+19
+70
+37
+28
+9
+33
+26
+5
+5
+0
+21
+33
+11
+10
+1
+22
+24
+8
+7
+0
+17
+0
+20
+40
+60
+80
+100
+120
+140
+Total Revenue and
+Grants
+Total Domestic
+Revenue
+Tax revenue
+Non-tax revenue
+Total External
+Grants
+In Millions of US Dollars
+Puntland
+Jubbaland
+Southwest
+Galmudug
+Hirshabelle
+=== PAGE 43 ===
+ANNUAL REPORT | 2025
+29
+Central Bank of Somalia
+Source: MoF, 2025
+Table 5: Summary of FMS Revenue and Expenditure 2025 (In Millions of US Dollars) South
+Puntland
+Jubaland
+Southwest
+Galmudug
+Hirshabele
+Total Revenue and Grants
+119
+70
+26
+33
+24
+Total Domestic Revenue
+100
+37
+5
+11
+8
+Tax revenue
+83
+28
+5
+10
+7
+Non-tax revenue
+16
+9
+1
+Social contributions
+1
+Total External Grants
+19
+33
+21
+22
+17
+Grants Bilateral
+13
+22
+15
+16
+13
+Grants Multilateral
+6
+11
+6
+6
+4
+Total Expenditure
+118
+68
+25
+29
+24
+Total Recurrent Expenditure
+100
+64
+23
+26
+22
+Compensation of employees
+56
+41
+11
+11
+9
+Use of goods and services
+43
+18
+12
+14
+13
+Social benefits
+3
+Grants
+1
+Other expenses
+1
+4
+Total Capital Expenditure
+18
+5
+2
+3
+1
+Consumption of fixed capital
+18
+5
+2
+3
+1
+Financing Gap / Surplus (-) or (+)
+1
+1
+0.3
+4
+1
+Galmudug state recorded a total expenditure of US$29 million. 
+Recurrent expenditure of Galmudug state stood at US$26 million, 
+equivalent to 90 percent of total spending, with US$11 million 
+allocated to compensation of employees and US$14 million to goods 
+and services. Capital expenditure reached US$3 million, reflecting 
+modest but improving investment activity.
+Hirshabelle State reported total expenditure of US$24 million, 
+broadly aligned with its revenue envelope, resulting in a surplus of 
+US$1 million. Recurrent expenditure accounted for US$22 million, 
+92 percent of total spending, with US$9 million in compensation 
+of employees and US$13 million in goods and services. Capital 
+spending remained limited at US$1 million, underscoring persistent 
+constraints on public investment.
+=== PAGE 44 ===
+ANNUAL REPORT | 2025
+30
+Central Bank of Somalia
+Figure 19: Federal Member States Expenditure 2025
+Source: MoF, 2025
+118
+100
+56
+43
+18
+68
+64
+41
+18
+5
+25
+23
+11
+12
+2
+29
+26
+11
+14
+3
+24
+22
+9
+13
+1
+0
+20
+40
+60
+80
+100
+120
+140
+Total Expenditure
+Total Recurrent
+Expenditure
+Compensation of
+employees
+Use of goods and
+services
+Total Capital
+Expenditure
+In Millions of US Dollars
+Puntland
+Jubbaland
+Southwest
+Galmudug
+Hirshabelle
+=== PAGE 45 ===
+ANNUAL REPORT | 2025
+31
+Central Bank of Somalia
+4
+EXTERNAL 
+SECTOR
+=== PAGE 46 ===
+ANNUAL REPORT | 2025
+32
+Central Bank of Somalia
+Somalia’s external sector remains characterized by a structurally 
+large current account deficit, reflecting a narrow export base and 
+a strong reliance on imported goods and services. Persistent trade 
+imbalances primarily drive the deficit, as domestic production remains 
+insufficient to meet consumption and investment demand. Despite 
+the widening deficit in goods and services, the current account has 
+continued to be supported by significant secondary income inflows, 
+particularly diaspora remittances, which remain the largest source 
+of foreign exchange earnings and a key buffer against external 
+financing pressures.
+The second source is grant inflows from development partners 
+and international institutions. These non-debt-creating flows have 
+supported public investment, reconstruction efforts, and institutional 
+development, while contributing to external stability. Together with 
+remittance inflows, grant transfers have helped finance external 
+imbalances and mitigate pressures on the overall balance of payments. 
+In parallel, debt relief under international initiatives has significantly 
+reduced external debt vulnerabilities and strengthened Somalia’s 
+medium-term external sustainability.
+Nevertheless, in the context of Somalia’s highly import-dependent, 
+aid- and remittance- dependent economy with a largely de facto 
+dollarized financial system and limited domestic production capacity, 
+the external position remains vulnerable to a range of shocks, 
+including fluctuations in global commodity prices, climate-related 
+disruptions, geopolitical tensions, and any potential declines in 
+remittance and donor inflows. These vulnerabilities underscore the 
+importance of policies to broaden the export base, enhance domestic 
+productive capacity, improve competitiveness, and attract foreign 
+private investment. Strengthening these fundamentals will be critical 
+to reducing external imbalances, increasing resilience to external 
+shocks, and supporting sustainable and inclusive economic growth 
+over the medium term.
+4.1	Current Account
+Somalia’s current account deficit widened further in 2025, reflecting 
+persistent structural imbalances in the external sector and the 
+economy’s continued reliance on imported goods and services. The 
+deficit increased from US$2,494 million (20 percent of GDP) in 2024 to 
+US$3,160 million (24 percent of GDP) in 2025. Although remittances 
+and other current transfers remained robust, they were insufficient to 
+offset the growing import bill, underscoring the economy’s continued 
+reliance on imported goods and services.
+The merchandise trade deficit widened from US$4,995 million (40 
+percent of GDP) in 2024 to US$5,563 million (42 percent of GDP) in 
+2025. Merchandise imports increased from US$6,652 million (54 
+percent of GDP) to US$7,297 million (55 percent of GDP), reflecting 
+sustained demand for food, petroleum products, construction 
+materials, machinery, and other consumer and capital goods. 
+The 
+merchandise 
+trade deficit 
+widened from 
+US$4,995 million 
+(40 percent of 
+GDP) in 2024 to 
+US$5,563 million 
+(42 percent of 
+GDP) in 2025
+=== PAGE 47 ===
+ANNUAL REPORT | 2025
+33
+Central Bank of Somalia
+Merchandise exports increased modestly from US$1,216 million in 
+2024 to US$1,261 million (10 percent of GDP) in 2025, supported 
+primarily by livestock and agricultural exports. However, import 
+growth continued to outpace export growth, further deteriorating 
+the merchandise trade balance.
+The services account remained in deficit, increasing from US$1,362 
+million in 2024 to US$1,434 million (11percent of GDP) in 2025. Growth 
+in service exports, particularly transport, telecommunications, and 
+business services, only partially offset continued demand for imported 
+transport, professional, insurance, and other commercial services.
+Secondary income continued to provide the principal source of 
+external financing. Net secondary income increased marginally from 
+US$3,578 million in 2024 to US$3,608 million (27 percent of GDP) 
+in 2025, supported mainly by remittances from the Somali diaspora 
+and official grant inflows. These transfers continued to finance a 
+substantial share of the external deficit and support household 
+consumption. However, the gradual moderation in donor assistance 
+underscores the need to strengthen export competitiveness, diversify 
+the production base, and expand domestic sources of foreign 
+exchange to enhance external sustainability and reduce reliance 
+on external transfers.
+4.1.1 Capital Account and Financial Account
+The capital account recorded net inflows of US$635 million (5 percent 
+of GDP) in 2025, down sharply from US$1,826 million (15 percent 
+of GDP) in 2024 and US$2,025 million (18 percent of GDP) in 2023. 
+In 2025, capital inflows declined as debt relief-related transfers 
+ended and development partners reduced external grant financing, 
+highlighting the economy’s continued dependence on concessional 
+external resources.
+The financial account recorded net inflows of US$436 million (3 
+percent of GDP) in 2025, compared with US$2,008 million (16 percent 
+of GDP) in 2024. The decline primarily reflected lower other investment 
+inflows, which fell from US$2,773 million in 2024 to US$1,316 million 
+in 2025 as external financing moderated. In contrast, foreign direct 
+investment (FDI) increased from US$765 million (6 percent of GDP) in 
+2024 to US$880 million (7 percent of GDP) in 2025, reflecting continued 
+investor interest in telecommunications, financial services, energy, 
+and real estate. Despite this improvement, FDI remained insufficient 
+to offset weaker donor-related financing, underscoring the need to 
+broaden private capital inflows to strengthen the sustainability of 
+Somalia’s external financing.
+Net secondary 
+income 
+increased 
+marginally from 
+US$3,578 million 
+(29 percent of 
+GDP) in 2024 to 
+US$3,608 million 
+(27 percent of 
+GDP) in 2025, 
+supported 
+mainly by 
+remittances 
+from the Somali 
+diaspora and 
+official grant 
+inflows
+=== PAGE 48 ===
+ANNUAL REPORT | 2025
+34
+Central Bank of Somalia
+Source: MoF, SNBS, and CBS estimates, 2025
+Table 6: Balance of Payments, 2018-2025 (Millions of US Dollars)
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+A. Current Account 
+-1257
+-1185
+-959
+-1352
+-1927
+-2210
+-2494
+-3160
+Balance on Goods and Service
+-3469
+-3862
+-3532
+-4424
+-5704
+-5947
+-6356
+-6996
+Goods
+-2257
+-2490
+-2579
+-3227
+-4308
+-4793
+-4995
+-5563
+Goods: Exports FOB
+571
+662
+549
+717
+704
+1009
+1216
+1261
+Goods: Imports FOB
+-3144
+-3437
+-3412
+-4216
+-5614
+-6121
+-6652
+-7297
+Services 
+-1212
+-1372
+-953
+-1198
+-1397
+-1154
+-1362
+-1434
+Service: Credit
+656
+675
+370
+558
+679
+974
+1361
+1428
+Service: Debit
+-1868
+-2047
+-1323
+-1756
+-2075
+-2128
+-2722
+-2862
+Primary Income
+29
+57
+63
+64
+-88
+-85
+284
+228
+Primary Income: Credit
+55
+87
+101
+122
+132
+147
+481
+405
+Primary Income: Debit
+-26
+-30
+-38
+-58
+-220
+-233
+-197
+-177
+Secondary income 
+2183
+2620
+2510
+3008
+3866
+3823
+3578
+3608
+Secondary Income, n.i.e.: Credit
+2560
+3109
+3149
+3863
+4937
+4846
+4931
+5088
+Secondary Income: Debit
+-377
+-489
+-640
+-855
+-1071
+-1023
+-1353
+-1480
+B. Capital Account, n.i.
+146
+189
+1016
+328
+443
+2025
+1826
+635
+Capital Account, n.i.e.: Credit
+146
+189
+1016
+328
+443
+2025
+1826
+635
+Capital Account: Debit
+-
+-
+-
+-
+-
+-
+-
+-
+Net Lending (+) / Net Borrowing (-)  
+(Balance from Current and Capital Account) 
+-1110
+-996
+57
+-1024
+-1484
+-185
+-668
+-2525
+C. Financial Account, n.i.e. 
+-593
+-275
+-1272
+-545
+-451
+-1871
+-2008
+-436
+Net Lending (+) / Net Borrowing (-) 
+(Balance from Financial Account) 
+593
+275
+1272
+545
+451
+1871
+2008
+436
+Foreign Direct Investment
+-408
+-447
+-534
+-601
+-636
+-677
+-765
+-880
+Portfolio Investment 
+-
+-
+-
+-
+-
+-
+-
+-
+Financial Derivatives
+-
+-
+-
+-
+-
+-
+-
+-
+Other Investment 
+1001
+722
+1806
+1146
+1087
+2548
+2773
+1316
+D. Net Errors and Omissions
+1724
+1271
+1314
+1713
+1955
+2123
+2738
+3001
+E. Overall Balance
+-21
+-
+-98
+-144
+-20
+-67
+-62
+-40
+F. Reserves and Related Items
+21
+-
+98
+144
+20
+67
+62
+40
+ Reserve Assets
+21
+-
+98
+144
+20
+67
+62
+40
+Exceptional Financing
+-
+-
+-
+-
+-
+-
+-
+-
+G. Memorandum items:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nominal GDP
+7873
+8723
+8705
+9570
+10301
+11317
+12348
+13,234
+External public debt
+ 5234
+5311
+4529
+4486
+4440
+2818
+1515
+1482
+=== PAGE 49 ===
+ANNUAL REPORT | 2025
+35
+Central Bank of Somalia
+Source: MoF, SNBS, and CBS estimates, 2025
+Table 7: Balance of Payment, 2018-2025 (Percent of GDP, unless otherwise indicated)
+BPM6 Concept 
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+A. Current Account 
+-16
+-14
+-11
+-14
+-19
+-20
+-20
+-24
+Goods
+-29
+-29
+-30
+-34
+-42
+-42
+-40
+-42
+Goods: Exports FOB
+7
+8
+6
+7
+7
+9
+10
+10
+Goods: Imports FOB
+-40
+-39
+-39
+-44
+-54
+-54
+-54
+-55
+Services 
+-15
+-16
+-11
+-13
+-14
+-10
+-11
+-11
+Service: Credit
+8
+8
+4
+6
+7
+9
+11
+11
+Service: Debit
+-24
+-23
+-15
+-18
+-20
+-19
+-22
+-22
+Balance on Goods and Service
+-44
+-44
+-41
+-46
+-55
+-53
+-51
+-53
+Primary Income
+0
+1
+1
+1
+-1
+-1
+2
+2
+Primary Income: Credit
+1
+1
+1
+1
+1
+1
+4
+3
+Primary Income: Debit
+0
+0
+0
+-1
+-2
+-2
+-2
+-1
+Secondary income 
+28
+30
+29
+31
+38
+34
+29
+27
+Secondary Income, n.i.e.: Credit
+33
+36
+36
+40
+48
+43
+40
+38
+Secondary Income: Debit
+-5
+-6
+-7
+-9
+-10
+-9
+-11
+-11
+B. Capital Account, n.i.
+2
+2
+12
+3
+4
+18
+15
+5
+Capital Account, n.i.e.: Credit
+2
+2
+12
+3
+4
+18
+15
+5
+Capital Account: Debit
+0
+0
+0
+0
+0
+0
+0
+0
+Net Lending (+) / Net Borrowing (-) 
+(Balance from Current and Capital Account) 
+-14
+-11
+1
+-11
+-14
+-2
+-5
+-19
+C. Financial Account, n.i.e. 
+-8
+-3
+-15
+-6
+-4
+-17
+-16
+-3
+Net Lending (+) / Net Borrowing (-) 
+(Balance from Financial Account) 
+8
+3
+15
+6
+4
+17
+16
+3
+Foreign Direct Investment
+-5
+-5
+-6
+-6
+-6
+-6
+-6
+-7
+Portfolio Investment 
+0
+0
+0
+0
+0
+0
+0
+0
+Financial Derivatives, Net
+0
+0
+0
+0
+0
+0
+0
+0
+Other Investment 
+13
+8
+21
+12
+11
+23
+22
+10
+D. Net Errors and Omissions
+22
+15
+15
+18
+19
+19
+22
+23
+E. Overall Balance
+0
+0
+-1
+-2
+0
+-1
+-1
+0
+F. Reserves and Related Items
+0
+0
+1
+2
+0
+1
+1
+0
+Reserve Assets
+0
+0
+1
+2
+0
+1
+1
+0
+Exceptional Financing
+0
+0
+0
+0
+0
+0
+0
+0
+G. Memorandum items:
+0
+0
+0
+0
+0
+0
+0
+0
+Nominal GDP
+-
+-
+-
+-
+-
+-
+-
+-
+External public debt
+66
+61
+52
+47
+43
+25
+12
+11
+=== PAGE 50 ===
+ANNUAL REPORT | 2025
+36
+Central Bank of Somalia
+4.1	External Public Debt Developments
+Somalia’s external debt position underwent a fundamental transformation 
+following the attainment of the Completion Point under the Enhanced 
+Heavily Indebted Poor Countries (HIPC) Initiative on 13 December 
+2023. This milestone marked the culmination of more than a decade of 
+reforms aimed at strengthening macroeconomic management, public 
+financial governance, fiscal transparency, and institutional capacity.
+The implementation of debt relief agreements substantially reduced 
+Somalia’s external public debt stock and improved debt sustainability 
+indicators. Total external debt declined from US$5,234 million in 2018 to 
+US$1,482 million in 2025, while the external debt-to-GDP ratio fell from 
+61 percent in 2018 to 11 percent in 2025. These developments reduced 
+debt vulnerabilities, strengthened fiscal and external sustainability, and 
+created additional fiscal space for development priorities.
+A significant component of the debt restructuring process involved 
+bilateral creditors, particularly Paris Club members, which provided 
+extensive debt cancellation and restructuring. As a result, Paris Club 
+obligations declined from the largest component of Somalia’s debt 
+portfolio to a negligible share of total external debt. Debt relief from 
+multilateral institutions and bilateral partners further accelerated 
+the normalization of Somalia’s debt profile, improving the country’s 
+creditworthiness and access to concessional financing.
+4.1.1	 External Public Debt Stock Developments
+Somalia’s external public debt continued its downward trajectory in 
+2025, reflecting the sustained impact of debt relief initiatives and 
+prudent debt management policies. Total external debt declined from 
+US$5,311 million in 2019 to US$1,482 million in 2025, representing a 
+cumulative reduction of approximately 72 percent.
+The composition of the debt portfolio changed significantly during the 
+review period. Paris Club debt declined sharply from US$3,072 million in 
+2019 to US$46 million in 2025, reflecting the successful implementation 
+of debt relief agreements. Multilateral debt also fell from US$1,530 million 
+to US$634 million during the same period. In contrast, obligations to non-
+Paris Club creditors remained broadly stable, increasing from US$709 
+million to US$799 million. The remaining debt stock is increasingly 
+concentrated among non-Paris Club and multilateral creditors. The 
+remaining non-Paris Club debt reflects ongoing bilateral negotiations, 
+as these creditors are not part of the coordinated Paris Club debt relief 
+framework and therefore require separate agreements with Somalia.
+In the fiscal year of 2025, Somalia’s external debt stock stood at US$1,482 
+million, with non-Paris Club creditors accounting for 54 percent of total 
+debt, multilateral institutions accounting for 43 percent, Paris Club 
+creditors accounting for 3 percent, and commercial creditors accounting 
+for less than 1 percent. This creditor structure indicates that Somalia’s 
+debt portfolio is predominantly owed to official creditors and remains 
+largely concessional.
+=== PAGE 51 ===
+ANNUAL REPORT | 2025
+37
+Central Bank of Somalia
+Figure 20: External Debt Stock and Creditor Composition Trends (2018–2025)
+Source: MoF, 2025
+Source: MoF, 2025
+Table 8: External Public Debt (2018-2025) In Millions of US Dollars
+Year
+Commercial
+Multilateral
+Paris Club
+Non-Paris Club
+Total Debt
+% Change (Δ)
+Debt-to-GDP (%)
+2018
+-
+1,520.0
+3,022.0
+692.0
+5,234.0
+–
+66
+2019
+-
+1,530.0
+3,072.0
+709.0
+5,311.0
+1.5
+61
+2020
+-
+1,114.0
+2,692.0
+720.0
+4,526.0
+(14.8)
+52
+2021
+2.4
+1,081.0
+2,678.0
+725.0
+4,486.0
+(0.9)
+47
+2022
+2.5
+1,040.0
+2,662.0
+735.0
+4,440.0
+(1.0)
+39
+2023
+2.6
+669.0
+1,381.0
+764.0
+2,818.0
+(36.5)
+25
+2024
+2.7
+685.0
+48.0
+779.0
+1,515.0
+(46.2)
+12
+2025
+2.7
+634.0
+46.0
+799.0
+1,482.0
+(2.2)
+11
+Source: MoF, 2025
+Table 9: Annual Changes of External Public Debt (2018-2025) In Millions of US Dollars & Percent
+Year
+Total Debt Stock 
+Annual Change 
+Annual Change (%)
+2018
+5,234 
+ - 
+  - 
+2019
+5,311 
+77 
+1 
+2020
+4,526 
+(785)
+(15)
+2021
+4,486 
+(40)
+(1)
+2022
+4,440 
+(46)
+(1)
+2023
+2,818 
+(1,622)
+(37)
+2024
+1,515 
+(1,303)
+(46)
+2025
+1,482 
+(33)
+(2)
+5234
+5311
+4526
+4486
+4440
+2818
+1515
+1482
+0
+1000
+2000
+3000
+4000
+5000
+6000
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Commercial
+Multilateral
+Paris Club
+Non-Paris Club
+Total Debt
+In Millions of US Dollars
+=== PAGE 52 ===
+ANNUAL REPORT | 2025
+38
+Central Bank of Somalia
+4.1.2	 Debt Stock Dynamics and Annual Debt Reduction
+Following a modest increase of 1 percent in 2019, Somalia’s external 
+public debt entered a sustained period of decline. The debt stock fell 
+by 15 percent in 2020, reflecting initial progress in debt restructuring 
+and creditor reconciliation efforts. Reductions moderated during 2021 
+and 2022, with annual declines of approximately 1 percent each year.
+The most substantial reductions occurred following the HIPC 
+Completion Point. In 2023, external debt declined by 37 percent, 
+followed by a further reduction of 46 percent in 2024. Together, 
+these reductions accounted for nearly US$2,925 million and were 
+the primary drivers of the improvement in Somalia’s debt position. By 
+2025, the pace of debt reduction moderated to 2 percent, suggesting 
+that the major debt relief operations had largely been completed and 
+that the debt portfolio had entered a more stable phase.
+Figure 21: Annual Change in External Public Debt Stock (2018–2025)
+Source: MoF, 2025
+ 
+1.5
+-14.8
+-0.9
+-1
+-36.5
+-46.2
+-2.2
+-50
+-40
+-30
+-20
+-10
+0
+10
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Percentage Changes 
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+4.1.3	 Debt Composition and Portfolio Transformation
+The restructuring of Somalia’s external debt portfolio significantly 
+improved its sustainability profile. Paris Club debt declined from 
+being the dominant component of the debt stock to only 3 percent 
+of total external debt by 2025. At the same time, the relative shares 
+of non-Paris Club and multilateral creditors increased, reflecting the 
+substantial reduction in Paris Club obligations.
+The resulting debt structure is concentrated on official and predominantly 
+concessional financing sources, reducing debt-servicing pressures, 
+refinancing risks, and exposure to market-based borrowing. This 
+transformation has strengthened confidence among development 
+partners and enhanced Somalia’s access to concessional financing.
+=== PAGE 53 ===
+ANNUAL REPORT | 2025
+39
+Central Bank of Somalia
+Figure 22: Composition of External Public Debt by Creditor Group (2018–2025)
+Figure 23: External Debt-to-GDP Ratio (2018–2025)
+Source: IMF, 2025
+Source: IMF, 2025
+Somalia’s debt sustainability indicators improved markedly during the 
+review period. The external debt-to-GDP ratio declined from 67 percent 
+in 2018 to 11 percent in 2025, indicating a substantial reduction in the 
+economy’s external debt burden. The most significant improvement occurred 
+during 2023–2024, following the implementation of comprehensive debt 
+relief measures.
+Overall, these developments demonstrate a significant strengthening of 
+debt sustainability and a reduction in debt vulnerabilities. The lower debt 
+burden has improved fiscal space, reduced future debt-service obligations, 
+and enhanced the government’s capacity to finance development 
+priorities. However, preserving these gains will require continued reliance 
+on concessional financing, prudent borrowing practices, strengthened 
+debt management capacity, and sustained fiscal reforms.
+66.5
+60.9
+52
+46.9
+43.1
+24.9
+12.3
+11.2
+0
+10
+20
+30
+40
+50
+60
+70
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Debt Percentage Ratio to GDP 
+ 
+29
+29
+25
+24
+23
+24
+45
+43
+58
+58
+59
+60
+60
+49
+3
+3
+13
+13
+16
+16
+17
+27
+51
+54
+0
+10
+20
+30
+40
+50
+60
+70
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Multilateral
+Paris Club
+Non-Paris Club
+Percentage Share
+=== PAGE 54 ===
+ANNUAL REPORT | 2025
+40
+Central Bank of Somalia5
+FINANCIAL SECTOR 
+DEVELOPMENT
+=== PAGE 55 ===
+ANNUAL REPORT | 2025
+41
+Central Bank of Somalia
+T
+he year 2025 marked a period of sustained progress and 
+consolidation of reforms in Somalia’s financial sector under 
+the leadership of the Central Bank of Somalia (CBS). Building 
+on earlier reforms, the authorities focused on modernizing financial 
+infrastructure, strengthening regulatory and supervisory frameworks, 
+expanding financial inclusion, and safeguarding financial stability. These 
+efforts were supported by continued improvements in governance, 
+transparency, and institutional capacity, reinforcing confidence in 
+the financial system. A major legislative milestone was achieved in 
+May 2025 with the enactment of the revised Financial Institutions 
+Law (FIL), which established the legal and regulatory framework 
+for microfinance institutions and strengthened the foundation for 
+financial sector development.
+Building on this legal framework, the Central Bank of Somalia 
+approved the first licenses for seven Non-Deposit-Taking Microfinance 
+Institutions (NDTMFIs) in November 2025 through its Board of 
+Directors. This marked an important step toward expanding access 
+to responsible financial services for households, micro-entrepreneurs, 
+women-owned businesses, and youth-led enterprises, particularly 
+those that have historically been underserved by the formal financial 
+sector. In parallel, the Central Bank continued to strengthen Somalia’s 
+financial market infrastructure. In September 2025, CBS signed a 
+partnership agreement with the International Finance Corporation 
+(IFC) to support the legal foundations of the implementation of the 
+Credit Infrastructure Project to establish two critical financial market 
+infrastructures: a Credit Information System (CIS) and a Collateral 
+Registry (CR). Both systems will be hosted and operated by the 
+Central Bank of Somalia and are expected to enhance access to credit, 
+improve risk assessment, and support private sector development.
+A key milestone was the rollout of the Somalia Instant Payment 
+System (SIPS), operated through the Somalia Payment Switch (SPS), 
+enabling real-time, 24/7 transfers across banks and, progressively, 
+mobile money operators, while supporting the national QR code 
+standard (SOMQR). This has strengthened interoperability, improved 
+efficiency, and expanded access to financial services, particularly 
+for underserved populations.
+Domestically, CBS advanced a comprehensive regulatory agenda to 
+address structural gaps. Key developments included amendments 
+to the AML/CFT framework alongside the enactment of the Takaful 
+Insurance Law, supported by new regulations on licensing, capital 
+and solvency requirements, and financial reporting. At the same 
+time, financial integrity measures were strengthened through stricter 
+customer identification requirements, including the mandatory use 
+of a national ID for new accounts and the expansion of the Hubiye 
+eKYC platform.
+In September 
+2025, CBS signed 
+a partnership 
+agreement with 
+the International 
+Finance 
+Corporation (IFC) 
+to implement 
+a Credit 
+Infrastructure 
+Project to 
+establish 
+two critical 
+financial market 
+infrastructures
+=== PAGE 56 ===
+ANNUAL REPORT | 2025
+42
+Central Bank of Somalia
+Financial sector activity remained robust throughout the year. The 
+banking sector expanded steadily, supported by deposit growth, 
+increased lending, and rising public confidence, with total assets 
+reaching US$2,299 million by December. Money transfer businesses 
+continued to play a central role, facilitating substantial remittance 
+inflows that support household consumption, private sector activity, 
+and economic resilience. 
+As of December 2025, Somalia’s financial sector comprised 13 
+domestic commercial banks, 1 international bank branch, 14 money 
+transfer businesses, and 6 mobile money operators, totaling 34 
+licensed core financial institutions. In addition, the sector included 
+a growing number of microfinance institutions, with 7 non- deposit-
+taking microfinance institutions licensed in November 2025, marking 
+an important step toward expanding financial inclusion and formal 
+oversight. 
+5.1 Banks
+Somalia’s banking sector continued to demonstrate strong growth 
+in 2025, reflecting sustained confidence and deepening financial 
+intermediation. Total banking assets increased from US$2,020 
+million(18 percent of GDP) in 2024 to US$2,299 million (20 percent of 
+GDP) in 2025, representing a 14 percent increase. This expansion was 
+driven by continued financing activity, steady deposit mobilization, 
+and increased engagement within the formal financial system.
+Source: CBS, 2025
+Table 10: Consolidated Balance Sheet for Commercial Banks in Millions of US Dollars (2021–2025)
+ 
+2021
+2022
+2023
+2024
+2025
+Total Assets
+1,221
+1,462
+1,796
+2,020
+2,299
+Financing Assets
+223
+293
+404
+473
+540
+Investment Assets
+182
+245
+302
+324
+359
+Other Assets
+81
+72
+105
+58
+30
+Total Liabilities
+1,025
+1,247
+1,506
+1,716
+1,976
+Customer Deposits
+948
+1,164
+1,431
+1,652
+1,630
+Microfinance Loan
+3
+3
+4
+3
+7
+Other Liabilities
+59
+57
+52
+39
+66
+Total Liabilities and Owner’s Equity
+1,221
+1,462
+1,796
+2,020
+2,299
+Total Shareholder’s Equity
+196
+215
+289
+305
+323
+Financing assets maintained a positive trajectory, rising by 14 percent 
+to US$540 million in 2025, up from US$473 million in the previous 
+year, reflecting continued private-sector credit demand. Within the 
+financing portfolio, trade financing and real estate loans remained 
+the largest components, increasing from US$169 million in 2024 to 
+US$205 million in 2025 and from US$111 million in 2024 to US$139 
+million in 2025, respectively. This trend highlights sustained commercial 
+activity alongside growing investment in property-related sectors.
+=== PAGE 57 ===
+ANNUAL REPORT | 2025
+43
+Central Bank of Somalia
+Investment assets also recorded steady growth, rising to US$359 
+million from US$324 million in 2024, a 11 percent increase, as 
+banks continued to strengthen and diversify their portfolios. Equity 
+investment remained the largest component, rising from US$184 
+million to US$215 million, followed by property and real estate 
+investment, which increased from US$118 million to US$128 million.
+Source: CBS, 2025
+Source: CBS, 2025
+Figure 24: Total Assets and Credit to private Sector (Percent of GDP)
+Figure 25: Consolidated Commercial Banks Data (Assets) (2021 – 2025)
+1,221
+1,462
+1,796
+2,020
+2,299
+0
+500
+1,000
+1,500
+2,000
+2,500
+2021
+2022
+2023
+2024
+2025
+In Milllions of US Dollars
+Total Assets
+Financing Assets
+Investment Assets
+Other Assets
+12%
+14%
+17%
+18%
+20%
+2.2%
+2.8%
+3.8%
+4.2%
+4.7%
+0%
+5%
+10%
+15%
+20%
+25%
+2021
+2022
+2023
+2024
+2025
+Total Assets
+Credit to private Sector
+=== PAGE 58 ===
+ANNUAL REPORT | 2025
+44
+Central Bank of Somalia
+On the liabilities side, commercial banks’ total liabilities rose 
+to US$1,976 million in 2025, up from US$1,716 million in 2024, 
+representing a 15 percent increase. This growth highlights the sector’s 
+expanding balance sheet capacity and its ability to support financial 
+intermediation. Customer deposits remained the primary source of 
+funding, totaling US$1,630 million, broadly stable compared with 
+US$1,652 million in 2024. While showing a slight moderation, deposit 
+levels remain elevated, indicating sustained public confidence in the 
+banking system.
+Customer deposits accounted for approximately 82 percent of 
+total liabilities, maintaining their position as the dominant funding 
+base for commercial banks, albeit at a lower share compared to the 
+previous year.
+Source: CBS, 2025
+Figure 26: Consolidated Commercial Banks Data (Liabilities) (2021 – 2025)
+Considering all this, developments in 2025 point to a resilient and 
+expanding banking sector, supported by sustained asset growth, stable 
+funding conditions, and increased financing to the private sector. 
+These trends underscore the sector’s growing role in supporting 
+economic activity and financial sector development in Somalia.
+5.1.1 Banking Sector Financial Soundness Indicators
+The banking sector remained financially sound during the review 
+period. Capital adequacy and core capital ratios continued to exceed 
+regulatory requirements, while liquidity levels remained strong across 
+the banking system. The Capital Adequacy Ratio (CAR) remained 
+above the regulatory minimum requirement of 12 percent throughout 
+the review period, reflecting adequate capital buffers in the banking 
+1,025
+1,247
+1,506
+1,716
+1,976
+0
+500
+1,000
+1,500
+2,000
+2,500
+2021
+2022
+2023
+2024
+2025
+In Millions of US Dollars
+Total Liabilities
+Customer Deposits
+Microfinance Loan
+Other Liabilities
+Total Shareholder’s Equity
+=== PAGE 59 ===
+ANNUAL REPORT | 2025
+45
+Central Bank of Somalia
+Source: CBS, 2025
+Figure 27: Commercial Banks’ Capital Adequacy Performance
+sector. The ratio increased during late 2024 and remained relatively 
+strong during early 2025, reaching about 18 percent in the first half 
+of the year. A gradual moderation was observed during the second 
+half of 2025, with the ratio declining slightly toward the end of the 
+year. By December 2025, the capital adequacy ratio stood at around 
+15 percent. Despite this decline, the ratio remained well above the 
+regulatory requirement, indicating that banks continued to maintain 
+sufficient capacity to absorb potential losses.
+15%
+14%
+16%
+19%
+21%
+16%
+17%
+15%
+12%
+0%
+5%
+10%
+15%
+20%
+25%
+Mar
+Jun
+Sep
+Dec
+Mar
+Jun
+Sep
+Dec
+  Capital Adequacy Ratio
+  Required Capital Adequacy Ratio
+2024
+2025
+Jun
+Source: CBS, 2025
+Figure 28: Liquidity Position of Commercial Banks
+49%
+50%
+50%
+51%
+52%
+52%
+54%
+54%
+20%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Mar
+Jun
+Sep
+Dec
+Mar
+Jun
+Sep
+Dec
+  Liquid Asset Ratio
+  Required Liquid Asset Ratio
+2024
+2025
+=== PAGE 60 ===
+ANNUAL REPORT | 2025
+46
+Central Bank of Somalia
+The Liquidity Asset Ratio remained well above the regulatory minimum 
+requirement of 20 percent throughout the review period, indicating 
+a strong liquidity position in the banking sector. The ratio fluctuated 
+between approximately 47 percent and 54 percent over the period. 
+Liquidity levels improved gradually during 2025, reaching about 54 
+percent by December. This indicates that banks maintained a high 
+level of liquid assets relative to short-term liabilities, supporting their 
+ability to meet withdrawal demands and other short-term obligations.
+Source: CBS, 2025
+Figure 29: Core Capital Strength of the Banking Sector
+15%
+13%
+15%
+17%
+19%
+29%
+15%
+14%
+8%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+Mar
+Jun
+Sep
+Dec
+Mar
+Jun
+Sep
+Dec
+  Core Capital Ratio
+  Required Core Capital Ratio
+2024
+2025
+The Core Capital Ratio also remained consistently above the regulatory 
+minimum requirement of 8 percent throughout the review period. The 
+ratio fluctuated between about 13 percent and 16 percent during 2024, 
+before strengthening in early 2025 to around 17 percent. During the 
+second half of 2025, the ratio declined gradually and reached about 14 
+percent by December 2025. Despite this moderation, the core capital 
+ratio remained comfortably above the required threshold, reflecting 
+the continued strength of banks’ high-quality capital positions.
+=== PAGE 61 ===
+ANNUAL REPORT | 2025
+47
+Central Bank of Somalia
+Source: CBS, 2025
+Table 11: Remittance Inflows in Millions of US Dollars (2021-2025)
+ 
+ 
+Individual 
+Remittance
+Business
+NGO Transfers
+Other Swift 
+Transfers
+Total
+Grand Total
+2021
+Bs* 
+38
+318
+192
+402
+950
+4,283
+MTBs**  
+2064
+703
+566
+             - 
+3,333
+2022
+Bs 
+51
+328
+235
+667
+1,281
+4,746
+MTBs 
+2,100
+656
+709
+             - 
+3,465
+2023
+Bs 
+223
+530
+314
+1334
+2,401
+5,669
+MTBs 
+1,958
+556
+754
+             - 
+3,268
+2024
+Bs 
+905
+1,746
+473
+188
+3,312
+6,434
+MTBs 
+1,815
+610
+697
+             - 
+3,122
+2025
+Bs 
+993
+1,952
+502
+262
+3,709
+6,786
+MTBs 
+2,141
+502
+434
+             - 
+3,077
+* Banks
+** Money Transfer Businesses
+5.2 Remittances
+Remittances remained a central pillar of Somalia’s economic stability 
+in 2025, supporting household consumption, private sector activity, and 
+humanitarian operations. Total inward transfers for the year reached 
+US$6,786 million, a 5 percent increase from US$6,434 million in 2024. 
+Stronger individual remittances and higher other transfers primarily 
+drove this growth.
+Individual remittances totaled US$3,134 million(24 percent of GDP) in 
+2025, up from US$2,720 million (22 percent of GDP) in 2024, a 15 percent 
+increase that reaffirms their role as the largest and most stable source 
+of inflows. Business-related transfers totaled US$2,454 million, while 
+NGO transfers totaled US$936 million. Other SWIFT-related transfers 
+increased to US$262 million, contributing to overall inflow growth.
+Source: CBS, 2025
+Figure 30: Total Inward Transfers (2021-2025)
+4283
+4746
+5669
+6434
+6786
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+Bs
+MTBS
+Bs
+MTBS
+Bs
+MTBS
+Bs
+MTBS
+Bs
+MTBS
+2021
+2022
+2023
+2024
+2025
+In Millions of US Dollars
+Individual Remittance
+Business
+NGO Transfers
+Other Swift Transfers
+Total
+Grand Total
+=== PAGE 62 ===
+ANNUAL REPORT | 2025
+48
+Central Bank of Somalia
+Source: CBS, 2025
+Figure 31: Remittance Inflows by Source and Channel in 2025
+In composition terms, individual remittances accounted for 
+approximately 46 percent of total inflows, followed by business 
+transfers at 36 percent and NGO-related flows at 14 percent, while 
+other transfers represented about 4 percent. The overall structure 
+of inflows remained stable, with household remittances continuing 
+to dominate.
+Commercial banks processed a significant share of total inflows, 
+particularly for business and institutional transactions. Total inflows 
+through commercial banks reached US$3,709 million in 2025, a 12 
+percent increase from US$3,313 million in 2024. Business transfers 
+remained the largest component, amounting to US$1,952 million and 
+accounting for approximately 53 percent of total inflows through 
+banks. Individual remittances processed through banks totaled 
+US$993 million (27 percent), while NGO-related transfers reached 
+US$502 million (14 percent). Other SWIFT-related transfers amounted 
+to US$262 million, representing approximately 7 percent of total 
+inflows through commercial banks.
+Money transfer businesses (MTBs) continued to play a critical 
+role in facilitating remittance inflows to households. Total inflows 
+processed through MTBs reached US$ 3,077 million in 2025, a 
+slight decline from US$3,121 million in 2024. Individual remittances 
+remained the dominant component, totaling US$2,141 million and 
+accounting for approximately 70 percent of MTB inflows. NGO-related 
+transfers reached US$434 million (14 percent), while business-related 
+remittances amounted to US$502 million (16 percent).
+993
+1952
+502
+262
+2141
+502
+434
+0
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+Individual Remittance
+Business
+NGO Transfers
+Other Swift Transfers
+In Millions of US Dollars
+2025 Bs
+2025 MTBS
+=== PAGE 63 ===
+ANNUAL REPORT | 2025
+49
+Central Bank of Somalia
+In summary, the distribution of remittance inflows highlights the 
+complementary roles of financial institutions: commercial banks facilitate 
+most of the business and institutional transfers, while money transfer 
+businesses remain the primary channel for household remittances 
+and diaspora-linked flows. These inflows continue to play a critical 
+role in supporting external stability, sustaining domestic demand, and 
+underpinning foreign exchange liquidity in the economy.
+5.3 National Payment System
+The National Payment System (NPS) continued to play a central role in 
+advancing Somalia’s financial modernization in 2025, providing a reliable 
+and efficient platform for digital transactions. By enhancing connectivity 
+among financial institutions, the system has streamlined payment 
+processes, strengthened transparency, and supported compliance 
+with anti-money laundering and counter-terrorism financing standards.
+The system demonstrated strong growth over the year, processing a 
+total of 1,409,151 transactions with a combined value of approximately 
+US$2,422 million. This represents a 10 percent increase in transaction 
+volume and a 25 percent increase in total value compared with 2024, 
+reflecting growing adoption of electronic payment channels and 
+increased interbank settlement activity.
+Real Time Gross Settlement (RTGS) transactions continued to account 
+for the majority of transaction value, totaling approximately US$1,850 
+million during the year and representing about 76 percent of the total 
+value processed through the system. This highlights the system’s critical 
+role in facilitating large-value interbank payments and maintaining 
+financial system stability.
+The Automated Clearing House (ACH) remained the primary driver of 
+transaction volumes, processing the majority of payments within the 
+system. Total ACH transaction value reached approximately US$572 
+million in 2025, reflecting continued growth in retail and lower-value 
+transactions, supported by increasing use of digital payment channels.
+Overall, the continued expansion of the NPS underscores its growing 
+importance within Somalia’s financial ecosystem. Its capacity to handle 
+increasing transaction volumes while supporting efficiency, security, 
+and interoperability positions its role as a key enabler of financial 
+inclusion, innovation, and long-term economic resilience.
+=== PAGE 64 ===
+ANNUAL REPORT | 2025
+50
+Central Bank of Somalia
+Source: CBS, 2025
+Table 12: National Payment System Report in Millions of US Dollars (2022-2025)
+ 
+2022
+2023
+2024
+2025
+RTGS
+1059
+1298
+1421
+1850
+ACH
+367
+410
+518
+572
+Total Value in Millions of US$
+1426
+1709
+1939
+2422
+Total Transactions
+922,904
+1,062,103
+1,277,216
+1,409,151
+Source: CBS, 2025
+Figure 32: National Payment System (2022-2025)
+1059
+1298
+1421
+1850
+367
+410
+518
+572
+1426
+1709
+1939
+2422
+0
+500
+1000
+1500
+2000
+2500
+3000
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+2022
+2023
+2024
+2025
+In Millions of US Dollars
+RTGS
+ACH
+Total Value in Millions of US$
+=== PAGE 65 ===
+ANNUAL REPORT | 2025
+51
+Central Bank of Somalia
+6
+MONETARY POLICY 
+DEVELOPMENTS
+=== PAGE 66 ===
+ANNUAL REPORT | 2025
+52
+Central Bank of Somalia
+I
+n 2025, Somalia’s monetary policy continued to evolve in line 
+with the country’s broader efforts toward economic stabilization, 
+institutional strengthening, and financial sector modernization under 
+the leadership of the Central Bank of Somalia and with continued 
+support from the International Monetary Fund.
+The Somali economy continued to rely heavily on the United States 
+dollar and mobile money platforms. Nevertheless, the CBS maintained 
+its commitment to strengthening monetary governance and laying 
+the institutional foundation for future monetary independence.
+A major priority during 2025 was the continued advancement of the 
+reintroduction of the Somali Shilling (SOS) through the implementation 
+of a Currency Board Arrangement (CBA). CBS intensified efforts 
+to secure co-financing for the national currency exchange project 
+and continued consultations with all Federal Member States (FMS) 
+to achieve a comprehensive agreement on the implementation 
+framework. The reintroduction of the Somali Shilling remains a 
+critical national objective aimed at restoring monetary sovereignty, 
+strengthening confidence in the domestic currency, and enhancing 
+the effectiveness of monetary policy over the medium term.
+With technical assistance from the IMF, the Central Bank of Somalia 
+act was revised and submitted to the parliament during 2025. The 
+proposed amendments are designed to establish the legal basis 
+for the Currency Board Arrangement while further strengthening 
+the Central Bank’s mandate, governance framework, operational 
+autonomy, transparency, and accountability provisions.  
+In parallel, the Central Bank began preparing the regulatory frameworks 
+required for the implementation of the Currency Board Arrangement 
+once the amended legislation is enacted. These efforts include 
+developing foreign exchange (FX) regulations that outline the criteria 
+for selecting counterparties and specify the obligations of such 
+counterparties toward the general public under the CBA framework, 
+consistent with IMF recommendations. In addition, the Central Bank 
+has been preparing regulations to establish procedures for the 
+production and publication of the CBA balance sheet weekly, with 
+minimal reporting lag, to strengthen transparency and operational 
+credibility.
+Monetary sector reforms during 2025 also focused on strengthening 
+Somalia’s financial infrastructure and improving the efficiency of the 
+national payment system. The Central Bank continued implementing 
+the Somalia Instant Payment System (SIPS) and related digital 
+payment initiatives to improve interoperability between commercial 
+banks and mobile money operators. Given the widespread use of 
+mobile financial services across Somalia, these reforms contributed 
+to enhanced financial inclusion, greater transaction efficiency, reduced 
+transfer costs, and improved oversight of financial flows within the 
+formal financial sector.
+By providing 
+a secure and 
+accessible local 
+currency, the 
+CBS seeks to 
+integrate these 
+populations 
+into the formal 
+financial 
+system, thereby 
+enhancing 
+economic 
+participation and 
+stability.
+=== PAGE 67 ===
+ANNUAL REPORT | 2025
+53
+Central Bank of Somalia
+7
+CORPORATE 
+GOVERNANCE 
+AND BOARD 
+OVERSIGHT
+=== PAGE 68 ===
+ANNUAL REPORT | 2025
+54
+Central Bank of Somalia
+7.1	Board of Directors
+The Central Bank of Somalia continued to strengthen its corporate 
+governance framework during 2025, in accordance with the Central 
+Bank of Somalia Act (Law No. 130 of 22 April 2012) and ongoing 
+institutional reform commitments under the IMF-supported reform 
+program. The Board of Directors is the highest policy-making organ 
+of the Bank and provides strategic direction and oversight over the 
+Bank’s core mandates, including monetary policy reforms, financial 
+sector supervision, payment systems modernization, currency reform 
+initiatives, and institutional governance. The Board is composed of 
+seven members: the Governor, who serves as Chairperson; the Deputy 
+Governor, who serves as Vice Chairperson; and five non-executive 
+members. The Governor, as Chief Executive Officer and Chair of the 
+Board, is responsible for convening Board meetings and guiding 
+strategic policy deliberations. In the absence of the Governor, these 
+responsibilities are undertaken by the Deputy Governor.
+In line with the provisions of the CBS Act, the Board continued 
+to delegate specific operational and oversight responsibilities to 
+specialized committees while retaining exclusive authority over 
+core monetary policy decisions and strategic institutional matters. 
+Throughout 2025, the Board maintained a high level of engagement 
+and oversight, with particular emphasis on strengthening institutional 
+governance, operational independence, transparency, accountability, 
+and risk management frameworks. The Board continued to promote 
+a governance culture grounded in professionalism, integrity, and 
+adherence to international central banking standards and best 
+practices.
+The Board also provided oversight over the implementation of the 
+Bank’s Strategic Plan 2025–2029, with a focus on currency reform, 
+modernization of monetary and foreign exchange policy frameworks, 
+enhancement of financial stability, expansion of financial inclusion, 
+modernization of payment systems, and strengthening operational 
+excellence across the institution.
+In 2025, the Board was supported by several standing committees, 
+including:
+•	
+Audit Committee 
+•	
+Licensing and Supervision Committee 
+•	
+Currency Committee 
+•	
+Human Resource Commitee 
+These committees continued to support effective oversight and 
+specialized review of the Bank’s operational, financial, regulatory, 
+and governance functions.
+=== PAGE 69 ===
+ANNUAL REPORT | 2025
+55
+Central Bank of Somalia
+7.2 Board Meetings
+During the year ended 31 December 2025, the Board of Directors 
+held 10 regular meetings together with sessions of its standing 
+committees to deliberate on strategic, operational, regulatory, and 
+governance matters affecting the Bank and the wider financial sector. 
+The Board maintained active oversight of the implementation of 
+institutional reforms and reviewed progress across key operational 
+priorities. Discussions focused on strengthening monetary and 
+financial stability, improving governance frameworks, advancing 
+currency reform, modernizing payment systems, and enhancing 
+regulatory and supervisory effectiveness.
+Key agenda items considered by the Board during 2025 included:
+•	
+Financial Sector Laws and Regulations 
+•	
+Risk management, internal control systems, compliance, and 
+Business continuity 
+•	
+Currency Reform, currency project, and Asset recovery 
+•	
+Licensing and supervision Matters 
+•	
+Budget implementation and financial management, Audit reports 
+•	
+Reserve Management 
+The Board and its committees continued to play an important 
+role in evaluating institutional policies and providing strategic 
+recommendations to support sound governance, operational resilience, 
+and financial sector development.
+Table 13: Board Members of the Central Bank of Somalia
+Abdirahman M. Abdullahi
+Governor, Chairman of the Board
+Deputy Governor and  
+Vice Chairperson
+Member
+Member
+Member
+Member
+Member
+Dr. Ali Yasin Shiekh Ali
+Dr. Aues Abo Scek
+Faysal A. Warsame
+Prof. Abdullahi Sh. Ali
+Prof. Hussein A. Warsame
+Hanifa Mohamed Ibrahim
+Board of Directors
+Source: CBS, 2025
+=== PAGE 70 ===
+ANNUAL REPORT | 2025
+56
+Central Bank of Somalia
+7.3 Governance and Reform Roadmap
+In 2025, Somalia continued to make significant progress on its economic 
+reform agenda through close cooperation with the International 
+Monetary Fund and other international development partners. The 
+reform agenda remained focused on strengthening macroeconomic 
+stability, enhancing institutional governance, improving financial 
+sector resilience, and supporting sustainable economic growth.
+The Central Bank of Somalia continued implementing reforms 
+under the Extended Credit Facility (ECF) arrangement for the period 
+2023–2026. The Bank maintained compliance with key structural 
+benchmarks relating to central bank governance, financial sector 
+supervision, transparency, and operational independence.
+One of the major priorities in 2025 was advancing the Somali Shilling 
+reintroduction project and the proposed Currency Board Arrangement 
+(CBA). The Bank continued preparations for currency exchange 
+reforms and development of the supporting legal and regulatory 
+framework required for implementation of the CBA. In collaboration 
+with the IMF, amendments to the CBS Act continued to be finalized to 
+strengthen the Bank’s mandate, governance framework, transparency, 
+autonomy, and accountability provisions.
+The Bank also continued strengthening internal governance and 
+compliance systems through enhanced risk management frameworks, 
+improved operational controls, and reinforcement of Anti-Money 
+Laundering and Counter Financing of Terrorism (AML/CFT) mechanisms. 
+Institutional reforms are further focused on strengthening internal 
+audit functions, procurement oversight, financial reporting systems, 
+and information technology governance.
+In line with the Strategic Plan 2025–2029, the Bank continued 
+implementing initiatives to modernize monetary operations, strengthen 
+financial inclusion, improve payment infrastructure, and enhance 
+institutional effectiveness. The operationalization of the Somalia 
+Instant Payment System (SIPS) and expansion of digital financial 
+infrastructure remained key priorities during the year.
+The Bank also continued investing in human capital development 
+through professional training programs, institutional capacity-building 
+initiatives, and reforms to strengthen performance management 
+and organizational effectiveness. These efforts contributed to the 
+development of a professional, accountable, and performance-
+oriented institutional culture.
+=== PAGE 71 ===
+ANNUAL REPORT | 2025
+57
+Central Bank of Somalia
+7.4 Progress and Achievements Under the CBS 
+Strategic Framework
+During 2025, the Central Bank of Somalia continued implementing 
+its Strategic Plan 2025–2029, aimed at strengthening institutional 
+capacity, enhancing monetary and financial sector governance, 
+modernizing payment systems, and promoting financial stability 
+and inclusion. Under the area of monetary and financial sector 
+reforms, the Bank made progress in strengthening supervisory and 
+regulatory frameworks for banks, mobile money operators, and 
+financial institutions. The Bank also continued implementation of 
+Risk-Based Supervision frameworks and strengthened oversight 
+of financial sector compliance and reporting systems. Significant 
+progress was made in modernizing payment systems and digital 
+financial infrastructure. The Somalia Instant Payment System (SIPS) 
+is expected to expand interoperability between banks and mobile 
+money operators, supporting greater financial inclusion, transaction 
+efficiency, and transparency in financial flows.
+Institutional governance reforms also continued during the year. 
+The Bank strengthened committee-based governance structures, 
+enhanced internal audit and compliance functions, and continued 
+implementation of organization-wide risk management frameworks. 
+Internal policies and operational procedures were further reviewed 
+and strengthened to align with international standards and evolving 
+operational requirements.
+In the legal and regulatory area, the Bank continued work on 
+amendments to the Central Bank of Somalia Act and supporting 
+regulations related to the Currency Board Arrangement, payment 
+systems oversight, and financial sector supervision. Progress was 
+also made in strengthening legal frameworks supporting digital 
+finance, AML/CFT compliance, and financial institution governance.
+The Bank maintained strong financial governance and transparency 
+standards during 2025. Financial reporting continued to comply with 
+International Financial Reporting Standards (IFRS), while internal and 
+external audit mechanisms remained important pillars supporting 
+accountability and institutional integrity.
+Significant 
+progress was 
+achieved in 
+modernizing 
+the national 
+payment 
+infrastructure.
+=== PAGE 72 ===
+ANNUAL REPORT | 2025
+58
+Central Bank of Somalia
+SMP 
+Benchmark
+Program Period
+Due Date
+Status
+i
+Approve a roadmap for currency reform by 
+the Board of Directors of the Central Bank of 
+Somalia (CBS)
+Prior Actions
+Met
+Require approval by the Board of Directors of the 
+CBS to issue commercial bank and MTB licenses
+May 2016–April 2017
+End-Dec-2016
+Met
+Finalize the anti-counterfeit strategy
+End-Mar-2017
+Met
+ii
+Establish a National Anti- Counterfeit Centre
+May 2017–April 2018
+End-Sep-2017
+Met
+Adoption by the CBS of regulations on 
+1) denominations of the SOS notes to be issued.
+2) design and security features; and 
+3) volume of banknotes
+End-Dec-2017
+Met
+Develop a roadmap for financial sector development
+End-Dec-2017
+Met
+Develop a plan to improve the renewal of MTBs' 
+licenses and enhance compliance with existing 
+regulations
+End-Mar-2018
+Met
+iii
+Submit to Parliament the draft Targeted Financial 
+Sanctions Act
+May 2018–April 2019
+End-Sep-2018
+Met
+CBS to issue regulation on credit classification 
+and provision, and review reporting requirement 
+for banks.
+End-March 2019
+Met
+iv
+CBS to issue Mobile Money Regulations
+May 2019 – July 2020
+End-July 2019
+Met
+Adopt updated CBS Strategic Plan and transition 
+toward updated organizational Structure (as 
+approved by the CBS Board November 2018)
+End-October 2019
+Met
+MOF to issue AML/CFT regulations that apply 
+to all financial institutions
+End-October 2019
+Met
+Implement Mobile Money Regulations
+End-February 2020
+Met within 
+the ECF  
+2.      Extended Credit Facility (IMF ECF 2020-2023)
+ECF
+Benchmark
+Program Period
+Due Date
+Status
+Issue guidance for (1) financial reporting and 
+accounting standards and (2) Shariah governance 
+framework for Somali banks
+March 2020–March 2023
+End-Dec-2020
+Met
+Enhance transparency in the regulatory process 
+of the Telecommunications and Mobile Money 
+Sectors
+End- Mar -2021
+Met
+Publish audited CBS financial statements for 2021
+June 2022–October 2023
+End-August 2022
+Met
+Issue the Banking Regulations on Capital Adequacy 
+and Liquidity Coverage Ratio
+December 2022–
+December 2023
+End-September 2023
+Met
+1. Structural Benchmarks under (IMF SMP I-IV)
+=== PAGE 73 ===
+ANNUAL REPORT | 2025
+59
+Central Bank of Somalia
+3.    New Extended Credit Facility (IMF ECF Dec 2023-Dec 2026)
+I
+Develop an action plan to improve the quality 
+of data submitted by commercial banks, in line 
+with IMF recommendations, and communicate 
+the action plan to commercial banks.
+December 2023–March 
+2025
+End-July 2024
+Met
+Submit amendments to the CBS Law to Parliament, 
+in line with IMF safeguard recommendations.
+End-March 2025
+Met
+II
+Issue detailed instructions to capital adequacy 
+(CAR) and liquidity coverage ratios (LCR) 
+templates reported by banks
+September 2024–
+September 2025
+End-July 2025
+Met
+III
+Submit to Parliament amendments to 
+the CBS Law, including to cover the 
+currency board arrangement, in line with 
+IMF recommendations
+June 2025–September 
+2026
+End-Dec  2025
+Met
+IV
+CBS Board approval of foreign exchange 
+regulations outlining the CBS criteria for 
+selecting counterparties and specifying 
+how these counterparties will fulfil their 
+obligations to the general public under the 
+CBA, in line with IMF recommendations
+End-May 2026
+Met
+V
+CBS Board approval of a regulation, to 
+become effective with currency exchange, 
+that specifies the process to produce 
+and publish the CBA balance sheet on 
+a weekly basis with minimal lag
+End-July  2026
+Ongoing
+VI
+Publish regulation to gradually introduce a 
+prudential reserve requirement framework
+End-Aug  2026
+Ongoing
+4.  Commitments of CBS under the ECF program (Not benchmark) ongoing activities (IMF ECF 2020-2023)
+a.	
+Currency Reform (Currency Exchange Project)
+	
+i.	 Cash management
+	
+ii.	 Monetary policy
+	
+iii.	 Exchange rate policy
+	
+iv.	 Reserve management policy 
+b.	
+Draft bills for the 
+	
+i.	 National Payment System
+	
+ii.	 revised Financial Institutions Law
+	
+iii.	 and Insurance
+c.	
+E-KYC
+d.	
+Signing MOU with other agencies
+•	
+Draft MoU between Financial Reporting Canter (FRC) and Central Bank of Somalia.
+•	
+Draft MoU between National Communication Agency (NCA) and Central Bank of Somalia. 
+(Completed
+=== PAGE 74 ===
+ANNUAL REPORT | 2025
+60
+Central Bank of Somalia
+No.
+Regulations and Guidelines
+Financial Institutions
+Year
+1
+Regulation
+Licensing, 2014
+Banks
+2014
+2
+Internal audit, 2016
+Banks
+2016
+3
+Audit committee, 2016
+Banks
+2016
+4
+Related persons transactions, 2016
+Banks
+2016
+5
+Opening and closing branch offices, 
+2016
+Banks
+2016
+6
+Audited Financial Statements, 2017 
+Banks
+2017
+7
+Asset classification and provisioning 
+regulation, 2018
+Banks
+2018
+8
+Revised Capital adequacy, 2015
+Banks
+2023
+9
+Revised Liquidity risk management, 
+2015
+Banks
+2023
+10
+Guideline
+Corporate Governance Guidelines, 
+2018
+Banks
+2018
+11
+Operational Risk Guidelines, 2020
+Banks
+2020
+12
+Shariah Governance Framework 
+(2020)
+Banks
+2020
+13
+ Islamic Financial Reporting & ac-
+counting Guideline (2020)
+Banks
+2020
+14
+Guideline AML/CFT Guideline for 
+Commercial Banks
+2023
+15
+Licensing, 2014
+2014
+16
+AML, 2015
+2015
+17
+Operations, 2016 
+2023
+18
+Customer Registration, 2016
+2016
+19
+Mobile money regulation, 2020
+2020
+20
+AML/CFT Regulation for Financial 
+Institutions, 2019
+2019
+21
+Guidance on Independent AML/CFT 
+Examiner
+2023
+22
+2023
+5. Indicative Targets (IT) in Staff Monitored Program.
+SMP
+Indicative Target
+IT Condition
+Program Period
+Test Date
+June
+Sep
+Dec
+March
+I
+Net foreign assets of the CBS (floor)
+21.6 million
+May 2016–April 
+2017
+Met
+Met
+Met
+Met
+Issuance of banknotes other than SOS 
+1,000 (ceiling 
+0.0
+Met
+Met
+*
+*
+Issuance of SOS banknotes that are not 
+backed by foreign assets denominated in 
+U.S. dollars of the CBS (ceiling)
+0.0
+Met
+Met
+*
+*
+II
+Net foreign assets of the CBS (floor)
+23.4 million
+May 2017–April 
+2018
+Met
+Met
+Met
+Met
+III
+Net foreign assets of the CBS (floor)
+24.0 million
+May 2018–April 
+2019
+Met
+Met
+Met
+Met
+Indicative Target
+IT Condition
+Program Period
+July 
+Oct
+Dec
+Feb
+IV
+Net foreign assets of the CBS (floor)
+24.8 million
+June 2019 – May 
+2020
+Met
+Met
+Met
+Met 
+*Removed from the indicative target
+=== PAGE 75 ===
+ANNUAL REPORT | 2025
+61
+Central Bank of Somalia
+6. Indicative Targets (IT) in Extended Credit Facility Program (March 2020 – March 2023).
+ECF
+Indicative 
+Target
+2020
+2021
+June
+September
+December
+March
+June
+Sep
+Performance 
+Criteria 
+Indicative Target
+Performance 
+Criteria
+Indicative Target
+Indicative Target
+Indicative Target
+Prog
+Status
+Prog
+Status
+Prog
+Status
+Prog
+Status
+Prog
+Status
+Prog
+Status
+Net foreign 
+assets of the 
+CBS (floor)
+69.1
+Met
+69.1
+Met
+79.2
+Met
+79.2
+ Table 3. Somalia: Data Reporting, December 2023–December 2026
+Reporting Agency
+Type of Data
+Description of Data
+Frequency
+Timing (within 
+period specified)
+Central Bank of 
+Somalia
+Monetary Survey
+Detailed balance sheet data of the CBS submitted in the 
+reporting template.
+Monthly
+3 weeks after the
+end of each month.
+Consolidated commercial banks’ balance sheet data 
+submitted in the reporting template,
+including deposits by mobile money operators (MMOs).
+Quarterly
+4 weeks after the end 
+of each quarter.
+Financial data not 
+included in broad 
+money
+Volume and value of mobile money transaction.
+Quarterly 
+4 weeks after the end 
+of each quarter.
+Other financial 
+indicators
+Prudential data as per associated CBS regulations (total 
+capital, core capital, total net assets, high quality liquid 
+assets, and 30-day funding requirement), and average 
+profit rates and tenor information for private sector
+financing assets from banks.
+Quarterly
+4 weeks after the end 
+of each quarter.
+Balance of pay-
+ments
+Trade in goods data by HS code and value for the ports 
+of Mogadishu, and Bossaso and Kismayo, starting 
+end-September 2020; petroleum imports to Mogadi-
+shu; and travel data from the Immigration Department.
+Quarterly
+4 weeks after the end 
+of each quarter.
+Cross-border current transfers (both inflows and 
+outflows) by MTBs, and banks, and for MMOs starting 
+from end-March 2021.
+Quarterly
+4 weeks after the end 
+of each quarter.
+=== PAGE 76 ===
+ANNUAL REPORT | 2025
+62
+Central Bank of Somalia
+Annex: Financial Statements
+=== PAGE 77 ===
+ANNUAL REPORT | 2025
+63
+Central Bank of Somalia
+=== PAGE 78 ===
+ANNUAL REPORT | 2025
+64
+Central Bank of Somalia
+=== PAGE 79 ===
+ANNUAL REPORT | 2025
+65
+Central Bank of Somalia
+=== PAGE 80 ===
+ANNUAL REPORT | 2025
+66
+Central Bank of Somalia
+=== PAGE 81 ===
+ANNUAL REPORT | 2025
+67
+Central Bank of Somalia
+=== PAGE 82 ===
+ANNUAL REPORT | 2025
+68
+Central Bank of Somalia
+=== PAGE 83 ===
+ANNUAL REPORT | 2025
+69
+Central Bank of Somalia
+=== PAGE 84 ===
+ANNUAL REPORT | 2025
+70
+Central Bank of Somalia
+=== PAGE 85 ===
+ANNUAL REPORT | 2025
+71
+Central Bank of Somalia
+=== PAGE 86 ===
+ANNUAL REPORT | 2025
+72
+Central Bank of Somalia
+=== PAGE 87 ===
+ANNUAL REPORT | 2025
+73
+Central Bank of Somalia
+=== PAGE 88 ===
+ANNUAL REPORT | 2025
+74
+Central Bank of Somalia
+=== PAGE 89 ===
+ANNUAL REPORT | 2025
+75
+Central Bank of Somalia
+=== PAGE 90 ===
+ANNUAL REPORT | 2025
+76
+Central Bank of Somalia
+=== PAGE 91 ===
+ANNUAL REPORT | 2025
+77
+Central Bank of Somalia
+=== PAGE 92 ===
+ANNUAL REPORT | 2025
+78
+Central Bank of Somalia
+=== PAGE 93 ===
+ANNUAL REPORT | 2025
+79
+Central Bank of Somalia
+=== PAGE 94 ===
+ANNUAL REPORT | 2025
+80
+Central Bank of Somalia
+=== PAGE 95 ===
+ANNUAL REPORT | 2025
+81
+Central Bank of Somalia
+=== PAGE 96 ===
+ANNUAL REPORT | 2025
+82
+Central Bank of Somalia
+=== PAGE 97 ===
+ANNUAL REPORT | 2025
+83
+Central Bank of Somalia
+=== PAGE 98 ===
+ANNUAL REPORT | 2025
+84
+Central Bank of Somalia
+=== PAGE 99 ===
+ANNUAL REPORT | 2025
+85
+Central Bank of Somalia
+=== PAGE 100 ===
+ANNUAL REPORT | 2025
+86
+Central Bank of Somalia
+=== PAGE 101 ===
+ANNUAL REPORT | 2025
+87
+Central Bank of Somalia
+=== PAGE 102 ===
+ANNUAL REPORT | 2025
+88
+Central Bank of Somalia
+=== PAGE 103 ===
+ANNUAL REPORT | 2025
+89
+Central Bank of Somalia
+=== PAGE 104 ===
+ANNUAL REPORT | 2025
+90
+Central Bank of Somalia
+=== PAGE 105 ===
+ANNUAL REPORT | 2025
+91
+Central Bank of Somalia
+=== PAGE 106 ===
+ANNUAL REPORT | 2025
+92
+Central Bank of Somalia
+=== PAGE 107 ===
+ANNUAL REPORT | 2025
+93
+Central Bank of Somalia
+=== PAGE 108 ===
+ANNUAL REPORT | 2025
+94
+Central Bank of Somalia
+=== PAGE 109 ===
+ANNUAL REPORT | 2025
+95
+Central Bank of Somalia
+=== PAGE 110 ===
+ANNUAL REPORT | 2025
+96
+Central Bank of Somalia
+=== PAGE 111 ===
+ANNUAL REPORT | 2025
+97
+Central Bank of Somalia
+=== PAGE 112 ===
+ANNUAL REPORT | 2025
+98
+Central Bank of Somalia
+=== PAGE 113 ===
+ANNUAL REPORT | 2025
+99
+Central Bank of Somalia
+=== PAGE 114 ===
+ANNUAL REPORT | 2025
+100
+Central Bank of Somalia
+=== PAGE 115 ===
+ANNUAL REPORT | 2025
+101
+Central Bank of Somalia
+=== PAGE 116 ===
+ANNUAL REPORT | 2025
+102
+Central Bank of Somalia
+=== PAGE 117 ===
+ANNUAL REPORT | 2025
+103
+Central Bank of Somalia
+=== PAGE 118 ===
+ANNUAL REPORT | 2025
+104
+Central Bank of Somalia
+=== PAGE 119 ===
+ANNUAL REPORT | 2025
+105
+Central Bank of Somalia
+=== PAGE 120 ===
+ANNUAL REPORT | 2025
+106
+Central Bank of Somalia
+=== PAGE 121 ===
+ANNUAL REPORT | 2025
+107
+Central Bank of Somalia
+=== PAGE 122 ===
+ANNUAL REPORT | 2025
+108
+Central Bank of Somalia
+=== PAGE 123 ===
+ANNUAL REPORT | 2025
+109
+Central Bank of Somalia
+=== PAGE 124 ===
+ANNUAL REPORT | 2025
+110
+Central Bank of Somalia
+=== PAGE 125 ===
+ANNUAL REPORT | 2025
+111
+Central Bank of Somalia
+=== PAGE 126 ===
+ANNUAL REPORT | 2025
+112
+Central Bank of Somalia
+=== PAGE 127 ===
+ANNUAL REPORT | 2025
+113
+Central Bank of Somalia
+=== PAGE 128 ===
+ANNUAL REPORT | 2025
+114
+Central Bank of Somalia
+CENTRAL BANK OF SOMALIA
+info@centralbank.gov.so
+www.centralbank.gov.so
+@CBSsomalia
+@CBSsomalia

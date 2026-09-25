@@ -1,0 +1,1818 @@
+=== PAGE 1 ===
+1 
+ 
+ 
+Somalia’s 
+First 
+Adaptation 
+Communication 
+to 
+the 
+United 
+Nations  Framework  Convention  
+on Climate Change 
+December 2022 
+H
+=== PAGE 2 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+ 
+ 
+© 2022 Copyright Federal Government of Somalia 
+Somalia’s First Adaptation Communication to the United Nations Framework Convention on Climate 
+Change (UNFCCC) 
+Unless otherwise noted, copyright (and any other intellectual property rights, if any) in this publication 
+is owned by the Government of Somalia. For bibliographic purposes, this publication may be cited as: 
+Federal Government of Somalia. (2022). Somalia’s First Adaptation Communication to the 
+United Nations Framework Convention on Climate Change. Ministry of Environment and 
+Climate Change. Mogadishu, Somalia. 
+Acknowledgements 
+The Ministry of Environment and Climate Change, Somalia, would like to acknowledge the inputs from 
+various stakeholders, including public, private, academic, and civil society organizations, to enhance 
+Somalia’s first Adaptation Communication report. We also thank Fatuma Hussein for acting as the lead 
+author of this document. 
+This Adaptation Communication was prepared with assistance from the NAP Global Network 
+Secretariat, the International Institute for Sustainable Development, via the generous financial 
+support of the United Kingdom’s Foreign, Commonwealth, and Development Office. 
+ 
+ 
+ 
+ 
+For further information, please contact: 
+Ministry of Environment and Climate Change 
+Mogadishu , Somalia 
++252 617 8866 32 
+dg@moecc.gov.so 
+ 
+ 
+ 
+ 
+ 
+2
+=== PAGE 3 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+=== PAGE 4 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+4 
+ 
+ 
+ 
+ 
+Executive Summary 
+Somalia’s Adaptation Communication (AdCom) is a report designed to reflect the country’s adaptation 
+progress, priorities, and needs going forward. The purpose of the AdCom is to: i) strengthen 
+adaptation action and enhance resilience to the impacts of climate change; ii) increase the visibility 
+and profile of adaptation globally and nationally; iii) improve learning and understanding of adaptation 
+needs and responses throughout Somalia and the region; iv) enhance resource mobilization for 
+adaptation action in the country; and v) provide input to the synthesis report of the Global Stocktake 
+under the Paris Agreement (United Nations Framework Convention on Climate Change [UNFCCC], 
+Decision 9/CMA.1). 
+Somalia is a least developed country in the Horn of Africa. The country suffers from extreme 
+vulnerability to climate change and variability, with much of its territory considered arid and semi-arid 
+land. The population’s vulnerability to climate is exacerbated by the fact that livelihoods are heavily 
+climate dependent: agricultural production, including livestock and fisheries, accounts for more than 
+70% of livelihood sources, particularly in rural settings (Federal Government of Somalia [FGS], 2020). 
+Compounding these challenges, the country is rebuilding state institutions amid recurrent and 
+protracted conflict, concentrated mainly in the south. Thirty years of conflict have fragmented the 
+country, destroyed legitimate institutions, and created widespread poverty and vulnerability. Coupled 
+with climate-related disasters, this has undermined investment in key sectors such as agriculture, 
+water, and infrastructure, further exacerbating poverty. Throughout this period, Somalia’s natural 
+capital has been severely damaged and stressed, and political disagreements and divisions continue 
+to threaten the prospects for sustainable governance (World Bank, 2020). The outlook, however, is 
+not bleak; in the last decade, Somalia has made great strides in establishment of political, social, 
+environmental, and economic systems that are showing great signs of progress, however fragile. 
+This AdCom, informed by the Paris Agreement and related decisions, provides information on the 
+national circumstances that underpin Somalia’s adaptation efforts, the progress it has made on 
+adaptation, its adaptation priorities and plans, and the support it needs from the international 
+community. The report was informed by an extensive review of existing literature, including national 
+documents, as well as stakeholder consultations and validation. Preparation and submission of this 
+first AdCom to the UNFCCC is in response to the Paris Agreement, Article 7, paragraph 10. It is 
+submitted to inform synthesis reporting for the Global Stocktake. 
+The climate impacts that undermine Somalia’s economic and peacebuilding efforts include extreme 
+and frequent droughts, floods, desert locusts and other extreme weather events. Key sectors affected 
+include agriculture, water, ecosystem, energy, and human health. Responding to climate change 
+challenges and opportunities, the federal government has developed and enacted critical climate 
+change-relevant policies, legislative, and institutional frameworks. These include Somalia’s National 
+Climate Change Policy (2020), its Nationally Determined Contributions (2021) under the UNFCCC, the 
+Disaster Management Policy, and the Environment Policy, among others. Climate change adaptation 
+has also been recognized as critical to the Federal Government of Somalia’s development and climate 
+agenda, and has been included in the National Development Plan (NDP-9) 2020–2024 and the
+=== PAGE 5 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+5 
+ 
+ 
+ 
+ 
+Resilience and Recovery Framework. However, clear gaps remain in the policy and regulatory 
+landscape. At the international level, Somalia has signed and ratified the UNFCCC and its Paris 
+Agreement and is committed to taking measures to meet its obligations. 
+The country is currently in the early stage of its National Adaptation Plan (NAP) process and is 
+implementing the NAP Readiness Project funded by the Green Climate Fund and implemented with 
+the support of the United Nations Development Programme. This project aims to advance Somalia’s 
+adaptation planning and enhance capacities for implementation. To ensure the country maximizes the 
+benefits of the readiness support and avoids duplication of efforts, a NAP Framework has been 
+developed to guide the NAP process. The key principles guiding Somalia’s adaptation planning and 
+implementation are that the NAP is: country-driven; aligned with national development and 
+peacebuilding agendas; gender responsive; participatory; inclusive; and guided by best-available 
+science and local knowledge. 
+Somalia submitted its updated Nationally Determined Contribution to the UNFCCC in 2021 with 
+elaborate adaptation and mitigation priorities. Adaptation priority actions are listed for eight broad 
+sectors of the economy, including agriculture, water, disaster risk reduction, energy, and environment. 
+It is estimated that Somalia requires USD 58.5 billion to implement its adaptation actions for the 
+period 2021–2030. However, the country continues to be faced with significant financial, technical, 
+technological, and capacity constraints. Somalia will thus require significant support, investment, and 
+partnerships to achieve its adaptation goals in the short, medium, and long terms, and to protect its 
+population from the negative effects of climate change.
+=== PAGE 6 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+6 
+ 
+ 
+ 
+Table of Contents 
+1.0 Background and Context ..............................................................................................................9 
+2.0 National Circumstances .............................................................................................................. 11 
+2.1 Location and Demography ....................................................................................................... 11 
+2.2 Climatic Conditions.................................................................................................................. 12 
+2.3 Socio-economic Characteristics ............................................................................................... 12 
+3.0 Policy, Legal, and Institutional Frameworks ............................................................................... 14 
+3.1 Policies and Legal Frameworks ................................................................................................ 14 
+3.2 Institutional Arrangements and Governance............................................................................ 15 
+4.0 Climate Change Impacts, Risks and Vulnerabilities ..................................................................... 18 
+4.1 Climate Trends and Impacts .................................................................................................... 18 
+4.2 Climate Change and Sector Impacts ......................................................................................... 21 
+4.3 Vulnerability to Climate Change .............................................................................................. 24 
+5.0 Priority Adaptation Actions, Plans, and Goals ............................................................................ 25 
+5.1 Climate Change Adaptation Goals............................................................................................ 25 
+5.2 Priority Adaptation Actions by Sectors ..................................................................................... 25 
+5.3 Status of Somalia’s NAP Process .............................................................................................. 31 
+5.4 Linkage to Peacebuilding Initiatives ......................................................................................... 31 
+5.5 Linkage With COVID-19 Preparedness and Response Plan........................................................ 32 
+5.6 Contributions to Other International Frameworks ................................................................... 32 
+5.7 Gender-responsive and Inclusive Adaptation Action ................................................................ 33 
+6.0 Implementation of Adaptation Interventions ............................................................................. 35 
+6.1 Ongoing Adaptation Actions .................................................................................................... 35 
+6.2 Lessons Learnt and Good Practices .......................................................................................... 37 
+7.0 Support and Implementation Needs .......................................................................................... 39 
+7.1 Support Needs ........................................................................................................................ 39 
+7.2 Constraints and Gaps ............................................................................................................... 39 
+8.0 Monitoring, Evaluation, and Learning ........................................................................................ 41 
+9.0 Next Steps for Adaptation Process In Somalia ............................................................................ 42 
+10.0 Conclusion ................................................................................................................................ 44 
+References ....................................................................................................................................... 45 
+Annex. List of adaptation projects including related humanitarian projects..................................... 47
+=== PAGE 7 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+7 
+ 
+ 
+ 
+List of Figures 
+Figure 1. Map of Somalia ................................................................................................................. 11 
+Figure 2. Proposed institutional structure for climate change ................ Error! Bookmark not defined. 
+Figure 3. Rainfall performance in Somalia, 1901-2015 ...................................................................... 18 
+Figure 4. Projected annual average rainfall anomalies (2016–2085) .................................................. 19 
+Figure 5. Projected annual average temperature (2020–2076) ......................................................... 20 
+Figure 6. Average annual hazard occurrences for 1980–2020 in Somalia .......................................... 24
+=== PAGE 8 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+8 
+ 
+ 
+ 
+Abbreviations and Acronyms 
+ 
+AdCom 
+Adaptation Communication submitted to UNFCCC 
+CSOs 
+civil society organizations 
+DG 
+Director General 
+DINA 
+Somalia Drought Impact and Needs Assessment 
+FAO 
+Food and Agriculture Organization of the United Nations 
+FMS 
+Federal Member States 
+GCF 
+Green Climate Fund 
+INC 
+Initial National Communication to the UNFCCC 
+INDC 
+Intended Nationally Determined Contribution 
+IPCC 
+Intergovernmental Panel on Climate Change 
+LDC 
+least developed country 
+MEL 
+monitoring, evaluation, and learning 
+MoECC 
+Ministry of Environment and Climate Change 
+MRV 
+measurement reporting and verification 
+NAP 
+National Adaptation Plan 
+NAPA 
+National Adaptation Programme of Action 
+NCCP 
+National Climate Change Policy 
+NDC 
+Nationally Determined Contribution under the Paris Agreement 
+NDP 
+National Development Plan 
+NGOs 
+non-governmental organization 
+SDGs 
+Sustainable Development Goals 
+UNDP 
+United Nations Development Programme 
+UNFCCC 
+United Nations Framework Convention on Climate Change
+=== PAGE 9 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+9 
+ 
+ 
+ 
+1.0 Background and Context 
+Somalia is extremely vulnerable to climate change and variability. Much of the country's economy and 
+people’s livelihoods depend on climate-sensitive sectors, such as agriculture, grazing, water, energy, 
+tourism, wildlife, and health, which are becoming more vulnerable to climate change. Increases in the 
+intensity and magnitude of weather-related disasters like droughts and floods, combined with rising 
+temperatures and more unpredictable rainfall, continue to destroy livelihoods, aggravate conflicts, 
+increase the country’s internally displaced populations, and threaten the country’s socio-economic 
+development. 
+Almost 69% of Somalia's population lives below the international poverty line (FGS, 2020). 
+Additionally, the country has experienced over two decades of conflict and fragility, limiting the 
+capacity of the government to effectively respond to the growing impacts of climate change. Climate 
+impacts and conflicts double existing threats to Somali people's food and water security, productive 
+livelihoods, health, and human development. Interactions between the two also create a vicious cycle: 
+conflict increases climate vulnerability among the population, while climate impacts exacerbate 
+tensions and conflicts over natural resources. This all presents significant challenges to the population, 
+including those displaced by both violence and extreme weather events. All of these challenges are 
+underpinned by gender and social inequalities: women and youth, who make up more than half of 
+Somalia's population, are extremely vulnerable to climate change and are more likely to experience 
+poverty, making it difficult for them to recover from climate change impacts (FGS, 2013). Adequately 
+addressing these challenges will require an inclusive and gender-responsive approach to climate 
+action. 
+The country faces the challenge of rebuilding its state institutions in a recurring and protracted 
+conflict, predominantly concentrated in the southern part of the country. Thirty years of conflict have 
+fragmented the country, destroyed legitimate institutions, and created widespread vulnerability. This, 
+coupled with climate-related disasters, has undermined investment in key sectors such as agriculture, 
+water and infrastructure, further exacerbating poverty. In fact, Somalia’s National Development Plan 
+(NDP) recognizes climate variability, climate-related disasters, and conflict as key root causes of 
+poverty that must be addressed. 
+Since the adoption of a new constitution in 2012, Somalia has made great strides not only in terms of 
+stability but also institution building, including the establishment of political, social, environmental, 
+and economic systems that are showing great signs of progress, despite their continued fragility. The 
+country is gradually transitioning from insecurity and emergencies toward peace and stability, paving 
+the way for the development of long-term policies and strategies to achieving sustainable 
+development. This progress presents an opportunity to align the National Adaptation Plan (NAP) 
+process with the government’s continued efforts to support national development and peacebuilding 
+in the country. 
+The National Development Plan (2017–2019) and the subsequent NDP-9 (2020–2024) lay the 
+foundation for plans and policy developments aimed at achieving socio-economic transformation in a 
+sustainable and gender-sensitive approach. To address the climate change threat, Somalia has 
+developed several policies, including its National Adaptation Programme of Action (NAPA) (Federal
+=== PAGE 10 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+10 
+ 
+ 
+ 
+ 
+Government of Somalia, 2013), Somalia’s Resilience and Recovery Framework (RRF), and the National 
+Climate Change Policy (2020). 
+Beyond policies and plans, Somalia is also implementing a number of climate change adaptation 
+projects highlighted in Annex I of this report. The United Nations Development Programme (UNDP)- 
+funded Green Climate Fund (GCF) NAP Readiness Project will play an important role in strengthening 
+capacity and coordination at the national and state levels for the planning and implementation of 
+climate change adaptation in Somalia. As Somalia gradually transitions from insecurity and 
+emergencies to peace and stability, the NAP process is seen by the government as an opportunity to 
+align climate change planning with the national development and peacebuilding agendas in the 
+country. The NAP is also designed to address the priorities outlined in the Nationally Determined 
+Contribution (NDC) and is consistent with Somalia's NDP-9. This will require that any actions around 
+the NAP are aligned with broader national efforts to rebuild the country after decades of civil strife 
+and instability. 
+Through its NAP process, Somalia aims to develop a blueprint for adaptation and the coordination 
+mechanisms and institutional requirements for climate adaptation in the country. The NAP process, 
+led by the Ministry of Environmental and Climate Change, is still in its early stages. A NAP Framework 
+was developed in 2021 to guide the country’s NAP process. The Framework, developed through 
+extensive consultation with stakeholders, provides a vision, guiding principles, and general approach 
+that the government will take as it initiates its NAP process. 
+In line with the Paris Agreement and relevant decisions of the Conference of Parties (UNFCCC, 2018) 
+and considering the utmost importance of adaptation, the Federal Government of Somalia submits its 
+the first AdCom to the UNFCCC Secretariat to inform the first Global Stocktake and to facilitate 
+enhanced action.
+=== PAGE 11 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+11 
+ 
+ 
+ 
+2.0 National Circumstances 
+2.1 Location and Demography 
+Somalia is located in the Horn of Africa region and borders Ethiopia to the west, the Gulf of Aden to 
+the north, and Kenya to the southwest. Somalia's 3,333-kilometre coastline is the longest in mainland 
+Africa and endows the country with considerable marine resources. 
+Figure 1. Map of Somalia 
+ 
+Source: Mapsland, 2022 
+ 
+Somalia has a population of about 14.3 million, of which about 60% are nomadic and semi-nomadic, 
+and 60% live in rural areas (FGS, 2020). Like many countries in sub-Saharan Africa, Somalia's 
+population is predominantly young, with an estimated 75% under the age of 30 and nearly 50% under 
+the age of 12. Women make up just over half (50.14%) of the population. Life expectancy at birth is 
+estimated to be 58.3 years for both men and women. The average number of people per household 
+is about six. According to the 2017–2018 Somalia High Frequency Survey, Somalia is also rapidly 
+urbanizing, with 40% of its population living in urban areas, including Mogadishu. Nomads make up 
+26% of the population, and farmers make up 23%. 
+It is estimated that 69% of Somalis live under the international poverty line of USD 1.90 a day (FGS, 
+2020). Disaggregated data, along with the levels of severity of poverty, indicate that internally 
+displaced persons (IDPs) and the rural population (both agro-pastoralists and nomads) have the 
+highest rates of monetary poverty. An additional 10% of the population lives within 20% of the poverty
+=== PAGE 12 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+12 
+ 
+ 
+ 
+ 
+line, making almost 80% of the entire Somali population vulnerable to external shocks such as natural 
+disasters, conflict, and economic disruption, however small. 
+Somali households are mainly headed by men. About 81.3% of households are headed by men, and 
+women lead 18.7% of households. Households with children as heads account for 0.2% of households, 
+single-parent households account for 12.4%, and 66% of them are women (FGS, 2020). Nomadic and 
+rural communities have the highest proportion of households headed by men, at 92.9% and 81.3%, 
+respectively. Compared to nomads and rural communities, urban and refugee camps have a lower 
+percentage of households headed by men, at 77.6% and 75.6%, respectively (FGS, 2020). 
+Much work remains to be done to achieve gender equality in Somalia. According to the UNDP Gender 
+in Somalia brief (2014), Somalia's gender index was 0.776 in 2014 (up to 1 indicates complete 
+inequality). This puts Somalia in fourth place in the world. The report also states that Somalia 
+continues to be a highly unequal society in terms of income, gender, and geography. Climate change 
+and gender inequality are inextricably linked. Meanwhile, climate change has slowed progress toward 
+gender equality and poses challenges to poverty reduction efforts. Gender inequality, on the other 
+hand, can exacerbate the effects of climate change (AfDB, 2011). 
+ 
+2.2 Climatic Conditions 
+Arid and semi-arid areas account for more than 80% of Somalia's land and are characterized by 
+extreme weather patterns such as high average surface temperatures, long-term droughts, very 
+unstable rainfall, and strong winds. Rainfall in Somalia is generally light and volatile, with an average 
+annual rainfall of about 250 mm. The plains of the North Sea are very hot and dry, with an average 
+annual rainfall of less than 250 mm, while the South Sea average is about 400 mm, and the Southwest 
+Sea 700 mm. Rainfall in the central semi-arid region of the country is only 50 to 100 mm/year. Some 
+small areas along the coastal zone of Somalia are classified as sub-humid (FGS, 2013). 
+The country has two rainy seasons, Gu (April to June) and Deyr (October to December), and two dry 
+seasons, Hagaa (July to September) and Jilaal (January to March). The population relies on long Gu 
+rains and short but important Deyr rains for agricultural production, pasture regeneration, and 
+replenishment of rivers, dams, and groundwater supplies. Traditionally, Gu was the main rainy season. 
+However, long rains are declining overall, affecting the frequency of droughts and floods across the 
+Horn of Africa. Historical trends indicate that droughts occur regularly in Deyr at intervals of 2–3 years 
+and in consecutive seasons of Deyr and Gu at intervals of 8–10 years. This can lead to serious seasonal 
+difficulties, and the situation is getting worse. The country is increasingly suffering from repeated 
+droughts due to climate change and variability (World Bank). 
+2.3 Socio-economic Characteristics 
+Despite the devastating effects of the civil war and the 2016–2017 drought, Somalia's economy is 
+estimated to have grown 2.5% in 2017, and Somalia's gross domestic product (GDP) grew 2.8% in 2018 
+(FGS, 2020). The economy relies heavily on livestock, remittances, remittance companies, and 
+telecommunications. After growing at only 2% per year over the last 4 years, GDP per capita in 2017 
+was estimated at only USD 446 (World Bank, 2018). In 2016 alone, remittances were estimated at USD 
+1.2 billion to USD 2 billion, or 23% to 38% of GDP (World Bank, 2018). Remittances increase household 
+income and provide cushioning against shocks, but they are not only vulnerable to diaspora patterns
+=== PAGE 13 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+13 
+ 
+ 
+ 
+ 
+that change as new generations emerge but also mitigate the risks of the international financial system 
+(FGS, 2020). 
+Agriculture and livestock continue to dominate the economies of Somalia's provinces and autonomous 
+regions, accounting for about 65% of GDP and employment. Livestock accounts for about 40% of GDP 
+and more than 50% of export revenue (FGS, 2020). Other major products of the economy are fish, 
+charcoal, and agricultural products such as bananas, sugar, sorghum, and corn. According to the 
+Central Bank of Somalia, total imports of goods average about USD 460 million annually, which stands 
+above the levels prior to the 1991 civil war. In addition, annual exports of approximately USD 270 
+million exceeded the total pre-war export value (before 1991). But it still brings about USD 190 million 
+in trade deficit annually (AfDB, 2013). 
+The Somali economy is dominated by the informal sector, based on an international trade network 
+managed by a group of wealthy businessmen. Most of the population lives on a self-sufficient level 
+and is active in small businesses as traders and producers of cattle and grains. The private sector has 
+demonstrated resilience and vitality in areas such as telecommunications, livestock, finance, water, 
+electricity, and fisheries. Private telecommunications companies offer wireless services in most major 
+cities, offering the lowest international calling rates on the continent. In addition, the large Somali 
+diaspora community has played an important role in injecting large amounts of money into the 
+economy by leveraging a strained banking system.
+=== PAGE 14 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+14 
+ 
+ 
+ 
+3.0 Policy, Legal, and Institutional 
+Frameworks 
+3.1 Policies and Legal Frameworks 
+Somalia has made great strides in recent years in developing policy, legal, and institutional frameworks 
+related to climate change and the sustainable management of natural resources. The National 
+Development Plan NDP-9 (2020–2024) lays the foundation for climate change plans and policy 
+developments aimed at achieving socio-economic transformation using a sustainable and gender- 
+sensitive approach. Climate change is mainstreamed into the economic development pillar of the NDP, 
+with an emphasis on enhancing adaptation and building the resilience of the agriculture and livestock 
+sector to the challenges posed by climate change. NDP-9 outlines priority interventions in all climate- 
+vulnerable sectors of the economy that are needed to prevent and respond to the climate crisis and 
+its effects. These include investments in water management investments, social protection, and 
+renewable energy for Somalia. 
+Somalia's National Climate Change Policy (2020) provides governments with strategic directions for 
+climate change, especially adaptation and mitigation. This policy includes sectoral laws and policies 
+that provide a legal basis for specific activities that need to be evaluated for potential improvements 
+to address climate change challenges and improve their ability to seize new opportunities. This policy 
+enables better coordination of domestic climate protection activities and facilitates cooperation and 
+cooperation opportunities between national and quasi-national governments as well as with 
+development partners and both international and regional agencies. Similarly, this policy sets out a 
+national vision and policy that recognizes the importance of climate change, international agreements, 
+and domestic commitments to climate change. 
+The National Environment Policy (NEP) (2020) supports the country’s overall sustainable 
+development agenda. The NEP provides the necessary government policy toward its climate change 
+response, in particular how this relates to the protection of biodiversity, waste management, clean 
+technology, and adaptation to climate change. 
+Somalia’s Updated NDC (2021–2030), developed in the context of the Paris Agreement, signals the 
+country’s commitment to a low-emission and climate-resilient sustainable development pathway. The 
+updated NDC considers adaptation a high priority due to the vulnerability of Somalia’s economy and 
+population to climate change-related shocks. Climate change adaptation priorities in Somalia from 
+2021 to 2030 are based on adaptation baseline assessments and on Somali national and local 
+adaptation plans and policies. 
+The NAP Framework (2022) aims to address and coordinate Somalia's medium- to long-term adaptive 
+needs in a coherent and coordinated manner to guide and advance the Somali NAP process. This 
+framework details the vision, approach, themes, and guiding principles of the Somali NAP process. 
+This is intended to ensure that the NAP process does not contribute to the proliferation of planning 
+processes and related documents, but it can build the momentum needed for the NAP process and 
+maximize the benefits from adaptation projects.
+=== PAGE 15 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+15 
+ 
+ 
+ 
+ 
+The Somali National Disaster Management Policy (2018) aims to build community resilience and 
+readiness for disasters and emergencies. This policy aims to create a legal framework for disaster 
+management within national institutions while strengthening the coherence and coordination of 
+humanitarian assistance from international partners and donor organizations. It also provides 
+guidelines for incorporating disaster risk reduction into the national development planning process 
+and outlines prioritized investments in disaster risk reduction, early warning, mitigation, and recovery. 
+This policy outlines the institutional support needed and provides an entry point for leveraging the 
+synergies between disaster risk mitigation and climate change adaptation by developing a project 
+pipeline. 
+The Somalia Resilience and Resilience Framework (RRF) (2018) helps Somalia progress from early 
+drought recovery to long-term resilience and mitigation of disaster risk, with vulnerabilities caused by 
+frequent climate-related issues. It aims to break the cycle of humanitarian crisis. The 3–5-year 
+framework is primarily aimed at facilitating a more efficient financial response by the Somali 
+government and its development and humanitarian partners, using current funding methods and aid 
+coordination structures. The RRF prioritizes areas and outcomes in agriculture, food, water, sanitation 
+and hygiene (WASH), education, transportation, the environment, social protection, gender, 
+governance, and disaster management. 
+Other relevant policies and plans include: 
+ 
+ 
+Integrated Water Resources Management Strategic Plan 2019–2023 
+ 
+National Voluntary Land Degradation Neutrality Targets (2020) 
+ 
+The National Biodiversity Strategy and Action Plan (2015) 
+ 
+National Food Security and Nutrition Policy (2020) 
+ 
+The UN Strategic Framework Somalia (2020) 
+ 
+National Drought Plan (2020) 
+ 
+National Water Resource Strategy 2021–2025 
+ 
+Somalia National Action Programme for the UN Convention to Combat Desertification (2016) 
+ 
+3.2 Institutional Arrangements and Governance 
+The National Climate Change Policy (2020) identifies the following institutions that play an important 
+role in climate change response in Somalia: 
+ 
+Ministry of Environment and Climate Change (MoECC) 
+The Ministry of Environment & Climate Change (MoECC) was established in August 2022 by the new 
+Federal Government of Somalia to enhance the country’s environment and climate change response. 
+The Ministry provides overall policy coordination and guidance on the environment and climate 
+change and acts as the focal institution for all multilateral and regional environmental agreements. 
+The ministry will play a critical role in setting up effective strategies for protecting, managing, and 
+preserving natural resources and allocating budgets to develop awareness and knowledge among 
+citizens on the importance of the environment and climate change and coordinate relevant actions by 
+federal sector ministries and Federal member states. The Ministry replaced the Directorate of
+=== PAGE 16 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+16 
+ 
+ 
+ 
+ 
+Environment and Climate Change under the office of the deputy Prime Minister. The Ministry is 
+expected to further elaborate the enhanced institutional coordination structures building on those 
+created under the directorate. 
+ 
+Federal Member State Governments 
+Somalia’s federal system has established six federal member states (FMS) and one special status 
+region: Galmudug, Hirshabelle, Jubaland, Puntland, Somaliland, Southwest State and the special 
+region of Benadir. The FMSs have mandates and responsibilities over natural resources and local 
+environmental issues and oversee policy development and implementation in their respective regions. 
+Each FMS has a Ministry of the Environment responsible for environment and climate change matters. 
+ 
+Sectoral Ministries 
+The National Climate policy recognizes that climate change is a multi-sectoral effort and success 
+depends on the cooperation of government agencies/ministries responsible for various aspects of the 
+environment. The MoECC at the federal level is delegated to provide oversight and coordination of all 
+environmental issues. 
+ 
+National Climate Change Committee 
+The National Climate Change Committee is a high-level policy coordinating committee of multiple 
+stakeholders responsible for overseeing the overall implementation of climate change activities in 
+Somalia. It consists of the Prime Minister (or Deputy Prime Minister), the Director of the Department 
+of Environment and Climate Change, the Directors of ministries and agencies, the Ministers of the 
+Environment of Member States, the private sector and Civil Society representatives. 
+ 
+Cross-Sectoral Committee on Climate Change 
+The Cross-Sectoral Committee on Climate Change brings together officials from all departments of the 
+government working on climate change to share information and knowledge, consult, coordinate, and 
+agree, on the government's response to climate change. It is chaired by the Minister of Environment 
+and Climate Change. 
+ 
+Centre for Climate Change Research 
+This is a new Centre for Climate Change Research to be established to facilitate climate change 
+research, coordinate interdisciplinary research on climate change mitigation and adaptation, 
+vulnerability, and prediction, and disseminate research results to all interested parties. 
+ 
+Non-state Actors 
+Recognizing the important role of civil society in climate change governance in Somalia, the 
+government is working to establish mechanisms to strengthen the role and participation of civil society 
+organizations (CSOs). Similarly, Somalia's private sector is making progress in making various 
+environmental and climate-related investments, and the government engages them in climate change 
+debate and policy implementation.
+=== PAGE 17 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+17 
+ 
+ 
+ 
+ 
+Despite the ongoing development of regulatory and proposed institutional frameworks, the country 
+continues to face challenges related to its technical capacity to respond effectively to climate change. 
+These challenges include inadequate and unskilled staff, a low level of climate and disaster 
+management skills and staff knowledge, insufficient knowledge- and information-management skills, 
+inadequate physical assets and infrastructure, and limited financial resources, among others. The 
+country also lacks adequate operational coordination mechanisms for climate change, and there are 
+only weak links between MoECC and other government structures and sectors which hamper efforts 
+to address environmental and climate challenges. Overall, the ability of Somali government agencies 
+to function effectively and the overall capacity of Somali government institutions to effectively and 
+holistically address climate change remain limited, and this requires support.
+=== PAGE 18 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+18 
+ 
+ 
+ 
+4.0 Climate Change Impacts, Risks and 
+Vulnerabilities 
+4.1 Climate Trends and Impacts 
+Somalia lies between two subtropical ridges, the main meteorological pattern of which is caused by 
+seasonal monsoon winds. Due to differences in average national precipitation distribution, the north 
+is dry and semi-dry, and the south is moist. The predominantly hot and dry climate is suitable for 
+livestock, and some areas, such as those along the Juba and Shovel rivers, support farming. The 
+Intertropical Convergence Zone, monsoon winds and currents, Somali jet streams, tropical cyclones, 
+eastern waves, and the conditions of the adjacent Indian Ocean and Red Sea all affect Somalia's 
+climate patterns to varying degrees (Troll et al., 2017). 
+ 
+4.1.1 Rainfall Patterns 
+Somalia’s rainfall patterns for both the long (gu’) and short (deyr) rains from 1901–2015 indicate no 
+significant changes in rainfall amounts received (World Bank, 2020). However, other evidence points 
+to decreased precipitation associated with climate variability, especially in the last few decades, with 
+severe consequences for livestock and agricultural production in the country. 
+Figure 1. Rainfall performance in Somalia, 1901-2015 
+ 
+ 
+Source: FGS, 2021- Somalia Adaptation Baseline report 2020.
+=== PAGE 19 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+19 
+ 
+ 
+ 
+ 
+Projected rainfall patterns over Somalia from 2016 to 2085 point to increased rainfall variability, with 
+mean annual rainfall expected to rise by 3% by 2050 and 4% by 2080 (World Bank online portal). This 
+will have negative implications for Somalia’s fragile agriculture sector, which remains dependent on 
+predictable rainfall patterns. Also, the projections indicate potential seasonal rainfall variability (both 
+Gu and Deyr ), especially for Central and Southern Somalia (Ogallo et al., 2017). 
+Figure 4. Projected annual average rainfall anomalies (2016–2085) 
+ 
+ 
+4.1.2 Temperature Patterns 
+Over the last 30 years, Somalia has experienced an increase in average annual temperature. The 
+average annual temperature is almost 30°C nationwide, which has a great impact on the agricultural 
+and pastoral communities. Increased minimum and maximum temperatures have been experienced 
+in the Lower Juba region of Somalia, aggravating the problems for poor households in an already- 
+vulnerable region through increased shortages of water and pasture and increased desert locust 
+infestation, with increased temperatures also favouring the faster breeding of disease vectors. 
+Projections indicate that Somalia is likely to experience increased temperature fluctuations over the 
+next 50 years (World Bank online Climate Change portal). By the year 2080, the mean temperature 
+over Somalia is projected to increase between 3°C and 4°C, a significant rise that will have serious 
+implications for the agriculture and livestock sector, affecting countless livelihoods and foreign 
+exchange earnings. Also, other critical sectors, including water, health, disaster risk management, and 
+environment, and vulnerable populations such as women, children, and IDPs, risk experiencing 
+extended droughts, intermittent floods, storms, and diseases, among other climate shocks, further 
+increasing vulnerability in the country (Ogallo et al., 2018).
+=== PAGE 20 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+20 
+ 
+ 
+ 
+ 
+Figure 5. Projected annual average temperature (2020–2076) 
+ 
+ 
+4.1.3 Recurrent and Severe Droughts 
+More than 80% of Somalia is made up of fragile arid and semi-arid ecosystems that make the country 
+very vulnerable to climate change impacts. Somalia has been experiencing recurrent droughts for the 
+last 60 years, and their frequency and severity have been on the rise, especially in the last few decades. 
+Historically, drought trends in Somalia occur every 2 to 3 years during the Deyr season (October- 
+December) and 8 to 10 years during the Deyr and Gu consecutive seasons (April–June). This has 
+prolonged the seasonal difficulties for millions of people who depend on rainfed agriculture, livestock, 
+and fishing (FGS, 2018). The report further elaborates that between 1918 and 1975, only 10 major 
+droughts were registered in Somalia with significant escalation experienced in the last three decades, 
+although droughts also occurred in 1979–80, 1983–86, and 1989–1990 leading to loss of life, 
+livelihoods, and displacement. 
+The 1992 famine killed nearly 300,000 people in Somalia, with the majority being children that died 
+because of malnutrition and starvation. Hundreds of thousands were also forced to migrate (Clark, 
+1992). Other severe droughts occurred in 1999, 2001, 2004, 2010–2011, the latter being one of the 
+worst droughts in the Horn of Africa for over 60 years, killing more than 250,000 people, mostly 
+children under the age of 5 and resulting in the destruction of livelihoods, particularly in the agriculture 
+and livestock sectors (FGS, 2018). 
+This resulted in a humanitarian catastrophe; a massive increase in the number of people unable to 
+meet their basic needs to survive. The drought pushed nearly a million Somalis into Ethiopia and 
+Kenya, creating a humanitarian crisis in the refugee camps within the host countries also devastated 
+by the famine. The crisis was exacerbated by ongoing conflict in Somalia and subsequent delayed 
+humanitarian actions, leading to a massive loss of life (Seal & Bailey, 2013). 
+The 2016–2017 drought resulted in a shortage of water for livestock and agricultural production thus 
+leading to loss of livestock and crop production (FGS, 2018). The drought extended to 2018, 
+exacerbating food insecurity and malnutrition, especially among children under 5 years. In 2019, 
+Somalia experienced another drought, which reduced crop and livestock productivity in the country. 
+In 2020 Somalia witnessed floods and droughts in different parts of the country coupled with 
+insecurity, a swarm of desert locusts, and the COVID-19 pandemic, undermining overall food security
+=== PAGE 21 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+21 
+ 
+ 
+ 
+ 
+targets in the country. The country is currently experiencing prolonged droughts—the worst in 40 
+years—which have affected millions of people. 
+ 
+4.1.4 Flooding 
+Somalia has been experiencing climate extremes since the 1960s, leading to destruction and loss of 
+lives. Climate change-related floods were experienced as early as 1961, 1977, 1981, 1997–98, 2005, 
+2006 and 2009, 2011, 2013, 2015, 2016, 2018, and 2019 (Federal Government of Somalia, 2013; Food 
+and Agriculture Organization of the United Nations [FAO] SWALIM, 2019). Floods occur in many parts 
+of the country, especially in the heavy rainy season, but mostly in the Gu rainy season, especially in 
+the central Shabelle and Hiran regions. This resulted in massive migration, loss of life, and destruction 
+of infrastructure. The increased frequency of floods is of significant concern, with flooding increasingly 
+wreaking havoc in different parts of the country. 
+Heavy rains in 2016 in both Somalia and Ethiopia, for example, caused massive flooding, affecting 
+many people in the Belet Weyne and Hiran regions, leading to the loss of livelihoods, infrastructure, 
+and livestock (UN OCHA 2021). In 2018, torrential rains and river flooding were estimated to have 
+affected more than 770,000 people and displaced 230,000 persons from their areas of residence, with 
+residents of Belet Weyne town accounting for the majority of the displaced (UN OCHA, 2021). 
+ 
+4.1.5 Cyclones 
+Somalia experiences tropical cyclones once a year, with serious implications for areas along the long 
+coastline. Heavy rains and strong winds cause flash floods along the coast and inland. These cyclones 
+have resulted in increased mortality and destruction. For example, Cyclone Gati landed in the Bari 
+region of Puntland in November 2020, affecting 120,000 people, expelling and killing many. Cyclones 
+also caused livelihood damage, livestock deaths, building and infrastructure damage, and farm and 
+fishing gear damage. 
+ 
+4.2 Climate Change and Sector Impacts 
+Climate change undermines basic livelihood sustainability and threatens household food security, 
+access to water, gender equality, health, and has other socio-economic impacts. Women, children, 
+IDPs, and poor rural populations make up the majority of those most vulnerable to sectoral climate 
+change impacts in Somalia. Climate shocks, especially extended droughts and floods, exacerbate 
+existing vulnerabilities and marginalization of these groups, leading to more disparities. Drought 
+exposure for long periods continues to undermine the limited adaptive capacities of the vulnerable 
+groups—especially women, who have limited social capital. Instability and conflicts exacerbate these 
+challenges. 
+Without proper adaptation measures, the projected rise in rainfall and temperature will continue to 
+undermine the safety of Somalia’s ecosystems and human health (Lobell et al., 2007). The need to 
+strengthen Somalia's ability to cope with disasters such as long-term droughts, floods, storms, and 
+desert locusts is important for implementing national development plans within a defined timeline 
+(IUCN, 2006). Below is a brief description of the effects of climate change on the country’s vulnerable 
+sectors.
+=== PAGE 22 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+22 
+ 
+ 
+ 
+ 
+a. Agriculture 
+Agriculture (crop, livestock, and fisheries) continues to be the backbone of the Somali economy, 
+accounting for more than 75% of GDP and employing millions directly and indirectly, especially in rural 
+areas (Mohamed & Nageye, 2020). Livestock is the largest contributor to livelihood in Somalia, which 
+is based on pastoral and agro-pastoral systems. Due to its dependence on predictable rainfall patterns 
+and favourable temperatures, the sector is very susceptible to climate variability. Somalia's 
+agricultural production faces many challenges in addition to the variability of rainfall, including 
+repeated droughts, continuous soil degradation, frequent pest outbreaks, and lack of effective 
+research and extension services. These issues can result in decreased pasturelands, limited water 
+storage capacities, the death of livestock, decreased productivity, reduced incomes, massive crop 
+failures, food insecurity, and loss of livelihoods. 
+ 
+b. Water 
+Climate change-related seasonal and annual rainfall variations increasingly hamper access to 
+freshwater resources, leading to water shortages for livestock, agriculture, and human consumption. 
+These increased water shortages often exacerbate conflict over access and control of water points, 
+especially among pastoral communities during drought periods. Overall, climate change impacts the 
+water sector by reducing the quantity and quality of available water, including through floods and 
+sedimentation, resulting in higher costs for fresh water in both urban and rural areas of Somalia 
+(Akkaraboynia & Adem, 2018). Women and girls are especially vulnerable. They are forced to travel 
+long distances in search of water and food for their families, depriving them of educational 
+opportunities and improving food security for families facing climate change (Lwanga-Ntale & Owino, 
+2020). 
+ 
+c. Health 
+Health-related vulnerabilities to climate change is determined by environmental, economic, and 
+societal contexts. These include: climate conditions, health system infrastructure, disaster risk 
+preparedness and mitigation mechanisms, and general socio-economic resources as well as individual 
+factors such as education, income, and health status. Climate change continues to exacerbate 
+Somalia's existing health problems, shifting much of the burden to vulnerable people, who are forced 
+to deal with climate-related health problems, including infectious diseases, such as malaria and 
+malnutrition. 
+Climate change impacts on the public health sector in Somalia are particularly challenging given the 
+destruction of much of Somalia’s health infrastructure and the challenges faced by the government, 
+non-governmental organizations (NGOs), and health sector partners in meeting public health needs, 
+which exposes vulnerable populations to a high disease burden and malnutrition cases. During 
+drought periods, a significant majority of the population faces household food insecurity, leading to 
+increased malnutrition, mostly among lactating mothers and children under 5 years of age. Riverine 
+and agro-pastoralist groups and IDPs register a higher nutritional vulnerability to climate change- 
+related shocks—floods, drought, displacement, and disease outbreaks—in comparison to urban 
+dwellers. Furthermore, the lack of reliable water supply and sanitation services increases the risk of 
+infectious diseases, such as cholera, diarrhea, acute respiratory infections, typhoid fever, and measles.
+=== PAGE 23 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+23 
+ 
+ 
+ 
+ 
+d. Biodiversity 
+Climate change has significant implications for many aspects of Somali biodiversity, including its 
+impact on ecosystems, their components, genetic diversity within species, and ecological interactions. 
+Somalia's biodiversity is characterized by a number of drought-adapted flora, including deciduous 
+acacia and Komifora species, and undergrowth species such as Euphorbiaceae and aloe. Climate 
+change destroys people’s livelihoods and, compounding the challenges associated with the country’s 
+civil conflict, increases pressure on forests, wetlands, and other critical ecosystems to meet needs 
+such as access to water, firewood, charcoal, medicinal plants, and construction materials, among 
+others. In addition, changes in temperature and precipitation rates are leading to increased numbers 
+of pests and pathogen infestation, flooding, soil erosion and loss of nutrients, illegal hunting for bush 
+meat, wildlife migration, reduced aquatic reproduction, and productivity of habitat, all of which 
+threaten biodiversity and the extinction of local species. 
+ 
+e. Forestry 
+Somalia has between 6.4 million and 7.1 million hectares of forest resources, covering about 10% of 
+the country's territory. Most of these are classified as sparse forests, with closed forest coverings 
+accounting for less than 3% of the area, emphasizing the arid nature of Somalia's geography (FAO, 
+2015). Before the onset of the country’s civil conflict, total forest cover was estimated at 62% of 
+Somalia’s landmass—a precipitous decline over the past 30 years. The most critical vegetation in the 
+country includes tree and woody species used during extended drought periods, throughout which 
+they support the livestock sector’s drought and risk management strategies (FAO 2015). Annually, 
+Somalia has lost about 1% of its forest cover due to overexploitation, weak governance, and poor 
+enforcement mechanisms coupled with climate change-related droughts that undermine overall 
+forest density growth, increase the risk of bushfires, and raise the risks of desertification. This leads to 
+reductions in the already-fragile woody cover and subsequent degradation of forest ecosystems in 
+Somalia. Soil erosion is also contributing to declining forest productivity, as are climate change-related 
+floods, desert locust infestations, and storms. 
+ 
+f. Energy 
+Over 80% of Somalia’s population depends on biomass for their energy needs, namely charcoal and 
+firewood (AfDB 2015). The high dependence on biomass energy is the key driver for deforestation in 
+the country, further exacerbating climate change impacts. Poor rural populations directly depend on 
+the natural environment to access firewood, building materials, and charcoal, which puts direct 
+pressure on Somalia’s forests, reducing its critical carbon sinks. Importantly, climate change is 
+impacting the energy sector in Somalia through rainfall variations, with changes in precipitation and 
+increased risk of drought influencing patterns of energy and water use. Also, climate change-related 
+flooding and intense storms continue to damage the country’s vulnerable power infrastructure, 
+affecting the overall productivity of the energy sector. 
+ 
+g. Coastal Marine Environment and Fisheries 
+The Somali coast is considered particularly vulnerable to climate change given the unique 
+characteristics of its marine ecosystem. Marine species are exposed to extreme environmental 
+conditions, increasing illegal fishing and overexploitation, pollution, climate-related changes in water 
+temperature, ocean acidification, oxygen deficiency, and other factors. This has led to changes in
+=== PAGE 24 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+24 
+ 
+ 
+ 
+ 
+fishing patterns and species in particular resulting from sea level rise, extreme storms, and changes in 
+ocean circulation. 
+Also, the sea level rise associated with climate change erodes and inundates coastal ecosystems and 
+eliminates wetlands, threatening the livelihoods of coastal communities and destroying rich 
+ecosystems (Jacobs et al., 2021). Climate change is resulting in coastal flooding and disruption of 
+coastal and marine ecosystems. 
+ 
+4.3 Vulnerability to Climate Change 
+In Somalia, the effects of climate change, such as droughts, floods, pests, and storms, pose the 
+greatest threat to the country. The chart below provides annual hazard occurrences in Somalia. 
+Climate-related hazards such as flooding, droughts, storms, and epidemics are more frequent in the 
+country. 
+Figure 2. Average annual hazard occurrences for 1980–2020 in Somalia 
+ 
+ 
+Source: World Bank’s climate change knowledge Portal. 
+Factors that contribute to the country’s vulnerability to climate change include high levels of poverty, 
+political instability and related security issues, poor institutional capacity and lack of disaster 
+preparedness, poor infrastructural development, lack of information on climate change among 
+communities, and rising costs of living among others. Children, women, people with disabilities, the 
+elderly, internally displaced persons, and the poor are particularly vulnerable to the effects of climate 
+change (Federal Government of Somalia, 2013).
+=== PAGE 25 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+25 
+ 
+ 
+ 
+5.0 Priority Adaptation Actions, Plans, and 
+Goals 
+5.1 Climate Change Adaptation Goals 
+Climate change adaptation has been recognized as critical to the Federal Government of Somalia’s 
+climate agenda through the NAPA (Federal Government of Somalia, 2013), NDP-9 (2020–2024), 
+National Climate Change Policy 2020, RRF and—importantly—the National Adaptation Planning 
+process. A NAP framework has been developed to guide the Federal Government of Somalia in 
+developing, coordinating, and implementing various policies, plans, strategies, and laws that will help 
+meet medium- to long-term adaptation needs as the country pursues development and peace 
+building. 
+The primary objective of climate change adaptation actions in Somalia is to protect people, improve 
+their adaptability and livelihoods, and protect the country's overall development toward economic 
+progress, peace, and people's well-being. Somalia's goal is to pursue development plans and programs 
+in which adaptation to climate change reduces vulnerability and contributes to resilient economic 
+growth in the face of extreme climate events such as droughts and floods. Climate change affects all 
+parts of the country, so the solution requires the participation of all stakeholders. In addition, 
+Somalia's response to climate change aims to integrate measures to empower women and children's 
+well-being, as well as to improve the well-being of the elderly, disabled, and displaced. In the short 
+term, the goal is to build the capacity needed to mainstream climate change adaptation into all public 
+and private development initiatives. These efforts are built on current best practices for integrating 
+and scaling up these interventions. 
+ 
+5.2 Priority Adaptation Actions by Sectors 
+As described in its NDC, Somalia aims to enhance adaptive capacity, strengthen resilience, and reduce 
+vulnerability to climate change through mainstreaming climate adaptation into sustainable 
+development. The priority areas for climate change adaptation in Somalia from 2021 to 2030 are 
+informed by technical assessment and based on Somalia's national and sub-national adaptation plans 
+and policies, including the National Development Plan 2017–2019 and the subsequent NDP-9 (2020– 
+2024), and the NAPA (2013) that provide a climate change adaptation strategy and a plan. Somalia 
+aims to improve adaptative capacity, strengthen resilience, and reduce climate change vulnerability 
+by integrating climate adaptation into sustainable development (FGS, 2021). Somalia's 2021–2030 
+climate change adaptation priorities are based on technical assessments, NDP-9 (2020–2024), NAPA 
+(2013), and other sectoral policies and plans. 
+In addition, the country has begun its NAP process and will prepare a detailed NAP document to 
+further elaborate on medium- to long-term adaptation priorities. NAP will be the primary guide tool 
+for implementing national adaptation priorities. It provides a reference point for summarizing diverse 
+adaptation planning efforts from different sectors and scales of decision making. Alignment between 
+the NAP process and existing policies and strategies—including on adaptation with peacebuilding, 
+conflict, and gender equality—is essential. Key other principles elaborated in the NAP Framework
+=== PAGE 26 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+26 
+ 
+ 
+ 
+ 
+include gender-responsive adaptation planning and implementation as well as consistency with 
+ongoing peacebuilding efforts. 
+As shown in the table below, the main priority areas for adaptation actions and resilience investment 
+for the country are as follows: agriculture and food security; water and public health; disaster 
+preparedness and response; coastal and marine environment and fisheries; energy; forestry and 
+environment; human settlements; and infrastructure.
+=== PAGE 27 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+27 
+ 
+ 
+Table 1. Priority adaptation actions identified under Somalia’s Updated NDC 
+ 
+# 
+Proposed adaptation actions 
+Estimated investment 
+required (USD, 2021–2030) 
+1. 
+Agriculture and food security 
+1.1 Livestock sector 
+1.1.1 
+Strengthen livestock institutions at FMSs levels and enhance capacities of staff on climate change 
+1.1.2 
+Improve the livestock value chains 
+1.1.3 
+Build livestock market sheds in the main cities 
+1.1.4 
+Support development of Livestock strategies and policies 
+1.1.5 
+Reopen central veterinary laboratories in Mogadishu and invest in veterinary services to address climate-related diseases 
+1.1.6 
+Development necessary infrastructure to increase resilience 
+1.1.7 
+Restocking program for pastoralists & agro-pastoralists 
+1.1.8 
+Promote weather-based insurance products for pastoralists 
+1.1.9 
+Establish disease-free zones to enhance quality for export of livestock products 
+1.1.10 
+Improve animal productivity and animal breeds to increase resilience to climate change 
+1.1.11 
+Implementing feed and fodder production and sustainable rangeland management program to reach livestock feed 
+security system to mitigate prolonged recurrent drought 
+1.1.12 
+Improve access to weather information services 
+1.2 
+Crop production 
+1.2.1 
+Establish agricultural institutions to research drought-resistant crop varieties 
+1.2.2 
+Provision of seeds and seedlings that are drought resistant to farming communities 
+1.2.3 
+Put in place climate-responsive policies and regulatory frameworks 
+1.2.4 
+Develop irrigation systems, including dams, channels, and water reticulation systems 
+1.2.5 
+Improve and establish marketing systems and infrastructure for farming communities, e.g., cooperatives and cooling 
+systems for perishable goods 
+1.2.6 
+Build marketing facilities and infrastructure for crops and livestock in urban centres 
+USD 20 Billion
+=== PAGE 28 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+28 
+ 
+ 
+ 
+1.2.7 
+Support small and medium-sized enterprises to promote value addition of the crop and livestock products, e.g., 
+cooling facilities 
+1.2.8 
+Promote weather-based insurance products for farmers and pastoralists 
+1.2.9 
+Invest in veterinary services to address climate-related diseases 
+1.2.10 
+Establish disease-free zones to enhance quality for export of livestock products 
+1.2.11 
+Build adaptation capacity in climate-resilient agronomic practices for smallholder farmers 
+1.2.12 
+Improve animal productivity and animal breeds to increase resilience to climate change 
+1.2.13 
+Manage grazing areas and rangelands in a sustainable manner and enhance the development of livestock infrastructures 
+and services, including feed storage 
+1.2.14 
+Improve access to agro-weather information services 
+2. 
+Water resources management and public health 
+2.1 Conduct assessment of the water system 
+2.2 Enhance water conservation and management through better institutional arrangements 
+2.3 Establish and maintain strategic water reserves, from mega-dams to shallow wells, to capture runoffs 
+2.4 Develop solar-powered boreholes 
+2.5 Invest in basic and portable water supply for households 
+2.6 Construct and operationalize water pans 
+2.7 Promote rainwater harvesting and conservation of water, includingimproved water use efficiency 
+2.8 Develop drainage and storm water systems in urban centres,especially Mogadishu, Baladweyne, Jowhar, and Kismayu 
+2.9 Implement an integrated water resources management strategy 
+2.10 Launch public health awareness campaign, targeting rural areas on climate change effects and public health-related issues 
+2.11 Establish and operationalize public health facilities in rural areas 
+USD 15 Billion 
+3. 
+Disaster preparedness and management 
+1.1 Establish effective early warning systems and disaster risk management policies to improve resilience to extreme weather 
+events 
+1.2 Establish meteorological networks to enhance early warning systems 
+USD 10 Billion
+=== PAGE 29 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+29 
+ 
+ 
+ 
+1.3 Development of necessary infrastructure to increase the resilience of communities, infrastructure, and ecosystems to 
+droughts and floods 
+1.4 Promote enhanced disaster coordination and information-sharing between relevant ministries and stakeholders 
+1.5 Establish disaster-response systems for the country, including facilities and settlements for IDPs 
+1.6 Strengthen the adaptive capacity of the most vulnerable groups, including women, children, elderly persons, and IDP 
+communities, through social safety nets 
+1.7 Extend livelihood support for the vulnerable groups 
+4 
+Coastal, marine environment, and fisheries 
+4.1 Develop and implement coastal zone policy, strategy and management plan 
+4.2 Improve capacity for fishers in terms of equipment, nets, and boats 
+4.3 Support the private sector to establish cooling systems for coastal areas, including appropriate equipment for storage and 
+transportation of goods 
+4.4 Invest in value addition for fisheries 
+4.5 Enhance the resilience of the fisheries value chains by promoting climate-smart fisheries development 
+4.6 Promote livelihood diversification within coastal communities and promote community conservation efforts 
+4.7 Improve monitoring and early warning systems of both sea level rise impacts and extreme weather events 
+4.8 Design and implement a mangrove and shoreline restoration program 
+4.9 Strengthen key fisheries management services for sound development and resilient management of the fishery sector 
+4.10 Invest in research and development in the sector and establish appropriate training centres 
+USD 3 Billion 
+5. 
+Energy 
+5.1 Enhance energy investments to adopt diversified, adaptive energy technologies for sustained livelihoods 
+5.2 Develop national grid systems and increase the generation capacity to address the widespread energy poverty 
+5.3 Increase production of non-forest biomass fuel briquettes, e.g., from agricultural waste, sawdust, and human waste, 
+with emphasis on empowering women and youth 
+5.4 Improve the adoption of energy-efficient kilns and cooking stoves 
+5.5 Integrate climate change adaptation in energy investments and infrastructure 
+5.6 Develop and adopt policy and legislative frameworks to promote clean energy solutions 
+USD 5 Billion
+=== PAGE 30 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+30 
+ 
+ 
+ 
+6. 
+Forestry and environment 
+6.1 Increase agroforestry and reforestation activities in degraded forests 
+6.2 Enhance the participation of women and youth in activities related to adaptation and environmental conservation to 
+empower them and enhance their adaptive capacity 
+6.3 Promote climate change-resilient traditional and modern knowledge of sustainable pasture and range management systems 
+6.4 Increase climate change communication, education and public awareness raising 
+USD 300 million 
+7. 
+Human settlements 
+7.1 Promote a green and climate-resilient building industry 
+7.2 Enhance awareness on the impacts of climate change in the context of human settlements promoting sustainable land 
+management systems and climate-sensitive human settlement developments 
+7.3 Facilitate provision of, and access to adequate, affordable and climate-sensitive shelter to vulnerable groups, including IDPs 
+USD 200 million 
+8. 
+Infrastructure including roads and bridges 
+8.1 Climate-proof infrastructure developments 
+8.2 Establish climate-resilient road infrastructure networks and drainage systems 
+8.3 Strengthen the climate resilience of public and commercial-sectorbuildings 
+8.4 Maintain and upgrade roads and other infrastructure with appropriate drainage systems to cope with flooding 
+USD 5 Billion 
+Grand Total 
+USD 58.5 billion 
+ 
+Source: Adopted from Somalia Updated NDC (2021).
+=== PAGE 31 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+31 
+ 
+ 
+5.3 Status of Somalia’s NAP Process 
+Adapting to climate change is crucially important in Somalia’s pursuit of sustainable development and 
+stability. To date, climate adaptation actions in Somalia have been implemented by sector ministries, 
+FMS, and CSOs, with support from development partners. There is, however, limited scale of 
+implementation and coordination of actions. 
+The newly formed MoECC is the overall policy and technical body responsible for coordinating climate 
+change measures and implementing climate change policies. However, MoECC's role is hampered by 
+the lack of technical, human and financial capacity to effectively carry out its mission. This has resulted 
+a fragmented response to climate crises and climate-related humanitarian emergencies, as well as a 
+weak link between humanitarian response and long-term adaptation and development. 
+The Government of Somalia recognizes the importance of adaptation planning and the important role 
+of its NAP in addressing these challenges. Somalia is currently in the early stages of the NAP process 
+and is implementing a NAP Readiness project funded by the GCF and undertaken by the UNDP. The 
+overall goal of the Readiness project is to strengthen national and state capacity and coordination for 
+the planning and implementation of climate change adaptation in Somalia. The results of the project 
+are as follows: First, the capacity for domestic institutional coordination and adaptation planning has 
+improved. Second, capacity building for climate change adaptation planning at the state level. Third, 
+strengthening financial plans for adapting to climate change (GCF Readiness Project document 2020). 
+Through its outcomes and results, the project aims to serve as a foundation and support the 
+establishment of a NAP process to guide future climate change adaptation strategies and projects. 
+The NAP report and process will identify Somalia’s medium- and long-term adaptation needs and will 
+be informed by the latest assessment and reports. To guide the NAP process, a NAP Framework has 
+been developed that lays out the NAP’s vision, guiding principles, and approach, among other things. 
+It is designed to inform the development of Somalia’s NAP process at the outset of the readiness 
+project. Some of the priority themes of Somalia’s NAP process include enhancing vertical and 
+horizontal integration, alignment of adaptation with national development and peacebuilding 
+processes, and that the NAP be participatory and inclusive, take a whole-of-society approach, and be 
+gender responsive. 
+ 
+5.4 Linkage to Peacebuilding Initiatives 
+Although Somalia's security situation has improved in recent years, it remains vulnerable and the 
+improvement could be reversed if it is not preserved and strengthened. Climate change effects, such 
+as droughts leading to lack of water and grazing, are recognized as the main causes of conflict in the 
+Somali nomadic community. Repeated droughts and associated environmental shocks have 
+contributed to increased poverty, evacuation, increased biodiversity loss, and, ultimately, increased 
+conflict (FGS, 2020). 
+To strengthen the sustainability of both climate adaptation and peacebuilding efforts, it is essential 
+that conflict-sensitive, inclusive, and gender-responsive climate action is integrated into the 
+peacebuilding and state-building efforts and vice versa. Some of the key policies on peacebuilding 
+efforts in Somalia and the links to climate change adaptation include the National Reconciliation 
+Framework, the National Stabilization Strategy, and the Wadajir Framework for Local Governance
+=== PAGE 32 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+32 
+ 
+ 
+5.5 Linkage With COVID-19 Preparedness and Response Plan 
+The Somalia COVID-19 Country Preparedness and Response Plan is a joint plan by UN agencies and 
+cluster partners, including NGOs, to address the direct public health and indirect immediate 
+humanitarian and socio-economic impacts of the COVID-19 pandemic. The plan recognizes climate 
+change as a threat multiplier aggravating the already-fragile situation, increasing threats to food 
+security and livelihoods and thus social tensions and conflicts, increases in domestic violence, human 
+rights violations, violence against vulnerable populations, as well as inter- and intra-communal and 
+clan violence. As the country undertakes economic recovery plans, it is essential that climate change 
+adaptation and resilience building be incorporated into these planning and budgeting processes. This 
+can be included in all vulnerable sectors that are also a priority in recovery efforts, including water, 
+agriculture, and livestock, energy, and the informal sector. Additionally, it is important that 
+international funding for economic recovery in the wake of COVID-19 be guided by Somalia’s 
+adaptation and resilience priorities. 
+ 
+5.6 Contributions to Other International Frameworks 
+Somalia’s adaptation plans and actions will be designed to support the achievement of other related 
+and complementary commitments it has made on the international stage. 
+Sustainable Development Goals (SDGs)– The Federal Government of Somalia's adaptation actions 
+contribute to other international frameworks as well. The NDP 9, the NAPA 2013, Somalia’s Initial 
+National Communication (INC) (2018), the National Climate Change Policy, the NAP Framework, and 
+the Updated NDC for Somalia all contribute to the achievement of the SDGs. The NDP 2020–2024 
+identifies climate change as one of the leading causes of national poverty and emphasizes climate- 
+resistant economic growth (SDG 13 on Climate Change actions). The plan recognizes the country’s 
+vulnerabilities to climate change impacts, such as frequent and intense floods and droughts, which 
+exacerbate displacements, conflicts, and poverty in the country. The plan recognizes those suffering 
+from multidimensional poverty as the most vulnerable to the impacts of climate change and the need 
+to mainstream climate change into the economic development pillar of the plan, with a particular 
+emphasis on enhancing adaptation and building resilience in the agriculture and livestock sector (SDG 
+1: No Poverty, SDG 2: Zero Hunger, SDG 3: Good Health and Well-being). NDP-9 outlines priority 
+interventions in each of the three pillars and all vulnerable sectors of the economy to both prevent 
+and respond to the climate crisis and its effects. These include water management investments (SDG 
+6: Clean Water and Sanitation), social protection (SDG 11: Sustainable Cities and Communities), and 
+investment in renewable energy for Somalia (SDG 7: Affordable and Clean Energy). 
+Convention on Biological Diversity – The Federal Government of Somalia is committed to its 
+obligations under the Convention on Biological Diversity (CBD) and recognizes the important role that 
+ecosystem-based approaches to climate change adaptation can play in helping Somalia fulfill its CBD 
+commitments. The National Biodiversity Strategy and Action Plan for Somalia (2015) provides a 
+strategic and action framework that aims to systematically rehabilitate and conserve Somalia's 
+biodiversity. The synergies between climate and biodiversity agendas are of the utmost importance 
+to secure a sustainable future. Somalia’s National Environment Strategic Action 2021–2025, the 
+Updated NDC, the NAPA, and the NDP 2020–2024 all consider the importance of biodiversity 
+conservation and the role of adaptation in meeting the convention commitments.
+=== PAGE 33 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+33 
+ 
+ 
+Convention to Combat Desertification – Somalia developed the National Action Programme for the 
+UN Convention to Combat Desertification in 2016 and the National Voluntary Land Degradation 
+Neutrality Targets in 2020 to address the challenge of increasing land degradation and risks of 
+desertification. The two documents recognize the critical role adaptation plays in meeting the target 
+of sustainably managing Somalia’s land resources. 
+Sendai Framework for Disaster Risk Reduction – The Government of Somalia is moving forward to 
+fulfill its commitments under the Sendai Framework for Disaster Risk Reduction through the 
+implementation of national disaster risk management policies and strategies. One of the major 
+milestones achieved since the Sendai Framework for Disaster Risk Reduction was approved in March 
+2015 is the creation of an independent government agency, the Ministry of Humanitarian Disaster 
+Management. Similarly, Somalia's DRR is guided by the country's DRM strategy. This strategy aims to 
+guide multi-hazard reduction and disaster risk management. 
+ 
+5.7 Gender-responsive and Inclusive Adaptation Action 
+The Federal Government of Somalia has made efforts to integrate gender into development and 
+climate change response through policies, plans, measures, and strategies. For example, the NAP 
+Framework is guided by the principle of gender responsiveness in climate adaptation planning, 
+implementation, and monitoring and evaluation in the country. Somalia’s Updated NDC 2021 
+considers the need for identifying challenges to the empowerment and participation of women and 
+other vulnerable groups in contributing to each sector's targets, existing gaps in resources, and the 
+opportunities for policy articulation to strengthen the integration of gender equality into NDC 
+planning and implementation processes. However, women are still at a disadvantage compared to 
+men in all socio-economic and human development indicators. Climate change exacerbates gender 
+inequality in Somalia, with women affected by the impacts of climate change due to vulnerability and 
+lack of control, as well as lack of access to critical resources to adapt to changing climate conditions. 
+The updated NDC calls for promotion gender equality and empowerment of vulnerable groups in 
+climate change decision making. 
+Somalia’s NAPA (Federal Government of Somalia, 2013) states that women and girls, especially in rural 
+areas, are most vulnerable because of their special relationships with ecosystem life, their family 
+responsibilities, and their role in ensuring community survival. Women are at the forefront of the 
+challenges that climate change presents to family life and health. Women and other vulnerable groups 
+have made significant contributions to Somalia's efforts to adapt to climate change, informed by their 
+knowledge, experiences in natural resources management and leadership at the local levels. However, 
+they lack the capacity and resources to respond to the challenges. It is therefore crucial to mainstream 
+gender issues and promote gender equality into climate change responses for recovery, sustainable 
+peace, and development. 
+Effective and gender-responsive adaptation to climate change depends not only on the active and 
+sustained involvement of stakeholders, including vulnerable groups such as women and youth, but 
+also on the effective use of traditional knowledge. The local communities have in-depth knowledge of 
+adaptation and experience in coping with the effects of climate change; this knowledge should be 
+used to inform national and local planning and adaptation initiatives. The local and traditional 
+knowledge should complement the scientific information to ensure that measures to build climate 
+resilience and adaptation promote replication of effective practices, encourage innovation, and
+=== PAGE 34 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+34 
+ 
+ 
+introduce, where appropriate, external technology to help address new or magnified challenges. 
+Strategies and programs should be monitored and evaluated to ensure that learning is captured and 
+made available to promote efficiency and effectiveness.
+=== PAGE 35 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+35 
+ 
+ 
+6.0 Implementation of Adaptation 
+Interventions 
+6.1 Ongoing Adaptation Actions 
+With support from development partners, Somalia has implemented a number of adaptation projects 
+and programs. These actions are implemented by the government (both federal and state level), CSOs, 
+and the private sector in various parts of the country. Below is a highlight of some ongoing adaptation 
+projects in the country. 
+ 
+i. Water for Agro-Pastoral Productivity and Resilience – The “Biyoole” Project 
+From 2016 to 2018, the World Bank-funded Agro Pastoral Livelihood Pilot Project (WALP) was 
+implemented in Somaliland and Puntland. This project is intended as the first step in a longer journey 
+and was designed as a pilot to learn the right tools and knowledge to guide future processes. The 
+project was relatively short (2.5 years) and small (USD 2 million) to more easily manage the provision 
+of valuable resources subject to both cooperation and occasional conflict. 
+Building on WALP, the Biyoole project, with the support of the World Bank, aims to develop water and 
+agricultural services in the arid community of Somalia. The Biyoole project aims to provide improved 
+water and agricultural services to the drought-prone arid areas of Somalia's agricultural and livestock 
+communities, improving productivity and resilience to climate-related shocks. The project aims to 
+achieve development goals by strengthening community-level watershed management and 
+facilitating the adoption of techniques and practices that improve sustainable land management and 
+productivity. This project was approved by the World Bank in July 2019 and will be effective until June 
+2023. 
+The Biyoole project has significantly expanded its activities in Somaliland and Puntland, with gradual 
+expansion in both Somalia's Galmudug and South-West. In future phases, it is expected that the 
+project activities will be expanded to other FMS (Hirshabelle and Jubaland) and the current project 
+will support preparatory activities for the expansion. 
+ 
+ii. Somalia Crisis Recovery Project 
+The Somalia Crisis Recovery Project (SCRP) is a World Bank-funded flood and disaster recovery and 
+reconstruction project through the Federal Ministry of Finance. The total value of the project is USD 
+187.5 million from 2020 to 2025. It is based on DINA's assessment and subsequent response to the 
+numerous resilience and resilience needs identified in the National RRF and aligns with existing 
+national guidelines such as NDP-9. The overall goal of the project is to help restore livelihoods and 
+infrastructure in flood and drought-affected areas and strengthen disaster risk mitigation capabilities 
+across the country. The project is primarily targeted at the flood-affected states of Hirshabelle, South- 
+West Jubaland states of Somalia. However, it responds to other challenges such as COVID-19 
+emergency response, desert locust crisis, and food security.
+=== PAGE 36 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+36 
+ 
+ 
+iii. UN Joint Programme for Sustainable Charcoal Reduction and Alternative Livelihoods (PROSCAL) 
+PROSCAL is an inter-agency program implemented by the Federal Government of Somalia in 
+collaboration with the United Nations Environment Programme, UNDP, and FAO and funded by the 
+European Union and the Governments of Sweden and Italy. This program provides a response in 
+support of Security Council resolutions. There are four specific purposes for this program: 1) Help the 
+Government of Somalia develop relevant legal documents and strengthen enforcement mechanisms 
+at the national, regional, and local levels; 2) Promote alternative energy sources to reduce local 
+charcoal consumption; 3) Provide an alternative livelihood for charcoal value chain beneficiaries 
+involved in charcoal production and charcoal trade; and 4) Nationwide reforestation and planting to 
+regain the productivity of environmentally devastated land. 
+The Joint Programme works in partnership and in consultation with key stakeholders including, 
+government institutions, local communities, CSOs, the private sector, UN agencies, and research and 
+academic institutions, to monitor both the demand and supply side of the charcoal value chain 
+ 
+iv. NAP Readiness Project 
+Somalia is implementing a NAP Readiness program funded by the GCF through the UNDP. The project 
+will cost approximately USD 2.7 million between 2021 and 2023. The overall goal of the project is to 
+strengthen the capacity and coordination at the national and state levels to plan and implement 
+climate change adaptation in Somalia. The project has three primary outcomes, each of which is 
+divided into sub-outcomes and outputs to address the barriers to mainstreaming climate change 
+adaptation in national systems (Somalia GCF Readiness Project doc, 2020). The outcomes of the 
+project are: i) National institutional coordination and capacity for adaptation planning enhanced; ii) 
+Strengthened capacity for climate change adaptation planning at the state level; and iii) Strengthened 
+financial planning for climate change adaptation (GCF Readiness Project doc, 2020). Through its 
+outputs and outcomes, the projects aim to support establishment of a national climate change 
+adaptation plan to serve as a baseline and to guide future climate change adaptation policies and 
+projects. 
+ 
+v. Water Infrastructure Development Program for Resilience in Somaliland 
+The program, has been funded by the African Development Bank from 2016 to 2022, with the 
+Government of Somaliland as the implementing partner. The overall goal of this program is to 
+contribute to a resilient and sustainable water and sanitation sector that meets the needs of all 
+Somaliland users to improve livelihoods and build resilience to climate change. Key components of 
+the project include support for water and sanitation infrastructure for resilience (including 
+construction and rehabilitation of earth dams, construction of solar systems, etc.), capacity building, 
+and institutionalization. 
+ 
+vi. Joint Resilience Program in Jubaland by KFW, Germany 
+This 3-year programme funded by the Government of Germany through the German Development 
+Bank (KfW) aims to improve access to education; health, hygiene and nutrition; and food security for 
+underprivileged families. In first year of implementation, this third phase of the programme which 
+builds on the successes of the first and second phases initiated since 2018, will reach about 146,000 
+people; 147,000 in the second year; and 148,000 in the third year (UNICEF, 2021). People targeted for
+=== PAGE 37 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+37 
+ 
+ 
+inclusion include very young and school-aged children; vulnerable adolescents; internally displaced 
+and food-insecure communities; and malnourished children and pregnant and breastfeeding women. 
+ 
+vii. Somalia – Kismayo – Baidoa urban water supply – AFDB 
+The project aims to contribute to improving quality of life, inclusiveness, and resilience through the 
+provision of sustainable water supply and sanitation services. The project focuses on increasing access 
+to safe water, improving sanitation, and strengthening capacity for improved delivery of water and 
+sanitation services in Kismayo (Jubaland State) and Baidoa (South-West State) towns. The project aims 
+to reduce the economic and social exclusion of poor and vulnerable groups in the two towns, where 
+an estimated 65% of the population live below the basic needs poverty line, and 70% of the population 
+is younger than 30 years and mostly unemployed, by improving access to safe and reliable water 
+supply. The project will improve access to an affordable water supply and sanitation services in 
+Kismayo and Baidoa, particularly for the IDPs. They comprise 43% of the population, have contributed 
+significantly to the growing urban informality in the two towns, and are facing great hardship in 
+accessing clean water and improved sanitation. Selected education, health, and market facilities will 
+also benefit from improved water and sanitation facilities and hygiene training and promotion. The 
+cost of the project is estimated at 9,589 million UA and it will be implemented for the period 2019– 
+2023 
+ 
+6.2 Lessons Learnt and Good Practices 
+The following are key lessons learnt through Somalia’s adaptation efforts: 
+1. Climate change adaptation is a cross-cutting issue and intertwined with development, 
+particularly for conflict-affected countries like Somalia, it is thus essential to mainstream 
+climate change into development planning and budgeting processes. The NDP-9 considers 
+climate change and conflicts as root causes of poverty in the country. Thus, adaptation, 
+development, and peacebuilding initiatives and actions must be aligned to most effectively 
+address the shared drivers of vulnerability for Somalia, and to set the country onto a strong 
+path of resilience, stability, and peace. 
+2. There is a need for sustained support and investments to build resilience of communities and 
+ecosystems beyond emergence responses—Somalia has received significant humanitarian 
+support in response to the immense crisis, 80% of which is seen as “quick fixes” and not 
+contributing to resilience building and sustainable development. It is essential that such 
+humanitarian responses are planned to go beyond crisis response and support the country 
+and vulnerable communities to build resilience to reduce the effects of future shocks. 
+3. The link between conflict and climate change effects is not well understood by many, thus 
+undermining the holistic approach to adaptation and building resilience. There is a need to 
+consider these issues in broader international discussions and inform national and regional 
+climate response processes. 
+4. The lack of institutions is a big weakness in achieving the adaptation targets in conflict- 
+affected countries. There is a need to support establishment and strengthening of institutional 
+structures including for coordination as a key part of advancing adaptation and building 
+resilience.
+=== PAGE 38 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+38 
+ 
+ 
+5. It is important to integrate gender issues into the NAP process to ensure equal participation 
+and influence of men and women in the adaptation decision-making processes, as well as in 
+the implementation of adaptation activities. Although Somalia is lagging in gender equality, 
+we see climate change response as an opportunity to advance gender-responsive approaches 
+and action that leads to more resilient communities, as the wealth of knowledge of all groups 
+is effectively utilized. 
+6. The NAP process, including the recently developed NAP Framework, will be critical in guiding 
+Somalia’s adaptation efforts and maximizing opportunities for implementation rather than 
+proliferation of policy documents. 
+Below are some good practices that need to be further strengthened: 
+ 
+a. Establishment of an Aid Information Management System (AIMS) in Somalia. 
+Somalia has established a system for monitoring aid flows that facilitates greater transparency and 
+accountability between the government and the international community as well as with the citizens. 
+Information and data on aid flow are integral to national planning and budgeting, aid and debt 
+management, and monitoring and evaluation. Building on this, there is a need to establish a robust 
+online monitoring and evaluation system to better coordinate adaptation and inform decisions 
+ 
+b. Establishment of a Donor Coordination Committee 
+The country has put in place a high-level donor coordination committee managed through the office 
+of the Prime Minister. This forum chaired at Prime Minister who is head of Government coordinates 
+and discusses development issues, including climate change adaptation. This confirms the importance 
+of high-level consideration of climate change adaptation and the need for mainstreaming adaptation 
+into the country’s development discourse.
+=== PAGE 39 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+39 
+ 
+ 
+7.0 Support and Implementation Needs 
+7.1 Support Needs 
+Somalia’s Updated NDC submitted to UNFCCC in July 2021, highlights the country’s NDC actions and 
+related costs. A significant portion of the NDC costs (amounting to at least USD 48.5 billion) is allocated 
+toward adaptation and resilience-building interventions for the 2021–2030 period. The priority 
+adaptation actions in the NDC also captured in the NDP include: 
+ 
+Climate-smart agriculture actions to address food insecurity and poverty 
+ 
+Water sector development and management 
+ 
+Health systems development and improvement 
+ 
+Disaster risk reduction and management 
+ 
+Development of the blue economy sector 
+ 
+Energy sector development to address energy poverty and related climate shocks 
+ 
+Environmental restoration and management 
+ 
+Resilient human settlement development 
+ 
+Resilient infrastructure to facilitate adaptive capacities 
+ 
+Strengthening the capacities of institutions and communities for enhanced action 
+Because Somalia is a least developed country with unique circumstances, the government does not 
+have the financial capacity to mobilize funds to implement NDC measures and will need the support 
+of international partners. There is a need to strengthen the capacity building of the various institutions 
+involved in climate change and to strengthen the political and legal frameworks that help Somalia 
+improve its ability to adapt and build resilience to climate change. 
+In particular, there is a need to improve these institutions’ ability to access multilateral and bilateral 
+sources of climate funding, remove barriers, strengthen private sector investment in climate action, 
+and mobilize and effectively use climate funding. There is also a need to help establish effective 
+institutional mechanisms, monitoring, evaluation, and learning systems, and strengthen institutional 
+structures with the right infrastructure and human resources to track climate change adaptation and 
+financing. Also important will be support to enhance awareness of climate change policies, strategies, 
+plans, and actions among various stakeholders at both the federal and state levels. The country has 
+received support from United Nations Environment Programme to undertake its technology needs 
+assessment. This process is expected to define priority technologies in key sectors and is currently at 
+the initial stages; it is expected to be completed in 2022. The country requires support for technology 
+development, innovation, and transfer to respond to climate change. 
+ 
+7.2 Constraints and Gaps 
+The country is faced with myriad constraints and gaps in effectively responding to climate change. 
+These include: 
+a. Incomplete and weak policy and regulatory frameworks
+=== PAGE 40 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+40 
+ 
+ 
+b. Inadequate financial resources, especially for core institutions 
+c. Weak institutional arrangements, including deficiency of mandates and lack of effective 
+coordination on climate change 
+d. Lack of technical capacity on climate change including to mobilize resources for climate action 
+(e.g., in developing concept notes and funding proposals) 
+e. Lack of mechanisms for enforcement of existing policies and laws 
+f. 
+Low levels of knowledge on climate change among key stakeholders in the country, including 
+the private sector 
+g. Lack of monitoring and reporting systems for climate adaptation action 
+h. Insecurity in some areas of the country, making implementation more expensive and difficult 
+i. 
+Weak gender mainstreaming in adaptation efforts
+=== PAGE 41 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+41 
+ 
+ 
+8.0 Monitoring, Evaluation, and Learning 
+Monitoring, evaluation, and learning (MEL) is critical to the overall goal of assessing the achievement 
+of the different targets included in Somalia’s climate change adaptation agenda. MEL is essential to 
+informing the development and the design of adaptation policies programs and projects, as well as 
+their continuous improvement over time. 
+Somalia lacks a national climate change adaptation monitoring system with recognized indicators that 
+can be tracked and evaluated. Most of the monitoring and evaluation that exists is limited to specific 
+projects but is not used for tracking the success of federal-level adaptation actions. Through the 
+Biennial Update Report for Somalia, a measurement, reporting, and verification (MRV) system for 
+tracking Somalia’s emissions is being developed. The MRV system will also track progress on 
+adaptation actions and sustainable development benefits from the implementation of NDC actions. 
+Somalia’s NAP Framework recognized the need for establishing an online national adaptation 
+monitoring and evaluation system, identification of indicators, the establishment of effective climate 
+adaptation coordination structures, and the need to develop legislation and regulations that require 
+federal institutions, FMS, and non-state actors to annually report on their adaptation activities.
+=== PAGE 42 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+42 
+ 
+ 
+9.0 Next Steps for Adaptation Process In 
+Somalia 
+Somalia has made great strides in developing adaptation-related policy, legal, and institutional 
+frameworks, but many implementation challenges remain. The following actions will need to be 
+undertaken to advance Somalia’s NAP process. Some of these actions will be implemented through 
+the NAP Readiness Proposal while others will require support: 
+Stocktaking – Governments and their partners will endeavor to review available information on 
+climate change impacts, vulnerabilities, and adaptations and assess the gaps and needs that have to 
+be addressed to create an enabling environment for the NAP process. 
+Establishment of effective climate change adaptation coordination mechanisms – The newly formed 
+Ministry responsible for climate change will needs to establish technical and high-level adaptation 
+institutional structures to lead the NAP process to facilitate cross-sectoral coordination with 
+government agencies, CSOs, state governments, development partners, and private sector 
+representatives. The coordination structures will facilitate mainstreaming of adaptation actions and 
+support effective implementation and tracking of actions for national monitoring as well as 
+international reporting. 
+Capacity building and awareness raising – Governments will need to generate information and 
+outreach materials to educate stakeholders within the government about the NAP process. Key among 
+the actions will include holding consultative meetings to raise awareness of the country’s NAP process. 
+This will facilitate the engagement of a wide range of stakeholders in the process. Stakeholders to be 
+engaged include federal-level government institutions, FMS, private sector actors, civil society actors, 
+and academia, among others. 
+Development of the NAP document – This will focus preparation of detailed NAP document for 
+Somalia that will include, among other aspects: a vulnerability assessment (sector- and state-level 
+assessments), identification of adaptation priorities, draft adaptation concept notes tied to the 
+priorities, and an M&E plan. The plan is also expected to support formalizing the institutional roles 
+and responsibilities for federal agencies concerning climate change adaptation at the national level in 
+Somalia and clarify the scope, objectives, and timeline for the process (GCF Project doc, 2020). 
+Establish a climate change adaptation training program – For the NAP process to be effective, there 
+is a need to develop and deliver a series of training modules and supporting materials (e.g., 
+instructional resources, workbooks, exercises) specifically geared toward federal-level agency staff 
+and creating a common understanding of the challenges of climate change across sectors. These face- 
+to-face materials will need to be developed in the Somali language in collaboration with international 
+experts and university partners. 
+Establishment of knowledge management and information system for climate change adaptation – 
+Governments will need to put in place a platform for providing information on weather forecasts, with 
+data and information accessible to sectors, states, and other government stakeholders and the 
+general public. The platform would also consolidate information on completed or ongoing climate
+=== PAGE 43 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+43 
+ 
+ 
+change adaptation projects at all levels of government, including projects carried out by national and 
+federal governments and NGOs, and a database for eliciting planning and implementation lessons. 
+Development of climate change legislation – At the federal level, climate change legislation is 
+required to support implementation of the Climate Change Policy. To promote climate action 
+mainstreaming across the country and facilitate the transition from adaptation planning to 
+implementation, there is a need for strong climate change policies and legislative frameworks at the 
+state level. 
+Undertake measures to promote gender mainstreaming – To promote an inclusive and gender- 
+responsive NAP process, an in-depth gender analysis should be undertaken. This is the first step 
+toward gender mainstreaming, through assessing the complexity of the climate change challenge and 
+the different ways in which it affects men and women, with the aim of refining and informing a NAP 
+process that is gender responsive and transformational. 
+Establishment of private sector engagement strategy and platform – The engagement of the private 
+sector in climate change adaptation in Somalia is critical to the effectiveness of the NAP process (GCF 
+Project doc 2020). The government should develop a private sector engagement strategy for its NAP 
+and establish a private sector coordination platform to help increase the engagement of these actors 
+in the process. Both should be established through a consultative process. The platform should 
+support the coordination of climate adaptation actions by the private sector and work to address 
+barriers to private sector investment in climate change adaptation. 
+Development of Resource Mobilization Strategy – The government will need to spearhead 
+development of a NAP resource mobilization strategy to implement the adaptation actions. This will 
+include a climate finance coordination mechanism, the establishment of a Somalia Climate Fund 
+among others, to ensure the government can mobilize the necessary resources for the 
+implementation of adaptation actions. There is a need to establish federal- and state-level resource 
+mobilization committees as part of the resource mobilization strategy. 
+Establishment of monitoring and evaluation systems for climate change adaptation – Somalia lacks 
+national climate change monitoring and evaluation systems. The NAP Readiness Project will provide 
+technical support to the MoECC to develop indicators and methodologies for gathering data for 
+monitoring the impacts of climate change, as well as for evaluating the progress of climate change 
+adaptation projects. 
+Incorporation of the NAP into development plans and peacebuilding processes – Through close 
+collaboration with responsible federal ministries and state-level governments, the MoECC will aim to 
+ensure that the NAP is integrated into both development and peacebuilding processes, and that these 
+processes are well reflected in the NAP. This will include ensuring that climate adaptation priorities 
+are incorporated into subsequent iterations of the NDP and peacebuilding initiatives of the country. 
+This will also involve providing guidance to FMS to incorporate adaptation into development and 
+peacebuilding plans.
+=== PAGE 44 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+44 
+ 
+ 
+10.0 Conclusion 
+Adaptation and building resilience are priorities for the Government of Somalia in pursuit of the 
+country’s sustainable development and peace while contributing to global efforts toward addressing 
+climate change under the Paris Agreement. The country has made strides in advancing policy 
+frameworks and mainstreaming climate change into development planning processes at both national 
+and sub-national levels. Somalia submits this AdCom elaborating its adaptation goals and priorities, 
+barriers and challenges, and support needs. These actions are expected to be implemented by all 
+Somali stakeholders, including government (federal and FMS), the private sector, and CSOs. As a poor 
+and highly climate vulnerable country, Somalia, will require significant international support in the 
+form of finance, technology development and transfer, and capacity building to meets its plans and 
+aspirations as elaborated in this AdCom.
+=== PAGE 45 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+45 
+ 
+ 
+References 
+African Development Bank. (2013). Somalia Country brief – 2013-2015. 
+https://www.afdb.org/sites/default/files/documents/projects-and-operations/2013-2015_- 
+_somalia_-_country_brief.pdf 
+African Development Bank Group. (2015). Somalia Energy Sector Needs Assessment and Investment 
+Programme report 
+Akkaraboynia, M. K., & Adem, H. A. (2018). An assessment study of the challenges of urban water 
+supply in case of Galkayo town, Puntland, Somalia. Journal of Emerging Techniques and Innovative 
+Research 5 (4), 464-470. 
+Clark, Jeffery. (1992). Famine in Somalia and the International Response: Collective Failure, US 
+Committee for Refugees Issue Paper, November 1992 
+Federal Government of Somalia. (2013). National Adaptation Program of Action (NAPA), Mogadishu, 
+Somalia. 
+Federal Government of Somalia. (2013). The National Adaptation Programme of Action Somalia – 
+2013 
+Federal Government of Somalia. (2017) National Development Plan (NDP) -8 (2017-2019) 
+Federal Government of Somalia. (2018). Somalia Drought Impact Needs Assessment Report 
+Federal Government of Somalia. (2018). The Initial National Communication for Somalia to the 
+United Nations Framework Convention on Climate Change 
+Federal Government of Somalia. (2019). Draft Somalia Livestock Sector Development Strategy 
+Federal Government of Somalia. (2020). NDP- 9 (2020-2024) 
+Federal Government of Somalia. (2020). National Climate Change Policy, 2020 
+Federal Government of Somalia. (2021). Adaptation Baseline report 2020 
+Federal Government of Somalia. (2021). Somalia’s updated Nationally Determined Contributions 
+under the Paris Agreement to the UNFCCC. 
+Food and Agriculture Organization (FAO) Somalia. (2015). Somalia Country Profile 
+FAO. (2022). Somalia Water and Land Information Management system (SWALIM). 
+http://www.faoswalim.org/ 
+Green Climate Fund (GCF). (2020). NAP Readiness Project document for Somalia submitted by UNDP 
+IUCN. (2006). Country Environmental Profile for Somalia. The European Commission Somalia 
+Operations Office, Nairobi.
+=== PAGE 46 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+46 
+ 
+ 
+Jacobs, Z. L., Yool, A., Jebri, F., Srokosz, M., van Gennip, S., Kelly, S.J., ... & Popova, E. (2021). Key 
+climate change stressors of marine ecosystems along the path of the East African coastal current. 
+Ocean & Coastal Management, 208, 105627. 
+Lwanga-Ntale, C., & Owino, B. O. (2020). Understanding vulnerability and resilience in Somalia. 
+Jàmbá: Journal of Disaster Risk Studies, 12(1). 
+Lobell, D.B., Burke, M.B., Tebaldi, C., Mastrandrea, M.D., Falcon, W.P. and Naylor, R.L. (2008). 
+Prioritizing Climate Change Adaptation Needs for Food Security in 2030. Science, 319, 607. 
+Mapsland. (2022). Map of Somalia. https://www.mapsland.com/maps/africa/somalia/detailed- 
+political-and-administrative-map-of-somalia-with-roads-railroads-and-cities-1988.jpg 
+Mohamed, A. A., & Nageye, A. I. (2020). Measuring the effect of land degradation and 
+environmental changes on agricultural production in Somalia with two structural breaks. 
+Management of Environmental Quality: An International Journal. 
+Ogallo, L. A., Ouma, G., & Omondi, P. (2017). Changes in Rainfall and Surface Temperature Over 
+Lower Jubba, Somalia. Journal of Climate, 1(2). 
+Ogallo, L. A., Omondi, P., Ouma, G., & Wayumba, G. (2018). Climate change projections and the 
+associated potential impacts for Somalia. 
+Seal, A., Bailey, R. The 2011 Famine in Somalia: lessons learnt from a failed response?.Confl Health 7, 
+22 (2013). 
+Trott, C. B., Subrahmanyam, B., & Murty, V. S. N. (2017). Variability of the Somali Current and eddies 
+during the southwest monsoon regimes. Dynamics of Atmospheres and Oceans, 79, 43-55. 
+United Nations Development Programme Somalia. (2017). National Capacity Self-Assessment Report 
+towards implementation of the three Rio Conventions: Final Report and Action Plan for Somalia 
+UNFCCC 2018 Annex of Decision 9/CMA 1- ‘Katowice Climate package’ of 2018 
+UN (OCHA). (2016). 
+UN OCHA. (2021). Somalia: 2021 Gu’ Season Floods Update report available on 
+https://reliefweb.int/report/somalia/somalia-2021-gu-season-floods-update-1-9-may-2021 
+UNICEF. (2021). Joint Resilience Program in Jubaland by KFW, Germany online. 
+https://www.unicef.org/somalia/press-releases/somalia-launches-third-phase-programme- 
+strengthen-resilience-among-marginalized 
+UNDP. (2014). Gender in Somalia: Brief. Available on 
+https://www.undp.org/sites/g/files/zskgke326/files/migration/so/Gender-in-Somalia-FINAL.pdf 
+World Bank. (2020). Somalia Country Environmental Analysis: Diagnostic Study on Trends and 
+Threats for Environmental and Natural Resources Challenges. 
+World Bank. (2018). Electricity access report in Somalia
+=== PAGE 47 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+47 
+ 
+ 
+Annex. List of adaptation projects including related humanitarian 
+projects 
+(generated from AIMS Somalia) 
+Table A1 
+ 
+Project title 
+Source of support 
+Amount (USD) 
+Resilience projects 
+1. 
+Integrated Water Resources Management for Building Climate Resilience of Agro-pastoral 
+Communities 
+GEF through UNDP 
+10,000,000 
+2. 
+Rural Livelihoods Adaptation to Climate Change (RLACC II) 
+GEF 
+10,000,000 
+3. 
+Joint Programme for Sustainable Charcoal Reduction and Alternative Livelihoods (PROSCAL) 
+Sweden, EU, Italy - AICS, UNDP 
+5,000,000 
+4. 
+NAP readiness Support 
+GCF through UNDP 
+2,700,000 
+5. 
+Improving and sustaining food security in rural Somalia 
+USAID and FAO 
+16,863,000 
+6. 
+Resilient, Inclusive and Competitive Agriculture Value Chain Development in Southern and Central 
+Regions of Somalia (OUTREACH) 
+EU 
+5,580,000 
+7. 
+Somalia Crisis Recovery Project (SCRP) 
+World Bank 
+187,500,000 
+8. 
+Biyoole Project - Water for Agro-pastoral Productivity and Resilience 
+World Bank 
+42,000,000 
+9. 
+Water Infrastructure Development for Resilience In Somaliland (WIDER) 
+Africa Development Bank 
+6,000,000 
+10. 
+Sustainable Land Management in Somaliland, Somalia 
+Germany 
+8,000,000
+=== PAGE 48 ===
+Somalia’s First Adaptation Communication to the UNFCCC 
+48 
+ 
+ 
+Humanitarian programs/projects 
+11. 
+SOMALIA RESILIENCE PROGRAM 
+Sweden 
+8,600,000 
+12. 
+Improving disaster risk management and food security to strengthen resilience in Somaliland 
+Germany 
+11,000,000 
+13. 
+Say no to Famine: Short-Term Regional Emergency Response Project (STRERP) 
+Africa Development Bank 
+27,500,000 
+14. 
+Building Resilience In Middle Shabelle (BRIMS) 
+Sweden 
+3,000,000 
+15. 
+Building Resilience: Supporting food-insecure people to withstand shocks and stresses better 
+throughout the year 
+Canada, China, Denmark, 
+Switzerland, France, IIDA, South 
+Africa, Japan, World Bank, 
+USAID (USA), Multilateral 
+donors, Germany, FCDO, DFID 
+132,000,000 
+16. 
+Building Resilience: Supporting food-insecure people to withstand shocks and stresses better 
+throughout the year in South-central Somalia 
+Germany 
+15,000,000 
+17. 
+Building Resilient Communities in Somalia (BRCiS) 
+EU/FCDO 
+63,000,000 
+18. 
+Combatting Poverty and Vulnerability in Somalia through Social Protection - Phase II 
+Italy 
+3,000,000 
+19. 
+Community Resilience in Somaliland and Puntland (CRISP) 
+EU 
+1,522,399 
+20. 
+Somalia Drought Impact Response 
+UNDP 
+3,400,000 
+21. 
+Emergency Food Security Program Phase two (EFSP II) 
+USAID 
+30,000,000
+=== PAGE 49 ===
+

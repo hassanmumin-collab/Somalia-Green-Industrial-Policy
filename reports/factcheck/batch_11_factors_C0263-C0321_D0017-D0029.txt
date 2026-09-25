@@ -1,0 +1,93 @@
+Independent fact-check, 2026-09-24. Claims C-0263, C-0264, C-0307 to C-0321 and D-0017, D-0026 to D-0029 (emission factors, waste defaults, GWP).
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0263: PASS
+  Source: S-139 p. 18
+  Reason: Table 1.2 (default NCVs, TJ/Gg) lists Gas/Diesel Oil default 43.0, lower 41.4, upper 43.3; 43.0 is the default column. TJ/Gg = MJ/kg, so "equivalently MJ per kg" is correct. Basis, period and global scope match.
+
+C-0264: QUERY
+  Source: S-141 p. 57
+  Reason: Stored text para 4.19 supports the statement and the annex GCal row (4.1868x10-3 TJ) agrees. Source registered as OCR; the page image could not be rendered (pdftoppm not installed). ocr_pages lists only [1], suggesting p. 57 is native text, but unconfirmed. A reviewer should confirm "4.1868 joules" in para 4.19 of the PDF. Period 2018 is the publication year, acceptable for a definition.
+
+C-0307: FAIL
+  Source: S-144 p. 73
+  Reason: Value correct: methane GWP100 = 28 in the quoted row (no climate-carbon feedback; Table 8.7 gives 34 with feedbacks; fossil methane 30). Two errors: (1) the quote on p. 73 is from Table 8.A.1 (Appendix 8.A) but the measure cites "Table 8.7"; (2) the statement adds "the metric basis of Somalia's NDC 3.0", which S-144 cannot support; the support is S-107 p. 53.
+  Correction: measure "IPCC AR5 WG1, Table 8.A.1", optionally "excluding climate-carbon feedbacks"; remove the NDC clause and record it as a separate claim sourced to S-107 p. 53.
+
+C-0308: PASS
+  Source: S-145 p. 12
+  Reason: Table 2.3 Eastern Africa row, first column Food waste 53.9. Notes (p. 13): percentages by wet weight of MSW at generation, around 2000, excluding industrial waste. Basis estimate appropriate; Note 2 says regional values come from partly incomplete national data.
+
+C-0309: PASS
+  Source: S-145 p. 12
+  Reason: Second column (Paper/cardboard) 7.7. Scope and period stated.
+
+C-0310: PASS
+  Source: S-145 p. 12
+  Reason: Third column (Wood) 7.0.
+
+C-0311: PASS
+  Source: S-145 p. 12
+  Reason: Fourth column (Textiles) 1.7.
+
+C-0312: PASS
+  Source: S-145 p. 14
+  Reason: Table 2.4 Paper/cardboard: 90 (dry matter), 40 (DOC % of wet waste, default), range 36-45.
+
+C-0313: PASS
+  Source: S-145 p. 14
+  Reason: Textiles: 80 (dry matter), 24 (DOC % of wet waste), range 20-40. Footnote 3 (40% synthetic) does not change the default.
+
+C-0314: PASS
+  Source: S-145 p. 14
+  Reason: Food waste: 40 (dry matter), 15 (DOC % of wet waste), range 8-20.
+
+C-0315: PASS
+  Source: S-145 p. 14
+  Reason: Wood: "85 4" (dry matter 85, footnote 4), 43 (DOC % of wet waste), range 39-46.
+
+C-0316: PASS
+  Source: S-104 p. 13
+  Reason: Verbatim. Qualified by the source: assumes anaerobic SWDS and DOC including lignin; fits use with MCF 1.0 in D-0027. Add the anaerobic qualifier wherever used on its own.
+
+C-0317: PASS
+  Source: S-104 p. 15
+  Reason: Verbatim; supported by "Most waste in SWDS generates a gas with approximately 50 percent CH4". Volume fraction, as the unit states.
+
+C-0318: PASS
+  Source: S-104 p. 14
+  Reason: Table 3.1 "Managed – anaerobic 1" (footnote marker) MCF 1.0. Footnote 1 defines the category (controlled placement plus cover, compaction or levelling); any use should assume a site meeting that definition.
+
+C-0319: PASS
+  Source: S-104 p. 14
+  Reason: Table 3.1 "Uncategorised SWDS 5" MCF 0.6; the source restricts it to countries that cannot categorise their sites.
+
+C-0320: PASS
+  Source: S-139 p. 19
+  Reason: Table 1.2 (continued) Charcoal (footnote 12) default NCV 29.5 TJ/Gg, lower 14.9, upper 58.0; footnote 12 "EFDB; uncertainty range: expert judgement". Keep the very wide interval in mind.
+
+C-0321: PASS
+  Source: S-139 p. 24
+  Reason: Table 1.4 (continued) Charcoal: carbon content 30.5 kg/GJ, oxidation 1, effective CO2 EF default 112 000 kg/TJ, 95% CI 95 000 to 132 000.
+
+D-0017: QUERY
+  Source: C-0102 (S-026 p. 209), C-0264 (S-141 p. 57), C-0215 (S-102 p. 16)
+  Reason: C-0102 checks out (Table 5-15, HSDG 1 MW diesel, 2.23 Gcal/MWh); C-0215 checks out (Table 2.2, Gas/Diesel Oil CO2 74 100, NCV basis; Table 1.4 agrees). Arithmetic and units correct: 2.23 x 4.1868 x 74,100 / 10^6 = 0.6918 -> 0.692 t/MWh. Open points: (1) S-026 Table 5-38 (pp. 230-231) sets "Diesel CO2 emissions t/Gcal 0.33"; the IPCC-based figure is 0.310 t/Gcal; the plan's factor gives about 0.736 t/MWh; not in conflicts.yaml nor in the statement. (2) The plan does not say whether 2.23 Gcal/MWh is net or gross; the IPCC factor is on NCV basis; if gross, the result is overstated by about 5 to 6 percent. (3) C-0264 is itself a QUERY.
+
+D-0026: PASS
+  Source: C-0308 to C-0315 (S-145 pp. 12, 14)
+  Reason: IPCC 2006 Vol 5 Eq 3.7 (S-104 p. 13), DOC = sum(DOCi x Wi), both in wet-weight percent, so /10,000 correct: 0.14583 -> 0.1458. Statement names the four components. Excluding rubber/leather is consistent with Table 2.4 (bracketed DOC; natural rubbers barely degrade); excluding garden waste and nappies is allowed at Tier 1 (S-145 p. 11). Could also state: Eastern Africa composition sums to 92.6 percent (Note 2), and composition is at generation, not at the disposal site (S-104 p. 11).
+
+D-0027: PASS
+  Source: D-0026, C-0316, C-0318, C-0317 (S-104 pp. 9, 13-15)
+  Reason: Follows Eq 3.2 (DDOCm = W x DOC x DOCf x MCF) and Eq 3.3 (Lo = DDOCm x F x 16/12); 16/12 stated on p. 9 as the CH4/C molecular weight ratio. 0.14583 x 0.5 x 1.0 x 0.5 x 16/12 = 0.04861 -> 0.0486. Correctly called a long-run generation potential. Not stated: released over decades under first-order decay, not an annual emission; measured before recovery and oxidation (default OX 0; 0.1 for covered sites, p. 15). Make clear wherever used as avoided emissions.
+
+D-0028: PASS
+  Source: D-0027, C-0307 (S-144 p. 73)
+  Reason: 0.04861 x 28 = 1.361 -> 1.36. GWP right for landfill methane (biogenic, 28 not fossil 30; AR5 without climate-carbon feedbacks, matching NDC practice). Relink once C-0307 is corrected. Long-run potential, not annual or avoided emission.
+
+D-0029: QUERY
+  Source: C-0320 (S-139 p. 19), C-0321 (S-139 p. 24)
+  Reason: Inputs, arithmetic and units correct (29.5 x 112,000 / 10^6 = 3.304 -> 3.30). But S-139 p. 19 says: "CO2 emissions from biomass combustion are not included in national totals, but are recorded as an information item." The statement does not say the CO2 is biogenic or that only a non-renewable fraction counts as mitigation for the NDC or credits; a reader could take 3.30 t as avoided emissions per tonne displaced. CH4 and N2O from charcoal combustion are also excluded. Status "verified" while the statement says "estimated": harmless mismatch.
+
+Summary: 18 pass, 1 fail, 4 query.

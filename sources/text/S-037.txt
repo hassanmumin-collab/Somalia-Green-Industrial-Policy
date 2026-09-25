@@ -1,0 +1,1578 @@
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEDERAL REPUBLIC OF SOMALIA 
+ 
+ 
+THE NATIONAL FOOD SAFETY POLICY 
+FINAL DRAFT 
+ 
+ 
+PRODUCED BY: 
+MINISTRY OF LIVESTOCK FORESTRY AND RANGE 
+ 
+ 
+ 
+ 
+ 
+JUNE 2024
+=== PAGE 2 ===
+2 | P a g e 
+ 
+FOREWORD  
+The impact of globalization on food safety has emerged as a significant factor in governance, given its 
+implications for public health, agriculture, trade, investment, poverty, hunger, and tourism. Food-
+borne illness is a global scourge that affects billions of people, causing diseases due to contaminated 
+and poorly cultivated, handled, processed, or prepared foods along the supply chain. This hampers 
+economic activity and exacerbates national poverty, underlining the urgent need for action in this 
+area.In Somalia, the government is actively transforming the food supply chain (farm-to-table) by 
+revising and updating key components of the national food safety control system. This concerted 
+effort is a promising stride towards a safer food system.  
+The agriculture and food industries are also playing their part by enhancing food safety practices. 
+However, the overall food safety situation is still a work in progress. In 2010, the Federal Ministry of 
+Health (FMOH) conducted an assessment of Somalia's food safety system and the food industry's 
+status as part of technical assistance from development partners. The findings revealed an outdated 
+food safety system and an industry eager to collaborate with the government for improvement, 
+indicating a potential for positive change.  
+The key challenges facing the enhancement of food safety system/standards in the country include a 
+lack of awareness of the socio-economic importance of food safety, paucity of data and information 
+on the incidence of food-borne disease outbreaks, lack of understanding of food safety and quality 
+standards as outlined in international agreements, inability to enforce compliance with international 
+standards and global best practices, inadequate infrastructure and resources to support scientific risk 
+analysis and upgrading of food safety regulatory systems, inefficient food supply chain and poor 
+traceability system. However, with the collaboration and support of all stakeholders, there is an 
+opportunity to strengthen the existing Food Safety System at each enterprise level at the Federal and 
+State platforms to develop a safe and reliable food supply chain from farm to table, making everyone 
+feel valued and integral to this process of change and improvement.  
+This policy will focus on building the capacity of both the public and private sectors to strengthen the 
+activities of the food safety control agencies, considering recent developments at national and 
+international levels. The Government will develop and implement mechanisms for training relevant 
+stakeholders in the skills, tools and techniques for effective food safety management at every point of 
+the farm-to-table continuum. 
+In addition to the key considerations of protecting human health, agricultural resources and ecology, 
+the new global environment for trade in food and farming products requires countries to base their 
+control systems on international standards and risk-based measures. The food safety system proposed 
+in this policy would give the government the tools necessary to protect public health, incentivize 
+domestic investment in agricultural foods value chains and improve local, regional and international 
+trade while meeting international expectations.
+=== PAGE 3 ===
+3 | P a g e 
+ 
+PREFACE 
+The food safety practices in Somalia are below the recommended global standard, leading to frequent 
+outbreaks of food-borne illnesses and a lack of international interest in our food and tourism. This 
+situation may be due to a combination of factors, including complicated legislation across different 
+sectors, weak surveillance, monitoring, and enforcement, cultural and lifestyle practices, poor 
+agricultural methods, food production, handling, storage, preparation, and transportation, as well as 
+unhealthy eating habits. 
+The National Food Safety Policy has been created to meet the country's requirements for adopting 
+and implementing a modern and effective national food safety system. The policy was developed 
+through a participatory process involving multiple stakeholder meetings to incorporate their inputs 
+and comments and to consider all articulated views. 
+The policy document is outlined in seven chapters, a glossary and References as summarized here 
+under:  
+ Chapter one provides a background of the need for the policy, as well as the rationale for the 
+policy and its scope of applicability. It also provides a brief on the activities undertaken to 
+develop the policy. 
+ Chapter two analyses the existing food safety systems and reviews the Somalia food sector in 
+general, the International food safety framework, the national policies, strategies and laws 
+related to food safety,  the institutional framework, including testing, inspection and 
+certification services, as well as the status of food safety financing.  
+ Chapter three describes the policy objectives including the vision and mission of the policy 
+implementation.  
+ Chapter four details the food safety policy issues and the proposed interventions both at 
+Federal and state levels.  
+ Chapter five describes the framework for effective implementation of the proposed policy 
+interventions.  
+ Chapter six describes the framework for effective financing of the implementation process. 
+ Chapter seven describes the framework for effective monitoring and evaluation of food safety 
+along the food chain (farm-to-table).  
+ The references are provided at the end of this policy document.
+=== PAGE 4 ===
+4 | P a g e 
+ 
+ACKNOWLEDGEMENT 
+This Food Safety Policy document has been developed with the active involvement and participation 
+of various stakeholders who play a critical role in ensuring the safety of locally produced food for local 
+consumption and export, including imported food from global markets. The process also involved 
+the active participation of various industry players in the food value chain. 
+Several stakeholder consultation forums were held to gather data and information necessary to 
+develop the Food Safety Policy. The aim was to gain support and agreement from stakeholders, which 
+is crucial for ensuring ownership of the document and subsequent adoption of policies. These forums 
+formed the basis for the provisions outlined in the policy document. 
+The Contribution of the under-listed organisations to the development of this policy document is 
+immensely acknowledged and appreciated. 
+1. Federal Ministry of Livestock Forestry and Range 
+2. Federal Ministry of Agriculture and Irrigation 
+3. Federal Ministry of Fisheries, Marine and Blue Economy 
+4. Federal Ministry of Commerce and Industry 
+5. Somalia Bureau of Standards 
+6. Somalia Meat Company (SOMEAT) 
+7. Zamzam Dairy and Fodder Farm 
+8. Calaf Fodder Farm 
+9. Horseed University 
+10. IGAD Sheikh Technical Veterinary College 
+11. Central Regions Livestock Professional Association (CERELPA) 
+12. Ministry of Livestock Forestry and Range - Jubaland State 
+13. Ministry of Livestock Forestry and Range - Galmudug State 
+14. Ministry of Livestock Forestry and Range - Southwest State 
+15. Ministry of Livestock Forestry and Range - Hirshabelle State 
+16. Ministry of Livestock Forestry and Range - Puntland State 
+We would like to express our gratitude for the valuable contribution of our consultant, M/S 
+DEKRAFT STRATEGIES, who assisted the Ministry in developing the policy. The consultant played 
+a crucial role in engaging stakeholders and gathering data and information important for the 
+development of the Food Safety Policy. They also helped in gaining support from stakeholders, which 
+was essential for ensuring ownership and eventual adoption of the Policy.
+=== PAGE 5 ===
+5 | P a g e 
+ 
+TABLE OF CONTENTS 
+FOREWORD ....................................................................................................................................2 
+ACKNOWLEDGEMENT ................................................................................................................4 
+ABBREVIATIONS AND ACRONYMS ............................................................................................7 
+EXECUTIVE SUMMARY ................................................................................................................9 
+1. INTRODUCTION ...................................................................................................................... 10 
+1.1 Background ................................................................................................................................ 10 
+1.2 Rationale .................................................................................................................................... 10 
+1.3 Scope ......................................................................................................................................... 11 
+1.4 Policy Development Process ...................................................................................................... 12 
+2 SITUATION ANALYSIS ............................................................................................................. 13 
+2.1 Somalia's Food Sector Outlook .................................................................................................. 13 
+2.1.1 Agriculture ................................................................................................................................. 13 
+2.1.2 Livestock .................................................................................................................................... 13 
+2.1.3 Fishery ........................................................................................................................................ 14 
+2.1.4 Poultry ........................................................................................................................................ 14 
+2.1.5 Honey Sector ............................................................................................................................. 15 
+2.1.6 Retail Food Sector ..................................................................................................................... 15 
+2.2 International Food Safety Framework ........................................................................................ 15 
+2.3 National Food Safety Policies and Strategies ............................................................................. 17 
+2.3.1 Somali Health Policy ................................................................................................................ 17 
+2.3.2 Somalia Health Sector Strategic Plan 2022– 2026 ................................................................... 18 
+2.3.3 Livestock Sector Development Strategy .................................................................................. 18 
+2.3.4 National Animal Health Strategy for Somalia ........................................................................ 18 
+2.3.5 The National SPS Strategy ....................................................................................................... 18 
+2.3.6 Marketing Strategy for Livestock and Livestock Products .................................................... 18 
+2.3.7 National Action Plan for Antimicrobial Resistance (AMR) .................................................. 19 
+2.4 Food safety laws ........................................................................................................................ 19 
+2.4.1 The Veterinary Law Code 2016................................................................................................. 19 
+2.4.2 Meat Inspection and Control Act ............................................................................................ 19 
+2.4.3 Somali Standards and Quality Control Act No. 27 of 2020 .................................................... 19 
+2.4.4 The Fish (Fishery and Aquaculture Products) (Quality Assurance) Rules, 2017 ................. 19 
+2.4.5 Somali Inspection and Clearance of Imported Goods Regulations, 2023 ............................ 20
+=== PAGE 6 ===
+6 | P a g e 
+ 
+2.4.6 Somali Export, Certification and Quality Mark Regulations, 2023 ....................................... 20 
+2.5 Food Safety Institutional Framework ......................................................................................... 20 
+2.5.1 The Directorate of the Animal Health Department, MoLFR ................................................ 20 
+2.5.2 Somali Bureau of Standards ..................................................................................................... 20 
+2.6 Food Testing Services ................................................................................................................ 20 
+2.7 Food Inspection and Certification Services ................................................................................ 21 
+2.8 Information, Education/Training and Communication ............................................................. 21 
+2.9 Emerging and Re-emerging Food Safety Issues ......................................................................... 21 
+2.10 Food Safety Financing .............................................................................................................. 22 
+3 POLICY OBJECTIVES ............................................................................................................... 23 
+3.1 Vision......................................................................................................................................... 23 
+3.2 Mission ...................................................................................................................................... 23 
+3.3 Broad Policy Objective .............................................................................................................. 23 
+3.4 Specific Policy Objectives .......................................................................................................... 23 
+4. POLICY ISSUES AND INTERVENTIONS .............................................................................. 24 
+4.1 Policy Issue No. 1: Policy and Legal Framework ........................................................................ 24 
+4.2 Policy Issue No. 2 Institutional Framework ............................................................................... 24 
+4.3 Policy issue No. 3: Education and Training ............................................................................... 25 
+4.4 Policy Issue No. 4 Food Testing Services ................................................................................... 25 
+4.5 Policy issue No. 5: Information and Communication ................................................................. 26 
+4.6 Policy issue No. 6: Risk Analysis ................................................................................................ 26 
+4.7 Policy Issue No. 7: Emerging and Re-emerging Food Safety Issues .......................................... 27 
+4.8 Policy issue No. 8: Traceability .................................................................................................. 27 
+4.9 Policy issue No. 9 Participation in International Meetings and the Implementation of 
+Agreements ..................................................................................................................................... 28 
+4.10 Policy issue No. 10: Food Safety Financing .............................................................................. 28 
+5. POLICY IMPLEMENTATION FRAMEWORK ........................................................................ 29 
+5.1 General Implementation Guidelines ........................................................................................... 29 
+5.2 Implementation Framework ...................................................................................................... 30 
+6. FINANCING .............................................................................................................................. 35 
+7. MONITORING AND EVALUATION ....................................................................................... 36 
+8. REFERENCES ........................................................................................................................... 37
+=== PAGE 7 ===
+7 | P a g e 
+ 
+ABBREVIATIONS AND ACRONYMS  
+AfCFTA  
+Africa Continental Free Trade Area 
+AGDP 
+Agricultural Gross Domestic Product 
+AMR  
+Antimicrobial Resistance 
+AUC  
+African Union Commission 
+CAADP PP          
+Comprehensive Africa Agriculture Development Programme Partnership             
+Platform meeting 
+CAC  
+Codex Alimentarius Commission 
+Cirad 
+French Agricultural Research Centre for International Development 
+DALYs 
+Disability Adjusted Life Years 
+FAO  
+Food and Agriculture Organization 
+FSSA 
+Food Safety Strategy for Africa 
+GCC 
+Gulf Cooperation Council 
+GDP 
+Gross Domestic Product 
+IGAD  
+Intergovernmental Authority on Development 
+IPPC 
+International Plant Protection Convention 
+ISPMs 
+International Standards for Phytosanitary Measures 
+OIE 
+Office International des Epizooties 
+SDG 
+Sustainable Development Goals 
+SPS 
+Sanitary and Phytosanitary Measures 
+TBT 
+Technical Barriers to Trade 
+WB 
+World Bank 
+WHA 
+World Health Assembly 
+WHO 
+World Health Organization 
+WOAH 
+World Organization for Animal Health 
+WTO 
+World Trade Organization
+=== PAGE 8 ===
+8 | P a g e 
+ 
+DEFINITIONS/GLOSSARY 
+ 
+Codex  
+Alimentarius 
+A collection of international standards, guidelines and codes of practice to 
+protect the health of consumers and ensure fair practices in the food trade 
+Codex  
+Alimentarius 
+Commission 
+The Codex Alimentarius Commission is a UN food standards body 
+established by the Food and Agriculture Organization of the United 
+Nations (FAO) and the World Health Organization (WHO). It protects 
+consumer health and ensures fair practices in international food trade. 
+Food chain. 
+The series of processes by which food is grown or produced, sold, and 
+eventually consumed 
+Food Control 
+A mandatory regulatory activity of enforcement by national or local 
+authorities to provide consumer protection and ensure that all food is safe, 
+wholesome and fit for human consumption during production, handling, 
+storage, processing and distribution; that it conforms to food safety and 
+quality requirements; and is labelled honestly and accurately as prescribed 
+by the law 
+food control system 
+The integration of regulatory activities across all responsible, competent 
+authorities to achieve the key objectives of food control, including 
+preventive and educational strategies that protect the whole food chain 
+Food Recall 
+ 
+Removing food from further sale or use or correcting its label at any point 
+in the supply chain is a risk mitigation action. 
+Food safety   
+The assurance that food will not harm the consumer when it is prepared 
+and/or eaten according to its intended use. 
+Food traceability 
+The ability to track the movement of a food product and its ingredients 
+through all steps in the supply chain, both backwards and forward 
+HACCP 
+A science-based systematic system that identifies specific hazards and  
+measures for their control to ensure food safety. It assesses hazards  
+and establishes control systems that focus on prevention rather than  
+relying mainly on end-product testing. 
+Surveillance  
+The ongoing systematic collection, collation, analysis, and interpretation of 
+data are followed by disseminating information to all those involved so 
+that directed actions may be taken. 
+World Organization 
+for Animal Health 
+Formerly, the Office International des Epizooties (OIE) is an 
+intergovernmental organisation that coordinates, supports, and promotes 
+animal disease control.
+=== PAGE 9 ===
+9 | P a g e 
+ 
+EXECUTIVE SUMMARY 
+Somalia adheres to international standards established by standard-setting organizations, including the 
+Codex Alimentarius Commission (CAC), the World Organization for Animal Health WOAH/OIE), 
+and the International Plant Protection Convention (IPPC). As a member of regional economic 
+communities, this policy has been aligned to these international and regional standards and strategies. 
+This alignment aims to enhance food safety within the country and to boost the competitiveness of 
+Somali food products in the regional and  international markets. 
+Ensuring food safety is a crucial aspect of achieving food security. Unfortunately, food safety has not 
+been prioritized in the country’s development plan. Food security policies andinitiatives have often 
+given scant attention to food safety. This lack of emphasis can be partly attributed to limited data on 
+the impact of food-borne illnesses (both on health and other aspects) and the associated costs and 
+benefits of addressing these issues. The lack of a food safety policy in Somalia has lead to inefficiencies 
+in the national food safety control system, posing a risk of food-related hazards, rejecting food exports 
+by importing countries, and other undesirable consequences. 
+A food safety policy plays a pivotal role for policy direction and serves as a national regulatory 
+framework. To better understand the current food safety situation, we held meetings with key 
+stakeholders. During these meetings, we assessed the various agencies involved in different aspects of 
+the food control system. We emphasized the roles and mandates of each agency, the legal basis of 
+their work, existing coordination mechanisms, and areas of concern that need to be addressed. We 
+identified several areas of food safety controls that are weak or insufficient, including legislation and 
+enforcement, education and training, food control and inspection, traceability, surveillance of 
+foodborne diseases, and the involvement of consumers and stakeholders in food safety activities. 
+The infrastructure, number, and expertise of food safety personnel, as well as traceability and recall 
+systems, training, education, and research on food safety, are currently inadequate and need 
+improvement. There are overlaps and gaps in the responsibilities of agencies involved in food safety 
+activities, and coordination and information sharing among these agencies need to be strengthened. 
+This policy addresses challenges in food safety controls and proposes a participatory implementation 
+plan with performance measures for outlined actions and initiatives. The policy covers food safety 
+throughout the entire food chain, involving both public and private organizations responsible for 
+researching, developing technology, providing training, and managing food safety. It aims to protect 
+public health and facilitate food trade.  
+This policy deals with the country's food safety controls, including regulatory and institutional 
+frameworks, as well as processes and practices, continuous training of stakeholders, public education, 
+awareness creation, and strengthening of food safety infrastructure. These efforts are intended to 
+ensure that food safety recommendations align with regional and international food safety governance 
+statutes and effectively address hazards through a risk-based approach. The successful implementation 
+of this policy will depend largely on the enactment and enforcement of appropriate legislation 
+impacting food safety.
+=== PAGE 10 ===
+10 | P a g e 
+ 
+1. INTRODUCTION  
+1.1 Background 
+Access to safe and nutritious food is key to sustaining life and promoting good health. Unsafe food 
+containing harmful bacteria, viruses, parasites or chemical substances causes more than 200 diseases. 
+Diarrhoeal diseases are the most common illnesses resulting from the consumption of contaminated 
+food, causing 550 million people to fall ill and 230,000 deaths every year. According to the World 
+Health Organization (WHO), every year, about 600 million, almost 1 in 10 people in the world – fall 
+ill after eating contaminated food, and more than 400,000 die every year because of food-borne 
+diseases resulting in the loss of 33 million healthy life years (DALYs). These diseases contribute 
+significantly to the global burden of disease and mortality. Children under 5 years of age carry 40% of 
+the foodborne disease burden, with 125,000 deaths every year. 
+This growing public health problem causes considerable socioeconomic impact through strains on 
+healthcare systems, lost productivitycoupled with negative impact on  tourism and trade.  
+The most recent World Health Organization’s (WHO) Global Burden of Foodborne Diseases 
+estimated that, in Africa, food safety hazards were responsible for approximately 137,000 deaths and 
+about 91 million cases of acute foodborne illnesses on an annual basis, the highest estimates 
+worldwide. A World Bank (WB) report (2019) estimated that this situation of unsafe foods costs low- 
+and middle-income economies, mainly Sub-Saharan and Southeast Asia economies, the equivalent of 
+$110 billion in lost productivity and medical expenses alone each year. Foodborne diseases impede 
+socioeconomic development by straining healthcare systems and harming national economies, tourism 
+and trade. 
+Food contamination may occur at any stage in the process, from food production to consumption 
+(“farm to fork”); food safety is best assured by an integrated, multidisciplinary approach that considers 
+the entire food chain. A food safety system should consider the complexity of food production and 
+the globalisation of the food supply and should be risk-based. Hazards and potential risks should be 
+considered at each stage of the food chain, i.e. primary production, transport, processing, storage and 
+distribution, to ensure that appropriate risk mitigation measures are in place. 
+The key challenges in Somalia's food safety controls include weak policy and legal framework on food 
+safety, low human and infrastructural capacity for implementation and enforcement of laws, testing, 
+inspection and certification as well as  research and  poor communication between the various 
+stakeholders 
+1.2 Rationale  
+The main objective of a food control system is to ensure that food is produced and handled 
+throughout the production and distribution chain in a process that results in safe food. To ensure this, 
+there is a need to have systems that monitor food safety risks. An adequate food safety risk monitoring, 
+inspection and testing, and certification system enhances food quality and safety, positively impacts 
+human health and increases the competitiveness of the foods produced in Somalia in regional and 
+international markets.
+=== PAGE 11 ===
+11 | P a g e 
+ 
+An effective food safety control system incorporates strengthening the coordination of public agencies 
+involved in food safety controls. There is a need, therefore, to strengthen existing institutional 
+capacities and linkages and facilitate public/private sector cooperation. 
+The food safety control system in Somalia takes a multi-sectoral approach and is governed by several 
+laws enforced by various government ministries, departments, and regulatory agencies. Each agency 
+collaborates with federal state-line institutions and communicates with the Somali Bureau of 
+Standards. However, there is currently insufficient coordination among these institutions and between 
+the two levels of government. Additionally, there is weak enforcement of existing legislation and 
+standards, which increases the risks to human health and the food trade. 
+It is crucial to establish and maintain a rational, integrated farm-to-fork food safety system that 
+harmonizes inter-agency efforts, minimizes possible conflict and overlap, and ensures public health 
+protection and safe food trade in line with international requirements. The government should also 
+increase investment in food safety controls from both the public and private sector stakeholders across 
+the food chain. The overall food safety situation, enforcement of regulations, and national capacity to 
+deal with emerging food safety issues can only be strengthened by a specific food safety policy and 
+better coordination among major stakeholders. 
+There is a need to develop policy and legal frameworks to establish and maintain early warning and 
+risk management mechanisms to prevent food safety risks and to develop a data bank of food safety 
+issues. This policy will address the identified gaps and develop systems that align with the national 
+health and trade objectives. 
+The challenges affecting Somalia's food systems include:  
+1. Weak policy and legal framework on food safety 
+2. Weak communication between government agencies at Federal and State Governments  
+3. Weak communication between government agencies and the private sector/industry on food 
+safety concerns 
+4. Inadequate human resource capacity and food safety control infrastructure 
+5. Lack of laws addressing food safety aspects along the food chain 
+6. Low testing, inspection and certification capacity 
+7. Low public awareness of food safety issues 
+8. Inadequate mainstreaming of food safety issues into formal curricula at various levels of 
+training institutions. 
+9. Low funding for food safety controls. 
+10. Low adoption and implementation of national regulations relating to safe food production 
+and trade 
+1.3 Scope  
+The policy covers all aspects of food safety along the food chain. This includes all public and private 
+institutions engaged in research, education, technical, food, and animal-sourced food production and 
+trade. The aim is to protect public health and contribute to economic development, especially in 
+Somalia's livestock-based economy. The policy also addresses the roles and responsibilities of various 
+stakeholders, the legal and institutional framework, and the strengthening of food safety infrastructure.
+=== PAGE 12 ===
+12 | P a g e 
+ 
+The policy will ensure that Somalia's food safety control system meets regional and international 
+requirements. It includes an implementation framework to guide the execution of the policy. 
+Additionally, it will address legislative instruments, existing and future, that are expected to have a 
+positive impact on food safety and trade. 
+1.4 Policy Development Process 
+An extensive situational analysis was carried out with key stakeholders, including officers from federal 
+and state ministries, departments, and agencies involved in regulating the food system, as well as 
+representatives from the food industry. We also studied existing policies, strategies, laws, and 
+regulations to identify weaknesses in the current food safety control system. The findings from the 
+situational analysis were used to define policy issues and potential interventions, which were then 
+presented to the various stakeholders for validation and ownership.
+=== PAGE 13 ===
+13 | P a g e 
+ 
+2 SITUATION ANALYSIS  
+2.1 Somalia's Food Sector Outlook 
+2.1.1 Agriculture 
+Agriculture, mainly driven by livestock production, is the dominant sector of the Somali economy. Its 
+performance significantly influences the overall Gross Domestic Product (GDP) growth rate. The 
+sector contributes over 65% to the national GDP, with livestock accounting for more than 70% of 
+the agricultural GDP. Agriculture is the highest foreign exchange earner for Somalia, with food and 
+other related imports amounting to around $460 million annually. 
+Maize and sorghum are the primary staple food crops in Somalia. Since 2017, annual production has 
+dwindled to an average of about 250,000 tonnes, as opposed to 650,000 tonnes in 1988. Production 
+is marked by low yields (1 to 1.50 tonnes/ha for maize and 0.3 to 0.6 tonnes/ha for sorghum), 
+especially for small-scale farmers. These low yields are mainly due to the lack of high-quality seeds, 
+widespread pests and diseases, and inadequate crop management practices. Other crops grown include 
+rice, legumes (black-eyed peas and mung beans), oil crops (sesame and sunflower), bananas, citrus 
+fruits, vegetables, sugarcane, cotton, and lemons. 
+Agriculture and livestock sectors encounter numerous constraints that hinder productivity and 
+efficiency. These include unpredictable and extreme weather patterns, underdeveloped and 
+fragmented markets, inadequate value addition, lack of access to quality inputs such as seeds, 
+fertilizers, and animal vaccines, and underdevelopment of human capital. 
+The Ministry of Agriculture is responsible for overseeing and inspecting agricultural crop production, 
+focusing mainly on quality control, such as seed quality. However, there is limited regulation for food 
+safety at the production level and no testing capacity to assess food safety risks associated with food 
+production. 
+2.1.2 Livestock 
+Livestock is vital to Somalia's economy, with approximately 7.1 million camels, 5.3 million cattle, 30.9 
+million goats and 13.6 million sheep (World Bank, 2018; Ojanji et al., 2023). Around 80% of the 
+Somali population is involved in livestock farming. This sector contributes to about 80% of the 
+agricultural GDP and 45% of the national GDP. Livestock exports account for 80% of the country's 
+foreign currency earnings. 
+The primary animal products are milk, meat, hides, and skins. Moreover, there are developing 
+commercial dairy systems in peri-urban areas of most cities. The market-driven peri-urban camel and 
+cattle dairy systems are fueled by increasing demand in expanding towns and cities, where the sale of 
+raw milk is a significant economic activity. 
+The Somali livestock sector is primarily focused on exports. The main export destinations are Middle 
+East and Kenya. While the trade mostly involves live animals, there is also a growing trend in chilled 
+meat exports to certain Middle Eastern countries. Livestock export opportunities to Middle Eastern
+=== PAGE 14 ===
+14 | P a g e 
+ 
+countries have become increasingly competitive, with stricter food quality and safety requirements 
+leading to occasional bans and a loss of market (Nga’sike et al., 2020). 
+According to the Somalia Livestock Sector Development Strategy, the majority of milk sold in Somalia 
+comes from agro-pastoral and pastoral milk production. The dairy value chain is mainly informal, with 
+individual producers selling directly at nearby markets or to milk traders who collect milk in bulk from 
+wide areas and sell it in towns. However, there are no laws in place to regulate milk safety throughout 
+the entire chain, from production to final sale. There is legislation in place for meat safety control, but 
+its enforcement is weak due to factors such as low human and infrastructure capacity. There is also 
+limited awareness of aspects of food safety among the value chain actors 
+2.1.3 Fishery 
+Fishing is a small-scale and artisanal activity in Somalia. In coastal villages and towns outside the main 
+urban centers, fish consumption is not a common part of the diet. The diet is mainly dominated by 
+meat and dairy as the primary sources of protein, especially for the nomadic population. Along 
+Somalia’s 3,333 km coastline, there are 50 fishing villages and towns. The country’s fisheries sector 
+contributes to around 2% of Somalia’s GDP. It is predominantly small-scale, employing around 
+30,000 people full-time, 60,000 part-time, and 500,000 in ancillary activities. 
+The fishery sector in Somalia suffers from a lack of coordinated governance and proper fisheries 
+infrastructure. This has resulted in uncontrolled harvesting by foreign commercial fishing vessels along 
+the Somalia coastline. Challenges facing Somalia's fishery sector include a lack of knowledge, skills, 
+and information required to operate the sector, as well as inadequate equipment and technologies. 
+Additionally, there are limited investments, access to international markets, and access to finances. 
+Although the Fish (Fishery and Aquaculture Products) (Quality Assurance) Rules have been in 
+existence for a number of years, the implementation of the rules is limited. 
+2.1.4 Poultry 
+Poultry farming in Somalia is vital for food security, income generation, and economic resilience. The 
+majority of poultry farming in Somalia is small-scale and traditional, forming an essential part of the 
+country's agricultural system which is characterized by, low input, and an unorganized market system. 
+In Somalia, poultry farming primarily serves as a source of livelihood and a food source for domestic 
+consumption. While the exact chicken population in Somalia is unknown, it is estimated that 
+Indigenous birds make up 96.9% of the total population, while hybrids and exotic birds represent 
+0.54% and 2.56% respectively. 
+Poultry farmers in Somalia face numerous challenges as they work to maintain successful operations. 
+These include climate and environmental issues, disease management, feed and nutrition, market 
+access and value chain, security and conflict, financial constraints, and skills and knowledge gaps. 
+Despite these obstacles, many poultry farmers in Somalia persevere by adapting to their local context 
+and seeking innovative solutions. However, the understanding of food safety among the stakeholders 
+as well as  regulation and control of food safety along the poultry value chain is limited It is crucial for 
+organizations and initiatives to address these issues to support their efforts.
+=== PAGE 15 ===
+15 | P a g e 
+ 
+2.1.5 Honey Sector 
+Honey production in Somalia is primarily done through traditional methods. It is estimated that 
+around 225,000 liters of honey are produced annually, with a total value of approximately 110-300 
+thousand US dollars. However, there is currently no legislation in place to regulate food safety 
+throughout the production process. 
+2.1.6 Retail Food Sector 
+The retail and food service sectors consist mainly of informal, family-owned microbusinesses, with 
+women playing a significant role. The primary traded foods are fish, meat, and milk. However, the 
+stakeholders have a limited understanding of food safety and minimal infrastructure for value addition. 
+The domestic food import markets are characterized by numerous small and medium-sized traders 
+who typically rely on large importers operating across the whole country or in specific regions. 
+Products include powdered and condensed milk, milk products (such as cheese, yoghurt, and other 
+dairy products), poultry, eggs, and other meat products/processed meat, with the exception of fresh 
+meat and fish. As in the production nodes of the food chain, there is also limited regulation and control 
+of food safety in the retail and food service sectors 
+2.2 International Food Safety Framework 
+Safe food is a primary determinant of human health. Access to safe and healthy food is a basic human 
+right. In seeking to guarantee this right, governments must ensure that available food meets safety 
+standards. 
+Since its establishment in 1948, the World Health Organization (WHO) has committed to reducing 
+the burden of foodborne illness on global health. In pursuit of continuous improvement in food 
+safety, in the First FAO/WHO/AU International Food Safety Conference, which was held in Addis 
+Ababa on 12–13 February 2019, WHO and other partners set to identify food safety priorities, align 
+strategies across sectors and borders, reinforce efforts to reach the Sustainable Development Goals 
+(SDG) and support the UN Decade of Action on Nutrition. In April 2019, the WTO International 
+Forum on Food Safety and Trade met in Geneva and continued the discussions, addressing the trade-
+related aspects and challenges of food safety such as the use of new technologies, multi-stakeholder 
+coordination and harmonizing regulation in a time of change and innovation. 
+The conclusions from both conferences were integrated into Resolution WHA73.5, “Strengthening 
+efforts on food safety” adopted by the Seventy-third World Health Assembly in 2020, reaffirming that 
+food safety is a public health priority with a critical role in the 2030 agenda for sustainable 
+development. The resolution acknowledged that governments must act at the global, regional, and 
+national levels to strengthen food safety. It also called on Member States to remain committed at the 
+highest political level to recognizing food safety as an essential element of public health to develop 
+food safety policies that take into consideration all stages of the supply chain, the best available 
+scientific evidence and advice, as well as innovation; to provide adequate resources to improve national 
+food safety systems; to recognize consumer interests; and to integrate food safety into national and 
+regional policies on health, agriculture, trade, environment, and development. In turn, Member States 
+requested WHO to update the Global Strategy for Food Safety to address current and emerging
+=== PAGE 16 ===
+16 | P a g e 
+ 
+challenges, incorporate new technologies, and include innovative approaches for strengthening 
+national food safety systems (WHO Global Strategy for Food Safety 2022-2030) 
+The Codex Alimentarius Commission (CAC) is the body responsible for all matters regarding the 
+implementation of the Joint FAO/WHO Food Standards Programme. CAC was established by the 
+Food and Agriculture Organization of the United Nations (FAO) and the World Health Organization 
+(WHO) in 1963. Codex main work is the development of international food standards, guidelines, and 
+codes of practice to protect the health of consumers and ensure fair practices in the food trade. The 
+Commission also promotes the coordination of all food standards work undertaken by international 
+governmental and non-governmental organizations. The Commission establishes risk management 
+standards which may be used by Member Countries or used as non-legislative standards by the food 
+trade. The Commission establishes these standards using the principles of risk analysis and bases its 
+work on the scientific advice provided by the joint FAO/WHO expert bodies and consultations, for 
+which there needs to be sufficient and sustainable funding. International food safety standards 
+established by the Commission are explicitly recognized in the World Trade Organization’s Agreement 
+on the Application of Sanitary and Phytosanitary Measures (WTO SPS Agreement). Codex standards 
+also serve as references under the WTO Agreement on Technical Barriers to Trade (WTO TBT 
+Agreement) 
+Founded in 1924, the World Organization for Animal Health (WOAH) establishes international 
+standards that form the basis for national legislation. These standards focus on addressing foodborne 
+pathogens of animal origin and aim to eliminate hazards before the animals are slaughtered or their 
+products are processed. Additionally, WOAH standards cover the role of Veterinary Services in food 
+safety systems and the connections between food production, processing, and distribution. Apart from 
+developing international food safety standards, WOAH collaborates with other international 
+organizations to ensure proper regulation of the entire food production chain. The WOAH is 
+recognized as one of the standard-setting bodies by the WTO Agreement on the Application of 
+Sanitary and Phytosanitary Measures (WTO SPS Agreement). 
+The International Plant Protection Convention (IPPC) sets standards (so-called ISPMs) for the safe 
+movement of plants and plant products to prevent the spread of plant pests and diseases 
+internationally. Compliance with IPPC obligations and ISPMs is a vital element in countries' ability to 
+trade internationally and to food security. These standards are important as they allow for the 
+protection of domestic consumers, producers and the environment from the risks of introduced pests, 
+and help exporters demonstrate that their products are safe. 
+To operationalize the Africa Union Sanitary and Phytosanitary (SPS) framework, AUC developed the 
+Food Safety Strategy for Africa 2022 - 2036 (FSSA), which addresses the adoption and promotion of 
+effective measures that will:  
+a) increase the capacity of government food control functions,  
+b) strengthen the capacity of the business sector along the food continuum to produce safe food 
+and 
+c) empower the consumer to demand safe food.  
+All these interventions will improve the capacity of the food safety systems, help manage food safety 
+risks and threats and reduce the current burden of foodborne diseases that afflict the continent. The 
+Strategic Objectives of the FSSA are to:
+=== PAGE 17 ===
+17 | P a g e 
+ 
+(i) 
+Strengthen food policy, legal and institutional frameworks  
+(ii) 
+Strengthen the human and infrastructure capacity of food control systems  
+(iii) 
+Promote food safety culture, evidence-based advocacy, communication, and information 
+sharing to raise consumer awareness and empowerment  
+(iv) 
+Improve trade and market access at national, regional, continental and global levels  
+(v) 
+Strengthen research, innovation, technology development and transfer  
+(vi) 
+Establish and strengthen coordination mechanisms and enhance national, regional, 
+continental and global cooperation. 
+The 14th Annual Comprehensive Africa Agriculture Development Programme Partnership Platform 
+meeting (CAADP PP), held in 2018, underscored the importance of improving food safety and quality 
+standards in Africa to avoid the health burden from food-borne diseases and also to improve the 
+competitiveness of African agriculture and food trade.     
+The East African Community (EAC)   Food and Nutrition Security strategy and the EAC SPS Strategy  
+incorporate various aspects of food safety. These include raising awareness, controlling aflatoxins, 
+documenting food safety practices, and enhancing the capacity of small and medium-sized enterprises 
+(SMEs) in food safety. 
+The Government of Somalia will harmonize its policy and implementation framework with the 
+international and regional strategies and guidelines mentioned above. 
+2.3 National Food Safety Policies and Strategies 
+Before the Somalia Civil War, the central government had a comprehensive food quality control 
+system, which included laboratory and inspection divisions. However, currently, the federal 
+government lacks strong public health controls for sanitation and hygiene-related matters. Food 
+business operators conduct quality control without government oversight due to the absence of 
+appropriate public health laws, enforcement, and inspection services. 
+Somalia does not have a specific policy addressing food safety, although there are several national 
+policies and strategies that indirectly touch on different aspects of food safety. While some of these 
+policies have been published, many are still under development. Limited public resources and 
+competing priorities, particularly security and food security, have hindered progress in developing 
+food safety governance. 
+2.3.1 Somali Health Policy 
+The Somali Health Policy was developed collaboratively by the Ministry of Health and Human 
+Services of the Federal Government of Somalia, the Ministry of Health of Puntland, and the Ministry 
+of Health of Somaliland. It was approved by the Health Advisory Board in September 2014. 
+The key directions of the Somali Health Policy prioritize engaging the public to promote health, 
+personal hygiene, safe drinking water, sanitation, environmental hygiene, food safety, and proper waste 
+disposal. It also focuses on introducing standardized rapid diagnostic technologies for common 
+communicable diseases, establishing active disease surveillance and early warning systems to detect 
+potential outbreaks, and pre-positioning medical supplies and kits for rapid response coordination. 
+Additionally, the policy aims to promote laboratory-based surveillance of food-borne diseases by
+=== PAGE 18 ===
+18 | P a g e 
+ 
+developing food safety guidelines and interventions throughout the entire process from importation 
+and production to consumption. 
+2.3.2 Somalia Health Sector Strategic Plan 2022– 2026 
+Published in 2021, the Health Sector Strategic Plan acknowledges that the internal conflict in the 1990s 
+resulted in the destruction of the health system, sanitation, and safe drinking water infrastructure. 
+Currently, public health service delivery is weak. The main goal of the plan is to strengthen the public 
+health system in order to reduce the disease burden. One of the focus areas for improvement is 
+emergency preparedness and response, as well as epidemiological surveillance. 
+2.3.3 Livestock Sector Development Strategy 
+The strategy was published in 2019. With regard to food safety, the strategy recognizes the unhygienic 
+handling of food and the weak control system in all livestock subsectors. It also acknowledges and 
+aims to address the livestock sector's weak infrastructure and human capacity, the low capacity of 
+livestock training institutions to train enough personnel, poor student enrollment, and poor 
+absorption of trained veterinary personnel in the public sector. 
+2.3.4 National Animal Health Strategy for Somalia 
+This strategy was published in 2020 with key objectives of improving livestock disease surveillance 
+and reporting systems, strengthening laboratory diagnostic services at federal and state levels, 
+developing mechanisms for quality control, safety, and efficacy of veterinary drugs and biological 
+products, strengthening quarantine veterinary services, inspection, and certification systems, 
+developing regulations on animal welfare and protection, instituting veterinary profession service 
+providers regulation to facilitate registration of professionals to uphold professional standards and 
+ethics. It also envisions establishing a National Food Safety and Consumer Protection Authority 
+(NFSA). 
+2.3.5 The National SPS Strategy 
+The National SPS Strategy was published in 2019 with the main objectives of identifying and 
+prioritizing key SPS (Sanitary and Phytosanitary) issues in Somalia. This involves updating outdated 
+laws, legislations, and SOPs, as well as ensuring that staff, the general public, and key government 
+officers are familiar with the challenges and opportunities of SPS compliance. The strategy also aims 
+to enhance the analytic capacity of laboratories and quarantines, improve staff capacity, and strengthen 
+technical networking. Additionally, it will bolster the coordination of the national SPS committee to 
+create a common platform for discussing, advocating, and promoting SPS measures. The strategy 
+seeks to enhance regional and international cooperation in animal health, plant health, animal welfare, 
+food safety, and antibiotic and chemical residues in food to facilitate cross-border, regional, and 
+international trade. 
+2.3.6 Marketing Strategy for Livestock and Livestock Products  
+The strategy was published in 2018 and proposes the establishment of a certification and quality 
+control body to ensure adherence to international standards. It also aims to develop livestock 
+certification mechanisms and implement suitable quarantine registration and management procedures. 
+Additionally, the strategy seeks to inform policy-making for the establishment of slaughterhouses and
+=== PAGE 19 ===
+19 | P a g e 
+ 
+tanneries at the national level and translate them into bylaws for enforcement at the municipal level. 
+It aims to improve meat industry standards, the quality of meat, and support services, as well as 
+enhance capacity for service provisions and promote observance of meat hygiene codes. Furthermore, 
+it aims to raise public awareness about the importance of meat hygiene, rehabilitate and improve the 
+management of local and urban markets, and expand market information collection, analysis, and 
+dissemination by developing the local capacity of the private and public sectors. 
+2.3.7 National Action Plan for Antimicrobial Resistance (AMR) 
+This action plan is in its final stages of development. The AMR situational analysis has been carried 
+out, and the action plan is based on the information gathered during the situational analysis 
+2.4 Food safety laws 
+It is crucial to establish meaningful and enforceable food laws and regulations as part of food control 
+systems. There are several laws related to food safety that are being developed or put into practice at 
+different levels. However, enforcing these laws is a challenge in many areas. Furthermore, it is 
+important for the various food laws to address coordination in domestic food safety governance 
+adequately. The lack of coordination has had a significant impact on public health protection and food 
+trade. 
+2.4.1 The Veterinary Law Code 2016  
+The Veterinary Law Code 2016 aims to improve the quality of care and the health status of livestock, 
+as well as protect human health. It also focuses on implementing international veterinary certification 
+procedures, supervising and auditing their application, and safeguarding animals and their welfare. 
+These objectives are achieved through various measures such as controlling zoonoses, ensuring food 
+hygiene and meat inspection, preparing for and responding to emergencies, and inspecting and 
+certifying animals and animal products according to international standards. However, enforcement 
+of this law is weak in several federal states as some have not implemented the necessary regulations. 
+2.4.2 Meat Inspection and Control Act 
+This act is currently in its final stages of development. Once enacted, it will grant authorities the power 
+to regulate the production of meat and meat products, oversee slaughterhouses and places where such 
+meat is processed. The act will be implemented in conjuction  with the Somalia Bureau of Standards 
+to ensure the safety of meat for import and export, as well as for domestic consumption. 
+2.4.3 Somali Standards and Quality Control Act No. 27 of 2020 
+The purpose of this act is to establish the Somali Bureau of Standards. This includes developing the 
+National Standards and Quality Control policy for standards, metrology, inspections, and quality 
+assurance of products. Moreover, it aims to control the quality of goods and services, including those 
+imported and exported, as well as those produced or used within the country. 
+2.4.4 The Fish (Fishery and Aquaculture Products) (Quality Assurance) Rules, 2017 
+The rukes prescribe measures for monitoring and controlling fish, fishery, and aquaculture products, 
+as well as the inputs used in the aquaculture value chain. They also outline procedures for monitoring 
+substances and groups of residues that are likely to contaminate fish, fishery, and aquaculture products.
+=== PAGE 20 ===
+20 | P a g e 
+ 
+The rules specifically cover the appointment of fish inspectors, conditions for storing and transporting 
+fish, packaging, distribution, and the monitoring of water. Additionally, they include provisions for 
+the approval of fish processing establishments and general requirements for fishery products. 
+2.4.5 Somali Inspection and Clearance of Imported Goods Regulations, 2023 
+These regulations are for implementing the Somali Standards and Quality Control Act, Law No. 27 
+of 2020, and apply to all goods entering the various border points of the Federal Republic of Somalia. 
+2.4.6 Somali Export, Certification and Quality Mark Regulations, 2023 
+These regulations are designed to implement the Somali Standards and Quality Control Act, Law No. 
+27 of 2020. They specifically pertain to the use of the SOBS quality standardization mark. These 
+regulations apply to system certification as established by any SOBS certification scheme, as well as to 
+all measurements and calibrations, including inspection equipment, measurements, volume, and 
+weighing instruments used in relevant business and trade. 
+2.5 Food Safety Institutional Framework 
+There are several institutions and agencies involved in food safety control systems. Each agency 
+operates independently to fulfil its mandate as established by the law. 
+2.5.1 The Directorate of the Animal Health Department, MoLFR  
+Under the Veterinary Law Code, the Directorate of Animal Health is responsible for authorising the 
+management of livestock production enterprises and related agribusiness, such as marketing livestock 
+and livestock products and participating in veterinary extension services. Establishing inter-sectoral 
+public health cooperation between human health and animal health services and with the animal 
+production, agriculture and environmental departments in controlling animal reservoirs of human 
+diseases and the control of zoonoses, food hygiene and meat inspection; 
+2.5.2 Somali Bureau of Standards 
+The Bureau, established under the Somali Standards and Quality Control Act No. 27 of 2020, is 
+charged with the responsibility of establishing policies, by-laws, regulations, procedures, and 
+standards. These are aimed at determining the quality of all goods, services and commodities used in 
+the country, to ensure that all products and other imported goods do not carry risks and dangers that 
+may harm the public. In addition to prepation of standards and measures preventing the health effects 
+to the society by the expired foods and medicines, or lower quality foods and medicine or those whose 
+quality has been deliberately reduced it also establishes a national laboratory to check the quality of 
+imported and exported goods and materials. 
+2.6 Food Testing Services 
+Food testing and laboratory confirmation are an important part of food control. In food safety, testing 
+determines the presence and level of physical, chemical or microbial contamination in food. Testing 
+can range from simple to very complex. Laboratories must perform tests and analysis according to 
+internationally accepted laboratory standards.  
+The Somalia Bureau of Standards, among its other functions, is to investigate and ensure that all 
+products and other imported goods do not carry risks and dangers that may damage the public, to
+=== PAGE 21 ===
+21 | P a g e 
+ 
+ensure the quality of domestic production to safeguard the health and financial well-being of the 
+Somali people by establishing a National Laboratory to test the quality of local, imported and exported 
+goods and materials.- current capacity for testing is limited by inadequate human and infrastructure 
+capacity.  
+The Three (3) National Central Veterinary Laboratories and the three subnational veterinary 
+laboratories have testing capacity for live animals but limited capacity for food testing, with only a few 
+trained technicians. Some institutions of higher learning have established testing facilities that may be 
+used for both live animal and food testing. There are also a few private laboratories in Somalia which 
+are used by the food industry players 
+2.7 Food Inspection and Certification Services 
+Inspection is carried out at the export and larger local slaughterhouses but minimally in the small 
+slaughterhouses and slabs. This is mainly due to limited human capacity, both in number and in 
+training in food inspection.   
+The Somalia Bureau of Standards mainly carries out certification for the import of foods. The 
+implementation of food inspection is also impacted negatively by the lack of food safety infrastructure, 
+including food processing facilities and testing laboratories.  
+The Ministry of Fisheries and Blue Economy, jointly with the Somalia Bureau of Standards, has 
+established the Fish Inspection and Quality Assurance Office (FIQA), but it is yet to be 
+operationalised. This will address aspects of fish safety. 
+2.8 Information, Education/Training and Communication 
+The flow of information is critical for an effective food safety control system. Communication 
+between public agencies and food industry stakeholders is crucial for the early detection and 
+management of food safety issues.   
+Currently, there is limited understanding of food safety among various stakeholders and insufficient 
+communication of information on food safety issues between stakeholders and between the federal 
+government and the states. Multiple studies have highlighted the lack of knowledge and skills in food 
+safety, which are crucial for domestic, regional, and international markets. Several Universities offer 
+training in animal production and health, and these programs are included in their curriculum. The 
+individual institutions develop these curricula, which are then moderated by the Ministry of Livestock, 
+Forestry and Range and the Ministry of Higher Education to ensure consistency and quality control. 
+2.9 Emerging and Re-emerging Food Safety Issues 
+There is a shortage of information on emerging and re-emerging food safety issues, and the data from 
+different public agencies doesn't provide a national overview. The collection and collation of 
+information on food safety issues is limited. Food safety is not a high priority at the moment due to 
+factors such as the absence of a comprehensive regulatory framework and insufficient human, 
+technical, and financial resources. The national food control system is fragmented, and the roles and 
+responsibilities of different stakeholders are not clearly defined and may overlap.
+=== PAGE 22 ===
+22 | P a g e 
+ 
+2.10 Food Safety Financing  
+Food safety control is purely financed solely by the government, with some aspects, particularly 
+capacity development, being supported by development partners. There is, however, minimal 
+investment in food safety due to competing priorities. While public universities have some capacity to 
+research to respond to food safety challenges, these institutions have limited resources to make their 
+contribution more sustainable.
+=== PAGE 23 ===
+23 | P a g e 
+ 
+3 POLICY OBJECTIVES 
+3.1 Vision 
+A healthy population with increased life expectancy and facilitation of food trade through producing 
+and consuming safe and healthy foods. 
+3.2 Mission 
+To provide safe food from production to consumption through a robust food safety control system 
+based on inter-sectoral cooperation, addressing the farm-to-table continuum, stakeholder 
+participation, and establishing priorities based on risk analysis and sectoral policy integration. 
+3.3 Broad Policy Objective 
+1. To ensure public health through safe food along the food chain continuum. 
+2. To align food safety control to regional and international standards to facilitate trade.  
+3. To develop capacity for food safety controls for all stakeholders. 
+3.4 Specific Policy Objectives 
+1. To align existing food safety policy and legal frameworks with current food safety needs. 
+2. To develop a food control system that is grounded on a risk-based approach and addresses all 
+food safety concerns along the food chain.  
+3. To harmonize and strengthen coordination, oversight, enforcement and functionality of food 
+control mechanisms at federal and state levels. 
+4. Enhance institutional capacity for food safety risk analysis. 
+5. Align food control regulatory framework to regional and international standards and 
+guidelines 
+6. To strengthen human resource development in food safety.  
+7. Establish a national food safety control information management system. 
+8. Promote institutionalization of food safety in the national education system 
+9. To establish a national food safety communication mechanism among stakeholders.
+=== PAGE 24 ===
+24 | P a g e 
+ 
+4. POLICY ISSUES AND INTERVENTIONS 
+Most food safety concerns in Somalia can be attributed to a weak food control system that lacks the 
+ability to detect food safety concerns in time, lack of monitoring and management for emerging and 
+re-emerging food safety concerns, no data collection for risk assessment or sharing of information for 
+proper coordination of risk management. This arises from a lack of effective legal and regulatory 
+framework, poor capacity for information and education, human and infrastructure development, low 
+capacity for testing, inspection and certification and low prioritization of investment in food safety. 
+4.1 Policy Issue No. 1: Policy and Legal Framework 
+Somalia's food safety control system is multi-sectoral in approach, with various government agencies 
+implementing their specific legislation independently of each other. There is no harmonization or 
+coordination among these agencies. The existing legislation does not effectively capture some aspects 
+of food safety in certain sectors. For example, while the aquaculture quality assurance rules cover 
+traceability, other sector laws do not. The current policy and legal environment lack the capacity for 
+human and infrastructure development, information sharing, communication, and research and 
+development of effective science-based data systems. This results in a failure to systematically identify 
+areas of greatest risk and effectively manage those risks. Furthermore, there is a lack of coordination 
+mechanisms to cover all aspects of food safety throughout the food chain. 
+Policy intervention;  
+The federal government shall ensure that policies and legal frameworks addressing food safety are 
+developed and regularly reviewed to address emerging and re-emerging food safety issues. 
+Additionally, the government will support the review of legislation in food safety to provide clearly 
+defined mandates for the various food safety control agencies. Specifically, the government will:  
+• 
+Review existing laws relating to food safety  and strengthen enforcement of the same 
+• 
+Enact a food safety act 
+• 
+Enact new laws/regulations to strengthen food controls in relevant ministries, departments 
+and agencies (MDAs) 
+• 
+Define the roles and responsibilities of the regulatory agencies at the Federal and State 
+government levels and align them to the policy 
+The State Governments shall implement the national policies and laws by aligning their laws with 
+the national policies and legislation 
+4.2 Policy Issue No. 2 Institutional Framework 
+A national food safety control system should be designed and organized in a coordinated and 
+integrated way to deliver a high level of public health and consumer protection in line with local and 
+international requirements. Currently, there are no defined coordination mechanisms among the food 
+safety institutions in Somalia, leaving food safety in jeopardy. 
+Policy Interventions  
+The federal government will establish a coordinating mechanism, including a coordination office 
+responsible for liaising with relevant competent authorities. This mechanism will identify and advise 
+on policy gaps and inadequate regulation in food safety. It will assess the adequacy of food safety
+=== PAGE 25 ===
+25 | P a g e 
+ 
+preparedness and make recommendations to the relevant competent authority. Furthermore, an 
+information management system for food safety and feed safety will be established. The mechanism 
+aims to strengthen institutional capacities on food safety, enhance food safety research, develop a 
+scientific data bank for informed decision-making in the food safety system, and establish a 
+communication mechanism for information sharing.  
+Specifically, the government will: 
+• 
+Develop legislation to establish a food safety coordination agency 
+• 
+Develop a coordination mechanism identifying specific mandates and responsibilities of 
+different MDAs and State Governments for food safety controlsStrengthen the relevant 
+MDAs to carry out the identified mandates 
+The state governments shall undertake co-regulation with the federal food safety agencies and 
+strengthen the institutional capacities of these state agencies. 
+4.3 Policy issue No. 3: Education and Training 
+Though there are several public and private training institutions on livestock production and animal 
+health, incorporating food safety in the curriculum is only prioritized in a few of these institutions. 
+Where food safety is trained, there is inadequate coverage of food safety in the curriculum of most 
+higher education institutions.  
+There is minimal capacity for short-term training for stakeholders in the industry, especially in the 
+private sector. Several institutions have the capacity to organize and host such training, but there is a 
+need for collaboration with the government and industry to identify the training needs and organize 
+such training. 
+Policy intervention 
+The Federal Government shall ensure;  
+• Systematic education on food safety for personnel involved in food safety controls,  
+• Inclusion of food safety issues in the general education and curricula of relevant training 
+programmes,  
+• Incorporation of food safety into the curriculum of basic and higher education institutions 
+training on animal production, animal health, and human health, 
+• Development of a training strategy for all stakeholders, including primary producers, food 
+processors, food handlers, food inspectors and analysts, and, 
+• Development and dissemination of required/essential tools to strengthen the competencies of 
+all relevant personnel at various levels involved in all related food safety controls. 
+The state governments shall build the capacity of stakeholders in their states by incorporating 
+training and education in their food control systems and promoting awareness of food safety within 
+the states. They shall also sensitize all food chain stakeholders on their obligations and the 
+responsibility of the different stakeholders in food safety controls 
+4.4 Policy Issue No. 4 Food Testing Services 
+One of the requirements from trading partners is for countries of origin to have an effective food 
+testing system with robust laboratory services, well-trained human resources, and infrastructure for
+=== PAGE 26 ===
+26 | P a g e 
+ 
+food safety surveillance, product certification, and quality assurance. The current state, characterized 
+by weak food safety surveillance and testing systems, hinders the market access of Somali products in 
+regional and international markets, especially livestock-derived foods for which Somalia has great 
+potential. 
+Policy interventions  
+The relevant MDAs at Federal and State Governments shall: 
+• 
+Establish mechanisms and criteria for approval testing laboratories, both in the public and 
+private sector  
+• 
+Compile and maintain an inventory of food safety laboratories and their scope of analysis and  
+capacities for food testing 
+• 
+Develop laws and procedures for the use of private laboratories for official controls 
+• 
+Support the establishment and enhance the capacity of specialized food safety laboratories, 
+both private and public 
+• 
+Develop laboratory quality management systems and implement Good Laboratory Practices 
+system  
+• 
+Develop and maintain coordination mechanisms for food safety surveillance. 
+4.5 Policy issue No. 5: Information and Communication 
+Effective communication between public agencies and food industry stakeholders is crucial for early 
+detection and management of food safety issues. It is important to have a timely flow of information 
+to ensure a rapid response to food safety concerns. However, currently, there is limited information 
+flow between the different stakeholders and between the federal government and the states. 
+Policy intervention  
+The Federal Government shall; 
+• 
+Establish a mechanism for information sharing among agencies involved in food safety 
+activities 
+• 
+Establish an effective information and communication system between competent 
+authorities and stakeholders involved in food control to exchange relevant information about 
+the entire food chain. 
+• 
+Establish an information-sharing system/database covering all aspects of food safety 
+• 
+Promote public awareness of food safety.  
+• 
+Define the clear roles and responsibilities of various agencies at the federal and state levels.  
+4.6 Policy issue No. 6: Risk Analysis  
+Risk analysis is crucial for providing policymakers with the information needed for effective and 
+transparent decision-making. It contributes to better food safety outcomes, improvements in public 
+health, and facilitates food trade. The risk analysis paradigm, including risk assessment, risk 
+management, and risk communication functions, is internationally recognized as the best way to 
+develop food safety standards and systems for global food safety. This approach offers national food 
+safety authorities a systematic and disciplined way to make evidence-based food safety decisions.
+=== PAGE 27 ===
+27 | P a g e 
+ 
+However, there is currently no established mechanism for risk analysis in Somalia, which limits the 
+country's evidence-based policy and legal development. 
+Policy intervention  
+The federal government will implement measures to enhance formal risk analysis mechanisms, 
+including capacity building in key agencies and risk assessors. It will also strengthen the technical 
+capabilities of its human resources and its infrastructure, such as laboratories and research 
+mechanisms. Specifically, the government will: 
+• 
+Establish a national data collection mechanism required for risk assessments. 
+• 
+Strengthen foodborne disease surveillance, including research and scientific capacity of the 
+national food control system 
+• 
+Develop capacity in critical areas such as risk analysis, surveillance, investigation, control and 
+prevention of outbreaks. 
+• 
+Establish independent institutions for risk assessment and risk management 
+4.7 Policy Issue No. 7: Emerging and Re-emerging Food Safety Issues 
+There is limited information available on emerging and re-emerging food safety issues. This is 
+primarily due to the absence of a surveillance and monitoring mechanism and a national database for 
+foodborne diseases. Although various public agencies may have some information, a comprehensive 
+national overview is lacking. Food safety is currently not a top priority primarily because of the absence 
+of a proper regulatory framework and inadequate human, technical, and financial resources. 
+Additionally, the national food control system is fragmented, and the roles and responsibilities of 
+various stakeholders are not well-defined and often overlap. 
+Policy intervention  
+The government shall: 
+• 
+Establish a national surveillance monitoring and reporting mechanism/system 
+• 
+Establish an early warning and a rapid alert system for emerging and re-emerging food safety 
+issues. 
+• 
+Strengthen the capacity of Federal & State agencies to investigate food-borne illnesses, 
+identify causative agents and trace outbreaks to their respective sources. 
+• 
+Develop a plan for emergency response to outbreaks and recalls. 
+• 
+Establish a national database for food-borne diseases. 
+4.8 Policy issue No. 8: Traceability  
+Traceability in the food sector is a crucial tool for fostering innovation and competitiveness, and it 
+plays a vital role in trade, economic development, and social progress. It provides evidence of 
+compliance with regulations, agreements, and standards. Additionally, traceability is essential for the 
+rapid alert system in food safety, enabling early warning and swift response to food safety and quality 
+incidents. Moreover, traceability can contribute to building cross-border transparency, which is 
+necessary to access regional and global markets. 
+Currently, there is a weak traceability system in both the public and private sectors, primarily due to 
+inadequate human and technological capacity, a lack of data, and weak information flow.
+=== PAGE 28 ===
+28 | P a g e 
+ 
+Policy Intervention 
+The Federal government shall:  
+• 
+Incorporate traceability and recall mechanisms in food safety controls. 
+• 
+Develop regulations for implementing traceability and recall by food business operators. 
+• 
+Develop guidelines and systems for traceability based on international best practices  
+4.9 Policy issue No. 9 Participation in International Meetings and the 
+Implementation of Agreements  
+In order to effectively compete in the global market, a country needs to harmonize its policies, laws, 
+and regulations with international standards. It is crucial to enhance the expertise of public officials in 
+food safety by involving them in international standard-setting organizations such as Codex, WOAH, 
+and by adopting these standards domestically. While the National Codex Committee (NCC) for 
+Somalia and the Codex contact point have been established, there has been limited involvement of 
+the national committee members in the relevant Codex committees. 
+Policy intervention 
+The federal government shall:  
+• 
+Ensure participation in relevant meetings at the national, regional and international levels, 
+• 
+The relevant Agencies shall ensure that information gathered at international fora is 
+disseminated among the relevant stakeholders, including MDAs, Industry, Academia, and 
+Researchers. 
+• 
+Adopt, domesticate or implement international protocols on Food Safety 
+The state governments should encourage their officers to participate in national, regional, and 
+international standard-setting committees and harmonize their standards and legislation with 
+international ones. 
+4.10 Policy issue No. 10: Food Safety Financing  
+Food safety requires financial resources to support the various operations, human resources, and 
+infrastructure development and maintenance. 
+Policy interventions  
+The federal and state Governments shall make specific budgetary allocations for food safety and 
+develop strategies for resource mobilization from both public and private entities.
+=== PAGE 29 ===
+29 | P a g e 
+ 
+5. POLICY IMPLEMENTATION FRAMEWORK 
+5.1 General Implementation Guidelines  
+Effective food control systems require policy and operational coordination at the national level. 
+Coordination would include the establishment of a leadership function and administrative structures 
+with clearly defined accountability for issues such as the development and implementation of an 
+integrated national food control strategy, operation of a national food control programme, securing 
+funds and allocating resources, setting standards and regulations; participation in international food 
+control related activities; developing emergency response procedures; carrying out risk analysis; among 
+others.  
+Core responsibilities include establishing regulatory measures, monitoring system performance, 
+facilitating continuous improvement, and providing overall policy guidance. The objective of this 
+policy is to establish an effective control system.  
+The implementation of this policy will follow a value chain approach with interventions carried out 
+along the food chain from the farm to fork, with each food safety institution addressing the aspects 
+based on their competence and mandate. A coordination mechanism will be established to coordinate 
+the various agencies to minimize overlaps and duplication. 
+The federal government shall develop or review policies, laws, regulations, strategies, guidelines and 
+related legal and regulatory frameworks on food and food safety that support the implementation of 
+this policy. These will include the agriculture, health, livestock, fisheries and environmental sectors, 
+which have an impact on aspects of food safety at different levels of the food supply chain. 
+The federal government shall develop new laws and review existing laws and regulations to be in 
+tandem with the changing trends in food safety and food trade and establish a mechanism for 
+coordinating food safety matters. 
+The state governments will align their laws to the national policy and laws
+=== PAGE 30 ===
+5.2 Implementation Framework  
+ 
+STRATEGY 
+ACTIVITIES 
+RESPONSIBILITY TIMEFRAME 
+Policy Issue No. 1: Policy and Legal framework 
+ 
+ 
+1.1 
+Adopt a National Food Safety 
+Control System. 
+Adopt the national policy and implementation plan on 
+food safety. 
+ 
+ 
+1.2 
+Review existent laws, regulations, 
+guidelines, codes of Practices, 
+SOPs and by-laws in line with 
+International requirements. 
+Adopt and implement a plan for the development of new 
+laws and review of existing laws by relevant ministries, 
+departments and agencies. 
+ 
+ 
+Enact a Food Safety Act. 
+ 
+ 
+Update the system to align with that of the Federal 
+Government and define roles and responsibilities of the 
+regulatory officers at the State government level. 
+ 
+ 
+Policy Issue No. 2 Institutional Framework 
+ 
+ 
+2.1 
+Develop a national Food Safety 
+Coordination Mechanisms 
+Review/develop relevant legislation to establish a food 
+coordination agency 
+ 
+ 
+Develop structure and functions of the Entity 
+ 
+ 
+Identify the inter-Ministerial & inter-agency representation 
+in the governing structure of entity 
+ 
+ 
+2.2 
+Streamline the multi-sectoral food 
+safety regulatory agencies 
+Identify roles and responsibilities for food safety control of 
+different MDAs and, State Governments 
+ 
+ 
+Strengthen the relevant MDAs to carry out the identified 
+mandates 
+ 
+ 
+Policy issue No. 3: Education and Training 
+ 
+ 
+3.1 
+Build capacity and enhance 
+capability on training, education 
+and research on food safety 
+ 
+Develop systematic education on food safety for personnel 
+involved in food safety controls 
+ 
+ 
+Carry out capacity needs assessment for the training 
+institutions to carry out training for regulatory officers and 
+food business operators 
+ 
+ 
+Develop relevant/appropriate curriculum on food safety at 
+tertiary institutions.
+=== PAGE 31 ===
+31 | P a g e 
+ 
+ 
+STRATEGY 
+ACTIVITIES 
+RESPONSIBILITY TIMEFRAME 
+Integrate the curriculum with existing educational 
+programs. 
+ 
+ 
+Strengthen relevant/appropriate curriculum and activities 
+on food safety at primary and secondary institutions. 
+ 
+ 
+Promote continuing education for existing food safety 
+handlers and other stakeholders. 
+ 
+ 
+Develop appropriate guidelines and manuals in appropriate 
+languages for different stakeholders. 
+ 
+ 
+Build the capacity of MDAs and Private Sector players on 
+the monitoring and evaluation of the implementation of 
+food safety programmes. 
+ 
+ 
+Build capacity of meat inspectors, Agricultural Extension 
+workers and other relevant stakeholders involved in the 
+inspection and enforcement of Food Safety laws, 
+regulations and guidelines. 
+ 
+ 
+Capacity building to improve skills of relevant private 
+stakeholders involved in farming, processing, packaging, 
+storage, transportation, distribution etc. of food and food 
+products. 
+ 
+ 
+3.2 
+Develop partnership with training 
+institutions, professional bodies 
+and skill acquisition centres 
+ Establish protocols for partnerships with relevant MDAs  
+ 
+ 
+Policy Issue No. 4 Food Testing Services 
+ 
+ 
+4.1 
+Build the capacity of laboratories 
+on food testing. 
+Compile and maintain an inventory of food safety 
+laboratories, and their scope of analysis and  capacities for 
+food testing. 
+ 
+ 
+Enhance infrastructural & Human resource capacity of 
+existing laboratories 
+ 
+ 
+Establish mechanism and criterion for approval of testing 
+laboratories, both in public and private sector. 
+ 
+ 
+Enhance laboratory quality management systems  
+ 
+ 
+Develop and maintain coordination mechanism for food 
+safety surveillance
+=== PAGE 32 ===
+32 | P a g e 
+ 
+ 
+STRATEGY 
+ACTIVITIES 
+RESPONSIBILITY TIMEFRAME 
+Policy issue No. 5: Information, and Communication 
+ 
+ 
+5.1 
+Develop an effective, information 
+and communication system. 
+Identify information & communication requirements for 
+food safety emergencies & initiatives 
+ 
+ 
+Define clear communication roles and responsibilities for 
+various agencies both at federal and state levels 
+ 
+ 
+Establish information sharing system/database covering all 
+aspects of food safety  
+ 
+ 
+Develop guidelines for coordination & implementation of 
+the programmes of all concerned ministries and agencies 
+ 
+ 
+Enhance information sharing among agencies involving in 
+food safety activities 
+ 
+ 
+5.2 
+Carry out advocacy and 
+sensitization of policy makers, 
+opinion leaders, food handlers, 
+health workers, consumers, 
+religious groups, traditional rulers, 
+and owners of food industries. 
+Develop advocacy & sensitization tools including IEC 
+materials and social media. 
+ 
+ 
+Undertake advocacy/sensitisation for policy makers, 
+development partners, and other relevant stakeholders. 
+ 
+ 
+5.3 
+Develop education campaign for 
+all stakeholders along the food 
+supply chain. 
+Develop effective food safety campaign materials. 
+ 
+ 
+Identify and train the trainers at State and Local 
+Government levels. 
+ 
+ 
+Develop an effective educational campaign for food 
+operators along the food supply chain. 
+ 
+ 
+Policy issue No. 6: Risk Analysis  
+ 
+ 
+6.1 
+Identify critical food safety risks 
+in the Country. 
+Evaluate the existing risk assessment systems.  
+ 
+ 
+Identify and profile food safety risks at federal and state 
+levels. 
+ 
+ 
+Develop a National Master plan to mitigate the identified 
+risks. 
+ 
+ 
+Establish   national data collection mechanism required for 
+risk assessments.
+=== PAGE 33 ===
+33 | P a g e 
+ 
+ 
+STRATEGY 
+ACTIVITIES 
+RESPONSIBILITY TIMEFRAME 
+Manpower development in critical areas such as 
+surveillance, investigation, control and prevention of 
+outbreaks. 
+ 
+ 
+Establish a National Food Risk Assessment Coordinating 
+Centre. 
+ 
+ 
+Policy Issue No. 7: Emerging and Re-emerging Food Safety Issues 
+ 
+ 
+7.1 
+Establish an early warning system 
+for emerging and re-emerging 
+food safety issues. 
+Set up and maintain tools for collecting and disseminating 
+relevant data in the States and integrate them into a 
+national database for food safety outcomes. 
+ 
+ 
+7.2 
+Strengthen the capacity of Federal 
+& State agencies to investigate 
+food-borne illnesses, identify 
+causative agents and trace 
+outbreaks to their respective 
+sources. 
+Conduct needs assessments of the Federal & State agencies 
+to identify the gaps. 
+ 
+ 
+Develop a protocol for collecting, collating, and evaluating 
+food-borne illness outbreak data, including its review and 
+follow-up action. 
+ 
+ 
+Develop a national network for reporting, collecting, 
+collating and transmitting data to a Central Database. 
+ 
+ 
+7.3 
+Develop a plan for emergency 
+response to outbreaks and recalls. 
+Determine indicators that can be used as the basis for 
+outbreaks and recalls. 
+ 
+ 
+Improve the existing health-reporting system and train 
+health workers on information gathering, collation and 
+dissemination related to food-borne illnesses. 
+ 
+ 
+7.4 
+Strengthen  control system for 
+import and export of foods.  
+ 
+Review, update and streamline existing import-export 
+inspection system. 
+ 
+ 
+Establish requirements for the import of foods in line with 
+international standards.   
+ 
+ 
+7.5 
+Strengthen the capacity of 
+regulatory inspectors, auditors 
+and compliance systems. 
+Facilitate the training of inspectors, industry and other 
+stakeholders. 
+ 
+ 
+In-depth assessment of the existing systems. 
+ 
+ 
+Review inspection tools (SOPs, checklists, and guidelines). 
+ 
+ 
+Provide adequate and appropriate human and material 
+resources to ensure regular inspection.
+=== PAGE 34 ===
+34 | P a g e 
+ 
+ 
+STRATEGY 
+ACTIVITIES 
+RESPONSIBILITY TIMEFRAME 
+Strengthen procedures for registering and licensing 
+cottages, small, medium, and large-scale food 
+establishments, food business operators, and food vendors. 
+ 
+ 
+Policy issue No. 8: Traceability and recall  
+ 
+ 
+8.1 
+Establish and implement a 
+national “Farm-to-Table” 
+traceability and recall system.  
+Incorporate traceability and recall in official food safety 
+controls. 
+ 
+ 
+ 
+Develop regulations for the implementation of traceability 
+and recall by food business operators. 
+ 
+ 
+Develop guidelines and systems for traceability based on 
+international best practices 
+ 
+ 
+Policy issue No. 9 Participation in International Meetings and the Implementation of 
+Agreements 
+ 
+ 
+9.1 
+Enhance participation in relevant 
+meetings at the national, regional 
+and international levels for MDAs 
+Identify relevant international institutions where 
+participation would add value to national food safety 
+standards and controls. 
+ 
+ 
+Resource mobilization for participation in the International 
+standards-setting bodies for meetings and working groups 
+ 
+ 
+Support officers at Federal & State levels to participate in 
+relevant international fora 
+ 
+ 
+Disseminate information gathered at international fora 
+among the relevant stakeholders. 
+ 
+ 
+9.2 
+Adopt & implement international 
+protocols on Food Safety 
+Coordination with major stakeholders to prioritize food 
+commodities of national interest  
+ 
+ 
+Develop a national position on draft Codex standards 
+through NCC. 
+ 
+ 
+Policy issue No. 10: Food Safety Financing 
+ 
+ 
+10.1 Create a budget line for food 
+safety programmes. 
+Relevant MDAs at the Federal & State levels to create a 
+budget line for food safety activities.  
+ 
+ 
+All food and agro-industries to create a budget line for 
+food safety activities. 
+ 
+ 
+Partner with international development agencies to support 
+the internal funding mechanisms for food safety activities.
+=== PAGE 35 ===
+6. FINANCING 
+Since the policy is designed to ensure the Somali people's public health security and increase market 
+access and competitiveness of foods from the country, it is the responsibility of the national 
+government to provide budgetary support for institutional and technical development in line with 
+international standards.  
+This policy will be financed through funds allocated through an annual budgeting cycle, cost recovery 
+mechanisms, public-private partnerships, and relevant donor funding.
+=== PAGE 36 ===
+36 | P a g e 
+ 
+7. MONITORING AND EVALUATION 
+The policy division in the Ministry/National agency approved by the Government, which will have 
+overall responsibility for the food safety policy, will monitor and evaluate the implementation of the 
+policy. The success in implementing this policy shall require the Ministry/National agency approved 
+by the Government to collaborate with all stakeholders on effectively monitoring and implementing 
+the key activities outlined in the implementation framework. 
+Monitoring and evaluation programmes shall involve tracking the progress made in food safety 
+practices in the country at regular intervals. Detection and identification of non-compliance, including 
+where and how they occurred, shall be statistically evaluated. An acceptable format shall be developed 
+to evaluate the performance of these activities in the implementation framework.  
+A mechanism for periodically monitoring the realisation of specific indicators of the activities shall 
+also be developed. The reports of such periodic monitoring and evaluation shall be properly 
+documented and reviewed annually by the Ministry/National agency approved by the Government. 
+This policy is anticipated to require periodic review to ensure progress with local and international 
+developments. The policy document is dynamic and should address policy issues raised during the 
+IHR evaluation assessment of foodborne disease surveillance, WOAH PVS, and response to new 
+science findings.
+=== PAGE 37 ===
+37 | P a g e 
+ 
+8. REFERENCES  
+1. WHO Guidelines for Developing and Implementing a National Food Safety Policy and Strategic 
+Plan  
+2. FAO/WHO Food Control System Assessment Tool 
+3. WHO Strategic Plan for Food Safety; Including Foodborne Zoonoses 2013–2022 
+4. Assuring food safety and quality. Guidelines for strengthening national food control systems, 
+FAO Food and Nutrition Paper 76 (FNP 76) 
+5. Gabor Molnar, Samuel Benrejeb Godefroy (2020) Review of mechanisms for food safety-
+related SPS measures within African regional Economic Communities (RECs): Paving the way 
+for a continent-wide food safety coordination effort. Food Control Volume 115, 107206 
+6. IGAD Regional Sanitary and Phytosanitary (SPS) 5-year Strategy and Plan of Action 2017 – 
+2021 
+7. FAO/WHO (2010) framework for developing national food safety emergency response plans 
+8. Promoting responsible investment in agriculture and food systems: Guide to assess national 
+regulatory frameworks affecting larger‐scale private investments FAO Legal Papers No. 101 2016  
+9. World Bank report (2019) 
+10. IHR JEE (2016) International Health Regulations Joint External Evaluation of IHR Core 
+Capacities of the Federal Republic of Somalia 
+11. International Health Regulations Joint External Evaluation Tool (2005) 
+12. Theresa Musumhi, (2013)  Regional Lessons Learned for Somalia in  the Apiculture 
+(Beekeeping) Sector

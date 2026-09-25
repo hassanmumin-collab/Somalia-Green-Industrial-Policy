@@ -1,0 +1,3894 @@
+=== PAGE 1 ===
+NATIONAL AGRICULTURAL
+TRANSFORMATION
+STRATEGY
+2025-2029
+MINISTRY OF AGRICULTURE
+AND IRRIGATION
+PREPARED WITH THE SUPPORT OF
+=== PAGE 2 ===
+ 
+ 
+  
+ 
+ 
+Acronyms  
+ADSP 
+Agriculture Development Strategic Plan 
+AIMS 
+Agricultural Information Management Systems 
+ATS 
+Agriculture Transformation Strategy 
+ATMIS 
+African Union Transition Mission in Somalia 
+AUSSM 
+African Union Support and Stabilization Mission in Somalia 
+CD 
+Capacity Development 
+CGIAR 
+Consultative Group on International Agricultural Research 
+CIAD 
+Center for Innovation and Agripreneurship Development 
+COPE-Africa 
+Center of Phytosanitary Excellence Africa (COPE) 
+EAC 
+East African Community 
+ENSO 
+El Niño Southern Oscillation 
+FGS 
+Federal Government of Somalia 
+FMS 
+Federal Member States 
+FSNAU 
+Food Security and Nutrition Analysis Unit 
+GDP 
+Gross Domestic Product 
+IDP 
+Internally Displaced People 
+IPPC 
+International Plant Protection Convention 
+ITCZ 
+Inter-Tropical Convergence Zone 
+KEPHIS 
+Kenyan Plant Health Inspectorate Service 
+MOAI 
+Ministry of Agriculture and Irrigation of Federal Government of Somalia 
+NAF 
+National Agriculture Forum 
+NPPO 
+National Plant Protection Organization 
+NTP 
+National Transformation Plan 
+PESTEL 
+Political, Economic, Societal, Technical, Environmental, and Legal 
+SARIS 
+Somalia Agricultural Regulatory and Inspections Services 
+SME 
+Small and Medium Enterprise 
+SOCC 
+Somalia Operations Coordination Committee 
+SWALIM 
+Somalia Water and Land Information Management 
+SWOT 
+Strengths, Weaknesses, Opportunities, and Threats
+=== PAGE 3 ===
+SOMALIA
+SELECTED TOWNS
+REGION CAPITALS (PRE-WAR)
+CAPITAL
+ERITREA REP. OF
+YEMEN
+/bJiBOUTl
+IBRD 3U83R
+MAN ROADS
+PALROADS
+REGION BOWNDARIES (PRE-WAR)
+— • — BOthOARlES
+REP OF
+YEMEN
+Gulf
+ÅWDÅI
+Q'ki
+o eh'0NOYl
+BÅK001
+0b',fRp
+Kismooyo
+Aden
+F*ts,
+(2,408 m Coorieoabo
+Loascoanood
+TOGDHEfR
+HlhÅN
+Kor Kor
+Groowe
+ETHIOPIA
+GEDO
+JUBA v
+KEN Y A
+Bili'
+IOhfR
+oc."e
+MOGADISHU
+SO 100
+so too
+MUDUG
+O HGbyo
+INDIAN
+OCEAN
+SOMALIA
+Wie.
+this the
+AN-IARY 2016
+=== PAGE 4 ===
+ 
+iii 
+ 
+Table of Contents 
+ ............................................................................................................................................... 0 
+Acronyms ................................................................................................................................ i 
+Executive Summary ................................................................................................................ 6 
+1. 
+Country profile ....................................................................................................................... 9 
+Geography ............................................................................................................................................................. 9 
+Population ............................................................................................................................................................. 9 
+Climate .................................................................................................................................................................. 9 
+Administrative framework .................................................................................................................................. 11 
+Economy .............................................................................................................................................................. 11 
+2. 
+Overview of Agriculture Sector ............................................................................................. 12 
+3. 
+Governance for Agricultural Sector ....................................................................................... 14 
+Organisational Structure ..................................................................................................................................... 15 
+Mandate and core functions ............................................................................................................................... 15 
+Vision .................................................................................................................................................................. 16 
+Mission ................................................................................................................................................................ 16 
+Objectives ........................................................................................................................................................... 16 
+4. 
+Process for formulating Agricultural Transformation Strategy ............................................... 17 
+PESTEL Analysis ................................................................................................................................................... 17 
+SWOT Analysis ..................................................................................................................................................... 20 
+5. 
+Constraints to agricultural productivity and growth .............................................................. 22 
+Structural Constraints to Irrigated Systems ......................................................................................................... 22 
+Structural Constraints to Rainfed Systems .......................................................................................................... 22 
+Institutional constraints to both irrigated and rainfed systems .......................................................................... 23 
+6. 
+Strategic priorities ................................................................................................................ 25 
+Short term priorities ........................................................................................................................................... 25 
+1. 
+Building administrative and technical capacities of Ministries of Agriculture and Irrigation at both Federal 
+and Member state levels ..................................................................................................................................... 25 
+2. 
+Strengthening Delivery of Phytosanitary Services ...................................................................................... 27 
+3. 
+Supporting development of SMEs and Agribusiness Value Chains ............................................................. 28 
+Medium- and long-term priorities ...................................................................................................................... 29 
+1. 
+Agricultural National Research and Extension Services .............................................................................. 29 
+2. 
+Rehabilitate riverine irrigation infrastructure and improve water access for rainfed agriculture ............... 30 
+3. 
+Increase agricultural mechanization and farm inputs use to expand cultivated area and crop productivity
+ 
+31 
+4. 
+Strengthen internal and external coordination, and accountability ........................................................... 32 
+5. 
+Promote Partnerships for Agricultural Research, Trade and Investment to support a sustainable growth in 
+the sector. ........................................................................................................................................................... 33 
+Cross-cutting issues ............................................................................................................................................. 34 
+7. 
+Conclusions .......................................................................................................................... 36 
+Annexes ................................................................................................................................ 40 
+TRANSFORMATIVE BANKABLE PROJECTS FOR AGRICULTURAL DEVELOPMENT ...................... 40 
+AGRICULTURAL PRIORITY AREAS AT FEDERAL MEMBER STATES ............................................. 41
+=== PAGE 5 ===
+ 
+iv 
+ 
+PRIORITY AREAS OF GALMUDUG STATE ............................................................................ 41 
+PRIORITY AREAS OF HIRSHABELLE STATE ........................................................................ 43 
+PRIORITY AREAS OF JUBALAND STATE ............................................................................... 46 
+PRIORITY AREAS OF SOUTHWEST STATE ........................................................................... 49 
+ 
+Table 1: Strategic priorities and interventions .......................................................................................................................... 8 
+Table 2: Strength, Weakness, Opportunities, Threat (SWOT) Analysis .......................................................................... 21
+=== PAGE 6 ===
+ 
+v 
+ 
+Term  
+Explanation  
+Self-Reliance  
+A quality of people who can rely on their resources; people who are resilient to economic, social, and environmental 
+shocks and changes  
+Farming 
+Farming refers to the broader practice of agricultural production, which encompasses activities like cultivating land, 
+raising livestock, and managing various agricultural resources Farming involves the systematic and large-scale 
+production of food, fibre, and other agricultural commodities. 
+Cropping 
+Cropping is a specific aspect of farming that focuses solely on the cultivation of crops Cropping involves the planning, 
+planting, growing, and harvesting of crops, such as grains, fruits, vegetables, and other plant-based products. 
+Sustainability  
+Practices and consumption of resources that can endure without long-term negative social, economic, or 
+environmental impacts  
+Competitive  
+Successfully able to meet competition; through worker skills, farming practices, products, and businesses that are 
+efficient, profitable, and of sufficient quality to gain a satisfactory share of the market in competition with products 
+and services from elsewhere  
+Commercialization  The transformation from subsistence production (production for own consumption) to production for the sale of 
+surplus products and services   
+Agribusiness  
+A general term for small, medium, and large businesses and cooperatives involved in farming, processing, and 
+marketing of agricultural products, and businesses providing products and services specifically to the agriculture 
+sector, such as farm machinery, fertilizer, agro-veterinary products, and advisory services  
+Agro enterprise  
+Commercial farms, agricultural cooperatives, livestock herding groups, or other organizations, including for-profit 
+businesses, non-profit entities, and non-government and government agencies that carry out commercial agricultural 
+activities  
+Inclusive  
+Pluralistic; “inclusive development” includes women, youth, disadvantaged groups, minority ethnic groups, janajati, 
+people in remote areas, not just the mainstream or majority  
+Food poverty  
+Poverty related to food; inability to obtain sufficient food or adequate nutrition seasonally, chronically, and within 
+geographic, demographic, or social groups Usually measured regarding the monetary equivalent of a basket of foods 
+needed to provide a certain number of calories and other nutrients
+=== PAGE 7 ===
+ 
+6 
+ 
+Executive Summary  
+This document presents the Federal Ministry of Agriculture and Irrigation’s (MoAI) proposed five-year 
+Agriculture Transformation Strategy (ATS) and related intervention for the period 2025 – 2029 in response 
+to the government's call for formulating a National Transformation Plan. The objective of this 
+transformational strategy is to fundamentally and significantly reduce or eliminate existing institutional and 
+structural barriers to the sector’s productivity and growth in the five years with primarily goals of increasing 
+agriculture’s contribution to the economy, farmer incomes, employment, and improve food security. It sets 
+out strategic objectives and related broader interventions to achieve measurable outcomes guided by 
+appropriate indicators and targets in line with Ministry’s mandate and functions, and key policy objectives. 
+As such it provides a framework within which the Ministry of Agriculture and Irrigation will discharge its 
+functions in line with its vision, mission and objectives.  
+Agricultural transformation can offer Somalia a sustainable path to development. Indeed, crop and livestock 
+have been historically and continue to be by far the most important economic activities in Somalia, together 
+accounting for up to 70% of Gross Domestic Product (GDP), 50-60% of employment and 90% of export 
+earnings. Before the civil war, crop production was second in importance to livestock concerning its shares 
+of GDP and export earnings. It was also crucial for food security with the country becoming almost self-
+sufficient in main staples in 1989. However, conflict and recurrent droughts and floods linked to climate 
+change effects have negatively impacted on crop production, leading to a significant decline in both area 
+cultivated and productivity over the past four decades. The same factors caused a largescale rural 
+population displacement and depopulation of the countryside with much of historic agricultural labour 
+force now residing camps for Internally Displaced Persons (IDPs). Nevertheless, the crop sector continues 
+to be important for domestic food consumption and to lesser extent export, in particular sesame, lemons, 
+onion and fruits. Somalia currently relies heavily on food imports to meet 50-60% of its food demand. In 
+addition to the declining domestic production, a rapid urbanisation and associated shift in consumer 
+preferences toward imported foods such as cereals, vegetables oils, and confectionary and canned products, 
+among others, have also driven the food imports.  
+There is a real prospect to transform the agriculture as key pre-requests for greater production and 
+productivity are already in place. With an abundance of fertile land, labour and largely underutilised water, 
+Somalia has the resources endowments necessary for a significant expansion of agricultural production to 
+drive economic growth and prosperity as a sustainable path to poverty reduction. Reducing chronic food 
+insecurity and widespread poverty is the country’s primary development challenge; therefore, growing the 
+agricultural sector is key to achieving a transformational impact. In this regard, the preparation of the ATS 
+is a critical step toward ongoing government effort to restore and expand the agriculture’s contribution to 
+the national economy through increased rural employment and incomes and food security. Medium to 
+long-term strategic planning of recovery and thereafter development of the sector is therefore critical to 
+address chronic food insecurity, improve incomes and gradually substitute food imports. A dual approach 
+to this effort is essential to account for fundamental difference in farming practices and designation of farm 
+output, so that tailored interventions are designed and implemented to address effectively diverging 
+underlying institutional and structural challenges. Somalia has two farming systems: irrigated commercially 
+oriented system and rainfed subsistence farming. The irrigated systems produce a wide range of marketed 
+crops, largely produced along the riverine basins in the southern and central regions including maize, 
+sesame, vegetables and fruits and rice, while rainfed crops include sorghum and cowpea, and to lesser 
+extent maize, sesame and millet across the country with the output primarily used for household 
+consumption. While these two systems share some common challenges, such as impact of climate change 
+and uncertainties associated with conflict, they also face other different institutional and structural
+=== PAGE 8 ===
+ 
+7 
+ 
+constraints that need to be addressed targeted transformative policy interventions. The constraints faced 
+by the irrigated systems include (a) limited and inconsistent surface water availability due to dilapidated 
+prewar irrigation and flood control infrastructure in southern Somalia; (b) inefficient river water use, 
+increased soil salinity, and water logging, resulting from the lack of farm level planning and regulatory 
+oversight of use irrigation water; (c) poor soil fertility management, as inputs such as manure and 
+commercial fertilizer are either used in a suboptimal way or not used at all; (d) low-quality seeds and the 
+retail availability of only a few seed varieties and plant tissues. The constraints faced by rainfed farming 
+systems include (a) lower and more erratic rainfall than in the past, resulting in more frequent and intense 
+cycles of droughts and floods; (b) deteriorated water harvesting and storage reservoirs; (c) poor soil 
+management, resulting in very low moisture retention and inadequate internal drainage, leading to excess 
+water run-offs and soil erosions; and (d) very low-input farming techniques. 
+This ATS seeks to tackle these multiple structural and institutional constraints to expand production and 
+improve productivity of the subsector and farmers’ incomes. For this purpose, small and medium 
+agribusiness enterprises (SME) are critical to link smallholder producers to national markets, meet food 
+demand and create jobs. The goal is to promote a more resilient and sustainable agriculture as the driver 
+of rural economy recovery and growth, in line with the priorities set out in the National Transformation Plan 
+(NTP), 2025-2029. The NTP identifies the boosting agricultural productivity and development of value chains 
+as a primary objective for the crop sector and accordingly articulates a series of priority interventions 
+intended to reduce or eliminate the above institutional and structural constraints. The NTP identified a set 
+of overarching priority interventions including promoting adoption of climate smart agriculture, developing 
+irrigation infrastructure to improve access to water, establishing storage facilities and improving road 
+infrastructure to reduce post-harvest losses and promote marketing of agricultural produce, and re-
+establishing research and extension services to improve crop practices and good agricultural practices. The 
+ATS is also fully aligned with the Riverine Irrigation Strategy (2025-2030) developed to strengthen riverine 
+water resource management in the context of weak national governance for effective water use and the 
+transboundary agreements for upstream water abstraction. The strategy aims to enhance agricultural 
+productivity, improve water resource governance, and ensure climate resilience by focusing specifically on 
+riverine irrigation, given its strategic importance for food security and rural development in the country's 
+southern regions.  
+The overall development and growth of agriculture is anchored in two strategic goals:  
+- 
+Increasing crop productivity through the introduction and adaption of more modern farming 
+practices and technologies that allow a more efficient and sustainable use of agricultural input, 
+including seeds, land, water, agrochemicals and labour. 
+- 
+Developing agricultural value chains through the improvement of producer organisations such as 
+associations and cooperatives to derive economies of scale, improve access finance and new 
+markets. 
+The implementation ATS will require strong partnerships among the Government, private sector, 
+development partners, and other non-state actors. A sector-wide approach and strong coordination 
+mechanisms will be instrumental in the strategy's success.  
+On that basis, the ATS provides a set of strategic goals and practical interventions that will enable the 
+Ministry to provide clear policy levers and pathways to transform agriculture. Specifically, the ATS identifies 
+eight strategic priorities and 24 interventions as summarised in Table 1. Under each intervention a set of 
+associated implementation activities are further identified in the respective sections of the strategy. Short 
+term priorities refer to immediate actions MOAI can take within one to two years (2025-2026) in order to
+=== PAGE 9 ===
+ 
+8 
+ 
+improve productivity within the existing far, while medium to long term priorities refer to actions that it can 
+take within 3-5 years timeframe. 
+Table 1: Strategic priorities and interventions 
+Priority 
+Interventions 
+Short-term priorities (2025-2026) 
+Building administrative and technical 
+capacities of Ministries of Agriculture 
+and Irrigation at both Federal and 
+Member state levels 
+1. 
+Develop and adopt a staff recruitment and retention program based 
+on transparent competency framework to increase productivity and 
+accountability 
+2. 
+Training of Ministry staff 
+3. 
+Create up-to-date farm registration system  
+4. 
+Compiling agricultural statistics in partnership with Somalia National 
+Bureau of Statistics (SNBS)  
+5. 
+Re-establishing agro-meteorological data collection networks and 
+early warning systems 
+Strengthen phytosanitary services 
+1. Establish independent governing Board of Management for Somalia 
+Agricultural Regulatory and Inspections Services (SARIS) 
+2. Establish a governance model for coordination of delivery of 
+phytosanitary services across the country. 
+3. Develop basic levels of technical skills and infrastructure across the 
+country 
+4. Introduce phytosanitary service fees and charges 
+5. Develop appropriate level of technical competencies for registration of 
+pest control and fertiliser products  
+Supporting development of SMEs and 
+Agribusiness Value Chains  
+1. Development of agribusiness services and market linkages. 
+2. Improvement of on-farm storage and district level aggregation 
+infrastructures  
+Medium & Long-term priorities (2027-2029) 
+Re-establish 
+National 
+agricultural 
+research and extension Services 
+6. Revival of agricultural research and extension stations. 
+7. Rehabilitation of agricultural training institutions. 
+Rehabilitate 
+riverine 
+irrigation 
+infrastructure 
+and 
+improve 
+water 
+access for rainfed agriculture 
+1. Rehabilitating irrigation and flood control infrastructure in line with 
+Riverine Irrigation Strategy 2025 
+2. Enhance rain/groundwater harvesting techniques and management  
+Increase agricultural mechanization 
+and farm inputs use to increase 
+cultivated area and farm productivity 
+1. Promote the use of agricultural mechanization technologies. 
+2. Promote farm inputs use and crop diversification 
+Strengthen 
+internal 
+and 
+external 
+coordination, and accountability 
+1. 
+Strengthen interdepartmental coordination 
+2. 
+Strengthen National Agricultural Forum (NACF) 
+3. 
+Strengthen coordination with international development partners 
+Promote Partnerships for Agricultural 
+Research, Trade and Investment to 
+support a sustainable growth in the 
+sector. 
+1. 
+Build partnerships for development of phytosanitary services and 
+agrochemicals 
+2. 
+Build partnerships for research and extension services 
+3. 
+Build partnership for agricultural trade and investment
+=== PAGE 10 ===
+ 
+9 
+ 
+1. Country profile 
+Geography  
+Somalia is situated in the Horn of Africa and is the continent’s easternmost country, extending from just 
+south of the Equator northward to the Gulf of Aden. The country has the second longest coast of 
+continental Africa, 3, 333km stretching from the red sea to Indian Ocean. The country shares land borders 
+with Djibouti, Ethiopia and Kenya. The country occupies an important geopolitical position between Eastern 
+Africa and the countries of Arabia and southwestern Asia, with its extensive territorial waters, through which 
+an estimated 12 percent of global trade passes via the Suez Canal.  
+Somalia's total land area is 637,660 Km squared of which 30% is 
+classified as desert land that is unsuitable for agricultural production, 
+45% is covered by rangelands suitable for livestock grazing, 14% is 
+covered by forest or woodland, and the remaining 13% (8.1 million 
+ha) is classified as arable land1.In terms of topography, Somalia is 
+mostly made up of plateaus, plains and highlands reaching the peak 
+at Golis Mountain in Northeastern region. There are two main rivers 
+in Somalia namely, the Juba and Shabelle. Both run from the 
+Ethiopian Highlands south-easterly across Somalia to the Indian 
+Ocean. Only 1.8 percent of territory is currently used as arable land 
+mostly located in the inter-riverine areas in the South-central 
+regions, whilst the vast majority of territory is arid or semi-arid 
+rangeland.  
+ 
+ 
+Population 
+The World Population Review estimated that the population of Somalia is 18.14 million2, with a growth rate 
+of 3.11% and fertility rate of 6.12 births per woman. 46.5 % of the population lives urban (8,434,610 people 
+in 2023) and remainer in rural environment. Somali youth make up 60 percent of the Somali labour force. 
+Literacy rate is 40 percent for the total population 15 and above which decreases rapidly with age. It stands 
+at 52.2 percent for adolescents (15-19 years), but only 35 percent for youth 30-35 years.  
+Somalia has a large diaspora community both internationally and regionally, with external considerable 
+flows of remittance accounting for about quarter of the national GDP. 
+Climate 
+Climate in Somalia is influenced by a number of factors, including the Inter-Tropical Convergence Zone 
+(ITCZ), monsoonal winds and ocean currents, jet-streams including the Somali Jetstream or Somalia Current, 
+easterly waves, tropical cyclones, and neighbouring Indian Ocean and Red Sea conditions. Somalia is 
+ 
+1  
+FSNAU (Food Security and Nutrition Analysis Unit), & SWALIM. 
+2  
+Somalia’s 2023 population is estimated at 18,143,378 people at mid-year according to UN data.  
+(https://www.worldometers.info/world-population/somalia-population/  ) 
+Eritrea
+Djibouti
+Borama®
+DjiboutiCity
+Berbera
+Hargeysa
+GulfofAden
+Bosaso
+Shimbiris
+Karkaar
+Gardo
+Garoowe
+Hordio
+Ethiopia
+Eil
+Ogaden
+Desert
+Galcaio
+WorldAtlas.com
+Indian
+Ocean
+Dolo
+Beledweyne
+Shebelle•
+River
+Merca
+Jubban
+River
+Mogadishu
+Hobyo
+Somalia
+Kismaayo
+Kenya
+200mi
+200km
+N
+EQUATOR
+SOMALIA
+LOW/HILLS/PLATEAU/MTS.
+Figure 1: Somalia Geography 
+Source: World Atlas
+=== PAGE 11 ===
+ 
+10 
+ 
+generally arid and semi-arid with two seasonal rainfall seasons. Annual mean temperature is close to 30°С 
+throughout the country. Average monthly temperatures reach their maximum during the Gu season in the 
+months of March through June. Xagaa, from June to September mark the hottest season in the north, while 
+Jilaal December to March mark the hottest weather for the south. The Gu rain season starts as early as the 
+second half of March. Precipitation intensifies in April across the country, except for the north-eastern 
+coastline which receives the least amount of rainfall during this season. In June, rainfall starts to reduce in 
+most parts of Somalia. The second rainy season, Deyr is characterized by a shorter duration and less 
+amounts of precipitation in the months of October to the end of November (Figure 2). The El Niño Southern 
+Oscillation (ENSO) influences Somalia’s climate variability in several ways, bringing more rainfall and 
+flooding during El Niño and droughts in La Niña years. 
+Precipitation is generally low and unpredictable across the country and takes the form of showers or 
+localized torrential rains, subject to high spatial and temporal variability. The average annual rainfall is 
+about 200 mm in most parts of the country. Only the northern coastline receives significantly less rainfall 
+(only up to 50 mm). Rainfall in the south is higher at approximately 400 mm and highest in the southwest 
+with around 600 mm rainfall on an annual average. The southern coastline continues to receive little rainfall. 
+Significant rains occur in July through August. The climate is hot and dry, with uneven rainfall, resulting in 
+a severely degraded natural environment increasingly affected by cyclical droughts and floods.  
+Somalia is highly vulnerable to climate change, marked increase in number of natural hazards and 
+population affected from 1980 to 20203 (Figure 3). By the end of the century, average temperature in 
+Somalia is likely to exceed that experienced by any nation now or across all of human history4. Rainfall 
+trends are uncertain: a moderate increase in rainfall is the most likely outcome over the course of the century, 
+but Somalia could either become significantly more arid (close to a pure desert country like Qatar) or 
+significantly wetter (becoming a generally semi-arid country like Kenya). If realized, such changes would 
+have profound effects on both natural and agricultural ecosystems. The limited availability of water for both 
+rain-fed and irrigated agriculture, as well as livestock, would likely continue to result in highly seasonal and 
+variable agricultural production in the country due to limited climate adaptation capacity of the country.  
+ 
+ 
+3Somalia - Vulnerability | Climate Change Knowledge Portal (worldbank.org) 
+4 “World Bank. 2023. Somalia Climate Risk Review. Washington, DC: World Bank. http://hdl.handle.net/10986/40076 License: CC BY-
+NC 3.0 IGO.” 
+Gu
+Dec-Mar
+Warm,
+sunny&
+dry
+Jilaal
+Mar-Jun
+75%of
+annual
+rainfall
+Sep-Nov
+25%of
+annual
+rainfall
+Hagaa
+Jul-Sep
+Cool,
+cloudy&
+dry
+Deyr
+Figure 2: Somalia Seasonal average rainfall pattern 
+Source: Somali Water and Land Information management 
+Figure 3: Key Natural Hazard Statistics for 1980-2020 
+Source: World bank
+=== PAGE 12 ===
+ 
+11 
+ 
+Administrative framework 
+Somalia is a Federal State composed of two levels of government: the federal government and the federal 
+member states, which include both state and local governments. The Federal Republic of Somalia officially 
+consists of six federal member states namely Galmudug, Hirshabelle, Jubaland, Southwest, Somaliland and 
+Puntland, and Banadir Region Administration The country is further subdivided into 18 regions and 95 
+districts. In the absence of fully adopted Constitution and administrative laws governing inter-government 
+relations, coordination of policies, including those related to agriculture is weak. 
+Economy 
+After two decades of civil strife led to complete state collapse and considerable loss of human and physical 
+capital, Somalia has made tremendous progress toward rebuilding its economy and institutions over the 
+past decade, with support from the international partners including International Monetary Fund, World 
+Bank, European Union and United States. Somalia’s efforts to strengthen its institutions have been strongly 
+supported by international partners, including through financing and extensive capacity development (CD) 
+support5. On the back of sustained reforms, Somalia reached the Heavily Indebted Poor Countries Initiative 
+Completion Point (HIPC CP) in December 2023, obtaining significant debt relief. Total debt relief amounted 
+to US$4.5 billion, reducing the country’s external debt to 6.4 percent of GDP by end-2023, compared to 64 
+percent of GDP at end-2018. Debt relief is expected to facilitate access to new external financing from 
+multilateral and bilateral partners to support inclusive growth and poverty reduction.  
+Real GDP growth projections for 2024 and 2025 are 4.0 percent on account of stronger exports and 
+remittances. Agriculture (crop and livestock) continues recovering from the 2021-22 drought and livestock 
+exports have been gaining market share. Remittances are projected to remain strong supported by a 
+favourable growth outlook in several host countries. The current account deficit6 is forecast at 8.9 percent 
+of GDP in 2024, on the back of strong growth in livestock exports and expected moderation in the demand 
+for food imports. Inflation is expected to continue a downward trend to 4.5 percent at end-2024, as 
+commodity prices soften, although the pace is slower than anticipated earlier.  
+Somalia joined the East African Community (EAC) in March 2024 and has developed a multiyear roadmap 
+for adoption of the customs union and common market. Despite the remarkable progress, Somalia 
+continues to face significant economic challenges. More than half of the population lives on less than US$2 
+per day. Poverty and inequality challenges are exacerbated by the large number of internally displaced 
+persons (IDPs). Poverty is in particular high among rural and nomadic population. Insufficient access to 
+quality education, which is worse for women and girls, contributes to poverty and constrains economic 
+growth. In addition, Somalia is highly vulnerable to climate shocks that aggravate food insecurity, 
+exacerbate poverty, and hurt growth. Large and sustained investments in human and physical capital—
+including in health, education, and infrastructure—are needed to improve resilience and support inclusive 
+growth. 
+ 
+ 
+5 International Monetary Fund. Middle East and Central Asia Dept. "Somalia: 2024 Article IV Consultation and Second Review Under 
+the Extended Credit Facility-Press Release; Staff Report; and Statement by the Executive Director for Somalia", IMF Staff Country 
+Reports 2024, 346 (2024), accessed February 14, 2025, https://doi.org/10.5089/9798400297090.002 
+6 Somalia sends more money to sources abroad than it receives from sources abroad because of large trade deficit reflecting the 
+difference in the total value of all goods exported and imported. Food imports account for significant proportion of the deficit.
+=== PAGE 13 ===
+ 
+12 
+ 
+ 
+Figure 2: Somalia poverty rate and prevalence of food severe insecurity 
+2. Overview of Agriculture Sector 
+Somalia’s crop sector has a great potential. The country has considerable natural resource endowments 
+including 8.2 million arable fertile land, large young population and two major rivers capable of supporting 
+largescale irrigation in vast areas of the fertile land. Annual average precipitations and temperatures can 
+also support at least two seasonal rainfed farming cycles in most parts of the country. The Juba River has 
+an estimated annual flow of 5.9 billion cubic meters and transverses over 1000km, while the Shabelle River 
+contributes around 2.4 billion cubic meters annually over 1200 km, although both increasingly face reduced 
+flow due to upstream activities7. However, only about 3 million hectares of arable are cultivable due to lack 
+of adequate irrigation infrastructure and mechanisation, with 2.3 million under rainfed conditions and 
+700,000 hectares suitable for either pump or recession-controlled irrigation8. Only a fraction of the irrigable 
+land is irrigated and cultivated (less than 20 percent of potential and about half of irrigated land before the 
+war). Almost two-thirds of cultivable land is in the fertile areas along and between the two major rivers in 
+the southern regions. It is worth noting that most crop production is undertaken in these areas by small-
+scale subsistence farmers with an average of 0.2–3.0 hectares of land. A smaller area cultivated in the 
+northwestern regions and some oasis and coastal cultivated areas in the northeastern regions constitute 
+the remaining third. 
+Although only a fraction of the available fertile land and water resources were utilised, agriculture 
+production was historically a very prominent economic activity in Somalia. Before the civil war, crop 
+production was second in importance to livestock in terms of its shares of GDP and exports. It was also 
+crucial for food security as the country was almost a self-sufficient to meet domestic consumption and food 
+imports were relatively small compared to current levels. The lack of consistent and updated official 
+statistics, such as agricultural census and surveys, makes it difficult to assess the agriculture’s current 
+contribution to the economy, but it is believed that it remains second, albeit a distant second, after livestock 
+ 
+7 FAO, European Union and CIRAD. 2022. Food Systems Profile – Somalia. Catalysing the sustainable and inclusive transformation of 
+food systems. Rome, Brussels and Montpellier, France. https://doi.org/10.4060/cc0074en 
+8 Zanini, Gianni; D'Alessandro,Stephen Paul; Phipps-Ebeler,Verena; Ngumbau, Catherine Mwende; Sanginga, Pascal; Seevinck, Julia; 
+Cherrou, Yamina; Read, Andrew; Akester, Stephen. Rebuilding Resilient and Sustainable Agriculture in Somalia: Volume 1 - Main 
+Report (English). Washington, D.C.: World Bank Group. http://documents.worldbank.org/curated/en/781281522164647812
+=== PAGE 14 ===
+ 
+13 
+ 
+which continues to be the largest economic activity. Somalia has two distinct farming systems: irrigated 
+and rainfed farming systems. Irrigated farming systems are based mainly on small and medium-scale 
+gravity9 and pump irrigation, which are used to produce maize; sesame; fruits (banana, lemon and other 
+citrus fruits, guava, mangoes, papaya, watermelon, and dates); and vegetables, for both subsistence and 
+markets. Sesame and dry lemon are the only two crops currently exported.  
+The irrigated crops are primarily concentrated along the banks of the Juba and Shabelle rivers in southern 
+and central Somalia which cover a catchment of about 220,872 square kilometers and 296,972 square 
+kilometers, respectively. However, irrigated crops are also produced in a limited areas in western Somaliland 
+and Puntland scattered oases along dry riverbeds and underground streams. Both these areas rely on 
+surface water from springs and shallow wells typically with small one-piston petrol or solar powered pumps 
+although spate irrigation is used in some areas. Irrigated systems in these two areas produce fruit trees 
+(citrus, banana, guava, mango, papaya, date palm, and tamarind) intercropped with vegetables (tomato, 
+chili, onion, watermelon, cabbage, and lettuce) and coupled with semi-nomadic pastoralism (camels, goats 
+and cattle) in Somaliland, and fruit trees (date palm, citrus, and tamarind) and vegetables, mainly for the 
+local market and some limited fodder in Puntland.  
+Rainfed agriculture is low-input subsistence farming system geared primarily toward meeting the needs of 
+rural households. This system is common throughout the country where irrigation is not feasible, except 
+on the coastal sandy plains and in high limestone areas. There is little or no mechanisation or input used, 
+and production is seasonal governed by rain patterns. The major rainfed crops are sorghum, cowpea, and, 
+to a more limited extent, maize grown in four main cropping systems. These systems include: 
+- 
+Sorghum basket zone located in the Bay agro-pastoral high-potential livelihood zone with 
+good fertility with productive vertisols (soils with a high content of expansive clay that forms deep 
+cracks in drier seasons or years) and calcisols (soils with a substantial secondary accumulation of 
+lime). This zone, which covers the Qansahdhere, Baidoa, and Dinsoor districts as well as some areas 
+of the Burhakaba district, has some of the highest rainfall in Somalia (500–600 millimetres) and an 
+altitude of 100–500 meters above sea level. The zone produces almost half of sorghum production 
+in Somalia and significant maize, cowpea, sesame and groundnut under an agro-pastoral farming 
+system with cattle reared more than other species. 
+- 
+The Bay-Bakool agro-pastoral zone which has a rainfed agriculture combining livestock with 
+farming in flood-recession areas (runoff water from higher land areas, particularly Burhakaba and 
+Dinsoor districts). The agricultural potential is lower in this zone as the rainfall tends to be highly 
+cyclical, with a pattern of sufficient rains occasionally resulting in droughts and crop failure. 
+- 
+The Shabelle and Juba riverine valleys have rainfed sorghum, sesame, and cowpea crops 
+combined with irrigated crops, such as maize, sesame, fruit trees, and horticulture.  
+- 
+The coastal cowpea belt zone which is mainly dependent on livestock (mainly camel and goats) is 
+classified as an agro-pastoral zone, with no limitation in access to land in this zone, shifting 
+cultivation is practiced on farms that are abandoned after three years. Cowpea is the major crop 
+grown in both the Gu and Deyr seasons as this more resistant to water stress, sorghum cultivation 
+is rare and typically takes place in the Deyr season. 
+- 
+Sorghum zone is in the northwestern agro-pastoral region of Somaliland, encompassing four 
+main rainfed cereal-producing areas of around Borama and Baki in Awdal and Gabiley and Hargeisa 
+in Woqooyi Galbeed. Annual rainfall can exceed 500 millimetres. Alongside sorghum khat and millet 
+ 
+9 H. A. Houghton-Carr, C. R. Print, M. J. Fry, H. Gadain & P. Muchiri (2011): An assessment of the surface water resources of the Juba-
+Shabelle basin in southern Somalia, Hydrological Sciences Journal, 56:5, 759-774
+=== PAGE 15 ===
+ 
+14 
+ 
+production are common. Crop residue is used in this zone as a seasonal animal feed due to drier 
+climate. 
+ 
+The productivity of both irrigated and rainfed systems has been hampered by a combination of factors that 
+ensued the collapse of central Somali state in 1991. These factors include protracted civil and subsequent 
+and still ongoing terrorist insurgency, and recurrent droughts and flooding linked to climate change effects 
+which together caused largescale population displacements leading to considerable loss of rural labour 
+force in Southern and Central regions of Somalia, and fragile and degraded natural environment due to 
+weakened natural resource governance over the past three decades. These factors affect the two farming 
+systems in different ways and each system also faces its own other unique challenges as detailed in Section 
+four. As result, the agricultural output has declined significantly over the past four decades, leading to a 
+chronic food crop deficit in Somalia and considerable growth in food imports. It estimated that the local 
+production meets only 22 percent of per capita cereal needs, and even in the best agricultural seasons, 
+domestic production provides only about 40–50 percent of per capita cereal needs10. The value of food 
+imports rose by a factor of 14, reaching USD 1.17 billion in 2020, up from an annual average of about USD 
+82 million in the late 1980s11. 
+This strategy is designed to identify a set of practical policy priorities and intervention measures intended 
+to remove or alleviate the constraints to agricultural productivity and growth. The goal is to increase farmers’ 
+incomes, improve food security, create greater rural employment and economic prosperity while protecting 
+environment. 
+3. Governance for Agricultural Sector 
+The Ministry of Agriculture and Irrigation of Federal Government of Somalia (MOAI) has overall policy remit 
+on formulating policies, legal and regulatory frameworks, standards, strategies, and plans for agricultural 
+transformation. It is the lead government institution designated to improve food systems, food security, 
+agricultural and agropastoral livelihoods, irrigation infrastructure, with overall responsibility on the 
+development of crop sector. The Federal Ministry of Agriculture and Irrigation is responsible for all 
+agricultural and irrigation development strategies in Somalia. The Ministry has currently 10 departments 
+including: 
+1. 
+Department of Planning and Statistics  
+2. 
+Department of Agri-business and Cooperative Development  
+3. 
+Department of Food Security, Food Systems and Climate Resilience  
+4. 
+Department of Research and Extension  
+5. 
+Department of Crop Production 
+6. 
+Department of Plant Protection  
+7. 
+Department of Irrigation, Land Use and Meteorology. 
+8. 
+Department of Mechanisation, Technology and Innovation 
+9. 
+Department of Administration and Finance 
+10. 
+Department of Human Resources, Public Relations and Communications. 
+ 
+10 Zanini, Gianni; D'Alessandro,Stephen Paul; Phipps-Ebeler,Verena; Ngumbau, Catherine Mwende; Sanginga, Pascal; Seevinck, Julia; 
+Cherrou, Yamina; Read, Andrew; Akester, Stephen. Rebuilding Resilient and Sustainable Agriculture in Somalia: Volume 1 - Main 
+Report (English). Washington, D.C.: World Bank Group. http://documents.worldbank.org/curated/en/781281522164647812. 
+11 African Union, 2023 Dakar 2 Somalia Country Food and Agriculture Delivery Compact, 
+https://www.afdb.org/sites/default/files/documents/publications/somalie_country_food_and_agriculture_delivery_compact.pdf
+=== PAGE 16 ===
+ 
+15 
+ 
+Alongside the departmental structure, the ministry also has a semi-autonomous agency, Somalia 
+Agricultural Regulatory and Inspections Services (SARIS), which is responsibility for plant protection 
+including implementation of regulatory control measures encompassing quarantine measures, seed 
+inspection and certification, fertiliser quality inspection and certification, pest control products inspection 
+and certification, and the introduction of the related subsidiary instruments.  
+It is worth pointing that MOAI worked closely with its Federal Member States (FMS) counterpart Ministries 
+of Agriculture in developing this strategy through extensive consultations. The implementation of this 
+envisages a full participation of the planning and execution of the resulting action plans 
+Organisational Structure 
+The Ministry is led by a Minister, supported by a Deputy Minister and State Minister. A Director General 
+oversees day-to-day operations of difference departments each led by a Department Director. Across the 
+10 departments, there are 47 divisions led by Divisional Heads. 
+ 
+ 
+ 
+Figure 3: Organisational Structure of MOAI 
+Mandate and core functions  
+The mandate and core functions of the MOAI include: 
+- 
+Developing and implementing agricultural policies, laws, and regulations to create an enabling 
+business environment for agricultural value chains. 
+- 
+Increasing land under cultivation to increase output and farmer incomes. 
+- 
+Rehabilitation and governance of irrigation and flood prevention infrastructure to support efficient 
+use of water resources and reduce food risk and mitigate its impact on farming communities.
+=== PAGE 17 ===
+ 
+16 
+ 
+- 
+Establishing Agricultural research and extension services to improve farming practices and increase 
+productivity. 
+- 
+Adaption climate-smart agriculture and environmentally friendly technologies to reduce impact of 
+climate change while safeguarding natural environment. 
+- 
+Manage and control pests and diseases in crops including regular and transboundary pests and 
+their outbreaks to protect crop and environment and promote agricultural trade. 
+- 
+Regulate and control the quality of inputs, produce, and products from the sector to promote trade 
+and protect producers and consumers from fraud and sales of substandard goods. 
+- 
+Creating an enabling environment for agriculture investment and innovation. 
+- 
+Development of agricultural value chain and market system. 
+- 
+Collect, maintain, and manage Agricultural Information Management Systems (AIMS). 
+- 
+Integrated Farming and Fodder Production. 
+- 
+Introduce and promote new technologies, approaches, and adoption of innovative ways of 
+agricultural production. 
+- 
+Improved seed systems and availing improved high-yielding varieties (drought tolerant, pests and 
+diseases resistant). 
+- 
+Coordinate Nationwide agricultural programs and projects. 
+- 
+Develop meteorology and early warning systems of MOAI. 
+Vision 
+Promote sustainable agricultural transformation capable of enabling farmers to produce sufficient and 
+nutritious food for all Somalis and contribute more to the economic prosperity of the nation through greater 
+employment, farmer incomes and export earnings, while protecting environment. 
+Mission 
+Modernise Somalia's agriculture sector by making it more climate resilient and promoting efficient use of 
+input and technology to increase both land under cultivation and crop yields in order to enable farmers to 
+become more productive, profitable and environmentally responsible. 
+Objectives 
+Strategic Priorities of the Ministry aims to facilitate and provide a roadmap for sustainable agricultural 
+development by:  
+- 
+Increasing agricultural productivity and developing agricultural value chain to improve farmer 
+incomes and improve food security. 
+- 
+Creating a enabling business environment to promote agricultural investment, trade and 
+innovations to support a sustainable growth in agriculture sector.
+=== PAGE 18 ===
+ 
+17 
+ 
+The vision and mission of the MOAI guided the preparation of the strategy to ensure the priorities and 
+interventions identified are relevant and can support overall policy goals and specific objectives in the next 
+5 years.  
+4. Process for formulating Agricultural Transformation Strategy  
+To prepare this strategy, a comprehensive technical analysis and consultations with the relevant 
+stakeholders at both Federal and FMS levels were conducted. This effort attempted to establish the external 
+factors, such as political, social, technical, legal environments, that can enable or hinder future effort to build 
+more resilient and sustainable agriculture in Somalia, and then the existing internal strengths, weakness, 
+opportunities and threats to the MOAI and its member state counterparts in implementing the strategic 
+priorities and intervention identified. The goal was to identify a set priorities and interventions that 
+government can adopt a reform agenda for the strategic development of the sector in context and line with 
+the NTP. 
+PESTEL Analysis  
+The acronym PESTEL stands for Political, Economic, Societal, Technical, Environmental, and Legal aspects of 
+the working environment. A PESTEL analysis is used to identify systematically threats and weaknesses which 
+can be used in a Strengths, Weaknesses, Opportunities, and Threats (SWOT) analysis of external (i.e. outside 
+MOAI and its state counterparts) for the purpose of this strategy. Political factors include government 
+policies, leadership, and change; foreign trade policies; internal political issues and trends; tax policy; 
+regulation and de-regulation trends. These analyses are critical, as they allow the MOAI to consider these 
+external factors to enhance the implementation of future strategic actions by tapping into on the enabling 
+factors and removing barriers to the sector’s reform.   
+Political Analysis 
+The Federal Government of Somalia continues to pursue its key national priorities, including the 
+constitutional review process, the electoral framework, and the fight against Al-Shabaab. In May 2024, the 
+Parliament adopted constitutional amendments to the first four chapters of the 2012 Provisional 
+Constitution, which cover the governance system and electoral framework, reaffirming the Government’s 
+commitment to a “one-person, one-vote” electoral model. The process of the constitutional review is 
+ongoing, and the next phase will address issues of power- and resource-sharing under Somalia’s new 
+federal model. 
+In the absence of fully adopted constitutions and/or administrative laws governing the intergovernmental 
+(FGS-FMS) relationships, the implementation of the reform agenda envisaged by this strategy will likely rely 
+largely on collaborative agreements between the federal MOAI and its member state counterparts on a 
+case-by-case basis. The MOAI therefore needs to cultivated positive collaborative relationships with the 
+state ministries to create and maintain a conducive environment for the coordination required for effective 
+implementation of this strategy. 
+The successful implementation of the strategy is also contingent government’s ability to secure access to 
+rural areas of southern and central regions of Somalia where the bulk of agricultural land production takes 
+place and additional land available for expansion. This requires freeing and stabilizing to maintain a full 
+control of rural districts to undertake developmental programmes and provide services to farmers in these 
+areas. Recent developments in the security front appear to support such goal. African defence ministers 
+have approved on February 25th, 2025, a detailed deployment strategy for the African Union Support and
+=== PAGE 19 ===
+ 
+18 
+ 
+Stabilization Mission in Somalia (AUSSOM), marking a critical phase in Somalia’s security transition12. The 
+meeting occurred as Somalia nears the completion of the African Union Transition Mission in Somalia 
+(ATMIS), a mission designed to hand over security responsibilities to Somali forces after nearly two decades 
+of African Union peacekeeping presence. The two-day ministerial meeting of the Somalia Operations 
+Coordination Committee (SOCC) outlined the framework for deploying 11,900 personnel under AUSSOM. 
+These forces—comprising military troops, police officers, and civilian support staff—will play a pivotal role 
+in stabilizing Somalia, countering al-Shabaab, and supporting governance structures. 
+Economic Analysis  
+GDP growth accelerated from 2.4% in 2022 to 2.8% in 2023. Growth was driven by services and the 
+agricultural sector’s (including crop, livestock and fisheries) recovery from drought in 2022 and by 
+household consumption and investment. A deceleration in global inflation boosted remittances, and the 
+return of rains improved livestock output and growth. As part of ongoing monetary and exchange rate 
+policy reforms, Somalia is implementing a currency exchange program to gradually replace US dollars and 
+counterfeit Somali shillings with new Somali shillings by 202613. 
+Somalia’s public debt-to-GDP ratio plummeted from 64% in 2018 to 6.4% in December 2023 as Somalia 
+reached the completion point in the Heavily Indebted Poor Countries (HIPC) debt reduction initiative, and 
+its debt classification improved from in debt distress to moderate. The current account deficit was 12.4% of 
+GDP in 2023, reflecting a rising trade deficit (estimated at 61% of GDP in 2023) driven by reduced livestock 
+exports because of the drought 202214, while the poverty declined from 69% in 2021 to 54.4% in 2022. 
+Youth unemployment remained high at 30.1% in 2022, well above the 21.7% overall unemployment rate. 
+Regarding the implementation of this strategy, Somalia has yet to achieve structural transformation of its 
+economy, with progress stymied by fragility arising from conflict, climate change, institutional weaknesses, 
+and a weak business environment, including the existing complex land tenure and licensing regulations 
+which currently hinder the sector’s investments. Indeed, services’ share of employment rose marginally, 
+from 55.9% in 2020 to 56% in 2021, and the industry’s share rose from 15% in 2020 to 17.7% in 2021, while 
+agriculture’s share of employment declined from 39% in 2020 to 26.3% in 2021.  
+This combination of increased domestic food demand15 and the low out to domestic crop production has 
+led to a further increase in food imports. Somalia's most common imported food commodities are raw 
+sugar, rice wheat flour, tea, powdered milk, and cooking oil. The most recent imports are led by Raw Sugar 
+which represents 11.8% of the total imports of Somalia, followed by Rice, which accounts for 7.41%16. Other 
+agro-based imports include inorganic fertilizers, pesticides, livestock medicines, fishing equipment, 
+agricultural implements, and machinery, etc.  
+ 
+12 Press release, Addis Ababa, 26/02/2025; https://www.peaceau.org/uploads/pr-somalia-meeting-26-feb-25.pdf. 
+13  
+Source: African Economic Outlook (AEO) 2024 
+14  
+World Bank. 2024. Somalia Economic Update, Ninth Edition: Addressing Climate Change Challenges for Economic 
+Growth. © World Bank. 
+15  
+Around 3.8 million people were living in internal displacement because of conflict and violence at the end of 2023. 
+16  
+https://tradecouncil.org/somalia-economic-statistics-2019/
+=== PAGE 20 ===
+ 
+19 
+ 
+Social Analysis  
+Somalia’s population is estimated at over 16 
+million and is extremely young17. An estimated 46 
+percent of the Somali population are children (age 
+0-14) and 27 percent are adolescents and youth 
+(age 15-29). Together they make up almost three 
+quarters of the Somali population. The average 
+fertility rate is 6.6 children per woman. Forty-two 
+percent of the population are urban dwellers 
+(Estimated 48 percent female and 52 percent male), 
+23 percent are rural (estimated 49 percent female 
+and 51 percent male), 26 percent are classified as 
+nomadic (estimated 48 percent female and 52 
+percent male) while 9 percent are IDPs. In the IDP 
+population, an estimated 51 percent are female 
+whereas 49 percent are male. Somali diaspora 
+forms an important part of the population and can 
+be found all around the world.  
+The civil war had a big impact on the social aspect of Somali life. The social fabric was torn apart, farmers 
+were displaced, and this resulted in a lack of manpower and labour for agricultural activities in the fields. 
+Rural communities are highly dependent on natural resources; for this reason, they are very vulnerable, 
+because even the smallest changes in the ecosystem greatly influence their livelihoods. With no reliable 
+means of livelihood, people lost their purchasing power causing high poverty prevalence in Somalia18.   
+Agricultural production has been greatly disrupted by actual conflict and war that induced mass 
+displacement migrations and loss of lives, alongside the frequent droughts and floods linked to climate 
+change. While specific data on displaced people due to conflict is not readily available, it is estimated that 
+not less than half of the 2.6 million IDPs are believed to be displaced due to conflict and insecurity.  
+Despite largescale rural displacement and resulting rapid urbanization, about 49 percent of the population 
+(8.8 million people) still lives in rural areas, of which slightly more than half derive their livelihood directly 
+from nomadic pastoralism, slightly less than half from crop cultivation. 
+Technological Analysis  
+The farmers in most of rural Somalia depend on traditional farming practices and knowledge and skills 
+transferred from generation to generation. These traditional knowledge and skills are insufficient in the face 
+of changing climate, depleted soils, and research and extension services as discussed in Section 5. The 
+farmers have not been able to adapt to climate change through introduction of new climate-resilient crop 
+varieties and farming techniques. They also have not been unable to access basic inputs to maintain 
+productivity including tractors and fertilisers. The largescale rural displacements resulting from recurrent 
+droughts and floods, and conflict has compounded the situation. 
+ 
+17  National Economic Council (2023). State of the Economy Report 2023 - Volume 1. NEC Publications, Federal Republic of 
+Somalia. 
+18  
+Somalia National Bureau of Statistics, Federal Government of Somalia, Somalia Poverty Report 2023. 
+0
+10
+20
+30
+40
+50
+60
+70
+Services
+employment
+Industry
+Agriculture
+Others
+Age of employment in main economic 
+sectors
+Figure 4: average age of employment in the main economic 
+sectors in Somalia
+=== PAGE 21 ===
+ 
+20 
+ 
+Ecological Analysis  
+Climate change is intensifying a wide variety of risks including but going well beyond the cycle of acute 
+drought and flooding19. By the end of the century, average temperature in Somalia is likely to exceed that 
+experienced by any nation now or across all of human history. Rainfall trends are uncertain: a moderate 
+increase in rainfall is the most likely outcome over the course of the century, but Somalia could either 
+become significantly more arid (close to a pure desert country like Qatar) or significantly wetter (becoming 
+a generally semi-arid country like Kenya). If realized, such changes would have profound effects on both 
+natural and agricultural ecosystems. In the case that drier conditions happen, chronic climate stress on crops 
+will increasingly affect productivity and may drive livelihood systems to greater rates of failure. Locust 
+outbreaks are also likely to increase in frequency. Stress on other natural resource–based systems will 
+intensify. 
+Legal Factors Analysis  
+With the advent of the federal system in Somalia, there is a new mindset in the MOAI and among many 
+farming communities of Somalia to start reviving productive commercial farming. The Federal Ministry of 
+Agriculture and Irrigation, in collaboration with state ministries and relevant other public entities, has 
+developed agricultural policies and laws to support economic growth and remove several constraints 
+through a range of public policy interventions, resettling of rural population back to productive farming 
+activities under the flagship Beero oo Barwaaqo Somalia (BBS) initiative, restoration of agricultural research 
+and extension services to be financed under the World Bank financed Food Systems Resilience Project (FSRP), 
+rehabilitation of riverine irrigation infrastructure as articulated in the new Riverine Irrigation Strategy (2025-
+2030) with the support of the European Union. There is also a firm political commitment to improve uptake 
+of modern agricultural technologies and creating enabling business environment through regulation of 
+markets for input with the recent establishment of the new Somalia Agricultural Regulatory and Inspection 
+Services (SARIS) authority. There are also several other relevant draft bills including National Food Security 
+Policy, National Agricultural Cooperatives Policy, National Extension Policy and National Agricultural Land 
+Use Policy. 
+SWOT Analysis  
+To establish strategic goals and interventions for the next five years, a comprehensive SWOT (Strengths, 
+Weaknesses, Opportunities, and Threats) analysis was conducted based on the literature review and 
+consultations at the federal and FMS levels. Internal (strengths and weaknesses) and external 
+(opportunities and threats) factors were considered to help evaluate what variables can be changed in the 
+future for strengthened strategic planning of agriculture in Somalia. This analysis is conducted at the 
+federal and state levels and consolidated in Table 1 below. In all states’ MOAI of the FMS consulted, the 
+institutional support and capacity-building needs have been reflected as a challenge and a priority. This is 
+stated both as a strength in an existing institution and as a weakness in terms of gaps within the structures 
+of the existing institutions. These inherent characteristics has been reflected in the respective priority 
+interventions in relation to the specific comparative advantages of each FMS institutions. Going forward, 
+the MOAIs can build on the existing institutional strengths to achieve its desired strategic objectives, while 
+using the weaknesses and threats as entry points for putting in place corrective strategic measures as 
+summarised in the SWOT Matrix:  
+ 
+19 “World Bank. 2023. Somalia Climate Risk Review. Washington, DC: World Bank. http://hdl.handle.net/10986/40076 License: CC BY-
+NC 3.0 IGO.”
+=== PAGE 22 ===
+ 
+21 
+ 
+Table 2: Strength, Weakness, Opportunities, Threat (SWOT) Analysis 
+Strength 
+Weaknesses 
+1. 
+Availability 
+of 
+the 
+agriculture 
+ministers 
+and 
+department and basic human resources  
+2. 
+Enabling policy and legal framework 
+3. 
+Effective MOAI leadership that can influence strategic 
+direction and bring professionals, NGOs, the UN, and 
+others together. 
+4. 
+Large arable land available for production expansion 
+5. 
+Country proximity to major markets 
+6. 
+Large farmers have access to capital for investment 
+7. 
+Collaborative mechanisms between MOAI and 
+agricultural cooperatives and stakeholders. 
+8. 
+Presence of young entrepreneurs 
+1. 
+Limited government funding capacity to invest key 
+sectoral programmes 
+2. 
+Lack 
+of 
+effective 
+enforcement 
+capacity 
+to 
+implement agricultural policies and regulations 
+3. 
+Low labour supply for agricultural production due 
+to the large rural displacement 
+4. 
+Absence of national strategies for promoting 
+agricultural economic recovery 
+5. 
+Inadequate capacity to disseminate agricultural 
+technology innovations 
+6. 
+Low adoption of modern agricultural technologies 
+in farming and use of farm input 
+7. 
+Weak monitoring and evaluation system in 
+externally funded programs 
+8. 
+Limited access to credit among farmers 
+9. 
+Weak information and data management systems 
+10. Poor road infrastructure to facilitate markets 
+Opportunities 
+Threats 
+1. 
+Supportive policies and a favourable political climate 
+as agricultural development and food security are top 
+priorities for both federal and member states 
+2. 
+Growing focus on value-addition activities as most 
+externally funded programs place emphasis on this a 
+path to development and poverty reduction in 
+Somalia. 
+3. 
+Accreditation and membership to regional and 
+international bodies such as IFAD, FAO, and DLCO-EA 
+which can facilitate access to technical and financial 
+assistance. 
+4. 
+Establishing 
+collaboration 
+among 
+the 
+relevant 
+institutions 
+such 
+as 
+universities, 
+research 
+organizations, the UN, and other international bodies. 
+5. 
+Growing availability of affordable new technologies 
+for farmers   
+6. 
+Supportive development partners willing to invest in 
+building a more resilient and sustainable agriculture in 
+Somalia 
+7. 
+Rapid urbanisation driving demand for food in 
+Somalia 
+8. 
+Availability of national, regional, and global markets   
+9. 
+Old government-owned facilities and land available 
+for rehabilitation and re-use across the regions. 
+10. Availability of significant river water resources in 
+regions with the large unused fertile arable land to 
+expand agricultural production. 
+1. 
+Ongoing widespread insecurity in Southern and 
+Central regions of Somalia. 
+2. 
+Recurrent floods/drought that frequent cause crop 
+failure in the context limited disaster risk 
+management capacity and worsening climate 
+change impact  
+3. 
+Limited budgetary capacity which affects the 
+implementation of agricultural programmes.  
+4. 
+Land disputes in the absence of enforceable land 
+tenure laws and up-to-date land registration 
+system 
+5. 
+High cost of marketing agricultural products due 
+to multiple roadblocks by militia and/or criminal 
+gangs collecting illicit taxes in Southern and 
+Central regions. where bulk of agricultural 
+production takes place. 
+6. 
+Emerging pests and diseases in the context of 
+emerging yet not operational phytosanitary 
+services 
+7. 
+Weak agricultural standards for food safety and 
+quality in the context of changing market 
+requirements and consumer preferences 
+8. 
+High poverty levels among rural population which 
+embedment to human capital development 
+9. 
+Weak governance, and high levels of corruption.
+=== PAGE 23 ===
+ 
+22 
+ 
+5. Constraints to agricultural productivity and growth  
+The above detailed comprehensive literature review and SWOT and PESTEL analyses allowed to identify a 
+set of existing internal and external constraints to existing MOAI ability to rebuilding a resilience and 
+sustainable agriculture in Somalia were identified. In this section, identifies the specific structural and 
+institutional constraints to agricultural productivity and growth. 
+Structural Constraints to Irrigated Systems 
+In addition to the ongoing insecurity issues in much of the rural areas of southern regions of Somalia, the 
+main structural constraints faced by the irrigated farming systems include the following: 
+ 
+- 
+Lower and inconsistent availability of irrigation water at a farm level due to the dilapidated 
+state of prewar irrigation and flood control infrastructure along the two main rivers and the 
+absence of maintenance and largescale rehabilitation projects. The agricultural infrastructure, 
+built mostly in the 1970s and 1980s, suffers from underinvestment in operations and maintenance, 
+and mismanagement after the collapse of the central government. Most of the public infrastructure, 
+such canal, barrages and dams, fell into disrepair and rivers frequently break their banks causing 
+extensive floods in both urban environment and farmlands. Changes in upstream activities in 
+Ethiopia, including building of new dams and greater water abstraction for agricultural use, have 
+also reduced downstream flows in Somalia as detailed in the new the Riverine Irrigation Strategy 
+(2025-2030). It is worth noting though that some of these some primary and secondary canals, 
+barrages, as well as riverbanks have been repaired recently or are being repaired under international 
+programs in Somalia.  
+- 
+Weak water management, on and off farm due to poor capacity in planning of water uses at 
+farm level and absence of effective regulatory oversight, which in turn results in inefficient water 
+use, increased salinization, and land that is more prone to water logging. The weak river water 
+abstraction governance is also responsible for largescale flooding. 
+- 
+Poor soil fertility management, because inputs such as manure, fertilizer, and pesticides are used 
+in a suboptimal way or not used at all, partly because of their high cost and limited availability in 
+remote areas due to badly deteriorated roads. 
+- 
+Use of low-quality seeds and the lack of diversified varieties available on the market, resulting 
+in low yields and high susceptibility to climate shocks and plant pest and disease in the absence of 
+research and extension services and therefore lack of introduction of improved seed and varieties 
+and farming techniques. 
+- 
+Limited mechanized farming. Most farmers use handheld tools to till the land, because of the 
+high cost of machinery. The machinery pool available for land preparation, supplementary pump 
+irrigation, and maintenance of its irrigation systems is in a poor state, costly to operate, and 
+inefficient.  
+Structural Constraints to Rainfed Systems  
+Rainfed agriculture faces both similar and different types of structural challenges which require targeted 
+approach to address the challenges, including:
+=== PAGE 24 ===
+ 
+23 
+ 
+- 
+Lower and more erratic rainfall often resulting in more frequent and intense cycles of droughts 
+and floods pose constraints for rainfed agriculture, especially in the absence to drought tolerant 
+and/or early maturing varieties.  
+- 
+Poor soil management, resulting in soils with very low moisture retention and inadequate internal 
+drainage, which cannot support crops to maturity.  
+- 
+Low or no input farming techniques for staple foods, a traditional low-risk response to 
+increasingly erratic rainfall conditions but limiting farmers’ ability to achieve potential crop yields. 
+Institutional constraints to both irrigated and rainfed systems 
+The main institutional challenges faced by both irrigated and rainfed agriculture including lack of up-to-
+date farm registration records and enforceable land tenure laws, research and extension services, 
+limited managerial and technical skills, phytosanitary services to control pest and disease, and 
+market access. A complete registry of farms up to 1990 survived and currently kept by MOAI, but 
+regardless of any historic proof of owners, landholders who left their farms in southern Somalia during the 
+civil war are largely still unable to reclaim their land, because of the ongoing insecurity, the weakness of 
+traditional arbitration, and the absence of effective judicial and enforcement capabilities20. Land registration 
+was also historically closely linked with government programs aimed at establishing modern corporate 
+agriculture, with various laws and programs passed in the 1970s promoted the establishment of state farms, 
+cooperatives, and large private plantations under state leasehold tenure. These programs concentrated 
+land ownership, displaced local landholders, and decreased tenure security for landholders without 
+leasehold rights. Furthermore, the high costs of leasehold acquisition and complicated land registration 
+procedures at the time gave wealthier and better-connected individuals an advantage in acquiring 
+leasehold title. Landlessness therefore remains pervasive in the countryside, with roughly 55% of farmers 
+still not full ownership titles of the lands they till21. It is also worth pointing out that the last agricultural 
+census survey has been done 1986. There is little known about the sectors structure and level of economic 
+activities 22 beyond non-statistical largely qualitative assessments by international programmes FAO 
+Somalia’s Food Security and Nutrition Analysis Unit (FSNAU). 
+The research and extension services providing through specialist government experimental stations based 
+in Afgoye, Baydhabo, Kismanyo and Aburiin became defunct with the collapse of state in 1991. The absence 
+resulted of the absence of extension and research services resulted in widespread of inappropriate farming 
+techniques and seed and banana propagation materials over time. In the absence of government-
+supported higher and vocational education institutions, community and privately supported schools and 
+universities emerged throughout the country over the past three decades. Some offer degree programs in 
+crops, livestock, and fishery sciences; however educational standards are poor, and often no meaningful 
+fieldwork and practical experience in the field is either offered as part of the programs or impossible due 
+to security concerns in most part of the country. As result, Somalia currently suffers from an acute shortage 
+of skilled technicians and professionals for the agricultural sector.  
+ 
+20 Zanini, Gianni; D'Alessandro,Stephen Paul; Phipps-Ebeler,Verena; Ngumbau, Catherine Mwende; Sanginga, Pascal; Seevinck, Julia; 
+Cherrou, Yamina; Read, Andrew; Akester, Stephen. Rebuilding Resilient and Sustainable Agriculture in Somalia: Volume 1 - Main 
+Report (English). Washington, D.C.: World Bank Group. http://documents.worldbank.org/curated/en/781281522164647812. 
+21 Burman, J., A. Bowden and A. Gole 2014: Land Tenure in Somalia: A Potential Foundation for Security and Prosperity. February 
+2014. Broomfield: Shuraako. 
+22 Somalia - Agricultural sector survey (English). Washington, D.C.: World Bank Group. 
+http://documents.worldbank.org/curated/en/696601468113357127.
+=== PAGE 25 ===
+ 
+24 
+ 
+Somalia does have a fully operational National Plant Protection Organisation (NPPO) capable of delivering 
+phytosanitary services to control pest of disease across the country to protect crop and environment and 
+promote agricultural trade. Although the parliament has passed on 19th November 2024 a new law 
+establishing NPPO, Somalia Agricultural Regulatory and Inspection Services (SARIS), this is yet to be 
+operationalised.  
+The marketing of agricultural products is a major challenge faced by the producers and traders in Somalia, 
+especially in Southern Somalia due to dilapidated rural road infrastructure and multiple roadblocks often 
+demanding illicit payments. In many cases the produce perishes and/or the additional costs imposed by 
+the multiple payments renders it unmarketable resulting substantial losses to producers. The most 
+commonly used grain storage practices in the main rainfed grain cultivation areas in the Bay and Bakool 
+regions are traditional Bakaar, an underground storage pits lined with clay. This system is highly prone to 
+moisture contamination, particularly during the rainy season. Bacterial and fungi contaminations are very 
+common including a significant hazard from mycotoxins, a highly toxic dark mold produced by fungi when 
+grain is not very dry at storage time or is affected later by the seepage of water. The health hazards posed 
+by mycotoxins —including stunted growth, delayed development, liver damage, and liver cancer—have 
+even more serious effects than the economic loss associated with product losses or lower market prices. 
+Indeed, average grain losses in southern Somalia are estimated at 20–30 percent of the total harvest which, 
+in aggregate terms amounts to 50,000–80,000 tons of cereals a year, valued at $15–$20 million23. 
+Furthermore, the lack of adequate rural storage and processing facilities often force farmers to sell their 
+output at a very low prices especially when there is an excess supply in the market. The lack of market 
+information and therefore proper production planning at farm level contribute to over production and 
+seasonal price collapses.  
+Finally, the lack of nationally adopted constitution or administrative law enabling effective coordination of 
+national agricultural policies and strategies poses major risks to the implementation of this strategy and 
+any resulting reform agenda, including delivery of key services to farmers and the monitoring and 
+evaluation of the effectiveness of these services in the future. 
+It is worth pointing out that, despite the multiple institutional and structural challenges, certain subsectors 
+are already performing well due to favourable market conditions. For example, Somalia is consistently 
+among 15 largest sesame producers globally and certain amount of dry lemon is also exported to Middle 
+Eastern markets and Turkey. However, the lack of effective agricultural trade policy, domestic banking 
+sector fully integrated with international finance system to provide trade financing products that reduce 
+the risk of exporting, phytosanitary services and sustained international marketing effort hampers the 
+export of high value crops with strong global demand. 
+ 
+ 
+ 
+23 Zanini, Gianni; D'Alessandro,Stephen Paul; Phipps-Ebeler,Verena; Ngumbau, Catherine Mwende; Sanginga, Pascal; Seevinck, Julia; 
+Cherrou, Yamina; Read, Andrew; Akester, Stephen. Rebuilding Resilient and Sustainable Agriculture in Somalia: Volume 1 - Main 
+Report (English). Washington, D.C.: World Bank Group. http://documents.worldbank.org/curated/en/781281522164647812.
+=== PAGE 26 ===
+ 
+25 
+ 
+6. Strategic priorities 
+The Agricultural Transformation Strategy (ATS) for the period of 2025-2029 is the successor to the draft 
+Agriculture Development Strategic Plan (ADSP) for 2021-202524. The ATS establishes the priorities and 
+initiatives that will govern its implementation over the next five years. The agricultural transformation 
+strategy is intended to contribute to long-term national economic development and enhance food security 
+and farmer incomes. It identifies a total of 8 priorities and 24 interventions intended to drive sustained 
+agricultural recovery and growth capable of helping reducing poverty through dependable rural 
+employment and more consistent access to nutritious and safe food. The overarching strategic objective 
+underlying the identification of these priorities and interventions is to increase agricultural production and 
+productivity to meet a greater proportion of domestic food demand and promote export of high value 
+crops over the next five years, while protecting the environment. 
+Short term priorities 
+Short-term priorities are achievable within the timescale 1-2 years and typically do not entail pre-requisite 
+activities such as skills or infrastructure that should be put place before a priority can effectively 
+implemented. The short-term priorities identified for this strategy include: 
+1. Building administrative and technical capacities of Ministries of Agriculture and 
+Irrigation at both Federal and Member state levels  
+The MOAI’s ability to implement this strategy and other important programs in the next five years will 
+largely be contingent upon the administrative and technical skills of its workforce, as well as availability of 
+operational capability, systems and facilities which are critical for delivering services to farmers, mobilising 
+resources necessary to invest in agricultural development programs, and monitor and evaluate these 
+programs. The institutional capacity gaps of the MoAI emerged as a top priority, in terms of existing deficits 
+in its administrative and technical capabilities. Key administrative skills critical for the implementation of 
+this strategy include advanced written and oral communication, discretion and confidentiality, ICT, 
+organisational skills to balance several tasks and meet competing deadlines at any time, and record and 
+document management. Key technical skills include advanced agricultural sciences and economics, as well 
+as familiarity with the relevant analytical packages and systems to support effectively program and policy 
+development, implementation, and monitoring and evaluation, and also deliver high quality evidence and 
+advice to Ministers and Senior Officials.  
+Agro-mereological data collection and early warning systems are also weak and the government currently 
+depends on external programs such as FSNAU and Somalia Water and Land Information Management 
+(SWALIM) to inform policy and disaster risk management decision makings in relation to extreme weather 
+events, pest outbreaks and flood events. This comprehensive strategy will empower farmers with crucial 
+climate information, enable proactive responses to weather extremes, and safeguard agricultural land from 
+flood damage, ultimately fostering a more resilient and productive agricultural sector. There is an acute 
+need to rebuild these administrative and technical skills and data and information systems across the 
+departments of the MOAI and its counterpart FMS ministries to support staff of these departments 
+effectively to fulfill their respective mandates and undertake the reforms necessary to transform the 
+agricultural sector in Somalia. The capability gaps are more severe in FMS ministries where there are more 
+ 
+24 The draft agriculture development strategy 2021-2025 was submitted to the Parliament and received many discussion sessions but 
+was not endorsed.
+=== PAGE 27 ===
+ 
+26 
+ 
+severe financial and human resource constraints. Finally lack of up-to-date farm registration is a major 
+barrier to effective policymaking and farmers’ access to credit and financing, as well as farm services. 
+Key areas of capacity building interventions include: 
+a) The Ministry will develop and adopt a staff recruitment and retention program based on a 
+transparent competency framework.  
+This framework will define the administrative and technical skills and behaviours expected of civil servants. 
+Competencies are the skills, knowledge and behaviours that lead to successful performance work including 
+the ability of staff member to set direction within their department, division or subdivision and engage 
+effectively the relevant internal and external stakeholders to produce results in relation to specific assigned 
+roles and responsibilities. The program will be integrated into the existing civil service grading system to 
+provide adequate remuneration and career progression path to staff based on their performance. The 
+Ministry will provide institutional support to FMS ministries to help implementing this program. 
+b) Training for the Ministry staff  
+Key staff of MOAI and its FMS counterpart ministries will be formally trained using an effective skills 
+development program to ensure they can build the administrative and specialist technical skills required 
+for effective performance of their duties. The development program will set annual targets based on the 
+competency framework and facilitate effective assessment of performance against the targets. 
+To ensure effective implementation of this strategy, the Ministry will seek external technical assistance to 
+build in-house capabilities in key areas including policy and program development, implementation and 
+monitoring and evaluation, as well as filling any related infrastructural and equipment needs. 
+c) Create up-to-date farm registration system  
+In partnership with the relevant FMS authorities, the Ministry will carry out a farm registration system to 
+create complete administrative records proofing legal ownership and tenancy, and size of agricultural land. 
+The farm registration records will also form the basis for future agricultural census and surveys. 
+d) Compiling agricultural statistics  
+In partnership with Somalia National Bureau of Statistics (SNBS), the Ministry will collect agricultural census 
+to fill the current acute data gaps on agriculture sector. A census of agriculture is a statistical operation for 
+collecting, processing and disseminating data on the structure of agriculture, including size of farm 
+holdings, land tenure, land use, crop area harvested, irrigation, livestock numbers (agropastoral 
+households), labour and other agricultural inputs. 
+e) Re-establishing agro-meteorological data collection networks and early warning systems 
+Farmers need up-to-date and accurate meteorological data to plan their activities and mitigate risks. To 
+address the growing uncertainties related to climate variability and associated disaster hazards, The 
+Ministry will use a multi-pronged approach to revive the agro-meteorological networks at regional and 
+district levels to collect real-time weather and other relevant data to establish robust early warning systems 
+to anticipate droughts, floods, cyclones, pest outbreaks and weather forecasting, so that the government 
+and farmers can implement more effective mitigate natural disaster risks. 
+h)  Re-establishing national food reserves 
+The Ministry will develop an action and start consultations on this across the country to re-establish national 
+food reserves that can be used in events of food security crisis. Food reserves offer crucial benefits by 
+enhancing food security, stabilizing prices, and providing a safety net during crises. Government will also
+=== PAGE 28 ===
+ 
+27 
+ 
+use this as a policy lever to stimulate agricultural production and investment to support long-term 
+economic growth. 
+2. Strengthening Delivery of Phytosanitary Services 
+Strengthening the controls of pest and disease has emerged as a key priority. Evidence gathered through 
+the literature review and consultation highlighted that Somalia has very weak pest and disease controls. 
+Recent outbreaks of desert locust and fall army worm and their widespread infestations, leading to 
+significant economic losses and livelihoods is a testimony of the risks posed by pest to Somali agriculture. 
+To address these challenges, MOAI has established SARIS which is responsible for delivery of phytosanitary 
+services and controls of agrochemicals and seed quality. Consistent with the legislation establishing SARIS 
+and in line with international and regional practices, the MOAI has established the new regulatory agency 
+designated as an independent National Plant Protection Organisation (NPPO) charged with the 
+responsibilities to fulfil national obligations under the International Plant Protection Convention (IPPC). 
+These obligations including prevention of introduction and spread of harmful pest and disease to protect 
+crop and environment and promote international trade. However, the agency is legally established in 
+November 2024, it has to yet be operationalised to deliver the mandated controls across the country. In 
+line with the five-year plan for SARIS (2024-2028), three interventions were identified under this priority.   
+a) Appointing Board of Management for SARIS 
+The Ministry will appoint an Independent Board of Management (IBM) which is responsible for strategic 
+leadership and oversight of operations of SARIS. The Board, to be appointed by the Minister of MOAI, will 
+include representatives of all relevant stakeholders, including border agencies (customs, immigration, port 
+and airport authorities, food safety and animal health agencies); government ministries (environment, trade 
+and commerce, finance and FMS MOAI); private sector(producers, importers, exporters, traders and 
+processors that are key clients and beneficiaries of the NPPO and are involved in the production, marketing 
+and consumption chain) and consumers associations.   
+b) Establish a governance model for coordination of delivery of phytosanitary services across the 
+country 
+The Board of Management, in consultation with the Ministry and its state FMS counterparts, will identify an 
+appropriate organisational structure determining how the roles, power and responsibilities are assigned, 
+controlled and coordinated, and how information and communication flows among the different levels of 
+management and stakeholders at FGS and FMS levels. In this context, the Board will guide the operational 
+activities based on science evidence and in reflection of the national policy priorities, and resource efficiency 
+and coordination needs within the context of the two-tier federal system consisting of the FGS, in this 
+setting responsible for overall policy and law-making to enforce IPPC obligations effectively, and the Federal 
+Member States (FMSs) performing delegated official controls within their territorial jurisdiction under the 
+direct oversight of the Board of Management. The trust of this governance model is that it will allow 
+technical and scientific decision-making free from political interference across the federal system.  
+c) Develop basic levels of technical skills and infrastructure across the country 
+SARIS will recruit skilled staff to build senior leadership, basic administrative personnel for operational 
+management of the organisation, and technical competences in phytosanitary controls in stepwise driven 
+by demand for the phytosanitary services. The key technical officers to be capacitated under a strategic 
+partnership with a regional NPPO. Laboratory facilities and border posts will be established across the 
+regions in consultation with FMS authorities. Once built the basic competences and infrastructure, SARIS, 
+as first steps toward delivery of phytosanitary services, will gather evidence required to create a National
+=== PAGE 29 ===
+ 
+28 
+ 
+Pest list, for example, using the Center for Agriculture and Biosciences International (CABI) and other peer 
+review resources. 
+d) Introduction of phytosanitary service fees and charges 
+In the context of limited government budgetary resources, the long-term financial sustainability of SARIS 
+will depend on its ability to raise funds from external sources such as private sector cost recovery scheme 
+for its phytosanitary services. The Ministry will draft and then request cabinet approval for introducing this 
+bill to the parliament a legal instrument setting the charging structure and fees for statutory plant health 
+services such as import and export inspections, sampling and testing. In line with the globally adopted 
+principle that the costs of statutory services should be borne by users who benefit directly from a service, 
+additional charges must also be applied to recover cost associated with the provision of any ancillary 
+services or facilities or the issue of any authorisation, certificate or other document. Once introduced, these 
+charges and fees will be adjusted periodically to align them closely to the changes in the cost of delivering 
+the service to individual users over time.  
+e) Developing appropriate level of technical competencies for registration of pest control and 
+fertiliser products  
+In consultation with other relevant government line ministries and agencies, the Ministry will create 
+administrative and technical capabilities for the registration of pest control and fertiliser products to prevent 
+trade to counterfeit products and food safety and quality of pesticide use, including pre-harvest intervals, 
+MRLs. The Ministry will create the analytical services and research capabilities supporting the control of 
+agrochemicals. 
+3. Supporting development of SMEs and Agribusiness Value Chains  
+The Ministry will support both financially and technically the development of farmer groups, associations 
+and cooperatives to promote farmers’ adoption of good farm management practices, new agricultural 
+technologies and sustainable farming practices, as well as enhancing farmers’ bargaining power and enables 
+them to sell their products at higher prices and access input and finance at lower costs. The Ministry will 
+also support of the expansion of outsourcing services provided by agricultural cooperatives to individual 
+farmers outside their membership help to increase productivity. 
+Most rural main road and bridges have fallen into disrepair in Southern Somalia and often become 
+unpassable in rain season. Deteriorated main and feeder rural roads and bridges increase the time and costs 
+of transporting crops to markets, undermining incentives to expand horticulture crops. 
+a) Development of agribusiness services and market linkages. 
+Ministry will support the emergence of a dynamic agribusiness industry linking farmers and consumers to 
+drive growth in the agricultural and the rural nonfarm sectors. Development of agribusiness industry in 
+Somalia is critical to provide inputs to the farm sector, and it also link the farm sector to consumers through 
+the handling, processing, transportation, marketing, and distribution of food and other agricultural products. 
+By promoting the development of well-targeted public-private sector partnerships and corporate social 
+responsibility initiatives, the Ministry will promote smallholder participation and create better investment 
+climate for small and medium enterprises to improve competitiveness within the emerging agribusiness 
+industry. The goal is creating vibrant domestic agribusiness subsector capable of supplying high value 
+products that can compete with and substitute food imports in the future. Emphasises will be placed on 
+policy measures supporting products and value chains with the highest export potential in both regional 
+and international markets, including development of product quality and safety standards, and certification. 
+Sesame, citrus and bananas are identified as priority value chains.
+=== PAGE 30 ===
+ 
+29 
+ 
+Under this intervention the Ministry will also improve the rural road infrastructure to support better access 
+to markets. The ministry will work closely with the Ministry of Public Works and Housing to rehabilitate and 
+expand critical rural road networks.  
+b) Improvement of on-farm storage and district level aggregation infrastructures 
+The ministry will promote development of on-farm storage facilities to improve quality and minimize post-
+harvest losses. As part of this the ministry will support farmers transitioning harvest storage from 
+underground to overground facilities to reduce both the harvest losses and contamination of harmful 
+contaminants such as pathogenic bacterial and fungi. The Ministry will also promote cooperatives and 
+farmers’ associations to develop collective storage facilities for product aggregation. For this purpose, 
+government will work close with international programs supporting agriculture and Gargaara facility to 
+promote access to finance among cooperatives and farmer associations, as well as individual farmers. The 
+ministry will run an awareness campaign to promote product quality and safety, so the consumers are able 
+to better appreciate and more willing to pay for the improved product attributes.    
+Medium- and long-term priorities 
+Medium- and long-term priorities are achievable within a timeframe of 3-5 years. Typically, there are some 
+pre-requisite conditions for effective implementation of medium- and long-term interventions, in terms of 
+supporting skills, policies, laws or infrastructure investments. The long-term priorities identified for this 
+strategy include: 
+1. Agricultural National Research and Extension Services 
+Evidence from the literature review and consultation led to conclude increasing agricultural productivity 
+and maintain this over time requires access to effective research and services. Agricultural research is critical 
+to develop and transfer solutions to agricultural problems of high national priority and provide information 
+access and dissemination, whilst agricultural extension and advisory services support farmers and rural 
+producers through training, information, and brokering linkages to markets and services. Extension services 
+thus provide the critical connection from agricultural innovation and discovery of solutions to durable 
+improvements at scale, as farmers and other actors in the rural economy learn, adapt, and innovate with 
+new technologies and practices. Extension services also will help smallholder farmers adapt to and mitigate 
+climate change, conserve biodiversity, and protect the environment while feeding their families and their 
+countries. These services empower farmers and rural producers to cope with evolving agricultural challenges, 
+such as the growing importance of standards, labels, and food safety; and shocks, such as price increases 
+for agricultural inputs. 
+Under this priority, two main interventions were identified: 
+a) Revival of agricultural research and extension stations 
+On the onset of the civil war in 1990, all government-run research and extension services collapsed, and all 
+remain closed except Aburiin, in Somaliland. These stations specialised both in irrigated (Central Agriculture 
+Research Station in Afgoe, and Jilib Research Station) and rainfed agriculture (Bonka Dryland Research 
+Station, Biodoba, and Aburiin Dryland Research station, Aburiin. The Ministry will develop a roadmap for 
+rehabilitation of the research and extension stations, equip them and recruit research and extension staff 
+to restore these critical services to farmers. As part of this effort, the Ministry will establish partnerships with 
+local universities, and regional and international research institutions, including CGIAR centres—including 
+ICRISAT, ILRI, and ICARDA to enable access to cutting-edge technologies in drought-resilient crops,
+=== PAGE 31 ===
+ 
+30 
+ 
+livestock productivity, and climate-smart agricultural practices, tailored for Somalia’s context.. Public Private 
+Partnerships in the delivery of research and extension services will also be part of the roadmap. 
+b) Rehabilitation of agricultural training institutions 
+There were also 10 agricultural training schools aimed at preparing specialist technicians across the country 
+to meet demand for extension services and support farmers to access and adopt output of agricultural 
+research. The technicians also supported trials and pest and disease control and eradication campaigns, as 
+well as national agricultural development programs and projects. The ministry will rehabilitate all school 
+facilities and re-open them in the coming 5 years. 
+2. Rehabilitate riverine irrigation infrastructure and improve water access for rainfed 
+agriculture  
+Before 1990, Somalia had large-scale flood control and irrigation schemes, consisting of barrages, canals, 
+and other infrastructure in the middle and lower reaches of the Juba and Shabelle rivers. The canal system 
+consisted of primary, secondary, and tertiary canals, with water flow controlled by barrages or weirs. 
+Pumped irrigation systems also existed along the rivers, where large pumps moved water from the rivers to 
+the extensive network of canals. The vast majority of this infrastructure is no longer functioning, and as 
+result the area under both controlled or flood recession irrigation has declined significantly. Similarly, water 
+reservoirs for rain fed agriculture and livestock, and road infrastructure have fallen into disrepair over the 
+past three decades in most parts of the country. Rehabilitation of the irrigation and rain harvest 
+infrastructure is critical increasing agricultural productivity and growth.  
+Farming activities in the drier Northwestern (Somaliland) and Northeastern (Puntland) regions rely on 
+surface water from springs and shallow wells, typically using small one-piston petrol or solar powered 
+pumps, as well as spate irrigation. Alongside the establishing farming activities, there is also emerging 
+horticultural production under greenhouses around main cities and towns across the country. Access to 
+good quality water is critical to support the productivity of these activities.  
+Under this priority, two main interventions were identified: 
+a) Rehabilitating irrigation and flood control infrastructure in line with Riverine Irrigation Strategy 
+2025 
+Establishing a robust and comprehensive policy and legal frameworks to address the multifaceted structural 
+and institutional challenges in managing effectively irrigation systems in Somalia is critical. As part of this, 
+the Ministry will review the existing policies, legislation, and strategies governing riverine irrigation and 
+strengthen them to better reflect the new two-tier federal governance system of Somalia and meet the 
+current needs of users. The Ministry will also strengthen existing institutional capacity for water resource 
+management, with more clearly defined roles and responsibilities of FGS and FMS by equipping these 
+institutions with adequate resources to coordinate access and utilisation among various stakeholders. 
+Specifically, the Ministry will enhance capacity and knowledge exchange in irrigation governance by creating 
+a network of trained professionals capable of designing, implementing and managing irrigation projects 
+and programs across the country in line with national policies and laws. This new capability will lay 
+foundations for establishing a dedicated National River Authority responsible for implementation of new 
+policy and legal frameworks to strengthen governance for water resource management for the benefits of 
+all stakeholders. 
+To improve water distribution efficiency and reduce water losses and flooding, the Ministry will also conduct 
+a comprehensive assessment of status of the irrigation infrastructure and accordingly develop a
+=== PAGE 32 ===
+ 
+31 
+ 
+comprehensive plan for rehabilitation of existing infrastructure, including canals, barrages, and riverbanks 
+in coordination with ongoing projects. Departmental targets and performance indicators will be set to 
+monitor the progress. 
+A second assessment of water reservoirs, including key dams, will also be carried and outcome used to 
+prepare a plan for rehabilitation of the reservoirs. 
+In order to improve transboundary water governance, the Ministry will work closely with relevant national 
+stakeholders to develop a strategy that allows a mutually agreeable common ground with the upstream 
+stakeholders to achieve equitable and sustainable use of shared river water resources as supported by a 
+transparent joint monitoring and management systems. 
+ 
+b) Enhance rain/groundwater harvesting techniques and management  
+The Ministry will support the development of small-scale irrigation systems through expansion of the 
+number of shallow wells, earth dams, cemented berkads to increase horticultural production across country 
+and access to water for livestock among agropastoral communities. The ministry will also promote the use 
+of efficient irrigation systems through demonstration of use micro-irrigation systems allowing both efficient 
+use of water and delivery of fertilisers, considering soil properties, crop biology, available water, timing, 
+distribution methods, and climatic factors. 
+3. Increase agricultural mechanization and farm inputs use to expand cultivated area and 
+crop productivity 
+Somalia's agricultural sector faces a double challenge: low mechanization and limited access to agricultural 
+inputs for small and medium scale farmers. Agricultural mechanization, combined with other inputs and 
+support to boost agricultural production and productivity, has been demonstrated to increase the efficiency 
+of farm labour. Limited or lack access to agricultural machinery such as tractors, water pumps, and farm 
+implements is therefore major constraints to expanding area cultivated and improving the productivity. Old 
+pre-war agricultural machinery stock managed by the government is now obsolete and mostly unusable 
+due to lack of maintenance. Limited service is currently provided by private companies or international 
+projects providing assistance to farmers. The pool of machinery created through the private provision or 
+projects is small too to reach most farmers. The security challenges also limit access to certain areas of the 
+Southern regions of Somalia. High cost of mechanisation is in particular a hurdle to small scale farmer’s 
+ability to increase productivity. Additionally, small scale farmers often struggle to afford key inputs including 
+fertilizers, pesticides and improved seeds, further constraining the productivity and farm income. 
+a) Promote the use of agricultural mechanization  
+To address the acute need for access to affordable mechanisation, the Ministry will support existing private 
+service in partnership with international programs providers to increase pool of tractors, water pumps and 
+farm implements. The Ministry will also support cooperative and farmer association in accessing financing 
+for acquisition of affordable tractors, motorized hand tractors, as well as other farm equipment and 
+machinery such as threshers, and driers to boost productivity through expansion of cultivated land and 
+increased yield at farm level. 
+ 
+ 
+b) Promote farm inputs use and crop diversification
+=== PAGE 33 ===
+ 
+32 
+ 
+The Ministry will work with commercial banks and input traders to improve farmers’ access to agricultural 
+inputs through credit programs or government subsidized distribution channels respectively to incentivise 
+a sustainable use of fertilisers, quality seeds and plant protection products. The ministry will also provide 
+technical assistance to farmers through the re-established research and extension services to facilitate 
+greater use input through trials and demonstration of improved crop varieties, fertilisers and pesticide 
+applications. As part of this effort, the Ministry will also support farmers to enhance their resilience to 
+climatic shocks through dissemination of climate-smart agricultural technologies including use of 
+intercropping, drought-resistant varieties and cover crop in between main crops to diversify income and 
+improve soil structure. 
+4. Strengthen internal and external coordination, and accountability  
+The Ministry’s ability to develop and implement effectively policies, strategies and programs largely 
+contingent upon functioning of its internal and external coordination structures and mechanism. Internal 
+coordination refers to the processes and structures within the Ministry to align different departments, teams, 
+and employees to work towards shared policy, strategic and programmatic goals, while external 
+coordination focus on establishing connections and managing relationships and interactions between the 
+Ministry and key external entities such as other federal government line ministries and agencies, FMS 
+ministries of agriculture and development partners. The process for internal coordination involves 
+consultation, bargaining, compromise and agreement between departments on the discharge of their 
+respective functional responsibilities toward shared ministerial goals. Such coordination require 
+development of common implementation plans and monitoring and evaluation of the policies, strategies 
+and programs with clear reviews against pre-agreed and timebound targets and milestone.  
+The external coordination with FMS ministries of agriculture is in particular important for effective 
+policymaking and implementation of national strategies and programs as much of actual implementation 
+take place at regional and district levels and local administrative systems are better place to lead these 
+activities, in term of possessing greater understanding of local challenges and actors, such as farmers and 
+service providers, and lower transaction costs involved.  
+Finally, coordination with international development partners is critical to ensure that their programs and 
+activities are aligned with the Ministry’s priorities as articulated in this strategy. 
+a) Strengthen interdepartmental coordination 
+The Ministry will develop new Terms of Reference allowing to hold regular a monthly coordination meeting 
+to ensure departments have common implementation plans allowing effective coordination in all shared 
+activities and these plans are fully consistent with the overall Ministry policy and strategic and programmatic 
+goals. The meeting will be chaired by the Minister or Director General, and it will be minuted to ensure that 
+the meeting records capturing action points are circulated after each meeting and the completion of the 
+action points is verified in the next meeting. 
+b) Strengthen National Agriculture Forum (NAF) 
+The ministry will also strengthen inter-ministerial (FGS and FMS) coordination structures for this strategy 
+implementation. At present, there is not a fully functioning coordination arrangement between MOAI and 
+its FMS counterpart ministries. To fill this gap, MOAI will review and operationalise the old Terms of 
+Reference for National Agricultural Forum (NAF) to create a strengthened coordination structure allowing 
+holding regular pre-scheduled coordination meetings at a ministerial, DG and Departmental Director levels, 
+with an inbuilt accountability system. The different leadership levels will discuss emerging issues and 
+activities, assess ongoing policy and program implementation activities against specified targets and
+=== PAGE 34 ===
+ 
+33 
+ 
+milestones, and take any necessary actions in a timely manner, as well as facilitating experience sharing. To 
+ensure accountability, all meeting will be minuted and the completion of actions pointed verified at the next 
+meeting. Any issues outstanding at Departmental Director level or requiring authorisation or decision will 
+be escalated to Director General level. The Director General levels will in turn escalate any issues outstanding 
+to Ministerial level. 
+c) Strengthening coordination with international development partners 
+At any year, there are dozens of international projects design or implemented across Somalia. To ensure 
+that these projects are aligned with this transformation strategy, the Ministry will establish an effective 
+coordination structure with donors funding and implementing partners of these project, so that the Ministry 
+is fully involved in both the programming and implementation activities. The ministry will use AIMS systems 
+to create a live project data face allowing donors and implementing agencies to provide up-to-date 
+information on new project underdevelopment and being implemented including their regional and 
+population coverage. As part of this new coordination structure, the Ministry will also work closely with the 
+partners to develop a joint project monitoring and evaluation in line with the M&E framework developed 
+for this strategy.  
+5. Promote Partnerships for Agricultural Research, Trade and Investment to support a 
+sustainable growth in the sector. 
+There are acute needs to develop advanced technical capabilities and systems for key priority areas 
+identified by this strategy, including strengthening of phytosanitary services, agrochemical controls, and re-
+establishment of research and extension services in Somalia. For example, phytosanitary controls involve 
+various capabilities to protect against pests and diseases, including surveillance and identification, 
+inspections, and international collaboration all aimed to prevent the introduction and spread of harmful 
+organism in order to protect crop and environment, and promote agricultural trade. Similarly, the approval 
+of pesticides requires advanced analytical capacity to ascertain that their active substances do not have any 
+immediate or delayed harmful effects on human or animal health, directly or through drinking water, food, 
+feed or air, or exposure in the workplace or through cumulative and synergistic effects, and they also do 
+not have unacceptable effects on the environment, particularly with regards to non-target species and 
+biodiversity. Equally, developing research and extension capabilities demands building collective skills, 
+knowledge, tools, and processes required by researchers and extension professionals to effectively conduct 
+research, disseminate knowledge, and facilitate the adoption of innovations. 
+Building the necessary advanced capabilities in these areas is substantive investment over decades. Such 
+financial burdens and long lead times can be mitigated by establishing long-term strategic partnerships 
+with the relevant regional and international agricultural research organisation. The regional and 
+international agricultural trade of agriculture also requires close collaboration with the relevant 
+phytosanitary services. Access to attracting inward investments and innovation and promote accessing to 
+regional and regional markets also requires leadership, diverse technical skills and systems to build enabling 
+business environment including creating conducive agricultural regulatory framework and directing across 
+government the development relevant public services directed at firms and markets, as well as ensuring 
+efficiency with which regulatory framework and public services are combined in practice. 
+a) Building partnerships for development of phytosanitary services and agrochemicals 
+The Ministry will tap into existing regional NPPO capabilities to develop in-house capacity for delivery of 
+phytosanitary services. In particular, the Ministry will formalise existing collaboration with the Kenyan Plant 
+Health Inspectorate Service (KEPHIS) and seek access support via the Center of Phytosanitary Excellence
+=== PAGE 35 ===
+ 
+34 
+ 
+Africa (COPE - AFRICA) through regional mechanism to rapid and cost effectively building basic 
+competences and systems capability over the next two years. More importantly, under this formal 
+government-to-government partnership agreement the Ministry will seek technical support to develop a 
+range of capabilities including: 
+- 
+phytosanitary certification system including ePhyto remotely accessible by business operators; 
+- 
+seed certification system, in partnership with seed industry; 
+- 
+domestic surveillance and control systems; 
+- 
+development of subsidiary regulation for operationalisation of SARIS and pest notification systems; 
+- 
+and information management system. 
+a) Building partnerships for research and extension services 
+The Ministry will establish partnerships with the Consultative Group on International Agricultural Research 
+(CGIAR) to accelerate agricultural transformation to strengthen the sector’s resilience against shocks to 
+climate shocks. This partnership will help resourcing and building capacity through development of 
+agricultural research and innovation systems, and extension service equipping farmers with the science and 
+technologies they need to increase area cultivated and crop productivity. 
+b) Building partnership for agricultural trade and investment 
+The ministry will develop public-private partnerships (PPPs) for sustainable trade involving collaboration 
+between governmental entities, private sector companies, civil society organizations and international 
+partners to promote responsible business practices in agricultural trade in the two commodities with highest 
+export potentials: sesame and banana. PPPs will help addressing structural and institutional constraints to 
+productivity and growth of these two value chains by fostering innovation, knowledge exchange and multi-
+stakeholder collaboration. Through these partnerships investments will be promoted in the two value chains. 
+Cross-cutting issues 
+Two cross-cutting issues identified by this transformation strategy are digital agriculture and improving 
+youth and women participation in the rebuilding of resilience and sustainable agriculture in Somalia. Digital 
+agriculture can contributes in various ways towards the achievement of Somalia’s agricultural development 
+objectives as set out in this strategy, including supporting agricultural innovation systems through bridging 
+the gap between researchers, academia, extension agents and farmers, sustainable farming with improved 
+access to information and knowledge, disaster risk management through effective early warning systems, 
+enhanced market access for inputs and produce, as well building traceability systems for food quality and 
+safety. Digital agriculture can support the future activities of the Center for Innovation and Agripreneurship 
+Development (CIAD) – a pioneering initiative in modernizing Somalia’s agriculture through knowledge 
+transfer, skills training, research and the promotion of advanced farming techniques, digital technologies 
+and sustainable solutions. 
+Youth and women face challenges in achieving equitable participation in agricultural value chains. Youth 
+have limited access to employment opportunities and in the absence specialist vocational training and 
+apprenticeship programs they lack experience and connection to successfully access job opportunities. 
+Pervasive informality of job market with most recruitment taking place through social networks in Somalia 
+also disadvantages youth. Women are actively engaged in agriculture, comprising 50 percent of the 
+agricultural labour force. Women are underrepresented in the formal labour force and actively engage in
+=== PAGE 36 ===
+ 
+35 
+ 
+the shadow economy through informal employment opportunities. Their limited participation in decision-
+making and training, and their limited access to agricultural resources, capital and information affects their 
+productivity. Women also face marginalization in access to agricultural extension services and credit results 
+in less food production and contributes to continued heightened food insecurity in the country. 
+The Ministry will implement the expanded digitalization agenda encompassing farmer e-wallets, mobile-
+based extension services, and integration with market pricing platforms. As part of this effort will be made 
+to improve farmer literacy, smartphone penetration, and weak internet infrastructure in rural areas. The 
+implementation approach will focus on inclusivity and accessibility by prioritizing technologies that work 
+with basic mobile devices. This includes the use of Unstructured Supplementary Service Data (USSD) and 
+SMS-based platforms, which enable farmers to interact with services without requiring internet access or 
+smartphones. Additionally, applications with voice command capabilities in Somali and other local 
+languages can help bridge literacy gaps and expand usability among underserved populations. 
+Digitalization is a cornerstone of Somalia’s modern agricultural agenda. The strategy emphasizes the 
+expansion of the Agricultural Information Management System (AIMS) to include real-time, geo-tagged 
+data on farmers, inputs, and markets. It will support the development of digital extension platforms that 
+deliver advisory content through mobile devices in Somali and other local dialects. Additionally, it promotes 
+e-commerce platforms that directly link producers with markets, input suppliers, and financial institutions 
+to enhance value chain efficiency and transparency. 
+The Ministry will also establish a dedicated Climate Risk Financing and Green Investment frameworks 
+through the relevant national frameworks and collaborating with accredited institutions operating in the 
+country to strengthen the resilience of the crop production sector. This component will promote access to 
+climate adaptation funds, develop weather-indexed crop insurance schemes, and enhancing accessing to 
+green finance grants to support smallholder farmers investing in climate-smart practices. Priority 
+investments will include drought-tolerant seed varieties, efficient irrigation systems, soil restoration 
+techniques, and climate-resilient post-harvest infrastructure. The Ministry will work closely with 
+development partners, financial institutions, and climate finance mechanisms such as the Green Climate 
+Fund (GCF) to mobilize resources and build financial protection systems for farmers. By reducing the 
+financial risks associated with climate shocks, this strategy will enhance productivity, protect farmer incomes, 
+and accelerate the transition to a resilient and sustainable crop production system across Somalia. 
+a) Promoting applications of digital agriculture 
+The Ministry will enhance the Agricultural Information Management System (AIMS) to serve as a centralized 
+data repository for real-time agricultural performance monitoring, policy planning, and decision-making. 
+To support climate adaptation, the Ministry will also use SWALIM’s remote sensing and GIS technology for 
+real-time monitoring of water resources, soil health, and drought/flood early warnings. This will improve 
+irrigation planning and natural resource conservation. Furthermore, the farmers will receive digital extension 
+services by E-Fidiye platform through SMS, mobile apps, and online platforms that provide real-time market 
+prices, weather forecasts, and agronomic best practices. 
+b) Mainstreaming youth and women empowerment 
+To ensure a resilient and inclusive transformation of Somalia’s agriculture sector, the National Agricultural 
+Transformation Strategy will mainstream and operationalize several critical cross-cutting priorities that 
+address socioeconomic inequities that disadvantage youth and women in accessing economic 
+opportunities. Somalia has one of the youngest populations globally, with over 70% under the age of 30.
+=== PAGE 37 ===
+ 
+36 
+ 
+This youth bulge presents both a challenge and a significant opportunity for agricultural revitalization. The 
+strategy aims to establish Youth Agribusiness Incubation Hubs in key regions to promote entrepreneurship, 
+enhance skills, and improve access to markets. It will encourage youth-led innovation through digital 
+agriculture, mobile advisory services, and mechanization technologies. Furthermore, the inclusion of youth 
+quotas in public investment programs and agricultural employment initiatives will ensure meaningful 
+participation of young people in the sector. 
+Similarly, women constitute a substantial portion of the agricultural labor force in Somalia but continue to 
+face systemic barriers in land ownership, access to finance, and leadership roles. The strategy is committed 
+to ensuring at least 50% representation of women in farmer organizations, cooperatives, and extension 
+services—aligning with CAADP Kampala Declaration goals to empower African women in agriculture. It also 
+seeks to expand access to women-targeted grants, credit schemes, and land certification programs. In 
+addition, the strategy promotes the role of women as leaders in agro-processing, horticulture, and crop 
+value chains, especially where they already have strong community participation. 
+7. Conclusions 
+The Agricultural Transformation Strategy is intended to help the MOAI to significantly reduce or eliminate 
+existing institutional and structural barriers to the sector’s productivity and growth in the five years, with 
+the primarily goals of increasing agriculture’s contribution to the economy, farmer incomes, employment, 
+and improve food security. The strategy identified eight strategic priorities and 24 related interventions 
+addressing the structural and institutional obstacles across the irrigated and rainfed farming systems in 
+Somalia. Although the two systems share some common challenges – namely exposure to increasingly more 
+severe cyclical droughts and floods linked to climate change effect and pervasive insecurity across the 
+country leading together to largescale rural labour force displacements, they also face other different 
+challenges unique to each system. The challenges face by the irrigated system include lower and 
+inconsistent availability of irrigation water at a farm level due to the dilapidated state of prewar irrigation 
+and flood control infrastructure along the two main rivers and the absence of maintenance and largescale 
+rehabilitation projects; weak water management, on and off farm due to poor capacity in planning of water 
+uses at farm level and absence of effective regulatory oversight; poor soil fertility management, because 
+inputs such as manure, fertilizer, and pesticides are used in a suboptimal way or not used at all; use of low-
+quality seeds and the lack of diversified varieties available on the market, resulting in low yields and high 
+susceptibility to climate shocks and plant pest and disease; and limited mechanization.  
+The structural challenges faced by rainfed systems include poor soil management, resulting in soils with 
+very low moisture retention and inadequate internal drainage, which cannot support crops to maturity; and 
+low or no input farming techniques for staple foods, a traditional low-risk response to increasingly erratic 
+rainfall conditions but limiting farmers’ ability to achieve potential crop yields. The institutional challenges 
+acutely faced by both farming systems include lack of up-to-date farm registration records and enforceable 
+land tenure laws, research and extension services, limited managerial and technical skills, phytosanitary 
+services to control pest and disease, and market access. 
+The comprehensive priorities and interventions articulated in this strategy are intended to help MOAI in 
+tackling effectively these multiple complex challenges in order to build a more resilient and sustainable 
+agriculture in Somalia over the next five years. Implementation of this strategy could therefore potentially 
+have considerable socioeconomic impact as agricultural transformation can offer Somalia a realistic path to 
+sustainable development. Indeed, key pre-requests for greater agricultural production and productivity are 
+already in place. With an abundance of fertile land, labour and largely underutilised water, Somalia has the 
+natural and human capital endowments necessary for a significant expansion of agricultural production to
+=== PAGE 38 ===
+ 
+37 
+ 
+drive economic growth and prosperity which are the only dependable sustainable path to poverty reduction 
+in the longer term. Reducing chronic food insecurity and widespread poverty is the country’s primary 
+development challenge; therefore, growing the agricultural sector is key to achieving a transformational 
+impact. In this regard, the preparation of the ATS is a critical step toward ongoing government effort to 
+restore and expand the agriculture’s contribution to the national economy through increased rural 
+employment and incomes and food security
+=== PAGE 39 ===
+ 
+38 
+ 
+References: 
+Ali, D M (2023) Impact of Foreign Direct Investment on Economic Growth in Somalia: VAR Model Analysis 
+American Journal of Economics, 13(2), 52-59  
+Afrah, N A., & Amp; Dahir, A M., (2015) Evaluation of Public Private Partnership Projects in Somalia: Case in 
+Mogadishu Airport and Seaport Managed by Turkish Favori and Albayrak Companies Advances in 
+Social Sciences Research Journal, 2(9) 173 – 183. 
+African Development Bank (2023), Country Focus Report: Mobilizing Private Sector Financing for Climate 
+and Green Growth Somalia. 
+African Development Bank (n.d.) Retrieved May 12, 2023, from https://www.afdb.org/en/news-and 
+events/press-releases/African-development-fund-mobilizes-89-billion-africas-low-income-
+countries-highest-its-50-year-history-57132 
+Ahmed, A., et al (2020) Climate Change and Food Security in Somalia: A Review Sustainability, 12(4), 1500.) 
+Bernard, T & Giraud Héraud, E 2024 Agrifood value chains in low-income countries – Accounting for market 
+structure to inform policies FAO Agricultural Development Economics Working Paper 24-03 Rome, 
+FAO https://doi.org/10.4060/cd0903en. 
+Díaz Bonilla, E 2019 Macroeconomic Policies and Agricultural and Rural Development 2030 - Food, 
+agriculture and rural development in Latin America and the Caribbean, Santiago, Document No 7 
+FAO 24 p Licence: CC BY-NC-SA 3.0 IGO. 
+Federal Government of Somalia (2019) Ministry of Planning, Investment and Economic Development 
+Somalia National Development Plan 2020 to 2024. 
+Federal Government of Somalia and UNEP (2020) National Environment Strategy and Action Plan Somalia 
+2021–2025 (NESAP) Draft. 
+Federal Government of Somalia (2022) Somalia’s First Adaptation Communication to the United Nations 
+Framework Convention on Climate Change Directorate of Environment and Climate Change 
+Mogadishu, Somalia Federal Republic of Somalia (2019) National Environmental Policy. 
+The Federal Republic of Somalia (2021) Updated Nationally Determined Contribution (NDC)  
+FEWS NET Somalia Key Message Update January 2024: Deyr harvest improves food availability, though crop 
+production is below average, 2024. 
+Humanitarian Needs Overview Somalia by OCHA, (2023) 
+International Monetary Fund (2023) World Economic Outlook, April 2023 Retrieved from 
+https://www.imf.org/en/Publications/WEO/Issues/2023/03/31/world-economic-outlook-april-
+2023
+=== PAGE 40 ===
+ 
+39 
+ 
+International 
+Monetary 
+Fund 
+(n.d.) 
+Retrieved 
+May 
+10, 
+2023, 
+https://www.imf.org/en/About/Factsheets/Sheets/2023/Debt-relief-under-the-heavily-indebted-
+poor-countries-initiative-HIPC 
+International Monetary Fund (November, 2022) Staff Report for the 2022 Article IV Consultation and Fourth 
+Review Under the ECF Arrangement Country Report No 2022/375 P 23-25 
+Oduori, S M., Oroda A S., Gadain H., and F Rembold, 2012: Estimating Cultivable Areas in Central and 
+Southern Somalia using Remote Sensing by FAO-SWALIM Project Report No RSM 02 Nairobi, Kenya. 
+Salami, Adeleke; Kamara, Abdul B.; Brixiova, Zuzana (2010), Smallholder Agriculture in East Africa: Trends, 
+Constraints and Opportunities, Working Papers Series N° 105 African Development Bank, Tunis, 
+Tunisia. 
+Takeshima, Hiroyuki, ed 2024 Sustainable agricultural modernization productivity tools in Asia Tokyo, Japan: 
+Asian Productivity Organization  https://doi.org/10.61145/LOLX3286 
+Wodon, Q & Zaman, H 2010 Higher food prices in sub-Saharan Africa: Poverty impact and policy responses 
+The World Bank Research Observer, 25(1): 157–176. 
+World Bank 2024 Somalia Economic Update, Ninth Edition: Addressing Climate Change Challenges for 
+Economic Growth © World Ban
+=== PAGE 41 ===
+ 
+40 
+ 
+Annexes 
+TRANSFORMATIVE 
+BANKABLE 
+PROJECTS 
+FOR 
+AGRICULTURAL DEVELOPMENT  
+# 
+Bankable Program title 
+Pillar 
+Proposed activities 
+Target 
+areas 
+Beneficiaries 
+HH 
+Expected Outcomes 
+1 
+Somali Agricultural Legal 
+Framework and Institutional 
+Strengthening Program (SALISP) 
+Governance & 
+Institutional 
+Strengthening 
+Develop strategic policies, 
+regulatory frameworks, 
+capacity building, centralized 
+agri-database, M&E systems 
+National FGS and 
+FMS 
+agriculture 
+institutions 
+Effective agricultural 
+governance and improved 
+institutional capacity 
+2 
+Irrigation Infrastructure 
+Development Program (IIP) 
+Water & 
+Irrigation 
+Rehabilitate canals, construct 
+dams, drip/sprinkler systems, 
+governance systems for 
+sustainable water use 
+National 1.000,000 
+Year-round water access, 
+reduced flood/drought risks, 
+and increased irrigated 
+acreage. 
+3 
+Agri-Meteorology and Early 
+Warning Program (AMEWP) 
+Climate & 
+Resilience 
+Install weather stations, early 
+warning systems, flood/drought 
+monitoring tools, pest 
+surveillance 
+National 1.500,000 
+Improved forecasting and 
+disaster preparedness 
+4 
+Soil and Plant Health Program 
+(SPHP) 
+Soil & Pest 
+Management 
+Land mapping, soil fertility, 
+pest control, IPM training 
+National 500,000 
+Enhanced soil and plant 
+health for sustainable 
+agriculture 
+5 
+Seed Systems Development 
+Program (SSDP) 
+Seeds & Inputs 
+Develop breeding capacity, 
+seed certification, private 
+sector empowerment 
+National 1,000,000 
+Improved seed access and 
+productivity 
+6 
+Agricultural Mechanization and 
+Digitalization Program (AMDP) 
+Mechanization & 
+Technology 
+Machinery access, vocational 
+training, mobile extension 
+tools, e-voucher systems 
+National 300,000 
+Modernized agriculture and 
+improved productivity 
+7 
+Transforming Priority Crops 
+Program (TPCP) 
+Crops & Value 
+Chains 
+Farmer training, processing, 
+cooperatives, export 
+facilitation, infrastructure 
+investment 
+National 1.500,000 
+Boosted yields, exports and 
+market access of 7 target 
+crops. 
+8 
+School Feeding Project (SFP) 
+Nutrition & 
+Community 
+Development 
+Provide school meals, build 
+infrastructure, nutrition 
+education, link to local farmers 
+National 1.00,000 
+Improved child nutrition and 
+local agriculture linkage 
+9 
+Beero oo Barwaaqee Soomaaliya 
+(BBS)- Farming For Prosperity in 
+Somalia 
+Integrated 
+Farming 
+Integrated farming, 
+mechanization, climate-smart 
+practices, rural livelihoods 
+National 1.00,000 
+Modernized farming and 
+resilient rural economies 
+10 Forage Development and 
+Resilience Program (FDRP) 
+Livestock & 
+Fodder 
+Climate-resilient fodder 
+production, market linkages, 
+PPPs, preservation facilities 
+National 50,000 
+Enhanced feed security and 
+livestock productivity 
+11 Integrated Markets, Finance and 
+Agro-Trading Program (IMFTP) 
+Markets & Trade 
+Storage infrastructure, market 
+systems, microfinance access, 
+trade facilitation 
+National 800,000 
+Reduced post-harvest loss and 
+improved income of small 
+scale farmers 
+12 Youth and Women Farmers 
+Empowerment Program (YWFEP) 
+Social Inclusion 
+Skills training, grants, market 
+linkages, innovation incubation 
+National 100,000 
+Youth/women empowerment 
+and improved food security 
+13 Somali Food Systems Pathways 
+Program (SFSPP) 
+Food Systems 
+Climate resilience, trade, 
+gender, digital innovation, 
+displacement adaptation 
+National 200,000 
+Sustainable food systems and 
+resilience
+=== PAGE 42 ===
+ 
+41 
+ 
+ 
+AGRICULTURAL PRIORITY AREAS AT FEDERAL MEMBER 
+STATES 
+PRIORITY AREAS OF GALMUDUG STATE 
+ 
+ # 
+Priority Need 
+Pillar 
+Proposed activities 
+Un
+it 
+Target areas 
+Budget 
+Beneficiari
+es HH 
+Expected 
+Outcomes 
+1 
+Water 
+Resource 
+Management  
+Dryland 
+Irrigation 
+Borehole 
+and 
+installation of solar 
+system 
+10 
+Cadado,Galkac
+yo, 
+Dhusamareeb, 
+Abduwaq, 
+Xarardheere, 
+Guriceel 
+1,000,000.
+00 
+700,000 
+Increase 
+land 
+under 
+cultivation, 
+increase 
+production, 
+Water 
+for 
+irrigation, 
+Water catchments 
+30 
+  
+  
+3,000,000.
+00 
+Spate Irrigation 
+2 
+Crop pests and 
+diseases 
+Assessment 
+Comprehensive 
+impact assessment of 
+major pests 
+1 
+Cadado, 
+Galkacyo, 
+Dhusamareeb, 
+Abduwaq, 
+Xarardheere, 
+Guriceel 
+100,000.00 
+1100,000 
+Properly 
+managed pests 
+and diseases 
+Monitoring 
+system 
+Developing 
+monitoring systems 
+for three major pests 
+3 
+70,000.00 
+3 
+Farm Input  
+Seeds  
+Certified 
+cereals 
+seeds 
+(four 
+value 
+chains developed) 
+4 
+Cadado, 
+Galkacyo, 
+Dhusamareeb, 
+Abduwaq, 
+Xarardheere, 
+Guriceel 
+ 800,000.0
+0 
+ 
+100,000 
+Increase 
+production 
+Fertilizers  
+Organic fertilizers – 
+3 products 
+4 
+3,500,000.
+00 
+Pesticides 
+ Ecofriendly- 
+products 
+3 
+1,00,000.0
+0 
+4 
+Mechanizatio
+n  
+Tractors  
+Tractors 
+with 
+implements 
+100 Cadado,Galkac
+yo, 
+Dhusamareeb, 
+Abduwaq, 
+Xarardheere, 
+Guriceel 
+5,500,000.
+00 
+300,000 
+Increase farms 
+under 
+cultivation 
+Handheld 
+Tractors 
+Motorized 
+hand 
+tractors 
+100 
+300,000.00 
+300,000 
+5 
+Agricultural 
+Infrastructure  
+Feeder Roads   Farm to Main roads 
+(Km) 
+50 
+Cadado,Galkac
+yo, 
+1,000,000.
+00 
+200,000 
+Access 
+to 
+markets, Value
+=== PAGE 43 ===
+ 
+42 
+ 
+Rural 
+Bridges 
+Rural bridges  
+200 Dhusamareeb, 
+Abduwaq, 
+Xarardheere, 
+Guriceel 
+ 
+  
+5,500,000.
+00 
+500,000 
+chain 
+development 
+6 
+Cooperatives 
+Development 
+and, 
+Commercial 
+farms 
+and 
+small 
+farm 
+capacity 
+building 
+Cooperative 
+Formation 
+and 
+Management  
+Strategy 
+1 
+Cadado,Galkac
+yo, 
+Dhusamareeb, 
+Abduwaq, 
+Xarardheere, 
+Guriceel 
+ 100,000.0
+0 
+100,000 
+Build 
+formidable 
+cooperates, 
+aggregation, act 
+as entry points. 
+  
+Good 
+Agricultural 
+Practices 
+(GAP) 
+10 
+ 200,000.0
+0 
+Cooperatives
+, commercial 
+and 
+smallholder 
+farmer 
+training 
+  
+7 
+Research and 
+Extension 
+Development  
+Research 
+Stations  
+One main research 
+station 
+and 
+substation 
+2 
+Cadado,Galkac
+yo, 
+Dhusamareeb, 
+Abduwaq, 
+Xarardheere, 
+Guriceel 
+3,700,000.
+00 
+100,000 
+Develop 
+seed 
+varieties that are 
+drought 
+tolerant, 
+early 
+maturity, 
+high 
+yield 
+Seed 
+and 
+varieties 
+development 
+Trails and testing 
+15 
+  
+1,900,000.
+00 
+Extension 
+centres 
+Construction 
+of 
+extension 
+/training 
+centers  
+5 
+500,000.00 
+8 
+Value 
+chain 
+Development  
+Post-harvest 
+technology  
+Threshers, 
+metallic 
+silos, driers,   
+100 Cadado,Galkac
+yo, 
+Dhusamareeb, 
+Abduwaq, 
+Xarardheere, 
+Guriceel 
+3,000,000.
+00 
+200,000 
+Value addition, 
+SME's, 
+PHL, 
+market-
+oriented, 
+employment 
+Market 
+and 
+distribution  
+aggregation centers 
+10 
+4,000,000.
+00 
+Agro-
+processing 
+and 
+light 
+industries 
+2 value chains/value 
+addition 
+2 
+6,800,000.
+00 
+9 
+Fodder 
+Production 
+Dryland 
+Fodder 
+Production  
+100 HA of land under 
+fodder production 
+100 Cadado,Galkac
+yo, 
+Dhusamareeb, 
+1,800,00.0
+0 
+50,000 
+Tackle climate 
+change, animal 
+fattening,
+=== PAGE 44 ===
+ 
+43 
+ 
+Irrigated 
+Fodder 
+Production 
+200 HA of land under 
+fodder production 
+200 Abduwaq, 
+Xarardheere, 
+Guriceel 
+900,000.00 
+1
+0 
+Soil 
+fertility 
+management 
+Mapping  
+Digital soil mapping 
+and sampling  
+ 1 
+Galmudug 
+ 200,000.0
+0 
+Galmudug 
+Soil knowledge 
+improved 
+Database 
+Creating database 
+ 1 
+11 Capacity 
+Building  
+Human 
+Capacity 
+Development  
+Ass. 
+On 
+Human 
+Capacity 
+Development/imple
+ment  
+400 Cadado,Galkac
+yo, 
+Dhusamareeb,  
+400,000.00 
+5,000 
+Human capital, 
+systems, policy 
+and regulations, 
+knowledge 
+transfer. 
+Infrastructure 
+Rehabilitation/constr
+uction 
+of 
+MoAI 
+district offices 
+5 
+Abduwaq, 
+Xarardheere, 
+Guriceel 
+500,000.00 
+5 districts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRIORITY AREAS OF HIRSHABELLE STATE 
+ S/N 
+Priority 
+Need 
+Pillar 
+Proposed activities 
+Unit 
+Target 
+areas 
+Budget 
+Beneficiar
+ies HH 
+Expected 
+Outcomes 
+1 
+Water 
+Resource 
+Manageme
+nt  
+Dryland 
+Irrigation 
+Borehole 
+and 
+installation 
+of 
+solar 
+system 
+20 
+Beletweyn
+e, 
+Jowhar, 
+Jalalaqsi, 
+Bula-Burte 
+Balcad 
+2000,000.
+00 
+700,000 
+Water agriculture 
+irrigation, 
+Water catchment 
+30 
+2,000,000.
+00 
+Riverine  
+Canal 
+(primary 
+and 
+secondary) 
+100 
+5,000,000.
+00 
+River 
+embankment 
+(km) 
+200 
+4,500,000.
+00 
+River desilting (km) 
+150 
+12,000,00
+0.00 
+2 
+Crop pests 
+and 
+diseases 
+Assessmen
+t 
+Comprehensive impact 
+assessment of major 
+pests 
+1 
+Beletweyn
+e, 
+100,000.0
+0 
+200,000 
+Properly 
+managed 
+pests 
+and diseases
+=== PAGE 45 ===
+ 
+44 
+ 
+Jowhar, 
+Jalalaqsi, 
+Bula-Burte 
+Balcad 
+Monitoring 
+system 
+Developing monitoring 
+systems for five major 
+pests 
+5 
+ 
+Beletweyn
+e, 
+Jowhar, 
+Jalalaqsi, 
+Bula-Burte 
+Balcad 
+100,000.0
+0 
+3 
+Farm Input  Seeds  
+Certified cereals seeds 
+(four 
+value 
+chains 
+developed) 
+4 
+Beletweyn
+e, 
+Jowhar, 
+Jalalaqsi, 
+Bula-Burte 
+200,000.0
+0 
+500,000 
+Increase 
+production 
+Fertilizers  
+Organic 
+fertilizers 
+(varieties introduced) 
+3 
+700,000.0
+0 
+Pesticides 
+Ecofriendly-3 products 
+3 
+250,000.0
+0 
+4 
+Mechaniza
+tion  
+Tractors  
+Tractors 
+with 
+implements 
+10 
+Beletweyn
+e 
+Jowhar 
+Jalalaqsi 
+Bula-Burte 
+600,000.0
+0 
+300,000 
+Increase 
+farms 
+under cultivation 
+Handheld 
+Tractors 
+Motorized 
+Hand 
+tractors 
+100 
+300,000.0
+0 
+ Other farm 
+equipment 
+& 
+machinery 
+Threshers, 
+metallic 
+silos, 
+driers, 
+aggregation centers  
+50 
+700,000.0
+0 
+5 
+Agricultur
+al 
+Infrastruct
+ure  
+Feeder 
+Roads  
+Farm to main roads 
+(Km) 
+200 
+Beletweyn
+e, 
+Jowhar, 
+Jalalaqsi, 
+Bula-Burte 
+2,000,000.
+00 
+500,000 
+Access 
+to 
+markets, 
+Value 
+chain 
+development 
+Rural 
+Bridges 
+Rural bridges 
+20 
+5500,000.
+00 
+6 
+Cooperativ
+es 
+Developm
+ent 
+and, 
+Commerci
+al 
+farms 
+Cooperativ
+e 
+Formation 
+and 
+Manageme
+nt 
+ Strategy 
+1 
+Beletweyn
+e, 
+Jowhar, 
+Jalalaqsi, 
+Bula-Burte 
+100,000.0
+0 
+100,000 
+Build formidable 
+cooperates, 
+aggregation, act 
+as entry points,
+=== PAGE 46 ===
+ 
+45 
+ 
+and small 
+farm 
+capacity 
+building 
+Cooperativ
+es, 
+ccommerci
+al 
+and 
+smallholde
+r 
+farmer 
+training 
+Training  
+  
+10 
+  
+200,000.0
+0 
+7 
+  
+Research 
+and 
+Developm
+ent, 
+and 
+Extension  
+ 
+Research 
+Stations  
+One 
+main 
+research 
+station and substation 
+2 
+Beletweyn
+e, 
+Jowhar, 
+Jalalaqsi, 
+Bula-Burte 
+1,000,000.
+00 
+Hirshabell
+e 
+Develop 
+seed 
+varieties that are 
+drought tolerant, 
+early 
+maturity, 
+high yield 
+Seed 
+and 
+varieties 
+developme
+nt 
+Trails and testing 
+7 
+180,000.0
+0 
+Extension 
+centres 
+Construction 
+of 
+extension 
+/training 
+centers  
+5 
+Beletweyn
+e 
+Jowhar 
+Jalalaqsi 
+Bula-Burte 
+Balcad 
+500,000.0
+0                  
+5 Districts 
+Available 
+extension 
+services 
+8 
+Value 
+chain 
+Developm
+ent  
+Post-
+harvest 
+technology  
+Threshers, 
+metallic 
+silos, driers,   
+100 
+Beletweyn
+e 
+Jowhar 
+Jalalaqsi 
+Bula-Burte 
+500,000.0
+0 
+200,000 
+Value 
+addition, 
+SME's, 
+PHL, 
+market-oriented, 
+employment 
+Market and 
+distribution  
+Aggregation centers 
+10 
+1000,000.
+00 
+Agro-
+processing 
+and 
+light 
+industries 
+2 value chains/value 
+addition 
+2 
+300,000.0
+0 
+9 
+Fodder 
+Production 
+Dryland 
+Fodder 
+Production  
+100 HA of land under 
+fodder production 
+100 
+Beletweyn
+e 
+Jowhar 
+Jalalaqsi 
+Bula-Burte 
+100,000.0
+0 
+50,000 
+Tackle 
+climate 
+change, 
+animal 
+fattening,  
+Irrigated/Ri
+verine 
+Fodder 
+Production 
+200 HA of land under 
+fodder production 
+200 
+200,000.0
+0 
+10 
+Soil 
+fertility, 
+Land 
+reclamatio
+Mapping  
+Digital soil mapping 
+and sampling  
+ 1 
+Beletweyn
+e 
+Jowhar 
+200,000.0
+0 
+Hirshabell
+e 
+ Soil knowledge 
+improved 
+Database 
+Creating database 
+1
+=== PAGE 47 ===
+ 
+46 
+ 
+n and Soil 
+Conversati
+on 
+Jalalaqsi 
+Bula-Burte 
+11 
+Capacity 
+Building  
+Human 
+Capacity 
+Developme
+nt  
+Ass. 
+On 
+Human 
+Capacity 
+Development/impleme
+nt 
+the 
+recommendations 
+1 
+Beletweyn
+e 
+Jowhar 
+Jalalaqsi 
+Bula-Burte 
+400,000.0
+0 
+50,000 
+Human 
+capital, 
+systems, 
+policy 
+and regulations, 
+knowledge 
+transfer. 
+Institutiona
+l Capacity  
+Institutional 
+Capacity/continuous    
+1 
+200,000.0
+0 
+Expertise 
+and 
+consultanci
+es support  
+Expertise 
+and 
+consultancies support 
+Buildings 
+  
+200,000.0
+0 
+Buildings 
+ Rehabilitation/constru
+ction of MoAI district 
+offices 
+ 5 
+ 500,000.0
+0 
+5Districts 
+Capacity 
+of 
+MoAI improved 
+ 
+PRIORITY AREAS OF JUBALAND STATE 
+ 
+Priority Need 
+Pillar 
+Proposed 
+activities 
+Unit Target 
+areas 
+Budget 
+Beneficiaries 
+HH 
+Expected 
+Outcomes 
+1 Water 
+Resource 
+Management  
+Dryland 
+Irrigation 
+Borehole 
+and 
+installation 
+of 
+solar system 
+10 
+Rain 
+fed 
+districts 
+ 
+1000,000.00 
+400,000 
+Increase land under 
+cultivation, 
+increase 
+production, Water 
+for irrigation, 
+Water 
+catchment 
+30 
+ 
+1,200,000.00 
+Riverine 
+irrigation 
+Canal (primary 
+and secondary) 
+100 
+Kismayo, 
+Luk, 
+Dolow, 
+Bardhere 
+10,000,000.00 500,000 
+River 
+embarkment 
+(km) 
+200 
+5,000,000.00 
+River desilting 
+(km) 
+150 
+12,000,000.00 
+2  
+Assessment 
+Comprehensive 
+impact 
+1 
+Kismayo, 
+Luk, 
+100,000.00 
+500,000 
+Properly managed 
+pests and diseases
+=== PAGE 48 ===
+ 
+47 
+ 
+Crop pests and 
+diseases 
+assessment 
+of 
+major pests 
+Dolow, 
+Afmadow, 
+Jamame, 
+Bardhere, 
+Beled 
+hawo, 
+Garbaharey 
+Monitoring 
+system 
+Developing 
+monitoring 
+systems 
+for 
+major pests 
+5 
+100,000.00 
+ 
+ 
+3 Farm Input  
+Seeds  
+Certified cereals 
+seeds 
+(four 
+value 
+chains 
+developed) 
+3 
+Kismayo, 
+Luk, 
+Dolow, 
+Afmadow, 
+Jamame, 
+Bardhere, 
+Beled 
+hawo, 
+Garbaharey 
+  
+  
+Increase 
+production 
+Fertilizers  
+Organic 
+fertilizers 
+– 
+products 
+4 
+3,500,000.00 
+500,000 
+Pesticides 
+ Ecofriendly- 
+products 
+3 
+4,000,000.00 
+500,000 
+ 
+4 Mechanization  Tractors  
+Tractors 
+with 
+implements 
+30 
+Kismayo, 
+Luk, 
+Dolow, 
+Afmadow, 
+Jamame, 
+Bardhere, 
+Beled 
+hawo, 
+1,800,000.00 
+300,000 
+Increase 
+farms 
+under cultivation 
+Handheld 
+Tractors 
+Motorized Hand 
+tractors 
+200 
+6,00,000.00 
+300,000 
+5 Agricultural 
+Infrastructure  
+Feeder Roads  Farm to Main 
+roads (Km) 
+200 
+Kismayo, 
+Luk, 
+Dolow, 
+Afmadow, 
+Jamame, 
+Bardhere, 
+Beled 
+hawo, 
+4,000,000.00 
+200,000 
+Access to markets, 
+Value 
+chain 
+development 
+Rural Bridges Rural bridges 
+  
+  
+ 
+20 
+5500,000.00 
+500,000 
+6 Cooperatives 
+Development 
+and, 
+Commercial 
+farms 
+and 
+small 
+farm 
+capacity 
+building 
+Cooperative 
+Formation 
+and 
+management  
+ Strategy 
+Training  
+1  
+Kismayo, 
+Luk, 
+Dolow, 
+Afmadow, 
+Jamame, 
+Bardhere, 
+Beled 
+hawo, 
+100,000.00  
+100,000 
+Build 
+formidable 
+cooperates, 
+aggregation, act as 
+entry points,  
+Cooperatives, 
+commercial 
+and 
+smallholder 
+farmer 
+training 
+Good 
+Agricultural 
+Practices 
+(GAP) 
+20 
+400,000.00
+=== PAGE 49 ===
+ 
+48 
+ 
+7 
+Research 
+and 
+Developme
+nt 
+and 
+Extension  
+Research 
+Stations  
+One 
+main 
+research 
+station and 
+substation 
+2 
+Kismayo, 
+Luk, 
+Dolow, 
+Afmadow, 
+Jamame, 
+Bardhere, 
+Beled 
+hawo, 
+3,700,000.0
+0 
+100,000 
+Develop 
+seed 
+varieties 
+that 
+are 
+drought 
+tolerant, 
+early 
+maturity, 
+high yield 
+Seed 
+and 
+varieties 
+developme
+nt 
+ 
+Trails 
+and 
+testing 
+8 
+  
+1,900,000.0
+0 
+Extension 
+centres 
+Constructio
+n 
+of 
+extension 
+/training 
+centers 
+5 
+Kismayo, 
+Luk, 
+Dolow, 
+Afmadow, 
+Bardhere 
+500,000.00 
+ 5 districts 
+Available 
+extension 
+services 
+8 
+Value chain 
+Developme
+nt  
+Post-
+harvest 
+technology  
+Threshers, 
+metallic 
+silos, driers,   
+100 
+Kismayo, 
+Luk, 
+Dolow, 
+Afmadow, 
+Jamame, 
+Bardhere, 
+Beled 
+hawo, 
+Garbaharey 
+3,000,000.0
+0 
+200,000 
+Value 
+addition, 
+SME's, 
+PHL, 
+market-
+oriented, 
+employmen
+t 
+Market and 
+distribution  
+Aggregatio
+n centers 
+10 
+4,000,000.0
+0 
+Agro-
+processing 
+and 
+light 
+industries 
+2 
+value 
+chains/valu
+e addition 
+2 
+6,800,000.0
+0 
+9 
+Fodder 
+Production 
+Dryland 
+Fodder 
+Production  
+100 HA of 
+land under 
+fodder 
+production 
+100 
+J Kismayo, 
+Luk, 
+Dolow, 
+Afmadow, 
+Jamame, 
+Bardhere, 
+Beled 
+hawo, 
+Garbaharey 
+1,800,00.00 50,000 
+Tackle 
+climate 
+change, 
+animal 
+fattening,  
+Irrigated 
+Fodder 
+Production 
+200 HA of 
+land under 
+fodder 
+production 
+200 
+900,000.00 
+10 
+Soil fertility 
+manageme
+nt 
+Mapping  
+Digital soil 
+mapping 
+and 
+sampling  
+ 1 
+Jubaland 
+1200,000.0
+0. 
+Jubaland 
+ Knowledg
+e on Soil 
+improved 
+Database 
+Creating 
+database 
+ 1 
+11 
+Capacity 
+Building  
+Human 
+Capacity 
+Developme
+nt  
+Ass. 
+On 
+Human 
+Capacity 
+Developme
+nt/impleme
+400 
+Jubaland 
+state  
+400,000.00 
+5,000 
+Human 
+capital, 
+systems, 
+policy and 
+regulations,
+=== PAGE 50 ===
+ 
+49 
+ 
+ 
+PRIORITY AREAS OF SOUTHWEST STATE 
+ 
+S/N 
+Priority Need 
+Pillar 
+Proposed 
+activities 
+Unit 
+Target 
+areas 
+Budget Beneficiaries 
+HH 
+Expected 
+Outcomes 
+1.  
+Water Resource 
+Management 
+Dryland 
+Irrigation 
+Boreholes and 
+installation of 
+Solar System 
+50 
+Rain fed 
+districts  
+5,000,000.00 
+1,200,000.00 Increase land 
+under 
+cultivation, 
+production, 
+Water for 
+irrigation 
+and drinking 
+Water 
+catchments 
+60 
+6,000,000.00 
+Installation of 
+drip irrigation 
+system 
+100 
+Rain fed 
+districts 
+1,000,000 .00 
+Riverine 
+irrigation 
+Canal (primary 
+and secondary) 
+100 
+Lower 
+Shabelle 
+10,000,000.00 
+800,000 
+River 
+embarkment 
+(km) 
+200 
+5,000,000.00 
+River desilting 
+(km) 
+150 
+12,000,000.00 
+nt 
+the 
+recommend
+ations 
+knowledge 
+transfer. 
+Institutiona
+l Capacity  
+Institutiona
+l 
+Capacity/co
+ntinuous    
+1 
+600,000.00 
+5,000 
+Expertise 
+and 
+consultanci
+es support  
+Expertise 
+and 
+consultanci
+es support 
+Buildings 
+20 
+2,000,000.0
+0 
+5000 
+Buildings 
+Constructio
+n of offices 
+and 
+Furniture 
+30 
+4,000,000.0
+0 
+12,000
+=== PAGE 51 ===
+ 
+50 
+ 
+Installation of a 
+complete Solar 
+Water Pump 
+System for 
+irrigation 
+60 
+1,000,000.00 
+2.  
+Crop pests and 
+diseases 
+Assessment Comprehensive 
+impact 
+assessment of 
+major pests 
+1 
+Southwest 
+100,000.00 
+500,000 
+Properly 
+managed 
+pests and 
+diseases 
+Monitoring 
+system 
+Developing 
+monitoring 
+systems for 
+five major 
+pests 
+5 
+Southwest 
+100,000.00 
+3.  
+Farm Input 
+Seeds 
+Certified 
+cereals seeds 
+(four value 
+chains 
+developed) 
+4 
+Southwest 
+800,000.00 
+500,000 
+Quality 
+seeds, 
+fertilizers 
+and 
+pesticides 
+for increased 
+production. 
+Fertilizers 
+Organic 
+fertilizers- 
+products 
+3 
+700,000.00 
+Pesticides 
+Ecofriendly – 
+products 
+3 
+250,000.00 
+4.  
+Mechanization 
+Tractors 
+Tractors with 
+implements 
+25 
+Southwest 
+1,500,000.00 
+300,000 
+Increased 
+land under-
+cultivation 
+Handheld 
+Tractors 
+Motorized 
+Hand tractors 
+300 
+900,000.00 
+5.  
+Agricultural 
+Infrastructure 
+Feeder 
+Roads 
+Farm to main 
+roads (Km) 
+200 
+Both 
+riverine 
+and rain-
+fed 
+districts 
+4,000,000.00 
+500,000 
+Access to 
+markets 
+improved. 
+Rural 
+Bridges 
+Rural bridges  
+20  L/Shabelle 
+5500,000.00
+=== PAGE 52 ===
+ 
+51 
+ 
+6 
+Cooperatives 
+Development and, 
+Commercial farms 
+and small farm 
+capacity building 
+Cooperative 
+Formation and 
+Management  
+Strategy 
+1 Southwest 
+100,000.00 
+100,000 
+Structure 
+Farmer 
+produce 
+organization 
+Cooperatives, 
+commercial and 
+smallholder 
+farmer training 
+Good 
+Agricultural 
+Practices 
+(GAP) 
+20 
+400,000.00 
+7 
+Research and 
+Development, and 
+Extension 
+Research Stations  Main 
+research 
+stations and   
+substation 
+3 Baidoa, 
+Afgoi and 
+Huddur 
+ 
+2000,000.00 
+3 Districts 
+Functional 
+research 
+centres 
+Seed and 
+varieties 
+development  
+Trails and 
+testing 
+15 Baidoa, 
+Afgoi and 
+Huddur 
+200,000.00 
+3 Districts 
+Extension centres 
+Construction 
+of extension 
+/training 
+centres  
+7 3 Riverine 
+districts & 
+4 rainfed 
+districts 
+  
+700,000.00  
+7 Districts 
+Available 
+extension 
+services 
+8 
+Market, Storage and 
+Value Chain 
+Development  
+Market  
+Construction 
+of Market 
+Facilities 
+(Vegetables, 
+Fruits & 
+Grains) 
+8 Afgoi & 
+Baidoa 
+ 
+  
+1,200,000.00 
+400 
+individuals 
+Improved 
+livelihoods  
+Storage facilities 
+Construction 
+of storage 
+facilities  
+2 Afgoi & 
+Baidoa 
+ 
+400.000.00  
+10 
+cooperatives 
+Post-harvest  
+Losses 
+reduced  
+  
+Post-harvest 
+technology  
+Threshers, 
+metallic 
+silos, driers,   
+100 Baidoa, 
+Hudur, 
+Burhakabo, 
+Afgoi  
+500,000.00 
+200,000 
+Market and 
+distribution  
+Aggregation 
+centres 
+10 
+1000,000.00 
+Agro-processing 
+and light 
+industries 
+2 value 
+chains/value 
+addition 
+2 
+6800,000.00 
+9 
+Fodder Production 
+Dryland Fodder 
+Production  
+100 HA of 
+land under 
+fodder 
+production 
+100 Baidoa, 
+Hudur, 
+Burhakabo, 
+Afgoi 
+1800,000.00 
+50,000 
+ Improved 
+availability 
+of fodders
+=== PAGE 53 ===
+ 
+52 
+ 
+Irrigated/Riverine 
+Fodder 
+Production 
+200 HA of 
+land under 
+fodder 
+production 
+200 
+900,000.00 
+ 
+ 
+10 Soil fertility 
+management 
+Mapping  
+Digital soil mapping and 
+sampling  
+ 1  Southwest   1200,000.00 
+Southwest 
+ Improved 
+knowledge on 
+Soil  
+Database 
+Creating database 
+ 1 
+11 Capacity 
+Building  
+Human 
+Capacity 
+Development  
+HR capacity needs 
+assessment 
+ 
+1 Southwest  
+50,000.00 MoAI staff Comprehensive 
+report 
+Short-term training for 
+MoAI staff on Breeding, 
+Climate Smart Agriculture, 
+Irrigation, IPM, Financial 
+Management etc. 
+5  Southwest 
+MoAI  
+100,000.00 
+100 MoAI 
+staff 
+Overall 
+capacity of 
+MoAI staff 
+improved 
+Long-term capacity 
+building (MSc and PhD) 
+on Soil, breeding, plant 
+pathology, Irrigation, 
+extension and Entomology  
+10 MoAI 
+staff 
+500,000 .00 
+10 MoAI 
+staff 
+Expertise and 
+consultancies support 
+Buildings 
+15 MoAI  
+1,500,000.00 
+MoAI 
+Infrastructure Need assessment of MoAI 
+office facilities at the 
+district level 
+1 Southwest 
+60,000.00 
+All MoAI 
+facilities at 
+respective 
+districts 
+Comprehensive 
+report 
+Rehabilitation/construction 
+of MoAI district offices 
+7 Southwest 
+   700.000,00   7 Districts 
+Capacity of 
+MoAI 
+improved
+=== PAGE 54 ===
+FEDERAL REPUBLIC OF SOMALIA
+MINISTRY OF AGRICULTURE AND IRRIGATION
+KM4, MoA1 HQ, Hodan District
+Mogadishu Somalia
+info@moa.gov.so
+www.moa.gov.so
+53

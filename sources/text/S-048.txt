@@ -1,0 +1,4676 @@
+=== PAGE 1 ===
+STATISTICAL 
+ABSTRACT 
+2024
+First Edition
+Compiled by: NBS | November 2024
+  SOMALIA NATIONAL 
+BUREAU OF STATISTICS
+Federal Republic of Somalia
+=== PAGE 2 ===
+2
+The Federal Republic of Somalia
+National Bureau of Statistics
+Federal Republic of Somalia
+National Bureau of Statistics (NBS)
+First Edition
+Compiled by: NBS | November 2024
+1st Edition, 2024
+Statistical 
+Abstract 
+2024
+=== PAGE 3 ===
+3
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+=== PAGE 4 ===
+4
+The Federal Republic of Somalia
+National Bureau of Statistics
+Somalia Map
+=== PAGE 5 ===
+i
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+PREFACE
+We are delighted to present the Statistical Abstract 2025, a biennial publication by the Somalia 
+National Bureau of Statistics. This publication marks a significant milestone in our commitment 
+to delivering high-quality, timely, and accessible data to support informed decision-making and 
+evidence-based policy formulation. As the inaugural edition, this Statistical Abstract serves as 
+a vital resource for a wide range of users, compiling comprehensive information sourced from 
+numerous surveys and administrative records.
+Key data sources for this report include the Demographic and Health Survey, the Household 
+Budget Survey, the Labour Force Survey, and administrative records from various government 
+ministries. These sources provide critical insights into Somalia’s current socio-economic 
+landscape, enabling analysis of trends in population dynamics, health, education, employment, 
+income, and economic growth.
+Administrative records further complement survey-based data, covering diverse sectors such as 
+education, transportation, infrastructure, agriculture, and governance. This integration broadens 
+and deepens the analysis, offering a more holistic view of the nation’s developmental trajectory.
+The publication of the Statistical Abstract 2025 underscores the National Bureau of Statistics’ 
+unwavering dedication to improving the availability and accessibility of official national 
+statistical data. By fostering transparency, this initiative aims to empower a diverse range of 
+users—from policymakers and researchers to academics, businesses, and the general public—
+to make decisions grounded in reliable evidence. We aspire to inspire a culture of fact-based 
+decision-making at every level of governance, industry, and civil society.
+We take this opportunity to extend our heartfelt gratitude to the entire team at the National 
+Bureau of Statistics. Their dedication, professionalism, and tireless efforts have been pivotal in 
+bringing this publication to life. 
+Looking ahead, we remain steadfast in our commitment to strengthening statistical production 
+in Somalia and enhancing our capacity to deliver timely and relevant data to meet the needs of 
+all stakeholders.
+	
+	
+	
+Dr. Abdisalam Abdirahman Mohamed
+	
+	
+	
+	
+   Director General
+	
+	
+	
+Somalia National Bureau of Statistics
+=== PAGE 6 ===
+ii
+The Federal Republic of Somalia
+National Bureau of Statistics
+ACKNOWLEDGEMENT
+The completion of the  Statistical Abstract 2025  would not have been possible without the 
+collective efforts and dedication of numerous individuals and organizations. We extend our 
+deepest gratitude to everyone who contributed to the development of this inaugural edition.
+We are profoundly grateful to the entire team at the National Bureau of Statistics for their 
+unwavering commitment, hard work, and expertise in compiling, analysing, and presenting the 
+data contained in this publication. Their collaboration and relentless effort have resulted in a 
+high-quality statistical product that will serve policymakers, researchers, and the public alike. 
+From data collection and processing to analysis and editorial work, every contribution has been 
+vital to the success of this endeavour.
+Special recognition goes to the leadership team, led by the Deputy Director General, for 
+their visionary guidance, strategic direction, and steadfast support. Their dedication has been 
+instrumental in achieving this significant milestone, marking a new era in the dissemination of 
+national statistical data.
+We also acknowledge the invaluable contributions of all other stakeholders who supported this 
+publication. From line ministries providing essential administrative data to the academic and 
+research communities that will leverage these statistics for deeper analysis, your cooperation 
+ensures the relevance and utility of this document.
+As the National authority for statistical data in Somalia, we are honoured to work alongside our 
+partners to ensure that quality data remains accessible to all. We pledge to continue fostering 
+collaboration and innovation to strengthen the nation’s statistical systems, ensuring resilience 
+and reliability for years to come.
+To everyone who contributed to the Statistical Abstract 2025, we offer our sincerest thanks. 
+Together, we look forward to advancing this essential work and building a brighter, data-driven 
+future for Somalia.
+=== PAGE 7 ===
+iii
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Contents
+Preface                                                                                                                                                   i
+Acknowledgement                                                                                                                                 ii
+List of Figures 
+v
+Acronyms
+vi
+Glossary
+vi
+CHAPTER ONE: INTRODUCTION
+1.0       Introduction 
+1
+1.1       Objectives 
+1
+1.2       Methodology  
+2
+1.3       Structure of the Statistical abstract 
+2
+CHAPTER TWO: SOCIAL STATISTICS
+2.1       Demographic characteristics 
+5
+2.1.1 Household Composition
+5
+2.1.2 Fertility Rate (FR)
+5
+2.1.4 Maternal Mortality Ratio (MMR)
+5
+2.2      Education 
+8
+2.3      Health 
+11
+2.4     Migration  
+15
+CHAPTER THREE: MACROECONOMIC STATISTICS
+3.0       National Accounts 
+19
+3.1       Introduction
+19
+3.1.1 Base Year and Price Estimates
+19
+3.1.2 Expenditure Approach and Data Transformation
+19
+3.1.3 Classification
+20
+3.2 Gross Domestic Product
+20
+3.2.1 Household Final Consumption
+20
+3.2.2 Gross Fixed Capital Formation (GFCF)
+20
+3.3       Price Statistics
+23
+3.3.1 Monthly Consumer Price Indices
+23
+3.3.2 Monthly and annual percentage of Consumer Price Indices
+24
+3.4      Trade Statistics
+27
+3.4.1 Import
+27
+3.4.2 Export
+27
+3.5      Balance of Payment
+30
+3.6      Government Finance Statistics
+32
+3.6.2 Government Expenditure
+32
+3.7      Banking and Currency
+34
+TABLE OF CONTENTS
+=== PAGE 8 ===
+iv
+The Federal Republic of Somalia
+National Bureau of Statistics
+3.7.1 Exchange Rate
+34
+3.7.2 Remittance
+34
+CHAPTER FOUR: PRODUCTION STATISTICS
+4.0      Sectors of Production Statistics Directorate (PSD)
+37
+4.1      Agriculture
+37
+4.1.1 Agricultural Land and Utilization
+37
+4.1.2 Crop Production
+37
+4.1.2.1 Cereal Production
+38
+4.1.2.2 Horticulture Production
+38
+4.2       Livestock
+40
+4.2.1 Livestock Population
+40
+4.2.2 Livestock Mortality
+40
+4.2.3 Livestock Exports
+40
+4.3       Energy
+43
+4.3.1 Electricity
+43
+4.3.1.1 Access to electricity
+43
+4.3.1.2 Source of electricity
+43
+4.3.1.3 Electricity for Lightening
+44
+4.3.1.4 Electricity for cooking
+44
+4.3.1.5 Availability of electricity
+44
+4.4       Petroleum
+47
+4.4.1 Final consumption by fuel
+48
+4.5       Food Security & Nutrition
+52
+4.5.2 Shocks Causes
+52
+4.5.3 Acute Malnutrition
+53
+4.7       Environmental & Climate
+56
+4.7.1 Deforestation and Forest Degradation
+56
+4.7.2 Greenhouse Gas Emissions 
+57
+CHAPTER FIVE: GOVERNANCE STATISTICS
+5.0        Governance statistics 
+60
+5.1       Women Representation
+60
+5.2     Government Civil Servants  
+61
+5.3     Access to justice 
+63
+5.4      Conflicts Related to Death
+64
+=== PAGE 9 ===
+v
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+LIST OF TABLES
+Table 2.1 The average household size and the percentage distribution of household size by place of residence	
+6
+Table 2.2 Age-specific fertility rate by residence MICS2006 - SHDS 2020	
+	
+	
+	
+	
+7
+Table 2.3 Prevalence of symptoms of ARI Among children under the age of five and healthy facility, 2006-2020	
+12
+Table 2.4 Prevalence Among children under the age of five with Fever and Diarrhea, 2006-2020	 	
+	
+12
+Table 2.5 Initial breastfeeding, 2006-2020	
+	
+	
+	
+	
+	
+	
+	
+	
+12
+Table 2.6 Knowledge of about HIV/AIDS by residence, 2006-2020	
+	
+	
+	
+	
+	
+12
+Table 2.7 Movements by passengers in and out of international flights by airports, 2023	 	
+	
+	
+15
+Table 2.8 Movements by passengers in and out by Land, 2023	
+	
+	
+	
+	
+	
+	
+15
+Table 3.1 GDP at Market Price, million US Dollars, 2018-2022	 	
+	
+	
+	
+	
+	
+19
+Table 3.2 GDP by expenditure, current prices, million US Dollars, 2018-2022	
+	
+	
+	
+	
+19
+Table 3.3 GDP by expenditure, constant prices, percent annual change 2018-2022	
+	
+	
+	
+20
+Table 3.4 GDP by expenditure, current prices, and percentage shares 2018-2022	 	
+	
+	
+	
+20
+Table 3.5 GDP by expenditure, constant prices, million US Dollars 2018-2022	
+	
+	
+	
+	
+20
+Table 3.6 Monthly Consumer Price Indices from 2018-2022	
+	
+	
+	
+	
+	
+	
+23
+Table 3.7 Monthly and annual percentage of CPI, 2019-2022	
+	
+	
+	
+	
+	
+	
+24
+Table 3.8 Total import 2019-2022 (Millions USD)	
+	
+	
+	
+	
+	
+	
+	
+26
+Table 3.9 Total export 2019-2022 (Millions USD)	
+	
+	
+	
+	
+	
+	
+	
+26
+Table 3.10 Balance of payment 2019-2022	
+	
+	
+	
+	
+	
+	
+	
+	
+28
+Table 3.11 Central government Revenue and expenditure of 2022	28
+Table 3.12 Central Government Revenue and Expenditure (Millions of USD)	
+	
+	
+	
+	
+30
+Table 3.13 Actual Revenue and Budget Estimates 	
+	
+	
+	
+	
+	
+	
+	
+30
+Table 3.14 Government Expenditure 2018-2019 (Million USD)	 	
+	
+	
+	
+	
+	
+30
+Table 3.15 Exchange rate 2010-202	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+32
+Table 3.16 individuals, businesses, NGOs, and the total amount received in Somalia from 2018 to 2022.	 	
+32
+Table 4.1 Electricity access rate by place of residence (percent)	 	
+	
+	
+	
+	
+	
+42
+Table 4.2 Source of electricity used most of the time in the households by type of residence (percent).	
+	
+42
+Table 4.3 Main source of electricity for lighting (percent).	
+	
+	
+	
+	
+	
+	
+42
+Table 4.4 Main source of energy for Cooking (percent).	 	
+	
+	
+	
+	
+	
+	
+42
+Table 4.5 fuel shares of electricity generation  2021.	
+	
+	
+	
+	
+	
+	
+	
+43
+Table 4.6 Petroleum gases imported from 2011-2020.	
+	
+	
+	
+	
+	
+	
+	
+45
+Table 4.7 Fuel imported at Mogadishu port 2021-2023.	 	
+	
+	
+	
+	
+	
+	
+45
+Table 4.8 Forest Cover Change in Somalia, 1990-2020	
+	
+	
+	
+	
+	
+	
+	
+54
+Table 4.9 Growing Stock Volume (million m3 over bark)		
+	
+	
+	
+	
+	
+	
+54
+Table 5.1 Percentage of Women Representation in the Lower House and Upper House (Bicameral)	
+	
+57
+Table 5.2 Percentage of Women in Lower House & Upper House Seats by Constituency	 	
+	
+	
+58
+Table 5.3 Lower House and Upper House Permanent Committee by Sex and Chairperson in 2023		
+	
+59
+Table 5. 4 Women Percentage in the Cabinet Position	
+	
+	
+	
+	
+	
+	
+	
+59
+Table 5. 5 Proportions of Women in the Judiciary Positions in National Institutions by Sex and States	
+	
+60
+Table 5.6 Total permanent civil servants between 2006-2022	
+	
+	
+	
+	
+	
+	
+61
+Table 5.7 Government Temporary Staff 2022	
+	
+	
+	
+	
+	
+	
+	
+	
+61
+Table 5. 8 Crime Reports Forwarded to the AGO by States and BRA, 2022	
+	
+	
+	
+	
+64
+Table 5.9 Conflict Related Death Per100,000 Population		
+	
+	
+	
+	
+	
+	
+65
+Table 5. 10 Proportions of Women in the Judiciary Positions in National Institutions by Sex and States	
+	
+65
+Table 5.11 Number of Prosecutors Per caseload by Sex and States in 2022	
+	
+	
+	
+	
+66
+Table 5. 12Number of Cases Reported to the Courts by States and BRA, 2022	
+	
+	
+	
+	
+66
+Table 5. 13 Number of Cases Reported to ADR by FMS & BRA in July 2022-to June 2023	
+	
+	
+66
+=== PAGE 10 ===
+vi
+The Federal Republic of Somalia
+National Bureau of Statistics
+LIST OF FIGURES 
+Figure 2.1 Percentage distribution of household head by type of residence and sex 	
+	
+	
+6
+PESS, 2014 - SHDS, 2020	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+6
+Figure 2.2 Total Fertility Rate by place of residence	
+	
+	
+	
+	
+	
+	
+7
+Figure 2.3 Maternal Mortality Ratio	
+	
+	
+	
+	
+	
+	
+	
+	
+7
+Figure 2.4 Literacy rates among adults by place of residence	
+	
+	
+	
+	
+	
+8
+Figure 2.5 Primary and Secondary School Enrolment in Somalia from 2019-2021		
+	
+	
+9
+Figure 2.6 Percentage of household members who smoke cigarettes or use tobacco	
+	
+	
+13
+Figure 2.7 Percentage of household members who smoke cigarettes or use tobacco by sex		
+	
+13
+Figure 2.8 Vaccination coverage for children aged 12-23 months, 2006-2020	
+	
+	
+	
+14
+Figure 3.1 GDP at Market Price, million US Dollars, 2018-2022	 	
+	
+	
+	
+	
+19
+Figure 3.2 Monthly percentage change of CPI, 2018-2022	
+	
+	
+	
+	
+	
+23
+Figure 3.3 Annual Average Inflation 2018 –202	 	
+	
+	
+	
+	
+	
+	
+24
+Figure 3.4 Total Export 2019-2022 (Millions USD)	
+	
+	
+	
+	
+	
+	
+27
+Figure 3.5 Total import 2019-2022 (Millions USD)	
+	
+	
+	
+	
+	
+	
+27
+Figure 3.6 Remittance 2018-2022 (million USD)	
+	
+	
+	
+	
+	
+	
+32
+Figure 4.1 Proportion of household’s own land.	 	
+	
+	
+	
+	
+	
+	
+35
+Figure 4.2 Land Utilization	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+36
+Figure 4.3 Sorghum and maize production in southern Somalia, 1995-2022.	
+	
+	
+	
+36
+Figure 4.4 Sorghum and maize production in Northwest Regions Somalia, 2010-2022	
+	
+	
+36
+Figure 4.5 Tomatoes and onion production	
+	
+	
+	
+	
+	
+	
+	
+36
+Figure 4.6 Livestock Populations Trends, Somalia 2014-2018	
+	
+	
+	
+	
+	
+38
+Figure 4.7 Livestock Populations by type in Somalia, 2014-2018		
+	
+	
+	
+	
+38
+Figure 4.8 Estimated number of livestock deaths by region between July 2021 and April 2022	
+	
+39
+Figure 4.9 Number of livestock(heads) exported from 2015-2021.	
+	
+	
+	
+	
+39
+Figure 4.10 Availability of Electricity (No. of hours per day) in Households (percent).	
+	
+	
+43
+Figure 4.11 Petroleum gas imported at Mogadishu port 2020	
+	
+	
+	
+	
+	
+46
+Figure 4.12 2021 fuel shares of final consumption	
+	
+	
+	
+	
+	
+	
+46
+Figure 4.13 2021 Sector shares of final consumption	
+	
+	
+	
+	
+	
+	
+46
+Figure 4.14 fuel shares of export 2018	
+	
+	
+	
+	
+	
+	
+	
+	
+47
+Figure 4.15  fuel shares for imports 2018	
+	
+	
+	
+	
+	
+	
+	
+47
+Figure 4.16 fuel shares of primary production 2018.	
+	
+	
+	
+	
+	
+	
+48
+Figure 4.17 Food security situation during the month preceding the survey	
+	
+	
+	
+50
+Figure 4.18 Food security situation during the month preceding the survey by settlement	 	
+	
+50
+Figure 4.19 Food insecurity experience scale (FIES) by place of residence	
+	
+	
+	
+51
+Figure 4.20 Type of shocks experienced by households by place of residence	
+	
+	
+	
+51
+Figure 4.21 Loss of household income or asset because of shock	 	
+	
+	
+	
+	
+51
+Figure 4.22 Number of children with moderate or severe acute malnutrition that were newly admitted 
+to treatment and feeding centers, January 2016 – June 2022	
+	
+	
+	
+	
+	
+52
+Figure 4.23 Top 10 regions with the highest estimated levels of drought-related displacement in Somalia	 52
+Figure 4.24 Total GHG emission trends in Gg CO2eq	
+	
+	
+	
+	
+	
+	
+55
+Figure 4.25 National Emissions shares by sectors	
+	
+	
+	
+	
+	
+	
+55
+Figure 2.9 Permanent civil servants by grade, 2006-2022		
+	
+	
+	
+	
+	
+62
+Figure 2.10 Diplomatic Staff Working Outside of the Country 2022	
+	
+	
+	
+	
+62
+=== PAGE 11 ===
+vii
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+MICS: Multi -Cluster Indicators Survey
+SIHBS: Somali Integrated Household Budget Survey
+PESS: Population Estimation Survey for Somalia
+SHDS: Somali Health Demographic Survey
+SSA: Somalia Statistical Abstract. 
+CBS: Central Bank Somalia
+Acronyms
+Glossary
+Household size: The average household size is obtained by dividing the total number of persons 
+living in households by the total number of households. 
+Household head: The term ‘household head’, as used in the PESS, referred to the most 
+responsible/respectable member of the household, who makes key household decisions on a 
+day-to-day basis, and whose authority is recognized by all members of the household. It could 
+be the father, the mother or any other responsible member of the household, depending on the 
+dynamics of the household (DNS, 2013).  
+Acute Respiratory Infection (ARI): is a serious infection that prevents normal breathing. 
+Fever: is a body temperature that is higher than normal. It usually means there is an abnormal 
+process occurring in the body. References is needed
+Diarrhea: is passing looser, watery or more frequent poo (stools) than is normal References is 
+needed
+Initial Breastfeeding: The World Health Organization (WHO) recommends early initiation of 
+breastfeeding within the first hour of birth.
+Age Specific Fertility Rate: The age-specific fertility rate measures the annual number of 
+births to women of a specified age or age group per 1,000 women in that age group. References 
+is needed
+Literacy: Is the ability to read and write, with an understanding of a short simple statement 
+about one’s everyday life (SDHS, 2020).
+Human immunodeficiency virus (HIV) is an infection that attacks the body’s immune system. 
+Acquired 
+Acquired Immunodeficiency Syndrome (AIDS) is the most advanced stage of the disease. 
+(WHO).
+Employment Restricted to only the working age population who were engaged in any activity 
+to produce goods or provide services for pay or profit. “For pay or profit” refers to work done 
+as part of a transaction in exchange for remuneration payable in the form of wages or salaries 
+for time worked or work done, or in the form of profits derived from the goods and services 
+produced through market transactions
+Gross Domestic Product The value of goods and services produced within the economic 
+territory of the country.
+	
+GDP = Final Consumption + Capital Formation + Export - Import
+=== PAGE 12 ===
+viii
+The Federal Republic of Somalia
+National Bureau of Statistics
+Imports an inflow of goods or service bought in one country that was produced in another
+Exports Outward flows comprising goods leaving the economic territory of a country to the rest 
+of the world.
+Inflation The persistent increase in the general level of prices of goods and services in xxviii an 
+economy over a period of time.
+Poverty Gap (P1) The sum over all individuals of the shortfall of their real private consumption 
+per adult equivalent from the poverty line, divided by the poverty line. It is the measure of 
+the depth of poverty. However, with limitations since it is insensitive to how consumption is 
+distributed among the poor mainly below the poverty line. P1 is the per capita cost of eradicating 
+poverty, as a percentage of the poverty line, if money could be targeted perfectly.
+Poverty The P0 indicator is “headcount”: the percentage of individuals estimated to be 
+Headcount (P0) living in households with real private consumption per adult equivalent below 
+the poverty line
+The labour force participation rate (LFPR) The labour force participation rate measures 
+the proportion of the working age population that is economically active. i.e. working and 
+unemployed. LFPR is the number of persons in the labour force given as a percentage of the 
+working age population. The indicator is calculated as:
+(LFPR(percent)= (Number of persons who are employed + Number of persons who are 
+unemployed) 
+The Unemployment Rate (UR) The Unemployment rate (UR) is the percentage of the labour 
+force that is unemployed. It is calculated as follows:
+(UR(percent)= (Number of unemployed persons in the working age population) (×100)
+Trade Balance The difference in value between the country’s visible imports and export
+Total number of persons in the working age population               (×100)
+(Total number of persons in the labour force)
+=== PAGE 13 ===
+ix
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+CHAPTER ONE
+INTRODUCTION
+=== PAGE 14 ===
+1
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+This chapter outlines the objectives and methodology underlying the compilation of this abstract, 
+providing a foundation for the detailed statistical analyses that follow. The subsequent sections 
+are organized to offer a structured approach to understanding the socio-economic conditions in 
+Somalia, facilitating the use of this data for informed decision-making and policy formulation.
+The statistical abstract serves as a vital resource, compiling a comprehensive array of social and 
+macroeconomic statistics that offer invaluable insights into the socio-economic landscape of 
+Somalia. It aims to present extensive statistical indicators critical for policymakers, researchers, 
+and stakeholders, enabling them to make informed decisions and devise effective strategies. 
+The abstract covers a wide range of topics, including demographic characteristics, education, 
+health, government civil servants, national accounts, price statistics, trade statistics, the balance 
+of payments, government finance statistics, and banking and currency. It also delves into 
+production statistics, focusing on agriculture, energy, food security, nutrition, and environmental 
+and climate statistics. This diverse scope ensures that the abstract provides a holistic view of 
+Somalia’s socio-economic environment.
+This abstract has been prepared by the Somalia National Bureau of Statistics. The tables have 
+been compiled partly from statistics collected directly by the Bureau through surveys and 
+censuses, and also from statistics compiled by other Ministries, Departments, and Agencies 
+(MDAs), including federal member states (FMS). The source of the statistical data is shown 
+under each table.
+The main objective of the statistical abstract is:
+1.	To provide an overview of the social and economic conditions in Somalia through a 
+diverse range of statistical indicators.
+2.	To furnish reliable and up-to-date data that can guide policy decisions, support 
+development planning, and promote socio-economic growth.
+3.	To offer a benchmark for monitoring progress and evaluating the impact of various 
+policies and programs.
+4.	To deepen the understanding of demographic trends, educational attainment, health 
+status, government employment, and economic dynamics.
+5.	To support the Somalia National Bureau of Statistics (SNBS) in its mission to disseminate 
+high-quality statistical information.
+1.0       Introduction 
+1.1       Objectives
+=== PAGE 15 ===
+2
+The Federal Republic of Somalia
+National Bureau of Statistics
+The methodology employed in the preparation of this statistical abstract involved several rigorous 
+steps designed to ensure the accuracy, reliability, and comprehensiveness of the data presented:
+1.	 Data Collection: Data were meticulously collected from a variety of sources, including 
+national surveys, censuses, administrative records, and international databases. These 
+sources were selected based on their reliability and relevance to provide the most 
+accurate and current information available.
+2.	 Data Processing: Once collected, the data underwent extensive processing and 
+validation to eliminate inconsistencies and errors. This involved a series of checks 
+and verification processes to maintain the integrity of the statistical information.
+3.	 Data Analysis: Advanced statistical techniques were utilized to analyze the data, 
+extracting meaningful insights and trends. The analysis adhered to internationally 
+recognized standards and best practices, ensuring the results were both valid and 
+reliable.
+4.	 Presentation: The processed and analyzed data were presented in a user-friendly 
+format, incorporating tables, charts, and graphs to facilitate understanding and 
+interpretation. The goal was to ensure the information is accessible to a broad audience, 
+including policymakers, researchers, and the general public.
+5.	 Review and Revision: The statistical abstract underwent multiple rounds of review 
+and revision to ensure accuracy, relevance, and comprehensiveness. Feedback from 
+experts and stakeholders was incorporated to enhance the quality of the final document.
+1.2       Methodology  
+1.3       Structure of the Statistical abstract 
+The SSA is structured as follows:  
+Chapter 1: Introduction
+This chapter outlines the objectives and methodology of the statistical abstract, highlighting its 
+role in providing a comprehensive range of social and economic data on Somalia. It presents a 
+foundation for subsequent analyses by detailing objectives aimed at guiding policy decisions, 
+supporting socio-economic growth, and tracking progress. The methodology includes steps in 
+data collection, processing, analysis, presentation, and review to ensure high-quality, accessible 
+information for policymakers, researchers, and the general public.
+Chapter 2: Social Statistics 
+This chapter provides a detailed examination of demographic characteristics, including 
+household composition, total fertility rate (TFR), age-specific fertility rates (ASFRs), and 
+maternal mortality ratio (MMR). It also covers comprehensive statistics on education, health, 
+and government civil servants, offering insights into the social dimensions of the population.
+=== PAGE 16 ===
+3
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Chapter 3: Macroeconomic Statistics 
+This chapter encompasses national accounts, including the base year for constant price estimates 
+and real GDP growth rates. It includes an analysis of household final consumption, gross fixed 
+capital formation (GFCF), price statistics, trade statistics, the balance of payments (BoP), 
+government finance statistics, and banking and currency. These metrics provide a thorough 
+analysis of the economic performance of Somalia, presenting essential data for understanding 
+the country’s macroeconomic environment.
+Chapter 4: Production Statistics
+This chapter focuses on various sectors of production, including agriculture, energy, food 
+security, nutrition, and environmental and climate statistics. It provides detailed data on 
+agricultural land utilization, crop production, livestock, electricity access, petroleum, food 
+insecurity, malnutrition, displacement, deforestation, and greenhouse gas emissions.
+Chapter 5: Planning and coordination 
+This chapter provides an in-depth analysis of governance statistics in Somalia, focusing on 
+women representation, access to justice, and conflict-related deaths. It examines these key 
+areas to assess progress and challenges in fostering inclusive, transparent, and accountable 
+governance within the framework of the National Development Plan (NDP-9)..
+=== PAGE 17 ===
+4
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER TWO
+SOCIAL 
+STATISTICS
+=== PAGE 18 ===
+5
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+2.1       Demographic characteristics 
+Demographic trends and population dynamics are critical factors shaping Somalia’s development 
+trajectory. Key indicators covered in this section include household composition, fertility rates, 
+maternal mortality, household size and household headship. 
+2.1.1 Household Composition
+The data shows that Somalia’s average household size increased slightly from 6.2 persons in the 
+year 2020 to 6.6 persons in the year 2022. Similar patterns were also observed across the different 
+domains. For instance, the average household size in urban areas has grown from 6.6 persons in 
+2020 to 7 persons in 2022 while nomadic mean household size has increased from 5.3 persons 
+in 2020 to 6 persons in 2022.  It is also noteworthy in the period under the study that urban 
+households consistently had the highest average household sizes followed by rural areas while 
+nomadic households have the lowest average household size. The highest change is observed 
+among households with two household members, which decreased from 6.2 percent in 2020 to 
+3.2 percent in 2022 compared to all other households. While the percentage of households with 
+9+ members significantly increased from 19.7 percent in 2020 to 22.9 percent in 2022. As shown 
+in Figure 2.1 and Table 2.1.
+2.1.2 Fertility Rate (FR)
+The total fertility rate in Somalia slightly increased from 6.7 in 2006 to 6.9 births per woman in 
+2020. The fertility levels in urban areas has slightly increased from 6 births per woman in 2006 
+to 6.4 births per woman in 2020, while the fertility levels for those in rural areas remained the 
+same, illustrates in Figure 2.2.
+2.1.4 Maternal Mortality Ratio (MMR)
+Maternal mortality ratios in Somalia are amongst the highest in the world. Figure 2.3 indicates 
+that the Maternal Mortality Ratio for Somalia declined from 1044 in 2006 to 692 deaths per 
+100,000 live births in 2020. This means that for every 1,000 live births, approximately ten 
+women died in 2006, whereas seven women die during pregnancy, childbirth, or within 42 days 
+of termination in 2020.
+=== PAGE 19 ===
+6
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 2.1 The average household size and the percentage distribution of household size by 
+place of residence
+Number of 
+usual 
+members 
+SHDS 2020 
+SIHBS 2022 
+Urban 
+Rural Nomadic Total 
+Urban 
+Rural Nomadic Total 
+1 
+2.3 
+3.4 
+3.2 
+2.7 
+0.8 
+1.2 
+0.3 
+0.8 
+2 
+4.9 
+7.7 
+8.7 
+6.2 
+2.7 
+4.2 
+3.4 
+3.2 
+3 
+7.8 
+11.2 
+12.1 
+9.3 
+6.4 
+7.7 
+8.9 
+7.1 
+4 
+10.4 
+13.1 
+15.6 
+11.8 
+10.4 
+13.1 
+16.3 
+11.9 
+5 
+13 
+14 
+16.2 
+13.7 
+12.8 
+18.2 
+17.1 
+14.7 
+6 
+14.1 
+13.9 
+15.1 
+14.2 
+13.8 
+15.2 
+16.2 
+14.5 
+7 
+13.2 
+12 
+11.9 
+12.7 
+14 
+14.8 
+11.9 
+14 
+8 
+10.2 
+9.6 
+8.1 
+9.8 
+11.4 
+9.7 
+11 
+10.9 
+9+ 
+24 
+15 
+9.2 
+19.7 
+27.6 
+15.8 
+15 
+22.9 
+Total 
+100 
+100 
+100 
+100 
+100 
+100 
+100 
+100 
+Mean size of 
+households 
+6.6 
+5.7 
+5.3 
+6.2 
+7 
+6.1 
+6 
+6.6 
+Source: SHDS2020, SIHBS 2022 
+Source: MICS2006, SHDS2020
+Figure 2.1 Percentage distribution of household head by type of residence and sex 
+PESS, 2014 - SHDS, 2020
+=== PAGE 20 ===
+7
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Source: MICS2006, SHDS2020
+Table 2.2 Age-specific fertility rate by residence MICS2006 - SHDS 2020
+2006 
+2020 
+Age Group 
+Urban 
+Rural 
+Total 
+Urban 
+Rural 
+Total 
+15-19 
+102 
+140 
+123 
+94 
+112 
+118 
+20-24 
+253 
+301 
+281 
+304 
+342 
+329 
+25-29 
+309 
+304 
+306 
+312 
+343 
+324 
+30-34 
+258 
+265 
+262 
+290 
+299 
+291 
+35-39 
+154 
+208 
+189 
+174 
+189 
+180 
+40-44 
+78 
+150 
+123 
+79 
+104 
+102 
+45-49 
+50 
+49 
+49 
+20 
+36 
+33 
+Source: MICS2006, SHDS2020 
+Figure 2.3 Maternal Mortality Ratio
+Source: MICS2006, SHDS2020
+Figure 2.2 Total Fertility Rate by place of residence
+=== PAGE 21 ===
+8
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER
+5
+2.2      Education 
+Education is a crucial development driver and pillar for building Somalia’s human capital. 
+Sustained investments and policy focus on enhancing educational quality, retention, and equity 
+remain critical. The evidence presented in this section can help inform strategic priorities 
+aimed at developing Somalia’s human capital through inclusive, quality education aligned with 
+national goals and global SDG targets. Education will play a fundamental role in cultivating 
+engaged citizens and productive workforce. This section presents key statistics on literacy, 
+school enrollments, teacher’s trend, and other education access indicators in the period of 2014-
+2022. Data is drawn from administrative records and national surveys, including the Population 
+Estimation Survey of Somalia (PESS) 2014 and the Somali Integrated Household Budget Survey 
+(SIHBS) 2022.
+The data indicates gradual improvement in adult literacy levels, especially for women and rural 
+populations. Primary school enrollment has also expanded in recent years. However, significant 
+disparities persist between urban and rural areas. The pupil-teacher ratio reveals mixed progress 
+in strengthening the quality of education.
+Figure 2.4 Literacy rates among adults by place of residence
+Source: PESS2014, SIHBS2022
+=== PAGE 22 ===
+9
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Figure 2.5 Primary and Secondary School Enrolment in Somalia from 2019-2021
+Figure 2.6 total number of schools in (thousands) 20209-2022
+Source Ministry of Education
+=== PAGE 23 ===
+10
+The Federal Republic of Somalia
+National Bureau of Statistics
+=== PAGE 24 ===
+11
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+The health and wellbeing of a population is an important indicator of the overall health status 
+of a population. The data from the Multiple Indicator Cluster Surveys (MICS) in 2006, the 
+Somali Health and Demographic Survey (SHDS) in 2020 and Somali Integrated Household 
+Budget Survey (SIHBS) in 2022 highlight several key trends in health outcomes and healthcare 
+utilization among young children in Somalia. 
+Overall, there have been improvements in health indicators for children under five between 
+2006 and 2020. The percentage of children exhibiting symptoms of acute respiratory infection 
+dropped substantially from 14.8 percent to 3.5 percent, indicative of better prevention and 
+treatment of these conditions. Similarly, the prevalence of fever and diarrhea in this age group 
+also declined. Early initiation of breastfeeding increased notably over the fifteen-year period. 
+In 2006, only 26.3 percent of infants were breastfed within one hour of birth compared to 
+59.9 percent in 2020. There has also been modest improvement in vaccination coverage rates, 
+though they remain low. For instance, BCG vaccination rose from 26 percent in 2006 to 36.7 
+percent in 2020.
+While these data demonstrate progress in children’s health in Somalia, continued efforts are 
+needed to improve healthcare access and delivery. Areas that require particular focus include 
+further increasing immunization coverage and reducing misconceptions about diseases like HIV/
+AIDS. Targeted interventions for rural populations and women may help address disparities 
+highlighted in the data between urban and rural areas and males and females. Overall, while 
+more work remains, the trends suggest health policies and programs for young children are 
+moving in a positive direction.
+2.3      Health
+=== PAGE 25 ===
+12
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 2.3 Prevalence of symptoms of ARI Among children under the age of five and healthy 
+facility, 2006-2020
+Table 2.4 Prevalence Among children under the age of five with Fever and Diarrhea, 2006-
+2020
+Table 2.5 Initial breastfeeding, 2006-2020
+Source: MICS2006, SHDS2020 
+
+
+Background 
+MICS 2006 
+SHDS 2020 
+Sex 
+Residence 
+Total 
+Sex 
+Residence 
+Total 
+Male Female urban  Rural 
+Male Female urban  Rural 
+Percentage with symptoms of ARI 
+15.4 
+14.2 
+13.9 
+15.4 
+14.8 
+3.6 
+3.4 
+4.6 
+3.3 
+3.5 
+Percentage who received 
+antibiotics 
+35.2 
+29 
+49 
+24 
+32.4 
+14.8 
+13.2 
+13.4 
+22.7 
+14.0 
+Background 
+MICS 2006 
+SHDS 2020 
+Sex 
+Residence 
+  
+Sex 
+Residence 
+Total 
+Male Female 
+Urban  Rural Total Male Female 
+Urban  Rural 
+Percentage with fever 
+21.9 
+21.7 
+15.8 
+25.2 
+21.8 
+7 
+6.4 
+8.7 
+6.9 
+ 6.7 
+Percentage with Diarrhea 
+22.5 
+19.7 
+16.9 
+23.5 
+21.2 
+5.3 
+5.3 
+7.7 
+4.4 
+5.3 
+Source: MICS2006, SHDS2020 
+Source: MICS 2006, SHDS 2020  
+Background Characteristics 
+MICS 2006 
+SHDS 2020 
+Residence  
+Urban Rural Total 
+Urban  Rural Total 
+Percentage who started breastfeeding within 1 hour of birth 
+26.6 
+26.1 
+26.3 
+63.2 
+64.5 
+59.9 
+Percentage who started breastfeeding within 1 day of birth 
+67.2 
+56.8 
+60.6 
+81.9 
+86.1 
+83.2 
+Table 2.6 Knowledge of about HIV/AIDS by residence, 2006-2020
+Background 
+MICS 2006 
+SHDS 2020 
+Residence 
+Urban 
+Rural Total urban Rural Total 
+HIV/AIDS cannot be transmitted by supernatural means 
+52.8 
+24.3 
+35.8 
+51.9 
+40.7 
+38.3 
+HIV/AIDS cannot be transmitted by mosquito bites 
+49.8 
+18.4 
+31.1 
+37.7 
+27.8 
+27.6 
+A healthy-looking person can have the HIV/ AIDS 
+47.8 
+25.2 
+34.4 
+53.9 
+42.8 
+40.3 
+Percentage who say that a healthy-looking person can 
+have HIV/ AIDS and who reject the two most common 
+local misconception 
+21.7 
+7.1 
+13.0 
+19.5 
+12.2 
+11.9 
+A person cannot become infected by sharing food with a 
+person who has the HIV/AIDS 
+62.4 
+23.1 
+39.0 
+48.0 
+35.9 
+34.0 
+Source: MICS2006, SHDS2020
+=== PAGE 26 ===
+13
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Figure 2.7 Percentage of household members who smoke cigarettes or use tobacco
+Source: SHDS 2020, SIHBS 2022
+Figure 2.8 Percentage of household members who smoke cigarettes or use tobacco 
+by sex
+Source: SHDS 2020, SIHBS 2022
+=== PAGE 27 ===
+14
+The Federal Republic of Somalia
+National Bureau of Statistics
+Figure 2.9 Vaccination coverage for children aged 12-23 months, 2006-2020
+Source: SHDS 2020, SIHBS 2022
+=== PAGE 28 ===
+15
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+The migration data collected on passengers in and out of international flights by airports and 
+by land border crossings in 2023 in Somalia highlights trends in arrivals and departures across 
+various international airports and land borders, shedding light on passenger distribution patterns 
+and infrastructure utilization.
+2.4     Migration  
+Table 2.7 Movements by passengers in and out of international flights by airports, 2023
+Table 2.8 Movements by passengers in and out by Land, 2023
+ 
+International Flight 
+ 
+ 
+Mogadishu 
+Airport 
+Garowe 
+Airport 
+Galkayo 
+Airport 
+Bosaso 
+Airport 
+Kismayo 
+Airport 
+Total 
+Arrival 
+253,008 
+14,999 
+1,843 
+4,785 
+4,224 
+278,859 
+Departure 
+233,808 
+18,957 
+2,419 
+7,890 
+3,120 
+266,194 
+Total 
+486,816 
+33,956 
+4,262 
+12,675 
+7,344 
+545,053 
+ 
+Tuur-dibi border 
+Buuhoodle border 
+Qeydar border 
+Dhobley border 
+Total 
+Arrival 
+1,791 
+6,504 
+1,680 
+2,256 
+12,231 
+Departure 
+1,822 
+7,625 
+2,064 
+4,848 
+16,359 
+Total 
+3,613 
+14,129 
+3,744 
+7,104 
+28,590 
+Source: Immigration and Citizenship Agency (ICA)
+Source: Immigration and Citizenship Agency (ICA)
+=== PAGE 29 ===
+16
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER THREE
+MACROECONOMIC STATISTICS
+=== PAGE 30 ===
+17
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+3.0       National Accounts 
+3.1       Introduction
+The annual Gross Domestic Product (GDP) statistics are key indicators of Somalia’s economy 
+and its growth in recent years. The Somalia National Bureau of Statistics (SNBS) employs the 
+expenditure measure to construct an annual time series, providing estimates of expenditure 
+levels and growth across the economy. The national accounts are compiled in line with the 
+international guidelines of the United Nations’ System of National Accounts of 2008 (the 2008 
+SNA).
+The expenditure measure is one of the primary approaches used to calculate GDP. It provides 
+estimates of expenditure levels and growth across various sectors of the economy. The SNBS 
+employs this measure to capture the total value of goods and services produced within Somalia, 
+taking into account consumption, investment, government spending, and net exports.
+3.1.1 Base Year and Price Estimates
+The base year for the constant price estimates has been updated from 2017 to 2022. As a result, 
+the revised estimates now utilize the average prices of 2022 instead of the price structure of 
+2017.  As well as raising the level of estimates to higher level of prices in 2022, the changes 
+impacted the growth rates of all components of GDP, but by small amounts.
+The Consumer Price Index (CPI) has been rebased from 8 categories to 13 categories using the 
+latest COICOP 18 classification. This update was made possible through the Somalia Integrated 
+Household Budget Survey. The rebased CPI, with its expanded categories, will be implemented 
+starting in 2024.
+The COICOP classification, specifically COICOP 18, provides a more detailed and 
+comprehensive system for categorizing household consumption expenditures. By utilizing this 
+framework, the Bureau can capture a broader range of expenditure items, allowing for a more 
+accurae representation of consumer spending patterns and inflationary trends.
+3.1.2 Expenditure Approach and Data Transformation
+The use of the expenditure approach in the constant 2022 prices dataset is one of the first 
+steps towards transforming the data collected through the Somalia Integrated Household 
+Budget Survey The expenditure measure of GDP is derived as the sum of expenditure on final 
+consumption plus gross capital formation plus exports less imports (2008 SNA para 16.47). 
+This can be expressed as:
+GDP = Final Consumption + Capital Formation + Export - Import
+=== PAGE 31 ===
+18
+The Federal Republic of Somalia
+National Bureau of Statistics
+3.1.3 Classification
+The classification of transactions within the national accounts adheres to the broad framework 
+outlined in the 2008 SNA guidelines. Economic activities and products are classified according 
+to the International Standard Industrial Classification (ISIC) revision 4, which provides a 
+standardized system for categorizing economic activities across countries. Additionally, 
+the classification of household final consumption expenditures follows the Classification 
+of Individual Consumption by Purpose (COICOP) framework, which provides a detailed 
+classification system for household expenditure items, enabling a comprehensive analysis of 
+consumption patterns. 
+3.2 Gross Domestic Product
+The preliminary Gross Domestic Product estimates for 2022 indicates that the economy grew 
+by 2.4 percent slightly lower than 3.3 percent in 2021. The 2021 result reflected Somalia’s 
+partial emergence from the COVID-19 pandemic shock in the previous year, recovering from 
+negative growth in 2020. (Figure 3.1)
+In nominal terms, table 3.1 shows that the GDP stood at $10,420 million in the year 2022, 
+indicating a $581 million increase from the year 2021. GDP per capita rose from $648 in the 
+year 2021 to $667 in 2022, reflecting a 3percent increase.
+3.2.2 Gross Fixed Capital Formation (GFCF)
+Gross fixed capital formation includes spending on dwellings, buildings, structures, transport, 
+ICT equipment, and other machinery. Currently, Somalia does not provide separate data for 
+fixed capital formation, inventories, and valuables due to limited data sources. In 2022, capital 
+formation became the fastest-growing component of GDP, with an impressive 34.1 percent 
+increase (Table 3.3). This surge is largely driven by a construction boom, alongside robust 
+growth in investment in equipment and machinery. 
+3.2.1 Household Final Consumption
+Household final consumption expenditure remains the largest contributor to GDP, rising by 
+5.2percent in 2022. Spending on household consumption increased from $12,018 million in 2018 
+to $13,340 million in 2022, as shown in Table 3.2. Notably, household consumption exceeds 
+100percent of GDP, indicating a significant reliance on imported goods to meet consumption 
+needs. Among consumption categories, non-food items showed the fastest growth, while food 
+and housing expenditures are estimated to have grown at a rate consistent with population 
+growth.
+=== PAGE 32 ===
+19
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Table 3.2 GDP by expenditure, current prices, million US Dollars, 2018-2022
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+Household final consumption 
+10,518 
+11,792 
+11,809 
+12,304 
+13,340 
+Government final consumption 
+495 
+529 
+595 
+676 
+759 
+Gross fixed capital formation 
+1,268 
+1,392 
+1,440 
+1,870 
+2,699 
+Exports of goods and services 
+1,119 
+1,131 
+1,178 
+1,532 
+1,804 
+Imports of goods and services 
+5,122 
+5,423 
+5,818 
+6,544 
+8,182 
+Gross National Expenditure 
+12,281 
+13,712 
+13,844 
+14,851 
+16,797 
+GDP at purchasers' prices 
+8,278 
+9,420 
+9,204 
+9,839 
+10,420 
+GDP per capita, US Dollars 
+592 
+655 
+623 
+648 
+667 
+Source: SNBS, 2022(GDP Report) 
+Figure 3.1 GDP at Market Price, million US Dollars, 2018-2022
+Source: SNBS 2022 (GDP Report)
+Table 3.1 GDP at Market Price, million US Dollars, 2018-2022
+GDP at market prices 
+2018 
+2019 
+2020 
+2021 
+2022 
+At current prices 
+8,278 
+9,420 
+9,204 
+9,839 
+10,420 
+At constant prices 
+9,751 
+10,105 
+9,846 
+10,172 
+10,420 
+Constant price growth rates (percent) 
+3.0 
+3.6 
+-2.6 
+3.3 
+2.4 
+GDP per capita at current prices 
+  
+GDP per capita, US Dollars 
+592 
+655 
+623 
+648 
+667 
+Source: SNBS 2022 (GDP Report)
+=== PAGE 33 ===
+20
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 3.3 GDP by expenditure, constant prices, percent annual change 2018-2022
+Table 3.4 GDP by expenditure, current prices, and percentage shares 2018-2022
+Table 3.5 GDP by expenditure, constant prices, million US Dollars 2018-2022
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+Household final consumption 
+3.2 
+3.4 
+-0.8 
+2.9 
+5.2 
+Government final consumption 
+0.6 
+0.0 
+9.8 
+9.3 
+7.7 
+Gross fixed capital formation 
+18.7 
+11.6 
+3.7 
+11.0 
+34.1 
+Exports of goods and services 
+10.0 
+-3.9 
+1.8 
+17.0 
+13.7 
+of which: livestock 
+4.4 
+26.9 
+-1.5 
+3.6 
+6.8 
+Minus: Imports of goods and services 
+8.8 
+3.1 
+5.0 
+8.3 
+20.2 
+Gross National Expenditure 
+4.6 
+4.2 
+0.1 
+4.2 
+9.1 
+GDP at purchasers' prices 
+3.0 
+3.6 
+-2.6 
+3.3 
+2.4 
+Source: SNBS, 2022(GDP Report) 
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+Household final consumption 
+127.1 
+125.2 
+128.3 
+125.1 
+128.0 
+Government final consumption 
+6.0 
+5.6 
+6.5 
+6.9 
+7.3 
+Gross fixed capital formation 
+15.3 
+14.8 
+15.6 
+19.0 
+25.9 
+Exports of goods and services 
+13.5 
+12.0 
+12.8 
+15.6 
+17.3 
+Minus: Imports of goods and services 
+61.9 
+57.6 
+63.2 
+66.5 
+78.5 
+Gross National Expenditure 
+148.4 
+145.6 
+150.4 
+150.9 
+161.2 
+GDP at purchasers' prices 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 
+Source: SNBS, 2022 
+Expenditure items 
+2018 
+2019 
+2020 
+2021 
+2022 
+Household final consumption 
+12,018 
+12,425 
+12,321 
+12,677 
+13,340 
+Government final consumption 
+587 
+587 
+645 
+705 
+759 
+Gross fixed capital formation 
+1,567 
+1,749 
+1,814 
+2,013 
+2,699 
+Exports of goods and services 
+1,385 
+1,332 
+1,356 
+1,587 
+1,804 
+of which: livestock 
+404 
+512 
+505 
+523 
+558 
+Minus: Imports of goods and services 
+5,807 
+5,988 
+6,289 
+6,809 
+8,182 
+Gross National Expenditure 
+14,173 
+14,762 
+14,779 
+15,395 
+16,797 
+GDP at purchasers' prices 
+9,751 
+10,105 
+9,846 
+10,172 
+10,420 
+Source: SNBS, 2022
+=== PAGE 34 ===
+21
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+This section presents statistics on Consumer Price Indices (CPIs), which are a measure of the 
+average change over time in the p rices of goods and services consumed by households in 
+Somalia. The CPI provides valuable information on the inflation rate and the cost of living 
+for the general population. The CPI basket includes a wide range of goods and services that 
+households typically consume, and the weights assigned to each item reflect their importance in 
+household spending.
+The compilation of the Somalia CPI adheres to the internationally accepted guidelines outlined 
+in the 2004 CPI manual. The weight data is classified according to the Classification of Individual 
+Consumption According to Purpose (COICOP) 1999. Initially, it was based on the 2016 Somalia 
+High Frequency Survey, which was subsequently updated in 2017. The price reference period 
+for the index is December 2014, set at a base value of 100.
+The Bureau has undertaken the revision of the existing basket of goods and services, along with 
+their relative weights, from the price reference period of December 2014. This revision aims to 
+align the CPI with the latest international standards, specifically adopting the COICOP 2018 
+classification system. The new basket and weights will provide a more accurate representation 
+of household consumption patterns and reflect the current economic landscape in Somalia.
+In line with this, the Bureau has recently rebased the Consumer Price Index (CPI) using Somalia 
+Integrated Household Budget Survey conducted in 2022. The updated CPI will be used for 
+calculating price statistics in 2024. This rebasing process ensures that the CPI remains relevant 
+and captures the changing consumption patterns of household.
+3.3       Price Statistics
+3.3.1 Monthly Consumer Price Indices
+The Monthly Consumer Price Indices (CPI) from 2018 to 2022, offering insights into the 
+inflation trends over the specified period. The CPI serves as a key indicator of changes in the 
+average prices of a basket of goods and services consumed by households. 
+Table 3.6 reveals a consistent upward trend in the CPI values from 2018 to 2022. This suggests 
+a general increase in the overall price level of goods and services over the years. In January 
+2018, the CPI started at 106.2 and steadily rose to 134.68 by December 2022.
+=== PAGE 35 ===
+22
+The Federal Republic of Somalia
+National Bureau of Statistics
+The monthly fluctuations in CPI values illustrate the dynamic nature of inflation, with occasional 
+increases and decreases. Observing specific months, such as July and November 2022, shows 
+notable spikes in CPI, indicating potential periods of higher inflation during those months.
+The annual percentage changes in CPI reveal a varying pattern, with values ranging from 3.09 
+percent to 6.84 percent in 2019, 0.88 percent to 6.45 percent in 2020, 0.91 percent to 6.45 
+percent in 2021, and 0.55 percent to 6.98 percent in 2022. A general downward trend in annual 
+changes from 2019 to 2022 suggests potential stabilization in inflation rates over time.
+Monthly changes in CPI are marked by significant volatility, with both positive and negative 
+fluctuations. The monthly changes range from a low of -1.39 percent to a high of 3.70 percent, 
+reflecting the dynamic nature of consumer prices (see Figure 3.2). Some months, particularly in 
+2020, experience negative changes, adding to the overall variability in CPI.
+For annual comparison, 2020 stands out with higher monthly fluctuations, especially in April, 
+likely driven by the global economic impact of the COVID-19 pandemic. In contrast, 2021 and 
+2022 show more stable monthly changes, suggesting a potential stabilization in consumer prices 
+as the economy adjusted post-pandemic (Figure 3.2).
+3.3.2 Monthly and annual percentage of Consumer Price Indices
+The Annual Average Inflation rates from 2018 to 2022 represent the average yearly increase 
+in the Consumer Price Index (CPI), providing insight into inflationary trends over this period.
+As shown in Figure 3.3, the annual average inflation rate was 4.28 percent in 2018, indicating 
+a moderate rise in the general price level of goods and services. In 2019, inflation saw a slight 
+increase, with the annual average rate reaching 4.70 percent.
+A slight decline occurred in 2020, as the annual average inflation rate dropped to 4.11 percent, 
+suggesting a temporary stabilization or deceleration in price levels compared to the previous 
+year. However, inflation began to rise again in 2021, with the rate reaching 4.63 percent.
+The most pronounced increase occurred in 2022, where the annual average inflation rate surged 
+to 6.78 percent. This substantial rise reflects a sharp acceleration in price levels, indicating a 
+period of heightened inflationary pressure for that year.
+=== PAGE 36 ===
+23
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Figure 3.2 Monthly percentage change of CPI, 2018-2022
+Source: SNBS2022 (GDP Report)
+Table 3.6 Monthly Consumer Price Indices from 2018-2022
+Month 
+2018 
+2019 
+2020 
+2021 
+2022 
+January  
+106.2 
+109.6 
+113.1 
+118.8 
+126.9 
+February  
+107.4 
+110.8 
+114.1 
+119.9 
+127.6 
+March 
+107.4 
+110.8 
+116.6 
+122.5 
+129.9 
+April 
+108.7 
+114.9 
+119.8 
+124.8 
+132.9 
+May 
+110.3 
+116.8 
+121.8 
+126.4 
+134.8 
+June 
+109.8 
+117.0 
+122.0 
+126.0 
+134.8 
+July 
+108.9 
+116.4 
+121.1 
+126.9 
+136.8 
+August 
+109.1 
+115.4 
+120.1 
+125.3 
+134.8 
+September 
+110.4 
+116.1 
+120.6 
+126.2 
+135.3 
+October 
+111.6 
+116.3 
+120.6 
+126.5 
+135.2 
+November 
+111.8 
+116.1 
+121.2 
+127.3 
+135.4 
+December 
+111.2 
+114.6 
+120.2 
+127.0 
+134.68 
+Source: SNBS2022(GDP Report)
+=== PAGE 37 ===
+24
+The Federal Republic of Somalia
+National Bureau of Statistics
+Figure 3.3 Annual Average Inflation 2018 –202
+Source: SNBS2022 (GDP Report)
+Month 
+2018 
+2019 
+2020 
+2021 
+2022 
+Percent 
+Annual 
+change 
+Percent 
+monthly 
+change 
+Percent 
+Annual 
+change 
+Percent 
+monthly 
+change 
+Percent 
+Annual 
+Change 
+Percent 
+Monthly 
+Change 
+Percent 
+Annual 
+Change 
+Percent 
+Monthly 
+Change 
+Percent 
+Annual 
+Change 
+Percent 
+Monthly 
+Change 
+January 
+3.83 
+-1.35 
+3.18 
+-1.39 
+3.21 
+-1.31 
+5.00 
+-1.15 
+6.84 
+-0.06 
+February 
+5.70 
+1.12 
+3.09 
+1.03 
+3.06 
+0.88 
+5.03 
+0.91 
+6.45 
+0.55 
+March 
+5.78 
+-0.03 
+3.17 
+0.04 
+5.20 
+2.12 
+5.08 
+2.17 
+6.08 
+1.80 
+April 
+5.68 
+1.25 
+5.66 
+3.70 
+4.28 
+2.79 
+4.21 
+1.94 
+6.45 
+2.29 
+May 
+5.51 
+1.46 
+5.88 
+1.67 
+4.24 
+1.63 
+3.83 
+1.26 
+6.67 
+1.47 
+June 
+3.96 
+-0.50 
+6.60 
+0.17 
+4.30 
+0.23 
+3.22 
+-0.36 
+6.98 
+-0.06 
+July 
+3.10 
+-0.75 
+6.81 
+-0.55 
+4.09 
+-0.75 
+4.76 
+0.73 
+7.74 
+1.44 
+August 
+3.16 
+0.14 
+5.80 
+-0.82 
+4.05 
+-0.86 
+4.31 
+-1.29 
+7.57 
+-1.44 
+September 3.46 
+1.17 
+5.17 
+0.57 
+3.93 
+0.45 
+4.59 
+0.73 
+7.22 
+0.40 
+October 
+3.98 
+1.14 
+4.15 
+0.15 
+3.75 
+-0.02 
+4.86 
+0.23 
+6.91 
+-0.06 
+November 3.99 
+0.21 
+3.81 
+-0.12 
+4.37 
+0.48 
+5.03 
+0.64 
+6.36 
+0.13 
+December 3.22 
+-0.62 
+3.13 
+-1.27 
+4.84 
+-0.83 
+5.67 
+-0.22 
+6.06 
+-0.51 
+Source: SNBS2022 (GDP Report) 
+Table 3.7 Monthly and annual percentage of CPI, 2019-2022
+=== PAGE 38 ===
+25
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+The section presents the import and export flows between Somalia and the rest of the world as 
+compiled from data provided by the Central bank of Somalia (CBS). The import data covers a 
+wide range of categories, including oil, cars & spare parts, food, beverages & tobacco, clothes & 
+footwear, construction materials, cosmetics, electronics & electric machines, furniture, medical 
+products, personal care items, and plant industries. 
+Exports and imports of goods and services are measured based on changes in economic ownership 
+between entities in different countries, as specified by the 2008 System of National Accounts 
+(SNA, para 26.49). Somalia’s imports consist primarily of food items, oil products, construction 
+materials, clothing and footwear, medical products, beverages and tobacco, as well as vehicles 
+and spare parts. Exports, on the other hand, are largely composed of livestock, animal skins, 
+forest products, crops, and vegetables.
+3.4      Trade Statistics
+3.4.1 Import
+The import statistics for Somalia from 2019 to 2022 reveal interesting trends in various 
+categories. Table 3.8 shows that the import value of oil experienced a significant increase in 
+2022 compared to 2021, with a growth rate of 100.18 percent. This suggests a substantial rise 
+in oil imports, possibly driven by increased energy demands within the country. However, the 
+import value of cars and spare parts saw a decline in 2022, with a negative growth rate of -16.22 
+percent. On the other hand, the import value of food had a substantial jump in 2022, with a 
+growth rate of 66.47 percent, indicating a significant increase in food imports. Similarly, the 
+import value of construction materials witnessed a significant increase in 2022, with a growth 
+rate of 57.12 percent, suggesting an upsurge in construction activities within Somalia. However, 
+some categories experienced fluctuations or declines, such as cosmetics, furniture, and personal 
+care products, indicating varying trends in consumer demand.
+3.4.2 Export
+The export statistics for Somalia from 2019 to 2022 also demonstrate notable trends in various 
+categories. Table 3.9 shows that the export value of livestock showed consistent growth from 
+2019 to 2022, with a growth rate of 11.8 percent in 2022 compared to the previous year. This 
+indicates a sustained demand for livestock products. Similarly, the export value of animal skins 
+experienced fluctuations over the years, with a growth rate of 4.9 percent in 2022 compared 
+to the previous year, suggesting a moderate increase in the export of animal skins. However, 
+the export value of crops and vegetable oil witnessed a decline, with a growth rate of -42.3 
+percent in 2022 compared to the previous year, indicating a significant decrease in the export of 
+these products. On the other hand, the export value of forest products had a growth rate of 19.5 
+percent in 2022 compared to the previous year, suggesting a moderate increase in the export 
+of forest products. However, the export value of other categories experienced a substantial 
+decline, with a growth rate of -64.5 percent in 2022 compared to the previous year, indicating a 
+significant decrease in the export of these miscellaneous products.
+=== PAGE 39 ===
+26
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 3.9 Total export 2019-2022 (Thousand USD)
+Summary of Export for 2019- 2022 
+Category 
+2019 
+2020 
+2021 
+2022 
+percentage change 
+Livestock 
+205,363.01 
+397,798 
+499,413 
+558,380.00 
+11.8 
+Animal Skins 
+35,399.01 
+29,844 
+67,102 
+70,400.00 
+4.9 
+Crops & Vegetable Oil 
+87,742 
+88,081 
+79,788 
+46,020.00 
+-42.3 
+Forest Products 
+111,340.90 
+12,731 
+10,165 
+12,150.00 
+19.5 
+Other 
+4,728.04 
+16,450 
+36,699 
+13,020.00 
+-64.5 
+Total 
+444,573.36 
+544,904.00 
+693,167.00 
+699,970.00 
+0.98 
+Source: CBS 
+Table 3.8 Total import 2019-2022 (Thousand USD)
+Summary of Import for 2019-2022 
+Category 
+2019 
+2020 
+2021 
+2022 
+percentage 
+change 
+(2021-2022 
+Oil 
+111,527 
+345,188 
+311,922 
+624,410.00 
+100.18 
+Cars & spare parts 
+263,685 
+324,345 
+514,629 
+431,160.00 
+(16.22) 
+Food 
+1,375,476 
+1,170,523 
+1,299,151 
+2,162,750.00 
+66.47 
+Beverages & Tobacco 
+108,408 
+179,813 
+71,713 
+87,450.00 
+21.94 
+Clothes & Footwear 
+450,977 
+568,807 
+481,033 
+570,540.00 
+18.61 
+Construction 
+363,752 
+414,032 
+745,489 
+1,171,300.00 
+57.12 
+Cosmetics 
+78,604 
+87,167 
+181,640 
+137,960.00 
+(24.05) 
+Electronics & Electric 
+Machines 
+67,967 
+88,103 
+119,048 
+121,840.00 
+2.35 
+Furniture 
+37,488 
+82,543 
+63,034 
+56,510.00 
+(10.35) 
+Medical product 
+104,469 
+175,625 
+232,418 
+479,260.00 
+106.21 
+Personal Care 
+92,987 
+113,743 
+233,578 
+145,040.00 
+(37.91) 
+Plant Industries 
+8,076 
+9,497 
+13,719 
+34,500.00 
+151.48 
+Stationary 
+25,081 
+27,784 
+21,531 
+35,250.00 
+63.72 
+Others 
+115,366 
+172,037 
+501,489 
+321,550.00 
+(35.88) 
+Total 
+3,203,859.67 
+3,759,207.00 
+4,790,394.00 
+6,379,520.00 
+0.33 
+Source: CBS
+=== PAGE 40 ===
+27
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Figure 3.5 Total import 2019-2022 (Millions USD)
+Figure 3.4 Total Export 2019-2022 (Millions USD)
+Source: CBS
+=== PAGE 41 ===
+28
+The Federal Republic of Somalia
+National Bureau of Statistics
+3.5      Balance of Payment
+The Balance of Payments (BoP) is a crucial economic indicator that reflects a nation’s financial 
+interactions with the rest of the world. Somalia’s external sector position remains weak. Somalia 
+is gradually emerging from the shadows of conflict, signaling positive strides toward stability 
+and recovery. Despite the lingering challenges, including damage to vital infrastructure, security 
+checks, roadblocks, and trade route closures, there are encouraging signs of progress. The nation’s 
+efforts to navigate and overcome the impacts of prolonged conflict indicate a commitment to 
+rebuilding and revitalizing its economic landscape
+The provided data outlines Somalia’s BoP from 2019 to 2022, showcasing key components such 
+as the current account, overall trade balance, services, income, current transfers, and capital 
+account and financial account.
+Table 3.10 Balance of payment 2019-2022
+Balance of Payment (Millions of USD) 
+2018 
+2019 
+2020 
+2021 
+2022 
+Current account balance  
+-486 
+-592 
+-641 
+-780 
+-1,209 
+Overall trade balance Goods balance 
+-4,003 
+-4,292 
+-4,639 
+-5,012 
+-6,378 
+Goods balance 
+-3,003 
+-3,243 
+-3,328 
+-4,073 
+-5,636 
+     Exports of goods, f.o.b. 
+570 
+662 
+549 
+717 
+704 
+General merchandise on a BOP basis of which: Re-exports 
+570 
+662 
+549 
+717 
+704 
+Net exports of goods under merchanting 
+0 
+0 
+0 
+0 
+0 
+Nonmonetary gold 
+0 
+0 
+0 
+0 
+ 
+      Imports of goods, f.o.b.  
+-3,573 
+-3,905 
+-3,878 
+-4,790 
+-6,340 
+General merchandise on a BOP basis of which: Re-exports 
+-3,573 
+-3,905 
+-3,878 
+-4,790 
+-6,340 
+Net exports of goods under merchanting 
+0 
+0 
+0 
+0 
+0 
+Nonmonetary gold 
+0 
+0 
+0 
+0 
+0 
+Services, net 
+-1,000 
+-1,049 
+-1,311 
+-939 
+-742 
+      Service credits  
+549 
+469 
+629 
+815 
+1,100 
+      Service debit 
+-1,549 
+-1,518 
+-1,940 
+-1,754 
+-1,842 
+Income (net)  
+-34 
+-36 
+-37 
+-40 
+-42 
+     Receipts  
+44 
+46 
+49 
+51 
+54 
+    Payments 
+-78 
+-82 
+-86 
+-91 
+-96 
+Current transfers (net 
+3,551 
+3,736 
+4,035 
+4,272 
+5,211 
+Private (net), including remittances  
+1,479 
+1,580 
+1,690 
+1,801 
+2,197 
+Official 
+2,072 
+2,156 
+2,345 
+2,471 
+3,014 
+Capital account and financial account 
+456 
+605 
+659 
+704 
+799 
+of which: 
+ 
+ 
+ 
+ 
+ 
+Foreign direct investment 
+408 
+447 
+464 
+495 
+544 
+Overall balance and error and omissions 
+-30 
+13 
+18 
+18 
+ 
+ Change in central bank reserves (- = increase)  
+30 
+-13 
+-17 
+-19 
+ 
+Memorandum items: 
+ 
+ 
+ 
+ 
+ 
+Nominal GDP 
+5,850 
+6,477 
+6,965 
+7,167 
+ 
+External public debt 
+5,235 
+5,311 
+4,529 
+4,486 
+ 
+Source: Central Bank of Somalia, 2022
+=== PAGE 42 ===
+29
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+3.6      Government Finance Statistics
+This section provides information on the fiscal operations of the General Government. Fiscal 
+operations include the revenue, expenditure and financing of government institutional units. The 
+data spans from the years 2018 to 2022, offers valuable insights into Somalia’s fiscal landscape.
+The government has been successful in generating higher revenue than initially projected, 
+showcasing improved fiscal management and revenue generation efforts.
+On the expenditure side, there is a gradual increase in spending on compensation of employees, 
+use of goods and services, and grants (transfers) over the analyzed period. This suggests the 
+government’s commitment to maintaining a capable workforce and providing essential services 
+through expenditures on social good.
+3.6.2 Government Expenditure
+In 2022, the government spent $259.6 million on compensation of employees, reflecting an 
+increase compared to 2018 when it was $142.9 million. This indicates a significant investment 
+in maintaining a capable workforce, particularly in the security sector. (Table 3.12)
+Although there has been an increase in the share of government spending on social goods, 
+including health, education, housing, and community amenities, these allocations remain 
+considerably lower compared to internationally comparable levels. In 2022, the government 
+spent $140.6 million on the use of goods and services, and $111.2 million on grants (transfers) 
+(Table 3.12)
+=== PAGE 43 ===
+30
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 3.12 Central Government Revenue and Expenditure (Millions of USD)
+Description 
+2018 
+2019 
+2020 
+2021 
+2022 
+Total Domestic Revenue 
+176.5 
+229.7 
+229.7 
+203.5 
+262.7 
+Taxes 
+132.2 
+154.7 
+158.1 
+136.8 
+181.7 
+Other Revenue 
+44.3 
+74.9 
+71.7 
+66.7 
+81.0 
+Total External Grants 
+93.4 
+111.6 
+292.5 
+161.0 
+459.2 
+Current From Foreign Governments 
+29.5 
+36.4 
+15.0 
+2.5 
+37.1 
+Capital From Foreign Governments 
+0.0 
+0.0 
+270.5 
+158.5 
+2.3 
+Current From International Originations 
+63.9 
+0.0 
+0.0 
+0.0 
+0.0 
+Current from Other General Government Unit 
+0.0 
+75.2 
+7.1 
+0.0 
+419.9 
+Total Revenue and Grants 
+269.9 
+341.3 
+522.3 
+364.6 
+721.9 
+Total Recurrent Expenditure 
+263.0 
+319.0 
+485.3 
+467.5 
+731.4 
+Compensation of Employees 
+142.9 
+162.9 
+227.1 
+250.1 
+259.6 
+Use of Goods and Services 
+80.6 
+106.0 
+80.7 
+105.9 
+140.6 
+Interest 
+0.0 
+0.0 
+14.4 
+14.6 
+17.8 
+Subsidies 
+0.0 
+0.0 
+2.2 
+1.3 
+0.0 
+Grants 
+29.5 
+48.5 
+80.1 
+45.9 
+111.2 
+Social Benefits 
+0.0 
+0.4 
+62.1 
+33.7 
+188.9 
+Nonfinancial Assets 
+9.9 
+1.2 
+18.7 
+16.1 
+13.2 
+Total Expenditure 
+263.0 
+319.0 
+485.3 
+467.5 
+731.4 
+Financing Gap / Surplus (-) or (+) 
+-532.9 
+22.3 
+-993.4 
+-832.1 
+-9.5 
+Source: Ministry of Finance 2022 
+Table 3.13 Actual Revenue and Budget Estimates
+  
+Actual Revenue 
+  
+Budget Estimate 
+  
+Domestic Revenue 
+Grants 
+Total 
+Revenue 
+Domestic Revenue 
+Grants 
+Total 
+Revenue 
+2018 
+176 
+93 
+269 
+173 
+125 
+298 
+2019 
+223 
+128 
+351 
+221 
+169 
+390 
+2020 
+211 
+286 
+497 
+168 
+411 
+578 
+2021 
+230 
+147 
+377 
+270 
+411 
+681 
+2022 
+263 
+459 
+722 
+250 
+695 
+945 
+Source: Ministry of Finance 2022 
+Table 3.14 Government Expenditure 2018-2019 (Million USD)
+Year 
+Compensation of Employees 
+Use of goods and services 
+Grants (transfers) 
+2018 
+143 
+0.81 
+0.31 
+2019 
+163 
+0.92 
+0.48 
+2020 
+227 
+0.81 
+0.8 
+2021 
+250 
+106 
+0.45 
+2022 
+260 
+138 
+111 
+Source: Ministry of Finance 2022
+=== PAGE 44 ===
+31
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+3.7      Banking and Currency
+This section focuses on two critical components: Currency Exchange Rates and Remittance. 
+The provided data covers currency exchange rates spanning from 2010 to 2022 and remittance 
+figures for the years 2018 to 2022.These data points provide insights into the fluctuations in the 
+exchange rate and the trends in remittances received by individuals, businesses, and NGOs in 
+Somalia.
+3.7.1 Exchange Rate
+The exchange rates are categorized into buying, selling, and mid-rate values. The table 3.15 
+shows that the exchange rate experienced fluctuations over the years. From 2010 to 2015, the 
+exchange rate remained relatively stable, with minor fluctuations. However, starting from 2016, 
+the exchange rate began to increase gradually. By 2019, the exchange rate had reached its peak 
+at 25,064.64 Somali Shillings per unit of foreign currency. In 2022, the exchange rate further 
+increased to 26,832 Somali Shillings per unit of foreign currency.
+3.7.2 Remittance
+The remittance figures for individuals, businesses, NGOs, and the total amount received in 
+Somalia from 2018 to 2022. Remittances play a crucial role in the Somali economy, as they 
+contribute significantly to the country’s foreign exchange reserves and support the livelihoods 
+of many households.
+Table 3.16 shows that the total remittances received in Somalia have increased over the years. In 
+2018, the total remittance amount was 2,184.30 million units, which increased to 3,494 million 
+units in 2022. Individuals consistently accounted for the largest share of remittances, followed 
+by businesses and NGOs. (Figure 3.6)
+=== PAGE 45 ===
+32
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 3.16 individuals, businesses, NGOs, and the total amount received in Somalia from 
+2018 to 2022.
+Table 3.15 Exchange rate 2010-2022
+Year 
+Buying 
+Selling 
+Mid-Rate 
+2010 
+31,168.04 
+31,371.29 
+31,269.66 
+2011 
+29,865.08 
+30,068.59 
+29,966.84 
+2012 
+22,414.46 
+22,617.54 
+22,516.00 
+2013 
+19,184.75 
+19,382.85 
+19,283.80 
+2014 
+20,154.79 
+20,305.15 
+20,229.97 
+2015 
+22,252.40 
+22,256.07 
+22,254.24 
+2016 
+23,036.67 
+23,086.90 
+23,061.78 
+2017 
+23,092.44 
+23,103.53 
+23,097.99 
+2018 
+23,949.20 
+23,959.17 
+23,954.18 
+2019 
+25,055.59 
+25,073.69 
+25,064.64 
+2020 
+25,756.01 
+25,766.33 
+25,761.17 
+2021 
+26,035.78 
+26,045.24 
+26,039.01 
+2022 
+26,805.21 
+26,859.83 
+26,832.00 
+Source: Central Bank of Somalia 
+Year 
+Individuals 
+Business 
+NGOs 
+Total 
+2018 
+1,301.71 
+493.9 
+388.69 
+2,184.30 
+2019 
+1,339.30 
+779.75 
+502.74 
+2,621.79 
+2020 
+1,642.00 
+911.42 
+620.7 
+3,174.12 
+2021 
+2,080.42 
+705.73 
+565.69 
+3,351.84 
+2022 
+2,090.54 
+662.9 
+740.68 
+3,494.12 
+Source: Central Bank of Somalia, 
+Figure 3.6 Remittance 2018-2022 (million USD)
+Source: Central Bank of Somalia,
+=== PAGE 46 ===
+33
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+CHAPTER FOUR
+PRODUCTION 
+STATISTICS
+=== PAGE 47 ===
+34
+The Federal Republic of Somalia
+National Bureau of Statistics
+The Production Statistics is mainly consists of the following: 
+•	 Agriculture
+•	 	Energy and Water
+•	 	Environment and Climate Change 
+•	 Food Security and Nutrition  
+•	 Transportation and Infrastructure
+4.0  Production Statistics
+4.1      Agriculture
+This chapter presents key statistics on crop production, livestock population, livestock 
+production, livestock export trend, and other key agriculture related statistics in the period of 
+1995-2022. Data is drawn from administrative records, reports and national surveys i.e. the 
+Somali Integrated Household Budget Survey (SIHBS) 2022.
+Agriculture including crops, livestock and fisheries is the backbone of Somalia’s economy. 
+According to the joint report by World Bank and FOA in 2018, the sector contributes approximately 
+75 percent of the gross domestic product (GDP). It also represents 93percent of total exports, 
+mostly related to strong livestock exports. It is a key provider of employment and livelihoods 
+for the rural population (83.1 percent of total employment of the country’s population). The 
+agricultural sector faces high uncertainty because of high dependence on weather and frequent 
+droughts. The evidence presented in this chapter can help inform strategic priorities aimed at 
+developing Somalia’s productive sector aligned with national goals and global SDG targets.
+4.1.1 Agricultural Land and Utilization
+Agricultural land is the total of cropland, permanent meadows, and permanent pastures (FAO, 
+2015). According to the World Bank Indicators (2021), approximately 70.3 percent of the total 
+land area in Somalia is agricultural land. 
+According to Figure 4.1, 23.3 percent of households own and use land. The proportion of land-
+owning households is higher among rural and urban households (30.5 percent and 22.8 percent 
+respectively) than for nomadic households (11.0 percent).
+4.1.2 Crop Production
+Crop agriculture plays a pivotal role in the country’s economy. It was only second to livestock 
+as Somalia’s foreign exchange earner before the civil war that started in early 1991. Estimates 
+suggest that there are about 3 million hectares of cultivable land in Somalia, of which almost 2.3 
+million hectares produces or could produce crops under rain fed conditions. 
+Most crop production is largely undertaken in the Southern regions, where the most fertile 
+land is located and riverine water irrigation is abundantly available, by small-scale subsistence 
+farmers with an average of 0.2–3.0 hectares of land and producing cereal crops, mainly maize 
+and sorghum.
+=== PAGE 48 ===
+35
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+4.1.2.1 Cereal Production
+According to FSNAU12 , the 2022 Gu’ season cereal production (maize & Sorghum) in 
+Jubaland, Southwest, Hirshabelle and Galmudug States was projected at 59,900 tons which 
+was 50 percent less than the long-term 1995–2021 average, representing four consecutive 
+seasons of poor harvest as depicted in Figure 4.3 
+2 SOMALIA Food Security Outlook June 2022 to January 2023
+Source: FSNAU and FEWS NET, 2022
+Figure 4.1 Proportion of household’s own land.
+Source: SIHBS 2022
+Figure 4.2 Land Utilization
+Source: SIHBS 2022
+4.1.2.2 Horticulture Production
+Horticulture is one of the sub-sectors in agriculture. Horticulture has a significant contribution to 
+agriculture value added.  The horticultural production (Tomatoes and Onion) had been increasing 
+gradually between the years 2009 - 2011. However, it started decreasing from 2021 onwards, 
+reflecting the effect of the droughts which took place in the country in 2011/2012 and 2022 as 
+shown in Figure 4.5.
+=== PAGE 49 ===
+36
+The Federal Republic of Somalia
+National Bureau of Statistics
+Figure 4.3 Sorghum and maize production in southern Somalia, 1995-2022.
+Figure 4.4 Sorghum and maize production in Northwest Regions Somalia, 2010-2022.
+Source: FSNAU and FEWS NET, 2022
+Figure 4.5 Tomatoes and onion production
+Source: FSNAU Data, 2023
+=== PAGE 50 ===
+37
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Livestock production has been the major contributor of Somalia’s economy for many centuries, 
+contributing around 80 percent to the agricultural GDP and 45 percent to the country’s GDP1 3. 
+It is the most vital source of food and income for the predominantly rural population, as well 
+as the country’s biggest export commodity. According to the CBS 2022 Quarter two report, 
+livestock alone contributes 90 percent of total exports by value. Approximately 191.91 million 
+USD is derived from exports of livestock, equivalent to 2.3 percent of livestock’s contribution 
+to agricultural GDP in 201324 .
+3 International Livestock Research Institute
+4 IGAD Centre for Pastoral Areas and Livestock Development (ICPALD)
+5 SOMALIA Food Security Outlook June 2022 to January 2023
+4.2       Livestock
+4.2.1 Livestock Population
+The livestock population trends in Somalia are displayed in Figure 4.6 below. It reflects the 
+livestock population dynamics over the five-year period 2014-2018. The livestock population 
+increased from about 52 million in 2014 to 58 million in 2015. However, it started declining in 
+2016 reaching down to less than 49 million in 2017, reflecting the severe drought in 2016/2017. 
+Nevertheless, it recovered to almost 56 million heads in 2018, after more normal rainfall patterns 
+resumed during the second half of 2017. A breakdown of livestock population by type indicated 
+that goats and sheep are the most reared livestock followed by camel population while the cattle 
+are the least reared (Figure 4.7).
+4.2.2 Livestock Mortality
+The drought attributable livestock mortalities between July 2021 and April 2022 exceeded 3 
+million15 . The breakdown of livestock deaths was shown in Figure 4.8, indicating that Nugaal, 
+Mudug, Galgaduud, Bakool, Bay, and Gedo had the highest livestock mortalities. Notability, the 
+goats/sheep experienced the highest death toll followed by the cattle.
+4.2.3 Livestock Exports
+In terms of livestock exports, the number of livestock exports declined from 5 million in the year 
+2015 to 4 million in 2020. Notability the livestock export experienced a substantial decrease 
+in the years 2017 -2018 reflecting the impact of the drought which took place in 2017/2018 
+(Figure 4.9).
+=== PAGE 51 ===
+38
+The Federal Republic of Somalia
+National Bureau of Statistics
+Figure 4.6 Livestock Populations Trends, Somalia 2014-2018
+Source: Somalia 2018 (DINA) for 2014; MoLFR and FSNAU for 2015-2018.
+Figure 4.7 Livestock Populations by type in Somalia, 2014-2018
+Source: Somalia 2018 (DINA) for 2014; MoLFR and FSNAU for 2015-2018.
+=== PAGE 52 ===
+39
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Figure 4.8 Estimated number of livestock deaths by region between July 2021 and 
+April 2022
+Source: FSNAU and FEWS NET
+Figure 4.9 Number of livestock(heads) exported from 2015-2021.
+Data Source: MoLR, 2022
+=== PAGE 53 ===
+40
+The Federal Republic of Somalia
+National Bureau of Statistics
+4.3       Energy
+This chapter presents a key summary of energy statistics, including energy production from 
+different sources, energy consumption across sectors, energy prices, and other pertinent indicators.
+Energy production data is a key indicator of a nation’s economic development, sustainability, 
+and well-being. It offers valuable insights into energy availability, utilization, and efficiency, 
+aiding effective resource allocation and planning. Accurate energy production data is crucial for 
+assessing self-sufficiency and security, evaluating vulnerabilities, exploring diversification, and 
+enhancing resilience against supply disruptions and price fluctuations. 
+4.3.1 Electricity
+In 2022, the Integrated Household Budget Survey reveals distinct disparities in electricity 
+access across different residential areas. Urban regions demonstrate a notably high electricity 
+access rate of 80.1 percent, while rural areas and nomadic communities lag behind at 39.4 
+percent  and 8.7 percent, respectively. The overall national electricity access rate stands at 61.9 
+percent, indicating a substantial gap in infrastructure and service provision. Addressing these 
+discrepancies is crucial to ensuring equitable access to electricity and enhancing the overall 
+quality of life for all residents.
+4.3.1.1 Access to electricity
+Table 4.1 shows that the largest population without electricity resides in rural areas (2.2 million). 
+On the other hand, nearly two -thirds (61.9 percent.) of the population has access to electricity 
+while 38.1 percent do not. The urban areas have the highest electricity access rate (80.1 percent), 
+followed by rural areas (39.4 percent), and nomadic areas have the lowest access rate (8.7 
+percent). The uneven distribution of electricity access across the population based on their place 
+of residence provides valuable data for policy makers and organizations working to improve 
+access to electricity for all.
+=== PAGE 54 ===
+41
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+4.3.1.2 Source of electricity
+Since the colapseof Somalia’s central government in 1991, electricity service has solely 
+been a role of the dynamic Somali private sector. The current installed generation capacity is 
+approximately 106 MW. While most power companies rely on diesel generators for electricity 
+generation, interest and investment is growing in hybrid systems that draw on solar and wind 
+energy resources.  According to a recent study by the African Development Bank, Somalia has 
+the highest resource potential of any African nation for onshore wind power and could generate 
+between 30,000 to 45,000 MW.  Solar power could potentially generate an excess of 2,000 
+kWh/m2. Somalia has higher tariffs compared to neighboring countries i.e. Kenya and Ethiopia. 
+Therefore, it is important to know statistics of the availability, accessibility and source of 
+electricity.
+4.3.1.3 Electricity for Lightening
+Most of the Somalis used electricity for lighting primarily relies on small-scale diesel generators 
+and alternative sources such as solar, kerosene, firewood, torch and others for lightening. The 
+unreliable electricity infrastructure and limited access to the grid result in a significant portion of 
+the population lacking access to consistent and reliable electric lighting. As a result, traditional 
+lighting methods like kerosene lamps and solar lanterns are commonly used, especially in 
+rural and underserved areas. Efforts are needed to improve electrification and expand access to 
+reliable electricity for lighting purposes, including the promotion of renewable energy solutions. 
+However, electric lighting remains a challenge in many parts of Somalia.
+4.3.1.4 Electricity for cooking
+In urban areas of Somalia, electricity and liquid petroleum gas (LPG) is increasingly used for 
+cooking, with households having access to electric cooking appliances such as stoves and ovens. 
+In rural areas, traditional cooking methods like firewood, charcoal, are prevalent due to limited 
+access to electricity. Nomadic communities primarily rely on traditional cooking methods like 
+firewood and charcoal, as they have limited access to electricity. It’s important to note that the 
+availability and use of electricity for cooking can vary within each category, and efforts needed 
+to expand electricity access and promote cleaner cooking technologies across all regions of 
+Somalia.
+According to Table 4.4, charcoal and firewood are the most common source of energy for 
+cooking in Somalia with 47.9 percent and 41.3 percent respectively. The majority of households 
+in rural areas (55.8 percent) and nomadic areas (94.3 percent) use firewood for cooking reflecting 
+reliance on their readily available sources. Charcoal is also a significant source in both rural 
+(39.7 percent) and urban (60.6 percent) areas. Gas is more commonly used in urban areas (8.9 
+percent), while electricity has a minimal usage across all areas for cooking purposes.
+4.3.1.5 Availability of electricity
+There is a significant disparity in the availability of electricity between rural and urban areas in 
+Somalia. Urban areas generally have better access to electricity compared to rural areas. The 
+limited electricity infrastructure and lack of reliable power grids pose challenges in extending 
+electricity coverage to remote and underserved rural areas. 
+As indicated in Figure 4.10, the vast majority 84.7 percent of households receive electricity for 
+more than 12 hours per day, 3.3 percent receive 8-12 hours and only 3.7 percent have less than 8 
+hours of electricity availability. This information provides insight into the duration of electricity 
+supply in households.
+=== PAGE 55 ===
+42
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 4.2 Source of electricity used most of the time in the households by type of residence 
+(percent).
+Source of Electricity 
+Rural 
+Urban 
+Nomadic 
+Total 
+Grid connection from private company 
+75.2 
+93.8 
+0.4 
+89.2 
+Generator 
+5.7 
+3.3 
+0.0 
+3.7 
+Solar home system 
+17.7 
+2.6 
+37.6 
+5.7 
+Other  
+1.4 
+0.3 
+62.0 
+1.5 
+Total 
+100 
+100 
+100 
+100 
+Source:  Integrated Household Budget Survey, 2022 
+ 
+ 
+Table 4.3 Main source of electricity for lighting (percent).
+Source  
+Rural 
+Urban 
+Nomadic 
+Total 
+Electricity 
+30.3 
+75.5 
+0.5 
+54.1 
+Solar 
+21.4 
+5.0 
+8.0 
+9.7 
+Kerosene 
+0.0 
+0.2 
+0.0 
+0.1 
+Firewood 
+0.5 
+0.5 
+0.4 
+0.5 
+Torch 
+47.5 
+18.5 
+91.1 
+35.4 
+Other 
+0.3 
+0.3 
+0.0 
+0.2 
+Total 
+100.0 
+100.0 
+100.0 
+100.0 
+Source:  Integrated Household Budget Survey, 2022 
+Table 4.1 Electricity access rate by place of residence (percent)
+Place of 
+residence 
+Population with access to 
+electricity 
+Population without 
+access to electricity 
+Total population 
+Electricity 
+access rate 
+(percent) 
+Rural 
+1,466,019 
+2,256,428 
+3,722,447 
+39.4 
+Urban 
+7,959,463 
+1,973,124 
+9,932,587 
+80.1 
+Nomadic 
+158,135 
+1,668,731 
+1,826,866 
+8.7 
+Total 
+9,583,617 
+5,898,283 
+15,481,900 
+61.9 
+Source:  Integrated Household Budget Survey, 2022 
+ 
+Table 4.4 Main source of energy for Cooking (percent).
+Source  
+Rural 
+Urban 
+Nomadic 
+Total 
+Electricity 
+1.4 
+5.8 
+0.0 
+3.9 
+Solar 
+2.0 
+0.4 
+0.8 
+0.8 
+Gas 
+1.0 
+8.9 
+0.0 
+5.7 
+Charcoal 
+39.7 
+60.6 
+4.3 
+47.9 
+Firewood 
+55.8 
+24.0 
+94.3 
+41.3 
+Other  
+0.2 
+0.4 
+0.6 
+0.4 
+Total 
+100.0 
+100.0 
+100.0 
+100.0 
+Source:  Integrated Household Budget Survey, 2022
+=== PAGE 56 ===
+43
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Figure 4.10 Availability of Electricity (No. of hours per day) in Households (percent).
+Source:  Integrated Household Budget Survey, 2022
+Table 4.5 fuel shares of electricity generation  2021.
+Year  
+Flow Trade 
+percent of Total value 
+2021 
+Biomass 
+1.3 
+2021 
+Fossil fuels 
+6.5 
+2021 
+Geothermal 
+43.6 
+2021 
+Hydroelectricity 
+36.4 
+2021 
+Wind 
+11.5 
+2021 
+Solar 
+0.8 
+Source: “AFREC database”
+=== PAGE 57 ===
+44
+The Federal Republic of Somalia
+National Bureau of Statistics
+4.4       Petroleum
+In Somalia, Petroleum has significant potential for economic development and energy self-
+sufficiency because the country is located in a region with proven oil and gas reserves. However, 
+due to years of instability and conflict, the petroleum sector remains largely undeveloped. 
+However, the sector’s future growth and contributions are dependent on overcoming these 
+obstacles and obtaining investments from multinational oil firms. New thermal generation 
+possibilities for the future involve the use of foreign fuels. Somalia has no proven petroleum 
+resources. It is envisaged that fossil fuel will be acquired from overseas sources and imported 
+through several ports in Somalia. 
+Table 4.6 illustrates the varying quantities of different petroleum products. Liquefied petroleum 
+gasses remained relatively stable, ranging from 3 to 6 ktoe annually, accumulating to a total 
+of 46 kt over the decade. Motor gasoline and Jet Kerosene both fluctuated between 19 and 29 
+ktoe, with Jet Kerosene reaching a total of 263 ktoe. Gas/diesel oil showed a consistent increase, 
+reaching 134 ktoe in 2020, contributing significantly to the total petroleum consumption of 2287 
+ktoe over the period. Fuel oil exhibited a moderate fluctuation, totaling 377 ktoe by the end of 
+the decade.
+According to Figure 4.11, the total amount of petroleum gas imported in 2020 was 246 Ktoe; 
+the smallest was Liquefied petroleum gas (LPG) 1 percent equivalent (3kt), followed by motor 
+gasoline 8 percent (20Ktoe) while other kerosene scored 9 percent equivalent (22ktoe), Jet 
+Kerosene was 10 percent and Fuel oil was 17 perent (42ktoe) and the largest amount was Gas/
+diesel oil 54 percent equivalent (134 ktoe). Majority of petroleum gas imported in 2020 was Gas/
+diesel oil during that period and outnumbered those of other petroleum gasses
+Table 4.7 only reports the fuel imported at Mogadishu port for the last three years. It includes 
+three types of fuel: gas oil, gasoline, and jet A1. The quantity of each fuel type imported each 
+year is delivered in kilotons (ktoe). The total oil gas imported in 2021 to 2023 was four hundred 
+forty-nine thousand four hundred and fifty-six kilotones (449,456 ktoe) and the gasoline was one 
+hundred seventy-three thousand five hundred and fifty-one kilotones (173,551 ktoe) while the 
+Jet A1 was ninety-six thousand five hundred and eight kilotones 96,508 for that period imported 
+at Mogadishu port.
+=== PAGE 58 ===
+45
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+4.4.1 Final consumption by fuel
+Figure 4.12 presents the fuel shares of final consumption in 2021. Biofuels and waste products 
+lead the way, accounting for a substantial 66.5 percent of the total final consumption, oil products 
+hold a significant share (25.7 percent) with electricity (4.7 percent) and coal and coal products 
+(3.1 percent) playing a minor role. Finally, biofuel and waste predominated over other fuel 
+proportions of final consumption, while coal and coal products were the lowest fuel.
+Figure 4.13 provides a breakdown of final consumption by sector in 2021, highlighting 
+the percentage of total value attributed to each sector. The Household sector dominates the 
+consumption with a significant 55.1 percent share, transport comes in second with 20.1 percent, 
+commercial and public services account for 17.8 percent, while the industry sector contributes 
+about 6.8 percent of total share
+Figure 4.14 displays the fuel shares of export in 2018, indicating the percentage of total export 
+attributed to electricity (15.4 percent) and oil products (84.6 percent). Overall, oil products had 
+the highest fuel percentage of export, while electricity had the lowest.
+Figure 4.15 presents the fuel shares for imports in 2018. It shows the percentage of total imports 
+attributed to coal and coal products (3.8 percent), crude oil (11.1 percent), and oil products (85.0 
+percent). The largest fuel share for imports was oil products while the least was coal and coal 
+products.
+The fuel shares of primary production in 2018 is depicted in Figure 4.16. It indicates the 
+percentage of total production attributed to biofuels and waste (72.2 percent), geothermal (25.6 
+percent), and hydro (2.0 percent).
+Table 4.7 Fuel imported at Mogadishu port 2021-2023.
+Years 
+Gas oil 
+Gasoline 
+Jet A1 
+2021 
+150782 
+57449 
+25604 
+2022 
+164732 
+53658 
+36720 
+2023 
+133942 
+62444 
+34184 
+Grand Total 
+449456 
+173551 
+96508 
+Sources: Ministry of petroleum and Mineral resources, Somalia 
+Table 4.6 Petroleum gases imported from 2011-2020.
+Petroleum Gas(ktoe) 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+2019 
+2020 
+Total 
+LPG 
+5 
+6 
+5 
+5 
+6 
+6 
+4 
+3 
+3 
+3 
+46 
+Motor gasoline  
+25 
+29 
+27 
+27 
+28 
+28 
+19 
+19 
+20 
+20 
+243 
+Jet Kerosene  
+25 
+29 
+27 
+27 
+28 
+28 
+24 
+24 
+26 
+25 
+263 
+Other Kerosene  
+8 
+9 
+8 
+8 
+8 
+8 
+21 
+21 
+23 
+22 
+136 
+Gas/diesel oil  
+106 
+106 
+121 
+121 
+121 
+126 
+126 
+126 
+136 
+134 
+1222 
+Fuel oil 
+33 
+38 
+35 
+35 
+36 
+37 
+39 
+39 
+42 
+42 
+377 
+Total 
+202 
+217 
+223 
+223 
+227 
+233 
+233 
+232 
+250 
+246 
+2287 
+Sources: Ministry of Energy and water resources Somalia.
+=== PAGE 59 ===
+46
+The Federal Republic of Somalia
+National Bureau of Statistics
+Figure 4.12 2021 fuel shares of final consumption
+Source: “AFREC database”
+Sources: Ministry of Energy and water resources Somalia.
+Figure 4.11 Petroleum gas imported at Mogadishu port 2020
+Figure 4.13 2021 Sector shares of final consumption
+Source: “AFREC database”
+=== PAGE 60 ===
+47
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Figure 4.14 displays the fuel shares of export in 2018, indicating the percentage of total export 
+attributed to electricity (15.4 percent) and oil products (84.6 percent). Overall, oil products had 
+the highest fuel percentage of export, while electricity had the lowest.
+Figure 4.14 fuel shares of export 2018
+Source: “AFREC database”
+Figure 4.15 presents the fuel shares for imports in 2018. It shows the percentage of total imports 
+attributed to coal and coal products (3.8 percent), crude oil (11.1 percent), and oil products (85.0 
+percent). The largest fuel share for imports was oil products while the least was coal and coal 
+products.
+Figure 4.15  fuel shares for imports 2018
+Source: “AFREC database”
+=== PAGE 61 ===
+48
+The Federal Republic of Somalia
+National Bureau of Statistics
+The fuel shares of primary production in 2018 is depicted in Figure 4.16. It indicates the 
+percentage of total production attributed to biofuels and waste (72.2 percent), geothermal (25.6 
+percent), and hydro (2.0 percent).
+Figure 4.16 fuel shares of primary production 2018.
+Source: “AFREC database”
+=== PAGE 62 ===
+49
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+4.5       Food Security & Nutrition
+This section presents key statistics on experiences of food insecurity, prevalence of moderate and 
+severe food insecurity according to the Food Insecurity Experience Scale (FIES), children with 
+moderate or severe acute malnutrition, exposure to various types of shocks, losses to income and 
+assets from those shocks and drought related displacements.
+Somalis are susceptible to a variety of shocks, including natural disasters, diseases, injuries, 
+fatalities, or unemployment within households. These shocks collectively contribute to poverty, 
+vulnerability, and displacement. The most frequent source of food shortages is drought, which 
+can also lead to famine and malnutrition. In addition, all four aspects of food security availability, 
+stability, access, and utilization are impacted by drought. 
+4.5.1 Food insecurity experience 
+According to Figure 4.17, more than half of the households (52.2 percent) were unable to 
+purchase health and nutritious food, 47.7 percent worried that they would not have enough food 
+to eat, and 43.5 percent ate less than they thought they should. More than a quarter (27.1 percent) 
+of households went without food for an entire day at least once, while over a third (34.9 percent) 
+went hungry and 37.8 percent ran out of food.
+A further disaggregation by settlement, revealed that food insecurity experiences are more 
+prevalent in nomadic households than the urban households. For example, 63.3 percent of 
+nomadic households were worried they would not have enough to eat over the month preceding 
+the survey, compared with 48.2 percent of rural households and 44.2 percent of urban households. 
+The most severe forms of food insecurity experienced also show notable differences across 
+places of residence, with 45.6 percent of nomadic households having gone at least one whole day 
+without eating, compared with 24.8 and 24.2 percent of rural and urban households respectively 
+(Figure 4.18).
+Figure 4.19 below illustrates the percentage of Somalis who experience food insecurity by place 
+of residence. In the overall population, the prevalence of “moderate or severe” food insecurity 
+is 44.3 percent compared to 62.9 percent in the nomadic population. Moreover, 39.8 percent of 
+nomads experience “severe” food insecurity, compared to 23.0 percent and 21.8 percent of the 
+populace in urban and rural areas, respectively.
+4.5.2 Shocks Causes
+Figure 4.20 illustrates the key shocks that Somali households experienced in the 24 months prior 
+to the survey. The most significant shocks reported include sharp increases in large rise in price 
+for food (53.3 percent), droughts or severe water shortages (47.3 percent), and livestock deaths 
+(14.6 percent). These factors were identified as the top three shocks impacting households during 
+this period.
+Due to these shocks, nearly half of the affected households (44.8 percent) have lost income, 
+over one in ten (10.9 percent) have lost assets, and a third (33.2 percent) have lost both income 
+and assets. The majority of affected nomadic households (45.6 percent) have lost both income 
+and assets, whereas impacted urban and rural households (41.9 percent in urban areas and 47.2 
+percent in rural areas) are likely to have lost income (Figure 4.21).
+=== PAGE 63 ===
+50
+The Federal Republic of Somalia
+National Bureau of Statistics
+Figure 4.18 Food security situation during the month preceding the survey by settlement
+Source:  Integrated Household Budget Survey, 2022
+There has been a noticeable and alarming rise in the number of children with moderate or severe 
+acute malnutrition who were admitted to treatment and feeding centers in 2022 (Figure 4.22).
+4.5.3 Acute Malnutrition
+Figure 4.17 Food security situation during the month preceding the survey
+Source:  Integrated Household Budget Survey, 2022
+=== PAGE 64 ===
+51
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Figure 4.20 Type of shocks experienced by households by place of residence
+Figure 4.21 Loss of household income or asset because of shock
+Source:  Integrated Household Budget Survey, 2022
+Source:  Integrated Household Budget Survey, 2022
+Figure 4.19 Food insecurity experience scale (FIES) by place of residence
+Source:  Integrated Household Budget Survey, 2022
+=== PAGE 65 ===
+52
+The Federal Republic of Somalia
+National Bureau of Statistics
+Figure 4.22 Number of children with moderate or severe acute malnutrition that were newly admitted 
+to treatment and feeding centers, January 2016 – June 2022
+Figure 4.23 Top 10 regions with the highest estimated levels of drought-related dis­
+placement in Somalia
+ Sources: FSNAU Early Warning-Early Action Dashboard
+Source: data from UNHCR PRMN
+=== PAGE 66 ===
+53
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+4.7       Environmental & Climate
+This section provides a synthesis of key statistics and trends across priority environmental themes 
+for Somalia over the period 1990-2020. The first section focuses on deforestation and forest 
+degradation, providing data on the dramatic declines in Somalia’s forest cover and growing 
+stock over the past three decades. The drivers, impacts and policy implications of this rapid 
+deforestation are analyzed. Somalia faces a multitude of pressing environmental challenges that 
+threaten the country’s sustainable development and resilience. Key issues include high rates of 
+deforestation and forest degradation, limited access to safe water and sanitation, vulnerability 
+to climate change impacts, and threats to vital ecosystems and biodiversity. Comprehensive, 
+up-to-date data on environmental indicators is essential for informing evidence-based policies, 
+investments and strategies to address these challenges.
+Somalia forest cover was 0.1 percent of its land area in 2020, with a 0.1 percent annual loss rate 
+from 2015-2020. Table 4.8 on forest cover change shows the dramatic deforestation Somalia 
+has experienced over the past 30 years. In 1990, Somalia had 1.65 million hectares of forest 
+cover, which amounted to 1.1 percent of its total land area. However, by 2020 the forest area had 
+declined sharply to just 0.15 million hectares, and forests covered only 0.1 percent of Somalia’s 
+land. This means Somalia lost a staggering 1.5 million hectares of forest cover between 1990 and 
+2020. Both the total area and proportion of land covered by forests declined by about 90 percent 
+in just 30 years. This rapid deforestation underscores the severe threats to Somalia’s remaining 
+forest resources. This data highlights the needs for reforestation and forest conservation efforts.
+The declining volume of growing stock in Somalia’s naturally regenerating forests between 
+1990 and 2020 are depicted in Table 4.9. Growing stock measures the cubic meter volume of 
+live wood in forests. In 1990, Somalia’s growing stock volume was approximately 414 million 
+cubic meters over bark. By 2020, this had decreased substantially to 299 million cubic meters, 
+representing a 28 percent drop over 30 years. This reduction indicates Somalia’s natural forests 
+have become severely degraded, with far less wood volume compared to the past. The declines in 
+growing stock are likely driven by unsustainable harvesting of wood exceeding natural regrowth 
+rates. Overall, the data highlights the heavy toll deforestation has taken on Somalia’s remaining 
+forest resources. 
+4.7.1 Deforestation and Forest Degradation
+=== PAGE 67 ===
+54
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 4.8 Forest Cover Change in Somalia, 1990-2020
+Year 
+Forest Area (1,000 ha) 
+percent of Land Area 
+1990 
+1,650 
+1.1 
+2000 
+1,110 
+0.7 
+2010 
+490 
+0.3 
+2015 
+150 
+0.1 
+2020 
+150 
+0.1 
+Source: FAO Global Forest Resources Assessment 2020 
+Table 4.9 Growing Stock Volume (million m3 over bark)
+Year 
+Naturally Regenerating Forest 
+Planted Forest 
+Total 
+1990 
+413.98 
+0.24 
+414.22 
+2000 
+375.60 
+0.24 
+375.84 
+2010 
+337.23 
+0.24 
+337.47 
+2015 
+318.04 
+0.24 
+318.28 
+2020 
+298.85 
+0.24 
+299.09 
+Source: FAO Global Forest Resources Assessment 2020 
+4.7.2 Greenhouse Gas Emissions 
+Somalia’s emissions were 12.5 million metric tons CO2 equivalent in 2012, with over 80 percent 
+from livestock and land use (CAIT Climate Data Explorer). Its 0.01 percent share of global 
+emissions in 2019 was relatively low. Trend data on emissions is needed to inform mitigation 
+strategies.
+Figure 4.24 shows trends in total CO2eq emissions for the time series 2000 to 2020. In general, 
+total emissions show an increasing trend. In 2020, the total greenhouse gas emissions were 
+equivalent to 41, 131 Gg of CO2eq (gigagrams of carbon dioxide equivalent.) including the 
+LULUCF (Land Use, Land-Use Change and Forestry) Sector. Total CO2 emissions for the year 
+2020 are estimated to be 23,781 Gg CO2eq without contribution from LULUCF. 
+According to National GHG inventory for BUR 1, 2022 Somalia has little historical or current 
+responsibility for global climate change; the country’s Greenhouse Gas (GHG) emissions 
+are estimated at 41.1 MT CO2e as of 2020 representing less than 0.03 percent of total global 
+emissions (Based on the BUR 1 modelling). Agriculture, Forestry, and other Land use (AFOLU) 
+contribute to over 92 percent of the country’s emissions while the energy sector, waste and IPPU 
+contribute 4 percent, 3 percent, respectively as shown in Figure 4.25.
+=== PAGE 68 ===
+55
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Figure 4.24 Total GHG emission trends in Gg CO2eq
+Figure 4.25 National Emissions shares by sectors
+Source: Somalia’s First Biennial Update Report (BUR), MOECC
+Source: Somalia’s First Biennial Update Report (BUR), MOECC
+=== PAGE 69 ===
+56
+The Federal Republic of Somalia
+National Bureau of Statistics
+CHAPTER FIVE
+GOVERNANCE STATISTICS
+=== PAGE 70 ===
+57
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+5.0        Governance statistics 
+Governance statistics play a crucial role in fostering inclusive, transparent, and accountable 
+connections between the government and its citizens in Somalia. Governance issues are 
+embedded in the Somalia National Development Plan (NDP-9) and in the measurement of 
+progress towards achieving the set targets of national development priorities Specifically, under 
+Pillar One Inclusive and Accountable Politics and Pillar two Security and Rule of Law.
+In Somalia, the constitution promotes gender equality and mandates women’s participation in 
+leadership, with the NDP-9 aiming to increase their roles. Despite a 30% quota for women in 
+parliament, challenges persist in achieving effective participation and influence. In the 2022 
+election, only 19% of women were elected to the House of the People, highlighting ongoing 
+obstacles in meaningful representation and impact on gender-responsive policies.
+Table 5.1 provides information on the representation of women in the House of the People and 
+the Upper House Senate. In 2016, out of the 275 members elected to the Lower House, there 
+were 67 women MPs, representing 24 percent of the total. However, in 2022, the number of 
+women MPs in the House of the People decreased to 54, accounting for 20 percent of the total 
+MPs. This indicates a decline of 4 percent in the proportion of women elected to the House 
+of the People from 2016. In the Upper House, the representation of women in 2016 was 24 
+percent, which slightly increased to 26 percent in the 2022 term, reflecting a 2 percent increase 
+from 2016. The average representation of women between the Upper House and Lower House 
+is 6 percent higher in the upper house.
+5.1       Women Representation
+Sex 
+Lower House 
+Upper House 
+2016 
+2022 
+2016 
+2022 
+Men 
+208 
+221 
+41 
+40 
+Women 
+67 
+54 
+13 
+14 
+Percentage of women 
+24% 
+20% 
+24% 
+26% 
+Total 
+275 
+275 
+54 
+54 
+ 
+Source: Inter-Parliamentary Union 
+
+
+Table 5.1 Percentage of Women Representation in the Lower House and Upper House (Bi­
+cameral)
+=== PAGE 71 ===
+58
+The Federal Republic of Somalia
+National Bureau of Statistics
+The table 5.2 presents the seats of the Upper House senates and Lower House member of 
+parliaments by constituency. The senates were distributed as follows: Puntland and Somaliland 
+have been given more seats than the other administrations, with 11 senate members each and 
+with a 27 percent representation of women. 
+Four regional administrations Hirshabelle, Galmudug, Southwest and Jubaland, were given 
+8 senate members each and at 25 percent of women. There were no upper house seats for 
+Banadir region since Mogadishu’s status remains a key outstanding issue in Somalia’s political 
+settlement. The distribution of parliament members in the Lower House was uneven among the 
+constituencies. 
+The Southwest region had the highest number with 69 MPs, followed by Somaliland with 46 
+MPs, Jubaland with 43 MPs, and both Puntland and Galmudug with 37 MPs each. The Banadir 
+Region had the lowest representation with only 5 MPs. Regarding women’s representation, 
+Somaliland had the highest percentage at 28 percent, followed by Galmudug at 24 percent. The 
+constituency with the lowest women’s representation was Hirshabelle, with only 8% of the 38 
+MPs being women.
+Table 5.3 presented below illustrates the percentage of women in the Committees of both the 
+Upper House and Lower House. In the Lower House Committees, male members dominate 
+with 83%, while women represent only 17%. Additionally, 75% of the Chairpersons in the 
+Lower House are male. Notably, there is no female representation in the Defense Committee of 
+the Lower House. Moving to the Upper House, male members also dominate with 73%, while 
+women represent 27% of the Committees. 
+However, the Chairpersons of the four assessed Committees in the Upper House are evenly split 
+at 50% each in terms of gender. It is worth mentioning that the Defense Committee in the Upper 
+House is exclusively male dominated. Similarly, both the Upper House and Lower House share 
+the absence of female representation in their respective Defense Committees.
+ 
+Constituency 
+Member of 
+Parliaments 
+% women Lower House 
+Upper House 
+Senates 
+% women Upper House 
+1 
+Banadir Region  
+5 
+20% 
+- 
+- 
+2 
+Somaliland 
+46 
+28% 
+11 
+27% 
+3 
+Puntland 
+37 
+16% 
+11 
+27% 
+4 
+Jubaland 
+43 
+19% 
+8 
+25% 
+5 
+Galmudug 
+37 
+24% 
+8 
+25% 
+6 
+Southwest 
+69 
+19% 
+8 
+25% 
+7 
+Hirshabelle 
+38 
+8% 
+8 
+25% 
+Total 
+275 
+ 
+54 
+ 
+ 
+Source: Somali Parliament (The House of the People) 
+Table 5.2 Percentage of Women in Lower House & Upper House Seats by Constituency
+=== PAGE 72 ===
+59
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Table 5.4 displays data on the composition of Cabinet Ministries in 2017 and 2022, detailing the 
+number of men, women, and the total number of members. 
+In 2017, there were 21 men and 6 women in the Cabinet Ministries, totaling 27 members while 
+in 2022, the number of men in the Cabinet Ministries increased to 23, while the number of 
+women decreased to 3, resulting in a total of 26 members.
+The percentage change shows that the number of men in the Cabinet Ministries increased by 
+approximately 9.52 percent from 2017 to 2022.Conversely, the number of women decreased by 
+50.00 percent over the same period. Overall, there was a slight decrease of about 3.70 percent 
+in the total number of members in the Cabinet Ministries from 2017 to 2022.
+  6) https://www.qaranimo.com/2017/03/21/liiska-golaha-wasiirada-rw-khayre-iyo-beelaha-ay-kasoo-jeedaan/
+Table 5.3 Lower House and Upper House Permanent Committee by Sex and Chair­
+person in 2023
+Table 5. 4 Women Percentage in the Cabinet Position
+SN 
+Lower House Committee 
+Number of Parliaments 
+Chairperson 
+%Women 
+Male 
+Female 
+Total 
+ 
+ 
+1 
+Foreign Affairs Committee 
+16 
+3 
+19 
+Male 
+16 
+2 
+Defence Committee 
+13 
+0 
+13 
+Male 
+0 
+3 
+Finance Committee 
+20 
+1 
+21 
+Male 
+5 
+4 
+Human Rights and Gender Equality Committee 
+4 
+7 
+11 
+Female 
+64 
+Total 
+53 
+11 
+64 
+75% 
+17% 
+SN 
+Upper House Committee 
+Number of Parliaments 
+Chairperson 
+%Women 
+Male 
+Female 
+Total 
+ 
+ 
+1 
+Foreign Affairs Committee 
+3 
+2 
+5 
+Female 
+40% 
+2 
+Defence Committee 
+5 
+0 
+5 
+Male 
+0% 
+3 
+Finance Committee 
+5 
+2 
+7 
+Male 
+29% 
+4 
+Human Rights and Gender Equality Committee 
+3 
+2 
+5 
+Female 
+40% 
+Total 
+16 
+6 
+22 
+50% 
+27% 
+ 
+Source: Somali Parliament (The House of the People) 
+Cabinet Ministries  
+2017 
+Year 2022 
+Men 
+21 
+23 
+Women 
+6 
+3 
+Percentage of women 
+22.2% 
+11.54% 
+Total 
+27 
+26
+=== PAGE 73 ===
+60
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 5.5 presents the percentage of women in various positions within the Courts and the Office 
+of the Attorney General (AGO). It indicates that there are no female judges at both the Federal 
+and Federal Member States (FMS) levels. However, within the AGOs, there is a representation 
+of women in the roles of prosecutors and clerks. The percentage of women prosecutors in the 
+AGOs is 23%, and for clerk positions, it is 26%. It is worth noting that the Attorney General 
+of the Federal Government of Somalia has implemented an “Affirmative Action Policy” to 
+encourage and increase the number of female prosecutors in the AGO office. This policy aims 
+to promote gender equality and participation in the legal system.
+Table 5. 5 Proportions of Women in the Judiciary Positions in National Institutions by Sex 
+and States
+Judiciary 
+Banadir 
+Puntland 
+Jubaland 
+Southwest 
+Galmudug 
+Hirshabelle 
+Total 
+%Percentage of women 
+Courts 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+ 
+ 
+Judges 
+68 
+74 
+40 
+57 
+31 
+40 
+310 
+0% 
+Registrars 
+88 
+40 
+20 
+73 
+18 
+0 
+239 
+N/A 
+Office Of the 
+Attorney General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prosecutors 
+21 
+7 
+13 
+6 
+6 
+0 
+21 
+6 
+4 
+0 
+3 
+2 
+89 
+23% 
+Clerks  
+49 
+20 
+7 
+1 
+1 
+0 
+7 
+1 
+2 
+1 
+0 
+0 
+89 
+26% 
+ 
+Source: Office of the Attorney General (Federal) and Courts
+=== PAGE 74 ===
+61
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+5.2     	
+Government Civil Servants  
+The Federal Government of Somalia civil servant workforce has undergone fluctuations in size 
+and composition over the past 15 years.  Overall, the total number of civil servants is 5739 of 
+whom only 26 percent are females.  Analysis of data from 2006 to 2022 shows the total number 
+of permanent civil servants has varied year to year, with upticks in hiring in some years, as 
+shown in Table 5.6.
+Table 5.6 Total permanent civil servants between 2006-2022
+Table 5.7 Government Temporary Staff 2022
+ears 
+Male 
+Female 
+ 
+Male percent 
+Female percent 
+022 
+135 
+60 
+195 
+69.2 
+30.8 
+021 
+180 
+76 
+256 
+70.3 
+29.7 
+020 
+130 
+26 
+156 
+83.3 
+16.7 
+019 
+158 
+90 
+248 
+63.7 
+36.3 
+018 
+188 
+77 
+265 
+70.9 
+29.1 
+017 
+219 
+78 
+297 
+73.7 
+26.3 
+016 
+552 
+158 
+710 
+77.7 
+22.3 
+015 
+341 
+127 
+468 
+72.9 
+27.1 
+014 
+709 
+216 
+925 
+76.6 
+23.4 
+013 
+973 
+413 
+1386 
+70.2 
+29.8 
+012 
+195 
+57 
+252 
+77.4 
+22.6 
+011 
+157 
+62 
+219 
+71.7 
+28.3 
+010 
+102 
+16 
+118 
+86.4 
+13.6 
+009 
+120 
+29 
+149 
+80.5 
+19.5 
+008 
+8 
+2 
+10 
+80 
+20 
+007 
+81 
+4 
+85 
+95.3 
+4.7 
+006 
+0 
+0 
+0 
+0 
+0 
+otal 
+4248 
+1491 
+5739 
+74.0 
+26.0 
+ce: National Civil Service Commission 2022 
+Type of Employee 
+Male 
+Female 
+Total 
+Temporary Staff 
+1144 
+364 
+1508 
+Federal Government School Teachers 
+627 
+308 
+935 
+Female medical staff 
+0 
+222 
+222 
+Total 
+1771 
+894 
+2665 
+Source: National Civil Service Commission 2022
+=== PAGE 75 ===
+62
+The Federal Republic of Somalia
+National Bureau of Statistics
+Figure 5.1 Permanent civil servants by grade, 2006-2022
+Figure 5.2 Diplomatic Staff Working Outside of the Country 2022
+Source: National Civil Service Commission 2022
+Source: National Civil Service Commission 2022
+=== PAGE 76 ===
+63
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+5.3     Access to justice 
+Access to justice involves individuals’ ability to seek fair treatment through formal or informal 
+justice systems based on human rights principles. It is essential for upholding the rule of law, 
+empowering individuals to assert their rights, challenge discrimination, and hold leaders 
+accountable. Justice systems must be impartial and non-discriminatory, with states responsible 
+for providing equitable and transparent justice services.
+In Somalia, justice operates through a three-tiered system inherited from the Siyad Barre era, 
+comprising the Court of First Instance, Appeals Court, and State Supreme Court. While states 
+like Puntland have advanced their judicial systems, others, such as Galmudug and Hirshabelle, 
+face challenges in formalizing theirs. Each Federal Member State (FMS) has its constitution 
+and laws, with courts often applying a blend of British Common Law, Italian Continental Law, 
+Shariah, and customary Xeer, leading to diverse legal practices across regions.
+Figure 5.3 illustrates the annual increase of access to justice in the AGO (Attorney General’s 
+Office) within the Benadir Regional Administration (BRA) over the past three years. Notably, 
+in 2022, there was a significant increase in the percentage of cases compared to the preceding 
+years, 2020 and 2021. This rise indicates an improvement in the population’s access to justice 
+within the BRA.
+Figure 5.3 Permanent civil servants by grade, 2006-2022
+Source: National Civil Service Commission 2022
+=== PAGE 77 ===
+64
+The Federal Republic of Somalia
+National Bureau of Statistics
+5.4      Conflicts Related to Death
+Indicator 16.3.1:  Proportion of victims of violence in the previous 12 months who reported 
+their victimization to competent authorities or other officially recognized conflict resolution 
+mechanisms.  Essentially, this indicator seeks to assess the operational effectiveness of Justice 
+institutions responsible for upholding the rule of law. Its goal is to analyze and evaluate how 
+well these institutions function in practice. The administrative data recorded by AGOs, and 
+Courts are not disaggregated nor based on the people who sought service, but rather the number 
+of cased filled. Due to lack of available data on victims of violence this indicator has been 
+contextualized as the number of cases reported to the Courts and AGOs of five Federal Member 
+States and Banadir region in the year 2022. 
+Therefore, it is not clear how many victims were involved in the 6,114 cases reported by the 
+AGOs and 9,342 cases filed in the Courts. (Table 5.6)
+The annual report of the Prosecutors Conference published in 2022 stated that 6,114 occurrences 
+of criminal cases were reported to the Federal Attorney General and five Federal Member States 
+Attorneys across the country excluding Somaliland. According to the table 3.1 below, 68 percent 
+were Convicted or Acquitted. Almost 18 percent of these criminal cases were pending at the 
+time of the report. 14 percent were disposed by the Attorneys Generals. 
+Overall, 82 percent of the criminal case were resolved either convicted or disposed of by AGO. 
+The highest number at 41 percent of the total cases were filed in Puntland State followed by 
+Banadir region at 27 percent while the least cases were filed in Hirshabelle 5% approximately.
+States and BRA 
+Filed cases1 
+Pending2 
+Convicted/Acquitted 
+Disposed of by AGO3 
+BRA 
+1,678 
+747 
+709 
+222 
+Puntland 
+2,518 
+65 
+2,385 
+68 
+Jubaland 
+414 
+65 
+252 
+97 
+Galmudug 
+467 
+70 
+274 
+123 
+Southwest 
+744 
+110 
+463 
+171 
+HIrshabelle 
+293 
+45 
+85 
+163 
+Total 
+6,114 
+1,102 
+4,168 
+844 
+Table 5. 8 Crime Reports Forwarded to the AGO by States and BRA, 2022
+Source: office of the Attorney General
+=== PAGE 78 ===
+65
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+The table 5.7 depicts the total number of conflict related death in the year 2010 to 2022. It 
+highlights that state-based violence is high compared to non-state violence and one side violence. 
+When comparing the years per 100,000 population it shows 2012 was the highest year at 24 per 
+100,00 population followed by 2010 at 22.6 and 2022 at 17.7, the lowest year of the conflict 
+related death is 2013 at 8.1 per 100.000 populations. In 2022, the level of violence increased, 
+reaching 3,100, While both one-sided violence and non-state conflict showed low levels of 
+intensity. The increase in fatalities and political violence incidents in 2022 corresponded with 
+government operations to fight Al-Shabab.
+Table 5.9 displays the data for the number of prosecutors and filed cases in the Federal Member 
+States (FMS) and BRA (Benadir Regional Administration) in the year 2022. Puntland state had 
+the highest caseload, with 19 prosecutors handling 2,518 cases, resulting in an average of 133 
+cases per prosecutor. Galmudug, on the other hand, had only 4 prosecutors handling 467 cases, 
+resulting in an average of 117 cases per prosecutor. Southwest had the lowest caseload, with an 
+average of 28 cases per prosecutor.
+Table 5.8 presents the percentage of women serving as Judges and Registrars in the Courts, as 
+well as Prosecutors and Clerks in the Office of the Attorney General. It reveals that there are 
+no female judges in the Courts at both the Federal and Federal Member States (FMS) levels. 
+However, in the Attorney General’s Offices (AGOs), 23% of prosecutors and 26% of clerks 
+are women. The Attorney General of the Federal Government of Somalia has implemented 
+an “Affirmative Action Policy” to promote and enhance female representation by encouraging 
+more women to become prosecutors in the AGO office.
+Conflict Related Death 
+2010 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+2019 
+2020 
+2021 
+2022 
+State-Based Violence 
+2,150 
+1,937 
+1,625 
+913 
+1,111 
+1,201 
+1,943 
+1,918 
+2,213 
+1,946 
+1,945 
+2,174 
+3,040 
+Non-State Violence 
+554 
+109 
+257 
+0 
+9 
+2 
+41 
+49 
+160 
+172 
+82 
+3 
+4 
+One-Sided Violence 
+18 
+72 
+108 
+132 
+127 
+51 
+89 
+104 
+134 
+101 
+93 
+92 
+71 
+Total Number of Death 
+2,722 
+2,118 
+2,990 
+1,045 
+1,247 
+1,254 
+2,073 
+2,071 
+2,507 
+2,219 
+2,120 
+2,269 
+3,115 
+Per 100,000 
+22.6 
+17.3 
+24.0 
+8.1 
+9.3 
+9.1 
+14.5 
+13.9 
+16.2 
+13.8 
+12.8 
+13.2 
+17.7 
+Source: UCDP (Uppsala conflict data program) 
+ 
+ 
+Table 5.9 Conflict Related Death Per100,000 Population
+Table 5. 10 Proportions of Women in the Judiciary Positions in National Institutions by Sex 
+and States
+Judiciary 
+Banadir 
+Puntland 
+Jubaland 
+Southwest 
+Galmudug 
+Hirshabelle 
+Total 
+%Percentage of 
+women 
+Courts 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+ 
+ 
+Judges 
+68 
+74 
+40 
+57 
+31 
+40 
+310 
+0% 
+Registrars 
+88 
+40 
+20 
+73 
+18 
+0 
+239 
+N/A 
+Office Of the Attorney 
+General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prosecutors 
+21 
+7 
+13 
+6 
+6 
+0 
+21 
+6 
+4 
+0 
+3 
+2 
+89 
+23% 
+Clerks 
+49 
+20 
+7 
+1 
+1 
+0 
+7 
+1 
+2 
+1 
+0 
+0 
+89 
+26% 
+Source: Office of the Attorney General (Federal)
+=== PAGE 79 ===
+66
+The Federal Republic of Somalia
+National Bureau of Statistics
+Table 5.10 presents data on the cases processed by Federal and FMS (Federal Member States) 
+Courts in 2022. The Courts of Somalia, excluding Puntland, received a total of 9,342 cases. Out 
+of these cases, 82% were completed or resolved, while 18% were still pending in the Courts.
+In terms of distribution by states, Benadir had the highest number of cases reported to the 
+Courts, representing 32% of the total cases. Hirshabelle state followed with 23% of the cases. 
+On the other hand, the Federal Supreme Court had the lowest proportion of cases, accounting 
+for only 1%.
+Table 5.11 below provides information on the number and percentage of cases reported to 
+Alternative Dispute Resolutions (ADR), which serves as an informal justice system in Somalia, 
+categorized by the Federal Member States (FMS) and BRA (Benadir Regional Administration). 
+The data reveals that Puntland and Jubaland had the highest percentages, accounting for 53% 
+and 13% of the cases, respectively. Galmudug state constituted 11% of the reported ADR cases, 
+while Hirshabelle represented only 4%.
+Table 5.11 Number of Prosecutors Per caseload by Sex and States in 2022
+Table 5. 12 Number of Cases Reported to the Courts by States and BRA, 2022
+Table 5. 13 Number of Cases Reported to ADR by FMS & BRA in July 2022-to June 2023
+States and BRA 
+Filed cases 
+Prosecutors 
+Total Prosecutors 
+Per caseload per prosecutors 
+Male 
+Female 
+BRA 
+1,678 
+21 
+7 
+28 
+60 
+Puntland 
+2,518 
+13 
+6 
+19 
+133 
+Jubaland 
+414 
+6 
+0 
+6 
+69 
+Galmudug 
+467 
+4 
+0 
+4 
+117 
+Southwest 
+744 
+21 
+6 
+27 
+28 
+HIrshabelle 
+293 
+3 
+2 
+5 
+59 
+Total 
+6114 
+68 
+21 
+89 
+ 
+Source: Office of the Attorney General (Federal) 
+ 
+Filed cases 
+Pending 
+Completed 
+Supreme Court (federal) 
+97 
+56 
+41 
+BRA 
+2,945 
+1,083 
+1,862 
+Puntland 
+N/A 
+N/A 
+N/A 
+Jubaland 
+1,167 
+103 
+1,064 
+Galmudug 
+1,907 
+76 
+1,831 
+Southwest 
+1,050 
+230 
+820 
+HIrshabelle 
+2,176 
+169 
+2,007 
+Total 
+9,342 
+1,717 
+7,625 
+Source: Judiciary Annual Conference Book, 2022 
+States and BRA 
+Federal & FMS ADR 
+Number of Cases Filled 
+% of Cases Filled 
+Banadir  
+432 
+10 
+Puntland 
+2,292 
+53 
+Jubaland 
+557 
+13 
+Galmudug 
+473 
+11 
+Southwest 
+432 
+10 
+HIrshabelle 
+172 
+4 
+Total 
+4,358 
+100 
+ 
+Source: Ministry of Justice and Constitutional Affairs
+=== PAGE 80 ===
+67
+STATISTICAL ABSTRACT 
+1st Edition, 2024
+Federal Republic of Somalia
+National Bureau of Statistics (NBS)

@@ -1,0 +1,199 @@
+Independent fact-check, 2026-09-24. Claims C-0230 to C-0266 and D-0006 to D-0016 (diesel generation cost, plant benchmarks, NTP fish processing, IPCC NCV and calorie definition).
+Checker: general-purpose agent following .claude/agents/fact-checker.md (read-only).
+
+C-0230: PASS
+  Source: S-026 p. 228
+  Reason: Section 5.5.2.3 (Security of Supply, Benefit B6): "The Value of lost load to monetize the expected energy not served is determined at 400 $/MWh, considered to be the full generation cost of an independent diesel gen-set." The statement presents it as the plan's parameter (basis estimate), not a measured tariff. The plan reuses 400 $/MWh on p. 237. Federal scope, USD. "About 40 US cents per kWh" is an exact unit conversion (400 $/MWh = 0.40 $/kWh); the verifier may need it declared as a display form.
+
+C-0231: PASS
+  Source: S-130 p. 1
+  Reason: ESRS: "the total project cost is $80 million with IFC's providing Bakhresa with a loan of $25 million". SII: "Establish a greenfield 750 tons capacity per day wheat mill ... at a cost of US$80 million", so IFC's own wording supports "greenfield". Note: the same records say Bakhresa bought a disused flour mill with 30,000 MT of existing, working silos and would "entirely refurbish" it (see D-0006).
+
+C-0232: PASS
+  Source: S-130 p. 1
+  Reason: "The facility will have a milling capacity of 750 tons per day"; SII also "750 tpd ... wheat milling line". Design capacity; period (2014 disclosure) and scope (Durban, South Africa) correct.
+
+C-0233: PASS
+  Source: S-130 p. 1
+  Reason: "The facility will employ approximately 200 permanent workers and of these only 3-4 would be expatriate staff". Basis projection; statement says "expected".
+
+C-0234: PASS
+  Source: S-131 p. 1
+  Reason: "The total project cost is US$19.2 million", repeated in the SII blended-finance section and both project descriptions; covers milling expansion 150 to 450 MT/day plus storage 8,400 to 28,400 MT, as the measure says.
+
+C-0235: PASS
+  Source: S-131 p. 1
+  Reason: Quote matches SII and ESRS descriptions; ESRS adds the new unit has "two lines capable of producing 300MT daily", consistent. Planned status handled acceptably.
+
+C-0236: PASS
+  Source: S-131 p. 1
+  Reason: "At the time of this appraisal, SLFM employs 88 staff in its flour milling operations comprising of 90% male and 10% female workers." Actual at appraisal (site visit February 2024). EPC contract workers (17), third-party security (16) and up to 25 casual labourers are counted separately and correctly excluded.
+
+C-0237: QUERY
+  Source: S-132 p. 1
+  Reason: SII: "Total project cost is estimated at $15 million" supports the quote, but the ESRS project description in the same source says "The total project cost is USD $13.35m, including working capital" (US$6.5m IFC, US$3.95m sponsor equity, US$2.9m bank working capital). The two IFC figures disagree and are not in data/conflicts.yaml. A reviewer should decide which to use or report both, log the conflict, and consider whether an extra ~US$1m GAFSP component explains the gap. Affects D-0010.
+
+C-0238: PASS
+  Source: S-132 p. 1
+  Reason: SII ("handling capacity of 240,000 liters of milk per day") and ESRS both state 240,000 litres a day; design capacity of the greenfield powdered milk plant in Mbarara, Uganda.
+
+C-0239: FAIL
+  Source: S-132 p. 1
+  Reason: The quote refers to the construction contractor, not Pearl Dairy. Full passage: "Core construction services are provided by Jan Engineers which has a HR Policy according to the construction manager. They have 30 permanent employees and they also hire up to 230 daily workers." Pearl Dairy's own workforce is given earlier in the PS2 section: "Pearl Dairy actually hires 15 foreigners (mostly Indians and Kenyans), and 45 local workers ... During peak of operations, it is expected that the number of workers will increase by about 50%. Daily or casual workers (50 to 75 daily workers) will also be hired and will be contracted by a third party".
+  Correction: Reword to cover the construction contractor, or replace with Pearl Dairy's own figures (60 workers on written contracts before commissioning, actual; about 50% more at peak plus 50 to 75 third-party daily workers, projection).
+
+C-0240: PASS
+  Source: S-133 p. 1
+  Reason: "The total project cost is estimated at US$7.5 million." Finishing and packaging plant turning imported palm-oil-based soap noodles into bars, Ethiopia (2014 disclosure).
+
+C-0241: PASS
+  Source: S-133 p. 1
+  Reason: "At full production, the project will have a staff compliment of about 100 employees." Repeated in PS2. Basis projection; statement says "expected".
+
+C-0242: PASS
+  Source: S-128 p. 1
+  Reason: "Zak acquired the soap assets from Gullele and expanded its capacity from 16,000 mt per annum to 64,000 mt per annum". Commissioned early 2020; laundry soap and detergent from imported soap noodles. MIGA disclosure 2021.
+
+C-0243: PASS
+  Source: S-128 p. 1
+  Reason: "ZAK has approximately 291 permanent employees and 81 outsourced workers" (actual in the 2021 disclosure). The source also says about 15% of ZAK's workforce is outsourced.
+
+C-0244: PASS
+  Source: S-128 p. 1
+  Reason: "HCFM currently has 184 permanent employees and 126 outsourced workers at the HCFM2 site." Actual. HCFM2 is a 75 t/d soya and sunflower refinery.
+
+C-0245: PASS
+  Source: S-134 p. 1
+  Reason: SII: "The total project cost is expected to be approximately US$30 million" for expanding refinery capacity to 950 TPD and buying logistics assets. Caveat: the ESRS brackets the figure ("US$[30] million") and describes a phased expansion from 120 to 950 t/d with phase 1 (to 220 t/d) done in FY2020, so US$30m does not map to one capacity increment.
+
+C-0246: QUERY
+  Source: S-135 p. 1
+  Reason: Quote "The project cost is estimated at US$12.26 million" is present, but the same SII record's blended-finance paragraph refers to "the total project cost of $10 million". A reviewer needs to settle which applies and log the discrepancy. The new 31,000 sqm factory is built by a property developer and leased to DTRT (build-to-suit), so the project cost probably excludes the building. Matters for D-0013.
+
+C-0247: PASS
+  Source: S-135 p. 1
+  Reason: "establishment of a new 31,000 sqm upgraded garment factory area to increase capacity from 50 sewing lines to 107 sewing lines by 2026". Basis target, period 2026 correct.
+
+C-0248: QUERY
+  Source: S-135 p. 1
+  Reason: ESRS: expansion "is expected to create more than 3,000 new jobs in addition to the current workforce of c.3,400 workers"; SII development-impact section: "the direct creation of 2,900 formal manufacturing jobs". The two IFC records disagree and this is not logged. Reviewer to choose or report both and log the conflict. Affects D-0013.
+
+C-0249: PASS
+  Source: S-136 p. 1
+  Reason: "The project cost is estimated at US$20 million" (US$15m IFC A loan plus US$5m equity) for a new CMT factory in the Athi River EPZ. The ESRS says the loan also funds rooftop solar and a textile effluent treatment plant.
+
+C-0250: PASS
+  Source: S-136 p. 1
+  Reason: "the direct creation of 3,700 formal manufacturing jobs, mostly for women". Expected impact at appraisal; basis projection and "expected" correct.
+
+C-0251: PASS
+  Source: S-137 p. 1
+  Reason: "capacity expansion of baby diapers and sanitary pads factories with a total project cost of US$155 million". Funds new lines in existing factories in Ghana, Kenya, Tanzania and Zambia, so "several African countries" is correct.
+
+C-0252: QUERY
+  Source: S-138 p. 1
+  Reason: Quote accurate ("At appraisal, Luna operations had approximately 700 employees ... Of these, 200 employees work at the slaughterhouse in Modjo"). Period "2019" is doubtful: the ESRS cites an ESIA from April 2022, land acquisition in 2022, OHS incidents "In 2023" and fleet fuel use "in 2023", so the figure probably dates from about 2023 or 2024. Reviewer to confirm the ESRS disclosure date and correct the period.
+
+C-0253: PASS
+  Source: S-125 p. 15
+  Reason: Table 3, Isiolo County abattoir: "Proposed capacity: 1000 goats and sheep, 50 camels and 200 cattle per day." p. 14 places Isiolo among abattoirs built "to promote local and export market", supporting "export abattoir"; "designed" is a fair paraphrase of "proposed capacity". Period 2019 is the report year; statement says the cost year is not stated.
+
+C-0254: PASS
+  Source: S-125 p. 15
+  Reason: "Estimated facility cost: Funded through the ministry of Agriculture under the economic Stimulus Programme and the African Development Bank (AfDB) at a cost of Kshs. 850 million". Currency KSh and estimate basis correct.
+
+C-0255: PASS
+  Source: S-125 p. 14
+  Reason: Table 3, Marsabit: "Proposed capacity: Kill and fabricate 700 animal units per week ... Estimated facility cost: Ksh 233 million." Matches on proposed status, currency and estimate basis.
+
+C-0256: PASS
+  Source: S-129 p. 1
+  Reason: "The plant cost an estimated US$30 million and was developed by Robust International". Attributed to trade media (Tier 4). Mozambique; inaugurated 13 November 2025.
+
+C-0257: PASS
+  Source: S-129 p. 1
+  Reason: "The installation can process 20,000 tonnes of sesame seeds per year." Attributed to trade media; scope and period correct.
+
+C-0258: QUERY
+  Source: S-126 p. 3
+  Reason: Stored text "More than 6000 workers are involved in these sector." under "Profile of Tanning Sector" matches. Source registered as OCR; page rendering failed (pdftoppm not installed), so the slide image could not be viewed. ocr_pages lists only page 19, so page 3 is probably native text, but unconfirmed. Year 2018 is the inferred publication date, not a stated data year.
+
+C-0259: QUERY
+  Source: S-126 p. 3
+  Reason: Stored text "In average per year 20 million skins and 2 million hides are consumed" matches; consistent with p. 2 (12 million sheep skins plus 8 million goat skins available a year). Slide image not viewable, as for C-0258. No data year on the slide; 2018 is inferred.
+
+C-0260: PASS
+  Source: S-001 p. 144
+  Reason: EPP 4: "Down processing projects are also private-led initiatives costing approximately 98.8 million ... The project impact is expected to bring additional annual production of 146,732 (MT) with additional job creation of 5,630." Statement correctly says currency not stated on this page; basis projection; NTP 2025-2029; Federal scope.
+
+C-0261: PASS
+  Source: S-001 p. 144
+  Reason: Same passage gives "additional job creation of 5,630"; expected (projection) within the NTP period.
+
+C-0262: PASS
+  Source: S-002 p. 12
+  Reason: "Public-private partnerships will drive value-added processing and fish oil production, contributing $98.8M in investments and generating 5,630 additional jobs." Attributed to the NTP summary; $ means USD in this Federal document; planned investment (projection). The full NTP (S-001) calls these "private-led initiatives", not PPPs: a framing difference, not a numeric conflict.
+
+C-0263: PASS
+  Source: S-139 p. 18
+  Reason: Table 1.2 default NCVs: Gas/Diesel Oil 43.0 TJ/Gg (95% interval 41.4 to 43.3). TJ/Gg equals MJ/kg. IPCC 2006 default, correctly described.
+
+C-0264: PASS
+  Source: S-141 p. 57
+  Reason: Para 4.19: the IT calorie "was later defined exactly as 4.1868 joules. This is the definition of the calorie used in the conversion tables in the annex to this chapter." Page 57 is not in ocr_pages (only page 1), so native text.
+
+C-0265: PASS
+  Source: S-131 p. 1
+  Reason: "milling capacity from 150 metric tons (MT) of wheat per day to 450 MT". 150 MT/day is pre-expansion capacity at appraisal (actual).
+
+C-0266: FAIL
+  Source: S-132 p. 1
+  Reason: Same error as C-0239: "They have 30 permanent employees" refers to Jan Engineers, the construction contractor. Pearl Dairy itself employed 15 expatriate and 45 local workers (60 in total) on written contracts before commissioning.
+  Correction: "Comparator (Uganda, 2013): before commissioning, Pearl Dairy employed 60 workers on written contracts (15 expatriate, 45 local)", basis actual, quoting the PS2 passage; or restate as the contractor's workforce.
+
+D-0006: QUERY
+  Source: C-0231 / C-0232
+  Reason: Arithmetic right (80,000,000 / 750 = 106,666.7). But the statement presents a greenfield capital cost per unit of daily capacity, while the IFC records say the project reused a bought, disused mill building with 30,000 MT of existing silos and "No major structural work is required". A true greenfield mill would probably cost more per tonne a day, and the US$80m may include the premises. Drop "greenfield" or add the caveat.
+
+D-0007: PASS
+  Source: C-0233 / C-0232
+  Reason: 200 / 750 x 100 = 26.67 -> 26.7. Same plant's design capacity; "planned" matches the projection basis of C-0233.
+
+D-0008: PASS
+  Source: C-0234 / C-0235 / C-0265
+  Reason: 19,200,000 / (450 - 150) = 64,000. Denominator is added capacity, correct for an expansion cost; statement notes the added storage (8,400 to 28,400 MT).
+
+D-0009: PASS
+  Source: C-0236 / C-0265
+  Reason: 88 / 150 x 100 = 58.67 -> 58.7. Both pre-expansion actuals. Context: source notes "irregular milling activities" in 2023 and that SLFM also buys processed flour, so utilisation was below capacity.
+
+D-0010: QUERY
+  Source: C-0237 / C-0238
+  Reason: Arithmetic right (15,000,000 / 240,000 = 62.5), but C-0237 conflicts with the ESRS total of US$13.35m (about US$55.6 per litre a day). Wait until the conflict is resolved.
+
+D-0011: FAIL
+  Source: C-0266 / C-0239 / C-0238
+  Reason: Both workforce inputs (30 permanent, 230 daily) belong to the construction contractor, not the dairy. Arithmetic (260 / 240,000 x 1,000 = 1.08) correct but does not describe Pearl Dairy's staffing.
+  Correction: Rebuild from Pearl Dairy's own figures: 60 contracted workers before commissioning (about 0.25 per 1,000 L/day); at peak about 90 contracted plus 50 to 75 daily workers expected (about 0.58 to 0.69 per 1,000 L/day, a projection).
+
+D-0012: PASS
+  Source: C-0243 / C-0242
+  Reason: 291 / 64,000 x 1,000 = 4.55 -> 4.5. Same 2021 MIGA disclosure, same plant. ZAK finishes imported soap noodles and also makes detergent; utilisation not stated.
+
+D-0013: QUERY
+  Source: C-0246 / C-0248
+  Reason: Arithmetic right (12,260,000 / 3,000 = 4,086.7), but both inputs are unresolved (US$12.26m against US$10m; more than 3,000 against 2,900 direct jobs). "More than 3,000" is a lower bound, so the ratio is an upper bound; 2,900 direct jobs gives about US$4,228. The building is leased, so the cost probably excludes building capex. Do not present US$4,087 as like-for-like until resolved.
+
+D-0014: PASS
+  Source: C-0249 / C-0250
+  Reason: 20,000,000 / 3,700 = 5,405.4 -> 5,405. Same SII record (2024); "expected direct job" matches projection basis. Project cost includes rooftop solar and an effluent treatment plant.
+
+D-0015: PASS
+  Source: C-0256 / C-0257
+  Reason: 30,000,000 / 20,000 = 1,500. Same trade-media article; attributed correctly.
+
+D-0016: QUERY
+  Source: C-0258 / C-0259
+  Reason: Arithmetic right (6,000 / 20 = 300), but both inputs await image confirmation. "More than 6000 workers" is a lower bound, so "about 300" should read "at least 300". The workforce also processes 2 million hides, which the statement acknowledges.
+
+Summary: 35 pass, 3 fail, 10 query.

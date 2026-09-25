@@ -1,0 +1,14 @@
+# Model outputs quoted in the report (registered as M- claims by tools/register_outputs.py; values come from the model).
+- output_key: climate.minigrid.lcoe_usd_per_kwh
+  scenario: base
+  unit: USD per kWh
+  rounding: 3
+  period: '2032'
+  measure: levelised cost of the park solar-plus-storage supply
+  statement: "Levelised cost of electricity from the park solar-plus-storage supply ({scenario} scenario, modelled estimate)."
+- output_key: climate.minigrid.cost_saving.2032
+  scenario: base
+  unit: USD million
+  rounding: 1
+  measure: energy cost saving for park firms against diesel self-generation
+  statement: "Energy cost saving for park firms against diesel self-generation in 2032 ({scenario} scenario, modelled estimate)."

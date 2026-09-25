@@ -1,0 +1,53 @@
+Fact-check verdicts, batch 7 (C-0181 to C-0205), 2026-09-23. Somali legal claims confirmed on page images. Notes: C-0196 law number is legible on the image as 'SHARCI LR.011' (Law No. 011), so the statement's 'illegible' parenthetical should be replaced; C-0197 decree signed by Deputy Prime Minister Mahdi Maxamed Guuleed 'Khadar'; C-0188 wording 'baseline' preferable to 'current'.
+
+C-0181: FAIL
+  Reason: Youth figure is dated 2024 on p. 18 ('from 30.1% in 2024 to 25%'); women's figure has no year. Correction: period '2024' for youth; statement 'The NTP gives youth unemployment as 30.1 percent in 2024 and women's unemployment as 40.8 percent (year not stated).'
+
+C-0182: PASS
+
+C-0183: PASS
+
+C-0184: PASS
+
+C-0185: PASS
+
+C-0186: PASS
+
+C-0187: PASS
+
+C-0188: PASS
+
+C-0189: PASS
+
+C-0190: PASS
+
+C-0191: PASS
+
+C-0192: PASS
+
+C-0193: PASS
+
+C-0194: PASS
+
+C-0195: PASS
+
+C-0196: PASS
+
+C-0197: PASS
+
+C-0198: PASS
+
+C-0199: PASS
+
+C-0200: PASS
+
+C-0201: PASS
+
+C-0202: FAIL
+  Reason: Source does not say FDI went 'mainly' into the four sectors; it says the rise reflected investor interest in them. BoP table sourced to 'MoF, SNBS, and CBS estimates'. Correction: '...which the Central Bank attributes to continued investor interest in telecommunications, financial services, energy and real estate.' Consider basis 'estimate'.
+
+C-0203: PASS
+
+C-0204: PASS
+
+C-0205: PASS

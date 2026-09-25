@@ -1,0 +1,4235 @@
+=== PAGE 1 ===
+Federal Governtment of Somalia
+Ministry of Energy and Water Resources.
+SOMALI ELECTRICITY ACCESS PROJECT
+FINAL REPORT
+=== PAGE 2 ===
+IIENTS
+Foreword by MoEWR
+Foreword by KTH
+Abbreviations
+2
+3
+4
+4.2
+4.3
+5
+Introduction
+Background of the study
+Scope and objectives of the study
+Current status of the electricity access sector in Somalia
+Institutional structure and sector policies
+Status of the existing electricity provision in Somalia
+Potential electrification supply options
+Results of the geospatial electrification analysis
+"Business as usual" - separate mini-grids and stand-alone PV technologies only
+The potential of a national centralized grid electricity network
+Sensitivity analysis
+Concluding remarks
+Reference list
+Appendix A - Geospatial mapping of buildings and population
+Appendix B - Residential electricity demand process
+Appendix C - Productive and social electricity demand process
+Appendix D - Geospatial electrification model
+Appendix E - Dato collection
+Appendix F - Sensitivity analysis of electrification scenarios
+Appendix G - Main scenario results per region
+Appendix H - Potential priority locations
+Appendix I - Spatial Dato Infrastructure
+3
+3
+4
+7
+10
+10
+14
+19
+20
+22
+25
+28
+32
+47
+50
+57
+62
+64
+66
+ESMAP
+ESP
+FGS
+FRS
+FMS
+GDP
+GIS
+GWh
+kWh
+LCoE
+LV
+MG
+MoEWR
+MV
+MWh
+NDP
+OR-VI
+OnSSET
+PMP
+SA
+SDI
+SDG7
+USD
+Wp
+Energy Sector Management Assistance Program
+Energy Service Providers
+Federal Government of Somalia
+Federal Republic of Somalia
+Federal Member States
+Gross Domestic Product
+Geospatial Information System
+Gigawatt hour
+High voltage
+Kilowatt hour
+Levelized cost of electricity
+Low voltage
+Mini-grid
+Ministry of Energy and Water Resources
+Medium voltage
+Megawatt
+Megawatt hour
+Somalia National Development Plon
+Operation and maintenance
+Open Source Spatial Electrification Tool
+Power Moster Plan
+Photovoltaic
+Stand-alone
+Spatial Dato Infrastructure
+Sustainable Development Gool 7
+United States Dollar
+Watt-peak
+!--JII
+=== PAGE 3 ===
+Foreword by MoEWR
+The Ministry of Energy and Water Resources, mandated
+on regulating and governing the Federal Government of
+Somalia's energy sector, is engaged in the development
+of the main policy and legal frameworks necessary for
+the fulfilment of the ongoing sector reform, including the
+Energy Policy and the Electricity Act. Under the above
+function, the Ministry is currently implementing the
+Somalia Electricity Access project (SEAP), supported by
+the World Bonk, which includes the provision of analytic
+work studies for enabling electrification through solar
+powered and hybrid mini grids. Under this component, an
+indicative least-cost geospatial electrification plan was
+prepared by KTH in collaboration with Kartoza and Recon
+to support the work towards universal access to
+electricity in Somalia,
+The accomplishment of this plan is key for promoting and
+facilitating investments into the sector. While the
+aspirations for country-wide access and the national grid
+infrastructure development seemed very noble objective
+to catering for the overall policy objective of
+Electrification and access to affordable and reliable
+energy for all, as stipulated by the Energy policy,
+The Ministry, in collaboration with the private sector and
+the sector stakeholders, is to develop an investment plan
+for the sector with the aim of developing formidable
+energy infrastructure based on the data developed
+under the least-cost geospatial electrification plan.
+The Minister of Energy and Water Resources (MoEWR) of
+the Federal Republic of Somalia stressed the efforts with
+the development partners for the ongoing energy sector
+reform support to go forward to resist and purse,
+This plan is key for promoting and
+facilitating investments into the
+sector.
+iii
+OUR MISSION
+DEVELOPMENT OF
+—ESUSTAINABLE
+SOCIETIES THROUGH
+ROBUSTAND
+TRANSPARENT
+AND
+RESOURCE SYSTEMS
+RESEARCH AND
+—TRAINING.
+.S.iG
+Foreword by KTH
+KTH division of Energy Systems (KTH-dES) is a research division
+at KTH Royal Institute of Technology. The research at KTH-dES is
+based on o brood system perspective, where energy technology,
+innovation, and policy are linked to sustainable development, We
+develop quantitative models for optimizing energy systems and
+develop the basis for strategic decisions on investments, as well
+os policy, Our mission is to support the development of
+sustainable societies through robust ond transparent energy
+and resource systems research and training,
+In collaborating with Kartoza ond Recon, we provided on
+ensemble team with expertise in open source geospatial
+application development and training, electrification planning,
+and in-situ knowledge of the electrification sector in Somalia.
+The result of the collaboration between the project partners, the
+Ministry of Energy and Water Resources, the World Bonk/ESMAP
+and local stakeholders and electrification practitioners in
+Somalia is a least-cost electrification model for Somalia, an SDI
+(Spatial Dota Infrastructure) and on electrification modelling
+platform for visualizing the model results, This platform aims to
+facilitate the critical work taking place to support the meeting of
+the Sustainable Development Goal 7 which seeks to ensure that
+access to electricity is ubiquitous,
+The electrification analysis was led by KTH (Andreas Sahlberg,
+Babak Khavari, Nandi Moksnes and Francesco Fuso-Nerini), the
+SDI and visualization platform was set up by Kartoza (Tim
+Sutton, Irwan Foturrahman, Admire Nyakudya and Charles
+Dixon-paver) and the data collection was led by Recon Energy
+(Aden Abdi and Mohamud Ibrahim Abdullahi). Throughout the
+project, the MoEWR team and the World Bank team hove
+provided invaluable support ond inputs, os hos the federal
+ministries, federal member states and ESPs that have provide
+much of the data,
+KTH does not guarantee the accuracy of the dato included in this
+work. The boundaries, colors, denominations, and other
+information shown on any map in this work do not imply any
+judgment on the port of KTH concerning the legal status of any
+territory or the endorsement or acceptance of such boundaries,
+Nothing herein shall constitute or be considered to be a
+limitation upon or waiver of the privileges and immunities of KTH,
+oll of which are specifically reserved
+iv
+=== PAGE 4 ===
+1 Introduction
+1.1 Background of the study
+Adequate access to reliable electricity and energy is widely regarded as one of the main drivers of
+economic growth, Access to energy in general, and electricity in particular, will therefore be crucial in
+order to address the current challenges faced by Somalia, During recent years, strides hove been token
+towards universal electricity access, but a large share of the population still suffers from limited access
+to energy (this includes electricity as well as other energy sources such as biomass and fossil fuels),
+Many energy suppliers in the country have not been able to l<eep up with the growing energy demand
+during recent decodes. This can be attributed partly to the instabilities plaguing the country, which has
+slowed economic growth and complicated investments [1], The country currently does not have a
+central national power grid. Instead, the private sector supplies around 90% of the power available in
+urban and peri-urban settlements, mostly using mostly diesel-based mini-grid systems of between 500
+I<VA and 5,000 kVA Each mini-grid creates an island network targeting a specific urban center [1],
+Various sources report that approximately one-third of the population in Somalia is currently
+estimated to have access to electricity. According to the 2020 Tracking SDG7 report, electricity access
+stood ot 35% in 2018, (60% in urban areas and 15% in rural areas) [2], Dota collected for the Power
+Master Plan provided an estimate on the number of ESP customers, i.e. households connected to
+mini-grids, Based on surveyed ESPs across 26 locations and extrapolation of access rates to locations
+not surveyed, 606,000 households in Somalia were estimated to be connected in 2018 (28% of
+households in the country), There was a significant difference found between different population
+groups, with urban access significantly higher than for other groups[ An estimated 485,000 of the
+customers were in urban areas, 88,000 in rural areas and 34,000 customers in IDP areas. The nomadic
+population was assumed not to be connected to ESPs,] In addition to electricity supply from
+mini-grids, World Bonk research estimates that 100,000-150,000 off-grid solar products are sold
+annually in the country, However, some of these products are of lower quality which could undermine
+future adoption of off-grid solar products [4],
+1.2 Scope and objectives of the study
+The objective of this study was to provide an indicative least-cost geospatial electrification plan to
+support the work towards universal access to electricity in Somalia, The analysis has been structured
+to reflect the Power Master Plan and the Government's sector priorities for regional and national
+development through 2030 and generate indicative investment financing requirements for the next
+five years (2020-2025) along with approximate requirements through 2030. The geospatial
+electrification analysis was undertaken to examine different options for electrification in Somalia
+through to 2030, to provide the necessary data to support robust decision-making in the Somali
+electricity sector. In addition to this report, a visualization platform and Spatial Data Infrastructure
+(SD!) has been set up to facilitate the exploration and discussion around electrification options, as well
+as data storage and management to support future updates of the analysis and the strategies
+deriving from it, Finally, a series of stakeholder consultations and workshops including both private and
+public stakeholders in the Somali electricity sector were undertaken to account for the information,
+data and views of the different stakeholders,
+1 An estimated 485,000 of the customers were in urban oreos, 88,000 in rural oreos and 34,000 customers in IDP oreos. The nomadic
+population was assumed not to be connected to ESPs.
+2020 Tracking SDG7 report
+electricity access stood ot 35% in 2018,
+in urban areas
+in rural areas
+=== PAGE 5 ===
+2 Current status of the electricity access sector in Somalia
+2.1 Institutional structure and sector policies
+Despite Somalia's history of protracted conflict, its private sector has shown entrepreneurship and
+resilience, and succeeded in maintaining economic activity in a challenging environment. In the absence
+of an electric grid, privately owned and operated diesel-powered mini-grids were developed, which
+provide nearly all of Somalia's electricity Each network is operated by an Energy Service Provider
+(ESP) who is in charge of the generation, transmission and distribution of electricity as well as
+collecting tariffs from costumers, This means that each ESP owns and operates a complete chain from
+electricity generation to distribution to the end-users [3].
+In some of the larger cities, more than one ESP is present. These ESPs operate in isolation, which has
+caused duplicate distributions networks in the same area lower potential for synchronous generation,
+The Power Master Plan points to technical standards and cooperation between ESPs as potential
+solutions to increase both generation and distribution efficiency in the power sector. Currently Somalia
+has one of the highest electricity prices in the world, due in part to a highly fragmented power sector
+In order to speed up the process of increasing energy access the Federal Government of Somalia (FGS)
+has introduced policies targeting private sector involvement in the energy sector, The FGS has also
+created the Ministry of Energy and Water Resources (MOEWR), The mission of the MOEWR is to provide
+reliable, adequate and accessible clean energy and water resources to the country, The MoEWR hos the
+overarching responsibility for policies, rules and standards of the power sector in Somalia, and firms
+should register with the MoEWR to operate in the electricity market in Somalia. Furthermore, the
+MoEWR works with counterparts in the Federal Member State governments, mandated with the
+responsibility for energy initiatives in the electricity sector in the respective states
+Access to energy in general, and electricity in particular, has been identified as one of the crucial
+components for economic growth in the latest notional development plan (Somalia National
+Development Plan 2020-2024) [1]. Furthermore, Somalia has recently created a Power Master Plan. The
+Power Master Plan outlines a strategy for increased electricity generation, increased supply of
+renewable energy and the development of a regulatory framework to improve market efficiency in the
+power sector The MoEWR is also engaged in developing a national Energy Policy and Energy Act.
+The Final National Energy Policy with the main goal to "provide adequate, affordable and sustainable
+access to efficient energy to the Somali society", identifies a need for regulation and policies to
+encourage investments in the power sector, increase access and energy security [5].
+The Draft Energy Policy has six main objectives, of which the first is Access To Electrical Energy, This
+objective is defined as to 'iincrease access to efficient, affordable and sustainable energy for urban and
+rural communities: for the private sector to thrive, as well as for the public sector to meet its energy
+demand in order to provide better essential services, boost economic growth and reduce poverty". Key
+strategies aim among other things at increased efficiency in existing systems, increased use of
+renewable energies with particular focus on solar PVV promoting high-quality products, rural
+electrification schemes and strengthening of institutions
+2.2 Status of the existing electricity provision in Somalia
+An updated data collection exercise was undertal<en in this project to gather further information on
+customers, demand levels ond technology costs from ESPs in Somalia, The MoEWR, the consultants,
+the World Bonk, the five Federal Member States and 32 ESPs hove provided their support in collecting
+and/or providing data on mini-grids in Somalia. Additional information on existing mini-grid locations
+were collected from the Power Master Plan, reports and online sources, Through this process, mini-grids
+could be identified in 103 locations across Somalia, their locations displayed in Figure 1, and
+summarized per region in Table 1, Detailed information was provided by the ESPs for 38 of these
+locations. Note that some of the locations are served by more than one ESP, and not all ESPs in these
+locations may have been surveyed or provided information in this project or for the Power Master Plan.
+Table 1. Mini-grid locations identified per region
+Region
+Awdal
+Bakool
+Banaadir
+Bari
+Bay
+Galguduug
+Gedo
+Hiiraon
+Jubbada Dhexe
+Jubbada Hoose
+Mudug
+Nugaal
+Saaxil
+Sanoag
+Shabellaha Dhexe
+Shabellaha Hoose
+Sool
+Togdheer
+Waqoyi Galbeed
+Mini-grid locations identified
+Bakit Boon, Borama, Dilla, Garba Dadar, Geerisa, Lawya Caddo, Quljeed,
+Xariirad, Zeylac (10)
+Ceel Bordet Xudur, Waojid (3)
+Mogadishu (1)
+Bosaso, Carmo, Ceeldahir, Qardho, Yaka Yaka (5)
+Baidoa, BeerdQle, BuurhokQbQ, Diinsoor, Qansax Dheere (5)
+Balanbale, Cabudwaaq, Cadaado, Dhuusamareeb, Godin Labe, Guri-Ceel (6)
+Baardhere, Balad Hawo, Buurdhuubo, Doolow, El Wok, Garbahaarey, Luuq (7)
+Beledweynet Bulo Burto, Buq-Aqoble, Holgan, Jalolaqsi, Maxaos (6)
+Jilib
+Afmadow, Dhobley, Kismaayo, Qoqani (4)
+Abaoreyt Bacoadweynt Bandiirodley, Bursaolax, Galkayo, Galdogob, Xarfo (7)
+Burtinle, Eyl, Garoowe (3)
+Bernbera, Bulloxaar, Sheikh(S)
+Badhon, Ceel Afweyin, Ceerigaobo, Gar Adog, Hadaoftimo, Xin-Galool (6)
+Balcad, Hawadley, Jowhar, Qalimoq, Warshiil<h (5)
+Afgooye, Baroawe, Marko, Qoruooley, Wanlaweyn (5)
+Coynobo, Loascoanood, Dog, Toleex, Xudun (5)
+Bali Dhiig, Burco, Buuhoodle, Dodweyne, Qorilugud, Xaaji Saalax (6)
+Abaarso, Alleybadey, Arabsiyo, Aw Barl<hadle, Baligubadle, Balli Cabane,
+Dacorbudhuq, Darosaloam, Faroweyne, Gebiley, Hargeysa, Kalobeydh,
+Madheera, Salahley, Wajaale (15)
+=== PAGE 6 ===
+Djibouti
+Am-Ot J
+/ Dire
+Dawa
+/ Harar
+haa /
+Cheratl
+Togdheer
+Sonaog
+S09 Jp
+doosaaso
+Qardho
+Nugoaj
+Laascaanood
+Somoh
+Mudug
+/ Gode
+o S%omaaliya
+Bele
+Hnraan O
+k BokocOJ*S1e
+Mini-grid customer per state
+300,000
+250,000
+200,000
+150,000
+100,000
+50,000
+Galmudug Hirshabelle Jubolond Mogadishu
+Puntland Southwest
+Estimated household customers in unserveyed locations
+Household customers from ESP surveys
+Somaliland
+rbahaoey O
+Baydhabo
+rondero
+Gedo
+Baardheere
+Ohexe
+AN ESTIMATED
+4.0 OUT OF 15.9 MILLION
+PEOPLE IN SOMALIA
+HAS ACCESS TO ELECTRICITY
+FROM MINI-GRIDS IN 2020
+60'/01..'
+MuqdlåhQ)
+Jubboda
+Dhexe
+0
+0
+Jubbado
+Hoose
+-IA.c
+MV and LV distibubon
+Only LV distributon
+r Inn
+Ill
+These mini grids differ in both size and distribution and
+generation technologies, The smallest ESPs serve only a
+few hundred households, while the largest serve tens of
+thousands of households in a single location, Mini-grids
+were most commonly found in the larger cities and
+towns in Somalia [1], Based on the collected data, an
+estimated 4.0 out of 15,9 million people in Somalia
+(identified through satellite imagery) has access to
+electricity from mini-grids in 2020 Figure 2 provides
+the estimated number of households customers per
+state,
+This number should be taken as indicative only, as there ore some locations that were not surveyed in
+either of the projects, The largest uncertainties are seen in Somaliland, where data was not collected
+through this project, and Mogadishu where information was incomplete with regards both to total
+number of customers as well as the split between residential and non-residential customers,
+Figure 2, Estimated number of households served by ESPs per region based on survey data
+from the SEAP project and the Power Master Plan
+As mentioned above, ESPs face challenges in generation
+capacity especially in peri-urban and rural oreos, During
+the workshops held within this project, participants
+suggested that the uptake of solar energy and other
+renewable sources in the power generation might play a
+major role in filling thot gap. While the majority of
+generation is currently supplied by diesel generators,
+there are already examples of solar photovoltaics (PV)
+implementation in some mini-grids around the country,
+and ot least one mini-grid using wind-power
+Further details on generation capacity ond distribution
+options derived from the collected data are displayed in
+Table 3. A total of 106 MW of generation capacity has
+been reported from the ESPs that provided information
+for this project, of which more thon 90% is diesel-based
+and the remaining comes from solar PV, It should be
+noted that actual currently installed capacity is higher,
+as information for some location were not provided, and
+Somaliland dato has not been collected
+1 The doto collection exercise hos identified mini-grids in 17 cities with o population of more than 50,000 people, 39 settlements with o
+population between 10,000 and 50,000 people, 42 settlements with o population between 1,000 ond 10,000 people ond 5 settlements with o
+population of less than 1000 people. The geospatial population doto derives from satellite mopping of buildings in Somalia, identifying
+building counts for both moin urban oreos and remote rural locations. The process of creating the building and population doto is further
+described in Appendix A.
+2 Survey information collected in this project and for the Power Master Plon combined encompasses approximately 363,000 mini-grid
+connected households. Furthermore, an estimated 313,000 households ore served in un-surveyed locations, for o total estimate of 676,000
+mini-grid household customers in Somalia in 2020
+=== PAGE 7 ===
+Table 2. Installed capacity and distribution information provided by ESPs
+Galmudug Hirshabelle Jubaland Banaadir Puntland
+Generation
+Distribution
+Wind (I<W)
+Diesel (I<W)
+HV (km)
+MV (km)
+LV (km)
+11,500
+1,000
+8,100
+35
+233
+15,653
+48
+440
+8,004
+26,230
+232
+770
+2,804
+750
+17,463
+65
+503
+South West
+16,240
+50
+273
+Total
+11,808
+750
+95,186
+430
+2,226
+Demand estimation - The next step of the analysis was to determine the electricity demand for each
+settlement, based on population settlements and locations of the priority service delivery facilities,
+Three demand scenarios were developed for the residential demand: one low, one medium and one
+high demand based on information on current demand collected from ESPs and household targets
+from the Power Master Plan, More information on the residential demand analysis can be found in
+Appendix B, Public demand loads were assigned to primary and secondary schools os well as health
+posts, health facilities ond hospitals, relating to the appliances thot con be found in such facilities,
+Finally, electricity demand for agricultural irrigation was identified. More details on the estimation of
+electricity demand for public an productive loads are determined Appendix C.
+Comparison of electricity supply options - The final step of the analysis was to identify for each
+location, which electricity supply technology can meet the electricity demand at the lowest cost. The
+cost of each technology in each location is dependent on locally available energy resources, demand
+loads, techno-economic porometers and distances to existing infrastructure, For this study, five
+different technology configurations were considered (see Table 4), Appendix D provides further
+information on how OnSSET determines the least-cost technology, and Appendix E on the input data
+used in the model for this study,
+Toble 3. The five technology configuration options considered in the OnSSET model for increased
+access to electricity in Somalia by 2030, The five technologies are further divided into three
+categories: grid, mini-grid and stand-alone systems.
+3 Potential electrification supply options
+The importance of integrated approaches to energy planning has started to become more frequent
+and adopted by policy makers and planners, In order to reach universal electricity there is a need for
+change in the current energy paradigm, Most energy systems are currently relying on centralized
+distribution options, but these are not always economically viable to extent to remote settlements far
+away from the transmission backbones and therefore these settlements remain unelectrified,
+Decentralized solutions such as mini-grids and stand-alone options may be able to fill the gap left by
+the grid, The emergence of decentralized technology configuration means that there are now multiple
+options available in order to increase the access to electricity, This makes inclusive planning
+approaches such as Integrated Energy Pathways (IEP) very important [7]. A geospatially mapped
+least-cost electrification plan is a useful tool when detailing high-level electricity rollout plans on local,
+national or regional levels, Using different types of geospatial tools can assist in generating
+economically viable electrification plans providing affordable electricity to people across a study area
+A geospatial electrification analysis was carried out using the Open Source Spatial Electrification Tool
+(OnSSET) to help identify least-cost electrification options for increased access to electricity in Somalia,
+OnSSET identifies the least-cost electricity technology-configuration to accomplish access for all
+settlements in a country drawing on a set of geospatial, demographic and techno-economic data, The
+methodology can be briefly divided into three steps:
+Identification of settlements and priority service delivery facilities - The first step of the analysis was
+to identify population settlements and priority service delivery facilities (schools, health facilities, water
+points and potential agricultural irrigation loads). Drawing on satellite-based building counts, Q
+geospatial population dataset was produced with each settlement in the country, from single buildings
+to major urban centers, The process of creating this population layer is described in detail in Appendix
+A, The locations of schools, health facilities, water points and agricultural harvest areas were collected
+with the support of Ministry of Education, Culture and Higher Education, Ministry of Health and Ministry
+of Agriculture and matched to the population settlements, which form the basis of the geospatial
+analysis, In total, information on 2,549 schools, 799 health facilities and 4,840 water points were
+collected,
+Category
+Grid-connection (Grid)
+Mini-grid systems (MG)
+Definition
+Connection to o future potential national grid.
+A system with its own distribution network
+operating independently of the notional grid
+serving multiple customers
+Stand-alone systems (SA) An energy system serving one single customer.
+Supply technology
+National Grid
+PV/Diesel hybrid
+Wind/Diesel Hybrid
+Hydropower
+Solar PV (Solar Home Systems)
+Electrification options and costs are highly dependent on the distance to existing and planned energy
+infrastructure, Through a geospatial analysis of mini-grid locations and population settlement, we
+found that 40% of the population in Somalia lives within one of the 103 identified mini-grid locations,
+Figure 3 shows the settlements within 5 (orange) and 10 km (blue) of the existing mini-grids in 2020,
+Furthermore, Table 2 below presents the share of the population within 5 and 10 km of existing
+mini-grids and existing MV line locations,
+=== PAGE 8 ===
+o
+75 150 km
+Population settlements
+Within 5 km of closest mini-grid
+Within 10 km of closest mini-grid
+Figure 3. Settlements within 5 and 10 of existing mini-grids,
+Table 4, Population living in proximity of existing mini-grids and medium-voltage lines.
+Energy Infrastructure
+Existing mini-grids
+Existing MV locations
+Population within 5 km
+Population within 10 km
+Different scenarios were developed to study potential pathways to increase electricity access in
+Somalia and to help guide investments in the sector. These include scenarios based on mini-grids and
+stand-alone PV technologies only, as well as scenarios considering the development of a national
+transmission backbone, drawing on options designed for the Power Master Plan, The scenarios were
+developed to explore a wide range of possible developments and their costs, These scenarios were also
+subject to sensitivity analysis with regards to five key drivers; demand growth, intensification strategy,
+distribution costs, PV panel costs and diesel fuel costs. See Appendix F for information on scenarios and
+sensitivity analysis,
+4 Results of the geospatial electrification analysis
+This section presents the results for Q 'ibusiness-os-usual" scenario, as well as key insights from
+alternative electrification pathways studied and the sensitivity analysis, A full sensitivity analysis on
+investment costs with regards to demand, PV cost, diesel cost, intensification strategy and distribution
+technology costs is found in Appendix F.
+4.1 "Business as usual" - separate mini-grids and stand-alone PV
+technologies only
+In the business-as-usual scenario, only stand-alone PV ond mini-grids are included os potential
+technology configuration for least-cost electrification, Each location is evaluated separately, i,e, there
+is no interconnection of different locations where mini-grids are found to be the least-cost technology
+(Figure 4), This represents a scale-up of the current setup of the electricity sector in Somalia, Note that
+oll the numbers presented in the results section refer to the total population connected to each
+technology by 2030, inclusive of the population that already hos access to electricity as well os the new
+connections,
+Figure 4, Areos where mini-grids are identified as the least-cost technology to meet the electricity
+demand in red, and areas where stand-alone PV are identified as least-cost technology in yellow.
+In this coset Q rapid ramp-up of stand-alone PV deployment is required to achieve universal electricity
+access in Somalia, However, mini-grids remain the least-cost option for a majority of the population in
+Somalia, Following the medium demand growth, mini-grids are the least-cost solution for 57% of the
+10
+=== PAGE 9 ===
+population and stand-alone PV technologies for 43% of the population to achieve universal access to
+electricity in Somalia by 2030, Stand-alone PV technologies are the least-cost technology for 9.2 million
+people, which would require approximately 130,000 new households to receive electricity from
+stand-alone PV each year until 2030. By 2030, 9.6 million people live in locations where there is already
+an existing mini-grid, where new investments are required both to connect the currently unelectrified
+population within those locations as well as the population increase over the next ten years, and also
+to provide generation to support increased consumption from existing customers
+An additional 2.4 million potential mini-grid customers are found in settlements where the collected
+data indicates there is no mini-grid today. Around one third of those are found in the ten largest
+unelectrified locations each in Galmudug, Hirshabelle, Jubalond, Puntland, Somaliland and South West
+where there is no mini-grid identified today, while the remaining two-thirds are spread amongst 510
+locations. Deploying 570 mini-grids in the next 10 years would lead to a large increase in the total
+number of mini-grids from today's level. However, it should be noted that many of the identified
+settlements are located close to one another and could be supplied as a single mini-grid serving
+multiple locations instead of separate mini-grids for each location. This is especially seen along the
+Jubba and Shebelle rivers where population densities ore high, The list of the 60 identified locations is
+found in Appendix H, These locations have a combination of large unelectrified populations and a
+relatively high estimated demand, and could serve as a starting point for identification of priority
+locations for new mini-grids,
+OF THE POPULATION
+to achieve universal access to
+electricity in Somalia by 2030
+130,000 NEW HOUSEHOLDS
+to receive electricity from stand-alone
+PV each year until 2030
+2.4 MILLION POTENTIAL
+mini-grid customers
+Figure 5. Three separate locations where mini-grids ore identified as the least-cost solution, which
+could be connected by a 2 MV line to form one mini-grid.
+Providing universal access to electricity in Somalia in this scenario requires 910 MW of new generation
+capacity (150 MW for stand-alone PV and 770 MW for existing and new mini-grids) and investments of
+1,800 million USD, The geospatial distribution of least-cost electrification technologies is seen in Figure
+7. The population connected by 2030 and investment per technology is presented in Table 5
+aggregated for the whole country. Further breakdown per region for this scenario is reported in
+Appendix G.
+Table 5, Key results for the business as usual scenario
+Technology
+Mini-grids
+Stand-alone PV
+Total
+Investment cost
+(million USD)
+1,410
+390
+1,800
+Population connected
+(million people)
+12.0
+21.2
+Average household connection cost
+(USD/household)
+650
+220
+410
+For priority service delivery facilities (health facilities, schools and water points), the majority of the
+schools ond health facilities ore found to be connected to o mini-grid by 2030 in this scenario (Figure
+6), while the majority of water points are located where stand-alone PV is the least-cost technology,
+An estimated investment of 1.0 million USD is required to bring electricity to schools in locations where
+there is no mini-grid today (split between 50% for mini-grids ond 50% for stand-alone PV), ond 62
+million USD for health facilities (30% for mini-grids ond 70% for standalone PV),
+Least-cost technology for priority service
+100% •
+60% •
+200/0
+Schools
+Mini Grid
+Stand-alone PV
+Health facilities
+Waterpoint
+Figure 6. Least-cost technology for schools, health facilities and water points.
+12
+=== PAGE 10 ===
+o
+75 150 km
+Technology split
+Existing mini-grid in 2020
+New mini-grids added after 2020
+Stand-alone PV
+Figure 7. Technology split in the "Business-As-UsuQl"-scenorio, Green settlements represent
+settlements electrified by mini-grids in 2020, red settlement ore settlements that ore electrified by
+new mini-grids built after 2020 ond the rest ore electrified by stand-alone PV
+4.1.1 The case for expansion of existing mini-grids to form small regional
+networks
+A further analysis was conducted to examine the potential for expansion of existing MV networks to
+provide an alternative means of gaining electricity access in locations near the existing MV networl<s,
+An example of what this can look like is displayed in Figure 8, By 2030, 8.0 million people are estimated
+to live in locations where there is already an existing MV network, Another 200,000 people are located
+within 5 km from these locations and can be connected ot on additional cost of approximately 130
+USD/household compared to the previous scenario where these location hove their own electricity
+supply,
+13
+BelédW,e-yhe .
+Figure 8. Electrification technology around Beledweyne, Areas to be connected to the existing MV
+network in Beledweyne in blue, areas where separately operated mini-grids are found to be the
+least-cost technology in red and areas where stand-alone PV technologies are found to be the
+least-cost technology in yellow.
+4.2 The potential of a national centralized grid electricity network
+An analysis was also conducted to examine the potential for a future national transmission backbone
+in Somalia. Such a network would connect the largest load centers in Somalia, and potentially also
+other load centers along its route following the moin roads in Somalia, Two options are considered; one
+notional network, and one split between Q northern and o southern port, based on potential designs
+from the Power Master Plan (Figure 9), Table 6 shows the share of population projected to live within
+5 and 10 km of the two different backbones in 2030, which are the most likely to be the first potential
+beneficiaries of this network in case it is built,
+14
+=== PAGE 11 ===
+The highest investments in this scenario are still found for mini-grids. A large reason for this is the
+number of people that should be supplied by mini-grids before the national grid networl< could be
+available, Finally, it is assumed in this study that existing mini-grids will be able to integrate with Q
+notional transmission backbone, keeping both generation and distribution assets operating, or else
+investment costs would be significantly higher,
+Table 7, Population (2030) and cost split between technology categories for the main scenario with
+separate north ond south transmission backbones
+Technology
+Grid
+• North
+• South
+Mini-grids
+Stand-alone PV
+Total
+Investment cost
+(million USD)
+930
+530
+400
+1,250
+380
+2,560
+Population connected
+(million people)
+6.7
+28
+5.2
+9.1
+21.2
+Average household connection cost
+(USD/household)
+600
+770
+510
+670
+220
+410
+Figure 9. Potential transmission backbones, Split transmission backbone (left) and notional
+transmission backbone (right), Based on designs from the Power Master Plan,
+Table 6. Population projected to live within 5 and 10 km of the different potential backbones reported
+in the Power Master Plan in 2030,
+* Household connection costs do not include the cost of the HV transmission backbone
+An estimated investment of 1.0 million USD is required to bring electricity to schools in locations where
+there is no mini-grid today (split between 1% for grid[ Most of health and education facilities in the
+major load centers connected to the grid, where there are already mini-grids, are assume to be
+electrified already. Therefore the low investment cost for health and education facilities allocated to
+the grid in this scenario,], 50% for mini-grids, 49% for stand-alone PV), and 6.3 million USD for health
+facilities (3% for grid, 29% for mini-grids, 68% for standalone PV),
+Least-cost technology for priority service
+Transmission backbone
+Split
+• North
+• South
+National
+Population within 5 km
+12%
+22%
+420/0
+Population within 10 km
+370/0
+24%
+470/0
+100%
+Schools
+Mini Grid
+aua
+In the case of separate north and south networks, the network is the least-cost electrification option
+for 32% of the population in Somalia, Another 25% would be served by mini-grids, and 43% by
+stand-alone PV technologies, The geospatial distribution of least-cost electrification technologies is
+seen in Figure 11, The breal<down per priority service delivery facilities is seen in Figure 10. Investments
+in these networl<s would cost 930 million USD, assuming they are available after 2025, split between
+760 million USD for the transmission backbone and substations and 170 million USD for generation
+capacity added after 2025 (Table 7),
+15
+delivery facilities
+Health facilities
+Stand-alone PV
+El Grid
+Waterpoint
+Figure 10, Least-cost technology for schools, health facilities ond water points,
+a Most of health ond education facilities in the major lood centers connected to the grid. where there ore olreody mini-grids. ore assume to
+be electrified already. Therefore the low investment cost for health and education facilities allocated to the grid in this scenarioa
+16
+=== PAGE 12 ===
+Table 8, Population (2030) and cost split between technology categories for the main scenario with an
+integrated transmission bacl<bone
+Technology
+Grid
+Mini-grids
+Stand-alone PV
+Total
+Investment cost
+(million USD)
+1,490
+1,210
+3,080
+Population connected Average household connection cost
+(million people)
+4.0
+9.1
+21.2
+(USD/household)
+600
+670
+220
+410
+* Household connection costs do not include the cost of the I-IV transmission backbone
+An estimated investment of million USD is required to bring electricity to schools in locations where
+there is no mini-grid today (split between 4% for grid, 47% for mini-grids, 42% for stand-alone PV), and
+million USD for health facilities (7% for grid, 25% for mini-grids, 68% for standalone PV),
+Least-cost technology for priority service
+100% •
+o
+75 150 km
+Least-cost technology split
+Grid
+Mini-grid
+Stand-alone PV
+— National HV-line backbone
+800/0 •
+200/0 •
+Schools
+Mini Grid
+Figure 11. Least-cost technology options by 2030 in a scenario with Q split transmission backbone.
+A national grid network that is connected from north to south is the least-cost option for million
+people, an additional 1.3 million people compared to the split networl<, The additional population can be
+found in the central parts of Somalia that cannot be reached by the split backbone option. This reduces
+the population connected by mini-grids to 4.5 million by 2030 (Table 8). The geospatial distribution of
+least-cost electrification technologies is seen in Figure 13, The shore of priority service delivery facilities
+connected to the grid also increase, as displayed in Figure 12
+17
+Health facilities
+Stand-alone PV
+Waterpoint
+Grid
+Figure 12, Least-cost technology for schools, health facilities and water points,
+=== PAGE 13 ===
+Table 9. Sensitivity analysis on investment cost depending on demand and electrification pathway.
+Mini-grids ond stand-alone
+only (Million IJSD)
+Split transmission backbone
+(Million
+Integrated transmission
+backbone (Million IJSD)
+Low demand
+1,530
+2,260
+2,790
+Medium demand
+1,740
+2,470
+3,000
+High demand
+8,260
+4,000
+4,540
+The role of stand-alone PV technologies is mostly affected by the demand level and distribution
+technology cost, Higher demands favor the transition from stand-alone PV to mini-grids, and low-cost
+distribution technologies can also allow for more mini-grids instead of PV technologies (Table 10),
+However, it is evident thot stand-alone PV technologies will hove an important role to ploy to increase
+electricity access rates in Somalia, both for the nomadic population as well as large parts of the rural
+population,
+Table 10, Sensitivity analysis on the population supplied by stand-alone PV as least-cost technology
+o
+75 150 km
+Least-cost technology split
+Grid
+Mini—grid
+Stand-alone PV
+National HV-line backbone
+depending on demand,
+Population served by
+stand-alone PV in 2080
+(million people)
+Low demand
+Medium demand
+8.7
+High demand
+7.5
+Figure 13, Least-cost technology options by 2030 in o scenario with a split transmission backbone,
+4.3 Sensitivity analysis
+This section presents the l<ey findings from the sensitivity analysis with regards to investment cost and
+the role of stand-alone PV systems, There are two drivers that affect the investment cost more than
+the others: the level of electricity demand and the inclusion of a national transmission backbone, Table
+9 below presents the average investment cost for the combinations of demand levels and transmission
+backbone options, The average value is taken from 16 sensitivity scenarios for each combination of
+demand and transmission backbone option, with regards to PV cost, diesel cost, intensification
+strategy and distribution technology cost,
+In case of a slow demand growth, the additional cost of a national transmission backbone is very high
+in comparison to the business as usual case. However, as demand grows the additional investment
+cost required for a national transmission backbone is relatively lower, indicating that the investment
+cost required to build the national transmission backbone could be more economically justifiable in
+case of a further demand growth beyond 2030 or by the addition of larger industrial loads. In such
+cases a grid can reduce the generation costs due to economies of scale compared to the mini-grids,
+19
+5 Concluding remarks
+In oll of the scenarios, on integrated approach using different technology types is required to increase
+access to electricity ot the least-cost in Somalia, Stand-alone PV technologies are required in areas
+with smaller populations or lower demand for electricity, while mini-grids and a potential national grid
+networl< can supply areas with higher loads at a lower cost. In either case, a large increase in the
+number of mini-grids will be required, A selection of potential locations has been provided, The notional
+geospatial analysis can help identify these locations according to different priorities and indicative
+investment costs. However, it should be noted that these are based on high-level data, and a detailed
+local assessment is always required in order to more closely examine the demand and exact
+configuration of the generation and distribution system of each settlement,
+20
+=== PAGE 14 ===
+Furthermore, it is evident that a HV transmission network in these scenarios increases investment
+costs significantly to meet the studied demand. Both of the HV network options (separate and
+national) have been assumed to be available only in the second half of the modelling period (after
+2025). An HV network would likely require other loads not captured in this study, such as heavy
+industries, in order to be economically justified from an investment perspective in the short term. It is
+important to note however that the investment costs are only part of the total electricity costs, this
+can be compensated in part or in full by lower generation costs from e.g. large scale hydropower or
+other centralized generation. If an HV transmission backbone combined with low-cost centralized
+electricity generation could stimulate the growth of industries with large electricity loads, the HV
+bacl<bone could likely be better justified economically, but that is beyond the scope of this report,
+Further demand growth in other sectors after 2030 could also hove an impact,
+Note that grid-connected populations in the two scenarios with an HV transmission backbone also
+include the population connected to existing mini-grids before 2030 (which will need to l<eep adding
+capacity to increase connections until an HV transmission backbone could be in place), It hos been
+assumed that existing generation and distribution assets will remain operational also when a potential
+HV network arrives, to avoid duplicate distribution networks or generation capacity, which would
+further increase costs. This means that a transmission backbone should be able to integrate with
+existing ESPs from both a technical-, policy- and business perspective to minimize costs. It is important
+that the efforts in the power sector are harmonized between the federal and state governments as
+well as with the existing ESPs and their isolated networks in order to ensure efforts of all the
+stakeholders are complementary,
+Notably, when considering a distance of 5 or 10 km around existing or potential energy infrastructure,
+a similar share of the population could be reached by extending the existing mini-grids or MV lines as
+from the potential HV lines considered, A large focus is required on lowering generation costs in
+existing mini-grids in this case, as well as implementing low-cost distribution costs to connect new
+settlements from existing or planned infrastructure, It is assumed that all existing mini-grids in this
+study are hybridized to include PV or wind-generation, to reduce reliance on expensive diesel
+generation.
+Finally, all scenarios are available to be visualized on the Somalia Electrification Platform together with
+l<ey datasets including the location of priority service delivery facilities
+Reference list
+[2]
+[3]
+[5]
+[6]
+[71
+[8]
+[9]
+[Ill
+[12]
+[13]
+[14]
+[15]
+The Ministry of Planning,lnvestment ond Economic Development, 'SOMALIA NATIONAL
+DEVELOPMENT PLAN 2020 to 2024', 2019, Accessed: Nov, 27, 2020, [Online], Available:
+http://mop.gov.so/wp-content/uploads/2019/12/NDP-9-2020-2024.pdf,
+IEA IRENA, UNSD, World Banl<, and WHO, 'Tracking SDG 7: The Energy Progress Report'. 2020,
+[Online], Available:
+https://trockingsdg7.esmop.org/dQto/files/down10Qd-documents/trocking_sdg_7_2020-
+UNICON Ltd, 'Power Master Plan - Development of a Power Master Plan for Somalia Project',
+Ministry of Energy ond Water Resources I World Bank, Oct, 2018,
+'Somalia', Lighting Africa, https://www,lightingafrico.org/country/somaliQ-2/ (accessed Feb,
+27, 2021).
+Ministry of Energy and Water Resources, 'National Energy Policy of the Federal Republic of
+Somalia (Draft)] 2018, Accessed: Apr, 19, 2021, [Online], Available:
+https://moewr.govso/wp-content/uploods/2019/03/DRAFT-0 F-ENERGY-POLlCY.pdf,
+'Intermediate workshop summary', Feb. 11, 2021, .
+S4ALL, 'Integrated Electrification Pathways for Universal Access to Electricity: A Primer', 2019.
+https://wwwseforQll.org/system/files/2019-06/SEforALL_lEP_2019.pdf (accessed Feb, 27, 2021),
+D, Sahai, 'Toward Universal Electricity Access: Renewable Energy-Based Geospatial Least-Cost
+Electrification Planning', 2013.
+https://www.esmap.org/sites/defa ult/files/esm I es/A STAE_lnd on esi a_TlJ pdf (a ccessed
+Feb, 27, 2021),
+Directorate of National Statistics, Federal Government of Somalia, 'The Somali Health ond
+Demographic Survey 2020', 2020,
+https://somalia.unfpa.org/sites/defoult/files/pub-pdf/FINAL%20SHDS%20Report%202020_V7_0.pdf
+(accessed Feb, 27, 2021),
+OnSSET/Clustering, The Open Source Spatial Electrification Tool, 2021,
+'CCCM DSA IDP Sites Jan 2019', 2019.
+https://www.arcgis.com/home/item.html?id=bf438c1cef254f2a9a66b557a125908f (accessed Feb; 27,
+2021),
+P. J Burke ond Z, Csereklyei, Understanding the energy-GDP elasticity: A sectoral approach', Energy
+Economics, vol. 58, pp. 199-210, Aug. 2016, doi:
+Bhatia Mikul and Angelou Niki, 'Beyond Connections* Energy Access Redefined', TECHNICAL REPORT
+008/15, 2015, Accessed: Feb. 14 2021, [Online], Available:
+https://openknowledgeworldbonk.org/bitstreom/hondle/10986/24368/Beyond0connect0d000
+M. Kummu, M. Taka, and J, H. A, Guillaume, 'Gridded global datasets for Gross Domestic Product and
+Human Development Index over 1990-2015', Scientific Dato, volt 5, no, 1, Dec, 2018, doi:
+The World Banl<, JSomali Poverty and Vulnerability Assessment - Findings from Wave 2 of the Somali
+High Frequency Survey', 2019.
+http://documents1.worldbank.org/curoted/en/464241565765065128/pdf/Findings-from-
+Wave-2-of-the-SomQli-High-Frequency-Survey,pdf (accessed Dec, 15, 2020),
+22
+=== PAGE 15 ===
+[16]
+[17]
+[18]
+[19]
+[20]
+[21]
+[22]
+[23]
+[24]
+[25]
+[26]
+[27]
+[28]
+[29]
+[30]
+[31]
+[32]
+[33]
+[34]
+[35]
+[36]
+[37]
+[38]
+23
+A. Korl<ovelos, B. Khavari, A, Sohlberg, M. Howells, and C. Arderne, 'The Role of Open Access Dato in
+Geospatial Electrification Planning and the Achievement of SDG7. An OnSSET-Bosed Case Study for
+Malawi', Energies, vol. 12, no, 7, p. 1395, Apr. 2019, doi: 10,3390/en12071395,
+'Ministry of Education in Puntland - Putting Education First'. http://www.moepuntland.com/ (accessed
+Feb. 27, 2021).
+'OpenStreetMap Nominatim', https://nominotim.openstreetmop.org/ui/search.html (accessed Feb. 27,
+2021).
+'Somalia schools Humanitarian Data Exchange', https://doto.humdota.org/dataset/somolia-schools
+(accessed Feb. 27, 2021).
+The World Bonk, 'ROGEP', 2017,
+https://www.lightingofrica.org/wp-content/uploods/2017/12/ROGEP-overview_-Dec-17.pdf (accessed
+Dec, 15, 2020).
+IJN, 'World Population Prospects - Population Division - United Notions', 2019.
+https://population.un.org/wpp/Download/Stondard/PopulQtion/ (accessed Dec. 15, 2020).
+US AID, 'Powering Health: Electrification Options for Rural Health Centers', p. 36, 2018,
+WHO, 'Modern Energy Services for Health Facilities in Resource-Constroined Settings', 2015,
+https://apps.who.int/iris/bitstreom/handle/10665/156847/9789241507646_eng.pdf?sequence
+=1&isAllowed=y (accessed Dec. 15, 2020),
+'FAOSTAT', http://www.fao.org/faostat/en/#dota/QC (accessed Feb, 27, 2021),
+'MopSPAM I Home of the Spatial Production Allocation Model!' https://www.mopspam.info/ (accessed
+Feb. 27, 2021).
+'Global Food Security-Support Analysis Dato ot 30 m (GFSAD)',
+https://www.usgs.gov/centers/wgsc/science/global-food-security-support-analysis-data-n-m-
+gfsad?qt-science_center_objects=()# (accessed Feb, 27, 2021).
+R. G. Allen and Food and Agriculture Organization of the United Nations, Eds„ Crop evapotranspiration:
+guidelines for computing crop water requirements. Rome: Food and Agriculture Organization of the
+United Notions, 1998,
+SAVVA Andreas P, and Karen FRENKEN, 'Irrigation Manual Module 4', in Crop Water Requirements and
+Irrigation Scheduling, ,
+D, Mentis et 'Lighting the World: the first application of an open source, spatial electrification tool
+(OnSSET) on Sub-Saharan Africa', Environmental Research Letters, vol. 12, no, 8, p. 085003, Aug. 2017,
+doi: 10.1088/1748-9326/aa7b29.
+'IJN Modelling Tools'. https://un-modelling.github.io/modelling-tools/#geo-electricity (accessed Feb. 27,
+2021).
+'Global Electrification Platform Explorer', Global Electrification Platform Explorer,
+https://electrifynow.energydota.info (accessed Feb, 14, 2021).
+A. Korkovelos et Ql., 'A Geospatial Assessment of Small-Scale Hydropower Potential in Sub-Saharan
+'Global Solar Atlas', https://globalsolaratlas.info/map (accessed Feb. 27, 2021).
+'GADM', https://gadm.org/download_country_va.html (accessed Feb, 27, 2021),
+'SRTM Dato - CGIAR-CSI SRTM'. https://srtm.csi.cgior.org/srtmdata/ (accessed Feb, 27, 2021),
+'LP DAAC - MCD12Q2', https://lpdaoc.usgs.gov/products/mcd12q2v006/ (accessed Feb. 27, 2021).
+'VIIRS Nighttime Lights', https://eogdota.mines.edu/products/vnl/ (accessed Feb, 27, 2021),
+'Global Wind Atlas', Global Wind Atlas. https://globalwindatlas.info (accessed Feb, 27, 2021),
+[39]
+[401
+[41]
+[421
+[43]
+[44]
+[45]
+[46]
+[47]
+[481
+[49]
+[50]
+[51]
+'Explorer - Maloria Atlas Project', https://maloriaotlas.org/explorer/#/ (accessed Feb, 27, 2021),
+'Dashboard SWIMS'. https://swims.faoswalim.org/dashboard/view (accessed Feb, 27, 2021),
+R, M. Johannsen, P. A, Østergaard, and R. Hanlin, 'Hybrid photovoltaic and wind mini-grids in Kenya:
+Techno-economic assessment ond barriers to diffusion', Energy for Sustainable Development, vol. 54,
+111-126, Feb, 2020, doi: 10.1016/j.esd.2019.ll.002,
+IRENA, 'Technologies Cost Analysis HYDROPOWER', 2012.
+https://www.irena.org/-/media/Files/lRENA/Agency/Publication/2012/RE_Technologies_
+Cost_Anolysis-HYDROPOWER.pdf (accessed Dec, 16, 2020),
+IRENA, 'Renewable power generation costs in 2019', p, 144 2019,
+ESMAP, The World Bank, Mini Grids for Half a Billion People, World Bank, Washington, DC, 2019.
+J, Agenbroad, K, Carlin, K. Ernst, and S, Doig, 'SIX WAYS TO REDUCE MINIGRID COSTS BY FOR
+RURAL ELECTRIFICATION', p, 57, 2018,
+EU Energy Initiative Partnership Dialogue Facility (EUEI POF) ond Africo Electrification Initiative, 'Low
+Cost Grid Electrification Technologies', 2015.
+http://www.euei-pdf.org/sites/default/files/field_publication_file/150907_euei_low-cost-manual_
+en_rz_07_web.pdf (accessed Dec, 16, 2020),
+'Model for Electricity Technology Assessment (META) I ESMAP', https://www.esmop.org/node/3051
+(accessed Feb, 27, 2021),
+JSub-Saharan Africa: Introducing Low-cost Methods in Electricity Distribution Networks I ESMAP'.
+https://www,esmop.org/node/946 (accessed Feb, 27, 2021),
+'Sustainable Energy Handbook, Module 52: On-grid Rural Electrification I Copocity4dev',
+https://europa.eu/capacity4dev/public-energy/documents/sustainable-energy-handbool<-module-52-
+grid-rural-electrification (accessed Feb' 27, 2021).
+S, Szobå, K, Bådis, T, Huld, and Mi Moner-Girona, 'Energy solutions in rural Africa: mapping
+electrification costs of distributed solar and diesel generation versus grid extension', Environ, Res.
+Lett, val, 6, no, 3, p, 034002, Jul. 2011, doi: 10,1088/1748-9326/6/3/034002,
+Annual Energy Outlook 2021'. https://www.eia.gov/outlool<s/aeo/ (accessed Feb. 27, 2021).
+24
+=== PAGE 16 ===
+APPENDIX A
+Appendix A - Geospatial mapping of buildings and population
+The population datasets creates the base for the least-cost electrification analysis, For a geospatial
+electrification model it is important to know the location of population settlements as well as the
+settlement's size and shape, The population dataset is generated by aggregating raster cells into
+polygon settlements using Q clustering algorithm developed by the KTH-teom, In this appendix, o
+description of the raw data used, the clustering algorithm and post-processing of the resulting
+population dataset follows.
+Raw data
+The main dataset used for the clustering process is a population raster provided through WorldPop, The
+WorldPop data is generated in two steps:
+First, all the buildings in the country are identified. This is done using high-resolution
+satellite imagery. The areas with buildings represent areas where people live. The more
+buildings identified in o patch, the more people we expect to live in the patch. Maxar
+Technologies capture the satellite imagery at 0.5m resolution. Using the satellite imagery,
+Ecopia.Al generate building footprints using artificial intelligence-assisted techniques. The
+high resolution of the satellite imagery ensures correct identification of most buildings.
+See Toble 11 for number of identified buildings per region.
+WorldPop
+The number of buildings identified in the first step is fixed, while the second step
+(populating the buildings) is based on user-inputs, The user has to select the overage
+household size per urban ond rural households os well os the number of overage housing
+units per building and the ratio of residential buildings per cell, For both urban ond rural
+pixels, 0,B3 is selected os the ratio of residential buildings per pixel, This means that in each
+pixel we assume that 83% of the identified buildings ore residential, while the rest are other
+structures (e.g. health and educational facilities, offices, stores etc.), For rural settlements
+we assume one housing unit per residential building while we for urban assume 1.1 housing
+units per residential building, The last parameter chosen by the user is the household size
+in rural and urban areas, The household size is talcen from The Somali Health and
+Demographic Survey 2020 by IJNFPA The demographic survey states 66 people per
+urban household and 57 people per rural household. These inputs generate a population
+layer with a total population of 15iB million, which is in line with what is projected in the PMP
+Clustering-process
+For the clustering-process an algorithm developed by the KTH-team [10] was used. The algorithm reads
+three geospatial datasets: the population raster from WorldPop, nighttime lights and the notional
+boundaries of the country, Nighttime lights ore mops showing where there is light during nighttime (for
+more information on the geospatial datasets please refer to Appendix E. Apart from the GIS datasets the
+user also hos to enter the population of the target year (15,8 million). The algorithm aggregates adjacent
+raster cells into polygon settlements, The resulting dataset enables delineation of population settlements
+Region
+AwdQl
+Bal<ool
+Banaadir
+Bari
+Bay
+Golguduud
+Gedo
+Hiiraan
+Jubbada Dhexe
+JubbQda Hoose
+Mudug
+Nugaal
+Sooxil
+Sanaag
+Shabeelloha Dhexe
+Shabeellaha Hoose
+Sool
+Togdheer
+Woqooyi Galbeed
+Total
+Number of identified buildings
+59,000
+109,000
+396,000
+118,000
+363,000
+168,000
+175,000
+179,000
+72,000
+131,000
+142,000
+64,000
+29,000
+74,000
+208,000
+333,000
+68,000
+199,000
+306,000
+and highlights the area ond shape of different settlements,
+Each resulting population settlement includes information regarding:
+The maximum nighttime
+Total population in the
+light visible in each
+settlement
+settlement
+Number of buildings in each
+The total area of each
+cluster
+settlement
+Table 11. Number of buildings identified per region
+25
+Total population living in
+areas with visible nighttime
+lights
+26
+=== PAGE 17 ===
+Post-processing
+After the population settlements are generated they are
+classified as urban or rural based on population size and density.
+This is an iterative process. Initial thresholds are given for
+population density and size, Using this initial threshold the urban
+ratio is calculated and compared to the actual urban ratio, If the
+calculated urban ratio is larger than the real urban ratio, the
+thresholds are increased and vice versa. For this analysis it is
+assumed that 23% of the population live in rural areas and 51% in
+urban areas (urban population also includes IDPs), The rest of the
+population (26%) are nomads, This is consistent with the division
+reported in The Somali Health and Demographic Survey 2020
+Figure 14 below shows the urban-rural divide calibrated in the
+APPENDIX B
+Appendix B Residential electricity demand process
+Residential electricity demand
+For the residential electricity demand, the consortium collected information from the different ESPs to
+map the current electricity consumption for currently electrified households, The electricity
+consumption data was collected from ESPs in the five Federal Member States and Mogadishu from
+September 2020 to January 2021,
+The number of residential customers included in the survey was large (240,000), and formed the
+baseline for the current demand estimation in 2020. The average current consumption per state
+ranged between 190 kWh to 460 kWh per residential customer per year (Table 12), All ESPs reported
+current overage residential consumption levels within Tier 2 or Tier 3 of the Multi-Tier Framework,
+Table 12, Average consumption per state in ESP dota [2020).
+analysis,
+0 75 150 km
+230/0
+RURAL AREAS
+URBAN AREAS
+NOMADS
+Region
+Banaadir
+Galmudug
+Hirshabelle
+Jubalond
+Puntlan
+SomalilancW
+•outh West
+Average current mini-grid consumption (kWh/household/year)
+260
+375
+460
+220
+Settlements
+Urban
+Rural
+For the urban electricity demand in 2030, three levels were projected: low, medium and high. The first
+low and medium demand levels were based on demand growth projections based ESP consumption
+data and GDP growth projections, The high demand level was based on demand targets from the
+Power Moster Plon of 1325 kWh/household/yeor by 2030, Burke ond Csereklyer [12] found thot the
+elasticity for electricity in Sub-Sohoron Africa for the residential demand was (166, Therefore, it was
+assumed that the urban electricity demand in this study is elastic to GDP with a factor of 0.66 for the
+low demand projection, leading to a 37% demand growth by 2030 compared to 2020. For the medium
+projection, an elasticity of 1.0 was used os in the Power Master Plan, leading to Q 61% increase by 2030,
+Figure 14. Urban-rural divide calibrated for
+Somalia.
+In addition, the number of IDPs living in each urban cluster is
+also included. The IDPs included in the clusters are consistent
+with the values reported by the Camp Coordination and Camp
+Management (CCCM) and UNHCR dataset [11], They report 22
+million IDPs, mostly situated in urban settlements
+27
+For the urban electricity demand in
+2030, three levels were projected
+LOW
+MEDIUM
+HIGH
+28
+=== PAGE 18 ===
+The rural electricity demand was based on the Multi-Tier Framework (MTF) levels, In the low scenario, a
+demand of 10-50 1<Wh/capita was assumed, which is in line with Tier 1 and Tier 2 of the MTF, In the medium
+scenario, 10-100 1<Wh/capita was assumed, which includes also Tier 3 consumption at the higher end of the
+range, Finally, in the high demand scenario, 10 kWh/capita to 150 1<Wh/capita per year was used
+(corresponding to Tier 1 to Tier 3), in line with the rural demand levels considered in the Power Master Plon
+[13]. The summary of the demand scenarios is seen in Table 13,
+Table 13. Residential electricity demand scenarios
+Scenarios
+Low
+Medium
+High
+Urban
+ESP based demand, 0.66 elasticity and 4.9%
+GDP growth rate
+ESP based demand, 1 elasticity and 4.9% GDP
+growth rote
+Power Master Plan,
+0.66 elasticity, 4.9% GDP
+growth rote
+Rural
+10-50 kWh/capita yearly
+10-100 kWh/capita yearly
+10-150 kWh/copita yearly
+Furthermore, rural settlements were classified based on GDP and poverty levels to estimate where higher
+or lower demand were more likely, We refer to this as a Custom Residential Electricity Demand Indicative
+Target (CREDIT) Layer. The layer is based on two datasets: GDP (PPP per capita) [14] and the poverty rate
+[15] for each settlement. It is assumed that settlements which have a high GDP and low poverty rate can
+reach the higher end of the demand range presented and vice versa (i.e. a rural settlement with high GDP
+and low poverty rates can have a demand of 100 1<Wh/capita in the medium demand scenario) [16], For the
+low scenario we have almost all of the rural population in Tier 2. For the medium and high we also see an
+increasing Tier 3 distribution (see Figure 15),
+75 150 km
+Demand
+Rural Mid demand
+10 kWh/year and capita
+23 kWh/year and capita
+36 kWh/year and capita
+48 kWh/year and capita
+61 kWh/year and capita
+74 kWh/year and capita
+87 kWh/year and capita
+100 kWh/year and capita
+Figure 16. CREDIT-Iayer for Rural medium demand
+As on example we con see in Figure 16 for
+the rural settlements that the per capita
+demand is high where we see green and
+yellow, ond lower where it is redi
+The urban demand was also differentiated
+based on the state averages using Q
+CREDIT layer [16], The urban settlements
+with the lowest score (i.e. with low GDP
+and high poverty rates) were assumed to
+have o demand of 50% of the projected
+demand for
+the state,
+and the
+settlements with the highest score were
+assumed to have a demand if 150% of the
+projected urban demand for the state, This
+variation was based on the variation seen
+among the currently reported levels from
+the ESPs, In the low demand scenario,
+urban settlements was assigned 130-940
+kWh/household/year based on the CREDIT
+layer and projected average state
+demand. In the medium and high demand
+scenario, this was increased to 160-1110
+and
+660-2000 kWh/household/year
+respectively.
+100%
+70%
+60%
+50%
+0%
+Low
+Tier 1
+Medium
+Tier 2
+High
+Tier 3
+Figure 15. Rural demand split accounting for CREDIT layer
+29
+The low demand projections therefore in the urban oreos ronge between 30 kWh/copitQ per year, in the
+oreos where the poverty rate is the highest in combination with low GDP, to 231 kWh/capitQ where GDP is
+high and poverty rate is low, The medium demand ranged between 36 kWh/capita per year to 272
+kWh/capita per year. The high demand ranged between 175 kWh/capita per year to 351 kWh/capita per
+year, This lead to Q majority of the urban settlements in the low ond medium scenario in Tier 2 ond Tier 3,
+For the high demand scenario the majority of the urban population lead to o Tier 4 demand level (see Figure
+17),
+30
+=== PAGE 19 ===
+Urban demand split
+100%
+50%
+300/0
+20%
+10%
+Low
+Tier 2
+Medium
+Tier 3
+High
+Tier 4
+APPENDIX C
+Appendix C - Productive and social electricity demand process
+Demand for educational facilities
+Locations of educational facilities were collected from the federal Ministry of Education, Culture and
+Higher Education, the Puntland Ministry of Education website, UNICEF and the World Bonk [17], In total,
+2,084 primary and 898 secondary schools were identified, Out of these, only 15% of the primary and 8%
+of the secondary schools had their geographical locations in the form of coordinates reported. For the
+rest of the schools coordinates were retrieved using Nominotim ond information regarding the states,
+regions and districts of these schools [18], We estimate that 1702 and 665 of the secondary schools
+were correctly geo-located (82 and 74% respectively), Correctly geo-located refers to educational
+facilities that after processing in Nominatim fall within the correct sub-region (administrative level 2).
+These schools were complemented with 182 schools collected by UNICEF ond the World Bank [19], These
+schools however do not include the primary and secondary classifications, and are defined os
+Ounclassifiedt'. The resulting school layer is available on the Spatial Data Infrastructure platform set up
+by the consortium,
+total, 2,084 primary and 898 secondary schools
+Figure 17. Urban demand split accounting for CREDIT layer,
+31
+of the primary
+Secondary
+•geogrdphicol locutions
+Each school is assigned an indicative electricity demand The electricity demand for primary ond
+secondary schools is based on the typical appliances thot exist in each type of school, The demands
+assumed in this study were 605 kWh/year for primary schools and 2,145 kWh/year for secondary
+schools. These values are consistent with the values used in the Regional Off-Grid Electrification Project
+country reports and have also been confirmed through discussions ond correspondence with the World
+Bank [20],
+For the unclassified schools an assumption was made regarding the ratio of primary to secondary
+schools based on national estimates of the population in each age group by 2030, Primary school oge
+in Somalia is 6-13 years, while secondary school oge is 14-17 years, According to UNDESAts population
+estimates for 2030, the ratio between these age groups in Somalia will be to 1 in 2030 [21], This
+ratio was used to weigh the electricity demand in the unclassified schools, resulting in 1,018 kWh/year.
+The annual electricity demand for educational facilities in 2030 sums up to 2.6 GWh, assuming thot
+schools do not consume electricity outside of the school year, Each school's demand is added to the
+closest settlement. See Figure 18 for a map of all the schools used in the analysis and Table 14 for the
+estimated yearly regional electricity demand in primary and secondary schools.
+32
+=== PAGE 20 ===
+Demand for health facilities
+In order to assess the electricity demand for health facilities, we used data from the Ministry of Health
+ond the Somali Service Availability and Readiness Assessment 2016 (SARA), The health facilities are
+classified os health-centers, hospitals, health posts, referral health centers and health facilities with
+possible tuberculosis treatment (TB facilities), The healthcare facilities are classified into the USAID
+categories [22] based on WHO's Access to Modern Energy Services for Health Facilities in
+Resource-Constrained Settings - A Review of Status, Significance, Challenges and Measurement [23].
+These values were complemented with values discussed with the World Bank, Table 15 below lists
+associated daily electricity demand per category of health facilities determined after discussions with
+the World Bank.
+Table 15. Health facility categories ond associated electricity demand.
+0 75 150km
+Schools included in the analysis
+• Primary
+Unclassified
+• Secondary
+Figure 18, Map of educational facilities used in for the electrification analysis, Schools with
+classification are collected from the Ministry of Education, Culture and Higher Education and the
+Puntland Ministry of Education website. Schools without classification were collected by the World
+Bonk and UNICEF.
+Table 14, Number of schools per category identified in each sub-region and the associated yearly
+electricity demand, Note that no schools were identified in Jubbodo Dhexe.
+Ground data categorization
+Health posts
+Health center
+Referral health centers
+TB facilities
+Hospital (Small)
+Hospitals (Large)
+Categorization
+Health post (Cotegory l)
+Health center (Category II)
+Hospital (Category Ill) in settlements with
+less than 80,000 people
+Hospital (Category Ill) in major urban
+settlements with more than 80,000 people
+Electricity demand (kWh/day)
+4
+40
+1,200
+1,920
+Region
+Awdal
+Bol<ool
+Banaodir
+Bori
+BOY
+Golguduud
+Gedo
+Hiiraan
+Jubbada Hoose
+Mudug
+Nugaal
+Saaxil
+Sanaag
+Shabeelloha Dhexe
+Shabeelloha Hoose
+Sool
+Togdheer
+Waqoyi Golbeed
+Total
+33
+Yearly electricity
+demand (MWh/year)
+45
+14
+1,318
+145
+87
+76
+88
+150
+85
+104
+55
+46
+51
+186
+82
+49
+50
+2,640
+Secondary schools
+477
+19
+19
+14
+18
+46
+665
+Unclassified schools
+44
+55
+28
+46
+182
+In cases where a healthcare facility is overlapping one of the population settlements the electricity
+demand is assigned to that cluster, Demand for healthcare facilities thot did not directly overlap ony
+settlement is assigned to the closest settlement
+A limitation of the method is that it is highly dependent on the quality of data inputs, Furthermore, the
+some demand was assumed across the same categories of healthcare facilities, not taking into
+account thot certain e.g. health centers consume more or less electricity thon others based on their
+specialization, The total demand for health facilities in this analysis is 37 GWh per year, Half of this
+demand is in the 20 largest settlements in the country. Table 16 lists the regional distribution of health
+facilities and their yearly total electricity demands,
+34
+=== PAGE 21 ===
+Table 17. Priority service delivery focilities served by mini-grids [2020]
+Table 16. Number of health facilities per category identified in each region and the associated yearly
+electricity demand. Note that no health facilities were identified in Jubbado Dhexe.
+Region
+Awdal
+Bakool
+anoodir
+Bari
+BOY
+Golguduud
+Gedo
+Hiiroon
+Jubbada Hoose
+Mudug
+Nugaal
+Saaxil
+Sanaag
+Shabeellaha Dhexe
+Shabeellaha Hoose
+Sool
+Togdheer
+Woqoyi Galbeed
+Total
+Yearly electricity
+demand (MWh/year)
+1,132
+1,022
+3,767
+1,738
+2,248
+3,326
+2,446
+1,022
+1,607
+3,023
+1,441
+1,758
+2,559
+1,564
+2,311
+804
+1,318
+3,739
+37,005
+Number of health
+centers
+27
+10
+36
+34
+28
+17
+16
+22
+14
+48
+19
+28
+17
+38
+23
+27
+37
+447
+Number of health
+posts
+25
+71
+15
+31
+17
+14
+23
+21
+33
+31
+294
+Number of
+hospitals
+58
+Mini-grid access of public facilities
+In total 799 health facilities (58 hospitals, 294 health posts and 447 health centers) and 2,549 education
+facilities (1,702 primary, 665 secondary and 182 unclassified schools) are identified. In addition to this 4,840
+water points were identified (the water points ore however not included in the electrification analysis,
+instead they are visualized on the platform), Table 17 lists the total number of facilities in each region as
+well as the number and percentage of facilities located in settlements that currently have access to
+mini-grids, In total 995 (21%), 348 (44%) and 1,329 (52%) of all water points, health and educational facilities
+respectively ore located in a settlement that currently hos access to a mini-grid,
+t r.—u.
+Faciltytype
+Berkad
+Borehole
+Dom
+Dug well
+Spring
+LHeolth facilities
+Hospitals
+Health posts
+Health centers
+LEducotionfociIities——
+Primary
+Secondary
+Unclassified
+Lwater point
+Berkad
+Borehole
+Dom
+Dug well
+Spring
+CHealth facilities
+Hospitals
+Healthposts
+Health centers
+LEducotionfocilities
+Primary
+Secondary
+unclassified
+Water points
+Berkad
+Borehole
+Dom
+Dug well
+Spring
+[Health facilities
+Hospitals
+Health posts
+Health centers
+Education facilities
+Primary
+Secondary
+Unclassified
+Water points
+Berkod
+Borehole
+Dom
+Dug well
+Spring
+[Health Ities
+Hospitals
+Healthposts
+Health centers
+FEducotIonfocilitles
+pnmar
+Secondary
+unclassified
+Water points
+Berkad
+Borehole
+Dom
+Dug well
+Spring
+Intersecting settlement with mini-grid. Absolute
+values and percentages in parenthesis
+Awdal
+37 (11)
+9 (111
+4 [181
+21 (11)
+20 (38)
+I [100)
+12 (27)
+12 (27)
+Bakool
+48 (16)
+9 (43)
+5 (10)
+34 [151
+2 (100)
+a (40)
+o [01
+2 (100)
+Banaadir
+158 (99)
+84 [100)
+o [01
+74 (971
+5 [100)
+2 (100)
+35
+689 (71
+340
+349173)
+o [01
+Bari
+154 (35
+76 (53)
+n (42)
+I (0.8)
+(16
+2 (100)
+13 (38)
+4139
+63 [361
+II (58)
+Bay
+78 (38)
+o [01
+38
+35(39)
+5 (56)
+Total
+349
+1
+22
+195
+53
+53
+1
+25
+27
+44
+44
+294
+21
+50
+223
+2
+10
+18
+16
+2
+160
+84
+76
+5
+2
+36
+96
+48B
+477
+44
+144
+182
+2
+71
+34
+9
+173
+19
+204
+78
+35
+36
+=== PAGE 22 ===
+Heat ac It es
+Hospitals
+Health posts
+Health centers
+ucation facilities
+Primary
+Secondary
+Unclassified
+Water points
+Berkad
+Borehole
+Dam
+Dug well
+Spring
+Health facilities
+Hospitals
+Health posts
+Health centers
+E ucation facilities
+Primary
+Secondary
+Unclassified
+Water points
+Berkad
+Borehole
+Dam
+Dug well
+Spring
+Hospitals
+Health posts
+Health centers
+Education facilities
+primary
+Secondary
+Unclassifie
+Hiiraan
+Water points
+Berkad
+Borehole
+Dam
+Dug wel
+Spring
+Health facilities
+Hospitals
+Health posts
+Health centers
+Primary
+Secondary
+Unclassified
+Water points
+Berkad
+Borehole
+Dom
+Dug wel
+Spring
+ealth facilities
+Hospitals
+Health posts
+Healthcenters
+ducation facilities
+primary
+Secondary
+Unclassifie
+37
+21 (68)
+3 (100)
+18 (64)
+30 (29)
+6 (55)
+alguduu
+51
+40 (31)
+11 (7)
+15 (47)
+7 (100)
+8 (47)
+21127)
+16 (27)
+5 (26)
+Gedo
+5 (100)
+3 (27)
+27 (22)
+5 (100)
+3 (20)
+10 (63)
+48 (45)
+6 (55)
+Hiiraan
+7 (19)
+16 (53)
+1 (100)
+22 (100)
+122 (68)
+100 (66)
+22 (81)
+Jubbada Dhexe
+3
+28
+104
+11
+397
+71
+129
+33
+164
+32
+7
+8
+59
+19
+179
+5
+11
+122
+7
+36
+5
+15
+16
+118
+107
+11
+100
+23
+10
+30
+22
+179
+152
+42
+4
+10
+26
+2
+L
+Water points
+Berkad
+Borehole
+Dom
+Dug well
+Spring
+Health facilities
+Hospitals
+Health posts
+Health centers
+Education fociljties
+Primary
+Secondary
+Unclassified
+Water points
+Berkad
+Borehole
+Oom
+Dug well
+Spring
+(Health facilities
+Hospitals
+Health posts
+Health centers
+FEducotion facilities
+Primary
+Secondary
+unclassified
+Nugaal
+Water points
+Berkad
+Borehole
+Dom
+Dug well
+Spring
+Health facilities
+Hospitals
+Health posts
+Health centers
+[Education facilities
+Primary
+Secondary
+unclassified
+I
+Water points
+Berkod
+Boreho e
+Oom
+Dug well
+Spring
+LHeaIth acl Ities
+Hospitals
+Health oosts
+HealthQenters
+Primary
+Secondary
+Unclassified
+Water points
+L.
+Berkad
+Boreho e
+Dom
+Dug well
+Spring
+Jubbada Hoose
+15 (8B)
+2 (1001
+13 (931
+74 (81)
+14 [100)
+Mudug
+65 (161
+57 (28)
+26 (31)
+3 (75]
+2 (61
+21 (44)
+58 (46)
+51 (47)
+7 (39)
+Nugaal
+71 (26)
+25 (42)
+36 (23)
+1008)
+2 (1001
+11(58)
+a (32
+23 [35)
+Saaxil
+32
+7 [641
+Sanaag
+60 (13)
+251251
+1 (111
+33 (121
+2
+2
+1
+2
+1
+14
+05
+91
+14
+397
+24
+204
+15
+153
+1
+4
+31
+4B
+26
+10B
+18
+73
+59
+158
+56
+8
+2
+19
+66
+7
+186
+56
+78
+52
+2B
+3
+14
+11
+457
+100
+274
+65
+38
+=== PAGE 23 ===
+EHealthÄfdtiIitiéÄ
+Hospitals
+Health posts
+Health centers
+KEducotion facilities
+Primary
+Secondary
+Unclassified
+Water points
+Berl<0d
+Borehole
+Dom
+Dug well
+Spring
+Health fdtilities
+Hospitals
+Health posts
+Health centers
+Education facilities
+Primary
+Secondary
+Unclassified
+Water points
+Berl<0d
+Borehole
+Dam
+Dug well
+Spring
+Health fdtilities
+Hospitals
+Health posts
+Health centers
+t
+Education facilities—.-
+primary
+Secondary
+Unclassifie
+Water points
+Berkad
+Borehole
+Dam
+Dug wel
+Spring
+Healthfacilities
+Hospitals
+Health posts
+Health centers
+Education facilities
+Primary
+Secondary
+Unclassified
+r Togdheer
+Water points
+Berl<0d
+Borehole
+Dom
+Dug well
+Spring
+Health facilities
+Hospitals
+Health posts
+Health centers
+Education facilities
+Primary
+Secondary
+Unclassifie
+39
+(29)
+4 180)
+11 (48)
+2 (33)
+S abeellahaDhexe
+35 (38)
+19 (53)
+16 (30)
+3 (100)
+15 (88)
+6 (61)
+43 (59)
+3 (100)
+Shabeellaha Hoose
+17 (26)
+12 (34)
+5 (21)
+21 (47)
+4 (100)
+I (33)
+16 (42)
+16 (11)
+9 (20)
+Sool
+15 (5)
+1 (100)
+13 (57)
+2 (67)
+33 (60)
+ogdheer
+73 (47)
+2 (100)
+17 (63)
+19 (33
+11 (41)
+2 (100)
+6 (21)
+5
+23
+23
+61
+55
+6
+92
+36
+1
+55
+1
+73
+3
+65
+35
+6
+24
+45
+4
+38
+144
+46
+370
+2
+56
+4
+282
+26
+45
+21
+23
+33
+3
+55
+338
+22
+156
+28
+130
+2
+62
+2
+33
+27
+2
+28
+Water points
+Berkad
+Borehole
+Dam
+Dug well
+Spring
+Health facilities
+Hospitals
+Health posts
+Health centers
+ducotionfocilitres
+Primary
+Secondary
+Unclassified
+Woqooyl Galbeed
+50 (10)
+1 (13)
+12 (9)
+1019)
+26 (12)
+114)
+5 [83]
+29 (78)
+23 (44
+6 [100)
+17 (37)
+494
+8
+137
+111
+211
+6
+31
+52
+6
+46
+40
+=== PAGE 24 ===
+II
+c)
+b)
+d)
+Harvested Area (ha)
+C] 1 - 1,000
+9,000 -
+Electricity demand for agricultural irrigation
+Approximately 46 percent of the employed population in Somalia work in the agricultural sector. Out of this,
+54 percent work in crop cultivation. Agriculture is also identified as the highest priority by 4 out of 5 Federal
+Member States according to the Somalia National Development Plan. Agricultural production in Somalia
+greatly suffers from post-harvest storage techniques, The most commonly used grain storage practices are
+traditional underground storage pits lined with clay. Due to the under-equipped nature and limitations of
+post-harvesting management techniques in Somalia, our focus in the agricultural sector is on demand for
+agricultural irrigation. Irrigation is very important in the agricultural production process as it offers
+opportunity to stabilize crop yield. The methodology to estimate the electricity required to pump ground
+and surface water for crop irrigation is a modified version of the methodology developed in a case study of
+Mozambique, by KTH and Vivid Economics for the World Bank in Selection No. 1258760 Agricultural demand
+modelling for geospatial electrification planning in SSA. The data and methodology used is described below.
+Data
+The Ministry of Agriculture provided valuable input data for the analysis. For this study four crops were
+modelled; sorghum, maize, dry beans and sesame. These crops cover approximately 90% of the total
+harvested area in Somalia according to FAO [24] and MapSPAM [25].
+Methodology
+The MapSPAM data comes in 10 1<m2 resolution and is downscaled to 1 1<m2 using geospatial covariates. The
+methodology is split into three separate parts: pre-processing, downscaling and demand assessment,
+Pre-processing
+The downscaling process is based on sub-regions while the MapSPAM data hos a spatial resolution of 10
+km2. The first step is to aggregate the MopSPAM data to Somalia's regions (administrative level 2). The
+preprocessing results maps with area harvested per administrativ unit (see Figure 19 below).
+41
+Figure 19. Harvested area reported by MapSPAM aggregated to administrative level 2 for the
+four modelled crops; a) sorghum b) sesame c) maize d] dry beans
+42
+=== PAGE 25 ===
+Downscaling
+Following aggregation, a downscaling is done in order to infer a higher resolution of 1 km 2. In order to do
+this a list of 15 geospatial covariates (predictors) are used:
+03
+Average precipitation
+Drainage class
+04
+Average wind speed
+12
+Enhanced vegetation
+index
+05
+Soil pH in water
+05
+Normalized difference
+vegetation index
+06
+Depth to bedrock
+06
+Elevation
+07
+Bulk density
+07
+Crop land cover
+08
+Clay content
+Average temperature
+09
+Texture class
+02
+Average solar
+irradiation
+Soil organic carbon
+The predictor datasets were extracted to a 1 1<m2 base grid and used as an input in the Fine-Scale Land
+Allocation Tool (FLAT). FLAT is an open source tool based on an econometric framework which utilizes
+biophysical measurements, aggregating crop land statistics to develop pixel level cropland allocation
+predictions. The output of the FLAT predicts the crop allocation at a higher (downscaled) resolution.
+Apart from the 15 predictors listed above a land cover map depicting crop land at 30 m2 resolution from
+the Global Food Security-Support Analysis Dota [26] is used in order to ensure that the downscaled
+results from the FLAT overlap l<nown agricultural land. These steps result in a 1 km2 point layer
+representing the hectares of agricultural land across the study area.
+Demand assessment
+In each of the points generated from the downscaling process the water requirements and resulting
+electricity demand for irrigation purposes are determined, This is mainly adopted from FAO Irrigation
+and Drainage paper 56 [27] and FAO Irrigation Manual, Volumel, Module 4 [28], The steps can be broken
+down into four phases:
+3.
+4.
+The effective rainfall is calculated based on the monthly precipitation dotat The difference
+between the effective rainfall and monthly crop water requirements gives an estimate of the
+monthly irrigation needs, The crop water requirements are dependent on the crop calendar
+and the crop coefficients.
+Finally, the irrigation needs ore determined, Based on the irrigation requirements, the
+electricity demand used to pump water at each location is calculated. The electricity demand
+depends on various factors such as the pump efficiency, the friction factor for the pump, the
+water depth and volumetric demand for water, This process outputs the electricity demand for
+agricultural irrigation in each 1 km2 of agricultural land,
+1.
+2.
+During the first phase we model the evapotranspiration of the specific crop,
+The crop calendar and the corresponding planting, growing and harvesting periods for the four
+crops modelled is obtained from FAQ, The crop calendars are divided into four regions, but for
+all the modelled crops, the dotes for each growth stage are the same in the entire country and
+only dependent on season (deyr or gu) (see Figure 20)
+Assumptions
+Some important assumptions are mode in the above steps:
+Initial stage
+Developement stage
+Mid-season stage
+Late season stage
+1.
+2,
+3.
+4,
+Dry bean
+Maize
+Sesame
+Sorghum
+Dry bean
+Maize
+Sorghum
+start
+1/10
+1/10
+1/10
+10/10
+15/4
+20/4
+20/4
+20/10
+20/10
+31/10
+31/10
+30/4
+10/5
+10/5
+start
+21/10
+21/10
+1/11
+1/11
+1/5
+11/5
+11/5
+end
+Deyr
+29/12
+29/12
+19/11
+9/11
+30/6
+19/6
+19/7
+start
+30/12
+30/12
+20/12
+10/1
+1/7
+20/6
+20/7
+end
+20/1
+20/1
+31/1
+15/2
+15/7
+10/7
+10/9
+start
+21/1
+21/1
+1/2
+16/2
+16/7
+11/7
+11/9
+end
+21/2
+21/2
+28/2
+26/3
+16/8
+11/8
+11/10
+Figure 20. Crop calendars per season for the modelled crops.
+43
+Only currently rainfed areas were considered
+Harvesting of maize, dry beans and sorghum is made in both deyr (Sep/0ct-Dec) and gu (April -
+June). No information was available for how much was harvested of each crop in each season and
+therefore it was assumed thot the three aforementioned crops were harvested half in deyr and half
+in gu, The evapotranspiration is lower in gu and therefore the water and electricity demand is larger
+in this season on average, therefore this division has an effect on the demand.
+It is assumed thot the same irrigation method is used across Somalia.
+Crop coefficients are important for the analysis as it defines how well the uptake of water is for
+different crops in different regions, These coefficients differ based on location, crop and growth
+stage. The same crop coefficients are used per crop as listed by FAO (distinguishing them based on
+crop type and growth stage, but not location),
+44
+=== PAGE 26 ===
+Results
+The modelled electricity demand for agricultural irrigation totals 47.3 GWh yearly, see Table 18 for a
+breakdown of demand per crop and season. Figure 21 shows the spatial distribution of the downscaled
+agricultural land in need of electricity for irrigation purposes. The maps show electricity demand in
+southern and central Somalia mainly, while Puntland and Somaliland hove less demand due to smaller
+shares of harvested areas, One of the assumptions made was that an equal portion of the harvest is
+happening per season. Even in this case the electricity need for deyr is far higher than for gu due to
+evapotranspiration being on average 20% lower (refer to Table 19 below). The split between seasons is
+therefore important, The productive electricity was added to the total demand of the intersecting (or
+closest) cluster, Table 19 shows the yearly electricity demand per region,
+Table 18.Aggregated notional annual electricity demand for irrigation per crop and season
+-3
+Table 19, Yearly electricity demand for agricultural irrigation by sub-region.
+Crop
+Beans, dry
+Maize
+Sesame
+Sorghum
+Total
+la)
+3a)
+Electricity demand during gu (GWh/year)
+0.6
+0.3
+9.0
+9.9
+Region
+Awdal
+Bakool
+Banaadir
+Bori
+Boy
+Golguduud
+Gedo
+Hiiraon
+Jubbodo Dhexe
+Jubbada Hoose
+Mudug
+Nugaal
+Saaxil
+Sanaag
+Shabeellaha Dhexe
+Shobeellaha Hoose
+Sool
+Togdheer
+Woqoyi Golbeed
+Total
+Commercial demand
+Harvested area Cha)
+13,900
+6233
+622
+87,309
+5,125
+21,169
+34,516
+25,755
+52,384
+3,553
+5,421
+3,930
+60,922
+77,968
+1,893
+8,141
+408,841
+Electricity demand for agricultural
+irrigation (MWh/year)
+365
+1,450
+150
+11,890
+1,370
+1710
+4,310
+530
+1,410
+1210
+15,410
+5,380
+740
+1,400
+47,325
+2b)
+1
+1b)
+3b)
+rr¯y•
+Electricity demand during deyr
+(GWh/year)
+9.8
+11.1
+37.4
+4b)
+The commercial demand for the modelling runs were added as a ratio to the urban residential demand,
+From the survey from the ESP the commercial demand amounted to 25% of the residential demand,
+Therefore, to account for the commercial demand in the urban oreos, the growth of the commercial
+demand was assumed proportional to the residential demand in all urban areas. No commercial demand
+was included for rural settlements.
+ESP the
+commercial demand
+o
+o
+residential demand
+Figure 21. Downscaled regions with irrigation demand for the four different crops during both seasons
+1) sorghum 2) sesame 3) maize 4) dry beans, a) gu and b) deyr,
+45
+growth
+of the commercial demand
+46
+=== PAGE 27 ===
+APPENDIX D
+Appendix D - Geospatial electrification model
+What is OnSSET
+KTH-dES, in collaboration with partners, has developed the GIS-based Open Source Spatial
+Electrification Tool (OnSSET) to help identify least-cost electrification options. OnSSET has been used
+for electrification analyses in many developing countries and outputs have been featured in high
+impact peer reviewed journals and cutting-edge publications (e.g. [16], [29]), Furthermore, OnSSET has
+been used for electrification analysis and capacity building activities by UNDESA, UNDP, World Bonk and
+others, It was featured as the main tool in United Nations Modelling Tools for Sustainable Development
+[30] for estimating the investments needed to achieve universal electricity access. Lil<ewise, OnSSET
+has been used to develop a web-based open source application for high-level investment scenarios in
+collaboration with the World Bank, ESMAP and other partners (the Global Electrification Platform[31]).
+OnSSET identifies the least-cost technology mix in order to accomplish universal electrification. The tool
+can also give intermediate investment scenarios and for this study the intermediate year of 2025 has
+been chosen. The cost that is optimized is the cost to the consumer, therefore the scenarios ensure
+that the lowest possible LCoE, given the different scenario parameters, is achieved in each settlement.
+The modelled technologies can be customized from study to study. For the Indicative Least Cost
+Geospatial Electrification Plan To Achieve Universal Access In Somalia the following five
+technology-configurations are available:
+Grid connection/extension (only available when there is a transmission backbone)
+Mini-grids (PV/diesel, Wind/diesel, Hydro)
+Stand-alone technologies (Solar PV)
+There are different techno-economic costs (investments, operating & maintenance costs and fuel costs,
+storage where applicable) associated with each of the different electrification options listed above.
+Different costs apply depending on how the non-grid options are operated; as stand-alone systems or
+aggregated in the form of mini-grids (important for reliability and bacleup logistics), These generating
+costs are compared with the cost of grid extension, subsequent strengthening and connection. These
+ore a function of e.g. distances from existing infrastructure, resource availability and the electricity
+demand in each settlement.
+The levelized costs of electricity (LCoE) is calculated for each electrification option in every settlement,
+Depending on the geospatial characteristics (demand, resource availability, distance from the nearest
+grid, accessibility to roods, etc.), OnSSET determines the least-cost supply option per settlement (for
+definition of settlement see Appendix A). The results can be presented in various formats (interactive
+maps, graphs, images, tables etc.),
+47
+SOLAR RESOURCE
+GLOBAL HORIZONTAL IRRADIATION
+WORLDBANKOROUP
+ESMAP
+SOMAUA
+Kisrnayo
+Bertie ia
+.Hargeisa
+Mogadishu
+Renewable energy resources
+Three renewable energy resources were
+included in the model: solar, wind and
+hydro. The solar resource can be utilized in
+hybrid PV/diesel mini-grids
+for
+or
+stand-alone PV modules, while wind and
+hydro are considered only for mini-grids, For
+PV-panels, the solar resource that is most
+important
+the Global Horizontal
+is
+Irradiation (GHI). The GHI potential is good
+across all of Somalia, but somewhat higher
+in the northern parts (Figure 22). Somalia
+also has good wind resources, Wind power
+potential is generally found to be higher
+closer to the coasts, and in the eastern
+parts of the country (Figure 23), Finally,
+potential locations for run-of-river mini-grid
+generation ore considered along the main
+Jubba and Shabelle rivers, based on a
+model developed by KTH-dES [321 (see
+Igure 24).
+c.f GHt.
+Daily
+6.6
+Figure 22, Solar Global Horizontal Irradiation, Source:
+GlobalSolorAtlas.info [33]
+48
+=== PAGE 28 ===
+GLOBAL WIND ATLAS
+MEAN WIND SPEED MAP
+SOMALIA
+ESMAP
+Figure 23. Mean annual wind speed at 50 m altitude (m/s). Source:
+GlobalWindAtlas.info [34]
+Figure 24, Potential run-of-river hydropower
+mini-grid sites, Source: KTH analysis
+APPENDIX E
+Appendix E - Data collection
+A number of public and private partners has supported the data collection. In total, four federal state
+ministries (the Ministry of Energy and Water Resources, Ministry of Education, Culture and Higher
+Education, Ministry of Health ond Ministry of Agriculture and Irrigation), the five Federal Member States
+ond 32 ESPs hove provided their support in collecting and/or providing data for the project so far, In
+total, the 32 ESPs have provided data for 38 locations, as some of them are operating in more than
+one location.
+The ESPs that hove supplied dato are; Adoado Electric Company, Al-Towba Electric Company, Amol
+Technology, Badhan Electricity Company, Baidoa Electric Company, BECO Powering Somalia, Bil<ash
+Power Supply Company, Blue Sky, Dayah Electric Company, Dayax Power Supply, El Wal( Electric
+Compony, ENEE, Galmudug Electric Compony, Goboad Energy, Hodeed Electric Compony, Holgon Power
+Supply, Hilaoc Electric Compony, Ilyas, Jalalaqsi Power Supply, JESCO, KAAH Electric Company, Mohas
+Electric Company, Mogadishu Power Supply, NECSOM, NEPCO, Shabelle Energy Service, Somwater,
+Somali Power and Lighting Company, Warsheikh Electric Company, Wehliye Power Supply, WESCO and
+Yako Electric Company,
+Their contributions are gratefully acknowledged, as this data significantly improves the quality and
+usefulness of this analysis, and provides a strong base for future updates, Data is uploaded to the
+Spatial Data Infrastructure (SDI) in accordance with the terms under which the different stakeholders
+provided it. The SDI is further described in Appendix G of this report,
+Geospatial datasets
+OnSSET relies on the collection and preparation of GIS layers, The number of GIS layers needed for the
+analysis is highly customizable and dependent on the scope of the analysis. Table 20 below presents
+the main GIS datasets used in this analysis together with a brief description of the dataset along with
+its functionality and source,
+Table 20. GIS datasets used in the electrification analysis
+Dataset
+Population density
+& distribution
+Building footprints
+Description
+Spatial identification and
+quantification of the current
+(base year) population, This
+dataset sets the basis of the
+OnSSET analysis os it is directly
+connected to the electricity
+demand ond the assignment of
+energy access goals.
+Residential ond non-residential
+building footprints captured
+using satellite imagery.
+Datasets used
+Population clusters
+developed by KTH
+based on the
+constrained WorldPop
+data
+WorldPop's Maxar
+footprints
+49
+Year
+Population clusters
+developed 2021.
+WorldPop dato
+calibrated by the
+KTH-teom, see
+Appendix A.
+Building footprints for
+Somalia were based
+on satellite imagery
+from 2019 (18%), 201B
+(39%), 2017 (21%), 2016
+(9%), 2015 or earlier
+(12%). See Appendix A
+for more information
+50
+=== PAGE 29 ===
+Dataset
+Location of
+Internally Displaced
+Populations
+Administrative
+boundaries
+Existing mini-grid
+locations
+Description
+The location and number of
+internally displaced people
+Delineates the boundaries of
+the analysis.
+Used to identify and spatially
+calibrate the currently
+electrified/non-electrified
+population, and act os o basis
+for extension to new
+settlements.
+Potential future HV Represents the future plans for
+network (63-330
+W)
+Existing MV
+network (20 - 33
+W)
+Roods
+Poverty
+51
+the extension of the notional
+electric grid, It Olso includes
+extension to current/future
+substations, power plants,
+mines ond queries.
+Used to identify ond spatially
+calibrate the currently
+electrified/non-electrified
+population, ond act os o basis
+for extension to new
+settlements.
+Current rood infrastructure is
+used to specify grid extension
+suitability.
+Poverty ratio per sub-notional
+level, Used in order to derive
+disaggregated electricity
+demand in combination with
+GDP layer.
+Datasets used
+cccM ond UNCHR [11]
+GADM [341
+A combination of data
+collected from focal
+points by Recon, the
+PMP and the World
+Bonk
+Two different
+backbones as reported
+by the PMP.
+Dota collected from
+ESPs, PMP and state
+focal points
+OpenStreetMap
+Dota derived from
+Somali Poverty and
+Vulnerability
+Assessment: findings
+from Wave 2 of the
+Somali High
+Frequency Survey [15]
+by the World Bonk.
+Poverty maps ore
+reported per
+sub-region for urban
+ond rural/nomod
+regions
+Year
+2019
+2018
+2017 (PMP), 2020
+(World Bonk and
+Recon)
+2020 (continuously
+updated).
+Published in 2019,
+survey dato from
+December 2017.
+Dataset
+GDP
+Elevation
+Land cover
+Night-time lights
+GHI
+Wind speed
+Hydropower
+potential
+Travel time
+Description
+GDP per capita (PPP), used in
+order to derive disaggregated
+electricity demand in
+combination with poverty layer.
+The elevation mop is used in
+order to determine the terrain
+slope. Both the terroin slope
+and the elevation are used in
+order to specify the grid
+extension suitability.
+The land cover map classifies
+the study oreo into 17 specific
+regions. Different regions imply
+different penalties on the grid
+extension
+Dataset used to identify and
+spatially calibrate the currently
+electrified/non-electrified
+population,
+Provide information about the
+Global Horizontal Irradiation
+(1<Wh/m2/year) over on area.
+This is later used to identify the
+availability/suitability of
+Photovoltaic systems.
+Provide information about the
+wind velocity (m/sec) over an
+oreo. This is later used to
+identify the
+availability/suitability of wind
+power (using capacity factors).
+Points showing potential
+mini/small hydropower
+potential. Dataset developed by
+KTH- dES including
+environmental, social ond
+topological restrictions ond
+provides power availability in
+each identified point.
+Visualizes spatially the travel
+time required to reach from ony
+individual cell to the closest
+town with o population of ot
+least 50,000 people.
+Datasets used
+DRYAD [14]
+CGIAR-CSI SRTM (35)
+MODIS land cover (36]
+VIIRS [37)
+Global Solar Atlas [331
+Global Wind Atlas [38]
+KTH
+Malaria Atlas Project
+Year
+Published 2019, source
+data from 2015.
+2000
+2019
+2016 yearly composite
+2019
+published 2019, source
+dato from 2008-2017
+2016
+Published 2018, source
+dato from 2015.
+52
+=== PAGE 30 ===
+Dataset
+Location of schools
+Locations of health
+2016, 2020
+care centers and
+hospitals
+Locations of water
+points
+Description
+Locations of
+primary/secondary/technical
+training schools. This will be
+important for the determination
+of electricity consumption in the
+educational sector
+Locations of health care centers
+and hospitals. This will be
+important for the determination
+of electricity consumption in the
+health sector
+Location water points in
+Somalia
+Datasets used
+Ministry of Education,
+Culture and Higher
+Education, and the
+Puntland Ministry of
+Education website, the
+World Bank and
+UNICEF [17]
+Somali Service
+Availability and
+Readiness
+Assessment 2016,
+Ministry of Health
+2020
+FAO SWALIM [40]
+Year
+2020-2021
+2020
+Mini-grid costs
+Generation costs
+Table 22 outlines the component costs used for calculating mini-grid generation costs for hybrid
+PV/diesel mini-grids from ESMAP, Rocky Mountain Institute and as reported by ESPs, All of the ESPs
+have reported to be using diesel generators, while only four ESPs have reported use of PV panels as
+well (on a total of five locations), Not seen in the tables are wind turbine costs, which are estimated at
+2,800 USD/kWp [411 and hydro-powered mini-grids, with on estimated generation investment cost of
+USD/I<W [42] [43],
+Table 22, Mini-grid component costs and technology life-times,
+Parameter
+Solor panel &
+mounting
+Diesel generator
+PV inverter
+Batteries
+Battery inverter
+Cost
+USD/I(WP
+IJSD/kWp
+LISD/I(VA
+USD/l<Wh
+LISD/kWp
+International
+least-cost (ESMAP,
+RMI) [44] [45]
+534
+261
+80
+139
+142
+Local costs
+(ESPs)
+1,500
+150
+45
+Life-time (RMI)
+[451
+25
+25
+25
+Techno-economic parameters
+The LCoE for different technology configurations is highly dependent on the techno-economic
+parameters attributed to them, Specifics for each existing technology configuration in OnSSET is given
+in this section, The values below ore derived from Q mix of international sources, information from the
+PMP and dato collected from ESPs.
+Stand-alone PV costs
+The costs for Stand-alone PV used in the analysis were collected from local suppliers, Stand-alone PV
+costs are presented as IJSD/I<W of PV capacity, These costs, presented in Toble 21 below, represents
+the system cost, including batteries,
+Toble 21. Stand-alone PV cost parameters. Left column: peak power capacity of the solar panel,
+right column: the investment cost per I<W.
+Type of System
+<2 Wp
+QOO wp
+>250 wp
+53
+Investment Cost (USD/kW)
+11,000
+9,200
+2,200
+2,625
+2,750
+2,700
+Life-time
+(ESPs)
+25
+IO
+IO
+54
+=== PAGE 31 ===
+Distribution costs
+KTH hos collected distribution costs from a number of sources, including EUEI PDFs Low Cost Grid
+Electrification Technologies [46] (2015) report, ESMAP's Model for Electricity Technology Assessment
+[47] (2012), and Sub-Saharan Africa: Introducing Low-cost Methods in Electricity Distribution Networks
+[48] (2006) report, In addition, KTH has reviewed these through several electrification analyses in the
+past years, Low-cost technologies as reported by international sources and local costs reported by
+ESPs are presented in Table 23 below.
+Table 23. Distribution system costs and technology lifetimes,[16], [49]
+Table 24. Potential HV transmission network costs.
+Option
+split HV
+backbone
+National HV
+backbone
+Diesel cost
+Investment cost
+(million USD) [31
+760
+1,280
+Transmission cost
+(USD/kWh)
+0.05
+0.075
+Generation cost
+(USD/kWh)
+0.05
+0.05
+Combined transmission and
+generation cost (USD/kWh)
+0.10
+0.125
+Parameter
+MV line cost -
+11-33 kV
+LV line cost -
+0.240 kV
+Service
+transformer
+Household
+connection cost
+Unit
+IJSD/km
+IJSD/km
+USD/50 kVA
+IJSD/
+Household
+International
+least-cost
+technologies
+9,000
+5,500
+3,500
+Local ESP costs
+26,600
+16,000
+30
+Life-time
+(ESPs)
+20
+15
+Two diesel fuel cost projections are used for the study (Table 25), Both are based on current diesel
+costs as reported in the Power Master Plan, from which the low and high costs are projected from the
+current cost based on two trajectories for crude oil prices. These costs are assumed to be reflective of
+the moin urban centers, An additional fuel transportation cost is added for oll settlements with
+populations below 50,000 people, following the approach of Szabo et oli [50],
+Table 25. current and projected diesel fuel cost
+Transmission backbone costs
+Two potential transmission backbone options are considered in this study, Their costs and layouts are
+based on the Power Master Plan. As reported in the PMP, the split transmission backbone hos a
+required investment cost of 760 million USD (460 million USD for the northern section and 300 million
+USD for the southern section) including HV lines and substations and the national transmission
+network requires investments of 1,280 million USD. It is estimated in the PMP that the former hos a
+transmission cost of 0.05 USD/l<Wh (0.06 USD/kWh in the north and 0.04 in the South) and that the
+latter has a transmission cost of 0.075 IJSD/l<Wh. On top of this comes the cost of power generation
+and distribution network. The distribution network follows the costs presented above. Potential
+generation options outlined in the PMP are a hydropower plant at Bardhere and Q thermal power plant
+at Berbera, or else imports from neighboring countries, IRENA estimates power generation costs from
+new power plants in 2019 to be, on average, 0.047 IJSD/l<Wh for hydropower, 0.07 USD/l<Wh for
+utility-scale solar PV and 0.05 IJSD/l<Wh for coal-power [43], In this study, generation costs from large
+power plants are estimated at 0.05 USD/l<Wh, The generation and transmission costs used in this
+study for Q potential HV transmission backbone are presented in Table 24 below, Note that these do
+not include the cost of the distribution network, and potential MV connection line, which are calculated
+separately,
+Parameter
+Diesel current
+price
+Diesel future low
+price
+Diesel future
+high price
+Value
+0.6
+0.6B
+0.9
+Unit
+USD/liter
+USD/liter
+USD/liter
+Source
+Power Master Plan
+ElA Annual Energy Outlook
+2020 [51) (reference case)
+ElA Annual Energy Outlook
+2020 [51] (high projection
+case)
+!rgv
+55
+56
+=== PAGE 32 ===
+APPENDIX F
+Appendix D - Geospatial electrification model
+Electrification Scenarios
+Three main types of scenarios have been developed with regard to different electrification strategies.
+The first two are based on a case where only mini-grids and stand-alone PV technologies are available
+until 2030. The second two are based on the development of a notional transmission backbone. It is
+assumed that this HV backbone will be available only after 2025. The scenarios are developed to
+explore a wide range of possible developments and their costs, Each one of the three moin scenarios
+are subject to sensitivity analysis with regards to five l<ey drivers; demand growth, intensification
+strategy, distribution costs, PV panel costs and diesel fuel costs. In the following sections we refer to
+the above as six levers, where the first lever represents the main scenario and the five other levers
+represent the five drivers,
+Levers
+The six (6) levers and their options are outlined in detail below, Each lever comes with two or three
+options, for a total of 144 scenarios, Each of these scenarios can be visualized on the online platform,
+Lever 1. Electrification strategy (main scenarios)
+Business as Usual - Mini-grids and stand-alone only.
+The first main scenario type includes mini-grid and stand-alone PV technologies only. The
+technology that can meet the demand at the lowest cost in each location is identified as the
+least-cost technology.
+Separate north and south transmission backbone.
+The second main scenario type includes mini-grid and stand-alone PV technologies, as well as
+a split north and south transmission network as outlined in section of this report, Each
+mini-grid supplies only a single settlement in these scenarios,
+One national transmission backbone.
+The third main scenario type includes mini-grid and stand-alone PV technologies, as well as a
+notional transmission network as outlined in section 4.3 of this report. Each mini-grid supplies
+only a single settlement in these scenarios.
+Lever 2. Intensification strategy
+No intensification.
+By default, the OnSSET model chooses the least-cost electrification technology within each
+settlement, This means in some cases a mini-grid or stand-alone technology can be chosen as
+the least-cost technology, even in areas very close to the existing or planned network. This
+option considers a purely least-cost approach where settlements connect to existing MV
+networl<s or potential future HV networl<s only if it is the least-cost option,
+5 km intensification.
+This option includes a target of connecting all settlements within 5 km of the existing MV
+networks or potential future HV networks, even if this is not the least-cost option, but only if
+the connection cost per household is below a certain threshold, In the results presented here
+the threshold is set to 1,800 USD/household, The distance target (5 1<m) and threshold (1,800
+USD/household) are based on previous projects undertaken by the KTH-team,
+57
+Lever 3. Demand target
+This lever examines different levels of residential electricity demand as well as commercial demand in
+urban areas,
+Low.
+This follows the low demand outlined in Appendix B based on reported consumption levels
+from ESPs and o lower electricity demand growth projection,
+Medium.
+This follows the medium demand outlined in Appendix B based on reported consumption levels
+from ESPs and a higher electricity demand growth projection,
+High.
+This follows the higher electricity demand levels outlined in Appendix B,
+Lever 4. Distribution costs
+This lever examines the role of MV and LV line costs,
+Existing local technologies.
+This option is based on current MV and LV costs reported by ESPs in Somalia,
+Low-cost distribution technologies.
+This option is based on best proctices for electrification from selected international sources,
+Lever 5. Mini-grid PV panel cost
+This lever examines the role of PV panel costs for mini-grids,
+Low.
+The low cost option is based on international benchmarks/targets for 2020 as reported by
+ESMAP in Appendix E,
+High.
+The high cost option is based on local costs reported by ESPs in Somalia, also seen in Appendix
+E, which are relatively higher,
+Lever 6. Diesel fuel cost
+The low and high costs are projected from the current cost based on two trajectories for crude oil
+prices, as described in Appendix E,
+Low.
+The low cost option follows the reference case of crude oil cost projections of the IES Annual
+Energy Outlook 2020,
+High.
+The high cost option follows the high projection case of crude oil cost projections of the IES
+Annual Energy Outlool< 2020.
+58
+=== PAGE 33 ===
+Sensitivity Analysis
+The boxplots in this section visualize the sensitivity analysis as it pertains to the investment costs for
+the different levers, Below follows a description of how the boxplots should be interpreted and an
+analysis of what they show.
+A Box plot consists of the following parts:
+Box - The box has three lines, One defining the top of the box, this represents the 75th
+percentile, meaning that 25% of the values (scenarios in this case) can be expected to found
+above the box and 75% of the observations below this line. One line in the middle representing
+the median, meaning that half the range can be found on either side of this line. One line
+defining the bottom of the box representing the 25th percentile, meaning that 25% of the
+observations are lower than this and the rest are higher.
+Bottom whisker - The bottom whisl<er can be found under each box, The bottom whisker starts
+at the 25th percentile and ends at the minimum value,
+Top whisker - The top whisker can be found above each box, The top whisl<er starts at the 75th
+percentile and ends at the maximum value,
+Comparison of electrification pathways
+In the case of the Business as Usual scenario (only mini-grids and stand-alone PV), the total investment
+cost ranges between 1.2 and 3.9 billion USD, with a median cost of all scenarios of 1.8 billion USD. When
+taking into account an HV backbone the investment cost increases considerably, For a split HV network
+the investment cost at least 2 billion USD and at most billion USD, while the same range for the
+national backbone is between 2.5 and 5 billion IJSD. A large share of the investment cost in the
+scenarios with HV backbone can be attributed to the investment cost of the backbones themselves as
+the split bacl<bone would cost 760 million USD and the national alternative would cost 1,280 million
+USD.
+Investment cost (Million USD)
+Lever sensitivity
+The sensitivity of the investment cost for the five levers examined for each of the main scenarios can
+be seen in in Figures 26-28 below, The box plot escribes the ronge of investment costs for oll scenarios
+with Q specific lever setting for the respective electrification pathway, Two of the examined drivers are
+seen to play the largest role for the investment cost in all of the scenarios: residential demand level
+and distribution technology costs. Naturally, a higher demand leads to increased generation and
+transmission and distribution requirements and associated costs, The High demand, taken from the
+PMP, in urban areas is significantly higher thon the Medium demand, projected based on reported
+consumption levels from ESPs. A possible explanation of this is that given the high current electricity
+cost, current consumption levels are potentially suppressed, and demand is higher than supply in some
+oreos, Furthermore, o combination of low-cost MV lines, (e.g. Single Wier Earth Return lines) con be less
+than half the cost per kilometer of the reported MV lines cost of current technologies, Across all 144
+scenarios, switching to low-cost distribution technologies lower investment costs by 13% on average,
+The intensification lever is seen to have only o marginal effect on investments across all four main
+scenarios, On average, the 5 km intensification option increases connections to settlements with in 5
+km of existing MV lines or potential future HV lines by 330,000 people, This relatively low effect is due
+to the fact that many settlements within 5 km from existing mini-grids or HV lines would already be
+connected os the least-cost option, or else require investments of more than 1,800 USD/household and
+therefore not be forced to connect if it is not the least-cost option,
+The last two levers highlight the dynamic between PV and diesel generation in mini-grids, PV panels
+have a higher investment cost but lower running costs (including fuel) compared to diesel generators.
+Higher PV costs decrease investment costs slightly, as Q higher shore of diesel generators will be used
+in the mini-grids for least-cost generation, Similarly, higher diesel fuel costs lead to higher investment
+costs as a higher share of the demand will be met by PV generation in this case,
+Mini-grids and stand alone PV only
+4500
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+6000
+5000
+4000
+3000
+2000
+1000
+Mini-grid ond stand
+alone systems
+COS
+C09
+Seperote north ond
+south transmission
+backbone
+One notional
+transmission
+backbone
+Figure 26. Investment range for the different levers when only considering mini-grids ond
+stand-alone PVs,
+Figure 25. Total investment for the main scenarios. Showing the minimum value 25th percentile,
+median, 75th percentile and the maximum value.
+59
+60
+=== PAGE 34 ===
+APPENDIX G
+"Business as usual" separate mini-grids and stand-alone PV
+technologies only
+Table 26. Regional breakdown on investment needs ond technology split
+Seperate north and south transmission backbone
+5000
+4500
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+Figure 27. Investment range for the different levers with a split north and south HV backbone.
+One national transmission backbone
+6000
+5000
+4000
+3000
+2000
+1000
+Figure 28. Total investment for the different levers with a national HV backbone.
+Region
+Bari
+Awdol
+Sonoog
+Saaxil
+Woqooyi Golbeed
+Togdheer
+Sool
+Nugoal
+Mudug
+Galguduud
+Hiiraon
+Bakool
+Gedo
+Boy
+Shabeelloho Dhexe
+Shabeelloho Hoose
+Banaodir
+Jubbodo Dhexe
+Jubbodo Hoose
+Totol
+Population
+Existing mini-grids New mini-grids Stand-alone PV Existing mini-grids
+Investments (Total)
+New mini-grids Stand-alone PV
+460,000
+193,000
+82,000
+80,000
+423,000
+109,000
+279,000
+396,000
+327,000
+437,000
+74,000
+369,000
+701,000
+166,000
+358,000
+35,000
+508,000
+71,000
+7,000
+40,000
+18,000
+33,000
+108,000
+65,000
+38,000
+139,000
+139,000
+103,000
+101,000
+146,000
+216,000
+480,000
+5,000
+217,000
+215,000
+284,000
+161,000
+308,000
+81,000
+880,000
+729,000
+233,000
+136,000
+392,000
+552,000
+606,000
+459,000
+547,000
+841,000
+25,000
+190,000
+204,000
+77,9
+24,3
+139.7
+50.6
+10.3
+45.8
+63
+47.6
+30.7
+10.1
+53,5
+70,6
+20
+25,9
+416.6
+65.1
+1,174
+0.8
+2.2
+3.7
+12.4
+6.3
+4.3
+15.8
+14.8
+16,4
+41,2
+0.7
+23
+22.8
+233
+26.9
+13.7
+8.5
+18.1
+15.7
+37.3
+22
+22.6
+85
+58,5
+75,4
+1.3
+10.7
+13
+436
+Inclusion of a potential split north and south transmission backbone
+Region
+Bari
+Awdal
+Sonoog
+Soaxil
+Woqooyi Golbeed
+Togdheer
+Sool
+Nugaol
+Mudug
+Galguduud
+Hiiraan
+Bokool
+Gedo
+Bay
+Shabeellaha Dhexe
+Shabeellaha Hoose
+Banaodir
+Jubbodo Dhexe
+Jubbodo Hoose
+Transmission
+backbone
+Total
+Population
+New mini-grids Stand-alone PV Grid
+Existing
+Grid
+358,000
+24,000
+405,000
+13,000
+237,000
+104,000
+141,000
+110,000
+477,000
+Investments (Total)
+Existing
+Stand-alone
+New
+mini-grids mini-grids
+mini-grids
+103,000
+193,000
+82,000
+80,000
+154,000
+74,000
+109,000
+59,000
+396,000
+327,000
+437,000
+74,000
+265,000
+701,000
+166,000
+358,000
+16,000
+107,000
+71,000
+7,000
+15,000
+18,000
+27,000
+52,000
+52,000
+22,000
+139,000
+139,000
+103,000
+101,000
+146,000
+216,000
+199,000
+383,000
+5,000
+142,000
+139,000
+284,000
+161,000
+308,000
+81,000
+880,000
+729,000
+233,000
+136,000
+392,000
+552,000
+606,000
+459,000
+547,000
+841,000
+25,000
+190,000
+204,000
+3.9
+0.3
+26.9
+17.9
+1.8
+12.7
+58
+12.6
+760
+917
+67,3
+24.3
+9.3
+9.8
+114
+41.9
+10.3
+40.8
+63
+47,6
+30.7
+10.1
+51.7
+70.6
+20
+25.9
+355.8
+2.5
+57,7
+1,053
+7.1
+0.8
+2.1
+2.2
+3.1
+6.3
+15B
+14,8
+17.8
+19.7
+16.4
+33.9
+0.7
+20.7
+18.3
+206
+5.7
+2.9
+26.9
+12.5
+8.5
+18.1
+157
+37,3
+22
+22,6
+85
+58.5
+71.2
+1.3
+10.7
+13
+430
+Total
+93
+20.3
+15.5
+170.4
+76.6
+25.1
+54,1
+96.9
+78
+77,8
+40,9
+175,3
+142.5
+418.5
+36.7
+100.9
+1,842
+Total
+30.9
+21.3
+15.1
+171
+78.6
+25.6
+54.1
+78
+77,8
+40,9
+94.1
+175.3
+94.9
+143.7
+415.7
+37.2
+101.6
+760
+2,606
+62
+=== PAGE 35 ===
+Inclusion of a potential integrated national transmission backbone
+APPENDIX H
+Appendix H - Potential priority locations
+The table below lists potential priority locations for new mini-grids, prioritized based on population size
+and estimated electricity demand,
+Table 27, Potential priority locations per region.
+Region
+Bari
+Awdal
+Sanoag
+Saaxil
+Woqooyi Galbeed
+Togdheer
+Sool
+Nugaol
+Mudug
+Galguduud
+Hiiroan
+Bakool
+Gedo
+Bay
+Shabeelloha Dhexe
+Shabeelloha Hoose
+Bonaodir
+Jubbado Dhexe
+Jubbado Hoose
+Transmission lines
+Total
+63
+population
+Existing New mini-grids Stand-alone PV
+Grid
+358,000
+24,000
+405,000
+13,000
+302,000
+361,000
+212,000
+322,000
+104,000
+197,000
+141,000
+110,000
+477,000
+Grid
+1
+0.3
+26.9
+17.9
+1.8
+10.3
+14.9
+7.6
+1
+2.1
+7.9
+12,7
+58.2
+3.3
+12.6
+1280
+1,478
+Investments (Million USD)
+Existing
+Stand-alone
+New
+mini-grids mini-grids
+mini-grids
+103,000
+193,000
+82,000
+80,000
+154,000
+74,000
+109,000
+7,000
+98,000
+136,000
+136,000
+74,000
+265,000
+701,000
+25,000
+358,000
+16,000
+107,000
+71,000
+7,000
+15,000
+18,000
+27,000
+52,000
+52,000
+9,000
+76,000
+117,000
+82,000
+101,000
+146,000
+216,000
+150,000
+383,000
+3,000
+142,000
+139,000
+284,000
+161,000
+308,000
+81,000
+880,000
+729,000
+233,000
+136,000
+392,000
+552,000
+606,000
+459,000
+547,000
+833,000
+25,000
+190,000
+204,000
+67,3
+24.3
+9.3
+9.8
+114
+41.9
+10.3
+39.5
+55.9
+42.7
+26,3
+10.1
+51.7
+70.6
+17.7
+25.9
+355,8
+2.5
+57.7
+1,033
+7.1
+0.8
+2.1
+2.2
+3.1
+8.8
+12
+7.8
+8.9
+17.8
+19.7
+12.9
+33.9
+20.7
+18.3
+189
+7.9
+2.9
+26.9
+12.5
+8.5
+18.1
+15.7
+37,3
+22
+22.6
+85
+57,7
+10.7
+13
+429
+Total
+93.3
+30.9
+21.3
+78.6
+25.6
+54.8
+97.8
+78
+78.3
+40.9
+94.1
+175.3
+96.1
+143.7
+415.7
+37.2
+101.6
+1280
+3,129
+Region
+Bakool
+Bari
+Bay
+Galguduud
+Gedo
+Hiiraan
+Jubbada Dhexe
+Jubbada Hoose
+Name
+Buur Dhuxunle
+Goras Wiine
+Rab Dhuure
+Tayeeglow
+Corto
+Dongoroyo
+Kala-Beyr
+Loas Dawaco
+Samaysa Dheer
+Southern Koom IDP sites
+Waaciye
+Xidda
+Axmed Gurey
+Miisra
+Uffurow
+Ceel Buur
+Ceel Dheer
+Gol-Hareri
+Golinsoor
+Jowlo
+Wabxo
+Beled Aamin
+Ceel Boon
+South Doolow
+Tuulo Barwaaqo Tubaolo BQ
+Adan Yoboal
+Booco
+Ceel Cali
+Matabaan
+DujuumQ-HQkgan-Wubuale
+Kuunyo-Barrow
+Saakow
+Salagle
+Jamaame
+Mcheruole
+Longtitude
+43.24402
+43.48473
+43.16362
+44.50925
+49.07439
+49.34052
+49.25355
+49.0838B
+49.09003
+49.0766B
+49.04446
+49.05387
+43.19677
+43.08199
+4289046
+46.6211B
+47.17986
+47.14662
+46.70961
+415159
+46.28471
+41.8937
+42.91654
+4206686
+4215403
+46.24666
+45.89552
+45.52641
+42,576B
+43.88408
+4245886
+42.28748
+42.74992
+4277959
+Latitude
+4.054153
+4263102
+4.845266
+4.011166
+10.49419
+8.723642
+10.82907
+10.46964
+9,862535
+9.480818
+10.00997
+9.954911
+3.214713
+2.59359B
+2.762752
+4.686113
+3.849763
+4531139
+6.426481
+4.659247
+4513682
+3.95561
+3,7342B2
+4.14789B
+3.503132
+3.777834
+4.329268
+4.192876
+5.199398
+1.251671
+0.79463
+1.63953
+1.810476
+0.070697
+0248972
+Population
+22,000
+11,000
+12,000
+22,000
+6,000
+10,000
+4,000
+5,000
+10,000
+8,000
+11,000
+7,000
+47,000
+15,000
+49,000
+12,000
+17,000
+30,000
+10,000
+11,000
+9,000
+12,000
+33,000
+12,000
+9,000
+8,000
+9,000
+17,000
+13,000
+16,000
+20,000
+46,000
+19,000
+30,000
+11,000
+64
+=== PAGE 36 ===
+Djibouti
+1 Dire
+Dawa
+Harar
+Region
+Mudug
+Nugaol
+Saoxil
+Sonaog
+Shobeellaha
+Dhexe
+Shabeelloha
+Hoose
+Sool
+Togdheer
+Woqooyi
+Galbeed
+o
+OQOOO
+O
+Name
+Horardhere
+Joriiban
+South Goalkacyo
+Wisil
+Jolom
+South-east Goroowe
+Sheekh Abdol
+Dhohar
+Laosqoroy
+Coli-Goudud
+Duduble
+Gululei
+Rage-Celle
+Xooji-Cali
+Afgoi
+Jonoole
+Mubaorol<
+Kola Boydh
+North-eastern Burco
+North-western Burco
+Suuryo Qansox
+WidhWidh
+Ceel-Boxoy
+Mooge B
+Sonaog
+QarO'0
+NugoaJ
+Longtitude
+48.85054
+47.43248
+48.12131
+48.04157
+48.52102
+44.69587
+48.82122
+48.19663
+46.43566
+45.53325
+45.54294
+45.3543
+46.01028
+46.21739
+44.9923
+44.77234
+47.22651
+45.57321
+45.53667
+45.52047
+46.70747
+43.64399
+Latitude
+4.65534
+7.212774
+6.692419
+5.427524
+7.869644
+8.393007
+9.9519
+9.750248
+11.15912
+3.178532
+3.148155
+3.182084
+2.448979
+2.657704
+2.922761
+1.98359
+1.808916
+1.917818
+8.239163
+9.542553
+9.561257
+9.578987
+8.45399
+9.658098
+9.51261
+Population
+20,000
+12,000
+11,000
+11,000
+9,000
+16,000
+9,000
+21,000
+5,000
+9,000
+5,000
+4,000
+5,000
+5,000
+5,000
+14,000
+26,000
+13,000
+9,000
+11,000
+15,000
+10,000
+8,000
+6,000
+7,000
+.4
+APPENDIX I
+Appendix I Spatial Data Infrastructure
+A Spatial Data Infrastructure (SOI) platform has been set up for this project. This is based on a
+customized version of GeoNode, The SDI provides the following key functionalities:
+O
+o
+Ability to upload both roster ond vector datasets
+Ability to establish style presets for uploaded datasets using SLD (Styled Layer Descriptor)
+documents.
+A permissions framework with ability to define users and groups and to assign permissions to
+layers and documents on a per-user and per-group basis.
+Ability to compose maps by combining different layers into o single mop view,
+Ability to define metadata for each layer.
+Ability to upload documents (POF, MS Word etc.) and associate them with spatial datasets,
+Publishing of dato in the SDI via OGC Standards based services including:
+O
+O
+WMS - web mapping services
+WFS - web feature services
+wcs - web coverage services
+csw - catalogue service for the web
+uudug
+o S%omaaliya
+Oher
+Måqdiåtß
+O
+Underlying the SDI is a full relational database with geospatial data storage capabilities. This is used
+to store vector data and provide an environment for analysis either in-database or through front-end
+tools such os QGIS, The aim of the SDI is to provide o platform to support data collection, storage ond
+sharing, analysis and the publishing of analysis results, The SDI is online and accessible here:
+http://somalia,gep.kartoza.com/,
+Features of the SDI platform
+This section describes the l<ey features of the platform,
+A customized landing page which presents a gallery of prepared maps: This allows the maintainers of
+the platform to feature specific maps for their users.
+',Z/Gode
+Cheroo
+rbahaoey
+O
+O
+Bcy
+Dhexe
+Hoose
+65
+66
+=== PAGE 37 ===
+Data v
+Viewers
+SEP
+Atout
+tjm'jnux
+Vivo v
+Explore Maps
+Selectea Mjc•s
+Add rh.SV."i. through the
+create a New Map
+WELCOME TO THE
+Somalia Electrification
+Platform SDI
+Health
+faci lities
+National
+transmission
+backbone
+Figure 29, Landing page
+Layer browser page:
+6 Maps found
+som •lia
+Somalia
+Transmjtion
+lines
+split
+transmission
+backbone
+•.te "eve•cgegcv•
+General Electrification Map
+v•ew '-lag
+C] Somawa Transmit•on ones
+'"lth hries C hat:
+2020
+View '-lag
+Cl National transmission backbone
+future national transrrnss.•or bivoone
+View „'•lac
+This is used to manage the GIS layers published on the SDI and is the entry point for managing styling,
+permissions and metadata of layers.
+Oata v
+Mao Viewers v SEP About v
+Explore Layers
+Selected L avers
+Add
+Create a Map
+Filters
+V.EYWORO%
+GRO.'P%
+t m 'ENI
+tjml.nux
+Upload Layers
+11 Layers found
+Figure 31, SDI Map browser, Maps are pre-composed collections of layers and styles,
+The database underlying the GeoNode SDI contains spatial data that can be accessed from desktop GIS
+such as QGIS if needed. This will be restricted to privileged users. The user can connect to the web
+services published by GeoNode using the Metasearch tool in QGIS, As per the example shown below:
+Desl<top GIS application integration: Because the SDI is built on open standards it is possible to connect
+to it from desktop based GIS applications such as QGIS. In fact QGIS includes specific functionality to
+moke it easy to interoperate with o GeoNode SDI portol instance,
+Recent Projects
+(7 country_boundariesl
+No abstract provided
+country _bounda
+. No abstract provided
+2020
+provided
+2020
+Figure 30. The SDI platform layer browser
+Map browser page:
+This is used to browse the collection of composed maps that have been published on the system. From
+this page, metadata and permissions of maps can be managed and, for those users with the correct
+permissions, a link to edit the mop is provided,
+67
+Figure 32.
+Integration with the
+SDI
+from the
+QGIS
+Desktop
+GIS
+application
+68
+=== PAGE 38 ===
+QGIS also provides a tight integration with the SDI via the GeoNode data browser that Kartoza
+developed previously for the World Bonk, as per the example below,
+Figure 83. Working with SDI in a GIS application
+For advanced users, they will be able to connect to the post GIS database using QGIS, From there they
+will be able to perform local geospatial analysis with the data and generate new products, QGIS
+provides a large range of analysis tools that can be used for this purpose,
+The Somalia Electrification Platform is integrated into the SOI, This is described further in the results
+and scenarios sections that follow,
+SEP
+Somalia
+d•uUOOk (D
+Pioi-g"ids
+sveems
+swtn
+nat'0'S
+I mten*ifvcation strategy
+@ ust
+- go•: lgtO
+5 - 18m •
+LOW mtß. teenno•es
+NO usa
+LOW cost. tecnnooes
+target
+system
+Dieee
+Ethiopia
+Kenya
+- • Somalia
+Figure 34, Electrification platform results visualization page,
+Somalia Electrification
+Platform SDI
+Styling of data
+For the production of advanced
+cartographic outputs, the users of the
+system will be able to use QGIS to
+generate sophisticated maps and reports.
+The data will be styled on GeoNode using
+the standards based SLD (Styled Layer
+Descriptor) format. Kortoza will assist by
+setting up an initial SLD style library and
+including SLD creation and application of
+layers within our training modules,
+69
+Platform customization
+Kortoza, with inputs from KTH, developed
+and deployed a number of customizations
+to GeoNode to provide a more user-centric
+experience for electrification practitioners
+and to customize the look and feel of the
+platform for this project, We also
+integrated the SDI and Electrification
+Platform into a single web site to create a
+more seamless user experience as you
+transition from the one platform to the
+other, Electrification Platform
+Sum rnarv
+Moble
+Sl.2d
+lhVtsrNENf
+146 MW
+CAPAC* TY
+70
+=== PAGE 39 ===
+Ministry of Energy and Water Resources.
+SOMALI ELECTRICITY ACCESS PROJECT

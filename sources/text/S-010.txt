@@ -1,0 +1,1946 @@
+=== PAGE 1 ===
+Mapping Report: 
+Formalisation of 
+Cooperatives and  
+Private Sector 
+Organisations
+Support to Policy Dialogue for 
+Investment Climate in Somalia
+Author of the report:  
+Kim Eric Bettcher, PhD – Director, Policy & Program Learning, CIPE
+Minister of Commerce and Industry 
+Federal Government of Somalia
+=== PAGE 2 ===
+2
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+List of abbreviations/acronyms
+CIPE
+Center for International Private Enterprise
+ECCSA
+Ethiopian Chamber of Commerce & Sectoral 
+Associations
+EUD
+Delegation of the European Union to Somalia
+HR
+Human resources
+ICA
+International Cooperative Alliance
+ILO
+International Labour Organization
+MOCI
+Ministry of Commerce and Industry of the 
+Federal Republic of Somalia
+PPD
+Public-private dialogue
+PSOs
+Private Sector Organisations = membership 
+organisations including cooperatives, business 
+associations, and chambers of commerce.
+SACCO
+Savings and Credit Cooperative Organisation
+SMEs
+Small and medium enterprises
+SPDI
+European Union Support to Policy Dialogue on 
+Investment Climate in Somalia
+=== PAGE 3 ===
+3
+Foreword
+The Ministry of Commerce and Industry 
+(MOCI) of the Federal Government of Somalia 
+(FGS) recognizes the important role that the 
+Private Sector Organizations(PSO) play in 
+the economic development of the country. 
+The private sector is a key driver of economic 
+growth, job creation, and innovation, and it is 
+through the efforts of these organizations that 
+Somalia can improve the business conduct, 
+formalization, and professionalization of. the 
+private sector and markets contributing to 
+greater sustainable economic growth. 
+The contribution of the private sector to the 
+country’s economic and sustainable devel-
+opment is widely acknowledged as they are 
+active in all segments of the economy and 
+present opportunities for the promotion of 
+broad-based equitable development. They 
+enable the active participation of marginalized 
+groups in Somalia’s economic development 
+including providing more opportunities for 
+women and youth and supporting the growth 
+of disadvantaged regions of the country. 
+Somalia's private sector organizations are 
+diverse and dynamic, ranging from micro 
+to large corporations, but largely remains 
+informal, thus the opportunity and need to 
+formalize, hence the need for this study and 
+recommendations. The ministry recognizes 
+the challenges Somalia's Private Sector 
+Organizations face, including limited access 
+to Information, limited knowledge and gov-
+ernance capacity, challenges to access and 
+communication with their members due to 
+security, inadequate infrastructure (transport, 
+energy, communications, etc.) and a challeng-
+ing business environment.  As a result, the 
+Ministry of Commerce and Industry (MoCI) 
+is committed to promote and support the 
+growth and development of the private sector 
+organisations through providing leadership 
+and developing a range of policies and initia-
+tives, e.g. SMEs Policy and Cooperatives law. 
+The Ministry is committed to work closely 
+with government agencies, PSOs and other 
+development partners in taking forward the 
+recommendations made in this study to 
+support the capacity development, profes-
+sionalization and greater outreach of business 
+associations, cooperatives and other business 
+membership organisations. 
+We would like to express our deepest 
+gratitude and appreciation for the valuable 
+contributions made by the EU, DAI and CIPE 
+on the mapping and study on Somalia's 
+Private Sector Organizations. Their expertise, 
+insights, and inputs have been instrumen-
+tal in the development of this study, and 
+we could not have gained the insights and 
+understanding without their unwavering 
+commitment and support. And the Ministry 
+is also committed to continue the Public and 
+Private Dialogue (PPD) initiated through the 
+EU support and strongly believes that a PPD 
+approach is the way to achieve a common 
+goal of promoting economic growth in the 
+country and is committed to work in close 
+partnership with private sector organizations 
+to achieve this. 
+Finally, the Ministry of Commerce and 
+Industry (MoCI)is dedicated to creating an 
+enabling environment for both the public and 
+private sectors’ growth and development, 
+and we look forward to working with them 
+to achieve our shared vision of a prosperous 
+Somalia.
+H.E. Hon. Jabril 
+Abdirashid Haji Abdi,  
+Minister of Commerce 
+and Industry
+=== PAGE 4 ===
+4
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Content
+EXECUTIVE SUMMARY����������������������������������������������������������������5
+PURPOSE OF THE MAPPING��������������������������������������������������������6
+INTRODUCTION��������������������������������������������������������������������������7
+METHODOLOGY��������������������������������������������������������������������������9
+OVERVIEW OF PRIVATE SECTOR ORGANISATIONS���������������������11
+CAPACITY ASSESSMENT ����������������������������������������������������������13
+Registration status .............................................................................  14
+Governance ........................................................................................  14
+Strategic Planning ..............................................................................  15
+Financial Management .......................................................................  15
+Membership & Services .....................................................................  16
+Communication ..................................................................................  17
+Advocacy ...........................................................................................  17
+Management & Human Resources ......................................................  17
+Capacity Score by Region ...................................................................  18
+Capacity Score by PSO Type ...............................................................  18
+Capacity Score by Sector ...................................................................  19
+CHALLENGES AND PRIORITIES�������������������������������������������������20
+Internal Challenges ............................................................................  20
+External Challenges ...........................................................................  20
+Areas for Action .................................................................................  21
+Policy Priorities ..................................................................................  22
+AN EMERGING PSO MODEL �������������������������������������������������������23
+CONCLUSION & RECOMMENDATIONS ����������������������������������������26
+Conclusion .........................................................................................  26
+Recommendations .............................................................................  27
+REFERENCES����������������������������������������������������������������������������30
+ANNEXES���������������������������������������������������������������������������������31
+Organisational Capacity Indicators 
+(excerpted from the adapted questionnaire) ....................................... 31
+List of Mapped PSOs ..........................................................................  33
+Key Informants ..................................................................................  34
+=== PAGE 5 ===
+5
+Executive Summary
+As part of a non-key expert assignment under the SPDI 
+project, the Center for International Private Enterprise 
+(CIPE) undertook a field-based mapping exercise to assess 
+the capacity,  roles, and needs of membership organisations, 
+including cooperatives, business associations, and 
+chambers of commerce. Specifically, CIPE sought to assess 
+the extent of formalisation and relative presence of good 
+governance practice within private sector organisations 
+(PSOs). Further, based on input from organisational 
+leadership, members, experts, and public officials, CIPE 
+sought to paint a picture of an emerging model of PSO 
+governance in Somalia that can be reinforced by policy 
+action, knowledge exchange, and practical incentives.
+The study finds that PSOs in Somalia perform useful services 
+and have important roles to play as institutional supports to 
+production and commerce. They have the potential to serve 
+members on a larger scale if they were to apply more formal 
+methods of organisational governance and management. 
+While sound governance does not guarantee a PSO’s 
+success, it creates pathways for legitimacy, accountable 
+stewardship, and participation as well as a foundation for 
+strategy and higher performance.
+The mapping study concludes with recommendations 
+in the following areas:
+Create an enabling policy 
+framework for PSOs.
+Create a roadmap  
+for PSO development. 
+Establish the basis for relations 
+between government and PSOs.
+=== PAGE 6 ===
+6
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Purpose of the Mapping
+The SPDI project supports the Ministry of 
+Commerce and Industry (MOCI) in formalis-
+ing co-operatives and private sector organi-
+sations (PSOs), positioning them to provide 
+professional services to members, strength-
+en their operations, and advocate for re-
+forms and compliance with key standards. 
+As part of a non-key expert assignment 
+under the SPDI project, the Center for 
+International Private Enterprise (CIPE) 
+undertook a field-based mapping exercise 
+to assess the capacity, roles, and needs 
+of membership organisations, including 
+cooperatives, business associations, and 
+chambers of commerce. Specifically, CIPE 
+sought to assess the extent of formalisation 
+and relative presence of good governance 
+practice within PSOs. Further, based on input 
+from organisational leadership, members, 
+experts, and public officials, CIPE sought to 
+paint a picture of an emerging model of PSO 
+governance in Somalia that can be reinforced 
+by policy, new knowledge, and practical 
+incentives. 
+In order to inform actions by MOCI, Somali 
+PSOs, EUD and other development partners, 
+this assignment was designed to assess the 
+capabilities and needs of PSOs collectively. 
+The assessment sets the stage for policy 
+reforms, the adoption of professional 
+practices, and areas of potential capacity 
+support to PSOs.
+=== PAGE 7 ===
+7
+Introduction
+1  Peter D. Little, Somalia: Economy Without State. International African Institute, 2003.
+2  Victor Odundo Owuor, Building a Business Ecosystem in Somalia: The Case for Business 
+Associations. One Earth Future, 2015.
+3  Interview with Mohamed M. Maie.
+Somalia is remarkable for being an “economy without a state.” 1 This simple phrase 
+understates the role of government, but it captures several features of the country’s 
+development. First, the private sector has been an important source of growth and 
+livelihoods outside the direction of the state. Second, a self-organised private sector, 
+solving shared problems and connecting to markets, has taken on added significance 
+when public infrastructure and services are limited. Third, the lines for public-private 
+cooperation have yet to be drawn.
+In most countries, private sector membership organisations serve as vehicles for 
+service delivery and collective action, benefiting for-profit enterprises and the 
+overall development of the private sector. These organisations, which include trade 
+associations, chambers of commerce, employers’ associations, and cooperatives, 
+represent the interests of diverse sectors of the economy. Through service provision, 
+joint problem solving, standard setting, and participation in policy dialogue, such 
+membership organisations contribute to private sector development and national 
+competitiveness. Cooperatives further serve to provide mutual support and economies 
+of scale. Together, these entities are described as private sector organisations (PSOs) 
+in this report. 
+Somalia has a small number of formal PSOs plus many more that are largely informal. 
+Because they have not been studied extensively, and tend to be informal, little is 
+known about their structure, membership, or performance. The overall impression 
+of observers is that PSOs are not fully functional and are quite nascent in their 
+development.2 
+Still, the fact that PSOs are self-organised, and have received renewed interest from 
+the Ministry of Commerce and Industry, indicates real aspirations for their further 
+development.
+The form and purpose of Somali PSOs are products of a blend of influences. Before 
+the war, the chamber of commerce followed a semi-public, French-Italian model, 
+although that structure did not persist. Cooperatives had a British model before 
+military rule and also resembled Tanzania’s model of a social movement with social 
+planning. Later, cooperatives were reorganised privately, shifting from the socialist 
+orientation envisioned in the 1973 Law on Cooperative Development. On top of these 
+influences, it has been argued that cooperative values are embedded in the culture.3 
+While these multiple influences persist, today no formal model governs the status and 
+functioning of PSOs.
+=== PAGE 8 ===
+8
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Given these starting conditions, the current study aims to shed light on the following 
+questions:
+	
+ƃ To what extent are PSOs in Somalia able to serve their members, sustain their 
+organisations, and engage their stakeholders?
+	
+ƃ Is the current policy and regulatory framework in Somalia adequate to 
+promote PSO development?
+	
+ƃ What are the aspirations of private and public stakeholders for the governance 
+and development of PSOs?
+	
+ƃ What model of governance is suited to the development of PSOs in Somalia?
+PSOs’ role in the business community and in public is largely directed by their internal 
+governance and the regulatory environment. This study focuses on PSO’s internal 
+governance features and their policy environment, while assessing other dimensions 
+of professional PSO management. A sound governance structure lies at the core of 
+a successful organisation that seeks performance excellence. Governance defines 
+decision making processes, aligns resources to the mission, proactively manages risk, 
+and assures value to members. Meanwhile, a country’s policy framework establishes 
+PSOs’ legal forms and purposes, relationships to members, community, and govern-
+ment, and pathways for development.
+=== PAGE 9 ===
+9
+Methodology
+4  Interview with Ygor Scarcia and Najib Abdi.
+As a way to answer the questions above, the mapping assignment collected 
+and analyzed information on PSOs and their context, taken from a variety of 
+sources. Inputs to this assignment included: interview-based assessments 
+of PSOs; self-identified priorities of PSO leaders; stakeholder perspectives 
+from three public-private dialogue sessions; focus groups, and key informant 
+interviews. Limited desk research was also conducted.
+The following criteria guided the selection of organisations to be assessed:
+	
+ƃ Incorporation of each major type of PSO: associations, cooperatives, and 
+chambers of commerce
+	
+ƃ Incorporation of formal associations to understand what works formally in 
+Somalia, yet greater weighting to PSOs that serve local and small business 
+networks
+	
+ƃ Inclusion of women entrepreneurs’ associations and the informal sector
+	
+ƃ Representation of major sectors of the economy, recognizing the preeminent 
+role of agriculture, livestock and fisheries
+	
+ƃ Incorporation of PSOs working at different levels of Somalia’s federal structure
+No regular lists of registered PSOs were available to the researchers. The researchers’ 
+requests to MOCI and chambers of commerce did not yield comprehensive lists. In the 
+absence of a national cooperatives register to use as a sampling frame, purposive sam-
+pling technique, aligned with the criteria above, was used to select respondents who led 
+or managed PSOs. Trusted national PSOs, known to the federal government and devel-
+opment partners, served as the starting point for assessments and recommendations of 
+regional organisations and contacts. Some organisations were known through their past 
+engagement in public-private dialogue and development partner projects. The research-
+ers attempted to include only active, viable organisations in the assessment, noting that 
+many cooperatives have been reported to last no more than 6 months to a year.4
+A questionnaire for this study was customised based on CIPE’s proprietary Business 
+Association Assessment Tool. Through semi-structured interviews of association 
+executives or board leaders, the tool enables scoring of practices and performance 
+across seven domains of associational excellence. The seven domains are: govern-
+ance, strategic planning, financial management, membership & services, communi-
+cations, advocacy, and management & human resources. Ordinarily used to prepare 
+in-depth capacity building, in this case the tool was shortened for mapping purposes. 
+Greater emphasis was given to indicators in the governance domain and to “tier 1” 
+indicators across other domains—tier 1 representing the most basic elements of a 
+three-tier system of indicators. In addition, respondents were asked about internal 
+organisational challenges, priorities for capacity building, and recommended actions 
+to improve governance and professionalism.
+=== PAGE 10 ===
+10
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Data were collected by two researchers through face-to-face interviews between 
+February and April 2022. Respondents were offered confidentiality before completing 
+the assessment interviews. 
+The face-to-face assessment interviews with PSO leadership were supplemented by 
+two focus group discussions with PSO members in Baidoa and Kismaayo. These focus 
+groups covered members’ reasons for belonging to a PSO, their most valued services, 
+level of satisfaction, and experiences with the organi-
+sation. (A couple of participants in the focus groups 
+were founding members.)
+An initial public-private dialogue (PPD) workshop in 
+Mogadishu was organized by MOCI to raise awareness 
+of the project with PSO representatives and experts. 
+Then two regional PPD workshop discussions -- one 
+in Baidoa on June 22, and one 
+in Kismayo on July 2 — were 
+organized by MOCI together 
+with the Ministry of Commerce 
+and Industry of Southwest State 
+and the Ministry of Commerce 
+and Industry of Juba-Land 
+State. The workshops in these 
+states had around 60 participants from 
+government, cooperatives, and business 
+associations. Participants validated findings 
+from the mapping study and probed areas 
+of consensus with respect to 
+strengthening PSO governance. 
+Participants concurred 
+that the presentation of 
+summary findings reflect-
+ed the state of organisa-
+tions in their respective 
+zones.
+Finally, 13 key informants with experience in relevant sectors were interviewed in 
+order to obtain a more holistic and contextual view of the condition of PSOs. (One key 
+informant was from the Somali Chamber of Commerce and Industry, which also par-
+ticipated in the field assessment interviews.)
+Documentation is scarce on the organisations assessed, even though it was requested 
+in field interviews. A number of organisations did provide a certificate of registration/
+incorporation or an organisational profile.
+Workshop in 
+Mogadishu
+Workshop  
+in Baidoa
+Workshop in 
+Kismayo
+=== PAGE 11 ===
+11
+Overview of Private Sector  
+Organisations
+The field assessment confirmed the presence of active PSOs across Mogadishu and 
+the three regions surveyed. While the initial expectation of smaller, informal groups 
+reasonably characterized much of the sample, the study found many indications of  
+a level of formality and structure throughout. By most accounts, the PSOs are serving  
+a purpose if not reaching a higher potential.
+In all, the mapping study assessed 38 PSOs 
+that met the criteria above. Of the assessed 
+organisations, 10 were national and 28 regional 
+or local in scope​. Altogether, they were based 
+in: Mogadishu (9), Southwest region (10),  
+Juba-Land (9), and Hirshabelle (10). 
+The breakdown by type of organisations 
+consisted of: 31 cooperatives​, 5 business 
+associations, and 2 chambers of commerce. 
+The associations were located in Mogadishu 
+except for one in Juba-Land. One women’s 
+association was included in the study and 
+four cooperatives had a majority of women 
+members.
+SOMAL I A
+HIRSHABELLE
+MOGADISHU
+SOUTHWEST
+JUBA-LAND
+business associations
+cooperatives
+chamber of commerce
+cooperatives
+chamber of commerce
+cooperatives
+cooperatives
+business association
+9
+4
+4
+10
+8
+1
+1
+1
+In the three regions outside Mogadishu, PSOs 
+have a mean reported membership of 110 
+dues-paying members, including a mean of 34 
+women-owned member firms, and a median of 
+65 members, including a median of 20 women-
+owned members.5 Eight organisations reported 
+5  According to the ILO, “over 95 percent of the female entrepreneurs surveyed in Mogadishu and Hargeisa were not affiliated 
+to any business membership and/or women‘s organizations.” Najma Ismail and Amina Ahmed, “Strengthening Women’s 
+Business Associations in Somalia,” ILO and UN Women Briefing Paper 2/2016.
+that dues are not regularly collected, so active 
+membership may be overstated. Membership 
+structures vary, such that the members’ 
+operations are significant or cut across state 
+lines in a couple of cases where the number of 
+members is low.
+=== PAGE 12 ===
+12
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+By region, the mean reported membership 
+in Southwest is 204 members, in Hirshabelle 
+92 members, and in Juba-Land 23 members. 
+Among national organisations, the median 
+membership is lower though the members may 
+be larger organisations and two of the national 
+organisations reported more than 2,000 
+members each.
+The mapping concentrated on agriculture, 
+livestock, and fisheries sectors. Agriculture 
+ended up by far the most prominent sector in 
+the sample, with more than half of the PSOs 
+serving agriculture. Four diversified organisa-
+tions in the sample included the two chambers 
+of commerce. In addition to “diversified”  
+organisations, 8 organisations served 2 or  
+3 of the sectors represented here.
+Asked how they saw the main role and contribution of their organisation, PSO leaders offered eight 
+recognisable functional and service areas. Four out of five PSO leaders said they contributed to 
+advocacy and awareness raising. 
+Cooperative members in the focus groups said their reasons for joining a cooperative were for 
+self-help (mutual support) and to increase productive input through collaboration. One mentioned 
+being asked about cooperative membership when seeking access to bank funding, a capacity 
+building program, or a state business license.
+If PSOs are improved, the larger sector will benefit because we anticipate the sector 
+to improve in terms of expertise, infrastructure, productivity, and service supply... It is 
+expected that their voices will be heard and that the role they may play in the governance 
+system, as well as democracy and decision-making involvement, would improve.    
+FOUNDING MEMBER, DANWADAAG FARMERS' COOPERATIVE
+The chamber is an example of a successful PSO. We have broad base presence, 
+registered members and representation across all the states in Somalia. We work for and 
+advocate on behalf of our members. Among some of the main achievements include the 
+establishment of business enterprise development units at states, as well as an excellent 
+case of public service – the chamber financed 54 km of road repair and rehabilitation.  
+PROF. IISE MAHAMUD (XALANE), SOMALI CHAMBER OF COMMERCE
+0
+5
+10
+15
+20
+25
+Transportation
+Beekeeping
+Diversiﬁed
+Other
+Fishing
+Livestock
+Agriculture
+# of PSOs
+Sectors Served
+Sectors Served
+0
+10
+20
+30
+40
+Networking
+Marketing
+Sectoral improvement
+Education/training
+Production
+Finance/investment
+Member support
+Advocacy/awareness
+Self-Identified Roles of PSOs
+Self-Identiﬁed Roles of PSOs
+=== PAGE 13 ===
+13
+Capacity assessment 
+6  Ethiopian Chamber of Commerce and Sectoral Associations, HwK Partnership survey, cited in Precise Consult International, 
+Demand Study for BMO Services of ECCSA & its Member Organizations, submitted to the ECCSA Private Sector 
+Development Hub, 2017. Final Consolidated Study Report
+The adapted CIPE assessment tool enables the 
+identification of relative strengths and weak-
+nesses among seven core functional areas, 
+with an emphasis on the most basic, “tier 1” 
+practices. The unweighted percentage scores 
+for all 38 PSOs combined below express the 
+percentage of total possible points for each 
+function, with each indicator rated from 1 to 5. 
+(See annex for the full list of indicators.)
+Governance (10 indicators)
+80%
+Membership & Services (5 indicators)
+74%
+Communications (4 indicators)
+72%
+Advocacy (4 indicators)
+71%
+Financial Management (7 indicators)
+62%
+Management & HR (3 indicators)
+58%
+Strategic Planning (5 indicators)
+58%
+Across the full set of PSOs, governance comes 
+through as the strongest function even though 
+it was assigned the most indicators for this par-
+ticular study. The weakest functions are strategic 
+planning and management & human resources. 
+Asked about Somali PSO strengths in an 
+open-ended question, key informants col-
+lectively summed up current strengths as 
+marketing and trading, their commitment and 
+resilience in a challenging environment, net-
+working, trustworthiness/creditworthiness, and 
+advocating for their members.
+Although there is no strictly comparable 
+dataset from other countries for this adapted 
+tool, a rough comparison with Kenya is possible 
+thanks to a 2021 CIPE proprietary assessment 
+of eight Kenyan county chambers. If one 
+matches the indicators for each function in 
+the SPDI questionnaire against the first tier 
+(most basic) indicators for each function in the 
+Kenyan county assessment, the Somali PSO 
+results are very similar overall on five out of 
+seven functions. Somali PSOs, however, are 
+noticeably weaker than their Kenyan county 
+counterparts when it comes to strategic 
+planning and management & human resources. 
+Regarding the fundamentals then, Somali PSOs 
+may need more attention to professionalization 
+than to governance structures.
+A rough comparison with Ethiopia can be 
+made using a 2014 survey of 87 chambers of 
+commerce and sectoral associations, which 
+was conducted by the Ethiopian Chamber of 
+Commerce & Sectoral Associations. 
+In that survey, 
+	
+ƃ 41% of Ethiopian chambers and 
+associations had both a strategic 
+plan and written mission statement, 
+compared to 53% of Somali PSOs 
+claiming the same
+	
+ƃ 75% of Ethiopian chambers and 
+associations had conducted advocacy, 
+compared to 53% of Somali PSOs6
+=== PAGE 14 ===
+14
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Registration status
+When speaking of formalisation, 
+registration is the first criterion to 
+consider. 35 of 38 organisations said 
+they had registered and of these, 30 said they 
+had written proof of registration. In this sense, 
+they may not be “flying under the radar.” A 
+few organisations provided a copy of their 
+registration certificate to the researchers, but 
+this was the exception. 
+Among the organisations assessed, 12 
+reported that they were registered with MOCI, 
+14 with the federal or respective regional 
+Ministry of Agriculture, 6 with the federal 
+or regional Ministry of Fisheries, 2 with the 
+Ministry of Livestock, 1 with the regional 
+Ministry of Transport, 1 with the Ministry of 
+Education, and 1 with the Ministry of Energy 
+and Water Resources. Depending on their 
+areas of operations, some PSOs are registered 
+with multiple jurisdictions.
+Governance
+Association governance creates 
+a framework for leadership roles, 
+decision making, and accountability 
+for results. It provides a foundation for 
+performance excellence, adherence to mission, 
+and value for members. 
+Because of the importance of governance 
+to formalisation and to other functions, 
+governance was assigned 10 indicators in the 
+assessment tool, the most of any function. 
+7  Interview with Mohamed M. Maie.
+8  Interviews with Scarcia & Abdi and Paul Crook.
+9  Interviews with Maie and Dominic Karanja.
+Organisations scored the highest overall on this 
+function (80% of the total possible score), in-
+dicating that most basic governance structures 
+are in place. Thus, 37 of 38 PSOs have a board 
+of directors, 34 have a written constitution or 
+bylaws, and 35 have a general assembly (the 
+assembly is assumed and not scored in the 
+global CIPE tool). Most organisations scored 
+well on establishing ethical standards, holding 
+regular board meetings, and electing board 
+members. On 14 boards, the percentage of 
+women members is 40% or higher; on another 
+14 boards the percentage is 20-39%; and on 9 
+more boards the percentage is less than 20%. 
+Board weaknesses include a lack of evidence 
+for independence vis-à-vis management and 
+the absence of term limits in 17 organisations. 
+These weaknesses are expected to reduce the 
+dynamism and responsiveness of the board. 
+Documentation of rules (such as bylaws) and 
+decisions (such as minutes) has not been 
+confirmed by this study and may not be as high 
+as claimed. In all, governance is undoubtedly 
+an area where organisations can improve in 
+relation to best practice, but key concepts and 
+structures are present.
+Who really owns cooperatives? The ownership 
+picture is varied according to expert interviews. 
+On the one hand, the cooperatives exhibit 
+collective, democratic decision making.7 
+This democratic spirit is apparent in one 
+cooperative in which all 26 members are 
+board members. On the other hand, large 
+landowners coordinate their interests through 
+cooperatives and have power advantages 
+over smaller actors.8 Since the collapse of the 
+1990s cooperative movement, there are cases 
+of cooperative structures being maintained 
+for the benefit of individuals who do not want 
+to release the cooperative property, as well 
+as cases of  cooperative funds being used to 
+influence members’ decisions.9
+Association governance provides a foundation 
+for performance excellence, adherence to 
+mission, and value for members.
+=== PAGE 15 ===
+15
+Strategic Planning
+Strategic planning is important to 
+setting organisational direction, 
+prioritizing tasks, deploying 
+resources, and getting results. In contrast to 
+the comparatively good performance of the 
+governance function, the strategic planning 
+function of PSOs tied for the lowest scores 
+overall in the assessment. Hirshabelle 
+performed particularly poorly on this function. 
+Among all leaders responding, a little more 
+than half reported having a written strategic 
+plan, which was created with input from 
+members and summarized for members. 
+Cooperative members in focus groups all 
+said there was no written strategic plan. 
+Those leaders who said they had a mission 
+statement, but could not articulate or 
+provide it, did not receive full scores since a 
+mission statement should be memorable and 
+regularly referenced. Only 7 organisations use 
+performance measures, an indicator which 
+brought the strategic planning scores down. 
+Financial Management
+The financial management indica-
+tors reflect an organisation’s ability 
+to sustain its functions, manage its 
+financial resources, and build confidence in its 
+dealings. The financial management function 
+received a middling score overall. This score 
+masks wide variation, with Southwest perform-
+ing well and Mogadishu performing poorly. The 
+weakest components of the financial man-
+agement score overall are the absence of an 
+annual operating budget and financial reports, 
+as well as reliance on a single source of in-
+come. The organisations do better at collecting 
+dues, managing property, running a surplus, 
+and maintaining internal controls. The basis for 
+the claimed positive performance on the latter 
+two items, however, could be questionable in 
+cases where financial reports are absent. While 
+a number of respondents expressed challeng-
+es with a lack of funds and a desire for more 
+investment and funding opportunities, it is 
+clear that a number of these organisations are 
+not prepared with systems in place to manage 
+funds and reassure funders.
+=== PAGE 16 ===
+16
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Membership & Services
+The membership and member services function is about recruiting and retaining 
+members, providing value to members, and in turn capturing value for the membership 
+organisation. This is an area of relative strength overall in this assessment and gives 
+hope that PSOs can create development strategies based on the value they provide. 
+Membership and member services are areas of relative strength and give hope that PSOs 
+can create development strategies based on the value they provide.
+Their strong points include assessing member 
+needs, maintaining a roster of members, and 
+knowing the market for their services. Members 
+in the focus groups said that members are 
+consulted on their needs and satisfaction either 
+weekly, monthly, or annually. It is not clear 
+that the rosters are up to date or that inactive 
+members are removed from the rosters. 
+Areas for improvement include better defining 
+membership criteria and explaining member 
+benefits in a brochure. Some organisations 
+are quite small, suggesting that they are more 
+self-help groups or clubs than service-oriented 
+membership organisations. 
+The most commonly provided services—
+networking events, advocacy efforts, and 
+business development training—could easily 
+be staples of mature associations in another 
+country. Members’ satisfaction with the 
+services does track closely with the services 
+actually provided, at least according to the 
+leaders. In focus groups, members most highly 
+valued business development training and 
+help with regulatory requirements. The least 
+valued services, according to the focus groups, 
+were management of shared facilities/tools, 
+advocacy, and marketing services. The two 
+who expressed disappointment with advocacy 
+efforts did acknowledge that their “voice 
+was heard.” Overall, focus group participants 
+expressed their satisfaction with cooperative 
+membership without reservation.
+Members receive valued services from PSOs:  ​
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Other
+Business to business matchmaking
+Professional certifications
+Market intelligence reports
+Discounts on supplies and services
+Management of shared assets/facilities
+Marketing members' products & services
+Information on finance providers
+Help fulfilling regulatory requirements
+Business development training
+Advocacy efforts
+Networking events
+Services Provided
+Services Provided
+=== PAGE 17 ===
+17
+Additional services that leaders would like to 
+provide, but currently cannot, are as follows:
+Communication
+The communications function is 
+essential to marketing, develop-
+ing brand recognition, informing 
+stakeholders, and winning support for the 
+organisation. This assessment revealed relative 
+strength in the communications section. The 
+only weak indicator was the absence of organi-
+sational websites (only four in the dataset), but 
+this is an understandable result of the context. 
+35 of 38 PSOs communicate regularly with 
+members​, which is very positive since asso-
+ciations are not always oriented toward their 
+members. Organisational logos are common; 
+reports on activities less so. Telephone calls 
+and in-person meetings comprise the most 
+common forms of communication. WhatsApp is 
+used by 13 organisations and regular newslet-
+ters are non-existent. Illiteracy impedes com-
+munication with cooperative members, but for 
+organisations at a smaller scale this does not 
+seem to be an insurmountable obstacle. 
+Advocacy
+Advocacy gives voice and influence 
+to a membership organisation for the 
+benefit of its members, industry, or 
+wider economy by addressing their challenges 
+and improving the operating environment. 
+This assessment looked at the strategic 
+approach to advocacy and level of advocacy 
+activity. While Southwest PSOs excelled in 
+this area (87%), Juba-Land PSOs under-
+performed (48%). What stood out again is the 
+member orientation. Organisations are best at 
+obtaining member input on the issues, which 
+is a democratic approach and well suited to 
+leveraging strength in numbers. About half 
+had conducted an advocacy effort in the past 
+year and about half have regular contact with 
+policymakers. Just over half have adopted 
+position statements on major issues. 29 organi-
+sations expressed confidence that they can 
+influence government policy, and 26 said that 
+the government does invite them to dialogue. 
+As noted above, advocacy & awareness raising 
+is the top self-identified role for PSOs and the 
+second-most common service function.
+Management & Human 
+Resources
+Professional management has not 
+been introduced in the majority 
+of organisations. This is evident 
+by the limited adoption of formal 
+management and staffing practices. 26 
+organisations have a copy of an organisation 
+chart. Only 14 organisations have written 
+job descriptions and 13 hire on the basis of 
+professional qualifications. Although there are 
+gaps in reporting on staffing, half the PSOs 
+reported having paid staff, with a median of 11 
+staff members (including median 1 female staff 
+member) among those that are employers. 
+There are also gaps in reporting on volunteers, 
+but almost half the PSOs reported having 
+volunteers, and within this group a median of 
+5 volunteers, not counting board members 
+(including median 3 female volunteers). When 
+asked in an open-ended question about levels 
+of authority, only a handful of respondents 
+described a relationship of executive staff to 
+governing bodies and officers. There is most 
+likely a need to study staff roles within a 
+governance context.
+0
+2
+4
+6
+8
+10
+Cold chain/storage
+Irrigation/flood control
+Marketing
+Other
+Finance/investment
+Agricultural inputs
+Tools/equipment
+Knowledge/technical skills
+Services Unable to Provide
+Services Unable to Provide
+=== PAGE 18 ===
+18
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Capacity Score by Region
+This heatmap simplifies the presentation of PSOs’ average performance according to region 
+on each of the seven functional areas. The heatmap shows the Southwest region as having the 
+best capabilities out of the four regions. While on average the weaker functions across regions 
+are strategic planning and management & HR, region-specific pain points can be isolated. The 
+Mogadishu-based organisations are especially weak on financial management, those in Hishabelle 
+are weak on strategic planning, and those in Juba-Land are weak on advocacy.
+Capacity Score by PSO Type
+The capabilities heatmap for the three types of PSOs reveals fewer contrasts. Chambers of com-
+merce have the highest capabilities on all functions except financial management, but there are 
+only 2 chambers in the study. Otherwise, the association and cooperative types are fairly evenly 
+matched in their capabilities. The 5 associations in the study are far outnumbered by the 31 coop-
+eratives. Based on these results, one cannot generalise that any one category of PSO has superior 
+performance or potential to the other categories. 
+Hirshabelle
+Juba-Land
+Southwest
+Mogadishu
+Governance
+81%
+71%
+86%
+82%
+Strategic Planning
+47%
+56%
+64%
+64%
+Financial Management
+61%
+61%
+80%
+43%
+Membership & Services
+69%
+70%
+85%
+71%
+Communications
+74%
+62%
+76%
+73%
+Advocacy
+71%
+48%
+87%
+78%
+Management & HR
+51%
+61%
+57%
+64%
+Associations
+Chambers
+Cooperatives
+Governance
+78%
+92%
+80%
+Strategic Planning
+65%
+84%
+55%
+Financial Management
+56%
+63%
+63%
+Membership & Services
+70%
+76%
+74%
+Communications
+72%
+90%
+70%
+Advocacy
+68%
+90%
+71%
+Management & HR
+63%
+100%
+55%
+=== PAGE 19 ===
+19
+Capacity Score by Sector
+The heatmap for capacity across sectors rounds out the comparisons. Agricultural capabilities 
+track closely with overall capabilities for the 38 PSOs assessed. This is not surprising, since PSOs 
+active in agriculture represent more than half the sample (and the smallest sectors are excluded 
+from the heatmap). Diversified PSOs, defined here as active in four or more sectors, appear to 
+lead the way, with the anomaly of weak financial management. The diversified category includes 
+two chambers and two non-chamber organisations. The fisheries sector lags behind the average 
+for all PSOs. 
+Agriculture
+Livestock
+Fisheries
+Diversified
+Governance
+80%
+81%
+73%
+86%
+Strategic Planning
+52%
+62%
+54%
+72%
+Financial Management
+67%
+73%
+49%
+47%
+Membership & Services
+76%
+71%
+71%
+76%
+Communications
+72%
+71%
+69%
+75%
+Advocacy
+76%
+67%
+59%
+80%
+Management & HR
+50%
+52%
+62%
+87%
+=== PAGE 20 ===
+20
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Challenges and Priorities
+Turning now from the comparative assessment of functions to perceived challenges 
+and priorities, the study collected views from PSO leaders, members, and experts on 
+internal and external challenges and priorities for policy and non-policy actions. These 
+locally grounded views will inform the way forward for PSO development in Somalia.
+10  Interviews with Maie and Crook.
+11  Interview with Karanja.
+Internal Challenges
+Looking beyond the individual functional 
+assessments, the PSOs generally lack systems 
+and knowledge of how to institute them. Key 
+informants further stressed the challenge of 
+limited knowledge within PSOs, in areas such 
+as governance and management, agricultural 
+and business practices. Two even said there 
+is no clear understanding of the meaning of 
+“cooperative.”
+When asked about internal challenges, 11 
+leaders cited lack of funds, 10 cited lack of 
+knowledge or skills, and 3 cited a lack of 
+qualified staff. Only two expert informants 
+highlighted a shortage of capital or equipment, 
+in contrast to organisation leaders’ relative 
+focus on lack of funds. A couple of informants 
+noted the lack of technical ability on staff. As 
+for governance, one PSO leader explained that 
+board members had overstayed their term 
+limits. 14 leaders did not offer any internal 
+challenges at all, which is understandable 
+if they were concerned to make a positive 
+impression externally.
+Traditional methods of farming and 
+organisational management are seen as 
+hindrances. Two informants indicated that 
+cooperatives serving fisheries are more 
+advanced or more enduring,10 but the six 
+fisheries cooperatives in the study sample did 
+not bear this out in the scoring. 
+Finally, an expert on financial cooperatives 
+(none of which were selected for this study) 
+noted the need for financial cooperatives 
+to scale up and build confidence in their 
+management of entrusted funds.11 Yet SACCOs 
+are often self-help groups which are not 
+positioned to scale up.
+External Challenges
+Key informants offered the following major 
+external challenges confronting PSOs: 
+limited market access, insecurity, poor 
+transportation infrastructure, lack of legal and 
+policy frameworks, and limited investment. 
+Less-cited challenges were environmental 
+factors (climate change and drought) and lack 
+of government support. Although the PSO 
+leaders were not asked directly about external 
+challenges, two of them cited government 
+relations challenges anyway. 
+With respect to government, Professor Maie 
+pointed to three types of challenges. First, an 
+absence of clear legal status, policies, and 
+procedures inhibits the ability of cooperatives 
+to make international agreements, obtain 
+loans from a local bank, or export without 
+an intermediary. Second, government 
+institutions have limited capacity and are not 
+allocating funding to support the cooperative 
+sector. Third, the government has limited 
+understanding of cooperatives’ priorities and 
+functions.
+=== PAGE 21 ===
+21
+Areas for Action
+The observed challenges set the stage for prior-
+itisation of actions to upgrade PSOs’ function-
+ing and performance. Two standout areas for 
+action emerging from the analysis are first, to 
+increase knowledge and awareness of associa-
+tions and cooperatives, and second, to engage 
+more government support. Improving knowl-
+edge, together with staff training, took first and 
+third place in the leaders’ prioritisation, and 
+government support took second place.  
+Key informants similarly set high priority on im-
+proving knowledge and increasing government 
+support, and then creating common standards 
+for PSOs and improving public-private dialogue. 
+Unlike organisation leaders, they did not place 
+staff training, collaboration with other PSOs, or 
+technical assistance in the upper tier of actions.
+Members in focus groups put forward a com-
+bination of top areas for action, including: 
+training and capacity building programs, policy 
+frameworks, management models, and in-
+vestment support. They envisioned that action 
+and support can be brought by a broad set 
+of actors, namely: federal and regional gov-
+ernments, NGOs, development partners, the 
+private sector, and the community itself.
+Cooperative leaders are eager to learn, said 
+Prof. Maie. Their need and demand for knowl-
+edge can be broken down, first, into awareness 
+of PSOs’ purpose and roles; second, functional 
+requirements and systems needed to govern 
+and manage PSOs; and third, technical knowl-
+edge related to staff requirements and relevant 
+lines of work within agriculture and industry.
+0
+5
+10
+15
+20
+25
+30
+35
+Reduced government interference
+Member participation/voice
+Enforcement of regulations
+Board training
+Legislation on PSOs
+Public private dialogue
+Standards
+Technical assistance
+Collaboration with other PSOs
+Staff training
+Government support
+Association/coop knowledge
+Top Areas for Action
+Top Areas for Action
+0
+2
+4
+6
+8
+10
+12
+14
+Market access
+Cold chain
+Tax relief or incentives
+Investment support/Access to funding
+Capacity building/Organizational development/Training
+Legal & policy frameworks/Enabling environment
+Government Roles (PSO Leader View)
+Government Roles (PSO Leader View)
+=== PAGE 22 ===
+22
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Whereas PSO leaders seek government 
+intervention in the areas of legal and policy 
+frameworks, organisational capacity building, 
+and investment or financial support, the 
+one area where key informants agreed with 
+leaders on government intervention was the 
+development of legal and policy frameworks 
+and an enabling environment.
+Public-private discourse, according to the 
+workshop discussions, is essential to the 
+development of private sector organisations, 
+the building of investment-friendly business 
+environments, and the creation of legal and 
+policy frameworks that support PSOs. Yet 
+public-private dialogue only placed seventh 
+on leaders’ list of areas for action. One 
+interpretation of this discrepancy could be that 
+public-private dialogue is seen as a means 
+toward other actions.
+Make membership meaningful by setting up/reactivating a democratic framework, built 
+on a clear data-sharing system. Show the benefits of being a co-operative in a very clear 
+way – such as economic and social benefits. Create a sense of belonging and sharing 
+among members.  
+PROF. MOHAMED M. MAIE, COOPERATIVE ALLIANCE OF SOMALIA
+Policy Priorities
+12  Interviews with Maie and Crook.
+The policy priorities of PSOs vary greatly in the 
+responses received. The limited convergence 
+in policy priorities was around shared concerns 
+such as: marketing (12 responses), finance/ 
+investment (6 responses), transportation (5 
+responses), and production (5 responses). 
+Many policy preferences were differentiated 
+according to specific industries. Others were 
+very general or weakly defined. Interestingly, 
+some respondents expressed an interest in the 
+broader regulatory and business environment, 
+noting for instance the “investment climate,” 
+or “Review all laws since the country has now 
+a federal system.” Related to the representa-
+tion and regulation of the private sector, there 
+were calls to harmonize laws and policies with 
+the new federal setup; to “rebuild via a grass-
+roots approach a national body of representa-
+tive cooperatives”; and to better monitor and 
+control “briefcase cooperatives.”
+In the regional workshops, panelists highlight-
+ed policy priorities resembling those from the 
+interviews: marketing, financial management 
+procedures, access to finance, physical in-
+frastructure development, and trade reform. 
+From the open workshop discusion, policies 
+important to the private sector as a whole 
+include:
+	
+ƃ Small and medium enterprise policy 
+and strategy
+	
+ƃ Standards for testing private sector 
+development
+	
+ƃ Strengthening the capacity of private 
+sector institutions
+	
+ƃ Promoting women entrepreneurs
+	
+ƃ SME development and informal sector 
+promotion
+Two non-issues that expert informants 
+brought out bear repeating. First, there are no 
+significant barriers to registering a PSO.12 Any 
+challenges with registration relate more to 
+maintaining registered status or maintaining a 
+registry. Second, government interference in 
+the governance or internal affairs of PSOs is 
+not a concern.
+=== PAGE 23 ===
+23
+An Emerging PSO Model 
+Somalia has the opportunity to redefine its model of PSO governance, given that no 
+model is currently well established. The legal framework is neither extensive in scope 
+nor in implementation. Many of the PSOs active today sprung out of post-war initiatives 
+and are not anchored in the previous order. This absence of strong institutional 
+persistence implies considerable latitude for change. 
+13  Fredrick O. Wanyama, Patrick Develtere and Ignace Pollet, “Reinventing the Wheel? African 
+Cooperatives in a Liberalized Economic Environment,” International Labour Organization, Coop Africa Working Paper No. 1, 
+2009. 
+In many respects, Somalia has a mixed 
+model of PSO governance, though this is far 
+from explicit. The Law No. 40 on Cooperative 
+Development (1973) lays out the envisioned 
+relationship of cooperatives to the state in the 
+first chapter: 
+“The State will guide, promote and protect 
+all Cooperatives formed according to the 
+provisions of this Law. All cooperatives are 
+bound to carry out their activities in close 
+cooperation or in contract with the competent 
+state Organisations.”
+The law assigns ministries roles such as 
+assisting in cooperative formation, auditing 
+cooperatives, and providing technical 
+assistance and supports to production. 
+Internally, cooperatives are to be democratic 
+organisations according to the law.
+The annex to Law No. 40 further elaborates a 
+mixed model for cooperatives. Membership is 
+voluntary and open to anyone from the area 
+within the profession. Leadership is elected by 
+the membership at a general meeting in which 
+all members have an equal vote. The authority 
+vested in the general meeting of members 
+confirms the internal democratic governance. 
+Once a cooperative has been founded and its 
+bylaws adopted, it must apply for registration 
+to the appropriate ministry. The annex assigns 
+certain functions to the cooperatives related 
+to production, member services, and village 
+development. Cooperatives are expected to 
+cooperate with state organisations through 
+contracts.
+Since the 1990s, liberalization of cooperatives 
+in many African countries has seen the 
+advancement of a cooperative model more in 
+line with the Cooperative Principles of the 
+International Cooperative Alliance (ICA) than 
+with statist and monopolist models. The statist 
+models had been inherited from colonial and 
+socialist eras and were common across the 
+continent through the 1980s.13 In contrast with 
+statist models, the ICA principles of voluntary 
+and open membership, democratic member 
+control, and autonomy and independence, are 
+consistent with the voluntary aspects of the 
+mixed model described above. Other ICA 
+principles of member economic participation 
+and cooperation among cooperatives are 
+consistent with widely held values in Somalia 
+of mutual support and collaboration.
+Chambers and associations in Somalia have 
+a similar story to the cooperatives in terms of 
+a mixed model of PSO governance, with a few
+=== PAGE 24 ===
+24
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+differences. The Chamber Law of 1985 draws 
+a line of accountability to the Minister of Trade, 
+designates objectives for the Chamber, and rec-
+ognizes chamber staff as civil servants. On the 
+other hand, the law calls for an open member-
+ship model and leaves the Chamber president to 
+set the bylaws. In practice, the national chamber 
+has demonstrated considerable independence. 
+Chambers in particular stand out for higher 
+professionalism and better scores all around for 
+organisational capacity. The business associa-
+tions are notably absent from the legislation that 
+governs cooperatives, although associations do 
+get registered. Associations do not have a histo-
+ry of state control or support but are perceived 
+by some to have superior access to government 
+representatives. 
+What might a mixed model imply for PSOs 
+in Somalia? Current conditions have allowed 
+the space for self-created groups to serve 
+themselves and their sectors. Voluntary mem-
+bership systems have the virtue of creating 
+incentives for organisations to be responsive 
+to their members. In a voluntary membership 
+model, firms have a choice whether to join 
+and pay for dues and services. An organisation 
+only gains support if it provides value to mem-
+bers, fee-payers, and sponsors. This means of 
+course that there are no guaranteed revenues 
+or supports for a PSO in a voluntary system and 
+it will fail if it cannot compete.14 To this is add-
+ed a free rider problem because benefits that a 
+PSO creates for the sector may also accrue to 
+firms that never joined.
+By contrast, a mandatory membership system 
+or government-directed model has the ability 
+to designate public functions, ensure conti-
+nuity of PSOs, and coordinate public-private 
+relations within every sector. There is no guar-
+antee, however, that government-recognised 
+PSOs will be active in pursuit of members’ 
+interests and evolving sector needs. 
+14  Well-organized African cooperatives have responded to demand in liberalized markets. Others that are unable to address 
+member interests are being abandoned. Wanyama et al., 2009.
+Somalia’s governing framework applies a light-
+er touch by not directing the internal affairs of 
+PSOs but still sets standards for accountability 
+and registration. The law’s language about 
+coordinating the economy through PSOs is 
+quite ambitious and the government does not 
+force the matter. 
+Formalisation will be an important part of any 
+effective and sustainable governance model. A 
+dual picture emerges in Somalia of registration 
+that is common but not fully institutionalised. 
+The vast majority of PSOs claim to be regis-
+tered and none see barriers to registration 
+as an impediment to operation. Yet, it is not 
+clear that they keep their registration status 
+current. On the government side, regulators 
+cannot easily provide lists of registered PSOs 
+and presumably lack a functional registry. 
+Moreover, multiple jurisdictions are involved in 
+registration and licensing, across sectors and 
+levels of the federal system, with little clarity of 
+the respective registration requirements.
+The lack of reliable information on PSOs’ 
+registration status creates challenges for the 
+private sector and government alike. Perhaps 
+the greatest challenge is the loss of credibility 
+that arises from an inability to differentiate be-
+tween active and inactive organisations. There 
+are reported instances of PSOs being set up 
+purely to pursue resource benefits intended for 
+PSOs. There are also reported instances of PSO 
+directors maintaining an organisation to retain 
+control of assets without providing member 
+services. Moreover, government agencies lack 
+consolidated information on active PSOs and 
+therefore cannot engage them systematically 
+in dialogue, support, economic initiatives, or 
+regulatory action.
+=== PAGE 25 ===
+25
+An Emerging Mixed Model of PSO Governance for Somalia
+Continental Model
+Anglo-Saxon Model
+ICA Principles
+Somalia
+Legal status
+Created by law
+No special law
+Autonomous & 
+independent
+Founded by 
+members under the 
+Law on Cooperative 
+Development
+Membership 
+type
+Mandatory
+Voluntary
+Voluntary & open
+Voluntary
+Tasks
+Delegated by 
+government
+Not delegated
+Member economic 
+participation; 
+Education, training & 
+information; Concern 
+for community
+Delegated & 
+non-delegated
+Policy role
+Formal 
+consultative status
+Advocacy for 
+members
+Cooperation among 
+cooperatives (collective 
+voice)
+Advocacy for 
+members
+Government 
+supervision
+Supervised by 
+government
+Private
+Democratic member 
+control
+Registered & audited 
+by government; 
+internally 
+democratic
+Adapted by the author from Victor I. Fedotov, “Organizational and Legal Models of Chambers,” CIPE, 
+2007; Markus Pilgrim and Ralf Meier, National Chambers of Commerce: A Primer on the Organization 
+and Role of Chamber Systems, 1995; International Cooperative Alliance, Cooperative Principles; 
+author’s assessment of Somalia.
+=== PAGE 26 ===
+26
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Conclusion & Recommendations 
+Conclusion
+15  Little, Economy Without State; see also World Bank, Somaliland’s Private Sector at a Crossroads: Political 
+Economy and Policy Choices for Prosperity and Job Creation, 2016.
+As borne out by this study, Somalia’s PSOs 
+perform useful services and have important 
+roles to play as institutional supports to 
+production and commerce. They have the 
+potential to serve members on a larger scale 
+if they were to apply more formal methods of 
+organisational governance and management. 
+Still PSOs are surviving, not thriving, without 
+an enabling policy framework.
+Government has important roles in the 
+governance and support of PSOs, which 
+can enable their success. These roles 
+include registering and affirming the status 
+of legitimate PSOs, steering policies that 
+position the private sector as an engine of 
+development, and coordinating institutional 
+support. Government can best play these 
+roles not through a top-down model of 
+PSO development but by establishing an 
+orderly framework, encouraging PSOs to 
+take advantage of professional growth 
+opportunities, and engaging with them as an 
+attentive partner.
+The high potential for PSO improvement 
+beckons for action. The starting points 
+for action should be clarifying the policy 
+framework, preserving the independent spirit 
+of the more dynamic PSOs, and encouraging 
+the uptake of professional knowledge for PSO 
+governance. The approach should incorporate 
+international best practice without attempting 
+to replicate another country’s model for PSOs. 
+In other words, Somalia should adopt 
+a targeted, flexible approach, one which 
+allocates resources smartly and allows PSOs 
+space to find their own solutions once they 
+receive the necessary knowledge and tools. 
+This study has identified known problems of 
+high importance, which can be the focus of 
+a targeted program for PSO formalisation. 
+Targeting matters because, as Peter D. 
+Little has pointed out, elements of Somali 
+business have demonstrated remarkable 
+resilience in the absence of formal institutions, 
+whereas adding formal structures has not 
+necessarily reduced risks for business.15 While 
+most Somali PSOs are low on the scale of 
+formalisation, they have in fact achieved a 
+level of service to their members and sectors 
+through their self-organisation and effort. 
+Governance and formality exist along 
+continuums and cannot be established 
+overnight by decree. They can evolve step 
+by step through the introduction of best 
+practice and the enhancement of effective 
+local practice. While sound governance does 
+not guarantee a PSO’s success, it creates 
+pathways for legitimacy, accountable 
+stewardship, and participation as well 
+as a foundation for strategy and higher 
+performance.
+The following recommendations are grounded 
+in the existing characteristics of PSOs, the 
+expressed priorities of stakeholders, and an 
+emerging model of PSO governance.
+=== PAGE 27 ===
+27
+Recommendations
+1. Create an enabling policy framework for PSOs.
+Policy sets the foundation for PSOs’ formal status and legitimacy. This 
+foundation can be secured without major new legislation, so long as 
+government brings clarity to the policy and regulatory framework. 
+	
+ƃ Affirm the voluntary, self-governing status of PSOs. Self-
+governance relieves pressure from government and enables 
+locally owned solutions. Voluntary membership is the basis for 
+responsive services and active representation.
+	
+ƃ Designate the authority to register PSOs at each level of the 
+federal system. Each PSO should only be required to register 
+with a single authority. Multiple registrations create complexity 
+without compensating benefits. 
+	
+ƃ Establish and maintain a single registry of PSOs.The Ministry of 
+Commerce and Industry should maintain a common registry that 
+confirms PSOs’ registration status for all government and private 
+stakeholders. MOCI should coordinate with other ministries to 
+ensure that legal registration requirements are met efficiently.
+	
+ƃ Clarify and streamline registration requirements. Consider a one-
+stop shop, low fees, standardized forms, transparent processes, 
+and simplified renewal requirements. 
+	
+ƃ Ensure that business associations are included within the regula-
+tory framework. The 1973 Law on Cooperative Development does 
+not cover non-production oriented membership organisations, 
+leaving the legal status of associations unclear. A separate law 
+may not be necessary for associations but the relevant law for 
+incorporation should be clarified. 
+	
+ƃ Promote standards for democratic PSO governance. Consider 
+establishing a voluntary self-governance code for PSOs. Such a 
+code would explain members’ rights, board duties, and features 
+of internally democratic decision making.
+01
+02
+03
+Create an enabling 
+policy framework 
+for PSOs.
+Create a 
+roadmap for PSO 
+development.
+Establish the basis 
+for relations between 
+government and PSOs.
+=== PAGE 28 ===
+28
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+2. Create a roadmap for PSO development.
+Somalia’s PSOs need and want guidance to become more professional 
+organisations. Existing organisational support resources do not meet 
+the demand, nor is there a development plan in place. Elements of a 
+roadmap would include:
+	
+ƃ Offer training, mentorship, and advisory services to PSOs on 
+fundamentals of PSO governance and management. Demonstrate 
+to them the value of professionalisation and the growth 
+opportunities available through adoption of best practices.
+	
+ƃ Assess and diagnose capabilities of existing PSOs; identify 
+potential to expand services and representation. Each 
+assessment will go deeper into individual organisation needs 
+than this current mapping exercise. PSOs should co-own the 
+assessment process.
+	
+ƃ Support in-depth, tailored technical assistance to individual PSOs 
+in combination with self-directed capacity improvements. Provide 
+institutional support for PSOs’ own plans for organisational 
+improvement. Ideally services will be tailored at the level of the 
+organisation, but likely will require emphasis on strategic planning 
+and management & HR, on financial management in Mogadishu, 
+and more rigorous governance across the board as a foundation 
+for other functions. 
+	
+ƃ Ensure incentives for healthy competition. Reward PSOs that 
+are creating value for members, industries, and communities. 
+Allow stronger PSOs to thrive while leaving room for young 
+organisations to grow and compete. The Southwest region has 
+promise to demonstrate what works at greater scale.
+	
+ƃ Ensure inclusivity when offering PSO development opportunities. 
+Engage diverse members of the private sector from all 
+backgrounds. Involve women in PSO leadership development 
+initiatives, both on a professional and volunteer basis.
+=== PAGE 29 ===
+29
+3. Establish the basis for relations between government and PSOs.
+Government and PSOs at each level should endeavour to establish 
+healthy relationships based on recognition of their respective roles and 
+mutual interest in the development of the private sector.
+	
+ƃ Once government has adopted a renewed and clarified policy 
+framework for PSOs, it is encouraged to seek opportunities to 
+share and explain the framework.
+	
+ƃ Each level of government should communicate to the private 
+sector how to access regulatory and support services. 
+	
+ƃ Government representatives should participate in activities 
+outlined in the PSO development roadmap. Government 
+representatives can help coordinate, add support, and enhance 
+their own knowledge of PSO governance and professionalisation.
+	
+ƃ Establish regular forums for public-private dialogue. Forums 
+should be representative, well-coordinated, and inclusive. 
+Themes for dialogue may include the PSO policy framework itself, 
+an enabling environment for business and investment, access 
+to finance and investment opportunities, and SME development 
+strategy.
+	
+ƃ The private sector should prepare relevant, well-supported input 
+to PPD forums on sector conditions and priorities. Most PSOs will 
+need to develop their capacity to collect, coordinate, and present 
+input from their membership and respective sectors.
+	
+ƃ Allow space for continuing informal activity, such as local mutual 
+support groups. While the goal is to formalise and professionalise 
+PSOs, achieving this goal will take time, so it is best to avoid 
+cutting off informal services.
+=== PAGE 30 ===
+30
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+References
+Fedotov, Victor I. 2007. “Organizational and 
+Legal Models of Chambers.” CIPE.
+International Cooperative Alliance, 
+Cooperative Principles. https://www.ica.coop/
+en/cooperatives/cooperative-identity
+Ismail, Najma, and Amina Ahmed. 2016. 
+“Strengthening Women’s Business 
+Associations in Somalia.” ILO and UN Women 
+Briefing Paper 2/2016.
+Little, Peter D. 2003. Somalia: Economy 
+Without State. International African Institute.
+Owuor, Victor Odundo. 2015. Building a 
+Business Ecosystem in Somalia: The Case for 
+Business Associations. One Earth Future.
+Precise Consult International. 2017. Demand 
+Study for BMO Services of ECCSA & its 
+Member Organizations. ECCSA Private Sector 
+Development Hub.
+Pilgrim, Markus, and Ralf Meier. 1995. National 
+Chambers of Commerce: A Primer on the 
+Organization and Role of Chamber Systems. 
+CIPE.
+Wanyama, Fredrick O., Patrick Develtere 
+and Ignace Pollet. 2009. “Reinventing the 
+Wheel? African Cooperatives in a Liberalized 
+Economic Environment.” International Labour 
+Organization, Coop Africa Working Paper No. 1. 
+World Bank. 2016. Somaliland’s Private Sector 
+at a Crossroads: Political Economy and Policy 
+Choices for Prosperity and Job Creation.
+=== PAGE 31 ===
+31
+Annexes
+Organisational Capacity Indicators 
+(excerpted from the adapted questionnaire)
+ GOVERNANCE
+Does the organisation have a written constitution 
+or bylaws (internal regulations of the association/
+cooperative)?
+Does the organisation have a board of directors?
+How are board members chosen?
+Are there term limits and regular rotation of board 
+members?
+If the organisation has a board of directors, does the 
+composition of the board reflect the diversity of the 
+organisation’s membership?
+If the organisation has a board of directors, which of the 
+following actions does the board take?
+The board conducts a regular performance review to 
+evaluate the chief staff executive. Yes/no
+The board meets regularly, with a published agenda, and 
+attendance exceeds the quorum. Yes/no
+Decisions of the board are recorded in the minutes, 
+which are approved by board members. Yes/no
+The board ensures compliance with government regula-
+tions and tax obligations. Yes/no
+Are ethical standards defined for the organisation lead-
+ership, including loyalty to the association/cooperative 
+and avoidance of conflict of interest?
+ STRATEGIC PLANNING
+What is the mission statement?
+Does the organisation have a written strategic plan?
+Was the strategic plan created with input from members 
+and key stakeholders?
+Has a summary of the strategic plan been 
+communicated and made visible to members and key 
+stakeholders?
+Have performance measures (key performance indica-
+tors) been established to track progress on strategies 
+and goals?
+ FINANCIAL MANAGEMENT
+If the organisation has an annual budget, was the 
+budget approved by the board? Does it accurately reflect 
+the organisation’s financial position?
+What are the organisation’s principal sources of funding? 
+	
+ƃ Are membership dues regularly collected?
+	
+ƃ Does the organisation have a system of internal 
+controls over its finances and assets? 
+	
+ƃ If the organisation produces regular financial 
+reports, are they reviewed by the board at least 
+quarterly and made available to members?
+Does the organisation’s income exceed its operating 
+costs?
+Is the organization’s property (land, building, equip-
+ment) properly managed and well maintained?
+ MEMBERSHIP AND MEMBER SERVICES
+How are membership criteria defined?
+Has the organisation assessed member needs and satis-
+faction within the past three years?
+Does the organisation maintain a roster of dues-paying 
+members?
+Does the organisation know the size of the market for its 
+services?
+Does the organisation have a membership brochure, 
+describing valuable benefits and services, to facilitate 
+recruitment of new members?
+ COMMUNICATIONS
+Are there a professional logo and consistent branding 
+that reflect the organisation and are protected against 
+misuse?
+=== PAGE 32 ===
+32
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Does the organisation have a website that is 
+regularly updated?
+Does the organisation issue regular reports 
+on its activities, for members and other 
+stakeholders?
+Does the organisation communicate regularly 
+with its members?
+ ADVOCACY
+Has the organisation gathered members’ 
+perspectives on the issues affecting business/
+your sector?
+Has the organisation adopted position 
+statements on major issues and shared these 
+statements with the membership?
+Has the organisation executed at least one 
+advocacy initiative within the past year?
+Does the organisation maintain regular contact 
+and engagement with policymakers and other 
+decisionmakers in government?
+ MANAGEMENT AND HUMAN  
+ RESOURCES
+Is there a chart showing the organisation 
+leadership, levels, and relationships?
+If the organisation has paid staff, ask the 
+following questions:
+Does each staff position have a written 
+description of the responsibilities and skills 
+required?
+Are staff positions filled on the basis of 
+professional qualifications?
+=== PAGE 33 ===
+33
+List of Mapped PSOs
+Name of PSO
+Type of PSO
+Location
+Horseed Association
+Cooperative
+Hirshabelle
+Jiiqle Cooperative
+Cooperative
+Hirshabelle
+Jeerray Farmers Cooperative
+Cooperative
+Hirshabelle
+Midnimo
+Cooperative
+Hirshabelle
+Tigaad
+Cooperative
+Hirshabelle
+Hiiraan Chamber of Commerce
+Chamber of commerce
+Hirshabelle
+Al Haramayn Livestock Cooperative
+Cooperative
+Hirshabelle
+Federal Agricultural Association Cooperatives
+Cooperative
+Hirshabelle
+Carro Maal
+Cooperative
+Hirshabelle
+Damalow Farmers Development Association
+Cooperative
+Hirshabelle
+Faxdi Cooperative
+Cooperative
+Juba-Land
+Najma Cooperative
+Cooperative
+Juba-Land
+Hibo Fishing Group
+Cooperative
+Juba-Land
+Kembo-kembo
+Cooperative
+Juba-Land
+Cigaal Cooperative
+Cooperative
+Juba-Land
+Al Qasab
+Cooperative
+Juba-Land
+Shunguwa Cooperative
+Cooperative
+Juba-Land
+Soo-Maal
+Cooperative
+Juba-Land
+Olympic Transportation Cooperative
+Business association
+Juba-Land
+Somali Women in Business
+Business association
+Mogadishu
+Ururka Qaranka Iskaashatooyinka Quudka iyo Adeega, National Organization 
+Cooperative for Consumers and Services
+Cooperative
+Mogadishu
+Cooperative Alliance of Somalia
+Cooperative
+Mogadishu
+Somali Chamber of Commerce and Industry
+Chamber of commerce
+Mogadishu
+Union Industries Somalia Midowga Warshadlayda Soomaaliyeed 
+Business association
+Mogadishu
+Association of Somali Universities
+Business association
+Mogadishu
+Ururka Qaranka Iskaashatooyinka Kallumaysiga, National Fisheries Organization
+Cooperative
+Mogadishu
+Somali Green Energy Association
+Business association
+Mogadishu
+Union of Livestock, Forestry, and Incense Cooperative Movement
+Cooperative
+Mogadishu
+Kalkaal Cooperative
+Cooperative
+Southwest
+Buulo Nuuray
+Cooperative
+Southwest
+Mubarak Cooperative
+Cooperative
+Southwest
+Barda Silig
+Cooperative
+Southwest
+Gadh-Oday Cooperative
+Cooperative
+Southwest
+Saaxo Cooperative
+Cooperative
+Southwest
+Haabarre Cooperative
+Cooperative
+Southwest
+Salbuuy Cooperative
+Cooperative
+Southwest
+Abaar Moog
+Cooperative
+Southwest
+Halgan Cooperative
+Cooperative
+Southwest
+=== PAGE 34 ===
+34
+MAPPING REPORT: FORMALISATION OF COOPERATIVES AND PRIVATE SECTOR ORGANISATIONS
+Key Informants
+Najib Abdi
+Mohamed Abdilahi
+Mohamed Adan Abdurahman
+Abdifatah Osman Sheekh Adan
+Abdullahi M. Ahmed
+Mohamed Hassan Awale
+Paul Crook
+Adan Ahmed Daahir
+Dominic Karanja
+Mohamed M. Maie
+Abdinour Ibrahim Mohamed
+Sowdo Mire Osman
+Ygor Scarcia
+Prof. Ise Mahamud (Xalane)
+=== PAGE 35 ===
+35
+=== PAGE 36 ===
+DISCLAIMER 
+This publication was funded by the European Union.  
+Its contents are the sole responsability of the author 
+and do not necessary reflect the views of  
+the European Union.
+DAI Global Belgium SRL
+Avenue de I'Yser 4, 1040 Brussels, Belgium

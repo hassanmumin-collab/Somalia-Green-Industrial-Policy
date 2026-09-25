@@ -233,9 +233,21 @@ def climate_modules(t: Tracker, lines: dict):
 
     # Solar mini-grids for the parks: incumbent is private diesel generation (MCS step 1a).
     ef = t("energy.diesel_ef_t_per_mwh")
-    mw = t("minigrid.pv_mw")
     hours = HOURS_PER_YEAR
-    mwh_full = mw * t("minigrid.capacity_factor") * hours * t("minigrid.diesel_displaced_share")
+    kwh_per_mwh = KWH_PER_MWH
+    # Park electricity demand: each line's physical output times its electricity use per unit. The PV plant is sized to
+    # the solar share of mature demand (full build-out at mature utilisation).
+    demand = {y: {} for y in YEARS}
+    mature = 0.0
+    for cid, (_, cl_lines) in CLUSTERS.items():
+        for ln in cl_lines:
+            kwh = t(f"{ln}.kwh_per_unit")
+            for y in YEARS:
+                demand[y][cid] = demand[y].get(cid, 0.0) + lines[ln][y]["volume"] * kwh / kwh_per_mwh
+            mature += t(f"{ln}.capacity") * t(f"{ln}.utilisation") * kwh / kwh_per_mwh
+    cf = t("minigrid.capacity_factor")
+    mw = mature * t("minigrid.solar_share") / (cf * hours)
+    mwh_full = mw * cf * hours * t("minigrid.diesel_displaced_share")
     premium = 1 + t("minigrid.site_premium")
     pv_kw = t("minigrid.pv_capex_per_kw") * premium
     bat_kw = t("minigrid.battery_kw_per_pv_kw") * t("minigrid.battery_capex_per_kw") * premium
@@ -245,16 +257,20 @@ def climate_modules(t: Tracker, lines: dict):
     r_mg = t("finance.discount_rate")
     annual_cost_kw = (pv_kw * crf(r_mg, t("minigrid.pv_lifetime_years")) + bat_kw * crf(r_mg, t("minigrid.battery_lifetime_years"))
                       + capex_kw * t("minigrid.om_share"))
-    lcoe_solar = annual_cost_kw / (t("minigrid.capacity_factor") * HOURS_PER_YEAR)
+    kwh_per_kw = cf * HOURS_PER_YEAR
+    lcoe_parts = dict(pv=pv_kw * crf(r_mg, t("minigrid.pv_lifetime_years")) / kwh_per_kw,
+                      battery=bat_kw * crf(r_mg, t("minigrid.battery_lifetime_years")) / kwh_per_kw,
+                      om=capex_kw * t("minigrid.om_share") / kwh_per_kw)
+    lcoe_solar = annual_cost_kw / kwh_per_kw
     cost_diesel = t("minigrid.diesel_cost_usd_per_mwh")
     kw_per_mw = KW_PER_MW
-    kwh_per_mwh = KWH_PER_MWH
     mg = {}
     for i, y in enumerate(YEARS):
         mwh = mwh_full * factor[i]
         mg[y] = dict(mwh=mwh, avoided_t=mwh * ef, investment=mw * (shares[i] - prev[i]) * kw_per_mw * capex_kw,
                      cost_saving=mwh * (cost_diesel - lcoe_solar * kwh_per_mwh))
-    out["minigrid"] = dict(rows=mg, cost_per_t=(lcoe_solar * kwh_per_mwh - cost_diesel) / ef, lcoe=lcoe_solar)
+    out["minigrid"] = dict(rows=mg, cost_per_t=(lcoe_solar * kwh_per_mwh - cost_diesel) / ef, lcoe=lcoe_solar,
+                           lcoe_parts=lcoe_parts, pv_mw=mw, demand=demand, mature_demand_mwh=mature)
 
     # Solar irrigation replacing diesel pumps.
     pumps = t("irrigation.pumps")
@@ -269,7 +285,7 @@ def climate_modules(t: Tracker, lines: dict):
         ir[y] = dict(avoided_t=active * litres * ef_l, investment=pumps * (shares[i] - prev[i]) * pump_capex,
                      fuel_saving=active * litres * fuel_price)
     per_pump_t = litres * ef_l
-    out["irrigation"] = dict(rows=ir, cost_per_t=(pump_capex * crf(r, n) - litres * fuel_price) / per_pump_t)
+    out["irrigation"] = dict(rows=ir, cost_per_t=(pump_capex * crf(r, n) - litres * fuel_price) / per_pump_t, pumps=pumps)
 
     # Waste: managed landfill with gas capture replacing open dumping. Long-run methane potential per tonne
     # deposited (IPCC FOD Lo); the reduction is committed over decades, not emitted in the year of deposit.
@@ -409,7 +425,7 @@ def compute_detail(scenario: str, root, overrides: dict | None = None):
     res["gdp"], res["deps"]["gdp"] = gdp_path(inp)
     t = Tracker(inp)
     res["climate"] = climate_modules(t, res["lines"])
-    res["deps"]["climate"] = t.deps | res["deps"]["stoves"] | res["deps"]["pellets"]
+    res["deps"]["climate"] = t.deps.union(*(res["deps"][ln] for _, lns in CLUSTERS.values() for ln in lns))
     t = Tracker(inp)
     res["resilience"] = urban_resilience(t)
     res["deps"]["resilience"] = t.deps
@@ -462,13 +478,24 @@ def compute(scenario: str, root=".", overrides: dict | None = None):
         put(f"climate.total.avoided_t.{y}", total_avoided[y], cdeps)
         put(f"climate.cooking.stove_creditable_t.{y}", d["climate"]["cooking"]["rows"][y]["stove_creditable_t"], cdeps)
         put(f"climate.minigrid.cost_saving.{y}", d["climate"]["minigrid"]["rows"][y]["cost_saving"] / MILLION, cdeps)
+        put(f"climate.irrigation.fuel_saving.{y}", d["climate"]["irrigation"]["rows"][y]["fuel_saving"] / MILLION, cdeps)
         ck = d["climate"]["cooking"]["rows"][y]
         put(f"climate.cooking.pellet_avoided_t.{y}", ck["pellet_avoided_t"], cdeps)
         put(f"climate.cooking.stoves_in_use.{y}", ck["stoves_in_use"], cdeps)
         put(f"climate.cooking.household_saving.{y}", ck["household_saving"] / MILLION, cdeps)
         put(f"climate.cooking.subsidy.{y}", ck["subsidy"] / MILLION, cdeps)
     put("climate.total.investment.cumulative", total_inv / MILLION, cdeps)
-    put("climate.minigrid.lcoe_usd_per_kwh", d["climate"]["minigrid"]["lcoe"], cdeps)
+    mgd = d["climate"]["minigrid"]
+    put("climate.minigrid.lcoe_usd_per_kwh", mgd["lcoe"], cdeps)
+    for part, v in mgd["lcoe_parts"].items():
+        put(f"climate.minigrid.lcoe_{part}_usd_per_kwh", v, cdeps)
+    put("climate.minigrid.pv_mw", mgd["pv_mw"], cdeps)
+    put("climate.irrigation.pumps", d["climate"]["irrigation"]["pumps"], cdeps)
+    put("climate.minigrid.mature_demand_gwh", mgd["mature_demand_mwh"] / KWH_PER_MWH, cdeps)
+    for y in YEARS:
+        for cid in CLUSTERS:
+            put(f"climate.park_demand_gwh.{cid}.{y}", mgd["demand"][y][cid] / KWH_PER_MWH, cdeps)
+        put(f"climate.park_demand_gwh.total.{y}", sum(mgd["demand"][y].values()) / KWH_PER_MWH, cdeps)
     rdeps, rs = d["deps"]["resilience"], d["resilience"]
     for y in YEARS:
         put(f"resilience.flood_losses.{y}", rs["rows"][y]["losses"] / MILLION, rdeps)

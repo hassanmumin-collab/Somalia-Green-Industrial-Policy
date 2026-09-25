@@ -173,3 +173,30 @@ Done
 
 In progress
 - Independent fact-check of C-0485 to C-0529 and D-0072 to D-0079.
+
+## 2026-09-25: Presentation fixes, Times New Roman, and Part 3 drafted
+
+Presentation (Hassan's instructions)
+- Figure text in Times New Roman at 11 pt.
+- tools/figures.py audits every figure and refuses to save one with overlapping, clipped, off-bar, low-contrast or line-crossing text (tests in tools/tests/test_figures.py). Figures are also inspected visually.
+- Body text in Times New Roman 12 pt (tools/make_reference_docx.py).
+- Every in-text citation is a numbered footnote with a clickable link, opening PDFs at the cited page. Figure source lines carry their own footnotes.
+- Repository pushed to GitHub (public, at Hassan's choice); stored sources kept byte-identical through .gitattributes.
+
+Model
+- Park solar capacity is now sized from demand: each line's output times its electricity use per unit, with 15 new design-estimate assumptions and a solar share. Base scenario: 70 GWh a year at full build-out, 27.6 MW of PV (was a fixed 40 MW), USD 0.115 per kWh, USD 39.4 million of investment.
+- Irrigation assumptions anchored on Afgoye farm evidence (S-163).
+- New outputs: cost components of park solar, park demand by cluster, irrigation fuel savings.
+- M-0003 to M-0014 registered.
+
+Part 3 drafted (report/chapters/03_part3_foundations.md)
+- Sections: energy, solar irrigation and water governance, land, standards and certification, trade and customs.
+- Six figures: cost build-up, demand by cluster, power company structure, irrigation, customs dependence, certification pathway.
+- Box 3.1 explains the park solar cost calculation.
+- New sources: S-163 (news, tier 4) and S-164 (preprint, tier 5).
+- New claims: C-0530 to C-0544 and D-0080.
+- Draft built: report/build/GIP_draft_parts_1_3.pdf.
+
+Open
+- Pump census and a park load study (both preparatory-period tasks).
+- Land law is only a 2017 draft bill.

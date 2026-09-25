@@ -1,0 +1,52 @@
+Independent fact-check, 2026-09-25, claims C-0530 to C-0544 and D-0080.
+Checker: fact-checker agent (.claude/agents/fact-checker.md, read-only).
+
+C-0530: FAIL
+  Reason: Source says fuel, not diesel; costs predate January 2026 purchase. Corrected.
+
+C-0531: QUERY
+  Reason: Period is publication year; costs predate March 2026 purchase. Period corrected.
+
+C-0532: PASS
+  Reason: Quote confirmed at the cited page; statement, basis, period, scope and attribution correct.
+
+C-0533: FAIL
+  Reason: Source says fuel, not diesel. Corrected.
+
+C-0534: PASS
+  Reason: Quote confirmed at the cited page; statement, basis, period, scope and attribution correct.
+
+C-0535: PASS
+  Reason: Quote confirmed at the cited page; statement, basis, period, scope and attribution correct.
+
+C-0536: PASS
+  Reason: Quote confirmed at the cited page; statement, basis, period, scope and attribution correct.
+
+C-0537: FAIL
+  Reason: Coverage qualifiers of Table 2d omitted. Corrected.
+
+C-0538: PASS
+  Reason: Quote confirmed at the cited page; statement, basis, period, scope and attribution correct.
+
+C-0539: PASS
+  Reason: Quote confirmed at the cited page; statement, basis, period, scope and attribution correct.
+
+C-0540: FAIL
+  Reason: Quote did not cover draft marking, ministry, version, date. Quote widened.
+
+C-0541: PASS
+  Reason: Quote confirmed at the cited page; statement, basis, period, scope and attribution correct.
+
+C-0542: PASS
+  Reason: Quote confirmed at the cited page; statement, basis, period, scope and attribution correct.
+
+C-0543: FAIL
+  Reason: Same as C-0530. Corrected.
+
+C-0544: QUERY
+  Reason: Same as C-0531. Period corrected.
+
+D-0080: PASS
+  Reason: Quote confirmed at the cited page; statement, basis, period, scope and attribution correct.
+
+Summary: 9 pass, 5 fail, 2 query.

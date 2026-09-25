@@ -126,3 +126,85 @@
   sources: []
   source_line: This policy.
   note: Schematic. Each response is developed in Part 3, Part 4 and Part 5.
+- id: '3.1'
+  title: What park solar power costs, and what it replaces
+  file: report/figures/fig_3_1.png
+  claims:
+  - C-0489
+  - D-0079
+  - C-0083
+  model_outputs:
+  - climate.minigrid.lcoe_pv_usd_per_kwh
+  - climate.minigrid.lcoe_battery_usd_per_kwh
+  - climate.minigrid.lcoe_om_usd_per_kwh
+  scenario: base
+  sources:
+  - S-026
+  - S-062
+  source_line: Model base scenario (modelled estimate); World Bank, Somalia Economic Update 11 (2026), Table 4; Ministry of Energy generation plan (2025).
+  note: Park solar and storage is the model's levelised cost in the base scenario (illustrative, not a forecast), built up from the annualised capital cost of PV and batteries and their operation and maintenance.
+    Tariffs are averages; the source table does not state the year.
+- id: '3.2'
+  title: Electricity demand of the industrial parks by cluster, 2032
+  file: report/figures/fig_3_2.png
+  claims: []
+  model_outputs:
+  - climate.park_demand_gwh.c1.2032
+  - climate.park_demand_gwh.c2.2032
+  - climate.park_demand_gwh.c3.2032
+  - climate.park_demand_gwh.c4.2032
+  scenario: base
+  sources: []
+  source_line: Model base scenario (modelled estimate).
+  note: Demand is each production line's output multiplied by its electricity use per unit (design estimates; no metered Somali data exist). Illustrative, not a forecast.
+- id: '3.3'
+  title: 'One power company for all the parks: contracts and finance'
+  file: report/figures/fig_3_3.png
+  claims: []
+  model_outputs: []
+  scenario: null
+  sources: []
+  source_line: This policy.
+  note: Schematic. The park power company is licensed by the National Electricity Authority under the Electricity Act; carbon revenue under Article 6 depends on the Carbon Markets Act.
+- id: '3.4'
+  title: 'Riverine irrigation: what was lost and what pumping costs farmers'
+  file: report/figures/fig_3_4.png
+  claims:
+  - C-0210
+  - C-0206
+  - C-0207
+  - C-0530
+  - C-0531
+  model_outputs: []
+  scenario: null
+  sources:
+  - S-032
+  - S-163
+  source_line: National Irrigation Policy (Ministry of Agriculture and Irrigation); Hiiraan Online news report (18 September 2026).
+  note: 'Panel A: areas are pre-war estimates and a potential, not current figures. Panel B reports two individual farmers in Afgoye district quoted in a news report; it is illustrative, not a survey.'
+- id: '3.5'
+  title: How much the budget depends on customs, 2024
+  file: report/figures/fig_3_5.png
+  claims:
+  - C-0537
+  - C-0424
+  - D-0080
+  model_outputs: []
+  scenario: null
+  sources:
+  - S-060
+  source_line: 'IMF, Somalia: Fourth Review under the Extended Credit Facility (2025), Table 2d.'
+  note: Federal Government and five Federal Member States; preliminary, cash basis; excludes Somaliland.
+- id: '3.6'
+  title: The certification pathway for chilled meat exports to the Gulf
+  file: report/figures/fig_3_6.png
+  claims:
+  - C-0535
+  - C-0195
+  model_outputs: []
+  scenario: null
+  sources:
+  - S-015
+  - S-036
+  source_line: Livestock Sector Development Strategy; Somali Standards and Quality Control Law; this policy.
+  note: Schematic. Each step names the certificate or approval that Gulf buyers and regulators require, and the institution responsible.

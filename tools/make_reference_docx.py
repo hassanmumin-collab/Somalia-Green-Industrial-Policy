@@ -2,7 +2,7 @@
 """Build report/template/reference.docx: the Word styles for the policy document (CLAUDE.md section 12A).
 
 Starts from pandoc's default reference document and rewrites its styles in an IMF-publication register:
-Arial body text at 10.5 pt with 1.15 line spacing, navy headings, left-aligned bold figure and table titles,
+Times New Roman body text at 12 pt with 1.15 line spacing, navy headings, left-aligned bold figure and table titles,
 8 pt notes and footnotes, and 2.5 cm margins on A4.
 
 Usage: python tools/make_reference_docx.py
@@ -22,7 +22,7 @@ from build import find_pandoc  # noqa: E402
 
 NAVY = "0B3C5D"
 BLUE = "328CC1"
-FONT = "Arial"
+FONT = "Times New Roman"
 
 
 def rpr(size_half_pts, bold=False, color=None, italic=False):
@@ -59,14 +59,14 @@ def main() -> int:
     zin = zipfile.ZipFile(base)
     styles = zin.read("word/styles.xml").decode("utf-8")
     styles = re.sub(r"<w:rPrDefault>.*?</w:rPrDefault>",
-                    "<w:rPrDefault>" + rpr(21) + "</w:rPrDefault>", styles, flags=re.S)
+                    "<w:rPrDefault>" + rpr(24) + "</w:rPrDefault>", styles, flags=re.S)
     styles = re.sub(r"<w:pPrDefault>.*?</w:pPrDefault>",
                     '<w:pPrDefault><w:pPr><w:spacing w:after="120" w:line="276" w:lineRule="auto"/></w:pPr></w:pPrDefault>',
                     styles, flags=re.S)
     body_ppr = '<w:pPr><w:spacing w:before="0" w:after="140" w:line="276" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr>'
     for sid in ("BodyText", "FirstParagraph"):
-        styles = set_style(styles, sid, body_ppr, rpr(21))
-    styles = set_style(styles, "Compact", '<w:pPr><w:spacing w:before="0" w:after="60"/></w:pPr>', rpr(21))
+        styles = set_style(styles, sid, body_ppr, rpr(24))
+    styles = set_style(styles, "Compact", '<w:pPr><w:spacing w:before="0" w:after="60"/></w:pPr>', rpr(24))
     heads = {"Heading1": (32, NAVY, 360, 160), "Heading2": (25, NAVY, 280, 120), "Heading3": (22, BLUE, 220, 80),
              "Heading4": (21, NAVY, 180, 60)}
     for sid, (sz, col, before, after) in heads.items():
@@ -79,19 +79,19 @@ def main() -> int:
     styles = set_style(styles, "Title", '<w:pPr><w:spacing w:before="2400" w:after="240"/></w:pPr>', rpr(48, bold=True, color=NAVY))
     styles = set_style(styles, "Subtitle", '<w:pPr><w:spacing w:after="240"/></w:pPr>', rpr(26, color=BLUE))
     styles = set_style(styles, "Date", '<w:pPr><w:spacing w:after="240"/></w:pPr>', rpr(22, color="595959"))
-    styles = set_style(styles, "FootnoteText", '<w:pPr><w:spacing w:after="40" w:line="220" w:lineRule="auto"/></w:pPr>', rpr(15))
-    styles = set_style(styles, "Caption", '<w:pPr><w:spacing w:before="60" w:after="160"/></w:pPr>', rpr(16, italic=True))
-    styles = set_style(styles, "ImageCaption", '<w:pPr><w:spacing w:before="60" w:after="160"/></w:pPr>', rpr(16, italic=True))
-    styles = set_style(styles, "TableCaption", '<w:pPr><w:keepNext/><w:spacing w:before="200" w:after="80"/></w:pPr>', rpr(20, bold=True, color=NAVY))
+    styles = set_style(styles, "FootnoteText", '<w:pPr><w:spacing w:after="40" w:line="220" w:lineRule="auto"/></w:pPr>', rpr(20))
+    styles = set_style(styles, "Caption", '<w:pPr><w:spacing w:before="60" w:after="160"/></w:pPr>', rpr(20, italic=True))
+    styles = set_style(styles, "ImageCaption", '<w:pPr><w:spacing w:before="60" w:after="160"/></w:pPr>', rpr(20, italic=True))
+    styles = set_style(styles, "TableCaption", '<w:pPr><w:keepNext/><w:spacing w:before="200" w:after="80"/></w:pPr>', rpr(22, bold=True, color=NAVY))
     fig_title = ('<w:style w:type="paragraph" w:customStyle="1" w:styleId="FigureTitle"><w:name w:val="Figure Title"/>'
                  '<w:basedOn w:val="Normal"/><w:next w:val="Figure"/><w:qFormat/>'
                  '<w:pPr><w:keepNext/><w:keepLines/><w:spacing w:before="240" w:after="80"/></w:pPr>'
-                 + rpr(20, bold=True, color=NAVY) + "</w:style>")
+                 + rpr(22, bold=True, color=NAVY) + "</w:style>")
     styles = styles.replace("</w:styles>", fig_title + "</w:styles>")
-    styles = set_style(styles, "Figure", '<w:pPr><w:keepNext/><w:keepLines/><w:spacing w:before="0" w:after="60"/></w:pPr>', rpr(21))
+    styles = set_style(styles, "Figure", '<w:pPr><w:keepNext/><w:keepLines/><w:spacing w:before="0" w:after="60"/></w:pPr>', rpr(24))
     styles = set_style(styles, "Hyperlink", "", '<w:rPr><w:color w:val="' + BLUE + '"/></w:rPr>')
     styles = set_style(styles, "BlockText", '<w:pPr><w:shd w:val="clear" w:color="auto" w:fill="EAF2F8"/>'
-                       '<w:spacing w:before="120" w:after="120"/><w:ind w:left="200" w:right="200"/></w:pPr>', rpr(20))
+                       '<w:spacing w:before="120" w:after="120"/><w:ind w:left="200" w:right="200"/></w:pPr>', rpr(22))
     document = zin.read("word/document.xml").decode("utf-8")
     document = re.sub(r"<w:pgSz[^>]*/>", '<w:pgSz w:w="11906" w:h="16838"/>', document)
     document = re.sub(r"<w:pgMar[^>]*/>", '<w:pgMar w:top="1418" w:right="1418" w:bottom="1418" w:left="1418" '

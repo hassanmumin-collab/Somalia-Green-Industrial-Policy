@@ -1757,6 +1757,8 @@
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: minigrid.pv_mw
+  status: retired
+  retired_note: 'Retired 2026-09-24: clean cooking is now modelled from the Cluster 3 stove and pellet lines (Hassan Mumin''s instruction of 2026-09-24). Kept for the record; not a model input.'
 - id: A-136
   parameter: Solar PV capacity factor in Mogadishu
   value: 0.204
@@ -1896,22 +1898,22 @@
   range:
   - 1500
   - 4000
-  basis_claim: null
-  comparator: None (judgment; no credible benchmark found)
-  rationale: Judgment; to be surveyed.
+  basis_claim: C-0530
+  comparator: Afgoye farmers (news report, 2026)
+  rationale: A farmer spent USD 100 to 150 per irrigation round with a fuel-powered pump (C-0530), and fuel sells at about USD 1 a litre (C-0533), so up to 100 to 150 litres a round; about 20 rounds a year when fuel is affordable gives some 2,500 litres. No survey exists; the range covers smaller and larger pumps.
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: irrigation.diesel_litres_per_pump
 - id: A-147
   parameter: Solar pumping system cost per pump replaced
-  value: 7000
+  value: 5000
   unit: USD
   range:
   - 4000
-  - 10000
-  basis_claim: null
-  comparator: None (judgment; no credible benchmark found)
-  rationale: Judgment.
+  - 8000
+  basis_claim: C-0532
+  comparator: Afgoye farmer's solar system (news report, 2026)
+  rationale: A farmer's solar irrigation system cost USD 4,600 (C-0532); the base adds installation and water-governance costs, and the high end allows for larger pumps.
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: irrigation.capex_per_pump
@@ -2828,3 +2830,211 @@
   approved_by_hassan: true
   approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
   model_input: resilience.lifetime_years
+- id: A-218
+  parameter: Share of the parks' electricity demand met by the solar-plus-storage system
+  value: 0.7
+  unit: fraction
+  range:
+  - 0.5
+  - 0.85
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: PV with four-hour batteries covers daytime load and the evening shoulder; night shifts and cloudy days fall back on other supply. The PV plant is sized to this share of mature park demand (judgment).
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: minigrid.solar_share
+- id: A-219
+  parameter: 'Electricity use per unit of output: meat'
+  value: 150
+  unit: kWh per t carcass meat
+  range:
+  - 100
+  - 250
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Slaughter, chilling to 0 to 4 C and chilled storage. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: meat.kwh_per_unit
+- id: A-220
+  parameter: 'Electricity use per unit of output: tanning'
+  value: 1.5
+  unit: kWh per skin
+  range:
+  - 1.0
+  - 3.0
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Drums, pumps, effluent treatment and drying. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: tanning.kwh_per_unit
+- id: A-221
+  parameter: 'Electricity use per unit of output: fish'
+  value: 300
+  unit: kWh per t
+  range:
+  - 200
+  - 500
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Ice making, blast freezing and cold storage. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fish.kwh_per_unit
+- id: A-222
+  parameter: 'Electricity use per unit of output: sesame'
+  value: 60
+  unit: kWh per t seed
+  range:
+  - 40
+  - 100
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Cleaning, hulling, drying and sorting. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame.kwh_per_unit
+- id: A-223
+  parameter: 'Electricity use per unit of output: sesame oil'
+  value: 80
+  unit: kWh per t seed
+  range:
+  - 50
+  - 120
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Expellers, filtration and refining. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: sesame_oil.kwh_per_unit
+- id: A-224
+  parameter: 'Electricity use per unit of output: fruit'
+  value: 50
+  unit: kWh per t fruit
+  range:
+  - 30
+  - 100
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Packhouse cooling and a small juice and puree line. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: fruit.kwh_per_unit
+- id: A-225
+  parameter: 'Electricity use per unit of output: flour'
+  value: 70
+  unit: kWh per t flour
+  range:
+  - 50
+  - 100
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Milling, conveying and silo aeration. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: flour.kwh_per_unit
+- id: A-226
+  parameter: 'Electricity use per unit of output: dairy'
+  value: 0.1
+  unit: kWh per litre
+  range:
+  - 0.05
+  - 0.2
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Chilling, pasteurisation and packing. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: dairy.kwh_per_unit
+- id: A-227
+  parameter: 'Electricity use per unit of output: soap'
+  value: 150
+  unit: kWh per t
+  range:
+  - 100
+  - 250
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Mixing, milling, plodding and stamping. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: soap.kwh_per_unit
+- id: A-228
+  parameter: 'Electricity use per unit of output: diapers'
+  value: 400
+  unit: kWh per t
+  range:
+  - 250
+  - 600
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: High-speed converting lines. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: diapers.kwh_per_unit
+- id: A-229
+  parameter: 'Electricity use per unit of output: garments'
+  value: 2000
+  unit: kWh per job place a year
+  range:
+  - 1000
+  - 3000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Sewing machines, lighting, cutting and ventilation. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: garments.kwh_per_unit
+- id: A-230
+  parameter: 'Electricity use per unit of output: aromatics'
+  value: 500
+  unit: kWh per t resin
+  range:
+  - 250
+  - 1000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Grinding and electrically heated distillation; biomass boilers would lower it. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: aromatics.kwh_per_unit
+- id: A-231
+  parameter: 'Electricity use per unit of output: stoves'
+  value: 5
+  unit: kWh per stove
+  range:
+  - 2
+  - 10
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Metal presses, welding and liner kilns (kilns partly fuel-fired). Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: stoves.kwh_per_unit
+- id: A-232
+  parameter: 'Electricity use per unit of output: pellets'
+  value: 100
+  unit: kWh per t
+  range:
+  - 60
+  - 150
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Chipping, drying fans and pelletising. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: pellets.kwh_per_unit
+- id: A-233
+  parameter: 'Electricity use per unit of output: bpo'
+  value: 3000
+  unit: kWh per seat a year
+  range:
+  - 2000
+  - 5000
+  basis_claim: null
+  comparator: None (judgment; no credible benchmark found)
+  rationale: Round-the-clock computers, servers and air conditioning. Design estimate for a plant of this type; no metered Somali data exist (judgment). The range spans efficient and less efficient plants.
+  approved_by_hassan: true
+  approval: 'Delegated approval: Hassan Mumin, 2026-09-24 ("I want you to think like the best economic analyst at IMF or World Bank and make the assumptions they will make"). Reviewed and set by Claude; Hassan may amend any entry.'
+  model_input: bpo.kwh_per_unit

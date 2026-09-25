@@ -7899,19 +7899,19 @@
   measure: levelised cost of the park solar-plus-storage supply
   basis: projection
   status: illustrative
-  verified_at: '2026-09-24'
+  verified_at: '2026-09-25'
 - id: M-0002
   statement: Energy cost saving for park firms against diesel self-generation in 2032 (base scenario, modelled estimate).
   output_key: climate.minigrid.cost_saving.2032
   scenario: base
-  value: 18.3
+  value: 12.6
   unit: USD million
   rounding: 1
   period: '2032'
   measure: energy cost saving for park firms against diesel self-generation
   basis: projection
   status: illustrative
-  verified_at: '2026-09-24'
+  verified_at: '2026-09-25'
 - id: C-0529
   statement: The National Export Strategy puts the upper end of the pre-drought value of Somalia's annual frankincense production at around USD 90 million.
   value: 90
@@ -7924,4 +7924,354 @@
   page: 28
   quote: Before the recent drought, annual production was valued at around $80–90 million, and Somali frankincense is widely regarded for its high quality.
   verified_at: '2026-09-24'
+  fact_checked: true
+- id: C-0530
+  statement: According to a news report, a farmer in Afgoye district spent USD 100 to 150 each time he irrigated his farm when he used a fuel-powered pump, before switching to solar.
+  value: 100
+  unit: USD per irrigation round (lower end of 100 to 150)
+  period: before January 2026 (reported September 2026)
+  measure: irrigation cost per round (fuel-powered pump), individual farmer, Afgoye (news report)
+  basis: estimate
+  status: estimate
+  source_id: S-163
+  page: 1
+  quote: He used to spend $100 to $150 each time he irrigated his farm
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0531
+  statement: According to the same news report, another Afgoye farmer spent USD 300 to 500 in fuel for each round of irrigation before installing solar.
+  value: 500
+  unit: USD per irrigation round (upper end of 300 to 500)
+  period: before March 2026 (reported September 2026)
+  measure: fuel cost per irrigation round, second farmer, Afgoye (news report)
+  basis: estimate
+  status: estimate
+  source_id: S-163
+  page: 1
+  quote: before each round of irrigation cost him between $300 and $500 in fuel
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0532
+  statement: According to the same news report, one farmer invested USD 4,600 in a solar irrigation system.
+  value: 4,600
+  unit: USD per farm system
+  period: '2026'
+  measure: cost of a farm solar irrigation system, Afgoye (news report)
+  basis: estimate
+  status: estimate
+  source_id: S-163
+  page: 1
+  quote: Mohamed invested $4,600 in the solar system
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0533
+  statement: According to the same news report, fuel sold at about USD 1 per litre in Afgoye.
+  value: 1
+  unit: USD per litre
+  period: '2026'
+  measure: fuel price, Afgoye (news report)
+  basis: estimate
+  status: estimate
+  source_id: S-163
+  page: 1
+  quote: Fuel sells at about $1 per litre
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0534
+  statement: According to the same news report, a farmer's June harvest after switching to solar earned about USD 3,000 in profit, more than double what he made with a fuel-powered pump.
+  value: 3,000
+  unit: USD profit per harvest
+  period: '2026'
+  measure: farm profit per harvest after switching to solar irrigation, Afgoye (news report)
+  basis: estimate
+  status: estimate
+  source_id: S-163
+  page: 1
+  quote: earned him about $3,000 in profit – more than double the amount he made when he used a fuel-powered pump
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0535
+  statement: The Livestock Sector Development Strategy calls for a unified Animal Health Certificate issued only by Federal Government public veterinarians, as agreed among the Federal Government, the Federal Member States and Saudi Arabia.
+  value: unified Animal Health Certificate
+  unit: measure
+  period: '2020'
+  measure: proposed export health certification reform
+  basis: target
+  source_id: S-036
+  page: 12
+  quote: Using a unified Animal Health Certificate issued only by FGS public veterinarians, as already agreed among the FGS and the FMs and with Saudi Arabia, and as mandated by law
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0536
+  statement: The Livestock Sector Development Strategy cites a three-week quarantine among the regulatory compliance costs for livestock exports.
+  value: three-week quarantine
+  unit: duration
+  period: '2020'
+  measure: export quarantine period for livestock
+  basis: actual
+  source_id: S-036
+  page: 12
+  quote: the three-week quarantine and health certificate emission
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0537
+  statement: The IMF records general government tax revenue of USD 394.6 million in 2024 (Federal Government and five Federal Member States, unconsolidated; preliminary, cash basis).
+  value: 394.6
+  unit: USD million
+  period: '2024'
+  measure: general government tax revenue (IMF Table 2d)
+  basis: actual
+  source_id: S-060
+  page: 30
+  quote: Tax revenue 70.7 65.9 77.8 72.1 286.5 98.5 93.4 94.1 108.6 394.6
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0538
+  statement: A 2026 preprint (not peer reviewed), citing FAO SWALIM, reports that irrigation in the Afgoi district is supplied by diesel-powered pumps drawing from the Shabelle River, with no major functioning barrage or controlled distribution network.
+  value: diesel-powered pumps
+  unit: qualitative
+  period: '2020'
+  measure: state of irrigation supply, Afgoi district (preprint citing FAO SWALIM 2020)
+  basis: estimate
+  status: estimate
+  source_id: S-164
+  page: 1
+  quote: supplied by diesel-powered pumps extracting from the Shabelle River; no major functioning barrage or controlled distribution network currently exists (FAOSWALIM, 2020)
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0539
+  statement: The National Irrigation Policy records that at the time of the civil war in 1991 there were nine functioning barrages along the Shabelle and one along the Juba.
+  value: nine functioning barrages
+  unit: barrages (Shabelle)
+  period: '1991'
+  measure: functioning barrages on the Shabelle, 1991
+  basis: actual
+  source_id: S-032
+  page: 9
+  quote: At the time of the civil war in 1991 there were a total of nine functioning barrages along the Shabelle and one along the Juba.
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0540
+  statement: The draft bill regulating urban planning, building development and land management (version 02, 2017) was prepared by the Ministry of Public Works, Reconstruction and Housing and remains a draft in the stored version.
+  value: HINDISE SHARCIYEEDKA
+  unit: document type (Somali for 'draft bill')
+  period: '2017'
+  measure: status of the urban planning and land management bill
+  basis: actual
+  source_id: S-070
+  page: 1
+  quote: 'QABYO-QORAAL-DRAFT 1/27 JAMHUURIYADDA FEDERAALKA SOOMAALIYA WASAARADDA HAWLAHA GUUD, DIB-U-DHISKA & GURIYEYNTA HINDISE SHARCIYEEDKA NIDAAMINAYA NAQSHADEYNTA MAGAALOOYINKA, HORUMARINTA DHISMOOYINKA IYO MAAMULKA DHULKA JFS Nuqulkii 02 Muqdisho: 20 Ogost, 2017'
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: D-0080
+  statement: In 2024, taxes on international trade provided an estimated 0.612 of general government tax revenue (IMF data; Federal Government and five Federal Member States, preliminary, cash basis).
+  formula: C-0424 / C-0537
+  value: 0.612
+  unit: share of tax revenue
+  rounding: 3
+  status: estimate
+  period: '2024'
+  measure: taxes on international trade as a share of general government tax revenue
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: M-0003
+  statement: Solar PV capacity for the industrial parks, sized to the solar share of mature park demand (base scenario, modelled estimate).
+  output_key: climate.minigrid.pv_mw
+  scenario: base
+  value: 27.6
+  unit: MW
+  rounding: 1
+  period: '2032'
+  measure: solar PV capacity for the parks, sized to demand
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0004
+  statement: Electricity demand of the industrial parks at full build-out (base scenario, modelled estimate).
+  output_key: climate.minigrid.mature_demand_gwh
+  scenario: base
+  value: 70
+  unit: GWh a year
+  rounding: 0
+  period: full build-out
+  measure: electricity demand of the parks at full build-out and mature utilisation
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0005
+  statement: PV capital component of the park solar-plus-storage levelised cost (base scenario, modelled estimate).
+  output_key: climate.minigrid.lcoe_pv_usd_per_kwh
+  scenario: base
+  value: 0.056
+  unit: USD per kWh
+  rounding: 3
+  period: '2032'
+  measure: PV capital component of the park solar levelised cost
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0006
+  statement: Battery capital component of the park solar-plus-storage levelised cost (base scenario, modelled estimate).
+  output_key: climate.minigrid.lcoe_battery_usd_per_kwh
+  scenario: base
+  value: 0.043
+  unit: USD per kWh
+  rounding: 3
+  period: '2032'
+  measure: battery capital component of the park solar levelised cost
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0007
+  statement: Operation and maintenance component of the park solar-plus-storage levelised cost (base scenario, modelled estimate).
+  output_key: climate.minigrid.lcoe_om_usd_per_kwh
+  scenario: base
+  value: 0.016
+  unit: USD per kWh
+  rounding: 3
+  period: '2032'
+  measure: operation and maintenance component of the park solar levelised cost
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0008
+  statement: Capital cost of the park solar-plus-storage system over 2028 to 2032 (base scenario, modelled estimate).
+  output_key: climate.minigrid.investment.cumulative
+  scenario: base
+  value: 39.4
+  unit: USD million
+  rounding: 1
+  period: model horizon 2028 to 2032
+  measure: capital cost of the park solar-plus-storage system, 2028 to 2032
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0009
+  statement: Emissions avoided by the park solar supply against diesel generation in 2032 (base scenario, modelled estimate).
+  output_key: climate.minigrid.avoided_t.2032
+  scenario: base
+  value: 30674
+  unit: t CO2 a year
+  rounding: 0
+  period: '2032'
+  measure: emissions avoided by park solar against diesel generation
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0010
+  statement: Abatement cost of park solar against diesel generation (base scenario, modelled estimate); negative means a saving.
+  output_key: climate.minigrid.cost_per_t
+  scenario: base
+  value: -412
+  unit: USD per t CO2
+  rounding: 0
+  period: '2032'
+  measure: abatement cost of park solar (negative means a saving)
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0011
+  statement: Diesel irrigation pumps replaced by solar pumps by 2032 (base scenario, modelled estimate).
+  output_key: climate.irrigation.pumps
+  scenario: base
+  value: 2000
+  unit: pumps
+  rounding: 0
+  period: '2032'
+  measure: diesel irrigation pumps replaced by solar by 2032
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0012
+  statement: Farmers' diesel saving from solar irrigation in 2032 (base scenario, modelled estimate).
+  output_key: climate.irrigation.fuel_saving.2032
+  scenario: base
+  value: 4.5
+  unit: USD million a year
+  rounding: 1
+  period: '2032'
+  measure: farmers' diesel saving from solar irrigation
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0013
+  statement: Investment in solar irrigation over 2028 to 2032 (base scenario, modelled estimate).
+  output_key: climate.irrigation.investment.cumulative
+  scenario: base
+  value: 10.0
+  unit: USD million
+  rounding: 1
+  period: model horizon 2028 to 2032
+  measure: investment in solar irrigation, 2028 to 2032
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: M-0014
+  statement: Emissions avoided by solar irrigation in 2032 (base scenario, modelled estimate).
+  output_key: climate.irrigation.avoided_t.2032
+  scenario: base
+  value: 11977
+  unit: t CO2 a year
+  rounding: 0
+  period: '2032'
+  measure: emissions avoided by solar irrigation
+  basis: projection
+  status: illustrative
+  verified_at: '2026-09-25'
+- id: C-0541
+  statement: Under the IMF-supported programme, the authorities are laying the groundwork for a gradual transition to ad valorem customs duties and customs harmonisation over the medium term, with the move to book-value-based customs as a first step.
+  value: gradual transition to the ad valorem customs reform
+  unit: reform commitment
+  period: '2025'
+  measure: customs reform plan (IMF ECF fourth review)
+  basis: target
+  source_id: S-060
+  page: 13
+  quote: laying the groundwork for a gradual transition to the ad valorem customs reform and customs harmonization over the medium-term. In this regard, the recent move towards “book value”-based customs is a useful first step.
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0542
+  statement: The IMF reports that initial discussions with the Federal Member States on tariff-setting and the East African Community Common External Tariff have begun.
+  value: Common External Tariff
+  unit: process
+  period: '2025'
+  measure: status of East African Community Common External Tariff discussions
+  basis: actual
+  source_id: S-060
+  page: 17
+  quote: initial discussions with FMS on tariff-setting and the Common External Tariff have begun
+  status: verified
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0543
+  statement: According to a news report, a farmer in Afgoye district spent up to USD 150 each time he irrigated his farm when he used a fuel-powered pump, before switching to solar.
+  value: 150
+  unit: USD per irrigation round (upper end of 100 to 150)
+  period: before January 2026 (reported September 2026)
+  measure: irrigation cost per round (fuel-powered pump), individual farmer, Afgoye (news report, upper end)
+  basis: estimate
+  status: estimate
+  source_id: S-163
+  page: 1
+  quote: He used to spend $100 to $150 each time he irrigated his farm
+  verified_at: '2026-09-25'
+  fact_checked: true
+- id: C-0544
+  statement: According to the same news report, another Afgoye farmer spent at least USD 300 in fuel for each round of irrigation before installing solar.
+  value: 300
+  unit: USD per irrigation round (lower end of 300 to 500)
+  period: before March 2026 (reported September 2026)
+  measure: fuel cost per irrigation round, second farmer, Afgoye (news report, lower end)
+  basis: estimate
+  status: estimate
+  source_id: S-163
+  page: 1
+  quote: before each round of irrigation cost him between $300 and $500 in fuel
+  verified_at: '2026-09-25'
   fact_checked: true

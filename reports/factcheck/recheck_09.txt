@@ -1,0 +1,24 @@
+Independent re-checks, 2026-09-25, of corrected Part 3 claims (fact-checker agent, read-only).
+
+C-0531: PASS
+  Reason: Period corrected to before March 2026 (reported September 2026).
+
+C-0533: PASS
+  Reason: Now says fuel, as the source does.
+
+C-0537: PASS
+  Reason: Table 2d coverage qualifiers stated; quarters and tax lines sum to 394.6.
+
+C-0540: PASS
+  Reason: Widened quote shows draft marking, ministry, version 02 and 20 August 2017.
+
+C-0544: PASS
+  Reason: Period corrected.
+
+C-0530: PASS
+  Reason: Second recheck: no longer says the amount was spent on fuel; fuel-powered pump framing supported on the page.
+
+C-0543: PASS
+  Reason: Second recheck: as C-0530.
+
+Summary: 7 pass, 0 fail, 0 query.

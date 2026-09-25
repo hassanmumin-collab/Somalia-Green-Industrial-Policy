@@ -462,6 +462,171 @@ def fig_1_7(x: Ctx):
     return fig
 
 
+# --------------------------------------------------------------------------- Part 3
+
+@figure("3.1", "What park solar power costs, and what it replaces",
+        "Model base scenario (modelled estimate); World Bank, Somalia Economic Update 11 (2026), Table 4; Ministry of "
+        "Energy generation plan (2025).",
+        "Park solar and storage is the model's levelised cost in the base scenario (illustrative, not a forecast), built up "
+        "from the annualised capital cost of PV and batteries and their operation and maintenance. Tariffs are averages; "
+        "the source table does not state the year.")
+def fig_3_1(x: Ctx):
+    pv, bat, om = (x.M(f"climate.minigrid.lcoe_{p}_usd_per_kwh") * 100 for p in ("pv", "battery", "om"))
+    rows = ["Park solar and storage\n(model, base scenario)", "Kenya, average tariff", "Diesel self-generation",
+            "Somalia, lowest average tariff"]
+    others = [x.C("C-0489"), x.C("D-0079"), x.C("C-0083")]
+    fig, ax = plt.subplots(figsize=(WIDTH, 3.6))
+    ax.barh(0, pv, color=GREEN, height=0.6, label="PV capital")
+    ax.barh(0, bat, left=pv, color="#6FA776", height=0.6, label="Battery capital")
+    ax.barh(0, om, left=pv + bat, color="#B7D4BB", height=0.6, label="Operation and maintenance")
+    ax.text(pv + bat + om + 1, 0, f"{pv + bat + om:.1f}", va="center")
+    ax.barh([1, 2, 3], others, color=[BLUE, ORANGE, RED], height=0.6)
+    for i, v in zip((1, 2, 3), others):
+        ax.text(v + 1, i, f"{v:g}", va="center")
+    ax.invert_yaxis()
+    ax.set_yticks(range(4), rows)
+    ax.set_xlim(0, 60)
+    ax.set_xlabel("US cents per kWh")
+    ax.grid(axis="y", visible=False)
+    ax.legend(loc="upper center", bbox_to_anchor=(0.45, -0.2), ncol=3)
+    return fig
+
+
+@figure("3.2", "Electricity demand of the industrial parks by cluster, 2032",
+        "Model base scenario (modelled estimate).",
+        "Demand is each production line's output multiplied by its electricity use per unit (design estimates; no metered "
+        "Somali data exist). Illustrative, not a forecast.")
+def fig_3_2(x: Ctx):
+    names = [("c1", "Cluster 1: coastal export processing"), ("c2", "Cluster 2: riverine agro-processing"),
+             ("c3", "Cluster 3: light manufacturing\nand consumer staples"), ("c4", "Cluster 4: business services")]
+    vals = [x.M(f"climate.park_demand_gwh.{c}.2032") for c, _ in names]
+    fig, ax = plt.subplots(figsize=(WIDTH, 3.2))
+    ax.barh(range(4), vals, color=[NAVY, GREEN, BLUE, GREY], height=0.6)
+    ax.invert_yaxis()
+    ax.set_yticks(range(4), [n for _, n in names])
+    hbar_labels(ax, vals, lambda v: f"{v:.1f}", 0.5)
+    ax.set_xlim(0, max(vals) * 1.2)
+    ax.set_xlabel("GWh a year")
+    ax.grid(axis="y", visible=False)
+    return fig
+
+
+def _node(ax, xy, w, h, text, fc, tc="white", width=22):
+    _box(ax, xy, w, h, wrap(text, width), fc, tc)
+    return (xy[0], xy[1], w, h)
+
+
+def _link(ax, a, b, label=None, side="right"):
+    """Arrow from box a to box b (centres of facing edges), with an optional label beside its midpoint."""
+    ax_, ay, aw, ah = a
+    bx, by, bw, bh = b
+    if abs((ay + ah / 2) - (by + bh / 2)) < 0.05:  # same row: horizontal arrow
+        p0, p1 = ((ax_ + aw, ay + ah / 2), (bx, by + bh / 2)) if bx > ax_ else ((ax_, ay + ah / 2), (bx + bw, by + bh / 2))
+    else:  # vertical arrow
+        p0, p1 = ((ax_ + aw / 2, ay), (bx + bw / 2, by + bh)) if by < ay else ((ax_ + aw / 2, ay + ah), (bx + bw / 2, by))
+    _arrow(ax, p0, p1)
+    if label:
+        mx, my = (p0[0] + p1[0]) / 2, (p0[1] + p1[1]) / 2
+        ax.text(mx + (0.06 if side == "right" else -0.06), my, label, ha="left" if side == "right" else "right",
+                va="center", color="#404040", style="italic")
+
+
+@figure("3.3", "One power company for all the parks: contracts and finance",
+        "This policy.",
+        "Schematic. The park power company is licensed by the National Electricity Authority under the Electricity Act; "
+        "carbon revenue under Article 6 depends on the Carbon Markets Act.")
+def fig_3_3(x: Ctx):
+    fig, ax = plt.subplots(figsize=(WIDTH, 6.4))
+    ax.set_xlim(0, 3.3)
+    ax.set_ylim(0, 4.4)
+    ax.axis("off")
+    gov = _node(ax, (0.0, 3.4), 1.0, 0.8, "Government: park land, licence, Article 6 authorisation", NAVY)
+    fin = _node(ax, (2.3, 3.4), 1.0, 0.8, "DFIs, guarantees and private equity", BLUE)
+    co = _node(ax, (1.15, 1.95), 1.0, 0.85, "Park power company (solar plus storage)", GREEN)
+    park = _node(ax, (1.15, 0.2), 1.0, 0.8, "Park operator and tenant firms", "#595959")
+    buyer = _node(ax, (2.3, 0.2), 1.0, 0.8, "Carbon credit buyers (Article 6)", ORANGE)
+    _arrow(ax, (1.0, 3.8), (1.35, 2.8))
+    ax.text(0.2, 3.05, "land lease and licence", color="#404040", style="italic")
+    _arrow(ax, (2.3, 3.8), (1.95, 2.8))
+    ax.text(2.2, 3.05, "equity and loans", color="#404040", style="italic")
+    _link(ax, co, park, "power purchase\nagreement", side="left")
+    _arrow(ax, (2.15, 2.1), (2.8, 1.0))
+    ax.text(2.55, 1.55, "credits", color="#404040", style="italic")
+    return fig
+
+
+@figure("3.4", "Riverine irrigation: what was lost and what pumping costs farmers",
+        "National Irrigation Policy (Ministry of Agriculture and Irrigation); Hiiraan Online news report (18 September 2026).",
+        "Panel A: areas are pre-war estimates and a potential, not current figures. Panel B reports two individual farmers "
+        "in Afgoye district quoted in a news report; it is illustrative, not a survey.")
+def fig_3_4(x: Ctx):
+    fig, (a, b) = plt.subplots(2, 1, figsize=(WIDTH, 5.0), gridspec_kw=dict(height_ratios=[1.3, 1], hspace=0.65))
+    rows = [("Equipped for irrigation, 1984", x.C("C-0210"), GREY), ("Irrigated before the war", x.C("C-0206"), BLUE),
+            ("Potential under pump or recession irrigation", x.C("C-0207"), GREEN)]
+    vals = [v for _, v, _ in rows]
+    a.barh(range(3), vals, color=[c for *_, c in rows], height=0.6)
+    a.invert_yaxis()
+    a.set_yticks(range(3), [n for n, *_ in rows])
+    hbar_labels(a, vals, lambda v: f"{v:,.0f}", 10000)
+    a.set_xlim(0, max(vals) * 1.25)
+    a.xaxis.set_major_locator(matplotlib.ticker.MultipleLocator(200000))
+    a.xaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v, _: f"{v:,.0f}"))
+    a.set_title("A. Irrigable area (hectares)")
+    a.grid(axis="y", visible=False)
+    f1, f2 = x.C("C-0530"), x.C("C-0531")
+    b.barh([0, 1], [f1, f2], color=ORANGE, height=0.55)
+    b.set_yticks([0, 1], ["Farmer 1, lower end of range", "Farmer 2, upper end of range"])
+    b.invert_yaxis()
+    hbar_labels(b, [f1, f2], lambda v: f"{v:g}", 8)
+    b.set_xlim(0, f2 * 1.25)
+    b.set_title("B. Cost per irrigation round with a fuel-powered pump (USD)")
+    b.grid(axis="y", visible=False)
+    return fig
+
+
+@figure("3.5", "How much the budget depends on customs, 2024",
+        "IMF, Somalia: Fourth Review under the Extended Credit Facility (2025), Table 2d.",
+        "Federal Government and five Federal Member States; preliminary, cash basis; excludes Somaliland.")
+def fig_3_5(x: Ctx):
+    tax, trade, share = x.C("C-0537"), x.C("C-0424"), x.C("D-0080")
+    fig, ax = plt.subplots(figsize=(WIDTH, 2.4))
+    ax.barh([0, 1], [tax, trade], color=[GREY, NAVY], height=0.6)
+    ax.set_yticks([0, 1], ["Tax revenue", "of which taxes on\ninternational trade"])
+    ax.invert_yaxis()
+    ax.text(tax + 6, 0, f"{tax:.1f}", va="center")
+    ax.text(trade + 6, 1, f"{trade:.1f} ({share * 100:.1f}%)", va="center")
+    ax.set_xlim(0, tax * 1.3)
+    ax.set_xlabel("USD million")
+    ax.grid(axis="y", visible=False)
+    return fig
+
+
+@figure("3.6", "The certification pathway for chilled meat exports to the Gulf",
+        "Livestock Sector Development Strategy; Somali Standards and Quality Control Law; this policy.",
+        "Schematic. Each step names the certificate or approval that Gulf buyers and regulators require, and the "
+        "institution responsible.")
+def fig_3_6(x: Ctx):
+    x.C("C-0535")
+    x.C("C-0195")
+    fig, ax = plt.subplots(figsize=(WIDTH, 7.0))
+    ax.set_xlim(0, 3.2)
+    ax.set_ylim(0, 5.2)
+    ax.axis("off")
+    steps = [("Herds and markets", "Animal identification and traceability", NAVY),
+             ("Quarantine and inspection", "Unified Animal Health Certificate from federal veterinarians", NAVY),
+             ("Export abattoir in the park", "Halal, food safety (HACCP) and national standards", GREEN),
+             ("Chilled cold chain to port or airport", "Temperature records and export documents", BLUE),
+             ("Gulf import approval", "Plant listing by the importing country's regulator", ORANGE)]
+    for i, (step, req, col) in enumerate(steps):
+        y = 4.2 - i * 1.02
+        _box(ax, (0.0, y), 1.25, 0.78, wrap(step, 20), col)
+        _box(ax, (1.55, y), 1.65, 0.78, wrap(req, 28), "#EEF2F5", tc="black")
+        _arrow(ax, (1.25, y + 0.39), (1.55, y + 0.39))
+        if i < len(steps) - 1:
+            _arrow(ax, (0.625, y), (0.625, y - 0.24))
+    return fig
+
+
 # --------------------------------------------------------------------------- registry
 
 def main(argv=None):

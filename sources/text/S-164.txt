@@ -1,0 +1,2027 @@
+=== PAGE 1 ===
+Water Use Efficiency of Irrigated Crops in Afgoi, Somalia: A Field and CROPWAT Analysis | Research Square
+
+Browse
+
+Preprints
+
+In Review Journals
+
+COVID-19 Preprints
+
+AJE Video Bytes
+
+Research Tools
+
+Research Promotion
+
+AJE Professional Editing
+
+AJE Rubriq
+
+About
+
+Preprint Platform
+
+In Review
+
+Editorial Policies
+
+Help Center
+
+Sign In
+
+Submit a Preprint
+
+Cite
+
+Share
+
+Download PDF
+
+Research Article
+
+Water Use Efficiency of Irrigated Crops in Afgoi, Somalia: A Field and CROPWAT Analysis
+
+Mohamed Hassan, Ahmed Mohamud
+
+This is a preprint; it has not been peer reviewed by a journal.
+
+https://doi.org/10.21203/rs.3.rs-9812786/v1
+
+This work is licensed under a CC BY 4.0 License
+
+Status:
+
+Posted
+
+Version 1
+
+posted 
+
+You are reading this latest preprint version
+
+Abstract
+
+Background
+
+Agricultural water productivity in Somalia is critically low, limiting food security under variable climatic conditions. Field-level data on water use efficiency (WUE) are scarce, constraining evidence-based irrigation policy.
+
+Objective
+
+This study evaluated agricultural water productivity in the Afgoi irrigation district of the Lower Shabelle region, Somalia, for five economically important crops: maize, sorghum, sesame, tomato, and banana.
+
+Methods
+
+A field survey was conducted on 47 randomly selected farm plots between August and December 2021 (2°8′17″N, 45°7′16″E; elevation 83 m a.s.l.). Crop yields were obtained through structured farmer interviews; the volume of irrigation water applied was measured using flow meters attached to pump outlets. Seasonal crop evapotranspiration (ETc) and irrigation requirements were computed using the FAO CROPWAT 8.0 model with long-term climate data (1990–2021). WUE and irrigation water use efficiency (IWUE) were calculated as yield per unit of ETc and per unit of applied irrigation water, respectively.
+
+Key Findings:
+
+Mean yields ranged from 471.3 kg ha⁻¹ (sesame) to 17,574.1 kg ha⁻¹ (banana) well below FAO global benchmarks. Farmers over-applied irrigation water for maize, sesame, tomato, and banana (58–127% above CROPWAT estimates), while sorghum was under-irrigated. WUE ranged from 0.14 (sesame) to 1.97 kg m⁻³ (banana); IWUE from 0.12 (sesame) to 1.40 kg m⁻³ (banana). All values fell substantially below international benchmarks, driven by uncontrolled surface irrigation, earthen-canal conveyance losses, and absent irrigation scheduling.
+
+Conclusion
+
+Demand-driven pressurized irrigation, combined with farmer training and improved inputs, is needed to enhance water productivity and food security in Somalia. These findings establish an empirical baseline for irrigation policy reform.
+
+water productivity
+
+irrigation efficiency
+
+CROPWAT
+
+water use efficiency
+
+climate-smart irrigation
+
+food security
+
+Somalia
+
+semi-arid agriculture
+
+1. INTRODUCTION
+
+Efficient irrigation management is central to food security in water-scarce regions. Agriculture accounts for approximately 70% of global freshwater withdrawals, and improving agricultural water productivity is increasingly urgent as climate variability intensifies (Teweldebrihan & Olum, 2025).
+
+In East Africa, these pressures are compounded by persistent climate variability and fragile institutional frameworks; the region irrigates less than 2% of its cultivated area sustainably, against a global average of approximately 20% (Teweldebrihan & Olum, 2025). Somalia represents an especially acute case.
+
+Somalia is classified as predominantly arid to semi-arid, with mean annual rainfall of approximately 582 mm concentrated in two rainy seasons (Gu: April–June; Deyr: September–November) that are notoriously erratic and subject to El Niño–Southern Oscillation (ENSO)-related variability (Venema & Vargas, 2007). Historically, the alluvial plains of the Jubba and Shabelle Rivers supported over 220,000 ha of irrigated and recession agriculture, producing export-quality bananas, rice, sesame, and sugarcane (Sandström, 2021). The collapse of central government in 1990 caused catastrophic degradation of irrigation infrastructure: all major barrages on the Shabelle and Jubba rivers ceased to function, irrigation canals fell into disrepair, and irrigated area contracted sharply. Three decades of conflict, compounded by recurring droughts and floods associated with climate change, have further eroded agricultural capacity (FAOSWALIM, 2020).
+
+Despite growing recognition of Somalia's irrigation rehabilitation potential particularly along the Lower Shabelle, described as the 'breadbasket of Somalia' rigorous field-level data on actual water use, crop yields, and water productivity remain almost entirely absent from the scientific literature. The few existing assessments are desk-based or rely on remote sensing (Oduori et al., 2012; Sandström, 2021), with virtually no peer-reviewed studies measuring on-farm WUE and IWUE through direct flow monitoring and CROPWAT analysis in the Somali context.
+
+1.1 Research Gap and Study Novelty
+
+The absence of field-calibrated water productivity benchmarks for Somali irrigated agriculture constitutes a critical evidence gap that impedes rational investment in irrigation rehabilitation, climate-adaptation planning, and agricultural extension. Previous regional studies either focus on Jubba or Shabelle basin hydrology at a macro-scale (Basnyat, 2007; FAOSWALIM, 2020) or rely on modelled estimates rather than measured on-farm data. No published study to date has simultaneously measured farmer-applied irrigation water using flow meters, estimated CROPWAT-based crop water requirements under Somali climatic conditions, and computed WUE and IWUE for multiple crops across a field-based sample of farm plots in the Lower Shabelle region.
+
+This study addresses that gap by providing a multi-crop, field-measured assessment of agricultural water productivity in the Afgoi irrigation district a key production zone approximately 30 km southwest of Mogadishu. The findings are contextualized against pre-war Somali records, neighboring East African countries (Ethiopia, Kenya), and global FAO benchmarks to quantify the magnitude of the productivity deficit and identify priority intervention pathways.
+
+1.2 Research Objectives
+
+The specific objectives of this study were:
+
+To measure seasonal crop yields for five major irrigated crops (maize, sorghum, sesame, tomato, and banana) in the Afgoi district through a structured farm-level survey.
+
+To quantify actual irrigation water applied by farmers using in-situ flow meters and to estimate crop water requirements and irrigation scheduling using the FAO CROPWAT 8.0 model.
+
+To calculate WUE and IWUE for each crop and compare results with international benchmarks and neighboring countries.
+
+To identify key constraints to agricultural water productivity and formulate evidence-based recommendations for irrigation improvement and climate-adaptive water management in Somalia.
+
+2. LITERATURE REVIEW
+
+2.1 Concepts of Agricultural Water Productivity
+
+Water productivity (WP) in agriculture refers to the ratio of economic output to the water input used in its production. Two metrics are conventionally used: water use efficiency (WUE), which relates crop yield (kg ha⁻¹) to seasonal crop evapotranspiration or ETc (mm), and irrigation water use efficiency (IWUE), which relates yield to the volume of irrigation water actually applied by the farmer (Jomaa & Shaban, 2018; Howell, 2003). WUE and IWUE are expressed in kg m⁻³. Enhancing both metrics is essential in water-scarce environments, since it allows the same food output to be produced with less water, reducing competition between agricultural and domestic or industrial users (Howell, 2003)
+
+Irrigation efficiency, a related concept, captures the ratio of water reaching the crop root zone to water diverted from the source (Howell, 2003). Surface irrigation methods flood, furrow, and basin typically achieve application efficiencies of 50–60% under field conditions in developing countries, compared with 75–85% for sprinkler systems and 88–95% for well-designed drip systems (Brouwer & Heibloem, 1986). FAO estimated Somalia's overall irrigation efficiency at approximately 40% in 2010, indicating major losses in conveyance, distribution, and field application (FAO, 2010).
+
+2.2 Water Productivity of Major Irrigated Crops
+
+Global databases and field experiments provide robust WUE benchmarks for the crops studied here. For maize, FAO (2020) reports WUE values of 0.8–1.6 kg m⁻³ under conventional irrigation globally. Allen et al. (2021) documented WUE of 1.76–2.71 kg m⁻³ in the United States under optimized management. Zwart and Bastiaanssen (2004), in a global review of 84 studies, reported a median maize WUE of 1.80 kg m⁻³ (range: 0.3–2.7 kg m⁻³). These benchmarks illustrate the large gap between internationally achievable performance and the Somali values reported in the present study.
+
+For sorghum, FAO (2020) reports a seasonal water requirement of 450–650 mm, yields of 3.5–5.0 t ha⁻¹, and WUE of 0.6–1.0 kg m⁻³. Tolk and Howell (2021) measured sorghum WUE of 1.47–1.52 kg m⁻³ in the USA.
+
+Sesame is drought-tolerant, with a seasonal water requirement of 430–470 mm and WUE of 0.28–0.32 kg m⁻³ (FAO, 2020). Tomato has potential yields of 45–65 t ha⁻¹ and WUE up to 10–12 kg m⁻³ under well-managed irrigation; drip-irrigated tomato in Ethiopia achieved 4.2–5.8 kg m⁻³ (Wondatir & Belay, 2020). Banana requires 1,200–2,200 mm seasonally and yields 40–60 t ha⁻¹ with WUE of 2.5–4.0 kg m⁻³ (FAO, 2020).
+
+2.3 Irrigation Water Management in Somalia and East Africa
+
+Historical records indicate that the Jubba and Shabelle basins sustained irrigated production across more than 220,000 ha before 1990 (Sandström, 2021). Irrigation water requirements in the Shabelle basin were estimated at approximately 11,400 m³ ha⁻¹ per season (0.36 l s⁻¹ ha⁻¹), assuming 65% field application efficiency (Basnyat, 2007). Post-conflict assessments document the near-total collapse of infrastructure: all eight Shabelle barrages are non-functional, main canals are heavily silted, and farmers rely predominantly on diesel-powered pump systems drawing directly from the river (FAOSWALIM, 2020).
+
+Somalia's irrigation sector is further constrained by three decades of institutional collapse, ongoing insecurity, and a near-total absence of functioning water control infrastructure. These conditions collectively explain the low productivity baseline documented in the present study.
+
+3. MATERIALS AND METHODS
+
+3.1 Study Area
+
+The study was conducted in the Afgoi irrigation district, Lower Shabelle (Shabeellaha Hoose) Region, southwestern Somalia, approximately 30 km southwest of Mogadishu (centroid coordinates: 2°8′17″N, 45°7′16″E; elevation 83 m above mean sea level) (Venema & Vargas, 2007). The district has a total population of approximately 79,400, of whom approximately 33,000 are engaged in farming. Total cultivated area in the district is 235,242 ha, comprising 121,590 ha of rainfed agriculture and 113,652 ha of irrigated agriculture (Oduori et al., 2012). The irrigated area is supplied by diesel-powered pumps extracting from the Shabelle River; no major functioning barrage or controlled distribution network currently exists (FAOSWALIM, 2020).
+
+Soils are predominantly dark, clay-rich alluvial Vertisols with high water-holding capacity, moderate to poor drainage, and elevated salt content in some areas proximal to the river conditions that can reduce irrigation efficiency and negatively affect crop yields if drainage is not managed adequately (Hadden, 2007). The study area has a terrain slope of 0–4%, consistent with flood-prone alluvial lowlands and well suited to surface irrigation technologies.
+
+3.2 Climate of the Study Area
+
+Somalia's climate is classified as arid to semi-arid (Köppen–Geiger: BWh/BSh), characterized by high temperatures, low and highly variable rainfall, and two distinct rainy seasons. Long-term climate data (1990–2021) from FAO's CLIMWAT database were used in CROPWAT calculations and are summarized in Table 1. Mean annual rainfall in the study area is approximately 582 mm, concentrated in the Gu (April–June, ~ 249 mm) and Deyr (October–November, ~ 183 mm) seasons. Effective annual rainfall is approximately 511 mm. Mean daily maximum temperatures range from 30.5°C (July) to 35.0°C (March), with a long-term annual mean temperature of approximately 27°C. Relative humidity ranges from 65% (January) to 79% (June). Wind speeds are highest during the Southwest Monsoon (June–August: 4.2–5.1 m s⁻¹).
+
+Table 1
+
+Long-term climate data for Afgoi district, Lower Shabelle, Somalia (FAO CLIMWAT, 1990–2021)
+
+ | 
+ Month
+ | 
+T_min (°C)
+ | 
+T_max (°C)
+ | 
+RH (%)
+ | 
+Wind (m/s)
+ | 
+Sunshine (h)
+ | 
+Radiation (MJ/m²/d)
+ | 
+Rainfall (mm)
+ | 
+Eff. Rain (mm)
+
+ | 
+Jan
+ | 
+21.6
+ | 
+33.5
+ | 
+65.0
+ | 
+3.4
+ | 
+7.9
+ | 
+20.6
+ | 
+2.0
+ | 
+2.0
+
+ | 
+Feb
+ | 
+21.8
+ | 
+34.1
+ | 
+70.0
+ | 
+3.2
+ | 
+9.2
+ | 
+23.5
+ | 
+2.0
+ | 
+2.0
+
+ | 
+Mar
+ | 
+23.0
+ | 
+35.0
+ | 
+69.0
+ | 
+3.1
+ | 
+9.0
+ | 
+23.6
+ | 
+10.0
+ | 
+9.8
+
+ | 
+Apr
+ | 
+23.5
+ | 
+34.3
+ | 
+71.0
+ | 
+3.3
+ | 
+7.5
+ | 
+20.8
+ | 
+91.0
+ | 
+77.8
+
+ | 
+May
+ | 
+23.1
+ | 
+32.8
+ | 
+76.0
+ | 
+2.9
+ | 
+6.4
+ | 
+18.3
+ | 
+94.0
+ | 
+79.9
+
+ | 
+Jun
+ | 
+22.6
+ | 
+31.2
+ | 
+79.0
+ | 
+4.2
+ | 
+6.2
+ | 
+17.3
+ | 
+64.0
+ | 
+57.4
+
+ | 
+Jul
+ | 
+21.5
+ | 
+30.5
+ | 
+75.0
+ | 
+5.1
+ | 
+7.9
+ | 
+20.1
+ | 
+58.0
+ | 
+52.6
+
+ | 
+Aug
+ | 
+21.5
+ | 
+31.1
+ | 
+75.0
+ | 
+4.8
+ | 
+8.1
+ | 
+21.2
+ | 
+24.0
+ | 
+24.9
+
+ | 
+Sep
+ | 
+21.7
+ | 
+32.0
+ | 
+71.0
+ | 
+3.6
+ | 
+8.5
+ | 
+22.5
+ | 
+15.0
+ | 
+14.6
+
+ | 
+Oct
+ | 
+22.0
+ | 
+32.2
+ | 
+72.0
+ | 
+3.0
+ | 
+7.5
+ | 
+20.8
+ | 
+62.0
+ | 
+55.8
+
+ | 
+Nov
+ | 
+21.8
+ | 
+32.3
+ | 
+67.0
+ | 
+2.8
+ | 
+6.8
+ | 
+19.0
+ | 
+121.0
+ | 
+97.6
+
+ | 
+Dec
+ | 
+21.6
+ | 
+33.0
+ | 
+66.0
+ | 
+2.9
+ | 
+6.6
+ | 
+18.4
+ | 
+39.0
+ | 
+36.6
+
+ | 
+Mean
+ | 
+22.1
+ | 
+32.3
+ | 
+72.0
+ | 
+3.5
+ | 
+7.6
+ | 
+20.5
+ | 
+48.7
+ | 
+42.6
+
+ | 
+Annual
+ | 
+—
+ | 
+—
+ | 
+—
+ | 
+—
+ | 
+—
+ | 
+—
+ | 
+582.0
+ | 
+511.1
+
+ | Note: T_min = minimum daily temperature; T_max = maximum daily temperature; RH = relative humidity; Eff. Rain = effective rainfall calculated using USDA Soil Conservation Service method. Data source: FAO CLIMWAT database.
+
+3.3 Sampling Design and Data Collection
+
+A total of 47 farm plots were selected using simple random sampling from the active irrigated plots registered in the district agricultural office database during the 2021 crop season. The sample included eight maize plots (Fields 1–8), ten sorghum plots (Fields 9–18), ten sesame plots (Fields 19–28), ten tomato plots (Fields 29–38), and nine banana plots (Fields 39–47). Sample size was determined primarily by resource availability and site accessibility; the 47-plot field-based multi-crop sample provides useful productivity estimates but has limited statistical power for subgroup analyses and cannot be extrapolated to the broader district without caution.
+
+Data collection was conducted between August and December 2021, covering the full growing seasons of all five crops. The following variables were recorded: (1) crop yield (kg ha⁻¹), obtained through structured farmer interviews and cross-validated against plot-level harvested-area estimates; yield figures were triangulated by direct observation of harvested produce at three randomly selected plots per crop to check internal consistency; (2) total irrigation water applied per season (mm), measured using calibrated turbine flow meters (accuracy ± 2%) attached to pump outlet pipes, with readings recorded at each irrigation event; and (3) irrigation scheduling (date, duration, and frequency of events). All field data were recorded in standardized datasheets, double-entered into Microsoft Excel, and checked for transcription errors prior to analysis. Enumerators received standardized training on measurement protocols before the survey.
+
+3.4 Estimation of Reference and Crop Evapotranspiration
+
+Reference evapotranspiration (ETo) was estimated using the FAO-56 Penman–Monteith equation (Smith, 1992), which is the internationally recommended standard:
+
+ ETo = [0.408Δ(Rn − G) + γ(900/(T + 273))u₂(eₛ − eₐ)] / [Δ + γ(1 + 0.34u₂)] 
+
+where ETo is reference evapotranspiration (mm day⁻¹); Rn is net radiation at the crop surface (MJ m⁻² day⁻¹); G is soil heat flux density (MJ m⁻² day⁻¹); T is mean daily air temperature at 2 m height (°C); u₂ is wind speed at 2 m height (m s⁻¹); eₛ is saturation vapour pressure (kPa); eₐ is actual vapour pressure (kPa); Δ is slope of the vapour pressure curve (kPa °C⁻¹); and γ is the psychrometric constant (kPa °C⁻¹).
+
+Crop evapotranspiration (ETc) was computed as ETc = ETo × Kc, where Kc is the crop coefficient varying by growth stage as defined by FAO-56 (Pruitt & Doorenbos, 1977; Smith, 1992). All calculations were performed using FAO CROPWAT 8.0, with CLIMWAT long-term climate data for the study area as inputs. Effective rainfall was computed using the USDA Soil Conservation Service method within CROPWAT.
+
+3.5 Crop Water Requirement and Net Irrigation Requirement
+
+Crop water requirement (CWR) was defined as the net depth of water (mm) needed to meet crop ETc after accounting for effective precipitation:
+
+CWR = ETc − Reff (Eq. 1)
+
+where Reff is effective rainfall (mm). Irrigation water requirement (IWR) was derived from CWR assuming a field application efficiency of 65% (corresponding to the FAO benchmark for gravity-fed surface irrigation in developing countries; FAO, 2010).
+
+3.6 Water Productivity Indices
+
+WUE and IWUE were computed following standard formulations (Jomaa & Shaban, 2018):
+
+WUE (kg m⁻³) = Y / ETc (Eq. 2)
+
+IWUE (kg m⁻³) = Y / I_applied (Eq. 3)
+
+where Y is crop yield (kg ha⁻¹, converted to kg m⁻²·mm⁻¹ for dimensional consistency), ETc is seasonal crop evapotranspiration (mm), and I_applied is the total depth of irrigation water applied by the farmer (mm). All mm values were converted to m³ ha⁻¹ (1 mm = 10 m³ ha⁻¹) for computation.
+
+3.7 Statistical Analysis
+
+Descriptive statistics (mean, standard deviation, minimum, maximum, and coefficient of variation) were calculated for all variables. One-way analysis of variance (ANOVA) was performed to test for significant differences in WUE and IWUE across crop types (α = 0.05). Where ANOVA indicated significant differences, Tukey's Honest Significant Difference (HSD) post-hoc test was applied for pairwise comparisons. Pearson correlation analysis was conducted to examine relationships between the volume of applied irrigation water and WUE/IWUE. All statistical analyses were performed using standard procedures in Microsoft Excel and verified by hand calculation.
+
+3.8 Study Limitations
+
+The study is subject to several limitations. First, yield data were obtained through farmer interviews, which may be subject to recall bias and social desirability bias; harvest area estimates were cross-validated but not independently measured at the plot level. Second, the sample was limited to 47 plots due to security constraints and resource limitations, which restricts statistical power for some analyses. Third, CROPWAT ETc estimates are based on long-term average climate data rather than station data recorded during the 2021 study period, which may not fully capture intra-seasonal variability. Fourth, soil hydraulic properties (field capacity, permanent wilting point) were not measured in the field, so no soil moisture balance was computed. Fifth, the study covers a single agricultural season and cannot capture inter-annual variability in yields or water requirements. These limitations should be considered when extrapolating findings to other seasons or regions.
+
+4. RESULTS AND DISCUSSION
+
+4.1 Crop Yields and Comparison with International Benchmarks
+
+Crop yields measured across all 47 farm plots showed substantial variation both within and between crop types (Table 7; Table 8). Yields (mean ± SD) were: maize 823.0 ± 112.4 kg ha⁻¹ (range: 650–1,010), sorghum 663.0 ± 131.5 kg ha⁻¹ (500–880), sesame 471.3 ± 69.9 kg ha⁻¹ (341.5–550), tomato 1,500.8 ± 56.3 kg ha⁻¹ (1,400–1,578), and banana 17,574.1 ± 140.6 kg ha⁻¹ (17,340–17,815).
+
+All yields fell well below FAO global benchmarks (Table 8). Maize (823 kg ha⁻¹) reached only 9–14% of the FAO irrigated range (6,000–9,000 kg ha⁻¹) and less than one-fifth of the Ethiopian national average (4,240 kg ha⁻¹). Sorghum (663 kg ha⁻¹) represented 13–19% of the FAO range (3,500–5,000 kg ha⁻¹). Tomato yield (1,501 kg ha⁻¹ fresh weight) was only 2–3% of FAO potential (45,000–65,000 kg ha⁻¹). This exceptionally low value likely reflects subsistence-scale production, post-harvest losses attributed to farmers during interviews, and possible underreporting; it should be interpreted with caution. Banana (17,574 kg ha⁻¹), the highest-yielding crop, reached 29–44% of FAO benchmarks and remained below pre-civil-war Somali records of 21,200 kg ha⁻¹ (FAOSTAT, 2025).
+
+Differences in mean yield across crop types were statistically significant (p < 0.001). Post-hoc Tukey HSD tests confirmed that banana was statistically distinct from all other crops, while maize, sorghum, sesame, and tomato formed separate subgroups. The coefficient of variation for sorghum (19.8%) and maize (13.7%) was higher than for banana (0.8%) and tomato (3.7%), indicating greater production variability for cereal crops consistent with their higher sensitivity to irrigation scheduling and soil heterogeneity.
+
+Low yields in the study area reflect a confluence of factors: (i) farmers apply irrigation water on a fixed calendar rather than crop-demand basis, resulting in either deficits or surpluses at different growth stages; (ii) access to improved seeds is extremely limited, with farmers relying predominantly on locally saved seed of low genetic potential; (iii) fertilizer use is negligible, with mean application rates well below recommended levels; (iv) pest and disease management is largely absent; and (v) climate-induced flooding during the Gu season periodically destroys standing crops (Sandström, 2021).
+
+4.2 Crop Evapotranspiration and Irrigation Water Requirements
+
+CROPWAT-estimated seasonal ETc values reflected expected patterns across crop types and growing seasons (Tables 2–6; Table 7). Banana exhibited the highest seasonal ETc (893.5 ± 3.9 mm) due to its perennial growth cycle and high transpiration demand. Sorghum had the second-highest ETc (466.1 ± 58.0 mm), followed by tomato (433.3 ± 12.1 mm), sesame (330.5 ± 10.3 mm), and maize (329.8 ± 2.6 mm). Net irrigation water requirements calculated by CROPWAT were 180.5 mm (maize), 270.8 mm (sorghum), 225.4 mm (sesame), 391.0 mm (tomato), and 624.5 mm (banana).
+
+A comparison of CROPWAT-derived irrigation requirements with farmer-applied volumes revealed significant mismatches (Table 7). Farmers applied considerably more water than the CROPWAT estimate for maize (408.9 vs. 180.5 mm, a 127% excess), sesame (415.1 vs. 225.4 mm, 84% excess), tomato (616.8 vs. 391.0 mm, 58% excess), and banana (1,314.0 vs. 624.5 mm, 110% excess). In contrast, sorghum received substantially less water than its CROPWAT estimate (187.1 vs. 270.8 mm, a 31% deficit). This pattern suggests that farmers over-irrigate high-value horticultural crops (tomato, banana) and annual cereals (maize, sesame) while under-irrigating sorghum, possibly because sorghum is grown on plots with shorter pump access or lower farmer investment.
+
+Within crop groups, higher applied water volumes were consistently associated with lower IWUE, reflecting systematic efficiency losses from over-irrigation. Across crop groups, however, banana's high applied water and high IWUE confound a simple pooled correlation. The within-crop pattern confirms that water applied well beyond CROPWAT-estimated requirements does not contribute to yield but increases non-productive evaporation and drainage losses.
+
+4.3 Water Use Efficiency and Irrigation Water Use Efficiency
+
+WUE and IWUE values for all crops are summarized in Table 7. Mean WUE ranged from 0.14 kg m⁻³ (sesame) to 1.97 kg m⁻³ (banana). Mean IWUE ranged from 0.12 kg m⁻³ (sesame) to 1.40 kg m⁻³ (banana). Differences in WUE and IWUE among crops were statistically significant (p < 0.001).
+
+Table 7
+
+Summary of water productivity indicators for all crops (Mean ± SD)
+
+ | 
+Crop
+ | 
+Mean Yield (kg/ha)
+ | 
+±SD
+ | 
+ETc (mm)
+ | 
+±SD
+ | 
+CWR (mm)
+ | 
+Water Applied (mm)
+ | 
+WUE (kg/m³)
+ | 
+IWUE (kg/m³)
+
+ | 
+Maize
+ | 
+823.0
+ | 
+± 112.4
+ | 
+329.8
+ | 
+± 2.6
+ | 
+180.5
+ | 
+408.9
+ | 
+0.25
+ | 
+0.23
+
+ | 
+Sorghum
+ | 
+663.0
+ | 
+± 131.5
+ | 
+466.1
+ | 
+± 58.0
+ | 
+270.8
+ | 
+187.1
+ | 
+0.21
+ | 
+0.90
+
+ | 
+Sesame
+ | 
+471.3
+ | 
+± 69.9
+ | 
+330.5
+ | 
+± 10.3
+ | 
+225.4
+ | 
+415.1
+ | 
+0.14
+ | 
+0.12
+
+ | 
+Tomato
+ | 
+1,500.8
+ | 
+± 56.3
+ | 
+433.3
+ | 
+± 12.1
+ | 
+391.0
+ | 
+616.8
+ | 
+0.31
+ | 
+0.25
+
+ | 
+Banana
+ | 
+17,574.1
+ | 
+± 140.6
+ | 
+893.5
+ | 
+± 3.9
+ | 
+624.5
+ | 
+1,314.0
+ | 
+1.97
+ | 
+1.40
+
+ | Note: SD = Standard Deviation; ETc = Crop evapotranspiration; CWR = Crop water requirement; WUE = Water use efficiency; IWUE = Irrigation water use efficiency.
+
+Maize WUE (0.25 kg m⁻³) is substantially below the FAO range of 0.8–1.6 kg m⁻³ and the global median of 1.80 kg m⁻³ reported by Zwart and Bastiaanssen (2004). Since ETc (329.8 mm) falls within the normal seasonal range, the primary constraint lies on the production side poor crop variety, minimal inputs, and absent agronomic management rather than water availability per se.
+
+Sorghum WUE (0.21 kg m⁻³) falls below the FAO range (0.6–1.0 kg m⁻³). The IWUE of 0.90 kg m⁻³ is relatively higher than for maize on a per-applied-water basis, which is consistent with sorghum receiving less irrigation water than estimated by CROPWAT a situation that may have induced mild water stress but also means less water was wasted. The high ETc standard deviation for sorghum (58.0 mm) reflects diverse planting dates across the 10 plots.
+
+Sesame showed the lowest WUE and IWUE of all studied crops (0.14 and 0.12 kg m⁻³, respectively). While these values are below the FAO reference range (0.28–0.32 kg m⁻³), the magnitude of the deficit is smaller in relative terms than for maize or tomato, since sesame is inherently a low-yielding crop. Farmers applied on average 415 mm to sesame crops more than 80% above the CROPWAT-estimated net requirement suggesting that heavy over-irrigation is a key constraint for this crop.
+
+Tomato IWUE (0.25 kg m⁻³) is far below the FAO benchmark of 10–12 kg m⁻³ and the Ethiopian drip-irrigated value of 4.2–5.8 kg m⁻³ (Wondatir & Belay, 2020). The recorded yield of 1,501 kg ha⁻¹ is unusually low even for subsistence conditions; measurement uncertainty from farmer interviews and potential post-harvest loss attribution cannot be excluded. Notwithstanding, gross over-irrigation (617 mm applied vs. 391 mm required) and absent agronomic inputs remain clear constraints on tomato water productivity in the study area.
+
+Banana WUE (1.97 kg m⁻³) is within the lower range of FAO benchmarks (2.5–4.0 kg m⁻³) and substantially higher than all other crops in the study. This is attributable to banana's higher intrinsic yield potential, the greater farmer investment in banana cultivation (as a high-value perennial export crop), and the relatively stable growing conditions along the Shabelle riverbank. Banana IWUE (1.40 kg m⁻³) is below the WUE value because farmers apply approximately 110% more water than the estimated requirement indicating that even the best-performing crop in the study area suffers from inefficient water management.
+
+Table 8
+
+Comparative water productivity with international benchmarks
+
+ | 
+Country/Region
+ | 
+Crop
+ | 
+Yield (kg/ha)
+ | 
+WUE (kg/m³)
+ | 
+Reference
+
+ | 
+Somalia (this study)
+ | 
+Maize
+ | 
+823
+ | 
+0.25
+ | 
+Present study
+
+ | 
+Somalia (this study)
+ | 
+Sorghum
+ | 
+663
+ | 
+0.21
+ | 
+Present study
+
+ | 
+Somalia (this study)
+ | 
+Sesame
+ | 
+471
+ | 
+0.14
+ | 
+Present study
+
+ | 
+Somalia (this study)
+ | 
+Tomato
+ | 
+1,501
+ | 
+0.31
+ | 
+Present study
+
+ | 
+Somalia (this study)
+ | 
+Banana
+ | 
+17,574
+ | 
+1.97
+ | 
+Present study
+
+ | 
+Pre-war Somalia
+ | 
+Banana
+ | 
+21,200
+ | 
+—
+ | 
+FAOSTAT, 2025
+
+ | 
+Ethiopia
+ | 
+Maize
+ | 
+4,240
+ | 
+—
+ | 
+FAOSTAT, 2023
+
+ | 
+Kenya
+ | 
+Maize
+ | 
+1,731
+ | 
+—
+ | 
+FAOSTAT, 2023
+
+ | 
+Israel
+ | 
+Maize
+ | 
+19,220
+ | 
+—
+ | 
+FAOSTAT, 2023
+
+ | 
+Global median
+ | 
+Maize
+ | 
+—
+ | 
+1.80
+ | 
+Zwart & Bastiaanssen, 2004
+
+ | 
+China (drip irrig.)
+ | 
+Maize
+ | 
+—
+ | 
+3.44
+ | 
+Zou et al., 2019
+
+ | 
+FAO global range
+ | 
+Maize
+ | 
+6,000–9,000
+ | 
+0.8–1.6
+ | 
+FAO, 2020
+
+ | 
+FAO global range
+ | 
+Sorghum
+ | 
+3,500–5,000
+ | 
+0.6–1.0
+ | 
+FAO, 2020
+
+ | 
+FAO global range
+ | 
+Tomato
+ | 
+45,000–65,000
+ | 
+10–12
+ | 
+FAO, 2020
+
+ | 
+FAO global range
+ | 
+Banana
+ | 
+40,000–60,000
+ | 
+2.5–4.0
+ | 
+FAO, 2020
+
+ | 
+Ethiopia (drip)
+ | 
+Tomato
+ | 
+10,200–18,260
+ | 
+4.2–5.8
+ | 
+Wondatir & Belay, 2020
+
+ | 
+USA
+ | 
+Sorghum
+ | 
+3,340–3,770
+ | 
+1.47–1.52
+ | 
+Tolk & Howell, 2021
+
+ | Note: Somalia values (highlighted) are from the present study. Dashes indicate data not reported.
+
+4.4 Factors Limiting Agricultural Water Productivity in Somalia
+
+The productivity deficit across all five crops reflects interacting agronomic, infrastructural, and institutional constraints:
+
+ (a) Irrigation method and scheduling: All 47 farms in the study use uncontrolled surface irrigation via earthen canals or direct pump discharge onto fields. There is no irrigation scheduling or demand management. Flood and basin irrigation methods generate high deep-percolation and runoff losses, reducing application efficiency to 40–50% under current conditions.
+
+ (b) Conveyance infrastructure: Unlined earthen canals convey water from pump outlets to fields with efficiencies of 0.50–0.65, compared with 0.85–0.95 for lined systems (Howell, 2003), resulting in large seepage and evaporation losses before water reaches the root zone.
+
+ (c) Input access and management: Access to certified seed, fertilizers, and crop protection products is extremely limited in the Afgoi district. Soil fertility is declining in areas affected by over-irrigation and salinization, further suppressing yields.
+
+ (d) Climate variability: Irregular Gu and Deyr rainfall, frequent dry spells, and periodic flooding create unpredictable growing conditions, causing either moisture stress or crop inundation depending on the season.
+
+4.5 Climate Change Implications for Water Productivity
+
+The water productivity values documented in this study already reflect a climate that is more variable and drought-prone than the historical baseline. Looking forward, climate change is projected to intensify all of the above pressures. Rising temperatures will increase ETo throughout the year, widening the gap between rainfall supply and crop demand and increasing the irrigation water required to sustain current production levels. Projected drying trends in the Gu season under RCP8.5 scenarios could reduce effective seasonal rainfall in the Lower Shabelle by 10–20% by mid-century, directly reducing effective rainfall available to crops and increasing net irrigation requirements (IPCC, 2022). Higher wind speeds and lower humidity during the Jilaal and Hagaa seasons will further increase ETc for all five crops studied.
+
+These projected changes render the current low-efficiency irrigation system progressively less viable. As water availability decreases and demand increases, the economic and food security costs of the existing 40–50% irrigation efficiency will escalate. Climate-smart irrigation approaches — including drip and sprinkler technologies, regulated deficit irrigation for drought-tolerant crops, and real-time irrigation scheduling based on crop water balance monitoring can simultaneously reduce water consumption and maintain or improve yields. Studies in Ethiopia using drip irrigation have demonstrated WUE improvements of 30–50% relative to surface irrigation (Wondatir & Belay, 2020), providing a regionally relevant proof of concept for adoption in Somalia.
+
+5. POLICY IMPLICATIONS
+
+The findings of this study have direct implications for government, development partners, and water management institutions in Somalia:
+
+For the Federal Government of Somalia and the Ministry of Agriculture and Irrigation, the results provide a quantified evidence base for prioritizing irrigation rehabilitation within the National Development Plan (NDP) and Somalia's Nationally Determined Contributions (NDCs) to the UNFCCC. The study recommends establishing a national irrigation monitoring system that tracks WUE at the district level, linking water allocation to productivity performance, and funding the rehabilitation of lined canal networks along the Shabelle to reduce conveyance losses.
+
+For international donors and NGOs operating in the agricultural sector (WFP, FAO, USAID, EU), the data justify investment in farmer training programs on irrigation scheduling and the subsidized distribution or leasing of flow meters simple and low-cost tools that demonstrated utility in this study. Demonstration plots using drip or sprinkler systems, co-financed with local counterpart institutions, could generate locally credible evidence to accelerate technology adoption.
+
+For water management institutions and river basin authorities, re-establishment of at least one functioning Shabelle River barrage combined with improved water distribution infrastructure would allow transition from uncontrolled pump irrigation to regulated supply-based allocation, the single most impactful structural intervention available. Integration of climate-adaptive management rules (drought contingency allocations, flood early warning) into barrage operations is essential for long-term resilience.
+
+6. CONCLUSIONS AND RECOMMENDATIONS
+
+This study presents a field-measured, multi-crop assessment of agricultural water productivity in the Afgoi irrigation district of the Lower Shabelle region, Somalia. Using flow-meter measurements on 47 farm plots combined with FAO CROPWAT 8.0 modeling and long-term climate data, WUE and IWUE were quantified for maize, sorghum, sesame, tomato, and banana.
+
+Key conclusions are as follows. First, crop yields in the study area are five to fifteen times lower than FAO global benchmarks and two to five times below regional comparators in Ethiopia and Kenya, representing a profound agricultural productivity deficit rooted in poor irrigation management, inadequate inputs, and climate variability. Second, farmers systematically over-irrigate maize, sesame, tomato, and banana (by 58–127% above CROPWAT-estimated requirements) while under-irrigating sorghum. This mismatch between applied water and crop demand is a primary driver of low WUE and IWUE. Third, all WUE and IWUE values are substantially below international benchmarks: banana performs best (WUE 1.97 kg m⁻³; IWUE 1.40 kg m⁻³) while sesame performs worst (WUE 0.14 kg m⁻³; IWUE 0.12 kg m⁻³). Fourth, rising temperatures and intensified rainfall variability are likely to further erode water productivity under the current irrigation paradigm, reinforcing the urgency of structural intervention.
+
+Based on these findings, the following recommendations are made: (i) transition from uncontrolled surface irrigation to demand-driven irrigation scheduling, initially using simple crop water balance tools calibrated to local CROPWAT outputs; (ii) rehabilitate main irrigation canals with concrete lining or closed pipe distribution systems to reduce conveyance losses; (iii) introduce pressurized drip or sprinkler irrigation for high-value crops (tomato, banana) with government and NGO co-financing; (iv) strengthen access to certified seed, fertilizers, and crop protection products through targeted agricultural input programs; (v) establish district-level water productivity monitoring systems to track progress and guide adaptive management; and (vi) integrate climate-resilient crop varieties and regulated deficit irrigation strategies into national extension services.
+
+6.1 Limitations and Future Research
+
+This study is limited to one season, one district, and 47 plots. Future research should: (a) extend the study to multiple seasons to capture inter-annual variability associated with ENSO cycles; (b) include soil moisture monitoring and salinity measurement to assess soil-related yield constraints; (c) conduct economic water productivity analysis (revenue per m³) to guide crop-mix optimization; (d) integrate GIS and remote sensing to map irrigation efficiency at the basin scale; and (e) evaluate the cost-effectiveness of alternative irrigation technologies (drip, sprinkler) under Somali field conditions.
+
+Declarations
+
+Author Contribution
+
+Author contributions are defined in accordance with the CRediT (Contributor Roles Taxonomy) framework.Mohamed Hassan Osman: Conceptualization; Methodology; Data curation; Formal analysis; Investigation; Writing – Original Draft; Writing – Review & Editing.Ahmed Mohamud Mohamed: Conceptualization; Supervision; Resources; Validation; Writing – Review & Editing.All authors have read and agreed to the published version of the manuscript
+
+References
+
+Afshar, A., Afsharmanesh, G. R., Adeli, M., & Malekian, A. (2014). Assessment of AquaCrop model in the simulation of potato yield and water use efficiency under different water regimes. Journal of Biological and Environmental Science, 8(23), 79–86.
+
+Allen, R. G., Pereira, L. S., Raes, D., & Smith, M. (2021). Crop evapotranspiration: Guidelines for computing crop water requirements (2nd ed.). FAO Irrigation and Drainage Paper No. 56. Food and Agriculture Organization.
+
+Basnyat, D. B. (2007). Water resources of Somalia. FAOSWALIM. Nairobi.
+
+Boutraa, T. (2010). Improvement of water use efficiency in irrigated agriculture: A review. Journal of Agronomy, 9(1), 1–8. https://doi.org/10.3923/ja.2010.1.8
+
+DehghaniSanij, H., Yamamoto, T., & Rasiah, V. (2004). Assessment of evapotranspiration estimation models for use in semi-arid environments. Agricultural Water Management, 64(2), 91–106. https://doi.org/10.1016/S0378-3774(03)00200-2
+
+Duraktekin, G., Çolak, Y. B., Kuşvuran, K., Akça, H., Ataǧ, G. A., & Çeliktopuz, E. (2017). Effects of different irrigation levels on yield and water use efficiency of table grape under subsurface drip irrigation. Journal of Gaziosmanpaşa University Faculty of Agriculture, 34, 67–72.
+
+FAO. (2010). Water and irrigation in Somalia. Food and Agriculture Organization. http://www.faoswalim.org
+
+FAO. (2020). CROPWAT 8.0 crop data and irrigation scheduling guidelines. Food and Agriculture Organization. https://www.fao.org/land-water/databases-and-software
+
+FAOSWALIM. (2020). Somalia surface water and land information management. Food and Agriculture Organization. http://www.faoswalim.org
+
+FAOSTAT. (2023). FAOSTAT agricultural production data. Food and Agriculture Organization. http://www.fao.org/faostat/en/#data/QC
+
+FAOSTAT. (2025). Pre-war Somalia crop yield estimates. Food and Agriculture Organization statistical database. FAOSTAT
+
+Hadden, R. L. (2007). The geology of Somalia: A selected bibliography of Somali geology (1st ed.). US Army Corps of Engineers, Alexandria, VA.
+
+Howell, T. A. (2003). Irrigation efficiency. In B. A. Stewart & T. A. Howell (Eds.), Encyclopedia of water science (pp. 467–472). Marcel Dekker.
+
+IPCC. (2022). Climate change 2022: Impacts, adaptation and vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press.
+
+Irmak, S., Odhiambo, L. O., Kranz, W. L., & Eisenhauer, D. E. (2011). Irrigation efficiency and uniformity, and crop water use efficiency. University of Nebraska–Lincoln Extension. EC732.
+
+Jomaa, I., & Shaban, A. (2018). Improving water use efficiency and water productivity in the Litani River Basin (Vol. 85). Springer, Cham.
+
+Kadigi, R. M. J., Tesfay, G., Bizoza, A., & Zinabou, G. (2013). Irrigation and water use efficiency in Sub-Saharan Africa. Global Water Initiative East Africa. IIED.
+
+Kapila, P. F. (2013). The concept of water efficiency in agriculture. Journal of Agricultural Machinery Science, 10(3), 235–241.
+
+Kodal, S., & Ahi, Y. (2018). Water productivity in agriculture. Anahtar Dergisi, 30, 30–37.
+
+Kuşçu, H., Turhan, A., Demir, A. O., & Pehlivan, A. (2017). Economic water productivity of watermelon (Citrullus lanatus) under deficit irrigation conditions. Akdeniz Üniversitesi Ziraat Fakültesi Dergisi, 30(1), 1–7.
+
+Mabhaudhi, T., & Chimonyo, V. (2025). *Enhancing water and food security in South Africa*. Springer Nature Singapore.
+
+Oduori, S. M., Oroda, A. S., Gadain, H., & Rembe, F. (2012). Estimating cultivable areas in central and southern Somalia using remote sensing. FAOSWALIM. http://www.faoswalim.org
+
+Pruitt, W. O., & Doorenbos, J. (1977). Crop water requirements. FAO Irrigation and Drainage Paper No. 24. Food and Agriculture Organization.
+
+Sandström, K. (2021). Somalia: Surface water and riverine assessment. World Bank, Washington, DC.
+
+Savva, A. P., & Frenken, K. (2002). Crop water requirements and irrigation scheduling (2nd ed.). FAO Sub-Regional Office for East and Southern Africa, Harare.
+
+Smith, M. (1992). Report on the expert consultation on revision of FAO methodologies for crop water requirements. Food and Agriculture Organization, Rome.
+
+Teweldebrihan, M. D., & Olum, M. (2025). Sustainable water management practices in agriculture. Encyclopedia, 5(1), 3–24. https://doi.org/10.3390/encyclopedia5010003
+
+Tolk, J. A., & Howell, T. A. (2021). Sorghum grain yield and water productivity under various irrigation levels in a semi-arid environment. Field Crops Research, 196, 337–344.
+
+Toprak, H., & Acar, B. (2010). Irrigation water losses and efficiency in traditional surface irrigation. Journal of Agricultural Engineering, 14(2), 44–51.
+
+Venema, J. H., & Vargas, R. (2007). Land suitability assessment of the Juba and Shabelle riverline areas in southern Somalia. FAOSWALIM. http://www.faoswalim.org
+
+Wondatir, S., & Belay, Z. (2020). Effect of drip lateral spacing and irrigation amount on tomato and onion crop water productivity at Kobo Girrana Valley, Ethiopia. Black Sea Journal of Agriculture, 3(2), 120–127.
+
+Xiao, S., Zhang, C., Jiang, J., Tian, X., & Wang, L. (2018). Effects of ridge tillage and mulching on water availability, grain yield, and water use efficiency in rain-fed winter wheat. Soil and Tillage Research, 179, 86–95. https://doi.org/10.1016/j.still.2018.01.016
+
+Yıldırım, O., & Kadayıfçı, A. (1998). Evapotranspiration of sunflower for Ankara conditions. Journal of Agricultural Science, 4(3), 9–14.
+
+Zhang, X., Wang, Y., Zhou, F., & Xiao, S. (2019). Soil water consumption and water use efficiency of winter wheat under different irrigation treatments. Agricultural Water Management, 213, 266–273.
+
+Brouwer, C., & Heibloem, M. (1986). Irrigation Water Management: Training Manual No. 3 — Irrigation Water Needs. FAO Land and Water Development Division, Rome.
+
+Zwart, S. J., & Bastiaanssen, W. G. M. (2004). Review of measured crop water productivity values for irrigated wheat, rice, cotton and maize. Agricultural Water Management, 69(2), 115–133. https://doi.org/10.1016/j.agwat.2004.04.007
+
+Zou, X., Li, Y., Li, K., Cremades, R., Gao, Q., Wan, Y., & Qin, X. (2019). Optimization of drip irrigation and fertilization for high grain yield, crop water productivity of maize in semi-arid regions. Agricultural Water Management, 213, 306–316. https://doi.org/10.1016/j.agwat.2018.10.032
+
+Tables
+
+Table 2
+
+Water productivity parameters for maize (n = 8 plots)
+
+ | 
+Field No.
+ | 
+Yield (kg/ha)
+ | 
+ETc (mm)
+ | 
+CWR (mm)
+ | 
+Water Applied (mm)
+ | 
+WUE (kg/m³)
+ | 
+IWUE-ETc (kg/m³)
+ | 
+IWUE-Applied (kg/m³)
+
+ | 
+1
+ | 
+650
+ | 
+334.7
+ | 
+164.6
+ | 
+300.0
+ | 
+0.19
+ | 
+0.40
+ | 
+0.22
+
+ | 
+2
+ | 
+750
+ | 
+328.2
+ | 
+180.1
+ | 
+471.0
+ | 
+0.23
+ | 
+0.42
+ | 
+0.16
+
+ | 
+3
+ | 
+900
+ | 
+327.8
+ | 
+212.3
+ | 
+450.0
+ | 
+0.27
+ | 
+0.42
+ | 
+0.20
+
+ | 
+4
+ | 
+850
+ | 
+330.1
+ | 
+176.0
+ | 
+360.0
+ | 
+0.26
+ | 
+0.48
+ | 
+0.24
+
+ | 
+5
+ | 
+1,010
+ | 
+330.1
+ | 
+176.0
+ | 
+450.0
+ | 
+0.31
+ | 
+0.57
+ | 
+0.22
+
+ | 
+6
+ | 
+670
+ | 
+332.4
+ | 
+164.8
+ | 
+628.0
+ | 
+0.20
+ | 
+0.41
+ | 
+0.11
+
+ | 
+7
+ | 
+950
+ | 
+326.9
+ | 
+189.9
+ | 
+312.0
+ | 
+0.29
+ | 
+0.50
+ | 
+0.30
+
+ | 
+8
+ | 
+800
+ | 
+328.2
+ | 
+180.1
+ | 
+300.0
+ | 
+0.25
+ | 
+0.44
+ | 
+0.27
+
+ | 
+Mean ± SD
+ | 
+823.0 ± 112.4
+ | 
+329.8 ± 2.6
+ | 
+180.5 ± 15.8
+ | 
+408.9 ± 111.5
+ | 
+0.25 ± 0.04
+ | 
+0.46 ± 0.06
+ | 
+0.22 ± 0.06
+
+ | Note: ETc = crop evapotranspiration (CROPWAT 8.0); CWR = net crop water requirement (ETc − effective rainfall); Water Applied = farmer-applied irrigation depth measured by flow meter; WUE = yield/ETc; IWUE-Applied = yield/water applied.
+
+Table 3
+
+Water productivity parameters for sorghum (n = 10 plots)
+
+ | 
+Field No.
+ | 
+Yield (kg/ha)
+ | 
+ETc (mm)
+ | 
+CWR (mm)
+ | 
+Water Applied (mm)
+ | 
+WUE (kg/m³)
+ | 
+IWUE-ETc (kg/m³)
+ | 
+IWUE-Applied (kg/m³)
+
+ | 
+9
+ | 
+650
+ | 
+301.6
+ | 
+152.3
+ | 
+360.0
+ | 
+0.22
+ | 
+0.43
+ | 
+0.18
+
+ | 
+10
+ | 
+500
+ | 
+311.6
+ | 
+108.8
+ | 
+425.0
+ | 
+0.16
+ | 
+0.46
+ | 
+0.12
+
+ | 
+11
+ | 
+550
+ | 
+301.6
+ | 
+152.3
+ | 
+352.0
+ | 
+0.18
+ | 
+0.36
+ | 
+0.16
+
+ | 
+12
+ | 
+750
+ | 
+335.1
+ | 
+161.1
+ | 
+328.0
+ | 
+0.22
+ | 
+0.47
+ | 
+0.23
+
+ | 
+13
+ | 
+850
+ | 
+336.1
+ | 
+285.4
+ | 
+360.0
+ | 
+0.25
+ | 
+0.30
+ | 
+0.24
+
+ | 
+14
+ | 
+550
+ | 
+302.5
+ | 
+182.4
+ | 
+300.0
+ | 
+0.18
+ | 
+0.30
+ | 
+0.18
+
+ | 
+15
+ | 
+500
+ | 
+463.3
+ | 
+331.1
+ | 
+450.0
+ | 
+0.11
+ | 
+0.15
+ | 
+0.14
+
+ | 
+16
+ | 
+650
+ | 
+286.0
+ | 
+175.5
+ | 
+350.0
+ | 
+0.23
+ | 
+0.37
+ | 
+0.19
+
+ | 
+17
+ | 
+880
+ | 
+288.3
+ | 
+169.3
+ | 
+380.0
+ | 
+0.31
+ | 
+0.52
+ | 
+0.23
+
+ | 
+18
+ | 
+750
+ | 
+301.6
+ | 
+152.3
+ | 
+425.0
+ | 
+0.25
+ | 
+0.49
+ | 
+0.21
+
+ | 
+Mean ± SD
+ | 
+663.0 ± 131.5
+ | 
+466.1 ± 58.0
+ | 
+270.8 ± 62.3
+ | 
+187.1 ± 44.6
+ | 
+0.21 ± 0.06
+ | 
+0.39 ± 0.11
+ | 
+0.19 ± 0.04
+
+ | Note: See Table 2 notes. Sorghum showed high ETc variability (SD = 58.0 mm) owing to diverse planting dates across plots.
+
+Table 4
+
+Water productivity parameters for sesame (n = 10 plots)
+
+ | 
+Field No.
+ | 
+Yield (kg/ha)
+ | 
+ETc (mm)
+ | 
+CWR (mm)
+ | 
+Water Applied (mm)
+ | 
+WUE (kg/m³)
+ | 
+IWUE-ETc (kg/m³)
+ | 
+IWUE-Applied (kg/m³)
+
+ | 
+19
+ | 
+524.3
+ | 
+307.9
+ | 
+197.6
+ | 
+255.0
+ | 
+0.17
+ | 
+0.27
+ | 
+0.20
+
+ | 
+20
+ | 
+515.5
+ | 
+318.3
+ | 
+194.3
+ | 
+360.0
+ | 
+0.16
+ | 
+0.27
+ | 
+0.14
+
+ | 
+21
+ | 
+533.2
+ | 
+322.1
+ | 
+203.0
+ | 
+390.0
+ | 
+0.17
+ | 
+0.26
+ | 
+0.14
+
+ | 
+22
+ | 
+542.3
+ | 
+338.0
+ | 
+237.3
+ | 
+440.0
+ | 
+0.16
+ | 
+0.23
+ | 
+0.12
+
+ | 
+23
+ | 
+365.9
+ | 
+338.0
+ | 
+237.6
+ | 
+450.0
+ | 
+0.10
+ | 
+0.15
+ | 
+0.08
+
+ | 
+24
+ | 
+450.0
+ | 
+338.9
+ | 
+250.6
+ | 
+475.0
+ | 
+0.13
+ | 
+0.18
+ | 
+0.09
+
+ | 
+25
+ | 
+341.5
+ | 
+335.7
+ | 
+224.6
+ | 
+400.5
+ | 
+0.10
+ | 
+0.15
+ | 
+0.09
+
+ | 
+26
+ | 
+450.0
+ | 
+331.5
+ | 
+211.7
+ | 
+440.0
+ | 
+0.14
+ | 
+0.21
+ | 
+0.10
+
+ | 
+27
+ | 
+440.0
+ | 
+337.5
+ | 
+233.3
+ | 
+420.0
+ | 
+0.13
+ | 
+0.19
+ | 
+0.10
+
+ | 
+28
+ | 
+550.0
+ | 
+336.9
+ | 
+263.8
+ | 
+520.0
+ | 
+0.16
+ | 
+0.23
+ | 
+0.11
+
+ | 
+Mean ± SD
+ | 
+471.3 ± 69.9
+ | 
+330.5 ± 10.3
+ | 
+225.4 ± 22.8
+ | 
+415.1 ± 74.5
+ | 
+0.14 ± 0.03
+ | 
+0.21 ± 0.04
+ | 
+0.11 ± 0.04
+
+ | Note: Sesame showed the lowest WUE of all crops; over-irrigation (> 80% excess above CWR) was identified as a key constraint.
+
+Table 5
+
+Water productivity parameters for tomato (n = 10 plots)
+
+ | 
+Field No.
+ | 
+Yield (kg/ha)
+ | 
+ETc (mm)
+ | 
+CWR (mm)
+ | 
+Water Applied (mm)
+ | 
+WUE (kg/m³)
+ | 
+IWUE-ETc (kg/m³)
+ | 
+IWUE-Applied (kg/m³)
+
+ | 
+29
+ | 
+1,550
+ | 
+486.1
+ | 
+423.1
+ | 
+600.0
+ | 
+0.32
+ | 
+0.37
+ | 
+0.25
+
+ | 
+30
+ | 
+1,430
+ | 
+488.0
+ | 
+430.1
+ | 
+500.0
+ | 
+0.29
+ | 
+0.32
+ | 
+0.28
+
+ | 
+31
+ | 
+1,520
+ | 
+483.4
+ | 
+410.3
+ | 
+525.0
+ | 
+0.31
+ | 
+0.37
+ | 
+0.29
+
+ | 
+32
+ | 
+1,440
+ | 
+490.1
+ | 
+437.4
+ | 
+600.0
+ | 
+0.29
+ | 
+0.33
+ | 
+0.24
+
+ | 
+33
+ | 
+1,528
+ | 
+484.5
+ | 
+416.4
+ | 
+580.0
+ | 
+0.32
+ | 
+0.37
+ | 
+0.26
+
+ | 
+34
+ | 
+1,565
+ | 
+484.3
+ | 
+410.1
+ | 
+750.0
+ | 
+0.32
+ | 
+0.38
+ | 
+0.21
+
+ | 
+35
+ | 
+1,436
+ | 
+485.4
+ | 
+422.4
+ | 
+650.0
+ | 
+0.30
+ | 
+0.34
+ | 
+0.22
+
+ | 
+36
+ | 
+1,400
+ | 
+475.9
+ | 
+359.6
+ | 
+750.0
+ | 
+0.29
+ | 
+0.39
+ | 
+0.19
+
+ | 
+37
+ | 
+1,530
+ | 
+446.5
+ | 
+309.7
+ | 
+650.0
+ | 
+0.34
+ | 
+0.49
+ | 
+0.24
+
+ | 
+38
+ | 
+1,578
+ | 
+479.3
+ | 
+382.9
+ | 
+580.0
+ | 
+0.32
+ | 
+0.41
+ | 
+0.27
+
+ | 
+Mean ± SD
+ | 
+1,500.8 ± 56.3
+ | 
+433.3 ± 12.1
+ | 
+391.0 ± 39.2
+ | 
+616.8 ± 87.0
+ | 
+0.31 ± 0.02
+ | 
+0.39 ± 0.05
+ | 
+0.25 ± 0.03
+
+ | Note: Tomato IWUE (0.25 kg m⁻³) is dramatically below the FAO benchmark of 10–12 kg m⁻³, reflecting both low yield and excessive over-irrigation.
+
+Table 6
+
+Water productivity parameters for banana (n = 9 plots)
+
+ | 
+Field No.
+ | 
+Yield (kg/ha)
+ | 
+ETc (mm)
+ | 
+CWR (mm)
+ | 
+Water Applied (mm)
+ | 
+WUE (kg/m³)
+ | 
+IWUE-ETc (kg/m³)
+ | 
+IWUE-Applied (kg/m³)
+
+ | 
+39
+ | 
+17,340
+ | 
+889.4
+ | 
+614.0
+ | 
+1,080.0
+ | 
+1.95
+ | 
+2.82
+ | 
+1.61
+
+ | 
+40
+ | 
+17,399
+ | 
+890.6
+ | 
+615.6
+ | 
+1,200.0
+ | 
+1.95
+ | 
+2.83
+ | 
+1.45
+
+ | 
+41
+ | 
+17,550
+ | 
+893.3
+ | 
+618.0
+ | 
+1,260.0
+ | 
+1.96
+ | 
+2.84
+ | 
+1.39
+
+ | 
+42
+ | 
+17,607
+ | 
+897.5
+ | 
+663.6
+ | 
+1,100.0
+ | 
+1.96
+ | 
+2.65
+ | 
+1.61
+
+ | 
+43
+ | 
+17,550
+ | 
+889.8
+ | 
+614.4
+ | 
+1,560.0
+ | 
+1.97
+ | 
+2.86
+ | 
+1.13
+
+ | 
+44
+ | 
+17,622
+ | 
+892.2
+ | 
+611.1
+ | 
+1,080.0
+ | 
+1.99
+ | 
+2.88
+ | 
+1.63
+
+ | 
+45
+ | 
+17,635
+ | 
+899.0
+ | 
+630.9
+ | 
+2,160.0
+ | 
+1.96
+ | 
+2.80
+ | 
+0.82
+
+ | 
+46
+ | 
+17,649
+ | 
+890.0
+ | 
+610.1
+ | 
+1,430.0
+ | 
+1.98
+ | 
+2.89
+ | 
+1.23
+
+ | 
+47
+ | 
+17,815
+ | 
+899.4
+ | 
+642.7
+ | 
+960.0
+ | 
+1.98
+ | 
+2.77
+ | 
+1.86
+
+ | 
+Mean ± SD
+ | 
+17,574.1 ± 140.6
+ | 
+893.5 ± 3.9
+ | 
+624.5 ± 19.3
+ | 
+1,314.0 ± 362.5
+ | 
+1.97 ± 0.01
+ | 
+2.82 ± 0.04
+ | 
+1.41 ± 0.32
+
+ | Note: Banana applied water variability (SD = 362.5 mm) is large, reflecting highly inconsistent irrigation scheduling across farms. Field 45 received 2,160 mm — 3.5× the CROPWAT estimate.
+
+Additional Declarations
+
+No competing interests reported.
+
+Cite
+
+Share
+
+Download PDF
+
+Status:
+
+Posted
+
+Version 1
+
+posted 
+
+You are reading this latest preprint version
+
+Research Square lets you share your work early, gain feedback from the community, and start making changes to your manuscript prior to peer review in a journal.
+
+As a division of Research Square Company, we’re committed to making research communication faster, fairer, and more useful. We do this by developing innovative software and high quality services for the global research community. Our growing team is made up of researchers and industry professionals working together to solve the most critical problems facing scientific publishing.
+
+Also discoverable on
+
+Platform
+
+About
+
+In Review
+
+Editorial Policies
+
+Help Center
+
+Resources
+
+Author Services
+
+Accessibility
+
+API Access
+
+RSS feed
+
+Manage Cookie Preferences
+
+© Research Square 2026 | ISSN 2693-5015 (online) 
+Privacy PolicyTerms of ServiceDo Not Sell My Personal Information

@@ -53,9 +53,9 @@ class TestAccounting(unittest.TestCase):
         self.assertAlmostEqual(half["c1.investment.cumulative"]["value"], full["c1.investment.cumulative"]["value"])
 
     def test_minigrid_output_is_not_counted_as_gdp(self):
-        aid = aid_for("minigrid.pv_mw")
-        a = engine.compute("base", ROOT, {aid: 10})
-        b = engine.compute("base", ROOT, {aid: 60})
+        aid = aid_for("minigrid.solar_share")
+        a = engine.compute("base", ROOT, {aid: 0.5})
+        b = engine.compute("base", ROOT, {aid: 0.85})
         self.assertAlmostEqual(a["national.value_added.2032"]["value"], b["national.value_added.2032"]["value"])
         self.assertLess(a["climate.minigrid.avoided_t.2032"]["value"], b["climate.minigrid.avoided_t.2032"]["value"])
 
@@ -164,6 +164,15 @@ class TestAccounting(unittest.TestCase):
         self.assertAlmostEqual(a["national.total_va.2032"]["value"], b["national.total_va.2032"]["value"])
         self.assertLess(a["resilience.avoided_losses.2032"]["value"], b["resilience.avoided_losses.2032"]["value"])
         self.assertAlmostEqual(a["resilience.bcr"]["value"], b["resilience.bcr"]["value"])  # scale does not change the ratio
+
+    def test_pv_is_sized_to_park_demand(self):
+        lo = engine.compute("base", ROOT, {aid_for("garments.kwh_per_unit"): 1000})
+        hi = engine.compute("base", ROOT, {aid_for("garments.kwh_per_unit"): 3000})
+        self.assertLess(lo["climate.minigrid.pv_mw"]["value"], hi["climate.minigrid.pv_mw"]["value"])
+        self.assertAlmostEqual(lo["climate.minigrid.lcoe_usd_per_kwh"]["value"], hi["climate.minigrid.lcoe_usd_per_kwh"]["value"])
+        out = engine.compute("base", ROOT)
+        parts = sum(out[f"climate.minigrid.lcoe_{p}_usd_per_kwh"]["value"] for p in ("pv", "battery", "om"))
+        self.assertAlmostEqual(parts, out["climate.minigrid.lcoe_usd_per_kwh"]["value"])
 
 
 if __name__ == "__main__":

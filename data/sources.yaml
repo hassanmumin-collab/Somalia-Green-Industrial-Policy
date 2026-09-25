@@ -2552,3 +2552,33 @@
   extraction: text
   pages: 1
   notes: Geospatial reference layer (public domain). Somalia itself is drawn from S-159, not from this layer.
+- id: S-163
+  title: Solar irrigation doubles production and cuts costs for Afgoye farmers
+  publisher: Hiiraan Online (news report)
+  date_published: '2026-09-18'
+  url: https://www.hiiraan.com/news4/2026/Sep/206296/solar_irrigation_doubles_production_and_cuts_costs_for_afgoye_farmers.aspx
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-163_Hiiraan-2026-Afgoye-solar-irrigation.html
+  text_path: sources/text/S-163.txt
+  sha256: 27506f1a8ccae33bd57fe07e87f69f5c0e8b15ca6847bf9b64c6407ed6f7605f
+  tier: 4
+  language: en
+  coverage: Afgoye district, Lower Shabelle (individual farmers)
+  extraction: text
+  pages: 1
+  notes: News report quoting individual farmers; anecdotal, not a survey. Used only for farm-level illustrations, attributed in the text.
+- id: S-164
+  title: 'Water Use Efficiency of Irrigated Crops in Afgoi, Somalia: A Field and CROPWAT Analysis (preprint, version 1)'
+  publisher: Research Square (preprint server; not peer reviewed); authors Mohamed Hassan, Ahmed Mohamud and others
+  date_published: '2026-05-26'
+  url: https://www.researchsquare.com/article/rs-9812786/v1
+  accessed: '2026-09-25'
+  local_path: sources/raw/S-164_ResearchSquare-2026-Afgoi-water-use.html
+  text_path: sources/text/S-164.txt
+  sha256: c717ef2b5d18b95ad918d537702dd5d1d288bc68a8c58ebc884fa01f10e03ec7
+  tier: 5
+  language: en
+  coverage: Afgoi irrigation district, Lower Shabelle
+  extraction: text
+  pages: 1
+  notes: Preprint, not peer reviewed; its statements on barrages and diesel pumps cite FAO SWALIM (2020). Used only with attribution.

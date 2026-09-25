@@ -12,3 +12,82 @@
   rounding: 1
   measure: energy cost saving for park firms against diesel self-generation
   statement: "Energy cost saving for park firms against diesel self-generation in 2032 ({scenario} scenario, modelled estimate)."
+- output_key: climate.minigrid.pv_mw
+  scenario: base
+  unit: MW
+  rounding: 1
+  period: '2032'
+  measure: solar PV capacity for the parks, sized to demand
+  statement: "Solar PV capacity for the industrial parks, sized to the solar share of mature park demand ({scenario} scenario, modelled estimate)."
+- output_key: climate.minigrid.mature_demand_gwh
+  scenario: base
+  unit: GWh a year
+  rounding: 0
+  period: full build-out
+  measure: electricity demand of the parks at full build-out and mature utilisation
+  statement: "Electricity demand of the industrial parks at full build-out ({scenario} scenario, modelled estimate)."
+- output_key: climate.minigrid.lcoe_pv_usd_per_kwh
+  scenario: base
+  unit: USD per kWh
+  rounding: 3
+  period: '2032'
+  measure: PV capital component of the park solar levelised cost
+  statement: "PV capital component of the park solar-plus-storage levelised cost ({scenario} scenario, modelled estimate)."
+- output_key: climate.minigrid.lcoe_battery_usd_per_kwh
+  scenario: base
+  unit: USD per kWh
+  rounding: 3
+  period: '2032'
+  measure: battery capital component of the park solar levelised cost
+  statement: "Battery capital component of the park solar-plus-storage levelised cost ({scenario} scenario, modelled estimate)."
+- output_key: climate.minigrid.lcoe_om_usd_per_kwh
+  scenario: base
+  unit: USD per kWh
+  rounding: 3
+  period: '2032'
+  measure: operation and maintenance component of the park solar levelised cost
+  statement: "Operation and maintenance component of the park solar-plus-storage levelised cost ({scenario} scenario, modelled estimate)."
+- output_key: climate.minigrid.investment.cumulative
+  scenario: base
+  unit: USD million
+  rounding: 1
+  measure: capital cost of the park solar-plus-storage system, 2028 to 2032
+  statement: "Capital cost of the park solar-plus-storage system over 2028 to 2032 ({scenario} scenario, modelled estimate)."
+- output_key: climate.minigrid.avoided_t.2032
+  scenario: base
+  unit: t CO2 a year
+  rounding: 0
+  measure: emissions avoided by park solar against diesel generation
+  statement: "Emissions avoided by the park solar supply against diesel generation in 2032 ({scenario} scenario, modelled estimate)."
+- output_key: climate.minigrid.cost_per_t
+  scenario: base
+  unit: USD per t CO2
+  rounding: 0
+  period: '2032'
+  measure: abatement cost of park solar (negative means a saving)
+  statement: "Abatement cost of park solar against diesel generation ({scenario} scenario, modelled estimate); negative means a saving."
+- output_key: climate.irrigation.pumps
+  scenario: base
+  unit: pumps
+  rounding: 0
+  period: '2032'
+  measure: diesel irrigation pumps replaced by solar by 2032
+  statement: "Diesel irrigation pumps replaced by solar pumps by 2032 ({scenario} scenario, modelled estimate)."
+- output_key: climate.irrigation.fuel_saving.2032
+  scenario: base
+  unit: USD million a year
+  rounding: 1
+  measure: farmers' diesel saving from solar irrigation
+  statement: "Farmers' diesel saving from solar irrigation in 2032 ({scenario} scenario, modelled estimate)."
+- output_key: climate.irrigation.investment.cumulative
+  scenario: base
+  unit: USD million
+  rounding: 1
+  measure: investment in solar irrigation, 2028 to 2032
+  statement: "Investment in solar irrigation over 2028 to 2032 ({scenario} scenario, modelled estimate)."
+- output_key: climate.irrigation.avoided_t.2032
+  scenario: base
+  unit: t CO2 a year
+  rounding: 0
+  measure: emissions avoided by solar irrigation
+  statement: "Emissions avoided by solar irrigation in 2032 ({scenario} scenario, modelled estimate)."

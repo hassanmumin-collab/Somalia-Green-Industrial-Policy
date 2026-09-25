@@ -513,9 +513,54 @@
 - name: energy.diesel_ef_t_per_mwh
   ref: A-134
   direction: up
-- name: minigrid.pv_mw
-  ref: A-135
+- name: minigrid.solar_share
+  ref: A-218
   direction: up
+- name: meat.kwh_per_unit
+  ref: A-219
+  direction: none
+- name: tanning.kwh_per_unit
+  ref: A-220
+  direction: none
+- name: fish.kwh_per_unit
+  ref: A-221
+  direction: none
+- name: sesame.kwh_per_unit
+  ref: A-222
+  direction: none
+- name: sesame_oil.kwh_per_unit
+  ref: A-223
+  direction: none
+- name: fruit.kwh_per_unit
+  ref: A-224
+  direction: none
+- name: flour.kwh_per_unit
+  ref: A-225
+  direction: none
+- name: dairy.kwh_per_unit
+  ref: A-226
+  direction: none
+- name: soap.kwh_per_unit
+  ref: A-227
+  direction: none
+- name: diapers.kwh_per_unit
+  ref: A-228
+  direction: none
+- name: garments.kwh_per_unit
+  ref: A-229
+  direction: none
+- name: aromatics.kwh_per_unit
+  ref: A-230
+  direction: none
+- name: stoves.kwh_per_unit
+  ref: A-231
+  direction: none
+- name: pellets.kwh_per_unit
+  ref: A-232
+  direction: none
+- name: bpo.kwh_per_unit
+  ref: A-233
+  direction: none
 - name: minigrid.capacity_factor
   ref: A-136
   direction: up
